@@ -49,23 +49,23 @@
 
     (3) In June of each year the Director of the Administrative Office of the United States Courts shall transmit to the Congress a full and complete report concerning the number of applications for orders authorizing or approving the interception of wire, oral, or electronic communications pursuant to this chapter and the number of orders and extensions granted or denied pursuant to this chapter during the preceding calendar year. Such report shall include a summary and analysis of the data required to be filed with the Administrative Office by subsections (1) and (2) of this section. The Director of the Administrative Office of the United States Courts is authorized to issue binding regulations dealing with the content and form of the reports required to be filed by subsections (1) and (2) of this section.
 
-(Added [Pub. L. 90–351, title III, § 802][/us/pl/90/351/s802], June 19, 1968, [82 Stat. 222][/us/stat/82/222]; amended [Pub. L. 95–511, title II, § 201(h)][/us/pl/95/511/s201/h], Oct. 25, 1978, [92 Stat. 1798][/us/stat/92/1798]; [Pub. L. 99–508, title I][/us/pl/99/508], §§ 101(c)(1)(A), 106(d)(4), Oct. 21, 1986, [100 Stat. 1851][/us/stat/100/1851], 1857; [Pub. L. 106–197, § 2(a)][/us/pl/106/197/s2/a], May 2, 2000, [114 Stat. 247][/us/stat/114/247]; [Pub. L. 111–174, § 6][/us/pl/111/174/s6], May 27, 2010, [124 Stat. 1217][/us/stat/124/1217].)
+(Added [Pub. L. 90–351, title III][/us/pl/90/351/tIII], § 802, June 19, 1968, [82 Stat. 222][/us/stat/82/222]; amended [Pub. L. 95–511, title II][/us/pl/95/511/tII], § 201(h), Oct. 25, 1978, [92 Stat. 1798][/us/stat/92/1798]; [Pub. L. 99–508, title I][/us/pl/99/508/tI], §§ 101(c)(1)(A), 106(d)(4), Oct. 21, 1986, [100 Stat. 1851][/us/stat/100/1851], 1857; [Pub. L. 106–197][/us/pl/106/197], § 2(a), May 2, 2000, [114 Stat. 247][/us/stat/114/247]; [Pub. L. 111–174][/us/pl/111/174], § 6, May 27, 2010, [124 Stat. 1217][/us/stat/124/1217].)
 
  __Amendments__ 
 
-    2010—Par. (1). [Pub. L. 111–174, § 6(1)][/us/pl/111/174/s6/1], substituted “In January of each year, any judge who has issued an order (or an extension thereof) under section 2518 that expired during the preceding year, or who has denied approval of an interception during that year,” for “Within thirty days after the expiration of an order (or each extension thereof) entered under section 2518, or the denial of an order approving an interception, the issuing or denying judge” in introductory provisions.
+    2010—Par. (1). [Pub. L. 111–174][/us/pl/111/174], § 6(1), substituted “In January of each year, any judge who has issued an order (or an extension thereof) under section 2518 that expired during the preceding year, or who has denied approval of an interception during that year,” for “Within thirty days after the expiration of an order (or each extension thereof) entered under section 2518, or the denial of an order approving an interception, the issuing or denying judge” in introductory provisions.
 
-    Par. (2). [Pub. L. 111–174, § 6(2)][/us/pl/111/174/s6/2], substituted “In March of each year” for “In January of each year” in introductory provisions.
+    Par. (2). [Pub. L. 111–174][/us/pl/111/174], § 6(2), substituted “In March of each year” for “In January of each year” in introductory provisions.
 
-    Par. (3). [Pub. L. 111–174, § 6(3)][/us/pl/111/174/s6/3], substituted “In June of each year” for “In April of each year”.
+    Par. (3). [Pub. L. 111–174][/us/pl/111/174], § 6(3), substituted “In June of each year” for “In April of each year”.
 
     2000—Par. (2)(b)(iv), (v). [Pub. L. 106–197][/us/pl/106/197] added cl. (iv) and redesignated former cl. (iv) as (v).
 
-    1986—[Pub. L. 99–508, § 101(c)(1)(A)][/us/pl/99/508/s101/c/1/A], substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
+    1986—[Pub. L. 99–508][/us/pl/99/508], § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
 
-    Par. (1)(b). [Pub. L. 99–508, § 106(d)(4)][/us/pl/99/508/s106/d/4], inserted “(including whether or not the order was an order with respect to which the requirements of sections 2518(1)(b)(ii) and 2518(3)(d) of this title did not apply by reason of [section 2518(11) of this title][/us/usc/t18/s2518/11])”.
+    Par. (1)(b). [Pub. L. 99–508][/us/pl/99/508], § 106(d)(4), inserted “(including whether or not the order was an order with respect to which the requirements of sections 2518(1)(b)(ii) and 2518(3)(d) of this title did not apply by reason of [section 2518(11) of this title][/us/usc/t18/s2518/11])”.
 
-    Par. (3). [Pub. L. 99–508, § 101(c)(1)(A)][/us/pl/99/508/s101/c/1/A], substituted “wire, oral, or electronic” for “wire or oral”.
+    Par. (3). [Pub. L. 99–508][/us/pl/99/508], § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral”.
 
     1978—Par. (3). [Pub. L. 95–511][/us/pl/95/511] inserted “pursuant to this chapter” after “wire or oral communications” and “granted or denied”.
 
@@ -79,7 +79,7 @@
 
  __Report on Use of DCS 1000 (Carnivore) To Implement Orders Under Section 2518__ 
 
-[Pub. L. 107–273, div. A, title III, § 305(b)][/us/pl/107/273/s305/b], Nov. 2, 2002, [116 Stat. 1782][/us/stat/116/1782], provided that: 
+[Pub. L. 107–273, div. A, title III][/us/pl/107/273/dA/tIII], § 305(b), Nov. 2, 2002, [116 Stat. 1782][/us/stat/116/1782], provided that: 
 
 > “At the same time that the Attorney General, or Assistant Attorney General specially designated by the Attorney General, submits to the Administrative Office of the United States Courts the annual report required by [section 2519(2) of title 18][/us/usc/t18/s2519/2], United States Code, that is respectively next due after the end of each of the fiscal years 2002 and 2003, the Attorney General shall also submit to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives a report, covering the same respective time period, that contains the following information with respect to those orders described in that annual report that were applied for by law enforcement agencies of the Department of Justice and whose implementation involved the use of the DCS 1000 program (or any subsequent version of such program)—
 
@@ -119,7 +119,7 @@
 
  __Encryption Reporting Requirements__ 
 
-[Pub. L. 106–197, § 2(b)][/us/pl/106/197/s2/b], May 2, 2000, [114 Stat. 247][/us/stat/114/247], provided that: 
+[Pub. L. 106–197][/us/pl/106/197], § 2(b), May 2, 2000, [114 Stat. 247][/us/stat/114/247], provided that: 
 
 > “The encryption reporting requirement in subsection (a) \[amending this section\] shall be effective for the report transmitted by the Director of the Administrative Office of the Courts for calendar year 2000 and in subsequent reports.”
 
@@ -131,24 +131,24 @@
 ----------
 
 [/us/usc/t18/s2518/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2518%2F11
-[/us/pl/90/351/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs802
+[/us/pl/90/351/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtIII
 [/us/stat/82/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F222
-[/us/pl/95/511/s201/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs201%2Fh
+[/us/pl/95/511/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtII
 [/us/stat/92/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1798
-[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtI
 [/us/stat/100/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1851
-[/us/pl/106/197/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F197%2Fs2%2Fa
-[/us/stat/114/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F247
-[/us/pl/111/174/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F174%2Fs6
-[/us/stat/124/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1217
-[/us/pl/111/174/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F174%2Fs6%2F1
-[/us/pl/111/174/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F174%2Fs6%2F2
-[/us/pl/111/174/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F174%2Fs6%2F3
 [/us/pl/106/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F197
-[/us/pl/99/508/s101/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fc%2F1%2FA
-[/us/pl/99/508/s106/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs106%2Fd%2F4
+[/us/stat/114/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F247
+[/us/pl/111/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F174
+[/us/stat/124/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1217
+[/us/pl/111/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F174
+[/us/pl/111/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F174
+[/us/pl/111/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F174
+[/us/pl/106/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F197
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
 [/us/usc/t18/s2518/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2518%2F11
-[/us/pl/99/508/s101/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fc%2F1%2FA
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
 [/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
 [/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
 [/us/pl/99/508/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs111
@@ -156,10 +156,10 @@
 [/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
 [/us/pl/95/511/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs401
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
-[/us/pl/107/273/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs305%2Fb
+[/us/pl/107/273/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIII
 [/us/stat/116/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1782
 [/us/usc/t18/s2519/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2519%2F2
-[/us/pl/106/197/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F197%2Fs2%2Fb
+[/us/pl/106/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F197
 [/us/stat/114/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F247
 
 

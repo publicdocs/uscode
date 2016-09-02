@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    1960—[Pub. L. 86–449, title II, § 202][/us/pl/86/449/s202], May 6, 1960, [74 Stat. 87][/us/stat/74/87], added item 1074.
+    1960—[Pub. L. 86–449, title II][/us/pl/86/449/tII], § 202, May 6, 1960, [74 Stat. 87][/us/stat/74/87], added item 1074.
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/86/449/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F449%2Fs202
+[/us/pl/86/449/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F449%2FtII
 [/us/stat/74/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F87
 
 

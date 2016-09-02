@@ -17,7 +17,7 @@
 
     An indictment for any offense punishable by death may be found at any time without limitation.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 827][/us/stat/62/827]; [Pub. L. 103–322, title XXXIII, § 330004(16)][/us/pl/103/322/s330004/16], Sept. 13, 1994, [108 Stat. 2142][/us/stat/108/2142].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 827][/us/stat/62/827]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330004(16), Sept. 13, 1994, [108 Stat. 2142][/us/stat/108/2142].)
 
  __Historical and Revision Notes__ 
 
@@ -38,7 +38,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F827
-[/us/pl/103/322/s330004/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330004%2F16
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2142
 [/us/act/1939-08-04/ch419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-04%2Fch419
 [/us/stat/53/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1198

@@ -29,7 +29,7 @@
 
         Any payment for a health care item or service made pursuant to this subsection, shall be deemed to be full and final payment.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 848][/us/stat/62/848]; [Pub. L. 106–113, div. B, § 1000(a)(1)][/us/pl/106/113/s1000/a/1] \[title I, § 114\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–20; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title VI, § 626\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–108; [Pub. L. 109–162, title XI, § 1157][/us/pl/109/162/s1157], Jan. 5, 2006, [119 Stat. 3114][/us/stat/119/3114].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 848][/us/stat/62/848]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(1) \[title I, § 114\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–20; [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title VI, § 626\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–108; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1157, Jan. 5, 2006, [119 Stat. 3114][/us/stat/119/3114].)
 
  __Historical and Revision Notes__ 
 
@@ -45,9 +45,9 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–162, § 1157(1)][/us/pl/109/162/s1157/1], inserted “or the Secretary of Homeland Security, as applicable,” after “The Attorney General”.
+    2006—Subsec. (a). [Pub. L. 109–162][/us/pl/109/162], § 1157(1), inserted “or the Secretary of Homeland Security, as applicable,” after “The Attorney General”.
 
-    Subsec. (b)(1). [Pub. L. 109–162, § 1157(2)][/us/pl/109/162/s1157/2], substituted “the Department of Homeland Security” for “the Immigration and Naturalization Service”, “shall be the amount billed, not to exceed the amount” for “shall not exceed the lesser of the amount”, and “items and services under the Medicare program” for “items and services under—
+    Subsec. (b)(1). [Pub. L. 109–162][/us/pl/109/162], § 1157(2), substituted “the Department of Homeland Security” for “the Immigration and Naturalization Service”, “shall be the amount billed, not to exceed the amount” for “shall not exceed the lesser of the amount”, and “items and services under the Medicare program” for “items and services under—
 
     “(A) the Medicare program”
 
@@ -66,19 +66,19 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F848
-[/us/pl/106/113/s1000/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F1
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/109/162/s1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1157
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3114
 [/us/act/1911-03-02/ch192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-02%2Fch192
 [/us/stat/36/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1003
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/109/162/s1157/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1157%2F1
-[/us/pl/109/162/s1157/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1157%2F2
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 

@@ -19,7 +19,7 @@
 
     (b) No prosecution may be commenced against a person under this section if a foreign government, in accordance with jurisdiction recognized by the United States, has prosecuted or is prosecuting such person for the conduct constituting such offense, except upon the approval of the Attorney General or the Deputy Attorney General (or a person acting in either such capacity), which function of approval may not be delegated.
 
-(Added [Pub. L. 109–164, title I, § 103(a)(1)][/us/pl/109/164/s103/a/1], Jan. 10, 2006, [119 Stat. 3562][/us/stat/119/3562].)
+(Added [Pub. L. 109–164, title I][/us/pl/109/164/tI], § 103(a)(1), Jan. 10, 2006, [119 Stat. 3562][/us/stat/119/3562].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/109/164/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs103%2Fa%2F1
+[/us/pl/109/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2FtI
 [/us/stat/119/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3562
 
 

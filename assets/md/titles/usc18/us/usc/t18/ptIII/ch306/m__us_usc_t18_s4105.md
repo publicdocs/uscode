@@ -29,7 +29,7 @@
 
         (4) Any sentence for an offense against the United States, imposed while the transferred offender is serving the sentence of imprisonment imposed in a foreign country, shall be aggregated with the foreign sentence, in the same manner as if the foreign sentence was one imposed by a United States district court for an offense against the United States.
 
-(Added [Pub. L. 95–144, § 1][/us/pl/95/144/s1], Oct. 28, 1977, [91 Stat. 1215][/us/stat/91/1215]; amended [Pub. L. 98–473, title II, § 223(m)(2)][/us/pl/98/473/s223/m/2], Oct. 12, 1984, [98 Stat. 2029][/us/stat/98/2029].)
+(Added [Pub. L. 95–144][/us/pl/95/144], § 1, Oct. 28, 1977, [91 Stat. 1215][/us/stat/91/1215]; amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 223(m)(2), Oct. 12, 1984, [98 Stat. 2029][/us/stat/98/2029].)
 
  __Amendments__ 
 
@@ -60,9 +60,9 @@
 [/us/usc/t18/s3624/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3624%2Fa
 [/us/usc/t18/s3624/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3624%2Fb
 [/us/usc/t18/s3624/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3624%2Fb
-[/us/pl/95/144/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144%2Fs1
+[/us/pl/95/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144
 [/us/stat/91/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1215
-[/us/pl/98/473/s223/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs223%2Fm%2F2
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2029
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473

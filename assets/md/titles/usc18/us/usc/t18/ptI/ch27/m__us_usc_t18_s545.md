@@ -27,7 +27,7 @@
 
     The term “United States”, as used in this section, shall not include the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or Guam.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 716][/us/stat/62/716]; [Aug. 24, 1954, ch. 890, § 1][/us/act/1954-08-24/ch890/s1], [68 Stat. 782][/us/stat/68/782]; [Sept. 1, 1954, ch. 1213][/us/act/1954-09-01/ch1213], title V, § 507, [68 Stat. 1141][/us/stat/68/1141]; [June 30, 1955, ch. 258, § 2(c)][/us/act/1955-06-30/ch258/s2/c], [69 Stat. 242][/us/stat/69/242]; [Pub. L. 103–322, title XXXII, § 320903(c)][/us/pl/103/322/s320903/c], title XXXIII, §§ 330004(18), 330016(1)(L), Sept. 13, 1994, [108 Stat. 2125][/us/stat/108/2125], 2142, 2147; [Pub. L. 104–294, title VI, § 604(b)(23)][/us/pl/104/294/s604/b/23], Oct. 11, 1996, [110 Stat. 3508][/us/stat/110/3508]; [Pub. L. 109–177, title III, § 310][/us/pl/109/177/s310], Mar. 9, 2006, [120 Stat. 242][/us/stat/120/242].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 716][/us/stat/62/716]; [Aug. 24, 1954, ch. 890][/us/act/1954-08-24/ch890], § 1, [68 Stat. 782][/us/stat/68/782]; [Sept. 1, 1954, ch. 1213][/us/act/1954-09-01/ch1213], title V, § 507, [68 Stat. 1141][/us/stat/68/1141]; [June 30, 1955, ch. 258][/us/act/1955-06-30/ch258], § 2(c), [69 Stat. 242][/us/stat/69/242]; [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320903(c), title XXXIII, §§ 330004(18), 330016(1)(L), Sept. 13, 1994, [108 Stat. 2125][/us/stat/108/2125], 2142, 2147; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(23), Oct. 11, 1996, [110 Stat. 3508][/us/stat/110/3508]; [Pub. L. 109–177, title III][/us/pl/109/177/tIII], § 310, Mar. 9, 2006, [120 Stat. 242][/us/stat/120/242].)
 
  __Historical and Revision Notes__ 
 
@@ -51,13 +51,13 @@
 
     2006—[Pub. L. 109–177][/us/pl/109/177], which directed amendment of third par. by substituting “20 years” for “5 years”, was executed by making the substitution for “five years”, to reflect the probable intent of Congress.
 
-    1996—[Pub. L. 104–294][/us/pl/104/294] amended [Pub. L. 103–322, § 330004(18)][/us/pl/103/322/s330004/18]. See 1994 Amendment note below.
+    1996—[Pub. L. 104–294][/us/pl/104/294] amended [Pub. L. 103–322][/us/pl/103/322], § 330004(18). See 1994 Amendment note below.
 
-    1994—[Pub. L. 103–322, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], substituted “fined under this title” for “fined not more than $10,000” in third par.
+    1994—[Pub. L. 103–322][/us/pl/103/322], § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” in third par.
 
-    [Pub. L. 103–322, § 330004(18)][/us/pl/103/322/s330004/18], as amended by [Pub. L. 104–294, § 604(b)(23)][/us/pl/104/294/s604/b/23], struck out “Philippine Islands,” before “Virgin Islands” in last par.
+    [Pub. L. 103–322][/us/pl/103/322], § 330004(18), as amended by [Pub. L. 104–294][/us/pl/104/294], § 604(b)(23), struck out “Philippine Islands,” before “Virgin Islands” in last par.
 
-    [Pub. L. 103–322, § 320903(c)][/us/pl/103/322/s320903/c], inserted “or attempts to smuggle or clandestinely introduce” after “clandestinely introduces” in first par.
+    [Pub. L. 103–322][/us/pl/103/322], § 320903(c), inserted “or attempts to smuggle or clandestinely introduce” after “clandestinely introduces” in first par.
 
     1955—Act June 30, 1955, inserted reference to Johnston Island.
 
@@ -75,7 +75,7 @@
 
  __Effective Date of 1954 Amendment__ 
 
-[Act Aug. 24, 1954, ch. 890, § 2][/us/act/1954-08-24/ch890/s2], [68 Stat. 783][/us/stat/68/783], provided that: 
+[Act Aug. 24, 1954, ch. 890][/us/act/1954-08-24/ch890], § 2, [68 Stat. 783][/us/stat/68/783], provided that: 
 
 > “The amendments made by the first section of this Act \[amending this section\] shall apply only with respect to offenses committed on and after the date of the enactment of this Act \[Aug. 24, 1954\].”
 
@@ -88,17 +88,17 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F716
-[/us/act/1954-08-24/ch890/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-24%2Fch890%2Fs1
+[/us/act/1954-08-24/ch890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-24%2Fch890
 [/us/stat/68/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F782
 [/us/act/1954-09-01/ch1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1213
 [/us/stat/68/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1141
-[/us/act/1955-06-30/ch258/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-30%2Fch258%2Fs2%2Fc
+[/us/act/1955-06-30/ch258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-30%2Fch258
 [/us/stat/69/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F242
-[/us/pl/103/322/s320903/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320903%2Fc
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2125
-[/us/pl/104/294/s604/b/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F23
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3508
-[/us/pl/109/177/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs310
+[/us/pl/109/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIII
 [/us/stat/120/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F242
 [/us/usc/t19/s1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1593
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
@@ -108,16 +108,16 @@
 [/us/usc/t19/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1709
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
-[/us/pl/103/322/s330004/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330004%2F18
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
-[/us/pl/103/322/s330004/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330004%2F18
-[/us/pl/104/294/s604/b/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F23
-[/us/pl/103/322/s320903/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320903%2Fc
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/104/294/s604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fd
 [/us/usc/t18/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs13
 [/us/usc/t19/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401
-[/us/act/1954-08-24/ch890/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-24%2Fch890%2Fs2
+[/us/act/1954-08-24/ch890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-24%2Fch890
 [/us/stat/68/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F783
 
 

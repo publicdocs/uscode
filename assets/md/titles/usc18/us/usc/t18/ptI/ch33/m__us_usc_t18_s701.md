@@ -17,7 +17,7 @@
 
     Whoever manufactures, sells, or possesses any badge, identification card, or other insignia, of the design prescribed by the head of any department or agency of the United States for use by any officer or employee thereof, or any colorable imitation thereof, or photographs, prints, or in any other manner makes or executes any engraving, photograph, print, or impression in the likeness of any such badge, identification card, or other insignia, or any colorable imitation thereof, except as authorized under regulations made pursuant to law, shall be fined under this title or imprisoned not more than six months, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 731][/us/stat/62/731]; [Pub. L. 103–322, title XXXIII, § 330016(1)(E)][/us/pl/103/322/s330016/1/E], Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 731][/us/stat/62/731]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(E), Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
 
  __Historical and Revision Notes__ 
 
@@ -42,7 +42,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F731
-[/us/pl/103/322/s330016/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FE
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2146
 [/us/act/1932-06-29/ch306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-06-29%2Fch306
 [/us/stat/47/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F342

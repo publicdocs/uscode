@@ -17,7 +17,7 @@
 
     The Attorney General may, when authorized by law, acquire land adjacent to or in the vicinity of a Federal penal or correctional institution if he considers the additional land essential to the protection of the health or safety of the inmates of the institution.
 
-(Added [Pub. L. 89–554, § 3(f)][/us/pl/89/554/s3/f], Sept. 6, 1966, [80 Stat. 610][/us/stat/80/610].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 3(f), Sept. 6, 1966, [80 Stat. 610][/us/stat/80/610].)
 
 <table>
 
@@ -90,7 +90,7 @@ Sept. 16, 1959, Pub. L. 86–286, 73 Stat. 567.  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs3%2Ff
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F610
 
 

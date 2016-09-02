@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    1968—[Pub. L. 90–284, title I, § 104(a)][/us/pl/90/284/s104/a], Apr. 11, 1968, [82 Stat. 75][/us/stat/82/75], added chapter 102 and items 2101 and 2102.
+    1968—[Pub. L. 90–284, title I][/us/pl/90/284/tI], § 104(a), Apr. 11, 1968, [82 Stat. 75][/us/stat/82/75], added chapter 102 and items 2101 and 2102.
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/90/284/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs104%2Fa
+[/us/pl/90/284/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtI
 [/us/stat/82/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F75
 
 

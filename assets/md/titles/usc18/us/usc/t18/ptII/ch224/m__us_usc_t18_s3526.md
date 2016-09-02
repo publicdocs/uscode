@@ -25,7 +25,7 @@
 
         (2) the Attorney General shall enter into an agreement with that State government in which that government agrees to cooperate with the Attorney General in carrying out the provisions of this chapter with respect to all persons.
 
-(Added [Pub. L. 98–473, title II, § 1208][/us/pl/98/473/s1208], Oct. 12, 1984, [98 Stat. 2162][/us/stat/98/2162].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1208, Oct. 12, 1984, [98 Stat. 2162][/us/stat/98/2162].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/98/473/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1208
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2162
 
 

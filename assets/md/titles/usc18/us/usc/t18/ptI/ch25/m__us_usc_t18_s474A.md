@@ -33,7 +33,7 @@
 
             (B) which is not otherwise in commercial use or in the public domain and which the Secretary designates as being necessary in preventing the counterfeiting of obligations or other securities of the United States.
 
-(Added [Pub. L. 102–550, title XV, § 1553(a)][/us/pl/102/550/s1553/a], Oct. 28, 1992, [106 Stat. 4070][/us/stat/106/4070]; amended [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 648(a)\], title II, § 2603(a), Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–367, 3009–470.)
+(Added [Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1553(a), Oct. 28, 1992, [106 Stat. 4070][/us/stat/106/4070]; amended [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 648(a)\], title II, § 2603(a), Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–367, 3009–470.)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/102/550/s1553/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1553%2Fa
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4070
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208

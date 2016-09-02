@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on [section 695d of title 28][/us/usc/t28/s695d], U.S.C., 1940 ed., Judicial Code and Judiciary ([June 20, 1936, ch. 640, § 5][/us/act/1936-06-20/ch640/s5], [49 Stat. 1563][/us/stat/49/1563]).
+    Based on [section 695d of title 28][/us/usc/t28/s695d], U.S.C., 1940 ed., Judicial Code and Judiciary ([June 20, 1936, ch. 640][/us/act/1936-06-20/ch640], § 5, [49 Stat. 1563][/us/stat/49/1563]).
 
 ----------
 
@@ -35,7 +35,7 @@
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F835
 [/us/usc/t28/s695d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs695d
-[/us/act/1936-06-20/ch640/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch640%2Fs5
+[/us/act/1936-06-20/ch640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch640
 [/us/stat/49/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1563
 
 

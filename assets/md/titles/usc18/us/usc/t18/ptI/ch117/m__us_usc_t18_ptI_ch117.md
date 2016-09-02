@@ -91,15 +91,15 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–164, title I, § 103(d)(2)][/us/pl/109/164/s103/d/2], Jan. 10, 2006, [119 Stat. 3563][/us/stat/119/3563], added item 2428.
+    2006—[Pub. L. 109–164, title I][/us/pl/109/164/tI], § 103(d)(2), Jan. 10, 2006, [119 Stat. 3563][/us/stat/119/3563], added item 2428.
 
-    1998—[Pub. L. 105–314, title I][/us/pl/105/314], §§ 101(b), 104(b), 105(b), Oct. 30, 1998, [112 Stat. 2975–2977][/us/stat/112/2975-2977], added items 2425, 2426, and 2427.
+    1998—[Pub. L. 105–314, title I][/us/pl/105/314/tI], §§ 101(b), 104(b), 105(b), Oct. 30, 1998, [112 Stat. 2975–2977][/us/stat/112/2975-2977], added items 2425, 2426, and 2427.
 
-    1988—[Pub. L. 100–690, title VII, § 7071][/us/pl/100/690/s7071], Nov. 18, 1988, [102 Stat. 4405][/us/stat/102/4405], substituted “individual” for “female” in item 2424.
+    1988—[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7071, Nov. 18, 1988, [102 Stat. 4405][/us/stat/102/4405], substituted “individual” for “female” in item 2424.
 
-    1986—[Pub. L. 99–628, § 5(a)(1)][/us/pl/99/628/s5/a/1], (b)(2), Nov. 7, 1986, [100 Stat. 3511][/us/stat/100/3511], substituted “TRANSPORTATION FOR ILLEGAL SEXUAL ACTIVITY AND RELATED CRIMES” for “WHITE SLAVE TRAFFIC” as chapter heading and substituted “and enticement” for “or enticement of female” in item 2422.
+    1986—[Pub. L. 99–628][/us/pl/99/628], § 5(a)(1), (b)(2), Nov. 7, 1986, [100 Stat. 3511][/us/stat/100/3511], substituted “TRANSPORTATION FOR ILLEGAL SEXUAL ACTIVITY AND RELATED CRIMES” for “WHITE SLAVE TRAFFIC” as chapter heading and substituted “and enticement” for “or enticement of female” in item 2422.
 
-    1978—[Pub. L. 95–225, § 3(b)][/us/pl/95/225/s3/b], Feb. 6, 1978, [92 Stat. 9][/us/stat/92/9], substituted “Transportation of minors” for “Coercion or enticement of minor female” in item 2423.
+    1978—[Pub. L. 95–225][/us/pl/95/225], § 3(b), Feb. 6, 1978, [92 Stat. 9][/us/stat/92/9], substituted “Transportation of minors” for “Coercion or enticement of minor female” in item 2423.
 
 ----------
 
@@ -108,15 +108,15 @@
 ----------
 ----------
 
-[/us/pl/109/164/s103/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs103%2Fd%2F2
+[/us/pl/109/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2FtI
 [/us/stat/119/3563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3563
-[/us/pl/105/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314
+[/us/pl/105/314/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2FtI
 [/us/stat/112/2975-2977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2975-2977
-[/us/pl/100/690/s7071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7071
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4405
-[/us/pl/99/628/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F628%2Fs5%2Fa%2F1
+[/us/pl/99/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F628
 [/us/stat/100/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3511
-[/us/pl/95/225/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F225%2Fs3%2Fb
+[/us/pl/95/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F225
 [/us/stat/92/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F9
 
 

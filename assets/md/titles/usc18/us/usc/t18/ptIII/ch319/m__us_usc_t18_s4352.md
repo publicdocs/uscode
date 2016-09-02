@@ -47,7 +47,7 @@
 
         (14) to procure the services of experts and consultants in accordance with [section 3109 of title 5][/us/usc/t5/s3109] of the United States Code, at rates of compensation not to exceed the daily equivalent of the rate authorized for GS–18 by [section 5332 of title 5][/us/usc/t5/s5332] of the United States Code.
 
-    \[(b) Repealed. [Pub. L. 97–375, title I, § 109(a)][/us/pl/97/375/s109/a], Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820].\]
+    \[(b) Repealed. [Pub. L. 97–375, title I][/us/pl/97/375/tI], § 109(a), Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820].\]
 
     (c) Each recipient of assistance under this chapter shall keep such records as the Institute shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
@@ -55,17 +55,17 @@
 
     (e) The provision of this section shall apply to all recipients of assistance under this title, whether by direct grant or contract from the Institute or by subgrant or subcontract from primary grantees or contractors of the Institute.
 
-(Added [Pub. L. 93–415, title V, § 521][/us/pl/93/415/s521], Sept. 7, 1974, [88 Stat. 1140][/us/stat/88/1140]; amended [Pub. L. 97–375, title I, § 109(a)][/us/pl/97/375/s109/a], Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820]; [Pub. L. 101–647, title XXXV, § 3599F][/us/pl/101/647/s3599F], Nov. 29, 1990, [104 Stat. 4932][/us/stat/104/4932]; [Pub. L. 111–211, title II, § 261(b)][/us/pl/111/211/s261/b], July 29, 2010, [124 Stat. 2299][/us/stat/124/2299].)
+(Added [Pub. L. 93–415, title V][/us/pl/93/415/tV], § 521, Sept. 7, 1974, [88 Stat. 1140][/us/stat/88/1140]; amended [Pub. L. 97–375, title I][/us/pl/97/375/tI], § 109(a), Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820]; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3599F, Nov. 29, 1990, [104 Stat. 4932][/us/stat/104/4932]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 261(b), July 29, 2010, [124 Stat. 2299][/us/stat/124/2299].)
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1), (3), (4). [Pub. L. 111–211, § 261(b)(1)][/us/pl/111/211/s261/b/1], inserted “tribal,” after “State,”.
+    2010—Subsec. (a)(1), (3), (4). [Pub. L. 111–211][/us/pl/111/211], § 261(b)(1), inserted “tribal,” after “State,”.
 
-    Subsec. (a)(6). [Pub. L. 111–211, § 261(b)(2)][/us/pl/111/211/s261/b/2], inserted “and tribal communities,” after “States” and “, tribal,” after “State”.
+    Subsec. (a)(6). [Pub. L. 111–211][/us/pl/111/211], § 261(b)(2), inserted “and tribal communities,” after “States” and “, tribal,” after “State”.
 
-    Subsec. (a)(8). [Pub. L. 111–211, § 261(b)(1)][/us/pl/111/211/s261/b/1], inserted “tribal,” after “State,”.
+    Subsec. (a)(8). [Pub. L. 111–211][/us/pl/111/211], § 261(b)(1), inserted “tribal,” after “State,”.
 
-    Subsec. (a)(12). [Pub. L. 111–211, § 261(b)(3)][/us/pl/111/211/s261/b/3], inserted “, tribal,” after “State”.
+    Subsec. (a)(12). [Pub. L. 111–211][/us/pl/111/211], § 261(b)(3), inserted “, tribal,” after “State”.
 
     1990—Subsec. (c). [Pub. L. 101–647][/us/pl/101/647] substituted “this chapter shall” for “this shall”.
 
@@ -73,7 +73,7 @@
 
  __Inclusion of National Institute of Corrections in Federal Prison System Salaries and Expenses Budget__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a], \[title I\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–11, provided in part: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a), \[title I\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–11, provided in part: 
 
 > “That the National Institute of Corrections hereafter shall be included in the FPS Salaries and Expenses budget, in the Contract Confinement program and shall continue to perform its current functions under [18 U.S.C. 4351][/us/usc/t18/s4351], et seq., with the exception of its grant program and shall collect reimbursement for services whenever possible”.
 
@@ -83,7 +83,7 @@
 
  __National Training Center for Prison Drug Rehabilitation Program Personnel__ 
 
-[Pub. L. 100–690, title VI, § 6292][/us/pl/100/690/s6292], Nov. 18, 1988, [102 Stat. 4369][/us/stat/102/4369], provided that:
+[Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6292, Nov. 18, 1988, [102 Stat. 4369][/us/stat/102/4369], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -110,28 +110,28 @@
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/97/375/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs109%2Fa
+[/us/pl/97/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtI
 [/us/stat/96/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1820
-[/us/pl/93/415/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs521
+[/us/pl/93/415/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV
 [/us/stat/88/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1140
-[/us/pl/97/375/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs109%2Fa
+[/us/pl/97/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtI
 [/us/stat/96/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1820
-[/us/pl/101/647/s3599F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3599F
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4932
-[/us/pl/111/211/s261/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs261%2Fb
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2299
-[/us/pl/111/211/s261/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs261%2Fb%2F1
-[/us/pl/111/211/s261/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs261%2Fb%2F2
-[/us/pl/111/211/s261/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs261%2Fb%2F1
-[/us/pl/111/211/s261/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs261%2Fb%2F3
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/97/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/usc/t18/s4351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4351
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/100/690/s6292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6292
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4369
 
 

@@ -35,7 +35,7 @@
 
         (3) the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 721][/us/stat/62/721]; [Pub. L. 94–453, § 1][/us/pl/94/453/s1], Oct. 2, 1976, [90 Stat. 1516][/us/stat/90/1516]; [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 721][/us/stat/62/721]; [Pub. L. 94–453][/us/pl/94/453], § 1, Oct. 2, 1976, [90 Stat. 1516][/us/stat/90/1516]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
@@ -62,9 +62,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F721
-[/us/pl/94/453/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F453%2Fs1
+[/us/pl/94/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F453
 [/us/stat/90/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1516
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/stat/53/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1147
 [/us/usc/t18/s61h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs61h

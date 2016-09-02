@@ -29,7 +29,7 @@
 
     (d) Whoever knowingly transports from the United States and its territories a person in foreign commerce for the purpose of conduct with regard to that person that would be a violation of subsection (a) if the conduct occurred within the United States, or attempts to do so, shall be fined under this title or imprisoned not more than 5 years, or both.
 
-(Added [Pub. L. 104–208, div. C, title VI, § 645(b)(1)][/us/pl/104/208/s645/b/1], Sept. 30, 1996, [110 Stat. 3009–709][/us/stat/110/3009-709]; amended [Pub. L. 112–239, div. A, title X, § 1088][/us/pl/112/239/s1088], Jan. 2, 2013, [126 Stat. 1970][/us/stat/126/1970].)
+(Added [Pub. L. 104–208, div. C, title VI][/us/pl/104/208/dC/tVI], § 645(b)(1), Sept. 30, 1996, [110 Stat. 3009–709][/us/stat/110/3009-709]; amended [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1088, Jan. 2, 2013, [126 Stat. 1970][/us/stat/126/1970].)
 
  __Amendments__ 
 
@@ -37,13 +37,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–208, div. C, title VI, § 645(c)][/us/pl/104/208/s645/c], Sept. 30, 1996, [110 Stat. 3009–709][/us/stat/110/3009-709], provided that: 
+[Pub. L. 104–208, div. C, title VI][/us/pl/104/208/dC/tVI], § 645(c), Sept. 30, 1996, [110 Stat. 3009–709][/us/stat/110/3009-709], provided that: 
 
 > “The amendments made by subsection (b) \[enacting this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
  __Congressional Findings__ 
 
-[Pub. L. 104–208, div. C, title VI, § 645(a)][/us/pl/104/208/s645/a], Sept. 30, 1996, [110 Stat. 3009–708][/us/stat/110/3009-708], provided that: 
+[Pub. L. 104–208, div. C, title VI][/us/pl/104/208/dC/tVI], § 645(a), Sept. 30, 1996, [110 Stat. 3009–708][/us/stat/110/3009-708], provided that: 
 
 > “The Congress finds that—
 
@@ -66,14 +66,14 @@
 ----------
 ----------
 
-[/us/pl/104/208/s645/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs645%2Fb%2F1
+[/us/pl/104/208/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtVI
 [/us/stat/110/3009-709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-709
-[/us/pl/112/239/s1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1088
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1970
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/104/208/s645/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs645%2Fc
+[/us/pl/104/208/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtVI
 [/us/stat/110/3009-709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-709
-[/us/pl/104/208/s645/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs645%2Fa
+[/us/pl/104/208/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtVI
 [/us/stat/110/3009-708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-708
 
 

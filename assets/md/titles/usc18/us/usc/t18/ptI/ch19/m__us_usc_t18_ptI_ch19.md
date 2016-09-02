@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–473, title II, § 1003(b)][/us/pl/98/473/s1003/b], Oct. 12, 1984, [98 Stat. 2138][/us/stat/98/2138], added item 373.
+    1984—[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1003(b), Oct. 12, 1984, [98 Stat. 2138][/us/stat/98/2138], added item 373.
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/98/473/s1003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1003%2Fb
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2138
 
 

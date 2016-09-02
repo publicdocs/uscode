@@ -47,7 +47,7 @@
 
     (d) Whoever violates this section shall be punished by a fine under this title or imprisonment for not more than five years, or both.
 
-(Added [Pub. L. 91–452, title VIII, § 802(a)][/us/pl/91/452/s802/a], Oct. 15, 1970, [84 Stat. 936][/us/stat/84/936]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–322, title XXXIII, § 330016(2)(C)][/us/pl/103/322/s330016/2/C], Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148].)
+(Added [Pub. L. 91–452, title VIII][/us/pl/91/452/tVIII], § 802(a), Oct. 15, 1970, [84 Stat. 936][/us/stat/84/936]; amended [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(2)(C), Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148].)
 
  __References in Text__ 
 
@@ -61,13 +61,13 @@
 
  __Congressional Statement of Findings__ 
 
-[Pub. L. 91–452, title VIII, § 801][/us/pl/91/452/s801], Oct. 15, 1970, [84 Stat. 936][/us/stat/84/936], provided that: 
+[Pub. L. 91–452, title VIII][/us/pl/91/452/tVIII], § 801, Oct. 15, 1970, [84 Stat. 936][/us/stat/84/936], provided that: 
 
 > “The Congress finds that illegal gambling involves widespread use of, and has an effect upon, interstate commerce and the facilities thereof.”
 
  __Priority of State Laws__ 
 
-[Pub. L. 91–452, title VIII, § 811][/us/pl/91/452/s811], Oct. 15, 1970, [84 Stat. 940][/us/stat/84/940], provided that: 
+[Pub. L. 91–452, title VIII][/us/pl/91/452/tVIII], § 811, Oct. 15, 1970, [84 Stat. 940][/us/stat/84/940], provided that: 
 
 > “No provision of this title \[enacting this section and [section 1955 of this title][/us/usc/t18/s1955], amending [section 2516 of this title][/us/usc/t18/s2516], and enacting provisions set out as notes under this section and [section 1955 of this title][/us/usc/t18/s1955]\] indicates an intent on the part of the Congress to occupy the field in which such provision operates to the exclusion of the law of a state or possession, or a political subdivision of a State or possession, on the same subject matter, or to relieve any person of any obligation imposed by any law of any State or possession, or political subdivision of a State or possession.”
 
@@ -78,18 +78,18 @@
 ----------
 ----------
 
-[/us/pl/91/452/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs802%2Fa
+[/us/pl/91/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtVIII
 [/us/stat/84/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F936
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/103/322/s330016/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F2%2FC
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2148
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/91/452/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs801
+[/us/pl/91/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtVIII
 [/us/stat/84/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F936
-[/us/pl/91/452/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs811
+[/us/pl/91/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtVIII
 [/us/stat/84/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F940
 [/us/usc/t18/s1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1955
 [/us/usc/t18/s2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2516

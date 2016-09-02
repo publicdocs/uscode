@@ -127,11 +127,11 @@
 
         (14) “vessel of the United States” has the meaning given that term in [section 70502 of title 46][/us/usc/t46/s70502].
 
-(Added [Pub. L. 114–23, title VIII, § 811(a)][/us/pl/114/23/s811/a], June 2, 2015, [129 Stat. 309][/us/stat/129/309].)
+(Added [Pub. L. 114–23, title VIII][/us/pl/114/23/tVIII], § 811(a), June 2, 2015, [129 Stat. 309][/us/stat/129/309].)
 
  __References in Text__ 
 
-    [Section 831(f) of this title][/us/usc/t18/s831/f], referred to in subsec. (e)(3), (7), (9), was redesignated section 831(g) by [Pub. L. 114–23, title VIII, § 812(d)][/us/pl/114/23/s812/d], June 2, 2015, [129 Stat. 312][/us/stat/129/312].
+    [Section 831(f) of this title][/us/usc/t18/s831/f], referred to in subsec. (e)(3), (7), (9), was redesignated section 831(g) by [Pub. L. 114–23, title VIII][/us/pl/114/23/tVIII], § 812(d), June 2, 2015, [129 Stat. 312][/us/stat/129/312].
 
     [Section 1502(19) of title 33][/us/usc/t33/s1502/19], referred to in subsec. (e)(13), probably should be a reference to section 3(19) of the Deepwater Port Act of 1974, which is classified to [section 1502(19) of Title 33][/us/usc/t33/s1502/19], Navigation and Navigable Waters.
 
@@ -151,10 +151,10 @@
 [/us/usc/t18/s2332f/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332f%2Fe%2F3
 [/us/usc/t33/s1502/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1502%2F19
 [/us/usc/t46/s70502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502
-[/us/pl/114/23/s811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs811%2Fa
+[/us/pl/114/23/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVIII
 [/us/stat/129/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F309
 [/us/usc/t18/s831/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs831%2Ff
-[/us/pl/114/23/s812/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812%2Fd
+[/us/pl/114/23/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVIII
 [/us/stat/129/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F312
 [/us/usc/t33/s1502/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1502%2F19
 [/us/usc/t33/s1502/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1502%2F19

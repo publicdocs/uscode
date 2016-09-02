@@ -33,15 +33,15 @@
 
         (3) a statement, however taken or recorded, or a transcription thereof, if any, made by said witness to a grand jury.
 
-(Added [Pub. L. 85–269][/us/pl/85/269], Sept. 2, 1957, [71 Stat. 595][/us/stat/71/595]; amended [Pub. L. 91–452, title I, § 102][/us/pl/91/452/s102], Oct. 15, 1970, [84 Stat. 926][/us/stat/84/926].)
+(Added [Pub. L. 85–269][/us/pl/85/269], Sept. 2, 1957, [71 Stat. 595][/us/stat/71/595]; amended [Pub. L. 91–452, title I][/us/pl/91/452/tI], § 102, Oct. 15, 1970, [84 Stat. 926][/us/stat/84/926].)
 
  __Amendments__ 
 
-    1970—Subsec. (a). [Pub. L. 91–452, § 102(a)][/us/pl/91/452/s102/a], struck out “to an agent of the Government” after “(other than the defendant)”.
+    1970—Subsec. (a). [Pub. L. 91–452][/us/pl/91/452], § 102(a), struck out “to an agent of the Government” after “(other than the defendant)”.
 
-    Subsec. (d). [Pub. L. 91–452, § 102(b)][/us/pl/91/452/s102/b], substituted “subsection” for “paragraph”.
+    Subsec. (d). [Pub. L. 91–452][/us/pl/91/452], § 102(b), substituted “subsection” for “paragraph”.
 
-    Subsec. (e). [Pub. L. 91–452, § 102(c)][/us/pl/91/452/s102/c], (d), struck out “or” after “by him;” in par. (1), struck out “to an agent of the Government” after “said witness” in par. (2), and added par. (3).
+    Subsec. (e). [Pub. L. 91–452][/us/pl/91/452], § 102(c), (d), struck out “or” after “by him;” in par. (1), struck out “to an agent of the Government” after “said witness” in par. (2), and added par. (3).
 
 ----------
 
@@ -52,10 +52,10 @@
 
 [/us/pl/85/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F269
 [/us/stat/71/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F595
-[/us/pl/91/452/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs102
+[/us/pl/91/452/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtI
 [/us/stat/84/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F926
-[/us/pl/91/452/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs102%2Fa
-[/us/pl/91/452/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs102%2Fb
-[/us/pl/91/452/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs102%2Fc
+[/us/pl/91/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452
+[/us/pl/91/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452
+[/us/pl/91/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452
 
 

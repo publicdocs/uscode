@@ -45,19 +45,19 @@
 
         (5) the term “State” includes a State of the United States, the District of Columbia, Puerto Rico, Guam, the Virgin Islands, and any other territory or possession of the United States.
 
-(Added [Pub. L. 98–473, title II, § 1105(a)][/us/pl/98/473/s1105/a], Oct. 12, 1984, [98 Stat. 2144][/us/stat/98/2144], § 511; renumbered § 513, [Pub. L. 99–646, § 31(a)][/us/pl/99/646/s31/a], Nov. 10, 1986, [100 Stat. 3598][/us/stat/100/3598]; amended [Pub. L. 101–647, title XXXV, § 3515][/us/pl/101/647/s3515], Nov. 29, 1990, [104 Stat. 4923][/us/stat/104/4923]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322], §§ 330008(1), 330016(2)(C), Sept. 13, 1994, [108 Stat. 2142][/us/stat/108/2142], 2148.)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1105(a), Oct. 12, 1984, [98 Stat. 2144][/us/stat/98/2144], § 511; renumbered § 513, [Pub. L. 99–646][/us/pl/99/646], § 31(a), Nov. 10, 1986, [100 Stat. 3598][/us/stat/100/3598]; amended [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3515, Nov. 29, 1990, [104 Stat. 4923][/us/stat/104/4923]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], §§ 330008(1), 330016(2)(C), Sept. 13, 1994, [108 Stat. 2142][/us/stat/108/2142], 2148.)
 
  __References in Text__ 
 
-    Section 916 of the Electronic Fund Transfer Act, referred to in subsec. (c)(3)(A), was renumbered section 917 by [Pub. L. 111–24, title IV, § 401(1)][/us/pl/111/24/s401/1], May 22, 2009, [123 Stat. 1751][/us/stat/123/1751], and is classified to [section 1693n of Title 15][/us/usc/t15/s1693n], Commerce and Trade.
+    Section 916 of the Electronic Fund Transfer Act, referred to in subsec. (c)(3)(A), was renumbered section 917 by [Pub. L. 111–24, title IV][/us/pl/111/24/tIV], § 401(1), May 22, 2009, [123 Stat. 1751][/us/stat/123/1751], and is classified to [section 1693n of Title 15][/us/usc/t15/s1693n], Commerce and Trade.
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–322, § 330016(2)(C)][/us/pl/103/322/s330016/2/C], which directed the amendment of this section by substituting “under this title” for “of not more than $250,000”, was executed by making the substitution for “not more than $250,000”, to reflect the probable intent of Congress.
+    1994—Subsec. (a). [Pub. L. 103–322][/us/pl/103/322], § 330016(2)(C), which directed the amendment of this section by substituting “under this title” for “of not more than $250,000”, was executed by making the substitution for “not more than $250,000”, to reflect the probable intent of Congress.
 
-    Subsec. (b). [Pub. L. 103–322, § 330016(2)(C)][/us/pl/103/322/s330016/2/C], substituted “fine under this title” for “fine of not more than $250,000”.
+    Subsec. (b). [Pub. L. 103–322][/us/pl/103/322], § 330016(2)(C), substituted “fine under this title” for “fine of not more than $250,000”.
 
-    Subsec. (c)(4). [Pub. L. 103–322, § 330008(1)][/us/pl/103/322/s330008/1], substituted “association of persons” for “association or persons”.
+    Subsec. (c)(4). [Pub. L. 103–322][/us/pl/103/322], § 330008(1), substituted “association of persons” for “association or persons”.
 
     1990—Subsec. (c)(3)(A). [Pub. L. 101–647][/us/pl/101/647] struck out “([15 U.S.C. 1693(c)][/us/usc/t15/s1693/c])” after “Electronic Fund Transfer Act” and inserted comma after “profit-sharing agreement”.
 
@@ -68,20 +68,20 @@
 ----------
 ----------
 
-[/us/pl/98/473/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1105%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2144
-[/us/pl/99/646/s31/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs31%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3598
-[/us/pl/101/647/s3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3515
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4923
-[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2142
-[/us/pl/111/24/s401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs401%2F1
+[/us/pl/111/24/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtIV
 [/us/stat/123/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1751
 [/us/usc/t15/s1693n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693n
-[/us/pl/103/322/s330016/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F2%2FC
-[/us/pl/103/322/s330016/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F2%2FC
-[/us/pl/103/322/s330008/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330008%2F1
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/usc/t15/s1693/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693%2Fc
 

@@ -19,11 +19,11 @@
 
     As used in this section, the term “national bank” is synonymous with “national banking association”; “member bank” means and includes any national bank, state bank, or bank and trust company which has become a member of one of the Federal Reserve banks; “insured bank” includes any bank, banking association, trust company, savings bank, or other banking institution, the deposits of which are insured by the Federal Deposit Insurance Corporation; and the term “branch or agency of a foreign bank” means a branch or agency described in [section 20(9) of this title][/us/usc/t18/s20/9]. For purposes of this section, the term “depository institution holding company” has the meaning given such term in section 3 of the Federal Deposit Insurance Act.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 729][/us/stat/62/729]; [Pub. L. 101–73, title IX, § 961(b)][/us/pl/101/73/s961/b], Aug. 9, 1989, [103 Stat. 499][/us/stat/103/499]; [Pub. L. 101–647, title XXV][/us/pl/101/647], §§ 2504(b), 2595(a)(1), 2597(f), Nov. 29, 1990, [104 Stat. 4861][/us/stat/104/4861], 4906, 4909; [Pub. L. 103–322, title XXXIII, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–294, title VI][/us/pl/104/294], §§ 601(f)(1), 606(a), Oct. 11, 1996, [110 Stat. 3499][/us/stat/110/3499], 3511.)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 729][/us/stat/62/729]; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 961(b), Aug. 9, 1989, [103 Stat. 499][/us/stat/103/499]; [Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], §§ 2504(b), 2595(a)(1), 2597(f), Nov. 29, 1990, [104 Stat. 4861][/us/stat/104/4861], 4906, 4909; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(H), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], §§ 601(f)(1), 606(a), Oct. 11, 1996, [110 Stat. 3499][/us/stat/110/3499], 3511.)
 
  __Historical and Revision Notes__ 
 
-    Based on sections 592, 597 of title 12, U.S.C., 1940 ed., Banks and Banking (R.S. 5209; [Dec. 23, 1913, ch. 6, § 22(i)][/us/act/1913-12-23/ch6/s22/i], as added [June 19, 1934, ch. 653, § 3][/us/act/1934-06-19/ch653/s3], [48 Stat. 1107][/us/stat/48/1107]; [Sept. 26, 1918, ch. 177, § 7][/us/act/1918-09-26/ch177/s7], [40 Stat. 972][/us/stat/40/972]; [Aug. 23, 1935, ch. 614, § 316][/us/act/1935-08-23/ch614/s316], [49 Stat. 712][/us/stat/49/712]).
+    Based on sections 592, 597 of title 12, U.S.C., 1940 ed., Banks and Banking (R.S. 5209; [Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 22(i), as added [June 19, 1934, ch. 653][/us/act/1934-06-19/ch653], § 3, [48 Stat. 1107][/us/stat/48/1107]; [Sept. 26, 1918, ch. 177][/us/act/1918-09-26/ch177], § 7, [40 Stat. 972][/us/stat/40/972]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], § 316, [49 Stat. 712][/us/stat/49/712]).
 
     [Section 592 of title 12][/us/usc/t12/s592], U.S.C., 1940 ed., Banks and Banking, was separated into three sections the first of which, embracing provisions relating to embezzlement, abstracting, purloining, or willfully misapplying moneys, funds, or credits, constitutes part of the basis for this section. Of the other two sections, one section, 334 of this title, relates only to the issuance and circulation of Federal Reserve notes and the other, [section 1005 of this title][/us/usc/t18/s1005], to false entries or the wrongful issue of bank obligations.
 
@@ -57,7 +57,7 @@
 
  __References in Text__ 
 
-    Section 25 of the Federal Reserve Act, referred to in text, is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by [Pub. L. 102–242, title I, § 142(e)(2)][/us/pl/102/242/s142/e/2], Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281].
+    Section 25 of the Federal Reserve Act, referred to in text, is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 142(e)(2), Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281].
 
     Section 3 of the Federal Deposit Insurance Act, referred to in text, is classified to [section 1813 of Title 12][/us/usc/t12/s1813].
 
@@ -67,15 +67,15 @@
 
     1994—[Pub. L. 103–322][/us/pl/103/322], in first par., substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
 
-    1990—[Pub. L. 101–647, § 2597(f)(1)][/us/pl/101/647/s2597/f/1], in first par., directed substitution of “national bank, insured bank, branch or agency of a foreign bank, or organization operating under section 25 or section 25(a) of the Federal Reserve Act,” for “national bank, or insured bank” which was executed by making the substitution for “national bank or insured bank” to reflect the probable intent of Congress, and inserted “insured bank, branch, agency, or organization” after “receiver of a national bank,”, “, branch, agency, or organization” after “misapplies any of the moneys, funds or credits of such bank”, and “branch, agency, or organization” after “custody or care of such bank,”.
+    1990—[Pub. L. 101–647][/us/pl/101/647], § 2597(f)(1), in first par., directed substitution of “national bank, insured bank, branch or agency of a foreign bank, or organization operating under section 25 or section 25(a) of the Federal Reserve Act,” for “national bank, or insured bank” which was executed by making the substitution for “national bank or insured bank” to reflect the probable intent of Congress, and inserted “insured bank, branch, agency, or organization” after “receiver of a national bank,”, “, branch, agency, or organization” after “misapplies any of the moneys, funds or credits of such bank”, and “branch, agency, or organization” after “custody or care of such bank,”.
 
-    [Pub. L. 101–647, § 2595(a)(1)(A)][/us/pl/101/647/s2595/a/1/A], (B), in first par., inserted “depository institution holding company,” after “Federal Reserve Bank, member bank,” and “or holding company” after “such bank” in two places.
+    [Pub. L. 101–647][/us/pl/101/647], § 2595(a)(1)(A), (B), in first par., inserted “depository institution holding company,” after “Federal Reserve Bank, member bank,” and “or holding company” after “such bank” in two places.
 
-    [Pub. L. 101–647, § 2504(b)][/us/pl/101/647/s2504/b], in first par., substituted “30 years” for “20 years”.
+    [Pub. L. 101–647][/us/pl/101/647], § 2504(b), in first par., substituted “30 years” for “20 years”.
 
-    [Pub. L. 101–647, § 2597(f)(2)][/us/pl/101/647/s2597/f/2], in second par., struck out “and” after “one of the Federal Reserve Banks;” and directed insertion of “; and the term ‘branch or agency of a foreign bank’ means a branch or agency described in [section 20(9) of this title][/us/usc/t18/s20/9]” before the period which was executed by making the insertion before the period at end of first sentence to reflect the probable intent of Congress.
+    [Pub. L. 101–647][/us/pl/101/647], § 2597(f)(2), in second par., struck out “and” after “one of the Federal Reserve Banks;” and directed insertion of “; and the term ‘branch or agency of a foreign bank’ means a branch or agency described in [section 20(9) of this title][/us/usc/t18/s20/9]” before the period which was executed by making the insertion before the period at end of first sentence to reflect the probable intent of Congress.
 
-    [Pub. L. 101–647, § 2595(a)(1)(C)][/us/pl/101/647/s2595/a/1/C], in second par., inserted at end “For purposes of this section, the term ‘depository institution holding company’ has the meaning given such term in section 3 of the Federal Deposit Insurance Act.”
+    [Pub. L. 101–647][/us/pl/101/647], § 2595(a)(1)(C), in second par., inserted at end “For purposes of this section, the term ‘depository institution holding company’ has the meaning given such term in section 3 of the Federal Deposit Insurance Act.”
 
     1989—[Pub. L. 101–73][/us/pl/101/73], in first par., substituted “$1,000,000” for “$5,000” and “20 years” for “five years”.
 
@@ -89,20 +89,20 @@
 [/us/usc/t18/s20/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs20%2F9
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F729
-[/us/pl/101/73/s961/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs961%2Fb
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F499
-[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4861
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3499
-[/us/act/1913-12-23/ch6/s22/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs22%2Fi
-[/us/act/1934-06-19/ch653/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch653%2Fs3
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/act/1934-06-19/ch653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch653
 [/us/stat/48/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1107
-[/us/act/1918-09-26/ch177/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-09-26%2Fch177%2Fs7
+[/us/act/1918-09-26/ch177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-09-26%2Fch177
 [/us/stat/40/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F972
-[/us/act/1935-08-23/ch614/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614%2Fs316
+[/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F712
 [/us/usc/t12/s592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs592
 [/us/usc/t18/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1005
@@ -117,17 +117,17 @@
 [/us/usc/t12/s597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs597
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1
 [/us/usc/t18/s3231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3231
-[/us/pl/102/242/s142/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs142%2Fe%2F2
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2281
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/101/647/s2597/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2597%2Ff%2F1
-[/us/pl/101/647/s2595/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2595%2Fa%2F1%2FA
-[/us/pl/101/647/s2504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2504%2Fb
-[/us/pl/101/647/s2597/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2597%2Ff%2F2
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/usc/t18/s20/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs20%2F9
-[/us/pl/101/647/s2595/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2595%2Fa%2F1%2FC
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 
 

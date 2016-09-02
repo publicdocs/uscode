@@ -17,7 +17,7 @@
 
     Whoever, within the special maritime and territorial jurisdiction of the United States, willfully and maliciously destroys or injures any structure, conveyance, or other real or personal property, or attempts or conspires to do such an act, shall be fined under this title or imprisoned not more than five years, or both, and if the building be a dwelling, or the life of any person be placed in jeopardy, shall be fined under this title or imprisoned not more than twenty years, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 764][/us/stat/62/764]; [Pub. L. 103–322, title XXXIII, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], (K), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–132, title VII, § 703][/us/pl/104/132/s703], Apr. 24, 1996, [110 Stat. 1294][/us/stat/110/1294]; [Pub. L. 107–56, title VIII, § 811(d)][/us/pl/107/56/s811/d], Oct. 26, 2001, [115 Stat. 381][/us/stat/115/381].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 764][/us/stat/62/764]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(H), (K), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–132, title VII][/us/pl/104/132/tVII], § 703, Apr. 24, 1996, [110 Stat. 1294][/us/stat/110/1294]; [Pub. L. 107–56, title VIII][/us/pl/107/56/tVIII], § 811(d), Oct. 26, 2001, [115 Stat. 381][/us/stat/115/381].)
 
  __Historical and Revision Notes__ 
 
@@ -42,11 +42,11 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F764
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/104/132/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs703
+[/us/pl/104/132/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVII
 [/us/stat/110/1294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1294
-[/us/pl/107/56/s811/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs811%2Fd
+[/us/pl/107/56/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtVIII
 [/us/stat/115/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F381
 [/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1144

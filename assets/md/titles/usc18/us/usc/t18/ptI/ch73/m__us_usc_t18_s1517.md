@@ -17,7 +17,7 @@
 
     Whoever corruptly obstructs or attempts to obstruct any examination of a financial institution by an agency of the United States with jurisdiction to conduct an examination of such financial institution shall be fined under this title, imprisoned not more than 5 years, or both.
 
-(Added [Pub. L. 101–647, title XXV, § 2503(a)][/us/pl/101/647/s2503/a], Nov. 29, 1990, [104 Stat. 4861][/us/stat/104/4861].)
+(Added [Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2503(a), Nov. 29, 1990, [104 Stat. 4861][/us/stat/104/4861].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/647/s2503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2503%2Fa
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4861
 
 

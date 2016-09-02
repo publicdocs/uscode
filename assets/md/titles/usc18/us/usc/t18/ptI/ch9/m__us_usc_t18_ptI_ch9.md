@@ -91,11 +91,11 @@
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–8, title II, § 203(b)(2)][/us/pl/109/8/s203/b/2], Apr. 20, 2005, [119 Stat. 49][/us/stat/119/49], added item 158.
+    2005—[Pub. L. 109–8, title II][/us/pl/109/8/tII], § 203(b)(2), Apr. 20, 2005, [119 Stat. 49][/us/stat/119/49], added item 158.
 
-    1994—[Pub. L. 103–394, title III, § 312(a)(2)][/us/pl/103/394/s312/a/2], Oct. 22, 1994, [108 Stat. 4140][/us/stat/108/4140], substituted “against estate” for “by trustee or officer” in item 153 and added items 156 and 157.
+    1994—[Pub. L. 103–394, title III][/us/pl/103/394/tIII], § 312(a)(2), Oct. 22, 1994, [108 Stat. 4140][/us/stat/108/4140], substituted “against estate” for “by trustee or officer” in item 153 and added items 156 and 157.
 
-    1978—[Pub. L. 95–598, title III, § 314(b)(2)][/us/pl/95/598/s314/b/2], (d)(3), (e)(3), (f)(3), Nov. 6, 1978, [92 Stat. 2677][/us/stat/92/2677], substituted in item 151 “Definition” for “Definitions”; struck from item 153 “, receiver” after “trustee” and from item 154 “referees and other” before “officers”; and substituted in item 155 “cases under title 11 and receiverships” for “bankruptcy proceedings”.
+    1978—[Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 314(b)(2), (d)(3), (e)(3), (f)(3), Nov. 6, 1978, [92 Stat. 2677][/us/stat/92/2677], substituted in item 151 “Definition” for “Definitions”; struck from item 153 “, receiver” after “trustee” and from item 154 “referees and other” before “officers”; and substituted in item 155 “cases under title 11 and receiverships” for “bankruptcy proceedings”.
 
 ----------
 
@@ -104,11 +104,11 @@
 ----------
 ----------
 
-[/us/pl/109/8/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs203%2Fb%2F2
+[/us/pl/109/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtII
 [/us/stat/119/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F49
-[/us/pl/103/394/s312/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs312%2Fa%2F2
+[/us/pl/103/394/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtIII
 [/us/stat/108/4140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4140
-[/us/pl/95/598/s314/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs314%2Fb%2F2
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2677
 
 

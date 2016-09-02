@@ -155,13 +155,13 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–287, § 4(a)(2)][/us/pl/113/287/s4/a/2], Dec. 19, 2014, [128 Stat. 3261][/us/stat/128/3261], added items 1865 and 1866.
+    2014—[Pub. L. 113–287][/us/pl/113/287], § 4(a)(2), Dec. 19, 2014, [128 Stat. 3261][/us/stat/128/3261], added items 1865 and 1866.
 
-    1990—[Pub. L. 101–647, title XXXV, § 3554][/us/pl/101/647/s3554], Nov. 29, 1990, [104 Stat. 4927][/us/stat/104/4927], struck out item 1862 “Trespass on Bull Run National Forest”.
+    1990—[Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3554, Nov. 29, 1990, [104 Stat. 4927][/us/stat/104/4927], struck out item 1862 “Trespass on Bull Run National Forest”.
 
-    1988—[Pub. L. 100–690, title VI, § 6254(g)][/us/pl/100/690/s6254/g], Nov. 18, 1988, [102 Stat. 4367][/us/stat/102/4367], added item 1864.
+    1988—[Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6254(g), Nov. 18, 1988, [102 Stat. 4367][/us/stat/102/4367], added item 1864.
 
-    1949—[Act May 24, 1949, ch. 139, § 41][/us/act/1949-05-24/ch139/s41], [63 Stat. 95][/us/stat/63/95], substituted in analysis “1859” for “1959”, and added item 1863.
+    1949—[Act May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 41, [63 Stat. 95][/us/stat/63/95], substituted in analysis “1859” for “1959”, and added item 1863.
 
 ----------
 
@@ -170,13 +170,13 @@
 ----------
 ----------
 
-[/us/pl/113/287/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs4%2Fa%2F2
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3261
-[/us/pl/101/647/s3554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3554
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4927
-[/us/pl/100/690/s6254/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6254%2Fg
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4367
-[/us/act/1949-05-24/ch139/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs41
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F95
 
 

@@ -17,7 +17,7 @@
 
     If it appears from an affidavit filed by a party that the testimony of a person is material in a criminal proceeding, and if it is shown that it may become impracticable to secure the presence of the person by subpoena, a judicial officer may order the arrest of the person and treat the person in accordance with the provisions of [section 3142 of this title][/us/usc/t18/s3142]. No material witness may be detained because of inability to comply with any condition of release if the testimony of such witness can adequately be secured by deposition, and if further detention is not necessary to prevent a failure of justice. Release of a material witness may be delayed for a reasonable period of time until the deposition of the witness can be taken pursuant to the Federal Rules of Criminal Procedure.
 
-(Added [Pub. L. 98–473, title II, § 203(a)][/us/pl/98/473/s203/a], Oct. 12, 1984, [98 Stat. 1982][/us/stat/98/1982]; amended [Pub. L. 99–646, § 55(e)][/us/pl/99/646/s55/e], Nov. 10, 1986, [100 Stat. 3609][/us/stat/100/3609].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 203(a), Oct. 12, 1984, [98 Stat. 1982][/us/stat/98/1982]; amended [Pub. L. 99–646][/us/pl/99/646], § 55(e), Nov. 10, 1986, [100 Stat. 3609][/us/stat/100/3609].)
 
  __References in Text__ 
 
@@ -43,9 +43,9 @@
 ----------
 
 [/us/usc/t18/s3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3142
-[/us/pl/98/473/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs203%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1982
-[/us/pl/99/646/s55/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs55%2Fe
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3609
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F821

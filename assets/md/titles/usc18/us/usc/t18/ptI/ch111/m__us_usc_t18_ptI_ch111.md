@@ -171,17 +171,17 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–23, title VIII][/us/pl/114/23], §§ 802(b), 804(b), June 2, 2015, [129 Stat. 307][/us/stat/129/307], 308, added items 2280a and 2281a.
+    2015—[Pub. L. 114–23, title VIII][/us/pl/114/23/tVIII], §§ 802(b), 804(b), June 2, 2015, [129 Stat. 307][/us/stat/129/307], 308, added items 2280a and 2281a.
 
-    2008—[Pub. L. 110–407, title I, § 102(b)][/us/pl/110/407/s102/b], Oct. 13, 2008, [122 Stat. 4298][/us/stat/122/4298], added item 2285.
+    2008—[Pub. L. 110–407, title I][/us/pl/110/407/tI], § 102(b), Oct. 13, 2008, [122 Stat. 4298][/us/stat/122/4298], added item 2285.
 
-    2006—[Pub. L. 109–177, title III][/us/pl/109/177], §§ 304(b)(2), 305(b), Mar. 9, 2006, [120 Stat. 235][/us/stat/120/235], 237, added items 2282B, 2283, and 2284.
+    2006—[Pub. L. 109–177, title III][/us/pl/109/177/tIII], §§ 304(b)(2), 305(b), Mar. 9, 2006, [120 Stat. 235][/us/stat/120/235], 237, added items 2282B, 2283, and 2284.
 
-    [Pub. L. 109–177, title III, § 304(a)(2)][/us/pl/109/177/s304/a/2], Mar. 9, 2006, [120 Stat. 235][/us/stat/120/235], which directed amendment of table of sections for this chapter by adding item 2282A after item 2282, was executed by adding item 2282A after item 2281 to reflect the probable intent of Congress, because there is no item 2282.
+    [Pub. L. 109–177, title III][/us/pl/109/177/tIII], § 304(a)(2), Mar. 9, 2006, [120 Stat. 235][/us/stat/120/235], which directed amendment of table of sections for this chapter by adding item 2282A after item 2282, was executed by adding item 2282A after item 2281 to reflect the probable intent of Congress, because there is no item 2282.
 
-    1994—[Pub. L. 103–322, title VI, § 60019(b)][/us/pl/103/322/s60019/b], Sept. 13, 1994, [108 Stat. 1979][/us/stat/108/1979], added items 2280 and 2281.
+    1994—[Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60019(b), Sept. 13, 1994, [108 Stat. 1979][/us/stat/108/1979], added items 2280 and 2281.
 
-    1990—[Pub. L. 101–647, title XXXV, § 3566][/us/pl/101/647/s3566], Nov. 29, 1990, [104 Stat. 4928][/us/stat/104/4928], substituted “vessels” for “vessel” in item 2271.
+    1990—[Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3566, Nov. 29, 1990, [104 Stat. 4928][/us/stat/104/4928], substituted “vessels” for “vessel” in item 2271.
 
 ----------
 
@@ -190,17 +190,17 @@
 ----------
 ----------
 
-[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVIII
 [/us/stat/129/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F307
-[/us/pl/110/407/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F407%2Fs102%2Fb
+[/us/pl/110/407/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F407%2FtI
 [/us/stat/122/4298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4298
-[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIII
 [/us/stat/120/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F235
-[/us/pl/109/177/s304/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs304%2Fa%2F2
+[/us/pl/109/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIII
 [/us/stat/120/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F235
-[/us/pl/103/322/s60019/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60019%2Fb
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1979
-[/us/pl/101/647/s3566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3566
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4928
 
 

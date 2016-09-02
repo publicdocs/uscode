@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t18/ptI/ch23/m__us_usc_t18_s433.md) | [Next](./../../../../..//us/usc/t18/ptI/ch23/m__us_usc_t18_s435.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs434)
 
-## \[§ 434. Repealed. [Pub. L. 87–849, § 2][/us/pl/87/849/s2], Oct. 23, 1962, [76 Stat. 1126][/us/stat/76/1126]\]
+## \[§ 434. Repealed. [Pub. L. 87–849][/us/pl/87/849], § 2, Oct. 23, 1962, [76 Stat. 1126][/us/stat/76/1126]\]
 
     Section, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 703][/us/stat/62/703], related to interested persons acting as Government agents. Section was supplanted by [section 208 of this title][/us/usc/t18/s208].
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/87/849/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs2
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1126
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F703

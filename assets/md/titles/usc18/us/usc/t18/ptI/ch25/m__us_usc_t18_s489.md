@@ -17,11 +17,11 @@
 
     Whoever, within the United States, makes or brings therein from any foreign country, or possesses with intent to sell, give away, or in any other manner uses the same, except under authority of the Secretary of the Treasury or other proper officer of the United States, any token, disk, or device in the likeness or similitude as to design, color, or the inscription thereon of any of the coins of the United States or of any foreign country issued as money, either under the authority of the United States or under the authority of any foreign government shall be fined under this title.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 709][/us/stat/62/709]; [July 16, 1951, ch. 226, § 3][/us/act/1951-07-16/ch226/s3], [65 Stat. 122][/us/stat/65/122]; [Pub. L. 103–322, title XXXIII, § 330016(1)(B)][/us/pl/103/322/s330016/1/B], Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 709][/us/stat/62/709]; [July 16, 1951, ch. 226][/us/act/1951-07-16/ch226], § 3, [65 Stat. 122][/us/stat/65/122]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(B), Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 285 ([Mar. 4, 1909, ch. 321, § 171][/us/act/1909-03-04/ch321/s171], [35 Stat. 1121][/us/stat/35/1121]; [Feb. 15, 1912, ch. 38][/us/act/1912-02-15/ch38], [37 Stat. 64][/us/stat/37/64]).
+    Based on title 18, U.S.C., 1940 ed., § 285 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 171, [35 Stat. 1121][/us/stat/35/1121]; [Feb. 15, 1912, ch. 38][/us/act/1912-02-15/ch38], [37 Stat. 64][/us/stat/37/64]).
 
     Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in [section 2 of this title][/us/usc/t18/s2].
 
@@ -42,11 +42,11 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F709
-[/us/act/1951-07-16/ch226/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-07-16%2Fch226%2Fs3
+[/us/act/1951-07-16/ch226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-07-16%2Fch226
 [/us/stat/65/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F122
-[/us/pl/103/322/s330016/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FB
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2146
-[/us/act/1909-03-04/ch321/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs171
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1121
 [/us/act/1912-02-15/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-02-15%2Fch38
 [/us/stat/37/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F64

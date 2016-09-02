@@ -21,11 +21,11 @@
 
     Shall be fined under this title or imprisoned not more than three years, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 714][/us/stat/62/714]; [Pub. L. 103–322, title XXXIII, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 109–304, § 17(d)(2)][/us/pl/109/304/s17/d/2], Oct. 6, 2006, [120 Stat. 1707][/us/stat/120/1707].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 714][/us/stat/62/714]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(H), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 109–304][/us/pl/109/304], § 17(d)(2), Oct. 6, 2006, [120 Stat. 1707][/us/stat/120/1707].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 129 ([Mar. 4, 1909, ch. 321, § 72][/us/act/1909-03-04/ch321/s72], [35 Stat. 1101][/us/stat/35/1101]).
+    Based on title 18, U.S.C., 1940 ed., § 129 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 72, [35 Stat. 1101][/us/stat/35/1101]).
 
     The words “passport” and “sea letter” were omitted as obsolete, in view of the Presidential proclamation of April 10, 1815, discontinuing the use of such passports and sea letters.
 
@@ -52,11 +52,11 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F714
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/109/304/s17/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs17%2Fd%2F2
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1707
-[/us/act/1909-03-04/ch321/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs72
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1101
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

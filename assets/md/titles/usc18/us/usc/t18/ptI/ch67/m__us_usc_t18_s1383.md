@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t18/ptI/ch67/m__us_usc_t18_s1382.md) | [Next](./../../../../..//us/usc/t18/ptI/ch67/m__us_usc_t18_s1384.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1383)
 
-## \[§ 1383. Repealed. [Pub. L. 94–412, title V, § 501(e)][/us/pl/94/412/s501/e], Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258]\]
+## \[§ 1383. Repealed. [Pub. L. 94–412, title V][/us/pl/94/412/tV], § 501(e), Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258]\]
 
     Section, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 765][/us/stat/62/765], dealt with criminal penalties for persons entering, remaining in, leaving, or committing any act in a military area or zone contrary to restrictions imposed by Executive Order or Secretary of the Army.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/94/412/s501/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2Fs501%2Fe
+[/us/pl/94/412/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2FtV
 [/us/stat/90/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1258
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F765

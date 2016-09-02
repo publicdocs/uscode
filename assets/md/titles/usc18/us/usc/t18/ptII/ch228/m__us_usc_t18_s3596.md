@@ -27,7 +27,7 @@
 
     A sentence of death shall not be carried out upon a person who is mentally retarded. A sentence of death shall not be carried out upon a person who, as a result of mental disability, lacks the mental capacity to understand the death penalty and why it was imposed on that person.
 
-(Added [Pub. L. 103–322, title VI, § 60002(a)][/us/pl/103/322/s60002/a], Sept. 13, 1994, [108 Stat. 1967][/us/stat/108/1967].)
+(Added [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60002(a), Sept. 13, 1994, [108 Stat. 1967][/us/stat/108/1967].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s60002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60002%2Fa
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1967
 
 

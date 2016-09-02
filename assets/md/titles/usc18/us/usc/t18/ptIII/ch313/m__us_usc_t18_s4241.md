@@ -53,29 +53,29 @@
 
     A finding by the court that the defendant is mentally competent to stand trial shall not prejudice the defendant in raising the issue of his insanity as a defense to the offense charged, and shall not be admissible as evidence in a trial for the offense charged.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 855][/us/stat/62/855]; [Pub. L. 98–473, title II, § 403(a)][/us/pl/98/473/s403/a], Oct. 12, 1984, [98 Stat. 2057][/us/stat/98/2057]; [Pub. L. 109–248, title III, § 302(2)][/us/pl/109/248/s302/2], July 27, 2006, [120 Stat. 619][/us/stat/120/619].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 855][/us/stat/62/855]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 403(a), Oct. 12, 1984, [98 Stat. 2057][/us/stat/98/2057]; [Pub. L. 109–248, title III][/us/pl/109/248/tIII], § 302(2), July 27, 2006, [120 Stat. 619][/us/stat/120/619].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 876 ([May 13, 1930, ch. 254, § 6][/us/act/1930-05-13/ch254/s6], [46 Stat. 271][/us/stat/46/271]).
+    Based on title 18, U.S.C., 1940 ed., § 876 ([May 13, 1930, ch. 254][/us/act/1930-05-13/ch254], § 6, [46 Stat. 271][/us/stat/46/271]).
 
     Changes were made in phraseology and surplusage omitted.
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–248, § 302(2)(A)][/us/pl/109/248/s302/2/A], inserted “to undergo postrelease proceedings” after “trial” in section catchline.
+    2006—[Pub. L. 109–248][/us/pl/109/248], § 302(2)(A), inserted “to undergo postrelease proceedings” after “trial” in section catchline.
 
-    Subsec. (a). [Pub. L. 109–248, § 302(2)(B)][/us/pl/109/248/s302/2/B], inserted “or at any time after the commencement of probation or supervised release and prior to the completion of the sentence,” after “sentencing of the defendant,”.
+    Subsec. (a). [Pub. L. 109–248][/us/pl/109/248], § 302(2)(B), inserted “or at any time after the commencement of probation or supervised release and prior to the completion of the sentence,” after “sentencing of the defendant,”.
 
-    Subsec. (d). [Pub. L. 109–248, § 302(2)(C)][/us/pl/109/248/s302/2/C], substituted “proceedings to go forward” for “trial to proceed” wherever appearing and “sections 4246 and 4248” for “section 4246” in concluding provisions.
+    Subsec. (d). [Pub. L. 109–248][/us/pl/109/248], § 302(2)(C), substituted “proceedings to go forward” for “trial to proceed” wherever appearing and “sections 4246 and 4248” for “section 4246” in concluding provisions.
 
-    Subsec. (e). [Pub. L. 109–248, § 302(2)(D)][/us/pl/109/248/s302/2/D], inserted “or other proceedings” after “trial” and substituted “chapters 207 and 227” for “chapter 207”.
+    Subsec. (e). [Pub. L. 109–248][/us/pl/109/248], § 302(2)(D), inserted “or other proceedings” after “trial” and substituted “chapters 207 and 227” for “chapter 207”.
 
     1984—[Pub. L. 98–473][/us/pl/98/473] amended section generally, substituting “Determination of mental competency to stand trial” for “Examination and transfer to hospital” in section catchline, and substituting provisions relating to motion, report, hearing, etc., for determination of competency of defendant, for provisions relating to boards of examiners for examination of inmates of Federal penal and correctional institutions and transfer of such inmates to hospitals.
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–473, title II, § 401][/us/pl/98/473/s401], Oct. 12, 1984, [98 Stat. 2057][/us/stat/98/2057], provided that: 
+[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 401, Oct. 12, 1984, [98 Stat. 2057][/us/stat/98/2057], provided that: 
 
 > “This chapter \[chapter IV (§§ 401–406) of title II of [Pub. L. 98–473][/us/pl/98/473], enacting [section 20 of this title][/us/usc/t18/s20] and amending this chapter, [section 3006A of this title][/us/usc/t18/s3006A], and rule 12.2 of the Federal Rules of Criminal Procedure and rule 704 of the Federal Rules of Evidence set out in the Appendix to this title\] may be sited \[cited\] as the ‘Insanity Defense Reform Act of 1984’.”
 
@@ -88,18 +88,18 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F855
-[/us/pl/98/473/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs403%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2057
-[/us/pl/109/248/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs302%2F2
+[/us/pl/109/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtIII
 [/us/stat/120/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F619
-[/us/act/1930-05-13/ch254/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-13%2Fch254%2Fs6
+[/us/act/1930-05-13/ch254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-13%2Fch254
 [/us/stat/46/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F271
-[/us/pl/109/248/s302/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs302%2F2%2FA
-[/us/pl/109/248/s302/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs302%2F2%2FB
-[/us/pl/109/248/s302/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs302%2F2%2FC
-[/us/pl/109/248/s302/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs302%2F2%2FD
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/98/473/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs401
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2057
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t18/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs20

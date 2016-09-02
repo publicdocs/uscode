@@ -17,11 +17,11 @@
 
     No statute of limitations that would otherwise preclude prosecution for an offense involving the sexual or physical abuse, or kidnaping, of a child under the age of 18 years shall preclude such prosecution during the life of the child, or for ten years after the offense, whichever is longer.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 828][/us/stat/62/828]; [Pub. L. 103–322, title XXXIII, § 330018(a)][/us/pl/103/322/s330018/a], Sept. 13, 1994, [108 Stat. 2149][/us/stat/108/2149]; [Pub. L. 108–21, title II, § 202][/us/pl/108/21/s202], Apr. 30, 2003, [117 Stat. 660][/us/stat/117/660]; [Pub. L. 109–162, title XI, § 1182(c)][/us/pl/109/162/s1182/c], Jan. 5, 2006, [119 Stat. 3126][/us/stat/119/3126].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 828][/us/stat/62/828]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330018(a), Sept. 13, 1994, [108 Stat. 2149][/us/stat/108/2149]; [Pub. L. 108–21, title II][/us/pl/108/21/tII], § 202, Apr. 30, 2003, [117 Stat. 660][/us/stat/117/660]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1182(c), Jan. 5, 2006, [119 Stat. 3126][/us/stat/119/3126].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 584 (R.S. § 1046; [July 5, 1884, ch. 225, § 2][/us/act/1884-07-05/ch225/s2], [23 Stat. 122][/us/stat/23/122]).
+    Based on title 18, U.S.C., 1940 ed., § 584 (R.S. § 1046; [July 5, 1884, ch. 225][/us/act/1884-07-05/ch225], § 2, [23 Stat. 122][/us/stat/23/122]).
 
     Words “customs laws” were substituted for “revenue laws,” since different limitations are provided for internal revenue violations by [section 3748 of title 26][/us/usc/t26/s3748], U.S.C., 1940 ed., Internal Revenue Code.
 
@@ -56,13 +56,13 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F828
-[/us/pl/103/322/s330018/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330018%2Fa
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2149
-[/us/pl/108/21/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs202
+[/us/pl/108/21/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtII
 [/us/stat/117/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F660
-[/us/pl/109/162/s1182/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1182%2Fc
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3126
-[/us/act/1884-07-05/ch225/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-07-05%2Fch225%2Fs2
+[/us/act/1884-07-05/ch225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-07-05%2Fch225
 [/us/stat/23/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F23%2F122
 [/us/usc/t26/s3748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3748
 [/us/usc/t18/s584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs584

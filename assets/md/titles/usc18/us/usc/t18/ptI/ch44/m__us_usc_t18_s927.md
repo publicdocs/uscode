@@ -17,7 +17,7 @@
 
     No provision of this chapter shall be construed as indicating an intent on the part of the Congress to occupy the field in which such provision operates to the exclusion of the law of any State on the same subject matter, unless there is a direct and positive conflict between such provision and the law of the State so that the two cannot be reconciled or consistently stand together.
 
-(Added [Pub. L. 90–351, title IV, § 902][/us/pl/90/351/s902], June 19, 1968, [82 Stat. 234][/us/stat/82/234]; amended [Pub. L. 90–618, title I, § 102][/us/pl/90/618/s102], Oct. 22, 1968, [82 Stat. 1226][/us/stat/82/1226].)
+(Added [Pub. L. 90–351, title IV][/us/pl/90/351/tIV], § 902, June 19, 1968, [82 Stat. 234][/us/stat/82/234]; amended [Pub. L. 90–618, title I][/us/pl/90/618/tI], § 102, Oct. 22, 1968, [82 Stat. 1226][/us/stat/82/1226].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/90/351/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs902
+[/us/pl/90/351/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtIV
 [/us/stat/82/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F234
-[/us/pl/90/618/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2Fs102
+[/us/pl/90/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2FtI
 [/us/stat/82/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1226
 [/us/pl/90/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618
 [/us/pl/90/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618

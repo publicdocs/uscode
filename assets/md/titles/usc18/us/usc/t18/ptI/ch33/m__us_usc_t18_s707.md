@@ -23,7 +23,7 @@
 
     This section shall not make unlawful the use of any such emblem, sign, insignia or words which was lawful on the date of enactment of this title.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 733][/us/stat/62/733]; [Pub. L. 103–322, title XXXIII, § 330016(1)(E)][/us/pl/103/322/s330016/1/E], Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 733][/us/stat/62/733]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(E), Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
 
  __Historical and Revision Notes__ 
 
@@ -56,7 +56,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F733
-[/us/pl/103/322/s330016/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FE
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2146
 [/us/act/1939-06-05/ch184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-05%2Fch184
 [/us/stat/53/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F809

@@ -31,7 +31,7 @@
 
     (c) The United States Secret Service, in addition to any other agency having such authority, shall have authority to investigate offenses under this section.
 
-(Added [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 648(b)(1)\], title II, § 2603(b)(1), Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–367, 3009–470.)
+(Added [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 648(b)(1)\], title II, § 2603(b)(1), Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–367, 3009–470.)
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208

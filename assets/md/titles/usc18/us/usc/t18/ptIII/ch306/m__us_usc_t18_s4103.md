@@ -17,7 +17,7 @@
 
     All laws of the United States, as appropriate, pertaining to prisoners, probationers, parolees, and juvenile offenders shall be applicable to offenders transferred to the United States, unless a treaty or this chapter provides otherwise.
 
-(Added [Pub. L. 95–144, § 1][/us/pl/95/144/s1], Oct. 28, 1977, [91 Stat. 1215][/us/stat/91/1215].)
+(Added [Pub. L. 95–144][/us/pl/95/144], § 1, Oct. 28, 1977, [91 Stat. 1215][/us/stat/91/1215].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/144/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144%2Fs1
+[/us/pl/95/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144
 [/us/stat/91/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1215
 
 

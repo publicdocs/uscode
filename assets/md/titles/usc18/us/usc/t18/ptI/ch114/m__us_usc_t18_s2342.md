@@ -19,13 +19,13 @@
 
     (b) It shall be unlawful for any person knowingly to make any false statement or representation with respect to the information required by this chapter to be kept in the records of any person who ships, sells, or distributes any quantity of cigarettes in excess of 10,000 in a single transaction.
 
-(Added [Pub. L. 95–575, § 1][/us/pl/95/575/s1], Nov. 2, 1978, [92 Stat. 2464][/us/stat/92/2464]; amended [Pub. L. 109–177, title I, § 121(a)(2)][/us/pl/109/177/s121/a/2], (b)(2), Mar. 9, 2006, [120 Stat. 221][/us/stat/120/221], 222.)
+(Added [Pub. L. 95–575][/us/pl/95/575], § 1, Nov. 2, 1978, [92 Stat. 2464][/us/stat/92/2464]; amended [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 121(a)(2), (b)(2), Mar. 9, 2006, [120 Stat. 221][/us/stat/120/221], 222.)
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–177, § 121(b)(2)][/us/pl/109/177/s121/b/2], inserted “or contraband smokeless tobacco” after “contraband cigarettes”.
+    2006—Subsec. (a). [Pub. L. 109–177][/us/pl/109/177], § 121(b)(2), inserted “or contraband smokeless tobacco” after “contraband cigarettes”.
 
-    Subsec. (b). [Pub. L. 109–177, § 121(a)(2)][/us/pl/109/177/s121/a/2], substituted “10,000” for “60,000”.
+    Subsec. (b). [Pub. L. 109–177][/us/pl/109/177], § 121(a)(2), substituted “10,000” for “60,000”.
 
  __Effective Date__ 
 
@@ -38,12 +38,12 @@
 ----------
 ----------
 
-[/us/pl/95/575/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F575%2Fs1
+[/us/pl/95/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F575
 [/us/stat/92/2464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2464
-[/us/pl/109/177/s121/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs121%2Fa%2F2
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F221
-[/us/pl/109/177/s121/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs121%2Fb%2F2
-[/us/pl/109/177/s121/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs121%2Fa%2F2
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/95/575/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F575%2Fs4
 [/us/usc/t18/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2341
 

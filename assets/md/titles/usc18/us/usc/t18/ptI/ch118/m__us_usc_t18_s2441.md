@@ -123,7 +123,7 @@
 
         The definitions in this subsection are intended only to define the grave breaches of common Article 3 and not the full scope of United States obligations under that Article.
 
-(Added [Pub. L. 104–192, § 2(a)][/us/pl/104/192/s2/a], Aug. 21, 1996, [110 Stat. 2104][/us/stat/110/2104], § 2401; renumbered § 2441, [Pub. L. 104–294, title VI, § 605(p)(1)][/us/pl/104/294/s605/p/1], Oct. 11, 1996, [110 Stat. 3510][/us/stat/110/3510]; amended [Pub. L. 105–118, title V, § 583][/us/pl/105/118/s583], Nov. 26, 1997, [111 Stat. 2436][/us/stat/111/2436]; [Pub. L. 107–273, div. B, title IV, § 4002(e)(7)][/us/pl/107/273/s4002/e/7], Nov. 2, 2002, [116 Stat. 1810][/us/stat/116/1810]; [Pub. L. 109–366, § 6(b)(1)][/us/pl/109/366/s6/b/1], Oct. 17, 2006, [120 Stat. 2633][/us/stat/120/2633].)
+(Added [Pub. L. 104–192][/us/pl/104/192], § 2(a), Aug. 21, 1996, [110 Stat. 2104][/us/stat/110/2104], § 2401; renumbered § 2441, [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 605(p)(1), Oct. 11, 1996, [110 Stat. 3510][/us/stat/110/3510]; amended [Pub. L. 105–118, title V][/us/pl/105/118/tV], § 583, Nov. 26, 1997, [111 Stat. 2436][/us/stat/111/2436]; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(e)(7), Nov. 2, 2002, [116 Stat. 1810][/us/stat/116/1810]; [Pub. L. 109–366][/us/pl/109/366], § 6(b)(1), Oct. 17, 2006, [120 Stat. 2633][/us/stat/120/2633].)
 
  __References in Text__ 
 
@@ -133,17 +133,17 @@
 
  __Amendments__ 
 
-    2006—Subsec. (c)(3). [Pub. L. 109–366, § 6(b)(1)(A)][/us/pl/109/366/s6/b/1/A], added par. (3) and struck out former par. (3) which read as follows: “which constitutes a violation of common Article 3 of the international conventions signed at Geneva, 12 August 1949, or any protocol to such convention to which the United States is a party and which deals with non-international armed conflict; or”.
+    2006—Subsec. (c)(3). [Pub. L. 109–366][/us/pl/109/366], § 6(b)(1)(A), added par. (3) and struck out former par. (3) which read as follows: “which constitutes a violation of common Article 3 of the international conventions signed at Geneva, 12 August 1949, or any protocol to such convention to which the United States is a party and which deals with non-international armed conflict; or”.
 
-    Subsec. (d). [Pub. L. 109–366, § 6(b)(1)(B)][/us/pl/109/366/s6/b/1/B], added subsec. (d).
+    Subsec. (d). [Pub. L. 109–366][/us/pl/109/366], § 6(b)(1)(B), added subsec. (d).
 
-    2002—Subsecs. (a) to (c). [Pub. L. 107–273][/us/pl/107/273] made technical correction to directory language of [Pub. L. 105–118, § 583][/us/pl/105/118/s583]. See 1997 Amendment notes below.
+    2002—Subsecs. (a) to (c). [Pub. L. 107–273][/us/pl/107/273] made technical correction to directory language of [Pub. L. 105–118][/us/pl/105/118], § 583. See 1997 Amendment notes below.
 
-    1997—Subsec. (a). [Pub. L. 105–118, § 583(1)][/us/pl/105/118/s583/1], as amended by [Pub. L. 107–273][/us/pl/107/273], substituted “war crime” for “grave breach of the Geneva Conventions”.
+    1997—Subsec. (a). [Pub. L. 105–118][/us/pl/105/118], § 583(1), as amended by [Pub. L. 107–273][/us/pl/107/273], substituted “war crime” for “grave breach of the Geneva Conventions”.
 
-    Subsec. (b). [Pub. L. 105–118, § 583(2)][/us/pl/105/118/s583/2], as amended by [Pub. L. 107–273][/us/pl/107/273], substituted “war crime” for “breach” in two places.
+    Subsec. (b). [Pub. L. 105–118][/us/pl/105/118], § 583(2), as amended by [Pub. L. 107–273][/us/pl/107/273], substituted “war crime” for “breach” in two places.
 
-    Subsec. (c). [Pub. L. 105–118, § 583(3)][/us/pl/105/118/s583/3], as amended by [Pub. L. 107–273][/us/pl/107/273], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+    Subsec. (c). [Pub. L. 105–118][/us/pl/105/118], § 583(3), as amended by [Pub. L. 107–273][/us/pl/107/273], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
     “(c) Definitions.—As used in this section, the term ‘grave breach of the Geneva Conventions’ means conduct defined as a grave breach in any of the international conventions relating to the laws of warfare signed at Geneva 12 August 1949 or any protocol to any such convention, to which the United States is a party.”
 
@@ -151,23 +151,23 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–366, § 6(b)(2)][/us/pl/109/366/s6/b/2], Oct. 17, 2006, [120 Stat. 2635][/us/stat/120/2635], provided that: 
+[Pub. L. 109–366][/us/pl/109/366], § 6(b)(2), Oct. 17, 2006, [120 Stat. 2635][/us/stat/120/2635], provided that: 
 
 > “The amendments made by this subsection \[amending this section\], except as specified in subsection (d)(2)(E) of [section 2441 of title 18][/us/usc/t18/s2441], United States Code, shall take effect as of November 26, 1997, as if enacted immediately after the amendments made by [section 583 of Public Law 105–118][/us/pl/105/118/s583] \[amending this section\] (as amended by [section 4002(e)(7) of Public Law 107–273][/us/pl/107/273/s4002/e/7]).”
 
  __Effective Date of 2002 Amendment__ 
 
-    [Pub. L. 107–273, div. B, title IV, § 4002(e)(7)][/us/pl/107/273/s4002/e/7], Nov. 2, 2002, [116 Stat. 1810][/us/stat/116/1810], provided that the amendment made by section 4002(e)(7) is effective Nov. 26, 1997.
+    [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(e)(7), Nov. 2, 2002, [116 Stat. 1810][/us/stat/116/1810], provided that the amendment made by section 4002(e)(7) is effective Nov. 26, 1997.
 
  __Short Title__ 
 
-[Pub. L. 104–192, § 1][/us/pl/104/192/s1], Aug. 21, 1996, [110 Stat. 2104][/us/stat/110/2104], provided that: 
+[Pub. L. 104–192][/us/pl/104/192], § 1, Aug. 21, 1996, [110 Stat. 2104][/us/stat/110/2104], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘War Crimes Act of 1996’.”
 
  __Implementation of Treaty Obligations__ 
 
-[Pub. L. 109–366, § 6(a)][/us/pl/109/366/s6/a], Oct. 17, 2006, [120 Stat. 2632][/us/stat/120/2632], provided that:
+[Pub. L. 109–366][/us/pl/109/366], § 6(a), Oct. 17, 2006, [120 Stat. 2632][/us/stat/120/2632], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -222,40 +222,40 @@
 [/us/usc/t18/s113/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs113%2Fb%2F2
 [/us/usc/t18/s2246/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2246%2F3
 [/us/usc/t18/s2340/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2340%2F2
-[/us/pl/104/192/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F192%2Fs2%2Fa
+[/us/pl/104/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F192
 [/us/stat/110/2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2104
-[/us/pl/104/294/s605/p/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs605%2Fp%2F1
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3510
-[/us/pl/105/118/s583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2Fs583
+[/us/pl/105/118/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2FtV
 [/us/stat/111/2436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2436
-[/us/pl/107/273/s4002/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fe%2F7
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1810
-[/us/pl/109/366/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs6%2Fb%2F1
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/stat/120/2633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2633
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
-[/us/pl/109/366/s6/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs6%2Fb%2F1%2FA
-[/us/pl/109/366/s6/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs6%2Fb%2F1%2FB
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/105/118/s583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2Fs583
-[/us/pl/105/118/s583/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2Fs583%2F1
+[/us/pl/105/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118
+[/us/pl/105/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/105/118/s583/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2Fs583%2F2
+[/us/pl/105/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/105/118/s583/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2Fs583%2F3
+[/us/pl/105/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/usc/t18/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2401
-[/us/pl/109/366/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs6%2Fb%2F2
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/stat/120/2635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2635
 [/us/usc/t18/s2441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2441
 [/us/pl/105/118/s583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F118%2Fs583
 [/us/pl/107/273/s4002/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fe%2F7
-[/us/pl/107/273/s4002/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fe%2F7
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1810
-[/us/pl/104/192/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F192%2Fs1
+[/us/pl/104/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F192
 [/us/stat/110/2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2104
-[/us/pl/109/366/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs6%2Fa
+[/us/pl/109/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366
 [/us/stat/120/2632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2632
 [/us/usc/t18/s2441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2441
 [/us/usc/t42/s2000dd–0]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000dd%E2%80%930

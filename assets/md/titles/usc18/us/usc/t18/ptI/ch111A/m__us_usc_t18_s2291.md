@@ -55,7 +55,7 @@
 
     Whoever knowingly and intentionally imparts or conveys any threat to do an act which would violate this chapter, with an apparent determination and will to carry the threat into execution, shall be fined under this title or imprisoned not more than 5 years, or both, and is liable for all costs incurred as a result of such threat.
 
-(Added [Pub. L. 109–177, title III, § 306(a)][/us/pl/109/177/s306/a], Mar. 9, 2006, [120 Stat. 237][/us/stat/120/237].)
+(Added [Pub. L. 109–177, title III][/us/pl/109/177/tIII], § 306(a), Mar. 9, 2006, [120 Stat. 237][/us/stat/120/237].)
 
 ----------
 
@@ -66,7 +66,7 @@
 
 [/us/usc/t42/s10101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10101%2F12
 [/us/usc/t42/s10101/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10101%2F23
-[/us/pl/109/177/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs306%2Fa
+[/us/pl/109/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIII
 [/us/stat/120/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F237
 
 

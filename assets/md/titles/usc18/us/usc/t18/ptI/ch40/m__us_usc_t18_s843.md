@@ -89,45 +89,45 @@
 
         The Secretary 1 shall, by regulation, authorize reimbursement of the fair market value of samples furnished pursuant to this subsection, as well as the reasonable costs of shipment.
 
-(Added [Pub. L. 91–452, title XI, § 1102(a)][/us/pl/91/452/s1102/a], Oct. 15, 1970, [84 Stat. 955][/us/stat/84/955]; amended [Pub. L. 107–296, title XI][/us/pl/107/296], §§ 1112(e)(3), 1122(c)–(h), 1124, Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276], 2281, 2282, 2285.)
+(Added [Pub. L. 91–452, title XI][/us/pl/91/452/tXI], § 1102(a), Oct. 15, 1970, [84 Stat. 955][/us/stat/84/955]; amended [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], §§ 1112(e)(3), 1122(c)–(h), 1124, Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276], 2281, 2282, 2285.)
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–296, § 1122(c)][/us/pl/107/296/s1122/c], in first sentence, inserted “or limited permit” after “user permit” and inserted before period at end “, including the names of and appropriate identifying information regarding all employees who will be authorized by the applicant to possess explosive materials, as well as fingerprints and a photograph of each responsible person”, in second sentence, substituted “$50 for a limited permit and $200 for any other” for “$200 for each”, inserted third and fourth sentences, and struck out former third sentence which read as follows: “Each license or permit shall be valid for no longer than three years from date of issuance and shall be renewable upon the same conditions and subject to the same restrictions as the original license or permit and upon payment of a renewal fee not to exceed one-half of the original fee.”
+    2002—Subsec. (a). [Pub. L. 107–296][/us/pl/107/296], § 1122(c), in first sentence, inserted “or limited permit” after “user permit” and inserted before period at end “, including the names of and appropriate identifying information regarding all employees who will be authorized by the applicant to possess explosive materials, as well as fingerprints and a photograph of each responsible person”, in second sentence, substituted “$50 for a limited permit and $200 for any other” for “$200 for each”, inserted third and fourth sentences, and struck out former third sentence which read as follows: “Each license or permit shall be valid for no longer than three years from date of issuance and shall be renewable upon the same conditions and subject to the same restrictions as the original license or permit and upon payment of a renewal fee not to exceed one-half of the original fee.”
 
-    [Pub. L. 107–296, § 1112(e)(3)][/us/pl/107/296/s1112/e/3], substituted “Attorney General” for “Secretary” in two places.
+    [Pub. L. 107–296][/us/pl/107/296], § 1112(e)(3), substituted “Attorney General” for “Secretary” in two places.
 
-    Subsec. (b). [Pub. L. 107–296, § 1112(e)(3)][/us/pl/107/296/s1112/e/3], substituted “Attorney General” for “Secretary” in introductory provisions.
+    Subsec. (b). [Pub. L. 107–296][/us/pl/107/296], § 1112(e)(3), substituted “Attorney General” for “Secretary” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 107–296, § 1122(d)(1)][/us/pl/107/296/s1122/d/1], added par. (1) and struck out former par. (1) which read as follows: “the applicant (including in the case of a corporation, partnership, or association, any individual possessing, directly or indirectly, the power to direct or cause the direction of the management and policies of the corporation, partnership, or association) is not a person to whom the distribution of explosive materials would be unlawful under section 842(d) of this chapter;”.
+    Subsec. (b)(1). [Pub. L. 107–296][/us/pl/107/296], § 1122(d)(1), added par. (1) and struck out former par. (1) which read as follows: “the applicant (including in the case of a corporation, partnership, or association, any individual possessing, directly or indirectly, the power to direct or cause the direction of the management and policies of the corporation, partnership, or association) is not a person to whom the distribution of explosive materials would be unlawful under section 842(d) of this chapter;”.
 
-    Subsec. (b)(4). [Pub. L. 107–296, § 1122(d)(2)][/us/pl/107/296/s1122/d/2], designated existing provisions as subpar. (A), inserted “the Secretary verifies by inspection or, if the application is for an original limited permit or the first or second renewal of such a permit, by such other means as the Secretary determines appropriate, that” before “the applicant”, and added subpar. (B).
+    Subsec. (b)(4). [Pub. L. 107–296][/us/pl/107/296], § 1122(d)(2), designated existing provisions as subpar. (A), inserted “the Secretary verifies by inspection or, if the application is for an original limited permit or the first or second renewal of such a permit, by such other means as the Secretary determines appropriate, that” before “the applicant”, and added subpar. (B).
 
-    [Pub. L. 107–296, § 1112(e)(3)][/us/pl/107/296/s1112/e/3], substituted “the Attorney General by regulations” for “the Secretary by regulations”.
+    [Pub. L. 107–296][/us/pl/107/296], § 1112(e)(3), substituted “the Attorney General by regulations” for “the Secretary by regulations”.
 
-    Subsec. (b)(6), (7). [Pub. L. 107–296, § 1122(d)(3)][/us/pl/107/296/s1122/d/3], (4), added pars. (6) and (7).
+    Subsec. (b)(6), (7). [Pub. L. 107–296][/us/pl/107/296], § 1122(d)(3), (4), added pars. (6) and (7).
 
-    Subsec. (c). [Pub. L. 107–296, § 1122(e)][/us/pl/107/296/s1122/e], substituted “90 days for licenses and permits,” for “forty-five days”.
+    Subsec. (c). [Pub. L. 107–296][/us/pl/107/296], § 1122(e), substituted “90 days for licenses and permits,” for “forty-five days”.
 
-    [Pub. L. 107–296, § 1112(e)(3)][/us/pl/107/296/s1112/e/3], substituted “Attorney General” for “Secretary” in two places.
+    [Pub. L. 107–296][/us/pl/107/296], § 1112(e)(3), substituted “Attorney General” for “Secretary” in two places.
 
-    Subsecs. (d), (e). [Pub. L. 107–296, § 1112(e)(3)][/us/pl/107/296/s1112/e/3], substituted “Attorney General” for “Secretary” wherever appearing.
+    Subsecs. (d), (e). [Pub. L. 107–296][/us/pl/107/296], § 1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
 
-    Subsec. (f). [Pub. L. 107–296, § 1122(f)][/us/pl/107/296/s1122/f], in first sentence, substituted “Licensees and holders of user permits” for “Licensees and permittees” and inserted “licensees and permittees” before “shall submit”, in second sentence, substituted “holder of a user permit” for “permittee”, and inserted at end “The Secretary may inspect the places of storage for explosive materials of an applicant for a limited permit or, at the time of renewal of such permit, a holder of a limited permit, only as provided in subsection (b)(4).”
+    Subsec. (f). [Pub. L. 107–296][/us/pl/107/296], § 1122(f), in first sentence, substituted “Licensees and holders of user permits” for “Licensees and permittees” and inserted “licensees and permittees” before “shall submit”, in second sentence, substituted “holder of a user permit” for “permittee”, and inserted at end “The Secretary may inspect the places of storage for explosive materials of an applicant for a limited permit or, at the time of renewal of such permit, a holder of a limited permit, only as provided in subsection (b)(4).”
 
-    [Pub. L. 107–296, § 1112(e)(3)][/us/pl/107/296/s1112/e/3], substituted “Attorney General” for “Secretary” wherever appearing.
+    [Pub. L. 107–296][/us/pl/107/296], § 1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
 
-    Subsec. (g). [Pub. L. 107–296, § 1122(g)][/us/pl/107/296/s1122/g], inserted “user” before “permits”.
+    Subsec. (g). [Pub. L. 107–296][/us/pl/107/296], § 1122(g), inserted “user” before “permits”.
 
-    Subsec. (h). [Pub. L. 107–296, § 1122(h)][/us/pl/107/296/s1122/h], added subsec. (h).
+    Subsec. (h). [Pub. L. 107–296][/us/pl/107/296], § 1122(h), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 107–296, § 1124][/us/pl/107/296/s1124], added subsec. (i).
+    Subsec. (i). [Pub. L. 107–296][/us/pl/107/296], § 1124, added subsec. (i).
 
  __Effective Date of 2002 Amendment__ 
 
     Amendment by sections 1112(e)(3) and 1124 of [Pub. L. 107–296][/us/pl/107/296] effective 60 days after Nov. 25, 2002, see [section 4 of Pub. L. 107–296][/us/pl/107/296/s4], set out as an Effective Date note under [section 101 of Title 6][/us/usc/t6/s101], Domestic Security.
 
-[Pub. L. 107–296, title XI, § 1122(i)][/us/pl/107/296/s1122/i], Nov. 25, 2002, [116 Stat. 2283][/us/stat/116/2283], provided that:
+[Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1122(i), Nov. 25, 2002, [116 Stat. 2283][/us/stat/116/2283], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -148,29 +148,29 @@
 ----------
 ----------
 
-[/us/pl/91/452/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs1102%2Fa
+[/us/pl/91/452/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtXI
 [/us/stat/84/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F955
-[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2276
-[/us/pl/107/296/s1122/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1122%2Fc
-[/us/pl/107/296/s1112/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fe%2F3
-[/us/pl/107/296/s1112/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fe%2F3
-[/us/pl/107/296/s1122/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1122%2Fd%2F1
-[/us/pl/107/296/s1122/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1122%2Fd%2F2
-[/us/pl/107/296/s1112/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fe%2F3
-[/us/pl/107/296/s1122/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1122%2Fd%2F3
-[/us/pl/107/296/s1122/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1122%2Fe
-[/us/pl/107/296/s1112/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fe%2F3
-[/us/pl/107/296/s1112/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fe%2F3
-[/us/pl/107/296/s1122/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1122%2Ff
-[/us/pl/107/296/s1112/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fe%2F3
-[/us/pl/107/296/s1122/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1122%2Fg
-[/us/pl/107/296/s1122/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1122%2Fh
-[/us/pl/107/296/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1124
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/107/296/s1122/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1122%2Fi
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2283
 [/us/usc/t18/s843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs843
 [/us/pl/91/452/s1105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs1105%2Fc

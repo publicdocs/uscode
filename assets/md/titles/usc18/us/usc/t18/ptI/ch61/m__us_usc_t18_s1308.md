@@ -43,7 +43,7 @@
 
         (3) the term “savings promotion raffle” means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in section 1002 of the Consumer Financial Protection Act of 2010 ([12 U.S.C. 5481][/us/usc/t12/s5481])).
 
-(Added [Pub. L. 113–251, § 4(a)][/us/pl/113/251/s4/a], Dec. 18, 2014, [128 Stat. 2890][/us/stat/128/2890].)
+(Added [Pub. L. 113–251][/us/pl/113/251], § 4(a), Dec. 18, 2014, [128 Stat. 2890][/us/stat/128/2890].)
 
 ----------
 
@@ -55,7 +55,7 @@
 [/us/usc/t12/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s5481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5481
-[/us/pl/113/251/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs4%2Fa
+[/us/pl/113/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251
 [/us/stat/128/2890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2890
 
 

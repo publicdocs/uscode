@@ -17,7 +17,7 @@
 
     Whoever, being a claim agent, attorney, or other person engaged in the collection of claims for pay, pension, or other allowances for any soldier, sailor, or marine, or for any commissioned officer of the military or naval forces, or for any person who may have been a soldier, sailor, marine, or officer of the regular or volunteer forces of the United States, or for his dependents or beneficiaries, retains, without the consent of the owner or owners thereof, or refuses to deliver or account for the same upon demand duly made by the owner or owners thereof, or by their agent or attorney, the discharge papers of any such soldier, sailor, or marine, or commissioned officer, which may have been placed in his hands for the purpose of collecting said claims, shall be fined under this title or imprisoned not more than six months, or both; and shall be debarred from prosecuting any such claim in any department or agency of the United States.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 699][/us/stat/62/699]; [Pub. L. 103–322, title XXXIII, § 330016(1)(G)][/us/pl/103/322/s330016/1/G], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 699][/us/stat/62/699]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(G), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
@@ -48,7 +48,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F699
-[/us/pl/103/322/s330016/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FG
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/usc/t31/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs100
 [/us/usc/t38/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs130

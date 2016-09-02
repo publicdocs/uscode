@@ -21,11 +21,11 @@
 
     Shall be fined under this title or imprisoned not more than five years, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 698][/us/stat/62/698]; [Pub. L. 103–322, title XXXIII, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 698][/us/stat/62/698]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(K), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 92 ([Mar. 4, 1909, ch. 321, § 40][/us/act/1909-03-04/ch321/s40], [35 Stat. 1096][/us/stat/35/1096]).
+    Based on title 18, U.S.C., 1940 ed., § 92 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 40, [35 Stat. 1096][/us/stat/35/1096]).
 
     Word “employee” was inserted after “officer” in two places to clarify scope of section.
 
@@ -46,9 +46,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F698
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/act/1909-03-04/ch321/s40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs40
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1096
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

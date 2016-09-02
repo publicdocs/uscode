@@ -33,7 +33,7 @@
 
     (e) Proof beyond a reasonable doubt under this section is sufficient for conviction. It shall not be necessary that such proof be made by any particular number of witnesses or by documentary or other type of evidence.
 
-(Added [Pub. L. 91–452, title IV, § 401(a)][/us/pl/91/452/s401/a], Oct. 15, 1970, [84 Stat. 932][/us/stat/84/932]; amended [Pub. L. 94–550, § 6][/us/pl/94/550/s6], Oct. 18, 1976, [90 Stat. 2535][/us/stat/90/2535]; [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+(Added [Pub. L. 91–452, title IV][/us/pl/91/452/tIV], § 401(a), Oct. 15, 1970, [84 Stat. 932][/us/stat/84/932]; amended [Pub. L. 94–550][/us/pl/94/550], § 6, Oct. 18, 1976, [90 Stat. 2535][/us/stat/90/2535]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Amendments__ 
 
@@ -49,11 +49,11 @@
 ----------
 
 [/us/usc/t28/s1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1746
-[/us/pl/91/452/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs401%2Fa
+[/us/pl/91/452/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtIV
 [/us/stat/84/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F932
-[/us/pl/94/550/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F550%2Fs6
+[/us/pl/94/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F550
 [/us/stat/90/2535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2535
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/94/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F550

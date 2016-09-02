@@ -17,7 +17,7 @@
 
     No person shall be prosecuted, tried, or punished for a violation of or conspiracy to violate section 668 unless the indictment is returned or the information is filed within 20 years after the commission of the offense.
 
-(Added [Pub. L. 103–322, title XXXII, § 320902(b)][/us/pl/103/322/s320902/b], Sept. 13, 1994, [108 Stat. 2124][/us/stat/108/2124].)
+(Added [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320902(b), Sept. 13, 1994, [108 Stat. 2124][/us/stat/108/2124].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s320902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320902%2Fb
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2124
 
 

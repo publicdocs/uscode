@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–340, § 2(a)(3)(A)][/us/pl/110/340/s2/a/3/A], Oct. 3, 2008, [122 Stat. 3736][/us/stat/122/3736], added item 2442.
+    2008—[Pub. L. 110–340][/us/pl/110/340], § 2(a)(3)(A), Oct. 3, 2008, [122 Stat. 3736][/us/stat/122/3736], added item 2442.
 
-    1996—[Pub. L. 104–294, title VI, § 605(p)(2)][/us/pl/104/294/s605/p/2], Oct. 11, 1996, [110 Stat. 3510][/us/stat/110/3510], redesignated item 2401 as 2441.
+    1996—[Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 605(p)(2), Oct. 11, 1996, [110 Stat. 3510][/us/stat/110/3510], redesignated item 2401 as 2441.
 
 ----------
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/110/340/s2/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F340%2Fs2%2Fa%2F3%2FA
+[/us/pl/110/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F340
 [/us/stat/122/3736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3736
-[/us/pl/104/294/s605/p/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs605%2Fp%2F2
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3510
 
 

@@ -43,7 +43,7 @@
 
         This subsection shall not affect the right of the claimant to refuse production on the basis of any privilege guaranteed by the Constitution of the United States or any other provision of Federal law.
 
-(Added [Pub. L. 102–550, title XV, § 1523(a)][/us/pl/102/550/s1523/a], Oct. 28, 1992, [106 Stat. 4063][/us/stat/106/4063]; amended [Pub. L. 103–325, title IV, § 411(c)(2)(E)][/us/pl/103/325/s411/c/2/E], Sept. 23, 1994, [108 Stat. 2253][/us/stat/108/2253]; [Pub. L. 106–185, § 17][/us/pl/106/185/s17], Apr. 25, 2000, [114 Stat. 221][/us/stat/114/221].)
+(Added [Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1523(a), Oct. 28, 1992, [106 Stat. 4063][/us/stat/106/4063]; amended [Pub. L. 103–325, title IV][/us/pl/103/325/tIV], § 411(c)(2)(E), Sept. 23, 1994, [108 Stat. 2253][/us/stat/108/2253]; [Pub. L. 106–185][/us/pl/106/185], § 17, Apr. 25, 2000, [114 Stat. 221][/us/stat/114/221].)
 
  __References in Text__ 
 
@@ -72,11 +72,11 @@
 
 [/us/usc/t31/s5312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5312%2Fa
 [/us/usc/t21/s853/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853%2Fn
-[/us/pl/102/550/s1523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1523%2Fa
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4063
-[/us/pl/103/325/s411/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs411%2Fc%2F2%2FE
+[/us/pl/103/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIV
 [/us/stat/108/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2253
-[/us/pl/106/185/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs17
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/stat/114/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F221
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242

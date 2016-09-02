@@ -63,7 +63,7 @@
 
         (3) the term “support obligation” means any amount determined under a court order or an order of an administrative process pursuant to the law of a State or of an Indian tribe to be due from a person for the support and maintenance of a child or of a child and the parent with whom the child is living.
 
-(Added [Pub. L. 102–521, § 2(a)][/us/pl/102/521/s2/a], Oct. 25, 1992, [106 Stat. 3403][/us/stat/106/3403]; amended [Pub. L. 104–294, title VI, § 607][/us/pl/104/294/s607](l), Oct. 11, 1996, [110 Stat. 3512][/us/stat/110/3512]; [Pub. L. 105–187, § 2][/us/pl/105/187/s2], June 24, 1998, [112 Stat. 618][/us/stat/112/618].)
+(Added [Pub. L. 102–521][/us/pl/102/521], § 2(a), Oct. 25, 1992, [106 Stat. 3403][/us/stat/106/3403]; amended [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 607(l), Oct. 11, 1996, [110 Stat. 3512][/us/stat/110/3512]; [Pub. L. 105–187][/us/pl/105/187], § 2, June 24, 1998, [112 Stat. 618][/us/stat/112/618].)
 
  __Amendments__ 
 
@@ -73,13 +73,13 @@
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–187, § 1][/us/pl/105/187/s1], June 24, 1998, [112 Stat. 618][/us/stat/112/618], provided that: 
+[Pub. L. 105–187][/us/pl/105/187], § 1, June 24, 1998, [112 Stat. 618][/us/stat/112/618], provided that: 
 
 > “This Act \[amending this section\] may be cited as the ‘Deadbeat Parents Punishment Act of 1998’.”
 
  __Short Title__ 
 
-[Pub. L. 102–521, § 1][/us/pl/102/521/s1], Oct. 25, 1992, [106 Stat. 3403][/us/stat/106/3403], provided that: 
+[Pub. L. 102–521][/us/pl/102/521], § 1, Oct. 25, 1992, [106 Stat. 3403][/us/stat/106/3403], provided that: 
 
 > “This Act \[enacting this section and sections 3796cc to 3796cc–6 of Title 42, The Public Health and Welfare, amending [section 3563 of this title][/us/usc/t18/s3563] and [section 3797 of Title 42][/us/usc/t42/s3797], and enacting provisions set out as a note under [section 12301 of Title 42][/us/usc/t42/s12301]\] may be cited as the ‘Child Support Recovery Act of 1992’.”
 
@@ -91,17 +91,17 @@
 ----------
 
 [/us/usc/t25/s479a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs479a
-[/us/pl/102/521/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521%2Fs2%2Fa
+[/us/pl/102/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521
 [/us/stat/106/3403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3403
-[/us/pl/104/294/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs607
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3512
-[/us/pl/105/187/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F187%2Fs2
+[/us/pl/105/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F187
 [/us/stat/112/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F618
 [/us/pl/105/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F187
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
-[/us/pl/105/187/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F187%2Fs1
+[/us/pl/105/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F187
 [/us/stat/112/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F618
-[/us/pl/102/521/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521%2Fs1
+[/us/pl/102/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521
 [/us/stat/106/3403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3403
 [/us/usc/t18/s3563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3563
 [/us/usc/t42/s3797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797

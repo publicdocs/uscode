@@ -19,7 +19,7 @@
 
     Whoever solicits or receives any thing of value in consideration of aiding a person to obtain employment under the United States either by referring his name to an executive department or agency of the United States or by requiring the payment of a fee because such person has secured such employment shall be fined under this title, or imprisoned not more than one year, or both. This section shall not apply to such services rendered by an employment agency pursuant to the written request of an executive department or agency of the United States.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 694][/us/stat/62/694], § 211, formerly § 215; [Sept. 13, 1951, ch. 380][/us/act/1951-09-13/ch380], [65 Stat. 320][/us/stat/65/320]; renumbered § 211, [Pub. L. 87–849, § 1(b)][/us/pl/87/849/s1/b], Oct. 23, 1962, [76 Stat. 1125][/us/stat/76/1125]; [Pub. L. 103–322, title XXXIII, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 694][/us/stat/62/694], § 211, formerly § 215; [Sept. 13, 1951, ch. 380][/us/act/1951-09-13/ch380], [65 Stat. 320][/us/stat/65/320]; renumbered § 211, [Pub. L. 87–849][/us/pl/87/849], § 1(b), Oct. 23, 1962, [76 Stat. 1125][/us/stat/76/1125]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(H), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
@@ -48,9 +48,9 @@
 [/us/stat/62/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F694
 [/us/act/1951-09-13/ch380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-09-13%2Fch380
 [/us/stat/65/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F320
-[/us/pl/87/849/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs1%2Fb
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1125
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/act/1926-12-11/ch3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-12-11%2Fch3
 [/us/stat/44/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F918

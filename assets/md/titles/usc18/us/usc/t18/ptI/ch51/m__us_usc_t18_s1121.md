@@ -49,7 +49,7 @@
 
     (c) For the purposes of this section, the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Added [Pub. L. 103–322, title VI, § 60015(a)][/us/pl/103/322/s60015/a], Sept. 13, 1994, [108 Stat. 1974][/us/stat/108/1974]; amended [Pub. L. 104–294, title VI, § 607(k)][/us/pl/104/294/s607/k], Oct. 11, 1996, [110 Stat. 3512][/us/stat/110/3512].)
+(Added [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60015(a), Sept. 13, 1994, [108 Stat. 1974][/us/stat/108/1974]; amended [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 607(k), Oct. 11, 1996, [110 Stat. 3512][/us/stat/110/3512].)
 
  __Amendments__ 
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/103/322/s60015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60015%2Fa
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1974
-[/us/pl/104/294/s607/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs607%2Fk
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3512
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 

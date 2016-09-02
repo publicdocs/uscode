@@ -195,7 +195,7 @@
 
         (9) the term “relief” means all relief in any form that may be granted or approved by the court, and includes consent decrees but does not include private settlement agreements.
 
-(Added [Pub. L. 103–322, title II, § 20409(a)][/us/pl/103/322/s20409/a], Sept. 13, 1994, [108 Stat. 1827][/us/stat/108/1827]; amended [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 802(a)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–66; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 105–119, title I, § 123(a)][/us/pl/105/119/s123/a], Nov. 26, 1997, [111 Stat. 2470][/us/stat/111/2470].)
+(Added [Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20409(a), Sept. 13, 1994, [108 Stat. 1827][/us/stat/108/1827]; amended [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title VIII, § 802(a)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–66; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 105–119, title I][/us/pl/105/119/tI], § 123(a), Nov. 26, 1997, [111 Stat. 2470][/us/stat/111/2470].)
 
  __References in Text__ 
 
@@ -205,59 +205,59 @@
 
  __Amendments__ 
 
-    1997—Subsec. (a)(1)(B)(i). [Pub. L. 105–119, § 123(a)(1)(A)][/us/pl/105/119/s123/a/1/A], substituted “requires” for “permits”.
+    1997—Subsec. (a)(1)(B)(i). [Pub. L. 105–119][/us/pl/105/119], § 123(a)(1)(A), substituted “requires” for “permits”.
 
-    Subsec. (a)(3)(A). [Pub. L. 105–119, § 123(a)(1)(B)(i)][/us/pl/105/119/s123/a/1/B/i], substituted “no court shall enter a prisoner release order unless” for “no prisoner release order shall be entered unless”.
+    Subsec. (a)(3)(A). [Pub. L. 105–119][/us/pl/105/119], § 123(a)(1)(B)(i), substituted “no court shall enter a prisoner release order unless” for “no prisoner release order shall be entered unless”.
 
-    Subsec. (a)(3)(F). [Pub. L. 105–119, § 123(a)(1)(B)(ii)][/us/pl/105/119/s123/a/1/B/ii], inserted “including a legislator” after “local official” and substituted “prison facilities” for “program facilities”.
+    Subsec. (a)(3)(F). [Pub. L. 105–119][/us/pl/105/119], § 123(a)(1)(B)(ii), inserted “including a legislator” after “local official” and substituted “prison facilities” for “program facilities”.
 
-    Subsec. (b)(3). [Pub. L. 105–119, § 123(a)(2)][/us/pl/105/119/s123/a/2], substituted “current and ongoing” for “current or ongoing”.
+    Subsec. (b)(3). [Pub. L. 105–119][/us/pl/105/119], § 123(a)(2), substituted “current and ongoing” for “current or ongoing”.
 
-    Subsec. (e)(1). [Pub. L. 105–119, § 123(a)(3)(A)][/us/pl/105/119/s123/a/3/A], inserted at end “Mandamus shall lie to remedy any failure to issue a prompt ruling on such a motion.”
+    Subsec. (e)(1). [Pub. L. 105–119][/us/pl/105/119], § 123(a)(3)(A), inserted at end “Mandamus shall lie to remedy any failure to issue a prompt ruling on such a motion.”
 
-    Subsec. (e)(2). [Pub. L. 105–119, § 123(a)(3)(B)][/us/pl/105/119/s123/a/3/B], substituted “Any motion to modify or terminate prospective relief made under subsection (b) shall operate as a stay” for “Any prospective relief subject to a pending motion shall be automatically stayed”.
+    Subsec. (e)(2). [Pub. L. 105–119][/us/pl/105/119], § 123(a)(3)(B), substituted “Any motion to modify or terminate prospective relief made under subsection (b) shall operate as a stay” for “Any prospective relief subject to a pending motion shall be automatically stayed”.
 
-    Subsec. (e)(3), (4). [Pub. L. 105–119, § 123(a)(3)(C)][/us/pl/105/119/s123/a/3/C], added pars. (3) and (4).
+    Subsec. (e)(3), (4). [Pub. L. 105–119][/us/pl/105/119], § 123(a)(3)(C), added pars. (3) and (4).
 
     1996—[Pub. L. 104–134][/us/pl/104/134] amended section generally, substituting provisions relating to appropriate remedies with respect to prison conditions for former provisions relating to appropriate remedies with respect to prison crowding.
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–119, title I, § 123(b)][/us/pl/105/119/s123/b], Nov. 26, 1997, [111 Stat. 2471][/us/stat/111/2471], provided that: 
+[Pub. L. 105–119, title I][/us/pl/105/119/tI], § 123(b), Nov. 26, 1997, [111 Stat. 2471][/us/stat/111/2471], provided that: 
 
 > “The amendments made by this Act \[probably should be “section”, amending this section\] shall take effect upon the date of the enactment of this Act \[Nov. 26, 1997\] and shall apply to pending cases.”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 802(b)(1)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–70, provided that: 
+[Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title VIII, § 802(b)(1)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–70, provided that: 
 
 > “[Section 3626 of title 18][/us/usc/t18/s3626], United States Code, as amended by this section, shall apply with respect to all prospective relief whether such relief was originally granted or approved before, on, or after the date of the enactment of this title \[Apr. 26, 1996\].”
 
  __Effective and Termination Dates__ 
 
-    [Pub. L. 103–322, title II, § 20409(b)][/us/pl/103/322/s20409/b], Sept. 13, 1994, [108 Stat. 1828][/us/stat/108/1828], which provided that this section applied to all court orders outstanding on Sept. 13, 1994, and [Pub. L. 103–322, title II, § 20409(d)][/us/pl/103/322/s20409/d], Sept. 13, 1994, [108 Stat. 1828][/us/stat/108/1828], which provided for the repeal of this section 5 years after Sept. 13, 1994, were repealed by [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 802(b)(2)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–70; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
+    [Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20409(b), Sept. 13, 1994, [108 Stat. 1828][/us/stat/108/1828], which provided that this section applied to all court orders outstanding on Sept. 13, 1994, and [Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20409(d), Sept. 13, 1994, [108 Stat. 1828][/us/stat/108/1828], which provided for the repeal of this section 5 years after Sept. 13, 1994, were repealed by [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title VIII, § 802(b)(2)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–70; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
 
  __Severability__ 
 
-[Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 810\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–77, provided that: 
+[Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title VIII, § 810\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–77, provided that: 
 
 > “If any provision of this title \[see Short Title of 1996 Amendment note set out under [section 3601 of this title][/us/usc/t18/s3601]\], an amendment made by this title, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this title, the amendments made by this title, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
 
  __Special Masters Appointed Prior to__  __April 26, 1996__  __; Prohibition on Use of Funds__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title III, § 306\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–45, provided that: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title III, § 306\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–45, provided that: 
 
 > “None of the funds available to the Judiciary in fiscal years 1996 and 1997 and hereafter shall be available for expenses authorized pursuant to section 802(a) of title VIII of section 101(a) of title I of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, [Public Law 104–134][/us/pl/104/134] \[amending this section\], for costs related to the appointment of Special Masters prior to April 26, 1996.”
 
  __Payment of Damage Award in Satisfaction of Pending Restitution Orders__ 
 
-[Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 807\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–75, provided that: 
+[Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title VIII, § 807\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–75, provided that: 
 
 > “Any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, shall be paid directly to satisfy any outstanding restitution orders pending against the prisoner. The remainder of any such award after full payment of all pending restitution orders shall be forwarded to the prisoner.”
 
  __Notice to Crime Victims of Pending Damage Award__ 
 
-[Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 808\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–76, provided that: 
+[Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title VIII, § 808\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–76, provided that: 
 
 > “Prior to payment of any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, reasonable efforts shall be made to notify the victims of the crime for which the prisoner was convicted and incarcerated concerning the pending payment of any such compensatory damages.”
 
@@ -270,45 +270,45 @@
 
 [/us/usc/t28/s2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2284
 [/us/usc/t28/s1292/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1292%2Fa%2F1
-[/us/pl/103/322/s20409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20409%2Fa
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1827
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/105/119/s123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs123%2Fa
+[/us/pl/105/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtI
 [/us/stat/111/2470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2470
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
-[/us/pl/105/119/s123/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs123%2Fa%2F1%2FA
-[/us/pl/105/119/s123/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs123%2Fa%2F1%2FB%2Fi
-[/us/pl/105/119/s123/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs123%2Fa%2F1%2FB%2Fii
-[/us/pl/105/119/s123/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs123%2Fa%2F2
-[/us/pl/105/119/s123/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs123%2Fa%2F3%2FA
-[/us/pl/105/119/s123/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs123%2Fa%2F3%2FB
-[/us/pl/105/119/s123/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs123%2Fa%2F3%2FC
+[/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
+[/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
+[/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
+[/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
+[/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
+[/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
+[/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
-[/us/pl/105/119/s123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs123%2Fb
+[/us/pl/105/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtI
 [/us/stat/111/2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2471
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
 [/us/usc/t18/s3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3626
-[/us/pl/103/322/s20409/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20409%2Fb
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1828
-[/us/pl/103/322/s20409/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20409%2Fd
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1828
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
 [/us/usc/t18/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3601
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
 
 

@@ -65,7 +65,7 @@
 
             (B) A person violating a regulation prescribed under this subsection shall be fined under this title, imprisoned for not more than 30 days, or both.
 
-(Added [Pub. L. 90–560, § 5(a)][/us/pl/90/560/s5/a], Oct. 12, 1968, [82 Stat. 998][/us/stat/82/998]; amended [Pub. L. 91–375, § 6(j)(38)(A)][/us/pl/91/375/s6/j/38/A], Aug. 12, 1970, [84 Stat. 781][/us/stat/84/781]; [Pub. L. 100–690, title VI, § 6251(a)][/us/pl/100/690/s6251/a], Nov. 18, 1988, [102 Stat. 4362][/us/stat/102/4362]; [Pub. L. 109–435, title X, § 1001][/us/pl/109/435/s1001], Dec. 20, 2006, [120 Stat. 3254][/us/stat/120/3254].)
+(Added [Pub. L. 90–560][/us/pl/90/560], § 5(a), Oct. 12, 1968, [82 Stat. 998][/us/stat/82/998]; amended [Pub. L. 91–375][/us/pl/91/375], § 6(j)(38)(A), Aug. 12, 1970, [84 Stat. 781][/us/stat/84/781]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6251(a), Nov. 18, 1988, [102 Stat. 4362][/us/stat/102/4362]; [Pub. L. 109–435, title X][/us/pl/109/435/tX], § 1001, Dec. 20, 2006, [120 Stat. 3254][/us/stat/120/3254].)
 
  __Amendments__ 
 
@@ -83,11 +83,11 @@
 
     “(b) The powers granted by subsection (a) of this section shall be exercised only in the enforcement of laws regarding property of the United States in the custody of the Postal Service, including property of the Postal Service, the use of the mails, and other postal offenses.”
 
-    1970—[Pub. L. 91–375, § 6(j)(38)(A)(i)][/us/pl/91/375/s6/j/38/A/i], substituted “postal personnel” for “postal inspectors” in section catchline.
+    1970—[Pub. L. 91–375][/us/pl/91/375], § 6(j)(38)(A)(i), substituted “postal personnel” for “postal inspectors” in section catchline.
 
-    Subsec. (a). [Pub. L. 91–375, § 6(j)(38)(A)(ii)][/us/pl/91/375/s6/j/38/A/ii], substituted “officers and employees of the Postal Service performing duties related to the inspection of postal matters may, to the extent authorized by the Board of Governors—” for “postal inspectors may, to the extent authorized by the Postmaster General—”.
+    Subsec. (a). [Pub. L. 91–375][/us/pl/91/375], § 6(j)(38)(A)(ii), substituted “officers and employees of the Postal Service performing duties related to the inspection of postal matters may, to the extent authorized by the Board of Governors—” for “postal inspectors may, to the extent authorized by the Postmaster General—”.
 
-    Subsec. (b). [Pub. L. 91–375, § 6(j)(38)(A)(iii)][/us/pl/91/375/s6/j/38/A/iii], substituted “Postal Service, including property of the Postal Service,” for “postal service”.
+    Subsec. (b). [Pub. L. 91–375][/us/pl/91/375], § 6(j)(38)(A)(iii), substituted “Postal Service, including property of the Postal Service,” for “postal service”.
 
  __Effective Date of 1970 Amendment__ 
 
@@ -100,19 +100,19 @@
 ----------
 ----------
 
-[/us/pl/90/560/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F560%2Fs5%2Fa
+[/us/pl/90/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F560
 [/us/stat/82/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F998
-[/us/pl/91/375/s6/j/38/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fj%2F38%2FA
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F781
-[/us/pl/100/690/s6251/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6251%2Fa
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4362
-[/us/pl/109/435/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs1001
+[/us/pl/109/435/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtX
 [/us/stat/120/3254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3254
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/91/375/s6/j/38/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fj%2F38%2FA%2Fi
-[/us/pl/91/375/s6/j/38/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fj%2F38%2FA%2Fii
-[/us/pl/91/375/s6/j/38/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fj%2F38%2FA%2Fiii
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101

@@ -17,7 +17,7 @@
 
     Whoever, being an editor or publisher, prints in a publication entered as second class mail, editorial or other reading matter for which he has been paid or promised a valuable consideration, without plainly marking the same “advertisement” shall be fined under this title.
 
-(Added [Pub. L. 86–682, § 7][/us/pl/86/682/s7], Sept. 2, 1960, [74 Stat. 706][/us/stat/74/706]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(G)][/us/pl/103/322/s330016/1/G], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+(Added [Pub. L. 86–682][/us/pl/86/682], § 7, Sept. 2, 1960, [74 Stat. 706][/us/stat/74/706]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(G), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/86/682/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682%2Fs7
+[/us/pl/86/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682
 [/us/stat/74/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F706
-[/us/pl/103/322/s330016/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FG
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/86/682/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682%2Fs11

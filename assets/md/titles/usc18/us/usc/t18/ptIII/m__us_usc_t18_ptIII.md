@@ -151,13 +151,13 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–647, title XXXV, § 3597][/us/pl/101/647/s3597], Nov. 29, 1990, [104 Stat. 4931][/us/stat/104/4931], added items 306 and 319.
+    1990—[Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3597, Nov. 29, 1990, [104 Stat. 4931][/us/stat/104/4931], added items 306 and 319.
 
-    1984—[Pub. L. 98–473, title II, § 218(d)][/us/pl/98/473/s218/d], Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027], in items 309, 311, and 314 substituted “Repealed” for “Good time allowances”, “Parole”, and “Narcotic addicts”, respectively.
+    1984—[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 218(d), Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027], in items 309, 311, and 314 substituted “Repealed” for “Good time allowances”, “Parole”, and “Narcotic addicts”, respectively.
 
-    [Pub. L. 98–473, title II, § 403(b)][/us/pl/98/473/s403/b], Oct. 12, 1984, [98 Stat. 2067][/us/stat/98/2067], substituted “Offenders with mental disease or defect” for “Mental defectives” in item 313.
+    [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 403(b), Oct. 12, 1984, [98 Stat. 2067][/us/stat/98/2067], substituted “Offenders with mental disease or defect” for “Mental defectives” in item 313.
 
-    1966—[Pub. L. 89–793, title VI, § 603][/us/pl/89/793/s603], Nov. 8, 1966, [80 Stat. 1450][/us/stat/80/1450], added item 314.
+    1966—[Pub. L. 89–793, title VI][/us/pl/89/793/tVI], § 603, Nov. 8, 1966, [80 Stat. 1450][/us/stat/80/1450], added item 314.
 
 ----------
 
@@ -166,13 +166,13 @@
 ----------
 ----------
 
-[/us/pl/101/647/s3597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3597
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4931
-[/us/pl/98/473/s218/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs218%2Fd
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2027
-[/us/pl/98/473/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs403%2Fb
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2067
-[/us/pl/89/793/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2Fs603
+[/us/pl/89/793/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2FtVI
 [/us/stat/80/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1450
 
 

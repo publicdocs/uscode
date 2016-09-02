@@ -17,7 +17,7 @@
 
     Whoever, in executing a search warrant, willfully exceeds his authority or exercises it with unnecessary severity, shall be fined under this title or imprisoned not more than one year, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 803][/us/stat/62/803]; [Pub. L. 104–294, title VI, § 601(a)(8)][/us/pl/104/294/s601/a/8], Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498]; [Pub. L. 107–273, div. B, title III, § 3002(a)(3)][/us/pl/107/273/s3002/a/3], Nov. 2, 2002, [116 Stat. 1805][/us/stat/116/1805].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 803][/us/stat/62/803]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(a)(8), Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498]; [Pub. L. 107–273, div. B, title III][/us/pl/107/273/dB/tIII], § 3002(a)(3), Nov. 2, 2002, [116 Stat. 1805][/us/stat/116/1805].)
 
  __Historical and Revision Notes__ 
 
@@ -40,9 +40,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F803
-[/us/pl/104/294/s601/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fa%2F8
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3498
-[/us/pl/107/273/s3002/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs3002%2Fa%2F3
+[/us/pl/107/273/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIII
 [/us/stat/116/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1805
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
 [/us/stat/40/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F230

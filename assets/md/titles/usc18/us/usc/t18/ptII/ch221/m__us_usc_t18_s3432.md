@@ -17,7 +17,7 @@
 
     A person charged with treason or other capital offense shall at least three entire days before commencement of trial, excluding intermediate weekends and holidays, be furnished with a copy of the indictment and a list of the veniremen, and of the witnesses to be produced on the trial for proving the indictment, stating the place of abode of each venireman and witness, except that such list of the veniremen and witnesses need not be furnished if the court finds by a preponderance of the evidence that providing the list may jeopardize the life or safety of any person.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 831][/us/stat/62/831]; [Pub. L. 103–322, title VI, § 60025][/us/pl/103/322/s60025], Sept. 13, 1994, [108 Stat. 1982][/us/stat/108/1982]; [Pub. L. 111–16, § 3(10)][/us/pl/111/16/s3/10], May 7, 2009, [123 Stat. 1608][/us/stat/123/1608].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 831][/us/stat/62/831]; [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60025, Sept. 13, 1994, [108 Stat. 1982][/us/stat/108/1982]; [Pub. L. 111–16][/us/pl/111/16], § 3(10), May 7, 2009, [123 Stat. 1608][/us/stat/123/1608].)
 
  __Historical and Revision Notes__ 
 
@@ -50,9 +50,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F831
-[/us/pl/103/322/s60025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60025
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1982
-[/us/pl/111/16/s3/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs3%2F10
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/stat/123/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1608
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

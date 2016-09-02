@@ -47,11 +47,11 @@
 
             (B) has been convicted of, or has entered a plea of nolo contendere with respect to, any offense under section 792 through 799, 831, or 2381 of this title or under section 11 of the Export Administration Act of 1979, except that the provisions of this subsection shall not apply to a person described in this clause for a period of more than five years beginning on the date of the conviction or the date of entry of the plea of nolo contendere, as the case may be.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 743][/us/stat/62/743]; [Pub. L. 97–462, § 6][/us/pl/97/462/s6], Jan. 12, 1983, [96 Stat. 2530][/us/stat/96/2530]; [Pub. L. 98–473, title II, § 1209][/us/pl/98/473/s1209], Oct. 12, 1984, [98 Stat. 2164][/us/stat/98/2164]; [Pub. L. 99–569, title VII, § 703][/us/pl/99/569/s703], Oct. 27, 1986, [100 Stat. 3205][/us/stat/100/3205]; [Pub. L. 103–199, title II, § 202][/us/pl/103/199/s202], Dec. 17, 1993, [107 Stat. 2321][/us/stat/107/2321]; [Pub. L. 103–322, title XXXIII, § 330016(1)(R)][/us/pl/103/322/s330016/1/R], Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 743][/us/stat/62/743]; [Pub. L. 97–462][/us/pl/97/462], § 6, Jan. 12, 1983, [96 Stat. 2530][/us/stat/96/2530]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1209, Oct. 12, 1984, [98 Stat. 2164][/us/stat/98/2164]; [Pub. L. 99–569, title VII][/us/pl/99/569/tVII], § 703, Oct. 27, 1986, [100 Stat. 3205][/us/stat/100/3205]; [Pub. L. 103–199, title II][/us/pl/103/199/tII], § 202, Dec. 17, 1993, [107 Stat. 2321][/us/stat/107/2321]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(R), Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148].)
 
  __Historical and Revision Notes__ 
 
-    Based on [section 601 of title 22][/us/usc/t22/s601], U.S.C., 1940 ed., Foreign Relations and Intercourse ([June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title VIII, § 3, [40 Stat. 226][/us/stat/40/226]; [Mar. 28, 1940, ch. 72, § 6][/us/act/1940-03-28/ch72/s6], [54 Stat. 80][/us/stat/54/80]).
+    Based on [section 601 of title 22][/us/usc/t22/s601], U.S.C., 1940 ed., Foreign Relations and Intercourse ([June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title VIII, § 3, [40 Stat. 226][/us/stat/40/226]; [Mar. 28, 1940, ch. 72][/us/act/1940-03-28/ch72], § 6, [54 Stat. 80][/us/stat/54/80]).
 
     Mandatory punishment provision was rephrased in the alternative.
 
@@ -86,20 +86,20 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F743
-[/us/pl/97/462/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F462%2Fs6
+[/us/pl/97/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F462
 [/us/stat/96/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2530
-[/us/pl/98/473/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1209
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2164
-[/us/pl/99/569/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2Fs703
+[/us/pl/99/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2FtVII
 [/us/stat/100/3205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3205
-[/us/pl/103/199/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs202
+[/us/pl/103/199/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtII
 [/us/stat/107/2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2321
-[/us/pl/103/322/s330016/1/R]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FR
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2148
 [/us/usc/t22/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs601
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
 [/us/stat/40/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F226
-[/us/act/1940-03-28/ch72/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-28%2Fch72%2Fs6
+[/us/act/1940-03-28/ch72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-28%2Fch72
 [/us/stat/54/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F80
 [/us/usc/t50/s4610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4610
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

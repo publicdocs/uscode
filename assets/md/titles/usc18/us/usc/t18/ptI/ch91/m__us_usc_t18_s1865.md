@@ -31,7 +31,7 @@
 
     An individual who trespasses in a national military park to hunt or shoot, or hunts game of any kind in a national military park with a gun or dog, or sets a trap or net or other device in a national military park to hunt or catch game of any kind, shall be imprisoned not less than 5 nor more than 30 days, fined under this title, or both.
 
-(Added [Pub. L. 113–287, § 4(a)(1)][/us/pl/113/287/s4/a/1], Dec. 19, 2014, [128 Stat. 3260][/us/stat/128/3260].)
+(Added [Pub. L. 113–287][/us/pl/113/287], § 4(a)(1), Dec. 19, 2014, [128 Stat. 3260][/us/stat/128/3260].)
 
 <table>
 
@@ -142,7 +142,7 @@ Mar. 3, 1897, ch. 372, §§ 1, 2, 5, 29 Stat. 621, 622.  </td>
 
 [/us/usc/t54/s100751/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100751%2Fa
 [/us/usc/t54/s100737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100737
-[/us/pl/113/287/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs4%2Fa%2F1
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3260
 
 

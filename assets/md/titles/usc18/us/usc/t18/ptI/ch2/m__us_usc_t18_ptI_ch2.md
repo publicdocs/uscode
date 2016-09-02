@@ -115,15 +115,15 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–95, title III, § 311(b)][/us/pl/112/95/s311/b], Feb. 14, 2012, [126 Stat. 66][/us/stat/126/66], transferred item 39 to appear after item 38 and added item 39A.
+    2012—[Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 311(b), Feb. 14, 2012, [126 Stat. 66][/us/stat/126/66], transferred item 39 to appear after item 38 and added item 39A.
 
-    2008—[Pub. L. 110–244, title III, § 301(j)][/us/pl/110/244/s301/j], June 6, 2008, [122 Stat. 1616][/us/stat/122/1616], redesignated item 39 “Commercial motor vehicles required to stop for inspections” as item 40.
+    2008—[Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 301(j), June 6, 2008, [122 Stat. 1616][/us/stat/122/1616], redesignated item 39 “Commercial motor vehicles required to stop for inspections” as item 40.
 
-    2005—[Pub. L. 109–59, title II, § 2018(b)][/us/pl/109/59/s2018/b], title IV, § 4143(c)(1), Aug. 10, 2005, [119 Stat. 1543][/us/stat/119/1543], 1748, added item 39 “Commercial motor vehicles required to stop for inspections” and item 39 “Traffic signal preemption transmitters”.
+    2005—[Pub. L. 109–59, title II][/us/pl/109/59/tII], § 2018(b), title IV, § 4143(c)(1), Aug. 10, 2005, [119 Stat. 1543][/us/stat/119/1543], 1748, added item 39 “Commercial motor vehicles required to stop for inspections” and item 39 “Traffic signal preemption transmitters”.
 
-    2000—[Pub. L. 106–181, title V, § 506(c)(2)(A)][/us/pl/106/181/s506/c/2/A], Apr. 5, 2000, [114 Stat. 139][/us/stat/114/139], added item 38.
+    2000—[Pub. L. 106–181, title V][/us/pl/106/181/tV], § 506(c)(2)(A), Apr. 5, 2000, [114 Stat. 139][/us/stat/114/139], added item 38.
 
-    1994—[Pub. L. 103–322, title VI][/us/pl/103/322], §§ 60008(c), 60021(b), Sept. 13, 1994, [108 Stat. 1972][/us/stat/108/1972], 1980, added items 36 and 37.
+    1994—[Pub. L. 103–322, title VI][/us/pl/103/322/tVI], §§ 60008(c), 60021(b), Sept. 13, 1994, [108 Stat. 1972][/us/stat/108/1972], 1980, added items 36 and 37.
 
 ----------
 
@@ -132,15 +132,15 @@
 ----------
 ----------
 
-[/us/pl/112/95/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs311%2Fb
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F66
-[/us/pl/110/244/s301/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fj
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1616
-[/us/pl/109/59/s2018/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2018%2Fb
+[/us/pl/109/59/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtII
 [/us/stat/119/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1543
-[/us/pl/106/181/s506/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs506%2Fc%2F2%2FA
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F139
-[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1972
 
 

@@ -41,7 +41,7 @@
 
     (f) Nothing in this section shall be construed as indicating an intent on the part of Congress to prevent any State, any possession or Commonwealth of the United States, or the District of Columbia, from exercising jurisdiction over any offense over which it would have jurisdiction in the absence of this section; nor shall anything in this section be construed as depriving State and local law enforcement authorities of responsibility for prosecuting acts that may be violations of this section and that are violations of State and local law.
 
-(Added [Pub. L. 90–284, title I, § 104(a)][/us/pl/90/284/s104/a], Apr. 11, 1968, [82 Stat. 75][/us/stat/82/75]; amended [Pub. L. 99–386, title I, § 106][/us/pl/99/386/s106], Aug. 22, 1986, [100 Stat. 822][/us/stat/100/822]; [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–294, title VI, § 601(f)(15)][/us/pl/104/294/s601/f/15], Oct. 11, 1996, [110 Stat. 3500][/us/stat/110/3500].)
+(Added [Pub. L. 90–284, title I][/us/pl/90/284/tI], § 104(a), Apr. 11, 1968, [82 Stat. 75][/us/stat/82/75]; amended [Pub. L. 99–386, title I][/us/pl/99/386/tI], § 106, Aug. 22, 1986, [100 Stat. 822][/us/stat/100/822]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(f)(15), Oct. 11, 1996, [110 Stat. 3500][/us/stat/110/3500].)
 
  __Amendments__ 
 
@@ -58,13 +58,13 @@
 ----------
 ----------
 
-[/us/pl/90/284/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs104%2Fa
+[/us/pl/90/284/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtI
 [/us/stat/82/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F75
-[/us/pl/99/386/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2Fs106
+[/us/pl/99/386/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F386%2FtI
 [/us/stat/100/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F822
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/104/294/s601/f/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Ff%2F15
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3500
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

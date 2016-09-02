@@ -27,7 +27,7 @@
 
     The requirement of subsection (a) of this section does not apply with respect to records or other information maintained by a communications common carrier that relate to telephone toll records and telephone listings obtained under [section 2703 of this title][/us/usc/t18/s2703]. The court may, however, order a payment as described in subsection (a) if the court determines the information required is unusually voluminous in nature or otherwise caused an undue burden on the provider.
 
-(Added [Pub. L. 99–508, title II, § 201][/us/pl/99/508/s201]\[(a)\], Oct. 21, 1986, [100 Stat. 1866][/us/stat/100/1866]; amended [Pub. L. 100–690, title VII, § 7061][/us/pl/100/690/s7061], Nov. 18, 1988, [102 Stat. 4404][/us/stat/102/4404].)
+(Added [Pub. L. 99–508, title II][/us/pl/99/508/tII], § 201\[(a)\], Oct. 21, 1986, [100 Stat. 1866][/us/stat/100/1866]; amended [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7061, Nov. 18, 1988, [102 Stat. 4404][/us/stat/102/4404].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t18/s2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2703
-[/us/pl/99/508/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs201
+[/us/pl/99/508/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtII
 [/us/stat/100/1866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1866
-[/us/pl/100/690/s7061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7061
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4404
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 

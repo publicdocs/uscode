@@ -47,7 +47,7 @@
 
         (3) The amounts paid under this paragraph  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “subsection”. </sup></sup>  for services in any case shall be disclosed to the public, after the disposition of the petition.
 
-(Added [Pub. L. 109–177, title II, § 222(a)][/us/pl/109/177/s222/a], Mar. 9, 2006, [120 Stat. 231][/us/stat/120/231]; amended [Pub. L. 110–406, § 12(c)][/us/pl/110/406/s12/c], Oct. 13, 2008, [122 Stat. 4294][/us/stat/122/4294].)
+(Added [Pub. L. 109–177, title II][/us/pl/109/177/tII], § 222(a), Mar. 9, 2006, [120 Stat. 231][/us/stat/120/231]; amended [Pub. L. 110–406][/us/pl/110/406], § 12(c), Oct. 13, 2008, [122 Stat. 4294][/us/stat/122/4294].)
 
  __Amendments__ 
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/109/177/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs222%2Fa
+[/us/pl/109/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtII
 [/us/stat/120/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F231
-[/us/pl/110/406/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs12%2Fc
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/stat/122/4294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4294
 [/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 

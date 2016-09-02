@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., §§ 753i, 910 ([May 14, 1930, ch. 274, § 10][/us/act/1930-05-14/ch274/s10], [46 Stat. 327][/us/stat/46/327]; [May 27, 1930, ch. 339, § 10][/us/act/1930-05-27/ch339/s10], [46 Stat. 390][/us/stat/46/390]).
+    Based on title 18, U.S.C., 1940 ed., §§ 753i, 910 ([May 14, 1930, ch. 274][/us/act/1930-05-14/ch274], § 10, [46 Stat. 327][/us/stat/46/327]; [May 27, 1930, ch. 339][/us/act/1930-05-27/ch339], § 10, [46 Stat. 390][/us/stat/46/390]).
 
     Section consolidates similar language of said sections of title 18, U.S.C., 1940 ed. Remaining provisions are in [section 752 of this title][/us/usc/t18/s752].
 
@@ -38,9 +38,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F755
-[/us/act/1930-05-14/ch274/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch274%2Fs10
+[/us/act/1930-05-14/ch274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch274
 [/us/stat/46/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F327
-[/us/act/1930-05-27/ch339/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-27%2Fch339%2Fs10
+[/us/act/1930-05-27/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-27%2Fch339
 [/us/stat/46/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F390
 [/us/usc/t18/s752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs752
 [/us/usc/t18/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1071

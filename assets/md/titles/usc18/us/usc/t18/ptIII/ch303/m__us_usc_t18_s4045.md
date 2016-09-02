@@ -17,7 +17,7 @@
 
     A chief executive officer of a Federal penal or correctional facility may, pursuant to rules prescribed by the Director, order an autopsy and related scientific or medical tests to be performed on the body of a deceased inmate of the facility in the event of homicide, suicide, fatal illness or accident, or unexplained death, when it is determined that such autopsy or test is necessary to detect a crime, maintain discipline, protect the health or safety of other inmates, remedy official misconduct, or defend the United States or its employees from civil liability arising from the administration of the facility. To the extent consistent with the needs of the autopsy or of specific scientific or medical tests, provisions of State and local law protecting religious beliefs with respect to such autopsies shall be observed. Such officer may also order an autopsy or post-mortem operation, including removal of tissue for transplanting, to be performed on the body of a deceased inmate of the facility, with the written consent of a person authorized to permit such an autopsy or post-mortem operation under the law of the State in which the facility is located.
 
-(Added [Pub. L. 99–646, § 67(a)][/us/pl/99/646/s67/a], Nov. 10, 1986, [100 Stat. 3616][/us/stat/100/3616].)
+(Added [Pub. L. 99–646][/us/pl/99/646], § 67(a), Nov. 10, 1986, [100 Stat. 3616][/us/stat/100/3616].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/646/s67/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs67%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3616
 
 

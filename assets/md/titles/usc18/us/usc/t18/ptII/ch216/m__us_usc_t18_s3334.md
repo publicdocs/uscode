@@ -17,7 +17,7 @@
 
     The provisions of chapter 215, title 18, United States Code, and the Federal Rules of Criminal Procedure applicable to regular grand juries shall apply to special grand juries to the extent not inconsistent with sections 3331, 3332, or 3333 of this chapter.
 
-(Added [Pub. L. 91–452, title I, § 101(a)][/us/pl/91/452/s101/a], Oct. 15, 1970, [84 Stat. 926][/us/stat/84/926].)
+(Added [Pub. L. 91–452, title I][/us/pl/91/452/tI], § 101(a), Oct. 15, 1970, [84 Stat. 926][/us/stat/84/926].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/452/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs101%2Fa
+[/us/pl/91/452/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtI
 [/us/stat/84/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F926
 
 

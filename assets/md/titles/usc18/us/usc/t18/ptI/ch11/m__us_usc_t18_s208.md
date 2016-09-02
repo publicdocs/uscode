@@ -57,7 +57,7 @@
 
             (B) provide guidance with respect to the types of interests that are not so substantial as to be deemed likely to affect the integrity of the services the Government may expect from the employee.
 
-(Added [Pub. L. 87–849, § 1(a)][/us/pl/87/849/s1/a], Oct. 23, 1962, [76 Stat. 1124][/us/stat/76/1124]; amended [Pub. L. 95–188, title II, § 205][/us/pl/95/188/s205], Nov. 16, 1977, [91 Stat. 1388][/us/stat/91/1388]; [Pub. L. 101–194, title IV, § 405][/us/pl/101/194/s405], Nov. 30, 1989, [103 Stat. 1751][/us/stat/103/1751]; [Pub. L. 101–280, § 5(e)][/us/pl/101/280/s5/e], May 4, 1990, [104 Stat. 159][/us/stat/104/159]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322], §§ 330002(b), 330008(6), Sept. 13, 1994, [108 Stat. 2140][/us/stat/108/2140], 2143.)
+(Added [Pub. L. 87–849][/us/pl/87/849], § 1(a), Oct. 23, 1962, [76 Stat. 1124][/us/stat/76/1124]; amended [Pub. L. 95–188, title II][/us/pl/95/188/tII], § 205, Nov. 16, 1977, [91 Stat. 1388][/us/stat/91/1388]; [Pub. L. 101–194, title IV][/us/pl/101/194/tIV], § 405, Nov. 30, 1989, [103 Stat. 1751][/us/stat/103/1751]; [Pub. L. 101–280][/us/pl/101/280], § 5(e), May 4, 1990, [104 Stat. 159][/us/stat/104/159]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], §§ 330002(b), 330008(6), Sept. 13, 1994, [108 Stat. 2140][/us/stat/108/2140], 2143.)
 
  __References in Text__ 
 
@@ -75,27 +75,27 @@
 
  __Amendments__ 
 
-    1994—Subsec. (b)(4). [Pub. L. 103–322, § 330008(6)][/us/pl/103/322/s330008/6], inserted “if” after “(4)”.
+    1994—Subsec. (b)(4). [Pub. L. 103–322][/us/pl/103/322], § 330008(6), inserted “if” after “(4)”.
 
-    Subsec. (c)(1). [Pub. L. 103–322, § 330002(b)][/us/pl/103/322/s330002/b], substituted “banks” for “Banks”.
+    Subsec. (c)(1). [Pub. L. 103–322][/us/pl/103/322], § 330002(b), substituted “banks” for “Banks”.
 
-    1990—Subsec. (a). [Pub. L. 101–280, § 5(e)(2)][/us/pl/101/280/s5/e/2], made technical correction to directory language of [Pub. L. 101–194, § 405(1)(C)][/us/pl/101/194/s405/1/C]. See 1989 Amendment note below.
+    1990—Subsec. (a). [Pub. L. 101–280][/us/pl/101/280], § 5(e)(2), made technical correction to directory language of [Pub. L. 101–194][/us/pl/101/194], § 405(1)(C). See 1989 Amendment note below.
 
-    Subsec. (b)(2). [Pub. L. 101–280, § 5(e)(1)(A)][/us/pl/101/280/s5/e/1/A], substituted “subsection (a)” for “paragraph (1)”.
+    Subsec. (b)(2). [Pub. L. 101–280][/us/pl/101/280], § 5(e)(1)(A), substituted “subsection (a)” for “paragraph (1)”.
 
-    Subsec. (b)(3). [Pub. L. 101–280, § 5(e)(1)(B)][/us/pl/101/280/s5/e/1/B], struck out “section 107 of” after “individual pursuant to”.
+    Subsec. (b)(3). [Pub. L. 101–280][/us/pl/101/280], § 5(e)(1)(B), struck out “section 107 of” after “individual pursuant to”.
 
-    Subsec. (d)(1). [Pub. L. 101–280, § 5(e)(1)(C)][/us/pl/101/280/s5/e/1/C], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “A copy of any determination by other than the Director of the Office of Government Ethics granting an exemption pursuant to subsection (b)(1) or (b)(3) shall be submitted to the Director, who shall make all determinations available to the public pursuant to section 105 of the Ethics in Government Act of 1978. For determinations pursuant to subsection (b)(3), the information from the financial disclosure report of the officer or employee involved describing the asset or assets that necessitated the waiver shall also be made available to the public. This subsection shall not apply, however, if the head of the agency or his or her designee determines that the determination under subsection (b)(1) or (b)(3), as the case may be, involves classified information.”
+    Subsec. (d)(1). [Pub. L. 101–280][/us/pl/101/280], § 5(e)(1)(C), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “A copy of any determination by other than the Director of the Office of Government Ethics granting an exemption pursuant to subsection (b)(1) or (b)(3) shall be submitted to the Director, who shall make all determinations available to the public pursuant to section 105 of the Ethics in Government Act of 1978. For determinations pursuant to subsection (b)(3), the information from the financial disclosure report of the officer or employee involved describing the asset or assets that necessitated the waiver shall also be made available to the public. This subsection shall not apply, however, if the head of the agency or his or her designee determines that the determination under subsection (b)(1) or (b)(3), as the case may be, involves classified information.”
 
-    1989—Subsec. (a). [Pub. L. 101–194, § 405(1)][/us/pl/101/194/s405/1], as amended by [Pub. L. 101–280, § 5(e)(2)][/us/pl/101/280/s5/e/2], inserted “or” after “United States Government,” and “an officer or employee” before “of the District of Columbia”, substituted “general partner” for “partner” in two places, and substituted “Shall be subject to the penalties set forth in [section 216 of this title][/us/usc/t18/s216]” for “Shall be fined not more than $10,000, or imprisoned not more than two years, or both”.
+    1989—Subsec. (a). [Pub. L. 101–194][/us/pl/101/194], § 405(1), as amended by [Pub. L. 101–280][/us/pl/101/280], § 5(e)(2), inserted “or” after “United States Government,” and “an officer or employee” before “of the District of Columbia”, substituted “general partner” for “partner” in two places, and substituted “Shall be subject to the penalties set forth in [section 216 of this title][/us/usc/t18/s216]” for “Shall be fined not more than $10,000, or imprisoned not more than two years, or both”.
 
-    Subsec. (b). [Pub. L. 101–194, § 405(2)][/us/pl/101/194/s405/2], added subsec. (b) and struck out former subsec. (b), which read as follows: “Subsection (a) hereof shall not apply (1) if the officer or employee first advises the Government official responsible for appointment to his position of the nature and circumstances of the judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter and makes full disclosure of the financial interest and receives in advance a written determination made by such official that the interest is not so substantial as to be deemed likely to affect the integrity of the services which the Government may expect from such officer or employee, or (2) if, by general rule or regulation published in the Federal Register, the financial interest has been exempted from the requirements of clause (1) hereof as being too remote or too inconsequential to affect the integrity of Government officers’ or employees’ services. In the case of class A and B directors of Federal Reserve banks, the Board of Governors of the Federal Reserve System shall be the Government official responsible for appointment.”
+    Subsec. (b). [Pub. L. 101–194][/us/pl/101/194], § 405(2), added subsec. (b) and struck out former subsec. (b), which read as follows: “Subsection (a) hereof shall not apply (1) if the officer or employee first advises the Government official responsible for appointment to his position of the nature and circumstances of the judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter and makes full disclosure of the financial interest and receives in advance a written determination made by such official that the interest is not so substantial as to be deemed likely to affect the integrity of the services which the Government may expect from such officer or employee, or (2) if, by general rule or regulation published in the Federal Register, the financial interest has been exempted from the requirements of clause (1) hereof as being too remote or too inconsequential to affect the integrity of Government officers’ or employees’ services. In the case of class A and B directors of Federal Reserve banks, the Board of Governors of the Federal Reserve System shall be the Government official responsible for appointment.”
 
-    Subsecs. (c), (d). [Pub. L. 101–194, § 405(2)][/us/pl/101/194/s405/2], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 101–194][/us/pl/101/194], § 405(2), added subsecs. (c) and (d).
 
-    1977—Subsec. (a). [Pub. L. 95–188, § 205(a)][/us/pl/95/188/s205/a], extended conflicts of interest prohibition to a Federal Reserve bank director, officer, or employee.
+    1977—Subsec. (a). [Pub. L. 95–188][/us/pl/95/188], § 205(a), extended conflicts of interest prohibition to a Federal Reserve bank director, officer, or employee.
 
-    Subsec. (b). [Pub. L. 95–188, § 205(b)][/us/pl/95/188/s205/b], inserted at end “In the case of class A and B directors of Federal Reserve banks, the Board of Governors of the Federal Reserve System shall be the Government official responsible for appointment.”
+    Subsec. (b). [Pub. L. 95–188][/us/pl/95/188], § 205(b), inserted at end “In the case of class A and B directors of Federal Reserve banks, the Board of Governors of the Federal Reserve System shall be the Government official responsible for appointment.”
 
  __Effective Date__ 
 
@@ -117,9 +117,9 @@
 
  __“Particular Matter” Defined__ 
 
-    [Pub. L. 100–446, title III, § 319][/us/pl/100/446/s319], Sept. 27, 1988, [102 Stat. 1826][/us/stat/102/1826], which provided that notwithstanding any other provision of law, for the purposes of this section “particular matter”, as applied to employees of the Department of the Interior and the Indian Health Service, means “particular matter involving specific parties”, was repealed by [Pub. L. 101–194, title V, § 505(b)][/us/pl/101/194/s505/b], Nov. 30, 1989, [103 Stat. 1756][/us/stat/103/1756], as amended by [Pub. L. 101–280, § 6(c)][/us/pl/101/280/s6/c], May 4, 1990, [104 Stat. 160][/us/stat/104/160].
+    [Pub. L. 100–446, title III][/us/pl/100/446/tIII], § 319, Sept. 27, 1988, [102 Stat. 1826][/us/stat/102/1826], which provided that notwithstanding any other provision of law, for the purposes of this section “particular matter”, as applied to employees of the Department of the Interior and the Indian Health Service, means “particular matter involving specific parties”, was repealed by [Pub. L. 101–194, title V][/us/pl/101/194/tV], § 505(b), Nov. 30, 1989, [103 Stat. 1756][/us/stat/103/1756], as amended by [Pub. L. 101–280][/us/pl/101/280], § 6(c), May 4, 1990, [104 Stat. 160][/us/stat/104/160].
 
-    Similar provisions were contained in [Pub. L. 100–202, § 101(g)][/us/pl/100/202/s101/g] \[title III, § 318\], Dec. 22, 1987, [101 Stat. 1329–213][/us/stat/101/1329-213], 1329–255.
+    Similar provisions were contained in [Pub. L. 100–202][/us/pl/100/202], § 101(g) \[title III, § 318\], Dec. 22, 1987, [101 Stat. 1329–213][/us/stat/101/1329-213], 1329–255.
 
 ----------
 
@@ -130,15 +130,15 @@
 
 [/us/usc/t18/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs216
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/87/849/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs1%2Fa
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1124
-[/us/pl/95/188/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188%2Fs205
+[/us/pl/95/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188%2FtII
 [/us/stat/91/1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1388
-[/us/pl/101/194/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs405
+[/us/pl/101/194/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtIV
 [/us/stat/103/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1751
-[/us/pl/101/280/s5/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs5%2Fe
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F159
-[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2140
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
@@ -153,20 +153,20 @@
 [/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/usc/t18/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs434
 [/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
-[/us/pl/103/322/s330008/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330008%2F6
-[/us/pl/103/322/s330002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330002%2Fb
-[/us/pl/101/280/s5/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs5%2Fe%2F2
-[/us/pl/101/194/s405/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs405%2F1%2FC
-[/us/pl/101/280/s5/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs5%2Fe%2F1%2FA
-[/us/pl/101/280/s5/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs5%2Fe%2F1%2FB
-[/us/pl/101/280/s5/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs5%2Fe%2F1%2FC
-[/us/pl/101/194/s405/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs405%2F1
-[/us/pl/101/280/s5/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs5%2Fe%2F2
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/usc/t18/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs216
-[/us/pl/101/194/s405/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs405%2F2
-[/us/pl/101/194/s405/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs405%2F2
-[/us/pl/95/188/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188%2Fs205%2Fa
-[/us/pl/95/188/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188%2Fs205%2Fb
+[/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
+[/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
+[/us/pl/95/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188
+[/us/pl/95/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F188
 [/us/pl/87/849/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs4
 [/us/usc/t18/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs201
 [/us/usc/t18/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs434
@@ -175,13 +175,13 @@
 [/us/usc/t5/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7301
 [/us/usc/t5/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7301
 [/us/usc/t5/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7301
-[/us/pl/100/446/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446%2Fs319
+[/us/pl/100/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446%2FtIII
 [/us/stat/102/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1826
-[/us/pl/101/194/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs505%2Fb
+[/us/pl/101/194/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtV
 [/us/stat/103/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1756
-[/us/pl/101/280/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs6%2Fc
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F160
-[/us/pl/100/202/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fg
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-213
 
 

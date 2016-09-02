@@ -17,7 +17,7 @@
 
     For the purposes of this chapter, the term “scheme or artifice to defraud” includes a scheme or artifice to deprive another of the intangible right of honest services.
 
-(Added [Pub. L. 100–690, title VII, § 7603(a)][/us/pl/100/690/s7603/a], Nov. 18, 1988, [102 Stat. 4508][/us/stat/102/4508].)
+(Added [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7603(a), Nov. 18, 1988, [102 Stat. 4508][/us/stat/102/4508].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/690/s7603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7603%2Fa
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4508
 
 

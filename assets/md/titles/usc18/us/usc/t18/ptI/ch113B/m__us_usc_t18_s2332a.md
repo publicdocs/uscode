@@ -63,41 +63,41 @@
 
         (3) the term “property” includes all real and personal property.
 
-(Added [Pub. L. 103–322, title VI, § 60023(a)][/us/pl/103/322/s60023/a], Sept. 13, 1994, [108 Stat. 1980][/us/stat/108/1980]; amended [Pub. L. 104–132, title V, § 511(c)][/us/pl/104/132/s511/c], title VII, § 725, Apr. 24, 1996, [110 Stat. 1284][/us/stat/110/1284], 1300; [Pub. L. 104–294, title VI, § 605(m)][/us/pl/104/294/s605/m], Oct. 11, 1996, [110 Stat. 3510][/us/stat/110/3510]; [Pub. L. 105–277, div. I, title II, § 201(b)(1)][/us/pl/105/277/s201/b/1], Oct. 21, 1998, [112 Stat. 2681–871][/us/stat/112/2681-871]; [Pub. L. 107–188, title II, § 231(d)][/us/pl/107/188/s231/d], June 12, 2002, [116 Stat. 661][/us/stat/116/661]; [Pub. L. 108–458, title VI, § 6802(a)][/us/pl/108/458/s6802/a], (b), Dec. 17, 2004, [118 Stat. 3766][/us/stat/118/3766], 3767.)
+(Added [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60023(a), Sept. 13, 1994, [108 Stat. 1980][/us/stat/108/1980]; amended [Pub. L. 104–132, title V][/us/pl/104/132/tV], § 511(c), title VII, § 725, Apr. 24, 1996, [110 Stat. 1284][/us/stat/110/1284], 1300; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 605(m), Oct. 11, 1996, [110 Stat. 3510][/us/stat/110/3510]; [Pub. L. 105–277, div. I, title II][/us/pl/105/277/dI/tII], § 201(b)(1), Oct. 21, 1998, [112 Stat. 2681–871][/us/stat/112/2681-871]; [Pub. L. 107–188, title II][/us/pl/107/188/tII], § 231(d), June 12, 2002, [116 Stat. 661][/us/stat/116/661]; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6802(a), (b), Dec. 17, 2004, [118 Stat. 3766][/us/stat/118/3766], 3767.)
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–458, § 6802(b)(1)][/us/pl/108/458/s6802/b/1], struck out “certain” before “weapons” in section catchline.
+    2004—[Pub. L. 108–458][/us/pl/108/458], § 6802(b)(1), struck out “certain” before “weapons” in section catchline.
 
-    Subsec. (a). [Pub. L. 108–458, § 6802(b)(2)][/us/pl/108/458/s6802/b/2], struck out “(other than a chemical weapon as that term is defined in section 229F)” after “mass destruction” in introductory provisions.
+    Subsec. (a). [Pub. L. 108–458][/us/pl/108/458], § 6802(b)(2), struck out “(other than a chemical weapon as that term is defined in section 229F)” after “mass destruction” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 108–458, § 6802(a)(1)][/us/pl/108/458/s6802/a/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “against any person within the United States, and the results of such use affect interstate or foreign commerce or, in the case of a threat, attempt, or conspiracy, would have affected interstate or foreign commerce; or”.
+    Subsec. (a)(2). [Pub. L. 108–458][/us/pl/108/458], § 6802(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “against any person within the United States, and the results of such use affect interstate or foreign commerce or, in the case of a threat, attempt, or conspiracy, would have affected interstate or foreign commerce; or”.
 
-    Subsec. (a)(4). [Pub. L. 108–458, § 6802(a)(2)][/us/pl/108/458/s6802/a/2], (3), added par. (4).
+    Subsec. (a)(4). [Pub. L. 108–458][/us/pl/108/458], § 6802(a)(2), (3), added par. (4).
 
-    Subsec. (b). [Pub. L. 108–458, § 6802(b)(3)][/us/pl/108/458/s6802/b/3], struck out “(other than a chemical weapon (as that term is defined in section 229F))” after “mass destruction”.
+    Subsec. (b). [Pub. L. 108–458][/us/pl/108/458], § 6802(b)(3), struck out “(other than a chemical weapon (as that term is defined in section 229F))” after “mass destruction”.
 
-    Subsec. (c)(3). [Pub. L. 108–458, § 6802(a)(4)][/us/pl/108/458/s6802/a/4]–(6), added par. (3).
+    Subsec. (c)(3). [Pub. L. 108–458][/us/pl/108/458], § 6802(a)(4)–(6), added par. (3).
 
-    2002—Subsec. (a). [Pub. L. 107–188, § 231(d)(1)][/us/pl/107/188/s231/d/1], substituted “section 229F)—” for “section 229F), including any biological agent, toxin, or vector (as those terms are defined in section 178)—” in introductory provisions.
+    2002—Subsec. (a). [Pub. L. 107–188][/us/pl/107/188], § 231(d)(1), substituted “section 229F)—” for “section 229F), including any biological agent, toxin, or vector (as those terms are defined in section 178)—” in introductory provisions.
 
-    Subsec. (c)(2)(C). [Pub. L. 107–188, § 231(d)(2)][/us/pl/107/188/s231/d/2], substituted “a biological agent, toxin, or vector (as those terms are defined in [section 178 of this title][/us/usc/t18/s178])” for “a disease organism”.
+    Subsec. (c)(2)(C). [Pub. L. 107–188][/us/pl/107/188], § 231(d)(2), substituted “a biological agent, toxin, or vector (as those terms are defined in [section 178 of this title][/us/usc/t18/s178])” for “a disease organism”.
 
-    1998—[Pub. L. 105–277, § 201(b)(1)(A)][/us/pl/105/277/s201/b/1/A], inserted “certain” before “weapons” in section catchline.
+    1998—[Pub. L. 105–277][/us/pl/105/277], § 201(b)(1)(A), inserted “certain” before “weapons” in section catchline.
 
-    Subsec. (a). [Pub. L. 105–277, § 201(b)(1)(B)][/us/pl/105/277/s201/b/1/B], inserted “(other than a chemical weapon as that term is defined in section 229F)” after “weapon of mass destruction” in introductory provisions.
+    Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 201(b)(1)(B), inserted “(other than a chemical weapon as that term is defined in section 229F)” after “weapon of mass destruction” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 105–277, § 201(b)(1)(C)][/us/pl/105/277/s201/b/1/C], inserted “(other than a chemical weapon (as that term is defined in section 229F))” after “weapon of mass destruction”.
+    Subsec. (b). [Pub. L. 105–277][/us/pl/105/277], § 201(b)(1)(C), inserted “(other than a chemical weapon (as that term is defined in section 229F))” after “weapon of mass destruction”.
 
     1996—Subsec. (a). [Pub. L. 104–132][/us/pl/104/132], §§ 511(c), 725(1)(A), (B), in heading, inserted “Against a National of the United States or Within the United States” after “Offense”, and in introductory provisions, substituted “, without lawful authority, uses, threatens, or attempts” for “uses, or attempts” and inserted “, including any biological agent, toxin, or vector (as those terms are defined in section 178)” after “mass destruction”.
 
-    Subsec. (a)(2). [Pub. L. 104–132, § 725(1)(C)][/us/pl/104/132/s725/1/C], inserted before semicolon at end “, and the results of such use affect interstate or foreign commerce or, in the case of a threat, attempt, or conspiracy, would have affected interstate or foreign commerce”.
+    Subsec. (a)(2). [Pub. L. 104–132][/us/pl/104/132], § 725(1)(C), inserted before semicolon at end “, and the results of such use affect interstate or foreign commerce or, in the case of a threat, attempt, or conspiracy, would have affected interstate or foreign commerce”.
 
-    Subsec. (b). [Pub. L. 104–132, § 725(4)][/us/pl/104/132/s725/4], added subsec. (b). Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 104–132][/us/pl/104/132], § 725(4), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (b)(2)(B). [Pub. L. 104–132, § 725(2)][/us/pl/104/132/s725/2], as amended by [Pub. L. 104–294, § 605(m)][/us/pl/104/294/s605/m], added subpar. (B) and struck out former subpar. (B) which read as follows: “poison gas;”.
+    Subsec. (b)(2)(B). [Pub. L. 104–132][/us/pl/104/132], § 725(2), as amended by [Pub. L. 104–294][/us/pl/104/294], § 605(m), added subpar. (B) and struck out former subpar. (B) which read as follows: “poison gas;”.
 
-    Subsec. (c). [Pub. L. 104–132, § 725(3)][/us/pl/104/132/s725/3], redesignated subsec. (b) as (c).
+    Subsec. (c). [Pub. L. 104–132][/us/pl/104/132], § 725(3), redesignated subsec. (b) as (c).
 
 ----------
 
@@ -109,35 +109,35 @@
 [/us/usc/t8/s1101/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F22
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
 [/us/usc/t18/s178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs178
-[/us/pl/103/322/s60023/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60023%2Fa
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1980
-[/us/pl/104/132/s511/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs511%2Fc
+[/us/pl/104/132/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtV
 [/us/stat/110/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1284
-[/us/pl/104/294/s605/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs605%2Fm
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3510
-[/us/pl/105/277/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs201%2Fb%2F1
+[/us/pl/105/277/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtII
 [/us/stat/112/2681-871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-871
-[/us/pl/107/188/s231/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs231%2Fd
+[/us/pl/107/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtII
 [/us/stat/116/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F661
-[/us/pl/108/458/s6802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6802%2Fa
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3766
-[/us/pl/108/458/s6802/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6802%2Fb%2F1
-[/us/pl/108/458/s6802/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6802%2Fb%2F2
-[/us/pl/108/458/s6802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6802%2Fa%2F1
-[/us/pl/108/458/s6802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6802%2Fa%2F2
-[/us/pl/108/458/s6802/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6802%2Fb%2F3
-[/us/pl/108/458/s6802/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6802%2Fa%2F4
-[/us/pl/107/188/s231/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs231%2Fd%2F1
-[/us/pl/107/188/s231/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs231%2Fd%2F2
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
 [/us/usc/t18/s178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs178
-[/us/pl/105/277/s201/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs201%2Fb%2F1%2FA
-[/us/pl/105/277/s201/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs201%2Fb%2F1%2FB
-[/us/pl/105/277/s201/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs201%2Fb%2F1%2FC
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
-[/us/pl/104/132/s725/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs725%2F1%2FC
-[/us/pl/104/132/s725/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs725%2F4
-[/us/pl/104/132/s725/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs725%2F2
-[/us/pl/104/294/s605/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs605%2Fm
-[/us/pl/104/132/s725/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs725%2F3
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 
 

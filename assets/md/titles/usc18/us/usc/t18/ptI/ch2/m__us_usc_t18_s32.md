@@ -53,7 +53,7 @@
 
     (c) Whoever willfully imparts or conveys any threat to do an act which would violate any of paragraphs (1) through (6) of subsection (a) or any of paragraphs (1) through (3) of subsection (b) of this section, with an apparent determination and will to carry the threat into execution shall be fined under this title or imprisoned not more than five years, or both.
 
-(Added [July 14, 1956, ch. 595, § 1][/us/act/1956-07-14/ch595/s1], [70 Stat. 539][/us/stat/70/539]; amended [Pub. L. 98–473, title II, § 2013(b)][/us/pl/98/473/s2013/b], Oct. 12, 1984, [98 Stat. 2187][/us/stat/98/2187]; [Pub. L. 100–690, title VII, § 7016][/us/pl/100/690/s7016], Nov. 18, 1988, [102 Stat. 4395][/us/stat/102/4395]; [Pub. L. 103–322, title XXXIII, § 330016(1)(O)][/us/pl/103/322/s330016/1/O], (S), Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148]; [Pub. L. 104–132, title VII][/us/pl/104/132], §§ 721(b), 723(a)(1), Apr. 24, 1996, [110 Stat. 1298][/us/stat/110/1298], 1300; [Pub. L. 109–177, title I, § 123][/us/pl/109/177/s123], Mar. 9, 2006, [120 Stat. 226][/us/stat/120/226].)
+(Added [July 14, 1956, ch. 595][/us/act/1956-07-14/ch595], § 1, [70 Stat. 539][/us/stat/70/539]; amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 2013(b), Oct. 12, 1984, [98 Stat. 2187][/us/stat/98/2187]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7016, Nov. 18, 1988, [102 Stat. 4395][/us/stat/102/4395]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(O), (S), Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148]; [Pub. L. 104–132, title VII][/us/pl/104/132/tVII], §§ 721(b), 723(a)(1), Apr. 24, 1996, [110 Stat. 1298][/us/stat/110/1298], 1300; [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 123, Mar. 9, 2006, [120 Stat. 226][/us/stat/120/226].)
 
  __References in Text__ 
 
@@ -61,21 +61,21 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a)(5) to (7). [Pub. L. 109–177, § 123(1)][/us/pl/109/177/s123/1], (2), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
+    2006—Subsec. (a)(5) to (7). [Pub. L. 109–177][/us/pl/109/177], § 123(1), (2), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
 
-    Subsec. (a)(8). [Pub. L. 109–177, § 123(1)][/us/pl/109/177/s123/1], (3), redesignated par. (7) as (8) and substituted “paragraphs (1) through (7)” for “paragraphs (1) through (6)”.
+    Subsec. (a)(8). [Pub. L. 109–177][/us/pl/109/177], § 123(1), (3), redesignated par. (7) as (8) and substituted “paragraphs (1) through (7)” for “paragraphs (1) through (6)”.
 
-    Subsec. (c). [Pub. L. 109–177, § 123(4)][/us/pl/109/177/s123/4], substituted “paragraphs (1) through (6)” for “paragraphs (1) through (5)”.
+    Subsec. (c). [Pub. L. 109–177][/us/pl/109/177], § 123(4), substituted “paragraphs (1) through (6)” for “paragraphs (1) through (5)”.
 
-    1996—Subsec. (a)(7). [Pub. L. 104–132, § 723(a)(1)][/us/pl/104/132/s723/a/1], inserted “or conspires” after “attempts”.
+    1996—Subsec. (a)(7). [Pub. L. 104–132][/us/pl/104/132], § 723(a)(1), inserted “or conspires” after “attempts”.
 
-    Subsec. (b). [Pub. L. 104–132, § 721(b)][/us/pl/104/132/s721/b], in closing provisions, struck out “, if the offender is later found in the United States,” before “be fined under this title” and inserted at end “There is jurisdiction over an offense under this subsection if a national of the United States was on board, or would have been on board, the aircraft; an offender is a national of the United States; or an offender is afterwards found in the United States. For purposes of this subsection, the term ‘national of the United States’ has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act.”
+    Subsec. (b). [Pub. L. 104–132][/us/pl/104/132], § 721(b), in closing provisions, struck out “, if the offender is later found in the United States,” before “be fined under this title” and inserted at end “There is jurisdiction over an offense under this subsection if a national of the United States was on board, or would have been on board, the aircraft; an offender is a national of the United States; or an offender is afterwards found in the United States. For purposes of this subsection, the term ‘national of the United States’ has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act.”
 
-    Subsec. (b)(4). [Pub. L. 104–132, § 723(a)(1)][/us/pl/104/132/s723/a/1], inserted “or conspires” after “attempts”.
+    Subsec. (b)(4). [Pub. L. 104–132][/us/pl/104/132], § 723(a)(1), inserted “or conspires” after “attempts”.
 
-    1994—Subsecs. (a), (b). [Pub. L. 103–322, § 330016(1)(S)][/us/pl/103/322/s330016/1/S], substituted “fined under this title” for “fined not more than $100,000” in concluding provisions.
+    1994—Subsecs. (a), (b). [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(S), substituted “fined under this title” for “fined not more than $100,000” in concluding provisions.
 
-    Subsec. (c). [Pub. L. 103–322, § 330016(1)(O)][/us/pl/103/322/s330016/1/O], substituted “fined under this title” for “fined not more than $25,000”.
+    Subsec. (c). [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(O), substituted “fined under this title” for “fined not more than $25,000”.
 
     1988—Subsec. (a)(3). [Pub. L. 100–690][/us/pl/100/690] substituted “interfering” for “intefering”.
 
@@ -106,27 +106,27 @@
 ----------
 ----------
 
-[/us/act/1956-07-14/ch595/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-14%2Fch595%2Fs1
+[/us/act/1956-07-14/ch595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-14%2Fch595
 [/us/stat/70/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F539
-[/us/pl/98/473/s2013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs2013%2Fb
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2187
-[/us/pl/100/690/s7016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7016
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4395
-[/us/pl/103/322/s330016/1/O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FO
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2148
-[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVII
 [/us/stat/110/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1298
-[/us/pl/109/177/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs123
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F226
 [/us/usc/t8/s1101/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F22
-[/us/pl/109/177/s123/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs123%2F1
-[/us/pl/109/177/s123/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs123%2F1
-[/us/pl/109/177/s123/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs123%2F4
-[/us/pl/104/132/s723/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs723%2Fa%2F1
-[/us/pl/104/132/s721/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs721%2Fb
-[/us/pl/104/132/s723/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs723%2Fa%2F1
-[/us/pl/103/322/s330016/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FS
-[/us/pl/103/322/s330016/1/O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FO
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473

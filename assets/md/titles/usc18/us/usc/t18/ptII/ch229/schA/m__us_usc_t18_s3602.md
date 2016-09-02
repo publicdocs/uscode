@@ -27,7 +27,7 @@
 
     If the court appoints more than one probation officer, one may be designated by the court as chief probation officer and shall direct the work of all probation officers serving in the judicial district.
 
-(Added [Pub. L. 98–473, title II, § 212(a)(2)][/us/pl/98/473/s212/a/2], Oct. 12, 1984, [98 Stat. 2001][/us/stat/98/2001]; amended [Pub. L. 114–113, div. E, title III, § 307][/us/pl/114/113/s307], Dec. 18, 2015, [129 Stat. 2443][/us/stat/129/2443].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(2), Oct. 12, 1984, [98 Stat. 2001][/us/stat/98/2001]; amended [Pub. L. 114–113, div. E, title III][/us/pl/114/113/dE/tIII], § 307, Dec. 18, 2015, [129 Stat. 2443][/us/stat/129/2443].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2001
-[/us/pl/114/113/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs307
+[/us/pl/114/113/dE/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdE%2FtIII
 [/us/stat/129/2443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2443
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1

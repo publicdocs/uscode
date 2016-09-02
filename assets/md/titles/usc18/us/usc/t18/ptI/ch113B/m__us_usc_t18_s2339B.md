@@ -211,7 +211,7 @@
 
     No person may be prosecuted under this section in connection with the term “personnel”, “training”, or “expert advice or assistance” if the provision of that material support or resources to a foreign terrorist organization was approved by the Secretary of State with the concurrence of the Attorney General. The Secretary of State may not approve the provision of any material support that may be used to carry out terrorist activity (as defined in section 212(a)(3)(B)(iii) of the Immigration and Nationality Act).
 
-(Added [Pub. L. 104–132, title III, § 303(a)][/us/pl/104/132/s303/a], Apr. 24, 1996, [110 Stat. 1250][/us/stat/110/1250]; amended [Pub. L. 107–56, title VIII, § 810(d)][/us/pl/107/56/s810/d], Oct. 26, 2001, [115 Stat. 380][/us/stat/115/380]; [Pub. L. 108–458, title VI, § 6603(c)][/us/pl/108/458/s6603/c]–(f), Dec. 17, 2004, [118 Stat. 3762][/us/stat/118/3762], 3763; [Pub. L. 111–16, § 3(6)][/us/pl/111/16/s3/6]–(8), May 7, 2009, [123 Stat. 1608][/us/stat/123/1608]; [Pub. L. 114–23, title VII, § 704][/us/pl/114/23/s704], June 2, 2015, [129 Stat. 300][/us/stat/129/300].)
+(Added [Pub. L. 104–132, title III][/us/pl/104/132/tIII], § 303(a), Apr. 24, 1996, [110 Stat. 1250][/us/stat/110/1250]; amended [Pub. L. 107–56, title VIII][/us/pl/107/56/tVIII], § 810(d), Oct. 26, 2001, [115 Stat. 380][/us/stat/115/380]; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6603(c)–(f), Dec. 17, 2004, [118 Stat. 3762][/us/stat/118/3762], 3763; [Pub. L. 111–16][/us/pl/111/16], § 3(6)–(8), May 7, 2009, [123 Stat. 1608][/us/stat/123/1608]; [Pub. L. 114–23, title VII][/us/pl/114/23/tVII], § 704, June 2, 2015, [129 Stat. 300][/us/stat/129/300].)
 
  __References in Text__ 
 
@@ -229,19 +229,19 @@
 
     2015—Subsec. (a)(1). [Pub. L. 114–23][/us/pl/114/23] substituted “20 years” for “15 years”.
 
-    2009—Subsec. (f)(5)(B)(ii). [Pub. L. 111–16, § 3(6)][/us/pl/111/16/s3/6], substituted “14 days” for “10 days”.
+    2009—Subsec. (f)(5)(B)(ii). [Pub. L. 111–16][/us/pl/111/16], § 3(6), substituted “14 days” for “10 days”.
 
-    Subsec. (f)(5)(B)(iii)(I). [Pub. L. 111–16, § 3(7)][/us/pl/111/16/s3/7], inserted “, excluding intermediate weekends and holidays” after “trial”.
+    Subsec. (f)(5)(B)(iii)(I). [Pub. L. 111–16][/us/pl/111/16], § 3(7), inserted “, excluding intermediate weekends and holidays” after “trial”.
 
-    Subsec. (f)(5)(B)(iii)(III). [Pub. L. 111–16, § 3(8)][/us/pl/111/16/s3/8], inserted “, excluding intermediate weekends and holidays” after “appeal”.
+    Subsec. (f)(5)(B)(iii)(III). [Pub. L. 111–16][/us/pl/111/16], § 3(8), inserted “, excluding intermediate weekends and holidays” after “appeal”.
 
-    2004—Subsec. (a)(1). [Pub. L. 108–458, § 6603(c)][/us/pl/108/458/s6603/c], struck out “, within the United States or subject to the jurisdiction of the United States,” after “Whoever” and inserted at end “To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).”
+    2004—Subsec. (a)(1). [Pub. L. 108–458][/us/pl/108/458], § 6603(c), struck out “, within the United States or subject to the jurisdiction of the United States,” after “Whoever” and inserted at end “To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).”
 
-    Subsec. (d). [Pub. L. 108–458, § 6603(d)][/us/pl/108/458/s6603/d], designated existing provisions as par. (2), inserted par. (2) heading, and added par. (1).
+    Subsec. (d). [Pub. L. 108–458][/us/pl/108/458], § 6603(d), designated existing provisions as par. (2), inserted par. (2) heading, and added par. (1).
 
-    Subsec. (g)(4). [Pub. L. 108–458, § 6603(e)][/us/pl/108/458/s6603/e], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the term ‘material support or resources’ has the same meaning as in section 2339A;”.
+    Subsec. (g)(4). [Pub. L. 108–458][/us/pl/108/458], § 6603(e), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the term ‘material support or resources’ has the same meaning as in section 2339A;”.
 
-    Subsecs. (h) to (j). [Pub. L. 108–458, § 6603(f)][/us/pl/108/458/s6603/f], added subsecs. (h) to (j).
+    Subsecs. (h) to (j). [Pub. L. 108–458][/us/pl/108/458], § 6603(f), added subsecs. (h) to (j).
 
     2001—Subsec. (a)(1). [Pub. L. 107–56][/us/pl/107/56] substituted “15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life” for “10 years, or both”.
 
@@ -251,7 +251,7 @@
 
  __Findings and Purpose__ 
 
-[Pub. L. 104–132, title III, § 301][/us/pl/104/132/s301], Apr. 24, 1996, [110 Stat. 1247][/us/stat/110/1247], provided that:
+[Pub. L. 104–132, title III][/us/pl/104/132/tIII], § 301, Apr. 24, 1996, [110 Stat. 1247][/us/stat/110/1247], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -285,33 +285,33 @@
 [/us/usc/t8/s1101/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F22
 [/us/usc/t8/s1101/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F20
 [/us/usc/t31/s5312/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5312%2Fa%2F2
-[/us/pl/104/132/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs303%2Fa
+[/us/pl/104/132/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIII
 [/us/stat/110/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1250
-[/us/pl/107/56/s810/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs810%2Fd
+[/us/pl/107/56/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtVIII
 [/us/stat/115/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F380
-[/us/pl/108/458/s6603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6603%2Fc
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3762
-[/us/pl/111/16/s3/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs3%2F6
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/stat/123/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1608
-[/us/pl/114/23/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs704
+[/us/pl/114/23/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVII
 [/us/stat/129/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F300
 [/us/usc/t8/s1182/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F3%2FB
 [/us/usc/t22/s2656f/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2656f%2Fd%2F2
 [/us/pl/95/456/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F456%2Fs1%2Fa
 [/us/usc/t8/s1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1189
 [/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
-[/us/pl/111/16/s3/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs3%2F6
-[/us/pl/111/16/s3/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs3%2F7
-[/us/pl/111/16/s3/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs3%2F8
-[/us/pl/108/458/s6603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6603%2Fc
-[/us/pl/108/458/s6603/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6603%2Fd
-[/us/pl/108/458/s6603/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6603%2Fe
-[/us/pl/108/458/s6603/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6603%2Ff
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/111/16/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs7
 [/us/usc/t11/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs109
-[/us/pl/104/132/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs301
+[/us/pl/104/132/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIII
 [/us/stat/110/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1247
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/usc/t8/s1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1189

@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–646, § 64(b)][/us/pl/99/646/s64/b], Nov. 10, 1986, [100 Stat. 3614][/us/stat/100/3614], added item 1793.
+    1986—[Pub. L. 99–646][/us/pl/99/646], § 64(b), Nov. 10, 1986, [100 Stat. 3614][/us/stat/100/3614], added item 1793.
 
-    1984—[Pub. L. 98–473, title II, § 1109(c)][/us/pl/98/473/s1109/c], Oct. 12, 1984, [98 Stat. 2148][/us/stat/98/2148], amended analysis generally by revising items 1791 and 1792, and by inserting a second chapter heading which was not executed to text as redundant.
+    1984—[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1109(c), Oct. 12, 1984, [98 Stat. 2148][/us/stat/98/2148], amended analysis generally by revising items 1791 and 1792, and by inserting a second chapter heading which was not executed to text as redundant.
 
 ----------
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/99/646/s64/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs64%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3614
-[/us/pl/98/473/s1109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1109%2Fc
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2148
 
 

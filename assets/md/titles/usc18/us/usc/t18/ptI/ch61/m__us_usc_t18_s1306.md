@@ -17,11 +17,11 @@
 
     Whoever knowingly violates section 5136A  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Revised Statutes of the United States, section 9A of the Federal Reserve Act, or section 20 of the Federal Deposit Insurance Act shall be fined under this title or imprisoned not more than one year, or both.
 
-(Added [Pub. L. 90–203, § 5(a)][/us/pl/90/203/s5/a], Dec. 15, 1967, [81 Stat. 611][/us/stat/81/611]; amended [Pub. L. 101–73, title IX, § 962(b)][/us/pl/101/73/s962/b], Aug. 9, 1989, [103 Stat. 502][/us/stat/103/502]; [Pub. L. 103–322, title XXXIII, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+(Added [Pub. L. 90–203][/us/pl/90/203], § 5(a), Dec. 15, 1967, [81 Stat. 611][/us/stat/81/611]; amended [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 962(b), Aug. 9, 1989, [103 Stat. 502][/us/stat/103/502]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(H), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __References in Text__ 
 
-    Section 5136A of the Revised Statutes of the United States, referred to in text, was renumbered section 5136B and a new section 5136A was added by [Pub. L. 106–102, title I, § 121(a)][/us/pl/106/102/s121/a], Nov. 12, 1999, [113 Stat. 1373][/us/stat/113/1373]. Sections 5136A and 5136B of the Revised Statutes are classified to sections 24a and 25a, respectively, of Title 12, Banks and Banking.
+    Section 5136A of the Revised Statutes of the United States, referred to in text, was renumbered section 5136B and a new section 5136A was added by [Pub. L. 106–102, title I][/us/pl/106/102/tI], § 121(a), Nov. 12, 1999, [113 Stat. 1373][/us/stat/113/1373]. Sections 5136A and 5136B of the Revised Statutes are classified to sections 24a and 25a, respectively, of Title 12, Banks and Banking.
 
     Section 9A of the Federal Reserve Act, referred to in text, is classified to [section 339 of Title 12][/us/usc/t12/s339].
 
@@ -44,13 +44,13 @@
 ----------
 ----------
 
-[/us/pl/90/203/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F203%2Fs5%2Fa
+[/us/pl/90/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F203
 [/us/stat/81/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F611
-[/us/pl/101/73/s962/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs962%2Fb
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F502
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/106/102/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs121%2Fa
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1373
 [/us/usc/t12/s339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs339
 [/us/usc/t12/s1829a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1829a

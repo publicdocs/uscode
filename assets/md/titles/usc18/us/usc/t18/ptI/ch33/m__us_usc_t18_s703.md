@@ -17,7 +17,7 @@
 
     Whoever, within the jurisdiction of the United States, with intent to deceive or mislead, wears any naval, military, police, or other official uniform, decoration, or regalia of any foreign state, nation, or government with which the United States is at peace, or anything so nearly resembling the same as to be calculated to deceive, shall be fined under this title or imprisoned not more than six months, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 732][/us/stat/62/732]; [Pub. L. 103–322, title XXXIII, § 330016(1)(E)][/us/pl/103/322/s330016/1/E], Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 732][/us/stat/62/732]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(E), Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
 
  __Historical and Revision Notes__ 
 
@@ -46,7 +46,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F732
-[/us/pl/103/322/s330016/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FE
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2146
 [/us/usc/t22/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs246
 [/us/act/1918-07-08/ch138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-08%2Fch138

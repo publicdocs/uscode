@@ -27,7 +27,7 @@
 
     (b) As used in this section, the term “health care benefit program” has the meaning given such term in [section 24(b) of this title][/us/usc/t18/s24/b].
 
-(Added [Pub. L. 104–191, title II, § 244(a)][/us/pl/104/191/s244/a], Aug. 21, 1996, [110 Stat. 2017][/us/stat/110/2017].)
+(Added [Pub. L. 104–191, title II][/us/pl/104/191/tII], § 244(a), Aug. 21, 1996, [110 Stat. 2017][/us/stat/110/2017].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t18/s24/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs24%2Fb
-[/us/pl/104/191/s244/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs244%2Fa
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2017
 
 

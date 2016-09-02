@@ -19,7 +19,7 @@
 
     This section shall not make unlawful the use of any such design or insignia which was lawful on August 31, 1948.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 733][/us/stat/62/733]; [Oct. 31, 1951, ch. 655, § 21a][/us/act/1951-10-31/ch655/s21a], [65 Stat. 719][/us/stat/65/719]; [Pub. L. 103–322, title XXXIII, § 330016(1)(E)][/us/pl/103/322/s330016/1/E], Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 733][/us/stat/62/733]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 21a, [65 Stat. 719][/us/stat/65/719]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(E), Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
 
  __Historical and Revision Notes__ 
 
@@ -50,9 +50,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F733
-[/us/act/1951-10-31/ch655/s21a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs21a
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F719
-[/us/pl/103/322/s330016/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FE
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2146
 [/us/usc/t22/s248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs248
 [/us/act/1936-06-20/ch635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch635

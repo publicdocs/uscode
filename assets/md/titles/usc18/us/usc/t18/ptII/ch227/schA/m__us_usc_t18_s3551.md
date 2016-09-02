@@ -41,7 +41,7 @@
 
         A sentence to pay a fine may be imposed in addition to a sentence to probation. A sanction authorized by section 3554, 3555, or 3556 may be imposed in addition to the sentence required by this subsection.
 
-(Added [Pub. L. 98–473, title II, § 212(a)(2)][/us/pl/98/473/s212/a/2], Oct. 12, 1984, [98 Stat. 1988][/us/stat/98/1988]; amended [Pub. L. 101–647, title XVI, § 1602][/us/pl/101/647/s1602], Nov. 29, 1990, [104 Stat. 4843][/us/stat/104/4843].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(2), Oct. 12, 1984, [98 Stat. 1988][/us/stat/98/1988]; amended [Pub. L. 101–647, title XVI][/us/pl/101/647/tXVI], § 1602, Nov. 29, 1990, [104 Stat. 4843][/us/stat/104/4843].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Effective Date; Savings Provision__ 
 
-[Pub. L. 98–473, title II, § 235][/us/pl/98/473/s235], Oct. 12, 1984, [98 Stat. 2031][/us/stat/98/2031], as amended by [Pub. L. 99–217][/us/pl/99/217], §§ 2, 4, Dec. 26, 1985, [99 Stat. 1728][/us/stat/99/1728]; [Pub. L. 99–646, § 35][/us/pl/99/646/s35], Nov. 10, 1986, [100 Stat. 3599][/us/stat/100/3599]; [Pub. L. 100–182, § 2][/us/pl/100/182/s2], Dec. 7, 1987, [101 Stat. 1266][/us/stat/101/1266]; [Pub. L. 104–232, § 4][/us/pl/104/232/s4], Oct. 2, 1996, [110 Stat. 3056][/us/stat/110/3056], provided that:
+[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 235, Oct. 12, 1984, [98 Stat. 2031][/us/stat/98/2031], as amended by [Pub. L. 99–217][/us/pl/99/217], §§ 2, 4, Dec. 26, 1985, [99 Stat. 1728][/us/stat/99/1728]; [Pub. L. 99–646][/us/pl/99/646], § 35, Nov. 10, 1986, [100 Stat. 3599][/us/stat/100/3599]; [Pub. L. 100–182][/us/pl/100/182], § 2, Dec. 7, 1987, [101 Stat. 1266][/us/stat/101/1266]; [Pub. L. 104–232][/us/pl/104/232], § 4, Oct. 2, 1996, [110 Stat. 3056][/us/stat/110/3056], provided that:
 
 >     “(a)
 
@@ -103,7 +103,7 @@
 
 >             “(G) Any other law relating to a violation of a condition of release or to arrest authority with regard to a person who violates a condition of release.
 
->         “\[(2) Repealed. [Pub. L. 104–232, § 4][/us/pl/104/232/s4], Oct. 2, 1996, [110 Stat. 3056][/us/stat/110/3056].\]
+>         “\[(2) Repealed. [Pub. L. 104–232][/us/pl/104/232], § 4, Oct. 2, 1996, [110 Stat. 3056][/us/stat/110/3056].\]
 
 >         “(3) The United States Parole Commission shall set a release date, for an individual who will be in its jurisdiction the day before the expiration of five years after the effective date of this Act, pursuant to [section 4206 of title 18][/us/usc/t18/s4206], United States Code. A release date set pursuant to this paragraph shall be set early enough to permit consideration of an appeal of the release date, in accordance with Parole Commission procedures, before the expiration of five years following the effective date of this Act.
 
@@ -123,31 +123,31 @@
 
 >         “(5) Notwithstanding the provisions of [section 991 of title 28][/us/usc/t28/s991], United States Code, and sections 4351 and 5002 of title 18, United States Code, the Chairman of the United States Parole Commission or his designee shall be a member of the National Institute of Corrections, and the Chairman of the United States Parole Commission shall be a member of the Advisory Corrections Council and a nonvoting member of the United States Sentencing Commission, ex officio, until the expiration of the five-year period following the effective date of this Act. Notwithstanding the provisions of [section 4351 of title 18][/us/usc/t18/s4351], during the five-year period the National Institute of Corrections shall have seventeen members, including seven ex officio members. Notwithstanding the provisions of [section 991 of title 28][/us/usc/t28/s991], during the five-year period the United States Sentencing Commission shall consist of nine members, including two ex officio, nonvoting members.”
 
-\[[Pub. L. 104–232, § 3(b)(2)][/us/pl/104/232/s3/b/2], Oct. 2, 1996, [110 Stat. 3056][/us/stat/110/3056], provided that: 
+\[[Pub. L. 104–232][/us/pl/104/232], § 3(b)(2), Oct. 2, 1996, [110 Stat. 3056][/us/stat/110/3056], provided that: 
 
 > “Effective on the date the plan \[alternative plan by Attorney General for transfer of United States Parole Commission’s functions to another entity within Department of Justice pursuant to [section 3 of Pub. L. 104–232][/us/pl/104/232/s3], set out as a note under [section 4201 of this title][/us/usc/t18/s4201]\] takes effect, paragraphs (3) and (4) of section 235(b) of the Sentencing Reform Act of 1984 \[[Pub. L. 98–473][/us/pl/98/473], set out above\] ([98 Stat. 2032][/us/stat/98/2032]) are repealed.”
 
 \]
 
-\[[Pub. L. 113–47, § 2][/us/pl/113/47/s2], Oct. 31, 2013, [127 Stat. 572][/us/stat/127/572], provided that: 
+\[[Pub. L. 113–47][/us/pl/113/47], § 2, Oct. 31, 2013, [127 Stat. 572][/us/stat/127/572], provided that: 
 
 > “For purposes of section 235(b) of the Sentencing Reform Act of 1984 ([18 U.S.C. 3551][/us/usc/t18/s3551] note; [Public Law 98–473][/us/pl/98/473]; [98 Stat. 2032][/us/stat/98/2032]), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to ‘26 years’ or ‘26-year period’ shall be deemed a reference to ‘31 years’ or ‘31-year period’, respectively.”
 
 \]
 
-\[[Pub. L. 112–44, § 2][/us/pl/112/44/s2], Oct. 21, 2011, [125 Stat. 532][/us/stat/125/532], provided that: 
+\[[Pub. L. 112–44][/us/pl/112/44], § 2, Oct. 21, 2011, [125 Stat. 532][/us/stat/125/532], provided that: 
 
 > “For purposes of section 235(b) of the Sentencing Reform Act of 1984 ([18 U.S.C. 3551][/us/usc/t18/s3551] note; [Public Law 98–473][/us/pl/98/473]; [98 Stat. 2032][/us/stat/98/2032]), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to ‘24 years’ or ‘24-year period’ shall be deemed a reference to ‘26 years’ or ‘26-year period’, respectively.”
 
 \]
 
-\[[Pub. L. 110–312, § 2][/us/pl/110/312/s2], Aug. 12, 2008, [122 Stat. 3013][/us/stat/122/3013], provided that: 
+\[[Pub. L. 110–312][/us/pl/110/312], § 2, Aug. 12, 2008, [122 Stat. 3013][/us/stat/122/3013], provided that: 
 
 > “For purposes of section 235(b) of the Sentencing Reform Act of 1984 ([18 U.S.C. 3551][/us/usc/t18/s3551] note; [Public Law 98–473][/us/pl/98/473]; [98 Stat. 2032][/us/stat/98/2032]), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to ‘21 years’ or ‘21-year period’ shall be deemed a reference to ‘24 years’ or ‘24-year period’, respectively.”
 
 \]
 
-\[[Pub. L. 109–76, § 2][/us/pl/109/76/s2], Sept. 29, 2005, [119 Stat. 2035][/us/stat/119/2035], provided that: 
+\[[Pub. L. 109–76][/us/pl/109/76], § 2, Sept. 29, 2005, [119 Stat. 2035][/us/stat/119/2035], provided that: 
 
 > “For purposes of section 235(b) of the Sentencing Reform Act of 1984 \[[Pub. L. 98–473][/us/pl/98/473], set out above\] ([98 Stat. 2032][/us/stat/98/2032]) as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to ‘eighteen years’ or ‘eighteen-year period’ shall be deemed a reference to ‘21 years’ or ‘21-year period’, respectively.”
 
@@ -157,7 +157,7 @@
 
     \[For purposes of [section 235(b) of Pub. L. 98–473][/us/pl/98/473/s235/b], set out above, as it relates to chapter 311 of this title and the Parole Commission, references to “ten years” or “ten-year period” are deemed to be references to “fifteen years” or “fifteen-year period”, respectively, see [section 2(a) of Pub. L. 104–232][/us/pl/104/232/s2/a], set out as a note under [section 4201 of this title][/us/usc/t18/s4201].\]
 
-\[[Pub. L. 101–650, title III, § 316][/us/pl/101/650/s316], Dec. 1, 1990, [104 Stat. 5115][/us/stat/104/5115], provided that: 
+\[[Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 316, Dec. 1, 1990, [104 Stat. 5115][/us/stat/104/5115], provided that: 
 
 > “For the purposes of [section 235(b) of Public Law 98–473][/us/pl/98/473/s235/b] \[set out above\] as it relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to ‘five years’ or a ‘five-year period’ shall be deemed a reference to ‘ten years’ or a ‘ten-year period’, respectively.”
 
@@ -165,43 +165,43 @@
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–312, § 1][/us/pl/110/312/s1], Aug. 12, 2008, [122 Stat. 3013][/us/stat/122/3013], provided that: 
+[Pub. L. 110–312][/us/pl/110/312], § 1, Aug. 12, 2008, [122 Stat. 3013][/us/stat/122/3013], provided that: 
 
 > “This Act \[enacting provisions set out as a note under this section\] may be cited as the ‘United States Parole Commission Extension Act of 2008’.”
 
  __Short Title of 2005 Amendment__ 
 
-[Pub. L. 109–76, § 1][/us/pl/109/76/s1], Sept. 29, 2005, [119 Stat. 2035][/us/stat/119/2035], provided that: 
+[Pub. L. 109–76][/us/pl/109/76], § 1, Sept. 29, 2005, [119 Stat. 2035][/us/stat/119/2035], provided that: 
 
 > “This Act \[enacting provisions set out as a note under this section and enacting provisions listed in a table relating to sentencing guidelines set out as a note under [section 994 of Title 28][/us/usc/t28/s994], Judiciary and Judicial Procedure\] may be cited as the ‘United States Parole Commission Extension and Sentencing Commission Authority Act of 2005’.”
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–132, title II, § 201][/us/pl/104/132/s201], Apr. 24, 1996, [110 Stat. 1227][/us/stat/110/1227], provided that: 
+[Pub. L. 104–132, title II][/us/pl/104/132/tII], § 201, Apr. 24, 1996, [110 Stat. 1227][/us/stat/110/1227], provided that: 
 
 > “This subtitle \[subtitle A (§§ 201–211) of title II of [Pub. L. 104–132][/us/pl/104/132], enacting sections 3613A and 3663A of this title, amending sections 2248, 2259, 2264, 2327, 3013, 3556, 3563, 3572, 3611 to 3613, 3614, 3663, and 3664 of this title and Rule 32 of the Federal Rules of Criminal Procedure set out in the Appendix to this title, and enacting provisions set out as notes under this section, [section 2248 of this title][/us/usc/t18/s2248], and [section 994 of Title 28][/us/usc/t28/s994], Judiciary and Judicial Procedure\] may be cited as the ‘Mandatory Victims Restitution Act of 1996’.”
 
  __Short Title of 1987 Amendment__ 
 
-[Pub. L. 100–182, § 1][/us/pl/100/182/s1], Dec. 7, 1987, [101 Stat. 1266][/us/stat/101/1266], provided that: 
+[Pub. L. 100–182][/us/pl/100/182], § 1, Dec. 7, 1987, [101 Stat. 1266][/us/stat/101/1266], provided that: 
 
 > “This Act \[amending sections 3006A, 3553, 3561, 3563, 3564, 3583, 3663, 3672, 3742, and 4106 of this title, [section 994 of Title 28][/us/usc/t28/s994], Judiciary and Judicial Procedure, and sections 504 and 1111 of Title 29, Labor, enacting provisions set out as notes under sections 3006A and 3553 of this title, rule 35 of the Federal Rules of Criminal Procedure, set out in the Appendix to this title, and [section 994 of Title 28][/us/usc/t28/s994], and amending provisions set out as a note under this section\] may be cited as the ‘Sentencing Act of 1987’.”
 
  __Short Title of 1985 Amendment__ 
 
-[Pub. L. 99–217, § 1][/us/pl/99/217/s1], Dec. 26, 1985, [99 Stat. 1728][/us/stat/99/1728], provided that: 
+[Pub. L. 99–217][/us/pl/99/217], § 1, Dec. 26, 1985, [99 Stat. 1728][/us/stat/99/1728], provided that: 
 
 > “This Act \[amending [section 994 of Title 28][/us/usc/t28/s994], Judiciary and Judicial Procedure, and provisions set out as a note under this section\] may be cited as the ‘Sentencing Reform Amendments Act of 1985’.”
 
  __Short Title__ 
 
-[Pub. L. 98–473, title II, § 211][/us/pl/98/473/s211], Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987], provided that: 
+[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 211, Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987], provided that: 
 
 > “This chapter \[chapter II (§§ 211–239) of title II of [Pub. L. 98–473][/us/pl/98/473], see Tables for classification\] may be cited as the ‘Sentencing Reform Act of 1984’.”
 
  __Mandatory Victim Restitution; Promulgation of Regulations by Attorney General__ 
 
-[Pub. L. 104–132, title II, § 209][/us/pl/104/132/s209], Apr. 24, 1996, [110 Stat. 1240][/us/stat/110/1240], provided that: 
+[Pub. L. 104–132, title II][/us/pl/104/132/tII], § 209, Apr. 24, 1996, [110 Stat. 1240][/us/stat/110/1240], provided that: 
 
 > “Not later than 90 days after the date of enactment of this subtitle \[Apr. 24, 1996\], the Attorney General shall promulgate guidelines, or amend existing guidelines, to carry out this subtitle \[subtitle A (§§ 201–211) of title II of [Pub. L. 104–132][/us/pl/104/132], see Short Title of 1996 Amendment note set out above\] and the amendments made by this subtitle and to ensure that—
 
@@ -211,7 +211,7 @@
 
  __Sentencing of Nonviolent and Nonserious Offenders; Sense of Congress__ 
 
-[Pub. L. 98–473, title II, § 239][/us/pl/98/473/s239], Oct. 12, 1984, [98 Stat. 2039][/us/stat/98/2039], provided that:
+[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 239, Oct. 12, 1984, [98 Stat. 2039][/us/stat/98/2039], provided that:
 
 >     “Since, due to an impending crisis in prison overcrowding, available Federal prison space must be treated as a scarce resource in the sentencing of criminal defendants;
 
@@ -236,52 +236,52 @@
 ----------
 ----------
 
-[/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1988
-[/us/pl/101/647/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1602
+[/us/pl/101/647/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXVI
 [/us/stat/104/4843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4843
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
-[/us/pl/98/473/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2031
 [/us/pl/99/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F217
 [/us/stat/99/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1728
-[/us/pl/99/646/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs35
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3599
-[/us/pl/100/182/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs2
+[/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
 [/us/stat/101/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1266
-[/us/pl/104/232/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F232%2Fs4
+[/us/pl/104/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F232
 [/us/stat/110/3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3056
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t28/s994/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994%2Fa%2F1
 [/us/usc/t28/s992/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs992%2Fa
-[/us/pl/104/232/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F232%2Fs4
+[/us/pl/104/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F232
 [/us/stat/110/3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3056
 [/us/usc/t18/s4206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4206
 [/us/usc/t28/s991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs991
 [/us/usc/t18/s4351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4351
 [/us/usc/t28/s991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs991
-[/us/pl/104/232/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F232%2Fs3%2Fb%2F2
+[/us/pl/104/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F232
 [/us/stat/110/3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3056
 [/us/pl/104/232/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F232%2Fs3
 [/us/usc/t18/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4201
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/stat/98/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2032
-[/us/pl/113/47/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F47%2Fs2
+[/us/pl/113/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F47
 [/us/stat/127/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F572
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/stat/98/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2032
-[/us/pl/112/44/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F44%2Fs2
+[/us/pl/112/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F44
 [/us/stat/125/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F532
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/stat/98/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2032
-[/us/pl/110/312/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F312%2Fs2
+[/us/pl/110/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F312
 [/us/stat/122/3013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3013
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/stat/98/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2032
-[/us/pl/109/76/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F76%2Fs2
+[/us/pl/109/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F76
 [/us/stat/119/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2035
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/stat/98/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2032
@@ -291,33 +291,33 @@
 [/us/pl/98/473/s235/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fb
 [/us/pl/104/232/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F232%2Fs2%2Fa
 [/us/usc/t18/s4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4201
-[/us/pl/101/650/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs316
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5115
 [/us/pl/98/473/s235/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fb
-[/us/pl/110/312/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F312%2Fs1
+[/us/pl/110/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F312
 [/us/stat/122/3013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3013
-[/us/pl/109/76/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F76%2Fs1
+[/us/pl/109/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F76
 [/us/stat/119/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2035
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
-[/us/pl/104/132/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs201
+[/us/pl/104/132/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtII
 [/us/stat/110/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1227
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/usc/t18/s2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2248
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
-[/us/pl/100/182/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs1
+[/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
 [/us/stat/101/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1266
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
-[/us/pl/99/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F217%2Fs1
+[/us/pl/99/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F217
 [/us/stat/99/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1728
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
-[/us/pl/98/473/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs211
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1987
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/104/132/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs209
+[/us/pl/104/132/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtII
 [/us/stat/110/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1240
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
-[/us/pl/98/473/s239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs239
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2039
 
 

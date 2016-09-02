@@ -23,23 +23,23 @@
 
     if such act would constitute a violation of section 471, 473, or 474 if committed within the United States, shall be punished as is provided for the like offense within the United States.
 
-(Added [Pub. L. 103–322, title XII, § 120003(a)][/us/pl/103/322/s120003/a], Sept. 13, 1994, [108 Stat. 2021][/us/stat/108/2021]; amended [Pub. L. 107–56, title III, § 374(a)][/us/pl/107/56/s374/a], Oct. 26, 2001, [115 Stat. 340][/us/stat/115/340].)
+(Added [Pub. L. 103–322, title XII][/us/pl/103/322/tXII], § 120003(a), Sept. 13, 1994, [108 Stat. 2021][/us/stat/108/2021]; amended [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 374(a), Oct. 26, 2001, [115 Stat. 340][/us/stat/115/340].)
 
  __Amendments__ 
 
-    2001—[Pub. L. 107–56, § 374(a)(2)][/us/pl/107/56/s374/a/2], in concluding provisions, substituted “shall be punished as is provided for the like offense within the United States” for “shall be fined under this title, imprisoned not more than 20 years, or both”.
+    2001—[Pub. L. 107–56][/us/pl/107/56], § 374(a)(2), in concluding provisions, substituted “shall be punished as is provided for the like offense within the United States” for “shall be fined under this title, imprisoned not more than 20 years, or both”.
 
-    Par. (2). [Pub. L. 107–56, § 374(a)(1)][/us/pl/107/56/s374/a/1], inserted “analog, digital, or electronic image,” after “plate, stone,”.
+    Par. (2). [Pub. L. 107–56][/us/pl/107/56], § 374(a)(1), inserted “analog, digital, or electronic image,” after “plate, stone,”.
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–550, title XV, § 1551][/us/pl/102/550/s1551], Oct. 28, 1992, [106 Stat. 4070][/us/stat/106/4070], provided that: 
+[Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1551, Oct. 28, 1992, [106 Stat. 4070][/us/stat/106/4070], provided that: 
 
 > “This subtitle \[subtitle E (§§ 1551–1554) of title XV of [Pub. L. 102–550][/us/pl/102/550], enacting [section 474A of this title][/us/usc/t18/s474A] and amending sections 474 and 504 of this title\] may be cited as the ‘Counterfeit Deterrence Act of 1992’.”
 
  __Combatting International Counterfeiting of United States Currency__ 
 
-[Pub. L. 104–132, title VIII, § 807][/us/pl/104/132/s807], Apr. 24, 1996, [110 Stat. 1308][/us/stat/110/1308], provided that:
+[Pub. L. 104–132, title VIII][/us/pl/104/132/tVIII], § 807, Apr. 24, 1996, [110 Stat. 1308][/us/stat/110/1308], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -148,17 +148,17 @@
 ----------
 ----------
 
-[/us/pl/103/322/s120003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs120003%2Fa
+[/us/pl/103/322/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXII
 [/us/stat/108/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2021
-[/us/pl/107/56/s374/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs374%2Fa
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F340
-[/us/pl/107/56/s374/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs374%2Fa%2F2
-[/us/pl/107/56/s374/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs374%2Fa%2F1
-[/us/pl/102/550/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1551
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4070
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t18/s474A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs474A
-[/us/pl/104/132/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs807
+[/us/pl/104/132/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVIII
 [/us/stat/110/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1308
 [/us/usc/t18/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs470
 [/us/usc/t18/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs470

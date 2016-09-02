@@ -71,15 +71,15 @@
 
     Notwithstanding section 3282, in the case of an offense under this section, an indictment may be found, or information instituted, at any time without limitation.
 
-(Added [Pub. L. 100–606, § 2(a)][/us/pl/100/606/s2/a], Nov. 4, 1988, [102 Stat. 3045][/us/stat/102/3045]; amended [Pub. L. 103–322, title VI, § 60003(a)(13)][/us/pl/103/322/s60003/a/13], Sept. 13, 1994, [108 Stat. 1970][/us/stat/108/1970]; [Pub. L. 107–273, div. B, title IV, § 4002(a)(4)][/us/pl/107/273/s4002/a/4], (b)(7), Nov. 2, 2002, [116 Stat. 1806][/us/stat/116/1806], 1808; [Pub. L. 110–151, § 2][/us/pl/110/151/s2], Dec. 21, 2007, [121 Stat. 1821][/us/stat/121/1821]; [Pub. L. 111–122, § 3(a)][/us/pl/111/122/s3/a], Dec. 22, 2009, [123 Stat. 3481][/us/stat/123/3481].)
+(Added [Pub. L. 100–606][/us/pl/100/606], § 2(a), Nov. 4, 1988, [102 Stat. 3045][/us/stat/102/3045]; amended [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60003(a)(13), Sept. 13, 1994, [108 Stat. 1970][/us/stat/108/1970]; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(a)(4), (b)(7), Nov. 2, 2002, [116 Stat. 1806][/us/stat/116/1806], 1808; [Pub. L. 110–151][/us/pl/110/151], § 2, Dec. 21, 2007, [121 Stat. 1821][/us/stat/121/1821]; [Pub. L. 111–122][/us/pl/111/122], § 3(a), Dec. 22, 2009, [123 Stat. 3481][/us/stat/123/3481].)
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–122, § 3(a)(1)][/us/pl/111/122/s3/a/1], struck out “, in a circumstance described in subsection (d)” before “and with the specific” in introductory provisions and “or attempts to do so,” before “shall be punished” in concluding provisions.
+    2009—Subsec. (a). [Pub. L. 111–122][/us/pl/111/122], § 3(a)(1), struck out “, in a circumstance described in subsection (d)” before “and with the specific” in introductory provisions and “or attempts to do so,” before “shall be punished” in concluding provisions.
 
-    Subsec. (c). [Pub. L. 111–122, § 3(a)(2)][/us/pl/111/122/s3/a/2], struck out “in a circumstance described in subsection (d)” before “directly”.
+    Subsec. (c). [Pub. L. 111–122][/us/pl/111/122], § 3(a)(2), struck out “in a circumstance described in subsection (d)” before “directly”.
 
-    Subsecs. (d) to (f). [Pub. L. 111–122, § 3(a)(3)][/us/pl/111/122/s3/a/3], (4), added subsecs. (d) to (f) and struck out former subsecs. (d) and (e) which related to the required circumstance for offenses referred to in subsecs. (a) and (c) and nonapplicability of certain limitations, respectively.
+    Subsecs. (d) to (f). [Pub. L. 111–122][/us/pl/111/122], § 3(a)(3), (4), added subsecs. (d) to (f) and struck out former subsecs. (d) and (e) which related to the required circumstance for offenses referred to in subsecs. (a) and (c) and nonapplicability of certain limitations, respectively.
 
     2007—Subsec. (d). [Pub. L. 110–151][/us/pl/110/151] added subsec. (d) and struck out former subsec. (d). Text of former subsec. (d) read as follows: “The circumstance referred to in subsections (a) and (c) is that—
 
@@ -87,19 +87,19 @@
 
     “(2) the alleged offender is a national of the United States (as defined in section 101 of the Immigration and Nationality Act ([8 U.S.C. 1101][/us/usc/t8/s1101])).”
 
-    2002—Subsec. (b)(1). [Pub. L. 107–273, § 4002(b)(7)][/us/pl/107/273/s4002/b/7], substituted “subsection (a)(1),” for “subsection (a)(1),,”.
+    2002—Subsec. (b)(1). [Pub. L. 107–273][/us/pl/107/273], § 4002(b)(7), substituted “subsection (a)(1),” for “subsection (a)(1),,”.
 
-    [Pub. L. 107–273, § 4002(a)(4)][/us/pl/107/273/s4002/a/4], made technical correction to directory language of [Pub. L. 103–322][/us/pl/103/322]. See 1994 Amendment note below.
+    [Pub. L. 107–273][/us/pl/107/273], § 4002(a)(4), made technical correction to directory language of [Pub. L. 103–322][/us/pl/103/322]. See 1994 Amendment note below.
 
-    1994—Subsec. (b)(1). [Pub. L. 103–322][/us/pl/103/322], as amended by [Pub. L. 107–273, § 4002(a)(4)][/us/pl/107/273/s4002/a/4], substituted “, where death results, by death or imprisonment for life and a fine of not more than $1,000,000, or both;” for “a fine of not more than $1,000,000 and imprisonment for life,”.
+    1994—Subsec. (b)(1). [Pub. L. 103–322][/us/pl/103/322], as amended by [Pub. L. 107–273][/us/pl/107/273], § 4002(a)(4), substituted “, where death results, by death or imprisonment for life and a fine of not more than $1,000,000, or both;” for “a fine of not more than $1,000,000 and imprisonment for life,”.
 
  __Effective Date of 2002 Amendment__ 
 
-    [Pub. L. 107–273, div. B, title IV, § 4002(a)(4)][/us/pl/107/273/s4002/a/4], Nov. 2, 2002, [116 Stat. 1806][/us/stat/116/1806], provided that the amendment made by section 4002(a)(4) is effective Sept. 13, 1994.
+    [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(a)(4), Nov. 2, 2002, [116 Stat. 1806][/us/stat/116/1806], provided that the amendment made by section 4002(a)(4) is effective Sept. 13, 1994.
 
  __Short Title__ 
 
-[Pub. L. 100–606, § 1][/us/pl/100/606/s1], Nov. 4, 1988, [102 Stat. 3045][/us/stat/102/3045], provided that: 
+[Pub. L. 100–606][/us/pl/100/606], § 1, Nov. 4, 1988, [102 Stat. 3045][/us/stat/102/3045], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Genocide Convention Implementation Act of 1987 (the Proxmire Act)’.”
 
@@ -112,29 +112,29 @@
 
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/100/606/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F606%2Fs2%2Fa
+[/us/pl/100/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F606
 [/us/stat/102/3045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3045
-[/us/pl/103/322/s60003/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60003%2Fa%2F13
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1970
-[/us/pl/107/273/s4002/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fa%2F4
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1806
-[/us/pl/110/151/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F151%2Fs2
+[/us/pl/110/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F151
 [/us/stat/121/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1821
-[/us/pl/111/122/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F122%2Fs3%2Fa
+[/us/pl/111/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F122
 [/us/stat/123/3481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3481
-[/us/pl/111/122/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F122%2Fs3%2Fa%2F1
-[/us/pl/111/122/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F122%2Fs3%2Fa%2F2
-[/us/pl/111/122/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F122%2Fs3%2Fa%2F3
+[/us/pl/111/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F122
+[/us/pl/111/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F122
+[/us/pl/111/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F122
 [/us/pl/110/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F151
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/107/273/s4002/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fb%2F7
-[/us/pl/107/273/s4002/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fa%2F4
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/107/273/s4002/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fa%2F4
-[/us/pl/107/273/s4002/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fa%2F4
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1806
-[/us/pl/100/606/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F606%2Fs1
+[/us/pl/100/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F606
 [/us/stat/102/3045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3045
 
 

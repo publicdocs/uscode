@@ -17,7 +17,7 @@
 
     The Federal Judicial Center shall advise and consult with the planning groups and the district courts in connection with their duties under this chapter.
 
-(Added [Pub. L. 93–619, title I, § 101][/us/pl/93/619/s101], Jan. 3, 1975, [88 Stat. 2084][/us/stat/88/2084].)
+(Added [Pub. L. 93–619, title I][/us/pl/93/619/tI], § 101, Jan. 3, 1975, [88 Stat. 2084][/us/stat/88/2084].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/619/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2Fs101
+[/us/pl/93/619/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2FtI
 [/us/stat/88/2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2084
 
 

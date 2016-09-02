@@ -17,7 +17,7 @@
 
     An offender transferred to the United States to serve a sentence imposed by a foreign court shall not incur any loss of civil, political, or civic rights nor incur any disqualification other than those which under the laws of the United States or of the State in which the issue arises would result from the fact of the conviction in the foreign country.
 
-(Added [Pub. L. 95–144, § 1][/us/pl/95/144/s1], Oct. 28, 1977, [91 Stat. 1218][/us/stat/91/1218].)
+(Added [Pub. L. 95–144][/us/pl/95/144], § 1, Oct. 28, 1977, [91 Stat. 1218][/us/stat/91/1218].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/144/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144%2Fs1
+[/us/pl/95/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144
 [/us/stat/91/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1218
 
 

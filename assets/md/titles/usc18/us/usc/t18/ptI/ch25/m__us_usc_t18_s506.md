@@ -53,7 +53,7 @@
 
         (2) each instance of forgery, counterfeiting, mutilation, or alteration shall constitute a separate offense under this section.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 714][/us/stat/62/714]; [Pub. L. 103–322, title XXXIII, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–208, div. C, title V, § 561][/us/pl/104/208/s561], Sept. 30, 1996, [110 Stat. 3009–681][/us/stat/110/3009-681]; [Pub. L. 110–234, title IV, § 4002(b)(1)(E)][/us/pl/110/234/s4002/b/1/E], (2)(M), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(E), (2)(M), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858.)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 714][/us/stat/62/714]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(K), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–208, div. C, title V][/us/pl/104/208/dC/tV], § 561, Sept. 30, 1996, [110 Stat. 3009–681][/us/stat/110/3009-681]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(E), (2)(M), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(E), (2)(M), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858.)
 
  __Historical and revision Notes__ 
 
@@ -73,7 +73,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c)(1)(B). [Pub. L. 110–246, § 4002(b)(1)(E)][/us/pl/110/246/s4002/b/1/E], (2)(M), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+    2008—Subsec. (c)(1)(B). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(E), (2)(M), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
 
     1996—[Pub. L. 104–208][/us/pl/104/208] reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
@@ -102,13 +102,13 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F714
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/104/208/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs561
+[/us/pl/104/208/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtV
 [/us/stat/110/3009-681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-681
-[/us/pl/110/234/s4002/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FE
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
 [/us/stat/40/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F228
@@ -119,7 +119,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s4002/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FE
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

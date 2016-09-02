@@ -23,7 +23,7 @@
 
     A person that appropriates, excavates, injures, or destroys any historic or prehistoric ruin or monument or any other object of antiquity that is situated on land owned or controlled by the Federal Government without the permission of the head of the Federal agency having jurisdiction over the land on which the object is situated, shall be imprisoned not more than 90 days, fined under this title, or both.
 
-(Added [Pub. L. 113–287, § 4(a)(1)][/us/pl/113/287/s4/a/1], Dec. 19, 2014, [128 Stat. 3261][/us/stat/128/3261].)
+(Added [Pub. L. 113–287][/us/pl/113/287], § 4(a)(1), Dec. 19, 2014, [128 Stat. 3261][/us/stat/128/3261].)
 
 <table>
 
@@ -98,7 +98,7 @@ June 8, 1906, ch. 3060, § 1, 34 Stat. 225.  </td>
 ----------
 ----------
 
-[/us/pl/113/287/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs4%2Fa%2F1
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3261
 
 

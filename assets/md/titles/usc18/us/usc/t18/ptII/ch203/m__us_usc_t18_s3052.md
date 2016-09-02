@@ -17,7 +17,7 @@
 
     The Director, Associate Director, Assistant to the Director, Assistant Directors, inspectors, and agents of the Federal Bureau of Investigation of the Department of Justice may carry firearms, serve warrants and subpoenas issued under the authority of the United States and make arrests without warrant for any offense against the United States committed in their presence, or for any felony cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing such felony.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 817][/us/stat/62/817]; [Jan. 10, 1951, ch. 1221, § 1][/us/act/1951-01-10/ch1221/s1], [64 Stat. 1239][/us/stat/64/1239].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 817][/us/stat/62/817]; [Jan. 10, 1951, ch. 1221][/us/act/1951-01-10/ch1221], § 1, [64 Stat. 1239][/us/stat/64/1239].)
 
  __Historical and Revision Notes__ 
 
@@ -44,7 +44,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F817
-[/us/act/1951-01-10/ch1221/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-10%2Fch1221%2Fs1
+[/us/act/1951-01-10/ch1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-10%2Fch1221
 [/us/stat/64/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1239
 [/us/usc/t5/s300a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs300a
 [/us/act/1934-06-18/ch595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch595

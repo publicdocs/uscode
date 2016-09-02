@@ -63,7 +63,7 @@
 
     If a law setting forth an offense specifies no fine or a fine that is lower than the fine otherwise applicable under this section and such law, by specific reference, exempts the offense from the applicability of the fine otherwise applicable under this section, the defendant may not be fined more than the amount specified in the law setting forth the offense.
 
-(Added [Pub. L. 98–473, title II, § 212(a)(2)][/us/pl/98/473/s212/a/2], Oct. 12, 1984, [98 Stat. 1995][/us/stat/98/1995]; amended [Pub. L. 100–185, § 6][/us/pl/100/185/s6], Dec. 11, 1987, [101 Stat. 1280][/us/stat/101/1280].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(2), Oct. 12, 1984, [98 Stat. 1995][/us/stat/98/1995]; amended [Pub. L. 100–185][/us/pl/100/185], § 6, Dec. 11, 1987, [101 Stat. 1280][/us/stat/101/1280].)
 
  __Prior Provisions__ 
 
@@ -84,9 +84,9 @@
 ----------
 ----------
 
-[/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1995
-[/us/pl/100/185/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185%2Fs6
+[/us/pl/100/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185
 [/us/stat/101/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1280
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
 [/us/pl/100/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185

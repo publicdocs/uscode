@@ -19,7 +19,7 @@
 
     (b) Violations of this section may be prosecuted in the Federal judicial district in which the original crime was alleged to have been committed or in which the person was held in custody or confinement: Provided, however, That this section shall not be construed as indicating an intent on the part of Congress to prevent any State, Territory, Commonwealth, or possession of the United States of any jurisdiction over any offense over which they would have jurisdiction in the absence of such section.
 
-(Added [Pub. L. 86–449, title II, § 201][/us/pl/86/449/s201], May 6, 1960, [74 Stat. 86][/us/stat/74/86]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+(Added [Pub. L. 86–449, title II][/us/pl/86/449/tII], § 201, May 6, 1960, [74 Stat. 86][/us/stat/74/86]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(K), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/86/449/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F449%2Fs201
+[/us/pl/86/449/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F449%2FtII
 [/us/stat/74/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F86
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

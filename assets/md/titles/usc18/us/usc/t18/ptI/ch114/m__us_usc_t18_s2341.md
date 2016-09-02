@@ -69,7 +69,7 @@
 
         (D) an officer, employee, or agent of the United States or a State, or any department, agency, or instrumentality of the United States or a State (including any political subdivision of a State), having possession of such smokeless tobacco in connection with the performance of official duties;  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The semicolon probably should be a period. </sup></sup> 
 
-(Added [Pub. L. 95–575, § 1][/us/pl/95/575/s1], Nov. 2, 1978, [92 Stat. 2463][/us/stat/92/2463]; amended [Pub. L. 97–449, § 5(c)][/us/pl/97/449/s5/c], Jan. 12, 1983, [96 Stat. 2442][/us/stat/96/2442]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 107–296, title XI, § 1112(i)(1)][/us/pl/107/296/s1112/i/1], Nov. 25, 2002, [116 Stat. 2277][/us/stat/116/2277]; [Pub. L. 109–177, title I, § 121(a)(1)][/us/pl/109/177/s121/a/1], (b)(1), (6), Mar. 9, 2006, [120 Stat. 221][/us/stat/120/221], 222.)
+(Added [Pub. L. 95–575][/us/pl/95/575], § 1, Nov. 2, 1978, [92 Stat. 2463][/us/stat/92/2463]; amended [Pub. L. 97–449][/us/pl/97/449], § 5(c), Jan. 12, 1983, [96 Stat. 2442][/us/stat/96/2442]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1112(i)(1), Nov. 25, 2002, [116 Stat. 2277][/us/stat/116/2277]; [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 121(a)(1), (b)(1), (6), Mar. 9, 2006, [120 Stat. 221][/us/stat/120/221], 222.)
 
  __References in Text__ 
 
@@ -77,11 +77,11 @@
 
  __Amendments__ 
 
-    2006—Par. (2). [Pub. L. 109–177, § 121(b)(6)][/us/pl/109/177/s121/b/6], which directed amendment of par. (2) by substituting “State or local cigarette taxes in the State or locality where such cigarettes are found, if the State or local government” for “State cigarette taxes in the State where such cigarettes are found, if the State” in introductory provisions, was executed by making the substitution for “State cigarette taxes in the State where such cigarettes are found, if such State”, to reflect the probable intent of Congress.
+    2006—Par. (2). [Pub. L. 109–177][/us/pl/109/177], § 121(b)(6), which directed amendment of par. (2) by substituting “State or local cigarette taxes in the State or locality where such cigarettes are found, if the State or local government” for “State cigarette taxes in the State where such cigarettes are found, if the State” in introductory provisions, was executed by making the substitution for “State cigarette taxes in the State where such cigarettes are found, if such State”, to reflect the probable intent of Congress.
 
-    [Pub. L. 109–177, § 121(a)(1)][/us/pl/109/177/s121/a/1], substituted “10,000 cigarettes” for “60,000 cigarettes” in introductory provisions.
+    [Pub. L. 109–177][/us/pl/109/177], § 121(a)(1), substituted “10,000 cigarettes” for “60,000 cigarettes” in introductory provisions.
 
-    Pars. (6), (7). [Pub. L. 109–177, § 121(b)(1)][/us/pl/109/177/s121/b/1], added pars. (6) and (7).
+    Pars. (6), (7). [Pub. L. 109–177][/us/pl/109/177], § 121(b)(1), added pars. (6) and (7).
 
     2002—Par. (5). [Pub. L. 107–296][/us/pl/107/296] added par. (5) and struck out former par. (5) which read as follows: “the term ‘Secretary’ means the Secretary of the Treasury.”
 
@@ -95,7 +95,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 95–575, § 4][/us/pl/95/575/s4], Nov. 2, 1978, [92 Stat. 2466][/us/stat/92/2466], provided:
+[Pub. L. 95–575][/us/pl/95/575], § 4, Nov. 2, 1978, [92 Stat. 2466][/us/stat/92/2466], provided:
 
 >     “(a) Except as provided in subsection (b), this Act \[enacting this chapter, amending [section 1961 of this title][/us/usc/t18/s1961] and sections 781 and 787 of former Title 49, Transportation, and enacting provisions set out as a note under this section\] shall take effect on the date of its enactment \[Nov. 2, 1978\].
 
@@ -103,7 +103,7 @@
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 95–575, § 5][/us/pl/95/575/s5], Nov. 2, 1978, [92 Stat. 2466][/us/stat/92/2466], provided that: 
+[Pub. L. 95–575][/us/pl/95/575], § 5, Nov. 2, 1978, [92 Stat. 2466][/us/stat/92/2466], provided that: 
 
 > “There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of chapter 114 of title 18, United States Code, added by the first section of this Act.”
 
@@ -116,29 +116,29 @@
 
 [/us/usc/t19/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1311
 [/us/usc/t19/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1311
-[/us/pl/95/575/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F575%2Fs1
+[/us/pl/95/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F575
 [/us/stat/92/2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2463
-[/us/pl/97/449/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs5%2Fc
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2442
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/107/296/s1112/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fi%2F1
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2277
-[/us/pl/109/177/s121/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs121%2Fa%2F1
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F221
-[/us/pl/109/177/s121/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs121%2Fb%2F6
-[/us/pl/109/177/s121/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs121%2Fa%2F1
-[/us/pl/109/177/s121/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs121%2Fb%2F1
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/95/575/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F575%2Fs4
+[/us/pl/95/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F575
 [/us/stat/92/2466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2466
 [/us/usc/t18/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1961
-[/us/pl/95/575/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F575%2Fs5
+[/us/pl/95/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F575
 [/us/stat/92/2466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2466
 
 

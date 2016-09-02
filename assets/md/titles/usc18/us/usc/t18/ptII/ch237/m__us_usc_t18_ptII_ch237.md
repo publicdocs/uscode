@@ -35,7 +35,7 @@
 
  __Prior Provisions__ 
 
-    A prior chapter 237, consisting of sections 3771 and 3772, related to criminal procedure, prior to repeal by [Pub. L. 100–702, title IV][/us/pl/100/702], §§ 404(a), 407, Nov. 19, 1988, [102 Stat. 4651][/us/stat/102/4651], 4652, effective Dec. 1, 1988. See sections 2071 to 2074 of Title 28, Judiciary and Judicial Procedure.
+    A prior chapter 237, consisting of sections 3771 and 3772, related to criminal procedure, prior to repeal by [Pub. L. 100–702, title IV][/us/pl/100/702/tIV], §§ 404(a), 407, Nov. 19, 1988, [102 Stat. 4651][/us/stat/102/4651], 4652, effective Dec. 1, 1988. See sections 2071 to 2074 of Title 28, Judiciary and Judicial Procedure.
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIV
 [/us/stat/102/4651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4651
 
 

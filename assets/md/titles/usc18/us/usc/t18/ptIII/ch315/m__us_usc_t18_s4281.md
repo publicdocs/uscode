@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t18/ptIII/ch315/m__us_usc_t18_ptIII_ch315.md) | [Next](./../../../../..//us/usc/t18/ptIII/ch315/m__us_usc_t18_s4282.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4281)
 
-## \[§ 4281. Repealed. [Pub. L. 98–473, title II, § 218(a)(7)][/us/pl/98/473/s218/a/7], Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027]\]
+## \[§ 4281. Repealed. [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 218(a)(7), Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027]\]
 
     Section, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 856][/us/stat/62/856]; Sept. 19, 1962, [Pub. L. 87–672][/us/pl/87/672], [76 Stat. 557][/us/stat/76/557], related to discharge from prison of a convicted person.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/98/473/s218/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs218%2Fa%2F7
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2027
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F856

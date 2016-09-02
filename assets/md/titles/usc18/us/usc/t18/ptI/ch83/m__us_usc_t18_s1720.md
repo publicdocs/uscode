@@ -23,11 +23,11 @@
 
     Shall be fined under this title or imprisoned not more than one year, or both; but if he is a person employed in the Postal Service, he shall be fined under this title or imprisoned not more than three years, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 783][/us/stat/62/783]; [Pub. L. 103–322, title XXXIII, § 330016(1)(G)][/us/pl/103/322/s330016/1/G], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 783][/us/stat/62/783]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(G), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 328 ([Mar. 4, 1909, ch. 321, § 205][/us/act/1909-03-04/ch321/s205], [35 Stat. 1127][/us/stat/35/1127]).
+    Based on title 18, U.S.C., 1940 ed., § 328 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 205, [35 Stat. 1127][/us/stat/35/1127]).
 
     Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in [section 2 of this title][/us/usc/t18/s2].
 
@@ -46,9 +46,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F783
-[/us/pl/103/322/s330016/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FG
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/act/1909-03-04/ch321/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs205
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1127
 [/us/usc/t18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

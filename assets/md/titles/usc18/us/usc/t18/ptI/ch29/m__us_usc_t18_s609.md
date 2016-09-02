@@ -17,11 +17,11 @@
 
     Whoever, being a commissioned, noncommissioned, warrant, or petty officer of an Armed Force, uses military authority to influence the vote of a member of the Armed Forces or to require a member of the Armed Forces to march to a polling place, or attempts to do so, shall be fined in accordance with this title or imprisoned not more than five years, or both. Nothing in this section shall prohibit free discussion of political issues or candidates for public office.
 
-(Added [Pub. L. 99–410, title II, § 202(a)][/us/pl/99/410/s202/a], Aug. 28, 1986, [100 Stat. 929][/us/stat/100/929].)
+(Added [Pub. L. 99–410, title II][/us/pl/99/410/tII], § 202(a), Aug. 28, 1986, [100 Stat. 929][/us/stat/100/929].)
 
  __Prior Provisions__ 
 
-    A prior section 609, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 723][/us/stat/62/723], prescribed maximum contributions and expenditures limitation of $3,000,000 for any calendar year, prior to repeal by [Pub. L. 92–225, title II, § 204][/us/pl/92/225/s204], Feb. 7, 1972, [86 Stat. 10][/us/stat/86/10], effective sixty days after Feb. 7, 1972.
+    A prior section 609, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 723][/us/stat/62/723], prescribed maximum contributions and expenditures limitation of $3,000,000 for any calendar year, prior to repeal by [Pub. L. 92–225, title II][/us/pl/92/225/tII], § 204, Feb. 7, 1972, [86 Stat. 10][/us/stat/86/10], effective sixty days after Feb. 7, 1972.
 
  __Effective Date__ 
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/pl/99/410/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2Fs202%2Fa
+[/us/pl/99/410/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2FtII
 [/us/stat/100/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F929
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F723
-[/us/pl/92/225/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs204
+[/us/pl/92/225/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2FtII
 [/us/stat/86/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F10
 [/us/pl/99/410/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2Fs204
 [/us/usc/t52/s20301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20301

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t18/ptI/ch119/m__us_usc_t18_s2513.md) | [Next](./../../../../..//us/usc/t18/ptI/ch119/m__us_usc_t18_s2515.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2514)
 
-## \[§ 2514. Repealed. [Pub. L. 91–452, title II, § 227(a)][/us/pl/91/452/s227/a], Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930]\]
+## \[§ 2514. Repealed. [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 227(a), Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930]\]
 
-    Section, [Pub. L. 90–351, title II, § 802][/us/pl/90/351/s802], June 19, 1968, [82 Stat. 216][/us/stat/82/216], provided for immunity of witnesses giving testimony or producing evidence under compulsion in Federal grand jury or court proceedings. Subject matter is covered in sections 6002 and 6003 of this title.
+    Section, [Pub. L. 90–351, title II][/us/pl/90/351/tII], § 802, June 19, 1968, [82 Stat. 216][/us/stat/82/216], provided for immunity of witnesses giving testimony or producing evidence under compulsion in Federal grand jury or court proceedings. Subject matter is covered in sections 6002 and 6003 of this title.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/91/452/s227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs227%2Fa
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F930
-[/us/pl/90/351/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs802
+[/us/pl/90/351/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtII
 [/us/stat/82/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F216
 [/us/pl/91/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452
 [/us/pl/91/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452

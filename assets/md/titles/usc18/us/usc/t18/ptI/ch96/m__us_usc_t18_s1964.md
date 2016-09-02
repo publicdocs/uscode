@@ -23,7 +23,7 @@
 
     (d) A final judgment or decree rendered in favor of the United States in any criminal proceeding brought by the United States under this chapter shall estop the defendant from denying the essential allegations of the criminal offense in any subsequent civil proceeding brought by the United States.
 
-(Added [Pub. L. 91–452, title IX, § 901(a)][/us/pl/91/452/s901/a], Oct. 15, 1970, [84 Stat. 943][/us/stat/84/943]; amended [Pub. L. 98–620, title IV, § 402(24)(A)][/us/pl/98/620/s402/24/A], Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359]; [Pub. L. 104–67, title I, § 107][/us/pl/104/67/s107], Dec. 22, 1995, [109 Stat. 758][/us/stat/109/758].)
+(Added [Pub. L. 91–452, title IX][/us/pl/91/452/tIX], § 901(a), Oct. 15, 1970, [84 Stat. 943][/us/stat/84/943]; amended [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(24)(A), Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359]; [Pub. L. 104–67, title I][/us/pl/104/67/tI], § 107, Dec. 22, 1995, [109 Stat. 758][/us/stat/109/758].)
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/91/452/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs901%2Fa
+[/us/pl/91/452/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtIX
 [/us/stat/84/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F943
-[/us/pl/98/620/s402/24/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F24%2FA
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3359
-[/us/pl/104/67/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2Fs107
+[/us/pl/104/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2FtI
 [/us/stat/109/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F758
 [/us/pl/104/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620

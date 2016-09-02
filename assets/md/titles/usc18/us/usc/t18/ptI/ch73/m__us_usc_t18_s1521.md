@@ -17,7 +17,7 @@
 
     Whoever files, attempts to file, or conspires to file, in any public record or in any private record which is generally available to the public, any false lien or encumbrance against the real or personal property of an individual described in section 1114, on account of the performance of official duties by that individual, knowing or having reason to know that such lien or encumbrance is false or contains any materially false, fictitious, or fraudulent statement or representation, shall be fined under this title or imprisoned for not more than 10 years, or both.
 
-(Added [Pub. L. 110–177, title II, § 201(a)][/us/pl/110/177/s201/a], Jan. 7, 2008, [121 Stat. 2535][/us/stat/121/2535].)
+(Added [Pub. L. 110–177, title II][/us/pl/110/177/tII], § 201(a), Jan. 7, 2008, [121 Stat. 2535][/us/stat/121/2535].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/177/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs201%2Fa
+[/us/pl/110/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtII
 [/us/stat/121/2535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2535
 
 

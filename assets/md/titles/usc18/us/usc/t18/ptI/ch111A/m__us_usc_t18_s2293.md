@@ -35,7 +35,7 @@
 
         The term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Added [Pub. L. 109–177, title III, § 306(a)][/us/pl/109/177/s306/a], Mar. 9, 2006, [120 Stat. 239][/us/stat/120/239].)
+(Added [Pub. L. 109–177, title III][/us/pl/109/177/tIII], § 306(a), Mar. 9, 2006, [120 Stat. 239][/us/stat/120/239].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t29/s113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs113%2Fc
-[/us/pl/109/177/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs306%2Fa
+[/us/pl/109/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIII
 [/us/stat/120/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F239
 
 

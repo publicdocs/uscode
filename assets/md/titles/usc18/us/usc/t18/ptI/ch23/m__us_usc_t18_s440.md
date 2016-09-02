@@ -11,17 +11,17 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch23/m__us_usc_t18_s437.md) | [Next](./../../../../..//us/usc/t18/ptI/ch23/m__us_usc_t18_s441.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs440)
+[Previous](./../../../../..//us/usc/t18/ptI/ch23/m__us_usc_t18_s438 _us_usc_t18_s439.md) | [Next](./../../../../..//us/usc/t18/ptI/ch23/m__us_usc_t18_s441.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs440)
 
 ## § 440. Mail contracts
 
     Whoever, being a person employed in the Postal Service, becomes interested in any contract for carrying the mail, or acts as agent, with or without compensation, for any contractor or person offering to become a contractor in any business before the Postal Service, shall be fined under this title  <sup>\[1\]</sup>  <sup><sup> 1 See 1994 Amendment note below. </sup></sup>  or imprisoned not more than one year, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 704][/us/stat/62/704]; [Pub. L. 91–375, § 6(j)(3)][/us/pl/91/375/s6/j/3], Aug. 12, 1970, [84 Stat. 777][/us/stat/84/777]; [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 704][/us/stat/62/704]; [Pub. L. 91–375][/us/pl/91/375], § 6(j)(3), Aug. 12, 1970, [84 Stat. 777][/us/stat/84/777]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 356 ([Mar. 4, 1909, ch. 321, § 226][/us/act/1909-03-04/ch321/s226], [35 Stat. 1134][/us/stat/35/1134]).
+    Based on title 18, U.S.C., 1940 ed., § 356 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 226, [35 Stat. 1134][/us/stat/35/1134]).
 
     Provision for dismissal from office was omitted since this might be handled better administratively.
 
@@ -39,18 +39,18 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch23/m__us_usc_t18_s437.md) | [Next](./../../../../..//us/usc/t18/ptI/ch23/m__us_usc_t18_s441.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs440)
+[Previous](./../../../../..//us/usc/t18/ptI/ch23/m__us_usc_t18_s438 _us_usc_t18_s439.md) | [Next](./../../../../..//us/usc/t18/ptI/ch23/m__us_usc_t18_s441.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs440)
 
 ----------
 ----------
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F704
-[/us/pl/91/375/s6/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fj%2F3
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F777
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/act/1909-03-04/ch321/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs226
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1134
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375

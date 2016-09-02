@@ -181,109 +181,109 @@
 
     For purpose of subsection (a)(7), a single identification document or false identification document that contains 1 or more means of identification shall be construed to be 1 means of identification.
 
-(Added [Pub. L. 97–398, § 2][/us/pl/97/398/s2], Dec. 31, 1982, [96 Stat. 2009][/us/stat/96/2009]; amended [Pub. L. 99–646, § 44(a)][/us/pl/99/646/s44/a], Nov. 10, 1986, [100 Stat. 3601][/us/stat/100/3601]; [Pub. L. 100–690, title VII, § 7023][/us/pl/100/690/s7023], Nov. 18, 1988, [102 Stat. 4397][/us/stat/102/4397]; [Pub. L. 101–647, title XII, § 1205(e)][/us/pl/101/647/s1205/e], Nov. 29, 1990, [104 Stat. 4831][/us/stat/104/4831]; [Pub. L. 103–322, title XXXIII, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], (M), (O), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147], 2148; [Pub. L. 104–208, div. C, title II, § 211(a)(1)][/us/pl/104/208/s211/a/1], Sept. 30, 1996, [110 Stat. 3009–569][/us/stat/110/3009-569]; [Pub. L. 104–294, title VI, § 601(a)(3)][/us/pl/104/294/s601/a/3], (p), Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498], 3502; [Pub. L. 105–318, § 3(a)][/us/pl/105/318/s3/a]–(h)(1), Oct. 30, 1998, [112 Stat. 3007–3009][/us/stat/112/3007-3009]; [Pub. L. 106–578, § 3][/us/pl/106/578/s3], Dec. 28, 2000, [114 Stat. 3076][/us/stat/114/3076]; [Pub. L. 108–21, title VI, § 607(b)][/us/pl/108/21/s607/b], Apr. 30, 2003, [117 Stat. 689][/us/stat/117/689]; [Pub. L. 108–275][/us/pl/108/275], §§ 2(c), 3, July 15, 2004, [118 Stat. 832][/us/stat/118/832]; [Pub. L. 108–458, title VII, § 7216][/us/pl/108/458/s7216], Dec. 17, 2004, [118 Stat. 3833][/us/stat/118/3833]; [Pub. L. 109–13, div. B, title II, § 203(a)][/us/pl/109/13/s203/a], May 11, 2005, [119 Stat. 315][/us/stat/119/315]; [Pub. L. 109–177, title VI, § 603][/us/pl/109/177/s603], Mar. 9, 2006, [120 Stat. 253][/us/stat/120/253].)
+(Added [Pub. L. 97–398][/us/pl/97/398], § 2, Dec. 31, 1982, [96 Stat. 2009][/us/stat/96/2009]; amended [Pub. L. 99–646][/us/pl/99/646], § 44(a), Nov. 10, 1986, [100 Stat. 3601][/us/stat/100/3601]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7023, Nov. 18, 1988, [102 Stat. 4397][/us/stat/102/4397]; [Pub. L. 101–647, title XII][/us/pl/101/647/tXII], § 1205(e), Nov. 29, 1990, [104 Stat. 4831][/us/stat/104/4831]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(K), (M), (O), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147], 2148; [Pub. L. 104–208, div. C, title II][/us/pl/104/208/dC/tII], § 211(a)(1), Sept. 30, 1996, [110 Stat. 3009–569][/us/stat/110/3009-569]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(a)(3), (p), Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498], 3502; [Pub. L. 105–318][/us/pl/105/318], § 3(a)–(h)(1), Oct. 30, 1998, [112 Stat. 3007–3009][/us/stat/112/3007-3009]; [Pub. L. 106–578][/us/pl/106/578], § 3, Dec. 28, 2000, [114 Stat. 3076][/us/stat/114/3076]; [Pub. L. 108–21, title VI][/us/pl/108/21/tVI], § 607(b), Apr. 30, 2003, [117 Stat. 689][/us/stat/117/689]; [Pub. L. 108–275][/us/pl/108/275], §§ 2(c), 3, July 15, 2004, [118 Stat. 832][/us/stat/118/832]; [Pub. L. 108–458, title VII][/us/pl/108/458/tVII], § 7216, Dec. 17, 2004, [118 Stat. 3833][/us/stat/118/3833]; [Pub. L. 109–13, div. B, title II][/us/pl/109/13/dB/tII], § 203(a), May 11, 2005, [119 Stat. 315][/us/stat/119/315]; [Pub. L. 109–177, title VI][/us/pl/109/177/tVI], § 603, Mar. 9, 2006, [120 Stat. 253][/us/stat/120/253].)
 
  __Amendments__ 
 
-    2006—Subsecs. (a)(6), (c)(1). [Pub. L. 109–177, § 603(1)][/us/pl/109/177/s603/1], (2), inserted “or a sponsoring entity of an event designated as a special event of national significance” after “United States”.
+    2006—Subsecs. (a)(6), (c)(1). [Pub. L. 109–177][/us/pl/109/177], § 603(1), (2), inserted “or a sponsoring entity of an event designated as a special event of national significance” after “United States”.
 
-    Subsec. (d)(3). [Pub. L. 109–177, § 603(3)][/us/pl/109/177/s603/3], inserted “a sponsoring entity of an event designated as a special event of national significance,” after “political subdivision of a State,”.
+    Subsec. (d)(3). [Pub. L. 109–177][/us/pl/109/177], § 603(3), inserted “a sponsoring entity of an event designated as a special event of national significance,” after “political subdivision of a State,”.
 
-    Subsec. (d)(4)(B), (6)(B). [Pub. L. 109–177, § 603(4)][/us/pl/109/177/s603/4], inserted “a sponsoring entity of an event designated by the President as a special event of national significance,” after “political subdivision of a State,”.
+    Subsec. (d)(4)(B), (6)(B). [Pub. L. 109–177][/us/pl/109/177], § 603(4), inserted “a sponsoring entity of an event designated by the President as a special event of national significance,” after “political subdivision of a State,”.
 
     2005—Subsec. (a)(8). [Pub. L. 109–13][/us/pl/109/13] substituted “false or actual authentication features” for “false authentication features”.
 
-    2004—Subsec. (a)(7). [Pub. L. 108–275, § 3(1)][/us/pl/108/275/s3/1], substituted “transfers, possesses,” for “transfers” and “abet, or in connection with,” for “abet,”.
+    2004—Subsec. (a)(7). [Pub. L. 108–275][/us/pl/108/275], § 3(1), substituted “transfers, possesses,” for “transfers” and “abet, or in connection with,” for “abet,”.
 
-    Subsec. (b)(1)(D). [Pub. L. 108–275, § 3(2)][/us/pl/108/275/s3/2], substituted “transfer, possession,” for “transfer”.
+    Subsec. (b)(1)(D). [Pub. L. 108–275][/us/pl/108/275], § 3(2), substituted “transfer, possession,” for “transfer”.
 
-    Subsec. (b)(2). [Pub. L. 108–275, § 3(3)][/us/pl/108/275/s3/3], substituted “5 years” for “three years” in introductory provisions.
+    Subsec. (b)(2). [Pub. L. 108–275][/us/pl/108/275], § 3(3), substituted “5 years” for “three years” in introductory provisions.
 
     Subsec. (b)(4). [Pub. L. 108–458][/us/pl/108/458] substituted “30 years” for “25 years”.
 
-    [Pub. L. 108–275, § 3(4)][/us/pl/108/275/s3/4], inserted “an act of domestic terrorism (as defined under [section 2331(5) of this title][/us/usc/t18/s2331/5]) or” after “facilitate”.
+    [Pub. L. 108–275][/us/pl/108/275], § 3(4), inserted “an act of domestic terrorism (as defined under [section 2331(5) of this title][/us/usc/t18/s2331/5]) or” after “facilitate”.
 
-    Subsec. (d). [Pub. L. 108–275, § 2(c)][/us/pl/108/275/s2/c], inserted “and section 1028A” after “In this section” in introductory provisions.
+    Subsec. (d). [Pub. L. 108–275][/us/pl/108/275], § 2(c), inserted “and section 1028A” after “In this section” in introductory provisions.
 
-    2003—[Pub. L. 108–21, § 607(b)(6)][/us/pl/108/21/s607/b/6], inserted “, authentication features,” after “documents” in section catchline.
+    2003—[Pub. L. 108–21][/us/pl/108/21], § 607(b)(6), inserted “, authentication features,” after “documents” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 108–21, § 607(b)(1)(A)][/us/pl/108/21/s607/b/1/A], inserted “, authentication feature,” after “an identification document”.
+    Subsec. (a)(1). [Pub. L. 108–21][/us/pl/108/21], § 607(b)(1)(A), inserted “, authentication feature,” after “an identification document”.
 
-    Subsec. (a)(2). [Pub. L. 108–21, § 607(b)(1)(B)][/us/pl/108/21/s607/b/1/B], inserted “, authentication feature,” after “an identification document” and “or feature” after “such document”.
+    Subsec. (a)(2). [Pub. L. 108–21][/us/pl/108/21], § 607(b)(1)(B), inserted “, authentication feature,” after “an identification document” and “or feature” after “such document”.
 
-    Subsec. (a)(3). [Pub. L. 108–21, § 607(b)(1)(C)][/us/pl/108/21/s607/b/1/C], inserted “, authentication features,” after “possessor)”.
+    Subsec. (a)(3). [Pub. L. 108–21][/us/pl/108/21], § 607(b)(1)(C), inserted “, authentication features,” after “possessor)”.
 
-    Subsec. (a)(4). [Pub. L. 108–21, § 607(b)(1)(D)][/us/pl/108/21/s607/b/1/D], inserted “, authentication feature,” after “possessor)” and “or feature” after “such document”.
+    Subsec. (a)(4). [Pub. L. 108–21][/us/pl/108/21], § 607(b)(1)(D), inserted “, authentication feature,” after “possessor)” and “or feature” after “such document”.
 
-    Subsec. (a)(5). [Pub. L. 108–21, § 607(b)(1)(E)][/us/pl/108/21/s607/b/1/E], inserted “or authentication feature” after “implement” wherever appearing.
+    Subsec. (a)(5). [Pub. L. 108–21][/us/pl/108/21], § 607(b)(1)(E), inserted “or authentication feature” after “implement” wherever appearing.
 
-    Subsec. (a)(6). [Pub. L. 108–21, § 607(b)(1)(F)][/us/pl/108/21/s607/b/1/F], inserted “or authentication feature” before “that is or appears”, “or authentication feature” before “of the United States” and “or feature” after “such document” and struck out “or” at end.
+    Subsec. (a)(6). [Pub. L. 108–21][/us/pl/108/21], § 607(b)(1)(F), inserted “or authentication feature” before “that is or appears”, “or authentication feature” before “of the United States” and “or feature” after “such document” and struck out “or” at end.
 
-    Subsec. (a)(7). [Pub. L. 108–21, § 607(b)(1)(G)][/us/pl/108/21/s607/b/1/G], inserted “or” after semicolon at end.
+    Subsec. (a)(7). [Pub. L. 108–21][/us/pl/108/21], § 607(b)(1)(G), inserted “or” after semicolon at end.
 
-    Subsec. (a)(8). [Pub. L. 108–21, § 607(b)(1)(H)][/us/pl/108/21/s607/b/1/H], added par. (8).
+    Subsec. (a)(8). [Pub. L. 108–21][/us/pl/108/21], § 607(b)(1)(H), added par. (8).
 
-    Subsec. (b)(1)(A). [Pub. L. 108–21, § 607(b)(2)(A)(i)(I)][/us/pl/108/21/s607/b/2/A/i/I], inserted “, authentication feature,” before “or false” in introductory provisions.
+    Subsec. (b)(1)(A). [Pub. L. 108–21][/us/pl/108/21], § 607(b)(2)(A)(i)(I), inserted “, authentication feature,” before “or false” in introductory provisions.
 
-    Subsec. (b)(1)(A)(i). [Pub. L. 108–21, § 607(b)(2)(A)(i)(II)][/us/pl/108/21/s607/b/2/A/i/II], inserted “or authentication feature” after “document”.
+    Subsec. (b)(1)(A)(i). [Pub. L. 108–21][/us/pl/108/21], § 607(b)(2)(A)(i)(II), inserted “or authentication feature” after “document”.
 
-    Subsec. (b)(1)(B). [Pub. L. 108–21, § 607(b)(2)(A)(ii)][/us/pl/108/21/s607/b/2/A/ii], inserted “, authentication features,” before “or false”.
+    Subsec. (b)(1)(B). [Pub. L. 108–21][/us/pl/108/21], § 607(b)(2)(A)(ii), inserted “, authentication features,” before “or false”.
 
-    Subsec. (b)(2)(A). [Pub. L. 108–21, § 607(b)(2)(B)][/us/pl/108/21/s607/b/2/B], inserted “, authentication feature,” before “or a false”.
+    Subsec. (b)(2)(A). [Pub. L. 108–21][/us/pl/108/21], § 607(b)(2)(B), inserted “, authentication feature,” before “or a false”.
 
-    Subsec. (c)(1). [Pub. L. 108–21, § 607(b)(3)][/us/pl/108/21/s607/b/3], inserted “, authentication feature,” before “or false” in two places.
+    Subsec. (c)(1). [Pub. L. 108–21][/us/pl/108/21], § 607(b)(3), inserted “, authentication feature,” before “or false” in two places.
 
-    Subsec. (d). [Pub. L. 108–21, § 607(b)(4)][/us/pl/108/21/s607/b/4], added pars. (1), (5), (6) and (12), redesignated former pars. (1), (2), (3), (4), (5), (6), (7), and (8) as pars. (2), (3), (4), (7), (8), (9), (10), and (11), respectively, and in par. (4)(A) inserted “or was issued under the authority of a governmental entity but was subsequently altered for purposes of deceit” after “entity”.
+    Subsec. (d). [Pub. L. 108–21][/us/pl/108/21], § 607(b)(4), added pars. (1), (5), (6) and (12), redesignated former pars. (1), (2), (3), (4), (5), (6), (7), and (8) as pars. (2), (3), (4), (7), (8), (9), (10), and (11), respectively, and in par. (4)(A) inserted “or was issued under the authority of a governmental entity but was subsequently altered for purposes of deceit” after “entity”.
 
-    Subsecs. (h), (i). [Pub. L. 108–21, § 607(b)(5)][/us/pl/108/21/s607/b/5], added subsec. (h) and redesignated former subsec. (h) as (i).
+    Subsecs. (h), (i). [Pub. L. 108–21][/us/pl/108/21], § 607(b)(5), added subsec. (h) and redesignated former subsec. (h) as (i).
 
-    2000—Subsec. (c)(3)(A). [Pub. L. 106–578, § 3(1)][/us/pl/106/578/s3/1], inserted “, including the transfer of a document by electronic means” after “commerce”.
+    2000—Subsec. (c)(3)(A). [Pub. L. 106–578][/us/pl/106/578], § 3(1), inserted “, including the transfer of a document by electronic means” after “commerce”.
 
-    Subsec. (d)(1). [Pub. L. 106–578, § 3(2)(A)][/us/pl/106/578/s3/2/A], inserted “template, computer file, computer disc,” after “impression,”.
+    Subsec. (d)(1). [Pub. L. 106–578][/us/pl/106/578], § 3(2)(A), inserted “template, computer file, computer disc,” after “impression,”.
 
-    Subsec. (d)(3) to (8). [Pub. L. 106–578, § 3(2)(B)][/us/pl/106/578/s3/2/B]–(F), added pars. (3) and (7) and redesignated former pars. (3), (4), (5), and (6) as (4), (5), (6), and (8), respectively.
+    Subsec. (d)(3) to (8). [Pub. L. 106–578][/us/pl/106/578], § 3(2)(B)–(F), added pars. (3) and (7) and redesignated former pars. (3), (4), (5), and (6) as (4), (5), (6), and (8), respectively.
 
-    1998—[Pub. L. 105–318, § 3(h)(1)][/us/pl/105/318/s3/h/1], inserted “and information” at end of section catchline.
+    1998—[Pub. L. 105–318][/us/pl/105/318], § 3(h)(1), inserted “and information” at end of section catchline.
 
-    Subsec. (a). [Pub. L. 105–318, § 3(a)(3)][/us/pl/105/318/s3/a/3], struck out “or attempts to do so,” before “shall be punished” in concluding provisions.
+    Subsec. (a). [Pub. L. 105–318][/us/pl/105/318], § 3(a)(3), struck out “or attempts to do so,” before “shall be punished” in concluding provisions.
 
-    Subsec. (a)(7). [Pub. L. 105–318, § 3(a)(1)][/us/pl/105/318/s3/a/1], (2), (4), added par. (7).
+    Subsec. (a)(7). [Pub. L. 105–318][/us/pl/105/318], § 3(a)(1), (2), (4), added par. (7).
 
-    Subsec. (b)(1)(D). [Pub. L. 105–318, § 3(b)(1)][/us/pl/105/318/s3/b/1], added subpar. (D).
+    Subsec. (b)(1)(D). [Pub. L. 105–318][/us/pl/105/318], § 3(b)(1), added subpar. (D).
 
-    Subsec. (b)(2)(A). [Pub. L. 105–318, § 3(b)(2)(A)][/us/pl/105/318/s3/b/2/A], substituted “, transfer, or use of a means of identification, an identification document, or a” for “or transfer of an identification document or”.
+    Subsec. (b)(2)(A). [Pub. L. 105–318][/us/pl/105/318], § 3(b)(2)(A), substituted “, transfer, or use of a means of identification, an identification document, or a” for “or transfer of an identification document or”.
 
-    Subsec. (b)(2)(B). [Pub. L. 105–318, § 3(b)(2)(B)][/us/pl/105/318/s3/b/2/B], inserted “or (7)” after “(3)”.
+    Subsec. (b)(2)(B). [Pub. L. 105–318][/us/pl/105/318], § 3(b)(2)(B), inserted “or (7)” after “(3)”.
 
-    Subsec. (b)(3). [Pub. L. 105–318, § 3(b)(3)][/us/pl/105/318/s3/b/3], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “a fine under this title or imprisonment for not more than 20 years, or both, if the offense is committed to facilitate a drug trafficking crime (as defined in [section 929(a)(2) of this title][/us/usc/t18/s929/a/2]);”.
+    Subsec. (b)(3). [Pub. L. 105–318][/us/pl/105/318], § 3(b)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “a fine under this title or imprisonment for not more than 20 years, or both, if the offense is committed to facilitate a drug trafficking crime (as defined in [section 929(a)(2) of this title][/us/usc/t18/s929/a/2]);”.
 
-    Subsec. (b)(5), (6). [Pub. L. 105–318, § 3(b)(4)][/us/pl/105/318/s3/b/4]–(6), added par. (5) and redesignated former par. (5) as (6).
+    Subsec. (b)(5), (6). [Pub. L. 105–318][/us/pl/105/318], § 3(b)(4)–(6), added par. (5) and redesignated former par. (5) as (6).
 
-    Subsec. (c)(3). [Pub. L. 105–318, § 3(c)][/us/pl/105/318/s3/c], added par. (3) and struck out former par. (3) which read as follows: “the production, transfer, or possession prohibited by this section is in or affects interstate or foreign commerce, or the identification document, false identification document, or document-making implement is transported in the mail in the course of the production, transfer, or possession prohibited by this section.”
+    Subsec. (c)(3). [Pub. L. 105–318][/us/pl/105/318], § 3(c), added par. (3) and struck out former par. (3) which read as follows: “the production, transfer, or possession prohibited by this section is in or affects interstate or foreign commerce, or the identification document, false identification document, or document-making implement is transported in the mail in the course of the production, transfer, or possession prohibited by this section.”
 
-    Subsec. (d). [Pub. L. 105–318, § 3(d)][/us/pl/105/318/s3/d], amended subsec. (d) generally. Prior to amendment, subsec. (d) consisted of pars. (1) to (5) defining “identification document”, “produce”, “document-making implement”, “personal identification card”, and “State” as used in this section.
+    Subsec. (d). [Pub. L. 105–318][/us/pl/105/318], § 3(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) consisted of pars. (1) to (5) defining “identification document”, “produce”, “document-making implement”, “personal identification card”, and “State” as used in this section.
 
-    Subsec. (f). [Pub. L. 105–318, § 3(e)][/us/pl/105/318/s3/e], added subsec. (f).
+    Subsec. (f). [Pub. L. 105–318][/us/pl/105/318], § 3(e), added subsec. (f).
 
-    Subsec. (g). [Pub. L. 105–318, § 3(f)][/us/pl/105/318/s3/f], added subsec. (g).
+    Subsec. (g). [Pub. L. 105–318][/us/pl/105/318], § 3(f), added subsec. (g).
 
-    Subsec. (h). [Pub. L. 105–318, § 3(g)][/us/pl/105/318/s3/g], added subsec. (h).
+    Subsec. (h). [Pub. L. 105–318][/us/pl/105/318], § 3(g), added subsec. (h).
 
-    1996—Subsec. (a)(4), (5). [Pub. L. 104–294, § 601(p)][/us/pl/104/294/s601/p], struck out “or” after semicolon in par. (4) and inserted “or” after semicolon in par. (5).
+    1996—Subsec. (a)(4), (5). [Pub. L. 104–294][/us/pl/104/294], § 601(p), struck out “or” after semicolon in par. (4) and inserted “or” after semicolon in par. (5).
 
-    Subsec. (b). [Pub. L. 104–294, § 601(a)(3)][/us/pl/104/294/s601/a/3], substituted “fine under this title” for “fine of under this title” wherever appearing.
+    Subsec. (b). [Pub. L. 104–294][/us/pl/104/294], § 601(a)(3), substituted “fine under this title” for “fine of under this title” wherever appearing.
 
-    Subsec. (b)(1). [Pub. L. 104–208, § 211(a)(1)(A)][/us/pl/104/208/s211/a/1/A], in introductory provisions inserted “except as provided in paragraphs (3) and (4),” after “(1)” and substituted “15 years” for “five years”.
+    Subsec. (b)(1). [Pub. L. 104–208][/us/pl/104/208], § 211(a)(1)(A), in introductory provisions inserted “except as provided in paragraphs (3) and (4),” after “(1)” and substituted “15 years” for “five years”.
 
-    Subsec. (b)(2). [Pub. L. 104–208, § 211(a)(1)(B)][/us/pl/104/208/s211/a/1/B], inserted “except as provided in paragraphs (3) and (4),” after “(2)” in introductory provisions and struck out “and” at end.
+    Subsec. (b)(2). [Pub. L. 104–208][/us/pl/104/208], § 211(a)(1)(B), inserted “except as provided in paragraphs (3) and (4),” after “(2)” in introductory provisions and struck out “and” at end.
 
-    Subsec. (b)(3) to (5). [Pub. L. 104–208, § 211(a)(1)(C)][/us/pl/104/208/s211/a/1/C], (D), added pars. (3) and (4) and redesignated former par. (3) as (5).
+    Subsec. (b)(3) to (5). [Pub. L. 104–208][/us/pl/104/208], § 211(a)(1)(C), (D), added pars. (3) and (4) and redesignated former par. (3) as (5).
 
-    1994—Subsec. (b)(1). [Pub. L. 103–322, § 330016(1)(O)][/us/pl/103/322/s330016/1/O], substituted “under this title” for “not more than $25,000”.
+    1994—Subsec. (b)(1). [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(O), substituted “under this title” for “not more than $25,000”.
 
-    Subsec. (b)(2). [Pub. L. 103–322, § 330016(1)(M)][/us/pl/103/322/s330016/1/M], substituted “under this title” for “not more than $15,000”.
+    Subsec. (b)(2). [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(M), substituted “under this title” for “not more than $15,000”.
 
-    Subsec. (b)(3). [Pub. L. 103–322, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], substituted “under this title” for “not more than $5,000”.
+    Subsec. (b)(3). [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(K), substituted “under this title” for “not more than $5,000”.
 
     1990—Subsec. (d)(5). [Pub. L. 101–647][/us/pl/101/647] inserted “commonwealth,” before “possession or territory of the United States”.
 
@@ -293,19 +293,19 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–578, § 5][/us/pl/106/578/s5], Dec. 28, 2000, [114 Stat. 3077][/us/stat/114/3077], provided that: 
+[Pub. L. 106–578][/us/pl/106/578], § 5, Dec. 28, 2000, [114 Stat. 3077][/us/stat/114/3077], provided that: 
 
 > “This Act \[amending this section, repealing [section 1738 of this title][/us/usc/t18/s1738], and enacting provisions set out as a note below\] and the amendments made by this Act shall take effect 90 days after the date of enactment of this Act \[Dec. 28, 2000\].”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–208, div. C, title II, § 211(c)][/us/pl/104/208/s211/c], Sept. 30, 1996, [110 Stat. 3009–570][/us/stat/110/3009-570], provided that: 
+[Pub. L. 104–208, div. C, title II][/us/pl/104/208/dC/tII], § 211(c), Sept. 30, 1996, [110 Stat. 3009–570][/us/stat/110/3009-570], provided that: 
 
 > “This section \[amending this section and sections 1425 to 1427, 1541 to 1544, and 1546 of this title and enacting provisions set out as a note under [section 994 of Title 28][/us/usc/t28/s994], Judiciary and Judicial Procedure\] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
  __Coordinating Committee on False Identification__ 
 
-[Pub. L. 106–578, § 2][/us/pl/106/578/s2], Dec. 28, 2000, [114 Stat. 3075][/us/stat/114/3075], provided that:
+[Pub. L. 106–578][/us/pl/106/578], § 2, Dec. 28, 2000, [114 Stat. 3075][/us/stat/114/3075], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -347,13 +347,13 @@
 
  __Constitutional Authority__ 
 
-[Pub. L. 105–318, § 2][/us/pl/105/318/s2], Oct. 30, 1998, [112 Stat. 3007][/us/stat/112/3007], provided that: 
+[Pub. L. 105–318][/us/pl/105/318], § 2, Oct. 30, 1998, [112 Stat. 3007][/us/stat/112/3007], provided that: 
 
 > “The constitutional authority upon which this Act \[see Short Title of 1998 Amendments note set out under [section 1001 of this title][/us/usc/t18/s1001]\] rests is the power of Congress to regulate commerce with foreign nations and among the several States, and the authority to make all laws which shall be necessary and proper for carrying into execution the powers vested by the Constitution in the Government of the United States or in any department or officer thereof, as set forth in article I, section 8 of the United States Constitution.”
 
  __Centralized Complaint and Consumer Education Service for Victims of Identity Theft__ 
 
-[Pub. L. 105–318, § 5][/us/pl/105/318/s5], Oct. 30, 1998, [112 Stat. 3010][/us/stat/112/3010], provided that:
+[Pub. L. 105–318][/us/pl/105/318], § 5, Oct. 30, 1998, [112 Stat. 3010][/us/stat/112/3010], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -377,7 +377,7 @@
 
  __Fraud and Related Activity in Connection With Identification Documents__ 
 
-[Pub. L. 98–473, title II, § 609L][/us/pl/98/473/s609L], Oct. 12, 1984, [98 Stat. 2103][/us/stat/98/2103], provided that:
+[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 609L, Oct. 12, 1984, [98 Stat. 2103][/us/stat/98/2103], provided that:
 
 >     “(a)
 
@@ -407,107 +407,107 @@
 [/us/usc/t18/s2331/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2331%2F5
 [/us/usc/t18/s2331/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2331%2F1
 [/us/usc/t21/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853
-[/us/pl/97/398/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F398%2Fs2
+[/us/pl/97/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F398
 [/us/stat/96/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2009
-[/us/pl/99/646/s44/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs44%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3601
-[/us/pl/100/690/s7023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7023
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4397
-[/us/pl/101/647/s1205/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1205%2Fe
+[/us/pl/101/647/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXII
 [/us/stat/104/4831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4831
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/104/208/s211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs211%2Fa%2F1
+[/us/pl/104/208/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtII
 [/us/stat/110/3009-569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-569
-[/us/pl/104/294/s601/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fa%2F3
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3498
-[/us/pl/105/318/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318%2Fs3%2Fa
+[/us/pl/105/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318
 [/us/stat/112/3007-3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3007-3009
-[/us/pl/106/578/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F578%2Fs3
+[/us/pl/106/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F578
 [/us/stat/114/3076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3076
-[/us/pl/108/21/s607/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs607%2Fb
+[/us/pl/108/21/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtVI
 [/us/stat/117/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F689
 [/us/pl/108/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F275
 [/us/stat/118/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F832
-[/us/pl/108/458/s7216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs7216
+[/us/pl/108/458/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVII
 [/us/stat/118/3833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3833
-[/us/pl/109/13/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2Fs203%2Fa
+[/us/pl/109/13/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13%2FdB%2FtII
 [/us/stat/119/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F315
-[/us/pl/109/177/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs603
+[/us/pl/109/177/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVI
 [/us/stat/120/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F253
-[/us/pl/109/177/s603/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs603%2F1
-[/us/pl/109/177/s603/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs603%2F3
-[/us/pl/109/177/s603/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs603%2F4
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/109/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F13
-[/us/pl/108/275/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F275%2Fs3%2F1
-[/us/pl/108/275/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F275%2Fs3%2F2
-[/us/pl/108/275/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F275%2Fs3%2F3
+[/us/pl/108/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F275
+[/us/pl/108/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F275
+[/us/pl/108/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F275
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/108/275/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F275%2Fs3%2F4
+[/us/pl/108/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F275
 [/us/usc/t18/s2331/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2331%2F5
-[/us/pl/108/275/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F275%2Fs2%2Fc
-[/us/pl/108/21/s607/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs607%2Fb%2F6
-[/us/pl/108/21/s607/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs607%2Fb%2F1%2FA
-[/us/pl/108/21/s607/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs607%2Fb%2F1%2FB
-[/us/pl/108/21/s607/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs607%2Fb%2F1%2FC
-[/us/pl/108/21/s607/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs607%2Fb%2F1%2FD
-[/us/pl/108/21/s607/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs607%2Fb%2F1%2FE
-[/us/pl/108/21/s607/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs607%2Fb%2F1%2FF
-[/us/pl/108/21/s607/b/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs607%2Fb%2F1%2FG
-[/us/pl/108/21/s607/b/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs607%2Fb%2F1%2FH
-[/us/pl/108/21/s607/b/2/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs607%2Fb%2F2%2FA%2Fi%2FI
-[/us/pl/108/21/s607/b/2/A/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs607%2Fb%2F2%2FA%2Fi%2FII
-[/us/pl/108/21/s607/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs607%2Fb%2F2%2FA%2Fii
-[/us/pl/108/21/s607/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs607%2Fb%2F2%2FB
-[/us/pl/108/21/s607/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs607%2Fb%2F3
-[/us/pl/108/21/s607/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs607%2Fb%2F4
-[/us/pl/108/21/s607/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs607%2Fb%2F5
-[/us/pl/106/578/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F578%2Fs3%2F1
-[/us/pl/106/578/s3/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F578%2Fs3%2F2%2FA
-[/us/pl/106/578/s3/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F578%2Fs3%2F2%2FB
-[/us/pl/105/318/s3/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318%2Fs3%2Fh%2F1
-[/us/pl/105/318/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318%2Fs3%2Fa%2F3
-[/us/pl/105/318/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318%2Fs3%2Fa%2F1
-[/us/pl/105/318/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318%2Fs3%2Fb%2F1
-[/us/pl/105/318/s3/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318%2Fs3%2Fb%2F2%2FA
-[/us/pl/105/318/s3/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318%2Fs3%2Fb%2F2%2FB
-[/us/pl/105/318/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318%2Fs3%2Fb%2F3
+[/us/pl/108/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F275
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/106/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F578
+[/us/pl/106/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F578
+[/us/pl/106/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F578
+[/us/pl/105/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318
+[/us/pl/105/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318
+[/us/pl/105/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318
+[/us/pl/105/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318
+[/us/pl/105/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318
+[/us/pl/105/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318
+[/us/pl/105/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318
 [/us/usc/t18/s929/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs929%2Fa%2F2
-[/us/pl/105/318/s3/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318%2Fs3%2Fb%2F4
-[/us/pl/105/318/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318%2Fs3%2Fc
-[/us/pl/105/318/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318%2Fs3%2Fd
-[/us/pl/105/318/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318%2Fs3%2Fe
-[/us/pl/105/318/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318%2Fs3%2Ff
-[/us/pl/105/318/s3/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318%2Fs3%2Fg
-[/us/pl/104/294/s601/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fp
-[/us/pl/104/294/s601/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fa%2F3
-[/us/pl/104/208/s211/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs211%2Fa%2F1%2FA
-[/us/pl/104/208/s211/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs211%2Fa%2F1%2FB
-[/us/pl/104/208/s211/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs211%2Fa%2F1%2FC
-[/us/pl/103/322/s330016/1/O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FO
-[/us/pl/103/322/s330016/1/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FM
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/pl/105/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318
+[/us/pl/105/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318
+[/us/pl/105/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318
+[/us/pl/105/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318
+[/us/pl/105/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318
+[/us/pl/105/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
-[/us/pl/106/578/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F578%2Fs5
+[/us/pl/106/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F578
 [/us/stat/114/3077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3077
 [/us/usc/t18/s1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1738
-[/us/pl/104/208/s211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs211%2Fc
+[/us/pl/104/208/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtII
 [/us/stat/110/3009-570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-570
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
-[/us/pl/106/578/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F578%2Fs2
+[/us/pl/106/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F578
 [/us/stat/114/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3075
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/105/318/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318%2Fs2
+[/us/pl/105/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318
 [/us/stat/112/3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3007
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
-[/us/pl/105/318/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318%2Fs5
+[/us/pl/105/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318
 [/us/stat/112/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3010
 [/us/usc/t18/s1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1028
 [/us/usc/t18/s1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1028
-[/us/pl/98/473/s609L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs609L
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2103
 [/us/usc/t18/s1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1028
 

@@ -31,11 +31,11 @@
 
     (b) For purposes of this section, the term “analog, digital, or electronic image” includes any analog, digital, or electronic method used for the making, execution, acquisition, scanning, capturing, recording, retrieval, transmission, or reproduction of any obligation or security, unless such use is authorized by the Secretary of the Treasury. The Secretary shall establish a system (pursuant to section 504) to ensure that the legitimate use of such electronic methods and retention of such reproductions by businesses, hobbyists, press and others shall not be unduly restricted.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 706][/us/stat/62/706]; [Pub. L. 102–550, title XV, § 1552][/us/pl/102/550/s1552], Oct. 28, 1992, [106 Stat. 4070][/us/stat/106/4070]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 648(a)\], title II, § 2603(a), Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–367, 3009–470; [Pub. L. 107–56, title III, § 374(e)(1)][/us/pl/107/56/s374/e/1]–(3), Oct. 26, 2001, [115 Stat. 340][/us/stat/115/340].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 706][/us/stat/62/706]; [Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1552, Oct. 28, 1992, [106 Stat. 4070][/us/stat/106/4070]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 648(a)\], title II, § 2603(a), Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–367, 3009–470; [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 374(e)(1)–(3), Oct. 26, 2001, [115 Stat. 340][/us/stat/115/340].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 264 ([Mar. 4, 1909, ch. 321, § 150][/us/act/1909-03-04/ch321/s150], [35 Stat. 1116][/us/stat/35/1116]).
+    Based on title 18, U.S.C., 1940 ed., § 264 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 150, [35 Stat. 1116][/us/stat/35/1116]).
 
     References to persons causing, procuring, assisting or aiding were omitted as unnecessary as such persons are made principals by [section 2 of this title][/us/usc/t18/s2].
 
@@ -43,21 +43,21 @@
 
  __Amendments__ 
 
-    2001—[Pub. L. 107–56, § 374(e)(3)][/us/pl/107/56/s374/e/3], substituted “, stones, or analog, digital, or electronic images” for “or stones” in section catchline.
+    2001—[Pub. L. 107–56][/us/pl/107/56], § 374(e)(3), substituted “, stones, or analog, digital, or electronic images” for “or stones” in section catchline.
 
-    Subsec. (a). [Pub. L. 107–56, § 374(e)(1)][/us/pl/107/56/s374/e/1], inserted after second par. “Whoever, with intent to defraud, makes, executes, acquires, scans, captures, records, receives, transmits, reproduces, sells, or has in such person’s control, custody, or possession, an analog, digital, or electronic image of any obligation or other security of the United States; or”.
+    Subsec. (a). [Pub. L. 107–56][/us/pl/107/56], § 374(e)(1), inserted after second par. “Whoever, with intent to defraud, makes, executes, acquires, scans, captures, records, receives, transmits, reproduces, sells, or has in such person’s control, custody, or possession, an analog, digital, or electronic image of any obligation or other security of the United States; or”.
 
-    Subsec. (b). [Pub. L. 107–56, § 374(e)(2)][/us/pl/107/56/s374/e/2], inserted first sentence and struck out former first sentence which read as follows: “For purposes of this section, the terms ‘plate’, ‘stone’, ‘thing’, or ‘other thing’ includes any electronic method used for the acquisition, recording, retrieval, transmission, or reproduction of any obligation or other security, unless such use is authorized by the Secretary of the Treasury.”
+    Subsec. (b). [Pub. L. 107–56][/us/pl/107/56], § 374(e)(2), inserted first sentence and struck out former first sentence which read as follows: “For purposes of this section, the terms ‘plate’, ‘stone’, ‘thing’, or ‘other thing’ includes any electronic method used for the acquisition, recording, retrieval, transmission, or reproduction of any obligation or other security, unless such use is authorized by the Secretary of the Treasury.”
 
     1996—Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], §§ 101(f) \[title VI, § 648(a)\] and 2603(a), amended subsec. (a) identically, substituting “class B felony” for “class C felony” in last par.
 
-    1992—Subsec. (a). [Pub. L. 102–550, § 1552(1)][/us/pl/102/550/s1552/1]–(4), designated existing provisions as subsec. (a), in sixth undesignated par., substituted “United States—” for “United States; or” at end, struck out seventh undesignated par. which read as follows: “Whoever has or retains in his control or possession, after a distinctive paper has been adopted by the Secretary of the Treasury for the obligations and other securities of the United States, any similar paper adapted to the making of any such obligation or other security, except under the authority of the Secretary of the Treasury or some other proper officer of the United States—”, and amended last undesignated par. generally. Prior to amendment, last par. read as follows: “Shall be fined not more than $5,000 or imprisoned not more than fifteen years, or both.”
+    1992—Subsec. (a). [Pub. L. 102–550][/us/pl/102/550], § 1552(1)–(4), designated existing provisions as subsec. (a), in sixth undesignated par., substituted “United States—” for “United States; or” at end, struck out seventh undesignated par. which read as follows: “Whoever has or retains in his control or possession, after a distinctive paper has been adopted by the Secretary of the Treasury for the obligations and other securities of the United States, any similar paper adapted to the making of any such obligation or other security, except under the authority of the Secretary of the Treasury or some other proper officer of the United States—”, and amended last undesignated par. generally. Prior to amendment, last par. read as follows: “Shall be fined not more than $5,000 or imprisoned not more than fifteen years, or both.”
 
-    Subsec. (b). [Pub. L. 102–550, § 1552(5)][/us/pl/102/550/s1552/5], added subsec. (b).
+    Subsec. (b). [Pub. L. 102–550][/us/pl/102/550], § 1552(5), added subsec. (b).
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 648(c)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–368, provided that: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 648(c)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–368, provided that: 
 
 > “This section \[enacting [section 514 of this title][/us/usc/t18/s514] and amending this section and [section 474A of this title][/us/usc/t18/s474A]\] and the amendments made by this section shall become effective on the date of enactment of this Act \[Sept. 30, 1996\] and shall remain in effect during each fiscal year following that date of enactment.”
 
@@ -70,22 +70,22 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F706
-[/us/pl/102/550/s1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1552
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4070
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/107/56/s374/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs374%2Fe%2F1
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F340
-[/us/act/1909-03-04/ch321/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs150
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1116
 [/us/usc/t18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2
-[/us/pl/107/56/s374/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs374%2Fe%2F3
-[/us/pl/107/56/s374/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs374%2Fe%2F1
-[/us/pl/107/56/s374/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs374%2Fe%2F2
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/102/550/s1552/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1552%2F1
-[/us/pl/102/550/s1552/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1552%2F5
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/usc/t18/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs514
 [/us/usc/t18/s474A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs474A

@@ -17,7 +17,7 @@
 
     Whoever knowingly and willfully obstructs, resists, or opposes an extradition agent of the United States in the execution of his duties, shall be fined under this title or imprisoned not more than one year, or both.
 
-([June 24, 1948, ch. 645][/us/act/1948-06-24/ch645], [62 Stat. 769][/us/stat/62/769]; [Pub. L. 103–322, title XXXIII, § 330016(1)(F)][/us/pl/103/322/s330016/1/F], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 24, 1948, ch. 645][/us/act/1948-06-24/ch645], [62 Stat. 769][/us/stat/62/769]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(F), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
@@ -44,7 +44,7 @@
 
 [/us/act/1948-06-24/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch645
 [/us/stat/62/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F769
-[/us/pl/103/322/s330016/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FF
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/usc/t18/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs661
 [/us/usc/t18/s752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs752

@@ -17,11 +17,11 @@
 
     Whoever, using the mail or any facility or means of interstate or foreign commerce, knowingly transfers obscene matter to another individual who has not attained the age of 16 years, knowing that such other individual has not attained the age of 16 years, or attempts to do so, shall be fined under this title, imprisoned not more than 10 years, or both.
 
-(Added [Pub. L. 105–314, title IV, § 401(a)][/us/pl/105/314/s401/a], Oct. 30, 1998, [112 Stat. 2979][/us/stat/112/2979].)
+(Added [Pub. L. 105–314, title IV][/us/pl/105/314/tIV], § 401(a), Oct. 30, 1998, [112 Stat. 2979][/us/stat/112/2979].)
 
  __Study on Limiting Availability of Pornography on Internet__ 
 
-[Pub. L. 105–314, title IX, § 901][/us/pl/105/314/s901], Oct. 30, 1998, [112 Stat. 2991][/us/stat/112/2991], provided that:
+[Pub. L. 105–314, title IX][/us/pl/105/314/tIX], § 901, Oct. 30, 1998, [112 Stat. 2991][/us/stat/112/2991], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/105/314/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2Fs401%2Fa
+[/us/pl/105/314/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2FtIV
 [/us/stat/112/2979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2979
-[/us/pl/105/314/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2Fs901
+[/us/pl/105/314/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2FtIX
 [/us/stat/112/2991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2991
 
 

@@ -55,15 +55,15 @@
 
         (5) the term “in any one-year period” means a continuous period that commences no earlier than twelve months before the commission of the offense or that ends no later than twelve months after the commission of the offense. Such period may include time both before and after the commission of the offense.
 
-(Added [Pub. L. 98–473, title II, § 1104(a)][/us/pl/98/473/s1104/a], Oct. 12, 1984, [98 Stat. 2143][/us/stat/98/2143]; amended [Pub. L. 99–646, § 59(a)][/us/pl/99/646/s59/a], Nov. 10, 1986, [100 Stat. 3612][/us/stat/100/3612]; [Pub. L. 101–647, title XII][/us/pl/101/647], §§ 1205(d), 1209, Nov. 29, 1990, [104 Stat. 4831][/us/stat/104/4831], 4832; [Pub. L. 103–322, title XXXIII, § 330003(c)][/us/pl/103/322/s330003/c], Sept. 13, 1994, [108 Stat. 2140][/us/stat/108/2140].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1104(a), Oct. 12, 1984, [98 Stat. 2143][/us/stat/98/2143]; amended [Pub. L. 99–646][/us/pl/99/646], § 59(a), Nov. 10, 1986, [100 Stat. 3612][/us/stat/100/3612]; [Pub. L. 101–647, title XII][/us/pl/101/647/tXII], §§ 1205(d), 1209, Nov. 29, 1990, [104 Stat. 4831][/us/stat/104/4831], 4832; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330003(c), Sept. 13, 1994, [108 Stat. 2140][/us/stat/108/2140].)
 
  __Amendments__ 
 
     1994—Subsec. (d)(3) to (5). [Pub. L. 103–322][/us/pl/103/322] struck out “and” at end of par. (3), substituted “; and” for the period at end of par. (4), and redesignated second par. (4) defining “in any one-year period” as (5).
 
-    1990—Subsec. (d)(4). [Pub. L. 101–647, § 1209][/us/pl/101/647/s1209], added par. (4) defining “in any one-year period”.
+    1990—Subsec. (d)(4). [Pub. L. 101–647][/us/pl/101/647], § 1209, added par. (4) defining “in any one-year period”.
 
-    [Pub. L. 101–647, § 1205(d)][/us/pl/101/647/s1205/d], added par. (4) defining “State”.
+    [Pub. L. 101–647][/us/pl/101/647], § 1205(d), added par. (4) defining “State”.
 
     1986—[Pub. L. 99–646][/us/pl/99/646], in amending section generally, made specific reference to applicability of section to agent of Indian tribal government or agency thereof, inserted provision that section does not apply to bona fide salary, wages, fees, or other compensation paid, or expenses paid or reimbursed, in usual course of business, struck out definition of term “organization”, and otherwise revised structure of section.
 
@@ -74,17 +74,17 @@
 ----------
 ----------
 
-[/us/pl/98/473/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1104%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2143
-[/us/pl/99/646/s59/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs59%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3612
-[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXII
 [/us/stat/104/4831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4831
-[/us/pl/103/322/s330003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330003%2Fc
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2140
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/101/647/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1209
-[/us/pl/101/647/s1205/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1205%2Fd
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 
 

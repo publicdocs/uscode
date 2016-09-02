@@ -17,7 +17,7 @@
 
     Moneys received or tendered in evidence in any United States Court, or before any officer thereof, which have been paid to or received by any official as a bribe, shall, after the final disposition of the case, proceeding or investigation, be deposited in the registry of the court to be disposed of in accordance with the order of the court, to be subject, however, to the provisions of [section 2042 of Title 28][/us/usc/t28/s2042].
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 840][/us/stat/62/840], § 3612; [May 24, 1949, ch. 139, § 55][/us/act/1949-05-24/ch139/s55], [63 Stat. 96][/us/stat/63/96]; renumbered § 3666, [Pub. L. 98–473, title II, § 212(a)(1)][/us/pl/98/473/s212/a/1], Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 840][/us/stat/62/840], § 3612; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 55, [63 Stat. 96][/us/stat/63/96]; renumbered § 3666, [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(1), Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987].)
 
  __Historical and Revision Notes__ 
 
@@ -45,9 +45,9 @@
 [/us/usc/t28/s2042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2042
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F840
-[/us/act/1949-05-24/ch139/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs55
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F96
-[/us/pl/98/473/s212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F1
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1987
 [/us/act/1925-01-07/ch33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-01-07%2Fch33
 [/us/stat/43/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F726

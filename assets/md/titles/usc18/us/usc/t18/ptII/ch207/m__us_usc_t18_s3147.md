@@ -23,17 +23,17 @@
 
     A term of imprisonment imposed under this section shall be consecutive to any other sentence of imprisonment.
 
-(Added [Pub. L. 98–473, title II, § 203(a)][/us/pl/98/473/s203/a], Oct. 12, 1984, [98 Stat. 1983][/us/stat/98/1983]; amended [Pub. L. 98–473, title II, § 223(g)][/us/pl/98/473/s223/g], Oct. 12, 1984, [98 Stat. 2028][/us/stat/98/2028]; [Pub. L. 99–646, § 55(g)][/us/pl/99/646/s55/g], Nov. 10, 1986, [100 Stat. 3610][/us/stat/100/3610].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 203(a), Oct. 12, 1984, [98 Stat. 1983][/us/stat/98/1983]; amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 223(g), Oct. 12, 1984, [98 Stat. 2028][/us/stat/98/2028]; [Pub. L. 99–646][/us/pl/99/646], § 55(g), Nov. 10, 1986, [100 Stat. 3610][/us/stat/100/3610].)
 
  __Prior Provisions__ 
 
-    A prior section 3147, added [Pub. L. 89–465, § 3(a)][/us/pl/89/465/s3/a], June 22, 1966, [80 Stat. 215][/us/stat/80/215], related to appeals from conditions of release, prior to repeal in the revision of this chapter by [section 203(a) of Pub. L. 98–473][/us/pl/98/473/s203/a].
+    A prior section 3147, added [Pub. L. 89–465][/us/pl/89/465], § 3(a), June 22, 1966, [80 Stat. 215][/us/stat/80/215], related to appeals from conditions of release, prior to repeal in the revision of this chapter by [section 203(a) of Pub. L. 98–473][/us/pl/98/473/s203/a].
 
  __Amendments__ 
 
     1986—[Pub. L. 99–646][/us/pl/99/646] substituted “under” for “pursuant to” in two places and “for the offense,” for “for the offense”.
 
-    1984—[Pub. L. 98–473, § 223(g)][/us/pl/98/473/s223/g], struck out “not less than two years and” after “imprisonment of” in par. (1), and “not less than ninety days and” after “imprisonment of” in par. (2).
+    1984—[Pub. L. 98–473][/us/pl/98/473], § 223(g), struck out “not less than two years and” after “imprisonment of” in par. (1), and “not less than ninety days and” after “imprisonment of” in par. (2).
 
  __Effective Date of 1986 Amendment__ 
 
@@ -50,17 +50,17 @@
 ----------
 ----------
 
-[/us/pl/98/473/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs203%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1983
-[/us/pl/98/473/s223/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs223%2Fg
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2028
-[/us/pl/99/646/s55/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs55%2Fg
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3610
-[/us/pl/89/465/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F465%2Fs3%2Fa
+[/us/pl/89/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F465
 [/us/stat/80/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F215
 [/us/pl/98/473/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs203%2Fa
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
-[/us/pl/98/473/s223/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs223%2Fg
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/99/646/s55/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs55%2Fj
 [/us/usc/t18/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3141

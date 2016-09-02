@@ -93,7 +93,7 @@
 
         (2) the term “service with a public agency as a law enforcement officer” includes service as a law enforcement officer of the Amtrak Police Department, service as a law enforcement officer of the Federal Reserve, or service as a law enforcement or police officer of the executive branch of the Federal Government.
 
-(Added [Pub. L. 108–277, § 3(a)][/us/pl/108/277/s3/a], July 22, 2004, [118 Stat. 866][/us/stat/118/866]; amended [Pub. L. 111–272, § 2(c)][/us/pl/111/272/s2/c], Oct. 12, 2010, [124 Stat. 2855][/us/stat/124/2855]; [Pub. L. 112–239, div. A, title X, § 1089(2)][/us/pl/112/239/s1089/2], Jan. 2, 2013, [126 Stat. 1971][/us/stat/126/1971].)
+(Added [Pub. L. 108–277][/us/pl/108/277], § 3(a), July 22, 2004, [118 Stat. 866][/us/stat/118/866]; amended [Pub. L. 111–272][/us/pl/111/272], § 2(c), Oct. 12, 2010, [124 Stat. 2855][/us/stat/124/2855]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1089(2), Jan. 2, 2013, [126 Stat. 1971][/us/stat/126/1971].)
 
  __References in Text__ 
 
@@ -101,31 +101,31 @@
 
  __Amendments__ 
 
-    2013—Subsec. (c)(2). [Pub. L. 112–239, § 1089(2)(A)][/us/pl/112/239/s1089/2/A], inserted “or apprehension under [section 807(b) of title 10][/us/usc/t10/s807/b], United States Code (article 7(b) of the Uniform Code of Military Justice)” after “arrest”.
+    2013—Subsec. (c)(2). [Pub. L. 112–239][/us/pl/112/239], § 1089(2)(A), inserted “or apprehension under [section 807(b) of title 10][/us/usc/t10/s807/b], United States Code (article 7(b) of the Uniform Code of Military Justice)” after “arrest”.
 
-    Subsec. (d)(1). [Pub. L. 112–239, § 1089(2)(B)(i)][/us/pl/112/239/s1089/2/B/i], substituted “that identifies the person as having been employed as a police officer or law enforcement officer and indicates” for “that indicates”.
+    Subsec. (d)(1). [Pub. L. 112–239][/us/pl/112/239], § 1089(2)(B)(i), substituted “that identifies the person as having been employed as a police officer or law enforcement officer and indicates” for “that indicates”.
 
-    Subsec. (d)(2)(A). [Pub. L. 112–239, § 1089(2)(B)(ii)][/us/pl/112/239/s1089/2/B/ii], inserted “that identifies the person as having been employed as a police officer or law enforcement officer” after “officer”.
+    Subsec. (d)(2)(A). [Pub. L. 112–239][/us/pl/112/239], § 1089(2)(B)(ii), inserted “that identifies the person as having been employed as a police officer or law enforcement officer” after “officer”.
 
-    2010—Subsec. (c)(1). [Pub. L. 111–272, § 2(c)(1)(A)][/us/pl/111/272/s2/c/1/A], substituted “separated from service” for “retired” and struck out “, other than for reasons of mental instability” after “officer”.
+    2010—Subsec. (c)(1). [Pub. L. 111–272][/us/pl/111/272], § 2(c)(1)(A), substituted “separated from service” for “retired” and struck out “, other than for reasons of mental instability” after “officer”.
 
-    Subsec. (c)(2). [Pub. L. 111–272, § 2(c)(1)(B)][/us/pl/111/272/s2/c/1/B], substituted “separation” for “retirement”.
+    Subsec. (c)(2). [Pub. L. 111–272][/us/pl/111/272], § 2(c)(1)(B), substituted “separation” for “retirement”.
 
-    Subsec. (c)(3)(A). [Pub. L. 111–272, § 2(c)(1)(C)(i)][/us/pl/111/272/s2/c/1/C/i], substituted “separation, served as a law enforcement officer for an aggregate of 10 years or more” for “retirement, was regularly employed as a law enforcement officer for an aggregate of 15 years or more”.
+    Subsec. (c)(3)(A). [Pub. L. 111–272][/us/pl/111/272], § 2(c)(1)(C)(i), substituted “separation, served as a law enforcement officer for an aggregate of 10 years or more” for “retirement, was regularly employed as a law enforcement officer for an aggregate of 15 years or more”.
 
-    Subsec. (c)(3)(B). [Pub. L. 111–272, § 2(c)(1)(C)(ii)][/us/pl/111/272/s2/c/1/C/ii], substituted “separated” for “retired”.
+    Subsec. (c)(3)(B). [Pub. L. 111–272][/us/pl/111/272], § 2(c)(1)(C)(ii), substituted “separated” for “retired”.
 
-    Subsec. (c)(4). [Pub. L. 111–272, § 2(c)(1)(D)][/us/pl/111/272/s2/c/1/D], added par. (4) and struck out former par. (4) which read as follows: “has a nonforfeitable right to benefits under the retirement plan of the agency;”.
+    Subsec. (c)(4). [Pub. L. 111–272][/us/pl/111/272], § 2(c)(1)(D), added par. (4) and struck out former par. (4) which read as follows: “has a nonforfeitable right to benefits under the retirement plan of the agency;”.
 
-    Subsec. (c)(5). [Pub. L. 111–272, § 2(c)(1)(E)][/us/pl/111/272/s2/c/1/E], added par. (5) and struck out former par. (5) which read as follows: “during the most recent 12-month period, has met, at the expense of the individual, the State’s standards for training and qualification for active law enforcement officers to carry firearms;”.
+    Subsec. (c)(5). [Pub. L. 111–272][/us/pl/111/272], § 2(c)(1)(E), added par. (5) and struck out former par. (5) which read as follows: “during the most recent 12-month period, has met, at the expense of the individual, the State’s standards for training and qualification for active law enforcement officers to carry firearms;”.
 
-    Subsec. (d)(1). [Pub. L. 111–272, § 2(c)(2)(A)][/us/pl/111/272/s2/c/2/A], substituted “separated” for “retired” and “to meet the active duty standards for qualification in firearms training as established by the agency to carry a firearm of the same type as the concealed firearm” for “to meet the standards established by the agency for training and qualification for active law enforcement officers to carry a firearm of the same type as the concealed firearm”.
+    Subsec. (d)(1). [Pub. L. 111–272][/us/pl/111/272], § 2(c)(2)(A), substituted “separated” for “retired” and “to meet the active duty standards for qualification in firearms training as established by the agency to carry a firearm of the same type as the concealed firearm” for “to meet the standards established by the agency for training and qualification for active law enforcement officers to carry a firearm of the same type as the concealed firearm”.
 
-    Subsec. (d)(2)(A). [Pub. L. 111–272, § 2(c)(2)(B)(i)][/us/pl/111/272/s2/c/2/B/i], substituted “separated” for “retired”.
+    Subsec. (d)(2)(A). [Pub. L. 111–272][/us/pl/111/272], § 2(c)(2)(B)(i), substituted “separated” for “retired”.
 
-    Subsec. (d)(2)(B). [Pub. L. 111–272, § 2(c)(2)(B)(ii)][/us/pl/111/272/s2/c/2/B/ii], substituted “or by a certified firearms instructor that is qualified to conduct a firearms qualification test for active duty officers within that State that indicates that the individual has, not less than 1 year before the date the individual is carrying the concealed firearm, been tested or otherwise found by the State or a certified firearms instructor that is qualified to conduct a firearms qualification test for active duty officers within that State to have met—” for “that indicates that the individual has, not less recently than one year before the date the individual is carrying the concealed firearm, been tested or otherwise found by the State to meet the standards established by the State for training and qualification for active law enforcement officers to carry a firearm of the same type as the concealed firearm.” and added cls. (I) and (II).
+    Subsec. (d)(2)(B). [Pub. L. 111–272][/us/pl/111/272], § 2(c)(2)(B)(ii), substituted “or by a certified firearms instructor that is qualified to conduct a firearms qualification test for active duty officers within that State that indicates that the individual has, not less than 1 year before the date the individual is carrying the concealed firearm, been tested or otherwise found by the State or a certified firearms instructor that is qualified to conduct a firearms qualification test for active duty officers within that State to have met—” for “that indicates that the individual has, not less recently than one year before the date the individual is carrying the concealed firearm, been tested or otherwise found by the State to meet the standards established by the State for training and qualification for active law enforcement officers to carry a firearm of the same type as the concealed firearm.” and added cls. (I) and (II).
 
-    Subsec. (e). [Pub. L. 111–272, § 2(c)(3)][/us/pl/111/272/s2/c/3], added subsec. (e) and struck out former subsec. (e) which read as follows: “As used in this section, the term ‘firearm’ does not include—
+    Subsec. (e). [Pub. L. 111–272][/us/pl/111/272], § 2(c)(3), added subsec. (e) and struck out former subsec. (e) which read as follows: “As used in this section, the term ‘firearm’ does not include—
 
     “(1) any machinegun (as defined in section 5845 of the National Firearms Act);
 
@@ -144,28 +144,28 @@
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
-[/us/pl/108/277/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F277%2Fs3%2Fa
+[/us/pl/108/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F277
 [/us/stat/118/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F866
-[/us/pl/111/272/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272%2Fs2%2Fc
+[/us/pl/111/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272
 [/us/stat/124/2855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2855
-[/us/pl/112/239/s1089/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1089%2F2
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1971
 [/us/usc/t26/s5849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5849
 [/us/usc/t26/s5845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5845
-[/us/pl/112/239/s1089/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1089%2F2%2FA
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t10/s807/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs807%2Fb
-[/us/pl/112/239/s1089/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1089%2F2%2FB%2Fi
-[/us/pl/112/239/s1089/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1089%2F2%2FB%2Fii
-[/us/pl/111/272/s2/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272%2Fs2%2Fc%2F1%2FA
-[/us/pl/111/272/s2/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272%2Fs2%2Fc%2F1%2FB
-[/us/pl/111/272/s2/c/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272%2Fs2%2Fc%2F1%2FC%2Fi
-[/us/pl/111/272/s2/c/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272%2Fs2%2Fc%2F1%2FC%2Fii
-[/us/pl/111/272/s2/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272%2Fs2%2Fc%2F1%2FD
-[/us/pl/111/272/s2/c/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272%2Fs2%2Fc%2F1%2FE
-[/us/pl/111/272/s2/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272%2Fs2%2Fc%2F2%2FA
-[/us/pl/111/272/s2/c/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272%2Fs2%2Fc%2F2%2FB%2Fi
-[/us/pl/111/272/s2/c/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272%2Fs2%2Fc%2F2%2FB%2Fii
-[/us/pl/111/272/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272%2Fs2%2Fc%2F3
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/111/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272
+[/us/pl/111/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272
+[/us/pl/111/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272
+[/us/pl/111/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272
+[/us/pl/111/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272
+[/us/pl/111/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272
+[/us/pl/111/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272
+[/us/pl/111/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272
+[/us/pl/111/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272
+[/us/pl/111/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
 

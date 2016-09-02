@@ -17,7 +17,7 @@
 
     The Attorney General may, in accordance with rules prescribed by the Attorney General, accept in the name of the Department of Justice any form of devise, bequest, gift or donation of money or property for use by the Bureau of Prisons or Federal Prison Industries. The Attorney General may take all appropriate steps to secure possession of such property and may sell, assign, transfer, or convey such property other than money.
 
-(Added [Pub. L. 99–646, § 67(a)][/us/pl/99/646/s67/a], Nov. 10, 1986, [100 Stat. 3616][/us/stat/100/3616].)
+(Added [Pub. L. 99–646][/us/pl/99/646], § 67(a), Nov. 10, 1986, [100 Stat. 3616][/us/stat/100/3616].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/646/s67/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs67%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3616
 
 

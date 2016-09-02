@@ -17,7 +17,7 @@
 
     Collections in cash for meals, laundry, barber service, uniform equipment, and other items for which payment is made originally from appropriations for the maintenance and operation of Federal penal and correctional institutions, may be deposited in the Treasury to the credit of the appropriation currently available for those items when the collection is made.
 
-(Added [Pub. L. 89–554, § 3(f)][/us/pl/89/554/s3/f], Sept. 6, 1966, [80 Stat. 610][/us/stat/80/610].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 3(f), Sept. 6, 1966, [80 Stat. 610][/us/stat/80/610].)
 
 <table>
 
@@ -72,7 +72,7 @@ July 28, 1950, ch. 503, § 8, 64 Stat. 381.  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs3%2Ff
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F610
 
 

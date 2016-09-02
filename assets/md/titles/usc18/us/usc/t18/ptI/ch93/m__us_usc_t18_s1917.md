@@ -27,7 +27,7 @@
 
     shall, for each offense, be fined under this title not less than $100 or imprisoned not less than ten days nor more than one year, or both.
 
-(Added [Pub. L. 89–554, § 3(d)][/us/pl/89/554/s3/d], Sept. 6, 1966, [80 Stat. 609][/us/stat/80/609]; amended [Pub. L. 103–322, title XXXIII, § 330010(2)][/us/pl/103/322/s330010/2], Sept. 13, 1994, [108 Stat. 2143][/us/stat/108/2143]; [Pub. L. 104–294, title VI, § 601(a)(9)][/us/pl/104/294/s601/a/9], Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 3(d), Sept. 6, 1966, [80 Stat. 609][/us/stat/80/609]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330010(2), Sept. 13, 1994, [108 Stat. 2143][/us/stat/108/2143]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(a)(9), Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498].)
 
 <table>
 
@@ -101,11 +101,11 @@ Jan. 16, 1883, ch. 27, § 5, 22 Stat. 405.  </td>
 ----------
 
 [/us/usc/t5/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1302%2Fa
-[/us/pl/89/554/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs3%2Fd
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F609
-[/us/pl/103/322/s330010/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330010%2F2
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2143
-[/us/pl/104/294/s601/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fa%2F9
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3498
 [/us/usc/t5/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1302%2Fa
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1

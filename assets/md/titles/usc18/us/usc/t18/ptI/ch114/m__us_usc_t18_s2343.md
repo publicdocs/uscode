@@ -63,23 +63,23 @@
 
     (f) In this section, the term “interstate commerce” means commerce between a State and any place outside the State, or commerce between points in the same State but through any place outside the State.
 
-(Added [Pub. L. 95–575, § 1][/us/pl/95/575/s1], Nov. 2, 1978, [92 Stat. 2464][/us/stat/92/2464]; amended [Pub. L. 107–296, title XI, § 1112(i)(2)][/us/pl/107/296/s1112/i/2], Nov. 25, 2002, [116 Stat. 2277][/us/stat/116/2277]; [Pub. L. 109–177, title I, § 121(a)(3)][/us/pl/109/177/s121/a/3], (b)(3), (c), (g)(1), Mar. 9, 2006, [120 Stat. 221][/us/stat/120/221], 222, 224; [Pub. L. 111–154, § 4][/us/pl/111/154/s4], Mar. 31, 2010, [124 Stat. 1109][/us/stat/124/1109].)
+(Added [Pub. L. 95–575][/us/pl/95/575], § 1, Nov. 2, 1978, [92 Stat. 2464][/us/stat/92/2464]; amended [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1112(i)(2), Nov. 25, 2002, [116 Stat. 2277][/us/stat/116/2277]; [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 121(a)(3), (b)(3), (c), (g)(1), Mar. 9, 2006, [120 Stat. 221][/us/stat/120/221], 222, 224; [Pub. L. 111–154][/us/pl/111/154], § 4, Mar. 31, 2010, [124 Stat. 1109][/us/stat/124/1109].)
 
  __Amendments__ 
 
     2010—Subsec. (c). [Pub. L. 111–154][/us/pl/111/154] amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Upon the consent of any person who ships, sells, or distributes any quantity of cigarettes in excess of 10,000 in a single transaction, or pursuant to a duly issued search warrant, the Attorney General may enter the premises (including places of storage) of such person for the purpose of inspecting any records or information required to be maintained by such person under this chapter, and any cigarettes kept or stored by such person at such premises.”
 
-    2006—[Pub. L. 109–177, § 121(g)(1)][/us/pl/109/177/s121/g/1], substituted “Recordkeeping, reporting, and inspection” for “Recordkeeping and inspection” in section catchline.
+    2006—[Pub. L. 109–177][/us/pl/109/177], § 121(g)(1), substituted “Recordkeeping, reporting, and inspection” for “Recordkeeping and inspection” in section catchline.
 
-    Subsec. (a). [Pub. L. 109–177, § 121(a)(3)(A)][/us/pl/109/177/s121/a/3/A], (b)(3), (c)(1), in introductory provisions, substituted “10,000, or any quantity of smokeless tobacco in excess of 500 single-unit consumer-sized cans or packages,” for “60,000” and “such information as the Attorney General considers appropriate for purposes of enforcement of this chapter, including—” for “only—” and, in concluding provisions, struck out “Nothing contained herein shall authorize the Attorney General to require reporting under this section.” at end.
+    Subsec. (a). [Pub. L. 109–177][/us/pl/109/177], § 121(a)(3)(A), (b)(3), (c)(1), in introductory provisions, substituted “10,000, or any quantity of smokeless tobacco in excess of 500 single-unit consumer-sized cans or packages,” for “60,000” and “such information as the Attorney General considers appropriate for purposes of enforcement of this chapter, including—” for “only—” and, in concluding provisions, struck out “Nothing contained herein shall authorize the Attorney General to require reporting under this section.” at end.
 
-    Subsec. (b). [Pub. L. 109–177, § 121(c)(3)][/us/pl/109/177/s121/c/3], added subsec. (b). Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 109–177][/us/pl/109/177], § 121(c)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    [Pub. L. 109–177, § 121(a)(3)(B)][/us/pl/109/177/s121/a/3/B], substituted “10,000” for “60,000”.
+    [Pub. L. 109–177][/us/pl/109/177], § 121(a)(3)(B), substituted “10,000” for “60,000”.
 
-    Subsec. (c). [Pub. L. 109–177, § 121(c)(2)][/us/pl/109/177/s121/c/2], redesignated subsec. (b) as (c).
+    Subsec. (c). [Pub. L. 109–177][/us/pl/109/177], § 121(c)(2), redesignated subsec. (b) as (c).
 
-    Subsecs. (d) to (f). [Pub. L. 109–177, § 121(c)(4)][/us/pl/109/177/s121/c/4], added subsecs. (d) to (f).
+    Subsecs. (d) to (f). [Pub. L. 109–177][/us/pl/109/177], § 121(c)(4), added subsecs. (d) to (f).
 
     2002—[Pub. L. 107–296][/us/pl/107/296] substituted “Attorney General” for “Secretary” wherever appearing.
 
@@ -98,21 +98,21 @@
 ----------
 ----------
 
-[/us/pl/95/575/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F575%2Fs1
+[/us/pl/95/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F575
 [/us/stat/92/2464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2464
-[/us/pl/107/296/s1112/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fi%2F2
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2277
-[/us/pl/109/177/s121/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs121%2Fa%2F3
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F221
-[/us/pl/111/154/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154%2Fs4
+[/us/pl/111/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154
 [/us/stat/124/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1109
 [/us/pl/111/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154
-[/us/pl/109/177/s121/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs121%2Fg%2F1
-[/us/pl/109/177/s121/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs121%2Fa%2F3%2FA
-[/us/pl/109/177/s121/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs121%2Fc%2F3
-[/us/pl/109/177/s121/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs121%2Fa%2F3%2FB
-[/us/pl/109/177/s121/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs121%2Fc%2F2
-[/us/pl/109/177/s121/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs121%2Fc%2F4
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4

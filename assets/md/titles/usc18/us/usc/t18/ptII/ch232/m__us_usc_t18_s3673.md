@@ -23,7 +23,7 @@
 
     (3) the term “law enforcement officer” means a public servant authorized by law or by a government agency to engage in or supervise the prevention, detection, investigation, or prosecution of an offense.
 
-(Added [Pub. L. 98–473, title II, § 212(a)(4)][/us/pl/98/473/s212/a/4], Oct. 12, 1984, [98 Stat. 2010][/us/stat/98/2010]; amended [Pub. L. 99–646, § 2(a)][/us/pl/99/646/s2/a], Nov. 10, 1986, [100 Stat. 3592][/us/stat/100/3592].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(4), Oct. 12, 1984, [98 Stat. 2010][/us/stat/98/2010]; amended [Pub. L. 99–646][/us/pl/99/646], § 2(a), Nov. 10, 1986, [100 Stat. 3592][/us/stat/100/3592].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–646, § 2(b)][/us/pl/99/646/s2/b], Nov. 10, 1986, [100 Stat. 3592][/us/stat/100/3592], provided that: 
+[Pub. L. 99–646][/us/pl/99/646], § 2(b), Nov. 10, 1986, [100 Stat. 3592][/us/stat/100/3592], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of [section 3673 of title 18][/us/usc/t18/s3673], United States Code \[Nov. 1, 1987\].”
 
@@ -46,12 +46,12 @@
 ----------
 ----------
 
-[/us/pl/98/473/s212/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F4
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2010
-[/us/pl/99/646/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs2%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3592
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
-[/us/pl/99/646/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs2%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3592
 [/us/usc/t18/s3673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3673
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1

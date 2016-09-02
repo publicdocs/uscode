@@ -83,13 +83,13 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–458, title VI, § 6911(b)][/us/pl/108/458/s6911/b], Dec. 17, 2004, [118 Stat. 3775][/us/stat/118/3775], added item 175c.
+    2004—[Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6911(b), Dec. 17, 2004, [118 Stat. 3775][/us/stat/118/3775], added item 175c.
 
-    2002—[Pub. L. 107–188, title II, § 231(b)(2)][/us/pl/107/188/s231/b/2], June 12, 2002, [116 Stat. 661][/us/stat/116/661], substituted “Select agents; certain other agents” for “Possession by restricted persons” in item 175b.
+    2002—[Pub. L. 107–188, title II][/us/pl/107/188/tII], § 231(b)(2), June 12, 2002, [116 Stat. 661][/us/stat/116/661], substituted “Select agents; certain other agents” for “Possession by restricted persons” in item 175b.
 
-    2001—[Pub. L. 107–56, title VIII, § 817(3)][/us/pl/107/56/s817/3], Oct. 26, 2001, [115 Stat. 386][/us/stat/115/386], added item 175b.
+    2001—[Pub. L. 107–56, title VIII][/us/pl/107/56/tVIII], § 817(3), Oct. 26, 2001, [115 Stat. 386][/us/stat/115/386], added item 175b.
 
-    1996—[Pub. L. 104–201, div. A, title XIV, § 1416(c)(1)(B)][/us/pl/104/201/s1416/c/1/B], Sept. 23, 1996, [110 Stat. 2723][/us/stat/110/2723], added item 175a.
+    1996—[Pub. L. 104–201, div. A, title XIV][/us/pl/104/201/dA/tXIV], § 1416(c)(1)(B), Sept. 23, 1996, [110 Stat. 2723][/us/stat/110/2723], added item 175a.
 
 ----------
 
@@ -98,13 +98,13 @@
 ----------
 ----------
 
-[/us/pl/108/458/s6911/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6911%2Fb
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3775
-[/us/pl/107/188/s231/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs231%2Fb%2F2
+[/us/pl/107/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtII
 [/us/stat/116/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F661
-[/us/pl/107/56/s817/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs817%2F3
+[/us/pl/107/56/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtVIII
 [/us/stat/115/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F386
-[/us/pl/104/201/s1416/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1416%2Fc%2F1%2FB
+[/us/pl/104/201/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXIV
 [/us/stat/110/2723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2723
 
 

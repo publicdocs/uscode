@@ -29,7 +29,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., §§ 744b, 851, 853, 854, 855 ([Feb. 26, 1929, ch. 336][/us/act/1929-02-26/ch336], §§ 1, 3, 4, 5, [45 Stat. 1318][/us/stat/45/1318]; [May 27, 1930, ch. 340, § 2][/us/act/1930-05-27/ch340/s2], [46 Stat. 391][/us/stat/46/391]).
+    Based on title 18, U.S.C., 1940 ed., §§ 744b, 851, 853, 854, 855 ([Feb. 26, 1929, ch. 336][/us/act/1929-02-26/ch336], §§ 1, 3, 4, 5, [45 Stat. 1318][/us/stat/45/1318]; [May 27, 1930, ch. 340][/us/act/1930-05-27/ch340], § 2, [46 Stat. 391][/us/stat/46/391]).
 
     Section consolidates [section 744b of title 18][/us/usc/t18/s744b], U.S.C., 1940 ed., with those portions of sections 851, 853–855 of title 18, U.S.C., 1940 ed., which may not have been superseded by section 744b of said title.
 
@@ -58,7 +58,7 @@
 [/us/stat/62/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F852
 [/us/act/1929-02-26/ch336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-26%2Fch336
 [/us/stat/45/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1318
-[/us/act/1930-05-27/ch340/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-27%2Fch340%2Fs2
+[/us/act/1930-05-27/ch340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-27%2Fch340
 [/us/stat/46/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F391
 [/us/usc/t18/s744b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs744b
 [/us/usc/t18/s851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs851

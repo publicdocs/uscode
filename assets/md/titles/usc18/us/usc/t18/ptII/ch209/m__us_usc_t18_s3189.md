@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 657 ([Aug. 3, 1882, ch. 378, § 1][/us/act/1882-08-03/ch378/s1], [22 Stat. 215][/us/stat/22/215]).
+    Based on title 18, U.S.C., 1940 ed., § 657 ([Aug. 3, 1882, ch. 378][/us/act/1882-08-03/ch378], § 1, [22 Stat. 215][/us/stat/22/215]).
 
     First word “All” was omitted as unnecessary.
 
@@ -34,7 +34,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F824
-[/us/act/1882-08-03/ch378/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-08-03%2Fch378%2Fs1
+[/us/act/1882-08-03/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-08-03%2Fch378
 [/us/stat/22/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F215
 
 

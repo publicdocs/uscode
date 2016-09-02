@@ -75,15 +75,15 @@
 
         (2) activities undertaken by military forces of a state in the exercise of their official duties.
 
-(Added [Pub. L. 103–322, title VI, § 60019(a)][/us/pl/103/322/s60019/a], Sept. 13, 1994, [108 Stat. 1977][/us/stat/108/1977]; amended [Pub. L. 104–132, title VII, § 723(a)(1)][/us/pl/104/132/s723/a/1], Apr. 24, 1996, [110 Stat. 1300][/us/stat/110/1300]; [Pub. L. 104–294, title VI, § 607(p)][/us/pl/104/294/s607/p], Oct. 11, 1996, [110 Stat. 3513][/us/stat/110/3513]; [Pub. L. 114–23, title VIII, § 803][/us/pl/114/23/s803], June 2, 2015, [129 Stat. 307][/us/stat/129/307].)
+(Added [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60019(a), Sept. 13, 1994, [108 Stat. 1977][/us/stat/108/1977]; amended [Pub. L. 104–132, title VII][/us/pl/104/132/tVII], § 723(a)(1), Apr. 24, 1996, [110 Stat. 1300][/us/stat/110/1300]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 607(p), Oct. 11, 1996, [110 Stat. 3513][/us/stat/110/3513]; [Pub. L. 114–23, title VIII][/us/pl/114/23/tVIII], § 803, June 2, 2015, [129 Stat. 307][/us/stat/129/307].)
 
  __Amendments__ 
 
-    2015—Subsec. (c). [Pub. L. 114–23, § 803(1)][/us/pl/114/23/s803/1], substituted “section 13(c)” for “section 2(c)”.
+    2015—Subsec. (c). [Pub. L. 114–23][/us/pl/114/23], § 803(1), substituted “section 13(c)” for “section 2(c)”.
 
-    Subsec. (d). [Pub. L. 114–23, § 803(2)][/us/pl/114/23/s803/2], struck out definitions of “national of the United States”, “territorial sea of the United States”, and “United States”.
+    Subsec. (d). [Pub. L. 114–23][/us/pl/114/23], § 803(2), struck out definitions of “national of the United States”, “territorial sea of the United States”, and “United States”.
 
-    Subsec. (e). [Pub. L. 114–23, § 803(3)][/us/pl/114/23/s803/3], added subsec. (e).
+    Subsec. (e). [Pub. L. 114–23][/us/pl/114/23], § 803(3), added subsec. (e).
 
     1996—Subsec. (a)(1)(F). [Pub. L. 104–132][/us/pl/104/132] inserted “or conspires” after “attempts”.
 
@@ -109,17 +109,17 @@
 ----------
 
 [/us/usc/t29/s113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs113%2Fc
-[/us/pl/103/322/s60019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60019%2Fa
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1977
-[/us/pl/104/132/s723/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs723%2Fa%2F1
+[/us/pl/104/132/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVII
 [/us/stat/110/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1300
-[/us/pl/104/294/s607/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs607%2Fp
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3513
-[/us/pl/114/23/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs803
+[/us/pl/114/23/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVIII
 [/us/stat/129/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F307
-[/us/pl/114/23/s803/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs803%2F1
-[/us/pl/114/23/s803/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs803%2F2
-[/us/pl/114/23/s803/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs803%2F3
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–177, title III, § 303(b)][/us/pl/109/177/s303/b], Mar. 9, 2006, [120 Stat. 234][/us/stat/120/234], added item 2237.
+    2006—[Pub. L. 109–177, title III][/us/pl/109/177/tIII], § 303(b), Mar. 9, 2006, [120 Stat. 234][/us/stat/120/234], added item 2237.
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/109/177/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs303%2Fb
+[/us/pl/109/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIII
 [/us/stat/120/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F234
 
 

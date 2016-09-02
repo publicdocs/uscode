@@ -23,7 +23,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 662d ([Mar. 22, 1934, ch. 73, § 3][/us/act/1934-03-22/ch73/s3], [48 Stat. 455][/us/stat/48/455]).
+    Based on title 18, U.S.C., 1940 ed., § 662d ([Mar. 22, 1934, ch. 73][/us/act/1934-03-22/ch73], § 3, [48 Stat. 455][/us/stat/48/455]).
 
     Provision for expense to be borne by the demanding authority is incorporated in [section 3195 of this title][/us/usc/t18/s3195].
 
@@ -38,7 +38,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F824
-[/us/act/1934-03-22/ch73/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-22%2Fch73%2Fs3
+[/us/act/1934-03-22/ch73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-22%2Fch73
 [/us/stat/48/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F455
 [/us/usc/t18/s3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3195
 

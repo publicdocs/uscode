@@ -197,13 +197,13 @@
 
             (B) the term “domain name” has the meaning given that term is  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “in”. </sup></sup>  section 45 of the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes” approved July 5, 1946 (commonly referred to as the “Trademark Act of 1946”) ([15 U.S.C. 1127][/us/usc/t15/s1127]).
 
-(Added [Pub. L. 98–473, title II, § 212(a)(2)][/us/pl/98/473/s212/a/2], Oct. 12, 1984, [98 Stat. 1991][/us/stat/98/1991]; amended [Pub. L. 100–185, § 5][/us/pl/100/185/s5], Dec. 11, 1987, [101 Stat. 1279][/us/stat/101/1279]; [Pub. L. 100–690, title VII, § 7041][/us/pl/100/690/s7041], Nov. 18, 1988, [102 Stat. 4399][/us/stat/102/4399]; [Pub. L. 103–322, title VII, § 70001][/us/pl/103/322/s70001], Sept. 13, 1994, [108 Stat. 1982][/us/stat/108/1982]; [Pub. L. 105–314, title V, § 501][/us/pl/105/314/s501], Oct. 30, 1998, [112 Stat. 2980][/us/stat/112/2980]; [Pub. L. 105–386, § 1(b)][/us/pl/105/386/s1/b], Nov. 13, 1998, [112 Stat. 3470][/us/stat/112/3470]; [Pub. L. 108–21, title I, § 106(a)][/us/pl/108/21/s106/a], Apr. 30, 2003, [117 Stat. 654][/us/stat/117/654]; [Pub. L. 108–482, title II, § 204(a)][/us/pl/108/482/s204/a], Dec. 23, 2004, [118 Stat. 3917][/us/stat/118/3917]; [Pub. L. 109–248, title II][/us/pl/109/248], §§ 202, 206(c), July 27, 2006, [120 Stat. 612][/us/stat/120/612], 614.)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(2), Oct. 12, 1984, [98 Stat. 1991][/us/stat/98/1991]; amended [Pub. L. 100–185][/us/pl/100/185], § 5, Dec. 11, 1987, [101 Stat. 1279][/us/stat/101/1279]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7041, Nov. 18, 1988, [102 Stat. 4399][/us/stat/102/4399]; [Pub. L. 103–322, title VII][/us/pl/103/322/tVII], § 70001, Sept. 13, 1994, [108 Stat. 1982][/us/stat/108/1982]; [Pub. L. 105–314, title V][/us/pl/105/314/tV], § 501, Oct. 30, 1998, [112 Stat. 2980][/us/stat/112/2980]; [Pub. L. 105–386][/us/pl/105/386], § 1(b), Nov. 13, 1998, [112 Stat. 3470][/us/stat/112/3470]; [Pub. L. 108–21, title I][/us/pl/108/21/tI], § 106(a), Apr. 30, 2003, [117 Stat. 654][/us/stat/117/654]; [Pub. L. 108–482, title II][/us/pl/108/482/tII], § 204(a), Dec. 23, 2004, [118 Stat. 3917][/us/stat/118/3917]; [Pub. L. 109–248, title II][/us/pl/109/248/tII], §§ 202, 206(c), July 27, 2006, [120 Stat. 612][/us/stat/120/612], 614.)
 
  __Amendments__ 
 
-    2006—Subsec. (e)(2)(A). [Pub. L. 109–248, § 206(c)][/us/pl/109/248/s206/c], inserted “1591 (relating to sex trafficking of children),” after “under section”.
+    2006—Subsec. (e)(2)(A). [Pub. L. 109–248][/us/pl/109/248], § 206(c), inserted “1591 (relating to sex trafficking of children),” after “under section”.
 
-    Subsecs. (f), (g). [Pub. L. 109–248, § 202][/us/pl/109/248/s202], added subsec. (f) and redesignated former subsec. (f) as (g).
+    Subsecs. (f), (g). [Pub. L. 109–248][/us/pl/109/248], § 202, added subsec. (f) and redesignated former subsec. (f) as (g).
 
     2004—Subsec. (f). [Pub. L. 108–482][/us/pl/108/482] added subsec. (f).
 
@@ -213,15 +213,15 @@
 
     Subsec. (d). [Pub. L. 105–314][/us/pl/105/314] added subsec. (d).
 
-    1994—Subsec. (b). [Pub. L. 103–322, § 70001(1)][/us/pl/103/322/s70001/1], substituted “Except as provided in subsection (c), an” for “An”.
+    1994—Subsec. (b). [Pub. L. 103–322][/us/pl/103/322], § 70001(1), substituted “Except as provided in subsection (c), an” for “An”.
 
-    Subsec. (c). [Pub. L. 103–322, § 70001(2)][/us/pl/103/322/s70001/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 103–322][/us/pl/103/322], § 70001(2), added subsec. (c).
 
-    1988—Subsec. (a). [Pub. L. 100–690, § 7041(a)(1)][/us/pl/100/690/s7041/a/1], substituted “classified if the maximum term of imprisonment authorized is—” for “classified—
+    1988—Subsec. (a). [Pub. L. 100–690][/us/pl/100/690], § 7041(a)(1), substituted “classified if the maximum term of imprisonment authorized is—” for “classified—
 
     “(1) if the maximum term of imprisonment authorized is—”.
 
-    Subsec. (a)(1) to (9). [Pub. L. 100–690, § 7041(a)(2)][/us/pl/100/690/s7041/a/2], (b), redesignated subpars. (A) to (I) as pars. (1) to (9), respectively, and substituted “twenty-five” for “twenty” in pars. (2) and (3).
+    Subsec. (a)(1) to (9). [Pub. L. 100–690][/us/pl/100/690], § 7041(a)(2), (b), redesignated subpars. (A) to (I) as pars. (1) to (9), respectively, and substituted “twenty-five” for “twenty” in pars. (2) and (3).
 
     1987—Subsec. (b). [Pub. L. 100–185][/us/pl/100/185] substituted “, except that the maximum term of imprisonment is the term authorized by the law describing the offense.” for “except that:
 
@@ -249,34 +249,34 @@
 [/us/usc/t28/s994/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994%2Fp
 [/us/usc/t18/s3591/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3591%2Fa%2F2
 [/us/usc/t15/s1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1127
-[/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1991
-[/us/pl/100/185/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185%2Fs5
+[/us/pl/100/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185
 [/us/stat/101/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1279
-[/us/pl/100/690/s7041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7041
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4399
-[/us/pl/103/322/s70001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs70001
+[/us/pl/103/322/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVII
 [/us/stat/108/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1982
-[/us/pl/105/314/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2Fs501
+[/us/pl/105/314/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2FtV
 [/us/stat/112/2980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2980
-[/us/pl/105/386/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F386%2Fs1%2Fb
+[/us/pl/105/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F386
 [/us/stat/112/3470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3470
-[/us/pl/108/21/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs106%2Fa
+[/us/pl/108/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtI
 [/us/stat/117/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F654
-[/us/pl/108/482/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482%2Fs204%2Fa
+[/us/pl/108/482/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482%2FtII
 [/us/stat/118/3917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3917
-[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtII
 [/us/stat/120/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F612
-[/us/pl/109/248/s206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs206%2Fc
-[/us/pl/109/248/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs202
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/pl/108/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482
 [/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
 [/us/pl/105/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F386
 [/us/pl/105/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314
-[/us/pl/103/322/s70001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs70001%2F1
-[/us/pl/103/322/s70001/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs70001%2F2
-[/us/pl/100/690/s7041/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7041%2Fa%2F1
-[/us/pl/100/690/s7041/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7041%2Fa%2F2
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551

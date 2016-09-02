@@ -39,7 +39,7 @@
 
         (3) Notwithstanding any other provision of law, the disposition of firearms forfeited by reason of a violation of any law of the United States shall be governed by the provisions of section 5872(b) of the Internal Revenue Code of 1986.
 
-(Added [Pub. L. 107–296, title XI, § 1113][/us/pl/107/296/s1113], Nov. 25, 2002, [116 Stat. 2279][/us/stat/116/2279].)
+(Added [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1113, Nov. 25, 2002, [116 Stat. 2279][/us/stat/116/2279].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 3051, [act June 25, 1948, ch. 645, § 1][/us/act/1948-06-25/ch645/s1], [62 Stat. 817][/us/stat/62/817], related to powers of extradition agents, prior to repeal by [act Oct. 31, 1951, ch. 655, § 56(f)][/us/act/1951-10-31/ch655/s56/f], [65 Stat. 729][/us/stat/65/729]. Substantially identical provisions are contained in [section 3193 of this title][/us/usc/t18/s3193].
+    A prior section 3051, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 1, [62 Stat. 817][/us/stat/62/817], related to powers of extradition agents, prior to repeal by [act Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 56(f), [65 Stat. 729][/us/stat/65/729]. Substantially identical provisions are contained in [section 3193 of this title][/us/usc/t18/s3193].
 
  __Effective Date__ 
 
@@ -61,12 +61,12 @@
 ----------
 
 [/us/usc/t18/s983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs983
-[/us/pl/107/296/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1113
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2279
 [/us/usc/t26/s5872/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5872%2Fb
-[/us/act/1948-06-25/ch645/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs1
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F817
-[/us/act/1951-10-31/ch655/s56/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs56%2Ff
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F729
 [/us/usc/t18/s3193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3193
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4

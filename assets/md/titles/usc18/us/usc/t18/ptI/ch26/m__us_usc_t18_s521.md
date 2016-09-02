@@ -69,7 +69,7 @@
 
             (D) a conspiracy to commit an offense described in subparagraph (A), (B), or (C).
 
-(Added [Pub. L. 103–322, title XV, § 150001(a)][/us/pl/103/322/s150001/a], Sept. 13, 1994, [108 Stat. 2034][/us/stat/108/2034]; amended [Pub. L. 104–294, title VI, § 607(q)][/us/pl/104/294/s607/q], Oct. 11, 1996, [110 Stat. 3513][/us/stat/110/3513]; [Pub. L. 107–273, div. B, title IV, § 4002(b)(3)][/us/pl/107/273/s4002/b/3], Nov. 2, 2002, [116 Stat. 1807][/us/stat/116/1807].)
+(Added [Pub. L. 103–322, title XV][/us/pl/103/322/tXV], § 150001(a), Sept. 13, 1994, [108 Stat. 2034][/us/stat/108/2034]; amended [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 607(q), Oct. 11, 1996, [110 Stat. 3513][/us/stat/110/3513]; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(b)(3), Nov. 2, 2002, [116 Stat. 1807][/us/stat/116/1807].)
 
  __Amendments__ 
 
@@ -86,11 +86,11 @@
 
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/103/322/s150001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs150001%2Fa
+[/us/pl/103/322/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXV
 [/us/stat/108/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2034
-[/us/pl/104/294/s607/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs607%2Fq
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3513
-[/us/pl/107/273/s4002/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fb%2F3
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1807
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294

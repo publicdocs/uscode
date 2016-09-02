@@ -33,7 +33,7 @@
 
     (d) As used in this section, the term “official request” means a letter rogatory, a request under a treaty or convention, or any other request for evidence made by a court of the United States or an authority of the United States having criminal law enforcement responsibility, to a court or other authority of a foreign country.
 
-(Added [Pub. L. 98–473, title II, § 1218(a)][/us/pl/98/473/s1218/a], Oct. 12, 1984, [98 Stat. 2167][/us/stat/98/2167].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1218(a), Oct. 12, 1984, [98 Stat. 2167][/us/stat/98/2167].)
 
  __Effective Date__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/98/473/s1218/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1218%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2167
 [/us/pl/98/473/s1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1220
 [/us/usc/t18/s3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3505

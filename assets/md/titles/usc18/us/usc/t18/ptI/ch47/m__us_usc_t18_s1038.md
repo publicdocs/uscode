@@ -59,7 +59,7 @@
 
     This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or political subdivision of a State, or of an intelligence agency of the United States.
 
-(Added [Pub. L. 108–458, title VI, § 6702(a)][/us/pl/108/458/s6702/a], Dec. 17, 2004, [118 Stat. 3764][/us/stat/118/3764].)
+(Added [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6702(a), Dec. 17, 2004, [118 Stat. 3764][/us/stat/118/3764].)
 
 ----------
 
@@ -72,7 +72,7 @@
 [/us/usc/t49/s60123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60123%2Fb
 [/us/usc/t42/s2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2284
 [/us/usc/t49/s60123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs60123%2Fb
-[/us/pl/108/458/s6702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6702%2Fa
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3764
 
 

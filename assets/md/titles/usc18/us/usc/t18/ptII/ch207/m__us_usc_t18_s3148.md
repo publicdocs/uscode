@@ -45,19 +45,19 @@
 
     The judicial officer may commence a prosecution for contempt, under [section 401 of this title][/us/usc/t18/s401], if the person has violated a condition of release.
 
-(Added [Pub. L. 98–473, title II, § 203(a)][/us/pl/98/473/s203/a], Oct. 12, 1984, [98 Stat. 1983][/us/stat/98/1983]; amended [Pub. L. 99–646, § 55(a)][/us/pl/99/646/s55/a], (h), Nov. 10, 1986, [100 Stat. 3607][/us/stat/100/3607], 3610.)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 203(a), Oct. 12, 1984, [98 Stat. 1983][/us/stat/98/1983]; amended [Pub. L. 99–646][/us/pl/99/646], § 55(a), (h), Nov. 10, 1986, [100 Stat. 3607][/us/stat/100/3607], 3610.)
 
  __Prior Provisions__ 
 
-    A prior section 3148, added [Pub. L. 89–465, § 3(a)][/us/pl/89/465/s3/a], June 22, 1966, [80 Stat. 215][/us/stat/80/215]; amended [Pub. L. 91–452, title X, § 1002][/us/pl/91/452/s1002], Oct. 12, 1970, [84 Stat. 952][/us/stat/84/952], related to release in capital cases or after conviction, prior to repeal in the revision of this chapter by [section 203(a) of Pub. L. 98–473][/us/pl/98/473/s203/a].
+    A prior section 3148, added [Pub. L. 89–465][/us/pl/89/465], § 3(a), June 22, 1966, [80 Stat. 215][/us/stat/80/215]; amended [Pub. L. 91–452, title X][/us/pl/91/452/tX], § 1002, Oct. 12, 1970, [84 Stat. 952][/us/stat/84/952], related to release in capital cases or after conviction, prior to repeal in the revision of this chapter by [section 203(a) of Pub. L. 98–473][/us/pl/98/473/s203/a].
 
  __Amendments__ 
 
-    1986—Subsec. (a). [Pub. L. 99–646, § 55(a)][/us/pl/99/646/s55/a], (h)(1), substituted “under [section 3142 of this title][/us/usc/t18/s3142]” for “pursuant to the provisions of section 3142”.
+    1986—Subsec. (a). [Pub. L. 99–646][/us/pl/99/646], § 55(a), (h)(1), substituted “under [section 3142 of this title][/us/usc/t18/s3142]” for “pursuant to the provisions of section 3142”.
 
-    Subsec. (b). [Pub. L. 99–646, § 55(h)(2)][/us/pl/99/646/s55/h/2], in introductory provision, substituted “such person’s arrest” for “his arrest”, “condition of release that such person not commit” for “condition of his release that he not commit”, and “period of release,” for “period of release”, in par. (1)(B) substituted “condition of release” for “condition of his release”, in par. (2)(A) inserted “of this title” after “section 3142(g)”, and in concluding provision, substituted “the judicial officer shall” for “he shall” and inserted “of this title” after “section 3142”.
+    Subsec. (b). [Pub. L. 99–646][/us/pl/99/646], § 55(h)(2), in introductory provision, substituted “such person’s arrest” for “his arrest”, “condition of release that such person not commit” for “condition of his release that he not commit”, and “period of release,” for “period of release”, in par. (1)(B) substituted “condition of release” for “condition of his release”, in par. (2)(A) inserted “of this title” after “section 3142(g)”, and in concluding provision, substituted “the judicial officer shall” for “he shall” and inserted “of this title” after “section 3142”.
 
-    Subsec. (c). [Pub. L. 99–646, § 55(a)][/us/pl/99/646/s55/a], (h)(3), substituted “judicial officer” for “judge”, “under [section 401 of this title][/us/usc/t18/s401]” for “pursuant to the provisions of section 401”, and “condition of release” for “condition of his release”.
+    Subsec. (c). [Pub. L. 99–646][/us/pl/99/646], § 55(a), (h)(3), substituted “judicial officer” for “judge”, “under [section 401 of this title][/us/usc/t18/s401]” for “pursuant to the provisions of section 401”, and “condition of release” for “condition of his release”.
 
  __Effective Date of 1986 Amendment__ 
 
@@ -74,19 +74,19 @@
 [/us/usc/t18/s3142/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3142%2Fg
 [/us/usc/t18/s3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3142
 [/us/usc/t18/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs401
-[/us/pl/98/473/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs203%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1983
-[/us/pl/99/646/s55/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs55%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3607
-[/us/pl/89/465/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F465%2Fs3%2Fa
+[/us/pl/89/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F465
 [/us/stat/80/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F215
-[/us/pl/91/452/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs1002
+[/us/pl/91/452/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtX
 [/us/stat/84/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F952
 [/us/pl/98/473/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs203%2Fa
-[/us/pl/99/646/s55/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs55%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/usc/t18/s3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3142
-[/us/pl/99/646/s55/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs55%2Fh%2F2
-[/us/pl/99/646/s55/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs55%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/usc/t18/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs401
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/99/646/s55/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs55%2Fj

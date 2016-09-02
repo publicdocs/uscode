@@ -233,7 +233,7 @@
 
     In this section, the term “State” has the meaning given that term in section 1716(k).
 
-(Added [Pub. L. 111–154, § 3(a)][/us/pl/111/154/s3/a], Mar. 31, 2010, [124 Stat. 1103][/us/stat/124/1103].)
+(Added [Pub. L. 111–154][/us/pl/111/154], § 3(a), Mar. 31, 2010, [124 Stat. 1103][/us/stat/124/1103].)
 
  __References in Text__ 
 
@@ -259,7 +259,7 @@
 ----------
 
 [/us/act/1949-10-19/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-19%2Fs1
-[/us/pl/111/154/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154%2Fs3%2Fa
+[/us/pl/111/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154
 [/us/stat/124/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1103
 [/us/act/1949-10-19/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-19%2Fs1
 [/us/usc/t15/s375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs375

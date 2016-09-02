@@ -49,7 +49,7 @@
 
         (3) The court of appeals shall state in writing the reasons for its disposition of an appeal of a sentence of death under this section.
 
-(Added [Pub. L. 103–322, title VI, § 60002(a)][/us/pl/103/322/s60002/a], Sept. 13, 1994, [108 Stat. 1967][/us/stat/108/1967].)
+(Added [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60002(a), Sept. 13, 1994, [108 Stat. 1967][/us/stat/108/1967].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s60002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60002%2Fa
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1967
 
 

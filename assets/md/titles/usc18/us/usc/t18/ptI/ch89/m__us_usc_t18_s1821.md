@@ -25,7 +25,7 @@
 
     Shall be fined under this title or imprisoned not more than one year, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 786][/us/stat/62/786]; [Pub. L. 104–294, title VI, § 601(a)(8)][/us/pl/104/294/s601/a/8], Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498]; [Pub. L. 107–273, div. B, title IV, § 4004(c)][/us/pl/107/273/s4004/c], Nov. 2, 2002, [116 Stat. 1812][/us/stat/116/1812].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 786][/us/stat/62/786]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(a)(8), Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498]; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4004(c), Nov. 2, 2002, [116 Stat. 1812][/us/stat/116/1812].)
 
  __Historical and Revision Notes__ 
 
@@ -56,9 +56,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F786
-[/us/pl/104/294/s601/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fa%2F8
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3498
-[/us/pl/107/273/s4004/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4004%2Fc
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1812
 [/us/act/1942-12-24/ch823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-24%2Fch823
 [/us/stat/56/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1087

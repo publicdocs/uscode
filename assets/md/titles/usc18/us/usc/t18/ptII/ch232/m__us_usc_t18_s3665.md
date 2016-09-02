@@ -19,7 +19,7 @@
 
     The court may direct the delivery of such firearms or ammunition to the law-enforcement agency which apprehended such person, for its use or for any other disposition in its discretion.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 839][/us/stat/62/839], § 3611; renumbered § 3665, [Pub. L. 98–473, title II, § 212(a)(1)][/us/pl/98/473/s212/a/1], Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 839][/us/stat/62/839], § 3611; renumbered § 3665, [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(1), Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987].)
 
  __Historical and Revision Notes__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F839
-[/us/pl/98/473/s212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F1
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1987
 [/us/act/1939-06-13/ch197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-13%2Fch197
 [/us/stat/53/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F814

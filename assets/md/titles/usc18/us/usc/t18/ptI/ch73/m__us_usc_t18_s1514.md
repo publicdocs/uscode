@@ -81,23 +81,23 @@
 
         (2) For purposes of subparagraphs (B)(ii) and (D)(ii) of paragraph (1), a court shall presume, subject to rebuttal by the person, that the distribution or publication using the Internet of a photograph of, or restricted personal information regarding, a specific person serves no legitimate purpose, unless that use is authorized by that specific person, is for news reporting purposes, is designed to locate that specific person (who has been reported to law enforcement as a missing person), or is part of a government-authorized effort to locate a fugitive or person of interest in a criminal, antiterrorism, or national security investigation.
 
-(Added [Pub. L. 97–291, § 4(a)][/us/pl/97/291/s4/a], Oct. 12, 1982, [96 Stat. 1250][/us/stat/96/1250]; amended [Pub. L. 111–16, § 3(2)][/us/pl/111/16/s3/2], (3), May 7, 2009, [123 Stat. 1607][/us/stat/123/1607]; [Pub. L. 112–206, § 3(a)][/us/pl/112/206/s3/a], Dec. 7, 2012, [126 Stat. 1490][/us/stat/126/1490].)
+(Added [Pub. L. 97–291][/us/pl/97/291], § 4(a), Oct. 12, 1982, [96 Stat. 1250][/us/stat/96/1250]; amended [Pub. L. 111–16][/us/pl/111/16], § 3(2), (3), May 7, 2009, [123 Stat. 1607][/us/stat/123/1607]; [Pub. L. 112–206][/us/pl/112/206], § 3(a), Dec. 7, 2012, [126 Stat. 1490][/us/stat/126/1490].)
 
  __Amendments__ 
 
-    2012—Subsec. (b)(1). [Pub. L. 112–206, § 3(a)(1)(A)][/us/pl/112/206/s3/a/1/A], inserted “or its own motion,” after “attorney for the Government,” and inserted “or investigation” after “Federal criminal case” in two places.
+    2012—Subsec. (b)(1). [Pub. L. 112–206][/us/pl/112/206], § 3(a)(1)(A), inserted “or its own motion,” after “attorney for the Government,” and inserted “or investigation” after “Federal criminal case” in two places.
 
-    Subsec. (b)(2), (3). [Pub. L. 112–206, § 3(a)(1)(B)][/us/pl/112/206/s3/a/1/B], (C), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
+    Subsec. (b)(2), (3). [Pub. L. 112–206][/us/pl/112/206], § 3(a)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
 
-    Subsec. (b)(4). [Pub. L. 112–206, § 3(a)(1)(B)][/us/pl/112/206/s3/a/1/B], (D), redesignated par. (3) as (4) and struck out “(and not by reference to the complaint or other document)” after “describe in reasonable detail”. Former par. (4) redesignated (5).
+    Subsec. (b)(4). [Pub. L. 112–206][/us/pl/112/206], § 3(a)(1)(B), (D), redesignated par. (3) as (4) and struck out “(and not by reference to the complaint or other document)” after “describe in reasonable detail”. Former par. (4) redesignated (5).
 
-    Subsec. (b)(5). [Pub. L. 112–206, § 3(a)(1)(B)][/us/pl/112/206/s3/a/1/B], (E), redesignated par. (4) as (5) and inserted “, except that in the case of a minor victim or witness, the court may order that such protective order expires on the later of 3 years after the date of issuance or the date of the eighteenth birthday of that minor victim or witness” before period at end of second sentence.
+    Subsec. (b)(5). [Pub. L. 112–206][/us/pl/112/206], § 3(a)(1)(B), (E), redesignated par. (4) as (5) and inserted “, except that in the case of a minor victim or witness, the court may order that such protective order expires on the later of 3 years after the date of issuance or the date of the eighteenth birthday of that minor victim or witness” before period at end of second sentence.
 
-    Subsecs. (c), (d). [Pub. L. 112–206, § 3(a)(2)][/us/pl/112/206/s3/a/2], added subsecs. (c) and (d) and struck out former subsec. (c) which defined “harassment” and “course of conduct”.
+    Subsecs. (c), (d). [Pub. L. 112–206][/us/pl/112/206], § 3(a)(2), added subsecs. (c) and (d) and struck out former subsec. (c) which defined “harassment” and “course of conduct”.
 
-    2009—Subsec. (a)(2)(C). [Pub. L. 111–16, § 3(2)][/us/pl/111/16/s3/2], substituted “14 days” for “10 days” in two places.
+    2009—Subsec. (a)(2)(C). [Pub. L. 111–16][/us/pl/111/16], § 3(2), substituted “14 days” for “10 days” in two places.
 
-    Subsec. (a)(2)(E). [Pub. L. 111–16, § 3(3)][/us/pl/111/16/s3/3], inserted “, excluding intermediate weekends and holidays,” after “the Government”.
+    Subsec. (a)(2)(E). [Pub. L. 111–16][/us/pl/111/16], § 3(3), inserted “, excluding intermediate weekends and holidays,” after “the Government”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -118,19 +118,19 @@
 [/us/usc/t18/s1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1513
 [/us/usc/t18/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1512
 [/us/usc/t18/s1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1513
-[/us/pl/97/291/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F291%2Fs4%2Fa
+[/us/pl/97/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F291
 [/us/stat/96/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1250
-[/us/pl/111/16/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs3%2F2
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/stat/123/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1607
-[/us/pl/112/206/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206%2Fs3%2Fa
+[/us/pl/112/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206
 [/us/stat/126/1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1490
-[/us/pl/112/206/s3/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206%2Fs3%2Fa%2F1%2FA
-[/us/pl/112/206/s3/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206%2Fs3%2Fa%2F1%2FB
-[/us/pl/112/206/s3/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206%2Fs3%2Fa%2F1%2FB
-[/us/pl/112/206/s3/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206%2Fs3%2Fa%2F1%2FB
-[/us/pl/112/206/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206%2Fs3%2Fa%2F2
-[/us/pl/111/16/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs3%2F2
-[/us/pl/111/16/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs3%2F3
+[/us/pl/112/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206
+[/us/pl/112/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206
+[/us/pl/112/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206
+[/us/pl/112/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206
+[/us/pl/112/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/111/16/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs7
 [/us/usc/t11/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs109

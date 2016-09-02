@@ -29,7 +29,7 @@
 
     The remainder of said [section 39 of title 18][/us/usc/t18/s39], U.S.C., 1940 ed., which was derived from sections 2, 3, and 4 of title XIII of the act of June 15, 1917, relating to jurisdiction and other matters, is almost entirely obsolete. The provisions still in force are incorporated in [section 3241 of this title][/us/usc/t18/s3241].
 
-    The remaining provisions of said sections 381 and 502 of title 18, U.S.C., 1940 ed., which were derived from sources other than said [section 1 of title XIII of the act of June 15, 1917][/us/act/1917-06-15/s1], are incorporated in sections 1364 and 2275 of this title.
+    The remaining provisions of said sections 381 and 502 of title 18, U.S.C., 1940 ed., which were derived from sources other than said [section 1 of title XIII of the act of June 15, 1917][/us/act/1917-06-15/tXIII/s1], are incorporated in sections 1364 and 2275 of this title.
 
  __Senate Revision Amendment__ 
 
@@ -55,7 +55,7 @@
 [/us/usc/t50/s40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs40
 [/us/usc/t18/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs39
 [/us/usc/t18/s3241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3241
-[/us/act/1917-06-15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fs1
+[/us/act/1917-06-15/tXIII/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2FtXIII%2Fs1
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 
 

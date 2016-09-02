@@ -41,7 +41,7 @@
 
     (10) perform any other duty that the court may designate.
 
-(Added [Pub. L. 98–473, title II, § 212(a)(2)][/us/pl/98/473/s212/a/2], Oct. 12, 1984, [98 Stat. 2002][/us/stat/98/2002]; amended [Pub. L. 99–646, § 15(a)][/us/pl/99/646/s15/a], Nov. 10, 1986, [100 Stat. 3595][/us/stat/100/3595]; [Pub. L. 102–572, title VII, § 701(a)][/us/pl/102/572/s701/a], Oct. 29, 1992, [106 Stat. 4514][/us/stat/106/4514]; [Pub. L. 104–317, title I, § 101(a)][/us/pl/104/317/s101/a], Oct. 19, 1996, [110 Stat. 3848][/us/stat/110/3848].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(2), Oct. 12, 1984, [98 Stat. 2002][/us/stat/98/2002]; amended [Pub. L. 99–646][/us/pl/99/646], § 15(a), Nov. 10, 1986, [100 Stat. 3595][/us/stat/100/3595]; [Pub. L. 102–572, title VII][/us/pl/102/572/tVII], § 701(a), Oct. 29, 1992, [106 Stat. 4514][/us/stat/106/4514]; [Pub. L. 104–317, title I][/us/pl/104/317/tI], § 101(a), Oct. 19, 1996, [110 Stat. 3848][/us/stat/110/3848].)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–646, § 15(b)][/us/pl/99/646/s15/b], Nov. 10, 1986, [100 Stat. 3595][/us/stat/100/3595], provided that: 
+[Pub. L. 99–646][/us/pl/99/646], § 15(b), Nov. 10, 1986, [100 Stat. 3595][/us/stat/100/3595], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of [section 3603 of title 18][/us/usc/t18/s3603], United States Code \[Nov. 1, 1987\].”
 
@@ -72,13 +72,13 @@
 ----------
 ----------
 
-[/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2002
-[/us/pl/99/646/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs15%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3595
-[/us/pl/102/572/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs701%2Fa
+[/us/pl/102/572/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtVII
 [/us/stat/106/4514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4514
-[/us/pl/104/317/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs101%2Fa
+[/us/pl/104/317/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtI
 [/us/stat/110/3848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3848
 [/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
@@ -86,7 +86,7 @@
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs1101
 [/us/usc/t2/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs905
-[/us/pl/99/646/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs15%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3595
 [/us/usc/t18/s3603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3603
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1

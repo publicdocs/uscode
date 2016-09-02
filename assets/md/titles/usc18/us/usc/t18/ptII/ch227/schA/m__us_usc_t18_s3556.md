@@ -17,7 +17,7 @@
 
     The court, in imposing a sentence on a defendant who has been found guilty of an offense shall order restitution in accordance with section 3663A, and may order restitution in accordance with section 3663. The procedures under section 3664 shall apply to all orders of restitution under this section.
 
-(Added [Pub. L. 98–473, title II, § 212(a)(2)][/us/pl/98/473/s212/a/2], Oct. 12, 1984, [98 Stat. 1991][/us/stat/98/1991]; amended [Pub. L. 99–646, § 20(b)][/us/pl/99/646/s20/b], Nov. 10, 1986, [100 Stat. 3596][/us/stat/100/3596]; [Pub. L. 104–132, title II, § 202][/us/pl/104/132/s202], Apr. 24, 1996, [110 Stat. 1227][/us/stat/110/1227].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(2), Oct. 12, 1984, [98 Stat. 1991][/us/stat/98/1991]; amended [Pub. L. 99–646][/us/pl/99/646], § 20(b), Nov. 10, 1986, [100 Stat. 3596][/us/stat/100/3596]; [Pub. L. 104–132, title II][/us/pl/104/132/tII], § 202, Apr. 24, 1996, [110 Stat. 1227][/us/stat/110/1227].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–646, § 20(c)][/us/pl/99/646/s20/c], Nov. 10, 1986, [100 Stat. 3596][/us/stat/100/3596], provided that: 
+[Pub. L. 99–646][/us/pl/99/646], § 20(c), Nov. 10, 1986, [100 Stat. 3596][/us/stat/100/3596], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 3663 of this title][/us/usc/t18/s3663]\] shall take effect on the date of the taking effect of section 212(a)(2) of the Sentencing Reform Act of 1984 \[[section 212(a)(2) of Pub. L. 98–473][/us/pl/98/473/s212/a/2], effective Nov. 1, 1987\].”
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1991
-[/us/pl/99/646/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs20%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3596
-[/us/pl/104/132/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs202
+[/us/pl/104/132/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtII
 [/us/stat/110/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1227
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
@@ -58,7 +58,7 @@
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/104/132/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs211
 [/us/usc/t18/s2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2248
-[/us/pl/99/646/s20/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs20%2Fc
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3596
 [/us/usc/t18/s3663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3663
 [/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2

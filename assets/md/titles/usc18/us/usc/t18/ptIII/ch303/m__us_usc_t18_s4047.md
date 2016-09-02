@@ -31,7 +31,7 @@
 
     (c) The Attorney General shall prepare and transmit to the Congress, by March 1 of each year, a prison impact assessment reflecting the cumulative effect of all relevant changes in the law taking effect during the preceding calendar year.
 
-(Added [Pub. L. 103–322, title II, § 20402(a)][/us/pl/103/322/s20402/a], Sept. 13, 1994, [108 Stat. 1824][/us/stat/108/1824].)
+(Added [Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20402(a), Sept. 13, 1994, [108 Stat. 1824][/us/stat/108/1824].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s20402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20402%2Fa
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1824
 
 

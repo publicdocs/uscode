@@ -75,7 +75,7 @@
 
         (4) The term “lawfully admitted for permanent residence” has the same meaning as in section 101(a)(20) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(20)][/us/usc/t8/s1101/a/20]).
 
-(Added [Pub. L. 107–56, title VIII, § 817(2)][/us/pl/107/56/s817/2], Oct. 26, 2001, [115 Stat. 385][/us/stat/115/385]; amended [Pub. L. 107–188, title II, § 231(a)][/us/pl/107/188/s231/a], (b)(1), (c)(2), June 12, 2002, [116 Stat. 660][/us/stat/116/660], 661; [Pub. L. 107–273, div. B, title IV, § 4005(g)][/us/pl/107/273/s4005/g], Nov. 2, 2002, [116 Stat. 1813][/us/stat/116/1813]; [Pub. L. 108–458, title VI, § 6802(c)][/us/pl/108/458/s6802/c], (d)(1), Dec. 17, 2004, [118 Stat. 3767][/us/stat/118/3767].)
+(Added [Pub. L. 107–56, title VIII][/us/pl/107/56/tVIII], § 817(2), Oct. 26, 2001, [115 Stat. 385][/us/stat/115/385]; amended [Pub. L. 107–188, title II][/us/pl/107/188/tII], § 231(a), (b)(1), (c)(2), June 12, 2002, [116 Stat. 660][/us/stat/116/660], 661; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4005(g), Nov. 2, 2002, [116 Stat. 1813][/us/stat/116/1813]; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6802(c), (d)(1), Dec. 17, 2004, [118 Stat. 3767][/us/stat/118/3767].)
 
  __References in Text__ 
 
@@ -87,35 +87,35 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a)(1). [Pub. L. 108–458, § 6802(d)(1)][/us/pl/108/458/s6802/d/1], substituted “as a non-overlap or overlap select biological agent or toxin in sections 73.4 and 73.5 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not excluded under sections 73.4 and 73.5 or exempted under section 73.6 of title 42, Code of Federal Regulations” for “as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations”.
+    2004—Subsec. (a)(1). [Pub. L. 108–458][/us/pl/108/458], § 6802(d)(1), substituted “as a non-overlap or overlap select biological agent or toxin in sections 73.4 and 73.5 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not excluded under sections 73.4 and 73.5 or exempted under section 73.6 of title 42, Code of Federal Regulations” for “as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations”.
 
-    Subsec. (d)(2)(G). [Pub. L. 108–458, § 6802(c)(1)][/us/pl/108/458/s6802/c/1], designated existing provisions as cl. (i), added cl. (ii), and struck out “or” at end.
+    Subsec. (d)(2)(G). [Pub. L. 108–458][/us/pl/108/458], § 6802(c)(1), designated existing provisions as cl. (i), added cl. (ii), and struck out “or” at end.
 
-    Subsec. (d)(2)(H). [Pub. L. 108–458, § 6802(c)(2)][/us/pl/108/458/s6802/c/2], substituted “; or” for period at end.
+    Subsec. (d)(2)(H). [Pub. L. 108–458][/us/pl/108/458], § 6802(c)(2), substituted “; or” for period at end.
 
-    Subsec. (d)(2)(I). [Pub. L. 108–458, § 6802(c)(3)][/us/pl/108/458/s6802/c/3], added subpar. (I).
+    Subsec. (d)(2)(I). [Pub. L. 108–458][/us/pl/108/458], § 6802(c)(3), added subpar. (I).
 
     2002—[Pub. L. 107–273][/us/pl/107/273] substituted “Possession by restricted persons” for “Select agents; certain other agents” in section catchline.
 
-    [Pub. L. 107–188, § 231(b)(1)(B)][/us/pl/107/188/s231/b/1/B], substituted “Select agents; certain other agents” for “Possession by restricted persons” in section catchline.
+    [Pub. L. 107–188][/us/pl/107/188], § 231(b)(1)(B), substituted “Select agents; certain other agents” for “Possession by restricted persons” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 107–188, § 231(a)(1)][/us/pl/107/188/s231/a/1], (c)(2)(A), designated existing provisions of subsec. (a) as par. (1) and substituted “shall ship or transport in or affecting interstate or foreign commerce, or possess in or affecting interstate or foreign commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations” for “described in subsection (b) shall ship or transport interstate or foreign commerce, or possess in or affecting commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a select agent in subsection (j) of section 72.6 of title 42, Code of Federal Regulations, pursuant to section 511(d)(l) of the Antiterrorism and Effective Death Penalty Act of 1996 ([Public Law 104–132][/us/pl/104/132]), and is not exempted under subsection (h) of such section 72.6, or appendix A of part 72 of the Code of Regulations”.
+    Subsec. (a)(1). [Pub. L. 107–188][/us/pl/107/188], § 231(a)(1), (c)(2)(A), designated existing provisions of subsec. (a) as par. (1) and substituted “shall ship or transport in or affecting interstate or foreign commerce, or possess in or affecting interstate or foreign commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations” for “described in subsection (b) shall ship or transport interstate or foreign commerce, or possess in or affecting commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a select agent in subsection (j) of section 72.6 of title 42, Code of Federal Regulations, pursuant to section 511(d)(l) of the Antiterrorism and Effective Death Penalty Act of 1996 ([Public Law 104–132][/us/pl/104/132]), and is not exempted under subsection (h) of such section 72.6, or appendix A of part 72 of the Code of Regulations”.
 
-    Subsec. (a)(2). [Pub. L. 107–188, § 231(a)(2)][/us/pl/107/188/s231/a/2], (3), redesignated and transferred subsec. (c) as par. (2) of subsec. (a).
+    Subsec. (a)(2). [Pub. L. 107–188][/us/pl/107/188], § 231(a)(2), (3), redesignated and transferred subsec. (c) as par. (2) of subsec. (a).
 
-    Subsec. (b). [Pub. L. 107–188, § 231(a)(5)][/us/pl/107/188/s231/a/5], added subsec. (b). Former subsec. (b) redesignated (d).
+    Subsec. (b). [Pub. L. 107–188][/us/pl/107/188], § 231(a)(5), added subsec. (b). Former subsec. (b) redesignated (d).
 
-    Subsec. (c). [Pub. L. 107–188, § 231(a)(5)][/us/pl/107/188/s231/a/5], added subsec. (c). Former subsec. (c) redesignated (a)(2).
+    Subsec. (c). [Pub. L. 107–188][/us/pl/107/188], § 231(a)(5), added subsec. (c). Former subsec. (c) redesignated (a)(2).
 
-    Subsec. (d). [Pub. L. 107–188, § 231(a)(4)][/us/pl/107/188/s231/a/4], redesignated subsec. (b) as (d).
+    Subsec. (d). [Pub. L. 107–188][/us/pl/107/188], § 231(a)(4), redesignated subsec. (b) as (d).
 
-    Subsec. (d)(1). [Pub. L. 107–188, § 231(b)(1)(A)][/us/pl/107/188/s231/b/1/A], substituted “The term ‘select agent’ means a biological agent or toxin to which subsection (a) applies. Such term (including for purposes of subsection (a)) does not include” for “The term ‘select agent’ does not include”.
+    Subsec. (d)(1). [Pub. L. 107–188][/us/pl/107/188], § 231(b)(1)(A), substituted “The term ‘select agent’ means a biological agent or toxin to which subsection (a) applies. Such term (including for purposes of subsection (a)) does not include” for “The term ‘select agent’ does not include”.
 
-    Subsec. (d)(3). [Pub. L. 107–188, § 231(c)(2)(B)][/us/pl/107/188/s231/c/2/B], substituted “section 101(a)(3)” for “section 1010(a)(3)”.
+    Subsec. (d)(3). [Pub. L. 107–188][/us/pl/107/188], § 231(c)(2)(B), substituted “section 101(a)(3)” for “section 1010(a)(3)”.
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–458, title VI, § 6802(d)(2)][/us/pl/108/458/s6802/d/2], Dec. 17, 2004, [118 Stat. 3767][/us/stat/118/3767], provided that: 
+[Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6802(d)(2), Dec. 17, 2004, [118 Stat. 3767][/us/stat/118/3767], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect at the same time that sections 73.4, 73.5, and 73.6 of title 42, Code of Federal Regulations, become effective \[probably means the effective date of the final rule revising sections 73.4, 73.5, and 73.6 of title 42, C.F.R., which was Apr. 18, 2005, see 70 F.R. 13294\].”
 
@@ -132,32 +132,32 @@
 [/us/usc/t8/s1182/a/3/B/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F3%2FB%2Fvi
 [/us/usc/t8/s1101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F3
 [/us/usc/t8/s1101/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F20
-[/us/pl/107/56/s817/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs817%2F2
+[/us/pl/107/56/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtVIII
 [/us/stat/115/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F385
-[/us/pl/107/188/s231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs231%2Fa
+[/us/pl/107/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtII
 [/us/stat/116/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F660
-[/us/pl/107/273/s4005/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4005%2Fg
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1813
-[/us/pl/108/458/s6802/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6802%2Fc
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3767
 [/us/usc/t42/s262a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262a
 [/us/usc/t7/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8401
 [/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
-[/us/pl/108/458/s6802/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6802%2Fd%2F1
-[/us/pl/108/458/s6802/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6802%2Fc%2F1
-[/us/pl/108/458/s6802/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6802%2Fc%2F2
-[/us/pl/108/458/s6802/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6802%2Fc%2F3
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/107/188/s231/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs231%2Fb%2F1%2FB
-[/us/pl/107/188/s231/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs231%2Fa%2F1
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
-[/us/pl/107/188/s231/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs231%2Fa%2F2
-[/us/pl/107/188/s231/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs231%2Fa%2F5
-[/us/pl/107/188/s231/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs231%2Fa%2F5
-[/us/pl/107/188/s231/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs231%2Fa%2F4
-[/us/pl/107/188/s231/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs231%2Fb%2F1%2FA
-[/us/pl/107/188/s231/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs231%2Fc%2F2%2FB
-[/us/pl/108/458/s6802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6802%2Fd%2F2
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3767
 
 

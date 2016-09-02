@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch39/m__us_usc_t18_s832.md) | [Next](./../../../../..//us/usc/t18/ptI/ch39/m__us_usc_t18_s837.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs836)
+[Previous](./../../../../..//us/usc/t18/ptI/ch39/m__us_usc_t18_s833...835.md) | [Next](./../../../../..//us/usc/t18/ptI/ch39/m__us_usc_t18_s837.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs836)
 
 ## § 836. Transportation of fireworks into State prohibiting sale or use
 
@@ -25,7 +25,7 @@
 
     This section shall be effective from and after July 1, 1954.
 
-(Added [June 4, 1954, ch. 261, § 1][/us/act/1954-06-04/ch261/s1], [68 Stat. 170][/us/stat/68/170]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+(Added [June 4, 1954, ch. 261][/us/act/1954-06-04/ch261], § 1, [68 Stat. 170][/us/stat/68/170]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(H), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Fireworks for Agricultural Purposes__ 
 
-[Act June 4, 1954, ch. 261, § 3][/us/act/1954-06-04/ch261/s3], [68 Stat. 171][/us/stat/68/171], provided that: 
+[Act June 4, 1954, ch. 261][/us/act/1954-06-04/ch261], § 3, [68 Stat. 171][/us/stat/68/171], provided that: 
 
 > “This Act \[enacting this section\] shall not be effective with respect to—
 
@@ -45,17 +45,17 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch39/m__us_usc_t18_s832.md) | [Next](./../../../../..//us/usc/t18/ptI/ch39/m__us_usc_t18_s837.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs836)
+[Previous](./../../../../..//us/usc/t18/ptI/ch39/m__us_usc_t18_s833...835.md) | [Next](./../../../../..//us/usc/t18/ptI/ch39/m__us_usc_t18_s837.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs836)
 
 ----------
 ----------
 
-[/us/act/1954-06-04/ch261/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-04%2Fch261%2Fs1
+[/us/act/1954-06-04/ch261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-04%2Fch261
 [/us/stat/68/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F170
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/act/1954-06-04/ch261/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-04%2Fch261%2Fs3
+[/us/act/1954-06-04/ch261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-04%2Fch261
 [/us/stat/68/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F171
 
 

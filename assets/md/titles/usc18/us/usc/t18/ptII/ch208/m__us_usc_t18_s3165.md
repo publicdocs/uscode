@@ -33,7 +33,7 @@
 
     (f) Plans adopted pursuant to this section shall, upon adoption, and recommendations of the district planning group shall, upon completion, become public documents.
 
-(Added [Pub. L. 93–619, title I, § 101][/us/pl/93/619/s101], Jan. 3, 1975, [88 Stat. 2081][/us/stat/88/2081]; amended [Pub. L. 96–43, § 8][/us/pl/96/43/s8], Aug. 2, 1979, [93 Stat. 329][/us/stat/93/329]; [Pub. L. 101–647, title XXXV, § 3577][/us/pl/101/647/s3577], Nov. 29, 1990, [104 Stat. 4929][/us/stat/104/4929]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+(Added [Pub. L. 93–619, title I][/us/pl/93/619/tI], § 101, Jan. 3, 1975, [88 Stat. 2081][/us/stat/88/2081]; amended [Pub. L. 96–43][/us/pl/96/43], § 8, Aug. 2, 1979, [93 Stat. 329][/us/stat/93/329]; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3577, Nov. 29, 1990, [104 Stat. 4929][/us/stat/104/4929]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __References in Text__ 
 
@@ -43,9 +43,9 @@
 
     1990—Subsec. (e)(2). [Pub. L. 101–647][/us/pl/101/647] substituted “twelve-calendar-month” for “twelve-calendar month”.
 
-    1979—Subsec. (e)(2). [Pub. L. 96–43, § 8(1)][/us/pl/96/43/s8/1], substituted “fifth twelve-calendar” for “subsequent twelve-calendar”.
+    1979—Subsec. (e)(2). [Pub. L. 96–43][/us/pl/96/43], § 8(1), substituted “fifth twelve-calendar” for “subsequent twelve-calendar”.
 
-    Subsec. (e)(3). [Pub. L. 96–43, § 8(2)][/us/pl/96/43/s8/2], added par. (3).
+    Subsec. (e)(3). [Pub. L. 96–43][/us/pl/96/43], § 8(2), added par. (3).
 
  __Change of Name__ 
 
@@ -58,20 +58,20 @@
 ----------
 ----------
 
-[/us/pl/93/619/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2Fs101
+[/us/pl/93/619/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2FtI
 [/us/stat/88/2081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2081
-[/us/pl/96/43/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs8
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 [/us/stat/93/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F329
-[/us/pl/101/647/s3577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3577
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4929
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
 [/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 [/us/usc/t18/s3163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3163
 [/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
-[/us/pl/96/43/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs8%2F1
-[/us/pl/96/43/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs8%2F2
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
 

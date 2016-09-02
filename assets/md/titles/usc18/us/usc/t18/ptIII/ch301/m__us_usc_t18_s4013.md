@@ -115,45 +115,45 @@
 
         Any State or local government assessing or collecting a fee under this subsection shall provide comprehensive coverage for services relating to human immunodeficiency virus (HIV) and acquired immune deficiency syndrome (AIDS) to each Federal prisoner in the custody of such State or local government when medically appropriate. The State or local government may not assess or collect a fee under this subsection for providing such coverage.
 
-(Added [Pub. L. 100–690, title VII, § 7608(d)(1)][/us/pl/100/690/s7608/d/1], Nov. 18, 1988, [102 Stat. 4516][/us/stat/102/4516]; amended [Pub. L. 101–647, title XVII, § 1701][/us/pl/101/647/s1701], title XXXV, § 3599, Nov. 29, 1990, [104 Stat. 4843][/us/stat/104/4843], 4931; [Pub. L. 103–322, title XXXIII, § 330011][/us/pl/103/322/s330011](o), Sept. 13, 1994, [108 Stat. 2145][/us/stat/108/2145]; [Pub. L. 106–294, § 3][/us/pl/106/294/s3], Oct. 12, 2000, [114 Stat. 1040][/us/stat/114/1040]; [Pub. L. 107–273, div. A, title III, § 302(2)][/us/pl/107/273/s302/2], Nov. 2, 2002, [116 Stat. 1781][/us/stat/116/1781].)
+(Added [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7608(d)(1), Nov. 18, 1988, [102 Stat. 4516][/us/stat/102/4516]; amended [Pub. L. 101–647, title XVII][/us/pl/101/647/tXVII], § 1701, title XXXV, § 3599, Nov. 29, 1990, [104 Stat. 4843][/us/stat/104/4843], 4931; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330011(o), Sept. 13, 1994, [108 Stat. 2145][/us/stat/108/2145]; [Pub. L. 106–294][/us/pl/106/294], § 3, Oct. 12, 2000, [114 Stat. 1040][/us/stat/114/1040]; [Pub. L. 107–273, div. A, title III][/us/pl/107/273/dA/tIII], § 302(2), Nov. 2, 2002, [116 Stat. 1781][/us/stat/116/1781].)
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–273, § 302(2)(A)][/us/pl/107/273/s302/2/A], in introductory provisions, substituted “Federal prisoner detention” for “the support of United States prisoners”, inserted “and” at end of par. (2), substituted period for “; and” at end of par. (3), and in introductory provisions of par. (4), inserted “The Attorney General, in support of Federal prisoner detainees in non-Federal institutions, is authorized to make payments, from funds appropriated for State and local law enforcement assistance, for” before “entering”.
+    2002—Subsec. (a). [Pub. L. 107–273][/us/pl/107/273], § 302(2)(A), in introductory provisions, substituted “Federal prisoner detention” for “the support of United States prisoners”, inserted “and” at end of par. (2), substituted period for “; and” at end of par. (3), and in introductory provisions of par. (4), inserted “The Attorney General, in support of Federal prisoner detainees in non-Federal institutions, is authorized to make payments, from funds appropriated for State and local law enforcement assistance, for” before “entering”.
 
-    Subsecs. (a)(4), (b). [Pub. L. 107–273, § 302(2)(B)(ii)][/us/pl/107/273/s302/2/B/ii], redesignated par. (4) of subsec. (a) as subsec. (b) and subpars. (A) to (C) as pars. (1) to (3), respectively. Former subsec. (b) redesignated (c).
+    Subsecs. (a)(4), (b). [Pub. L. 107–273][/us/pl/107/273], § 302(2)(B)(ii), redesignated par. (4) of subsec. (a) as subsec. (b) and subpars. (A) to (C) as pars. (1) to (3), respectively. Former subsec. (b) redesignated (c).
 
-    Subsecs. (c), (d). [Pub. L. 107–273, § 302(2)(B)(i)][/us/pl/107/273/s302/2/B/i], redesignated subsecs. (b) and (c) as (c) and (d), respectively.
+    Subsecs. (c), (d). [Pub. L. 107–273][/us/pl/107/273], § 302(2)(B)(i), redesignated subsecs. (b) and (c) as (c) and (d), respectively.
 
     2000—Subsec. (c). [Pub. L. 106–294][/us/pl/106/294] added subsec. (c).
 
-    1994—[Pub. L. 103–322, § 330011][/us/pl/103/322/s330011](o), repealed [Pub. L. 101–647, § 3599][/us/pl/101/647/s3599]. See 1990 Amendment note below.
+    1994—[Pub. L. 103–322][/us/pl/103/322], § 330011(o), repealed [Pub. L. 101–647][/us/pl/101/647], § 3599. See 1990 Amendment note below.
 
-    1990—Subsec. (a). [Pub. L. 101–647, § 3599][/us/pl/101/647/s3599], which struck out “(a)” at beginning of text, was repealed by [Pub. L. 103–322, § 330011][/us/pl/103/322/s330011](o).
+    1990—Subsec. (a). [Pub. L. 101–647][/us/pl/101/647], § 3599, which struck out “(a)” at beginning of text, was repealed by [Pub. L. 103–322][/us/pl/103/322], § 330011(o).
 
-    Subsec. (b). [Pub. L. 101–647, § 1701][/us/pl/101/647/s1701], added subsec. (b).
+    Subsec. (b). [Pub. L. 101–647][/us/pl/101/647], § 1701, added subsec. (b).
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–322, title XXXIII, § 330011][/us/pl/103/322/s330011](o), Sept. 13, 1994, [108 Stat. 2145][/us/stat/108/2145], provided that the amendment made by section 330011(o) is effective Nov. 29, 1990.
+    [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330011(o), Sept. 13, 1994, [108 Stat. 2145][/us/stat/108/2145], provided that the amendment made by section 330011(o) is effective Nov. 29, 1990.
 
  __Contracts for Space or Facilities__ 
 
-[Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title I, § 118, formerly § 119\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–69; renumbered § 118, [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. A, § 213(a)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–179, provided that: 
+[Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title I, § 118, formerly § 119\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–69; renumbered § 118, [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. A, § 213(a)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–179, provided that: 
 
 > “Notwithstanding any other provision of law, including section 4(d) of the Service Contract Act of 1965 (\[former\] [41 U.S.C. 353(d)][/us/usc/t41/s353/d]) \[now [41 U.S.C. 6707(d)][/us/usc/t41/s6707/d]\], the Attorney General hereafter may enter into contracts and other agreements, of any reasonable duration, for detention or incarceration space or facilities, including related services, on any reasonable basis.”
 
  __Justice Prisoner and Alien Transportation System Fund, United States Marshals Service__ 
 
-[Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title I\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–55, provided in part that: 
+[Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title I\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–55, provided in part that: 
 
 > “Beginning in fiscal year 2000 and thereafter, payment shall be made from the Justice Prisoner and Alien Transportation System Fund for necessary expenses related to the scheduling and transportation of United States prisoners and illegal and criminal aliens in the custody of the United States Marshals Service, as authorized in [18 U.S.C. 4013][/us/usc/t18/s4013], including, without limitation, salaries and expenses, operations, and the acquisition, lease, and maintenance of aircraft and support facilities: Provided, That the Fund shall be reimbursed or credited with advance payments from amounts available to the Department of Justice, other Federal agencies, and other sources at rates that will recover the expenses of Fund operations, including, without limitation, accrual of annual leave and depreciation of plant and equipment of the Fund: Provided further, That proceeds from the disposal of Fund aircraft shall be credited to the Fund: Provided further, That amounts in the Fund shall be available without fiscal year limitation, and may be used for operating equipment lease agreements that do not exceed 10 years.”
 
     Similar provisions were contained in the following prior appropriations act:
 
-    [Pub. L. 106–113, div. B, § 1000(a)(1)][/us/pl/106/113/s1000/a/1] \[title I\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–7.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(1) \[title I\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–7.
 
-[Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title I\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–54, provided that: 
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title I\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–54, provided that: 
 
 > “There is hereby established a Justice Prisoner and Alien Transportation System Fund for the payment of necessary expenses related to the scheduling and transportation of United States prisoners and illegal and criminal aliens in the custody of the United States Marshals Service, as authorized in [18 U.S.C. 4013][/us/usc/t18/s4013], including, without limitation, salaries and expenses, operations, and the acquisition, lease, and maintenance of aircraft and support facilities: Provided, That the Fund shall be reimbursed or credited with advance payments from amounts available to the Department of Justice, other Federal agencies, and other sources at rates that will recover the expenses of Fund operations, including, without limitation, accrual of annual leave and depreciation of plant and equipment of the Fund: Provided further, That proceeds from the disposal of Fund aircraft shall be credited to the Fund: Provided further, That amounts in the Fund shall be available without fiscal year limitation, and may be used for operating equipment lease agreements that do not exceed 5 years.”
 
@@ -166,39 +166,39 @@
 
 [/us/usc/t18/s4006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4006
 [/us/usc/t18/s4048/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4048%2Fa%2F4
-[/us/pl/100/690/s7608/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7608%2Fd%2F1
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4516
-[/us/pl/101/647/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1701
+[/us/pl/101/647/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXVII
 [/us/stat/104/4843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4843
-[/us/pl/103/322/s330011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2145
-[/us/pl/106/294/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F294%2Fs3
-[/us/stat/114/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1040
-[/us/pl/107/273/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs302%2F2
-[/us/stat/116/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1781
-[/us/pl/107/273/s302/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs302%2F2%2FA
-[/us/pl/107/273/s302/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs302%2F2%2FB%2Fii
-[/us/pl/107/273/s302/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs302%2F2%2FB%2Fi
 [/us/pl/106/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F294
-[/us/pl/103/322/s330011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011
-[/us/pl/101/647/s3599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3599
-[/us/pl/101/647/s3599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3599
-[/us/pl/103/322/s330011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011
-[/us/pl/101/647/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1701
-[/us/pl/103/322/s330011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011
+[/us/stat/114/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1040
+[/us/pl/107/273/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIII
+[/us/stat/116/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1781
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/106/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F294
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2145
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t41/s353/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs353%2Fd
 [/us/usc/t41/s6707/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6707%2Fd
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
 [/us/usc/t18/s4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4013
-[/us/pl/106/113/s1000/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F1
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
 [/us/usc/t18/s4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4013
 

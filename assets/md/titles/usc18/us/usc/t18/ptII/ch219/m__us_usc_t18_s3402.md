@@ -17,11 +17,11 @@
 
     In all cases of conviction by a United States magistrate judge an appeal of right shall lie from the judgment of the magistrate judge to a judge of the district court of the district in which the offense was committed.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 831][/us/stat/62/831]; [Pub. L. 90–578, title III, § 302(b)][/us/pl/90/578/s302/b], Oct. 17, 1968, [82 Stat. 1116][/us/stat/82/1116]; [Pub. L. 100–702, title IV, § 404(b)(2)][/us/pl/100/702/s404/b/2], Nov. 19, 1988, [102 Stat. 4651][/us/stat/102/4651]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 831][/us/stat/62/831]; [Pub. L. 90–578, title III][/us/pl/90/578/tIII], § 302(b), Oct. 17, 1968, [82 Stat. 1116][/us/stat/82/1116]; [Pub. L. 100–702, title IV][/us/pl/100/702/tIV], § 404(b)(2), Nov. 19, 1988, [102 Stat. 4651][/us/stat/102/4651]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18 U.S.C., 1940 ed., § 576a ([Oct. 9, 1940, ch. 685, § 2][/us/act/1940-10-09/ch685/s2], [54 Stat. 1059][/us/stat/54/1059]).
+    Based on title 18 U.S.C., 1940 ed., § 576a ([Oct. 9, 1940, ch. 685][/us/act/1940-10-09/ch685], § 2, [54 Stat. 1059][/us/stat/54/1059]).
 
  __Amendments__ 
 
@@ -51,13 +51,13 @@
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F831
-[/us/pl/90/578/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs302%2Fb
+[/us/pl/90/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtIII
 [/us/stat/82/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1116
-[/us/pl/100/702/s404/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs404%2Fb%2F2
+[/us/pl/100/702/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIV
 [/us/stat/102/4651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4651
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/act/1940-10-09/ch685/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-09%2Fch685%2Fs2
+[/us/act/1940-10-09/ch685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-09%2Fch685
 [/us/stat/54/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1059
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/pl/90/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578

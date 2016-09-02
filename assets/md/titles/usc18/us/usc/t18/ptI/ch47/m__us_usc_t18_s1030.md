@@ -245,15 +245,15 @@
 
         (2) Any property, real or personal, which constitutes or is derived from proceeds traceable to any violation of this section, or a conspiracy to violate this section  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be followed by a period. </sup></sup> 
 
-(Added [Pub. L. 98–473, title II, § 2102(a)][/us/pl/98/473/s2102/a], Oct. 12, 1984, [98 Stat. 2190][/us/stat/98/2190]; amended [Pub. L. 99–474, § 2][/us/pl/99/474/s2], Oct. 16, 1986, [100 Stat. 1213][/us/stat/100/1213]; [Pub. L. 100–690, title VII, § 7065][/us/pl/100/690/s7065], Nov. 18, 1988, [102 Stat. 4404][/us/stat/102/4404]; [Pub. L. 101–73, title IX, § 962(a)(5)][/us/pl/101/73/s962/a/5], Aug. 9, 1989, [103 Stat. 502][/us/stat/103/502]; [Pub. L. 101–647, title XII, § 1205(e)][/us/pl/101/647/s1205/e], title XXV, § 2597(j), title XXXV, § 3533, Nov. 29, 1990, [104 Stat. 4831][/us/stat/104/4831], 4910, 4925; [Pub. L. 103–322, title XXIX, § 290001(b)][/us/pl/103/322/s290001/b]–(f), Sept. 13, 1994, [108 Stat. 2097–2099][/us/stat/108/2097-2099]; [Pub. L. 104–294, title II, § 201][/us/pl/104/294/s201], title VI, § 604(b)(36), Oct. 11, 1996, [110 Stat. 3491][/us/stat/110/3491], 3508; [Pub. L. 107–56, title V, § 506(a)][/us/pl/107/56/s506/a], title VIII, § 814(a)–(e), Oct. 26, 2001, [115 Stat. 366][/us/stat/115/366], 382–384; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273], §§ 4002(b)(1), (12), 4005(a)(3), (d)(3), Nov. 2, 2002, [116 Stat. 1807][/us/stat/116/1807], 1808, 1812, 1813; [Pub. L. 107–296, title II, § 225(g)][/us/pl/107/296/s225/g], Nov. 25, 2002, [116 Stat. 2158][/us/stat/116/2158]; [Pub. L. 110–326, title II][/us/pl/110/326], §§ 203, 204(a), 205–208, Sept. 26, 2008, [122 Stat. 3561][/us/stat/122/3561], 3563.)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 2102(a), Oct. 12, 1984, [98 Stat. 2190][/us/stat/98/2190]; amended [Pub. L. 99–474][/us/pl/99/474], § 2, Oct. 16, 1986, [100 Stat. 1213][/us/stat/100/1213]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7065, Nov. 18, 1988, [102 Stat. 4404][/us/stat/102/4404]; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 962(a)(5), Aug. 9, 1989, [103 Stat. 502][/us/stat/103/502]; [Pub. L. 101–647, title XII][/us/pl/101/647/tXII], § 1205(e), title XXV, § 2597(j), title XXXV, § 3533, Nov. 29, 1990, [104 Stat. 4831][/us/stat/104/4831], 4910, 4925; [Pub. L. 103–322, title XXIX][/us/pl/103/322/tXXIX], § 290001(b)–(f), Sept. 13, 1994, [108 Stat. 2097–2099][/us/stat/108/2097-2099]; [Pub. L. 104–294, title II][/us/pl/104/294/tII], § 201, title VI, § 604(b)(36), Oct. 11, 1996, [110 Stat. 3491][/us/stat/110/3491], 3508; [Pub. L. 107–56, title V][/us/pl/107/56/tV], § 506(a), title VIII, § 814(a)–(e), Oct. 26, 2001, [115 Stat. 366][/us/stat/115/366], 382–384; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], §§ 4002(b)(1), (12), 4005(a)(3), (d)(3), Nov. 2, 2002, [116 Stat. 1807][/us/stat/116/1807], 1808, 1812, 1813; [Pub. L. 107–296, title II][/us/pl/107/296/tII], § 225(g), Nov. 25, 2002, [116 Stat. 2158][/us/stat/116/2158]; [Pub. L. 110–326, title II][/us/pl/110/326/tII], §§ 203, 204(a), 205–208, Sept. 26, 2008, [122 Stat. 3561][/us/stat/122/3561], 3563.)
 
  __References in Text__ 
 
     Section 11 of the Atomic Energy Act of 1954, referred to in subsec. (a)(1), is classified to [section 2014 of Title 42][/us/usc/t42/s2014], The Public Health and Welfare.
 
-    [Section 1602(n) of title 15][/us/usc/t15/s1602/n], referred to in subsec. (a)(2)(A), was redesignated section 1602(o) of title 15 by [Pub. L. 111–203, title X, § 1100A(1)(A)][/us/pl/111/203/s1100A/1/A], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
+    [Section 1602(n) of title 15][/us/usc/t15/s1602/n], referred to in subsec. (a)(2)(A), was redesignated section 1602(o) of title 15 by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(1)(A), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
 
-    The Fair Credit Reporting Act, referred to in subsec. (a)(2)(A), is title VI of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1127][/us/stat/84/1127], as amended, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
+    The Fair Credit Reporting Act, referred to in subsec. (a)(2)(A), is title VI of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 91–508, title VI][/us/pl/91/508/tVI], § 601, Oct. 26, 1970, [84 Stat. 1127][/us/stat/84/1127], as amended, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
 
     The Farm Credit Act of 1971, referred to in subsec. (e)(4)(E), is [Pub. L. 92–181][/us/pl/92/181], Dec. 10, 1971, [85 Stat. 583][/us/stat/85/583], as amended, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 12][/us/usc/t12/s2001] and Tables.
 
@@ -261,15 +261,15 @@
 
     Section 1(b) of the International Banking Act of 1978, referred to in subsec. (e)(4)(H), is classified to [section 3101 of Title 12][/us/usc/t12/s3101], Banks and Banking.
 
-    Section 25 of the Federal Reserve Act, referred to in subsec. (e)(4)(I), is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by [Pub. L. 102–242, title I, § 142(e)(2)][/us/pl/102/242/s142/e/2], Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281].
+    Section 25 of the Federal Reserve Act, referred to in subsec. (e)(4)(I), is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 142(e)(2), Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281].
 
     The date of the enactment of this subsection, referred to in subsec. (h), is the date of enactment of [Pub. L. 103–322][/us/pl/103/322], which was approved Sept. 13, 1994.
 
  __Amendments__ 
 
-    2008—Subsec. (a)(2)(C). [Pub. L. 110–326, § 203][/us/pl/110/326/s203], struck out “if the conduct involved an interstate or foreign communication” after “computer”.
+    2008—Subsec. (a)(2)(C). [Pub. L. 110–326][/us/pl/110/326], § 203, struck out “if the conduct involved an interstate or foreign communication” after “computer”.
 
-    Subsec. (a)(5). [Pub. L. 110–326, § 204(a)(1)][/us/pl/110/326/s204/a/1], redesignated cls. (i) to (iii) of subpar. (A) as subpars. (A) to (C), respectively, substituted “damage and loss.” for “damage; and” in subpar. (C), and struck out former subpar. (B) which read as follows:
+    Subsec. (a)(5). [Pub. L. 110–326][/us/pl/110/326], § 204(a)(1), redesignated cls. (i) to (iii) of subpar. (A) as subpars. (A) to (C), respectively, substituted “damage and loss.” for “damage; and” in subpar. (C), and struck out former subpar. (B) which read as follows:
 
     “(B) by conduct described in clause (i), (ii), or (iii) of subparagraph (A), caused (or, in the case of an attempted offense, would, if completed, have caused)—
 
@@ -283,65 +283,65 @@
 
     “(v) damage affecting a computer system used by or for a government entity in furtherance of the administration of justice, national defense, or national security;”.
 
-    Subsec. (a)(7). [Pub. L. 110–326, § 205][/us/pl/110/326/s205], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “with intent to extort from any person any money or other thing of value, transmits in interstate or foreign commerce any communication containing any threat to cause damage to a protected computer;”.
+    Subsec. (a)(7). [Pub. L. 110–326][/us/pl/110/326], § 205, amended par. (7) generally. Prior to amendment, par. (7) read as follows: “with intent to extort from any person any money or other thing of value, transmits in interstate or foreign commerce any communication containing any threat to cause damage to a protected computer;”.
 
-    Subsec. (b). [Pub. L. 110–326, § 206][/us/pl/110/326/s206], inserted “conspires to commit or” after “Whoever”.
+    Subsec. (b). [Pub. L. 110–326][/us/pl/110/326], § 206, inserted “conspires to commit or” after “Whoever”.
 
-    Subsec. (c)(2)(A). [Pub. L. 110–326, § 204(a)(2)(A)][/us/pl/110/326/s204/a/2/A], struck out “(a)(5)(A)(iii),” after “(a)(3),”.
+    Subsec. (c)(2)(A). [Pub. L. 110–326][/us/pl/110/326], § 204(a)(2)(A), struck out “(a)(5)(A)(iii),” after “(a)(3),”.
 
-    Subsec. (c)(3)(B). [Pub. L. 110–326, § 204(a)(2)(B)][/us/pl/110/326/s204/a/2/B], struck out “(a)(5)(A)(iii),” after “(a)(4),”.
+    Subsec. (c)(3)(B). [Pub. L. 110–326][/us/pl/110/326], § 204(a)(2)(B), struck out “(a)(5)(A)(iii),” after “(a)(4),”.
 
-    Subsec. (c)(4). [Pub. L. 110–326, § 204(a)(2)(C)][/us/pl/110/326/s204/a/2/C], amended par. (4) generally. Prior to amendment, par. (4) related to fines and imprisonment for intentionally or recklessly causing damage to a protected computer without authorization.
+    Subsec. (c)(4). [Pub. L. 110–326][/us/pl/110/326], § 204(a)(2)(C), amended par. (4) generally. Prior to amendment, par. (4) related to fines and imprisonment for intentionally or recklessly causing damage to a protected computer without authorization.
 
-    Subsec. (c)(5). [Pub. L. 110–326, § 204(a)(2)(D)][/us/pl/110/326/s204/a/2/D], struck out par. (5) which related to fine or imprisonment for knowingly or recklessly causing or attempting to cause serious bodily injury or death from certain conduct damaging a protected computer.
+    Subsec. (c)(5). [Pub. L. 110–326][/us/pl/110/326], § 204(a)(2)(D), struck out par. (5) which related to fine or imprisonment for knowingly or recklessly causing or attempting to cause serious bodily injury or death from certain conduct damaging a protected computer.
 
-    Subsec. (e)(2)(B). [Pub. L. 110–326, § 207][/us/pl/110/326/s207], inserted “or affecting” after “which is used in”.
+    Subsec. (e)(2)(B). [Pub. L. 110–326][/us/pl/110/326], § 207, inserted “or affecting” after “which is used in”.
 
-    Subsec. (g). [Pub. L. 110–326, § 204(a)(3)(B)][/us/pl/110/326/s204/a/3/B], in the third sentence, substituted “subsection (c)(4)(A)(i)(I)” for “subsection (a)(5)(B)(i)”.
+    Subsec. (g). [Pub. L. 110–326][/us/pl/110/326], § 204(a)(3)(B), in the third sentence, substituted “subsection (c)(4)(A)(i)(I)” for “subsection (a)(5)(B)(i)”.
 
-    [Pub. L. 110–326, § 204(a)(3)(A)][/us/pl/110/326/s204/a/3/A], which directed substitution of “in subclauses (I), (II), (III), (IV), or (V) of subsection (c)(4)(A)(i)” for “in clauses (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” in the second sentence, was executed by making the substitution for “in clause (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” to reflect the probable intent of Congress.
+    [Pub. L. 110–326][/us/pl/110/326], § 204(a)(3)(A), which directed substitution of “in subclauses (I), (II), (III), (IV), or (V) of subsection (c)(4)(A)(i)” for “in clauses (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” in the second sentence, was executed by making the substitution for “in clause (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” to reflect the probable intent of Congress.
 
-    Subsecs. (i), (j). [Pub. L. 110–326, § 208][/us/pl/110/326/s208], added subsecs. (i) and (j).
+    Subsecs. (i), (j). [Pub. L. 110–326][/us/pl/110/326], § 208, added subsecs. (i) and (j).
 
-    2002—Subsec. (a)(5)(B). [Pub. L. 107–273, § 4005(a)(3)][/us/pl/107/273/s4005/a/3], realigned margins.
+    2002—Subsec. (a)(5)(B). [Pub. L. 107–273][/us/pl/107/273], § 4005(a)(3), realigned margins.
 
-    Subsec. (c)(2)(B). [Pub. L. 107–273, § 4002(b)(1)][/us/pl/107/273/s4002/b/1], realigned margins.
+    Subsec. (c)(2)(B). [Pub. L. 107–273][/us/pl/107/273], § 4002(b)(1), realigned margins.
 
-    Subsec. (c)(2)(B)(iii). [Pub. L. 107–273, § 4002(b)(12)(A)][/us/pl/107/273/s4002/b/12/A], inserted “and” at end.
+    Subsec. (c)(2)(B)(iii). [Pub. L. 107–273][/us/pl/107/273], § 4002(b)(12)(A), inserted “and” at end.
 
-    Subsec. (c)(3)(B). [Pub. L. 107–273, § 4005(d)(3)][/us/pl/107/273/s4005/d/3], inserted comma after “(a)(4)”.
+    Subsec. (c)(3)(B). [Pub. L. 107–273][/us/pl/107/273], § 4005(d)(3), inserted comma after “(a)(4)”.
 
-    Subsec. (c)(4)(A), (C). [Pub. L. 107–296, § 225(g)(2)][/us/pl/107/296/s225/g/2], inserted “except as provided in paragraph (5),” before “a fine under this title”.
+    Subsec. (c)(4)(A), (C). [Pub. L. 107–296][/us/pl/107/296], § 225(g)(2), inserted “except as provided in paragraph (5),” before “a fine under this title”.
 
-    Subsec. (c)(5). [Pub. L. 107–296, § 225(g)(1)][/us/pl/107/296/s225/g/1], (3), (4), added par. (5).
+    Subsec. (c)(5). [Pub. L. 107–296][/us/pl/107/296], § 225(g)(1), (3), (4), added par. (5).
 
-    Subsec. (e)(4)(I). [Pub. L. 107–273, § 4002(b)(12)(B)][/us/pl/107/273/s4002/b/12/B], substituted semicolon for period at end.
+    Subsec. (e)(4)(I). [Pub. L. 107–273][/us/pl/107/273], § 4002(b)(12)(B), substituted semicolon for period at end.
 
-    2001—Subsec. (a)(5)(A). [Pub. L. 107–56, § 814(a)(1)][/us/pl/107/56/s814/a/1]–(3), designated existing provisions as cl. (i), redesignated subpars. (B) and (C) as cls. (ii) and (iii), respectively, of subpar. (A), and inserted “and” at end of cl. (iii).
+    2001—Subsec. (a)(5)(A). [Pub. L. 107–56][/us/pl/107/56], § 814(a)(1)–(3), designated existing provisions as cl. (i), redesignated subpars. (B) and (C) as cls. (ii) and (iii), respectively, of subpar. (A), and inserted “and” at end of cl. (iii).
 
-    Subsec. (a)(5)(B). [Pub. L. 107–56, § 814(a)(4)][/us/pl/107/56/s814/a/4], added subpar. (B). Former subpar. (B) redesignated cl. (ii) of subpar. (A).
+    Subsec. (a)(5)(B). [Pub. L. 107–56][/us/pl/107/56], § 814(a)(4), added subpar. (B). Former subpar. (B) redesignated cl. (ii) of subpar. (A).
 
-    Subsec. (a)(5)(C). [Pub. L. 107–56, § 814(a)(2)][/us/pl/107/56/s814/a/2], redesignated subpar. (C) as cl. (iii) of subpar. (A).
+    Subsec. (a)(5)(C). [Pub. L. 107–56][/us/pl/107/56], § 814(a)(2), redesignated subpar. (C) as cl. (iii) of subpar. (A).
 
-    Subsec. (a)(7). [Pub. L. 107–56, § 814(b)][/us/pl/107/56/s814/b], struck out “, firm, association, educational institution, financial institution, government entity, or other legal entity,” before “any money or other thing of value”.
+    Subsec. (a)(7). [Pub. L. 107–56][/us/pl/107/56], § 814(b), struck out “, firm, association, educational institution, financial institution, government entity, or other legal entity,” before “any money or other thing of value”.
 
-    Subsec. (c)(2)(A). [Pub. L. 107–56, § 814(c)(1)(A)][/us/pl/107/56/s814/c/1/A], inserted “except as provided in subparagraph (B),” before “a fine”, substituted “(a)(5)(A)(iii)” for “(a)(5)(C)”, and struck out “and” at end.
+    Subsec. (c)(2)(A). [Pub. L. 107–56][/us/pl/107/56], § 814(c)(1)(A), inserted “except as provided in subparagraph (B),” before “a fine”, substituted “(a)(5)(A)(iii)” for “(a)(5)(C)”, and struck out “and” at end.
 
-    Subsec. (c)(2)(B). [Pub. L. 107–56, § 814(c)(1)(B)][/us/pl/107/56/s814/c/1/B], inserted “or an attempt to commit an offense punishable under this subparagraph,” after “subsection (a)(2),” in introductory provisions.
+    Subsec. (c)(2)(B). [Pub. L. 107–56][/us/pl/107/56], § 814(c)(1)(B), inserted “or an attempt to commit an offense punishable under this subparagraph,” after “subsection (a)(2),” in introductory provisions.
 
-    Subsec. (c)(2)(C). [Pub. L. 107–56, § 814(c)(1)(C)][/us/pl/107/56/s814/c/1/C], struck out “and” at end.
+    Subsec. (c)(2)(C). [Pub. L. 107–56][/us/pl/107/56], § 814(c)(1)(C), struck out “and” at end.
 
-    Subsec. (c)(3). [Pub. L. 107–56, § 814(c)(2)][/us/pl/107/56/s814/c/2], struck out “, (a)(5)(A), (a)(5)(B),” after “subsection (a)(4)” in subpars. (A) and (B) and substituted “(a)(5)(A)(iii)” for “(a)(5)(C)” in subpar. (B).
+    Subsec. (c)(3). [Pub. L. 107–56][/us/pl/107/56], § 814(c)(2), struck out “, (a)(5)(A), (a)(5)(B),” after “subsection (a)(4)” in subpars. (A) and (B) and substituted “(a)(5)(A)(iii)” for “(a)(5)(C)” in subpar. (B).
 
-    Subsec. (c)(4). [Pub. L. 107–56, § 814(c)(3)][/us/pl/107/56/s814/c/3], added par. (4).
+    Subsec. (c)(4). [Pub. L. 107–56][/us/pl/107/56], § 814(c)(3), added par. (4).
 
-    Subsec. (d). [Pub. L. 107–56, § 506(a)][/us/pl/107/56/s506/a], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The United States Secret Service shall, in addition to any other agency having such authority, have the authority to investigate offenses under subsections (a)(2)(A), (a)(2)(B), (a)(3), (a)(4), (a)(5), and (a)(6) of this section. Such authority of the United States Secret Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General.”
+    Subsec. (d). [Pub. L. 107–56][/us/pl/107/56], § 506(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The United States Secret Service shall, in addition to any other agency having such authority, have the authority to investigate offenses under subsections (a)(2)(A), (a)(2)(B), (a)(3), (a)(4), (a)(5), and (a)(6) of this section. Such authority of the United States Secret Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General.”
 
-    Subsec. (e)(2)(B). [Pub. L. 107–56, § 814(d)(1)][/us/pl/107/56/s814/d/1], inserted “, including a computer located outside the United States that is used in a manner that affects interstate or foreign commerce or communication of the United States” before semicolon.
+    Subsec. (e)(2)(B). [Pub. L. 107–56][/us/pl/107/56], § 814(d)(1), inserted “, including a computer located outside the United States that is used in a manner that affects interstate or foreign commerce or communication of the United States” before semicolon.
 
-    Subsec. (e)(7). [Pub. L. 107–56, § 814(d)(2)][/us/pl/107/56/s814/d/2], struck out “and” at end.
+    Subsec. (e)(7). [Pub. L. 107–56][/us/pl/107/56], § 814(d)(2), struck out “and” at end.
 
-    Subsec. (e)(8). [Pub. L. 107–56, § 814(d)(3)][/us/pl/107/56/s814/d/3], added par. (8) and struck out former par. (8) which read as follows: “the term ‘damage’ means any impairment to the integrity or availability of data, a program, a system, or information, that—
+    Subsec. (e)(8). [Pub. L. 107–56][/us/pl/107/56], § 814(d)(3), added par. (8) and struck out former par. (8) which read as follows: “the term ‘damage’ means any impairment to the integrity or availability of data, a program, a system, or information, that—
 
     “(A) causes loss aggregating at least $5,000 in value during any 1-year period to one or more individuals;
 
@@ -351,115 +351,115 @@
 
     “(D) threatens public health or safety; and”.
 
-    Subsec. (e)(10) to (12). [Pub. L. 107–56, § 814(d)(4)][/us/pl/107/56/s814/d/4], (5), added pars. (10) to (12).
+    Subsec. (e)(10) to (12). [Pub. L. 107–56][/us/pl/107/56], § 814(d)(4), (5), added pars. (10) to (12).
 
-    Subsec. (g). [Pub. L. 107–56, § 814(e)][/us/pl/107/56/s814/e], substituted “A civil action for a violation of this section may be brought only if the conduct involves 1 of the factors set forth in clause (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B). Damages for a violation involving only conduct described in subsection (a)(5)(B)(i) are limited to economic damages.” for “Damages for violations involving damage as defined in subsection (e)(8)(A) are limited to economic damages.” and inserted at end “No action may be brought under this subsection for the negligent design or manufacture of computer hardware, computer software, or firmware.”
+    Subsec. (g). [Pub. L. 107–56][/us/pl/107/56], § 814(e), substituted “A civil action for a violation of this section may be brought only if the conduct involves 1 of the factors set forth in clause (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B). Damages for a violation involving only conduct described in subsection (a)(5)(B)(i) are limited to economic damages.” for “Damages for violations involving damage as defined in subsection (e)(8)(A) are limited to economic damages.” and inserted at end “No action may be brought under this subsection for the negligent design or manufacture of computer hardware, computer software, or firmware.”
 
-    1996—Subsec. (a)(1). [Pub. L. 104–294, § 201(1)(A)][/us/pl/104/294/s201/1/A], substituted “having knowingly accessed” for “knowingly accesses”, “exceeding authorized access” for “exceeds authorized access”, “such conduct having obtained information” for “such conduct obtains information”, and “could be used to the injury of the United States” for “is to be used to the injury of the United States”, struck out “the intent or” before “reason to believe”, and inserted before semicolon at end “willfully communicates, delivers, transmits, or causes to be communicated, delivered, or transmitted, or attempts to communicate, deliver, transmit or cause to be communicated, delivered, or transmitted the same to any person not entitled to receive it, or willfully retains the same and fails to deliver it to the officer or employee of the United States entitled to receive it”.
+    1996—Subsec. (a)(1). [Pub. L. 104–294][/us/pl/104/294], § 201(1)(A), substituted “having knowingly accessed” for “knowingly accesses”, “exceeding authorized access” for “exceeds authorized access”, “such conduct having obtained information” for “such conduct obtains information”, and “could be used to the injury of the United States” for “is to be used to the injury of the United States”, struck out “the intent or” before “reason to believe”, and inserted before semicolon at end “willfully communicates, delivers, transmits, or causes to be communicated, delivered, or transmitted, or attempts to communicate, deliver, transmit or cause to be communicated, delivered, or transmitted the same to any person not entitled to receive it, or willfully retains the same and fails to deliver it to the officer or employee of the United States entitled to receive it”.
 
-    Subsec. (a)(2). [Pub. L. 104–294, § 201(1)(B)][/us/pl/104/294/s201/1/B], inserted dash after “thereby obtains”, redesignated remainder of par. (2) as subpar. (A), and added subpars. (B) and (C).
+    Subsec. (a)(2). [Pub. L. 104–294][/us/pl/104/294], § 201(1)(B), inserted dash after “thereby obtains”, redesignated remainder of par. (2) as subpar. (A), and added subpars. (B) and (C).
 
-    Subsec. (a)(3). [Pub. L. 104–294, § 201(1)(C)][/us/pl/104/294/s201/1/C], inserted “nonpublic” before “computer of a department or agency”, struck out “adversely” after “and such conduct”, and substituted “that use by or for the Government of the United States” for “the use of the Government’s operation of such computer”.
+    Subsec. (a)(3). [Pub. L. 104–294][/us/pl/104/294], § 201(1)(C), inserted “nonpublic” before “computer of a department or agency”, struck out “adversely” after “and such conduct”, and substituted “that use by or for the Government of the United States” for “the use of the Government’s operation of such computer”.
 
-    Subsec. (a)(4). [Pub. L. 104–294, § 201(1)(D)][/us/pl/104/294/s201/1/D], substituted “protected computer” for “Federal interest computer” and inserted “and the value of such use is not more than $5,000 in any 1-year period” before semicolon at end.
+    Subsec. (a)(4). [Pub. L. 104–294][/us/pl/104/294], § 201(1)(D), substituted “protected computer” for “Federal interest computer” and inserted “and the value of such use is not more than $5,000 in any 1-year period” before semicolon at end.
 
-    Subsec. (a)(5). [Pub. L. 104–294, § 201(1)(E)][/us/pl/104/294/s201/1/E], inserted par. (5) and struck out former par. (5) which related to fraud in connection with computers in causing transmission of program, information, code, or command to a computer or computer system in interstate or foreign commerce which damages such system, program, information, or code, or causes a withholding or denial of use of hardware or software, or transmits viruses which causes damage in excess of $1,000 or more during any one-year period, or modifies or impairs medical examination, diagnosis, treatment or care of individuals.
+    Subsec. (a)(5). [Pub. L. 104–294][/us/pl/104/294], § 201(1)(E), inserted par. (5) and struck out former par. (5) which related to fraud in connection with computers in causing transmission of program, information, code, or command to a computer or computer system in interstate or foreign commerce which damages such system, program, information, or code, or causes a withholding or denial of use of hardware or software, or transmits viruses which causes damage in excess of $1,000 or more during any one-year period, or modifies or impairs medical examination, diagnosis, treatment or care of individuals.
 
-    Subsec. (a)(5)(B)(ii)(II)(bb). [Pub. L. 104–294, § 604(b)(36)(A)][/us/pl/104/294/s604/b/36/A], which directed insertion of “or” at end of subsec., could not be executed because no subsec. (a)(5)(B)(ii)(II)(bb) existed subsequent to amendment by [Pub. L. 104–294, § 201(1)(E)][/us/pl/104/294/s201/1/E]. See above.
+    Subsec. (a)(5)(B)(ii)(II)(bb). [Pub. L. 104–294][/us/pl/104/294], § 604(b)(36)(A), which directed insertion of “or” at end of subsec., could not be executed because no subsec. (a)(5)(B)(ii)(II)(bb) existed subsequent to amendment by [Pub. L. 104–294][/us/pl/104/294], § 201(1)(E). See above.
 
-    Subsec. (a)(7). [Pub. L. 104–294, § 201(1)(F)][/us/pl/104/294/s201/1/F], added par. (7).
+    Subsec. (a)(7). [Pub. L. 104–294][/us/pl/104/294], § 201(1)(F), added par. (7).
 
-    Subsec. (c)(1). [Pub. L. 104–294, § 201(2)(A)][/us/pl/104/294/s201/2/A], substituted “under this section” for “under such subsection” in subpars. (A) and (B).
+    Subsec. (c)(1). [Pub. L. 104–294][/us/pl/104/294], § 201(2)(A), substituted “under this section” for “under such subsection” in subpars. (A) and (B).
 
-    Subsec. (c)(1)(B). [Pub. L. 104–294, § 604(b)(36)(B)][/us/pl/104/294/s604/b/36/B], struck out “and” after semicolon at end.
+    Subsec. (c)(1)(B). [Pub. L. 104–294][/us/pl/104/294], § 604(b)(36)(B), struck out “and” after semicolon at end.
 
-    Subsec. (c)(2)(A). [Pub. L. 104–294, § 201(2)(B)(i)][/us/pl/104/294/s201/2/B/i], inserted “, (a)(5)(C),” after “(a)(3)” and substituted “under this section” for “under such subsection”.
+    Subsec. (c)(2)(A). [Pub. L. 104–294][/us/pl/104/294], § 201(2)(B)(i), inserted “, (a)(5)(C),” after “(a)(3)” and substituted “under this section” for “under such subsection”.
 
-    Subsec. (c)(2)(B). [Pub. L. 104–294, § 201(2)(B)(iii)][/us/pl/104/294/s201/2/B/iii], added subpar. (B). Former subpar. (B) redesignated (C).
+    Subsec. (c)(2)(B). [Pub. L. 104–294][/us/pl/104/294], § 201(2)(B)(iii), added subpar. (B). Former subpar. (B) redesignated (C).
 
-    Subsec. (c)(2)(C). [Pub. L. 104–294, § 201(2)(B)(iv)][/us/pl/104/294/s201/2/B/iv], substituted “under this section” for “under such subsection” and inserted “and” at end.
+    Subsec. (c)(2)(C). [Pub. L. 104–294][/us/pl/104/294], § 201(2)(B)(iv), substituted “under this section” for “under such subsection” and inserted “and” at end.
 
-    [Pub. L. 104–294, § 201(2)(B)(ii)][/us/pl/104/294/s201/2/B/ii], redesignated subpar. (B) as (C).
+    [Pub. L. 104–294][/us/pl/104/294], § 201(2)(B)(ii), redesignated subpar. (B) as (C).
 
-    Subsec. (c)(3)(A). [Pub. L. 104–294, § 201(2)(C)(i)][/us/pl/104/294/s201/2/C/i], substituted “(a)(4), (a)(5)(A), (a)(5)(B), or (a)(7)” for “(a)(4) or (a)(5)(A)” and “under this section” for “under such subsection”.
+    Subsec. (c)(3)(A). [Pub. L. 104–294][/us/pl/104/294], § 201(2)(C)(i), substituted “(a)(4), (a)(5)(A), (a)(5)(B), or (a)(7)” for “(a)(4) or (a)(5)(A)” and “under this section” for “under such subsection”.
 
-    Subsec. (c)(3)(B). [Pub. L. 104–294, § 201(2)(C)(ii)][/us/pl/104/294/s201/2/C/ii], substituted “(a)(4), (a)(5)(A), (a)(5)(B), (a)(5)(C), or (a)(7)” for “(a)(4) or (a)(5)” and “under this section” for “under such subsection”.
+    Subsec. (c)(3)(B). [Pub. L. 104–294][/us/pl/104/294], § 201(2)(C)(ii), substituted “(a)(4), (a)(5)(A), (a)(5)(B), (a)(5)(C), or (a)(7)” for “(a)(4) or (a)(5)” and “under this section” for “under such subsection”.
 
-    Subsec. (c)(4). [Pub. L. 104–294, § 201(2)(D)][/us/pl/104/294/s201/2/D], struck out par. (4) which read as follows: “a fine under this title or imprisonment for not more than 1 year, or both, in the case of an offense under subsection (a)(5)(B).”
+    Subsec. (c)(4). [Pub. L. 104–294][/us/pl/104/294], § 201(2)(D), struck out par. (4) which read as follows: “a fine under this title or imprisonment for not more than 1 year, or both, in the case of an offense under subsection (a)(5)(B).”
 
-    Subsec. (d). [Pub. L. 104–294, § 201(3)][/us/pl/104/294/s201/3], inserted “subsections (a)(2)(A), (a)(2)(B), (a)(3), (a)(4), (a)(5), and (a)(6) of” before “this section” in first sentence.
+    Subsec. (d). [Pub. L. 104–294][/us/pl/104/294], § 201(3), inserted “subsections (a)(2)(A), (a)(2)(B), (a)(3), (a)(4), (a)(5), and (a)(6) of” before “this section” in first sentence.
 
-    Subsec. (e)(2). [Pub. L. 104–294, § 201(4)(A)(i)][/us/pl/104/294/s201/4/A/i], substituted “protected” for “Federal interest” in introductory provisions.
+    Subsec. (e)(2). [Pub. L. 104–294][/us/pl/104/294], § 201(4)(A)(i), substituted “protected” for “Federal interest” in introductory provisions.
 
-    Subsec. (e)(2)(A). [Pub. L. 104–294, § 201(4)(A)(ii)][/us/pl/104/294/s201/4/A/ii], substituted “that use by or for the financial institution or the Government” for “the use of the financial institution’s operation or the Government’s operation of such computer”.
+    Subsec. (e)(2)(A). [Pub. L. 104–294][/us/pl/104/294], § 201(4)(A)(ii), substituted “that use by or for the financial institution or the Government” for “the use of the financial institution’s operation or the Government’s operation of such computer”.
 
-    Subsec. (e)(2)(B). [Pub. L. 104–294, § 201(4)(A)(iii)][/us/pl/104/294/s201/4/A/iii], added subpar. (B) and struck out former subpar. (B) which read as follows: “which is one of two or more computers used in committing the offense, not all of which are located in the same State;”.
+    Subsec. (e)(2)(B). [Pub. L. 104–294][/us/pl/104/294], § 201(4)(A)(iii), added subpar. (B) and struck out former subpar. (B) which read as follows: “which is one of two or more computers used in committing the offense, not all of which are located in the same State;”.
 
-    Subsec. (e)(8), (9). [Pub. L. 104–294, § 201(4)(B)][/us/pl/104/294/s201/4/B]–(D), added pars. (8) and (9).
+    Subsec. (e)(8), (9). [Pub. L. 104–294][/us/pl/104/294], § 201(4)(B)–(D), added pars. (8) and (9).
 
-    Subsec. (g). [Pub. L. 104–294, § 604(b)(36)(C)][/us/pl/104/294/s604/b/36/C], substituted “violation of this section” for “violation of the section”.
+    Subsec. (g). [Pub. L. 104–294][/us/pl/104/294], § 604(b)(36)(C), substituted “violation of this section” for “violation of the section”.
 
-    [Pub. L. 104–294, § 201(5)][/us/pl/104/294/s201/5], struck out “, other than a violation of subsection (a)(5)(B),” before “may maintain a civil action” and substituted “involving damage as defined in subsection (e)(8)(A)” for “of any subsection other than subsection (a)(5)(A)(ii)(II)(bb) or (a)(5)(B)(ii)(II)(bb)”.
+    [Pub. L. 104–294][/us/pl/104/294], § 201(5), struck out “, other than a violation of subsection (a)(5)(B),” before “may maintain a civil action” and substituted “involving damage as defined in subsection (e)(8)(A)” for “of any subsection other than subsection (a)(5)(A)(ii)(II)(bb) or (a)(5)(B)(ii)(II)(bb)”.
 
-    Subsec. (h). [Pub. L. 104–294, § 604(b)(36)(D)][/us/pl/104/294/s604/b/36/D], substituted “subsection (a)(5)” for “[section 1030(a)(5) of title 18][/us/usc/t18/s1030/a/5], United States Code” before period at end.
+    Subsec. (h). [Pub. L. 104–294][/us/pl/104/294], § 604(b)(36)(D), substituted “subsection (a)(5)” for “[section 1030(a)(5) of title 18][/us/usc/t18/s1030/a/5], United States Code” before period at end.
 
-    1994—Subsec. (a)(3). [Pub. L. 103–322, § 290001(f)][/us/pl/103/322/s290001/f], inserted “adversely” before “affects the use of the Government’s”.
+    1994—Subsec. (a)(3). [Pub. L. 103–322][/us/pl/103/322], § 290001(f), inserted “adversely” before “affects the use of the Government’s”.
 
-    Subsec. (a)(5). [Pub. L. 103–322, § 290001(b)][/us/pl/103/322/s290001/b], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “intentionally accesses a Federal interest computer without authorization, and by means of one or more instances of such conduct alters, damages, or destroys information in any such Federal interest computer, or prevents authorized use of any such computer or information, and thereby—
+    Subsec. (a)(5). [Pub. L. 103–322][/us/pl/103/322], § 290001(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “intentionally accesses a Federal interest computer without authorization, and by means of one or more instances of such conduct alters, damages, or destroys information in any such Federal interest computer, or prevents authorized use of any such computer or information, and thereby—
 
     “(A) causes loss to one or more others of a value aggregating $1,000 or more during any one year period; or
 
     “(B) modifies or impairs, or potentially modifies or impairs, the medical examination, medical diagnosis, medical treatment, or medical care of one or more individuals; or”.
 
-    Subsec. (c)(3)(A). [Pub. L. 103–322, § 290001(c)(2)][/us/pl/103/322/s290001/c/2], inserted “(A)” after “(a)(5)”.
+    Subsec. (c)(3)(A). [Pub. L. 103–322][/us/pl/103/322], § 290001(c)(2), inserted “(A)” after “(a)(5)”.
 
-    Subsec. (c)(4). [Pub. L. 103–322, § 290001(c)(1)][/us/pl/103/322/s290001/c/1], (3), (4), added par. (4).
+    Subsec. (c)(4). [Pub. L. 103–322][/us/pl/103/322], § 290001(c)(1), (3), (4), added par. (4).
 
-    Subsec. (g). [Pub. L. 103–322, § 290001(d)][/us/pl/103/322/s290001/d], added subsec. (g).
+    Subsec. (g). [Pub. L. 103–322][/us/pl/103/322], § 290001(d), added subsec. (g).
 
-    Subsec. (h). [Pub. L. 103–322, § 290001(e)][/us/pl/103/322/s290001/e], added subsec. (h).
+    Subsec. (h). [Pub. L. 103–322][/us/pl/103/322], § 290001(e), added subsec. (h).
 
-    1990—Subsec. (a)(1). [Pub. L. 101–647, § 3533][/us/pl/101/647/s3533], substituted “paragraph y” for “paragraph r”.
+    1990—Subsec. (a)(1). [Pub. L. 101–647][/us/pl/101/647], § 3533, substituted “paragraph y” for “paragraph r”.
 
-    Subsec. (e)(3). [Pub. L. 101–647, § 1205(e)][/us/pl/101/647/s1205/e], inserted “commonwealth,” before “possession or territory of the United States”.
+    Subsec. (e)(3). [Pub. L. 101–647][/us/pl/101/647], § 1205(e), inserted “commonwealth,” before “possession or territory of the United States”.
 
-    Subsec. (e)(4)(G). [Pub. L. 101–647, § 2597(j)(2)][/us/pl/101/647/s2597/j/2], which directed substitution of a semicolon for a period at end of subpar. (G), could not be executed because it ended with a semicolon.
+    Subsec. (e)(4)(G). [Pub. L. 101–647][/us/pl/101/647], § 2597(j)(2), which directed substitution of a semicolon for a period at end of subpar. (G), could not be executed because it ended with a semicolon.
 
-    Subsec. (e)(4)(H), (I). [Pub. L. 101–647, § 2597(j)][/us/pl/101/647/s2597/j], added subpars. (H) and (I).
+    Subsec. (e)(4)(H), (I). [Pub. L. 101–647][/us/pl/101/647], § 2597(j), added subpars. (H) and (I).
 
-    1989—Subsec. (e)(4)(A). [Pub. L. 101–73, § 962(a)(5)(A)][/us/pl/101/73/s962/a/5/A], substituted “an institution,” for “a bank”.
+    1989—Subsec. (e)(4)(A). [Pub. L. 101–73][/us/pl/101/73], § 962(a)(5)(A), substituted “an institution,” for “a bank”.
 
-    Subsec. (e)(4)(C) to (H). [Pub. L. 101–73, § 962(a)(5)(B)][/us/pl/101/73/s962/a/5/B], (C), redesignated subpars. (D) to (H) as (C) to (G), respectively, and struck out former subpar. (C) which read as follows: “an institution with accounts insured by the Federal Savings and Loan Insurance Corporation;”.
+    Subsec. (e)(4)(C) to (H). [Pub. L. 101–73][/us/pl/101/73], § 962(a)(5)(B), (C), redesignated subpars. (D) to (H) as (C) to (G), respectively, and struck out former subpar. (C) which read as follows: “an institution with accounts insured by the Federal Savings and Loan Insurance Corporation;”.
 
     1988—Subsec. (a)(2). [Pub. L. 100–690][/us/pl/100/690] inserted a comma after “financial institution” and struck out the comma that followed a comma after “title 15”.
 
-    1986—Subsec. (a). [Pub. L. 99–474, § 2(b)(2)][/us/pl/99/474/s2/b/2], struck out last sentence which read as follows: “It is not an offense under paragraph (2) or (3) of this subsection in the case of a person having accessed a computer with authorization and using the opportunity such access provides for purposes to which such access does not extend, if the using of such opportunity consists only of the use of the computer.”
+    1986—Subsec. (a). [Pub. L. 99–474][/us/pl/99/474], § 2(b)(2), struck out last sentence which read as follows: “It is not an offense under paragraph (2) or (3) of this subsection in the case of a person having accessed a computer with authorization and using the opportunity such access provides for purposes to which such access does not extend, if the using of such opportunity consists only of the use of the computer.”
 
-    Subsec. (a)(1). [Pub. L. 99–474, § 2(c)][/us/pl/99/474/s2/c], substituted “or exceeds authorized access” for “, or having accessed a computer with authorization, uses the opportunity such access provides for purposes to which such authorization does not extend”.
+    Subsec. (a)(1). [Pub. L. 99–474][/us/pl/99/474], § 2(c), substituted “or exceeds authorized access” for “, or having accessed a computer with authorization, uses the opportunity such access provides for purposes to which such authorization does not extend”.
 
-    Subsec. (a)(2). [Pub. L. 99–474, § 2(a)][/us/pl/99/474/s2/a], (c), substituted “intentionally” for “knowingly”, substituted “or exceeds authorized access” for “, or having accessed a computer with authorization, uses the opportunity such access provides for purposes to which such authorization does not extend”, struck out “as such terms are defined in the Right to Financial Privacy Act of 1978 ([12 U.S.C. 3401][/us/usc/t12/s3401] et seq.),” after “financial institution,”, inserted “or of a card issuer as defined in [section 1602(n) of title 15][/us/usc/t15/s1602/n],” and struck out “or” appearing at end.
+    Subsec. (a)(2). [Pub. L. 99–474][/us/pl/99/474], § 2(a), (c), substituted “intentionally” for “knowingly”, substituted “or exceeds authorized access” for “, or having accessed a computer with authorization, uses the opportunity such access provides for purposes to which such authorization does not extend”, struck out “as such terms are defined in the Right to Financial Privacy Act of 1978 ([12 U.S.C. 3401][/us/usc/t12/s3401] et seq.),” after “financial institution,”, inserted “or of a card issuer as defined in [section 1602(n) of title 15][/us/usc/t15/s1602/n],” and struck out “or” appearing at end.
 
-    Subsec. (a)(3). [Pub. L. 99–474, § 2(b)(1)][/us/pl/99/474/s2/b/1], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “knowingly accesses a computer without authorization, or having accessed a computer with authorization, uses the opportunity such access provides for purposes to which such authorization does not extend, and by means of such conduct knowingly uses, modifies, destroys, or discloses information in, or prevents authorized use of, such computer, if such computer is operated for or on behalf of the Government of the United States and such conduct affects such operation;”.
+    Subsec. (a)(3). [Pub. L. 99–474][/us/pl/99/474], § 2(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “knowingly accesses a computer without authorization, or having accessed a computer with authorization, uses the opportunity such access provides for purposes to which such authorization does not extend, and by means of such conduct knowingly uses, modifies, destroys, or discloses information in, or prevents authorized use of, such computer, if such computer is operated for or on behalf of the Government of the United States and such conduct affects such operation;”.
 
-    Subsec. (a)(4) to (6). [Pub. L. 99–474, § 2(d)][/us/pl/99/474/s2/d], added pars. (4) to (6).
+    Subsec. (a)(4) to (6). [Pub. L. 99–474][/us/pl/99/474], § 2(d), added pars. (4) to (6).
 
-    Subsec. (b). [Pub. L. 99–474, § 2(e)][/us/pl/99/474/s2/e], struck out par. (1) designation and par. (2) which provided a penalty for persons conspiring to commit an offense under subsec. (a).
+    Subsec. (b). [Pub. L. 99–474][/us/pl/99/474], § 2(e), struck out par. (1) designation and par. (2) which provided a penalty for persons conspiring to commit an offense under subsec. (a).
 
-    Subsec. (c). [Pub. L. 99–474, § 2(f)(9)][/us/pl/99/474/s2/f/9], substituted “(b)” for “(b)(1)” in introductory text.
+    Subsec. (c). [Pub. L. 99–474][/us/pl/99/474], § 2(f)(9), substituted “(b)” for “(b)(1)” in introductory text.
 
-    Subsec. (c)(1)(A). [Pub. L. 99–474, § 2(f)(1)][/us/pl/99/474/s2/f/1], substituted “under this title” for “of not more than the greater of $10,000 or twice the value obtained by the offense”.
+    Subsec. (c)(1)(A). [Pub. L. 99–474][/us/pl/99/474], § 2(f)(1), substituted “under this title” for “of not more than the greater of $10,000 or twice the value obtained by the offense”.
 
-    Subsec. (c)(1)(B). [Pub. L. 99–474, § 2(f)(2)][/us/pl/99/474/s2/f/2], substituted “under this title” for “of not more than the greater of $100,000 or twice the value obtained by the offense”.
+    Subsec. (c)(1)(B). [Pub. L. 99–474][/us/pl/99/474], § 2(f)(2), substituted “under this title” for “of not more than the greater of $100,000 or twice the value obtained by the offense”.
 
-    Subsec. (c)(2)(A). [Pub. L. 99–474, § 2(f)(3)][/us/pl/99/474/s2/f/3], (4), substituted “under this title” for “of not more than the greater of $5,000 or twice the value obtained or loss created by the offense” and inserted reference to subsec. (a)(6).
+    Subsec. (c)(2)(A). [Pub. L. 99–474][/us/pl/99/474], § 2(f)(3), (4), substituted “under this title” for “of not more than the greater of $5,000 or twice the value obtained or loss created by the offense” and inserted reference to subsec. (a)(6).
 
-    Subsec. (c)(2)(B). [Pub. L. 99–474, § 2(f)(3)][/us/pl/99/474/s2/f/3], (5)–(7), substituted “under this title” for “of not more than the greater of $10,000 or twice the value obtained or loss created by the offense”, “not more than” for “not than”, inserted reference to subsec. (a)(6), and substituted “; and” for the period at end of subpar. (B).
+    Subsec. (c)(2)(B). [Pub. L. 99–474][/us/pl/99/474], § 2(f)(3), (5)–(7), substituted “under this title” for “of not more than the greater of $10,000 or twice the value obtained or loss created by the offense”, “not more than” for “not than”, inserted reference to subsec. (a)(6), and substituted “; and” for the period at end of subpar. (B).
 
-    Subsec. (c)(3). [Pub. L. 99–474, § 2(f)(8)][/us/pl/99/474/s2/f/8], added par. (3).
+    Subsec. (c)(3). [Pub. L. 99–474][/us/pl/99/474], § 2(f)(8), added par. (3).
 
-    Subsec. (e). [Pub. L. 99–474, § 2(g)][/us/pl/99/474/s2/g], substituted a dash for the comma after “As used in this section”, realigned remaining portion of subsection, inserted “(1)” before “the term”, substituted a semicolon for the period at the end, and added pars. (2) to (7).
+    Subsec. (e). [Pub. L. 99–474][/us/pl/99/474], § 2(g), substituted a dash for the comma after “As used in this section”, realigned remaining portion of subsection, inserted “(1)” before “the term”, substituted a semicolon for the period at the end, and added pars. (2) to (7).
 
-    Subsec. (f). [Pub. L. 99–474, § 2(h)][/us/pl/99/474/s2/h], added subsec. (f).
+    Subsec. (f). [Pub. L. 99–474][/us/pl/99/474], § 2(h), added subsec. (f).
 
  __Effective Date of 2002 Amendment__ 
 
@@ -471,7 +471,7 @@
 
  __Reports to Congress__ 
 
-    [Pub. L. 98–473, title II, § 2103][/us/pl/98/473/s2103], Oct. 12, 1984, [98 Stat. 2192][/us/stat/98/2192], directed Attorney General to report to Congress annually, during first three years following Oct. 12, 1984, concerning prosecutions under this section.
+    [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 2103, Oct. 12, 1984, [98 Stat. 2192][/us/stat/98/2192], directed Attorney General to report to Congress annually, during first three years following Oct. 12, 1984, concerning prosecutions under this section.
 
 ----------
 
@@ -485,137 +485,137 @@
 [/us/usc/t18/s3056/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056%2Fa
 [/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
 [/us/usc/t21/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853
-[/us/pl/98/473/s2102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs2102%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2190
-[/us/pl/99/474/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474%2Fs2
+[/us/pl/99/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474
 [/us/stat/100/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1213
-[/us/pl/100/690/s7065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7065
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4404
-[/us/pl/101/73/s962/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs962%2Fa%2F5
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F502
-[/us/pl/101/647/s1205/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1205%2Fe
+[/us/pl/101/647/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXII
 [/us/stat/104/4831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4831
-[/us/pl/103/322/s290001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs290001%2Fb
+[/us/pl/103/322/tXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXIX
 [/us/stat/108/2097-2099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2097-2099
-[/us/pl/104/294/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201
+[/us/pl/104/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtII
 [/us/stat/110/3491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3491
-[/us/pl/107/56/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs506%2Fa
+[/us/pl/107/56/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtV
 [/us/stat/115/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F366
-[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1807
-[/us/pl/107/296/s225/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225%2Fg
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2158
-[/us/pl/110/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326
+[/us/pl/110/326/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326%2FtII
 [/us/stat/122/3561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3561
 [/us/usc/t42/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014
 [/us/usc/t15/s1602/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fn
-[/us/pl/111/203/s1100A/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F1%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
-[/us/pl/91/508/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs601
+[/us/pl/91/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtVI
 [/us/stat/84/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1127
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181
 [/us/stat/85/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F583
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
-[/us/pl/102/242/s142/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs142%2Fe%2F2
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2281
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/110/326/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326%2Fs203
-[/us/pl/110/326/s204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326%2Fs204%2Fa%2F1
-[/us/pl/110/326/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326%2Fs205
-[/us/pl/110/326/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326%2Fs206
-[/us/pl/110/326/s204/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326%2Fs204%2Fa%2F2%2FA
-[/us/pl/110/326/s204/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326%2Fs204%2Fa%2F2%2FB
-[/us/pl/110/326/s204/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326%2Fs204%2Fa%2F2%2FC
-[/us/pl/110/326/s204/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326%2Fs204%2Fa%2F2%2FD
-[/us/pl/110/326/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326%2Fs207
-[/us/pl/110/326/s204/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326%2Fs204%2Fa%2F3%2FB
-[/us/pl/110/326/s204/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326%2Fs204%2Fa%2F3%2FA
-[/us/pl/110/326/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326%2Fs208
-[/us/pl/107/273/s4005/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4005%2Fa%2F3
-[/us/pl/107/273/s4002/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fb%2F1
-[/us/pl/107/273/s4002/b/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fb%2F12%2FA
-[/us/pl/107/273/s4005/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4005%2Fd%2F3
-[/us/pl/107/296/s225/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225%2Fg%2F2
-[/us/pl/107/296/s225/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225%2Fg%2F1
-[/us/pl/107/273/s4002/b/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fb%2F12%2FB
-[/us/pl/107/56/s814/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs814%2Fa%2F1
-[/us/pl/107/56/s814/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs814%2Fa%2F4
-[/us/pl/107/56/s814/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs814%2Fa%2F2
-[/us/pl/107/56/s814/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs814%2Fb
-[/us/pl/107/56/s814/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs814%2Fc%2F1%2FA
-[/us/pl/107/56/s814/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs814%2Fc%2F1%2FB
-[/us/pl/107/56/s814/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs814%2Fc%2F1%2FC
-[/us/pl/107/56/s814/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs814%2Fc%2F2
-[/us/pl/107/56/s814/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs814%2Fc%2F3
-[/us/pl/107/56/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs506%2Fa
-[/us/pl/107/56/s814/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs814%2Fd%2F1
-[/us/pl/107/56/s814/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs814%2Fd%2F2
-[/us/pl/107/56/s814/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs814%2Fd%2F3
-[/us/pl/107/56/s814/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs814%2Fd%2F4
-[/us/pl/107/56/s814/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs814%2Fe
-[/us/pl/104/294/s201/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201%2F1%2FA
-[/us/pl/104/294/s201/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201%2F1%2FB
-[/us/pl/104/294/s201/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201%2F1%2FC
-[/us/pl/104/294/s201/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201%2F1%2FD
-[/us/pl/104/294/s201/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201%2F1%2FE
-[/us/pl/104/294/s604/b/36/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F36%2FA
-[/us/pl/104/294/s201/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201%2F1%2FE
-[/us/pl/104/294/s201/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201%2F1%2FF
-[/us/pl/104/294/s201/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201%2F2%2FA
-[/us/pl/104/294/s604/b/36/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F36%2FB
-[/us/pl/104/294/s201/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201%2F2%2FB%2Fi
-[/us/pl/104/294/s201/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201%2F2%2FB%2Fiii
-[/us/pl/104/294/s201/2/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201%2F2%2FB%2Fiv
-[/us/pl/104/294/s201/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201%2F2%2FB%2Fii
-[/us/pl/104/294/s201/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201%2F2%2FC%2Fi
-[/us/pl/104/294/s201/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201%2F2%2FC%2Fii
-[/us/pl/104/294/s201/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201%2F2%2FD
-[/us/pl/104/294/s201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201%2F3
-[/us/pl/104/294/s201/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201%2F4%2FA%2Fi
-[/us/pl/104/294/s201/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201%2F4%2FA%2Fii
-[/us/pl/104/294/s201/4/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201%2F4%2FA%2Fiii
-[/us/pl/104/294/s201/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201%2F4%2FB
-[/us/pl/104/294/s604/b/36/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F36%2FC
-[/us/pl/104/294/s201/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs201%2F5
-[/us/pl/104/294/s604/b/36/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F36%2FD
+[/us/pl/110/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326
+[/us/pl/110/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326
+[/us/pl/110/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326
+[/us/pl/110/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326
+[/us/pl/110/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326
+[/us/pl/110/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326
+[/us/pl/110/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326
+[/us/pl/110/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326
+[/us/pl/110/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326
+[/us/pl/110/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326
+[/us/pl/110/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326
+[/us/pl/110/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/usc/t18/s1030/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1030%2Fa%2F5
-[/us/pl/103/322/s290001/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs290001%2Ff
-[/us/pl/103/322/s290001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs290001%2Fb
-[/us/pl/103/322/s290001/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs290001%2Fc%2F2
-[/us/pl/103/322/s290001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs290001%2Fc%2F1
-[/us/pl/103/322/s290001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs290001%2Fd
-[/us/pl/103/322/s290001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs290001%2Fe
-[/us/pl/101/647/s3533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3533
-[/us/pl/101/647/s1205/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1205%2Fe
-[/us/pl/101/647/s2597/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2597%2Fj%2F2
-[/us/pl/101/647/s2597/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2597%2Fj
-[/us/pl/101/73/s962/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs962%2Fa%2F5%2FA
-[/us/pl/101/73/s962/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs962%2Fa%2F5%2FB
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/99/474/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474%2Fs2%2Fb%2F2
-[/us/pl/99/474/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474%2Fs2%2Fc
-[/us/pl/99/474/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474%2Fs2%2Fa
+[/us/pl/99/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474
+[/us/pl/99/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474
+[/us/pl/99/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474
 [/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
 [/us/usc/t15/s1602/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fn
-[/us/pl/99/474/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474%2Fs2%2Fb%2F1
-[/us/pl/99/474/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474%2Fs2%2Fd
-[/us/pl/99/474/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474%2Fs2%2Fe
-[/us/pl/99/474/s2/f/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474%2Fs2%2Ff%2F9
-[/us/pl/99/474/s2/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474%2Fs2%2Ff%2F1
-[/us/pl/99/474/s2/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474%2Fs2%2Ff%2F2
-[/us/pl/99/474/s2/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474%2Fs2%2Ff%2F3
-[/us/pl/99/474/s2/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474%2Fs2%2Ff%2F3
-[/us/pl/99/474/s2/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474%2Fs2%2Ff%2F8
-[/us/pl/99/474/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474%2Fs2%2Fg
-[/us/pl/99/474/s2/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474%2Fs2%2Fh
+[/us/pl/99/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474
+[/us/pl/99/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474
+[/us/pl/99/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474
+[/us/pl/99/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474
+[/us/pl/99/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474
+[/us/pl/99/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474
+[/us/pl/99/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474
+[/us/pl/99/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474
+[/us/pl/99/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474
+[/us/pl/99/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474
+[/us/pl/99/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F474
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/98/473/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs2103
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2192
 
 

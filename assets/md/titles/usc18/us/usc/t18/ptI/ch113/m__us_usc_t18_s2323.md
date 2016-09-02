@@ -55,7 +55,7 @@
 
     When a person is convicted of an offense under [section 506 of title 17][/us/usc/t17/s506] or section 2318, 2319, 2319A, 2319B, or 2320, or chapter 90, of this title, the court, pursuant to sections 3556, 3663A, and 3664 of this title, shall order the person to pay restitution to any victim of the offense as an offense against property referred to in [section 3663A(c)(1)(A)(ii) of this title][/us/usc/t18/s3663A/c/1/A/ii].
 
-(Added [Pub. L. 110–403, title II, § 206(a)][/us/pl/110/403/s206/a], Oct. 13, 2008, [122 Stat. 4262][/us/stat/122/4262].)
+(Added [Pub. L. 110–403, title II][/us/pl/110/403/tII], § 206(a), Oct. 13, 2008, [122 Stat. 4262][/us/stat/122/4262].)
 
 ----------
 
@@ -69,7 +69,7 @@
 [/us/usc/t21/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853
 [/us/usc/t17/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs506
 [/us/usc/t18/s3663A/c/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3663A%2Fc%2F1%2FA%2Fii
-[/us/pl/110/403/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs206%2Fa
+[/us/pl/110/403/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtII
 [/us/stat/122/4262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4262
 
 

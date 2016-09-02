@@ -19,11 +19,11 @@
 
     Each day’s broadcasting shall constitute a separate offense.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 763][/us/stat/62/763]; [Pub. L. 100–625, § 3(a)(4)][/us/pl/100/625/s3/a/4], Nov. 7, 1988, [102 Stat. 3206][/us/stat/102/3206]; [Pub. L. 103–322, title XXXIII, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 763][/us/stat/62/763]; [Pub. L. 100–625][/us/pl/100/625], § 3(a)(4), Nov. 7, 1988, [102 Stat. 3206][/us/stat/102/3206]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(H), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on [section 316 of title 47][/us/usc/t47/s316], U.S.C., 1940 ed., Telegraphs, Telephones, and Radiotelegraphs ([June 19, 1934, ch. 652, § 316][/us/act/1934-06-19/ch652/s316], [48 Stat. 1088][/us/stat/48/1088]).
+    Based on [section 316 of title 47][/us/usc/t47/s316], U.S.C., 1940 ed., Telegraphs, Telephones, and Radiotelegraphs ([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], § 316, [48 Stat. 1088][/us/stat/48/1088]).
 
     Words “upon conviction thereof” were deleted as surplusage since punishment can be imposed only after a conviction.
 
@@ -31,7 +31,7 @@
 
  __Constitutionality__ 
 
-For information regarding constitutionality of this section, see reference to [act June 19, 1934, ch. 652, § 316][/us/act/1934-06-19/ch652/s316] (on which this section is based), in Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of this section, see reference to [act June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], § 316 (on which this section is based), in Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@ For information regarding constitutionality of this section, see reference to [a
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–625, § 5][/us/pl/100/625/s5], Nov. 7, 1988, [102 Stat. 3206][/us/stat/102/3206], provided that: 
+[Pub. L. 100–625][/us/pl/100/625], § 5, Nov. 7, 1988, [102 Stat. 3206][/us/stat/102/3206], provided that: 
 
 > “The amendments made by this Act \[amending this section and [section 1307 of this title][/us/usc/t18/s1307] and [section 3005 of Title 39][/us/usc/t39/s3005], Postal Service\] shall take effect 18 months after the date of the enactment of this Act \[Nov. 7, 1988\].”
 
@@ -54,17 +54,17 @@ For information regarding constitutionality of this section, see reference to [a
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F763
-[/us/pl/100/625/s3/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F625%2Fs3%2Fa%2F4
+[/us/pl/100/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F625
 [/us/stat/102/3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3206
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/usc/t47/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs316
-[/us/act/1934-06-19/ch652/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652%2Fs316
+[/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1088
-[/us/act/1934-06-19/ch652/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652%2Fs316
+[/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/100/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F625
-[/us/pl/100/625/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F625%2Fs5
+[/us/pl/100/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F625
 [/us/stat/102/3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3206
 [/us/usc/t18/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1307
 [/us/usc/t39/s3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3005

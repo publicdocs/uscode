@@ -159,7 +159,7 @@
 
         the court shall order the forfeiture of any other property of the defendant up to the value of any property described in paragraphs (1) through (5).
 
-(Added [Pub. L. 91–452, title IX, § 901(a)][/us/pl/91/452/s901/a], Oct. 15, 1970, [84 Stat. 943][/us/stat/84/943]; amended [Pub. L. 98–473, title II][/us/pl/98/473], §§ 302, 2301(a)–(c), Oct. 12, 1984, [98 Stat. 2040][/us/stat/98/2040], 2192; [Pub. L. 99–570, title I, § 1153(a)][/us/pl/99/570/s1153/a], Oct. 27, 1986, [100 Stat. 3207–13][/us/stat/100/3207-13]; [Pub. L. 99–646, § 23][/us/pl/99/646/s23], Nov. 10, 1986, [100 Stat. 3597][/us/stat/100/3597]; [Pub. L. 100–690, title VII][/us/pl/100/690], §§ 7034, 7058(d), Nov. 18, 1988, [102 Stat. 4398][/us/stat/102/4398], 4403; [Pub. L. 101–647, title XXXV, § 3561][/us/pl/101/647/s3561], Nov. 29, 1990, [104 Stat. 4927][/us/stat/104/4927]; [Pub. L. 111–16, § 3(4)][/us/pl/111/16/s3/4], May 7, 2009, [123 Stat. 1607][/us/stat/123/1607].)
+(Added [Pub. L. 91–452, title IX][/us/pl/91/452/tIX], § 901(a), Oct. 15, 1970, [84 Stat. 943][/us/stat/84/943]; amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], §§ 302, 2301(a)–(c), Oct. 12, 1984, [98 Stat. 2040][/us/stat/98/2040], 2192; [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1153(a), Oct. 27, 1986, [100 Stat. 3207–13][/us/stat/100/3207-13]; [Pub. L. 99–646][/us/pl/99/646], § 23, Nov. 10, 1986, [100 Stat. 3597][/us/stat/100/3597]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], §§ 7034, 7058(d), Nov. 18, 1988, [102 Stat. 4398][/us/stat/102/4398], 4403; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3561, Nov. 29, 1990, [104 Stat. 4927][/us/stat/104/4927]; [Pub. L. 111–16][/us/pl/111/16], § 3(4), May 7, 2009, [123 Stat. 1607][/us/stat/123/1607].)
 
  __References in Text__ 
 
@@ -171,29 +171,29 @@
 
     1990—Subsec. (a). [Pub. L. 101–647][/us/pl/101/647] substituted “or both” for “or both.” in introductory provisions.
 
-    1988—Subsec. (a). [Pub. L. 100–690, § 7058(d)][/us/pl/100/690/s7058/d], substituted “shall be fined under this title or imprisoned not more than 20 years (or for life if the violation is based on a racketeering activity for which the maximum penalty includes life imprisonment), or both.” for “shall be fined not more than $25,000 or imprisoned not more than twenty years, or both”.
+    1988—Subsec. (a). [Pub. L. 100–690][/us/pl/100/690], § 7058(d), substituted “shall be fined under this title or imprisoned not more than 20 years (or for life if the violation is based on a racketeering activity for which the maximum penalty includes life imprisonment), or both.” for “shall be fined not more than $25,000 or imprisoned not more than twenty years, or both”.
 
-    Subsecs. (m), (n). [Pub. L. 100–690, § 7034][/us/pl/100/690/s7034], redesignated former subsec. (n) as (m) and substituted “act or omission” for “act of omission”.
+    Subsecs. (m), (n). [Pub. L. 100–690][/us/pl/100/690], § 7034, redesignated former subsec. (n) as (m) and substituted “act or omission” for “act of omission”.
 
     1986—Subsecs. (c) to (m). [Pub. L. 99–646][/us/pl/99/646] substituted “(l)” for “(m)” in subsec. (c), redesignated subsecs. (e) to (m) as (d) to (l), respectively, and substituted “(l)” for “(m)” in subsec. (i) as redesignated.
 
     Subsec. (n). [Pub. L. 99–570][/us/pl/99/570] added subsec. (n).
 
-    1984—Subsec. (a). [Pub. L. 98–473, § 2301(a)][/us/pl/98/473/s2301/a], inserted “In lieu of a fine otherwise authorized by this section, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.” following par. (3).
+    1984—Subsec. (a). [Pub. L. 98–473][/us/pl/98/473], § 2301(a), inserted “In lieu of a fine otherwise authorized by this section, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.” following par. (3).
 
-    [Pub. L. 98–473, § 302][/us/pl/98/473/s302], amended subsec. (a) generally, designating existing provisions as pars. (1) and (2), inserting par. (3), and provisions following par. (3) relating to power of the court to order forfeiture to the United States.
+    [Pub. L. 98–473][/us/pl/98/473], § 302, amended subsec. (a) generally, designating existing provisions as pars. (1) and (2), inserting par. (3), and provisions following par. (3) relating to power of the court to order forfeiture to the United States.
 
-    Subsec. (b). [Pub. L. 98–473, § 302][/us/pl/98/473/s302], amended subsec. (b) generally, substituting provisions relating to property subject to forfeiture, for provisions relating to jurisdiction of the district courts of the United States.
+    Subsec. (b). [Pub. L. 98–473][/us/pl/98/473], § 302, amended subsec. (b) generally, substituting provisions relating to property subject to forfeiture, for provisions relating to jurisdiction of the district courts of the United States.
 
-    Subsec. (c). [Pub. L. 98–473, § 302][/us/pl/98/473/s302], amended subsec. (c) generally, substituting provisions relating to transfer of rights, etc., in property to the United States, or to other transferees, for provisions relating to seizure and transfer of property to the United States and procedures related thereto.
+    Subsec. (c). [Pub. L. 98–473][/us/pl/98/473], § 302, amended subsec. (c) generally, substituting provisions relating to transfer of rights, etc., in property to the United States, or to other transferees, for provisions relating to seizure and transfer of property to the United States and procedures related thereto.
 
-    Subsec. (d). [Pub. L. 98–473, § 2301(b)][/us/pl/98/473/s2301/b], struck out subsec. (d) which provided: “If any of the property described in subsection (a): (1) cannot be located; (2) has been transferred to, sold to, or deposited with, a third party; (3) has been placed beyond the jurisdiction of the court; (4) has been substantially diminished in value by any act or omission of the defendant; or (5) has been commingled with other property which cannot be divided without difficulty; the court shall order the forfeiture of any other property of the defendant up to the value of any property described in paragraphs (1) through (5).”
+    Subsec. (d). [Pub. L. 98–473][/us/pl/98/473], § 2301(b), struck out subsec. (d) which provided: “If any of the property described in subsection (a): (1) cannot be located; (2) has been transferred to, sold to, or deposited with, a third party; (3) has been placed beyond the jurisdiction of the court; (4) has been substantially diminished in value by any act or omission of the defendant; or (5) has been commingled with other property which cannot be divided without difficulty; the court shall order the forfeiture of any other property of the defendant up to the value of any property described in paragraphs (1) through (5).”
 
-    [Pub. L. 98–473, § 302][/us/pl/98/473/s302], added subsec. (d).
+    [Pub. L. 98–473][/us/pl/98/473], § 302, added subsec. (d).
 
-    Subsecs. (e) to (m). [Pub. L. 98–473, § 302][/us/pl/98/473/s302], added subsecs. (d) to (m).
+    Subsecs. (e) to (m). [Pub. L. 98–473][/us/pl/98/473], § 302, added subsecs. (d) to (m).
 
-    Subsec. (m)(1). [Pub. L. 98–473, § 2301(c)][/us/pl/98/473/s2301/c], struck out “for at least seven successive court days” after “dispose of the property”.
+    Subsec. (m)(1). [Pub. L. 98–473][/us/pl/98/473], § 2301(c), struck out “for at least seven successive court days” after “dispose of the property”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -211,34 +211,34 @@
 ----------
 
 [/us/usc/t31/s3302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302%2Fb
-[/us/pl/91/452/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs901%2Fa
+[/us/pl/91/452/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtIX
 [/us/stat/84/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F943
-[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2040
-[/us/pl/99/570/s1153/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1153%2Fa
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-13
-[/us/pl/99/646/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs23
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3597
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4398
-[/us/pl/101/647/s3561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3561
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4927
-[/us/pl/111/16/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs3%2F4
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/stat/123/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1607
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
-[/us/pl/100/690/s7058/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7058%2Fd
-[/us/pl/100/690/s7034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7034
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
-[/us/pl/98/473/s2301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs2301%2Fa
-[/us/pl/98/473/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs302
-[/us/pl/98/473/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs302
-[/us/pl/98/473/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs302
-[/us/pl/98/473/s2301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs2301%2Fb
-[/us/pl/98/473/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs302
-[/us/pl/98/473/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs302
-[/us/pl/98/473/s2301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs2301%2Fc
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/111/16/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs7
 [/us/usc/t11/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs109

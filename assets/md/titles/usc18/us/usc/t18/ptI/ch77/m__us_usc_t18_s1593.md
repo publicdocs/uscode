@@ -29,7 +29,7 @@
 
     (c) As used in this section, the term “victim” means the individual harmed as a result of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or a representative of the victim’s estate, or another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named such representative or guardian.
 
-(Added [Pub. L. 106–386, div. A, § 112(a)(2)][/us/pl/106/386/s112/a/2], Oct. 28, 2000, [114 Stat. 1488][/us/stat/114/1488]; amended [Pub. L. 110–457, title II, § 221(1)][/us/pl/110/457/s221/1], Dec. 23, 2008, [122 Stat. 5067][/us/stat/122/5067].)
+(Added [Pub. L. 106–386, div. A][/us/pl/106/386/dA], § 112(a)(2), Oct. 28, 2000, [114 Stat. 1488][/us/stat/114/1488]; amended [Pub. L. 110–457, title II][/us/pl/110/457/tII], § 221(1), Dec. 23, 2008, [122 Stat. 5067][/us/stat/122/5067].)
 
  __References in Text__ 
 
@@ -48,9 +48,9 @@
 
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/usc/t21/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853
-[/us/pl/106/386/s112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs112%2Fa%2F2
+[/us/pl/106/386/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdA
 [/us/stat/114/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1488
-[/us/pl/110/457/s221/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs221%2F1
+[/us/pl/110/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtII
 [/us/stat/122/5067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5067
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060

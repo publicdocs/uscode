@@ -27,7 +27,7 @@
 
     (f) Prior to consenting to the transfer from the United States of an offender who is on probation, the Attorney General shall obtain the assent of the court exercising jurisdiction over the probationer.
 
-(Added [Pub. L. 95–144, § 1][/us/pl/95/144/s1], Oct. 28, 1977, [91 Stat. 1215][/us/stat/91/1215]; amended [Pub. L. 107–273, div. B, title IV, § 4002(e)(6)][/us/pl/107/273/s4002/e/6], Nov. 2, 2002, [116 Stat. 1810][/us/stat/116/1810].)
+(Added [Pub. L. 95–144][/us/pl/95/144], § 1, Oct. 28, 1977, [91 Stat. 1215][/us/stat/91/1215]; amended [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(e)(6), Nov. 2, 2002, [116 Stat. 1810][/us/stat/116/1810].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t18/s3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3565
-[/us/pl/95/144/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144%2Fs1
+[/us/pl/95/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144
 [/us/stat/91/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1215
-[/us/pl/107/273/s4002/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fe%2F6
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1810
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/usc/t18/s3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3565

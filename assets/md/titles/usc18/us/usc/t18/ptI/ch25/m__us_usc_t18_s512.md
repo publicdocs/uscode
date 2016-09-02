@@ -49,7 +49,7 @@
 
     (c) As used in this section, the terms “identification number”, “motor vehicle”, and “motor vehicle scrap processor” have the meanings given those terms in [section 511 of this title][/us/usc/t18/s511].
 
-(Added [Pub. L. 98–547, title II, § 201(a)][/us/pl/98/547/s201/a], Oct. 25, 1984, [98 Stat. 2769][/us/stat/98/2769]; amended [Pub. L. 103–272, § 5(e)(4)][/us/pl/103/272/s5/e/4], July 5, 1994, [108 Stat. 1373][/us/stat/108/1373].)
+(Added [Pub. L. 98–547, title II][/us/pl/98/547/tII], § 201(a), Oct. 25, 1984, [98 Stat. 2769][/us/stat/98/2769]; amended [Pub. L. 103–272][/us/pl/103/272], § 5(e)(4), July 5, 1994, [108 Stat. 1373][/us/stat/108/1373].)
 
  __Amendments__ 
 
@@ -65,9 +65,9 @@
 [/us/usc/t18/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs511%2Fb
 [/us/usc/t18/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs511%2Fb
 [/us/usc/t18/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs511
-[/us/pl/98/547/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F547%2Fs201%2Fa
+[/us/pl/98/547/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F547%2FtII
 [/us/stat/98/2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2769
-[/us/pl/103/272/s5/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fe%2F4
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1373
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 

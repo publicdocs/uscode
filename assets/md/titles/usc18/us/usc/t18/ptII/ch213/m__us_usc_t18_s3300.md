@@ -17,7 +17,7 @@
 
     No person may be prosecuted, tried, or punished for a violation of section 2442 unless the indictment or the information is filed not later than 10 years after the commission of the offense.
 
-(Added [Pub. L. 110–340, § 2(a)(2)][/us/pl/110/340/s2/a/2], Oct. 3, 2008, [122 Stat. 3736][/us/stat/122/3736].)
+(Added [Pub. L. 110–340][/us/pl/110/340], § 2(a)(2), Oct. 3, 2008, [122 Stat. 3736][/us/stat/122/3736].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/340/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F340%2Fs2%2Fa%2F2
+[/us/pl/110/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F340
 [/us/stat/122/3736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3736
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptII/ch203/m__us_usc_t18_s3058.md) | [Next](./../../../../..//us/usc/t18/ptII/ch203/m__us_usc_t18_s3061.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3060)
+[Previous](./../../../../..//us/usc/t18/ptII/ch203/m__us_usc_t18_s3059...3059B.md) | [Next](./../../../../..//us/usc/t18/ptII/ch203/m__us_usc_t18_s3061.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3060)
 
 ## § 3060. Preliminary examination
 
@@ -33,7 +33,7 @@
 
     (f) Proceedings before United States magistrate judges under this section shall be taken down by a court reporter or recorded by suitable sound recording equipment. A copy of the record of such proceeding shall be made available at the expense of the United States to a person who makes affidavit that he is unable to pay or give security therefor, and the expense of such copy shall be paid by the Director of the Administrative Office of the United States Courts.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 819][/us/stat/62/819]; [Pub. L. 90–578, title III, § 303(a)][/us/pl/90/578/s303/a], Oct. 17, 1968, [82 Stat. 1117][/us/stat/82/1117]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 109–162, title XI, § 1179][/us/pl/109/162/s1179], Jan. 5, 2006, [119 Stat. 3126][/us/stat/119/3126]; [Pub. L. 111–16, § 3(9)][/us/pl/111/16/s3/9], May 7, 2009, [123 Stat. 1608][/us/stat/123/1608].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 819][/us/stat/62/819]; [Pub. L. 90–578, title III][/us/pl/90/578/tIII], § 303(a), Oct. 17, 1968, [82 Stat. 1117][/us/stat/82/1117]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1179, Jan. 5, 2006, [119 Stat. 3126][/us/stat/119/3126]; [Pub. L. 111–16][/us/pl/111/16], § 3(9), May 7, 2009, [123 Stat. 1608][/us/stat/123/1608].)
 
  __Amendments__ 
 
@@ -57,20 +57,20 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptII/ch203/m__us_usc_t18_s3058.md) | [Next](./../../../../..//us/usc/t18/ptII/ch203/m__us_usc_t18_s3061.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3060)
+[Previous](./../../../../..//us/usc/t18/ptII/ch203/m__us_usc_t18_s3059...3059B.md) | [Next](./../../../../..//us/usc/t18/ptII/ch203/m__us_usc_t18_s3061.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3060)
 
 ----------
 ----------
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F819
-[/us/pl/90/578/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs303%2Fa
+[/us/pl/90/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtIII
 [/us/stat/82/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1117
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/109/162/s1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1179
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3126
-[/us/pl/111/16/s3/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs3%2F9
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/stat/123/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1608
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162

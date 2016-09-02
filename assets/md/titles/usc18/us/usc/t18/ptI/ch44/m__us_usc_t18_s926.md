@@ -31,7 +31,7 @@
 
     (c) The Attorney General shall not prescribe rules or regulations that require purchasers of black powder under the exemption provided in [section 845(a)(5) of this title][/us/usc/t18/s845/a/5] to complete affidavits or forms attesting to that exemption.
 
-(Added [Pub. L. 90–351, title IV, § 902][/us/pl/90/351/s902], June 19, 1968, [82 Stat. 234][/us/stat/82/234]; amended [Pub. L. 90–618, title I, § 102][/us/pl/90/618/s102], Oct. 22, 1968, [82 Stat. 1226][/us/stat/82/1226]; [Pub. L. 99–308, § 106][/us/pl/99/308/s106], May 19, 1986, [100 Stat. 459][/us/stat/100/459]; [Pub. L. 103–322, title XI, § 110401(d)][/us/pl/103/322/s110401/d], Sept. 13, 1994, [108 Stat. 2015][/us/stat/108/2015]; [Pub. L. 107–296, title XI, § 1112(f)(6)][/us/pl/107/296/s1112/f/6], Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276].)
+(Added [Pub. L. 90–351, title IV][/us/pl/90/351/tIV], § 902, June 19, 1968, [82 Stat. 234][/us/stat/82/234]; amended [Pub. L. 90–618, title I][/us/pl/90/618/tI], § 102, Oct. 22, 1968, [82 Stat. 1226][/us/stat/82/1226]; [Pub. L. 99–308][/us/pl/99/308], § 106, May 19, 1986, [100 Stat. 459][/us/stat/100/459]; [Pub. L. 103–322, title XI][/us/pl/103/322/tXI], § 110401(d), Sept. 13, 1994, [108 Stat. 2015][/us/stat/108/2015]; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1112(f)(6), Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276].)
 
  __References in Text__ 
 
@@ -43,9 +43,9 @@
 
     1994—Subsec. (a)(3). [Pub. L. 103–322][/us/pl/103/322] added par. (3).
 
-    1986—Subsec. (a). [Pub. L. 99–308, § 106(1)][/us/pl/99/308/s106/1]–(4), designated existing provision as subsec. (a), and in subsec. (a) as so designated, in provision preceding par. (1) substituted “may prescribe only” for “may prescribe” and “as are” for “as he deems reasonably”, and in closing provision substituted provision that no rule or regulation prescribed after May 19, 1986, require that records required under this chapter be recorded at or transferred to a facility owned, managed, or controlled by the United States or any State or political subdivision thereof, nor any system of registration of firearms, firearms owners, or firearms transactions or dispositions be established and that nothing in this section expand or restrict the authority of the Secretary to inquire into the disposition of any firearm in the course of a criminal investigation for provision that the Secretary give reasonable public notice, and afford an opportunity for a hearing, prior to prescribing rules and regulations.
+    1986—Subsec. (a). [Pub. L. 99–308][/us/pl/99/308], § 106(1)–(4), designated existing provision as subsec. (a), and in subsec. (a) as so designated, in provision preceding par. (1) substituted “may prescribe only” for “may prescribe” and “as are” for “as he deems reasonably”, and in closing provision substituted provision that no rule or regulation prescribed after May 19, 1986, require that records required under this chapter be recorded at or transferred to a facility owned, managed, or controlled by the United States or any State or political subdivision thereof, nor any system of registration of firearms, firearms owners, or firearms transactions or dispositions be established and that nothing in this section expand or restrict the authority of the Secretary to inquire into the disposition of any firearm in the course of a criminal investigation for provision that the Secretary give reasonable public notice, and afford an opportunity for a hearing, prior to prescribing rules and regulations.
 
-    Subsecs. (b), (c). [Pub. L. 99–308, § 106(5)][/us/pl/99/308/s106/5], added subsecs. (b) and (c).
+    Subsecs. (b), (c). [Pub. L. 99–308][/us/pl/99/308], § 106(5), added subsecs. (b) and (c).
 
     1968—[Pub. L. 90–618][/us/pl/90/618] inserted provisions authorizing the Secretary to prescribe regulations requiring a licensee, when dealing with another licensee, to provide such other licensee a certified copy of the license, and regulations authorizing the issuance of certified copies of the license required under this chapter.
 
@@ -69,21 +69,21 @@
 ----------
 
 [/us/usc/t18/s845/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs845%2Fa%2F5
-[/us/pl/90/351/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs902
+[/us/pl/90/351/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtIV
 [/us/stat/82/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F234
-[/us/pl/90/618/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2Fs102
+[/us/pl/90/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2FtI
 [/us/stat/82/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1226
-[/us/pl/99/308/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs106
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
 [/us/stat/100/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F459
-[/us/pl/103/322/s110401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110401%2Fd
+[/us/pl/103/322/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXI
 [/us/stat/108/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2015
-[/us/pl/107/296/s1112/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Ff%2F6
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2276
 [/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/99/308/s106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs106%2F1
-[/us/pl/99/308/s106/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs106%2F5
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
 [/us/pl/90/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4

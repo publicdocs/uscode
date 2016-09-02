@@ -91,9 +91,9 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–208, div. C, title I, § 108(b)(2)][/us/pl/104/208/s108/b/2], Sept. 30, 1996, [110 Stat. 3009–558][/us/stat/110/3009-558], added item 758.
+    1996—[Pub. L. 104–208, div. C, title I][/us/pl/104/208/dC/tI], § 108(b)(2), Sept. 30, 1996, [110 Stat. 3009–558][/us/stat/110/3009-558], added item 758.
 
-    1994—[Pub. L. 103–322, title XXXIII, § 330004(5)][/us/pl/103/322/s330004/5], Sept. 13, 1994, [108 Stat. 2141][/us/stat/108/2141], struck out item 754 “Rescue of body of executed offender”.
+    1994—[Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330004(5), Sept. 13, 1994, [108 Stat. 2141][/us/stat/108/2141], struck out item 754 “Rescue of body of executed offender”.
 
 ----------
 
@@ -102,9 +102,9 @@
 ----------
 ----------
 
-[/us/pl/104/208/s108/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs108%2Fb%2F2
+[/us/pl/104/208/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtI
 [/us/stat/110/3009-558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-558
-[/us/pl/103/322/s330004/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330004%2F5
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2141
 
 

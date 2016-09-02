@@ -31,11 +31,11 @@
 
         In any proceeding in court for the forfeiture under the internal-revenue laws of any vehicle or aircraft seized for a violation of the internal-revenue laws relating to liquor, the court shall order delivery thereof to any claimant who shall establish his right to the immediate possession thereof, and shall execute, with one or more sureties approved by the court, and deliver to the court, a bond to the United States for the payment of a sum equal to the appraised value of such vehicle or aircraft. Such bond shall be conditioned to return such vehicle or aircraft at the time of the trial and to pay the difference between the appraised value of such vehicle or aircraft as of the time it shall have been so released on bond and the appraised value thereof as of the time of trial; and conditioned further that, if the vehicle or aircraft be not returned at the time of trial, the bond shall stand in lieu of, and be forfeited in the same manner as, such vehicle or aircraft. Notwithstanding this subsection or any other provisions of law relating to the delivery of possession on bond of vehicles or aircraft sought to be forfeited under the internal-revenue laws, the court may, in its discretion and upon good cause shown by the United States, refuse to order such delivery of possession.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 840][/us/stat/62/840], § 3617; renumbered § 3668, [Pub. L. 98–473, title II, § 212(a)(1)][/us/pl/98/473/s212/a/1], Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987]; amended [Pub. L. 107–217, § 3(d)][/us/pl/107/217/s3/d], Aug. 21, 2002, [116 Stat. 1299][/us/stat/116/1299].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 840][/us/stat/62/840], § 3617; renumbered § 3668, [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(1), Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987]; amended [Pub. L. 107–217][/us/pl/107/217], § 3(d), Aug. 21, 2002, [116 Stat. 1299][/us/stat/116/1299].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 646 ([Aug. 27, 1935, ch. 740, § 204][/us/act/1935-08-27/ch740/s204], [49 Stat. 878][/us/stat/49/878]).
+    Based on title 18, U.S.C., 1940 ed., § 646 ([Aug. 27, 1935, ch. 740][/us/act/1935-08-27/ch740], § 204, [49 Stat. 878][/us/stat/49/878]).
 
     A minor change was made in phraseology.
 
@@ -53,11 +53,11 @@
 [/us/usc/t40/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1306
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F840
-[/us/pl/98/473/s212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F1
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1987
-[/us/pl/107/217/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3%2Fd
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1299
-[/us/act/1935-08-27/ch740/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch740%2Fs204
+[/us/act/1935-08-27/ch740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch740
 [/us/stat/49/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F878
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1306

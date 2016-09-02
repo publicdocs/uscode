@@ -23,7 +23,7 @@
 
     In this section, the term “prior sex offense conviction” has the meaning given that term in section 2426(b).
 
-(Added [Pub. L. 103–322, title IV, § 40111(a)][/us/pl/103/322/s40111/a], Sept. 13, 1994, [108 Stat. 1903][/us/stat/108/1903]; amended [Pub. L. 105–314, title III, § 303][/us/pl/105/314/s303], Oct. 30, 1998, [112 Stat. 2979][/us/stat/112/2979]; [Pub. L. 108–21, title I, § 106(b)][/us/pl/108/21/s106/b], Apr. 30, 2003, [117 Stat. 655][/us/stat/117/655].)
+(Added [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40111(a), Sept. 13, 1994, [108 Stat. 1903][/us/stat/108/1903]; amended [Pub. L. 105–314, title III][/us/pl/105/314/tIII], § 303, Oct. 30, 1998, [112 Stat. 2979][/us/stat/112/2979]; [Pub. L. 108–21, title I][/us/pl/108/21/tI], § 106(b), Apr. 30, 2003, [117 Stat. 655][/us/stat/117/655].)
 
  __Amendments__ 
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/103/322/s40111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40111%2Fa
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1903
-[/us/pl/105/314/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2Fs303
+[/us/pl/105/314/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2FtIII
 [/us/stat/112/2979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2979
-[/us/pl/108/21/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs106%2Fb
+[/us/pl/108/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtI
 [/us/stat/117/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F655
 [/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
 [/us/pl/105/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314

@@ -17,7 +17,7 @@
 
     In any proceeding ancillary to or in any civil action instituted by the United States under this chapter the proceedings may be open or closed to the public at the discretion of the court after consideration of the rights of affected persons.
 
-(Added [Pub. L. 91–452, title IX, § 901(a)][/us/pl/91/452/s901/a], Oct. 15, 1970, [84 Stat. 944][/us/stat/84/944].)
+(Added [Pub. L. 91–452, title IX][/us/pl/91/452/tIX], § 901(a), Oct. 15, 1970, [84 Stat. 944][/us/stat/84/944].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/452/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs901%2Fa
+[/us/pl/91/452/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtIX
 [/us/stat/84/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F944
 
 

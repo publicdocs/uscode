@@ -45,7 +45,7 @@
 
             (B) includes a former member of the Armed Forces during the 5-year period beginning on the date of the discharge from the Armed Forces of that member of the Armed Forces.
 
-(Added [Pub. L. 111–84, div. E, § 4712(a)][/us/pl/111/84/s4712/a], Oct. 28, 2009, [123 Stat. 2842][/us/stat/123/2842].)
+(Added [Pub. L. 111–84, div. E][/us/pl/111/84/dE], § 4712(a), Oct. 28, 2009, [123 Stat. 2842][/us/stat/123/2842].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/111/84/s4712/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs4712%2Fa
+[/us/pl/111/84/dE]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdE
 [/us/stat/123/2842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2842
 
 

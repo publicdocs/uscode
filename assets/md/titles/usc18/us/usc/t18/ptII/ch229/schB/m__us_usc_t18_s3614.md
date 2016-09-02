@@ -31,7 +31,7 @@
 
     In no event shall a defendant be incarcerated under this section solely on the basis of inability to make payments because the defendant is indigent.
 
-(Added [Pub. L. 98–473, title II, § 212(a)(2)][/us/pl/98/473/s212/a/2], Oct. 12, 1984, [98 Stat. 2006][/us/stat/98/2006]; amended [Pub. L. 104–132, title II, § 207(c)(5)][/us/pl/104/132/s207/c/5], Apr. 24, 1996, [110 Stat. 1240][/us/stat/110/1240].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(2), Oct. 12, 1984, [98 Stat. 2006][/us/stat/98/2006]; amended [Pub. L. 104–132, title II][/us/pl/104/132/tII], § 207(c)(5), Apr. 24, 1996, [110 Stat. 1240][/us/stat/110/1240].)
 
  __Prior Provisions__ 
 
@@ -39,11 +39,11 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–232, § 207(c)(5)(A)][/us/pl/104/232/s207/c/5/A], inserted “or restitution” after “fine” in section catchline.
+    1996—[Pub. L. 104–232][/us/pl/104/232], § 207(c)(5)(A), inserted “or restitution” after “fine” in section catchline.
 
-    Subsec. (a). [Pub. L. 104–232, § 207(c)(5)(B)][/us/pl/104/232/s207/c/5/B], inserted “or restitution” after “fine”.
+    Subsec. (a). [Pub. L. 104–232][/us/pl/104/232], § 207(c)(5)(B), inserted “or restitution” after “fine”.
 
-    Subsec. (c). [Pub. L. 104–232, § 207(c)(5)(C)][/us/pl/104/232/s207/c/5/C], added subsec. (c).
+    Subsec. (c). [Pub. L. 104–232][/us/pl/104/232], § 207(c)(5)(C), added subsec. (c).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -60,14 +60,14 @@
 ----------
 ----------
 
-[/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2006
-[/us/pl/104/132/s207/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs207%2Fc%2F5
+[/us/pl/104/132/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtII
 [/us/stat/110/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1240
 [/us/usc/t18/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3601
-[/us/pl/104/232/s207/c/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F232%2Fs207%2Fc%2F5%2FA
-[/us/pl/104/232/s207/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F232%2Fs207%2Fc%2F5%2FB
-[/us/pl/104/232/s207/c/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F232%2Fs207%2Fc%2F5%2FC
+[/us/pl/104/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F232
+[/us/pl/104/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F232
+[/us/pl/104/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F232
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/104/132/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs211
 [/us/usc/t18/s2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2248

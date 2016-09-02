@@ -19,7 +19,7 @@
 
     (b) This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency or of an intelligence agency of the United States.
 
-(Added [Pub. L. 99–508, title III, § 303(a)][/us/pl/99/508/s303/a], Oct. 21, 1986, [100 Stat. 1872][/us/stat/100/1872].)
+(Added [Pub. L. 99–508, title III][/us/pl/99/508/tIII], § 303(a), Oct. 21, 1986, [100 Stat. 1872][/us/stat/100/1872].)
 
  __Effective Date__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/99/508/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs303%2Fa
+[/us/pl/99/508/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtIII
 [/us/stat/100/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1872
 [/us/pl/99/508/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs302
 [/us/usc/t18/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3121

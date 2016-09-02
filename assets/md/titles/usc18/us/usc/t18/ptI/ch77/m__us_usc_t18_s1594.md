@@ -59,17 +59,17 @@
 
     Any violation of this chapter shall be considered an organized criminal activity or other serious offense for the purposes of application of chapter 224 (relating to witness protection).
 
-(Added [Pub. L. 106–386, div. A, § 112(a)(2)][/us/pl/106/386/s112/a/2], Oct. 28, 2000, [114 Stat. 1489][/us/stat/114/1489]; amended [Pub. L. 110–457, title II, § 222(c)][/us/pl/110/457/s222/c], Dec. 23, 2008, [122 Stat. 5070][/us/stat/122/5070]; [Pub. L. 114–22, title I, § 105(a)][/us/pl/114/22/s105/a], May 29, 2015, [129 Stat. 236][/us/stat/129/236].)
+(Added [Pub. L. 106–386, div. A][/us/pl/106/386/dA], § 112(a)(2), Oct. 28, 2000, [114 Stat. 1489][/us/stat/114/1489]; amended [Pub. L. 110–457, title II][/us/pl/110/457/tII], § 222(c), Dec. 23, 2008, [122 Stat. 5070][/us/stat/122/5070]; [Pub. L. 114–22, title I][/us/pl/114/22/tI], § 105(a), May 29, 2015, [129 Stat. 236][/us/stat/129/236].)
 
  __Amendments__ 
 
-    2015—Subsec. (d)(1). [Pub. L. 114–22, § 105(a)(1)(A)][/us/pl/114/22/s105/a/1/A], substituted “that was involved in, used, or” for “that was used or” and inserted “, and any property traceable to such property” after “such violation”.
+    2015—Subsec. (d)(1). [Pub. L. 114–22][/us/pl/114/22], § 105(a)(1)(A), substituted “that was involved in, used, or” for “that was used or” and inserted “, and any property traceable to such property” after “such violation”.
 
-    Subsec. (d)(2). [Pub. L. 114–22, § 105(a)(1)(B)][/us/pl/114/22/s105/a/1/B], inserted “, or any property traceable to such property” after “such violation”.
+    Subsec. (d)(2). [Pub. L. 114–22][/us/pl/114/22], § 105(a)(1)(B), inserted “, or any property traceable to such property” after “such violation”.
 
-    Subsec. (e)(1)(A). [Pub. L. 114–22, § 105(a)(2)][/us/pl/114/22/s105/a/2], substituted “involved in, used, or” for “used or” and inserted “, and any property traceable to such property” after “any violation of this chapter”.
+    Subsec. (e)(1)(A). [Pub. L. 114–22][/us/pl/114/22], § 105(a)(2), substituted “involved in, used, or” for “used or” and inserted “, and any property traceable to such property” after “any violation of this chapter”.
 
-    Subsecs. (f), (g). [Pub. L. 114–22, § 105(a)(3)][/us/pl/114/22/s105/a/3], (4), added subsec. (f) and redesignated former subsec. (f) as (g).
+    Subsecs. (f), (g). [Pub. L. 114–22][/us/pl/114/22], § 105(a)(3), (4), added subsec. (f) and redesignated former subsec. (f) as (g).
 
     2008—Subsecs. (b) to (f). [Pub. L. 110–457][/us/pl/110/457] added subsecs. (b) and (c) and redesignated former subsecs. (b) to (d) as (d) to (f), respectively.
 
@@ -80,16 +80,16 @@
 ----------
 ----------
 
-[/us/pl/106/386/s112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs112%2Fa%2F2
+[/us/pl/106/386/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdA
 [/us/stat/114/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1489
-[/us/pl/110/457/s222/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs222%2Fc
+[/us/pl/110/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtII
 [/us/stat/122/5070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5070
-[/us/pl/114/22/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fa
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F236
-[/us/pl/114/22/s105/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fa%2F1%2FA
-[/us/pl/114/22/s105/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fa%2F1%2FB
-[/us/pl/114/22/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fa%2F2
-[/us/pl/114/22/s105/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs105%2Fa%2F3
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 [/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
 
 

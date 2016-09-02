@@ -27,7 +27,7 @@
 
     (b) With respect to violations of this section, a person need not have actual knowledge of this section or specific intent to commit a violation of this section.
 
-(Added [Pub. L. 104–191, title II, § 242(a)(1)][/us/pl/104/191/s242/a/1], Aug. 21, 1996, [110 Stat. 2016][/us/stat/110/2016]; amended [Pub. L. 111–148, title X, § 10606(b)][/us/pl/111/148/s10606/b], Mar. 23, 2010, [124 Stat. 1008][/us/stat/124/1008].)
+(Added [Pub. L. 104–191, title II][/us/pl/104/191/tII], § 242(a)(1), Aug. 21, 1996, [110 Stat. 2016][/us/stat/110/2016]; amended [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10606(b), Mar. 23, 2010, [124 Stat. 1008][/us/stat/124/1008].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t18/s1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1365
-[/us/pl/104/191/s242/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs242%2Fa%2F1
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2016
-[/us/pl/111/148/s10606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10606%2Fb
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1008
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 

@@ -239,37 +239,37 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–21, § 2(b)(2)][/us/pl/111/21/s2/b/2], May 20, 2009, [123 Stat. 1617][/us/stat/123/1617], added item 27.
+    2009—[Pub. L. 111–21][/us/pl/111/21], § 2(b)(2), May 20, 2009, [123 Stat. 1617][/us/stat/123/1617], added item 27.
 
-    2006—[Pub. L. 109–177, title III, § 302(d)][/us/pl/109/177/s302/d], Mar. 9, 2006, [120 Stat. 233][/us/stat/120/233], added item 26.
+    2006—[Pub. L. 109–177, title III][/us/pl/109/177/tIII], § 302(d), Mar. 9, 2006, [120 Stat. 233][/us/stat/120/233], added item 26.
 
-    2003—[Pub. L. 108–21, title VI, § 601(b)][/us/pl/108/21/s601/b], Apr. 30, 2003, [117 Stat. 687][/us/stat/117/687], added item 25.
+    2003—[Pub. L. 108–21, title VI][/us/pl/108/21/tVI], § 601(b), Apr. 30, 2003, [117 Stat. 687][/us/stat/117/687], added item 25.
 
-    2002—[Pub. L. 107–273, div. B, title IV, § 4004(a)][/us/pl/107/273/s4004/a], Nov. 2, 2002, [116 Stat. 1812][/us/stat/116/1812], struck out item 14 “Applicability to Canal Zone; definition”.
+    2002—[Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4004(a), Nov. 2, 2002, [116 Stat. 1812][/us/stat/116/1812], struck out item 14 “Applicability to Canal Zone; definition”.
 
-    1996—[Pub. L. 104–191, title II, § 241(b)][/us/pl/104/191/s241/b], Aug. 21, 1996, [110 Stat. 2016][/us/stat/110/2016], which directed the amendment of the table of sections at the beginning of chapter 2 of this title by inserting item 24, was executed by inserting item 24 in the table of sections at the beginning of this chapter, to reflect the probable intent of Congress.
+    1996—[Pub. L. 104–191, title II][/us/pl/104/191/tII], § 241(b), Aug. 21, 1996, [110 Stat. 2016][/us/stat/110/2016], which directed the amendment of the table of sections at the beginning of chapter 2 of this title by inserting item 24, was executed by inserting item 24 in the table of sections at the beginning of this chapter, to reflect the probable intent of Congress.
 
-    1994—[Pub. L. 103–332, title XXXII][/us/pl/103/332], §§ 320910(b), 320914(b), Sept. 13, 1994, [108 Stat. 2127][/us/stat/108/2127], 2128, added items 21 and 23.
+    1994—[Pub. L. 103–332, title XXXII][/us/pl/103/332/tXXXII], §§ 320910(b), 320914(b), Sept. 13, 1994, [108 Stat. 2127][/us/stat/108/2127], 2128, added items 21 and 23.
 
-    1990—[Pub. L. 101–647, title XXXV, § 3504][/us/pl/101/647/s3504], Nov. 29, 1990, [104 Stat. 4921][/us/stat/104/4921], substituted “defense” for “Defense” in item 17.
+    1990—[Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3504, Nov. 29, 1990, [104 Stat. 4921][/us/stat/104/4921], substituted “defense” for “Defense” in item 17.
 
-    1989—[Pub. L. 101–73, title IX, § 962(e)(3)][/us/pl/101/73/s962/e/3], Aug. 9, 1989, [103 Stat. 504][/us/stat/103/504], added item 20.
+    1989—[Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 962(e)(3), Aug. 9, 1989, [103 Stat. 504][/us/stat/103/504], added item 20.
 
-    1987—[Pub. L. 100–185, § 4(b)][/us/pl/100/185/s4/b], Dec. 11, 1987, [101 Stat. 1279][/us/stat/101/1279], added item 19.
+    1987—[Pub. L. 100–185][/us/pl/100/185], § 4(b), Dec. 11, 1987, [101 Stat. 1279][/us/stat/101/1279], added item 19.
 
     1986—[Pub. L. 99–646][/us/pl/99/646], §§ 34(b), 38(b), Nov. 10, 1986, [100 Stat. 3599][/us/stat/100/3599], renumbered item 20 as 17 and added item 18.
 
-    1984—[Pub. L. 98–473, title II][/us/pl/98/473], §§ 218(b), 402(b), 1001(b), Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027], 2057, 2136, substituted “Repealed” for “Offenses classified” in item 1 and added items 16 and 20.
+    1984—[Pub. L. 98–473, title II][/us/pl/98/473/tII], §§ 218(b), 402(b), 1001(b), Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027], 2057, 2136, substituted “Repealed” for “Offenses classified” in item 1 and added items 16 and 20.
 
-    1970—[Pub. L. 91–375, § 6(j)(1)][/us/pl/91/375/s6/j/1], Aug. 12, 1970, [84 Stat. 777][/us/stat/84/777], inserted “United States” before “Postal Service” in item 12.
+    1970—[Pub. L. 91–375][/us/pl/91/375], § 6(j)(1), Aug. 12, 1970, [84 Stat. 777][/us/stat/84/777], inserted “United States” before “Postal Service” in item 12.
 
-    1962—[Pub. L. 87–845, § 3(b)][/us/pl/87/845/s3/b], Oct. 18, 1962, [76A Stat. 698][/us/stat/76A/698], inserted “; definition” in item 14.
+    1962—[Pub. L. 87–845][/us/pl/87/845], § 3(b), Oct. 18, 1962, [76A Stat. 698][/us/stat/76A/698], inserted “; definition” in item 14.
 
-    1958—[Pub. L. 85–921, § 4][/us/pl/85/921/s4], Sept. 2, 1958, [72 Stat. 1771][/us/stat/72/1771], added item 15.
+    1958—[Pub. L. 85–921][/us/pl/85/921], § 4, Sept. 2, 1958, [72 Stat. 1771][/us/stat/72/1771], added item 15.
 
  __Commission on the Advancement of Federal Law Enforcement__ 
 
-    [Pub. L. 104–132, title VIII, § 806][/us/pl/104/132/s806], Apr. 24, 1996, [110 Stat. 1305][/us/stat/110/1305], established Commission on the Advancement of Federal Law Enforcement, directed Commission to review and recommend action to Congress on Federal law enforcement priorities for 21st century, including Federal law enforcement capability to investigate and deter adequately threat of terrorism facing United States, standards and procedures, degree of coordination with international, State, and local law enforcement agencies, and other matters, provided for membership and administration of Commission, staffing and support functions, and powers to hold hearings and obtain official data for purposes of carrying out its duties, required report to Congress and public of findings, conclusions, and recommendations not later than 2 years after quorum of Commission had been appointed, and provided for termination of Commission 30 days after submitting report.
+    [Pub. L. 104–132, title VIII][/us/pl/104/132/tVIII], § 806, Apr. 24, 1996, [110 Stat. 1305][/us/stat/110/1305], established Commission on the Advancement of Federal Law Enforcement, directed Commission to review and recommend action to Congress on Federal law enforcement priorities for 21st century, including Federal law enforcement capability to investigate and deter adequately threat of terrorism facing United States, standards and procedures, degree of coordination with international, State, and local law enforcement agencies, and other matters, provided for membership and administration of Commission, staffing and support functions, and powers to hold hearings and obtain official data for purposes of carrying out its duties, required report to Congress and public of findings, conclusions, and recommendations not later than 2 years after quorum of Commission had been appointed, and provided for termination of Commission 30 days after submitting report.
 
  __National Commission on Reform of Federal Criminal Laws__ 
 
@@ -308,35 +308,35 @@
 ----------
 ----------
 
-[/us/pl/111/21/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs2%2Fb%2F2
+[/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
 [/us/stat/123/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1617
-[/us/pl/109/177/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs302%2Fd
+[/us/pl/109/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIII
 [/us/stat/120/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F233
-[/us/pl/108/21/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs601%2Fb
+[/us/pl/108/21/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtVI
 [/us/stat/117/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F687
-[/us/pl/107/273/s4004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4004%2Fa
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1812
-[/us/pl/104/191/s241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs241%2Fb
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2016
-[/us/pl/103/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F332
+[/us/pl/103/332/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F332%2FtXXXII
 [/us/stat/108/2127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2127
-[/us/pl/101/647/s3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3504
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4921
-[/us/pl/101/73/s962/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs962%2Fe%2F3
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F504
-[/us/pl/100/185/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185%2Fs4%2Fb
+[/us/pl/100/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185
 [/us/stat/101/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1279
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3599
-[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2027
-[/us/pl/91/375/s6/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fj%2F1
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F777
-[/us/pl/87/845/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F845%2Fs3%2Fb
+[/us/pl/87/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F845
 [/us/stat/76A/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76A%2F698
-[/us/pl/85/921/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F921%2Fs4
+[/us/pl/85/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F921
 [/us/stat/72/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1771
-[/us/pl/104/132/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs806
+[/us/pl/104/132/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVIII
 [/us/stat/110/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1305
 [/us/pl/89/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F801
 [/us/stat/80/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1516

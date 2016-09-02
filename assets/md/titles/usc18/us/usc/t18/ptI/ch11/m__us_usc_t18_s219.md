@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s218.md) | [Next](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s223.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs219)
+[Previous](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s218.md) | [Next](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s220...222.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs219)
 
 ## § 219. Officers and employees acting as agents of foreign principals
 
@@ -21,7 +21,7 @@
 
     (c) For the purpose of this section “public official” means Member of Congress, Delegate, or Resident Commissioner, either before or after he has qualified, or an officer or employee or person acting for or on behalf of the United States, or any department, agency, or branch of Government thereof, including the District of Columbia, in any official function, under or by authority of any such department, agency, or branch of Government.
 
-(Added [Pub. L. 89–486, § 8(b)][/us/pl/89/486/s8/b], July 4, 1966, [80 Stat. 249][/us/stat/80/249]; amended [Pub. L. 98–473, title II, § 1116][/us/pl/98/473/s1116], Oct. 12, 1984, [98 Stat. 2149][/us/stat/98/2149]; [Pub. L. 99–646, § 30][/us/pl/99/646/s30], Nov. 10, 1986, [100 Stat. 3598][/us/stat/100/3598]; [Pub. L. 101–647, title XXXV, § 3511][/us/pl/101/647/s3511], Nov. 29, 1990, [104 Stat. 4922][/us/stat/104/4922]; [Pub. L. 104–65, § 12(b)][/us/pl/104/65/s12/b], Dec. 19, 1995, [109 Stat. 701][/us/stat/109/701].)
+(Added [Pub. L. 89–486][/us/pl/89/486], § 8(b), July 4, 1966, [80 Stat. 249][/us/stat/80/249]; amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1116, Oct. 12, 1984, [98 Stat. 2149][/us/stat/98/2149]; [Pub. L. 99–646][/us/pl/99/646], § 30, Nov. 10, 1986, [100 Stat. 3598][/us/stat/100/3598]; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3511, Nov. 29, 1990, [104 Stat. 4922][/us/stat/104/4922]; [Pub. L. 104–65][/us/pl/104/65], § 12(b), Dec. 19, 1995, [109 Stat. 701][/us/stat/109/701].)
 
  __References in Text__ 
 
@@ -39,11 +39,11 @@
 
     1990—Subsec. (c). [Pub. L. 101–647][/us/pl/101/647] substituted “Government” for “Governments” before “thereof”.
 
-    1986—Subsec. (a). [Pub. L. 99–646, § 30(1)][/us/pl/99/646/s30/1], designated first par. as subsec. (a) and amended it generally, which prior to amendment read as follows: “Whoever, being a public official of the United States in the executive, legislative, or judicial branch of the Government or in any agency of the United States, including the District of Columbia, is or acts as an agent of a foreign principal required to register under the Foreign Agents Registration Act of 1938, as amended, shall be fined not more than $10,000 or imprisoned for not more than two years, or both.”
+    1986—Subsec. (a). [Pub. L. 99–646][/us/pl/99/646], § 30(1), designated first par. as subsec. (a) and amended it generally, which prior to amendment read as follows: “Whoever, being a public official of the United States in the executive, legislative, or judicial branch of the Government or in any agency of the United States, including the District of Columbia, is or acts as an agent of a foreign principal required to register under the Foreign Agents Registration Act of 1938, as amended, shall be fined not more than $10,000 or imprisoned for not more than two years, or both.”
 
-    Subsec. (b). [Pub. L. 99–646, § 30(2)][/us/pl/99/646/s30/2], designated second par. as subsec. (b).
+    Subsec. (b). [Pub. L. 99–646][/us/pl/99/646], § 30(2), designated second par. as subsec. (b).
 
-    Subsec. (c). [Pub. L. 99–646, § 30(2)][/us/pl/99/646/s30/2], (3), designated third par. as subsec. (c) and substituted “Delegate” for “Delegate from the District of Columbia” and “branch of Government” for “branch of Government, or a juror”.
+    Subsec. (c). [Pub. L. 99–646][/us/pl/99/646], § 30(2), (3), designated third par. as subsec. (c) and substituted “Delegate” for “Delegate from the District of Columbia” and “branch of Government” for “branch of Government, or a juror”.
 
     1984—[Pub. L. 98–473][/us/pl/98/473] substituted “a public official” for “an officer or employee” in first par., and inserted par. defining “public official”.
 
@@ -55,24 +55,22 @@
 
     Section effective ninety days after July 4, 1966, see [section 9 of Pub. L. 89–486][/us/pl/89/486/s9], set out as an Effective Date of 1966 Amendment note under [section 611 of Title 22][/us/usc/t22/s611], Foreign Relations and Intercourse.
 
-\[§§ 220 to 222. __Renumbered §§ 215 to 217\]__ 
-
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s218.md) | [Next](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s223.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs219)
+[Previous](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s218.md) | [Next](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s220...222.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs219)
 
 ----------
 ----------
 
-[/us/pl/89/486/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486%2Fs8%2Fb
+[/us/pl/89/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486
 [/us/stat/80/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F249
-[/us/pl/98/473/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1116
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2149
-[/us/pl/99/646/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs30
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3598
-[/us/pl/101/647/s3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3511
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4922
-[/us/pl/104/65/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs12%2Fb
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F701
 [/us/act/1938-06-08/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch327
 [/us/stat/52/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F631
@@ -84,9 +82,9 @@
 [/us/usc/t2/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1601
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
-[/us/pl/99/646/s30/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs30%2F1
-[/us/pl/99/646/s30/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs30%2F2
-[/us/pl/99/646/s30/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs30%2F2
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/pl/104/65/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs24

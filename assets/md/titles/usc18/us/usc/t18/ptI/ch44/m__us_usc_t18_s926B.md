@@ -63,7 +63,7 @@
 
     (f) For the purposes of this section, a law enforcement officer of the Amtrak Police Department, a law enforcement officer of the Federal Reserve, or a law enforcement or police officer of the executive branch of the Federal Government qualifies as an employee of a governmental agency who is authorized by law to engage in or supervise the prevention, detection, investigation, or prosecution of, or the incarceration of any person for, any violation of law, and has statutory powers of arrest or apprehension under [section 807(b) of title 10][/us/usc/t10/s807/b], United States Code (article 7(b) of the Uniform Code of Military Justice).
 
-(Added [Pub. L. 108–277, § 2(a)][/us/pl/108/277/s2/a], July 22, 2004, [118 Stat. 865][/us/stat/118/865]; amended [Pub. L. 111–272, § 2(a)][/us/pl/111/272/s2/a], (b), Oct. 12, 2010, [124 Stat. 2855][/us/stat/124/2855]; [Pub. L. 112–239, div. A, title X, § 1089(1)][/us/pl/112/239/s1089/1], Jan. 2, 2013, [126 Stat. 1970][/us/stat/126/1970].)
+(Added [Pub. L. 108–277][/us/pl/108/277], § 2(a), July 22, 2004, [118 Stat. 865][/us/stat/118/865]; amended [Pub. L. 111–272][/us/pl/111/272], § 2(a), (b), Oct. 12, 2010, [124 Stat. 2855][/us/stat/124/2855]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1089(1), Jan. 2, 2013, [126 Stat. 1970][/us/stat/126/1970].)
 
  __References in Text__ 
 
@@ -71,15 +71,15 @@
 
  __Amendments__ 
 
-    2013—Subsec. (c)(1). [Pub. L. 112–239, § 1089(1)(A)][/us/pl/112/239/s1089/1/A], inserted “or apprehension under [section 807(b) of title 10][/us/usc/t10/s807/b], United States Code (article 7(b) of the Uniform Code of Military Justice)” after “arrest”.
+    2013—Subsec. (c)(1). [Pub. L. 112–239][/us/pl/112/239], § 1089(1)(A), inserted “or apprehension under [section 807(b) of title 10][/us/usc/t10/s807/b], United States Code (article 7(b) of the Uniform Code of Military Justice)” after “arrest”.
 
-    Subsec. (d). [Pub. L. 112–239, § 1089(1)(B)][/us/pl/112/239/s1089/1/B], substituted “that identifies the employee as a police officer or law enforcement officer of the agency” for “as a law enforcement officer”.
+    Subsec. (d). [Pub. L. 112–239][/us/pl/112/239], § 1089(1)(B), substituted “that identifies the employee as a police officer or law enforcement officer of the agency” for “as a law enforcement officer”.
 
-    Subsec. (f). [Pub. L. 112–239, § 1089(1)(C)][/us/pl/112/239/s1089/1/C], inserted “or apprehension under [section 807(b) of title 10][/us/usc/t10/s807/b], United States Code (article 7(b) of the Uniform Code of Military Justice)” after “arrest”.
+    Subsec. (f). [Pub. L. 112–239][/us/pl/112/239], § 1089(1)(C), inserted “or apprehension under [section 807(b) of title 10][/us/usc/t10/s807/b], United States Code (article 7(b) of the Uniform Code of Military Justice)” after “arrest”.
 
-    2010—Subsec. (c)(3). [Pub. L. 111–272, § 2(a)(1)][/us/pl/111/272/s2/a/1], inserted “which could result in suspension or loss of police powers” after “agency”.
+    2010—Subsec. (c)(3). [Pub. L. 111–272][/us/pl/111/272], § 2(a)(1), inserted “which could result in suspension or loss of police powers” after “agency”.
 
-    Subsec. (e). [Pub. L. 111–272, § 2(b)][/us/pl/111/272/s2/b], added subsec. (e) and struck out former subsec. (e) which read as follows: “As used in this section, the term ‘firearm’ does not include—
+    Subsec. (e). [Pub. L. 111–272][/us/pl/111/272], § 2(b), added subsec. (e) and struck out former subsec. (e) which read as follows: “As used in this section, the term ‘firearm’ does not include—
 
     “(1) any machinegun (as defined in section 5845 of the National Firearms Act);
 
@@ -87,7 +87,7 @@
 
     “(3) any destructive device (as defined in [section 921 of this title][/us/usc/t18/s921]).”
 
-    Subsec. (f). [Pub. L. 111–272, § 2(a)(2)][/us/pl/111/272/s2/a/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 111–272][/us/pl/111/272], § 2(a)(2), added subsec. (f).
 
 ----------
 
@@ -101,23 +101,23 @@
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
 [/us/usc/t10/s807/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs807%2Fb
-[/us/pl/108/277/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F277%2Fs2%2Fa
+[/us/pl/108/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F277
 [/us/stat/118/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F865
-[/us/pl/111/272/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272%2Fs2%2Fa
+[/us/pl/111/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272
 [/us/stat/124/2855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2855
-[/us/pl/112/239/s1089/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1089%2F1
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1970
 [/us/usc/t26/s5849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5849
 [/us/usc/t26/s5845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5845
-[/us/pl/112/239/s1089/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1089%2F1%2FA
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t10/s807/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs807%2Fb
-[/us/pl/112/239/s1089/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1089%2F1%2FB
-[/us/pl/112/239/s1089/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1089%2F1%2FC
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t10/s807/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs807%2Fb
-[/us/pl/111/272/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272%2Fs2%2Fa%2F1
-[/us/pl/111/272/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272%2Fs2%2Fb
+[/us/pl/111/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272
+[/us/pl/111/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
-[/us/pl/111/272/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272%2Fs2%2Fa%2F2
+[/us/pl/111/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F272
 
 

@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 493 ([Mar. 4, 1909, ch. 321, § 302][/us/act/1909-03-04/ch321/s302], [35 Stat. 1147][/us/stat/35/1147]).
+    Based on title 18, U.S.C., 1940 ed., § 493 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 302, [35 Stat. 1147][/us/stat/35/1147]).
 
     Transposition of several words was made.
 
@@ -34,7 +34,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F775
-[/us/act/1909-03-04/ch321/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs302
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1147
 
 

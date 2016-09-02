@@ -31,7 +31,7 @@
 
     (8) Any investigative or law enforcement officer, or other Federal official in carrying out official duties as such Federal official, who by any means authorized by this chapter, has obtained knowledge of the contents of any wire, oral, or electronic communication, or evidence derived therefrom, may disclose such contents or derivative evidence to any appropriate Federal, State, local, or foreign government official to the extent that such contents or derivative evidence reveals a threat of actual or potential attack or other grave hostile acts of a foreign power or an agent of a foreign power, domestic or international sabotage, domestic or international terrorism, or clandestine intelligence gathering activities by an intelligence service or network of a foreign power or by an agent of a foreign power, within the United States or elsewhere, for the purpose of preventing or responding to such a threat. Any official who receives information pursuant to this provision may use that information only as necessary in the conduct of that person’s official duties subject to any limitations on the unauthorized disclosure of such information, and any State, local, or foreign official who receives information pursuant to this provision may use that information only consistent with such guidelines as the Attorney General and Director of Central Intelligence shall jointly issue.
 
-(Added [Pub. L. 90–351, title III, § 802][/us/pl/90/351/s802], June 19, 1968, [82 Stat. 217][/us/stat/82/217]; amended [Pub. L. 91–452, title IX, § 902(b)][/us/pl/91/452/s902/b], Oct. 15, 1970, [84 Stat. 947][/us/stat/84/947]; [Pub. L. 99–508, title I, § 101(c)(1)(A)][/us/pl/99/508/s101/c/1/A], Oct. 21, 1986, [100 Stat. 1851][/us/stat/100/1851]; [Pub. L. 107–56, title II, § 203(b)(1)][/us/pl/107/56/s203/b/1], Oct. 26, 2001, [115 Stat. 280][/us/stat/115/280]; [Pub. L. 107–296, title VIII, § 896][/us/pl/107/296/s896], Nov. 25, 2002, [116 Stat. 2257][/us/stat/116/2257].)
+(Added [Pub. L. 90–351, title III][/us/pl/90/351/tIII], § 802, June 19, 1968, [82 Stat. 217][/us/stat/82/217]; amended [Pub. L. 91–452, title IX][/us/pl/91/452/tIX], § 902(b), Oct. 15, 1970, [84 Stat. 947][/us/stat/84/947]; [Pub. L. 99–508, title I][/us/pl/99/508/tI], § 101(c)(1)(A), Oct. 21, 1986, [100 Stat. 1851][/us/stat/100/1851]; [Pub. L. 107–56, title II][/us/pl/107/56/tII], § 203(b)(1), Oct. 26, 2001, [115 Stat. 280][/us/stat/115/280]; [Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 896, Nov. 25, 2002, [116 Stat. 2257][/us/stat/116/2257].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 
  __Procedures for Disclosure of Information__ 
 
-[Pub. L. 107–56, title II, § 203(c)][/us/pl/107/56/s203/c], Oct. 26, 2001, [115 Stat. 280][/us/stat/115/280], as amended by [Pub. L. 107–296, title VIII, § 897(b)][/us/pl/107/296/s897/b], Nov. 25, 2002, [116 Stat. 2258][/us/stat/116/2258]; [Pub. L. 108–458, title VI, § 6501(b)][/us/pl/108/458/s6501/b], Dec. 17, 2004, [118 Stat. 3760][/us/stat/118/3760], provided that: 
+[Pub. L. 107–56, title II][/us/pl/107/56/tII], § 203(c), Oct. 26, 2001, [115 Stat. 280][/us/stat/115/280], as amended by [Pub. L. 107–296, title VIII][/us/pl/107/296/tVIII], § 897(b), Nov. 25, 2002, [116 Stat. 2258][/us/stat/116/2258]; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6501(b), Dec. 17, 2004, [118 Stat. 3760][/us/stat/118/3760], provided that: 
 
 > “The Attorney General shall establish procedures for the disclosure of information pursuant to paragraphs (6) and (8) of [section 2517 of title 18][/us/usc/t18/s2517], United States Code, and Rule 6(e)(3)(D) of the Federal Rules of Criminal Procedure \[18 U.S.C. App.\] that identifies a United States person, as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801][/us/usc/t50/s1801])) \[sic\].”
 
@@ -74,15 +74,15 @@
 
 [/us/usc/t50/s401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a
 [/us/usc/t18/s2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2510
-[/us/pl/90/351/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs802
+[/us/pl/90/351/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtIII
 [/us/stat/82/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F217
-[/us/pl/91/452/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs902%2Fb
+[/us/pl/91/452/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtIX
 [/us/stat/84/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F947
-[/us/pl/99/508/s101/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fc%2F1%2FA
+[/us/pl/99/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtI
 [/us/stat/100/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1851
-[/us/pl/107/56/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs203%2Fb%2F1
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F280
-[/us/pl/107/296/s896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs896
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2257
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
@@ -99,11 +99,11 @@
 [/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
 [/us/pl/99/508/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs111
 [/us/usc/t18/s2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2510
-[/us/pl/107/56/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs203%2Fc
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F280
-[/us/pl/107/296/s897/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs897%2Fb
+[/us/pl/107/296/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtVIII
 [/us/stat/116/2258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2258
-[/us/pl/108/458/s6501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6501%2Fb
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3760
 [/us/usc/t18/s2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2517
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801

@@ -25,7 +25,7 @@
 
     (b) Nothing contained in this section shall make unlawful any act of any law enforcement officer which is performed in the lawful performance of his official duties.
 
-(Added [Pub. L. 90–284, title X, § 1002(a)][/us/pl/90/284/s1002/a], Apr. 11, 1968, [82 Stat. 90][/us/stat/82/90]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+(Added [Pub. L. 90–284, title X][/us/pl/90/284/tX], § 1002(a), Apr. 11, 1968, [82 Stat. 90][/us/stat/82/90]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Short Title__ 
 
-[Pub. L. 90–284, title X, § 1001][/us/pl/90/284/s1001], Apr. 11, 1968, [82 Stat. 90][/us/stat/82/90], provided that: 
+[Pub. L. 90–284, title X][/us/pl/90/284/tX], § 1001, Apr. 11, 1968, [82 Stat. 90][/us/stat/82/90], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Civil Obedience Act of 1968’.”
 
@@ -44,12 +44,12 @@
 ----------
 ----------
 
-[/us/pl/90/284/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs1002%2Fa
+[/us/pl/90/284/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtX
 [/us/stat/82/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F90
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/90/284/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs1001
+[/us/pl/90/284/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtX
 [/us/stat/82/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F90
 
 

@@ -83,6 +83,8 @@
 
             (H) Any property, real or personal, involved in a violation or attempted violation, or which constitutes or is derived from proceeds traceable to a violation, of [section 2339C of this title][/us/usc/t18/s2339C].
 
+            (I) Any property, real or personal, that is involved in a violation or attempted violation, or which constitutes or is derived from proceeds traceable to a prohibition imposed pursuant to section 104(a) of the North Korea Sanctions and Policy Enhancement Act of 2016.
+
         (2)
 
          For purposes of paragraph (1), the term “proceeds” is defined as follows:
@@ -263,11 +265,13 @@
 
                     (II) the foreign financial institution (as defined in [section 984(c)(2)(A) of this title][/us/usc/t18/s984/c/2/A]) establishes, by a preponderance of the evidence, that prior to the restraint, seizure, or arrest of the funds, the foreign financial institution (as defined in [section 984(c)(2)(A) of this title][/us/usc/t18/s984/c/2/A]) had discharged all or part of its obligation to the prior owner of the funds, in which case the foreign financial institution (as defined in [section 984(c)(2)(A) of this title][/us/usc/t18/s984/c/2/A]) shall be deemed the owner of the funds to the extent of such discharged obligation.
 
-(Added [Pub. L. 99–570, title I, § 1366(a)][/us/pl/99/570/s1366/a], Oct. 27, 1986, [100 Stat. 3207–35][/us/stat/100/3207-35]; amended [Pub. L. 100–690, title VI][/us/pl/100/690], §§ 6463(a), (b), 6469(b), 6470(b), (e), (f), 6471(c), Nov. 18, 1988, [102 Stat. 4374][/us/stat/102/4374], 4377, 4378; [Pub. L. 101–73, title IX, § 963(a)][/us/pl/101/73/s963/a], (b), Aug. 9, 1989, [103 Stat. 504][/us/stat/103/504]; [Pub. L. 101–647, title I, § 103][/us/pl/101/647/s103], title XXV, §§ 2508, 2524, 2525(a), title XXXV, § 3531, Nov. 29, 1990, [104 Stat. 4791][/us/stat/104/4791], 4862, 4873, 4874, 4924; [Pub. L. 102–393, title VI, § 638(d)][/us/pl/102/393/s638/d], Oct. 6, 1992, [106 Stat. 1788][/us/stat/106/1788]; [Pub. L. 102–519, title I, § 104(a)][/us/pl/102/519/s104/a], Oct. 25, 1992, [106 Stat. 3385][/us/stat/106/3385]; [Pub. L. 102–550, title XV][/us/pl/102/550], §§ 1525(c)(1), 1533, Oct. 28, 1992, [106 Stat. 4065][/us/stat/106/4065], 4066; [Pub. L. 103–322, title XXXIII, § 330011(s)(2)][/us/pl/103/322/s330011/s/2], Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146]; [Pub. L. 103–447, title I, § 102(b)][/us/pl/103/447/s102/b], Nov. 2, 1994, [108 Stat. 4693][/us/stat/108/4693]; [Pub. L. 106–185][/us/pl/106/185], §§ 2(c)(1), 5(a), 6, 8(a), 20, Apr. 25, 2000, [114 Stat. 210][/us/stat/114/210], 213–215, 224; [Pub. L. 107–56, title III][/us/pl/107/56], §§ 319(a), 320, 372(b)(1), 373(b), title VIII, § 806, Oct. 26, 2001, [115 Stat. 311][/us/stat/115/311], 315, 339, 340, 378; [Pub. L. 107–197, title III, § 301(d)][/us/pl/107/197/s301/d], June 25, 2002, [116 Stat. 728][/us/stat/116/728]; [Pub. L. 107–273, div. B, title IV, § 4002(a)(2)][/us/pl/107/273/s4002/a/2], Nov. 2, 2002, [116 Stat. 1806][/us/stat/116/1806]; [Pub. L. 109–177, title I][/us/pl/109/177], §§ 111, 120, title IV, §§ 404, 406(a)(3), Mar. 9, 2006, [120 Stat. 209][/us/stat/120/209], 221, 244; [Pub. L. 111–203, title III, § 377(3)][/us/pl/111/203/s377/3], July 21, 2010, [124 Stat. 1569][/us/stat/124/1569]; [Pub. L. 112–186, § 3][/us/pl/112/186/s3], Oct. 5, 2012, [126 Stat. 1428][/us/stat/126/1428].)
+(Added [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1366(a), Oct. 27, 1986, [100 Stat. 3207–35][/us/stat/100/3207-35]; amended [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], §§ 6463(a), (b), 6469(b), 6470(b), (e), (f), 6471(c), Nov. 18, 1988, [102 Stat. 4374][/us/stat/102/4374], 4377, 4378; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 963(a), (b), Aug. 9, 1989, [103 Stat. 504][/us/stat/103/504]; [Pub. L. 101–647, title I][/us/pl/101/647/tI], § 103, title XXV, §§ 2508, 2524, 2525(a), title XXXV, § 3531, Nov. 29, 1990, [104 Stat. 4791][/us/stat/104/4791], 4862, 4873, 4874, 4924; [Pub. L. 102–393, title VI][/us/pl/102/393/tVI], § 638(d), Oct. 6, 1992, [106 Stat. 1788][/us/stat/106/1788]; [Pub. L. 102–519, title I][/us/pl/102/519/tI], § 104(a), Oct. 25, 1992, [106 Stat. 3385][/us/stat/106/3385]; [Pub. L. 102–550, title XV][/us/pl/102/550/tXV], §§ 1525(c)(1), 1533, Oct. 28, 1992, [106 Stat. 4065][/us/stat/106/4065], 4066; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330011(s)(2), Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146]; [Pub. L. 103–447, title I][/us/pl/103/447/tI], § 102(b), Nov. 2, 1994, [108 Stat. 4693][/us/stat/108/4693]; [Pub. L. 106–185][/us/pl/106/185], §§ 2(c)(1), 5(a), 6, 8(a), 20, Apr. 25, 2000, [114 Stat. 210][/us/stat/114/210], 213–215, 224; [Pub. L. 107–56, title III][/us/pl/107/56/tIII], §§ 319(a), 320, 372(b)(1), 373(b), title VIII, § 806, Oct. 26, 2001, [115 Stat. 311][/us/stat/115/311], 315, 339, 340, 378; [Pub. L. 107–197, title III][/us/pl/107/197/tIII], § 301(d), June 25, 2002, [116 Stat. 728][/us/stat/116/728]; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(a)(2), Nov. 2, 2002, [116 Stat. 1806][/us/stat/116/1806]; [Pub. L. 109–177, title I][/us/pl/109/177/tI], §§ 111, 120, title IV, §§ 404, 406(a)(3), Mar. 9, 2006, [120 Stat. 209][/us/stat/120/209], 221, 244; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 377(3), July 21, 2010, [124 Stat. 1569][/us/stat/124/1569]; [Pub. L. 112–186][/us/pl/112/186], § 3, Oct. 5, 2012, [126 Stat. 1428][/us/stat/126/1428]; [Pub. L. 114–122, title I][/us/pl/114/122/tI], § 105(a), Feb. 18, 2016, [130 Stat. 101][/us/stat/130/101].)
 
  __References in Text__ 
 
     The Controlled Substances Act, referred to in subsecs. (a)(1)(B)(i), (b)(4)(A), and (k)(1)(A), is title II of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242], as amended, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21][/us/usc/t21/s801] and Tables.
+
+    Section 104(a) of the North Korea Sanctions and Policy Enhancement Act of 2016, referred to in subsec. (a)(1)(I), is classified to [section 9214(a) of Title 22][/us/usc/t22/s9214/a], Foreign Relations and Intercourse.
 
     The Federal Rules of Criminal Procedure, referred to in subsec. (b)(2), (3), are set out in the Appendix to this title.
 
@@ -279,25 +283,27 @@
 
     Section 8(e)(7)(D) of the Federal Deposit Insurance Act, referred to in subsec. (e)(7), is classified to [section 1818(e)(7)(D) of Title 12][/us/usc/t12/s1818/e/7/D], Banks and Banking.
 
-    Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (i)(1)(C), was classified to [section 2291(h) of Title 22][/us/usc/t22/s2291/h], Foreign Relations and Intercourse, prior to repeal of subsec. (h) by [Pub. L. 102–583, § 6(b)(2)][/us/pl/102/583/s6/b/2], Nov. 2, 1992, [106 Stat. 4932][/us/stat/106/4932]. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably should be to section 490(a)(1) of the Act, which is classified to [section 2291j(a)(1) of Title 22][/us/usc/t22/s2291j/a/1].
+    Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (i)(1)(C), was classified to [section 2291(h) of Title 22][/us/usc/t22/s2291/h], Foreign Relations and Intercourse, prior to repeal of subsec. (h) by [Pub. L. 102–583][/us/pl/102/583], § 6(b)(2), Nov. 2, 1992, [106 Stat. 4932][/us/stat/106/4932]. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably should be to section 490(a)(1) of the Act, which is classified to [section 2291j(a)(1) of Title 22][/us/usc/t22/s2291j/a/1].
 
  __Amendments__ 
+
+    2016—Subsec. (a)(1)(I). [Pub. L. 114–122][/us/pl/114/122] added subpar. (I).
 
     2012—Subsec. (a)(1)(C). [Pub. L. 112–186][/us/pl/112/186] inserted “670,” after “657,”.
 
     2010—Subsec. (a)(1)(D). [Pub. L. 111–203][/us/pl/111/203], in concluding provisions, struck out “Resolution Trust Corporation,” after “acquired or held by the” and “or the Office of Thrift Supervision” after “Office of the Comptroller of the Currency”.
 
-    2006—Subsec. (a)(1)(B)(i). [Pub. L. 109–177, § 111][/us/pl/109/177/s111], inserted “trafficking in nuclear, chemical, biological, or radiological weapons technology or material, or” after “involves”.
+    2006—Subsec. (a)(1)(B)(i). [Pub. L. 109–177][/us/pl/109/177], § 111, inserted “trafficking in nuclear, chemical, biological, or radiological weapons technology or material, or” after “involves”.
 
-    Subsec. (a)(1)(G)(i). [Pub. L. 109–177, § 120(1)][/us/pl/109/177/s120/1], which directed amendment of cl. (i) by substituting “any Federal crime of terrorism (as defined in section 2332b(g)(5))” for “act of international or domestic terrorism (as defined in section 2331)”, was executed by making the substitution for “act of domestic or international terrorism (as defined in section 2331)”, to reflect the probable intent of Congress.
+    Subsec. (a)(1)(G)(i). [Pub. L. 109–177][/us/pl/109/177], § 120(1), which directed amendment of cl. (i) by substituting “any Federal crime of terrorism (as defined in section 2332b(g)(5))” for “act of international or domestic terrorism (as defined in section 2331)”, was executed by making the substitution for “act of domestic or international terrorism (as defined in section 2331)”, to reflect the probable intent of Congress.
 
-    Subsec. (a)(1)(G)(ii). [Pub. L. 109–177, § 120(2)][/us/pl/109/177/s120/2], which directed amendment of cl. (ii) by “striking ‘an act of international or domestic terrorism (as defined in section 2331)’ with ‘any Federal crime of terrorism (as defined in section 2332b(g)(5)’ ”, was executed by striking “an act of domestic or international terrorism (as defined in section 2331)” and inserting “any Federal crime of terrorism (as defined in section 2332b(g)(5)”, to reflect the probable intent of Congress.
+    Subsec. (a)(1)(G)(ii). [Pub. L. 109–177][/us/pl/109/177], § 120(2), which directed amendment of cl. (ii) by “striking ‘an act of international or domestic terrorism (as defined in section 2331)’ with ‘any Federal crime of terrorism (as defined in section 2332b(g)(5)’ ”, was executed by striking “an act of domestic or international terrorism (as defined in section 2331)” and inserting “any Federal crime of terrorism (as defined in section 2332b(g)(5)”, to reflect the probable intent of Congress.
 
-    Subsec. (a)(i)(G)(iii). [Pub. L. 109–177, § 120(3)][/us/pl/109/177/s120/3], which directed amendment of cl. (iii) by substituting “Federal crime of terrorism (as defined in section 2332b(g)(5))” for “act of international or domestic terrorism (as defined in section 2331)”, was executed by making the substitution for “act of domestic or international terrorism (as defined in section 2331)”, to reflect the probable intent of Congress.
+    Subsec. (a)(i)(G)(iii). [Pub. L. 109–177][/us/pl/109/177], § 120(3), which directed amendment of cl. (iii) by substituting “Federal crime of terrorism (as defined in section 2332b(g)(5))” for “act of international or domestic terrorism (as defined in section 2331)”, was executed by making the substitution for “act of domestic or international terrorism (as defined in section 2331)”, to reflect the probable intent of Congress.
 
-    Subsec. (a)(1)(G)(iv). [Pub. L. 109–177, § 404][/us/pl/109/177/s404], added cl. (iv).
+    Subsec. (a)(1)(G)(iv). [Pub. L. 109–177][/us/pl/109/177], § 404, added cl. (iv).
 
-    Subsec. (k). [Pub. L. 109–177, § 406(a)(3)][/us/pl/109/177/s406/a/3], substituted “foreign financial institution (as defined in [section 984(c)(2)(A) of this title][/us/usc/t18/s984/c/2/A])” for “foreign bank” wherever appearing.
+    Subsec. (k). [Pub. L. 109–177][/us/pl/109/177], § 406(a)(3), substituted “foreign financial institution (as defined in [section 984(c)(2)(A) of this title][/us/usc/t18/s984/c/2/A])” for “foreign bank” wherever appearing.
 
     2002—Subsec. (a)(1)(H). [Pub. L. 107–197][/us/pl/107/197] added subpar. (H).
 
@@ -305,19 +311,19 @@
 
     2001—Subsec. (a)(1)(A). [Pub. L. 107–56][/us/pl/107/56], §§ 372(b)(1), 373(b), struck out “of section 5313(a) or 5324(a) of title 31, or” after “transaction or attempted transaction in violation”, substituted “, 1957 or 1960” for “or 1957”, and struck out at end “However, no property shall be seized or forfeited in the case of a violation of [section 5313(a) of title 31][/us/usc/t31/s5313/a] by a domestic financial institution examined by a Federal bank supervisory agency or a financial institution regulated by the Securities and Exchange Commission or a partner, director, or employee thereof.”
 
-    Subsec. (a)(1)(B). [Pub. L. 107–56, § 320][/us/pl/107/56/s320], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Any property, real or personal, within the jurisdiction of the United States, constituting, derived from, or traceable to, any proceeds obtained directly or indirectly from an offense against a foreign nation involving the manufacture, importation, sale, or distribution of a controlled substance (as such term is defined for the purposes of the Controlled Substances Act), within whose jurisdiction such offense would be punishable by death or imprisonment for a term exceeding one year and which would be punishable under the laws of the United States by imprisonment for a term exceeding one year if such act or activity constituting the offense against the foreign nation had occurred within the jurisdiction of the United States.”
+    Subsec. (a)(1)(B). [Pub. L. 107–56][/us/pl/107/56], § 320, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Any property, real or personal, within the jurisdiction of the United States, constituting, derived from, or traceable to, any proceeds obtained directly or indirectly from an offense against a foreign nation involving the manufacture, importation, sale, or distribution of a controlled substance (as such term is defined for the purposes of the Controlled Substances Act), within whose jurisdiction such offense would be punishable by death or imprisonment for a term exceeding one year and which would be punishable under the laws of the United States by imprisonment for a term exceeding one year if such act or activity constituting the offense against the foreign nation had occurred within the jurisdiction of the United States.”
 
-    Subsec. (a)(1)(G). [Pub. L. 107–56, § 806][/us/pl/107/56/s806], added subpar. (G).
+    Subsec. (a)(1)(G). [Pub. L. 107–56][/us/pl/107/56], § 806, added subpar. (G).
 
-    Subsec. (k). [Pub. L. 107–56, § 319(a)][/us/pl/107/56/s319/a], added subsec. (k).
+    Subsec. (k). [Pub. L. 107–56][/us/pl/107/56], § 319(a), added subsec. (k).
 
-    2000—Subsec. (a)(1). [Pub. L. 106–185, § 2(c)(1)(A)][/us/pl/106/185/s2/c/1/A], substituted “The” for “Except as provided in paragraph (2), the” in introductory provisions.
+    2000—Subsec. (a)(1). [Pub. L. 106–185][/us/pl/106/185], § 2(c)(1)(A), substituted “The” for “Except as provided in paragraph (2), the” in introductory provisions.
 
-    Subsec. (a)(1)(C). [Pub. L. 106–185, § 20(a)][/us/pl/106/185/s20/a], substituted “or any offense constituting ‘specified unlawful activity’ (as defined in [section 1956(c)(7) of this title][/us/usc/t18/s1956/c/7]), or a conspiracy to commit such offense.” for “or a violation of section 1341 or 1343 of such title affecting a financial institution.”
+    Subsec. (a)(1)(C). [Pub. L. 106–185][/us/pl/106/185], § 20(a), substituted “or any offense constituting ‘specified unlawful activity’ (as defined in [section 1956(c)(7) of this title][/us/usc/t18/s1956/c/7]), or a conspiracy to commit such offense.” for “or a violation of section 1341 or 1343 of such title affecting a financial institution.”
 
     Subsec. (a)(2). [Pub. L. 106–185][/us/pl/106/185], §§ 2(c)(1)(B), 20(b), added par. (2) and struck out former par. (2) which read as follows: “No property shall be forfeited under this section to the extent of the interest of an owner or lienholder by reason of any act or omission established by that owner or lienholder to have been committed without the knowledge of that owner or lienholder.”
 
-    Subsec. (b). [Pub. L. 106–185, § 5(a)][/us/pl/106/185/s5/a], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+    Subsec. (b). [Pub. L. 106–185][/us/pl/106/185], § 5(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
     “(b)(1) Any property—
 
@@ -335,77 +341,77 @@
 
     “(B) the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, has obtained a warrant for such seizure pursuant to the Federal Rules of Criminal Procedure, in which event proceedings under subsection (d) of this section shall be instituted promptly.”
 
-    Subsec. (e)(6). [Pub. L. 106–185, § 6][/us/pl/106/185/s6], added par. (6) and struck out former par. (6) which read as follows: “in the case of property referred to in subsection (a)(1)(C), restore forfeited property to any victim of an offense described in subsection (a)(1)(C); or”.
+    Subsec. (e)(6). [Pub. L. 106–185][/us/pl/106/185], § 6, added par. (6) and struck out former par. (6) which read as follows: “in the case of property referred to in subsection (a)(1)(C), restore forfeited property to any victim of an offense described in subsection (a)(1)(C); or”.
 
-    Subsec. (g). [Pub. L. 106–185, § 8(a)][/us/pl/106/185/s8/a], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The filing of an indictment or information alleging a violation of law, Federal, State, or local, which is also related to a forfeiture proceeding under this section shall, upon motion of the United States and for good cause shown, stay the forfeiture proceeding.”
+    Subsec. (g). [Pub. L. 106–185][/us/pl/106/185], § 8(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The filing of an indictment or information alleging a violation of law, Federal, State, or local, which is also related to a forfeiture proceeding under this section shall, upon motion of the United States and for good cause shown, stay the forfeiture proceeding.”
 
-    1994—Subsec. (e)(7). [Pub. L. 103–322, § 330011(s)(2)][/us/pl/103/322/s330011/s/2], amended directory language of [Pub. L. 101–647, § 2525(a)(2)][/us/pl/101/647/s2525/a/2]. See 1990 Amendment note below.
+    1994—Subsec. (e)(7). [Pub. L. 103–322][/us/pl/103/322], § 330011(s)(2), amended directory language of [Pub. L. 101–647][/us/pl/101/647], § 2525(a)(2). See 1990 Amendment note below.
 
     Subsec. (i)(1)(C). [Pub. L. 103–447][/us/pl/103/447], which directed substitution of “section 490(a)(1) of the Foreign Assistance Act of 1961” for “paragraph (1)(A) of section 481(h) of the Foreign Assistance Act of 1961”, could not be executed because the words “paragraph (1)(A) of” do not appear in text.
 
-    1992—Subsec. (a)(1)(A). [Pub. L. 102–550, § 1525(c)(1)][/us/pl/102/550/s1525/c/1], substituted “5324(a)” for “5324”.
+    1992—Subsec. (a)(1)(A). [Pub. L. 102–550][/us/pl/102/550], § 1525(c)(1), substituted “5324(a)” for “5324”.
 
     Subsec. (a)(1)(C). [Pub. L. 102–393][/us/pl/102/393] inserted provisions relating to sections 471, 472, 473, 474, 476, 477, 478, 479, 480, 481, 485, 486, 487, 488, 501, 502, 510, 542, 545, 842, 844, 1028, 1029, and 1030 of this title.
 
     Subsec. (a)(1)(F). [Pub. L. 102–519][/us/pl/102/519] added subpar. (F).
 
-    Subsec. (e). [Pub. L. 102–550, § 1533][/us/pl/102/550/s1533], struck out penultimate sentence of concluding provisions which read as follows: “The authority granted to the Secretary of the Treasury and the Postal Service pursuant to this subsection shall apply only to property that has been administratively forfeited.”
+    Subsec. (e). [Pub. L. 102–550][/us/pl/102/550], § 1533, struck out penultimate sentence of concluding provisions which read as follows: “The authority granted to the Secretary of the Treasury and the Postal Service pursuant to this subsection shall apply only to property that has been administratively forfeited.”
 
-    1990—Subsec. (a)(1)(C). [Pub. L. 101–647, § 2524(1)][/us/pl/101/647/s2524/1], inserted “1032,” after “1014,” and “or a violation of section 1341 or 1343 of such title affecting a financial institution” before period at end.
+    1990—Subsec. (a)(1)(C). [Pub. L. 101–647][/us/pl/101/647], § 2524(1), inserted “1032,” after “1014,” and “or a violation of section 1341 or 1343 of such title affecting a financial institution” before period at end.
 
-    Subsec. (a)(1)(D), (E). [Pub. L. 101–647, § 2525(a)(1)][/us/pl/101/647/s2525/a/1], added subpars. (D) and (E).
+    Subsec. (a)(1)(D), (E). [Pub. L. 101–647][/us/pl/101/647], § 2525(a)(1), added subpars. (D) and (E).
 
-    Subsec. (b). [Pub. L. 101–647, § 2524(2)][/us/pl/101/647/s2524/2], added par. (1) and par. (2) introductory provisions, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (2), and struck out former introductory provisions which read as follows: “Any property subject to forfeiture to the United States under subsection (a)(1)(A) or (a)(1)(B) of this section may be seized by the Attorney General or, with respect to property involved in a violation of section 5313(a) or 5324 of title 31 or of section 1956 or 1957 of this title investigated by the Secretary of the Treasury or the Postal Service may be seized by the Secretary of the Treasury or the Postal Service, in each case upon process issued pursuant to the Supplemental Rules for certain Admiralty and Maritime Claims by any district court of the United States having jurisdiction over the property, except that seizure without such process may be made when—”.
+    Subsec. (b). [Pub. L. 101–647][/us/pl/101/647], § 2524(2), added par. (1) and par. (2) introductory provisions, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (2), and struck out former introductory provisions which read as follows: “Any property subject to forfeiture to the United States under subsection (a)(1)(A) or (a)(1)(B) of this section may be seized by the Attorney General or, with respect to property involved in a violation of section 5313(a) or 5324 of title 31 or of section 1956 or 1957 of this title investigated by the Secretary of the Treasury or the Postal Service may be seized by the Secretary of the Treasury or the Postal Service, in each case upon process issued pursuant to the Supplemental Rules for certain Admiralty and Maritime Claims by any district court of the United States having jurisdiction over the property, except that seizure without such process may be made when—”.
 
-    Subsec. (d). [Pub. L. 101–647, § 3531][/us/pl/101/647/s3531], inserted a period at end.
+    Subsec. (d). [Pub. L. 101–647][/us/pl/101/647], § 3531, inserted a period at end.
 
-    Subsec. (e)(3), (4). [Pub. L. 101–647, § 2524(3)][/us/pl/101/647/s2524/3], (4), struck out “(if the affected financial institution is in receivership or liquidation)” after “subsection (a)(1)(C)”.
+    Subsec. (e)(3), (4). [Pub. L. 101–647][/us/pl/101/647], § 2524(3), (4), struck out “(if the affected financial institution is in receivership or liquidation)” after “subsection (a)(1)(C)”.
 
-    Subsec. (e)(6). [Pub. L. 101–647, § 2508][/us/pl/101/647/s2508], added par. (6).
+    Subsec. (e)(6). [Pub. L. 101–647][/us/pl/101/647], § 2508, added par. (6).
 
-    Subsec. (e)(7). [Pub. L. 101–647, § 2525(a)(2)][/us/pl/101/647/s2525/a/2], as amended by [Pub. L. 103–322, § 330011(s)(2)][/us/pl/103/322/s330011/s/2], added par. (7).
+    Subsec. (e)(7). [Pub. L. 101–647][/us/pl/101/647], § 2525(a)(2), as amended by [Pub. L. 103–322][/us/pl/103/322], § 330011(s)(2), added par. (7).
 
-    Subsec. (i). [Pub. L. 101–647, § 103(1)][/us/pl/101/647/s103/1], struck out introductory provisions which read as follows: “In the case of property subject to forfeiture under subsection (a)(1)(B), the following additional provisions shall, to the extent provided by treaty, apply:”.
+    Subsec. (i). [Pub. L. 101–647][/us/pl/101/647], § 103(1), struck out introductory provisions which read as follows: “In the case of property subject to forfeiture under subsection (a)(1)(B), the following additional provisions shall, to the extent provided by treaty, apply:”.
 
-    Subsec. (i)(1). [Pub. L. 101–647, § 103(3)][/us/pl/101/647/s103/3], substituted first sentence for “Notwithstanding any other provision of law, except section 3 of the Anti Drug Abuse Act of 1986, whenever property is civilly or criminally forfeited under the Controlled Substances Act, the Attorney General may, with the concurrence of the Secretary of State, equitably transfer any conveyance, currency, and any other type of personal property which the Attorney General may designate by regulation for equitable transfer, or any amounts realized by the United States from the sale of any real or personal property forfeited under the Controlled Substances Act to an appropriate foreign country to reflect generally the contribution of any such foreign country participating directly or indirectly in any acts which led to the seizure or forfeiture of such property. Such property when forfeited pursuant to subsection (a)(1)(B) of this section may also be transferred to a foreign country pursuant to a treaty providing for the transfer of forfeited property to such foreign country.”
+    Subsec. (i)(1). [Pub. L. 101–647][/us/pl/101/647], § 103(3), substituted first sentence for “Notwithstanding any other provision of law, except section 3 of the Anti Drug Abuse Act of 1986, whenever property is civilly or criminally forfeited under the Controlled Substances Act, the Attorney General may, with the concurrence of the Secretary of State, equitably transfer any conveyance, currency, and any other type of personal property which the Attorney General may designate by regulation for equitable transfer, or any amounts realized by the United States from the sale of any real or personal property forfeited under the Controlled Substances Act to an appropriate foreign country to reflect generally the contribution of any such foreign country participating directly or indirectly in any acts which led to the seizure or forfeiture of such property. Such property when forfeited pursuant to subsection (a)(1)(B) of this section may also be transferred to a foreign country pursuant to a treaty providing for the transfer of forfeited property to such foreign country.”
 
-    [Pub. L. 101–647, § 103(2)][/us/pl/101/647/s103/2], (4), (5), inserted “or the Secretary of the Treasury” after “Attorney General” in two places, realigned margin, and struck out at end “Transfers may be made under this subsection during a fiscal year to a country that is subject to paragraph (1)(A) of section 481(h) of the Foreign Assistance Act of 1961 (relating to restrictions on United States assistance) only if there is a certification in effect with respect to that country for that fiscal year under paragraph (2) of that section.”
+    [Pub. L. 101–647][/us/pl/101/647], § 103(2), (4), (5), inserted “or the Secretary of the Treasury” after “Attorney General” in two places, realigned margin, and struck out at end “Transfers may be made under this subsection during a fiscal year to a country that is subject to paragraph (1)(A) of section 481(h) of the Foreign Assistance Act of 1961 (relating to restrictions on United States assistance) only if there is a certification in effect with respect to that country for that fiscal year under paragraph (2) of that section.”
 
-    Subsec. (i)(2) to (5). [Pub. L. 101–647, § 103(2)][/us/pl/101/647/s103/2], realigned margins.
+    Subsec. (i)(2) to (5). [Pub. L. 101–647][/us/pl/101/647], § 103(2), realigned margins.
 
-    1989—Subsec. (a)(1)(C). [Pub. L. 101–73, § 963(a)][/us/pl/101/73/s963/a], added subpar. (C).
+    1989—Subsec. (a)(1)(C). [Pub. L. 101–73][/us/pl/101/73], § 963(a), added subpar. (C).
 
-    Subsec. (e). [Pub. L. 101–73, § 963(b)][/us/pl/101/73/s963/b], substituted “determine—” for “determine to—” in introductory provisions, inserted “The United States shall not be liable in any action arising out of a transfer under paragraph (3), (4), or (5) of this subsection.” in closing provisions, added pars. (1) to (5), and struck out former pars. (1) and (2) which read as follows:
+    Subsec. (e). [Pub. L. 101–73][/us/pl/101/73], § 963(b), substituted “determine—” for “determine to—” in introductory provisions, inserted “The United States shall not be liable in any action arising out of a transfer under paragraph (3), (4), or (5) of this subsection.” in closing provisions, added pars. (1) to (5), and struck out former pars. (1) and (2) which read as follows:
 
     “(1) any other Federal agency; or
 
     “(2) any State or local law enforcement agency which participated directly in any of the acts which led to the seizure or forfeiture of the property.”
 
-    1988—Subsec. (a)(1)(A). [Pub. L. 100–690, § 6463(a)(1)][/us/pl/100/690/s6463/a/1], added subpar. (A) and struck out former subpar. (A) which read as follows: “Any property, real or personal, which represents the gross receipts a person obtains, directly or indirectly, as a result of a violation of section 1956 or 1957 of this title, or which is traceable to such gross receipts.”
+    1988—Subsec. (a)(1)(A). [Pub. L. 100–690][/us/pl/100/690], § 6463(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “Any property, real or personal, which represents the gross receipts a person obtains, directly or indirectly, as a result of a violation of section 1956 or 1957 of this title, or which is traceable to such gross receipts.”
 
-    Subsec. (a)(1)(B). [Pub. L. 100–690, § 6470(b)][/us/pl/100/690/s6470/b], inserted “, real or personal,” after “property”, substituted “constituting, derived from, or traceable to, any proceeds obtained directly or indirectly from” for “which represents the proceeds of”, “such offense would” for “such offense or activity would”, and “punishable under the laws of the United States by imprisonment” for “punishable by imprisonment”, and inserted “constituting the offense against the foreign nation” after “such act or activity”.
+    Subsec. (a)(1)(B). [Pub. L. 100–690][/us/pl/100/690], § 6470(b), inserted “, real or personal,” after “property”, substituted “constituting, derived from, or traceable to, any proceeds obtained directly or indirectly from” for “which represents the proceeds of”, “such offense would” for “such offense or activity would”, and “punishable under the laws of the United States by imprisonment” for “punishable by imprisonment”, and inserted “constituting the offense against the foreign nation” after “such act or activity”.
 
-    Subsec. (a)(1)(C). [Pub. L. 100–690, § 6463(a)(2)][/us/pl/100/690/s6463/a/2], struck out subpar. (C) which read as follows: “Any coin and currency (or other monetary instrument as the Secretary of the Treasury may prescribe) or any interest in other property, including any deposit in a financial institution, traceable to such coin or currency involved in a transaction or attempted transaction in violation of section 5313(a) or 5324 of title 31 may be seized and forfeited to the United States Government. No property or interest in property shall be seized or forfeited if the violation is by a domestic financial institution examined by a Federal bank supervisory agency or a financial institution regulated by the Securities and Exchange Commission or a partner, director, officer, or employee thereof.”
+    Subsec. (a)(1)(C). [Pub. L. 100–690][/us/pl/100/690], § 6463(a)(2), struck out subpar. (C) which read as follows: “Any coin and currency (or other monetary instrument as the Secretary of the Treasury may prescribe) or any interest in other property, including any deposit in a financial institution, traceable to such coin or currency involved in a transaction or attempted transaction in violation of section 5313(a) or 5324 of title 31 may be seized and forfeited to the United States Government. No property or interest in property shall be seized or forfeited if the violation is by a domestic financial institution examined by a Federal bank supervisory agency or a financial institution regulated by the Securities and Exchange Commission or a partner, director, officer, or employee thereof.”
 
-    Subsec. (a)(2). [Pub. L. 100–690, § 6470(e)][/us/pl/100/690/s6470/e], substituted “omission” for “emission”.
+    Subsec. (a)(2). [Pub. L. 100–690][/us/pl/100/690], § 6470(e), substituted “omission” for “emission”.
 
-    Subsec. (b). [Pub. L. 100–690, § 6463(b)][/us/pl/100/690/s6463/b], which directed amendment of subsec. (b) by substituting “involved in a violation of section 5313(a) or 5324 of title 31 or of section 1956 or 1957 of this title investigated by the Secretary of the Treasury” for “involved in a violation of section 1956 or 1957 of this title investigated by the Secretary of the Treasury, and any property subject to forfeiture under subsection (a)(1)(C) of this section” was executed by substituting the new language for “involved in a violation of section 1956 or 1957 of this title investigated by the Secretary of the Treasury, may be seized by the Secretary of the Treasury, and any property subject to forfeiture under subsection (a)(1)(C) of this section” in introductory provisions, to reflect the probable intent of Congress.
+    Subsec. (b). [Pub. L. 100–690][/us/pl/100/690], § 6463(b), which directed amendment of subsec. (b) by substituting “involved in a violation of section 5313(a) or 5324 of title 31 or of section 1956 or 1957 of this title investigated by the Secretary of the Treasury” for “involved in a violation of section 1956 or 1957 of this title investigated by the Secretary of the Treasury, and any property subject to forfeiture under subsection (a)(1)(C) of this section” was executed by substituting the new language for “involved in a violation of section 1956 or 1957 of this title investigated by the Secretary of the Treasury, may be seized by the Secretary of the Treasury, and any property subject to forfeiture under subsection (a)(1)(C) of this section” in introductory provisions, to reflect the probable intent of Congress.
 
-    [Pub. L. 100–690, § 6469(b)(1)][/us/pl/100/690/s6469/b/1], inserted “or the Postal Service” after “Secretary of the Treasury” in two places in introductory provisions.
+    [Pub. L. 100–690][/us/pl/100/690], § 6469(b)(1), inserted “or the Postal Service” after “Secretary of the Treasury” in two places in introductory provisions.
 
-    Subsec. (b)(2). [Pub. L. 100–690, § 6469(b)(2)][/us/pl/100/690/s6469/b/2], substituted “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury”.
+    Subsec. (b)(2). [Pub. L. 100–690][/us/pl/100/690], § 6469(b)(2), substituted “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury”.
 
-    Subsec. (c). [Pub. L. 100–690, § 6469(b)(2)][/us/pl/100/690/s6469/b/2], substituted “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury” in two places.
+    Subsec. (c). [Pub. L. 100–690][/us/pl/100/690], § 6469(b)(2), substituted “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury” in two places.
 
-    Subsec. (d). [Pub. L. 100–690, § 6469(b)(2)][/us/pl/100/690/s6469/b/2], (3), substituted “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury” and inserted provision that Attorney General have sole responsibility for disposing of petitions for remission or mitigation with respect to property involved in a judicial forfeiture proceeding.
+    Subsec. (d). [Pub. L. 100–690][/us/pl/100/690], § 6469(b)(2), (3), substituted “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury” and inserted provision that Attorney General have sole responsibility for disposing of petitions for remission or mitigation with respect to property involved in a judicial forfeiture proceeding.
 
-    Subsec. (e). [Pub. L. 100–690, § 6469(b)(2)][/us/pl/100/690/s6469/b/2], which directed the substitution of “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury” was executed to reflect the probable intent of Congress by making the substitution in four places without regard as to whether or not the initial article “the” was capitalized.
+    Subsec. (e). [Pub. L. 100–690][/us/pl/100/690], § 6469(b)(2), which directed the substitution of “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury” was executed to reflect the probable intent of Congress by making the substitution in four places without regard as to whether or not the initial article “the” was capitalized.
 
-    [Pub. L. 100–690, § 6469(b)(4)][/us/pl/100/690/s6469/b/4], inserted provision that the authority granted to the Secretary of the Treasury and the Postal Service apply only to property that has been administratively forfeited.
+    [Pub. L. 100–690][/us/pl/100/690], § 6469(b)(4), inserted provision that the authority granted to the Secretary of the Treasury and the Postal Service apply only to property that has been administratively forfeited.
 
-    Subsec. (g). [Pub. L. 100–690, § 6471(c)][/us/pl/100/690/s6471/c], inserted “, Federal, State or local,” after “law”.
+    Subsec. (g). [Pub. L. 100–690][/us/pl/100/690], § 6471(c), inserted “, Federal, State or local,” after “law”.
 
-    Subsec. (i)(1). [Pub. L. 100–690, § 6470(f)][/us/pl/100/690/s6470/f], substituted “subsection” for “subchapter” in fourth sentence.
+    Subsec. (i)(1). [Pub. L. 100–690][/us/pl/100/690], § 6470(f), substituted “subsection” for “subchapter” in fourth sentence.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -417,29 +423,29 @@
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–322, title XXXIII, § 330011(s)(2)][/us/pl/103/322/s330011/s/2], Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146], provided that the amendment made by that section is effective as of the date on which [section 2525(a)(2) of Pub. L. 101–647][/us/pl/101/647/s2525/a/2] took effect.
+    [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330011(s)(2), Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146], provided that the amendment made by that section is effective as of the date on which [section 2525(a)(2) of Pub. L. 101–647][/us/pl/101/647/s2525/a/2] took effect.
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–185, § 1(a)][/us/pl/106/185/s1/a], Apr. 25, 2000, [114 Stat. 202][/us/stat/114/202], provided that: 
+[Pub. L. 106–185][/us/pl/106/185], § 1(a), Apr. 25, 2000, [114 Stat. 202][/us/stat/114/202], provided that: 
 
 > “This Act \[enacting sections 983 and 985 of this title and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 982 to 984, 986, 2232, 2254, and 3322 of this title, [section 1324 of Title 8][/us/usc/t8/s1324], Aliens and Nationality, [section 1621 of Title 19][/us/usc/t19/s1621], Customs Duties, [section 881 of Title 21][/us/usc/t21/s881], Food and Drugs, sections 524, 2461, 2465, and 2680 of Title 28, and [section 2996f of Title 42][/us/usc/t42/s2996f], The Public Health and Welfare, repealing [section 888 of Title 21][/us/usc/t21/s888], and enacting provisions set out as notes under [section 1324 of Title 8][/us/usc/t8/s1324], [section 2466 of Title 28][/us/usc/t28/s2466], and [section 3724 of Title 31][/us/usc/t31/s3724], Money and Finance\] may be cited as the ‘Civil Asset Forfeiture Reform Act of 2000’.”
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–690, title VI, § 6181][/us/pl/100/690/s6181], Nov. 18, 1988, [102 Stat. 4354][/us/stat/102/4354], provided that: 
+[Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6181, Nov. 18, 1988, [102 Stat. 4354][/us/stat/102/4354], provided that: 
 
 > “This subtitle \[subtitle E (§§ 6181–6187) of title VI of [Pub. L. 100–690][/us/pl/100/690], enacting sections 5325 and 5326 of Title 31, Money and Finance, amending sections 1956 and 1957 of this title, sections 1730d, 1829b, 1953, 1955, 3403, 3412, 3413, 3417, and 3420 of Title 12, Banks and Banking, and sections 5312, 5318, and 5321 of Title 31\] may be cited as the ‘Money Laundering Prosecution Improvements Act of 1988’.”
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–570, title I, § 1351][/us/pl/99/570/s1351], Oct. 27, 1986, [100 Stat. 3207–18][/us/stat/100/3207-18], provided that: 
+[Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1351, Oct. 27, 1986, [100 Stat. 3207–18][/us/stat/100/3207-18], provided that: 
 
 > “This subtitle \[subtitle H (§§ 1351–1367) of title I of [Pub. L. 99–570][/us/pl/99/570], enacting this section, sections 982, 1956, and 1957 of this title and [section 5324 of Title 31][/us/usc/t31/s5324], Money and Finance, amending sections 1952, 1961, and 2516 of this title, sections 1464, 1730, 1786, 1817, 1818, 3403, and 3413 of Title 12, Banks and Banking, and sections 5312, 5316 to 5318, 5321, and 5322 of Title 31, and enacting provisions set out as notes under this section, sections 1464 and 1730 of Title 12, and sections 5315 to 5317, 5321, and 5324 of Title 31\] may be cited as the ‘Money Laundering Control Act of 1986’.”
 
  __Severability__ 
 
-[Pub. L. 99–570, title I, § 1367][/us/pl/99/570/s1367], Oct. 27, 1986, [100 Stat. 3207–39][/us/stat/100/3207-39], provided that: 
+[Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1367, Oct. 27, 1986, [100 Stat. 3207–39][/us/stat/100/3207-39], provided that: 
 
 > “If any provision of this subtitle \[see Short Title of 1986 Amendment note above\] or any amendment made by this Act \[see Short Title of 1986 Amendment note set out under [section 801 of Title 21][/us/usc/t21/s801], Food and Drugs\], or the application thereof to any person or circumstances is held invalid, the provisions of every other part, and their application, shall not be affected thereby.”
 
@@ -471,115 +477,119 @@
 [/us/usc/t18/s984/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs984%2Fc%2F2%2FA
 [/us/usc/t18/s984/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs984%2Fc%2F2%2FA
 [/us/usc/t18/s984/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs984%2Fc%2F2%2FA
-[/us/pl/99/570/s1366/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1366%2Fa
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-35
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4374
-[/us/pl/101/73/s963/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs963%2Fa
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F504
-[/us/pl/101/647/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs103
+[/us/pl/101/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtI
 [/us/stat/104/4791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4791
-[/us/pl/102/393/s638/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs638%2Fd
+[/us/pl/102/393/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtVI
 [/us/stat/106/1788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1788
-[/us/pl/102/519/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519%2Fs104%2Fa
+[/us/pl/102/519/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519%2FtI
 [/us/stat/106/3385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3385
-[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4065
-[/us/pl/103/322/s330011/s/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Fs%2F2
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2146
-[/us/pl/103/447/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2Fs102%2Fb
+[/us/pl/103/447/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447%2FtI
 [/us/stat/108/4693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4693
 [/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/stat/114/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F210
-[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F311
-[/us/pl/107/197/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197%2Fs301%2Fd
+[/us/pl/107/197/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197%2FtIII
 [/us/stat/116/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F728
-[/us/pl/107/273/s4002/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fa%2F2
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1806
-[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F209
-[/us/pl/111/203/s377/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs377%2F3
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1569
-[/us/pl/112/186/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F186%2Fs3
+[/us/pl/112/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F186
 [/us/stat/126/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1428
+[/us/pl/114/122/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F122%2FtI
+[/us/stat/130/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F101
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
+[/us/usc/t22/s9214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9214%2Fa
 [/us/pl/99/570/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t12/s1818/e/7/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fe%2F7%2FD
 [/us/usc/t22/s2291/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291%2Fh
-[/us/pl/102/583/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs6%2Fb%2F2
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4932
 [/us/usc/t22/s2291j/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291j%2Fa%2F1
+[/us/pl/114/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F122
 [/us/pl/112/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F186
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/109/177/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs111
-[/us/pl/109/177/s120/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs120%2F1
-[/us/pl/109/177/s120/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs120%2F2
-[/us/pl/109/177/s120/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs120%2F3
-[/us/pl/109/177/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs404
-[/us/pl/109/177/s406/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs406%2Fa%2F3
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/usc/t18/s984/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs984%2Fc%2F2%2FA
 [/us/pl/107/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/usc/t31/s5313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5313%2Fa
-[/us/pl/107/56/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs320
-[/us/pl/107/56/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs806
-[/us/pl/107/56/s319/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs319%2Fa
-[/us/pl/106/185/s2/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs2%2Fc%2F1%2FA
-[/us/pl/106/185/s20/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs20%2Fa
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/usc/t18/s1956/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1956%2Fc%2F7
 [/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
-[/us/pl/106/185/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs5%2Fa
-[/us/pl/106/185/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs6
-[/us/pl/106/185/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs8%2Fa
-[/us/pl/103/322/s330011/s/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Fs%2F2
-[/us/pl/101/647/s2525/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2525%2Fa%2F2
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/103/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F447
-[/us/pl/102/550/s1525/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1525%2Fc%2F1
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393
 [/us/pl/102/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519
-[/us/pl/102/550/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1533
-[/us/pl/101/647/s2524/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2524%2F1
-[/us/pl/101/647/s2525/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2525%2Fa%2F1
-[/us/pl/101/647/s2524/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2524%2F2
-[/us/pl/101/647/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3531
-[/us/pl/101/647/s2524/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2524%2F3
-[/us/pl/101/647/s2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2508
-[/us/pl/101/647/s2525/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2525%2Fa%2F2
-[/us/pl/103/322/s330011/s/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Fs%2F2
-[/us/pl/101/647/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs103%2F1
-[/us/pl/101/647/s103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs103%2F3
-[/us/pl/101/647/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs103%2F2
-[/us/pl/101/647/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs103%2F2
-[/us/pl/101/73/s963/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs963%2Fa
-[/us/pl/101/73/s963/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs963%2Fb
-[/us/pl/100/690/s6463/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6463%2Fa%2F1
-[/us/pl/100/690/s6470/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6470%2Fb
-[/us/pl/100/690/s6463/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6463%2Fa%2F2
-[/us/pl/100/690/s6470/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6470%2Fe
-[/us/pl/100/690/s6463/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6463%2Fb
-[/us/pl/100/690/s6469/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6469%2Fb%2F1
-[/us/pl/100/690/s6469/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6469%2Fb%2F2
-[/us/pl/100/690/s6469/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6469%2Fb%2F2
-[/us/pl/100/690/s6469/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6469%2Fb%2F2
-[/us/pl/100/690/s6469/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6469%2Fb%2F2
-[/us/pl/100/690/s6469/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6469%2Fb%2F4
-[/us/pl/100/690/s6471/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6471%2Fc
-[/us/pl/100/690/s6470/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6470%2Ff
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs351
 [/us/usc/t2/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906
 [/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/pl/106/185/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs21
 [/us/usc/t8/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324
-[/us/pl/103/322/s330011/s/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Fs%2F2
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2146
 [/us/pl/101/647/s2525/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2525%2Fa%2F2
-[/us/pl/106/185/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs1%2Fa
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/stat/114/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F202
 [/us/usc/t8/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324
 [/us/usc/t19/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1621
@@ -589,14 +599,14 @@
 [/us/usc/t8/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324
 [/us/usc/t28/s2466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2466
 [/us/usc/t31/s3724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3724
-[/us/pl/100/690/s6181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6181
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4354
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/99/570/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1351
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-18
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t31/s5324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5324
-[/us/pl/99/570/s1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1367
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-39
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 

@@ -35,7 +35,7 @@
 
     When the director of the facility in which the person is hospitalized pursuant to subsection (d) determines that the person has recovered from his mental disease or defect to such an extent that he is no longer in need of custody for care or treatment in such a facility, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the person’s counsel and to the attorney for the Government. If, at the time of the filing of the certificate, the term of imprisonment imposed upon the person has not expired, the court shall order that the person be reimprisoned until the expiration of his sentence of imprisonment.
 
-(Added [Sept. 7, 1949, ch. 535, § 1][/us/act/1949-09-07/ch535/s1], [63 Stat. 687][/us/stat/63/687]; amended [Pub. L. 98–473, title II, § 403(a)][/us/pl/98/473/s403/a], Oct. 12, 1984, [98 Stat. 2062][/us/stat/98/2062].)
+(Added [Sept. 7, 1949, ch. 535][/us/act/1949-09-07/ch535], § 1, [63 Stat. 687][/us/stat/63/687]; amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 403(a), Oct. 12, 1984, [98 Stat. 2062][/us/stat/98/2062].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/act/1949-09-07/ch535/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-07%2Fch535%2Fs1
+[/us/act/1949-09-07/ch535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-07%2Fch535
 [/us/stat/63/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F687
-[/us/pl/98/473/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs403%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2062
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 

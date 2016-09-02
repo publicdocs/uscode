@@ -23,7 +23,7 @@
 
     The expense incident to the transportation of any such person, as herein authorized, shall be paid from the appropriation “Salaries, Fees, and Expenses, United States Marshals.”
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 857][/us/stat/62/857]; [Pub. L. 100–690, title VI, § 6467(b)][/us/pl/100/690/s6467/b], Nov. 18, 1988, [102 Stat. 4376][/us/stat/102/4376].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 857][/us/stat/62/857]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6467(b), Nov. 18, 1988, [102 Stat. 4376][/us/stat/102/4376].)
 
  __Historical and Revision Notes__ 
 
@@ -48,7 +48,7 @@
 [/us/usc/t18/s3182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3182
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F857
-[/us/pl/100/690/s6467/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6467%2Fb
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4376
 [/us/act/1932-06-11/ch243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-06-11%2Fch243
 [/us/stat/47/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F301

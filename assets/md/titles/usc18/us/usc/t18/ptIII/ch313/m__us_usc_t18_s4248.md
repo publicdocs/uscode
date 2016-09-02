@@ -61,11 +61,11 @@
 
     If the director of the facility in which a person is hospitalized or placed pursuant to this chapter certifies to the Attorney General that a person, against whom all charges have been dismissed for reasons not related to the mental condition of the person, is a sexually dangerous person, the Attorney General shall release the person to the appropriate official of the State in which the person is domiciled or was tried for the purpose of institution of State proceedings for civil commitment. If neither such State will assume such responsibility, the Attorney General shall release the person upon receipt of notice from the State that it will not assume such responsibility, but not later than 10 days after certification by the director of the facility.
 
-(Added [Pub. L. 109–248, title III, § 302(4)][/us/pl/109/248/s302/4], July 27, 2006, [120 Stat. 620][/us/stat/120/620].)
+(Added [Pub. L. 109–248, title III][/us/pl/109/248/tIII], § 302(4), July 27, 2006, [120 Stat. 620][/us/stat/120/620].)
 
  __Prior Provisions__ 
 
-    A prior section 4248, [act Sept. 7, 1949, ch. 535, § 1][/us/act/1949-09-07/ch535/s1], [63 Stat. 688][/us/stat/63/688], related to the termination of custody by release or transfer, prior to its omission in the general amendment of this chapter by [Pub. L. 98–473, title II, § 403(a)][/us/pl/98/473/s403/a], Oct. 12, 1984, [98 Stat. 2057][/us/stat/98/2057].
+    A prior section 4248, [act Sept. 7, 1949, ch. 535][/us/act/1949-09-07/ch535], § 1, [63 Stat. 688][/us/stat/63/688], related to the termination of custody by release or transfer, prior to its omission in the general amendment of this chapter by [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 403(a), Oct. 12, 1984, [98 Stat. 2057][/us/stat/98/2057].
 
 ----------
 
@@ -74,11 +74,11 @@
 ----------
 ----------
 
-[/us/pl/109/248/s302/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs302%2F4
+[/us/pl/109/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtIII
 [/us/stat/120/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F620
-[/us/act/1949-09-07/ch535/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-07%2Fch535%2Fs1
+[/us/act/1949-09-07/ch535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-07%2Fch535
 [/us/stat/63/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F688
-[/us/pl/98/473/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs403%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2057
 
 

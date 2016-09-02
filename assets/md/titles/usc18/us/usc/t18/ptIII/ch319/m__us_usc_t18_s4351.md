@@ -37,7 +37,7 @@
 
     (h) The Institute shall be under the supervision of an officer to be known as the Director, who shall be appointed by the Attorney General after consultation with the Board. The Director shall have authority to supervise the organization, employees, enrollees, financial affairs, and all other operations of the Institute and may employ such staff, faculty, and administrative personnel, subject to the civil service and classification laws, as are necessary to the functioning of the Institute. The Director shall have the power to acquire and hold real and personal property for the Institute and may receive gifts, donations, and trusts on behalf of the Institute. The Director shall also have the power to appoint such technical or other advisory councils comprised of consultants to guide and advise the Board. The Director is authorized to delegate his powers under this title to such persons as he deems appropriate.
 
-(Added [Pub. L. 93–415, title V, § 521][/us/pl/93/415/s521], Sept. 7, 1974, [88 Stat. 1139][/us/stat/88/1139]; amended [Pub. L. 95–115, § 8(a)][/us/pl/95/115/s8/a], Oct. 3, 1977, [91 Stat. 1060][/us/stat/91/1060]; [Pub. L. 98–473, title II, § 223][/us/pl/98/473/s223](o), Oct. 12, 1984, [98 Stat. 2030][/us/stat/98/2030]; [Pub. L. 103–322, title XXXIII, § 330001(i)][/us/pl/103/322/s330001/i], Sept. 13, 1994, [108 Stat. 2140][/us/stat/108/2140].)
+(Added [Pub. L. 93–415, title V][/us/pl/93/415/tV], § 521, Sept. 7, 1974, [88 Stat. 1139][/us/stat/88/1139]; amended [Pub. L. 95–115][/us/pl/95/115], § 8(a), Oct. 3, 1977, [91 Stat. 1060][/us/stat/91/1060]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 223(o), Oct. 12, 1984, [98 Stat. 2030][/us/stat/98/2030]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330001(i), Sept. 13, 1994, [108 Stat. 2140][/us/stat/108/2140].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Change of Name__ 
 
-    Department of Health, Education, and Welfare redesignated Department of Health and Human Services by [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], which is classified to [section 3508(b) of Title 20][/us/usc/t20/s3508/b], Education.
+    Department of Health, Education, and Welfare redesignated Department of Health and Human Services by [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], which is classified to [section 3508(b) of Title 20][/us/usc/t20/s3508/b], Education.
 
  __Effective Date of 1984 Amendment__ 
 
@@ -90,13 +90,13 @@
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/93/415/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs521
+[/us/pl/93/415/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV
 [/us/stat/88/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1139
-[/us/pl/95/115/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs8%2Fa
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/stat/91/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1060
-[/us/pl/98/473/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs223
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2030
-[/us/pl/103/322/s330001/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330001%2Fi
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2140
 [/us/usc/t42/s5611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5611
 [/us/usc/t42/s5611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5611
@@ -104,7 +104,7 @@
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473

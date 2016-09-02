@@ -109,7 +109,7 @@
 
         (3) an act in furtherance of the offense was committed in the United States.
 
-(Added [Pub. L. 106–181, title V, § 506(c)(1)][/us/pl/106/181/s506/c/1], Apr. 5, 2000, [114 Stat. 137][/us/stat/114/137].)
+(Added [Pub. L. 106–181, title V][/us/pl/106/181/tV], § 506(c)(1), Apr. 5, 2000, [114 Stat. 137][/us/stat/114/137].)
 
  __Effective Date__ 
 
@@ -123,7 +123,7 @@
 ----------
 
 [/us/usc/t21/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853
-[/us/pl/106/181/s506/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs506%2Fc%2F1
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F137
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

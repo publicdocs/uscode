@@ -25,7 +25,7 @@
 
     (b) The Secretary of Defense, in consultation with the Secretary of State, shall determine which officials of a foreign country constitute appropriate authorities for purposes of this section.
 
-(Added [Pub. L. 106–523, § 2(a)][/us/pl/106/523/s2/a], Nov. 22, 2000, [114 Stat. 2489][/us/stat/114/2489].)
+(Added [Pub. L. 106–523][/us/pl/106/523], § 2(a), Nov. 22, 2000, [114 Stat. 2489][/us/stat/114/2489].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/106/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F523%2Fs2%2Fa
+[/us/pl/106/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F523
 [/us/stat/114/2489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2489
 
 

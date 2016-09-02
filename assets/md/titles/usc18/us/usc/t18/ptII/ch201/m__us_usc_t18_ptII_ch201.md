@@ -147,15 +147,15 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–22, title I, § 101(b)][/us/pl/114/22/s101/b], May 29, 2015, [129 Stat. 230][/us/stat/129/230], added item 3014.
+    2015—[Pub. L. 114–22, title I][/us/pl/114/22/tI], § 101(b), May 29, 2015, [129 Stat. 230][/us/stat/129/230], added item 3014.
 
-    1984—[Pub. L. 98–473, title II][/us/pl/98/473], §§ 218(c), 1405(b), Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027], 2175, added item 3013 and substituted “Repealed” for “Orders respecting persons in custody” in item 3012.
+    1984—[Pub. L. 98–473, title II][/us/pl/98/473/tII], §§ 218(c), 1405(b), Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027], 2175, added item 3013 and substituted “Repealed” for “Orders respecting persons in custody” in item 3012.
 
-    1964—[Pub. L. 88–455, § 4][/us/pl/88/455/s4], Aug. 20, 1964, [78 Stat. 554][/us/stat/78/554], added item 3006A.
+    1964—[Pub. L. 88–455][/us/pl/88/455], § 4, Aug. 20, 1964, [78 Stat. 554][/us/stat/78/554], added item 3006A.
 
  __Law Enforcement Assistance Act of 1965__ 
 
-    [Pub. L. 89–197][/us/pl/89/197], §§ 1–11, Sept. 22, 1965, [79 Stat. 828][/us/stat/79/828], as amended by [Pub. L. 89–798][/us/pl/89/798], Nov. 8, 1966, [80 Stat. 1503][/us/stat/80/1503], was repealed by [Pub. L. 90–351, title I, § 405][/us/pl/90/351/s405], June 19, 1968, [82 Stat. 204][/us/stat/82/204], subject to the provisions of [section 3745 of Title 42][/us/usc/t42/s3745], The Public Health and Welfare. See section 3701 et seq. (chapter 46) of Title 42. Such Act had provided for grants and contracts for improvement of quality of state and local personnel through professional training; grants and contracts to improve state and local law enforcement techniques; delegation and redelegation of powers; contributions to program by recipients, rules and regulations, necessary stipends, and allowances; studies by Attorney General and technical assistance to states; prohibition against control over local agencies; advisory committees, compensation, and expenses; term of program; appropriations; and reports to President and Congress.
+    [Pub. L. 89–197][/us/pl/89/197], §§ 1–11, Sept. 22, 1965, [79 Stat. 828][/us/stat/79/828], as amended by [Pub. L. 89–798][/us/pl/89/798], Nov. 8, 1966, [80 Stat. 1503][/us/stat/80/1503], was repealed by [Pub. L. 90–351, title I][/us/pl/90/351/tI], § 405, June 19, 1968, [82 Stat. 204][/us/stat/82/204], subject to the provisions of [section 3745 of Title 42][/us/usc/t42/s3745], The Public Health and Welfare. See section 3701 et seq. (chapter 46) of Title 42. Such Act had provided for grants and contracts for improvement of quality of state and local personnel through professional training; grants and contracts to improve state and local law enforcement techniques; delegation and redelegation of powers; contributions to program by recipients, rules and regulations, necessary stipends, and allowances; studies by Attorney General and technical assistance to states; prohibition against control over local agencies; advisory committees, compensation, and expenses; term of program; appropriations; and reports to President and Congress.
 
  __Coordination of Federal Law Enforcement and Crime Prevention Programs__ 
 
@@ -168,17 +168,17 @@
 ----------
 ----------
 
-[/us/pl/114/22/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs101%2Fb
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F230
-[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2027
-[/us/pl/88/455/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F455%2Fs4
+[/us/pl/88/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F455
 [/us/stat/78/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F554
 [/us/pl/89/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F197
 [/us/stat/79/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F828
 [/us/pl/89/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F798
 [/us/stat/80/1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1503
-[/us/pl/90/351/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs405
+[/us/pl/90/351/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtI
 [/us/stat/82/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F204
 [/us/usc/t42/s3745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3745
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1

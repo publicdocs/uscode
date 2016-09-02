@@ -61,21 +61,21 @@
 
     This section shall apply to any Act or Acts that occur on or after the date of the enactment of the Uruguay Round Agreements Act.
 
-(Added [Pub. L. 103–465, title V, § 513(a)][/us/pl/103/465/s513/a], Dec. 8, 1994, [108 Stat. 4974][/us/stat/108/4974]; amended [Pub. L. 105–147, § 2(e)][/us/pl/105/147/s2/e], Dec. 16, 1997, [111 Stat. 2679][/us/stat/111/2679]; [Pub. L. 109–181, § 2(c)(1)][/us/pl/109/181/s2/c/1], Mar. 16, 2006, [120 Stat. 288][/us/stat/120/288]; [Pub. L. 110–403, title II, § 203][/us/pl/110/403/s203], Oct. 13, 2008, [122 Stat. 4261][/us/stat/122/4261].)
+(Added [Pub. L. 103–465, title V][/us/pl/103/465/tV], § 513(a), Dec. 8, 1994, [108 Stat. 4974][/us/stat/108/4974]; amended [Pub. L. 105–147][/us/pl/105/147], § 2(e), Dec. 16, 1997, [111 Stat. 2679][/us/stat/111/2679]; [Pub. L. 109–181][/us/pl/109/181], § 2(c)(1), Mar. 16, 2006, [120 Stat. 288][/us/stat/120/288]; [Pub. L. 110–403, title II][/us/pl/110/403/tII], § 203, Oct. 13, 2008, [122 Stat. 4261][/us/stat/122/4261].)
 
  __References in Text__ 
 
     The Federal Rules of Criminal Procedure, referred to in subsec. (d)(1), are set out in the Appendix to this title.
 
-    [Section 2320 of this title][/us/usc/t18/s2320], referred to in subsec. (e)(2), was amended generally by [Pub. L. 112–81, div. A, title VIII, § 818(h)][/us/pl/112/81/s818/h], Dec. 31, 2011, [125 Stat. 1497][/us/stat/125/1497], and, as so amended, provisions similar to those formerly appearing in subsec. (e) are now contained in subsec. (f).
+    [Section 2320 of this title][/us/usc/t18/s2320], referred to in subsec. (e)(2), was amended generally by [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 818(h), Dec. 31, 2011, [125 Stat. 1497][/us/stat/125/1497], and, as so amended, provisions similar to those formerly appearing in subsec. (e) are now contained in subsec. (f).
 
     The date of the enactment of the Uruguay Round Agreements Act, referred to in subsec. (f), is the date of enactment of [Pub. L. 103–465][/us/pl/103/465], which was approved Dec. 8, 1994.
 
  __Amendments__ 
 
-    2008—Subsec. (b). [Pub. L. 110–403, § 203(a)][/us/pl/110/403/s203/a], amended subsec. (b) generally. Prior to amendment, text read as follows: “When a person is convicted of a violation of subsection (a), the court shall order the forfeiture and destruction of any copies or phonorecords created in violation thereof, as well as any plates, molds, matrices, masters, tapes, and film negatives by means of which such copies or phonorecords may be made. The court may also, in its discretion, order the forfeiture and destruction of any other equipment by means of which such copies or phonorecords may be reproduced, taking into account the nature, scope, and proportionality of the use of the equipment in the offense.”
+    2008—Subsec. (b). [Pub. L. 110–403][/us/pl/110/403], § 203(a), amended subsec. (b) generally. Prior to amendment, text read as follows: “When a person is convicted of a violation of subsection (a), the court shall order the forfeiture and destruction of any copies or phonorecords created in violation thereof, as well as any plates, molds, matrices, masters, tapes, and film negatives by means of which such copies or phonorecords may be made. The court may also, in its discretion, order the forfeiture and destruction of any other equipment by means of which such copies or phonorecords may be reproduced, taking into account the nature, scope, and proportionality of the use of the equipment in the offense.”
 
-    Subsec. (c). [Pub. L. 110–403, § 203(b)][/us/pl/110/403/s203/b], substituted “The Secretary of Homeland Security shall issue regulations by which any performer may, upon payment of a specified fee, be entitled to notification by United States Customs and Border Protection of the importation of copies or phonorecords that appear to consist of unauthorized fixations of the sounds or sounds and images of a live musical performance.” for “The Secretary of the Treasury shall, not later than 60 days after the date of the enactment of the Uruguay Round Agreements Act, issue regulations to carry out this subsection, including regulations by which any performer may, upon payment of a specified fee, be entitled to notification by the United States Customs Service of the importation of copies or phonorecords that appear to consist of unauthorized fixations of the sounds or sounds and images of a live musical performance.”
+    Subsec. (c). [Pub. L. 110–403][/us/pl/110/403], § 203(b), substituted “The Secretary of Homeland Security shall issue regulations by which any performer may, upon payment of a specified fee, be entitled to notification by United States Customs and Border Protection of the importation of copies or phonorecords that appear to consist of unauthorized fixations of the sounds or sounds and images of a live musical performance.” for “The Secretary of the Treasury shall, not later than 60 days after the date of the enactment of the Uruguay Round Agreements Act, issue regulations to carry out this subsection, including regulations by which any performer may, upon payment of a specified fee, be entitled to notification by the United States Customs Service of the importation of copies or phonorecords that appear to consist of unauthorized fixations of the sounds or sounds and images of a live musical performance.”
 
     2006—Subsec. (e)(2). [Pub. L. 109–181][/us/pl/109/181] added par. (2) and struck out former par. (2) which read as follows: “the term ‘traffic in’ means transport, transfer, or otherwise dispose of, to another, as consideration for anything of value, or make or obtain control of with intent to transport, transfer, or dispose of.”
 
@@ -92,20 +92,20 @@
 ----------
 ----------
 
-[/us/pl/103/465/s513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs513%2Fa
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4974
-[/us/pl/105/147/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F147%2Fs2%2Fe
+[/us/pl/105/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F147
 [/us/stat/111/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2679
-[/us/pl/109/181/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F181%2Fs2%2Fc%2F1
+[/us/pl/109/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F181
 [/us/stat/120/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F288
-[/us/pl/110/403/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs203
+[/us/pl/110/403/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtII
 [/us/stat/122/4261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4261
 [/us/usc/t18/s2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2320
-[/us/pl/112/81/s818/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs818%2Fh
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1497
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/110/403/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs203%2Fa
-[/us/pl/110/403/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs203%2Fb
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
 [/us/pl/109/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F181
 [/us/pl/105/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F147
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

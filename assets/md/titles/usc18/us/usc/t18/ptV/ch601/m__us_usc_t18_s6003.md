@@ -25,7 +25,7 @@
 
         (2) such individual has refused or is likely to refuse to testify or provide other information on the basis of his privilege against self-incrimination.
 
-(Added [Pub. L. 91–452, title II, § 201(a)][/us/pl/91/452/s201/a], Oct. 15, 1970, [84 Stat. 927][/us/stat/84/927]; amended [Pub. L. 100–690, title VII, § 7020(e)][/us/pl/100/690/s7020/e], Nov. 18, 1988, [102 Stat. 4396][/us/stat/102/4396]; [Pub. L. 103–322, title XXXIII, § 330013(4)][/us/pl/103/322/s330013/4], Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
+(Added [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 201(a), Oct. 15, 1970, [84 Stat. 927][/us/stat/84/927]; amended [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7020(e), Nov. 18, 1988, [102 Stat. 4396][/us/stat/102/4396]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330013(4), Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
 
  __Amendments__ 
 
@@ -41,11 +41,11 @@
 ----------
 
 [/us/usc/t18/s6002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs6002
-[/us/pl/91/452/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs201%2Fa
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F927
-[/us/pl/100/690/s7020/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7020%2Fe
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4396
-[/us/pl/103/322/s330013/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330013%2F4
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2146
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690

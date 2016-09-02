@@ -29,7 +29,7 @@
 
     (b) Whoever, within the jurisdiction of the United States, conspires with one or more persons, regardless of where such other person or persons are located, to damage or destroy specific property situated within a foreign country and belonging to a foreign government or to any political subdivision thereof with which the United States is at peace, or any railroad, canal, bridge, airport, airfield, or other public utility, public conveyance, or public structure, or any religious, educational, or cultural property so situated, shall, if any of the conspirators commits an act within the jurisdiction of the United States to effect any object of the conspiracy, be imprisoned not more than 25 years.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 744][/us/stat/62/744]; [Pub. L. 103–322, title XXXIII, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–132, title VII, § 704(a)][/us/pl/104/132/s704/a], Apr. 24, 1996, [110 Stat. 1294][/us/stat/110/1294].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 744][/us/stat/62/744]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(K), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–132, title VII][/us/pl/104/132/tVII], § 704(a), Apr. 24, 1996, [110 Stat. 1294][/us/stat/110/1294].)
 
  __Historical and Revision Notes__ 
 
@@ -54,9 +54,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F744
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/104/132/s704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs704%2Fa
+[/us/pl/104/132/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVII
 [/us/stat/110/1294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1294
 [/us/usc/t22/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs234
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30

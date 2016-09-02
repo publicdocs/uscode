@@ -25,11 +25,11 @@
 
     This section shall not apply to unreserved public lands.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 788][/us/stat/62/788]; [Pub. L. 103–322, title XXXIII, § 330016(1)(G)][/us/pl/103/322/s330016/1/G], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 788][/us/stat/62/788]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(G), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 111 ([Mar. 4, 1909, ch. 321, § 56][/us/act/1909-03-04/ch321/s56], [35 Stat. 1099][/us/stat/35/1099]).
+    Based on title 18, U.S.C., 1940 ed., § 111 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 56, [35 Stat. 1099][/us/stat/35/1099]).
 
     Minor changes were made in phraseology.
 
@@ -46,9 +46,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F788
-[/us/pl/103/322/s330016/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FG
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/act/1909-03-04/ch321/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs56
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1099
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

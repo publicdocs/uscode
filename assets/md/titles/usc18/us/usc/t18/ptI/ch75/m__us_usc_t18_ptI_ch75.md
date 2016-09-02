@@ -83,9 +83,9 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–322, title XIII, § 130009(b)][/us/pl/103/322/s130009/b], Sept. 13, 1994, [108 Stat. 2030][/us/stat/108/2030], added item 1547.
+    1994—[Pub. L. 103–322, title XIII][/us/pl/103/322/tXIII], § 130009(b), Sept. 13, 1994, [108 Stat. 2030][/us/stat/108/2030], added item 1547.
 
-    1986—[Pub. L. 99–603, title I, § 103(b)][/us/pl/99/603/s103/b], Nov. 6, 1986, [100 Stat. 3380][/us/stat/100/3380], amended item 1546 generally, striking out “entry” before “documents”.
+    1986—[Pub. L. 99–603, title I][/us/pl/99/603/tI], § 103(b), Nov. 6, 1986, [100 Stat. 3380][/us/stat/100/3380], amended item 1546 generally, striking out “entry” before “documents”.
 
 ----------
 
@@ -94,9 +94,9 @@
 ----------
 ----------
 
-[/us/pl/103/322/s130009/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs130009%2Fb
+[/us/pl/103/322/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXIII
 [/us/stat/108/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2030
-[/us/pl/99/603/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs103%2Fb
+[/us/pl/99/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtI
 [/us/stat/100/3380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3380
 
 

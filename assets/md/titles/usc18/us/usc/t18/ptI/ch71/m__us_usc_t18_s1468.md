@@ -21,7 +21,7 @@
 
     (c) Nothing in this chapter, or the Cable Communications Policy Act of 1984, or any other provision of Federal law, is intended to interfere with or preempt the power of the States, including political subdivisions thereof, to regulate the uttering of language that is obscene or otherwise unprotected by the Constitution or the distribution of matter that is obscene or otherwise unprotected by the Constitution, of any sort, by means of cable television or subscription services on television.
 
-(Added [Pub. L. 100–690, title VII, § 7523(a)][/us/pl/100/690/s7523/a], Nov. 18, 1988, [102 Stat. 4501][/us/stat/102/4501].)
+(Added [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7523(a), Nov. 18, 1988, [102 Stat. 4501][/us/stat/102/4501].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/100/690/s7523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7523%2Fa
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4501
 [/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2779

@@ -33,7 +33,7 @@
 
         Jurisdiction over an offense under this section shall be determined in accordance with the provisions applicable to the crime prohibited by this chapter, or by chapter 111 of this title, to which the imparted or conveyed false information relates, as applicable.
 
-(Added [Pub. L. 109–177, title III, § 306(a)][/us/pl/109/177/s306/a], Mar. 9, 2006, [120 Stat. 239][/us/stat/120/239].)
+(Added [Pub. L. 109–177, title III][/us/pl/109/177/tIII], § 306(a), Mar. 9, 2006, [120 Stat. 239][/us/stat/120/239].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/109/177/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs306%2Fa
+[/us/pl/109/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIII
 [/us/stat/120/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F239
 
 

@@ -23,7 +23,7 @@
 
     (3) that the court has ordered a special forfeiture of certain proceeds that may be used to satisfy a judgment obtained against the defendant by a victim of an offense for which the defendant has been convicted.
 
-(Added [Pub. L. 98–473, title II, § 1406(a)][/us/pl/98/473/s1406/a], Oct. 12, 1984, [98 Stat. 2176][/us/stat/98/2176], § 3672; renumbered § 3682, [Pub. L. 99–646, § 41(a)][/us/pl/99/646/s41/a], Nov. 10, 1986, [100 Stat. 3600][/us/stat/100/3600].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1406(a), Oct. 12, 1984, [98 Stat. 2176][/us/stat/98/2176], § 3672; renumbered § 3682, [Pub. L. 99–646][/us/pl/99/646], § 41(a), Nov. 10, 1986, [100 Stat. 3600][/us/stat/100/3600].)
 
 ----------
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/98/473/s1406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1406%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2176
-[/us/pl/99/646/s41/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs41%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3600
 
 

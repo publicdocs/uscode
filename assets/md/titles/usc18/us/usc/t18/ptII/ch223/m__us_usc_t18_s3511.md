@@ -63,7 +63,7 @@
 
     (e) In all proceedings under this section, the court shall, upon request of the government, review ex parte and in camera any government submission or portions thereof, which may include classified information.
 
-(Added [Pub. L. 109–177, title I, § 115(2)][/us/pl/109/177/s115/2], Mar. 9, 2006, [120 Stat. 211][/us/stat/120/211]; amended [Pub. L. 114–23, title V, § 502(g)][/us/pl/114/23/s502/g], June 2, 2015, [129 Stat. 288][/us/stat/129/288].)
+(Added [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 115(2), Mar. 9, 2006, [120 Stat. 211][/us/stat/120/211]; amended [Pub. L. 114–23, title V][/us/pl/114/23/tV], § 502(g), June 2, 2015, [129 Stat. 288][/us/stat/129/288].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 
  __Reports on National Security Letters__ 
 
-[Pub. L. 109–177, title I, § 118][/us/pl/109/177/s118], Mar. 9, 2006, [120 Stat. 217][/us/stat/120/217], as amended by [Pub. L. 114–23, title VI, § 602(c)][/us/pl/114/23/s602/c], June 2, 2015, [129 Stat. 294][/us/stat/129/294], provided that:
+[Pub. L. 109–177, title I][/us/pl/109/177/tI], § 118, Mar. 9, 2006, [120 Stat. 217][/us/stat/120/217], as amended by [Pub. L. 114–23, title VI][/us/pl/114/23/tVI], § 602(c), June 2, 2015, [129 Stat. 294][/us/stat/129/294], provided that:
 
 >     “(a)  __Existing Reports__  __.—__ 
 
@@ -152,16 +152,16 @@
 [/us/usc/t18/s2709/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2709%2Fb
 [/us/usc/t18/s2709/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2709%2Fb
 [/us/usc/t18/s2709/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2709%2Fb
-[/us/pl/109/177/s115/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs115%2F2
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F211
-[/us/pl/114/23/s502/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs502%2Fg
+[/us/pl/114/23/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtV
 [/us/stat/129/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F288
 [/us/usc/t12/s3414/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3414%2Fa%2F5%2FA
 [/us/usc/t50/s3162/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3162%2Fa
 [/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
-[/us/pl/109/177/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs118
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F217
-[/us/pl/114/23/s602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs602%2Fc
+[/us/pl/114/23/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVI
 [/us/stat/129/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F294
 [/us/usc/t18/s2709/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2709%2Fc%2F1
 [/us/usc/t15/s1681u/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681u%2Fd

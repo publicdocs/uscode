@@ -41,13 +41,13 @@
 
     The power of the court to revoke a sentence of probation for violation of a condition of probation, and to impose another sentence, extends beyond the expiration of the term of probation for any period reasonably necessary for the adjudication of matters arising before its expiration if, prior to its expiration, a warrant or summons has been issued on the basis of an allegation of such a violation.
 
-(Added [Pub. L. 98–473, title II, § 212(a)(2)][/us/pl/98/473/s212/a/2], Oct. 12, 1984, [98 Stat. 1995][/us/stat/98/1995]; amended [Pub. L. 100–690, title VI, § 6214][/us/pl/100/690/s6214], title VII, § 7303(a)(2), Nov. 18, 1988, [102 Stat. 4361][/us/stat/102/4361], 4464; [Pub. L. 101–647, title XXXV, § 3585][/us/pl/101/647/s3585], Nov. 29, 1990, [104 Stat. 4930][/us/stat/104/4930]; [Pub. L. 103–322, title XI, § 110506][/us/pl/103/322/s110506], Sept. 13, 1994, [108 Stat. 2017][/us/stat/108/2017]; [Pub. L. 107–273, div. B, title II, § 2103(a)][/us/pl/107/273/s2103/a], Nov. 2, 2002, [116 Stat. 1793][/us/stat/116/1793].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(2), Oct. 12, 1984, [98 Stat. 1995][/us/stat/98/1995]; amended [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6214, title VII, § 7303(a)(2), Nov. 18, 1988, [102 Stat. 4361][/us/stat/102/4361], 4464; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3585, Nov. 29, 1990, [104 Stat. 4930][/us/stat/104/4930]; [Pub. L. 103–322, title XI][/us/pl/103/322/tXI], § 110506, Sept. 13, 1994, [108 Stat. 2017][/us/stat/108/2017]; [Pub. L. 107–273, div. B, title II][/us/pl/107/273/dB/tII], § 2103(a), Nov. 2, 2002, [116 Stat. 1793][/us/stat/116/1793].)
 
  __References in Text__ 
 
     The Federal Rules of Criminal Procedure, referred to in subsec. (a), are set out in the Appendix to this title.
 
-    Section 3563(a)(4), referred to in subsec. (b)(3), probably means the par. (4) of section 3563(a) added by [section 20414(b)(3) of Pub. L. 103–322][/us/pl/103/322/s20414/b/3], which was renumbered par. (5) by [Pub. L. 104–132, title II, § 203(1)(C)][/us/pl/104/132/s203/1/C], Apr. 24, 1996, [110 Stat. 1227][/us/stat/110/1227].
+    Section 3563(a)(4), referred to in subsec. (b)(3), probably means the par. (4) of section 3563(a) added by [section 20414(b)(3) of Pub. L. 103–322][/us/pl/103/322/s20414/b/3], which was renumbered par. (5) by [Pub. L. 104–132, title II][/us/pl/104/132/tII], § 203(1)(C), Apr. 24, 1996, [110 Stat. 1227][/us/stat/110/1227].
 
  __Prior Provisions__ 
 
@@ -57,19 +57,19 @@
 
     2002—Subsec. (b)(4). [Pub. L. 107–273][/us/pl/107/273] added par. (4).
 
-    1994—Subsec. (a). [Pub. L. 103–322, § 110506(a)(2)][/us/pl/103/322/s110506/a/2], struck out concluding sentence which read as follows: “Notwithstanding any other provision of this section, if a defendant is found by the court to be in possession of a controlled substance, thereby violating the condition imposed by section 3563(a)(3), the court shall revoke the sentence of probation and sentence the defendant to not less than one-third of the original sentence.”
+    1994—Subsec. (a). [Pub. L. 103–322][/us/pl/103/322], § 110506(a)(2), struck out concluding sentence which read as follows: “Notwithstanding any other provision of this section, if a defendant is found by the court to be in possession of a controlled substance, thereby violating the condition imposed by section 3563(a)(3), the court shall revoke the sentence of probation and sentence the defendant to not less than one-third of the original sentence.”
 
-    Subsec. (a)(2). [Pub. L. 103–322, § 110506(a)(1)][/us/pl/103/322/s110506/a/1], substituted “resentence the defendant under subchapter A” for “impose any other sentence that was available under subchapter A at the time of the initial sentencing”.
+    Subsec. (a)(2). [Pub. L. 103–322][/us/pl/103/322], § 110506(a)(1), substituted “resentence the defendant under subchapter A” for “impose any other sentence that was available under subchapter A at the time of the initial sentencing”.
 
-    Subsec. (b). [Pub. L. 103–322, § 110506(b)][/us/pl/103/322/s110506/b], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+    Subsec. (b). [Pub. L. 103–322][/us/pl/103/322], § 110506(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
     “(b) Mandatory Revocation for Possession of a Firearm.—If the defendant is in actual possession of a firearm, as that term is defined in [section 921 of this title][/us/usc/t18/s921], at any time prior to the expiration or termination of the term of probation, the court shall, after a hearing pursuant to Rule 32.1 of the Federal Rules of Criminal Procedure, revoke the sentence of probation and impose any other sentence that was available under subchapter A at the time of the initial sentencing.”
 
     1990—Subsec. (a)(1). [Pub. L. 101–647][/us/pl/101/647] substituted “or modifying” for “of modifying”.
 
-    1988—Subsec. (a). [Pub. L. 100–690, § 7303(a)(2)][/us/pl/100/690/s7303/a/2], inserted at end “Notwithstanding any other provision of this section, if a defendant is found by the court to be in possession of a controlled substance, thereby violating the condition imposed by section 3563(a)(3), the court shall revoke the sentence of probation and sentence the defendant to not less than one-third of the original sentence.”
+    1988—Subsec. (a). [Pub. L. 100–690][/us/pl/100/690], § 7303(a)(2), inserted at end “Notwithstanding any other provision of this section, if a defendant is found by the court to be in possession of a controlled substance, thereby violating the condition imposed by section 3563(a)(3), the court shall revoke the sentence of probation and sentence the defendant to not less than one-third of the original sentence.”
 
-    Subsecs. (b), (c). [Pub. L. 100–690, § 6214][/us/pl/100/690/s6214], added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsecs. (b), (c). [Pub. L. 100–690][/us/pl/100/690], § 6214, added subsec. (b) and redesignated former subsec. (b) as (c).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -87,28 +87,28 @@
 ----------
 
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
-[/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1995
-[/us/pl/100/690/s6214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6214
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4361
-[/us/pl/101/647/s3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3585
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4930
-[/us/pl/103/322/s110506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110506
+[/us/pl/103/322/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXI
 [/us/stat/108/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2017
-[/us/pl/107/273/s2103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2103%2Fa
+[/us/pl/107/273/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtII
 [/us/stat/116/1793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1793
 [/us/pl/103/322/s20414/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20414%2Fb%2F3
-[/us/pl/104/132/s203/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs203%2F1%2FC
+[/us/pl/104/132/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtII
 [/us/stat/110/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1227
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/103/322/s110506/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110506%2Fa%2F2
-[/us/pl/103/322/s110506/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110506%2Fa%2F1
-[/us/pl/103/322/s110506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110506%2Fb
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
-[/us/pl/100/690/s7303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7303%2Fa%2F2
-[/us/pl/100/690/s6214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6214
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/690/s7303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7303%2Fa%2F2
 [/us/pl/100/690/s7303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7303%2Fd
 [/us/usc/t18/s3563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3563

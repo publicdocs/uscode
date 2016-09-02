@@ -29,7 +29,7 @@
 
         (2) In a proceeding under this subsection, the Attorney General may request that any order issued by the court for release to the parties and the public omit any reference to the basis on which the stay was sought.
 
-(Added [Pub. L. 102–572, title X, § 1003(a)(4)][/us/pl/102/572/s1003/a/4], Oct. 29, 1992, [106 Stat. 4523][/us/stat/106/4523].)
+(Added [Pub. L. 102–572, title X][/us/pl/102/572/tX], § 1003(a)(4), Oct. 29, 1992, [106 Stat. 4523][/us/stat/106/4523].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t18/s2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2333
-[/us/pl/102/572/s1003/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs1003%2Fa%2F4
+[/us/pl/102/572/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtX
 [/us/stat/106/4523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4523
 [/us/pl/102/572/s1003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs1003%2Fc
 [/us/usc/t18/s2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2331

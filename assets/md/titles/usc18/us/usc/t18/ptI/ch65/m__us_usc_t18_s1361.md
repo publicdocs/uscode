@@ -19,11 +19,11 @@
 
     If the damage or attempted damage to such property exceeds the sum of $1,000, by a fine under this title or imprisonment for not more than ten years, or both; if the damage or attempted damage to such property does not exceed the sum of $1,000, by a fine under this title or by imprisonment for not more than one year, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 764][/us/stat/62/764]; [Pub. L. 103–322, title XXXII, § 320903(d)(1)][/us/pl/103/322/s320903/d/1], title XXXIII, § 330016(1)(H), (L), Sept. 13, 1994, [108 Stat. 2125][/us/stat/108/2125], 2147; [Pub. L. 104–294, title VI][/us/pl/104/294], §§ 601(a)(3), 605(e), 606(a), Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498], 3510, 3511.)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 764][/us/stat/62/764]; [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320903(d)(1), title XXXIII, § 330016(1)(H), (L), Sept. 13, 1994, [108 Stat. 2125][/us/stat/108/2125], 2147; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], §§ 601(a)(3), 605(e), 606(a), Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498], 3510, 3511.)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 82 ([Mar. 4, 1909, ch. 321, § 35][/us/act/1909-03-04/ch321/s35], [35 Stat. 1095][/us/stat/35/1095]; [Oct. 23, 1918, ch. 194][/us/act/1918-10-23/ch194], [40 Stat. 1015][/us/stat/40/1015]; [June 18, 1934, ch. 587][/us/act/1934-06-18/ch587], [48 Stat. 996][/us/stat/48/996]; [Apr. 4, 1938, ch. 69][/us/act/1938-04-04/ch69], [52 Stat. 197][/us/stat/52/197]).
+    Based on title 18, U.S.C., 1940 ed., § 82 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 35, [35 Stat. 1095][/us/stat/35/1095]; [Oct. 23, 1918, ch. 194][/us/act/1918-10-23/ch194], [40 Stat. 1015][/us/stat/40/1015]; [June 18, 1934, ch. 587][/us/act/1934-06-18/ch587], [48 Stat. 996][/us/stat/48/996]; [Apr. 4, 1938, ch. 69][/us/act/1938-04-04/ch69], [52 Stat. 197][/us/stat/52/197]).
 
     The embezzlement and theft provisions of [section 82 of title 18][/us/usc/t18/s82], U.S.C., 1940 ed., are now incorporated in [section 641 of this title][/us/usc/t18/s641].
 
@@ -39,15 +39,15 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–294, § 605(e)][/us/pl/104/294/s605/e], inserted comma after “foregoing offenses” in first par.
+    1996—[Pub. L. 104–294][/us/pl/104/294], § 605(e), inserted comma after “foregoing offenses” in first par.
 
     [Pub. L. 104–294][/us/pl/104/294], §§ 601(a)(3), 606(a), in second par., substituted “fine under this title” for “fine of under this title” in two places and “$1,000” for “$100” in two places.
 
-    1994—[Pub. L. 103–322, § 320903(d)(1)(A)][/us/pl/103/322/s320903/d/1/A], inserted “or attempts to commit any of the foregoing offenses” before “shall be punished” in first par.
+    1994—[Pub. L. 103–322][/us/pl/103/322], § 320903(d)(1)(A), inserted “or attempts to commit any of the foregoing offenses” before “shall be punished” in first par.
 
-    [Pub. L. 103–322, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], (L), in second par., substituted “under this title” for “not more than $10,000” before “or imprisonment for not more than ten years” and for “not more than $1,000” before “or by imprisonment for not more than one year”.
+    [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(H), (L), in second par., substituted “under this title” for “not more than $10,000” before “or imprisonment for not more than ten years” and for “not more than $1,000” before “or by imprisonment for not more than one year”.
 
-    [Pub. L. 103–322, § 320903(d)(1)(B)][/us/pl/103/322/s320903/d/1/B], inserted “or attempted damage” after “damage” in two places in second par.
+    [Pub. L. 103–322][/us/pl/103/322], § 320903(d)(1)(B), inserted “or attempted damage” after “damage” in two places in second par.
 
 ----------
 
@@ -58,11 +58,11 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F764
-[/us/pl/103/322/s320903/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320903%2Fd%2F1
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2125
-[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3498
-[/us/act/1909-03-04/ch321/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs35
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1095
 [/us/act/1918-10-23/ch194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-10-23%2Fch194
 [/us/stat/40/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1015
@@ -76,10 +76,10 @@
 [/us/usc/t18/s4082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4082
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1
 [/us/usc/t18/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs641
-[/us/pl/104/294/s605/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs605%2Fe
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
-[/us/pl/103/322/s320903/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320903%2Fd%2F1%2FA
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
-[/us/pl/103/322/s320903/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320903%2Fd%2F1%2FB
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 
 

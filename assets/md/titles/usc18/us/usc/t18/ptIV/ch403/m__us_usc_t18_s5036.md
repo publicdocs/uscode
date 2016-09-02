@@ -17,17 +17,17 @@
 
     If an alleged delinquent who is in detention pending trial is not brought to trial within thirty days from the date upon which such detention was begun, the information shall be dismissed on motion of the alleged delinquent or at the direction of the court, unless the Attorney General shows that additional delay was caused by the juvenile or his counsel, or consented to by the juvenile and his counsel, or would be in the interest of justice in the particular case. Delays attributable solely to court calendar congestion may not be considered in the interest of justice. Except in extraordinary circumstances, an information dismissed under this section may not be reinstituted.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 858][/us/stat/62/858]; [Pub. L. 93–415, title V, § 506][/us/pl/93/415/s506], Sept. 7, 1974, [88 Stat. 1136][/us/stat/88/1136].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 858][/us/stat/62/858]; [Pub. L. 93–415, title V][/us/pl/93/415/tV], § 506, Sept. 7, 1974, [88 Stat. 1136][/us/stat/88/1136].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 926 ([June 16, 1938, ch. 486, § 6][/us/act/1938-06-16/ch486/s6], [52 Stat. 766][/us/stat/52/766]).
+    Based on title 18, U.S.C., 1940 ed., § 926 ([June 16, 1938, ch. 486][/us/act/1938-06-16/ch486], § 6, [52 Stat. 766][/us/stat/52/766]).
 
     The words “foster homes” were inserted to remove any doubt as to the authority to commit to such foster homes in accordance with past and present administrative practice.
 
  __Codification__ 
 
-    Another [section 506 of title V of Pub. L. 93–415][/us/pl/93/415/s506], as added by [Pub. L. 102–586, § 5(a)][/us/pl/102/586/s5/a], Nov. 4, 1992, [106 Stat. 5029][/us/stat/106/5029], was classified to [section 5785 of Title 42][/us/usc/t42/s5785], The Public Health and Welfare, prior to the general amendment of that title V by [Pub. L. 107–273][/us/pl/107/273].
+    Another [section 506 of title V of Pub. L. 93–415][/us/pl/93/415/tV/s506], as added by [Pub. L. 102–586][/us/pl/102/586], § 5(a), Nov. 4, 1992, [106 Stat. 5029][/us/stat/106/5029], was classified to [section 5785 of Title 42][/us/usc/t42/s5785], The Public Health and Welfare, prior to the general amendment of that title V by [Pub. L. 107–273][/us/pl/107/273].
 
  __Amendments__ 
 
@@ -42,12 +42,12 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F858
-[/us/pl/93/415/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs506
+[/us/pl/93/415/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV
 [/us/stat/88/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1136
-[/us/act/1938-06-16/ch486/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-16%2Fch486%2Fs6
+[/us/act/1938-06-16/ch486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-16%2Fch486
 [/us/stat/52/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F766
-[/us/pl/93/415/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs506
-[/us/pl/102/586/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs5%2Fa
+[/us/pl/93/415/tV/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV%2Fs506
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5029
 [/us/usc/t42/s5785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5785
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273

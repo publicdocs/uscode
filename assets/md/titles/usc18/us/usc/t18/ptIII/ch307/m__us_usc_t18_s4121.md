@@ -19,7 +19,7 @@
 
     The directors shall be representatives of (1) industry, (2) labor, (3) agriculture, (4) retailers and consumers, (5) the Secretary of Defense, and (6) the Attorney General, respectively.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 851][/us/stat/62/851]; [May 24, 1949, ch. 139, § 62][/us/act/1949-05-24/ch139/s62], [63 Stat. 98][/us/stat/63/98].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 851][/us/stat/62/851]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 62, [63 Stat. 98][/us/stat/63/98].)
 
  __Historical and Revision Notes__ 
 
@@ -45,7 +45,7 @@
 
  __Mandatory Work Requirement for All Prisoners__ 
 
-[Pub. L. 101–647, title XXIX, § 2905][/us/pl/101/647/s2905], Nov. 29, 1990, [104 Stat. 4914][/us/stat/104/4914], provided that:
+[Pub. L. 101–647, title XXIX][/us/pl/101/647/tXXIX], § 2905, Nov. 29, 1990, [104 Stat. 4914][/us/stat/104/4914], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -65,7 +65,7 @@
 
  __Closure of McNeil Island Penitentiary; Report on Status of Federal Prison Industries__ 
 
-[Pub. L. 95–624, § 10][/us/pl/95/624/s10], Nov. 9, 1978, [92 Stat. 3463][/us/stat/92/3463], provided that:
+[Pub. L. 95–624][/us/pl/95/624], § 10, Nov. 9, 1978, [92 Stat. 3463][/us/stat/92/3463], provided that:
 
 >     “(a)
 
@@ -86,7 +86,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F851
-[/us/act/1949-05-24/ch139/s62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs62
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F98
 [/us/act/1934-06-23/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-23%2Fch736
 [/us/stat/48/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1211
@@ -95,9 +95,9 @@
 [/us/stat/53/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1431
 [/us/stat/64/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1261
 [/us/usc/t28/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs509
-[/us/pl/101/647/s2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2905
+[/us/pl/101/647/tXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXIX
 [/us/stat/104/4914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4914
-[/us/pl/95/624/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F624%2Fs10
+[/us/pl/95/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F624
 [/us/stat/92/3463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3463
 
 

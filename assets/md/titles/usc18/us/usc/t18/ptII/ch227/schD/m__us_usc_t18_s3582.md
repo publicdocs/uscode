@@ -57,7 +57,7 @@
 
     The court, in imposing a sentence to a term of imprisonment upon a defendant convicted of a felony set forth in chapter 95 (racketeering) or 96 (racketeer influenced and corrupt organizations) of this title or in the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 801][/us/usc/t21/s801] et seq.), or at any time thereafter upon motion by the Director of the Bureau of Prisons or a United States attorney, may include as a part of the sentence an order that requires that the defendant not associate or communicate with a specified person, other than his attorney, upon a showing of probable cause to believe that association or communication with such person is for the purpose of enabling the defendant to control, manage, direct, finance, or otherwise participate in an illegal enterprise.
 
-(Added [Pub. L. 98–473, title II, § 212(a)(2)][/us/pl/98/473/s212/a/2], Oct. 12, 1984, [98 Stat. 1998][/us/stat/98/1998]; amended [Pub. L. 100–690, title VII, § 7107][/us/pl/100/690/s7107], Nov. 18, 1988, [102 Stat. 4418][/us/stat/102/4418]; [Pub. L. 101–647, title XXXV, § 3588][/us/pl/101/647/s3588], Nov. 29, 1990, [104 Stat. 4930][/us/stat/104/4930]; [Pub. L. 103–322, title VII, § 70002][/us/pl/103/322/s70002], Sept. 13, 1994, [108 Stat. 1984][/us/stat/108/1984]; [Pub. L. 104–294, title VI, § 604(b)(3)][/us/pl/104/294/s604/b/3], Oct. 11, 1996, [110 Stat. 3506][/us/stat/110/3506]; [Pub. L. 107–273, div. B, title III, § 3006][/us/pl/107/273/s3006], Nov. 2, 2002, [116 Stat. 1806][/us/stat/116/1806].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(2), Oct. 12, 1984, [98 Stat. 1998][/us/stat/98/1998]; amended [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7107, Nov. 18, 1988, [102 Stat. 4418][/us/stat/102/4418]; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3588, Nov. 29, 1990, [104 Stat. 4930][/us/stat/104/4930]; [Pub. L. 103–322, title VII][/us/pl/103/322/tVII], § 70002, Sept. 13, 1994, [108 Stat. 1984][/us/stat/108/1984]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(3), Oct. 11, 1996, [110 Stat. 3506][/us/stat/110/3506]; [Pub. L. 107–273, div. B, title III][/us/pl/107/273/dB/tIII], § 3006, Nov. 2, 2002, [116 Stat. 1806][/us/stat/116/1806].)
 
  __References in Text__ 
 
@@ -95,17 +95,17 @@
 [/us/usc/t28/s994/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994%2Fa%2F2
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1998
-[/us/pl/100/690/s7107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7107
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4418
-[/us/pl/101/647/s3588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3588
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4930
-[/us/pl/103/322/s70002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs70002
+[/us/pl/103/322/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVII
 [/us/stat/108/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1984
-[/us/pl/104/294/s604/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F3
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3506
-[/us/pl/107/273/s3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs3006
+[/us/pl/107/273/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIII
 [/us/stat/116/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1806
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1236

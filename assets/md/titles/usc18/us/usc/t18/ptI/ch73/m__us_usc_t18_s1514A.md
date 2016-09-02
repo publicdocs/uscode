@@ -93,19 +93,19 @@
 
         No predispute arbitration agreement shall be valid or enforceable, if the agreement requires arbitration of a dispute arising under this section.
 
-(Added [Pub. L. 107–204, title VIII, § 806(a)][/us/pl/107/204/s806/a], July 30, 2002, [116 Stat. 802][/us/stat/116/802]; amended [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 922(b), (c), 929A, July 21, 2010, [124 Stat. 1848][/us/stat/124/1848], 1852.)
+(Added [Pub. L. 107–204, title VIII][/us/pl/107/204/tVIII], § 806(a), July 30, 2002, [116 Stat. 802][/us/stat/116/802]; amended [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], §§ 922(b), (c), 929A, July 21, 2010, [124 Stat. 1848][/us/stat/124/1848], 1852.)
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 929A][/us/pl/111/203/s929A], in introductory provisions, inserted “including any subsidiary or affiliate whose financial information is included in the consolidated financial statements of such company” after “the Securities Exchange Act of 1934 ([15 U.S.C. 78][/us/usc/t15/s78]o(d))”.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 929A, in introductory provisions, inserted “including any subsidiary or affiliate whose financial information is included in the consolidated financial statements of such company” after “the Securities Exchange Act of 1934 ([15 U.S.C. 78][/us/usc/t15/s78]o(d))”.
 
-    [Pub. L. 111–203, § 922(b)][/us/pl/111/203/s922/b], in introductory provisions, inserted “or nationally recognized statistical rating organization (as defined in section 3(a) of the Securities Exchange Act of 1934 ([15 U.S.C. 78c][/us/usc/t15/s78c]),” before “or any officer,” and “or nationally recognized statistical rating organization” before “, may discharge,”.
+    [Pub. L. 111–203][/us/pl/111/203], § 922(b), in introductory provisions, inserted “or nationally recognized statistical rating organization (as defined in section 3(a) of the Securities Exchange Act of 1934 ([15 U.S.C. 78c][/us/usc/t15/s78c]),” before “or any officer,” and “or nationally recognized statistical rating organization” before “, may discharge,”.
 
-    Subsec. (b)(2)(D). [Pub. L. 111–203, § 922(c)(1)(A)][/us/pl/111/203/s922/c/1/A], substituted “180” for “90” and inserted “, or after the date on which the employee became aware of the violation” before period at end.
+    Subsec. (b)(2)(D). [Pub. L. 111–203][/us/pl/111/203], § 922(c)(1)(A), substituted “180” for “90” and inserted “, or after the date on which the employee became aware of the violation” before period at end.
 
-    Subsec. (b)(2)(E). [Pub. L. 111–203, § 922(c)(1)(B)][/us/pl/111/203/s922/c/1/B], added subpar. (E).
+    Subsec. (b)(2)(E). [Pub. L. 111–203][/us/pl/111/203], § 922(c)(1)(B), added subpar. (E).
 
-    Subsec. (e). [Pub. L. 111–203, § 922(c)(2)][/us/pl/111/203/s922/c/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 922(c)(2), added subsec. (e).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -124,17 +124,17 @@
 [/us/usc/t49/s42121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs42121%2Fb
 [/us/usc/t49/s42121/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs42121%2Fb%2F1
 [/us/usc/t49/s42121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs42121%2Fb
-[/us/pl/107/204/s806/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs806%2Fa
+[/us/pl/107/204/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtVIII
 [/us/stat/116/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F802
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1848
-[/us/pl/111/203/s929A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929A
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78
-[/us/pl/111/203/s922/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs922%2Fb
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
-[/us/pl/111/203/s922/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs922%2Fc%2F1%2FA
-[/us/pl/111/203/s922/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs922%2Fc%2F1%2FB
-[/us/pl/111/203/s922/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs922%2Fc%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on [section 765 of title 39][/us/usc/t39/s765], U.S.C., 1940 ed., The Postal Service ([June 25, 1910, ch. 386, § 15][/us/act/1910-06-25/ch386/s15], [36 Stat. 818][/us/stat/36/818]).
+    Based on [section 765 of title 39][/us/usc/t39/s765], U.S.C., 1940 ed., The Postal Service ([June 25, 1910, ch. 386][/us/act/1910-06-25/ch386], § 15, [36 Stat. 818][/us/stat/36/818]).
 
     Changes of phraseology were made without change of substance.
 
@@ -35,7 +35,7 @@
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F776
 [/us/usc/t39/s765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs765
-[/us/act/1910-06-25/ch386/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch386%2Fs15
+[/us/act/1910-06-25/ch386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch386
 [/us/stat/36/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F818
 
 

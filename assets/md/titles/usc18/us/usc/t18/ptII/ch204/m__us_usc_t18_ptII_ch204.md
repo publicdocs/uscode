@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–359, title VIII, § 803(c)(2)][/us/pl/103/359/s803/c/2], Oct. 14, 1994, [108 Stat. 3439][/us/stat/108/3439], inserted “AND ESPIONAGE” after “TERRORIST ACTS” in chapter heading.
+    1994—[Pub. L. 103–359, title VIII][/us/pl/103/359/tVIII], § 803(c)(2), Oct. 14, 1994, [108 Stat. 3439][/us/stat/108/3439], inserted “AND ESPIONAGE” after “TERRORIST ACTS” in chapter heading.
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/103/359/s803/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs803%2Fc%2F2
+[/us/pl/103/359/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVIII
 [/us/stat/108/3439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3439
 
 

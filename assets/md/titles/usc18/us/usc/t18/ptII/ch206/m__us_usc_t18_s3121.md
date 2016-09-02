@@ -35,7 +35,7 @@
 
     Whoever knowingly violates subsection (a) shall be fined under this title or imprisoned not more than one year, or both.
 
-(Added [Pub. L. 99–508, title III, § 301(a)][/us/pl/99/508/s301/a], Oct. 21, 1986, [100 Stat. 1868][/us/stat/100/1868]; amended [Pub. L. 103–414, title II, § 207(b)][/us/pl/103/414/s207/b], Oct. 25, 1994, [108 Stat. 4292][/us/stat/108/4292]; [Pub. L. 107–56, title II, § 216(a)][/us/pl/107/56/s216/a], Oct. 26, 2001, [115 Stat. 288][/us/stat/115/288].)
+(Added [Pub. L. 99–508, title III][/us/pl/99/508/tIII], § 301(a), Oct. 21, 1986, [100 Stat. 1868][/us/stat/100/1868]; amended [Pub. L. 103–414, title II][/us/pl/103/414/tII], § 207(b), Oct. 25, 1994, [108 Stat. 4292][/us/stat/108/4292]; [Pub. L. 107–56, title II][/us/pl/107/56/tII], § 216(a), Oct. 26, 2001, [115 Stat. 288][/us/stat/115/288].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–508, title III, § 302][/us/pl/99/508/s302], Oct. 21, 1986, [100 Stat. 1872][/us/stat/100/1872], provided that:
+[Pub. L. 99–508, title III][/us/pl/99/508/tIII], § 302, Oct. 21, 1986, [100 Stat. 1872][/us/stat/100/1872], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -72,18 +72,18 @@
 
 [/us/usc/t18/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3123
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
-[/us/pl/99/508/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs301%2Fa
+[/us/pl/99/508/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtIII
 [/us/stat/100/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1868
-[/us/pl/103/414/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs207%2Fb
+[/us/pl/103/414/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtII
 [/us/stat/108/4292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4292
-[/us/pl/107/56/s216/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs216%2Fa
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F288
 [/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
 [/us/stat/92/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1783
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
-[/us/pl/99/508/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs302
+[/us/pl/99/508/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtIII
 [/us/stat/100/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1872
 [/us/usc/t18/s1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1367
 

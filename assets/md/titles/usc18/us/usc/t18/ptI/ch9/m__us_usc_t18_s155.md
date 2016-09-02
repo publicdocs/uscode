@@ -17,7 +17,7 @@
 
     Whoever, being a party in interest, whether as a debtor, creditor, receiver, trustee or representative of any of them, or attorney for any such party in interest, in any receivership or case under title 11 in any United States court or under its supervision, knowingly and fraudulently enters into any agreement, express or implied, with another such party in interest or attorney for another such party in interest, for the purpose of fixing the fees or other compensation to be paid to any party in interest or to any attorney for any party in interest for services rendered in connection therewith, from the assets of the estate, shall be fined under this title or imprisoned not more than one year, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 690][/us/stat/62/690]; [May 24, 1949, ch. 139, § 4][/us/act/1949-05-24/ch139/s4], [63 Stat. 90][/us/stat/63/90]; [Pub. L. 95–598, title III, § 314(f)(1)][/us/pl/95/598/s314/f/1], (2), Nov. 6, 1978, [92 Stat. 2677][/us/stat/92/2677]; [Pub. L. 103–322, title XXXIII, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 690][/us/stat/62/690]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 4, [63 Stat. 90][/us/stat/63/90]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 314(f)(1), (2), Nov. 6, 1978, [92 Stat. 2677][/us/stat/92/2677]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(K), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
@@ -60,11 +60,11 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F690
-[/us/act/1949-05-24/ch139/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs4
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F90
-[/us/pl/95/598/s314/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs314%2Ff%2F1
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2677
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/usc/t28/s572a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs572a
 [/us/act/1937-08-25/ch777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-25%2Fch777

@@ -21,11 +21,11 @@
 
     The Attorney General shall certify to the Secretary of State the amounts to be paid to the United States on account of said fees and costs in extradition cases by the foreign government requesting the extradition, and the Secretary of State shall cause said amounts to be collected and transmitted to the Attorney General for deposit in the Treasury of the United States.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 825][/us/stat/62/825]; [Pub. L. 90–578, title III, § 301(a)(3)][/us/pl/90/578/s301/a/3], Oct. 17, 1968, [82 Stat. 1115][/us/stat/82/1115]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 825][/us/stat/62/825]; [Pub. L. 90–578, title III][/us/pl/90/578/tIII], § 301(a)(3), Oct. 17, 1968, [82 Stat. 1115][/us/stat/82/1115]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., §§ 662, 662c, 662d, 668 (R.S. § 5278; [Aug. 3, 1882, ch. 378, § 4][/us/act/1882-08-03/ch378/s4], [22 Stat. 216][/us/stat/22/216]; [June 28, 1902, ch. 1301, § 1][/us/act/1902-06-28/ch1301/s1], [32 Stat. 475][/us/stat/32/475]; [Mar. 22, 1934, ch. 73][/us/act/1934-03-22/ch73], §§ 2, 3, [48 Stat. 455][/us/stat/48/455]).
+    Based on title 18, U.S.C., 1940 ed., §§ 662, 662c, 662d, 668 (R.S. § 5278; [Aug. 3, 1882, ch. 378][/us/act/1882-08-03/ch378], § 4, [22 Stat. 216][/us/stat/22/216]; [June 28, 1902, ch. 1301][/us/act/1902-06-28/ch1301], § 1, [32 Stat. 475][/us/stat/32/475]; [Mar. 22, 1934, ch. 73][/us/act/1934-03-22/ch73], §§ 2, 3, [48 Stat. 455][/us/stat/48/455]).
 
     First paragraph of this section consolidates provisions as to costs and expenses from said sections 662, 662c, and 662d.
 
@@ -33,7 +33,7 @@
 
     Remaining provisions of said sections 662, 662c, and 662d of title 18, U.S.C., 1940 ed., are incorporated in sections 752, 3182, 3183, and 3187 of this title.
 
-    The words “or the Department of Justice as the case may be” were added at the end of the second paragraph in conformity with the appropriation acts of recent years. See for example [act July 5, 1946, ch. 541][/us/act/1946-07-05/ch541], title II, [60 Stat. 460][/us/stat/60/460].
+    The words “or the Department of Justice as the case may be” were added at the end of the second paragraph in conformity with the appropriation acts of recent years. See for example [act July 5, 1946, ch. 541, title II][/us/act/1946-07-05/ch541/tII], [60 Stat. 460][/us/stat/60/460].
 
  __Amendments__ 
 
@@ -56,17 +56,17 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F825
-[/us/pl/90/578/s301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs301%2Fa%2F3
+[/us/pl/90/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtIII
 [/us/stat/82/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1115
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/act/1882-08-03/ch378/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-08-03%2Fch378%2Fs4
+[/us/act/1882-08-03/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-08-03%2Fch378
 [/us/stat/22/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F216
-[/us/act/1902-06-28/ch1301/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-28%2Fch1301%2Fs1
+[/us/act/1902-06-28/ch1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-28%2Fch1301
 [/us/stat/32/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F475
 [/us/act/1934-03-22/ch73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-22%2Fch73
 [/us/stat/48/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F455
-[/us/act/1946-07-05/ch541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch541
+[/us/act/1946-07-05/ch541/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch541%2FtII
 [/us/stat/60/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F460
 [/us/pl/90/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321

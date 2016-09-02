@@ -23,11 +23,11 @@
 
     (d) This section shall apply only to offenses committed before November 1, 1987, and the Parole Commission’s performance of its responsibilities under this section shall be subject to section 235 of the Comprehensive Crime Control Act of 1984.
 
-(Added [Pub. L. 95–144, § 1][/us/pl/95/144/s1], Oct. 28, 1977, [91 Stat. 1216][/us/stat/91/1216]; amended [Pub. L. 98–473, title II, § 223(m)(3)][/us/pl/98/473/s223/m/3], Oct. 12, 1984, [98 Stat. 2029][/us/stat/98/2029]; [Pub. L. 100–182, § 14][/us/pl/100/182/s14], Dec. 7, 1987, [101 Stat. 1268][/us/stat/101/1268]; [Pub. L. 100–690, title VII, § 7072(c)][/us/pl/100/690/s7072/c], Nov. 18, 1988, [102 Stat. 4405][/us/stat/102/4405].)
+(Added [Pub. L. 95–144][/us/pl/95/144], § 1, Oct. 28, 1977, [91 Stat. 1216][/us/stat/91/1216]; amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 223(m)(3), Oct. 12, 1984, [98 Stat. 2029][/us/stat/98/2029]; [Pub. L. 100–182][/us/pl/100/182], § 14, Dec. 7, 1987, [101 Stat. 1268][/us/stat/101/1268]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7072(c), Nov. 18, 1988, [102 Stat. 4405][/us/stat/102/4405].)
 
  __References in Text__ 
 
-    Sections 4201 through 4204; 4205(d), (e), and (h); 4206 through 4215; and 4218 of this title, referred to in subsec. (b), were repealed effective Nov. 1, 1987, by [Pub. L. 98–473, title II][/us/pl/98/473], §§ 218(a)(5), 235(a)(1), (b)(1), Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027], 2031, 2032, subject to remaining effective for five years after Nov. 1, 1987, in certain circumstances.
+    Sections 4201 through 4204; 4205(d), (e), and (h); 4206 through 4215; and 4218 of this title, referred to in subsec. (b), were repealed effective Nov. 1, 1987, by [Pub. L. 98–473, title II][/us/pl/98/473/tII], §§ 218(a)(5), 235(a)(1), (b)(1), Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027], 2031, 2032, subject to remaining effective for five years after Nov. 1, 1987, in certain circumstances.
 
     Section 235 of the Comprehensive Crime Control Act of 1984, referred to in subsec. (d), is set out as an Effective Date note under [section 3551 of this title][/us/usc/t18/s3551].
 
@@ -58,15 +58,15 @@
 ----------
 ----------
 
-[/us/pl/95/144/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144%2Fs1
+[/us/pl/95/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144
 [/us/stat/91/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1216
-[/us/pl/98/473/s223/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs223%2Fm%2F3
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2029
-[/us/pl/100/182/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs14
+[/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
 [/us/stat/101/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1268
-[/us/pl/100/690/s7072/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7072%2Fc
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4405
-[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2027
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690

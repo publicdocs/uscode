@@ -57,7 +57,7 @@
 
         (5) A court order denying a motion or application under this section shall not be deemed a final order and no interlocutory appeal may be taken therefrom by the customer.
 
-(Added [Pub. L. 99–508, title II, § 201][/us/pl/99/508/s201]\[(a)\], Oct. 21, 1986, [100 Stat. 1863][/us/stat/100/1863].)
+(Added [Pub. L. 99–508, title II][/us/pl/99/508/tII], § 201\[(a)\], Oct. 21, 1986, [100 Stat. 1863][/us/stat/100/1863].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 ----------
 
 [/us/usc/t18/s2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2703
-[/us/pl/99/508/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs201
+[/us/pl/99/508/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtII
 [/us/stat/100/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1863
 
 

@@ -137,7 +137,7 @@
 
         In this subsection, the term “community confinement” has the meaning given that term in the application notes under section 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
 
-(Added [Pub. L. 98–473, title II, § 212(a)(2)][/us/pl/98/473/s212/a/2], Oct. 12, 1984, [98 Stat. 2007][/us/stat/98/2007]; amended [Pub. L. 101–647, title XXIX, § 2903][/us/pl/101/647/s2903], Nov. 29, 1990, [104 Stat. 4913][/us/stat/104/4913]; [Pub. L. 103–322, title II, § 20401][/us/pl/103/322/s20401], title III, § 32001, Sept. 13, 1994, [108 Stat. 1824][/us/stat/108/1824], 1896; [Pub. L. 109–162, title XI, § 1146][/us/pl/109/162/s1146], Jan. 5, 2006, [119 Stat. 3112][/us/stat/119/3112]; [Pub. L. 109–248, title VI, § 622][/us/pl/109/248/s622], July 27, 2006, [120 Stat. 634][/us/stat/120/634]; [Pub. L. 110–199, title II][/us/pl/110/199], §§ 231(f), 251(b), 252, Apr. 9, 2008, [122 Stat. 687][/us/stat/122/687], 693.)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(2), Oct. 12, 1984, [98 Stat. 2007][/us/stat/98/2007]; amended [Pub. L. 101–647, title XXIX][/us/pl/101/647/tXXIX], § 2903, Nov. 29, 1990, [104 Stat. 4913][/us/stat/104/4913]; [Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20401, title III, § 32001, Sept. 13, 1994, [108 Stat. 1824][/us/stat/108/1824], 1896; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1146, Jan. 5, 2006, [119 Stat. 3112][/us/stat/119/3112]; [Pub. L. 109–248, title VI][/us/pl/109/248/tVI], § 622, July 27, 2006, [120 Stat. 634][/us/stat/120/634]; [Pub. L. 110–199, title II][/us/pl/110/199/tII], §§ 231(f), 251(b), 252, Apr. 9, 2008, [122 Stat. 687][/us/stat/122/687], 693.)
 
  __References in Text__ 
 
@@ -149,9 +149,9 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b). [Pub. L. 110–199, § 251(b)][/us/pl/110/199/s251/b], inserted “Any order, recommendation, or request by a sentencing court that a convicted person serve a term of imprisonment in a community corrections facility shall have no binding effect on the authority of the Bureau under this section to determine or change the place of imprisonment of that person.” at end of concluding provisions.
+    2008—Subsec. (b). [Pub. L. 110–199][/us/pl/110/199], § 251(b), inserted “Any order, recommendation, or request by a sentencing court that a convicted person serve a term of imprisonment in a community corrections facility shall have no binding effect on the authority of the Bureau under this section to determine or change the place of imprisonment of that person.” at end of concluding provisions.
 
-    Subsec. (e)(5)(A). [Pub. L. 110–199, § 252][/us/pl/110/199/s252], substituted “means a course of individual and group activities and treatment, lasting at least 6 months, in residential treatment facilities set apart from the general prison population (which may include the use of pharmocotherapies, where appropriate, that may extend beyond the 6-month period);” for “means a course of individual and group activities, lasting between 6 and 12 months, in residential treatment facilities set apart from the general prison population—
+    Subsec. (e)(5)(A). [Pub. L. 110–199][/us/pl/110/199], § 252, substituted “means a course of individual and group activities and treatment, lasting at least 6 months, in residential treatment facilities set apart from the general prison population (which may include the use of pharmocotherapies, where appropriate, that may extend beyond the 6-month period);” for “means a course of individual and group activities, lasting between 6 and 12 months, in residential treatment facilities set apart from the general prison population—
 
     “(i) directed at the substance abuse problems of the prisoner;
 
@@ -159,9 +159,9 @@
 
     “(iii) which may include the use of pharmacoptherapies, if appropriate, that may extend beyond the treatment period;”.
 
-    Subsec. (g). [Pub. L. 110–199, § 231(f)][/us/pl/110/199/s231/f], added subsec. (g).
+    Subsec. (g). [Pub. L. 110–199][/us/pl/110/199], § 231(f), added subsec. (g).
 
-    2006—Subsec. (e)(4). [Pub. L. 109–162, § 1146(1)][/us/pl/109/162/s1146/1], added par. (4) and struck out heading and text of former par. (4). Text read as follows: “There are authorized to be appropriated to carry out this subsection—
+    2006—Subsec. (e)(4). [Pub. L. 109–162][/us/pl/109/162], § 1146(1), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “There are authorized to be appropriated to carry out this subsection—
 
     “(A) $13,500,000 for fiscal year 1996;
 
@@ -173,15 +173,15 @@
 
     “(E) $27,900,000 for fiscal year 2000.”
 
-    Subsec. (e)(5)(A)(iii). [Pub. L. 109–162, § 1146(2)][/us/pl/109/162/s1146/2], added cl. (iii).
+    Subsec. (e)(5)(A)(iii). [Pub. L. 109–162][/us/pl/109/162], § 1146(2), added cl. (iii).
 
     Subsec. (f). [Pub. L. 109–248][/us/pl/109/248] added subsec. (f).
 
-    1994—Subsec. (b). [Pub. L. 103–322, § 32001(1)][/us/pl/103/322/s32001/1], struck out “, to the extent practicable,” after “The Bureau shall” in concluding provisions.
+    1994—Subsec. (b). [Pub. L. 103–322][/us/pl/103/322], § 32001(1), struck out “, to the extent practicable,” after “The Bureau shall” in concluding provisions.
 
-    [Pub. L. 103–322, § 20401][/us/pl/103/322/s20401], inserted “In designating the place of imprisonment or making transfers under this subsection, there shall be no favoritism given to prisoners of high social or economic status.” after subsec. (b)(5).
+    [Pub. L. 103–322][/us/pl/103/322], § 20401, inserted “In designating the place of imprisonment or making transfers under this subsection, there shall be no favoritism given to prisoners of high social or economic status.” after subsec. (b)(5).
 
-    Subsec. (e). [Pub. L. 103–322, § 32001(2)][/us/pl/103/322/s32001/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 103–322][/us/pl/103/322], § 32001(2), added subsec. (e).
 
     1990—Subsec. (b). [Pub. L. 101–647][/us/pl/101/647] inserted at end “The Bureau shall, to the extent practicable, make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse.”
 
@@ -201,29 +201,29 @@
 ----------
 
 [/us/usc/t28/s994/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994%2Fa%2F2
-[/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2007
-[/us/pl/101/647/s2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2903
+[/us/pl/101/647/tXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXIX
 [/us/stat/104/4913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4913
-[/us/pl/103/322/s20401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20401
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1824
-[/us/pl/109/162/s1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1146
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3112
-[/us/pl/109/248/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs622
+[/us/pl/109/248/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtVI
 [/us/stat/120/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F634
-[/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
+[/us/pl/110/199/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtII
 [/us/stat/122/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F687
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/usc/t18/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3601
-[/us/pl/110/199/s251/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs251%2Fb
-[/us/pl/110/199/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs252
-[/us/pl/110/199/s231/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs231%2Ff
-[/us/pl/109/162/s1146/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1146%2F1
-[/us/pl/109/162/s1146/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1146%2F2
+[/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
+[/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
+[/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
-[/us/pl/103/322/s32001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs32001%2F1
-[/us/pl/103/322/s20401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20401
-[/us/pl/103/322/s32001/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs32001%2F2
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551

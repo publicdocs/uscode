@@ -17,11 +17,11 @@
 
     Whoever designs, engraves, prints, makes, or executes, or utters, issues, distributes, circulates, or uses any business or professional card, notice, placard, circular, handbill, or advertisement in the likeness or similitude of any obligation or security of the United States issued under or authorized by any Act of Congress or writes, prints, or otherwise impresses upon or attaches to any such instrument, obligation, or security, or any coin of the United States, any business or professional card, notice, or advertisement, or any notice or advertisement whatever, shall be fined under this title. Nothing in this section applies to evidence of postage payment approved by the United States Postal Service.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 706][/us/stat/62/706]; [July 16, 1951, ch. 226, § 2][/us/act/1951-07-16/ch226/s2], [65 Stat. 122][/us/stat/65/122]; [Pub. L. 103–322, title XXXIII, § 330016(1)(G)][/us/pl/103/322/s330016/1/G], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 109–162, title XI, § 1192][/us/pl/109/162/s1192], Jan. 5, 2006, [119 Stat. 3129][/us/stat/119/3129].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 706][/us/stat/62/706]; [July 16, 1951, ch. 226][/us/act/1951-07-16/ch226], § 2, [65 Stat. 122][/us/stat/65/122]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(G), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1192, Jan. 5, 2006, [119 Stat. 3129][/us/stat/119/3129].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 292 ([Mar. 4, 1909, ch. 321, § 177][/us/act/1909-03-04/ch321/s177], [35 Stat. 1122][/us/stat/35/1122]).
+    Based on title 18, U.S.C., 1940 ed., § 292 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 177, [35 Stat. 1122][/us/stat/35/1122]).
 
     Enumeration of obligations of the United States was omitted in view of definition in [section 8 of this title][/us/usc/t18/s8].
 
@@ -44,13 +44,13 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F706
-[/us/act/1951-07-16/ch226/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-07-16%2Fch226%2Fs2
+[/us/act/1951-07-16/ch226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-07-16%2Fch226
 [/us/stat/65/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F122
-[/us/pl/103/322/s330016/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FG
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/109/162/s1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1192
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3129
-[/us/act/1909-03-04/ch321/s177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs177
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1122
 [/us/usc/t18/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs8
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162

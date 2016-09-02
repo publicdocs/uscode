@@ -25,7 +25,7 @@
 
     (e) As used in this section, the term “confession” means any confession of guilt of any criminal offense or any self-incriminating statement made or given orally or in writing.
 
-(Added [Pub. L. 90–351, title II, § 701(a)][/us/pl/90/351/s701/a], June 19, 1968, [82 Stat. 210][/us/stat/82/210]; amended [Pub. L. 90–578, title III, § 301(a)(3)][/us/pl/90/578/s301/a/3], Oct. 17, 1968, [82 Stat. 1115][/us/stat/82/1115]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+(Added [Pub. L. 90–351, title II][/us/pl/90/351/tII], § 701(a), June 19, 1968, [82 Stat. 210][/us/stat/82/210]; amended [Pub. L. 90–578, title III][/us/pl/90/578/tIII], § 301(a)(3), Oct. 17, 1968, [82 Stat. 1115][/us/stat/82/1115]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __Constitutionality__ 
 
@@ -46,11 +46,11 @@ For information regarding constitutionality of this section, as added by [sectio
 ----------
 ----------
 
-[/us/pl/90/351/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs701%2Fa
+[/us/pl/90/351/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtII
 [/us/stat/82/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F210
-[/us/pl/90/578/s301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs301%2Fa%2F3
+[/us/pl/90/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtIII
 [/us/stat/82/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1115
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
 [/us/pl/90/351/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs701%2Fa
 [/us/pl/90/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578

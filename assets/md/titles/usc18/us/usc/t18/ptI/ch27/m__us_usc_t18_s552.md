@@ -17,7 +17,7 @@
 
     Whoever, being an officer, agent, or employee of the United States, knowingly aids or abets any person engaged in any violation of any of the provisions of law prohibiting importing, advertising, dealing in, exhibiting, or sending or receiving by mail obscene or indecent publications or representations, or books, pamphlets, papers, writings, advertisements, circulars, prints, pictures, or drawings containing any matter advocating or urging treason or insurrection against the United States or forcible resistance to any law of the United States, or containing any threat to take the life of or inflict bodily harm upon any person in the United States, or means for procuring abortion, or other articles of indecent or immoral use or tendency, shall be fined under this title or imprisoned not more than ten years, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 718][/us/stat/62/718]; [Pub. L. 91–662, § 2][/us/pl/91/662/s2], Jan. 8, 1971, [84 Stat. 1973][/us/stat/84/1973]; [Pub. L. 103–322, title XXXIII, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 718][/us/stat/62/718]; [Pub. L. 91–662][/us/pl/91/662], § 2, Jan. 8, 1971, [84 Stat. 1973][/us/stat/84/1973]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(K), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
@@ -37,7 +37,7 @@
 
  __Effective Date of 1971 Amendment__ 
 
-[Pub. L. 91–662, § 7][/us/pl/91/662/s7], Jan. 8, 1971, [84 Stat. 1974][/us/stat/84/1974], provided that: 
+[Pub. L. 91–662][/us/pl/91/662], § 7, Jan. 8, 1971, [84 Stat. 1974][/us/stat/84/1974], provided that: 
 
 > “The amendments made by this Act (other than by section 6) \[amending this section, sections 1461 and 1462 of this title, and [section 1305 of Title 19][/us/usc/t19/s1305], Customs Duties\] shall take effect on the day after the date of the enactment of this Act \[Jan. 8, 1971\].”
 
@@ -50,9 +50,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F718
-[/us/pl/91/662/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662%2Fs2
+[/us/pl/91/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662
 [/us/stat/84/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1973
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/usc/t19/s1305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1305%2Fb
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
@@ -61,7 +61,7 @@
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/91/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662
-[/us/pl/91/662/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662%2Fs7
+[/us/pl/91/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662
 [/us/stat/84/1974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1974
 [/us/usc/t19/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1305
 

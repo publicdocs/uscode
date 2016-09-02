@@ -17,11 +17,11 @@
 
     Whoever robs or attempts to rob another of any kind or description of personal property belonging to the United States, shall be imprisoned not more than fifteen years.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 796][/us/stat/62/796]; [Pub. L. 103–322, title XXXII, § 320903(a)(2)][/us/pl/103/322/s320903/a/2], Sept. 13, 1994, [108 Stat. 2124][/us/stat/108/2124].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 796][/us/stat/62/796]; [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320903(a)(2), Sept. 13, 1994, [108 Stat. 2124][/us/stat/108/2124].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 99 ([Mar. 4, 1909, ch. 321, § 46][/us/act/1909-03-04/ch321/s46], [35 Stat. 1097][/us/stat/35/1097]).
+    Based on title 18, U.S.C., 1940 ed., § 99 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 46, [35 Stat. 1097][/us/stat/35/1097]).
 
     That portion of said section 99 relating to felonious taking was omitted as covered by [section 641 of this title][/us/usc/t18/s641].
 
@@ -42,9 +42,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F796
-[/us/pl/103/322/s320903/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320903%2Fa%2F2
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2124
-[/us/act/1909-03-04/ch321/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs46
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1097
 [/us/usc/t18/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs641
 [/us/usc/t18/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2111

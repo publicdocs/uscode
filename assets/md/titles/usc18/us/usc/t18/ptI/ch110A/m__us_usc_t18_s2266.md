@@ -89,13 +89,13 @@
 
         (C) the frequency of interaction between the persons involved in the relationship.
 
-(Added [Pub. L. 103–322, title IV, § 40221(a)][/us/pl/103/322/s40221/a], Sept. 13, 1994, [108 Stat. 1931][/us/stat/108/1931]; amended [Pub. L. 106–386, div. B, title I, § 1107(d)][/us/pl/106/386/s1107/d], Oct. 28, 2000, [114 Stat. 1499][/us/stat/114/1499]; [Pub. L. 109–162, title I][/us/pl/109/162], §§ 106(d), 116(b), Jan. 5, 2006, [119 Stat. 2982][/us/stat/119/2982], 2988; [Pub. L. 109–271, § 2(c)][/us/pl/109/271/s2/c], (i), Aug. 12, 2006, [120 Stat. 752][/us/stat/120/752].)
+(Added [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40221(a), Sept. 13, 1994, [108 Stat. 1931][/us/stat/108/1931]; amended [Pub. L. 106–386, div. B, title I][/us/pl/106/386/dB/tI], § 1107(d), Oct. 28, 2000, [114 Stat. 1499][/us/stat/114/1499]; [Pub. L. 109–162, title I][/us/pl/109/162/tI], §§ 106(d), 116(b), Jan. 5, 2006, [119 Stat. 2982][/us/stat/119/2982], 2988; [Pub. L. 109–271][/us/pl/109/271], § 2(c), (i), Aug. 12, 2006, [120 Stat. 752][/us/stat/120/752].)
 
  __Amendments__ 
 
-    2006—Par. (5). [Pub. L. 109–162, § 106(d)(1)][/us/pl/109/162/s106/d/1], added par. (5) and struck out heading and text of former par. (5). Text read as follows: “The term ‘protection order’ includes any injunction or other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including any temporary or final order issued by a civil and criminal court (other than a support or child custody order issued pursuant to State divorce and child custody laws, except to the extent that such an order is entitled to full faith and credit under other Federal law) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.”
+    2006—Par. (5). [Pub. L. 109–162][/us/pl/109/162], § 106(d)(1), added par. (5) and struck out heading and text of former par. (5). Text read as follows: “The term ‘protection order’ includes any injunction or other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including any temporary or final order issued by a civil and criminal court (other than a support or child custody order issued pursuant to State divorce and child custody laws, except to the extent that such an order is entitled to full faith and credit under other Federal law) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.”
 
-    Par. (7)(A). [Pub. L. 109–162, § 106(d)(2)][/us/pl/109/162/s106/d/2], which directed amendment of cls. (i) and (ii) by substituting “2261A—
+    Par. (7)(A). [Pub. L. 109–162][/us/pl/109/162], § 106(d)(2), which directed amendment of cls. (i) and (ii) by substituting “2261A—
 
     “(I) a spouse or former spouse of the abuser, a person who shares a child in common with the abuser, and a person who cohabits or has cohabited as a spouse with the abuser; or
 
@@ -103,11 +103,11 @@
 
     for “2261A, a spouse or former spouse of the abuser, a person who shares a child in common with the abuser, and a person who cohabits or has cohabited as a spouse with the abuser”, was executed only to cl. (i) to reflect the probable intent of Congress because the quoted language to be deleted does not appear in cl. (ii).
 
-    Par. (7)(A)(ii). [Pub. L. 109–271, § 2(c)][/us/pl/109/271/s2/c], added cl. (ii) and struck out former cl. (ii) which read as follows: “section 2261A, a spouse or former spouse of the target of the stalking, a person who shares a child in common with the target of the stalking, and a person who cohabits or has cohabited as a spouse with the target of the stalking; and”.
+    Par. (7)(A)(ii). [Pub. L. 109–271][/us/pl/109/271], § 2(c), added cl. (ii) and struck out former cl. (ii) which read as follows: “section 2261A, a spouse or former spouse of the target of the stalking, a person who shares a child in common with the target of the stalking, and a person who cohabits or has cohabited as a spouse with the target of the stalking; and”.
 
-    Par. (10). [Pub. L. 109–271, § 2(i)][/us/pl/109/271/s2/i], substituted “. The existence of such a relationship is” for “and the existence of such a relationship” in introductory provisions.
+    Par. (10). [Pub. L. 109–271][/us/pl/109/271], § 2(i), substituted “. The existence of such a relationship is” for “and the existence of such a relationship” in introductory provisions.
 
-    [Pub. L. 109–162, § 116(b)][/us/pl/109/162/s116/b], added par. (10).
+    [Pub. L. 109–162][/us/pl/109/162], § 116(b), added par. (10).
 
     2000—[Pub. L. 106–386][/us/pl/106/386] reenacted section catchline without change and amended text generally. Prior to amendment, text defined “bodily injury”, “Indian country”, “protection order”, “spouse or intimate partner”, “State”, and “travel across State lines”.
 
@@ -119,19 +119,19 @@
 ----------
 
 [/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151
-[/us/pl/103/322/s40221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40221%2Fa
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1931
-[/us/pl/106/386/s1107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1107%2Fd
+[/us/pl/106/386/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtI
 [/us/stat/114/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1499
-[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtI
 [/us/stat/119/2982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2982
-[/us/pl/109/271/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs2%2Fc
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F752
-[/us/pl/109/162/s106/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs106%2Fd%2F1
-[/us/pl/109/162/s106/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs106%2Fd%2F2
-[/us/pl/109/271/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs2%2Fc
-[/us/pl/109/271/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs2%2Fi
-[/us/pl/109/162/s116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs116%2Fb
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 
 

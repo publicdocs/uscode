@@ -29,7 +29,7 @@
 
         shall be imprisoned for a term of up to 10 years in addition to any term of imprisonment imposed under any of those sections, respectively.
 
-(Added [Pub. L. 103–322, title XXV, § 250002(a)(2)][/us/pl/103/322/s250002/a/2], Sept. 13, 1994, [108 Stat. 2082][/us/stat/108/2082]; amended [Pub. L. 105–184][/us/pl/105/184], §§ 3, 4, June 23, 1998, [112 Stat. 520][/us/stat/112/520].)
+(Added [Pub. L. 103–322, title XXV][/us/pl/103/322/tXXV], § 250002(a)(2), Sept. 13, 1994, [108 Stat. 2082][/us/stat/108/2082]; amended [Pub. L. 105–184][/us/pl/105/184], §§ 3, 4, June 23, 1998, [112 Stat. 520][/us/stat/112/520].)
 
  __Amendments__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s250002/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs250002%2Fa%2F2
+[/us/pl/103/322/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXV
 [/us/stat/108/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2082
 [/us/pl/105/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F184
 [/us/stat/112/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F520

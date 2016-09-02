@@ -83,7 +83,7 @@ SUBCHAPTER B—PROBATION  <sup>[1]</sup>  <sup><sup> 1 So in original. Proba
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–322, title XXXIII, § 330010(3)][/us/pl/103/322/s330010/3], Sept. 13, 1994, [108 Stat. 2143][/us/stat/108/2143], transferred analysis for this subchapter to follow heading for this subchapter.
+    1994—[Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330010(3), Sept. 13, 1994, [108 Stat. 2143][/us/stat/108/2143], transferred analysis for this subchapter to follow heading for this subchapter.
 
 ----------
 
@@ -92,7 +92,7 @@ SUBCHAPTER B—PROBATION  <sup>[1]</sup>  <sup><sup> 1 So in original. Proba
 ----------
 ----------
 
-[/us/pl/103/322/s330010/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330010%2F3
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2143
 
 

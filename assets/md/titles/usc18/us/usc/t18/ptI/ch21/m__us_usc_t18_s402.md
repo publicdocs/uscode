@@ -23,7 +23,7 @@
 
     For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 701][/us/stat/62/701]; [May 24, 1949, ch. 139, § 8(c)][/us/act/1949-05-24/ch139/s8/c], [63 Stat. 90][/us/stat/63/90]; [Pub. L. 101–647, title XII, § 1205(c)][/us/pl/101/647/s1205/c], Nov. 29, 1990, [104 Stat. 4830][/us/stat/104/4830]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322], §§ 330011(f), 330016(2)(E), Sept. 13, 1994, [108 Stat. 2145][/us/stat/108/2145], 2148.)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 701][/us/stat/62/701]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 8(c), [63 Stat. 90][/us/stat/63/90]; [Pub. L. 101–647, title XII][/us/pl/101/647/tXII], § 1205(c), Nov. 29, 1990, [104 Stat. 4830][/us/stat/104/4830]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], §§ 330011(f), 330016(2)(E), Sept. 13, 1994, [108 Stat. 2145][/us/stat/108/2145], 2148.)
 
  __Historical and Revision Notes__ 
 
@@ -45,17 +45,17 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–322, § 330016(2)(E)][/us/pl/103/322/s330016/2/E], substituted “punished by a fine under this title” for “punished by fine” in first par.
+    1994—[Pub. L. 103–322][/us/pl/103/322], § 330016(2)(E), substituted “punished by a fine under this title” for “punished by fine” in first par.
 
-    [Pub. L. 103–322, § 330011(f)][/us/pl/103/322/s330011/f], amended directory language of [Pub. L. 101–647, § 1205(c)][/us/pl/101/647/s1205/c]. See 1990 Amendment note below.
+    [Pub. L. 103–322][/us/pl/103/322], § 330011(f), amended directory language of [Pub. L. 101–647][/us/pl/101/647], § 1205(c). See 1990 Amendment note below.
 
-    1990—[Pub. L. 101–647, § 1205(c)][/us/pl/101/647/s1205/c], as amended by [Pub. L. 103–322, § 330011(f)][/us/pl/103/322/s330011/f], added par. defining “State”.
+    1990—[Pub. L. 101–647][/us/pl/101/647], § 1205(c), as amended by [Pub. L. 103–322][/us/pl/103/322], § 330011(f), added par. defining “State”.
 
     1949—Act May 24, 1949, substituted “Contempts constituting crimes” for “Criminal contempts” in section catchline.
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–322, title XXXIII, § 330011(f)][/us/pl/103/322/s330011/f], Sept. 13, 1994, [108 Stat. 2145][/us/stat/108/2145], provided that the amendment made by that section is effective as of the date on which [section 1205(c) of Pub. L. 101–647][/us/pl/101/647/s1205/c], which amended this section, took effect.
+    [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330011(f), Sept. 13, 1994, [108 Stat. 2145][/us/stat/108/2145], provided that the amendment made by that section is effective as of the date on which [section 1205(c) of Pub. L. 101–647][/us/pl/101/647/s1205/c], which amended this section, took effect.
 
 ----------
 
@@ -67,11 +67,11 @@
 [/us/usc/t18/s3691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3691
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F701
-[/us/act/1949-05-24/ch139/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs8%2Fc
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F90
-[/us/pl/101/647/s1205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1205%2Fc
+[/us/pl/101/647/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXII
 [/us/stat/104/4830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4830
-[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2145
 [/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
 [/us/stat/38/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F730
@@ -82,12 +82,12 @@
 [/us/usc/t28/s390a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs390a
 [/us/usc/t18/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs412
 [/us/usc/t18/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs402
-[/us/pl/103/322/s330016/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F2%2FE
-[/us/pl/103/322/s330011/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Ff
-[/us/pl/101/647/s1205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1205%2Fc
-[/us/pl/101/647/s1205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1205%2Fc
-[/us/pl/103/322/s330011/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Ff
-[/us/pl/103/322/s330011/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Ff
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2145
 [/us/pl/101/647/s1205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1205%2Fc
 

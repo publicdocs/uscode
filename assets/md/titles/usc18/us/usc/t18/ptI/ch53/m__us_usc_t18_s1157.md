@@ -15,7 +15,7 @@
 
 ## \[§ 1157. Repealed. [Pub. L. 85–86][/us/pl/85/86], July 10, 1957, [71 Stat. 277][/us/stat/71/277]\]
 
-    Section, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 759][/us/stat/62/759]; [May 24, 1949, ch. 139, § 29][/us/act/1949-05-24/ch139/s29], [63 Stat. 94][/us/stat/63/94]; [Aug. 15, 1953, ch. 506, § 2(a)][/us/act/1953-08-15/ch506/s2/a], [67 Stat. 590][/us/stat/67/590], prohibited purchase of Indian-owned livestock subject to unpaid loans from Federal revolving fund or from tribal loan funds.
+    Section, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 759][/us/stat/62/759]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 29, [63 Stat. 94][/us/stat/63/94]; [Aug. 15, 1953, ch. 506][/us/act/1953-08-15/ch506], § 2(a), [67 Stat. 590][/us/stat/67/590], prohibited purchase of Indian-owned livestock subject to unpaid loans from Federal revolving fund or from tribal loan funds.
 
 ----------
 
@@ -28,9 +28,9 @@
 [/us/stat/71/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F277
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F759
-[/us/act/1949-05-24/ch139/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs29
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F94
-[/us/act/1953-08-15/ch506/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch506%2Fs2%2Fa
+[/us/act/1953-08-15/ch506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch506
 [/us/stat/67/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F590
 
 

@@ -89,7 +89,7 @@
 
             (E) any other injury to the body, no matter how temporary.
 
-(Added [Pub. L. 98–127, § 2][/us/pl/98/127/s2], Oct. 13, 1983, [97 Stat. 831][/us/stat/97/831]; amended [Pub. L. 101–647, title XXXV, § 3544][/us/pl/101/647/s3544], Nov. 29, 1990, [104 Stat. 4926][/us/stat/104/4926]; [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], (O), (Q), (S), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147], 2148; [Pub. L. 107–307, § 2][/us/pl/107/307/s2], Dec. 2, 2002, [116 Stat. 2445][/us/stat/116/2445].)
+(Added [Pub. L. 98–127][/us/pl/98/127], § 2, Oct. 13, 1983, [97 Stat. 831][/us/stat/97/831]; amended [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3544, Nov. 29, 1990, [104 Stat. 4926][/us/stat/104/4926]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), (O), (Q), (S), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147], 2148; [Pub. L. 107–307][/us/pl/107/307], § 2, Dec. 2, 2002, [116 Stat. 2445][/us/stat/116/2445].)
 
  __Codification__ 
 
@@ -99,27 +99,27 @@
 
     2002—Subsecs. (f) to (h). [Pub. L. 107–307][/us/pl/107/307] added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-    1994—Subsec. (a)(1). [Pub. L. 103–322, § 330016(1)(O)][/us/pl/103/322/s330016/1/O], substituted “fined under this title” for “fined not more than $25,000”.
+    1994—Subsec. (a)(1). [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(O), substituted “fined under this title” for “fined not more than $25,000”.
 
-    Subsec. (a)(2), (3). [Pub. L. 103–322, § 330016(1)(S)][/us/pl/103/322/s330016/1/S], substituted “fined under this title” for “fined not more than $100,000”.
+    Subsec. (a)(2), (3). [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(S), substituted “fined under this title” for “fined not more than $100,000”.
 
-    Subsec. (a)(4). [Pub. L. 103–322, § 330016(1)(Q)][/us/pl/103/322/s330016/1/Q], substituted “fined under this title” for “fined not more than $50,000”.
+    Subsec. (a)(4). [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(Q), substituted “fined under this title” for “fined not more than $50,000”.
 
-    Subsec. (b). [Pub. L. 103–322, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], substituted “fined under this title” for “fined not more than $10,000”.
+    Subsec. (b). [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
 
-    Subsecs. (c)(1), (d), (e). [Pub. L. 103–322, § 330016(1)(O)][/us/pl/103/322/s330016/1/O], substituted “fined under this title” for “fined not more than $25,000”.
+    Subsecs. (c)(1), (d), (e). [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(O), substituted “fined under this title” for “fined not more than $25,000”.
 
     1990—Subsec. (g)(1)(A). [Pub. L. 101–647][/us/pl/101/647] inserted opening quotation marks before “device”.
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–307, § 1][/us/pl/107/307/s1], Dec. 2, 2002, [116 Stat. 2445][/us/stat/116/2445], provided that: 
+[Pub. L. 107–307][/us/pl/107/307], § 1, Dec. 2, 2002, [116 Stat. 2445][/us/stat/116/2445], provided that: 
 
 > “This Act \[amending this section\] may be cited as the ‘Product Packaging Protection Act of 2002’.”
 
  __Short Title__ 
 
-[Pub. L. 98–127, § 1][/us/pl/98/127/s1], Oct. 13, 1983, [97 Stat. 831][/us/stat/97/831], provided: 
+[Pub. L. 98–127][/us/pl/98/127], § 1, Oct. 13, 1983, [97 Stat. 831][/us/stat/97/831], provided: 
 
 > “That this Act \[enacting this section and [section 155A of Title 35][/us/usc/t35/s155A], Patents\] may be cited as the ‘Federal Anti-Tampering Act’.”
 
@@ -132,25 +132,25 @@
 
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/usc/t21/s321/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Fm
-[/us/pl/98/127/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F127%2Fs2
+[/us/pl/98/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F127
 [/us/stat/97/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F831
-[/us/pl/101/647/s3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3544
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4926
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/107/307/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F307%2Fs2
+[/us/pl/107/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F307
 [/us/stat/116/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2445
 [/us/usc/t18/s1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1366
 [/us/pl/107/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F307
-[/us/pl/103/322/s330016/1/O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FO
-[/us/pl/103/322/s330016/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FS
-[/us/pl/103/322/s330016/1/Q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FQ
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
-[/us/pl/103/322/s330016/1/O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FO
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
-[/us/pl/107/307/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F307%2Fs1
+[/us/pl/107/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F307
 [/us/stat/116/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2445
-[/us/pl/98/127/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F127%2Fs1
+[/us/pl/98/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F127
 [/us/stat/97/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F831
 [/us/usc/t35/s155A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs155A
 

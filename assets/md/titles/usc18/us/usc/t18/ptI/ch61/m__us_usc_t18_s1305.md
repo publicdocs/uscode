@@ -17,7 +17,7 @@
 
     The provisions of this chapter shall not apply with respect to any fishing contest not conducted for profit wherein prizes are awarded for the specie, size, weight, or quality of fish caught by contestants in any bona fide fishing or recreational event.
 
-(Added [Aug. 16, 1950, ch. 722, § 1][/us/act/1950-08-16/ch722/s1], [64 Stat. 451][/us/stat/64/451].)
+(Added [Aug. 16, 1950, ch. 722][/us/act/1950-08-16/ch722], § 1, [64 Stat. 451][/us/stat/64/451].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1950-08-16/ch722/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-16%2Fch722%2Fs1
+[/us/act/1950-08-16/ch722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-16%2Fch722
 [/us/stat/64/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F451
 
 

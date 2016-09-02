@@ -21,11 +21,11 @@
 
         The Secretary of the Treasury is authorized to promulgate regulations upon compliance with which vessels engaged in the coastwise trade or fisheries or used solely for pleasure may be relieved from complying with this section.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 747][/us/stat/62/747]; [Pub. L. 103–182, title VI, § 687][/us/pl/103/182/s687], Dec. 8, 1993, [107 Stat. 2221][/us/stat/107/2221]; [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 109–304, § 17(d)(5)][/us/pl/109/304/s17/d/5], Oct. 6, 2006, [120 Stat. 1707][/us/stat/120/1707].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 747][/us/stat/62/747]; [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 687, Dec. 8, 1993, [107 Stat. 2221][/us/stat/107/2221]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 109–304][/us/pl/109/304], § 17(d)(5), Oct. 6, 2006, [120 Stat. 1707][/us/stat/120/1707].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., §§ 34, 36 ([June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title V, §§ 4, 6, [40 Stat. 222][/us/stat/40/222]; [Mar. 28, 1940, ch. 72, § 5][/us/act/1940-03-28/ch72/s5], [54 Stat. 79][/us/stat/54/79]).
+    Based on title 18, U.S.C., 1940 ed., §§ 34, 36 ([June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title V, §§ 4, 6, [40 Stat. 222][/us/stat/40/222]; [Mar. 28, 1940, ch. 72][/us/act/1940-03-28/ch72], § 5, [54 Stat. 79][/us/stat/54/79]).
 
     Section consolidates said sections of title 18, U.S.C., 1940 ed.
 
@@ -66,15 +66,15 @@
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F747
-[/us/pl/103/182/s687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs687
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2221
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/109/304/s17/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs17%2Fd%2F5
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1707
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
 [/us/stat/40/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F222
-[/us/act/1940-03-28/ch72/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-28%2Fch72%2Fs5
+[/us/act/1940-03-28/ch72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-28%2Fch72
 [/us/stat/54/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F79
 [/us/usc/t18/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs5
 [/us/usc/t18/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs371

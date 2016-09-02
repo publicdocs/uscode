@@ -95,7 +95,7 @@
 
         Any other term has the meaning given that term by section 3 of the CAN-SPAM Act of 2003.
 
-(Added [Pub. L. 108–187, § 4(a)(1)][/us/pl/108/187/s4/a/1], Dec. 16, 2003, [117 Stat. 2703][/us/stat/117/2703].)
+(Added [Pub. L. 108–187][/us/pl/108/187], § 4(a)(1), Dec. 16, 2003, [117 Stat. 2703][/us/stat/117/2703].)
 
  __References in Text__ 
 
@@ -116,7 +116,7 @@
 
 [/us/usc/t21/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853
 [/us/usc/t18/s1030/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1030%2Fe
-[/us/pl/108/187/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs4%2Fa%2F1
+[/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2703
 [/us/usc/t15/s7702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7702
 [/us/pl/108/187/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs16

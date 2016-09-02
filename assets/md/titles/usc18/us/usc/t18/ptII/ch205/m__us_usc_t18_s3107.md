@@ -17,7 +17,7 @@
 
     The Director, Associate Director, Assistant to the Director, Assistant Directors, agents, and inspectors of the Federal Bureau of Investigation of the Department of Justice are empowered to make seizures under warrant for violation of the laws of the United States.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 819][/us/stat/62/819]; [Jan. 10, 1951, ch. 1221, § 2][/us/act/1951-01-10/ch1221/s2], [64 Stat. 1239][/us/stat/64/1239].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 819][/us/stat/62/819]; [Jan. 10, 1951, ch. 1221][/us/act/1951-01-10/ch1221], § 2, [64 Stat. 1239][/us/stat/64/1239].)
 
  __Historical and Revision Notes__ 
 
@@ -42,7 +42,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F819
-[/us/act/1951-01-10/ch1221/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-10%2Fch1221%2Fs2
+[/us/act/1951-01-10/ch1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-10%2Fch1221
 [/us/stat/64/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1239
 [/us/usc/t5/s300a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs300a
 [/us/act/1934-06-18/ch595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch595

@@ -119,21 +119,21 @@
 
         (12) “state” has the same meaning as that term has under international law, and includes all political subdivisions thereof.
 
-(Added [Pub. L. 107–197, title I, § 102(a)][/us/pl/107/197/s102/a], June 25, 2002, [116 Stat. 721][/us/stat/116/721].)
+(Added [Pub. L. 107–197, title I][/us/pl/107/197/tI], § 102(a), June 25, 2002, [116 Stat. 721][/us/stat/116/721].)
 
  __References in Text__ 
 
-    Section 1365(g)(3), referred to in subsec. (e)(1), was redesignated section 1365(h)(3) by [Pub. L. 107–307, § 2(1)][/us/pl/107/307/s2/1], Dec. 2, 2002, [116 Stat. 2445][/us/stat/116/2445].
+    Section 1365(g)(3), referred to in subsec. (e)(1), was redesignated section 1365(h)(3) by [Pub. L. 107–307][/us/pl/107/307], § 2(1), Dec. 2, 2002, [116 Stat. 2445][/us/stat/116/2445].
 
  __Effective Date__ 
 
-[Pub. L. 107–197, title I, § 103][/us/pl/107/197/s103], June 25, 2002, [116 Stat. 724][/us/stat/116/724], provided that: 
+[Pub. L. 107–197, title I][/us/pl/107/197/tI], § 103, June 25, 2002, [116 Stat. 724][/us/stat/116/724], provided that: 
 
 > “Section 102 \[enacting this section and provisions set out as a note below\] shall take effect on the date that the International Convention for the Suppression of Terrorist Bombings enters into force for the United States \[July 26, 2002\].”
 
  __Disclaimer__ 
 
-[Pub. L. 107–197, title I, § 102(c)][/us/pl/107/197/s102/c], June 25, 2002, [116 Stat. 724][/us/stat/116/724], provided that: 
+[Pub. L. 107–197, title I][/us/pl/107/197/tI], § 102(c), June 25, 2002, [116 Stat. 724][/us/stat/116/724], provided that: 
 
 > “Nothing contained in this section \[enacting this section and provisions set out as a note above\] is intended to affect the applicability of any other Federal or State law which might pertain to the underlying conduct.”
 
@@ -150,13 +150,13 @@
 [/us/usc/t18/s1116/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1116%2Fb%2F5
 [/us/usc/t18/s844/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs844%2Fj
 [/us/usc/t18/s178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs178
-[/us/pl/107/197/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197%2Fs102%2Fa
+[/us/pl/107/197/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197%2FtI
 [/us/stat/116/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F721
-[/us/pl/107/307/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F307%2Fs2%2F1
+[/us/pl/107/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F307
 [/us/stat/116/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2445
-[/us/pl/107/197/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197%2Fs103
+[/us/pl/107/197/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197%2FtI
 [/us/stat/116/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F724
-[/us/pl/107/197/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197%2Fs102%2Fc
+[/us/pl/107/197/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197%2FtI
 [/us/stat/116/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F724
 
 

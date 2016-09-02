@@ -17,7 +17,7 @@
 
     As used in this title, the term “Postal Service” means the United States Postal Service established under title 39, and every officer and employee of that Service, whether or not such officer or employee has taken the oath of office.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 686][/us/stat/62/686]; [Pub. L. 91–375, § 6(j)(2)][/us/pl/91/375/s6/j/2], Aug. 12, 1970, [84 Stat. 777][/us/stat/84/777]; [Pub. L. 101–647, title XXXV, § 3505][/us/pl/101/647/s3505], Nov. 29, 1990, [104 Stat. 4921][/us/stat/104/4921].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 686][/us/stat/62/686]; [Pub. L. 91–375][/us/pl/91/375], § 6(j)(2), Aug. 12, 1970, [84 Stat. 777][/us/stat/84/777]; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3505, Nov. 29, 1990, [104 Stat. 4921][/us/stat/104/4921].)
 
  __Historical and Revision Notes__ 
 
@@ -44,9 +44,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F686
-[/us/pl/91/375/s6/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fj%2F2
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F777
-[/us/pl/101/647/s3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3505
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4921
 [/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1134

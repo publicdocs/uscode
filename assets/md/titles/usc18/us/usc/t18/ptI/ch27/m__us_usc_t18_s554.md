@@ -23,7 +23,7 @@
 
     In this section, the term “United States” has the meaning given that term in section 545.
 
-(Added [Pub. L. 109–177, title III, § 311(a)][/us/pl/109/177/s311/a], Mar. 9, 2006, [120 Stat. 242][/us/stat/120/242].)
+(Added [Pub. L. 109–177, title III][/us/pl/109/177/tIII], § 311(a), Mar. 9, 2006, [120 Stat. 242][/us/stat/120/242].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/109/177/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs311%2Fa
+[/us/pl/109/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIII
 [/us/stat/120/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F242
 [/us/usc/t18/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs555
 

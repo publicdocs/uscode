@@ -43,7 +43,7 @@
 
         shall be punished as provided in [section 2261(b) of this title][/us/usc/t18/s2261/b].
 
-(Added [Pub. L. 104–201, div. A, title X, § 1069(a)][/us/pl/104/201/s1069/a], Sept. 23, 1996, [110 Stat. 2655][/us/stat/110/2655]; amended [Pub. L. 106–386, div. B, title I, § 1107(b)(1)][/us/pl/106/386/s1107/b/1], Oct. 28, 2000, [114 Stat. 1498][/us/stat/114/1498]; [Pub. L. 109–162, title I, § 114(a)][/us/pl/109/162/s114/a], Jan. 5, 2006, [119 Stat. 2987][/us/stat/119/2987]; [Pub. L. 113–4, title I, § 107(b)][/us/pl/113/4/s107/b], Mar. 7, 2013, [127 Stat. 77][/us/stat/127/77].)
+(Added [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1069(a), Sept. 23, 1996, [110 Stat. 2655][/us/stat/110/2655]; amended [Pub. L. 106–386, div. B, title I][/us/pl/106/386/dB/tI], § 1107(b)(1), Oct. 28, 2000, [114 Stat. 1498][/us/stat/114/1498]; [Pub. L. 109–162, title I][/us/pl/109/162/tI], § 114(a), Jan. 5, 2006, [119 Stat. 2987][/us/stat/119/2987]; [Pub. L. 113–4, title I][/us/pl/113/4/tI], § 107(b), Mar. 7, 2013, [127 Stat. 77][/us/stat/127/77].)
 
  __Amendments__ 
 
@@ -65,13 +65,13 @@
 ----------
 
 [/us/usc/t18/s2261/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2261%2Fb
-[/us/pl/104/201/s1069/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1069%2Fa
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2655
-[/us/pl/106/386/s1107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1107%2Fb%2F1
+[/us/pl/106/386/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtI
 [/us/stat/114/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1498
-[/us/pl/109/162/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs114%2Fa
+[/us/pl/109/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtI
 [/us/stat/119/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2987
-[/us/pl/113/4/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs107%2Fb
+[/us/pl/113/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtI
 [/us/stat/127/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F77
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162

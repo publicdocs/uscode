@@ -45,17 +45,17 @@
 
         shall be sentenced to death if, after consideration of the factors set forth in section 3592 in the course of a hearing held pursuant to section 3593, it is determined that imposition of a sentence of death is justified, except that no person may be sentenced to death who was less than 18 years of age at the time of the offense.
 
-(Added [Pub. L. 103–322, title VI, § 60002(a)][/us/pl/103/322/s60002/a], Sept. 13, 1994, [108 Stat. 1959][/us/stat/108/1959].)
+(Added [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60002(a), Sept. 13, 1994, [108 Stat. 1959][/us/stat/108/1959].)
 
  __Short Title__ 
 
-[Pub. L. 103–322, title VI, § 60001][/us/pl/103/322/s60001], Sept. 13, 1994, [108 Stat. 1959][/us/stat/108/1959], provided that: 
+[Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60001, Sept. 13, 1994, [108 Stat. 1959][/us/stat/108/1959], provided that: 
 
 > “This title \[enacting this chapter and sections 36, 37, 1118 to 1121, 2245, 2280, 2281, and 2332a of this title, amending sections 34, 241, 242, 245, 247, 794, 844, 924, 930, 1091, 1111, 1114, 1116, 1117, 1201, 1203, 1503, 1512, 1513, 1716, 1958, 1959, 1992, 2113, 2119, 2251, 2332, 2340A, 3005, and 3432 of this title and [section 1324 of Title 8][/us/usc/t8/s1324], Aliens and Nationality, renumbering former [section 2245 of this title][/us/usc/t18/s2245] as 2246, repealing [section 46503 of Title 49][/us/usc/t49/s46503], Transportation, and enacting provisions set out as notes under this section and sections 36, 37, and 2280 of this title\] may be cited as the ‘Federal Death Penalty Act of 1994’.”
 
  __Applicability to Uniform Code of Military Justice__ 
 
-[Pub. L. 103–322, title VI, § 60004][/us/pl/103/322/s60004], Sept. 13, 1994, [108 Stat. 1970][/us/stat/108/1970], provided that: 
+[Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60004, Sept. 13, 1994, [108 Stat. 1970][/us/stat/108/1970], provided that: 
 
 > “Chapter 228 of title 18, United States Code, as added by this title, shall not apply to prosecutions under the Uniform Code of Military Justice ([10 U.S.C. 801][/us/usc/t10/s801]).”
 
@@ -68,14 +68,14 @@
 
 [/us/usc/t21/s848/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs848%2Fc%2F1
 [/us/usc/t21/s848/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs848%2Fc%2F1
-[/us/pl/103/322/s60002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60002%2Fa
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1959
-[/us/pl/103/322/s60001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60001
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1959
 [/us/usc/t8/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324
 [/us/usc/t18/s2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2245
 [/us/usc/t49/s46503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46503
-[/us/pl/103/322/s60004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60004
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1970
 [/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801
 

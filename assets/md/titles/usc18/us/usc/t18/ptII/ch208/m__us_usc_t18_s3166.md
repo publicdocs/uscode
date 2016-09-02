@@ -69,17 +69,17 @@
 
     (f) Each plan may be accompanied by guidelines promulgated by the judicial council of the circuit for use by all district courts within that circuit to implement and secure compliance with this chapter.
 
-(Added [Pub. L. 93–619, title I, § 101][/us/pl/93/619/s101], Jan. 3, 1975, [88 Stat. 2082][/us/stat/88/2082]; amended [Pub. L. 96–43, § 9(a)][/us/pl/96/43/s9/a]–(c), Aug. 2, 1979, [93 Stat. 329][/us/stat/93/329]; [Pub. L. 101–647, title XXXV, § 3578][/us/pl/101/647/s3578], Nov. 29, 1990, [104 Stat. 4929][/us/stat/104/4929].)
+(Added [Pub. L. 93–619, title I][/us/pl/93/619/tI], § 101, Jan. 3, 1975, [88 Stat. 2082][/us/stat/88/2082]; amended [Pub. L. 96–43][/us/pl/96/43], § 9(a)–(c), Aug. 2, 1979, [93 Stat. 329][/us/stat/93/329]; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3578, Nov. 29, 1990, [104 Stat. 4929][/us/stat/104/4929].)
 
  __Amendments__ 
 
     1990—Subsec. (b)(8). [Pub. L. 101–647][/us/pl/101/647] substituted “extension” for “extention”.
 
-    1979—Subsec. (b)(9). [Pub. L. 96–43, § 9(a)][/us/pl/96/43/s9/a], added par. (9).
+    1979—Subsec. (b)(9). [Pub. L. 96–43][/us/pl/96/43], § 9(a), added par. (9).
 
-    Subsec. (c)(7). [Pub. L. 96–43, § 9(b)][/us/pl/96/43/s9/b], added par. (7).
+    Subsec. (c)(7). [Pub. L. 96–43][/us/pl/96/43], § 9(b), added par. (7).
 
-    Subsec. (f). [Pub. L. 96–43, § 9(c)][/us/pl/96/43/s9/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 96–43][/us/pl/96/43], § 9(c), added subsec. (f).
 
 ----------
 
@@ -89,15 +89,15 @@
 ----------
 
 [/us/usc/t18/s3161/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3161%2Fh
-[/us/pl/93/619/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2Fs101
+[/us/pl/93/619/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2FtI
 [/us/stat/88/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2082
-[/us/pl/96/43/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs9%2Fa
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 [/us/stat/93/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F329
-[/us/pl/101/647/s3578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3578
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4929
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
-[/us/pl/96/43/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs9%2Fa
-[/us/pl/96/43/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs9%2Fb
-[/us/pl/96/43/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs9%2Fc
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 
 

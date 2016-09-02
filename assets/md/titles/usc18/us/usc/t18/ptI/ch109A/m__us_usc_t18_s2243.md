@@ -49,7 +49,7 @@
 
         (2) that the requisite age difference existed between the persons so engaging.
 
-(Added [Pub. L. 99–646, § 87(b)][/us/pl/99/646/s87/b], Nov. 10, 1986, [100 Stat. 3621][/us/stat/100/3621], and [Pub. L. 99–654, § 2][/us/pl/99/654/s2], Nov. 14, 1986, [100 Stat. 3661][/us/stat/100/3661]; amended [Pub. L. 101–647, title III, § 322][/us/pl/101/647/s322], Nov. 29, 1990, [104 Stat. 4818][/us/stat/104/4818]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title I, § 121\[7(c)\]\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–26, 3009–31; [Pub. L. 105–314, title III, § 301(b)][/us/pl/105/314/s301/b], Oct. 30, 1998, [112 Stat. 2979][/us/stat/112/2979]; [Pub. L. 109–162, title XI, § 1177(a)(4)][/us/pl/109/162/s1177/a/4], (b)(1), Jan. 5, 2006, [119 Stat. 3125][/us/stat/119/3125]; [Pub. L. 109–248, title II, § 207][/us/pl/109/248/s207], July 27, 2006, [120 Stat. 615][/us/stat/120/615]; [Pub. L. 110–161, div. E, title V, § 554][/us/pl/110/161/s554], Dec. 26, 2007, [121 Stat. 2082][/us/stat/121/2082].)
+(Added [Pub. L. 99–646][/us/pl/99/646], § 87(b), Nov. 10, 1986, [100 Stat. 3621][/us/stat/100/3621], and [Pub. L. 99–654][/us/pl/99/654], § 2, Nov. 14, 1986, [100 Stat. 3661][/us/stat/100/3661]; amended [Pub. L. 101–647, title III][/us/pl/101/647/tIII], § 322, Nov. 29, 1990, [104 Stat. 4818][/us/stat/104/4818]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title I, § 121\[7(c)\]\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–26, 3009–31; [Pub. L. 105–314, title III][/us/pl/105/314/tIII], § 301(b), Oct. 30, 1998, [112 Stat. 2979][/us/stat/112/2979]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1177(a)(4), (b)(1), Jan. 5, 2006, [119 Stat. 3125][/us/stat/119/3125]; [Pub. L. 109–248, title II][/us/pl/109/248/tII], § 207, July 27, 2006, [120 Stat. 615][/us/stat/120/615]; [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 554, Dec. 26, 2007, [121 Stat. 2082][/us/stat/121/2082].)
 
  __Codification__ 
 
@@ -59,13 +59,13 @@
 
     2007—Subsecs. (a), (b). [Pub. L. 110–161][/us/pl/110/161] substituted “the head of any Federal department or agency” for “the Attorney General” in introductory provisions.
 
-    2006—Subsec. (a). [Pub. L. 109–248, § 207(2)][/us/pl/109/248/s207/2], inserted comma after “Attorney General” in introductory provisions.
+    2006—Subsec. (a). [Pub. L. 109–248][/us/pl/109/248], § 207(2), inserted comma after “Attorney General” in introductory provisions.
 
-    [Pub. L. 109–162, § 1177(a)(4)][/us/pl/109/162/s1177/a/4], inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in introductory provisions.
+    [Pub. L. 109–162][/us/pl/109/162], § 1177(a)(4), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in introductory provisions.
 
     Subsec. (b). [Pub. L. 109–248][/us/pl/109/248] inserted comma after “Attorney General” in introductory provisions and substituted “15 years” for “five years” in concluding provisions.
 
-    [Pub. L. 109–162, § 1177(a)(4)][/us/pl/109/162/s1177/a/4], (b)(1), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in introductory provisions and substituted “five years” for “one year” in concluding provisions.
+    [Pub. L. 109–162][/us/pl/109/162], § 1177(a)(4), (b)(1), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in introductory provisions and substituted “five years” for “one year” in concluding provisions.
 
     1998—Subsec. (a). [Pub. L. 105–314][/us/pl/105/314] struck out “crosses a State line with intent to engage in a sexual act with a person who has not attained the age of 12 years, or” after “Whoever” in introductory provisions.
 
@@ -80,29 +80,29 @@
 ----------
 ----------
 
-[/us/pl/99/646/s87/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs87%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3621
-[/us/pl/99/654/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654%2Fs2
+[/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
 [/us/stat/100/3661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3661
-[/us/pl/101/647/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs322
+[/us/pl/101/647/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtIII
 [/us/stat/104/4818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4818
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/105/314/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2Fs301%2Fb
+[/us/pl/105/314/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2FtIII
 [/us/stat/112/2979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2979
-[/us/pl/109/162/s1177/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1177%2Fa%2F4
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3125
-[/us/pl/109/248/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs207
+[/us/pl/109/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtII
 [/us/stat/120/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F615
-[/us/pl/110/161/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs554
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2082
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
-[/us/pl/109/248/s207/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs207%2F2
-[/us/pl/109/162/s1177/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1177%2Fa%2F4
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
-[/us/pl/109/162/s1177/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1177%2Fa%2F4
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/105/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647

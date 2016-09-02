@@ -19,13 +19,13 @@
 
     (b) The district courts of the United States shall have exclusive original jurisdiction of civil actions under this section.
 
-(Added [Pub. L. 104–294, title I, § 101(a)][/us/pl/104/294/s101/a], Oct. 11, 1996, [110 Stat. 3490][/us/stat/110/3490]; amended [Pub. L. 107–273, div. B, title IV, § 4002(e)(9)][/us/pl/107/273/s4002/e/9], Nov. 2, 2002, [116 Stat. 1810][/us/stat/116/1810].)
+(Added [Pub. L. 104–294, title I][/us/pl/104/294/tI], § 101(a), Oct. 11, 1996, [110 Stat. 3490][/us/stat/110/3490]; amended [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(e)(9), Nov. 2, 2002, [116 Stat. 1810][/us/stat/116/1810].)
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–273, § 4002(e)(9)(A)][/us/pl/107/273/s4002/e/9/A], substituted “this chapter” for “this section”.
+    2002—Subsec. (a). [Pub. L. 107–273][/us/pl/107/273], § 4002(e)(9)(A), substituted “this chapter” for “this section”.
 
-    Subsec. (b). [Pub. L. 107–273, § 4002(e)(9)(B)][/us/pl/107/273/s4002/e/9/B], substituted “this section” for “this subsection”.
+    Subsec. (b). [Pub. L. 107–273][/us/pl/107/273], § 4002(e)(9)(B), substituted “this section” for “this subsection”.
 
 ----------
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/pl/104/294/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs101%2Fa
+[/us/pl/104/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtI
 [/us/stat/110/3490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3490
-[/us/pl/107/273/s4002/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fe%2F9
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1810
-[/us/pl/107/273/s4002/e/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fe%2F9%2FA
-[/us/pl/107/273/s4002/e/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fe%2F9%2FB
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 
 

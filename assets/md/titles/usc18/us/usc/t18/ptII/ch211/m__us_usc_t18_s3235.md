@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on [section 101 of title 28][/us/usc/t28/s101], U.S.C., 1940 ed., Judicial Code and Judiciary ([Mar. 3, 1911, ch. 231, § 40][/us/act/1911-03-03/ch231/s40], [36 Stat. 1100][/us/stat/36/1100]).
+    Based on [section 101 of title 28][/us/usc/t28/s101], U.S.C., 1940 ed., Judicial Code and Judiciary ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 40, [36 Stat. 1100][/us/stat/36/1100]).
 
 ----------
 
@@ -33,7 +33,7 @@
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F826
 [/us/usc/t28/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs101
-[/us/act/1911-03-03/ch231/s40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs40
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1100
 
 

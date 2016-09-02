@@ -71,7 +71,7 @@
 
     In this chapter, the terms “aircraft engine”, “air navigation facility”, “appliance”, “civil aircraft”, “foreign air commerce”, “interstate air commerce”, “landing area”, “overseas air commerce”, “propeller”, “spare part”, and “special aircraft jurisdiction of the United States” have the meanings given those terms in sections 40102(a) and 46501 of title 49.
 
-(Added [July 14, 1956, ch. 595, § 1][/us/act/1956-07-14/ch595/s1], [70 Stat. 538][/us/stat/70/538]; amended [Pub. L. 98–473, title II][/us/pl/98/473], §§ 1010, 2013(a), Oct. 12, 1984, [98 Stat. 2141][/us/stat/98/2141], 2187; [Pub. L. 100–690, title VII, § 7015][/us/pl/100/690/s7015], Nov. 18, 1988, [102 Stat. 4395][/us/stat/102/4395]; [Pub. L. 103–272, § 5(e)(1)][/us/pl/103/272/s5/e/1], July 5, 1994, [108 Stat. 1373][/us/stat/108/1373]; [Pub. L. 106–181, title V, § 506(b)][/us/pl/106/181/s506/b], Apr. 5, 2000, [114 Stat. 136][/us/stat/114/136].)
+(Added [July 14, 1956, ch. 595][/us/act/1956-07-14/ch595], § 1, [70 Stat. 538][/us/stat/70/538]; amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], §§ 1010, 2013(a), Oct. 12, 1984, [98 Stat. 2141][/us/stat/98/2141], 2187; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7015, Nov. 18, 1988, [102 Stat. 4395][/us/stat/102/4395]; [Pub. L. 103–272][/us/pl/103/272], § 5(e)(1), July 5, 1994, [108 Stat. 1373][/us/stat/108/1373]; [Pub. L. 106–181, title V][/us/pl/106/181/tV], § 506(b), Apr. 5, 2000, [114 Stat. 136][/us/stat/114/136].)
 
  __Amendments__ 
 
@@ -93,11 +93,11 @@
 
     1988—[Pub. L. 100–690][/us/pl/100/690] substituted “door is opened” for “door in opened” in definition of “in flight”.
 
-    1984—[Pub. L. 98–473, § 2013(a)(1)][/us/pl/98/473/s2013/a/1], in first par. struck out “and” before “spare part”, inserted “and ‘special aircraft jurisdiction of the United States’ ”, and substituted “Federal Aviation Act of 1958” for “Civil Aeronautics Act of 1938”.
+    1984—[Pub. L. 98–473][/us/pl/98/473], § 2013(a)(1), in first par. struck out “and” before “spare part”, inserted “and ‘special aircraft jurisdiction of the United States’ ”, and substituted “Federal Aviation Act of 1958” for “Civil Aeronautics Act of 1938”.
 
-    [Pub. L. 98–473, § 1010][/us/pl/98/473/s1010], substituted “passengers and property, or property or cargo” for “or passengers and property” in definition of motor vehicle.
+    [Pub. L. 98–473][/us/pl/98/473], § 1010, substituted “passengers and property, or property or cargo” for “or passengers and property” in definition of motor vehicle.
 
-    [Pub. L. 98–473, § 2013(a)(2)][/us/pl/98/473/s2013/a/2]–(4), inserted definitions of “in flight” and “in service”.
+    [Pub. L. 98–473][/us/pl/98/473], § 2013(a)(2)–(4), inserted definitions of “in flight” and “in service”.
 
  __Effective Date of 2000 Amendment__ 
 
@@ -105,25 +105,25 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–473, title II, § 2015][/us/pl/98/473/s2015], Oct. 12, 1984, [98 Stat. 2190][/us/stat/98/2190], provided that: 
+[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 2015, Oct. 12, 1984, [98 Stat. 2190][/us/stat/98/2190], provided that: 
 
 > “This part \[part B (§§ 2011–2015) of chapter XX of title II of [Pub. L. 98–473][/us/pl/98/473], see Short Title of 1984 Amendment note below\] shall become effective on the date of the enactment of this joint resolution \[Oct. 12, 1984\].”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–181, title V, § 506(a)][/us/pl/106/181/s506/a], Apr. 5, 2000, [114 Stat. 136][/us/stat/114/136], provided that: 
+[Pub. L. 106–181, title V][/us/pl/106/181/tV], § 506(a), Apr. 5, 2000, [114 Stat. 136][/us/stat/114/136], provided that: 
 
 > “This section \[enacting [section 38 of this title][/us/usc/t18/s38] and amending this section and [section 2516 of this title][/us/usc/t18/s2516]\] may be cited as the ‘Aircraft Safety Act of 2000’.”
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–473, title II, § 2011][/us/pl/98/473/s2011], Oct. 12, 1984, [98 Stat. 2187][/us/stat/98/2187], provided that: 
+[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 2011, Oct. 12, 1984, [98 Stat. 2187][/us/stat/98/2187], provided that: 
 
 > “This part \[part B (§§ 2011–2015) of chapter XX of title II of [Pub. L. 98–473][/us/pl/98/473], amending this section, [section 32 of this title][/us/usc/t18/s32], and sections 1301, 1471, and 1472 of former Title 49, Transportation, and enacting provisions set out as notes under this section\] may be cited as the ‘Aircraft Sabotage Act’.”
 
  __Statement of Findings and Purpose for 1984 Amendment__ 
 
-[Pub. L. 98–473, title II, § 2012][/us/pl/98/473/s2012], Oct. 12, 1984, [98 Stat. 2187][/us/stat/98/2187], provided that: 
+[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 2012, Oct. 12, 1984, [98 Stat. 2187][/us/stat/98/2187], provided that: 
 
 > “The Congress hereby finds that—
 
@@ -140,37 +140,37 @@
 ----------
 ----------
 
-[/us/act/1956-07-14/ch595/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-14%2Fch595%2Fs1
+[/us/act/1956-07-14/ch595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-14%2Fch595
 [/us/stat/70/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F538
-[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2141
-[/us/pl/100/690/s7015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7015
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4395
-[/us/pl/103/272/s5/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fe%2F1
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1373
-[/us/pl/106/181/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs506%2Fb
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F136
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/98/473/s2013/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs2013%2Fa%2F1
-[/us/pl/98/473/s1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1010
-[/us/pl/98/473/s2013/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs2013%2Fa%2F2
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
-[/us/pl/98/473/s2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs2015
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2190
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/106/181/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs506%2Fa
+[/us/pl/106/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtV
 [/us/stat/114/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F136
 [/us/usc/t18/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs38
 [/us/usc/t18/s2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2516
-[/us/pl/98/473/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs2011
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2187
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t18/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs32
-[/us/pl/98/473/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs2012
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2187
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 

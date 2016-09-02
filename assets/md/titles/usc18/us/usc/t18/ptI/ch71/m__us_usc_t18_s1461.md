@@ -33,11 +33,11 @@
 
     The term “indecent”, as used in this section includes matter of a character tending to incite arson, murder, or assassination.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 768][/us/stat/62/768]; [June 28, 1955, ch. 190][/us/act/1955-06-28/ch190], §§ 1, 2, [69 Stat. 183][/us/stat/69/183]; [Pub. L. 85–796, § 1][/us/pl/85/796/s1], Aug. 28, 1958, [72 Stat. 962][/us/stat/72/962]; [Pub. L. 91–662][/us/pl/91/662], §§ 3, 5(b), 6(3), Jan. 8, 1971, [84 Stat. 1973][/us/stat/84/1973], 1974; [Pub. L. 103–322, title XXXIII, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], (L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 768][/us/stat/62/768]; [June 28, 1955, ch. 190][/us/act/1955-06-28/ch190], §§ 1, 2, [69 Stat. 183][/us/stat/69/183]; [Pub. L. 85–796][/us/pl/85/796], § 1, Aug. 28, 1958, [72 Stat. 962][/us/stat/72/962]; [Pub. L. 91–662][/us/pl/91/662], §§ 3, 5(b), 6(3), Jan. 8, 1971, [84 Stat. 1973][/us/stat/84/1973], 1974; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(K), (L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 334 ([Mar. 4, 1909, ch. 321, § 211][/us/act/1909-03-04/ch321/s211], [35 Stat. 1429][/us/stat/35/1429] \[1129\]; [Mar. 4, 1911, ch. 241, § 2][/us/act/1911-03-04/ch241/s2], [36 Stat. 1339][/us/stat/36/1339]).
+    Based on title 18, U.S.C., 1940 ed., § 334 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 211, [35 Stat. 1429][/us/stat/35/1429] \[1129\]; [Mar. 4, 1911, ch. 241][/us/act/1911-03-04/ch241], § 2, [36 Stat. 1339][/us/stat/36/1339]).
 
     The attention of Congress is invited to the following decisions of the Federal courts construing this section and [section 1462 of this title][/us/usc/t18/s1462].
 
@@ -51,15 +51,15 @@
 
     1994—[Pub. L. 103–322][/us/pl/103/322], in eighth par., substituted “fined under this title” for “fined not more than $5,000” after “thereof, shall be” and for “fined not more than $10,000” after “offense, and shall be”.
 
-    1971—[Pub. L. 91–662, § 3(1)][/us/pl/91/662/s3/1], in second par., struck out “preventing conception or” before “producing abortion”.
+    1971—[Pub. L. 91–662][/us/pl/91/662], § 3(1), in second par., struck out “preventing conception or” before “producing abortion”.
 
-    [Pub. L. 91–662, § 3(1)][/us/pl/91/662/s3/1], in third par., struck out “preventing conception or” after “apply it for”.
+    [Pub. L. 91–662][/us/pl/91/662], § 3(1), in third par., struck out “preventing conception or” after “apply it for”.
 
-    [Pub. L. 91–662, § 3(2)][/us/pl/91/662/s3/2], (3), in fourth par., substituted “means abortion may be produced” for “means conception may be prevented or abortion produced”.
+    [Pub. L. 91–662][/us/pl/91/662], § 3(2), (3), in fourth par., substituted “means abortion may be produced” for “means conception may be prevented or abortion produced”.
 
-    [Pub. L. 91–662, § 3(1)][/us/pl/91/662/s3/1], in fifth par., struck out “preventing conception or” after “applied for”.
+    [Pub. L. 91–662][/us/pl/91/662], § 3(1), in fifth par., struck out “preventing conception or” after “applied for”.
 
-    [Pub. L. 91–662, § 6(3)][/us/pl/91/662/s6/3], in eighth par., inserted “or [section 3001(e) of title 39][/us/usc/t39/s3001/e]” after “this section”. [Section 5(b) of Pub. L. 91–662][/us/pl/91/662/s5/b] inserted reference to [section 4001(d) of Title 39][/us/usc/t39/s4001/d], The Postal Service, which reflected provisions of Title 39 prior to the effective date of Title 39, Postal Service, as enacted by the Postal Reorganization Act. Said section 4001(d) was repealed by [section 6(2) of Pub. L. 91–662][/us/pl/91/662/s6/2], effective on the date that the Board of Governors of the Postal Service establish as the effective date for [section 3001 of Title 39][/us/usc/t39/s3001], Postal Service.
+    [Pub. L. 91–662][/us/pl/91/662], § 6(3), in eighth par., inserted “or [section 3001(e) of title 39][/us/usc/t39/s3001/e]” after “this section”. [Section 5(b) of Pub. L. 91–662][/us/pl/91/662/s5/b] inserted reference to [section 4001(d) of Title 39][/us/usc/t39/s4001/d], The Postal Service, which reflected provisions of Title 39 prior to the effective date of Title 39, Postal Service, as enacted by the Postal Reorganization Act. Said section 4001(d) was repealed by [section 6(2) of Pub. L. 91–662][/us/pl/91/662/s6/2], effective on the date that the Board of Governors of the Postal Service establish as the effective date for [section 3001 of Title 39][/us/usc/t39/s3001], Postal Service.
 
     1958—[Pub. L. 85–796][/us/pl/85/796] provided in eighth par. for continuing offenses by use of the mails instead of by deposits for mailing and for punishment for subsequent offenses.
 
@@ -71,11 +71,11 @@
 
     Amendment by sections 3 and 5(b) of [Pub. L. 91–662][/us/pl/91/662] effective Jan. 9, 1971, see [section 7 of Pub. L. 91–662][/us/pl/91/662/s7], set out as a note under [section 552 of this title][/us/usc/t18/s552].
 
-    [Pub. L. 91–662, § 6][/us/pl/91/662/s6], Jan. 8, 1971, [84 Stat. 1974][/us/stat/84/1974], provided that the amendment made by that section is effective on date that Board of Governors of United States Postal Service establishes as the effective date for [section 3001 of title 39][/us/usc/t39/s3001] of the United States Code, as enacted by the Postal Reorganization Act.
+    [Pub. L. 91–662][/us/pl/91/662], § 6, Jan. 8, 1971, [84 Stat. 1974][/us/stat/84/1974], provided that the amendment made by that section is effective on date that Board of Governors of United States Postal Service establishes as the effective date for [section 3001 of title 39][/us/usc/t39/s3001] of the United States Code, as enacted by the Postal Reorganization Act.
 
  __Commission on Obscenity and Pornography__ 
 
-    [Pub. L. 90–100][/us/pl/90/100], Oct. 3, 1967, [81 Stat. 253][/us/stat/81/253], as amended by [Pub. L. 90–350, title V, § 502][/us/pl/90/350/s502], June 19, 1968, [82 Stat. 197][/us/stat/82/197]; [Pub. L. 91–74, title V, § 503][/us/pl/91/74/s503], Sept. 29, 1969, [83 Stat. 123][/us/stat/83/123], provided for establishment of Commission on Obscenity and Pornography, its membership, compensation of members, powers, functions, and duties of Commission, required Commission to report to President and to Congress its findings and recommendations no later than Sept. 30, 1970, and provided for its termination ten days following submission of report.
+    [Pub. L. 90–100][/us/pl/90/100], Oct. 3, 1967, [81 Stat. 253][/us/stat/81/253], as amended by [Pub. L. 90–350, title V][/us/pl/90/350/tV], § 502, June 19, 1968, [82 Stat. 197][/us/stat/82/197]; [Pub. L. 91–74, title V][/us/pl/91/74/tV], § 503, Sept. 29, 1969, [83 Stat. 123][/us/stat/83/123], provided for establishment of Commission on Obscenity and Pornography, its membership, compensation of members, powers, functions, and duties of Commission, required Commission to report to President and to Congress its findings and recommendations no later than Sept. 30, 1970, and provided for its termination ten days following submission of report.
 
 ----------
 
@@ -89,25 +89,25 @@
 [/us/stat/62/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F768
 [/us/act/1955-06-28/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-28%2Fch190
 [/us/stat/69/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F183
-[/us/pl/85/796/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F796%2Fs1
+[/us/pl/85/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F796
 [/us/stat/72/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F962
 [/us/pl/91/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662
 [/us/stat/84/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1973
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/act/1909-03-04/ch321/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs211
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1429
-[/us/act/1911-03-04/ch241/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-04%2Fch241%2Fs2
+[/us/act/1911-03-04/ch241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-04%2Fch241
 [/us/stat/36/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1339
 [/us/usc/t18/s1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1462
 [/us/usc/t18/s1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1462
 [/us/usc/t18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/91/662/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662%2Fs3%2F1
-[/us/pl/91/662/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662%2Fs3%2F1
-[/us/pl/91/662/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662%2Fs3%2F2
-[/us/pl/91/662/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662%2Fs3%2F1
-[/us/pl/91/662/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662%2Fs6%2F3
+[/us/pl/91/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662
+[/us/pl/91/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662
+[/us/pl/91/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662
+[/us/pl/91/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662
+[/us/pl/91/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662
 [/us/usc/t39/s3001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3001%2Fe
 [/us/pl/91/662/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662%2Fs5%2Fb
 [/us/usc/t39/s4001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs4001%2Fd
@@ -117,14 +117,14 @@
 [/us/pl/91/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662
 [/us/pl/91/662/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662%2Fs7
 [/us/usc/t18/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs552
-[/us/pl/91/662/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662%2Fs6
+[/us/pl/91/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F662
 [/us/stat/84/1974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1974
 [/us/usc/t39/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3001
 [/us/pl/90/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F100
 [/us/stat/81/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F253
-[/us/pl/90/350/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F350%2Fs502
+[/us/pl/90/350/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F350%2FtV
 [/us/stat/82/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F197
-[/us/pl/91/74/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F74%2Fs503
+[/us/pl/91/74/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F74%2FtV
 [/us/stat/83/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F123
 
 

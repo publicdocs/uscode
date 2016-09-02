@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–647, title II, § 225(b)(2)][/us/pl/101/647/s225/b/2], Nov. 29, 1990, [104 Stat. 4806][/us/stat/104/4806], added item 403.
+    1990—[Pub. L. 101–647, title II][/us/pl/101/647/tII], § 225(b)(2), Nov. 29, 1990, [104 Stat. 4806][/us/stat/104/4806], added item 403.
 
-    1949—[Act May 24, 1949, ch. 139, § 8(a)][/us/act/1949-05-24/ch139/s8/a], (b), [63 Stat. 90][/us/stat/63/90], struck out “CONSTITUTING CRIMES” in chapter heading and substituted “Contempts constituting crimes” for “Criminal contempts” in item 402.
+    1949—[Act May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 8(a), (b), [63 Stat. 90][/us/stat/63/90], struck out “CONSTITUTING CRIMES” in chapter heading and substituted “Contempts constituting crimes” for “Criminal contempts” in item 402.
 
 ----------
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/101/647/s225/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs225%2Fb%2F2
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4806
-[/us/act/1949-05-24/ch139/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs8%2Fa
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F90
 
 

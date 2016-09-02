@@ -129,7 +129,7 @@
 
     (12) An interception of a communication under an order with respect to which the requirements of subsections (1)(b)(ii) and (3)(d) of this section do not apply by reason of subsection (11)(a) shall not begin until the place where the communication is to be intercepted is ascertained by the person implementing the interception order. A provider of wire or electronic communications service that has received an order as provided for in subsection (11)(b) may move the court to modify or quash the order on the ground that its assistance with respect to the interception cannot be performed in a timely or reasonable fashion. The court, upon notice to the government, shall decide such a motion expeditiously.
 
-(Added [Pub. L. 90–351, title III, § 802][/us/pl/90/351/s802], June 19, 1968, [82 Stat. 218][/us/stat/82/218]; amended [Pub. L. 91–358, title II, § 211(b)][/us/pl/91/358/s211/b], July 29, 1970, [84 Stat. 654][/us/stat/84/654]; [Pub. L. 95–511, title II, § 201(d)][/us/pl/95/511/s201/d]–(g), Oct. 25, 1978, [92 Stat. 1797][/us/stat/92/1797], 1798; [Pub. L. 98–473, title II, § 1203(a)][/us/pl/98/473/s1203/a], (b), Oct. 12, 1984, [98 Stat. 2152][/us/stat/98/2152]; [Pub. L. 99–508, title I][/us/pl/99/508], §§ 101(c)(1)(A), (8), (e), 106(a)–(d)(3), Oct. 21, 1986, [100 Stat. 1851–1853][/us/stat/100/1851-1853], 1856, 1857; [Pub. L. 103–414, title II, § 201(b)(1)][/us/pl/103/414/s201/b/1], Oct. 25, 1994, [108 Stat. 4290][/us/stat/108/4290]; [Pub. L. 105–272, title VI, § 604][/us/pl/105/272/s604], Oct. 20, 1998, [112 Stat. 2413][/us/stat/112/2413].)
+(Added [Pub. L. 90–351, title III][/us/pl/90/351/tIII], § 802, June 19, 1968, [82 Stat. 218][/us/stat/82/218]; amended [Pub. L. 91–358, title II][/us/pl/91/358/tII], § 211(b), July 29, 1970, [84 Stat. 654][/us/stat/84/654]; [Pub. L. 95–511, title II][/us/pl/95/511/tII], § 201(d)–(g), Oct. 25, 1978, [92 Stat. 1797][/us/stat/92/1797], 1798; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1203(a), (b), Oct. 12, 1984, [98 Stat. 2152][/us/stat/98/2152]; [Pub. L. 99–508, title I][/us/pl/99/508/tI], §§ 101(c)(1)(A), (8), (e), 106(a)–(d)(3), Oct. 21, 1986, [100 Stat. 1851–1853][/us/stat/100/1851-1853], 1856, 1857; [Pub. L. 103–414, title II][/us/pl/103/414/tII], § 201(b)(1), Oct. 25, 1994, [108 Stat. 4290][/us/stat/108/4290]; [Pub. L. 105–272, title VI][/us/pl/105/272/tVI], § 604, Oct. 20, 1998, [112 Stat. 2413][/us/stat/112/2413].)
 
  __References in Text__ 
 
@@ -137,23 +137,23 @@
 
  __Amendments__ 
 
-    1998—Par. (11)(b)(ii). [Pub. L. 105–272, § 604(a)(1)][/us/pl/105/272/s604/a/1], substituted “that there is probable cause to believe that the person’s actions could have the effect of thwarting interception from a specified facility;” for “of a purpose, on the part of that person, to thwart interception by changing facilities; and”.
+    1998—Par. (11)(b)(ii). [Pub. L. 105–272][/us/pl/105/272], § 604(a)(1), substituted “that there is probable cause to believe that the person’s actions could have the effect of thwarting interception from a specified facility;” for “of a purpose, on the part of that person, to thwart interception by changing facilities; and”.
 
-    Par. (11)(b)(iii). [Pub. L. 105–272, § 604(a)(2)][/us/pl/105/272/s604/a/2], substituted “such showing has been adequately made; and” for “such purpose has been adequately shown.”
+    Par. (11)(b)(iii). [Pub. L. 105–272][/us/pl/105/272], § 604(a)(2), substituted “such showing has been adequately made; and” for “such purpose has been adequately shown.”
 
-    Par. (11)(b)(iv). [Pub. L. 105–272, § 604(a)(3)][/us/pl/105/272/s604/a/3], added cl. (iv).
+    Par. (11)(b)(iv). [Pub. L. 105–272][/us/pl/105/272], § 604(a)(3), added cl. (iv).
 
-    Par. (12). [Pub. L. 105–272, § 604(b)][/us/pl/105/272/s604/b], substituted “by reason of subsection (11)(a)” for “by reason of subsection (11)”, struck out “the facilities from which, or” after “shall not begin until”, and struck out comma after “the place where”.
+    Par. (12). [Pub. L. 105–272][/us/pl/105/272], § 604(b), substituted “by reason of subsection (11)(a)” for “by reason of subsection (11)”, struck out “the facilities from which, or” after “shall not begin until”, and struck out comma after “the place where”.
 
     1994—Par. (4). [Pub. L. 103–414][/us/pl/103/414] inserted at end of concluding provisions “Pursuant to section 2522 of this chapter, an order may also be issued to enforce the assistance capability and capacity requirements under the Communications Assistance for Law Enforcement Act.”
 
-    1986—[Pub. L. 99–508, § 101(c)(1)(A)][/us/pl/99/508/s101/c/1/A], substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
+    1986—[Pub. L. 99–508][/us/pl/99/508], § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
 
-    Par. (1). [Pub. L. 99–508, § 101(c)(1)(A)][/us/pl/99/508/s101/c/1/A], substituted “wire, oral, or electronic” for “wire or oral” in introductory provisions.
+    Par. (1). [Pub. L. 99–508][/us/pl/99/508], § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in introductory provisions.
 
-    Par. (1)(b)(ii). [Pub. L. 99–508, § 106(d)(1)][/us/pl/99/508/s106/d/1], inserted “except as provided in subsection (11),”.
+    Par. (1)(b)(ii). [Pub. L. 99–508][/us/pl/99/508], § 106(d)(1), inserted “except as provided in subsection (11),”.
 
-    Par. (1)(e). [Pub. L. 99–508, § 101(c)(1)(A)][/us/pl/99/508/s101/c/1/A], substituted “wire, oral, or electronic” for “wire or oral”.
+    Par. (1)(e). [Pub. L. 99–508][/us/pl/99/508], § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral”.
 
     Par. (3). [Pub. L. 99–508][/us/pl/99/508], §§ 101(c)(1)(A), 106(a), in introductory provisions, substituted “wire, oral, or electronic” for “wire or oral” and inserted “(and outside that jurisdiction but within the United States in the case of a mobile interception device authorized by a Federal court within such jurisdiction)”.
 
@@ -163,23 +163,23 @@
 
     Par. (5). [Pub. L. 99–508][/us/pl/99/508], §§ 101(c)(1)(A), 106(c), substituted “wire, oral, or electronic” for “wire or oral” and inserted provisions which related to beginning of thirty-day period, minimization where intercepted communication is in code or foreign language and expert in that code or foreign language is not immediately available, and conduct of interception by Government personnel or by individual operating under Government contract, acting under supervision of investigative or law enforcement officer authorized to conduct interception.
 
-    Pars. (7), (8)(a), (d)(3), (9). [Pub. L. 99–508, § 101(c)(1)(A)][/us/pl/99/508/s101/c/1/A], substituted “wire, oral, or electronic” for “wire or oral” wherever appearing.
+    Pars. (7), (8)(a), (d)(3), (9). [Pub. L. 99–508][/us/pl/99/508], § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” wherever appearing.
 
-    Par. (10)(c). [Pub. L. 99–508, § 101(e)][/us/pl/99/508/s101/e], added subpar. (c).
+    Par. (10)(c). [Pub. L. 99–508][/us/pl/99/508], § 101(e), added subpar. (c).
 
-    Pars. (11), (12). [Pub. L. 99–508, § 106(d)(3)][/us/pl/99/508/s106/d/3], added pars. (11) and (12).
+    Pars. (11), (12). [Pub. L. 99–508][/us/pl/99/508], § 106(d)(3), added pars. (11) and (12).
 
-    1984—Par. (7). [Pub. L. 98–473, § 1203(a)][/us/pl/98/473/s1203/a], inserted “, the Deputy Attorney General, the Associate Attorney General,” after “Attorney General” in provisions preceding subpar. (a).
+    1984—Par. (7). [Pub. L. 98–473][/us/pl/98/473], § 1203(a), inserted “, the Deputy Attorney General, the Associate Attorney General,” after “Attorney General” in provisions preceding subpar. (a).
 
-    Par. (7)(a). [Pub. L. 98–473, § 1203(b)][/us/pl/98/473/s1203/b], amended subpar. (a) generally, adding cl. (i) and designated existing provisions as cls. (ii) and (iii).
+    Par. (7)(a). [Pub. L. 98–473][/us/pl/98/473], § 1203(b), amended subpar. (a) generally, adding cl. (i) and designated existing provisions as cls. (ii) and (iii).
 
-    1978—Par. (1). [Pub. L. 95–511, § 201(d)][/us/pl/95/511/s201/d], inserted “under this chapter” after “communication”.
+    1978—Par. (1). [Pub. L. 95–511][/us/pl/95/511], § 201(d), inserted “under this chapter” after “communication”.
 
-    Par. (4). [Pub. L. 95–511, § 201(e)][/us/pl/95/511/s201/e], inserted “under this chapter” after “wire or oral communication” wherever appearing.
+    Par. (4). [Pub. L. 95–511][/us/pl/95/511], § 201(e), inserted “under this chapter” after “wire or oral communication” wherever appearing.
 
-    Par. (9). [Pub. L. 95–511, § 201(e)][/us/pl/95/511/s201/e], substituted “any wire or oral communication intercepted pursuant to this chapter” for “any intercepted wire or oral communication”.
+    Par. (9). [Pub. L. 95–511][/us/pl/95/511], § 201(e), substituted “any wire or oral communication intercepted pursuant to this chapter” for “any intercepted wire or oral communication”.
 
-    Par. (10). [Pub. L. 95–511, § 201(g)][/us/pl/95/511/s201/g], substituted “any wire or oral communication intercepted pursuant to this chapter,” for “any intercepted wire or oral communication,”.
+    Par. (10). [Pub. L. 95–511][/us/pl/95/511], § 201(g), substituted “any wire or oral communication intercepted pursuant to this chapter,” for “any intercepted wire or oral communication,”.
 
     1970—Par. (4). [Pub. L. 91–358][/us/pl/91/358] inserted the provision that, upon the request of the applicant, an order authorizing the interception of a wire or oral communication direct that a communication common carrier, landlord, custodian, or other person furnish the applicant with all information, facilities, and technical assistance necessary to accomplish the interception unobtrusively and with a minimum of interference with the services provided.
 
@@ -202,45 +202,45 @@
 ----------
 ----------
 
-[/us/pl/90/351/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs802
+[/us/pl/90/351/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtIII
 [/us/stat/82/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F218
-[/us/pl/91/358/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2Fs211%2Fb
+[/us/pl/91/358/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2FtII
 [/us/stat/84/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F654
-[/us/pl/95/511/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs201%2Fd
+[/us/pl/95/511/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtII
 [/us/stat/92/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1797
-[/us/pl/98/473/s1203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1203%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2152
-[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtI
 [/us/stat/100/1851-1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1851-1853
-[/us/pl/103/414/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs201%2Fb%2F1
+[/us/pl/103/414/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtII
 [/us/stat/108/4290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4290
-[/us/pl/105/272/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs604
+[/us/pl/105/272/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2FtVI
 [/us/stat/112/2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2413
 [/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
 [/us/stat/108/4279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4279
 [/us/usc/t47/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1001
-[/us/pl/105/272/s604/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs604%2Fa%2F1
-[/us/pl/105/272/s604/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs604%2Fa%2F2
-[/us/pl/105/272/s604/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs604%2Fa%2F3
-[/us/pl/105/272/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272%2Fs604%2Fb
+[/us/pl/105/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272
+[/us/pl/105/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272
+[/us/pl/105/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272
+[/us/pl/105/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F272
 [/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
-[/us/pl/99/508/s101/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fc%2F1%2FA
-[/us/pl/99/508/s101/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fc%2F1%2FA
-[/us/pl/99/508/s106/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs106%2Fd%2F1
-[/us/pl/99/508/s101/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fc%2F1%2FA
 [/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
 [/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
 [/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
 [/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
-[/us/pl/99/508/s101/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fc%2F1%2FA
-[/us/pl/99/508/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fe
-[/us/pl/99/508/s106/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs106%2Fd%2F3
-[/us/pl/98/473/s1203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1203%2Fa
-[/us/pl/98/473/s1203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1203%2Fb
-[/us/pl/95/511/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs201%2Fd
-[/us/pl/95/511/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs201%2Fe
-[/us/pl/95/511/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs201%2Fe
-[/us/pl/95/511/s201/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs201%2Fg
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
+[/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
+[/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
+[/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
 [/us/pl/91/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358
 [/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
 [/us/pl/99/508/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs111

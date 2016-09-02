@@ -53,7 +53,7 @@
 
         (2) any savings promotion raffle.
 
-(Added [Pub. L. 91–452, title VIII, § 803(a)][/us/pl/91/452/s803/a], Oct. 15, 1970, [84 Stat. 937][/us/stat/84/937]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–322, title XXXIII, § 330016(1)(N)][/us/pl/103/322/s330016/1/N], Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148]; [Pub. L. 113–251, § 5(3)][/us/pl/113/251/s5/3], Dec. 18, 2014, [128 Stat. 2891][/us/stat/128/2891].)
+(Added [Pub. L. 91–452, title VIII][/us/pl/91/452/tVIII], § 803(a), Oct. 15, 1970, [84 Stat. 937][/us/stat/84/937]; amended [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(N), Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148]; [Pub. L. 113–251][/us/pl/113/251], § 5(3), Dec. 18, 2014, [128 Stat. 2891][/us/stat/128/2891].)
 
  __References in Text__ 
 
@@ -61,15 +61,15 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(2), (3). [Pub. L. 113–251, § 5(3)(A)(iii)][/us/pl/113/251/s5/3/A/iii], added pars. (2) and (3). Former pars. (2) and (3) redesignated (4) and (6), respectively.
+    2014—Subsec. (b)(2), (3). [Pub. L. 113–251][/us/pl/113/251], § 5(3)(A)(iii), added pars. (2) and (3). Former pars. (2) and (3) redesignated (4) and (6), respectively.
 
-    Subsec. (b)(4). [Pub. L. 113–251, § 5(3)(A)(i)][/us/pl/113/251/s5/3/A/i], redesignated par. (2) as (4).
+    Subsec. (b)(4). [Pub. L. 113–251][/us/pl/113/251], § 5(3)(A)(i), redesignated par. (2) as (4).
 
-    Subsec. (b)(5). [Pub. L. 113–251, § 5(3)(A)(iv)][/us/pl/113/251/s5/3/A/iv], added par. (5).
+    Subsec. (b)(5). [Pub. L. 113–251][/us/pl/113/251], § 5(3)(A)(iv), added par. (5).
 
-    Subsec. (b)(6). [Pub. L. 113–251, § 5(3)(A)(ii)][/us/pl/113/251/s5/3/A/ii], redesignated par. (3) as (6).
+    Subsec. (b)(6). [Pub. L. 113–251][/us/pl/113/251], § 5(3)(A)(ii), redesignated par. (3) as (6).
 
-    Subsec. (e). [Pub. L. 113–251, § 5(3)(B)][/us/pl/113/251/s5/3/B], substituted “This section shall not apply to—” for “This section shall not apply to any bingo”, inserted “(1) any bingo” before “game,”, substituted “activity; or” for “activity.”, and added par. (2).
+    Subsec. (e). [Pub. L. 113–251][/us/pl/113/251], § 5(3)(B), substituted “This section shall not apply to—” for “This section shall not apply to any bingo”, inserted “(1) any bingo” before “game,”, substituted “activity; or” for “activity.”, and added par. (2).
 
     1994—Subsec. (a). [Pub. L. 103–322][/us/pl/103/322] substituted “fined under this title” for “fined not more than $20,000”.
 
@@ -81,7 +81,7 @@
 
  __National Gambling Impact Study Commission__ 
 
-    [Pub. L. 104–169][/us/pl/104/169], Aug. 3, 1996, [110 Stat. 1482][/us/stat/110/1482], as amended by [Pub. L. 105–30, § 1][/us/pl/105/30/s1], July 25, 1997, [111 Stat. 248][/us/stat/111/248], established the National Gambling Impact Study Commission to conduct a comprehensive legal and factual study of the social and economic impacts of gambling in the United States on Federal, State, local, and Native American tribal governments, as well as on communities and social institutions generally, including individuals, families, and businesses within such communities and institutions, and to submit a report, not later than two years after its first meeting, to the President, the Congress, State Governors, and Native American tribal governments containing the Commission’s findings and conclusions, together with any recommendations of the Commission, and further provided for membership of the Commission, meetings, powers and duties of the Commission, personnel matters, contracts for research with the Advisory Commission on Intergovernmental Relations and the National Research Council, definitions, appropriations, and termination of the Commission 60 days after submission of its final report.
+    [Pub. L. 104–169][/us/pl/104/169], Aug. 3, 1996, [110 Stat. 1482][/us/stat/110/1482], as amended by [Pub. L. 105–30][/us/pl/105/30], § 1, July 25, 1997, [111 Stat. 248][/us/stat/111/248], established the National Gambling Impact Study Commission to conduct a comprehensive legal and factual study of the social and economic impacts of gambling in the United States on Federal, State, local, and Native American tribal governments, as well as on communities and social institutions generally, including individuals, families, and businesses within such communities and institutions, and to submit a report, not later than two years after its first meeting, to the President, the Congress, State Governors, and Native American tribal governments containing the Commission’s findings and conclusions, together with any recommendations of the Commission, and further provided for membership of the Commission, meetings, powers and duties of the Commission, personnel matters, contracts for research with the Advisory Commission on Intergovernmental Relations and the National Research Council, definitions, appropriations, and termination of the Commission 60 days after submission of its final report.
 
  __Priority of State Laws__ 
 
@@ -101,27 +101,27 @@
 [/us/usc/t12/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s5481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5481
-[/us/pl/91/452/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs803%2Fa
+[/us/pl/91/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtVIII
 [/us/stat/84/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F937
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/103/322/s330016/1/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FN
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2148
-[/us/pl/113/251/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs5%2F3
+[/us/pl/113/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251
 [/us/stat/128/2891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2891
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
-[/us/pl/113/251/s5/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs5%2F3%2FA%2Fiii
-[/us/pl/113/251/s5/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs5%2F3%2FA%2Fi
-[/us/pl/113/251/s5/3/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs5%2F3%2FA%2Fiv
-[/us/pl/113/251/s5/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs5%2F3%2FA%2Fii
-[/us/pl/113/251/s5/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs5%2F3%2FB
+[/us/pl/113/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251
+[/us/pl/113/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251
+[/us/pl/113/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251
+[/us/pl/113/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251
+[/us/pl/113/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/79/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1317
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280
 [/us/pl/104/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F169
 [/us/stat/110/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1482
-[/us/pl/105/30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F30%2Fs1
+[/us/pl/105/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F30
 [/us/stat/111/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F248
 [/us/pl/91/452/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs811
 [/us/usc/t18/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1511

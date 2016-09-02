@@ -43,7 +43,7 @@
 
     (d) Nothing in this section may be construed to limit the ability of the Government to forfeit property under any provision of law if the property involved in the offense giving rise to the forfeiture or property traceable thereto is available for forfeiture.
 
-(Added [Pub. L. 102–550, title XV, § 1522(a)][/us/pl/102/550/s1522/a], Oct. 28, 1992, [106 Stat. 4063][/us/stat/106/4063]; amended [Pub. L. 103–325, title IV, § 411(c)(2)(E)][/us/pl/103/325/s411/c/2/E], Sept. 23, 1994, [108 Stat. 2253][/us/stat/108/2253]; [Pub. L. 106–185, § 13(a)][/us/pl/106/185/s13/a], Apr. 25, 2000, [114 Stat. 218][/us/stat/114/218].)
+(Added [Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1522(a), Oct. 28, 1992, [106 Stat. 4063][/us/stat/106/4063]; amended [Pub. L. 103–325, title IV][/us/pl/103/325/tIV], § 411(c)(2)(E), Sept. 23, 1994, [108 Stat. 2253][/us/stat/108/2253]; [Pub. L. 106–185][/us/pl/106/185], § 13(a), Apr. 25, 2000, [114 Stat. 218][/us/stat/114/218].)
 
  __References in Text__ 
 
@@ -51,17 +51,17 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–185, § 13(a)(1)][/us/pl/106/185/s13/a/1], (2), redesignated subsec. (b) as (a), substituted “or precious metals” for “or other fungible property” in introductory provisions of par. (1) and “subsection (b)” for “subsection (c)” in par. (2), and struck out former subsec. (a) which read as follows: “This section shall apply to any action for forfeiture brought by the Government in connection with any offense under section 1956, 1957, or 1960 of this title or section 5322 or 5324 of title 31, United States Code.”
+    2000—Subsec. (a). [Pub. L. 106–185][/us/pl/106/185], § 13(a)(1), (2), redesignated subsec. (b) as (a), substituted “or precious metals” for “or other fungible property” in introductory provisions of par. (1) and “subsection (b)” for “subsection (c)” in par. (2), and struck out former subsec. (a) which read as follows: “This section shall apply to any action for forfeiture brought by the Government in connection with any offense under section 1956, 1957, or 1960 of this title or section 5322 or 5324 of title 31, United States Code.”
 
-    Subsec. (b). [Pub. L. 106–185, § 13(a)(1)][/us/pl/106/185/s13/a/1], redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
+    Subsec. (b). [Pub. L. 106–185][/us/pl/106/185], § 13(a)(1), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
-    Subsec. (c). [Pub. L. 106–185, § 13(a)(1)][/us/pl/106/185/s13/a/1], redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+    Subsec. (c). [Pub. L. 106–185][/us/pl/106/185], § 13(a)(1), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-    Subsec. (c)(1). [Pub. L. 106–185, § 13(a)(3)(A)][/us/pl/106/185/s13/a/3/A], added par. (1) and struck out former par. (1) which read as follows: “No action pursuant to this section to forfeit property not traceable directly to the offense that is the basis for the forfeiture may be taken against funds held by a financial institution in an interbank account, unless the financial institution holding the account knowingly engaged in the offense.”
+    Subsec. (c)(1). [Pub. L. 106–185][/us/pl/106/185], § 13(a)(3)(A), added par. (1) and struck out former par. (1) which read as follows: “No action pursuant to this section to forfeit property not traceable directly to the offense that is the basis for the forfeiture may be taken against funds held by a financial institution in an interbank account, unless the financial institution holding the account knowingly engaged in the offense.”
 
-    Subsec. (c)(2). [Pub. L. 106–185, § 13(a)(3)(B)][/us/pl/106/185/s13/a/3/B], substituted “In this subsection—” for “As used in this section, the term”, added subpar. (A), and inserted “(B) the term” before “ ‘interbank account’ means”.
+    Subsec. (c)(2). [Pub. L. 106–185][/us/pl/106/185], § 13(a)(3)(B), substituted “In this subsection—” for “As used in this section, the term”, added subpar. (A), and inserted “(B) the term” before “ ‘interbank account’ means”.
 
-    Subsec. (d). [Pub. L. 106–185, § 13(a)(4)][/us/pl/106/185/s13/a/4], added subsec. (d). Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 106–185][/us/pl/106/185], § 13(a)(4), added subsec. (d). Former subsec. (d) redesignated (c).
 
     1994—Subsec. (a). [Pub. L. 103–325][/us/pl/103/325] substituted “section 5322 or 5324 of title 31” for “[section 5322 of title 31][/us/usc/t31/s5322]”.
 
@@ -78,19 +78,19 @@
 
 [/us/usc/t18/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs20
 [/us/usc/t12/s3101/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101%2Fb%2F7
-[/us/pl/102/550/s1522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1522%2Fa
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4063
-[/us/pl/103/325/s411/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs411%2Fc%2F2%2FE
+[/us/pl/103/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIV
 [/us/stat/108/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2253
-[/us/pl/106/185/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs13%2Fa
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/stat/114/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F218
 [/us/usc/t12/s3101/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101%2F7
-[/us/pl/106/185/s13/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs13%2Fa%2F1
-[/us/pl/106/185/s13/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs13%2Fa%2F1
-[/us/pl/106/185/s13/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs13%2Fa%2F1
-[/us/pl/106/185/s13/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs13%2Fa%2F3%2FA
-[/us/pl/106/185/s13/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs13%2Fa%2F3%2FB
-[/us/pl/106/185/s13/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs13%2Fa%2F4
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/usc/t31/s5322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5322
 [/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185

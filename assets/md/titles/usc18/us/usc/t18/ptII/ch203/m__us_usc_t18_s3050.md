@@ -25,11 +25,11 @@
 
     if such officer or employee has reasonable grounds to believe that the arrested person is guilty of such offense, and if there is likelihood of such person’s escaping before an arrest warrant can be obtained. If the arrested person is a fugitive from custody, such prisoner shall be returned to custody. Officers and employees of the said Bureau of Prisons may carry firearms under such rules and regulations as the Attorney General may prescribe.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 817][/us/stat/62/817]; [Pub. L. 99–646, § 65][/us/pl/99/646/s65], Nov. 10, 1986, [100 Stat. 3615][/us/stat/100/3615].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 817][/us/stat/62/817]; [Pub. L. 99–646][/us/pl/99/646], § 65, Nov. 10, 1986, [100 Stat. 3615][/us/stat/100/3615].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 753k ([June 29, 1940, ch. 449, § 5][/us/act/1940-06-29/ch449/s5], [54 Stat. 693][/us/stat/54/693]).
+    Based on title 18, U.S.C., 1940 ed., § 753k ([June 29, 1940, ch. 449][/us/act/1940-06-29/ch449], § 5, [54 Stat. 693][/us/stat/54/693]).
 
     Section was broadened to include authority to make arrests for mutiny, riot or traffic in dangerous instrumentalities, by reference to [section 1792 of this title][/us/usc/t18/s1792].
 
@@ -52,9 +52,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F817
-[/us/pl/99/646/s65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs65
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3615
-[/us/act/1940-06-29/ch449/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-29%2Fch449%2Fs5
+[/us/act/1940-06-29/ch449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-29%2Fch449
 [/us/stat/54/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F693
 [/us/usc/t18/s1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1792
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646

@@ -57,11 +57,11 @@
 
     As used in this section, the term “variola virus” means a virus that can cause human smallpox or any derivative of the variola major virus that contains more than 85 percent of the gene sequence of the variola major virus or the variola minor virus.
 
-(Added [Pub. L. 108–458, title VI, § 6906][/us/pl/108/458/s6906], Dec. 17, 2004, [118 Stat. 3773][/us/stat/118/3773].)
+(Added [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6906, Dec. 17, 2004, [118 Stat. 3773][/us/stat/118/3773].)
 
  __Findings and Purpose__ 
 
-[Pub. L. 108–458, title VI, § 6902][/us/pl/108/458/s6902], Dec. 17, 2004, [118 Stat. 3769][/us/stat/118/3769], provided that:
+[Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6902, Dec. 17, 2004, [118 Stat. 3769][/us/stat/118/3769], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -88,9 +88,9 @@
 ----------
 ----------
 
-[/us/pl/108/458/s6906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6906
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3773
-[/us/pl/108/458/s6902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6902
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3769
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1

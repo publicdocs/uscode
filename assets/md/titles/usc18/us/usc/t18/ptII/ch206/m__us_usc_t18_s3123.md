@@ -75,17 +75,17 @@
 
         (2) the person owning or leasing the line or other facility to which the pen register or a trap and trace device is attached or applied, or who is obligated by the order to provide assistance to the applicant, not disclose the existence of the pen register or trap and trace device or the existence of the investigation to the listed subscriber, or to any other person, unless or until otherwise ordered by the court.
 
-(Added [Pub. L. 99–508, title III, § 301(a)][/us/pl/99/508/s301/a], Oct. 21, 1986, [100 Stat. 1869][/us/stat/100/1869]; amended [Pub. L. 107–56, title II, § 216(b)][/us/pl/107/56/s216/b], Oct. 26, 2001, [115 Stat. 288][/us/stat/115/288].)
+(Added [Pub. L. 99–508, title III][/us/pl/99/508/tIII], § 301(a), Oct. 21, 1986, [100 Stat. 1869][/us/stat/100/1869]; amended [Pub. L. 107–56, title II][/us/pl/107/56/tII], § 216(b), Oct. 26, 2001, [115 Stat. 288][/us/stat/115/288].)
 
  __Amendments__ 
 
-    2001—Subsec. (a). [Pub. L. 107–56, § 216(b)(1)][/us/pl/107/56/s216/b/1], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Upon an application made under [section 3122 of this title][/us/usc/t18/s3122], the court shall enter an ex parte order authorizing the installation and use of a pen register or a trap and trace device within the jurisdiction of the court if the court finds that the attorney for the Government or the State law enforcement or investigative officer has certified to the court that the information likely to be obtained by such installation and use is relevant to an ongoing criminal investigation.”
+    2001—Subsec. (a). [Pub. L. 107–56][/us/pl/107/56], § 216(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Upon an application made under [section 3122 of this title][/us/usc/t18/s3122], the court shall enter an ex parte order authorizing the installation and use of a pen register or a trap and trace device within the jurisdiction of the court if the court finds that the attorney for the Government or the State law enforcement or investigative officer has certified to the court that the information likely to be obtained by such installation and use is relevant to an ongoing criminal investigation.”
 
-    Subsec. (b)(1)(A). [Pub. L. 107–56, § 216(b)(2)(A)][/us/pl/107/56/s216/b/2/A], inserted “or other facility” after “telephone line” and “or applied” before semicolon at end.
+    Subsec. (b)(1)(A). [Pub. L. 107–56][/us/pl/107/56], § 216(b)(2)(A), inserted “or other facility” after “telephone line” and “or applied” before semicolon at end.
 
-    Subsec. (b)(1)(C). [Pub. L. 107–56, § 216(b)(2)(B)][/us/pl/107/56/s216/b/2/B], added subpar. (C) and struck out former subpar (C) which read as follows: “the number and, if known, physical location of the telephone line to which the pen register or trap and trace device is to be attached and, in the case of a trap and trace device, the geographic limits of the trap and trace order; and”.
+    Subsec. (b)(1)(C). [Pub. L. 107–56][/us/pl/107/56], § 216(b)(2)(B), added subpar. (C) and struck out former subpar (C) which read as follows: “the number and, if known, physical location of the telephone line to which the pen register or trap and trace device is to be attached and, in the case of a trap and trace device, the geographic limits of the trap and trace order; and”.
 
-    Subsec. (d)(2). [Pub. L. 107–56, § 216(b)(3)][/us/pl/107/56/s216/b/3], inserted “or other facility” after “leasing the line” and substituted “or applied, or who is obligated by the order” for “, or who has been ordered by the court”.
+    Subsec. (d)(2). [Pub. L. 107–56][/us/pl/107/56], § 216(b)(3), inserted “or other facility” after “leasing the line” and substituted “or applied, or who is obligated by the order” for “, or who has been ordered by the court”.
 
 ----------
 
@@ -96,14 +96,14 @@
 
 [/us/usc/t18/s3124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3124
 [/us/usc/t18/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3122
-[/us/pl/99/508/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs301%2Fa
+[/us/pl/99/508/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtIII
 [/us/stat/100/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1869
-[/us/pl/107/56/s216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs216%2Fb
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F288
-[/us/pl/107/56/s216/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs216%2Fb%2F1
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/usc/t18/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3122
-[/us/pl/107/56/s216/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs216%2Fb%2F2%2FA
-[/us/pl/107/56/s216/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs216%2Fb%2F2%2FB
-[/us/pl/107/56/s216/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs216%2Fb%2F3
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 
 

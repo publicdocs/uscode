@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 485 ([Mar. 4, 1909, ch. 321, § 294][/us/act/1909-03-04/ch321/s294], [35 Stat. 1146][/us/stat/35/1146]).
+    Based on title 18, U.S.C., 1940 ed., § 485 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 294, [35 Stat. 1146][/us/stat/35/1146]).
 
     A minor verbal change was made.
 
@@ -34,7 +34,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F774
-[/us/act/1909-03-04/ch321/s294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs294
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1146
 
 

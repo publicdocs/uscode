@@ -19,7 +19,7 @@
 
     (b) The Secretary of the Treasury shall prescribe necessary and reasonable rules and regulations to enforce this section and to prevent violations of its provisions.    For the operation or use of any vessel in violation of this section or of any rule or regulation issued hereunder, the owner or charterer of such vessel shall be subject to a civil penalty of $200 for each passenger carried or transported in violation of such provisions, and the master or other person in charge of such vessel shall be subject to a civil penalty of $300. Such penalty shall constitute a lien on such vessel, and proceedings to enforce such lien may be brought summarily by way of libel in any court of the United States having jurisdiction thereof. The Secretary of the Treasury may mitigate or remit any of the penalties provided by this section on such terms as he deems proper.
 
-(Added [May 24, 1949, ch. 139, § 23][/us/act/1949-05-24/ch139/s23], [63 Stat. 92][/us/stat/63/92].)
+(Added [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 23, [63 Stat. 92][/us/stat/63/92].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1949-05-24/ch139/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs23
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F92
 
 

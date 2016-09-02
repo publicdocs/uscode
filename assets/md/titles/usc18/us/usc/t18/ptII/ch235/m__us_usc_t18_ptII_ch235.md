@@ -123,7 +123,7 @@
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–473, title II, § 213(b)][/us/pl/98/473/s213/b], Oct. 12, 1984, [98 Stat. 2013][/us/stat/98/2013], added item 3742.
+    1984—[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 213(b), Oct. 12, 1984, [98 Stat. 2013][/us/stat/98/2013], added item 3742.
 
 ----------
 
@@ -132,7 +132,7 @@
 ----------
 ----------
 
-[/us/pl/98/473/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs213%2Fb
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2013
 
 

@@ -55,11 +55,11 @@
 
         (5) the term “suffocating” means intentionally, knowingly, or recklessly impeding the normal breathing of a person by covering the mouth of the person, the nose of the person, or both, regardless of whether that conduct results in any visible injury or whether there is any intent to kill or protractedly injure the victim.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 689][/us/stat/62/689]; [Pub. L. 94–297, § 3][/us/pl/94/297/s3], May 29, 1976, [90 Stat. 585][/us/stat/90/585]; [Pub. L. 99–646, § 87(c)(2)][/us/pl/99/646/s87/c/2], (3), Nov. 10, 1986, [100 Stat. 3623][/us/stat/100/3623]; [Pub. L. 99–654, § 3(a)(2)][/us/pl/99/654/s3/a/2], (3), Nov. 14, 1986, [100 Stat. 3663][/us/stat/100/3663]; [Pub. L. 103–322, title XVII, § 170201(a)][/us/pl/103/322/s170201/a]–(d), title XXXII, § 320101(c), title XXXIII, § 330016(2)(B), Sept. 13, 1994, [108 Stat. 2042][/us/stat/108/2042], 2043, 2108, 2148; [Pub. L. 104–294, title VI, § 604(b)(7)][/us/pl/104/294/s604/b/7], (12)(B), Oct. 11, 1996, [110 Stat. 3507][/us/stat/110/3507]; [Pub. L. 113–4, title IX, § 906(a)][/us/pl/113/4/s906/a], Mar. 7, 2013, [127 Stat. 124][/us/stat/127/124].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 689][/us/stat/62/689]; [Pub. L. 94–297][/us/pl/94/297], § 3, May 29, 1976, [90 Stat. 585][/us/stat/90/585]; [Pub. L. 99–646][/us/pl/99/646], § 87(c)(2), (3), Nov. 10, 1986, [100 Stat. 3623][/us/stat/100/3623]; [Pub. L. 99–654][/us/pl/99/654], § 3(a)(2), (3), Nov. 14, 1986, [100 Stat. 3663][/us/stat/100/3663]; [Pub. L. 103–322, title XVII][/us/pl/103/322/tXVII], § 170201(a)–(d), title XXXII, § 320101(c), title XXXIII, § 330016(2)(B), Sept. 13, 1994, [108 Stat. 2042][/us/stat/108/2042], 2043, 2108, 2148; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(7), (12)(B), Oct. 11, 1996, [110 Stat. 3507][/us/stat/110/3507]; [Pub. L. 113–4, title IX][/us/pl/113/4/tIX], § 906(a), Mar. 7, 2013, [127 Stat. 124][/us/stat/127/124].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 455 ([Mar. 4, 1909, ch. 321, § 276][/us/act/1909-03-04/ch321/s276], [35 Stat. 1143][/us/stat/35/1143]).
+    Based on title 18, U.S.C., 1940 ed., § 455 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 276, [35 Stat. 1143][/us/stat/35/1143]).
 
     Opening paragraph was added to preserve the jurisdictional limitation provided for by [section 451 of title 18][/us/usc/t18/s451], U.S.C., 1940 ed., now [section 7 of this title][/us/usc/t18/s7]. (See reviser’s note thereunder.)
 
@@ -67,33 +67,33 @@
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1). [Pub. L. 113–4, § 906(a)(1)(A)][/us/pl/113/4/s906/a/1/A], added par. (1) and struck out former par. (1) which read as follows: “Assault with intent to commit murder, by imprisonment for not more than twenty years.”
+    2013—Subsec. (a)(1). [Pub. L. 113–4][/us/pl/113/4], § 906(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “Assault with intent to commit murder, by imprisonment for not more than twenty years.”
 
-    Subsec. (a)(2). [Pub. L. 113–4, § 906(a)(1)(B)][/us/pl/113/4/s906/a/1/B], substituted “violation of section 2241 or 2242” for “felony under chapter 109A”.
+    Subsec. (a)(2). [Pub. L. 113–4][/us/pl/113/4], § 906(a)(1)(B), substituted “violation of section 2241 or 2242” for “felony under chapter 109A”.
 
-    Subsec. (a)(3). [Pub. L. 113–4, § 906(a)(1)(C)][/us/pl/113/4/s906/a/1/C], struck out “and without just cause or excuse,” after “bodily harm,”.
+    Subsec. (a)(3). [Pub. L. 113–4][/us/pl/113/4], § 906(a)(1)(C), struck out “and without just cause or excuse,” after “bodily harm,”.
 
-    Subsec. (a)(4). [Pub. L. 113–4, § 906(a)(1)(D)][/us/pl/113/4/s906/a/1/D], substituted “1 year” for “six months”.
+    Subsec. (a)(4). [Pub. L. 113–4][/us/pl/113/4], § 906(a)(1)(D), substituted “1 year” for “six months”.
 
-    Subsec. (a)(7). [Pub. L. 113–4, § 906(a)(1)(E)][/us/pl/113/4/s906/a/1/E], substituted “substantial bodily injury to a spouse or intimate partner, a dating partner, or an individual who has not attained the age of 16 years” for “substantial bodily injury to an individual who has not attained the age of 16 years” and “a fine” for “fine”.
+    Subsec. (a)(7). [Pub. L. 113–4][/us/pl/113/4], § 906(a)(1)(E), substituted “substantial bodily injury to a spouse or intimate partner, a dating partner, or an individual who has not attained the age of 16 years” for “substantial bodily injury to an individual who has not attained the age of 16 years” and “a fine” for “fine”.
 
-    Subsec. (a)(8). [Pub. L. 113–4, § 906(a)(1)(F)][/us/pl/113/4/s906/a/1/F], added par. (8).
+    Subsec. (a)(8). [Pub. L. 113–4][/us/pl/113/4], § 906(a)(1)(F), added par. (8).
 
-    Subsec. (b). [Pub. L. 113–4, § 906(a)(2)][/us/pl/113/4/s906/a/2], inserted heading, substituted “In this section—” for “As used in this subsection—”, and added pars. (3) to (5).
+    Subsec. (b). [Pub. L. 113–4][/us/pl/113/4], § 906(a)(2), inserted heading, substituted “In this section—” for “As used in this subsection—”, and added pars. (3) to (5).
 
-    1996—[Pub. L. 104–294, § 604(b)(12)(B)][/us/pl/104/294/s604/b/12/B], repealed [Pub. L. 103–322, § 320101(c)(1)(A)][/us/pl/103/322/s320101/c/1/A], (2)(A). See 1994 Amendment note below.
+    1996—[Pub. L. 104–294][/us/pl/104/294], § 604(b)(12)(B), repealed [Pub. L. 103–322][/us/pl/103/322], § 320101(c)(1)(A), (2)(A). See 1994 Amendment note below.
 
-    [Pub. L. 104–294, § 604(b)(7)][/us/pl/104/294/s604/b/7], repealed [Pub. L. 103–322, § 170201(c)(1)][/us/pl/103/322/s170201/c/1]–(3). See 1994 Amendment note below.
+    [Pub. L. 104–294][/us/pl/104/294], § 604(b)(7), repealed [Pub. L. 103–322][/us/pl/103/322], § 170201(c)(1)–(3). See 1994 Amendment note below.
 
-    1994—[Pub. L. 103–322, § 330016(2)(B)][/us/pl/103/322/s330016/2/B], substituted “a fine under this title” for “fine of not more than” through the immediately following dollar amount wherever appearing.
+    1994—[Pub. L. 103–322][/us/pl/103/322], § 330016(2)(B), substituted “a fine under this title” for “fine of not more than” through the immediately following dollar amount wherever appearing.
 
-    [Pub. L. 103–322, § 320101(c)][/us/pl/103/322/s320101/c], as amended by [Pub. L. 104–294, § 604(b)(12)(B)][/us/pl/104/294/s604/b/12/B], which directed the amendment of subsec. (c) by substituting “ten years” for “five years” and the amendment of subsec. (e) by substituting “six months” for “three months”, were executed by making the substitutions in subsecs. (a)(3) and (a)(5), respectively, to reflect the probable intent of Congress and the redesignation of subsecs. (c) and (e) as subsecs. (a)(3) and (a)(5), respectively. See below.
+    [Pub. L. 103–322][/us/pl/103/322], § 320101(c), as amended by [Pub. L. 104–294][/us/pl/104/294], § 604(b)(12)(B), which directed the amendment of subsec. (c) by substituting “ten years” for “five years” and the amendment of subsec. (e) by substituting “six months” for “three months”, were executed by making the substitutions in subsecs. (a)(3) and (a)(5), respectively, to reflect the probable intent of Congress and the redesignation of subsecs. (c) and (e) as subsecs. (a)(3) and (a)(5), respectively. See below.
 
-    [Pub. L. 103–322, § 170201(a)][/us/pl/103/322/s170201/a]–(d), as amended by [Pub. L. 104–294, § 604(b)(7)][/us/pl/104/294/s604/b/7], designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (f) as pars. (1) to (6), respectively of subsec. (a) and realigned margins, inserted before period at end of par. (5) “, or if the victim of the assault is an individual who has not attained the age of 16 years, by fine under this title or imprisonment for not more than 1 year, or both”, and added subsecs. (a)(7) and (b).
+    [Pub. L. 103–322][/us/pl/103/322], § 170201(a)–(d), as amended by [Pub. L. 104–294][/us/pl/104/294], § 604(b)(7), designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (f) as pars. (1) to (6), respectively of subsec. (a) and realigned margins, inserted before period at end of par. (5) “, or if the victim of the assault is an individual who has not attained the age of 16 years, by fine under this title or imprisonment for not more than 1 year, or both”, and added subsecs. (a)(7) and (b).
 
-    1986—Subsec. (a). [Pub. L. 99–646, § 87(c)(2)][/us/pl/99/646/s87/c/2], and [Pub. L. 99–654, § 3(a)(2)][/us/pl/99/654/s3/a/2], amended subsec. (a) identically, striking out “or rape” after “murder”.
+    1986—Subsec. (a). [Pub. L. 99–646][/us/pl/99/646], § 87(c)(2), and [Pub. L. 99–654][/us/pl/99/654], § 3(a)(2), amended subsec. (a) identically, striking out “or rape” after “murder”.
 
-    Subsec. (b). [Pub. L. 99–646, § 87(c)(3)][/us/pl/99/646/s87/c/3], and [Pub. L. 99–654, § 3(a)(3)][/us/pl/99/654/s3/a/3], amended subsec. (b) identically, substituting “a felony under chapter 109A” for “rape”.
+    Subsec. (b). [Pub. L. 99–646][/us/pl/99/646], § 87(c)(3), and [Pub. L. 99–654][/us/pl/99/654], § 3(a)(3), amended subsec. (b) identically, substituting “a felony under chapter 109A” for “rape”.
 
     1976—Subsec. (f). [Pub. L. 94–297][/us/pl/94/297] added subsec. (f).
 
@@ -115,42 +115,42 @@
 [/us/usc/t18/s1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1365
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F689
-[/us/pl/94/297/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F297%2Fs3
+[/us/pl/94/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F297
 [/us/stat/90/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F585
-[/us/pl/99/646/s87/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs87%2Fc%2F2
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3623
-[/us/pl/99/654/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654%2Fs3%2Fa%2F2
+[/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
 [/us/stat/100/3663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3663
-[/us/pl/103/322/s170201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs170201%2Fa
+[/us/pl/103/322/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXVII
 [/us/stat/108/2042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2042
-[/us/pl/104/294/s604/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F7
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3507
-[/us/pl/113/4/s906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs906%2Fa
+[/us/pl/113/4/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtIX
 [/us/stat/127/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F124
-[/us/act/1909-03-04/ch321/s276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs276
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1143
 [/us/usc/t18/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs451
 [/us/usc/t18/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs7
-[/us/pl/113/4/s906/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs906%2Fa%2F1%2FA
-[/us/pl/113/4/s906/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs906%2Fa%2F1%2FB
-[/us/pl/113/4/s906/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs906%2Fa%2F1%2FC
-[/us/pl/113/4/s906/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs906%2Fa%2F1%2FD
-[/us/pl/113/4/s906/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs906%2Fa%2F1%2FE
-[/us/pl/113/4/s906/a/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs906%2Fa%2F1%2FF
-[/us/pl/113/4/s906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs906%2Fa%2F2
-[/us/pl/104/294/s604/b/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F12%2FB
-[/us/pl/103/322/s320101/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320101%2Fc%2F1%2FA
-[/us/pl/104/294/s604/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F7
-[/us/pl/103/322/s170201/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs170201%2Fc%2F1
-[/us/pl/103/322/s330016/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F2%2FB
-[/us/pl/103/322/s320101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320101%2Fc
-[/us/pl/104/294/s604/b/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F12%2FB
-[/us/pl/103/322/s170201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs170201%2Fa
-[/us/pl/104/294/s604/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F7
-[/us/pl/99/646/s87/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs87%2Fc%2F2
-[/us/pl/99/654/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654%2Fs3%2Fa%2F2
-[/us/pl/99/646/s87/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs87%2Fc%2F3
-[/us/pl/99/654/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654%2Fs3%2Fa%2F3
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
 [/us/pl/94/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F297
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/104/294/s604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fd

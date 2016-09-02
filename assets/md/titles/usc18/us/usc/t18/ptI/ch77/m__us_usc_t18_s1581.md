@@ -19,7 +19,7 @@
 
     (b) Whoever obstructs, or attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be liable to the penalties prescribed in subsection (a).
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 772][/us/stat/62/772]; [Pub. L. 103–322, title XXXIII, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–208, div. C, title II, § 218(a)][/us/pl/104/208/s218/a], Sept. 30, 1996, [110 Stat. 3009–573][/us/stat/110/3009-573]; [Pub. L. 106–386, div. A, § 112(a)(1)][/us/pl/106/386/s112/a/1], Oct. 28, 2000, [114 Stat. 1486][/us/stat/114/1486].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 772][/us/stat/62/772]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(K), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–208, div. C, title II][/us/pl/104/208/dC/tII], § 218(a), Sept. 30, 1996, [110 Stat. 3009–573][/us/stat/110/3009-573]; [Pub. L. 106–386, div. A][/us/pl/106/386/dA], § 112(a)(1), Oct. 28, 2000, [114 Stat. 1486][/us/stat/114/1486].)
 
  __Historical and Revision Notes__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–208, div. C, title II, § 218(d)][/us/pl/104/208/s218/d], Sept. 30, 1996, [110 Stat. 3009–574][/us/stat/110/3009-574], provided that: 
+[Pub. L. 104–208, div. C, title II][/us/pl/104/208/dC/tII], § 218(d), Sept. 30, 1996, [110 Stat. 3009–574][/us/stat/110/3009-574], provided that: 
 
 > “This section \[amending this section and sections 1583, 1584, and 1588 of this title and enacting provisions set out as notes under [section 994 of Title 28][/us/usc/t28/s994], Judiciary and Judicial Procedure\] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
@@ -52,11 +52,11 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F772
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/104/208/s218/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs218%2Fa
+[/us/pl/104/208/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtII
 [/us/stat/110/3009-573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-573
-[/us/pl/106/386/s112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs112%2Fa%2F1
+[/us/pl/106/386/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdA
 [/us/stat/114/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1486
 [/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1142
@@ -64,7 +64,7 @@
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/104/208/s218/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs218%2Fd
+[/us/pl/104/208/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtII
 [/us/stat/110/3009-574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-574
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
 

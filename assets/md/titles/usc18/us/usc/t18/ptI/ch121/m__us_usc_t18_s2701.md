@@ -55,23 +55,23 @@
 
         (3) in section 2703, 2704 or 2518 of this title.
 
-(Added [Pub. L. 99–508, title II, § 201][/us/pl/99/508/s201]\[(a)\], Oct. 21, 1986, [100 Stat. 1860][/us/stat/100/1860]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], (U), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147], 2148; [Pub. L. 104–294, title VI, § 601(a)(3)][/us/pl/104/294/s601/a/3], Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498]; [Pub. L. 107–296, title II, § 225(j)(2)][/us/pl/107/296/s225/j/2], Nov. 25, 2002, [116 Stat. 2158][/us/stat/116/2158].)
+(Added [Pub. L. 99–508, title II][/us/pl/99/508/tII], § 201\[(a)\], Oct. 21, 1986, [100 Stat. 1860][/us/stat/100/1860]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(K), (U), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147], 2148; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(a)(3), Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498]; [Pub. L. 107–296, title II][/us/pl/107/296/tII], § 225(j)(2), Nov. 25, 2002, [116 Stat. 2158][/us/stat/116/2158].)
 
  __Amendments__ 
 
-    2002—Subsec. (b)(1). [Pub. L. 107–296, § 225(j)(2)(A)][/us/pl/107/296/s225/j/2/A], in introductory provisions, inserted “, or in furtherance of any criminal or tortious act in violation of the Constitution or laws of the United States or any State” after “commercial gain”.
+    2002—Subsec. (b)(1). [Pub. L. 107–296][/us/pl/107/296], § 225(j)(2)(A), in introductory provisions, inserted “, or in furtherance of any criminal or tortious act in violation of the Constitution or laws of the United States or any State” after “commercial gain”.
 
-    Subsec. (b)(1)(A). [Pub. L. 107–296, § 225(j)(2)(B)][/us/pl/107/296/s225/j/2/B], substituted “5 years” for “one year”.
+    Subsec. (b)(1)(A). [Pub. L. 107–296][/us/pl/107/296], § 225(j)(2)(B), substituted “5 years” for “one year”.
 
-    Subsec. (b)(1)(B). [Pub. L. 107–296, § 225(j)(2)(C)][/us/pl/107/296/s225/j/2/C], substituted “10 years” for “two years”.
+    Subsec. (b)(1)(B). [Pub. L. 107–296][/us/pl/107/296], § 225(j)(2)(C), substituted “10 years” for “two years”.
 
-    Subsec. (b)(2). [Pub. L. 107–296, § 225(j)(2)(D)][/us/pl/107/296/s225/j/2/D], added par. (2) and struck out former par. (2) which read as follows: “a fine under this title or imprisonment for not more than six months, or both, in any other case.”
+    Subsec. (b)(2). [Pub. L. 107–296][/us/pl/107/296], § 225(j)(2)(D), added par. (2) and struck out former par. (2) which read as follows: “a fine under this title or imprisonment for not more than six months, or both, in any other case.”
 
     1996—Subsec. (b)(1)(A), (2). [Pub. L. 104–294][/us/pl/104/294] substituted “fine under this title” for “fine of under this title”.
 
-    1994—Subsec. (b)(1)(A). [Pub. L. 103–322, § 330016(1)(U)][/us/pl/103/322/s330016/1/U], substituted “under this title” for “not more than $250,000”.
+    1994—Subsec. (b)(1)(A). [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(U), substituted “under this title” for “not more than $250,000”.
 
-    Subsec. (b)(2). [Pub. L. 103–322, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], substituted “under this title” for “not more than $5,000”.
+    Subsec. (b)(2). [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(K), substituted “under this title” for “not more than $5,000”.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -79,13 +79,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–508, title II, § 202][/us/pl/99/508/s202], Oct. 21, 1986, [100 Stat. 1868][/us/stat/100/1868], provided that: 
+[Pub. L. 99–508, title II][/us/pl/99/508/tII], § 202, Oct. 21, 1986, [100 Stat. 1868][/us/stat/100/1868], provided that: 
 
 > “This title and the amendments made by this title \[enacting this chapter\] shall take effect ninety days after the date of the enactment of this Act \[Oct. 21, 1986\] and shall, in the case of conduct pursuant to a court order or extension, apply only with respect to court orders or extensions made after this title takes effect.”
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–618, § 1][/us/pl/100/618/s1], Nov. 5, 1988, [102 Stat. 3195][/us/stat/102/3195], provided that: 
+[Pub. L. 100–618][/us/pl/100/618], § 1, Nov. 5, 1988, [102 Stat. 3195][/us/stat/102/3195], provided that: 
 
 > “This Act \[enacting [section 2710 of this title][/us/usc/t18/s2710] and renumbering former section 2710 as 2711 of this title\] may be cited as the ‘Video Privacy Protection Act of 1988’.”
 
@@ -96,27 +96,27 @@
 ----------
 ----------
 
-[/us/pl/99/508/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs201
+[/us/pl/99/508/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtII
 [/us/stat/100/1860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1860
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/104/294/s601/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fa%2F3
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3498
-[/us/pl/107/296/s225/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225%2Fj%2F2
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2158
-[/us/pl/107/296/s225/j/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225%2Fj%2F2%2FA
-[/us/pl/107/296/s225/j/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225%2Fj%2F2%2FB
-[/us/pl/107/296/s225/j/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225%2Fj%2F2%2FC
-[/us/pl/107/296/s225/j/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225%2Fj%2F2%2FD
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
-[/us/pl/103/322/s330016/1/U]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FU
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/99/508/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs202
+[/us/pl/99/508/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtII
 [/us/stat/100/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1868
-[/us/pl/100/618/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F618%2Fs1
+[/us/pl/100/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F618
 [/us/stat/102/3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3195
 [/us/usc/t18/s2710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2710
 

@@ -39,7 +39,7 @@
 
         (2) such biological agent, toxin, or delivery system, is of a type and quantity reasonable for that purpose.
 
-(Added [Pub. L. 101–298, § 3(a)][/us/pl/101/298/s3/a], May 22, 1990, [104 Stat. 202][/us/stat/104/202]; amended [Pub. L. 103–322, title XXXIII, § 330010(16)][/us/pl/103/322/s330010/16], Sept. 13, 1994, [108 Stat. 2144][/us/stat/108/2144]; [Pub. L. 107–188, title II, § 231(c)(3)][/us/pl/107/188/s231/c/3], June 12, 2002, [116 Stat. 661][/us/stat/116/661].)
+(Added [Pub. L. 101–298][/us/pl/101/298], § 3(a), May 22, 1990, [104 Stat. 202][/us/stat/104/202]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330010(16), Sept. 13, 1994, [108 Stat. 2144][/us/stat/108/2144]; [Pub. L. 107–188, title II][/us/pl/107/188/tII], § 231(c)(3), June 12, 2002, [116 Stat. 661][/us/stat/116/661].)
 
  __Amendments__ 
 
@@ -55,11 +55,11 @@
 ----------
 
 [/us/usc/t18/s175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs175
-[/us/pl/101/298/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F298%2Fs3%2Fa
+[/us/pl/101/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F298
 [/us/stat/104/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F202
-[/us/pl/103/322/s330010/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330010%2F16
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2144
-[/us/pl/107/188/s231/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs231%2Fc%2F3
+[/us/pl/107/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtII
 [/us/stat/116/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F661
 [/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

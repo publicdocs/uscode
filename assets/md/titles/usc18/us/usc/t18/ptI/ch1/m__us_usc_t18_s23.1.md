@@ -17,7 +17,7 @@
 
     As used in this title, except where otherwise expressly provided  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a comma. </sup></sup>  the term “court of the United States” includes the District Court of Guam, the District Court for the Northern Mariana Islands, and the District Court of the Virgin Islands.
 
-(Added [Pub. L. 103–322, title XXXII, § 320914(a)][/us/pl/103/322/s320914/a], Sept. 13, 1994, [108 Stat. 2128][/us/stat/108/2128].)
+(Added [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320914(a), Sept. 13, 1994, [108 Stat. 2128][/us/stat/108/2128].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s320914/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320914%2Fa
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2128
 
 

@@ -17,7 +17,7 @@
 
     The remedies and sanctions described in this chapter are the only judicial remedies and sanctions for nonconstitutional violations of this chapter.
 
-(Added [Pub. L. 99–508, title II, § 201][/us/pl/99/508/s201]\[(a)\], Oct. 21, 1986, [100 Stat. 1867][/us/stat/100/1867].)
+(Added [Pub. L. 99–508, title II][/us/pl/99/508/tII], § 201\[(a)\], Oct. 21, 1986, [100 Stat. 1867][/us/stat/100/1867].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/508/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs201
+[/us/pl/99/508/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtII
 [/us/stat/100/1867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1867
 
 

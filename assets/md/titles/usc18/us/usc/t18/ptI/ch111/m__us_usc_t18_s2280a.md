@@ -121,7 +121,7 @@
 
         Seizures and forfeitures under this section shall be governed by the provisions of chapter 46 of title 18, United States Code, relating to civil forfeitures, except that such duties as are imposed upon the Secretary of the Treasury under the customs laws described in section 981(d) shall be performed by such officers, agents, and other persons as may be designated for that purpose by the Secretary of Homeland Security, the Attorney General, or the Secretary of Defense.
 
-(Added [Pub. L. 114–23, title VIII, § 802(a)][/us/pl/114/23/s802/a], June 2, 2015, [129 Stat. 304][/us/stat/129/304].)
+(Added [Pub. L. 114–23, title VIII][/us/pl/114/23/tVIII], § 802(a), June 2, 2015, [129 Stat. 304][/us/stat/129/304].)
 
  __Definitions__ 
 
@@ -135,7 +135,7 @@
 ----------
 
 [/us/usc/t46/s70502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502
-[/us/pl/114/23/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs802%2Fa
+[/us/pl/114/23/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVIII
 [/us/stat/129/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F304
 [/us/usc/t18/s2280/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2280%2Fd
 

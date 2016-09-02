@@ -17,7 +17,7 @@
 
     An officer or employee of the Bureau of Prisons may, pursuant to rules and regulations of the Director of the Bureau of Prisons, summarily seize any object introduced into a Federal penal or correctional facility or possessed by an inmate of such a facility in violation of a rule, regulation or order promulgated by the Director, and such object shall be forfeited to the United States.
 
-(Added [Pub. L. 98–473, title II, § 1109(d)][/us/pl/98/473/s1109/d], Oct. 12, 1984, [98 Stat. 2148][/us/stat/98/2148].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1109(d), Oct. 12, 1984, [98 Stat. 2148][/us/stat/98/2148].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/473/s1109/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1109%2Fd
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2148
 
 

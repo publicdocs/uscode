@@ -451,27 +451,27 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–154, § 3(b)][/us/pl/111/154/s3/b], Mar. 31, 2010, [124 Stat. 1109][/us/stat/124/1109], added item 1716E.
+    2010—[Pub. L. 111–154][/us/pl/111/154], § 3(b), Mar. 31, 2010, [124 Stat. 1109][/us/stat/124/1109], added item 1716E.
 
-    2000—[Pub. L. 106–578, § 4][/us/pl/106/578/s4], Dec. 28, 2000, [114 Stat. 3076][/us/stat/114/3076], struck out item 1738 “Mailing private identification documents without a disclaimer”.
+    2000—[Pub. L. 106–578][/us/pl/106/578], § 4, Dec. 28, 2000, [114 Stat. 3076][/us/stat/114/3076], struck out item 1738 “Mailing private identification documents without a disclaimer”.
 
-    1994—[Pub. L. 103–322, title XXXII, § 320108(b)(2)][/us/pl/103/322/s320108/b/2], Sept. 13, 1994, [108 Stat. 2113][/us/stat/108/2113], added item 1716D.
+    1994—[Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320108(b)(2), Sept. 13, 1994, [108 Stat. 2113][/us/stat/108/2113], added item 1716D.
 
-    1990—[Pub. L. 101–647, title XII, § 1210(b)][/us/pl/101/647/s1210/b], (c), title XXXV, § 3552(b), Nov. 29, 1990, [104 Stat. 4832][/us/stat/104/4832], 4926, struck out item 1714 “Foreign divorce information as nonmailable”, struck out “; opening letters” after “nonmailable” in item 1717, and struck out item 1718 “Libelous matter on wrappers or envelopes”.
+    1990—[Pub. L. 101–647, title XII][/us/pl/101/647/tXII], § 1210(b), (c), title XXXV, § 3552(b), Nov. 29, 1990, [104 Stat. 4832][/us/stat/104/4832], 4926, struck out item 1714 “Foreign divorce information as nonmailable”, struck out “; opening letters” after “nonmailable” in item 1717, and struck out item 1718 “Libelous matter on wrappers or envelopes”.
 
-    1988—[Pub. L. 100–690, title VII, § 7090(d)][/us/pl/100/690/s7090/d], Nov. 18, 1988, [102 Stat. 4410][/us/stat/102/4410], inserted “locksmithing devices and” before “motor” in item 1716A.
+    1988—[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7090(d), Nov. 18, 1988, [102 Stat. 4410][/us/stat/102/4410], inserted “locksmithing devices and” before “motor” in item 1716A.
 
     [Pub. L. 100–574][/us/pl/100/574], §§ 1(b)(2), 2(b), Oct. 31, 1988, [102 Stat. 2893][/us/stat/102/2893], added items 1716B and 1716C.
 
-    1982—[Pub. L. 97–398, § 4(b)][/us/pl/97/398/s4/b], Dec. 31, 1982, [96 Stat. 2011][/us/stat/96/2011], added item 1738.
+    1982—[Pub. L. 97–398][/us/pl/97/398], § 4(b), Dec. 31, 1982, [96 Stat. 2011][/us/stat/96/2011], added item 1738.
 
-    1970—[Pub. L. 91–375, § 6(j)(19)(B)][/us/pl/91/375/s6/j/19/B], (36)(B), (37)(B), Aug. 12, 1970, [84 Stat. 778][/us/stat/84/778], 780, 781, substituted “officer” for “postmaster” in item 1709 and “Mailing periodical publications without prepayment of postage” for “Affidavits relating to second class mail” in item 1733, and added items 1735 to 1737.
+    1970—[Pub. L. 91–375][/us/pl/91/375], § 6(j)(19)(B), (36)(B), (37)(B), Aug. 12, 1970, [84 Stat. 778][/us/stat/84/778], 780, 781, substituted “officer” for “postmaster” in item 1709 and “Mailing periodical publications without prepayment of postage” for “Affidavits relating to second class mail” in item 1733, and added items 1735 to 1737.
 
-    1968—[Pub. L. 90–560, § 2(2)][/us/pl/90/560/s2/2], Oct. 12, 1968, [82 Stat. 997][/us/stat/82/997], added item 1716A.
+    1968—[Pub. L. 90–560][/us/pl/90/560], § 2(2), Oct. 12, 1968, [82 Stat. 997][/us/stat/82/997], added item 1716A.
 
-    [Pub. L. 90–384, § 1(b)][/us/pl/90/384/s1/b], July 5, 1968, [82 Stat. 292][/us/stat/82/292], struck out item 1727 “Postage accounting”.
+    [Pub. L. 90–384][/us/pl/90/384], § 1(b), July 5, 1968, [82 Stat. 292][/us/stat/82/292], struck out item 1727 “Postage accounting”.
 
-    1960—[Pub. L. 86–682, § 8][/us/pl/86/682/s8], Sept. 2, 1960, [74 Stat. 706][/us/stat/74/706], added items 1733 and 1734.
+    1960—[Pub. L. 86–682][/us/pl/86/682], § 8, Sept. 2, 1960, [74 Stat. 706][/us/stat/74/706], added items 1733 and 1734.
 
 ----------
 
@@ -480,27 +480,27 @@
 ----------
 ----------
 
-[/us/pl/111/154/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154%2Fs3%2Fb
+[/us/pl/111/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154
 [/us/stat/124/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1109
-[/us/pl/106/578/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F578%2Fs4
+[/us/pl/106/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F578
 [/us/stat/114/3076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3076
-[/us/pl/103/322/s320108/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320108%2Fb%2F2
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2113
-[/us/pl/101/647/s1210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1210%2Fb
+[/us/pl/101/647/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXII
 [/us/stat/104/4832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4832
-[/us/pl/100/690/s7090/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7090%2Fd
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4410
 [/us/pl/100/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F574
 [/us/stat/102/2893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2893
-[/us/pl/97/398/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F398%2Fs4%2Fb
+[/us/pl/97/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F398
 [/us/stat/96/2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2011
-[/us/pl/91/375/s6/j/19/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fj%2F19%2FB
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F778
-[/us/pl/90/560/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F560%2Fs2%2F2
+[/us/pl/90/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F560
 [/us/stat/82/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F997
-[/us/pl/90/384/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F384%2Fs1%2Fb
+[/us/pl/90/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F384
 [/us/stat/82/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F292
-[/us/pl/86/682/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682%2Fs8
+[/us/pl/86/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682
 [/us/stat/74/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F706
 
 

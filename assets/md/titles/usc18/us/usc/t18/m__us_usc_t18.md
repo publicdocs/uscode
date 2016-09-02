@@ -15,9 +15,9 @@
 
 # Title 18—CRIMES AND CRIMINAL PROCEDURE
 
-This title was enacted by [act June 25, 1948, ch. 645, § 1][/us/act/1948-06-25/ch645/s1], [62 Stat. 683][/us/stat/62/683]
+This title was enacted by [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 1, [62 Stat. 683][/us/stat/62/683]
 
-Current through 114-115
+Current through 114-139
 
 <table>
 
@@ -85,7 +85,7 @@ Current through 114-115
 
  __Amendments__ 
 
-    1970—[Pub. L. 91–452, title II, § 201(b)][/us/pl/91/452/s201/b], Oct. 15, 1970, [84 Stat. 928][/us/stat/84/928], added Part V.
+    1970—[Pub. L. 91–452, title II][/us/pl/91/452/tII], § 201(b), Oct. 15, 1970, [84 Stat. 928][/us/stat/84/928], added Part V.
 
 <table>
 
@@ -7821,29 +7821,29 @@ Rep.  </td>
 
  __Positive Law; Citation__ 
 
-[Act June 25, 1948, ch. 645, § 1][/us/act/1948-06-25/ch645/s1], [62 Stat. 683][/us/stat/62/683], provided in part that: 
+[Act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 1, [62 Stat. 683][/us/stat/62/683], provided in part that: 
 
 > “Title 18 of the United States Code, entitled ‘Crimes and Criminal Procedure’, is hereby revised, codified and enacted into positive law, and may be cited as ‘Title 18, U.S.C., § —.’ ”
 
  __Legislative Construction__ 
 
-[Act June 25, 1948, ch. 645, § 19][/us/act/1948-06-25/ch645/s19], [62 Stat. 862][/us/stat/62/862], provided that: 
+[Act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 19, [62 Stat. 862][/us/stat/62/862], provided that: 
 
 > “No inference of a legislative construction is to be drawn by reason of the chapter in Title 18, Crimes and Criminal Procedure, as set out in section 1 of this Act, in which any particular section is placed, nor by reason of the catchlines used in such title.”
 
  __Separability__ 
 
-[Act June 25, 1948, ch. 645, § 18][/us/act/1948-06-25/ch645/s18], [62 Stat. 862][/us/stat/62/862], provided that: 
+[Act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 18, [62 Stat. 862][/us/stat/62/862], provided that: 
 
 > “If any part of Title 18, Crimes and Criminal Procedure, as set out in section 1 of this Act, shall be held invalid the remainder shall not be affected thereby.”
 
  __Effective Date__ 
 
-    [Act June 25, 1948, ch. 645, § 20][/us/act/1948-06-25/ch645/s20], [62 Stat. 862][/us/stat/62/862], provided that the revision of this title shall be effective Sept. 1, 1948.
+    [Act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 20, [62 Stat. 862][/us/stat/62/862], provided that the revision of this title shall be effective Sept. 1, 1948.
 
  __Existing Rights or Liabilities__ 
 
-    [Act June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862], provided in part that any right or liabilities now existing under repealed sections or parts thereof shall not be affected by the repeal.
+    [Act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 862][/us/stat/62/862], provided in part that any right or liabilities now existing under repealed sections or parts thereof shall not be affected by the repeal.
 
  __Repealed, Transferred, and Omitted Sections__ 
 
@@ -7856,19 +7856,19 @@ Rep.  </td>
 ----------
 ----------
 
-[/us/act/1948-06-25/ch645/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs1
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F683
-[/us/pl/91/452/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs201%2Fb
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F928
-[/us/act/1948-06-25/ch645/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs1
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F683
-[/us/act/1948-06-25/ch645/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs19
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
-[/us/act/1948-06-25/ch645/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs18
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
-[/us/act/1948-06-25/ch645/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs20
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F687

@@ -23,7 +23,7 @@
 
         (2) has the authority to issue regulations to carry out the provisions of this chapter.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 761][/us/stat/62/761]; [May 24, 1949, ch. 139, § 31][/us/act/1949-05-24/ch139/s31], [63 Stat. 94][/us/stat/63/94]; [Pub. L. 107–273, div. B, title IV, § 4004(b)][/us/pl/107/273/s4004/b], Nov. 2, 2002, [116 Stat. 1812][/us/stat/116/1812]; [Pub. L. 107–296, title XI, § 1112(g)][/us/pl/107/296/s1112/g], Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 761][/us/stat/62/761]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 31, [63 Stat. 94][/us/stat/63/94]; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4004(b), Nov. 2, 2002, [116 Stat. 1812][/us/stat/116/1812]; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1112(g), Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276].)
 
  __Historical and Revision Notes__ 
 
@@ -58,11 +58,11 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F761
-[/us/act/1949-05-24/ch139/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs31
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F94
-[/us/pl/107/273/s4004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4004%2Fb
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1812
-[/us/pl/107/296/s1112/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fg
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2276
 [/us/act/1936-06-25/ch815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-25%2Fch815
 [/us/stat/49/1929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1929

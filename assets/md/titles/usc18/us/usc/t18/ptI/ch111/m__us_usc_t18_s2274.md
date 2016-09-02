@@ -19,11 +19,11 @@
 
     In case such vessels are so used, with the knowledge of the owner or master or other person in charge or command thereof, the vessel, together with her tackle, apparel, furniture, and equipment, shall be subject to seizure and forfeiture to the United States in the same manner as merchandise is forfeited for violation of the customs revenue laws.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 804][/us/stat/62/804]; [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 804][/us/stat/62/804]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on [section 193 of title 50][/us/usc/t50/s193], U.S.C., 1940 ed., War and National Defense ([June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title II, § 3, [40 Stat. 220][/us/stat/40/220]; [Mar. 28, 1940, ch. 72, § 3(b)][/us/act/1940-03-28/ch72/s3/b], [54 Stat. 79][/us/stat/54/79]).
+    Based on [section 193 of title 50][/us/usc/t50/s193], U.S.C., 1940 ed., War and National Defense ([June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title II, § 3, [40 Stat. 220][/us/stat/40/220]; [Mar. 28, 1940, ch. 72][/us/act/1940-03-28/ch72], § 3(b), [54 Stat. 79][/us/stat/54/79]).
 
     Mandatory punishment provision was rephrased in the alternative.
 
@@ -42,12 +42,12 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F804
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/usc/t50/s193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs193
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
 [/us/stat/40/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F220
-[/us/act/1940-03-28/ch72/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-28%2Fch72%2Fs3%2Fb
+[/us/act/1940-03-28/ch72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-28%2Fch72
 [/us/stat/54/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F79
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

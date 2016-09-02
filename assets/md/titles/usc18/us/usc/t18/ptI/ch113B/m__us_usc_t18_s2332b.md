@@ -131,11 +131,11 @@
 
                 (iv) section 1010A of the Controlled Substances Import and Export Act (relating to narco-terrorism).
 
-(Added [Pub. L. 104–132, title VII, § 702(a)][/us/pl/104/132/s702/a], Apr. 24, 1996, [110 Stat. 1291][/us/stat/110/1291]; amended [Pub. L. 104–294, title VI, § 601(s)(1)][/us/pl/104/294/s601/s/1], (3), Oct. 11, 1996, [110 Stat. 3502][/us/stat/110/3502]; [Pub. L. 107–56, title VIII, § 808][/us/pl/107/56/s808], Oct. 26, 2001, [115 Stat. 378][/us/stat/115/378]; [Pub. L. 107–197, title III, § 301(b)][/us/pl/107/197/s301/b], June 25, 2002, [116 Stat. 728][/us/stat/116/728]; [Pub. L. 108–458, title VI][/us/pl/108/458], §§ 6603(a)(1), 6803(c)(3), 6908, Dec. 17, 2004, [118 Stat. 3762][/us/stat/118/3762], 3769, 3774; [Pub. L. 109–177, title I][/us/pl/109/177], §§ 110(b)(3)(A), 112, Mar. 9, 2006, [120 Stat. 208][/us/stat/120/208], 209; [Pub. L. 110–326, title II, § 204(b)][/us/pl/110/326/s204/b], Sept. 26, 2008, [122 Stat. 3562][/us/stat/122/3562]; [Pub. L. 114–23, title VIII][/us/pl/114/23], §§ 805, 811(d), June 2, 2015, [129 Stat. 309][/us/stat/129/309], 311.)
+(Added [Pub. L. 104–132, title VII][/us/pl/104/132/tVII], § 702(a), Apr. 24, 1996, [110 Stat. 1291][/us/stat/110/1291]; amended [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(s)(1), (3), Oct. 11, 1996, [110 Stat. 3502][/us/stat/110/3502]; [Pub. L. 107–56, title VIII][/us/pl/107/56/tVIII], § 808, Oct. 26, 2001, [115 Stat. 378][/us/stat/115/378]; [Pub. L. 107–197, title III][/us/pl/107/197/tIII], § 301(b), June 25, 2002, [116 Stat. 728][/us/stat/116/728]; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], §§ 6603(a)(1), 6803(c)(3), 6908, Dec. 17, 2004, [118 Stat. 3762][/us/stat/118/3762], 3769, 3774; [Pub. L. 109–177, title I][/us/pl/109/177/tI], §§ 110(b)(3)(A), 112, Mar. 9, 2006, [120 Stat. 208][/us/stat/120/208], 209; [Pub. L. 110–326, title II][/us/pl/110/326/tII], § 204(b), Sept. 26, 2008, [122 Stat. 3562][/us/stat/122/3562]; [Pub. L. 114–23, title VIII][/us/pl/114/23/tVIII], §§ 805, 811(d), June 2, 2015, [129 Stat. 309][/us/stat/129/309], 311.)
 
  __References in Text__ 
 
-    Section 1365(g)(3), referred to in subsec. (g)(3), was redesignated section 1365(h)(3) by [Pub. L. 107–307, § 2(1)][/us/pl/107/307/s2/1], Dec. 2, 2002, [116 Stat. 2445][/us/stat/116/2445].
+    Section 1365(g)(3), referred to in subsec. (g)(3), was redesignated section 1365(h)(3) by [Pub. L. 107–307][/us/pl/107/307], § 2(1), Dec. 2, 2002, [116 Stat. 2445][/us/stat/116/2445].
 
     Section 1010A of the Controlled Substances Import and Export Act, referred to in subsec. (g)(5)(B)(iv), is classified to [section 960a of Title 21][/us/usc/t21/s960a], Food and Drugs.
 
@@ -147,29 +147,29 @@
 
     2006—Subsec. (g)(5)(B)(i). [Pub. L. 109–177][/us/pl/109/177], §§ 110(b)(3)(A), 112(a)(1), (b), substituted “1992 (relating to terrorist attacks and other acts of violence against railroad carriers and against mass transportation systems on land, on water, or through the air),” for “1992 (relating to wrecking trains), 1993 (relating to terrorist attacks and other acts of violence against mass transportation systems),” and “terrorism), 2339D (relating to military-type training from a foreign terrorist organization), or 2340A” for “terrorism, or 2340A”.
 
-    Subsec. (g)(5)(B)(iv). [Pub. L. 109–177, § 112(a)(2)][/us/pl/109/177/s112/a/2]–(4), added cl. (iv).
+    Subsec. (g)(5)(B)(iv). [Pub. L. 109–177][/us/pl/109/177], § 112(a)(2)–(4), added cl. (iv).
 
-    2004—Subsec. (g)(5)(B)(i). [Pub. L. 108–458, § 6908(1)][/us/pl/108/458/s6908/1], inserted “175c (relating to variola virus),” after “175 or 175b (relating to biological weapons),” and “2332g (relating to missile systems designed to destroy aircraft), 2332h (relating to radiological dispersal devices),” before “2339 (relating to harboring terrorists)”.
+    2004—Subsec. (g)(5)(B)(i). [Pub. L. 108–458][/us/pl/108/458], § 6908(1), inserted “175c (relating to variola virus),” after “175 or 175b (relating to biological weapons),” and “2332g (relating to missile systems designed to destroy aircraft), 2332h (relating to radiological dispersal devices),” before “2339 (relating to harboring terrorists)”.
 
-    [Pub. L. 108–458, § 6803(c)(3)][/us/pl/108/458/s6803/c/3], inserted “832 (relating to participation in nuclear and weapons of mass destruction threats to the United States)” after “831 (relating to nuclear materials),”.
+    [Pub. L. 108–458][/us/pl/108/458], § 6803(c)(3), inserted “832 (relating to participation in nuclear and weapons of mass destruction threats to the United States)” after “831 (relating to nuclear materials),”.
 
-    [Pub. L. 108–458, § 6603(a)(1)][/us/pl/108/458/s6603/a/1], inserted “1361 (relating to government property or contracts),” after “1203 (relating to hostage taking),” and “2156 (relating to national defense material, premises, or utilities),” after “2155 (relating to destruction of national defense materials, premises, or utilities),”.
+    [Pub. L. 108–458][/us/pl/108/458], § 6603(a)(1), inserted “1361 (relating to government property or contracts),” after “1203 (relating to hostage taking),” and “2156 (relating to national defense material, premises, or utilities),” after “2155 (relating to destruction of national defense materials, premises, or utilities),”.
 
-    Subsec. (g)(5)(B)(ii). [Pub. L. 108–458, § 6908(2)][/us/pl/108/458/s6908/2], substituted “sections 92 (relating to prohibitions governing atomic weapons) or” for “section” and inserted “2122 or” before “2284”.
+    Subsec. (g)(5)(B)(ii). [Pub. L. 108–458][/us/pl/108/458], § 6908(2), substituted “sections 92 (relating to prohibitions governing atomic weapons) or” for “section” and inserted “2122 or” before “2284”.
 
     2002—Subsec. (g)(5)(B)(i). [Pub. L. 107–197][/us/pl/107/197] inserted “2332f (relating to bombing of public places and facilities),” after “2332b (relating to acts of terrorism transcending national boundaries),” and “2339C (relating to financing of terrorism,” after “2339B (relating to providing material support to terrorist organizations),”.
 
-    2001—Subsec. (f). [Pub. L. 107–56, § 808(1)][/us/pl/107/56/s808/1], inserted “and any violation of section 351(e), 844(e), 844(f)(1), 956(b), 1361, 1366(b), 1366(c), 1751(e), 2152, or 2156 of this title,” before “and the Secretary”.
+    2001—Subsec. (f). [Pub. L. 107–56][/us/pl/107/56], § 808(1), inserted “and any violation of section 351(e), 844(e), 844(f)(1), 956(b), 1361, 1366(b), 1366(c), 1751(e), 2152, or 2156 of this title,” before “and the Secretary”.
 
-    Subsec. (g)(5)(B)(i) to (iii). [Pub. L. 107–56, § 808(2)][/us/pl/107/56/s808/2], added cls. (i) to (iii) and struck out former cls. (i) to (iii), inserting references to sections 175b, 229, 1030, 1993, and 2339 of this title and striking out references to 1361, 2152, 2156, 2332c of this title in cl. (i) and inserting references to sections 46504, 46505, and 46506 of title 49 in cl. (iii).
+    Subsec. (g)(5)(B)(i) to (iii). [Pub. L. 107–56][/us/pl/107/56], § 808(2), added cls. (i) to (iii) and struck out former cls. (i) to (iii), inserting references to sections 175b, 229, 1030, 1993, and 2339 of this title and striking out references to 1361, 2152, 2156, 2332c of this title in cl. (i) and inserting references to sections 46504, 46505, and 46506 of title 49 in cl. (iii).
 
-    1996—Subsec. (b)(1)(A). [Pub. L. 104–294, § 601(s)(1)][/us/pl/104/294/s601/s/1], struck out “any of the offenders uses” before “the mail or any facility” and inserted “is used” after “foreign commerce”.
+    1996—Subsec. (b)(1)(A). [Pub. L. 104–294][/us/pl/104/294], § 601(s)(1), struck out “any of the offenders uses” before “the mail or any facility” and inserted “is used” after “foreign commerce”.
 
-    Subsec. (g)(5)(B)(i). [Pub. L. 104–294, § 601(s)(3)][/us/pl/104/294/s601/s/3], inserted “930(c),” before “956 (relating to conspiracy to injure property of a foreign government)”, “1992,” before “2152 (relating to injury of fortifications, harbor defenses, or defensive sea areas)”, and “2332c,” before “2339A (relating to providing material support to terrorists)”.
+    Subsec. (g)(5)(B)(i). [Pub. L. 104–294][/us/pl/104/294], § 601(s)(3), inserted “930(c),” before “956 (relating to conspiracy to injure property of a foreign government)”, “1992,” before “2152 (relating to injury of fortifications, harbor defenses, or defensive sea areas)”, and “2332c,” before “2339A (relating to providing material support to terrorists)”.
 
  __Termination Date of 2004 Amendment__ 
 
-    [Pub. L. 108–458, title VI, § 6603(g)][/us/pl/108/458/s6603/g], Dec. 17, 2004, [118 Stat. 3764][/us/stat/118/3764], which provided that [section 6603 of Pub. L. 108–458][/us/pl/108/458/s6603] (amending this section and sections 2339A and 2339B of this title) and the amendments made by section 6603 would cease to be effective on Dec. 31, 2006, with certain exceptions, was repealed by [Pub. L. 109–177, title I, § 104][/us/pl/109/177/s104], Mar. 9, 2006, [120 Stat. 195][/us/stat/120/195].
+    [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6603(g), Dec. 17, 2004, [118 Stat. 3764][/us/stat/118/3764], which provided that [section 6603 of Pub. L. 108–458][/us/pl/108/458/s6603] (amending this section and sections 2339A and 2339B of this title) and the amendments made by section 6603 would cease to be effective on Dec. 31, 2006, with certain exceptions, was repealed by [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 104, Mar. 9, 2006, [120 Stat. 195][/us/stat/120/195].
 
  __Transfer of Functions__ 
 
@@ -181,7 +181,7 @@
 
  __Disclaimer__ 
 
-[Pub. L. 114–23, title VIII, § 811(c)][/us/pl/114/23/s811/c], June 2, 2015, [129 Stat. 311][/us/stat/129/311], provided that: 
+[Pub. L. 114–23, title VIII][/us/pl/114/23/tVIII], § 811(c), June 2, 2015, [129 Stat. 311][/us/stat/129/311], provided that: 
 
 > “Nothing contained in this section \[enacting [section 2332i of this title][/us/usc/t18/s2332i] and amending this section\] is intended to affect the applicability of any other Federal or State law that might pertain to the underlying conduct.”
 
@@ -193,46 +193,46 @@
 ----------
 
 [/us/usc/t42/s2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2122
-[/us/pl/104/132/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs702%2Fa
+[/us/pl/104/132/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVII
 [/us/stat/110/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1291
-[/us/pl/104/294/s601/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fs%2F1
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3502
-[/us/pl/107/56/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs808
+[/us/pl/107/56/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtVIII
 [/us/stat/115/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F378
-[/us/pl/107/197/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197%2Fs301%2Fb
+[/us/pl/107/197/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197%2FtIII
 [/us/stat/116/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F728
-[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3762
-[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F208
-[/us/pl/110/326/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326%2Fs204%2Fb
+[/us/pl/110/326/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326%2FtII
 [/us/stat/122/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3562
-[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVIII
 [/us/stat/129/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F309
-[/us/pl/107/307/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F307%2Fs2%2F1
+[/us/pl/107/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F307
 [/us/stat/116/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2445
 [/us/usc/t21/s960a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs960a
 [/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/pl/110/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F326
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
-[/us/pl/109/177/s112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs112%2Fa%2F2
-[/us/pl/108/458/s6908/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6908%2F1
-[/us/pl/108/458/s6803/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6803%2Fc%2F3
-[/us/pl/108/458/s6603/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6603%2Fa%2F1
-[/us/pl/108/458/s6908/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6908%2F2
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/107/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197
-[/us/pl/107/56/s808/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs808%2F1
-[/us/pl/107/56/s808/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs808%2F2
-[/us/pl/104/294/s601/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fs%2F1
-[/us/pl/104/294/s601/s/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fs%2F3
-[/us/pl/108/458/s6603/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6603%2Fg
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3764
 [/us/pl/108/458/s6603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6603
-[/us/pl/109/177/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs104
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F195
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
-[/us/pl/114/23/s811/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs811%2Fc
+[/us/pl/114/23/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVIII
 [/us/stat/129/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F311
 [/us/usc/t18/s2332i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332i
 

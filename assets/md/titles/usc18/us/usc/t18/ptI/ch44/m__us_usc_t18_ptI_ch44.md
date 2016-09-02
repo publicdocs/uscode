@@ -149,21 +149,21 @@
 
     2004—[Pub. L. 108–277][/us/pl/108/277], §§ 2(b), 3(b), July 22, 2004, [118 Stat. 866][/us/stat/118/866], 867, added items 926B and 926C.
 
-    2002—[Pub. L. 107–273, div. C, title I, § 11009(e)(2)(B)][/us/pl/107/273/s11009/e/2/B], Nov. 2, 2002, [116 Stat. 1821][/us/stat/116/1821], added item 931.
+    2002—[Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11009(e)(2)(B), Nov. 2, 2002, [116 Stat. 1821][/us/stat/116/1821], added item 931.
 
-    1993—[Pub. L. 103–159, title I, § 104(b)][/us/pl/103/159/s104/b], Nov. 30, 1993, [107 Stat. 1543][/us/stat/107/1543], added item 925A.
+    1993—[Pub. L. 103–159, title I][/us/pl/103/159/tI], § 104(b), Nov. 30, 1993, [107 Stat. 1543][/us/stat/107/1543], added item 925A.
 
-    1990—[Pub. L. 101–647, title XXXV, § 3523][/us/pl/101/647/s3523], Nov. 29, 1990, [104 Stat. 4924][/us/stat/104/4924], struck out “clause” after “Separability” in item 928.
+    1990—[Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3523, Nov. 29, 1990, [104 Stat. 4924][/us/stat/104/4924], struck out “clause” after “Separability” in item 928.
 
-    1988—[Pub. L. 100–690, title VI, § 6215(b)][/us/pl/100/690/s6215/b], Nov. 18, 1988, [102 Stat. 4362][/us/stat/102/4362], added item 930.
+    1988—[Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6215(b), Nov. 18, 1988, [102 Stat. 4362][/us/stat/102/4362], added item 930.
 
-    1986—[Pub. L. 99–308, § 107(b)][/us/pl/99/308/s107/b], May 19, 1986, [100 Stat. 460][/us/stat/100/460], added item 926A.
+    1986—[Pub. L. 99–308][/us/pl/99/308], § 107(b), May 19, 1986, [100 Stat. 460][/us/stat/100/460], added item 926A.
 
-    1984—[Pub. L. 98–473, title II, § 1006(b)][/us/pl/98/473/s1006/b], Oct. 12, 1984, [98 Stat. 2139][/us/stat/98/2139], added item 929.
+    1984—[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1006(b), Oct. 12, 1984, [98 Stat. 2139][/us/stat/98/2139], added item 929.
 
-    1968—[Pub. L. 90–618, title I, § 102][/us/pl/90/618/s102], Oct. 22, 1968, [82 Stat. 1214][/us/stat/82/1214], reenacted chapter analysis without change.
+    1968—[Pub. L. 90–618, title I][/us/pl/90/618/tI], § 102, Oct. 22, 1968, [82 Stat. 1214][/us/stat/82/1214], reenacted chapter analysis without change.
 
-    [Pub. L. 90–351, title IV, § 902][/us/pl/90/351/s902], June 19, 1968, [82 Stat. 226][/us/stat/82/226], added chapter 44 and items 921 to 928.
+    [Pub. L. 90–351, title IV][/us/pl/90/351/tIV], § 902, June 19, 1968, [82 Stat. 226][/us/stat/82/226], added chapter 44 and items 921 to 928.
 
  __Tracing of Firearms in Connection With Criminal Investigations__ 
 
@@ -208,21 +208,21 @@
 
 [/us/pl/108/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F277
 [/us/stat/118/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F866
-[/us/pl/107/273/s11009/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11009%2Fe%2F2%2FB
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1821
-[/us/pl/103/159/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2Fs104%2Fb
+[/us/pl/103/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2FtI
 [/us/stat/107/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1543
-[/us/pl/101/647/s3523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3523
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4924
-[/us/pl/100/690/s6215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6215%2Fb
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4362
-[/us/pl/99/308/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs107%2Fb
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
 [/us/stat/100/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F460
-[/us/pl/98/473/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1006%2Fb
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2139
-[/us/pl/90/618/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2Fs102
+[/us/pl/90/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2FtI
 [/us/stat/82/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1214
-[/us/pl/90/351/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs902
+[/us/pl/90/351/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtIV
 [/us/stat/82/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F226
 
 

@@ -39,7 +39,7 @@
 
         (2) for each subsequent conviction, be subject to 3 times the maximum term of imprisonment and 3 times the maximum fine that would otherwise be authorized for the offense.
 
-(Added [Pub. L. 108–21, title VI, § 601][/us/pl/108/21/s601]\[(a)\], Apr. 30, 2003, [117 Stat. 686][/us/stat/117/686].)
+(Added [Pub. L. 108–21, title VI][/us/pl/108/21/tVI], § 601\[(a)\], Apr. 30, 2003, [117 Stat. 686][/us/stat/117/686].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/108/21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs601
+[/us/pl/108/21/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtVI
 [/us/stat/117/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F686
 
 

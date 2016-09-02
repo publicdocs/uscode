@@ -17,7 +17,7 @@
 
     Any reward granted under this chapter shall be certified for payment by the Attorney General. If it is determined that the identity of the recipient of a reward or of the members of the recipient’s immediate family must be protected, the Attorney General may take such measures in connection with the payment of the reward as deemed necessary to effect such protection.
 
-(Added [Pub. L. 98–533, title I, § 101(a)][/us/pl/98/533/s101/a], Oct. 19, 1984, [98 Stat. 2707][/us/stat/98/2707].)
+(Added [Pub. L. 98–533, title I][/us/pl/98/533/tI], § 101(a), Oct. 19, 1984, [98 Stat. 2707][/us/stat/98/2707].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/533/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F533%2Fs101%2Fa
+[/us/pl/98/533/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F533%2FtI
 [/us/stat/98/2707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2707
 
 

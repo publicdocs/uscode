@@ -35,7 +35,7 @@
 
     Nothing in this chapter shall apply to otherwise lawful activities carried out by or at the direction of the United States Government.
 
-(Added [Pub. L. 109–177, title III, § 306(a)][/us/pl/109/177/s306/a], Mar. 9, 2006, [120 Stat. 237][/us/stat/120/237].)
+(Added [Pub. L. 109–177, title III][/us/pl/109/177/tIII], § 306(a), Mar. 9, 2006, [120 Stat. 237][/us/stat/120/237].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t8/s1101/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F22
-[/us/pl/109/177/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs306%2Fa
+[/us/pl/109/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIII
 [/us/stat/120/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F237
 [/us/pl/96/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F350
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304

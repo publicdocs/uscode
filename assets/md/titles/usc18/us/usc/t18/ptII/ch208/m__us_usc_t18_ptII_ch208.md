@@ -139,9 +139,9 @@
 
  __Amendments__ 
 
-    1979—[Pub. L. 96–43, § 11][/us/pl/96/43/s11], Aug. 2, 1979, [93 Stat. 332][/us/stat/93/332], substituted “Persons detained or designated as being of high risk” for “Interim limits” in item 3164 and inserted “and implementation” in item 3174.
+    1979—[Pub. L. 96–43][/us/pl/96/43], § 11, Aug. 2, 1979, [93 Stat. 332][/us/stat/93/332], substituted “Persons detained or designated as being of high risk” for “Interim limits” in item 3164 and inserted “and implementation” in item 3174.
 
-    1975—[Pub. L. 93–619, title I, § 101][/us/pl/93/619/s101], Jan. 3, 1975, [88 Stat. 2076][/us/stat/88/2076], added chapter 208 and items 3161 to 3174.
+    1975—[Pub. L. 93–619, title I][/us/pl/93/619/tI], § 101, Jan. 3, 1975, [88 Stat. 2076][/us/stat/88/2076], added chapter 208 and items 3161 to 3174.
 
 ----------
 
@@ -150,9 +150,9 @@
 ----------
 ----------
 
-[/us/pl/96/43/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs11
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 [/us/stat/93/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F332
-[/us/pl/93/619/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2Fs101
+[/us/pl/93/619/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2FtI
 [/us/stat/88/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2076
 
 

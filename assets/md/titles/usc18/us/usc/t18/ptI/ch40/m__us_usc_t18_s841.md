@@ -71,7 +71,7 @@
 
     The term “Indian tribe” has the meaning given the term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 479a][/us/usc/t25/s479a])). <sup>\[2\]</sup>  <sup><sup> 2 So in original. The second closing parenthesis probably should not appear. </sup></sup> 
 
-(Added [Pub. L. 91–452, title XI, § 1102(a)][/us/pl/91/452/s1102/a], Oct. 15, 1970, [84 Stat. 952][/us/stat/84/952]; amended [Pub. L. 104–132, title VI, § 602][/us/pl/104/132/s602], Apr. 24, 1996, [110 Stat. 1288][/us/stat/110/1288]; [Pub. L. 107–296, title XI][/us/pl/107/296], §§ 1112(e)(1), (3), 1122(a), Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276], 2280; [Pub. L. 111–211, title II, § 236(b)][/us/pl/111/211/s236/b], July 29, 2010, [124 Stat. 2286][/us/stat/124/2286].)
+(Added [Pub. L. 91–452, title XI][/us/pl/91/452/tXI], § 1102(a), Oct. 15, 1970, [84 Stat. 952][/us/stat/84/952]; amended [Pub. L. 104–132, title VI][/us/pl/104/132/tVI], § 602, Apr. 24, 1996, [110 Stat. 1288][/us/stat/110/1288]; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], §§ 1112(e)(1), (3), 1122(a), Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276], 2280; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 236(b), July 29, 2010, [124 Stat. 2286][/us/stat/124/2286].)
 
  __References in Text__ 
 
@@ -81,17 +81,17 @@
 
     2010—Subsec. (t). [Pub. L. 111–211][/us/pl/111/211] added subsec. (t).
 
-    2002—Subsec. (d). [Pub. L. 107–296, § 1112(e)(3)][/us/pl/107/296/s1112/e/3], substituted “Attorney General” for “Secretary”.
+    2002—Subsec. (d). [Pub. L. 107–296][/us/pl/107/296], § 1112(e)(3), substituted “Attorney General” for “Secretary”.
 
-    Subsec. (j). [Pub. L. 107–296, § 1122(a)(1)][/us/pl/107/296/s1122/a/1], added subsec. (j) and struck out former subsec. (j) which read as follows: “ ‘Permittee’ means any user of explosives for a lawful purpose, who has obtained a user permit under the provisions of this chapter.”
+    Subsec. (j). [Pub. L. 107–296][/us/pl/107/296], § 1122(a)(1), added subsec. (j) and struck out former subsec. (j) which read as follows: “ ‘Permittee’ means any user of explosives for a lawful purpose, who has obtained a user permit under the provisions of this chapter.”
 
-    Subsec. (k). [Pub. L. 107–296, § 1112(e)(1)][/us/pl/107/296/s1112/e/1], added subsec. (k) and struck out former subsec. (k) which read as follows: “ ‘Secretary’ means the Secretary of the Treasury or his delegate.”
+    Subsec. (k). [Pub. L. 107–296][/us/pl/107/296], § 1112(e)(1), added subsec. (k) and struck out former subsec. (k) which read as follows: “ ‘Secretary’ means the Secretary of the Treasury or his delegate.”
 
-    Subsec. (l). [Pub. L. 107–296, § 1112(e)(3)][/us/pl/107/296/s1112/e/3], substituted “Attorney General” for “Secretary”.
+    Subsec. (l). [Pub. L. 107–296][/us/pl/107/296], § 1112(e)(3), substituted “Attorney General” for “Secretary”.
 
-    Subsec. (p)(5). [Pub. L. 107–296, § 1112(e)(3)][/us/pl/107/296/s1112/e/3], which directed amendment of par. (5) by substituting “Attorney General” for “Secretary” wherever appearing, was executed by making the substitution the first place appearing to reflect the probable intent of Congress.
+    Subsec. (p)(5). [Pub. L. 107–296][/us/pl/107/296], § 1112(e)(3), which directed amendment of par. (5) by substituting “Attorney General” for “Secretary” wherever appearing, was executed by making the substitution the first place appearing to reflect the probable intent of Congress.
 
-    Subsecs. (r), (s). [Pub. L. 107–296, § 1122(a)(2)][/us/pl/107/296/s1122/a/2], added subsecs. (r) and (s).
+    Subsecs. (r), (s). [Pub. L. 107–296][/us/pl/107/296], § 1122(a)(2), added subsecs. (r) and (s).
 
     1996—Subsecs. (o) to (q). [Pub. L. 104–132][/us/pl/104/132] added subsecs. (o) to (q).
 
@@ -103,13 +103,13 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–132, title VI, § 607][/us/pl/104/132/s607], Apr. 24, 1996, [110 Stat. 1290][/us/stat/110/1290], provided that: 
+[Pub. L. 104–132, title VI][/us/pl/104/132/tVI], § 607, Apr. 24, 1996, [110 Stat. 1290][/us/stat/110/1290], provided that: 
 
 > “Except as otherwise provided in this title \[amending this section, sections 842, 844, and 845 of this title, and [section 1595a of Title 19][/us/usc/t19/s1595a], Customs Duties, and enacting provisions set out as a note below\], this title and the amendments made by this title shall take effect 1 year after the date of enactment of this Act \[Apr. 24, 1996\].”
 
  __Effective Date__ 
 
-[Pub. L. 91–452, title XI, § 1105(a)][/us/pl/91/452/s1105/a], (b), Oct. 15, 1970, [84 Stat. 959][/us/stat/84/959], provided that:
+[Pub. L. 91–452, title XI][/us/pl/91/452/tXI], § 1105(a), (b), Oct. 15, 1970, [84 Stat. 959][/us/stat/84/959], provided that:
 
 >     “(a) Except as provided in subsection (b), the provisions of chapter 40 of title 18, United States Code, as enacted by [section 1102 of this title][/us/usc/t18/s1102] shall take effect one hundred and twenty days after the date of enactment of this Act \[Oct. 15, 1970\].
 
@@ -117,25 +117,25 @@
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–296, title XI, § 1121][/us/pl/107/296/s1121], Nov. 25, 2002, [116 Stat. 2280][/us/stat/116/2280], provided that: 
+[Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1121, Nov. 25, 2002, [116 Stat. 2280][/us/stat/116/2280], provided that: 
 
 > “This subtitle \[subtitle C (§§ 1121–1128) of title XI of [Pub. L. 107–296][/us/pl/107/296], amending this section and sections 842 to 845 of this title and enacting provisions set out as a note under [section 843 of this title][/us/usc/t18/s843]\] may be referred to as the ‘Safe Explosives Act’.”
 
  __Short Title of 1982 Amendment__ 
 
-[Pub. L. 97–298, § 1][/us/pl/97/298/s1], Oct. 12, 1982, [96 Stat. 1319][/us/stat/96/1319], provided: 
+[Pub. L. 97–298][/us/pl/97/298], § 1, Oct. 12, 1982, [96 Stat. 1319][/us/stat/96/1319], provided: 
 
 > “That this Act \[amending [section 844 of this title][/us/usc/t18/s844]\] may be cited as the ‘Anti-Arson Act of 1982’.”
 
  __Short Title of 1975 Amendment__ 
 
-[Pub. L. 93–639, § 1][/us/pl/93/639/s1], Jan. 4, 1975, [88 Stat. 2217][/us/stat/88/2217], provided: 
+[Pub. L. 93–639][/us/pl/93/639], § 1, Jan. 4, 1975, [88 Stat. 2217][/us/stat/88/2217], provided: 
 
 > “That this Act \[amending sections 845 and 921 of this title\] may be cited as ‘Amendments of 1973 to Federal Law Relating to Explosives’.”
 
  __Findings and Purposes of Title VI of Pub. L. 104–132__ 
 
-[Pub. L. 104–132, title VI, § 601][/us/pl/104/132/s601], Apr. 24, 1996, [110 Stat. 1287][/us/stat/110/1287], provided that:
+[Pub. L. 104–132, title VI][/us/pl/104/132/tVI], § 601, Apr. 24, 1996, [110 Stat. 1287][/us/stat/110/1287], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -157,17 +157,17 @@
 
  __Marking, Rendering Inert, and Licensing of Explosive Materials__ 
 
-    [Pub. L. 104–132, title VII, § 732][/us/pl/104/132/s732], Apr. 24, 1996, [110 Stat. 1303][/us/stat/110/1303], as amended by [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title I, § 113\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–21; [Pub. L. 105–61, title I][/us/pl/105/61], Oct. 10, 1997, [111 Stat. 1272][/us/stat/111/1272], required study by the Secretary of the Treasury of the marking, rendering inert, and licensing of explosive materials not later than 12 months after Apr. 24, 1996, report to Congress on results and recommendations, hearings by Congress to review study results, promulgation of regulations, and special study on the tagging of smokeless and black powder and report two years after Sept. 30, 1996.
+    [Pub. L. 104–132, title VII][/us/pl/104/132/tVII], § 732, Apr. 24, 1996, [110 Stat. 1303][/us/stat/110/1303], as amended by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title I, § 113\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–21; [Pub. L. 105–61, title I][/us/pl/105/61/tI], Oct. 10, 1997, [111 Stat. 1272][/us/stat/111/1272], required study by the Secretary of the Treasury of the marking, rendering inert, and licensing of explosive materials not later than 12 months after Apr. 24, 1996, report to Congress on results and recommendations, hearings by Congress to review study results, promulgation of regulations, and special study on the tagging of smokeless and black powder and report two years after Sept. 30, 1996.
 
  __Congressional Declaration of Purpose__ 
 
-[Pub. L. 91–452, title XI, § 1101][/us/pl/91/452/s1101], Oct. 15, 1970, [84 Stat. 952][/us/stat/84/952], provided that: 
+[Pub. L. 91–452, title XI][/us/pl/91/452/tXI], § 1101, Oct. 15, 1970, [84 Stat. 952][/us/stat/84/952], provided that: 
 
 > “The Congress hereby declares that the purpose of this title \[enacting this chapter amending [section 2516 of this title][/us/usc/t18/s2516], repealing [section 837 of this title][/us/usc/t18/s837] and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set out as notes under this section\] is to protect interstate and foreign commerce against interference and interruption by reducing the hazard to persons and property arising from misuse and unsafe or insecure storage of explosive materials. It is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, storage, or use of explosive materials for industrial, mining, agricultural, or other lawful purposes, or to provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title.”
 
  __Modification of Other Provisions__ 
 
-[Pub. L. 91–452, title XI, § 1104][/us/pl/91/452/s1104], Oct. 15, 1970, [84 Stat. 959][/us/stat/84/959], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 91–452, title XI][/us/pl/91/452/tXI], § 1104, Oct. 15, 1970, [84 Stat. 959][/us/stat/84/959], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “Nothing in this title \[enacting this chapter, amending [section 2516 of this title][/us/usc/t18/s2516], repealing [section 837 of this title][/us/usc/t18/s837] and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set out as notes under this section\] shall be construed as modifying or affecting any provision of—
 
@@ -183,13 +183,13 @@
 
  __Continuation in Business or Operation of Any Person Engaged in Business or Operation on__  __October 15, 1970__ 
 
-[Pub. L. 91–452, title XI, § 1105(c)][/us/pl/91/452/s1105/c], Oct. 15, 1970, [84 Stat. 960][/us/stat/84/960], provided that: 
+[Pub. L. 91–452, title XI][/us/pl/91/452/tXI], § 1105(c), Oct. 15, 1970, [84 Stat. 960][/us/stat/84/960], provided that: 
 
 > “Any person (as defined in [section 841(a) of title 18][/us/usc/t18/s841/a], United States Code) engaging in a business or operation requiring a license or permit under the provisions of chapter 40 of such title 18, who was engaged in such business or operation on the date of enactment of this Act \[Oct. 15, 1970\] and who has filed an application for a license or permit under the provisions of section 843 of such chapter 40 prior to the effective date of such section 843 \[see Effective Date note set out above\] may continue such business or operation pending final action on his application. All provisions of such chapter 40 shall apply to such applicant in the same manner and to the same extent as if he were a holder of a license or permit under such chapter 40.”
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 91–452, title XI, § 1107][/us/pl/91/452/s1107], Oct. 15, 1970, [84 Stat. 960][/us/stat/84/960], provided that: 
+[Pub. L. 91–452, title XI][/us/pl/91/452/tXI], § 1107, Oct. 15, 1970, [84 Stat. 960][/us/stat/84/960], provided that: 
 
 > “There are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this title \[enacting this chapter, amending [section 2516 of this title][/us/usc/t18/s2516], repealing [section 837 of this title][/us/usc/t18/s837] and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set as notes under this section\].”
 
@@ -203,22 +203,22 @@
 [/us/usc/t18/s844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs844
 [/us/usc/t18/s844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs844
 [/us/usc/t25/s479a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs479a
-[/us/pl/91/452/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs1102%2Fa
+[/us/pl/91/452/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtXI
 [/us/stat/84/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F952
-[/us/pl/104/132/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs602
+[/us/pl/104/132/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVI
 [/us/stat/110/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1288
-[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2276
-[/us/pl/111/211/s236/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs236%2Fb
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2286
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
-[/us/pl/107/296/s1112/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fe%2F3
-[/us/pl/107/296/s1122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1122%2Fa%2F1
-[/us/pl/107/296/s1112/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fe%2F1
-[/us/pl/107/296/s1112/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fe%2F3
-[/us/pl/107/296/s1112/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fe%2F3
-[/us/pl/107/296/s1122/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1122%2Fa%2F2
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
@@ -226,47 +226,47 @@
 [/us/pl/107/296/s1122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1122%2Fa
 [/us/pl/107/296/s1122/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1122%2Fi
 [/us/usc/t18/s843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs843
-[/us/pl/104/132/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs607
+[/us/pl/104/132/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVI
 [/us/stat/110/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1290
 [/us/usc/t19/s1595a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1595a
-[/us/pl/91/452/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs1105%2Fa
+[/us/pl/91/452/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtXI
 [/us/stat/84/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F959
 [/us/usc/t18/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1102
 [/us/usc/t18/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1102
-[/us/pl/107/296/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1121
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2280
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/usc/t18/s843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs843
-[/us/pl/97/298/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F298%2Fs1
+[/us/pl/97/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F298
 [/us/stat/96/1319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1319
 [/us/usc/t18/s844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs844
-[/us/pl/93/639/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F639%2Fs1
+[/us/pl/93/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F639
 [/us/stat/88/2217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2217
-[/us/pl/104/132/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs601
+[/us/pl/104/132/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVI
 [/us/stat/110/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1287
 [/us/usc/t19/s1595a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1595a
-[/us/pl/104/132/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs732
+[/us/pl/104/132/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVII
 [/us/stat/110/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1303
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/105/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61
+[/us/pl/105/61/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtI
 [/us/stat/111/1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1272
-[/us/pl/91/452/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs1101
+[/us/pl/91/452/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtXI
 [/us/stat/84/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F952
 [/us/usc/t18/s2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2516
 [/us/usc/t18/s837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs837
-[/us/pl/91/452/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs1104
+[/us/pl/91/452/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtXI
 [/us/stat/84/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F959
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t18/s2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2516
 [/us/usc/t18/s837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs837
 [/us/usc/t22/s1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1934
 [/us/usc/t18/s1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1716
-[/us/pl/91/452/s1105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs1105%2Fc
+[/us/pl/91/452/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtXI
 [/us/stat/84/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F960
 [/us/usc/t18/s841/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs841%2Fa
-[/us/pl/91/452/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs1107
+[/us/pl/91/452/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtXI
 [/us/stat/84/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F960
 [/us/usc/t18/s2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2516
 [/us/usc/t18/s837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs837

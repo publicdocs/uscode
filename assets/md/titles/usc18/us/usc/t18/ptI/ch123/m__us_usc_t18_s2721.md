@@ -73,7 +73,7 @@
 
     No State may condition or burden in any way the issuance of an individual’s motor vehicle record as defined in [18 U.S.C. 2725(1)][/us/usc/t18/s2725/1] to obtain express consent. Nothing in this paragraph shall be construed to prohibit a State from charging an administrative fee for issuance of a motor vehicle record.
 
-(Added [Pub. L. 103–322, title XXX, § 300002(a)][/us/pl/103/322/s300002/a], Sept. 13, 1994, [108 Stat. 2099][/us/stat/108/2099]; amended [Pub. L. 104–287, § 1][/us/pl/104/287/s1], Oct. 11, 1996, [110 Stat. 3388][/us/stat/110/3388]; [Pub. L. 104–294, title VI, § 604(b)(46)][/us/pl/104/294/s604/b/46], Oct. 11, 1996, [110 Stat. 3509][/us/stat/110/3509]; [Pub. L. 106–69, title III, § 350(c)][/us/pl/106/69/s350/c], (d), Oct. 9, 1999, [113 Stat. 1025][/us/stat/113/1025]; [Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title III, § 309(c)–(e)\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–24.)
+(Added [Pub. L. 103–322, title XXX][/us/pl/103/322/tXXX], § 300002(a), Sept. 13, 1994, [108 Stat. 2099][/us/stat/108/2099]; amended [Pub. L. 104–287][/us/pl/104/287], § 1, Oct. 11, 1996, [110 Stat. 3388][/us/stat/110/3388]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(46), Oct. 11, 1996, [110 Stat. 3509][/us/stat/110/3509]; [Pub. L. 106–69, title III][/us/pl/106/69/tIII], § 350(c), (d), Oct. 9, 1999, [113 Stat. 1025][/us/stat/113/1025]; [Pub. L. 106–346][/us/pl/106/346], § 101(a) \[title III, § 309(c)–(e)\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–24.)
 
  __References in Text__ 
 
@@ -85,29 +85,29 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title III, § 309(c)\], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in subsection (b), a State department of motor vehicles, and any officer, employee, or contractor, thereof, shall not knowingly disclose or otherwise make available to any person or entity personal information about any individual obtained by the department in connection with a motor vehicle record.”
+    2000—Subsec. (a). [Pub. L. 106–346][/us/pl/106/346], § 101(a) \[title III, § 309(c)\], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in subsection (b), a State department of motor vehicles, and any officer, employee, or contractor, thereof, shall not knowingly disclose or otherwise make available to any person or entity personal information about any individual obtained by the department in connection with a motor vehicle record.”
 
-    Subsec. (b). [Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title III, § 309(d)\], inserted “, subject to subsection (a)(2),” before “may be disclosed” in introductory provisions.
+    Subsec. (b). [Pub. L. 106–346][/us/pl/106/346], § 101(a) \[title III, § 309(d)\], inserted “, subject to subsection (a)(2),” before “may be disclosed” in introductory provisions.
 
-    Subsec. (e). [Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title III, § 309(e)\], added subsec. (e).
+    Subsec. (e). [Pub. L. 106–346][/us/pl/106/346], § 101(a) \[title III, § 309(e)\], added subsec. (e).
 
-    1999—Subsec. (b)(11). [Pub. L. 106–69, § 350(c)][/us/pl/106/69/s350/c], substituted “if the State has obtained the express consent of the person to whom such personal information pertains” for “if the motor vehicle department has provided in a clear and conspicuous manner on forms for issuance or renewal of operator’s permits, titles, registrations, or identification cards, notice that personal information collected by the department may be disclosed to any business or person, and has provided in a clear and conspicuous manner on such forms an opportunity to prohibit such disclosures”.
+    1999—Subsec. (b)(11). [Pub. L. 106–69][/us/pl/106/69], § 350(c), substituted “if the State has obtained the express consent of the person to whom such personal information pertains” for “if the motor vehicle department has provided in a clear and conspicuous manner on forms for issuance or renewal of operator’s permits, titles, registrations, or identification cards, notice that personal information collected by the department may be disclosed to any business or person, and has provided in a clear and conspicuous manner on such forms an opportunity to prohibit such disclosures”.
 
-    Subsec. (b)(12). [Pub. L. 106–69, § 350(d)][/us/pl/106/69/s350/d], substituted “if the State has obtained the express consent of the person to whom such personal information pertains” for “if the motor vehicle department has implemented methods and procedures to ensure that—
+    Subsec. (b)(12). [Pub. L. 106–69][/us/pl/106/69], § 350(d), substituted “if the State has obtained the express consent of the person to whom such personal information pertains” for “if the motor vehicle department has implemented methods and procedures to ensure that—
 
     “(A) individuals are provided an opportunity, in a clear and conspicuous manner, to prohibit such uses; and
 
     “(B) the information will be used, rented, or sold solely for bulk distribution for surveys, marketing, and solicitations, and that surveys, marketing, and solicitations will not be directed at those individuals who have requested in a timely fashion that they not be directed at them”.
 
-    1996—Subsec. (b). [Pub. L. 104–287, § 1(1)][/us/pl/104/287/s1/1], in introductory provisions, substituted “titles I and IV of the Anti Car Theft Act of 1992, the Automobile Information Disclosure Act ([15 U.S.C. 1231][/us/usc/t15/s1231] et seq.), the Clean Air Act ([42 U.S.C. 7401][/us/usc/t42/s7401] et seq.), and chapters 301, 305, and 321–331 of title 49” for “the Automobile Information Disclosure Act, the Motor Vehicle Information and Cost Saving Act, the National Traffic and Motor Vehicle Safety Act of 1966, the Anti-Car Theft Act of 1992, and the Clean Air Act”.
+    1996—Subsec. (b). [Pub. L. 104–287][/us/pl/104/287], § 1(1), in introductory provisions, substituted “titles I and IV of the Anti Car Theft Act of 1992, the Automobile Information Disclosure Act ([15 U.S.C. 1231][/us/usc/t15/s1231] et seq.), the Clean Air Act ([42 U.S.C. 7401][/us/usc/t42/s7401] et seq.), and chapters 301, 305, and 321–331 of title 49” for “the Automobile Information Disclosure Act, the Motor Vehicle Information and Cost Saving Act, the National Traffic and Motor Vehicle Safety Act of 1966, the Anti-Car Theft Act of 1992, and the Clean Air Act”.
 
-    Subsec. (b)(9). [Pub. L. 104–287, § 1(2)][/us/pl/104/287/s1/2], substituted “chapter 313 of title 49” for “the Commercial Motor Vehicle Safety Act of 1986 (49 U.S.C. App. 2710 et seq.)”.
+    Subsec. (b)(9). [Pub. L. 104–287][/us/pl/104/287], § 1(2), substituted “chapter 313 of title 49” for “the Commercial Motor Vehicle Safety Act of 1986 (49 U.S.C. App. 2710 et seq.)”.
 
     Subsec. (c). [Pub. L. 104–294][/us/pl/104/294] substituted “covered by this chapter” for “covered by this title”.
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–69, title III, § 350(g)(2)][/us/pl/106/69/s350/g/2], Oct. 9, 1999, [113 Stat. 1025][/us/stat/113/1025], provided that: 
+[Pub. L. 106–69, title III][/us/pl/106/69/tIII], § 350(g)(2), Oct. 9, 1999, [113 Stat. 1025][/us/stat/113/1025], provided that: 
 
 > “Subsections (b), (c), and (d) \[amending this section\] shall be effective on June 1, 2000, excluding the States of Arkansas, Montana, Nevada, North Dakota, Oregon, and Texas that shall be in compliance with subsections (b), (c), and (d) within 90 days of the next convening of the State legislature and excluding the States of Wisconsin, South Carolina, and Oklahoma that shall be in compliance within 90 days following the day of issuance of a final decision on Reno vs. Condon by the United States Supreme Court if the State legislature is in session, or within 90 days of the next convening of the State legislature following the issuance of such final decision if the State legislature is not in session.”
 
@@ -117,13 +117,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–322, title XXX, § 300003][/us/pl/103/322/s300003], Sept. 13, 1994, [108 Stat. 2102][/us/stat/108/2102], provided that: 
+[Pub. L. 103–322, title XXX][/us/pl/103/322/tXXX], § 300003, Sept. 13, 1994, [108 Stat. 2102][/us/stat/108/2102], provided that: 
 
 > “The amendments made by section 300002 \[enacting this chapter\] shall become effective on the date that is 3 years after the date of enactment of this Act \[Sept. 13, 1994\]. After the effective date, if a State has implemented a procedure under section 2721(b)(11) and (12) of title 18, United States Code, as added by section 2902 \[probably should be section “300002(a)”\], for prohibiting disclosures or uses of personal information, and the procedure otherwise meets the requirements of subsection (b)(11) and (12), the State shall be in compliance with subsection (b)(11) and (12) even if the procedure is not available to individuals until they renew their license, title, registration or identification card, so long as the State provides some other procedure for individuals to contact the State on their own initiative to prohibit such uses or disclosures. Prior to the effective date, personal information covered by the amendment made by section 300002 may be released consistent with State law or practice.”
 
  __Short Title__ 
 
-[Pub. L. 103–322, title XXX, § 300001][/us/pl/103/322/s300001], Sept. 13, 1994, [108 Stat. 2099][/us/stat/108/2099], provided that: 
+[Pub. L. 103–322, title XXX][/us/pl/103/322/tXXX], § 300001, Sept. 13, 1994, [108 Stat. 2099][/us/stat/108/2099], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Driver’s Privacy Protection Act of 1994’.”
 
@@ -143,15 +143,15 @@
 [/us/usc/t15/s1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1231
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t18/s2725/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2725%2F1
-[/us/pl/103/322/s300002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs300002%2Fa
+[/us/pl/103/322/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXX
 [/us/stat/108/2099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2099
-[/us/pl/104/287/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs1
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3388
-[/us/pl/104/294/s604/b/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F46
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3509
-[/us/pl/106/69/s350/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F69%2Fs350%2Fc
+[/us/pl/106/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F69%2FtIII
 [/us/stat/113/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1025
-[/us/pl/106/346/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346%2Fs101%2Fa
+[/us/pl/106/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346
 [/us/stat/114/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1356
 [/us/pl/102/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519
 [/us/stat/106/3384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3384
@@ -161,24 +161,24 @@
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/106/346/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346%2Fs101%2Fa
-[/us/pl/106/346/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346%2Fs101%2Fa
-[/us/pl/106/346/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346%2Fs101%2Fa
-[/us/pl/106/69/s350/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F69%2Fs350%2Fc
-[/us/pl/106/69/s350/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F69%2Fs350%2Fd
-[/us/pl/104/287/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs1%2F1
+[/us/pl/106/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346
+[/us/pl/106/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346
+[/us/pl/106/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346
+[/us/pl/106/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F69
+[/us/pl/106/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F69
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/usc/t15/s1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1231
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/104/287/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs1%2F2
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
-[/us/pl/106/69/s350/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F69%2Fs350%2Fg%2F2
+[/us/pl/106/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F69%2FtIII
 [/us/stat/113/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1025
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/104/294/s604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fd
 [/us/usc/t18/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs13
-[/us/pl/103/322/s300003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs300003
+[/us/pl/103/322/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXX
 [/us/stat/108/2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2102
-[/us/pl/103/322/s300001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs300001
+[/us/pl/103/322/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXX
 [/us/stat/108/2099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2099
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/104/208/s2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2421

@@ -29,7 +29,7 @@
 
     (c) Whoever, being (1) the owner of an American vessel, or (2) the owner of any vessel under or within the jurisdiction of the United States, or (3) the owner of any vessel and being an American citizen, shall use, or knowingly permit the use of, such vessel in violation of any provision of this section shall, in addition to any other penalties provided by this chapter, forfeit such vessel, together with her tackle, apparel, and furniture, to the United States.
 
-(Added [May 24, 1949, ch. 139, § 23][/us/act/1949-05-24/ch139/s23], [63 Stat. 92][/us/stat/63/92]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+(Added [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 23, [63 Stat. 92][/us/stat/63/92]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/act/1949-05-24/ch139/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs23
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F92
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

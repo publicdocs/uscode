@@ -17,11 +17,11 @@
 
     Whoever, being a farm credit examiner or any examiner, public or private, discloses the names of borrowers of any Federal land bank association or Federal land bank, or any organization examined by him under the provisions of law relating to Federal intermediate credit banks, to other than the proper officers of such institution or organization, without first having obtained express permission in writing from the Land Bank Commissioner or from the board of directors of such institution or organization, except when ordered to do so by a court of competent jurisdiction or by direction of the Congress of the United States or either House thereof, or any committee of Congress or either House duly authorized, shall be fined under this title or imprisoned not more than one year, or both; and shall be disqualified from holding office as a farm credit examiner.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 791][/us/stat/62/791]; [Pub. L. 86–168, title I, § 104(h)][/us/pl/86/168/s104/h], Aug. 18, 1959, [73 Stat. 387][/us/stat/73/387]; [Pub. L. 97–297, § 4(c)][/us/pl/97/297/s4/c], Oct. 12, 1982, [96 Stat. 1318][/us/stat/96/1318]; [Pub. L. 103–322, title XXXIII, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 791][/us/stat/62/791]; [Pub. L. 86–168, title I][/us/pl/86/168/tI], § 104(h), Aug. 18, 1959, [73 Stat. 387][/us/stat/73/387]; [Pub. L. 97–297][/us/pl/97/297], § 4(c), Oct. 12, 1982, [96 Stat. 1318][/us/stat/96/1318]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(K), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on sections 983 and 1124 of title 12, U.S.C., 1940 ed., Banks and Banking ([July 17, 1916, ch. 245, § 31][/us/act/1916-07-17/ch245/s31] \[third and fourth sentences of third paragraph\], [39 Stat. 383][/us/stat/39/383]; [July 17, 1916, ch. 245, § 211(d)][/us/act/1916-07-17/ch245/s211/d] \[part of first sentence\], as added [Mar. 4, 1923, ch. 252, § 2][/us/act/1923-03-04/ch252/s2], [42 Stat. 1460][/us/stat/42/1460]; [June 16, 1933, ch. 98, § 80(a)][/us/act/1933-06-16/ch98/s80/a], [48 Stat. 273][/us/stat/48/273]).
+    Based on sections 983 and 1124 of title 12, U.S.C., 1940 ed., Banks and Banking ([July 17, 1916, ch. 245][/us/act/1916-07-17/ch245], § 31 \[third and fourth sentences of third paragraph\], [39 Stat. 383][/us/stat/39/383]; [July 17, 1916, ch. 245][/us/act/1916-07-17/ch245], § 211(d) \[part of first sentence\], as added [Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], § 2, [42 Stat. 1460][/us/stat/42/1460]; [June 16, 1933, ch. 98][/us/act/1933-06-16/ch98], § 80(a), [48 Stat. 273][/us/stat/48/273]).
 
     [Section 983 of title 12][/us/usc/t12/s983], U.S.C., 1940 ed., Banks and Banking, does not include the term “farm credit examiner,” as used in this section, but it relates thereto as is indicated by sections 951 and 952 of said title.
 
@@ -62,18 +62,18 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F791
-[/us/pl/86/168/s104/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F168%2Fs104%2Fh
+[/us/pl/86/168/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F168%2FtI
 [/us/stat/73/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F387
-[/us/pl/97/297/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F297%2Fs4%2Fc
+[/us/pl/97/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F297
 [/us/stat/96/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1318
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/act/1916-07-17/ch245/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-17%2Fch245%2Fs31
+[/us/act/1916-07-17/ch245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-17%2Fch245
 [/us/stat/39/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F383
-[/us/act/1916-07-17/ch245/s211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-17%2Fch245%2Fs211%2Fd
-[/us/act/1923-03-04/ch252/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch252%2Fs2
+[/us/act/1916-07-17/ch245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-17%2Fch245
+[/us/act/1923-03-04/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch252
 [/us/stat/42/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1460
-[/us/act/1933-06-16/ch98/s80/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch98%2Fs80%2Fa
+[/us/act/1933-06-16/ch98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch98
 [/us/stat/48/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F273
 [/us/usc/t12/s983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs983
 [/us/usc/t12/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1124

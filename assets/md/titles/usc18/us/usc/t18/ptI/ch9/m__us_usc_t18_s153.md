@@ -23,11 +23,11 @@
 
     A person described in this subsection is one who has access to property or documents belonging to an estate by virtue of the person’s participation in the administration of the estate as a trustee, custodian, marshal, attorney, or other officer of the court or as an agent, employee, or other person engaged by such an officer to perform a service with respect to the estate.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 690][/us/stat/62/690]; [Pub. L. 95–598, title III, § 314(a)(1)][/us/pl/95/598/s314/a/1], (d)(1), (2), Nov. 6, 1978, [92 Stat. 2676][/us/stat/92/2676], 2677; [Pub. L. 103–322, title XXXIII, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 103–394, title III, § 312(a)(1)(A)][/us/pl/103/394/s312/a/1/A], Oct. 22, 1994, [108 Stat. 4139][/us/stat/108/4139]; [Pub. L. 104–294, title VI, § 601(a)(1)][/us/pl/104/294/s601/a/1], Oct. 11, 1996, [110 Stat. 3497][/us/stat/110/3497].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 690][/us/stat/62/690]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 314(a)(1), (d)(1), (2), Nov. 6, 1978, [92 Stat. 2676][/us/stat/92/2676], 2677; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(K), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 103–394, title III][/us/pl/103/394/tIII], § 312(a)(1)(A), Oct. 22, 1994, [108 Stat. 4139][/us/stat/108/4139]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(a)(1), Oct. 11, 1996, [110 Stat. 3497][/us/stat/110/3497].)
 
  __Historical and Revision Notes__ 
 
-    Based on [section 52(a) of title 11][/us/usc/t11/s52/a], U.S.C., 1940 ed., Bankruptcy ([July 1, 1898, ch. 541, § 29a][/us/act/1898-07-01/ch541/s29a], [30 Stat. 554][/us/stat/30/554]; [May 27, 1926, ch. 406, § 11][/us/act/1926-05-27/ch406/s11] (part), [44 Stat. 665][/us/stat/44/665]; [June 22, 1938, ch. 575, § 1][/us/act/1938-06-22/ch575/s1] (part), [52 Stat. 855][/us/stat/52/855]).
+    Based on [section 52(a) of title 11][/us/usc/t11/s52/a], U.S.C., 1940 ed., Bankruptcy ([July 1, 1898, ch. 541][/us/act/1898-07-01/ch541], § 29a, [30 Stat. 554][/us/stat/30/554]; [May 27, 1926, ch. 406][/us/act/1926-05-27/ch406], § 11 (part), [44 Stat. 665][/us/stat/44/665]; [June 22, 1938, ch. 575][/us/act/1938-06-22/ch575], § 1 (part), [52 Stat. 855][/us/stat/52/855]).
 
     Minor changes were made in phraseology.
 
@@ -62,20 +62,20 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F690
-[/us/pl/95/598/s314/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs314%2Fa%2F1
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2676
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/103/394/s312/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs312%2Fa%2F1%2FA
+[/us/pl/103/394/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtIII
 [/us/stat/108/4139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4139
-[/us/pl/104/294/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fa%2F1
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3497
 [/us/usc/t11/s52/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs52%2Fa
-[/us/act/1898-07-01/ch541/s29a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch541%2Fs29a
+[/us/act/1898-07-01/ch541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch541
 [/us/stat/30/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F554
-[/us/act/1926-05-27/ch406/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-27%2Fch406%2Fs11
+[/us/act/1926-05-27/ch406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-27%2Fch406
 [/us/stat/44/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F665
-[/us/act/1938-06-22/ch575/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-22%2Fch575%2Fs1
+[/us/act/1938-06-22/ch575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-22%2Fch575
 [/us/stat/52/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F855
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394

@@ -41,7 +41,7 @@
 
     (d) Whoever violates this section shall be fined under this title, imprisoned not more than 20 years, or both. If death results from a violation of this section, or if the violation includes kidnaping, an attempt to kidnap, aggravated sexual abuse, or an attempt to kill, the defendant shall be fined under this title, imprisoned for any term of years or life, or both.
 
-(Added [Pub. L. 106–386, div. A, § 112(a)(2)][/us/pl/106/386/s112/a/2], Oct. 28, 2000, [114 Stat. 1486][/us/stat/114/1486]; amended [Pub. L. 110–457, title II, § 222(b)(3)][/us/pl/110/457/s222/b/3], Dec. 23, 2008, [122 Stat. 5068][/us/stat/122/5068].)
+(Added [Pub. L. 106–386, div. A][/us/pl/106/386/dA], § 112(a)(2), Oct. 28, 2000, [114 Stat. 1486][/us/stat/114/1486]; amended [Pub. L. 110–457, title II][/us/pl/110/457/tII], § 222(b)(3), Dec. 23, 2008, [122 Stat. 5068][/us/stat/122/5068].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/106/386/s112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs112%2Fa%2F2
+[/us/pl/106/386/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdA
 [/us/stat/114/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1486
-[/us/pl/110/457/s222/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs222%2Fb%2F3
+[/us/pl/110/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtII
 [/us/stat/122/5068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5068
 [/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
 

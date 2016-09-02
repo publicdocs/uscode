@@ -33,7 +33,7 @@
 
     (e) If the chief judge of the district court concludes that the need for suspension of time limits in such district under this section is of great urgency, he may order the limits suspended for a period not to exceed thirty days. Within ten days of entry of such order, the chief judge shall apply to the judicial council of the circuit for a suspension pursuant to subsection (a).
 
-(Added [Pub. L. 93–619, title I, § 101][/us/pl/93/619/s101], Jan. 3, 1975, [88 Stat. 2085][/us/stat/88/2085]; amended [Pub. L. 96–43, § 10][/us/pl/96/43/s10], Aug. 2, 1979, [93 Stat. 331][/us/stat/93/331].)
+(Added [Pub. L. 93–619, title I][/us/pl/93/619/tI], § 101, Jan. 3, 1975, [88 Stat. 2085][/us/stat/88/2085]; amended [Pub. L. 96–43][/us/pl/96/43], § 10, Aug. 2, 1979, [93 Stat. 331][/us/stat/93/331].)
 
  __References in Text__ 
 
@@ -41,15 +41,15 @@
 
  __Amendments__ 
 
-    1979—[Pub. L. 96–43, § 10(6)][/us/pl/96/43/s10/6], inserted “and implementation” in section catchline.
+    1979—[Pub. L. 96–43][/us/pl/96/43], § 10(6), inserted “and implementation” in section catchline.
 
-    Subsec. (a). [Pub. L. 96–43, § 10(1)][/us/pl/96/43/s10/1], inserted “as provided by subsection (b)”.
+    Subsec. (a). [Pub. L. 96–43][/us/pl/96/43], § 10(1), inserted “as provided by subsection (b)”.
 
-    Subsec. (b). [Pub. L. 96–43, § 10(2)][/us/pl/96/43/s10/2], (3), substituted provisions authorizing the circuit judicial council, upon application of the chief judge of a district, to grant a suspension of the time limits prescribed by [section 3161(c) of this title][/us/usc/t18/s3161/c] for provisions requiring such circuit council to apply to the Judicial Council of the United States for a suspension of such time limits and substituted provision placing a one hundred and eighty day limit on any time increase from indictment to trial for provision placing such limit for any increase from arraignment to trial.
+    Subsec. (b). [Pub. L. 96–43][/us/pl/96/43], § 10(2), (3), substituted provisions authorizing the circuit judicial council, upon application of the chief judge of a district, to grant a suspension of the time limits prescribed by [section 3161(c) of this title][/us/usc/t18/s3161/c] for provisions requiring such circuit council to apply to the Judicial Council of the United States for a suspension of such time limits and substituted provision placing a one hundred and eighty day limit on any time increase from indictment to trial for provision placing such limit for any increase from arraignment to trial.
 
-    Subsec. (c). [Pub. L. 96–43, § 10(4)][/us/pl/96/43/s10/4], substituted provisions authorizing the chief judge of any district, with the approval of the planning group convened in such district, to apply to the circuit council to implement the provisions of [section 3162 of this title][/us/usc/t18/s3162] at any time prior to the date the sanctions prescribed therein were to become effective, so long as there was concurrence that the district was prepared to fully implement the provisions of such section for provisions specifying the reporting requirements of this chapter, assuring involvement of the Congress in the suspension process, and guaranteeing that there be an interval of at least six months between consecutive suspension periods. See subsec. (d) of this section.
+    Subsec. (c). [Pub. L. 96–43][/us/pl/96/43], § 10(4), substituted provisions authorizing the chief judge of any district, with the approval of the planning group convened in such district, to apply to the circuit council to implement the provisions of [section 3162 of this title][/us/usc/t18/s3162] at any time prior to the date the sanctions prescribed therein were to become effective, so long as there was concurrence that the district was prepared to fully implement the provisions of such section for provisions specifying the reporting requirements of this chapter, assuring involvement of the Congress in the suspension process, and guaranteeing that there be an interval of at least six months between consecutive suspension periods. See subsec. (d) of this section.
 
-    Subsecs. (d), (e). [Pub. L. 96–43, § 10(5)][/us/pl/96/43/s10/5], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 96–43][/us/pl/96/43], § 10(5), added subsecs. (d) and (e).
 
 ----------
 
@@ -58,17 +58,17 @@
 ----------
 ----------
 
-[/us/pl/93/619/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2Fs101
+[/us/pl/93/619/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2FtI
 [/us/stat/88/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2085
-[/us/pl/96/43/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs10
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 [/us/stat/93/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F331
 [/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
-[/us/pl/96/43/s10/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs10%2F6
-[/us/pl/96/43/s10/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs10%2F1
-[/us/pl/96/43/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs10%2F2
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 [/us/usc/t18/s3161/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3161%2Fc
-[/us/pl/96/43/s10/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs10%2F4
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 [/us/usc/t18/s3162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3162
-[/us/pl/96/43/s10/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs10%2F5
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 
 

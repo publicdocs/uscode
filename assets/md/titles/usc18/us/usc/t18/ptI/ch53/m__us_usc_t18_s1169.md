@@ -93,15 +93,15 @@
 
     (d) Any person making a report described in subsection (a) which is based upon their reasonable belief and which is made in good faith shall be immune from civil or criminal liability for making that report.
 
-(Added [Pub. L. 101–630, title IV, § 404(a)(1)][/us/pl/101/630/s404/a/1], Nov. 28, 1990, [104 Stat. 4547][/us/stat/104/4547]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322], §§ 330011(d), 330016(1)(K), Sept. 13, 1994, [108 Stat. 2144][/us/stat/108/2144], 2147; [Pub. L. 104–294, title VI, § 604(b)(25)][/us/pl/104/294/s604/b/25], Oct. 11, 1996, [110 Stat. 3508][/us/stat/110/3508].)
+(Added [Pub. L. 101–630, title IV][/us/pl/101/630/tIV], § 404(a)(1), Nov. 28, 1990, [104 Stat. 4547][/us/stat/104/4547]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], §§ 330011(d), 330016(1)(K), Sept. 13, 1994, [108 Stat. 2144][/us/stat/108/2144], 2147; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(25), Oct. 11, 1996, [110 Stat. 3508][/us/stat/110/3508].)
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–294][/us/pl/104/294] amended directory language of [Pub. L. 103–322, § 330011(d)][/us/pl/103/322/s330011/d]. See 1994 Amendment note below.
+    1996—[Pub. L. 104–294][/us/pl/104/294] amended directory language of [Pub. L. 103–322][/us/pl/103/322], § 330011(d). See 1994 Amendment note below.
 
-    1994—[Pub. L. 103–322, § 330011(d)][/us/pl/103/322/s330011/d], as amended by [Pub. L. 104–294][/us/pl/104/294], amended directory language of [Pub. L. 101–630, § 404(a)(1)][/us/pl/101/630/s404/a/1], which enacted this section.
+    1994—[Pub. L. 103–322][/us/pl/103/322], § 330011(d), as amended by [Pub. L. 104–294][/us/pl/104/294], amended directory language of [Pub. L. 101–630][/us/pl/101/630], § 404(a)(1), which enacted this section.
 
-    Subsecs. (a), (b). [Pub. L. 103–322, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], substituted “fined under this title” for “fined not more than $5,000” in concluding provisions.
+    Subsecs. (a), (b). [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in concluding provisions.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -109,7 +109,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–322, title XXXIII, § 330011(d)][/us/pl/103/322/s330011/d], Sept. 13, 1994, [108 Stat. 2144][/us/stat/108/2144], as amended by [Pub. L. 104–294, title VI, § 604(b)(25)][/us/pl/104/294/s604/b/25], Oct. 11, 1996, [110 Stat. 3508][/us/stat/110/3508], provided that the amendment made by section 330011(d) is effective on the date [section 404(a) of Pub. L. 101–630][/us/pl/101/630/s404/a] took effect.
+    [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330011(d), Sept. 13, 1994, [108 Stat. 2144][/us/stat/108/2144], as amended by [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(25), Oct. 11, 1996, [110 Stat. 3508][/us/stat/110/3508], provided that the amendment made by section 330011(d) is effective on the date [section 404(a) of Pub. L. 101–630][/us/pl/101/630/s404/a] took effect.
 
 ----------
 
@@ -118,24 +118,24 @@
 ----------
 ----------
 
-[/us/pl/101/630/s404/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs404%2Fa%2F1
+[/us/pl/101/630/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIV
 [/us/stat/104/4547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4547
-[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2144
-[/us/pl/104/294/s604/b/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F25
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3508
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
-[/us/pl/103/322/s330011/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Fd
-[/us/pl/103/322/s330011/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Fd
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
-[/us/pl/101/630/s404/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs404%2Fa%2F1
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/pl/101/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/104/294/s604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fd
 [/us/usc/t18/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs13
-[/us/pl/103/322/s330011/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Fd
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2144
-[/us/pl/104/294/s604/b/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F25
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3508
 [/us/pl/101/630/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2Fs404%2Fa
 

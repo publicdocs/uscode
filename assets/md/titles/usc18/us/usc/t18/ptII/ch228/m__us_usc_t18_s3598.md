@@ -17,7 +17,7 @@
 
     Notwithstanding sections 1152 and 1153, no person subject to the criminal jurisdiction of an Indian tribal government shall be subject to a capital sentence under this chapter for any offense the Federal jurisdiction for which is predicated solely on Indian country (as defined in [section 1151 of this title][/us/usc/t18/s1151]) and which has occurred within the boundaries of Indian country, unless the governing body of the tribe has elected that this chapter have effect over land and persons subject to its criminal jurisdiction.
 
-(Added [Pub. L. 103–322, title VI, § 60002(a)][/us/pl/103/322/s60002/a], Sept. 13, 1994, [108 Stat. 1968][/us/stat/108/1968].)
+(Added [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60002(a), Sept. 13, 1994, [108 Stat. 1968][/us/stat/108/1968].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151
-[/us/pl/103/322/s60002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60002%2Fa
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1968
 
 

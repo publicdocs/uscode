@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    1968—[Pub. L. 90–284, title X, § 1002(a)][/us/pl/90/284/s1002/a], Apr. 11, 1968, [82 Stat. 90][/us/stat/82/90], added chapter 12 and items 231 to 233.
+    1968—[Pub. L. 90–284, title X][/us/pl/90/284/tX], § 1002(a), Apr. 11, 1968, [82 Stat. 90][/us/stat/82/90], added chapter 12 and items 231 to 233.
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/90/284/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs1002%2Fa
+[/us/pl/90/284/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtX
 [/us/stat/82/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F90
 
 

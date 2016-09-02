@@ -85,7 +85,7 @@
 
     A fine or payment of restitution is in default if a payment is delinquent for more than 90 days. Notwithstanding any installment schedule, when a fine or payment of restitution is in default, the entire amount of the fine or restitution is due within 30 days after notification of the default, subject to the provisions of section 3613A.
 
-(Added [Pub. L. 98–473, title II, § 212(a)(2)][/us/pl/98/473/s212/a/2], Oct. 12, 1984, [98 Stat. 1995][/us/stat/98/1995]; amended [Pub. L. 100–185, § 7][/us/pl/100/185/s7], Dec. 11, 1987, [101 Stat. 1280][/us/stat/101/1280]; [Pub. L. 101–647, title XXXV, § 3587][/us/pl/101/647/s3587], Nov. 29, 1990, [104 Stat. 4930][/us/stat/104/4930]; [Pub. L. 103–322, title II, § 20403(a)][/us/pl/103/322/s20403/a], Sept. 13, 1994, [108 Stat. 1825][/us/stat/108/1825]; [Pub. L. 104–132, title II, § 207(b)][/us/pl/104/132/s207/b], Apr. 24, 1996, [110 Stat. 1236][/us/stat/110/1236].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(2), Oct. 12, 1984, [98 Stat. 1995][/us/stat/98/1995]; amended [Pub. L. 100–185][/us/pl/100/185], § 7, Dec. 11, 1987, [101 Stat. 1280][/us/stat/101/1280]; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3587, Nov. 29, 1990, [104 Stat. 4930][/us/stat/104/4930]; [Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20403(a), Sept. 13, 1994, [108 Stat. 1825][/us/stat/108/1825]; [Pub. L. 104–132, title II][/us/pl/104/132/tII], § 207(b), Apr. 24, 1996, [110 Stat. 1236][/us/stat/110/1236].)
 
  __References in Text__ 
 
@@ -97,17 +97,17 @@
 
  __Amendments__ 
 
-    1996—Subsec. (b). [Pub. L. 104–132, § 207(b)(1)][/us/pl/104/132/s207/b/1], inserted “other than the United States,” after “offense,”.
+    1996—Subsec. (b). [Pub. L. 104–132][/us/pl/104/132], § 207(b)(1), inserted “other than the United States,” after “offense,”.
 
-    Subsec. (d). [Pub. L. 104–132, § 207(b)(2)(A)][/us/pl/104/132/s207/b/2/A], (B), substituted “(1) A person sentenced to pay a fine or other monetary penalty, including restitution,” for “A person sentenced to pay a fine or other monetary penalty” and struck out at end “If the judgment permits other than immediate payment, the period provided for shall not exceed five years, excluding any period served by the defendant as imprisonment for the offense.”
+    Subsec. (d). [Pub. L. 104–132][/us/pl/104/132], § 207(b)(2)(A), (B), substituted “(1) A person sentenced to pay a fine or other monetary penalty, including restitution,” for “A person sentenced to pay a fine or other monetary penalty” and struck out at end “If the judgment permits other than immediate payment, the period provided for shall not exceed five years, excluding any period served by the defendant as imprisonment for the offense.”
 
-    Subsec. (d)(2), (3). [Pub. L. 104–132, § 207(b)(2)(C)][/us/pl/104/132/s207/b/2/C], added pars. (2) and (3).
+    Subsec. (d)(2), (3). [Pub. L. 104–132][/us/pl/104/132], § 207(b)(2)(C), added pars. (2) and (3).
 
-    Subsec. (f). [Pub. L. 104–132, § 207(b)(3)][/us/pl/104/132/s207/b/3], inserted “restitution” after “special assessment,”.
+    Subsec. (f). [Pub. L. 104–132][/us/pl/104/132], § 207(b)(3), inserted “restitution” after “special assessment,”.
 
-    Subsec. (h). [Pub. L. 104–132, § 207(b)(4)][/us/pl/104/132/s207/b/4], inserted “or payment of restitution” after “A fine”.
+    Subsec. (h). [Pub. L. 104–132][/us/pl/104/132], § 207(b)(4), inserted “or payment of restitution” after “A fine”.
 
-    Subsec. (i). [Pub. L. 104–132, § 207(b)(5)][/us/pl/104/132/s207/b/5], inserted “or payment of restitution” after “A fine” in first sentence and amended second sentence generally. Prior to amendment, second sentence read as follows: “When a fine is in default, the entire amount of the fine is due within 30 days after notification of the default, notwithstanding any installment schedule.”
+    Subsec. (i). [Pub. L. 104–132][/us/pl/104/132], § 207(b)(5), inserted “or payment of restitution” after “A fine” in first sentence and amended second sentence generally. Prior to amendment, second sentence read as follows: “When a fine is in default, the entire amount of the fine is due within 30 days after notification of the default, notwithstanding any installment schedule.”
 
     1994—Subsec. (a)(6) to (8). [Pub. L. 103–322][/us/pl/103/322] added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
@@ -130,23 +130,23 @@
 ----------
 ----------
 
-[/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1995
-[/us/pl/100/185/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185%2Fs7
+[/us/pl/100/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185
 [/us/stat/101/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1280
-[/us/pl/101/647/s3587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3587
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4930
-[/us/pl/103/322/s20403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20403%2Fa
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1825
-[/us/pl/104/132/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs207%2Fb
+[/us/pl/104/132/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtII
 [/us/stat/110/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1236
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
-[/us/pl/104/132/s207/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs207%2Fb%2F1
-[/us/pl/104/132/s207/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs207%2Fb%2F2%2FA
-[/us/pl/104/132/s207/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs207%2Fb%2F2%2FC
-[/us/pl/104/132/s207/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs207%2Fb%2F3
-[/us/pl/104/132/s207/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs207%2Fb%2F4
-[/us/pl/104/132/s207/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs207%2Fb%2F5
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/100/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185

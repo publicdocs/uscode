@@ -19,11 +19,11 @@
 
     If, however, the offense, the commission of which is the object of the conspiracy, is a misdemeanor only, the punishment for such conspiracy shall not exceed the maximum punishment provided for such misdemeanor.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 701][/us/stat/62/701]; [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 701][/us/stat/62/701]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., §§ 88, 294 ([Mar. 4, 1909, ch. 321, § 37][/us/act/1909-03-04/ch321/s37], [35 Stat. 1096][/us/stat/35/1096]; [Mar. 4, 1909, ch. 321, § 178a][/us/act/1909-03-04/ch321/s178a], as added [Sept. 27, 1944, ch. 425][/us/act/1944-09-27/ch425], [58 Stat. 752][/us/stat/58/752]).
+    Based on title 18, U.S.C., 1940 ed., §§ 88, 294 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 37, [35 Stat. 1096][/us/stat/35/1096]; [Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 178a, as added [Sept. 27, 1944, ch. 425][/us/act/1944-09-27/ch425], [58 Stat. 752][/us/stat/58/752]).
 
     This section consolidates said sections 88 and 294 of title 18, U.S.C., 1940 ed.
 
@@ -56,11 +56,11 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F701
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/act/1909-03-04/ch321/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs37
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1096
-[/us/act/1909-03-04/ch321/s178a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs178a
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/act/1944-09-27/ch425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-27%2Fch425
 [/us/stat/58/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F752
 [/us/usc/t18/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs6

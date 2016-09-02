@@ -63,7 +63,7 @@
 
         (11) section 208, 811, 1107(b), 1128B(a), or 1632 of the Social Security Act ([42 U.S.C. 408][/us/usc/t42/s408], 1011, 1307(b), 1320a–7b(a), and 1383a) (relating to false statements relating to programs under the Act).
 
-(Added [Pub. L. 108–275, § 2(a)][/us/pl/108/275/s2/a], July 15, 2004, [118 Stat. 831][/us/stat/118/831].)
+(Added [Pub. L. 108–275][/us/pl/108/275], § 2(a), July 15, 2004, [118 Stat. 831][/us/stat/118/831].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 [/us/usc/t8/s1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1253
 [/us/usc/t8/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1321
 [/us/usc/t42/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs408
-[/us/pl/108/275/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F275%2Fs2%2Fa
+[/us/pl/108/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F275
 [/us/stat/118/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F831
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163

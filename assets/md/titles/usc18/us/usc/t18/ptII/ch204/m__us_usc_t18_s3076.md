@@ -17,7 +17,7 @@
 
     Any individual (and the immediate family of such individual) who furnishes information which would justify a reward by the Attorney General under this chapter or by the Secretary of State under section 36 of the State Department Basic Authorities Act of 1956 may, in the discretion of the Attorney General, participate in the Attorney General’s witness security program authorized under chapter 224 of this title.
 
-(Added [Pub. L. 98–533, title I, § 101(a)][/us/pl/98/533/s101/a], Oct. 19, 1984, [98 Stat. 2707][/us/stat/98/2707]; amended [Pub. L. 99–646, § 45][/us/pl/99/646/s45], Nov. 10, 1986, [100 Stat. 3601][/us/stat/100/3601].)
+(Added [Pub. L. 98–533, title I][/us/pl/98/533/tI], § 101(a), Oct. 19, 1984, [98 Stat. 2707][/us/stat/98/2707]; amended [Pub. L. 99–646][/us/pl/99/646], § 45, Nov. 10, 1986, [100 Stat. 3601][/us/stat/100/3601].)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/98/533/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F533%2Fs101%2Fa
+[/us/pl/98/533/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F533%2FtI
 [/us/stat/98/2707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2707
-[/us/pl/99/646/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs45
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3601
 [/us/usc/t22/s2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2708
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646

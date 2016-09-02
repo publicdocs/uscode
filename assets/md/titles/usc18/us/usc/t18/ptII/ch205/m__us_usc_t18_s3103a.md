@@ -55,19 +55,19 @@
 
         The Director of the Administrative Office of the United States Courts, in consultation with the Attorney General, is authorized to issue binding regulations dealing with the content and form of the reports required to be filed under paragraph (1).
 
-(Added [Pub. L. 90–351, title IX, § 1401(a)][/us/pl/90/351/s1401/a], June 19, 1968, [82 Stat. 238][/us/stat/82/238]; amended [Pub. L. 107–56, title II, § 213][/us/pl/107/56/s213], Oct. 26, 2001, [115 Stat. 285][/us/stat/115/285]; [Pub. L. 109–177, title I, § 114][/us/pl/109/177/s114], Mar. 9, 2006, [120 Stat. 210][/us/stat/120/210].)
+(Added [Pub. L. 90–351, title IX][/us/pl/90/351/tIX], § 1401(a), June 19, 1968, [82 Stat. 238][/us/stat/82/238]; amended [Pub. L. 107–56, title II][/us/pl/107/56/tII], § 213, Oct. 26, 2001, [115 Stat. 285][/us/stat/115/285]; [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 114, Mar. 9, 2006, [120 Stat. 210][/us/stat/120/210].)
 
  __Codification__ 
 
-    [Pub. L. 90–351][/us/pl/90/351] enacted [section 3103a of this title][/us/usc/t18/s3103a] as part of chapter 204, and [Pub. L. 90–462, § 3][/us/pl/90/462/s3], Aug. 8, 1968, [82 Stat. 638][/us/stat/82/638], corrected the chapter designation from 204 to 205.
+    [Pub. L. 90–351][/us/pl/90/351] enacted [section 3103a of this title][/us/usc/t18/s3103a] as part of chapter 204, and [Pub. L. 90–462][/us/pl/90/462], § 3, Aug. 8, 1968, [82 Stat. 638][/us/stat/82/638], corrected the chapter designation from 204 to 205.
 
  __Amendments__ 
 
-    2006—Subsec. (b)(1). [Pub. L. 109–177, § 114(b)][/us/pl/109/177/s114/b], inserted “, except if the adverse results consist only of unduly delaying a trial” after “2705”.
+    2006—Subsec. (b)(1). [Pub. L. 109–177][/us/pl/109/177], § 114(b), inserted “, except if the adverse results consist only of unduly delaying a trial” after “2705”.
 
-    Subsec. (b)(3). [Pub. L. 109–177, § 114(a)(1)][/us/pl/109/177/s114/a/1], added par. (3) and struck out former par. (3) which read as follows: “the warrant provides for the giving of such notice within a reasonable period of its execution, which period may thereafter be extended by the court for good cause shown.”
+    Subsec. (b)(3). [Pub. L. 109–177][/us/pl/109/177], § 114(a)(1), added par. (3) and struck out former par. (3) which read as follows: “the warrant provides for the giving of such notice within a reasonable period of its execution, which period may thereafter be extended by the court for good cause shown.”
 
-    Subsecs. (c), (d). [Pub. L. 109–177, § 114(a)(2)][/us/pl/109/177/s114/a/2], (c), added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 109–177][/us/pl/109/177], § 114(a)(2), (c), added subsecs. (c) and (d).
 
     2001—[Pub. L. 107–56][/us/pl/107/56] designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -79,19 +79,19 @@
 ----------
 
 [/us/usc/t18/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3103
-[/us/pl/90/351/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1401%2Fa
+[/us/pl/90/351/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtIX
 [/us/stat/82/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F238
-[/us/pl/107/56/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs213
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F285
-[/us/pl/109/177/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs114
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F210
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/usc/t18/s3103a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3103a
-[/us/pl/90/462/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F462%2Fs3
+[/us/pl/90/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F462
 [/us/stat/82/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F638
-[/us/pl/109/177/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs114%2Fb
-[/us/pl/109/177/s114/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs114%2Fa%2F1
-[/us/pl/109/177/s114/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs114%2Fa%2F2
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 
 

@@ -29,7 +29,7 @@
 
  __Payment of Costs of Incarceration by Federal Prisoners__ 
 
-[Pub. L. 100–690, title VII, § 7301][/us/pl/100/690/s7301], Nov. 18, 1988, [102 Stat. 4463][/us/stat/102/4463], provided that: 
+[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7301, Nov. 18, 1988, [102 Stat. 4463][/us/stat/102/4463], provided that: 
 
 > “Not later than 1 year after the date of enactment of this section \[Nov. 18, 1988\], the United States Sentencing Commission shall study the feasibility of requiring prisoners incarcerated in Federal correctional institutions to pay some or all of the costs incident to the prisoner’s confinement, including, but not limited to, the costs of food, housing, and shelter. The study shall review measures which would allow prisoners unable to pay such costs to work at paid employment within the community, during incarceration or after release, in order to pay the costs incident to the prisoner’s confinement.”
 
@@ -43,7 +43,7 @@
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F848
 [/us/usc/t18/s4008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4008
-[/us/pl/100/690/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7301
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4463
 
 

@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    1989—[Pub. L. 101–73, title IX, § 964(b)][/us/pl/101/73/s964/b], Aug. 9, 1989, [103 Stat. 506][/us/stat/103/506], added item 3322 “Disclosure of certain matters occurring before grand jury” and struck out former items 3322 “Number; summoning—Rule”, 3323 “Objections and motions—Rule”, 3324 “Foreman and deputy; powers and duties; rec­ords—Rule”, 3325 “Persons present at proceedings—Rule”, 3326 “Secrecy of proceedings and disclosure—Rule”, 3327 “Indictment; finding and return—Rule”, and 3328 “Discharging jury and excusing juror—Rule”.
+    1989—[Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 964(b), Aug. 9, 1989, [103 Stat. 506][/us/stat/103/506], added item 3322 “Disclosure of certain matters occurring before grand jury” and struck out former items 3322 “Number; summoning—Rule”, 3323 “Objections and motions—Rule”, 3324 “Foreman and deputy; powers and duties; rec­ords—Rule”, 3325 “Persons present at proceedings—Rule”, 3326 “Secrecy of proceedings and disclosure—Rule”, 3327 “Indictment; finding and return—Rule”, and 3328 “Discharging jury and excusing juror—Rule”.
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/101/73/s964/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs964%2Fb
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F506
 
 

@@ -31,11 +31,11 @@
 
     (d) Federal agencies with responsibility for regulating a financial institution shall jointly establish such guidelines as are appropriate to assist an officer, director, employee, agent, or attorney of a financial institution to comply with this section. Such agencies shall make such guidelines available to the public.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 695][/us/stat/62/695], § 215, formerly § 220; [Sept. 21, 1950, ch. 967, § 4][/us/act/1950-09-21/ch967/s4], [64 Stat. 894][/us/stat/64/894]; renumbered § 215, [Pub. L. 87–849, § 1(d)][/us/pl/87/849/s1/d], Oct. 23, 1962, [76 Stat. 1125][/us/stat/76/1125]; [Pub. L. 98–473, title II, § 1107(a)][/us/pl/98/473/s1107/a], Oct. 12, 1984, [98 Stat. 2145][/us/stat/98/2145]; [Pub. L. 99–370, § 2][/us/pl/99/370/s2], Aug. 4, 1986, [100 Stat. 779][/us/stat/100/779]; [Pub. L. 101–73, title IX][/us/pl/101/73], §§ 961(a), 962(e)(1), Aug. 9, 1989, [103 Stat. 499][/us/stat/103/499], 503; [Pub. L. 101–647, title XXV, § 2504(a)][/us/pl/101/647/s2504/a], Nov. 29, 1990, [104 Stat. 4861][/us/stat/104/4861]; [Pub. L. 103–322, title XXXIII, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–294, title VI, § 606(a)][/us/pl/104/294/s606/a], Oct. 11, 1996, [110 Stat. 3511][/us/stat/110/3511].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 695][/us/stat/62/695], § 215, formerly § 220; [Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 4, [64 Stat. 894][/us/stat/64/894]; renumbered § 215, [Pub. L. 87–849][/us/pl/87/849], § 1(d), Oct. 23, 1962, [76 Stat. 1125][/us/stat/76/1125]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1107(a), Oct. 12, 1984, [98 Stat. 2145][/us/stat/98/2145]; [Pub. L. 99–370][/us/pl/99/370], § 2, Aug. 4, 1986, [100 Stat. 779][/us/stat/100/779]; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], §§ 961(a), 962(e)(1), Aug. 9, 1989, [103 Stat. 499][/us/stat/103/499], 503; [Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2504(a), Nov. 29, 1990, [104 Stat. 4861][/us/stat/104/4861]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(H), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 606(a), Oct. 11, 1996, [110 Stat. 3511][/us/stat/110/3511].)
 
  __Historical and Revision Notes__ 
 
-    Based on sections 595, 1125, and 1315 of title 12, U.S.C., 1940 ed., Banks and Banking ([Dec. 23, 1913, ch. 6, § 22][/us/act/1913-12-23/ch6/s22], first sentence of second paragraph, [38 Stat. 272][/us/stat/38/272]; [July 17, 1916, ch. 245, § 211(e)][/us/act/1916-07-17/ch245/s211/e], as added [Mar. 4, 1923, ch. 252, § 2][/us/act/1923-03-04/ch252/s2], [42 Stat. 1460][/us/stat/42/1460]; [June 21, 1917, ch. 32, § 11][/us/act/1917-06-21/ch32/s11], [40 Stat. 240][/us/stat/40/240]; [Sept. 26, 1918, ch. 177, § 5][/us/act/1918-09-26/ch177/s5], part 22(c), [40 Stat. 970][/us/stat/40/970]; [Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title II, § 216(e), [42 Stat. 1472][/us/stat/42/1472]).
+    Based on sections 595, 1125, and 1315 of title 12, U.S.C., 1940 ed., Banks and Banking ([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 22, first sentence of second paragraph, [38 Stat. 272][/us/stat/38/272]; [July 17, 1916, ch. 245][/us/act/1916-07-17/ch245], § 211(e), as added [Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], § 2, [42 Stat. 1460][/us/stat/42/1460]; [June 21, 1917, ch. 32][/us/act/1917-06-21/ch32], § 11, [40 Stat. 240][/us/stat/40/240]; [Sept. 26, 1918, ch. 177][/us/act/1918-09-26/ch177], § 5, part 22(c), [40 Stat. 970][/us/stat/40/970]; [Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title II, § 216(e), [42 Stat. 1472][/us/stat/42/1472]).
 
     The punishment provisions of the three sections were identical, and all other provisions thereof were similar, except that [section 595 of title 12][/us/usc/t12/s595], U.S.C., 1940 ed., Banks and Banking, relating to officers, directors, employees, or attorneys of member banks of the Federal Reserve System, did not include the terms “agent” and “acceptance” and did not include the phrase “or extension or renewal of loan or substitution of security”.
 
@@ -57,9 +57,9 @@
 
     1990—Subsec. (a). [Pub. L. 101–647][/us/pl/101/647] substituted “30” for “20” before “years” in concluding provisions.
 
-    1989—Subsec. (a). [Pub. L. 101–73, § 961(a)][/us/pl/101/73/s961/a], in closing provisions, substituted “$1,000,000” for “$5,000” and “20 years” for “five years”.
+    1989—Subsec. (a). [Pub. L. 101–73][/us/pl/101/73], § 961(a), in closing provisions, substituted “$1,000,000” for “$5,000” and “20 years” for “five years”.
 
-    Subsec. (b). [Pub. L. 101–73, § 962(e)(1)][/us/pl/101/73/s962/e/1], transferred subsec. (b) to [section 20 of this title][/us/usc/t18/s20].
+    Subsec. (b). [Pub. L. 101–73][/us/pl/101/73], § 962(e)(1), transferred subsec. (b) to [section 20 of this title][/us/usc/t18/s20].
 
     1986—[Pub. L. 99–370][/us/pl/99/370] amended section generally, combining in subsec. (a) the statement of prohibited activities formerly set out in subsecs. (a) and (b), transferring to subsec. (b) and expanding provisions formerly set out in subsec. (c) which defined “financial institution”, transferring to subsec. (c) and amending provisions formerly set out in subsec. (d) relating to applicability of section, and adding new subsec. (d) relating to establishment of guidelines to assist financial institutions in complying with this section.
 
@@ -69,7 +69,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–370, § 3][/us/pl/99/370/s3], Aug. 4, 1986, [100 Stat. 780][/us/stat/100/780], provided that: 
+[Pub. L. 99–370][/us/pl/99/370], § 3, Aug. 4, 1986, [100 Stat. 780][/us/stat/100/780], provided that: 
 
 > “This Act and the amendments made by this Act \[amending this section and enacting a provision set out as a note under [section 201 of this title][/us/usc/t18/s201]\] shall take effect 30 days after the date of the enactment of this Act \[Aug. 4, 1986\].”
 
@@ -82,30 +82,30 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F695
-[/us/act/1950-09-21/ch967/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs4
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F894
-[/us/pl/87/849/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs1%2Fd
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1125
-[/us/pl/98/473/s1107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1107%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2145
-[/us/pl/99/370/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F370%2Fs2
+[/us/pl/99/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F370
 [/us/stat/100/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F779
-[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F499
-[/us/pl/101/647/s2504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2504%2Fa
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4861
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/104/294/s606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs606%2Fa
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3511
-[/us/act/1913-12-23/ch6/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs22
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
 [/us/stat/38/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F272
-[/us/act/1916-07-17/ch245/s211/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-17%2Fch245%2Fs211%2Fe
-[/us/act/1923-03-04/ch252/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch252%2Fs2
+[/us/act/1916-07-17/ch245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-17%2Fch245
+[/us/act/1923-03-04/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch252
 [/us/stat/42/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1460
-[/us/act/1917-06-21/ch32/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32%2Fs11
+[/us/act/1917-06-21/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-21%2Fch32
 [/us/stat/40/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F240
-[/us/act/1918-09-26/ch177/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-09-26%2Fch177%2Fs5
+[/us/act/1918-09-26/ch177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-09-26%2Fch177
 [/us/stat/40/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F970
 [/us/act/1923-03-04/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch252
 [/us/stat/42/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1472
@@ -115,12 +115,12 @@
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
-[/us/pl/101/73/s961/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs961%2Fa
-[/us/pl/101/73/s962/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs962%2Fe%2F1
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t18/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs20
 [/us/pl/99/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F370
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/99/370/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F370%2Fs3
+[/us/pl/99/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F370
 [/us/stat/100/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F780
 [/us/usc/t18/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs201
 

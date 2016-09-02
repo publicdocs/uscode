@@ -17,7 +17,7 @@
 
     The wardens and superintendents, associate wardens and superintendents, chief clerks, and record clerks, of Federal penal or correctional institutions, may administer oaths to and take acknowledgments of officers, employees, and inmates of such institutions, but shall not demand or accept any fee or compensation therefor.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 848][/us/stat/62/848]; [July 7, 1955, ch. 282][/us/act/1955-07-07/ch282], [69 Stat. 282][/us/stat/69/282]; [Pub. L. 98–473, title II, § 223][/us/pl/98/473/s223](l), Oct. 12, 1984, [98 Stat. 2029][/us/stat/98/2029].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 848][/us/stat/62/848]; [July 7, 1955, ch. 282][/us/act/1955-07-07/ch282], [69 Stat. 282][/us/stat/69/282]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 223(l), Oct. 12, 1984, [98 Stat. 2029][/us/stat/98/2029].)
 
  __Historical and Revision Notes__ 
 
@@ -48,7 +48,7 @@
 [/us/stat/62/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F848
 [/us/act/1955-07-07/ch282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-07%2Fch282
 [/us/stat/69/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F282
-[/us/pl/98/473/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs223
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2029
 [/us/act/1938-02-11/ch24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-11%2Fch24
 [/us/stat/52/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F28

@@ -155,9 +155,9 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–294, title VI, § 601(f)(9)][/us/pl/104/294/s601/f/9], (10), Oct. 11, 1996, [110 Stat. 3500][/us/stat/110/3500], inserted comma after “District” in item 3182 and after “Territory” in item 3183.
+    1996—[Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(f)(9), (10), Oct. 11, 1996, [110 Stat. 3500][/us/stat/110/3500], inserted comma after “District” in item 3182 and after “Territory” in item 3183.
 
-    1990—[Pub. L. 101–623, § 11(b)][/us/pl/101/623/s11/b], Nov. 21, 1990, [104 Stat. 3356][/us/stat/104/3356], added item 3196.
+    1990—[Pub. L. 101–623][/us/pl/101/623], § 11(b), Nov. 21, 1990, [104 Stat. 3356][/us/stat/104/3356], added item 3196.
 
 ----------
 
@@ -166,9 +166,9 @@
 ----------
 ----------
 
-[/us/pl/104/294/s601/f/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Ff%2F9
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3500
-[/us/pl/101/623/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623%2Fs11%2Fb
+[/us/pl/101/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623
 [/us/stat/104/3356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3356
 
 

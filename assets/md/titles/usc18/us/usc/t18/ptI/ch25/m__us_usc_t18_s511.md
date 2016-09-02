@@ -73,7 +73,7 @@
 
     (d) For purposes of subsection (a) of this section, the term “tampers with” includes covering a program decal or device affixed to a motor vehicle pursuant to the Motor Vehicle Theft Prevention Act for the purpose of obstructing its visibility.
 
-(Added [Pub. L. 98–547, title II, § 201(a)][/us/pl/98/547/s201/a], Oct. 25, 1984, [98 Stat. 2768][/us/stat/98/2768]; amended [Pub. L. 103–272, § 5(e)(3)][/us/pl/103/272/s5/e/3], July 5, 1994, [108 Stat. 1373][/us/stat/108/1373]; [Pub. L. 103–322, title XXII, § 220003(a)][/us/pl/103/322/s220003/a]–(c), Sept. 13, 1994, [108 Stat. 2076][/us/stat/108/2076], 2077; [Pub. L. 104–294, title VI, § 604(b)(8)][/us/pl/104/294/s604/b/8], Oct. 11, 1996, [110 Stat. 3507][/us/stat/110/3507].)
+(Added [Pub. L. 98–547, title II][/us/pl/98/547/tII], § 201(a), Oct. 25, 1984, [98 Stat. 2768][/us/stat/98/2768]; amended [Pub. L. 103–272][/us/pl/103/272], § 5(e)(3), July 5, 1994, [108 Stat. 1373][/us/stat/108/1373]; [Pub. L. 103–322, title XXII][/us/pl/103/322/tXXII], § 220003(a)–(c), Sept. 13, 1994, [108 Stat. 2076][/us/stat/108/2076], 2077; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(8), Oct. 11, 1996, [110 Stat. 3507][/us/stat/110/3507].)
 
  __References in Text__ 
 
@@ -87,15 +87,15 @@
 
     1996—Subsec. (b)(2)(D). [Pub. L. 104–294][/us/pl/104/294] realigned margins.
 
-    1994—Subsec. (a). [Pub. L. 103–322, § 220003(a)][/us/pl/103/322/s220003/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whoever knowingly removes, obliterates, tampers with, or alters an identification number for a motor vehicle, or motor vehicle part, shall be fined not more than $10,000 or imprisoned not more than five years, or both.”
+    1994—Subsec. (a). [Pub. L. 103–322][/us/pl/103/322], § 220003(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whoever knowingly removes, obliterates, tampers with, or alters an identification number for a motor vehicle, or motor vehicle part, shall be fined not more than $10,000 or imprisoned not more than five years, or both.”
 
-    Subsec. (b)(2)(D). [Pub. L. 103–322, § 220003(b)][/us/pl/103/322/s220003/b], added subpar. (D).
+    Subsec. (b)(2)(D). [Pub. L. 103–322][/us/pl/103/322], § 220003(b), added subpar. (D).
 
-    Subsec. (c)(1). [Pub. L. 103–272, § 5(e)(3)(A)][/us/pl/103/272/s5/e/3/A], substituted “chapter 301 and part C of subtitle VI of title 49” for “the National Traffic and Motor Vehicle Safety Act of 1966, or the Motor Vehicle Information and Cost Savings Act”.
+    Subsec. (c)(1). [Pub. L. 103–272][/us/pl/103/272], § 5(e)(3)(A), substituted “chapter 301 and part C of subtitle VI of title 49” for “the National Traffic and Motor Vehicle Safety Act of 1966, or the Motor Vehicle Information and Cost Savings Act”.
 
-    Subsec. (c)(2). [Pub. L. 103–272, § 5(e)(3)(B)][/us/pl/103/272/s5/e/3/B], substituted “[section 32101 of title 49][/us/usc/t49/s32101]” for “section 2 of the Motor Vehicle Information and Cost Savings Act”.
+    Subsec. (c)(2). [Pub. L. 103–272][/us/pl/103/272], § 5(e)(3)(B), substituted “[section 32101 of title 49][/us/usc/t49/s32101]” for “section 2 of the Motor Vehicle Information and Cost Savings Act”.
 
-    Subsec. (d). [Pub. L. 103–322, § 220003(c)][/us/pl/103/322/s220003/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 103–322][/us/pl/103/322], § 220003(c), added subsec. (d).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -109,13 +109,13 @@
 ----------
 
 [/us/usc/t49/s32101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32101
-[/us/pl/98/547/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F547%2Fs201%2Fa
+[/us/pl/98/547/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F547%2FtII
 [/us/stat/98/2768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2768
-[/us/pl/103/272/s5/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fe%2F3
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1373
-[/us/pl/103/322/s220003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs220003%2Fa
+[/us/pl/103/322/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXII
 [/us/stat/108/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2076
-[/us/pl/104/294/s604/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F8
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3507
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/stat/108/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2074
@@ -125,12 +125,12 @@
 [/us/usc/t42/s13701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13701
 [/us/usc/t18/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs513
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
-[/us/pl/103/322/s220003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs220003%2Fa
-[/us/pl/103/322/s220003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs220003%2Fb
-[/us/pl/103/272/s5/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fe%2F3%2FA
-[/us/pl/103/272/s5/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fe%2F3%2FB
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s32101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32101
-[/us/pl/103/322/s220003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs220003%2Fc
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/104/294/s604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fd
 [/us/usc/t18/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs13

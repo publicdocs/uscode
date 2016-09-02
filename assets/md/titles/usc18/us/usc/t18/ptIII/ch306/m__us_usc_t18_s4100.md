@@ -23,7 +23,7 @@
 
     (d) The United States upon receiving notice from the country which imposed the sentence that the offender has been granted a pardon, commutation, or amnesty, or that there has been an ameliorating modification or a revocation of the sentence shall give the offender the benefit of the action taken by the sentencing country.
 
-(Added [Pub. L. 95–144, § 1][/us/pl/95/144/s1], Oct. 28, 1977, [91 Stat. 1212][/us/stat/91/1212]; amended [Pub. L. 100–690, title VII, § 7101(e)][/us/pl/100/690/s7101/e], Nov. 18, 1988, [102 Stat. 4416][/us/stat/102/4416].)
+(Added [Pub. L. 95–144][/us/pl/95/144], § 1, Oct. 28, 1977, [91 Stat. 1212][/us/stat/91/1212]; amended [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7101(e), Nov. 18, 1988, [102 Stat. 4416][/us/stat/102/4416].)
 
  __Amendments__ 
 
@@ -31,13 +31,13 @@
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 95–144, § 5(a)][/us/pl/95/144/s5/a], Oct. 28, 1977, [91 Stat. 1221][/us/stat/91/1221], provided that: 
+[Pub. L. 95–144][/us/pl/95/144], § 5(a), Oct. 28, 1977, [91 Stat. 1221][/us/stat/91/1221], provided that: 
 
 > “There is authorized to be appropriated such funds as may be required to carry out the purposes of this Act \[which enacted this chapter and sections 955 of Title 10, Armed Forces, and 2256 of Title 28, Judiciary and Judicial Procedure, amended [section 636 of Title 28][/us/usc/t28/s636], and enacted provisions set out as notes under sections 3006A, 4100, and 4102 of this title\]”.
 
  __Prisoner Transfer Treaties__ 
 
-[Pub. L. 104–208, div. C, title III, § 330][/us/pl/104/208/s330], Sept. 30, 1996, [110 Stat. 3009–631][/us/stat/110/3009-631], provided that:
+[Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], § 330, Sept. 30, 1996, [110 Stat. 3009–631][/us/stat/110/3009-631], provided that:
 
 >     “(a)  __Negotiations With Other Countries__  __.—__ 
 
@@ -115,16 +115,16 @@
 ----------
 
 [/us/usc/t18/s4109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4109
-[/us/pl/95/144/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144%2Fs1
+[/us/pl/95/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144
 [/us/stat/91/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1212
-[/us/pl/100/690/s7101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7101%2Fe
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4416
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t18/s4109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4109
-[/us/pl/95/144/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144%2Fs5%2Fa
+[/us/pl/95/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144
 [/us/stat/91/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1221
 [/us/usc/t28/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs636
-[/us/pl/104/208/s330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs330
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-631
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

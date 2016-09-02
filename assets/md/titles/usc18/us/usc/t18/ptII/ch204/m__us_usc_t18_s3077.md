@@ -53,7 +53,7 @@
 
         (B) section 4 of the Subversive Activities Control Act of 1950.
 
-(Added [Pub. L. 98–533, title I, § 101(a)][/us/pl/98/533/s101/a], Oct. 19, 1984, [98 Stat. 2707][/us/stat/98/2707]; amended [Pub. L. 100–690, title VII, § 7051][/us/pl/100/690/s7051], Nov. 18, 1988, [102 Stat. 4401][/us/stat/102/4401]; [Pub. L. 101–647, title XXXV, § 3572][/us/pl/101/647/s3572], Nov. 29, 1990, [104 Stat. 4929][/us/stat/104/4929]; [Pub. L. 103–322, title XXXIII, § 330021(1)][/us/pl/103/322/s330021/1], Sept. 13, 1994, [108 Stat. 2150][/us/stat/108/2150]; [Pub. L. 103–359, title VIII, § 803(b)][/us/pl/103/359/s803/b], Oct. 14, 1994, [108 Stat. 3439][/us/stat/108/3439]; [Pub. L. 104–294, title VI, § 605(g)][/us/pl/104/294/s605/g], Oct. 11, 1996, [110 Stat. 3510][/us/stat/110/3510]; [Pub. L. 107–56, title VIII, § 802(b)][/us/pl/107/56/s802/b], Oct. 26, 2001, [115 Stat. 376][/us/stat/115/376].)
+(Added [Pub. L. 98–533, title I][/us/pl/98/533/tI], § 101(a), Oct. 19, 1984, [98 Stat. 2707][/us/stat/98/2707]; amended [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7051, Nov. 18, 1988, [102 Stat. 4401][/us/stat/102/4401]; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3572, Nov. 29, 1990, [104 Stat. 4929][/us/stat/104/4929]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330021(1), Sept. 13, 1994, [108 Stat. 2150][/us/stat/108/2150]; [Pub. L. 103–359, title VIII][/us/pl/103/359/tVIII], § 803(b), Oct. 14, 1994, [108 Stat. 3439][/us/stat/108/3439]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 605(g), Oct. 11, 1996, [110 Stat. 3510][/us/stat/110/3510]; [Pub. L. 107–56, title VIII][/us/pl/107/56/tVIII], § 802(b), Oct. 26, 2001, [115 Stat. 376][/us/stat/115/376].)
 
  __References in Text__ 
 
@@ -96,19 +96,19 @@
 
 [/us/usc/t8/s1101/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F22
 [/us/usc/t8/s1101/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F20
-[/us/pl/98/533/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F533%2Fs101%2Fa
+[/us/pl/98/533/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F533%2FtI
 [/us/stat/98/2707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2707
-[/us/pl/100/690/s7051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7051
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4401
-[/us/pl/101/647/s3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3572
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4929
-[/us/pl/103/322/s330021/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330021%2F1
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2150
-[/us/pl/103/359/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs803%2Fb
+[/us/pl/103/359/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVIII
 [/us/stat/108/3439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3439
-[/us/pl/104/294/s605/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs605%2Fg
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3510
-[/us/pl/107/56/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs802%2Fb
+[/us/pl/107/56/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtVIII
 [/us/stat/115/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F376
 [/us/usc/t50/s783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs783
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56

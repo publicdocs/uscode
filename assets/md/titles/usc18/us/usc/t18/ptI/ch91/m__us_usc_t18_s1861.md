@@ -17,7 +17,7 @@
 
     Whoever, for a reward paid or promised to him in that behalf, undertakes to locate for an intending purchaser, settler, or entryman any public lands of the United States subject to disposition under the public-land laws, and who willfully and falsely represents to such intending purchaser, settler, or entryman that any tract of land shown to him is public land of the United States subject to sale, settlement, or entry, or that it is of a particular surveyed description, with intent to deceive the person to whom such representation is made, or who, in reckless disregard of the truth, falsely represents to any such person that any tract of land shown to him is public land of the United States subject to sale, settlement, or entry, or that it is of a particular surveyed description, thereby deceiving the person to whom such representation is made, shall be fined under this title or imprisoned not more than one year, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 789][/us/stat/62/789]; [Pub. L. 103–322, title XXXIII, § 330016(1)(F)][/us/pl/103/322/s330016/1/F], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 789][/us/stat/62/789]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(F), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
@@ -40,7 +40,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F789
-[/us/pl/103/322/s330016/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FF
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/act/1917-02-23/ch115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-02-23%2Fch115
 [/us/stat/39/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F936

@@ -35,7 +35,7 @@
 
         (3) leading to the prevention or frustration of an act of espionage against the United States.
 
-(Added [Pub. L. 98–533, title I, § 101(a)][/us/pl/98/533/s101/a], Oct. 19, 1984, [98 Stat. 2706][/us/stat/98/2706]; amended [Pub. L. 103–359, title VIII, § 803(a)][/us/pl/103/359/s803/a], Oct. 14, 1994, [108 Stat. 3438][/us/stat/108/3438].)
+(Added [Pub. L. 98–533, title I][/us/pl/98/533/tI], § 101(a), Oct. 19, 1984, [98 Stat. 2706][/us/stat/98/2706]; amended [Pub. L. 103–359, title VIII][/us/pl/103/359/tVIII], § 803(a), Oct. 14, 1994, [108 Stat. 3438][/us/stat/108/3438].)
 
  __Amendments__ 
 
@@ -43,13 +43,13 @@
 
  __Short Title__ 
 
-[Pub. L. 98–533, § 1][/us/pl/98/533/s1], Oct. 19, 1984, [98 Stat. 2706][/us/stat/98/2706], provided that: 
+[Pub. L. 98–533][/us/pl/98/533], § 1, Oct. 19, 1984, [98 Stat. 2706][/us/stat/98/2706], provided that: 
 
 > “This Act \[enacting this chapter and [section 2708 of Title 22][/us/usc/t22/s2708], Foreign Relations and Intercourse, amending sections 2669, 2678 and 2704 of Title 22, enacting provisions set out as a note under [section 5928 of Title 5][/us/usc/t5/s5928], Government Organization and Employees and amending provisions set out as a note under [section 2651 of Title 22][/us/usc/t22/s2651]\] may be cited as the ‘1984 Act to Combat International Terrorism’.”
 
  __Attorney General’s Authority To Pay Rewards To Combat Terrorism__ 
 
-    [Pub. L. 107–56, title V, § 501][/us/pl/107/56/s501], Oct. 26, 2001, [115 Stat. 363][/us/stat/115/363], which provided that funds available to Attorney General could be used for payment of rewards to combat terrorism and defend Nation against terrorist acts, in accordance with procedures and regulations established or issued by Attorney General, and set forth conditions in making such rewards, was repealed by [Pub. L. 107–273, div. A, title III, § 301(c)(1)][/us/pl/107/273/s301/c/1], Nov. 2, 2002, [116 Stat. 1781][/us/stat/116/1781].
+    [Pub. L. 107–56, title V][/us/pl/107/56/tV], § 501, Oct. 26, 2001, [115 Stat. 363][/us/stat/115/363], which provided that funds available to Attorney General could be used for payment of rewards to combat terrorism and defend Nation against terrorist acts, in accordance with procedures and regulations established or issued by Attorney General, and set forth conditions in making such rewards, was repealed by [Pub. L. 107–273, div. A, title III][/us/pl/107/273/dA/tIII], § 301(c)(1), Nov. 2, 2002, [116 Stat. 1781][/us/stat/116/1781].
 
 ----------
 
@@ -58,19 +58,19 @@
 ----------
 ----------
 
-[/us/pl/98/533/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F533%2Fs101%2Fa
+[/us/pl/98/533/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F533%2FtI
 [/us/stat/98/2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2706
-[/us/pl/103/359/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs803%2Fa
+[/us/pl/103/359/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVIII
 [/us/stat/108/3438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3438
 [/us/pl/103/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359
-[/us/pl/98/533/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F533%2Fs1
+[/us/pl/98/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F533
 [/us/stat/98/2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2706
 [/us/usc/t22/s2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2708
 [/us/usc/t5/s5928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5928
 [/us/usc/t22/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651
-[/us/pl/107/56/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs501
+[/us/pl/107/56/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtV
 [/us/stat/115/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F363
-[/us/pl/107/273/s301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs301%2Fc%2F1
+[/us/pl/107/273/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIII
 [/us/stat/116/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1781
 
 

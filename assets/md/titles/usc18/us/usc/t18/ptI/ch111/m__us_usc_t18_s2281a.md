@@ -73,7 +73,7 @@
 
         (2) “fixed platform” means an artificial island, installation, or structure permanently attached to the sea-bed for the purpose of exploration or exploitation of resources or for other economic purposes.
 
-(Added [Pub. L. 114–23, title VIII, § 804(a)][/us/pl/114/23/s804/a], June 2, 2015, [129 Stat. 307][/us/stat/129/307].)
+(Added [Pub. L. 114–23, title VIII][/us/pl/114/23/tVIII], § 804(a), June 2, 2015, [129 Stat. 307][/us/stat/129/307].)
 
  __Definitions__ 
 
@@ -86,7 +86,7 @@
 ----------
 ----------
 
-[/us/pl/114/23/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs804%2Fa
+[/us/pl/114/23/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVIII
 [/us/stat/129/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F307
 [/us/usc/t18/s2280/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2280%2Fd
 

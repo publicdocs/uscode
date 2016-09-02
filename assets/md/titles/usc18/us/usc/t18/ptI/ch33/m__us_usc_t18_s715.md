@@ -23,7 +23,7 @@
 
     A violation of this section may be enjoined at the suit of the Attorney General, upon complaint by the Secretary of the Interior.
 
-(Added [Pub. L. 92–347, § 3(b)][/us/pl/92/347/s3/b], July 11, 1972, [86 Stat. 461][/us/stat/86/461]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(E)][/us/pl/103/322/s330016/1/E], Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
+(Added [Pub. L. 92–347][/us/pl/92/347], § 3(b), July 11, 1972, [86 Stat. 461][/us/stat/86/461]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(E), Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
 
  __References in Text__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/92/347/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F347%2Fs3%2Fb
+[/us/pl/92/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F347
 [/us/stat/86/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F461
-[/us/pl/103/322/s330016/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FE
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2146
 [/us/pl/92/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F347
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

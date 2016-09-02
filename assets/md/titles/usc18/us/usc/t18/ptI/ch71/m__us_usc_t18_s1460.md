@@ -27,13 +27,13 @@
 
     (b) For the purposes of this section, the term “visual depiction” includes undeveloped film and videotape but does not include mere words.
 
-(Added [Pub. L. 100–690, title VII, § 7526(a)][/us/pl/100/690/s7526/a], Nov. 18, 1988, [102 Stat. 4503][/us/stat/102/4503]; amended [Pub. L. 101–647, title III, § 323(c)][/us/pl/101/647/s323/c], Nov. 29, 1990, [104 Stat. 4819][/us/stat/104/4819].)
+(Added [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7526(a), Nov. 18, 1988, [102 Stat. 4503][/us/stat/102/4503]; amended [Pub. L. 101–647, title III][/us/pl/101/647/tIII], § 323(c), Nov. 29, 1990, [104 Stat. 4819][/us/stat/104/4819].)
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–647, § 323(c)(1)][/us/pl/101/647/s323/c/1], struck out “or a visual depiction of a minor engaging in or assisting another person to engage in sexually explicit conduct,” after “visual depiction” in concluding provisions.
+    1990—Subsec. (a). [Pub. L. 101–647][/us/pl/101/647], § 323(c)(1), struck out “or a visual depiction of a minor engaging in or assisting another person to engage in sexually explicit conduct,” after “visual depiction” in concluding provisions.
 
-    Subsec. (b). [Pub. L. 101–647, § 323(c)(2)][/us/pl/101/647/s323/c/2], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purposes of this section—
+    Subsec. (b). [Pub. L. 101–647][/us/pl/101/647], § 323(c)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purposes of this section—
 
     “(1) the term ‘visual depiction’ includes undeveloped film and videotape but does not include mere words; and
 
@@ -47,11 +47,11 @@
 ----------
 
 [/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151
-[/us/pl/100/690/s7526/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7526%2Fa
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4503
-[/us/pl/101/647/s323/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs323%2Fc
+[/us/pl/101/647/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtIII
 [/us/stat/104/4819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4819
-[/us/pl/101/647/s323/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs323%2Fc%2F1
-[/us/pl/101/647/s323/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs323%2Fc%2F2
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 
 

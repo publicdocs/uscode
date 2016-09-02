@@ -25,7 +25,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 753d ([May 14, 1930, ch. 274, § 5][/us/act/1930-05-14/ch274/s5], [46 Stat. 326][/us/stat/46/326]).
+    Based on title 18, U.S.C., 1940 ed., § 753d ([May 14, 1930, ch. 274][/us/act/1930-05-14/ch274], § 5, [46 Stat. 326][/us/stat/46/326]).
 
     Minor changes of phraseology were made.
 
@@ -39,7 +39,7 @@
 [/us/usc/t18/s4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4003
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F849
-[/us/act/1930-05-14/ch274/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch274%2Fs5
+[/us/act/1930-05-14/ch274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch274
 [/us/stat/46/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F326
 
 

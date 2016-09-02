@@ -53,35 +53,35 @@
 
     For purposes of this section, a court of an Indian tribe shall have full civil jurisdiction to issue and enforce protection orders involving any person, including the authority to enforce any orders through civil contempt proceedings, to exclude violators from Indian land, and to use other appropriate mechanisms, in matters arising anywhere in the Indian country of the Indian tribe (as defined in section 1151) or otherwise within the authority of the Indian tribe.
 
-(Added [Pub. L. 103–322, title IV, § 40221(a)][/us/pl/103/322/s40221/a], Sept. 13, 1994, [108 Stat. 1930][/us/stat/108/1930]; amended [Pub. L. 106–386, div. B, title I, § 1101(b)(4)][/us/pl/106/386/s1101/b/4], Oct. 28, 2000, [114 Stat. 1493][/us/stat/114/1493]; [Pub. L. 109–162, title I, § 106(a)][/us/pl/109/162/s106/a]–(c), Jan. 5, 2006, [119 Stat. 2981][/us/stat/119/2981], 2982; [Pub. L. 109–271, § 2(n)][/us/pl/109/271/s2/n], Aug. 12, 2006, [120 Stat. 754][/us/stat/120/754]; [Pub. L. 113–4, title IX, § 905][/us/pl/113/4/s905], Mar. 7, 2013, [127 Stat. 124][/us/stat/127/124].)
+(Added [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40221(a), Sept. 13, 1994, [108 Stat. 1930][/us/stat/108/1930]; amended [Pub. L. 106–386, div. B, title I][/us/pl/106/386/dB/tI], § 1101(b)(4), Oct. 28, 2000, [114 Stat. 1493][/us/stat/114/1493]; [Pub. L. 109–162, title I][/us/pl/109/162/tI], § 106(a)–(c), Jan. 5, 2006, [119 Stat. 2981][/us/stat/119/2981], 2982; [Pub. L. 109–271][/us/pl/109/271], § 2(n), Aug. 12, 2006, [120 Stat. 754][/us/stat/120/754]; [Pub. L. 113–4, title IX][/us/pl/113/4/tIX], § 905, Mar. 7, 2013, [127 Stat. 124][/us/stat/127/124].)
 
  __Amendments__ 
 
     2013—Subsec. (e). [Pub. L. 113–4][/us/pl/113/4] added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “For purposes of this section, a tribal court shall have full civil jurisdiction to enforce protection orders, including authority to enforce any orders through civil contempt proceedings, exclusion of violators from Indian lands, and other appropriate mechanisms, in matters arising within the authority of the tribe.”
 
-    2006—Subsec. (a). [Pub. L. 109–162, § 106(a)(1)][/us/pl/109/162/s106/a/1], (b), substituted “, Indian tribe, or territory” for “or Indian tribe” wherever appearing and “and enforced by the court and law enforcement personnel of the other State, Indian tribal government or Territory as if it were” for “and enforced as if it were”.
+    2006—Subsec. (a). [Pub. L. 109–162][/us/pl/109/162], § 106(a)(1), (b), substituted “, Indian tribe, or territory” for “or Indian tribe” wherever appearing and “and enforced by the court and law enforcement personnel of the other State, Indian tribal government or Territory as if it were” for “and enforced as if it were”.
 
-    Subsec. (b). [Pub. L. 109–162, § 106(a)(2)][/us/pl/109/162/s106/a/2], substituted “State, tribal, or territorial” for “State or tribal” in introductory provisions.
+    Subsec. (b). [Pub. L. 109–162][/us/pl/109/162], § 106(a)(2), substituted “State, tribal, or territorial” for “State or tribal” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 109–162, § 106(a)(1)][/us/pl/109/162/s106/a/1], substituted “, Indian tribe, or territory” for “or Indian tribe”.
+    Subsec. (b)(1). [Pub. L. 109–162][/us/pl/109/162], § 106(a)(1), substituted “, Indian tribe, or territory” for “or Indian tribe”.
 
-    Subsec. (b)(2). [Pub. L. 109–162, § 106(a)(2)][/us/pl/109/162/s106/a/2], substituted “State, tribal, or territorial” for “State or tribal”.
+    Subsec. (b)(2). [Pub. L. 109–162][/us/pl/109/162], § 106(a)(2), substituted “State, tribal, or territorial” for “State or tribal”.
 
-    Subsec. (c). [Pub. L. 109–162, § 106(a)(2)][/us/pl/109/162/s106/a/2], substituted “State, tribal, or territorial” for “State or tribal” in introductory provisions.
+    Subsec. (c). [Pub. L. 109–162][/us/pl/109/162], § 106(a)(2), substituted “State, tribal, or territorial” for “State or tribal” in introductory provisions.
 
-    Subsec. (d)(1). [Pub. L. 109–162, § 106(a)][/us/pl/109/162/s106/a], substituted “, Indian tribe, or territory” for “or Indian tribe” in two places and “State, tribal, or territorial” for “State or tribal”.
+    Subsec. (d)(1). [Pub. L. 109–162][/us/pl/109/162], § 106(a), substituted “, Indian tribe, or territory” for “or Indian tribe” in two places and “State, tribal, or territorial” for “State or tribal”.
 
-    Subsec. (d)(2). [Pub. L. 109–162, § 106(a)(2)][/us/pl/109/162/s106/a/2], substituted “State, tribal, or territorial” for “State or tribal”.
+    Subsec. (d)(2). [Pub. L. 109–162][/us/pl/109/162], § 106(a)(2), substituted “State, tribal, or territorial” for “State or tribal”.
 
     Subsec. (d)(3). [Pub. L. 109–271][/us/pl/109/271], which directed amendment of [section 106(c) of Pub. L. 109–162][/us/pl/109/162/s106/c] by substituting “the registration, filing of a petition for, or issuance of a protection order, restraining order or injunction” for “the registration or filing of a protection order”, was executed by making the substitution in par. (3), which was added by [section 106(c) of Pub. L. 109–162][/us/pl/109/162/s106/c], to reflect the probable intent of Congress.
 
-    [Pub. L. 109–162, § 106(c)][/us/pl/109/162/s106/c], added par. (3).
+    [Pub. L. 109–162][/us/pl/109/162], § 106(c), added par. (3).
 
     2000—Subsecs. (d), (e). [Pub. L. 106–386][/us/pl/106/386] added subsecs. (d) and (e).
 
  __Special Rule for the State of Alaska__ 
 
-    [Pub. L. 113–4, title IX, § 910][/us/pl/113/4/s910], Mar. 7, 2013, [127 Stat. 126][/us/stat/127/126], which provided that, in the State of Alaska, the amendments made by sections 904 and 905 of [Pub. L. 113–4][/us/pl/113/4], which related to tribal jurisdiction over crimes of domestic violence and over issuance of protection orders, applied only to the Indian country of the Metlakatla Indian Community, Annette Island Reserve, was repealed by [Pub. L. 113–275][/us/pl/113/275], Dec. 18, 2014, [128 Stat. 2988][/us/stat/128/2988].
+    [Pub. L. 113–4, title IX][/us/pl/113/4/tIX], § 910, Mar. 7, 2013, [127 Stat. 126][/us/stat/127/126], which provided that, in the State of Alaska, the amendments made by sections 904 and 905 of [Pub. L. 113–4][/us/pl/113/4], which related to tribal jurisdiction over crimes of domestic violence and over issuance of protection orders, applied only to the Indian country of the Metlakatla Indian Community, Annette Island Reserve, was repealed by [Pub. L. 113–275][/us/pl/113/275], Dec. 18, 2014, [128 Stat. 2988][/us/stat/128/2988].
 
 ----------
 
@@ -90,30 +90,30 @@
 ----------
 ----------
 
-[/us/pl/103/322/s40221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40221%2Fa
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1930
-[/us/pl/106/386/s1101/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1101%2Fb%2F4
+[/us/pl/106/386/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtI
 [/us/stat/114/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1493
-[/us/pl/109/162/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs106%2Fa
+[/us/pl/109/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtI
 [/us/stat/119/2981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2981
-[/us/pl/109/271/s2/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs2%2Fn
+[/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/stat/120/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F754
-[/us/pl/113/4/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs905
+[/us/pl/113/4/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtIX
 [/us/stat/127/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F124
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
-[/us/pl/109/162/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs106%2Fa%2F1
-[/us/pl/109/162/s106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs106%2Fa%2F2
-[/us/pl/109/162/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs106%2Fa%2F1
-[/us/pl/109/162/s106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs106%2Fa%2F2
-[/us/pl/109/162/s106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs106%2Fa%2F2
-[/us/pl/109/162/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs106%2Fa
-[/us/pl/109/162/s106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs106%2Fa%2F2
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271
 [/us/pl/109/162/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs106%2Fc
 [/us/pl/109/162/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs106%2Fc
-[/us/pl/109/162/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs106%2Fc
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
-[/us/pl/113/4/s910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs910
+[/us/pl/113/4/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtIX
 [/us/stat/127/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F126
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F275

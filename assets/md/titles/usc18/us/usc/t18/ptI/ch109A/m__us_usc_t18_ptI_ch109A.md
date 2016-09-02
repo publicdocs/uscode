@@ -95,7 +95,7 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–322, title IV][/us/pl/103/322], §§ 40111(c), 40113(a)(2), title VI, § 60010(b), Sept. 13, 1994, [108 Stat. 1903][/us/stat/108/1903], 1907, 1973, redesignated item 2245 as 2246 and added items 2245, 2247, and 2248.
+    1994—[Pub. L. 103–322, title IV][/us/pl/103/322/tIV], §§ 40111(c), 40113(a)(2), title VI, § 60010(b), Sept. 13, 1994, [108 Stat. 1903][/us/stat/108/1903], 1907, 1973, redesignated item 2245 as 2246 and added items 2245, 2247, and 2248.
 
 ----------
 
@@ -106,7 +106,7 @@
 
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
-[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1903
 
 

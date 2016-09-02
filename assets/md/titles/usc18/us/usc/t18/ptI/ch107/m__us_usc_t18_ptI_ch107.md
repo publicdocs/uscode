@@ -99,7 +99,7 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–647, title XII, § 1207(b)][/us/pl/101/647/s1207/b], Nov. 29, 1990, [104 Stat. 4832][/us/stat/104/4832], struck out item 2198 “Seduction of female passenger”.
+    1990—[Pub. L. 101–647, title XII][/us/pl/101/647/tXII], § 1207(b), Nov. 29, 1990, [104 Stat. 4832][/us/stat/104/4832], struck out item 2198 “Seduction of female passenger”.
 
 ----------
 
@@ -108,7 +108,7 @@
 ----------
 ----------
 
-[/us/pl/101/647/s1207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1207%2Fb
+[/us/pl/101/647/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXII
 [/us/stat/104/4832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4832
 
 

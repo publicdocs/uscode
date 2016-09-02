@@ -35,13 +35,13 @@
 
     Any organization that commits any offense described in subsection (a) shall be fined not more than the greater of $10,000,000 or 3 times the value of the stolen trade secret to the organization, including expenses for research and design and other costs of reproducing the trade secret that the organization has thereby avoided.
 
-(Added [Pub. L. 104–294, title I, § 101(a)][/us/pl/104/294/s101/a], Oct. 11, 1996, [110 Stat. 3488][/us/stat/110/3488]; amended [Pub. L. 112–269, § 2][/us/pl/112/269/s2], Jan. 14, 2013, [126 Stat. 2442][/us/stat/126/2442].)
+(Added [Pub. L. 104–294, title I][/us/pl/104/294/tI], § 101(a), Oct. 11, 1996, [110 Stat. 3488][/us/stat/110/3488]; amended [Pub. L. 112–269][/us/pl/112/269], § 2, Jan. 14, 2013, [126 Stat. 2442][/us/stat/126/2442].)
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 112–269, § 2(a)][/us/pl/112/269/s2/a], substituted “not more than $5,000,000” for “not more than $500,000” in concluding provisions.
+    2013—Subsec. (a). [Pub. L. 112–269][/us/pl/112/269], § 2(a), substituted “not more than $5,000,000” for “not more than $500,000” in concluding provisions.
 
-    Subsec. (b). [Pub. L. 112–269, § 2(b)][/us/pl/112/269/s2/b], substituted “not more than the greater of $10,000,000 or 3 times the value of the stolen trade secret to the organization, including expenses for research and design and other costs of reproducing the trade secret that the organization has thereby avoided” for “not more than $10,000,000”.
+    Subsec. (b). [Pub. L. 112–269][/us/pl/112/269], § 2(b), substituted “not more than the greater of $10,000,000 or 3 times the value of the stolen trade secret to the organization, including expenses for research and design and other costs of reproducing the trade secret that the organization has thereby avoided” for “not more than $10,000,000”.
 
 ----------
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/104/294/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs101%2Fa
+[/us/pl/104/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtI
 [/us/stat/110/3488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3488
-[/us/pl/112/269/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F269%2Fs2
+[/us/pl/112/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F269
 [/us/stat/126/2442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2442
-[/us/pl/112/269/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F269%2Fs2%2Fa
-[/us/pl/112/269/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F269%2Fs2%2Fb
+[/us/pl/112/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F269
+[/us/pl/112/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F269
 
 

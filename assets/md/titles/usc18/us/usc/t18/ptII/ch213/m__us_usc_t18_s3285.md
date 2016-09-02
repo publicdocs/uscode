@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on [section 390 of title 28][/us/usc/t28/s390], U.S.C., 1940 ed., Judicial Code and Judiciary ([Oct. 15, 1914, ch. 323, § 25][/us/act/1914-10-15/ch323/s25], [38 Stat. 740][/us/stat/38/740]).
+    Based on [section 390 of title 28][/us/usc/t28/s390], U.S.C., 1940 ed., Judicial Code and Judiciary ([Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], § 25, [38 Stat. 740][/us/stat/38/740]).
 
     Word “criminal” was inserted before “contempt” in first line. Words “within [section 402 of this title][/us/usc/t18/s402]” were inserted after “contempt”.
 
@@ -40,7 +40,7 @@
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F828
 [/us/usc/t28/s390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs390
-[/us/act/1914-10-15/ch323/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323%2Fs25
+[/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
 [/us/stat/38/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F740
 [/us/usc/t18/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs402
 [/us/usc/t28/s390a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs390a

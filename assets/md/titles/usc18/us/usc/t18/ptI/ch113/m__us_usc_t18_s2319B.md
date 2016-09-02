@@ -73,7 +73,7 @@
 
         The term “audiovisual recording device” means a digital or analog photographic or video camera, or any other technology or device capable of enabling the recording or transmission of a copyrighted motion picture or other audiovisual work, or any part thereof, regardless of whether audiovisual recording is the sole or primary purpose of the device.
 
-(Added [Pub. L. 109–9, title I, § 102(a)][/us/pl/109/9/s102/a], Apr. 27, 2005, [119 Stat. 218][/us/stat/119/218]; amended [Pub. L. 110–403, title II, § 204][/us/pl/110/403/s204], Oct. 13, 2008, [122 Stat. 4261][/us/stat/122/4261].)
+(Added [Pub. L. 109–9, title I][/us/pl/109/9/tI], § 102(a), Apr. 27, 2005, [119 Stat. 218][/us/stat/119/218]; amended [Pub. L. 110–403, title II][/us/pl/110/403/tII], § 204, Oct. 13, 2008, [122 Stat. 4261][/us/stat/122/4261].)
 
  __References in Text__ 
 
@@ -91,9 +91,9 @@
 ----------
 
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
-[/us/pl/109/9/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs102%2Fa
+[/us/pl/109/9/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2FtI
 [/us/stat/119/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F218
-[/us/pl/110/403/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs204
+[/us/pl/110/403/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtII
 [/us/stat/122/4261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4261
 [/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
 

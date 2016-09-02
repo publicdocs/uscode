@@ -19,11 +19,11 @@
 
     This section shall not apply in the case of a fire set by an allottee in the reasonable exercise of his proprietary rights in the allotment.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 788][/us/stat/62/788]; [Pub. L. 100–690, title VI, § 6254(j)][/us/pl/100/690/s6254/j], Nov. 18, 1988, [102 Stat. 4368][/us/stat/102/4368].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 788][/us/stat/62/788]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6254(j), Nov. 18, 1988, [102 Stat. 4368][/us/stat/102/4368].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 106 ([Mar. 4, 1909, ch. 321, § 52][/us/act/1909-03-04/ch321/s52], [35 Stat. 1098][/us/stat/35/1098]; [Nov. 15, 1941, ch. 472, § 1][/us/act/1941-11-15/ch472/s1], [55 Stat. 763][/us/stat/55/763]).
+    Based on title 18, U.S.C., 1940 ed., § 106 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 52, [35 Stat. 1098][/us/stat/35/1098]; [Nov. 15, 1941, ch. 472][/us/act/1941-11-15/ch472], § 1, [55 Stat. 763][/us/stat/55/763]).
 
     Surplus verbiage and unnecessary enumerations were omitted.
 
@@ -46,11 +46,11 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F788
-[/us/pl/100/690/s6254/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6254%2Fj
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4368
-[/us/act/1909-03-04/ch321/s52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs52
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1098
-[/us/act/1941-11-15/ch472/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-11-15%2Fch472%2Fs1
+[/us/act/1941-11-15/ch472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-11-15%2Fch472
 [/us/stat/55/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F763
 [/us/usc/t18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690

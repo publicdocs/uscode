@@ -29,7 +29,7 @@
 
     As used in this section, the term (a) “any employee welfare benefit plan” or “employee pension benefit plan” means any employee welfare benefit plan or employee pension benefit plan, respectively, subject to any provision of title I of the Employee Retirement Income Security Act of 1974, and (b) “employee organization” and “administrator” as defined respectively in sections 3(4) and (3)(16) of the Employee Retirement Income Security Act of 1974.
 
-(Added [Pub. L. 87–420, § 17(e)][/us/pl/87/420/s17/e], Mar. 20, 1962, [76 Stat. 42][/us/stat/76/42]; amended [Pub. L. 91–452, title II, § 225][/us/pl/91/452/s225], Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930]; [Pub. L. 93–406, title I, § 111(a)(2)(C)][/us/pl/93/406/s111/a/2/C], Sept. 2, 1974, [88 Stat. 852][/us/stat/88/852]; [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+(Added [Pub. L. 87–420][/us/pl/87/420], § 17(e), Mar. 20, 1962, [76 Stat. 42][/us/stat/76/42]; amended [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 225, Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930]; [Pub. L. 93–406, title I][/us/pl/93/406/tI], § 111(a)(2)(C), Sept. 2, 1974, [88 Stat. 852][/us/stat/88/852]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __References in Text__ 
 
@@ -66,13 +66,13 @@
 ----------
 ----------
 
-[/us/pl/87/420/s17/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F420%2Fs17%2Fe
+[/us/pl/87/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F420
 [/us/stat/76/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F42
-[/us/pl/91/452/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs225
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F930
-[/us/pl/93/406/s111/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs111%2Fa%2F2%2FC
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F852
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F829

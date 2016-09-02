@@ -35,7 +35,7 @@
 
     The bankruptcy courts shall establish procedures for referring any case that may contain a materially fraudulent statement in a bankruptcy schedule to the individuals designated under this section.
 
-(Added [Pub. L. 109–8, title II, § 203(b)(1)][/us/pl/109/8/s203/b/1], Apr. 20, 2005, [119 Stat. 49][/us/stat/119/49].)
+(Added [Pub. L. 109–8, title II][/us/pl/109/8/tII], § 203(b)(1), Apr. 20, 2005, [119 Stat. 49][/us/stat/119/49].)
 
  __Effective Date__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/109/8/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs203%2Fb%2F1
+[/us/pl/109/8/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtII
 [/us/stat/119/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F49
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

@@ -21,13 +21,13 @@
 
     (c) The term “Indian country” as used in this section does not include fee-patented lands in non-Indian communities or rights-of-way through Indian reservations, and this section does not apply to such lands or rights-of-way in the absence of a treaty or statute extending the Indian liquor laws thereto.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 758][/us/stat/62/758]; [May 24, 1949, ch. 139, § 27][/us/act/1949-05-24/ch139/s27], [63 Stat. 94][/us/stat/63/94]; [Pub. L. 103–322, title XXXIII, § 330016(1)(G)][/us/pl/103/322/s330016/1/G], (I), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 758][/us/stat/62/758]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 27, [63 Stat. 94][/us/stat/63/94]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(G), (I), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on sections 241, 242, 244a, 249, 254 of title 25, U.S.C., 1940 ed., Indians (R.S. § 2139; [Feb. 27, 1877, ch. 69, § 1][/us/act/1877-02-27/ch69/s1], [19 Stat. 244][/us/stat/19/244]; [July 4, 1884, ch. 180, § 1][/us/act/1884-07-04/ch180/s1], [23 Stat. 94][/us/stat/23/94]; [July 23, 1892, ch. 234][/us/act/1892-07-23/ch234], [27 Stat. 260][/us/stat/27/260]; [Mar. 2, 1917, ch. 146, § 17][/us/act/1917-03-02/ch146/s17], [39 Stat. 983][/us/stat/39/983]; [June 13, 1932, ch. 245][/us/act/1932-06-13/ch245], [47 Stat. 302][/us/stat/47/302]; [Mar. 5, 1934, ch. 43][/us/act/1934-03-05/ch43], [48 Stat. 396][/us/stat/48/396]; [June 27, 1934, ch. 846][/us/act/1934-06-27/ch846], [48 Stat. 1245][/us/stat/48/1245]; [June 15, 1938, ch. 435, § 1][/us/act/1938-06-15/ch435/s1], [52 Stat. 696][/us/stat/52/696]).
+    Based on sections 241, 242, 244a, 249, 254 of title 25, U.S.C., 1940 ed., Indians (R.S. § 2139; [Feb. 27, 1877, ch. 69][/us/act/1877-02-27/ch69], § 1, [19 Stat. 244][/us/stat/19/244]; [July 4, 1884, ch. 180][/us/act/1884-07-04/ch180], § 1, [23 Stat. 94][/us/stat/23/94]; [July 23, 1892, ch. 234][/us/act/1892-07-23/ch234], [27 Stat. 260][/us/stat/27/260]; [Mar. 2, 1917, ch. 146][/us/act/1917-03-02/ch146], § 17, [39 Stat. 983][/us/stat/39/983]; [June 13, 1932, ch. 245][/us/act/1932-06-13/ch245], [47 Stat. 302][/us/stat/47/302]; [Mar. 5, 1934, ch. 43][/us/act/1934-03-05/ch43], [48 Stat. 396][/us/stat/48/396]; [June 27, 1934, ch. 846][/us/act/1934-06-27/ch846], [48 Stat. 1245][/us/stat/48/1245]; [June 15, 1938, ch. 435][/us/act/1938-06-15/ch435], § 1, [52 Stat. 696][/us/stat/52/696]).
 
     Section consolidates sections 241, 242, 244a, and 249 of title 25, U.S.C., 1940 ed., Indians. The portion of section 241 of said title which defined the substantive offense became subsection (a); the portion relating to the scope of the term “Indian country” was omitted as unnecessary in view of definition of “Indian country” in [section 1151 of this title][/us/usc/t18/s1151]; the portion of section 241 of said title excepting liquors introduced by the War Department became subsection (c), as limited by section 249 of said title; the portion respecting making complaint in county of offense, and with reference to arraignment, was omitted as covered by rule 5 of the Federal Rules of Criminal Procedure; and the remainder of section 241 of said title was incorporated in [section 1156 of this title][/us/usc/t18/s1156].
 
@@ -66,17 +66,17 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F758
-[/us/act/1949-05-24/ch139/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs27
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F94
-[/us/pl/103/322/s330016/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FG
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/act/1877-02-27/ch69/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69%2Fs1
+[/us/act/1877-02-27/ch69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69
 [/us/stat/19/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F244
-[/us/act/1884-07-04/ch180/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-07-04%2Fch180%2Fs1
+[/us/act/1884-07-04/ch180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-07-04%2Fch180
 [/us/stat/23/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F23%2F94
 [/us/act/1892-07-23/ch234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1892-07-23%2Fch234
 [/us/stat/27/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F260
-[/us/act/1917-03-02/ch146/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch146%2Fs17
+[/us/act/1917-03-02/ch146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-02%2Fch146
 [/us/stat/39/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F983
 [/us/act/1932-06-13/ch245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-06-13%2Fch245
 [/us/stat/47/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F302
@@ -84,7 +84,7 @@
 [/us/stat/48/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F396
 [/us/act/1934-06-27/ch846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch846
 [/us/stat/48/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1245
-[/us/act/1938-06-15/ch435/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-15%2Fch435%2Fs1
+[/us/act/1938-06-15/ch435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-15%2Fch435
 [/us/stat/52/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F696
 [/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151
 [/us/usc/t18/s1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1156

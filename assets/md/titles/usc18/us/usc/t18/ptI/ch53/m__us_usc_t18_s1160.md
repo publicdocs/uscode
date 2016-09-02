@@ -19,7 +19,7 @@
 
     If such offender shall be unable to pay a sum at least equal to the just value or amount, whatever such payment shall fall short of the same shall be paid out of the Treasury of the United States. If such offender cannot be apprehended and brought to trial, the amount of such property shall be paid out of the Treasury. But no Indian shall be entitled to any payment out of the Treasury of the United States, for any such property, if he, or any of the nation to which he belongs, have sought private revenge, or have attempted to obtain satisfaction by any force or violence.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 759][/us/stat/62/759]; [Pub. L. 103–322, title XXXIII, § 330004(9)][/us/pl/103/322/s330004/9], Sept. 13, 1994, [108 Stat. 2141][/us/stat/108/2141].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 759][/us/stat/62/759]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330004(9), Sept. 13, 1994, [108 Stat. 2141][/us/stat/108/2141].)
 
  __Historical and Revision Notes__ 
 
@@ -42,7 +42,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F759
-[/us/pl/103/322/s330004/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330004%2F9
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2141
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

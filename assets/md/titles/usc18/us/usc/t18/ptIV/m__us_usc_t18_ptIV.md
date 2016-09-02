@@ -61,9 +61,9 @@
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–473, title II, § 218(g)][/us/pl/98/473/s218/g], Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027], in item for chapter 402 substituted “Repealed” for “Federal Youth Corrections Act”.
+    1984—[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 218(g), Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027], in item for chapter 402 substituted “Repealed” for “Federal Youth Corrections Act”.
 
-    1950—[Act Sept. 30, 1950, ch. 1115, § 5(a)][/us/act/1950-09-30/ch1115/s5/a], [64 Stat. 1090][/us/stat/64/1090], added item for chapter 402.
+    1950—[Act Sept. 30, 1950, ch. 1115][/us/act/1950-09-30/ch1115], § 5(a), [64 Stat. 1090][/us/stat/64/1090], added item for chapter 402.
 
 ----------
 
@@ -72,9 +72,9 @@
 ----------
 ----------
 
-[/us/pl/98/473/s218/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs218%2Fg
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2027
-[/us/act/1950-09-30/ch1115/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-30%2Fch1115%2Fs5%2Fa
+[/us/act/1950-09-30/ch1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-30%2Fch1115
 [/us/stat/64/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1090
 
 

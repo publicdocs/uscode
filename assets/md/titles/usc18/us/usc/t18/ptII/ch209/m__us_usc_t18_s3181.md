@@ -27,7 +27,7 @@
 
     (c) As used in this section, the term “national of the United States” has the meaning given such term in section 101(a)(22) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(22)][/us/usc/t8/s1101/a/22]).
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 822][/us/stat/62/822]; [Pub. L. 104–132, title IV, § 443(a)][/us/pl/104/132/s443/a], Apr. 24, 1996, [110 Stat. 1280][/us/stat/110/1280].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 822][/us/stat/62/822]; [Pub. L. 104–132, title IV][/us/pl/104/132/tIV], § 443(a), Apr. 24, 1996, [110 Stat. 1280][/us/stat/110/1280].)
 
  __Historical and Revision Notes__ 
 
@@ -41,7 +41,7 @@
 
  __Extradition Treaties Interpretation__ 
 
-[Pub. L. 105–323, title II][/us/pl/105/323], Oct. 30, 1998, [112 Stat. 3033][/us/stat/112/3033], provided that:
+[Pub. L. 105–323, title II][/us/pl/105/323/tII], Oct. 30, 1998, [112 Stat. 3033][/us/stat/112/3033], provided that:
 
 > “SEC. 201. __SHORT TITLE.__ 
 
@@ -71,7 +71,7 @@
 
  __Judicial Assistance to International Tribunal for Yugoslavia and International Tribunal for Rwanda__ 
 
-[Pub. L. 104–106, div. A, title XIII, § 1342][/us/pl/104/106/s1342], Feb. 10, 1996, [110 Stat. 486][/us/stat/110/486], as amended by [Pub. L. 111–117, div. F, title VII, § 7034(t)][/us/pl/111/117/s7034/t], Dec. 16, 2009, [123 Stat. 3364][/us/stat/123/3364], provided that:
+[Pub. L. 104–106, div. A, title XIII][/us/pl/104/106/dA/tXIII], § 1342, Feb. 10, 1996, [110 Stat. 486][/us/stat/110/486], as amended by [Pub. L. 111–117, div. F, title VII][/us/pl/111/117/dF/tVII], § 7034(t), Dec. 16, 2009, [123 Stat. 3364][/us/stat/123/3364], provided that:
 
 >     “(a) __Surrender of Persons.—__ 
 
@@ -123,9 +123,9 @@
 
  __Extradition and Mutual Legal Assistance Treaties and Model Comprehensive Antidrug Laws__ 
 
-    [Pub. L. 100–690, title IV, § 4605][/us/pl/100/690/s4605], Nov. 18, 1988, [102 Stat. 4290][/us/stat/102/4290], which directed greater emphasis on updating of extradition treaties and on negotiating mutual legal assistance treaties with major drug producing and drug-transit countries, and called for development of model treaties and anti-narcotics legislation, was repealed by [Pub. L. 102–583, § 6(e)(1)][/us/pl/102/583/s6/e/1], Nov. 2, 1992, [106 Stat. 4933][/us/stat/106/4933].
+    [Pub. L. 100–690, title IV][/us/pl/100/690/tIV], § 4605, Nov. 18, 1988, [102 Stat. 4290][/us/stat/102/4290], which directed greater emphasis on updating of extradition treaties and on negotiating mutual legal assistance treaties with major drug producing and drug-transit countries, and called for development of model treaties and anti-narcotics legislation, was repealed by [Pub. L. 102–583][/us/pl/102/583], § 6(e)(1), Nov. 2, 1992, [106 Stat. 4933][/us/stat/106/4933].
 
-[Pub. L. 100–204, title VIII, § 803][/us/pl/100/204/s803], Dec. 22, 1987, [101 Stat. 1397][/us/stat/101/1397], provided that: 
+[Pub. L. 100–204, title VIII][/us/pl/100/204/tVIII], § 803, Dec. 22, 1987, [101 Stat. 1397][/us/stat/101/1397], provided that: 
 
 > “The Secretary of State shall ensure that the Country Plan for the United States diplomatic mission in each major illicit drug producing country and in each major drug-transit country (as those terms are defined in section 481(i) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2291(i)][/us/usc/t22/s2291/i]\]) includes, as an objective to be pursued by the mission—
 
@@ -133,7 +133,7 @@
 
 >     “(2) if an existing treaty provides for such extradition, taking such steps as may be necessary to ensure that the treaty is effectively implemented.”
 
-[Pub. L. 99–93, title I, § 133][/us/pl/99/93/s133], Aug. 16, 1985, [99 Stat. 420][/us/stat/99/420], provided that: 
+[Pub. L. 99–93, title I][/us/pl/99/93/tI], § 133, Aug. 16, 1985, [99 Stat. 420][/us/stat/99/420], provided that: 
 
 > “The Secretary of State, with the assistance of the National Drug Enforcement Policy Board, shall increase United States efforts to negotiate updated extradition treaties relating to narcotics offenses with each major drug-producing country, particularly those in Latin America.”
 
@@ -3678,29 +3678,29 @@ TIAS.  </td>
 [/us/usc/t8/s1101/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F22
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F822
-[/us/pl/104/132/s443/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs443%2Fa
+[/us/pl/104/132/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIV
 [/us/stat/110/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1280
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
-[/us/pl/105/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F323
+[/us/pl/105/323/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F323%2FtII
 [/us/stat/112/3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3033
 [/us/pl/103/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F173
 [/us/stat/107/1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1998
 [/us/usc/t18/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1204
-[/us/pl/104/106/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1342
+[/us/pl/104/106/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXIII
 [/us/stat/110/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F486
-[/us/pl/111/117/s7034/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7034%2Ft
+[/us/pl/111/117/dF/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdF%2FtVII
 [/us/stat/123/3364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3364
 [/us/usc/t18/s3190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3190
 [/us/usc/t18/s3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3195
 [/us/usc/t28/s1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1782
-[/us/pl/100/690/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs4605
+[/us/pl/100/690/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtIV
 [/us/stat/102/4290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4290
-[/us/pl/102/583/s6/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583%2Fs6%2Fe%2F1
+[/us/pl/102/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F583
 [/us/stat/106/4933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4933
-[/us/pl/100/204/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs803
+[/us/pl/100/204/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtVIII
 [/us/stat/101/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1397
 [/us/usc/t22/s2291/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2291%2Fi
-[/us/pl/99/93/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs133
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F420
 [/us/stat/49/3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F3111
 

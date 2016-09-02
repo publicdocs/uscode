@@ -17,7 +17,7 @@
 
     If in a sentence issued in a penal proceeding of a transferring country an offender transferred to the United States has been ordered to pay a sum of money to the victim of the offense for damage caused by the offense, that penalty or award of damages may be enforced as though it were a civil judgment rendered by a United States district court. Proceedings to collect the moneys ordered to be paid may be instituted by the Attorney General in any United States district court. Moneys recovered pursuant to such proceedings shall be transmitted through diplomatic channels to the treaty authority of the transferring country for distribution to the victim.
 
-(Added [Pub. L. 95–144, § 1][/us/pl/95/144/s1], Oct. 28, 1977, [91 Stat. 1220][/us/stat/91/1220].)
+(Added [Pub. L. 95–144][/us/pl/95/144], § 1, Oct. 28, 1977, [91 Stat. 1220][/us/stat/91/1220].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/144/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144%2Fs1
+[/us/pl/95/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144
 [/us/stat/91/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1220
 
 

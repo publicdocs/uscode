@@ -163,7 +163,7 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–690, title VII, § 7101(c)][/us/pl/100/690/s7101/c], Nov. 18, 1988, [102 Stat. 4415][/us/stat/102/4415], added item 4106A.
+    1988—[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7101(c), Nov. 18, 1988, [102 Stat. 4415][/us/stat/102/4415], added item 4106A.
 
 ----------
 
@@ -172,7 +172,7 @@
 ----------
 ----------
 
-[/us/pl/100/690/s7101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7101%2Fc
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4415
 
 

@@ -19,7 +19,7 @@
 
     (b) Whoever violates this section shall be fined under this title, and any goods, wares, or merchandise transported in violation of this section or [section 1761 of this title][/us/usc/t18/s1761] shall be forfeited to the United States, and may be seized and condemned by like proceedings as those provided by law for the seizure and forfeiture of property imported into the United States contrary to law.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 786][/us/stat/62/786]; [Pub. L. 102–393, title V, § 535(b)][/us/pl/102/393/s535/b], Oct. 6, 1992, [106 Stat. 1764][/us/stat/106/1764]; [Pub. L. 103–322, title XXXIII, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–294, title VI, § 601(a)(7)][/us/pl/104/294/s601/a/7], Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 786][/us/stat/62/786]; [Pub. L. 102–393, title V][/us/pl/102/393/tV], § 535(b), Oct. 6, 1992, [106 Stat. 1764][/us/stat/106/1764]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(H), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(a)(7), Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498].)
 
  __Historical and Revision Notes__ 
 
@@ -53,11 +53,11 @@
 [/us/usc/t18/s1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1761
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F786
-[/us/pl/102/393/s535/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs535%2Fb
+[/us/pl/102/393/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtV
 [/us/stat/106/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1764
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/104/294/s601/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fa%2F7
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3498
 [/us/act/1935-07-24/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-24%2Fch412
 [/us/stat/49/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F494

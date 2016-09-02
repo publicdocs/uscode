@@ -19,7 +19,7 @@
 
     (b) For purposes of this section, the term “theft prevention decal or device” means a decal or other device designed in accordance with a uniform design for such devices developed pursuant to the Motor Vehicle Theft Prevention Act.
 
-(Added [Pub. L. 103–322, title XXII, § 220003(d)(1)][/us/pl/103/322/s220003/d/1], Sept. 13, 1994, [108 Stat. 2077][/us/stat/108/2077].)
+(Added [Pub. L. 103–322, title XXII][/us/pl/103/322/tXXII], § 220003(d)(1), Sept. 13, 1994, [108 Stat. 2077][/us/stat/108/2077].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s220003/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs220003%2Fd%2F1
+[/us/pl/103/322/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXII
 [/us/stat/108/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2077
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/stat/108/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2074

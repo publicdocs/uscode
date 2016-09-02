@@ -23,11 +23,11 @@
 
     (3) Disobedience or resistance to its lawful writ, process, order, rule, decree, or command.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 701][/us/stat/62/701]; [Pub. L. 107–273, div. B, title III, § 3002(a)(1)][/us/pl/107/273/s3002/a/1], Nov. 2, 2002, [116 Stat. 1805][/us/stat/116/1805].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 701][/us/stat/62/701]; [Pub. L. 107–273, div. B, title III][/us/pl/107/273/dB/tIII], § 3002(a)(1), Nov. 2, 2002, [116 Stat. 1805][/us/stat/116/1805].)
 
  __Historical and Revision Notes__ 
 
-    Based on [section 385 of title 28][/us/usc/t28/s385], U.S.C., 1940 ed., Judicial Code and Judiciary ([Mar. 3, 1911, ch. 231, § 268][/us/act/1911-03-03/ch231/s268], [36 Stat. 1163][/us/stat/36/1163]).
+    Based on [section 385 of title 28][/us/usc/t28/s385], U.S.C., 1940 ed., Judicial Code and Judiciary ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 268, [36 Stat. 1163][/us/stat/36/1163]).
 
     Said section 385 conferred two powers. The first part authorizing courts of the United States to impose and administer oaths will remain in title 28, U.S.C., 1940 ed., Judicial Code and Judiciary. The second part relating to contempt of court constitutes this section.
 
@@ -46,10 +46,10 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F701
-[/us/pl/107/273/s3002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs3002%2Fa%2F1
+[/us/pl/107/273/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIII
 [/us/stat/116/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1805
 [/us/usc/t28/s385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs385
-[/us/act/1911-03-03/ch231/s268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs268
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1163
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 

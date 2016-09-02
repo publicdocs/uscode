@@ -29,11 +29,11 @@
 
         (3) not guilty only by reason of insanity.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 855][/us/stat/62/855]; [Pub. L. 98–473, title II, § 403(a)][/us/pl/98/473/s403/a], Oct. 12, 1984, [98 Stat. 2059][/us/stat/98/2059].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 855][/us/stat/62/855]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 403(a), Oct. 12, 1984, [98 Stat. 2059][/us/stat/98/2059].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 877 ([May 13, 1930, ch. 254, § 7][/us/act/1930-05-13/ch254/s7], [46 Stat. 272][/us/stat/46/272]).
+    Based on title 18, U.S.C., 1940 ed., § 877 ([May 13, 1930, ch. 254][/us/act/1930-05-13/ch254], § 7, [46 Stat. 272][/us/stat/46/272]).
 
     Minor change was made in phraseology.
 
@@ -50,9 +50,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F855
-[/us/pl/98/473/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs403%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2059
-[/us/act/1930-05-13/ch254/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-13%2Fch254%2Fs7
+[/us/act/1930-05-13/ch254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-13%2Fch254
 [/us/stat/46/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F272
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 

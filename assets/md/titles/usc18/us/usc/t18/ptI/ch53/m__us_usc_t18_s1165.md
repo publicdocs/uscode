@@ -17,7 +17,7 @@
 
     Whoever, without lawful authority or permission, willfully and knowingly goes upon any land that belongs to any Indian or Indian tribe, band, or group and either are held by the United States in trust or are subject to a restriction against alienation imposed by the United States, or upon any lands of the United States that are reserved for Indian use, for the purpose of hunting, trapping, or fishing thereon, or for the removal of game, peltries, or fish therefrom, shall be fined under this title or imprisoned not more than ninety days, or both, and all game, fish, and peltries in his possession shall be forfeited.
 
-(Added [Pub. L. 86–634, § 2][/us/pl/86/634/s2], July 12, 1960, [74 Stat. 469][/us/stat/74/469]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(D)][/us/pl/103/322/s330016/1/D], Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
+(Added [Pub. L. 86–634][/us/pl/86/634], § 2, July 12, 1960, [74 Stat. 469][/us/stat/74/469]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(D), Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/86/634/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F634%2Fs2
+[/us/pl/86/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F634
 [/us/stat/74/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F469
-[/us/pl/103/322/s330016/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FD
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2146
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

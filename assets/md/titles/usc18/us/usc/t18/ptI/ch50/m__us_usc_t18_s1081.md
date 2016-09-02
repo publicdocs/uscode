@@ -27,7 +27,7 @@
 
     The term “wire communication facility” means any and all instrumentalities, personnel, and services (among other things, the receipt, forwarding, or delivery of communications) used or useful in the transmission of writings, signs, pictures, and sounds of all kinds by aid of wire, cable, or other like connection between the points of origin and reception of such transmission.
 
-(Added [May 24, 1949, ch. 139, § 23][/us/act/1949-05-24/ch139/s23], [63 Stat. 92][/us/stat/63/92]; amended [Pub. L. 87–216, § 1][/us/pl/87/216/s1], Sept. 13, 1961, [75 Stat. 491][/us/stat/75/491]; [Pub. L. 103–322, title XXXII, § 320501][/us/pl/103/322/s320501], Sept. 13, 1994, [108 Stat. 2114][/us/stat/108/2114].)
+(Added [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 23, [63 Stat. 92][/us/stat/63/92]; amended [Pub. L. 87–216][/us/pl/87/216], § 1, Sept. 13, 1961, [75 Stat. 491][/us/stat/75/491]; [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320501, Sept. 13, 1994, [108 Stat. 2114][/us/stat/108/2114].)
 
  __References in Text__ 
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/act/1949-05-24/ch139/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs23
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F92
-[/us/pl/87/216/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F216%2Fs1
+[/us/pl/87/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F216
 [/us/stat/75/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F491
-[/us/pl/103/322/s320501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320501
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2114
 [/us/usc/t26/s4472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4472
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

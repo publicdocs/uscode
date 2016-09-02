@@ -45,11 +45,11 @@
 
         (3) “business” includes business, institution, association, profession, occupation, and calling of every kind, whether or not conducted for profit.
 
-(Added [Pub. L. 98–473, title II, § 1217(a)][/us/pl/98/473/s1217/a], Oct. 12, 1984, [98 Stat. 2165][/us/stat/98/2165].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1217(a), Oct. 12, 1984, [98 Stat. 2165][/us/stat/98/2165].)
 
  __Effective Date__ 
 
-[Pub. L. 98–473, title II, § 1220][/us/pl/98/473/s1220], Oct. 12, 1984, [98 Stat. 2167][/us/stat/98/2167], provided that: 
+[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1220, Oct. 12, 1984, [98 Stat. 2167][/us/stat/98/2167], provided that: 
 
 > “This part \[part K (§§ 1217–1220) of chapter XII of title II of [Pub. L. 98–473][/us/pl/98/473], enacting this section and sections 3292, 3506, and 3507 of this title and amending [section 3161 of this title][/us/usc/t18/s3161]\] and the amendments made by this part shall take effect thirty days after the date of the enactment of this Act \[Oct. 12, 1984\].”
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/98/473/s1217/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1217%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2165
-[/us/pl/98/473/s1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1220
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2167
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t18/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3161

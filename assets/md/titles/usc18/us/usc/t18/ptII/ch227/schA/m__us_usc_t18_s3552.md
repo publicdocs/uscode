@@ -31,15 +31,15 @@
 
     The court shall assure that a report filed pursuant to this section is disclosed to the defendant, the counsel for the defendant, and the attorney for the Government at least ten days prior to the date set for sentencing, unless this minimum period is waived by the defendant. The court shall provide a copy of the presentence report to the attorney for the Government to use in collecting an assessment, criminal fine, forfeiture or restitution imposed.
 
-(Added [Pub. L. 98–473, title II, § 212(a)(2)][/us/pl/98/473/s212/a/2], Oct. 12, 1984, [98 Stat. 1988][/us/stat/98/1988]; amended [Pub. L. 99–646, § 7(a)][/us/pl/99/646/s7/a], Nov. 10, 1986, [100 Stat. 3593][/us/stat/100/3593]; [Pub. L. 101–647, title XXXVI, § 3625][/us/pl/101/647/s3625], Nov. 29, 1990, [104 Stat. 4965][/us/stat/104/4965].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(2), Oct. 12, 1984, [98 Stat. 1988][/us/stat/98/1988]; amended [Pub. L. 99–646][/us/pl/99/646], § 7(a), Nov. 10, 1986, [100 Stat. 3593][/us/stat/100/3593]; [Pub. L. 101–647, title XXXVI][/us/pl/101/647/tXXXVI], § 3625, Nov. 29, 1990, [104 Stat. 4965][/us/stat/104/4965].)
 
  __Amendments__ 
 
     1990—Subsec. (d). [Pub. L. 101–647][/us/pl/101/647] inserted at end “The court shall provide a copy of the presentence report to the attorney for the Government to use in collecting an assessment, criminal fine, forfeiture or restitution imposed.”
 
-    1986—Subsec. (b). [Pub. L. 99–646, § 7(a)(1)][/us/pl/99/646/s7/a/1], (2), substituted “study shall be” for “study shall take” and inserted “, if the defendant is in custody,” after “United States marshal shall”.
+    1986—Subsec. (b). [Pub. L. 99–646][/us/pl/99/646], § 7(a)(1), (2), substituted “study shall be” for “study shall take” and inserted “, if the defendant is in custody,” after “United States marshal shall”.
 
-    Subsec. (c). [Pub. L. 99–646, § 7(a)(3)][/us/pl/99/646/s7/a/3], substituted “the court may order the same psychiatric or psychological examination and report thereon as may be ordered under [section 4244(b) of this title][/us/usc/t18/s4244/b]” for “it may order that the defendant undergo a psychiatric or psychological examination and that the court be provided with a written report of the results of the examination pursuant to the provisions of section 4247”.
+    Subsec. (c). [Pub. L. 99–646][/us/pl/99/646], § 7(a)(3), substituted “the court may order the same psychiatric or psychological examination and report thereon as may be ordered under [section 4244(b) of this title][/us/usc/t18/s4244/b]” for “it may order that the defendant undergo a psychiatric or psychological examination and that the court be provided with a written report of the results of the examination pursuant to the provisions of section 4247”.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -47,7 +47,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–646, § 7(b)][/us/pl/99/646/s7/b], Nov. 10, 1986, [100 Stat. 3593][/us/stat/100/3593], provided that: 
+[Pub. L. 99–646][/us/pl/99/646], § 7(b), Nov. 10, 1986, [100 Stat. 3593][/us/stat/100/3593], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of [section 3552 of title 18][/us/usc/t18/s3552], United States Code \[Nov. 1, 1987\].”
 
@@ -57,7 +57,7 @@
 
  __Use of Certain Technology To Facilitate Criminal Conduct__ 
 
-[Pub. L. 104–294, title V, § 501][/us/pl/104/294/s501], Oct. 11, 1996, [110 Stat. 3497][/us/stat/110/3497], provided that:
+[Pub. L. 104–294, title V][/us/pl/104/294/tV], § 501, Oct. 11, 1996, [110 Stat. 3497][/us/stat/110/3497], provided that:
 
 >     “(a)  __Information__  __.—__ 
 
@@ -80,25 +80,25 @@
 
 [/us/usc/t28/s994/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994%2Fa
 [/us/usc/t18/s4244/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4244%2Fb
-[/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1988
-[/us/pl/99/646/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs7%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3593
-[/us/pl/101/647/s3625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3625
+[/us/pl/101/647/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXVI
 [/us/stat/104/4965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4965
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
-[/us/pl/99/646/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs7%2Fa%2F1
-[/us/pl/99/646/s7/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs7%2Fa%2F3
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/usc/t18/s4244/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4244%2Fb
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/101/647/s3631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3631
 [/us/usc/t28/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs3001
-[/us/pl/99/646/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs7%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3593
 [/us/usc/t18/s3552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3552
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
-[/us/pl/104/294/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs501
+[/us/pl/104/294/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtV
 [/us/stat/110/3497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3497
 
 

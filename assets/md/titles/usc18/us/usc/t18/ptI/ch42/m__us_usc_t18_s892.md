@@ -45,7 +45,7 @@
 
     (c) In any prosecution under this section, if evidence has been introduced tending to show the existence of any of the circumstances described in subsection (b)(1) or (b)(2), and direct evidence of the actual belief of the debtor as to the creditor’s collection practices is not available, then for the purpose of showing the understanding of the debtor and the creditor at the time the extension of credit was made, the court may in its discretion allow evidence to be introduced tending to show the reputation as to collection practices of the creditor in any community of which the debtor was a member at the time of the extension.
 
-(Added [Pub. L. 90–321, title II, § 202(a)][/us/pl/90/321/s202/a], May 29, 1968, [82 Stat. 160][/us/stat/82/160]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+(Added [Pub. L. 90–321, title II][/us/pl/90/321/tII], § 202(a), May 29, 1968, [82 Stat. 160][/us/stat/82/160]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Amendments__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/90/321/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs202%2Fa
+[/us/pl/90/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtII
 [/us/stat/82/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F160
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

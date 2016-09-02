@@ -29,13 +29,13 @@
 
     (6) the term “website” means any collection of material placed in a computer server-based file archive so that it is publicly accessible, over the Internet, using hypertext transfer protocol or any successor protocol.
 
-(Added [Pub. L. 110–401, title V, § 501(a)][/us/pl/110/401/s501/a], Oct. 13, 2008, [122 Stat. 4250][/us/stat/122/4250].)
+(Added [Pub. L. 110–401, title V][/us/pl/110/401/tV], § 501(a), Oct. 13, 2008, [122 Stat. 4250][/us/stat/122/4250].)
 
  __References in Text__ 
 
     The Federal Rules of Criminal Procedure, referred to in par. (1), are set out in the Appendix to this title.
 
-    Section 1101 of the Internet Tax Freedom Act, referred to in par. (4), is [section 1101 of title XI of div. C of Pub. L. 105–277][/us/pl/105/277/s1101], which is set out in a note under [section 151 of Title 47][/us/usc/t47/s151], Telecommunications.
+    Section 1101 of the Internet Tax Freedom Act, referred to in par. (4), is [section 1101 of title XI of div. C of Pub. L. 105–277][/us/pl/105/277/dC/tXI/s1101], which is set out in a note under [section 151 of Title 47][/us/usc/t47/s151], Telecommunications.
 
 ----------
 
@@ -46,9 +46,9 @@
 
 [/us/usc/t15/s7702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7702
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
-[/us/pl/110/401/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2Fs501%2Fa
+[/us/pl/110/401/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2FtV
 [/us/stat/122/4250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4250
-[/us/pl/105/277/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1101
+[/us/pl/105/277/dC/tXI/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtXI%2Fs1101
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
 
 

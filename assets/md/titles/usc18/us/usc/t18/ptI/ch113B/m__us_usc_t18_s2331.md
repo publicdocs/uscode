@@ -67,7 +67,7 @@
 
         (C) occur primarily within the territorial jurisdiction of the United States.
 
-(Added [Pub. L. 102–572, title X, § 1003(a)(3)][/us/pl/102/572/s1003/a/3], Oct. 29, 1992, [106 Stat. 4521][/us/stat/106/4521]; amended [Pub. L. 107–56, title VIII, § 802(a)][/us/pl/107/56/s802/a], Oct. 26, 2001, [115 Stat. 376][/us/stat/115/376].)
+(Added [Pub. L. 102–572, title X][/us/pl/102/572/tX], § 1003(a)(3), Oct. 29, 1992, [106 Stat. 4521][/us/stat/106/4521]; amended [Pub. L. 107–56, title VIII][/us/pl/107/56/tVIII], § 802(a), Oct. 26, 2001, [115 Stat. 376][/us/stat/115/376].)
 
  __References in Text__ 
 
@@ -79,29 +79,29 @@
 
  __Amendments__ 
 
-    2001—Par. (1)(B)(iii). [Pub. L. 107–56, § 802(a)(1)][/us/pl/107/56/s802/a/1], substituted “by mass destruction, assassination, or kidnapping” for “by assassination or kidnapping”.
+    2001—Par. (1)(B)(iii). [Pub. L. 107–56][/us/pl/107/56], § 802(a)(1), substituted “by mass destruction, assassination, or kidnapping” for “by assassination or kidnapping”.
 
-    Par. (5). [Pub. L. 107–56, § 802(a)(2)][/us/pl/107/56/s802/a/2]–(4), added par. (5).
+    Par. (5). [Pub. L. 107–56][/us/pl/107/56], § 802(a)(2)–(4), added par. (5).
 
  __Effective Date__ 
 
-[Pub. L. 102–572, title X, § 1003(c)][/us/pl/102/572/s1003/c], Oct. 29, 1992, [106 Stat. 4524][/us/stat/106/4524], provided that: 
+[Pub. L. 102–572, title X][/us/pl/102/572/tX], § 1003(c), Oct. 29, 1992, [106 Stat. 4524][/us/stat/106/4524], provided that: 
 
 > “This section \[enacting this section and sections 2333 to 2338 of this title, amending former [section 2331 of this title][/us/usc/t18/s2331], and renumbering former [section 2331 of this title][/us/usc/t18/s2331] as 2332\] and the amendments made by this section shall apply to any pending case or any cause of action arising on or after 4 years before the date of enactment of this Act \[Oct. 29, 1992\].”
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–458, title VI, § 6601][/us/pl/108/458/s6601], Dec. 17, 2004, [118 Stat. 3761][/us/stat/118/3761], provided that: 
+[Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6601, Dec. 17, 2004, [118 Stat. 3761][/us/stat/118/3761], provided that: 
 
 > “This subtitle \[subtitle G (§§ 6601–6604) of title VI of [Pub. L. 108–458][/us/pl/108/458], enacting [section 2339D of this title][/us/usc/t18/s2339D], amending sections 2332b and 2339A to 2339C of this title, and enacting provisions set out as a note under [section 2332b of this title][/us/usc/t18/s2332b]\] may be cited as the ‘Material Support to Terrorism Prohibition Enhancement Act of 2004’.”
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–197, title I, § 101][/us/pl/107/197/s101], June 25, 2002, [116 Stat. 721][/us/stat/116/721], provided that: 
+[Pub. L. 107–197, title I][/us/pl/107/197/tI], § 101, June 25, 2002, [116 Stat. 721][/us/stat/116/721], provided that: 
 
 > “This title \[enacting [section 2332f of this title][/us/usc/t18/s2332f] and provisions set out as notes under [section 2332f of this title][/us/usc/t18/s2332f]\] may be cited as the ‘Terrorist Bombings Convention Implementation Act of 2002’.”
 
-[Pub. L. 107–197, title II, § 201][/us/pl/107/197/s201], June 25, 2002, [116 Stat. 724][/us/stat/116/724], provided that: 
+[Pub. L. 107–197, title II][/us/pl/107/197/tII], § 201, June 25, 2002, [116 Stat. 724][/us/stat/116/724], provided that: 
 
 > “This title \[enacting [section 2339C of this title][/us/usc/t18/s2339C] and provisions set out as notes under [section 2339C of this title][/us/usc/t18/s2339C]\] may be cited as the ‘Suppression of the Financing of Terrorism Convention Implementation Act of 2002’.”
 
@@ -112,27 +112,27 @@
 ----------
 ----------
 
-[/us/pl/102/572/s1003/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs1003%2Fa%2F3
+[/us/pl/102/572/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtX
 [/us/stat/106/4521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4521
-[/us/pl/107/56/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs802%2Fa
+[/us/pl/107/56/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtVIII
 [/us/stat/115/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F376
 [/us/usc/t8/s1101/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F22
-[/us/pl/107/56/s802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs802%2Fa%2F1
-[/us/pl/107/56/s802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs802%2Fa%2F2
-[/us/pl/102/572/s1003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs1003%2Fc
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/102/572/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtX
 [/us/stat/106/4524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4524
 [/us/usc/t18/s2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2331
 [/us/usc/t18/s2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2331
-[/us/pl/108/458/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6601
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3761
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t18/s2339D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2339D
 [/us/usc/t18/s2332b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332b
-[/us/pl/107/197/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197%2Fs101
+[/us/pl/107/197/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197%2FtI
 [/us/stat/116/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F721
 [/us/usc/t18/s2332f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332f
 [/us/usc/t18/s2332f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332f
-[/us/pl/107/197/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197%2Fs201
+[/us/pl/107/197/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197%2FtII
 [/us/stat/116/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F724
 [/us/usc/t18/s2339C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2339C
 [/us/usc/t18/s2339C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2339C

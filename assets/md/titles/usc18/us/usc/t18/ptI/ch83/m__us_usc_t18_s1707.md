@@ -17,11 +17,11 @@
 
     Whoever steals, purloins, or embezzles any property used by the Postal Service, or appropriates any such property to his own or any other than its proper use, or conveys away any such property to the hindrance or detriment of the public service, shall be fined under this title or imprisoned not more than three years, or both; but if the value of such property does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 779][/us/stat/62/779]; [Pub. L. 91–375, § 6(j)(18)][/us/pl/91/375/s6/j/18], Aug. 12, 1970, [84 Stat. 778][/us/stat/84/778]; [Pub. L. 103–322, title XXXIII, § 330016(1)(G)][/us/pl/103/322/s330016/1/G], (H), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–294, title VI, § 606(a)][/us/pl/104/294/s606/a], Oct. 11, 1996, [110 Stat. 3511][/us/stat/110/3511].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 779][/us/stat/62/779]; [Pub. L. 91–375][/us/pl/91/375], § 6(j)(18), Aug. 12, 1970, [84 Stat. 778][/us/stat/84/778]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(G), (H), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 606(a), Oct. 11, 1996, [110 Stat. 3511][/us/stat/110/3511].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 313 ([Mar. 4, 1909, ch. 321, § 190][/us/act/1909-03-04/ch321/s190], [35 Stat. 1124][/us/stat/35/1124]).
+    Based on title 18, U.S.C., 1940 ed., § 313 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 190, [35 Stat. 1124][/us/stat/35/1124]).
 
     The phrase “used by” was substituted for “in use by or belonging to” in order to limit the application of the section to property used by the Post Office Department. Theft of public property belonging to governmental departments is covered by [section 641 of this title][/us/usc/t18/s641].
 
@@ -52,13 +52,13 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F779
-[/us/pl/91/375/s6/j/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fj%2F18
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F778
-[/us/pl/103/322/s330016/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FG
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/104/294/s606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs606%2Fa
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3511
-[/us/act/1909-03-04/ch321/s190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs190
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1124
 [/us/usc/t18/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs641
 [/us/usc/t18/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1705

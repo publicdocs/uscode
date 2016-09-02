@@ -19,7 +19,7 @@
 
     (b) Whoever knowingly sells, purchases, uses for profit, or transports for sale or profit any Native American cultural items obtained in violation of the Native American Grave Protection and Repatriation Act shall be fined in accordance with this title, imprisoned not more than one year, or both, and in the case of a second or subsequent violation, be fined in accordance with this title, imprisoned not more than 5 years, or both.
 
-(Added [Pub. L. 101–601, § 4(a)][/us/pl/101/601/s4/a], Nov. 16, 1990, [104 Stat. 3052][/us/stat/104/3052]; amended [Pub. L. 103–322, title XXXIII, § 330010(4)][/us/pl/103/322/s330010/4], Sept. 13, 1994, [108 Stat. 2143][/us/stat/108/2143].)
+(Added [Pub. L. 101–601][/us/pl/101/601], § 4(a), Nov. 16, 1990, [104 Stat. 3052][/us/stat/104/3052]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330010(4), Sept. 13, 1994, [108 Stat. 2143][/us/stat/108/2143].)
 
  __References in Text__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/101/601/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601%2Fs4%2Fa
+[/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
 [/us/stat/104/3052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3052
-[/us/pl/103/322/s330010/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330010%2F4
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2143
 [/us/pl/101/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F601
 [/us/stat/104/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3048

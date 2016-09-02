@@ -23,13 +23,13 @@
 
     shall be fined under this title, or imprisoned not more than 25 years, or both.
 
-(Added [Pub. L. 107–204, title VIII, § 807(a)][/us/pl/107/204/s807/a], July 30, 2002, [116 Stat. 804][/us/stat/116/804]; amended [Pub. L. 111–21, § 2(e)(1)][/us/pl/111/21/s2/e/1], May 20, 2009, [123 Stat. 1618][/us/stat/123/1618].)
+(Added [Pub. L. 107–204, title VIII][/us/pl/107/204/tVIII], § 807(a), July 30, 2002, [116 Stat. 804][/us/stat/116/804]; amended [Pub. L. 111–21][/us/pl/111/21], § 2(e)(1), May 20, 2009, [123 Stat. 1618][/us/stat/123/1618].)
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–21, § 2(e)(1)(A)][/us/pl/111/21/s2/e/1/A], inserted “and commodities” before “fraud” in section catchline.
+    2009—[Pub. L. 111–21][/us/pl/111/21], § 2(e)(1)(A), inserted “and commodities” before “fraud” in section catchline.
 
-    Pars. (1), (2). [Pub. L. 111–21, § 2(e)(1)(B)][/us/pl/111/21/s2/e/1/B], (C), inserted “any commodity for future delivery, or any option on a commodity for future delivery, or” before “any security”.
+    Pars. (1), (2). [Pub. L. 111–21][/us/pl/111/21], § 2(e)(1)(B), (C), inserted “any commodity for future delivery, or any option on a commodity for future delivery, or” before “any security”.
 
 ----------
 
@@ -42,11 +42,11 @@
 [/us/usc/t15/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78
 [/us/usc/t15/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78
 [/us/usc/t15/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78
-[/us/pl/107/204/s807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs807%2Fa
+[/us/pl/107/204/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtVIII
 [/us/stat/116/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F804
-[/us/pl/111/21/s2/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs2%2Fe%2F1
+[/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
 [/us/stat/123/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1618
-[/us/pl/111/21/s2/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs2%2Fe%2F1%2FA
-[/us/pl/111/21/s2/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs2%2Fe%2F1%2FB
+[/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
+[/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
 
 

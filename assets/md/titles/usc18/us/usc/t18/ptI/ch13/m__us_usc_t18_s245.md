@@ -73,25 +73,25 @@
 
     (d) For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Added [Pub. L. 90–284, title I, § 101(a)][/us/pl/90/284/s101/a], Apr. 11, 1968, [82 Stat. 73][/us/stat/82/73]; amended [Pub. L. 100–690, title VII, § 7020(a)][/us/pl/100/690/s7020/a], Nov. 18, 1988, [102 Stat. 4396][/us/stat/102/4396]; [Pub. L. 101–647, title XII, § 1205(b)][/us/pl/101/647/s1205/b], Nov. 29, 1990, [104 Stat. 4830][/us/stat/104/4830]; [Pub. L. 103–322, title VI, § 60006(c)][/us/pl/103/322/s60006/c], title XXXII, § 320103(c), title XXXIII, § 330016(1)(H), (L), Sept. 13, 1994, [108 Stat. 1971][/us/stat/108/1971], 2109, 2147; [Pub. L. 104–294, title VI, § 604(b)(14)(C)][/us/pl/104/294/s604/b/14/C], (37), Oct. 11, 1996, [110 Stat. 3507][/us/stat/110/3507], 3509.)
+(Added [Pub. L. 90–284, title I][/us/pl/90/284/tI], § 101(a), Apr. 11, 1968, [82 Stat. 73][/us/stat/82/73]; amended [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7020(a), Nov. 18, 1988, [102 Stat. 4396][/us/stat/102/4396]; [Pub. L. 101–647, title XII][/us/pl/101/647/tXII], § 1205(b), Nov. 29, 1990, [104 Stat. 4830][/us/stat/104/4830]; [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60006(c), title XXXII, § 320103(c), title XXXIII, § 330016(1)(H), (L), Sept. 13, 1994, [108 Stat. 1971][/us/stat/108/1971], 2109, 2147; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(14)(C), (37), Oct. 11, 1996, [110 Stat. 3507][/us/stat/110/3507], 3509.)
 
  __Amendments__ 
 
-    1996—Subsec. (b). [Pub. L. 104–294][/us/pl/104/294] amended [Pub. L. 103–322, § 320103(c)][/us/pl/103/322/s320103/c]. See 1994 Amendment notes below.
+    1996—Subsec. (b). [Pub. L. 104–294][/us/pl/104/294] amended [Pub. L. 103–322][/us/pl/103/322], § 320103(c). See 1994 Amendment notes below.
 
-    1994—Subsec. (b). [Pub. L. 103–322, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], substituted “shall be fined under this title” for “shall be fined not more than $10,000” before “, or imprisoned not more than ten years” in concluding provisions.
+    1994—Subsec. (b). [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(L), substituted “shall be fined under this title” for “shall be fined not more than $10,000” before “, or imprisoned not more than ten years” in concluding provisions.
 
-    [Pub. L. 103–322, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], substituted “shall be fined under this title” for “shall be fined not more than $1,000” before “, or imprisoned not more than one year” in concluding provisions.
+    [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(H), substituted “shall be fined under this title” for “shall be fined not more than $1,000” before “, or imprisoned not more than one year” in concluding provisions.
 
-    [Pub. L. 103–322, § 320103(c)(4)][/us/pl/103/322/s320103/c/4]–(6), in concluding provisions, inserted “from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill,” after “death results” and substituted “shall be fined under this title or imprisoned for any term of years or for life, or both” for “shall be subject to imprisonment for any term of years or for life”.
+    [Pub. L. 103–322][/us/pl/103/322], § 320103(c)(4)–(6), in concluding provisions, inserted “from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill,” after “death results” and substituted “shall be fined under this title or imprisoned for any term of years or for life, or both” for “shall be subject to imprisonment for any term of years or for life”.
 
-    [Pub. L. 103–322, § 320103(c)(3)][/us/pl/103/322/s320103/c/3], which provided for amendment identical to [Pub. L. 103–322, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], above, was repealed by [Pub. L. 104–294, § 604(b)(14)(C)][/us/pl/104/294/s604/b/14/C].
+    [Pub. L. 103–322][/us/pl/103/322], § 320103(c)(3), which provided for amendment identical to [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(L), above, was repealed by [Pub. L. 104–294][/us/pl/104/294], § 604(b)(14)(C).
 
-    [Pub. L. 103–322, § 320103(c)(2)][/us/pl/103/322/s320103/c/2], as amended by [Pub. L. 104–294, § 604(b)(37)][/us/pl/104/294/s604/b/37], inserted “from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire” after “bodily injury results” in concluding provisions.
+    [Pub. L. 103–322][/us/pl/103/322], § 320103(c)(2), as amended by [Pub. L. 104–294][/us/pl/104/294], § 604(b)(37), inserted “from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire” after “bodily injury results” in concluding provisions.
 
-    [Pub. L. 103–322, § 320103(c)(1)][/us/pl/103/322/s320103/c/1], which provided for amendment identical to [Pub. L. 103–322, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], above, was repealed by [Pub. L. 104–294, § 604(b)(14)(C)][/us/pl/104/294/s604/b/14/C].
+    [Pub. L. 103–322][/us/pl/103/322], § 320103(c)(1), which provided for amendment identical to [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(H), above, was repealed by [Pub. L. 104–294][/us/pl/104/294], § 604(b)(14)(C).
 
-    [Pub. L. 103–322, § 60006(c)][/us/pl/103/322/s60006/c], in concluding provisions, inserted “, or may be sentenced to death” before “. As used in this section”.
+    [Pub. L. 103–322][/us/pl/103/322], § 60006(c), in concluding provisions, inserted “, or may be sentenced to death” before “. As used in this section”.
 
     1990—Subsec. (d). [Pub. L. 101–647][/us/pl/101/647] added subsec. (d).
 
@@ -103,13 +103,13 @@
 
  __Fair Housing__ 
 
-[Pub. L. 90–284, title I, § 101(b)][/us/pl/90/284/s101/b], Apr. 11, 1968, [82 Stat. 75][/us/stat/82/75], provided that: 
+[Pub. L. 90–284, title I][/us/pl/90/284/tI], § 101(b), Apr. 11, 1968, [82 Stat. 75][/us/stat/82/75], provided that: 
 
 > “Nothing contained in this section \[enacting this section\] shall apply to or affect activities under title VIII of this Act \[sections 3601 to 3619 of Title 42, The Public Health and Welfare\].”
 
  __Riots or Civil Disturbances, Suppression and Restoration of Law and Order; Acts or Omissions of Enforcement Officers and Members of Military Service Not Subject to This Section__ 
 
-[Pub. L. 90–284, title I, § 101(c)][/us/pl/90/284/s101/c], Apr. 11, 1968, [82 Stat. 75][/us/stat/82/75], provided that: 
+[Pub. L. 90–284, title I][/us/pl/90/284/tI], § 101(c), Apr. 11, 1968, [82 Stat. 75][/us/stat/82/75], provided that: 
 
 > “The provisions of this section \[enacting this section\] shall not apply to acts or omissions on the part of law enforcement officers, members of the National Guard, as defined in [section 101(9) of title 10][/us/usc/t10/s101/9], United States Code, members of the organized militia of any State or the District of Columbia, not covered by such section 101(9), or members of the Armed Forces of the United States, who are engaged in suppressing a riot or civil disturbance or restoring law and order during a riot or civil disturbance.”
 
@@ -120,38 +120,38 @@
 ----------
 ----------
 
-[/us/pl/90/284/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs101%2Fa
+[/us/pl/90/284/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtI
 [/us/stat/82/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F73
-[/us/pl/100/690/s7020/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7020%2Fa
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4396
-[/us/pl/101/647/s1205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1205%2Fb
+[/us/pl/101/647/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXII
 [/us/stat/104/4830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4830
-[/us/pl/103/322/s60006/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60006%2Fc
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1971
-[/us/pl/104/294/s604/b/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F14%2FC
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3507
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
-[/us/pl/103/322/s320103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320103%2Fc
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
-[/us/pl/103/322/s320103/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320103%2Fc%2F4
-[/us/pl/103/322/s320103/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320103%2Fc%2F3
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
-[/us/pl/104/294/s604/b/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F14%2FC
-[/us/pl/103/322/s320103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320103%2Fc%2F2
-[/us/pl/104/294/s604/b/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F37
-[/us/pl/103/322/s320103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320103%2Fc%2F1
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
-[/us/pl/104/294/s604/b/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F14%2FC
-[/us/pl/103/322/s60006/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60006%2Fc
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/104/294/s604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fd
 [/us/usc/t18/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs13
-[/us/pl/90/284/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs101%2Fb
+[/us/pl/90/284/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtI
 [/us/stat/82/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F75
-[/us/pl/90/284/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs101%2Fc
+[/us/pl/90/284/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtI
 [/us/stat/82/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F75
 [/us/usc/t10/s101/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F9
 

@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    1974—[Pub. L. 93–415, title V, § 521][/us/pl/93/415/s521], Sept. 7, 1974, [88 Stat. 1139][/us/stat/88/1139], added chapter heading.
+    1974—[Pub. L. 93–415, title V][/us/pl/93/415/tV], § 521, Sept. 7, 1974, [88 Stat. 1139][/us/stat/88/1139], added chapter heading.
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/93/415/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs521
+[/us/pl/93/415/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV
 [/us/stat/88/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1139
 
 

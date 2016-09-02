@@ -33,7 +33,7 @@
 
     (c) Subject to the provisions of section 3174(c), section 3162 of this chapter shall become effective and apply to all cases commenced by arrest or summons, and all informations or indictments filed, on or after July 1, 1980.
 
-(Added [Pub. L. 93–619, title I, § 101][/us/pl/93/619/s101], Jan. 3, 1975, [88 Stat. 2080][/us/stat/88/2080]; amended [Pub. L. 96–43, § 6][/us/pl/96/43/s6], Aug. 2, 1979, [93 Stat. 328][/us/stat/93/328].)
+(Added [Pub. L. 93–619, title I][/us/pl/93/619/tI], § 101, Jan. 3, 1975, [88 Stat. 2080][/us/stat/88/2080]; amended [Pub. L. 96–43][/us/pl/96/43], § 6, Aug. 2, 1979, [93 Stat. 328][/us/stat/93/328].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/93/619/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2Fs101
+[/us/pl/93/619/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2FtI
 [/us/stat/88/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2080
-[/us/pl/96/43/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs6
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 [/us/stat/93/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F328
 [/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 [/us/usc/t18/s3162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3162

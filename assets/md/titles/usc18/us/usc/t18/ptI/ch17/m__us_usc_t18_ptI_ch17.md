@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    1965—[Pub. L. 89–81, title II, § 212(b)][/us/pl/89/81/s212/b], July 23, 1965, [79 Stat. 257][/us/stat/79/257], added item 337.
+    1965—[Pub. L. 89–81, title II][/us/pl/89/81/tII], § 212(b), July 23, 1965, [79 Stat. 257][/us/stat/79/257], added item 337.
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/89/81/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F81%2Fs212%2Fb
+[/us/pl/89/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F81%2FtII
 [/us/stat/79/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F257
 
 

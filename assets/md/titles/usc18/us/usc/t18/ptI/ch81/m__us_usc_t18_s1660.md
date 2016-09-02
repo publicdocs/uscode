@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 552 ([Mar. 4, 1909, ch. 321, § 334][/us/act/1909-03-04/ch321/s334], [35 Stat. 1152][/us/stat/35/1152]).
+    Based on title 18, U.S.C., 1940 ed., § 552 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 334, [35 Stat. 1152][/us/stat/35/1152]).
 
     Provision relating to concealment of pirate and words “is an accessory after the fact to such robbery or piracy” were omitted in view of definitive [section 3 of this title][/us/usc/t18/s3].
 
@@ -34,7 +34,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F775
-[/us/act/1909-03-04/ch321/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs334
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1152
 [/us/usc/t18/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3
 

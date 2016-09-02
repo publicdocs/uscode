@@ -17,7 +17,7 @@
 
     The term “obligation or other security of any foreign government” includes, but is not limited to, uncanceled stamps, whether or not demonetized.
 
-(Added [Pub. L. 85–921, § 3][/us/pl/85/921/s3], Sept. 2, 1958, [72 Stat. 1771][/us/stat/72/1771].)
+(Added [Pub. L. 85–921][/us/pl/85/921], § 3, Sept. 2, 1958, [72 Stat. 1771][/us/stat/72/1771].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/921/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F921%2Fs3
+[/us/pl/85/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F921
 [/us/stat/72/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1771
 
 

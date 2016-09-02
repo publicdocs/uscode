@@ -47,13 +47,13 @@
 
     (c) This section shall apply only to offenses committed on or after November 1, 1987.
 
-(Added [Pub. L. 100–690, title VII, § 7101(a)][/us/pl/100/690/s7101/a], Nov. 18, 1988, [102 Stat. 4415][/us/stat/102/4415]; amended [Pub. L. 101–647, title XXXV][/us/pl/101/647], §§ 3599B, 3599C, Nov. 29, 1990, [104 Stat. 4931][/us/stat/104/4931], 4932.)
+(Added [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7101(a), Nov. 18, 1988, [102 Stat. 4415][/us/stat/102/4415]; amended [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], §§ 3599B, 3599C, Nov. 29, 1990, [104 Stat. 4931][/us/stat/104/4931], 4932.)
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–647, § 3599B][/us/pl/101/647/s3599B], inserted “of” before second reference to “offenders” in section catchline.
+    1990—[Pub. L. 101–647][/us/pl/101/647], § 3599B, inserted “of” before second reference to “offenders” in section catchline.
 
-    Subsec. (b)(1)(C). [Pub. L. 101–647, § 3599C][/us/pl/101/647/s3599C], inserted period at end.
+    Subsec. (b)(1)(C). [Pub. L. 101–647][/us/pl/101/647], § 3599C, inserted period at end.
 
 ----------
 
@@ -64,11 +64,11 @@
 
 [/us/usc/t18/s3552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3552
 [/us/usc/t18/s3742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3742
-[/us/pl/100/690/s7101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7101%2Fa
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4415
-[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4931
-[/us/pl/101/647/s3599B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3599B
-[/us/pl/101/647/s3599C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3599C
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 
 

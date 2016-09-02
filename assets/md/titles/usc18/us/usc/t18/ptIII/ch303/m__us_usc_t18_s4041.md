@@ -17,11 +17,11 @@
 
     The Bureau of Prisons shall be in charge of a director appointed by and serving directly under the Attorney General. The Attorney General may appoint such additional officers and employees as he deems necessary.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 849][/us/stat/62/849]; [Pub. L. 107–273, div. A, title III, § 302(1)][/us/pl/107/273/s302/1], Nov. 2, 2002, [116 Stat. 1781][/us/stat/116/1781].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 849][/us/stat/62/849]; [Pub. L. 107–273, div. A, title III][/us/pl/107/273/dA/tIII], § 302(1), Nov. 2, 2002, [116 Stat. 1781][/us/stat/116/1781].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 753 ([May 14, 1930, ch. 274, § 1][/us/act/1930-05-14/ch274/s1], [46 Stat. 325][/us/stat/46/325]).
+    Based on title 18, U.S.C., 1940 ed., § 753 ([May 14, 1930, ch. 274][/us/act/1930-05-14/ch274], § 1, [46 Stat. 325][/us/stat/46/325]).
 
     The entire second sentence was omitted as executed. All powers and authority originally vested in the former Superintendent of Prisons are now possessed by the Bureau of Prisons.
 
@@ -44,9 +44,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F849
-[/us/pl/107/273/s302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs302%2F1
+[/us/pl/107/273/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIII
 [/us/stat/116/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1781
-[/us/act/1930-05-14/ch274/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch274%2Fs1
+[/us/act/1930-05-14/ch274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch274
 [/us/stat/46/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F325
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315

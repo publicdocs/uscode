@@ -73,7 +73,7 @@
 
     Nothing in this section shall be construed to preempt the law of any State or local subdivision thereof to protect animals.
 
-(Added [Pub. L. 106–152, § 1(a)][/us/pl/106/152/s1/a], Dec. 9, 1999, [113 Stat. 1732][/us/stat/113/1732]; amended [Pub. L. 111–294, § 3(a)][/us/pl/111/294/s3/a], Dec. 9, 2010, [124 Stat. 3178][/us/stat/124/3178].)
+(Added [Pub. L. 106–152][/us/pl/106/152], § 1(a), Dec. 9, 1999, [113 Stat. 1732][/us/stat/113/1732]; amended [Pub. L. 111–294][/us/pl/111/294], § 3(a), Dec. 9, 2010, [124 Stat. 3178][/us/stat/124/3178].)
 
  __Amendments__ 
 
@@ -81,13 +81,13 @@
 
  __Severability__ 
 
-[Pub. L. 111–294, § 3(c)][/us/pl/111/294/s3/c], Dec. 9, 2010, [124 Stat. 3179][/us/stat/124/3179], provided that: 
+[Pub. L. 111–294][/us/pl/111/294], § 3(c), Dec. 9, 2010, [124 Stat. 3179][/us/stat/124/3179], provided that: 
 
 > “If any provision of [section 48 of title 18][/us/usc/t18/s48], United States Code (as amended by this section), or the application of the provision to any person or circumstance, is held to be unconstitutional, the provision and the application of the provision to other persons or circumstances shall not be affected thereby.”
 
  __Findings__ 
 
-[Pub. L. 111–294, § 2][/us/pl/111/294/s2], Dec. 9, 2010, [124 Stat. 3177][/us/stat/124/3177], provided that: 
+[Pub. L. 111–294][/us/pl/111/294], § 2, Dec. 9, 2010, [124 Stat. 3177][/us/stat/124/3177], provided that: 
 
 > “The Congress finds the following:
 
@@ -134,15 +134,15 @@
 ----------
 ----------
 
-[/us/pl/106/152/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F152%2Fs1%2Fa
+[/us/pl/106/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F152
 [/us/stat/113/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1732
-[/us/pl/111/294/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F294%2Fs3%2Fa
+[/us/pl/111/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F294
 [/us/stat/124/3178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3178
 [/us/pl/111/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F294
-[/us/pl/111/294/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F294%2Fs3%2Fc
+[/us/pl/111/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F294
 [/us/stat/124/3179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3179
 [/us/usc/t18/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs48
-[/us/pl/111/294/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F294%2Fs2
+[/us/pl/111/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F294
 [/us/stat/124/3177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3177
 
 

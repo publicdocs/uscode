@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch68/m__us_usc_t18_ptI_ch68.md) | [Next](./../../../../..//us/usc/t18/ptI/ch69/m__us_usc_t18_s1421.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch69)
+[Previous](./../../../../..//us/usc/t18/ptI/ch68/m__us_usc_t18_s1401...1407.md) | [Next](./../../../../..//us/usc/t18/ptI/ch69/m__us_usc_t18_s1421.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch69)
 
 ### CHAPTER 69—NATIONALITY AND CITIZENSHIP
 
@@ -99,7 +99,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch68/m__us_usc_t18_ptI_ch68.md) | [Next](./../../../../..//us/usc/t18/ptI/ch69/m__us_usc_t18_s1421.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch69)
+[Previous](./../../../../..//us/usc/t18/ptI/ch68/m__us_usc_t18_s1401...1407.md) | [Next](./../../../../..//us/usc/t18/ptI/ch69/m__us_usc_t18_s1421.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch69)
 
 ----------
 ----------

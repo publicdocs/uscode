@@ -37,7 +37,7 @@
 
         (3) the term “significant bodily injury” means bodily injury which involves a risk of death, significant physical pain, protracted and obvious disfigurement, or a protracted loss or impairment of the function of a bodily member, organ, or mental or sensory faculty.
 
-(Added [Pub. L. 98–305, § 2][/us/pl/98/305/s2], May 31, 1984, [98 Stat. 221][/us/stat/98/221]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(O)][/us/pl/103/322/s330016/1/O]–(Q), Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148].)
+(Added [Pub. L. 98–305][/us/pl/98/305], § 2, May 31, 1984, [98 Stat. 221][/us/stat/98/221]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(O)–(Q), Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148].)
 
  __References in Text__ 
 
@@ -45,17 +45,17 @@
 
  __Amendments__ 
 
-    1994—Subsecs. (a), (b). [Pub. L. 103–322, § 330016(1)(O)][/us/pl/103/322/s330016/1/O], substituted “fined under this title” for “fined not more than $25,000”.
+    1994—Subsecs. (a), (b). [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(O), substituted “fined under this title” for “fined not more than $25,000”.
 
-    Subsec. (c)(1). [Pub. L. 103–322, § 330016(1)(P)][/us/pl/103/322/s330016/1/P], substituted “fined under this title” for “fined not more than $35,000”.
+    Subsec. (c)(1). [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(P), substituted “fined under this title” for “fined not more than $35,000”.
 
-    Subsec. (c)(2). [Pub. L. 103–322, § 330016(1)(Q)][/us/pl/103/322/s330016/1/Q], substituted “fined under this title” for “fined not more than $50,000”.
+    Subsec. (c)(2). [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(Q), substituted “fined under this title” for “fined not more than $50,000”.
 
-    Subsec. (d). [Pub. L. 103–322, § 330016(1)(O)][/us/pl/103/322/s330016/1/O], substituted “fined under this title” for “fined not more than $25,000”.
+    Subsec. (d). [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(O), substituted “fined under this title” for “fined not more than $25,000”.
 
  __Short Title__ 
 
-[Pub. L. 98–305, § 1][/us/pl/98/305/s1], May 31, 1984, [98 Stat. 221][/us/stat/98/221], provided: 
+[Pub. L. 98–305][/us/pl/98/305], § 1, May 31, 1984, [98 Stat. 221][/us/stat/98/221], provided: 
 
 > “That this Act \[enacting this section and provisions set out as a note under [section 522 of Title 28][/us/usc/t28/s522], Judiciary and Judicial Procedure\] may be cited as the ‘Controlled Substance Registrant Protection Act of 1984’.”
 
@@ -72,16 +72,16 @@
 
 [/us/usc/t21/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs822
 [/us/usc/t21/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs822
-[/us/pl/98/305/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F305%2Fs2
+[/us/pl/98/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F305
 [/us/stat/98/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F221
-[/us/pl/103/322/s330016/1/O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FO
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2148
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/103/322/s330016/1/O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FO
-[/us/pl/103/322/s330016/1/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FP
-[/us/pl/103/322/s330016/1/Q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FQ
-[/us/pl/103/322/s330016/1/O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FO
-[/us/pl/98/305/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F305%2Fs1
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/98/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F305
 [/us/stat/98/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F221
 [/us/usc/t28/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs522
 [/us/pl/98/305/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F305%2Fs4

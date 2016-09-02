@@ -25,7 +25,7 @@
 
     The term “commerce of the United States”, as used in this section, shall not include commerce with the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or Guam.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 715][/us/stat/62/715]; [June 30, 1955, ch. 258, § 2(c)][/us/act/1955-06-30/ch258/s2/c], [69 Stat. 242][/us/stat/69/242]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322], §§ 330004(18), 330016(1)(K), Sept. 13, 1994, [108 Stat. 2142][/us/stat/108/2142], 2147; [Pub. L. 104–294, title VI, § 604(b)(23)][/us/pl/104/294/s604/b/23], Oct. 11, 1996, [110 Stat. 3508][/us/stat/110/3508].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 715][/us/stat/62/715]; [June 30, 1955, ch. 258][/us/act/1955-06-30/ch258], § 2(c), [69 Stat. 242][/us/stat/69/242]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], §§ 330004(18), 330016(1)(K), Sept. 13, 1994, [108 Stat. 2142][/us/stat/108/2142], 2147; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(23), Oct. 11, 1996, [110 Stat. 3508][/us/stat/110/3508].)
 
  __Historical and Revision Notes__ 
 
@@ -45,11 +45,11 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–294][/us/pl/104/294] amended [Pub. L. 103–322, § 330004(18)][/us/pl/103/322/s330004/18]. See 1994 Amendment note below.
+    1996—[Pub. L. 104–294][/us/pl/104/294] amended [Pub. L. 103–322][/us/pl/103/322], § 330004(18). See 1994 Amendment note below.
 
-    1994—[Pub. L. 103–322, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], substituted “fined under this title” for “fined not more than $5,000” in third par.
+    1994—[Pub. L. 103–322][/us/pl/103/322], § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in third par.
 
-    [Pub. L. 103–322, § 330004(18)][/us/pl/103/322/s330004/18], as amended by [Pub. L. 104–294, § 604(b)(23)][/us/pl/104/294/s604/b/23], struck out “Philippine Islands,” before “Virgin Islands” in last par.
+    [Pub. L. 103–322][/us/pl/103/322], § 330004(18), as amended by [Pub. L. 104–294][/us/pl/104/294], § 604(b)(23), struck out “Philippine Islands,” before “Virgin Islands” in last par.
 
     1955—Act June 30, 1955, inserted reference to Johnston Island in last par.
 
@@ -70,11 +70,11 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F715
-[/us/act/1955-06-30/ch258/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-30%2Fch258%2Fs2%2Fc
+[/us/act/1955-06-30/ch258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-30%2Fch258
 [/us/stat/69/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F242
-[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2142
-[/us/pl/104/294/s604/b/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F23
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3508
 [/us/usc/t19/s1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1591
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
@@ -84,10 +84,10 @@
 [/us/usc/t18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2
 [/us/usc/t19/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1709
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
-[/us/pl/103/322/s330004/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330004%2F18
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
-[/us/pl/103/322/s330004/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330004%2F18
-[/us/pl/104/294/s604/b/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F23
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/104/294/s604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fd
 [/us/usc/t18/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs13

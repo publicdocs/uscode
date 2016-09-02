@@ -29,11 +29,11 @@
 
     Shall be fined under this title or imprisoned not more than five years, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 801][/us/stat/62/801]; [Pub. L. 103–322, title XXXIII, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 801][/us/stat/62/801]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(K), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on [section 710a of title 46][/us/usc/t46/s710a], U.S.C., 1940 ed., Shipping ([June 25, 1936, ch. 816, § 6][/us/act/1936-06-25/ch816/s6], [49 Stat. 1936][/us/stat/49/1936]).
+    Based on [section 710a of title 46][/us/usc/t46/s710a], U.S.C., 1940 ed., Shipping ([June 25, 1936, ch. 816][/us/act/1936-06-25/ch816], § 6, [49 Stat. 1936][/us/stat/49/1936]).
 
     The phrase “the Bureau of Marine Inspection and Navigation,” identifying the agency issuing the certificate, license or document, was omitted without change of substance. The functions of the Bureau of Marine Inspection and Navigation were transferred to the Bureau of Customs and the Coast Guard by Executive Order 9083 Feb. 28, 1942, title 50, App. U.S.C., 1940 ed., following § 601. Such transfer is temporary under [section 621 of title 50][/us/usc/t50/s621], App., U.S.C., 1940 ed. (First War Powers Act).
 
@@ -58,10 +58,10 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F801
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/usc/t46/s710a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs710a
-[/us/act/1936-06-25/ch816/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-25%2Fch816%2Fs6
+[/us/act/1936-06-25/ch816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-25%2Fch816
 [/us/stat/49/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1936
 [/us/usc/t50/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs621
 [/us/usc/t18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2

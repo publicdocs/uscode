@@ -77,11 +77,11 @@
 
     (d) In the event that any provision of this section is held invalid, it is the intent of Congress that the remaining provisions of this section shall continue in full force and effect.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 759][/us/stat/62/759]; [Pub. L. 101–644, title I, § 104(a)][/us/pl/101/644/s104/a], Nov. 29, 1990, [104 Stat. 4663][/us/stat/104/4663]; [Pub. L. 111–211, title I, § 103][/us/pl/111/211/s103], July 29, 2010, [124 Stat. 2260][/us/stat/124/2260].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 759][/us/stat/62/759]; [Pub. L. 101–644, title I][/us/pl/101/644/tI], § 104(a), Nov. 29, 1990, [104 Stat. 4663][/us/stat/104/4663]; [Pub. L. 111–211, title I][/us/pl/111/211/tI], § 103, July 29, 2010, [124 Stat. 2260][/us/stat/124/2260].)
 
  __Historical and Revision Notes__ 
 
-    Based on [section 305e of title 25][/us/usc/t25/s305e], U.S.C., 1940 ed., Indians ([Aug. 27, 1935, ch. 748, § 6][/us/act/1935-08-27/ch748/s6], [49 Stat. 893][/us/stat/49/893]).
+    Based on [section 305e of title 25][/us/usc/t25/s305e], U.S.C., 1940 ed., Indians ([Aug. 27, 1935, ch. 748][/us/act/1935-08-27/ch748], § 6, [49 Stat. 893][/us/stat/49/893]).
 
     The reference to the offense as a misdemeanor was omitted as unnecessary in view of the definition of misdemeanor in [section 1 of this title][/us/usc/t18/s1].
 
@@ -93,13 +93,13 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b). [Pub. L. 111–211, § 103(1)][/us/pl/111/211/s103/1], added subsec. (b) and struck out former subsec. (b) which read as follows: “Whoever knowingly violates subsection (a) shall—
+    2010—Subsec. (b). [Pub. L. 111–211][/us/pl/111/211], § 103(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “Whoever knowingly violates subsection (a) shall—
 
     “(1) in the case of a first violation, if an individual, be fined not more than $250,000 or imprisoned not more than five years, or both, and, if a person other than an individual, be fined not more than $1,000,000; and
 
     “(2) in the case of subsequent violations, if an individual, be fined not more than $1,000,000 or imprisoned not more than fifteen years, or both, and, if a person other than an individual, be fined not more than $5,000,000.”
 
-    Subsec. (c)(3). [Pub. L. 111–211, § 103(2)][/us/pl/111/211/s103/2], added par. (3) and struck out former par. (3) which read as follows: “the term ‘Indian tribe’ means—
+    Subsec. (c)(3). [Pub. L. 111–211][/us/pl/111/211], § 103(2), added par. (3) and struck out former par. (3) which read as follows: “the term ‘Indian tribe’ means—
 
     “(A) any Indian tribe, band, nation, Alaska Native village, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; or
 
@@ -125,19 +125,19 @@
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F759
-[/us/pl/101/644/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs104%2Fa
+[/us/pl/101/644/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtI
 [/us/stat/104/4663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4663
-[/us/pl/111/211/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs103
+[/us/pl/111/211/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtI
 [/us/stat/124/2260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2260
 [/us/usc/t25/s305e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs305e
-[/us/act/1935-08-27/ch748/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch748%2Fs6
+[/us/act/1935-08-27/ch748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch748
 [/us/stat/49/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F893
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1
 [/us/usc/t25/s305e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs305e
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1
 [/us/usc/t18/s1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1157
-[/us/pl/111/211/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs103%2F1
-[/us/pl/111/211/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs103%2F2
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
+[/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
 [/us/pl/101/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644
 [/us/pl/101/644/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs107
 [/us/usc/t25/s305e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs305e

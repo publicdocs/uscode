@@ -19,7 +19,7 @@
 
     The word “poll” means any request for information, verbal or written, which by its language or form of expression requires or implies the necessity of an answer, where the request is made with the intent of compiling the result of the answers obtained, either for the personal use of the person making the request, or for the purpose of reporting the same to any other person, persons, political party, unincorporated association or corporation, or for the purpose of publishing the same orally, by radio, or in written or printed form.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 720][/us/stat/62/720]; [Pub. L. 103–322, title XXXIII, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 720][/us/stat/62/720]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(H), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
@@ -40,7 +40,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F720
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/usc/t50/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs344
 [/us/act/1942-09-16/ch561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-09-16%2Fch561

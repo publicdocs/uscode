@@ -23,11 +23,11 @@
 
     Whoever, with intent to extort from any person any money or other thing of value, knowingly so deposits as aforesaid, any communication, for the purpose aforesaid, containing any threat to injure the property or reputation of the addressee or of another, or the reputation of a deceased person, or any threat to accuse the addressee or any other person of a crime, shall be fined under this title or imprisoned not more than two years, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 741][/us/stat/62/741]; [Pub. L. 91–375, § 6(j)(8)][/us/pl/91/375/s6/j/8], Aug. 12, 1970, [84 Stat. 777][/us/stat/84/777]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322], §§ 330016(1)(G), (H), (K), 330021(2), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147], 2150.)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 741][/us/stat/62/741]; [Pub. L. 91–375][/us/pl/91/375], § 6(j)(8), Aug. 12, 1970, [84 Stat. 777][/us/stat/84/777]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], §§ 330016(1)(G), (H), (K), 330021(2), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147], 2150.)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 338b ([July 8, 1932, ch. 464, § 2][/us/act/1932-07-08/ch464/s2], [47 Stat. 649][/us/stat/47/649]; [May 15, 1939, ch. 133, § 1][/us/act/1939-05-15/ch133/s1], [53 Stat. 742][/us/stat/53/742]).
+    Based on title 18, U.S.C., 1940 ed., § 338b ([July 8, 1932, ch. 464][/us/act/1932-07-08/ch464], § 2, [47 Stat. 649][/us/stat/47/649]; [May 15, 1939, ch. 133][/us/act/1939-05-15/ch133], § 1, [53 Stat. 742][/us/stat/53/742]).
 
     Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in [section 2 of this title][/us/usc/t18/s2].
 
@@ -35,13 +35,13 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–322, § 330021(2)][/us/pl/103/322/s330021/2], substituted “kidnapped” for “kidnaped” in first par.
+    1994—[Pub. L. 103–322][/us/pl/103/322], § 330021(2), substituted “kidnapped” for “kidnaped” in first par.
 
-    [Pub. L. 103–322, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], substituted “fined under this title” for “fined not more than $5,000” in first and second pars.
+    [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in first and second pars.
 
-    [Pub. L. 103–322, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], substituted “fined under this title” for “fined not more than $1,000” in third par.
+    [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” in third par.
 
-    [Pub. L. 103–322, § 330016(1)(G)][/us/pl/103/322/s330016/1/G], substituted “fined under this title” for “fined not more than $500” in fourth par.
+    [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(G), substituted “fined under this title” for “fined not more than $500” in fourth par.
 
     1970—[Pub. L. 91–375][/us/pl/91/375] substituted “Postal Service” for “Post Office Department of the United States” in two places in first par.
 
@@ -58,19 +58,19 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F741
-[/us/pl/91/375/s6/j/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fj%2F8
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F777
-[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/act/1932-07-08/ch464/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-08%2Fch464%2Fs2
+[/us/act/1932-07-08/ch464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-08%2Fch464
 [/us/stat/47/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F649
-[/us/act/1939-05-15/ch133/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-05-15%2Fch133%2Fs1
+[/us/act/1939-05-15/ch133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-05-15%2Fch133
 [/us/stat/53/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F742
 [/us/usc/t18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2
-[/us/pl/103/322/s330021/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330021%2F2
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
-[/us/pl/103/322/s330016/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FG
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa

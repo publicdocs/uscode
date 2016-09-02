@@ -61,7 +61,7 @@
 
         If the death of another results from a person’s violation of subsection (a), the person shall be fined not more than $2,000,000 and punished by imprisonment for life.
 
-(Added [Pub. L. 108–458, title VI, § 6905][/us/pl/108/458/s6905], Dec. 17, 2004, [118 Stat. 3772][/us/stat/118/3772].)
+(Added [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6905, Dec. 17, 2004, [118 Stat. 3772][/us/stat/118/3772].)
 
 ----------
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/108/458/s6905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6905
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3772
 
 

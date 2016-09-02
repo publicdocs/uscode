@@ -59,59 +59,59 @@
 
         (5) The term “venture” means any group of two or more individuals associated in fact, whether or not a legal entity.
 
-(Added [Pub. L. 106–386, div. A, § 112(a)(2)][/us/pl/106/386/s112/a/2], Oct. 28, 2000, [114 Stat. 1487][/us/stat/114/1487]; amended [Pub. L. 108–21, title I, § 103(a)(3)][/us/pl/108/21/s103/a/3], Apr. 30, 2003, [117 Stat. 653][/us/stat/117/653]; [Pub. L. 108–193, § 5(a)][/us/pl/108/193/s5/a], Dec. 19, 2003, [117 Stat. 2879][/us/stat/117/2879]; [Pub. L. 109–248, title II, § 208][/us/pl/109/248/s208], July 27, 2006, [120 Stat. 615][/us/stat/120/615]; [Pub. L. 110–457, title II, § 222(b)(5)][/us/pl/110/457/s222/b/5], Dec. 23, 2008, [122 Stat. 5069][/us/stat/122/5069]; [Pub. L. 114–22, title I][/us/pl/114/22], §§ 108(a), 118(b), May 29, 2015, [129 Stat. 238][/us/stat/129/238], 247.)
+(Added [Pub. L. 106–386, div. A][/us/pl/106/386/dA], § 112(a)(2), Oct. 28, 2000, [114 Stat. 1487][/us/stat/114/1487]; amended [Pub. L. 108–21, title I][/us/pl/108/21/tI], § 103(a)(3), Apr. 30, 2003, [117 Stat. 653][/us/stat/117/653]; [Pub. L. 108–193][/us/pl/108/193], § 5(a), Dec. 19, 2003, [117 Stat. 2879][/us/stat/117/2879]; [Pub. L. 109–248, title II][/us/pl/109/248/tII], § 208, July 27, 2006, [120 Stat. 615][/us/stat/120/615]; [Pub. L. 110–457, title II][/us/pl/110/457/tII], § 222(b)(5), Dec. 23, 2008, [122 Stat. 5069][/us/stat/122/5069]; [Pub. L. 114–22, title I][/us/pl/114/22/tI], §§ 108(a), 118(b), May 29, 2015, [129 Stat. 238][/us/stat/129/238], 247.)
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–22, § 118(b)(2)][/us/pl/114/22/s118/b/2], inserted “, except where the act constituting the violation of paragraph (1) is advertising,” after “knowing, or” in concluding provisions.
+    2015—Subsec. (a). [Pub. L. 114–22][/us/pl/114/22], § 118(b)(2), inserted “, except where the act constituting the violation of paragraph (1) is advertising,” after “knowing, or” in concluding provisions.
 
-    Subsec. (a)(1). [Pub. L. 114–22, § 118(b)(1)][/us/pl/114/22/s118/b/1], inserted “advertises,” after “obtains,”.
+    Subsec. (a)(1). [Pub. L. 114–22][/us/pl/114/22], § 118(b)(1), inserted “advertises,” after “obtains,”.
 
-    [Pub. L. 114–22, § 108(a)(1)][/us/pl/114/22/s108/a/1], substituted “maintains, patronizes, or solicits” for “or maintains”.
+    [Pub. L. 114–22][/us/pl/114/22], § 108(a)(1), substituted “maintains, patronizes, or solicits” for “or maintains”.
 
-    Subsec. (b)(1). [Pub. L. 114–22, § 118(b)(3)(A)][/us/pl/114/22/s118/b/3/A], inserted “advertised,” after “obtained,”.
+    Subsec. (b)(1). [Pub. L. 114–22][/us/pl/114/22], § 118(b)(3)(A), inserted “advertised,” after “obtained,”.
 
-    [Pub. L. 114–22, § 108(a)(2)(A)][/us/pl/114/22/s108/a/2/A], substituted “obtained, patronized, or solicited” for “or obtained”.
+    [Pub. L. 114–22][/us/pl/114/22], § 108(a)(2)(A), substituted “obtained, patronized, or solicited” for “or obtained”.
 
-    Subsec. (b)(2). [Pub. L. 114–22, § 118(b)(3)(B)][/us/pl/114/22/s118/b/3/B], inserted “advertised,” after “obtained,”.
+    Subsec. (b)(2). [Pub. L. 114–22][/us/pl/114/22], § 118(b)(3)(B), inserted “advertised,” after “obtained,”.
 
-    [Pub. L. 114–22, § 108(a)(2)(B)][/us/pl/114/22/s108/a/2/B], substituted “obtained, patronized, or solicited” for “or obtained”.
+    [Pub. L. 114–22][/us/pl/114/22], § 108(a)(2)(B), substituted “obtained, patronized, or solicited” for “or obtained”.
 
-    Subsec. (c). [Pub. L. 114–22, § 108(a)(3)][/us/pl/114/22/s108/a/3], substituted “, maintained, patronized, or solicited” for “or maintained” and “knew, or recklessly disregarded the fact, that the person” for “knew that the person”.
+    Subsec. (c). [Pub. L. 114–22][/us/pl/114/22], § 108(a)(3), substituted “, maintained, patronized, or solicited” for “or maintained” and “knew, or recklessly disregarded the fact, that the person” for “knew that the person”.
 
-    2008—Subsec. (a). [Pub. L. 110–457, § 222(b)(5)(A)(ii)][/us/pl/110/457/s222/b/5/A/ii], substituted “, or in reckless disregard of the fact, that means of force, threats of force, fraud, coercion described in subsection (e)(2), or any combination of such means” for “that force, fraud, or coercion described in subsection (c)(2)” in concluding provisions.
+    2008—Subsec. (a). [Pub. L. 110–457][/us/pl/110/457], § 222(b)(5)(A)(ii), substituted “, or in reckless disregard of the fact, that means of force, threats of force, fraud, coercion described in subsection (e)(2), or any combination of such means” for “that force, fraud, or coercion described in subsection (c)(2)” in concluding provisions.
 
-    Subsec. (a)(1). [Pub. L. 110–457, § 222(b)(5)(A)(i)][/us/pl/110/457/s222/b/5/A/i], substituted “obtains, or maintains” for “or obtains”.
+    Subsec. (a)(1). [Pub. L. 110–457][/us/pl/110/457], § 222(b)(5)(A)(i), substituted “obtains, or maintains” for “or obtains”.
 
-    Subsec. (b)(1). [Pub. L. 110–457, § 222(b)(5)(C)][/us/pl/110/457/s222/b/5/C], substituted “means of force, threats of force, fraud, or coercion described in subsection (e)(2), or by any combination of such means,” for “force, fraud, or coercion”.
+    Subsec. (b)(1). [Pub. L. 110–457][/us/pl/110/457], § 222(b)(5)(C), substituted “means of force, threats of force, fraud, or coercion described in subsection (e)(2), or by any combination of such means,” for “force, fraud, or coercion”.
 
-    Subsecs. (c), (d). [Pub. L. 110–457, § 222(b)(5)(D)][/us/pl/110/457/s222/b/5/D], added subsecs. (c) and (d). Former subsec. (c) redesignated (e).
+    Subsecs. (c), (d). [Pub. L. 110–457][/us/pl/110/457], § 222(b)(5)(D), added subsecs. (c) and (d). Former subsec. (c) redesignated (e).
 
-    Subsec. (e). [Pub. L. 110–457, § 222(b)(5)(B)][/us/pl/110/457/s222/b/5/B], (E), redesignated subsec. (c) as (e), added pars. (1) and (4), and redesignated former pars. (1) and (3) as (3) and (5), respectively.
+    Subsec. (e). [Pub. L. 110–457][/us/pl/110/457], § 222(b)(5)(B), (E), redesignated subsec. (c) as (e), added pars. (1) and (4), and redesignated former pars. (1) and (3) as (3) and (5), respectively.
 
-    2006—Subsec. (b)(1). [Pub. L. 109–248, § 208(1)][/us/pl/109/248/s208/1], substituted “and imprisonment for any term of years not less than 15 or for life” for “or imprisonment for any term of years or for life, or both”.
+    2006—Subsec. (b)(1). [Pub. L. 109–248][/us/pl/109/248], § 208(1), substituted “and imprisonment for any term of years not less than 15 or for life” for “or imprisonment for any term of years or for life, or both”.
 
-    Subsec. (b)(2). [Pub. L. 109–248, § 208(2)(B)][/us/pl/109/248/s208/2/B], which directed amendment of subsec. (b)(2) by striking out “, or both”, could not be executed because that language did not appear in text subsequent to amendment by [Pub. L. 109–248, § 208(2)(A)][/us/pl/109/248/s208/2/A]. See below.
+    Subsec. (b)(2). [Pub. L. 109–248][/us/pl/109/248], § 208(2)(B), which directed amendment of subsec. (b)(2) by striking out “, or both”, could not be executed because that language did not appear in text subsequent to amendment by [Pub. L. 109–248][/us/pl/109/248], § 208(2)(A). See below.
 
-    [Pub. L. 109–248, § 208(2)(A)][/us/pl/109/248/s208/2/A], substituted “and imprisonment for not less than 10 years or for life” for “or imprisonment for not more than 40 years, or both”.
+    [Pub. L. 109–248][/us/pl/109/248], § 208(2)(A), substituted “and imprisonment for not less than 10 years or for life” for “or imprisonment for not more than 40 years, or both”.
 
-    2003—[Pub. L. 108–193, § 5(a)(1)][/us/pl/108/193/s5/a/1], inserted comma after “fraud” in section catchline.
+    2003—[Pub. L. 108–193][/us/pl/108/193], § 5(a)(1), inserted comma after “fraud” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 108–193, § 5(a)(2)][/us/pl/108/193/s5/a/2], substituted “in or affecting interstate or foreign commerce, or within the special maritime and territorial jurisdiction of the United States” for “in or affecting interstate commerce”.
+    Subsec. (a)(1). [Pub. L. 108–193][/us/pl/108/193], § 5(a)(2), substituted “in or affecting interstate or foreign commerce, or within the special maritime and territorial jurisdiction of the United States” for “in or affecting interstate commerce”.
 
-    Subsec. (b). [Pub. L. 108–193, § 5(a)(3)][/us/pl/108/193/s5/a/3], substituted “the person recruited, enticed, harbored, transported, provided, or obtained” for “the person transported” in pars. (1) and (2).
+    Subsec. (b). [Pub. L. 108–193][/us/pl/108/193], § 5(a)(3), substituted “the person recruited, enticed, harbored, transported, provided, or obtained” for “the person transported” in pars. (1) and (2).
 
     Subsec. (b)(2). [Pub. L. 108–21][/us/pl/108/21] substituted “40” for “20”.
 
  __Purpose__ 
 
-[Pub. L. 114–22, title I, § 108(c)][/us/pl/114/22/s108/c], May 29, 2015, [129 Stat. 239][/us/stat/129/239], provided that: 
+[Pub. L. 114–22, title I][/us/pl/114/22/tI], § 108(c), May 29, 2015, [129 Stat. 239][/us/stat/129/239], provided that: 
 
 > “The purpose of the amendments made by this section \[amending this section and [section 7102 of Title 22][/us/usc/t22/s7102], Foreign Relations and Intercourse\] is to clarify the range of conduct punished as sex trafficking.”
 
  __Sense of Congress__ 
 
-[Pub. L. 114–22, title I, § 109][/us/pl/114/22/s109], May 29, 2015, [129 Stat. 239][/us/stat/129/239], provided that: 
+[Pub. L. 114–22, title I][/us/pl/114/22/tI], § 109, May 29, 2015, [129 Stat. 239][/us/stat/129/239], provided that: 
 
 > “It is the sense of Congress that—
 
@@ -130,43 +130,43 @@
 ----------
 ----------
 
-[/us/pl/106/386/s112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs112%2Fa%2F2
+[/us/pl/106/386/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdA
 [/us/stat/114/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1487
-[/us/pl/108/21/s103/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs103%2Fa%2F3
+[/us/pl/108/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtI
 [/us/stat/117/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F653
-[/us/pl/108/193/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs5%2Fa
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
 [/us/stat/117/2879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2879
-[/us/pl/109/248/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs208
+[/us/pl/109/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtII
 [/us/stat/120/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F615
-[/us/pl/110/457/s222/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs222%2Fb%2F5
+[/us/pl/110/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtII
 [/us/stat/122/5069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5069
-[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F238
-[/us/pl/114/22/s118/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs118%2Fb%2F2
-[/us/pl/114/22/s118/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs118%2Fb%2F1
-[/us/pl/114/22/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs108%2Fa%2F1
-[/us/pl/114/22/s118/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs118%2Fb%2F3%2FA
-[/us/pl/114/22/s108/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs108%2Fa%2F2%2FA
-[/us/pl/114/22/s118/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs118%2Fb%2F3%2FB
-[/us/pl/114/22/s108/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs108%2Fa%2F2%2FB
-[/us/pl/114/22/s108/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs108%2Fa%2F3
-[/us/pl/110/457/s222/b/5/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs222%2Fb%2F5%2FA%2Fii
-[/us/pl/110/457/s222/b/5/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs222%2Fb%2F5%2FA%2Fi
-[/us/pl/110/457/s222/b/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs222%2Fb%2F5%2FC
-[/us/pl/110/457/s222/b/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs222%2Fb%2F5%2FD
-[/us/pl/110/457/s222/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs222%2Fb%2F5%2FB
-[/us/pl/109/248/s208/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs208%2F1
-[/us/pl/109/248/s208/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs208%2F2%2FB
-[/us/pl/109/248/s208/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs208%2F2%2FA
-[/us/pl/109/248/s208/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs208%2F2%2FA
-[/us/pl/108/193/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs5%2Fa%2F1
-[/us/pl/108/193/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs5%2Fa%2F2
-[/us/pl/108/193/s5/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs5%2Fa%2F3
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
 [/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
-[/us/pl/114/22/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs108%2Fc
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F239
 [/us/usc/t22/s7102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102
-[/us/pl/114/22/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs109
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F239
 [/us/usc/t18/s1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1591
 [/us/usc/t18/s1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1591

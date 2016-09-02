@@ -43,11 +43,11 @@
 
     Shall be fined under this title  <sup>\[1\]</sup>  <sup><sup> 1 See 1994 Amendment note below. </sup></sup>  or imprisoned not more than five years, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 712][/us/stat/62/712]; [Pub. L. 91–375, § 6(j)(5)][/us/pl/91/375/s6/j/5], Aug. 12, 1970, [84 Stat. 777][/us/stat/84/777]; [Pub. L. 92–430][/us/pl/92/430], Sept. 23, 1972, [86 Stat. 722][/us/stat/86/722]; [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 712][/us/stat/62/712]; [Pub. L. 91–375][/us/pl/91/375], § 6(j)(5), Aug. 12, 1970, [84 Stat. 777][/us/stat/84/777]; [Pub. L. 92–430][/us/pl/92/430], Sept. 23, 1972, [86 Stat. 722][/us/stat/86/722]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 347 ([Mar. 4, 1909, ch. 321, § 218][/us/act/1909-03-04/ch321/s218], [35 Stat. 1131][/us/stat/35/1131]).
+    Based on title 18, U.S.C., 1940 ed., § 347 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 218, [35 Stat. 1131][/us/stat/35/1131]).
 
     References to persons causing, procuring, aiding or assisting were omitted as unnecessary as such persons are made principals by [section 2 of this title][/us/usc/t18/s2].
 
@@ -63,7 +63,7 @@
 
  __Change of Name__ 
 
-    Post Office Department redesignated United States Postal Service pursuant to [Pub. L. 91–375, § 6][/us/pl/91/375/s6](o), Aug. 12, 1970, [84 Stat. 733][/us/stat/84/733], set out as a note preceding [section 101 of Title 39][/us/usc/t39/s101], Postal Service.
+    Post Office Department redesignated United States Postal Service pursuant to [Pub. L. 91–375][/us/pl/91/375], § 6(o), Aug. 12, 1970, [84 Stat. 733][/us/stat/84/733], set out as a note preceding [section 101 of Title 39][/us/usc/t39/s101], Postal Service.
 
  __Effective Date of 1970 Amendment__ 
 
@@ -78,19 +78,19 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F712
-[/us/pl/91/375/s6/j/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fj%2F5
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F777
 [/us/pl/92/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F430
 [/us/stat/86/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F722
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/act/1909-03-04/ch321/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs218
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1131
 [/us/usc/t18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/92/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F430
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
-[/us/pl/91/375/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F733
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375

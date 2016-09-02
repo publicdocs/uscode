@@ -37,7 +37,7 @@
 
     (c) In this section, the term “benefit” means any record, voucher, payment, money or thing of value, good, service, right, or privilege provided by the United States, a State or local government, or other entity.
 
-(Added [Pub. L. 110–179, § 2(a)][/us/pl/110/179/s2/a], Jan. 7, 2008, [121 Stat. 2556][/us/stat/121/2556].)
+(Added [Pub. L. 110–179][/us/pl/110/179], § 2(a), Jan. 7, 2008, [121 Stat. 2556][/us/stat/121/2556].)
 
 ----------
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t42/s5170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5170
 [/us/usc/t42/s5191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5191
-[/us/pl/110/179/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F179%2Fs2%2Fa
+[/us/pl/110/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F179
 [/us/stat/121/2556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2556
 
 

@@ -23,7 +23,7 @@
 
     Whoever, having consented to a test or tests by reason of subsection (a), refuses to submit to such a test or tests, after having first been advised of the consequences of such a refusal, shall be denied the privilege of operating a motor vehicle upon the special maritime and territorial jurisdiction of the United States during the period of a year commencing on the date of arrest upon which such test or tests was refused, and such refusal may be admitted into evidence in any case arising from such person’s driving while under the influence of a drug or alcohol in such jurisdiction. Any person who operates a motor vehicle in the special maritime and territorial jurisdiction of the United States after having been denied such privilege under this subsection shall be treated for the purposes of any civil or criminal proceedings arising out of such operation as operating such vehicle without a license to do so.
 
-(Added [Pub. L. 100–690, title VI, § 6477(b)(1)][/us/pl/100/690/s6477/b/1], Nov. 18, 1988, [102 Stat. 4381][/us/stat/102/4381], § 3117; renumbered § 3118, [Pub. L. 101–647, title XXXV, § 3574][/us/pl/101/647/s3574], Nov. 29, 1990, [104 Stat. 4929][/us/stat/104/4929].)
+(Added [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6477(b)(1), Nov. 18, 1988, [102 Stat. 4381][/us/stat/102/4381], § 3117; renumbered § 3118, [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3574, Nov. 29, 1990, [104 Stat. 4929][/us/stat/104/4929].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/100/690/s6477/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6477%2Fb%2F1
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4381
-[/us/pl/101/647/s3574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3574
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4929
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/usc/t18/s3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3117

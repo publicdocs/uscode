@@ -19,7 +19,7 @@
 
     As used in this section, “vessel” includes every description of watercraft used, or capable of being used, as a means of transportation in water or in water and air; “vehicle” includes animals and every description of carriage or other contrivance used, or capable of being used, as a means of transportation on land or through the air.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 840][/us/stat/62/840], § 3615; renumbered § 3667, [Pub. L. 98–473, title II, § 212(a)(1)][/us/pl/98/473/s212/a/1], Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 840][/us/stat/62/840], § 3615; renumbered § 3667, [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(1), Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987].)
 
  __Historical and Revision Notes__ 
 
@@ -40,7 +40,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F840
-[/us/pl/98/473/s212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F1
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1987
 [/us/act/1936-06-25/ch815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-25%2Fch815
 [/us/stat/49/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1928

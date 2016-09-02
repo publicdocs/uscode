@@ -35,11 +35,11 @@
 
     Whoever, having knowledge that a Federal officer has been authorized or has applied for authorization to conduct electronic surveillance under the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801][/us/usc/t50/s1801], et seq.), in order to obstruct, impede, or prevent such activity, gives notice or attempts to give notice of the possible activity to any person shall be fined under this title or imprisoned not more than five years, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 802][/us/stat/62/802]; [Pub. L. 98–473, title II, § 1103][/us/pl/98/473/s1103], Oct. 12, 1984, [98 Stat. 2143][/us/stat/98/2143]; [Pub. L. 99–508, title I, § 109][/us/pl/99/508/s109], Oct. 21, 1986, [100 Stat. 1858][/us/stat/100/1858]; [Pub. L. 99–646, § 33][/us/pl/99/646/s33], Nov. 10, 1986, [100 Stat. 3598][/us/stat/100/3598]; [Pub. L. 100–690, title VII, § 7066][/us/pl/100/690/s7066], Nov. 18, 1988, [102 Stat. 4404][/us/stat/102/4404]; [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 106–185, § 12][/us/pl/106/185/s12], Apr. 25, 2000, [114 Stat. 218][/us/stat/114/218].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 802][/us/stat/62/802]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1103, Oct. 12, 1984, [98 Stat. 2143][/us/stat/98/2143]; [Pub. L. 99–508, title I][/us/pl/99/508/tI], § 109, Oct. 21, 1986, [100 Stat. 1858][/us/stat/100/1858]; [Pub. L. 99–646][/us/pl/99/646], § 33, Nov. 10, 1986, [100 Stat. 3598][/us/stat/100/3598]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7066, Nov. 18, 1988, [102 Stat. 4404][/us/stat/102/4404]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 106–185][/us/pl/106/185], § 12, Apr. 25, 2000, [114 Stat. 218][/us/stat/114/218].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 121 ([Mar. 4, 1909, ch. 321, § 65][/us/act/1909-03-04/ch321/s65], [35 Stat. 1100][/us/stat/35/1100]).
+    Based on title 18, U.S.C., 1940 ed., § 121 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 65, [35 Stat. 1100][/us/stat/35/1100]).
 
     Section was formed from the words following the first semicolon and ending with the second semicolon, in [section 121 of title 18][/us/usc/t18/s121], U.S.C., 1940 ed.
 
@@ -63,9 +63,9 @@
 
     [Pub. L. 99–508][/us/pl/99/508] designated first and second pars. as subsecs. (a) and (b), respectively, and inserted headings, and added subsec. (c).
 
-    1984—[Pub. L. 98–473, § 1103(a)][/us/pl/98/473/s1103/a], substituted provisions raising the maximum fine from $2,000 to $10,000 and raising the maximum term of imprisonment from two years to five years.
+    1984—[Pub. L. 98–473][/us/pl/98/473], § 1103(a), substituted provisions raising the maximum fine from $2,000 to $10,000 and raising the maximum term of imprisonment from two years to five years.
 
-    [Pub. L. 98–473, § 1103(b)][/us/pl/98/473/s1103/b], inserted paragraph relating to the penalties for warning the subject of a search.
+    [Pub. L. 98–473][/us/pl/98/473], § 1103(b), inserted paragraph relating to the penalties for warning the subject of a search.
 
  __Effective Date of 2000 Amendment__ 
 
@@ -85,19 +85,19 @@
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F802
-[/us/pl/98/473/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1103
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2143
-[/us/pl/99/508/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs109
+[/us/pl/99/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtI
 [/us/stat/100/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1858
-[/us/pl/99/646/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs33
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3598
-[/us/pl/100/690/s7066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7066
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4404
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/106/185/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs12
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/stat/114/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F218
-[/us/act/1909-03-04/ch321/s65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs65
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1100
 [/us/usc/t18/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs121
 [/us/usc/t18/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs121
@@ -110,8 +110,8 @@
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
 [/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
-[/us/pl/98/473/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1103%2Fa
-[/us/pl/98/473/s1103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1103%2Fb
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/pl/106/185/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs21
 [/us/usc/t8/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324

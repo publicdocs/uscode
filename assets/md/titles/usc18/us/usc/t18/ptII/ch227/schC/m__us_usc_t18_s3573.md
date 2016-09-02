@@ -25,7 +25,7 @@
 
     A petition under this subsection shall be filed in the court in which sentence was originally imposed, unless the court transfers jurisdiction to another court. This section shall apply to all fines and assessments irrespective of the date of imposition.
 
-(Added [Pub. L. 98–473, title II, § 212(a)(2)][/us/pl/98/473/s212/a/2], Oct. 12, 1984, [98 Stat. 1997][/us/stat/98/1997]; amended [Pub. L. 100–185, § 8(a)][/us/pl/100/185/s8/a], Dec. 11, 1987, [101 Stat. 1282][/us/stat/101/1282]; [Pub. L. 100–690, title VII, § 7082(a)][/us/pl/100/690/s7082/a], Nov. 18, 1988, [102 Stat. 4407][/us/stat/102/4407].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(2), Oct. 12, 1984, [98 Stat. 1997][/us/stat/98/1997]; amended [Pub. L. 100–185][/us/pl/100/185], § 8(a), Dec. 11, 1987, [101 Stat. 1282][/us/stat/101/1282]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7082(a), Nov. 18, 1988, [102 Stat. 4407][/us/stat/102/4407].)
 
  __Prior Provisions__ 
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1997
-[/us/pl/100/185/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185%2Fs8%2Fa
+[/us/pl/100/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185
 [/us/stat/101/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1282
-[/us/pl/100/690/s7082/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7082%2Fa
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4407
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690

@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–646, § 41(b)][/us/pl/99/646/s41/b], (c), Nov. 10, 1986, [100 Stat. 3600][/us/stat/100/3600], renumbered chapter 232 (relating to special forfeiture of collateral profits of crime) as chapter 232A, and renumbered items 3671 and 3672 as items 3681 and 3682, respectively.
+    1986—[Pub. L. 99–646][/us/pl/99/646], § 41(b), (c), Nov. 10, 1986, [100 Stat. 3600][/us/stat/100/3600], renumbered chapter 232 (relating to special forfeiture of collateral profits of crime) as chapter 232A, and renumbered items 3671 and 3672 as items 3681 and 3682, respectively.
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/99/646/s41/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs41%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3600
 
 

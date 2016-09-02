@@ -29,7 +29,7 @@
 
     (c) This section shall not be construed to repeal, modify or affect [section 17 of Title 15][/us/usc/t15/s17], sections 52, 101–115, 151–166 of Title 29 or sections 151–188 of Title 45.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 793][/us/stat/62/793]; [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 793][/us/stat/62/793]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
@@ -49,11 +49,11 @@
 
     Sections 101–115 of Title 29, referred to in subsec. (c), is a reference to [act Mar. 23, 1932, ch. 90][/us/act/1932-03-23/ch90], [47 Stat. 70][/us/stat/47/70], popularly known as the Norris-LaGuardia Act. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Title 29][/us/usc/t29/s101], Labor, and Tables.
 
-    Section 11 of that act, formerly classified to [section 111 of Title 29][/us/usc/t29/s111], was repealed and reenacted as [section 3692 of this title][/us/usc/t18/s3692] by [act June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862], eff. Sept. 1, 1948.
+    Section 11 of that act, formerly classified to [section 111 of Title 29][/us/usc/t29/s111], was repealed and reenacted as [section 3692 of this title][/us/usc/t18/s3692] by [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 862][/us/stat/62/862], eff. Sept. 1, 1948.
 
     Section 12 of that act, formerly classified to [section 112 of Title 29][/us/usc/t29/s112], was repealed by act June 25, 1948, and is covered by rule 42(b) of the Federal Rules of Criminal Procedure, set out in Appendix to this title.
 
-    [Section 164 of Title 45][/us/usc/t45/s164], included within the reference in subsec. (c) to sections 151–188 of Title 45, was repealed by [act Oct. 10, 1940, ch. 851, § 4][/us/act/1940-10-10/ch851/s4], [54 Stat. 1111][/us/stat/54/1111].
+    [Section 164 of Title 45][/us/usc/t45/s164], included within the reference in subsec. (c) to sections 151–188 of Title 45, was repealed by [act Oct. 10, 1940, ch. 851][/us/act/1940-10-10/ch851], § 4, [54 Stat. 1111][/us/stat/54/1111].
 
     [Section 186 of Title 45][/us/usc/t45/s186], included within the reference in subsec. (c) to sections 151–188 of Title 45, was omitted from the Code.
 
@@ -75,7 +75,7 @@
 [/us/usc/t15/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs17
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F793
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/act/1934-06-18/ch569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-18%2Fch569
 [/us/stat/48/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F979
@@ -89,11 +89,11 @@
 [/us/usc/t29/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs101
 [/us/usc/t29/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs111
 [/us/usc/t18/s3692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3692
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
 [/us/usc/t29/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs112
 [/us/usc/t45/s164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs164
-[/us/act/1940-10-10/ch851/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-10%2Fch851%2Fs4
+[/us/act/1940-10-10/ch851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-10%2Fch851
 [/us/stat/54/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1111
 [/us/usc/t45/s186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs186
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

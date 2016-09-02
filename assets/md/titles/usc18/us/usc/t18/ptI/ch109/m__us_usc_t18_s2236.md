@@ -25,11 +25,11 @@
 
     (c) making a search at the request or invitation or with the consent of the occupant of the premises.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 803][/us/stat/62/803]; [Pub. L. 104–294, title VI, § 601(a)(8)][/us/pl/104/294/s601/a/8], Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498]; [Pub. L. 107–273, div. B, title IV, § 4002(d)(1)(C)(iii)][/us/pl/107/273/s4002/d/1/C/iii], Nov. 2, 2002, [116 Stat. 1809][/us/stat/116/1809].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 803][/us/stat/62/803]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(a)(8), Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498]; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(d)(1)(C)(iii), Nov. 2, 2002, [116 Stat. 1809][/us/stat/116/1809].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 53a ([Aug. 27, 1935, ch. 740, § 201][/us/act/1935-08-27/ch740/s201], [49 Stat. 877][/us/stat/49/877]).
+    Based on title 18, U.S.C., 1940 ed., § 53a ([Aug. 27, 1935, ch. 740][/us/act/1935-08-27/ch740], § 201, [49 Stat. 877][/us/stat/49/877]).
 
     Words “or any department or agency thereof” were inserted to avoid ambiguity as to scope of section. (See definitive [section 6 of this title][/us/usc/t18/s6].)
 
@@ -56,11 +56,11 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F803
-[/us/pl/104/294/s601/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fa%2F8
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3498
-[/us/pl/107/273/s4002/d/1/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fd%2F1%2FC%2Fiii
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1809
-[/us/act/1935-08-27/ch740/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch740%2Fs201
+[/us/act/1935-08-27/ch740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch740
 [/us/stat/49/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F877
 [/us/usc/t18/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs6
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1

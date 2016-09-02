@@ -41,7 +41,7 @@
 
     In this section, the term “secure or restricted area” means an area of a vessel or facility designated as secure in an approved security plan, as required under [section 70103 of title 46][/us/usc/t46/s70103], United States Code, and the rules and regulations promulgated under that section.
 
-(Added [Pub. L. 109–177, title III, § 309(a)][/us/pl/109/177/s309/a], Mar. 9, 2006, [120 Stat. 241][/us/stat/120/241].)
+(Added [Pub. L. 109–177, title III][/us/pl/109/177/tIII], § 309(a), Mar. 9, 2006, [120 Stat. 241][/us/stat/120/241].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t46/s70103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70103
-[/us/pl/109/177/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs309%2Fa
+[/us/pl/109/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIII
 [/us/stat/120/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F241
 
 

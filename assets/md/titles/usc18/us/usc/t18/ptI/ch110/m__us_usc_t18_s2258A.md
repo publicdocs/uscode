@@ -225,7 +225,7 @@
 
         Nothing in this section shall be construed as replacing, amending, or otherwise interfering with the authorities and duties under section 2703.
 
-(Added [Pub. L. 110–401, title V, § 501(a)][/us/pl/110/401/s501/a], Oct. 13, 2008, [122 Stat. 4243][/us/stat/122/4243].)
+(Added [Pub. L. 110–401, title V][/us/pl/110/401/tV], § 501(a), Oct. 13, 2008, [122 Stat. 4243][/us/stat/122/4243].)
 
 ----------
 
@@ -234,7 +234,7 @@
 ----------
 ----------
 
-[/us/pl/110/401/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2Fs501%2Fa
+[/us/pl/110/401/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2FtV
 [/us/stat/122/4243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4243
 
 

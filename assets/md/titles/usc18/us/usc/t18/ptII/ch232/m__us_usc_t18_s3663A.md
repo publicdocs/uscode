@@ -93,7 +93,7 @@
 
     (d) An order of restitution under this section shall be issued and enforced in accordance with section 3664.
 
-(Added [Pub. L. 104–132, title II, § 204(a)][/us/pl/104/132/s204/a], Apr. 24, 1996, [110 Stat. 1227][/us/stat/110/1227]; amended [Pub. L. 106–310, div. B, title XXXVI, § 3613(d)][/us/pl/106/310/s3613/d], Oct. 17, 2000, [114 Stat. 1230][/us/stat/114/1230]; [Pub. L. 112–186, § 6][/us/pl/112/186/s6], Oct. 5, 2012, [126 Stat. 1430][/us/stat/126/1430].)
+(Added [Pub. L. 104–132, title II][/us/pl/104/132/tII], § 204(a), Apr. 24, 1996, [110 Stat. 1227][/us/stat/110/1227]; amended [Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3613(d), Oct. 17, 2000, [114 Stat. 1230][/us/stat/114/1230]; [Pub. L. 112–186][/us/pl/112/186], § 6, Oct. 5, 2012, [126 Stat. 1430][/us/stat/126/1430].)
 
  __Amendments__ 
 
@@ -113,11 +113,11 @@
 ----------
 
 [/us/usc/t21/s856/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs856%2Fa
-[/us/pl/104/132/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs204%2Fa
+[/us/pl/104/132/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtII
 [/us/stat/110/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1227
-[/us/pl/106/310/s3613/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3613%2Fd
+[/us/pl/106/310/dB/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2FdB%2FtXXXVI
 [/us/stat/114/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1230
-[/us/pl/112/186/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F186%2Fs6
+[/us/pl/112/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F186
 [/us/stat/126/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1430
 [/us/pl/112/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F186
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310

@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 907 ([May 27, 1930, ch. 339, § 7][/us/act/1930-05-27/ch339/s7], [46 Stat. 390][/us/stat/46/390]).
+    Based on title 18, U.S.C., 1940 ed., § 907 ([May 27, 1930, ch. 339][/us/act/1930-05-27/ch339], § 7, [46 Stat. 390][/us/stat/46/390]).
 
     Language of section is so changed as to make one policy for all institutions, thus clarifying the manifest intent of Congress.
 
@@ -36,7 +36,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F850
-[/us/act/1930-05-27/ch339/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-27%2Fch339%2Fs7
+[/us/act/1930-05-27/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-27%2Fch339
 [/us/stat/46/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F390
 
 

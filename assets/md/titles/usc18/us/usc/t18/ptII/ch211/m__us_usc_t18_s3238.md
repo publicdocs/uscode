@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on [section 102 of title 28][/us/usc/t28/s102], U.S.C., 1940 ed., Judicial Code and Judiciary ([Mar. 3, 1911, ch. 231, § 41][/us/act/1911-03-03/ch231/s41], [36 Stat. 1100][/us/stat/36/1100]).
+    Based on [section 102 of title 28][/us/usc/t28/s102], U.S.C., 1940 ed., Judicial Code and Judiciary ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 41, [36 Stat. 1100][/us/stat/36/1100]).
 
     Words “begun or” were inserted to clarify scope of this section and [section 3237 of this title][/us/usc/t18/s3237].
 
@@ -43,7 +43,7 @@
 [/us/pl/88/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F27
 [/us/stat/77/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F48
 [/us/usc/t28/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs102
-[/us/act/1911-03-03/ch231/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs41
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1100
 [/us/usc/t18/s3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3237
 [/us/usc/t22/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs219

@@ -25,7 +25,7 @@
 
         (2) the term “in any 1 year period” has the meaning given to the term “in any one-year period” in section 666.
 
-(Added [Pub. L. 100–690, title VII, § 7078(a)][/us/pl/100/690/s7078/a], Nov. 18, 1988, [102 Stat. 4406][/us/stat/102/4406]; amended [Pub. L. 103–322, title XXXII, § 320609][/us/pl/103/322/s320609], Sept. 13, 1994, [108 Stat. 2120][/us/stat/108/2120]; [Pub. L. 104–294, title VI, § 604(b)(43)][/us/pl/104/294/s604/b/43], Oct. 11, 1996, [110 Stat. 3509][/us/stat/110/3509]; [Pub. L. 105–65, title V, § 564][/us/pl/105/65/s564], Oct. 27, 1997, [111 Stat. 1420][/us/stat/111/1420]; [Pub. L. 106–569, title VII, § 709(b)][/us/pl/106/569/s709/b], Dec. 27, 2000, [114 Stat. 3018][/us/stat/114/3018]; [Pub. L. 107–273, div. A, title II, § 205(c)][/us/pl/107/273/s205/c], Nov. 2, 2002, [116 Stat. 1778][/us/stat/116/1778].)
+(Added [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7078(a), Nov. 18, 1988, [102 Stat. 4406][/us/stat/102/4406]; amended [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320609, Sept. 13, 1994, [108 Stat. 2120][/us/stat/108/2120]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(43), Oct. 11, 1996, [110 Stat. 3509][/us/stat/110/3509]; [Pub. L. 105–65, title V][/us/pl/105/65/tV], § 564, Oct. 27, 1997, [111 Stat. 1420][/us/stat/111/1420]; [Pub. L. 106–569, title VII][/us/pl/106/569/tVII], § 709(b), Dec. 27, 2000, [114 Stat. 3018][/us/stat/114/3018]; [Pub. L. 107–273, div. A, title II][/us/pl/107/273/dA/tII], § 205(c), Nov. 2, 2002, [116 Stat. 1778][/us/stat/116/1778].)
 
  __References in Text__ 
 
@@ -54,17 +54,17 @@
 ----------
 ----------
 
-[/us/pl/100/690/s7078/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7078%2Fa
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4406
-[/us/pl/103/322/s320609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320609
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2120
-[/us/pl/104/294/s604/b/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F43
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3509
-[/us/pl/105/65/s564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2Fs564
+[/us/pl/105/65/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F65%2FtV
 [/us/stat/111/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1420
-[/us/pl/106/569/s709/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2Fs709%2Fb
+[/us/pl/106/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F569%2FtVII
 [/us/stat/114/3018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3018
-[/us/pl/107/273/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs205%2Fc
+[/us/pl/107/273/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtII
 [/us/stat/116/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1778
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F413

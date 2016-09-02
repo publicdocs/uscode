@@ -17,7 +17,7 @@
 
     No person shall be prosecuted, tried, or punished for any non-capital offense or conspiracy to commit a non-capital offense under section 1581 (Peonage; Obstructing Enforcement), 1583 (Enticement into Slavery), 1584 (Sale into Involuntary Servitude), 1589 (Forced Labor), 1590 (Trafficking with Respect to Peonage, Slavery, Involuntary Servitude, or Forced Labor), or 1592 (Unlawful Conduct with Respect to Documents in furtherance of Trafficking, Peonage, Slavery, Involuntary Servitude, or Forced Labor) of this title or under section 274(a) of the Immigration and Nationality Act unless the indictment is found or the information is instituted not later than 10 years after the commission of the offense.
 
-(Added [Pub. L. 109–162, title XI, § 1182(a)][/us/pl/109/162/s1182/a], Jan. 5, 2006, [119 Stat. 3126][/us/stat/119/3126].)
+(Added [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1182(a), Jan. 5, 2006, [119 Stat. 3126][/us/stat/119/3126].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/162/s1182/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1182%2Fa
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3126
 [/us/usc/t8/s1324/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324%2Fa
 

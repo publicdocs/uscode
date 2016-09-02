@@ -99,11 +99,11 @@
 
     (e) If the court desires more detailed information concerning an alleged or adjudicated delinquent, it may commit him, after notice and hearing at which the juvenile is represented by counsel, to the custody of the Attorney General for observation and study by an appropriate agency. Such observation and study shall be conducted on an out-patient basis, unless the court determines that inpatient observation and study are necessary to obtain the desired information. In the case of an alleged juvenile delinquent, inpatient study may be ordered only with the consent of the juvenile and his attorney. The agency shall make a complete study of the alleged or adjudicated delinquent to ascertain his personal traits, his capabilities, his background, any previous delinquency or criminal experience, any mental or physical defect, and any other relevant factors. The Attorney General shall submit to the court and the attorneys for the juvenile and the Government the results of the study within thirty days after the commitment of the juvenile, unless the court grants additional time.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 858][/us/stat/62/858]; [Pub. L. 93–415, title V, § 507][/us/pl/93/415/s507], Sept. 7, 1974, [88 Stat. 1136][/us/stat/88/1136]; [Pub. L. 98–473, title II, § 214(a)][/us/pl/98/473/s214/a], Oct. 12, 1984, [98 Stat. 2013][/us/stat/98/2013]; [Pub. L. 99–646, § 21(a)][/us/pl/99/646/s21/a], Nov. 10, 1986, [100 Stat. 3596][/us/stat/100/3596]; [Pub. L. 104–294, title VI, § 604(b)(40)][/us/pl/104/294/s604/b/40], Oct. 11, 1996, [110 Stat. 3509][/us/stat/110/3509]; [Pub. L. 107–273, div. C, title II, § 12301][/us/pl/107/273/s12301], Nov. 2, 2002, [116 Stat. 1896][/us/stat/116/1896].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 858][/us/stat/62/858]; [Pub. L. 93–415, title V][/us/pl/93/415/tV], § 507, Sept. 7, 1974, [88 Stat. 1136][/us/stat/88/1136]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 214(a), Oct. 12, 1984, [98 Stat. 2013][/us/stat/98/2013]; [Pub. L. 99–646][/us/pl/99/646], § 21(a), Nov. 10, 1986, [100 Stat. 3596][/us/stat/100/3596]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(40), Oct. 11, 1996, [110 Stat. 3509][/us/stat/110/3509]; [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12301, Nov. 2, 2002, [116 Stat. 1896][/us/stat/116/1896].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 927 ([June 16, 1938, ch. 486, § 7][/us/act/1938-06-16/ch486/s7], [52 Stat. 766][/us/stat/52/766]).
+    Based on title 18, U.S.C., 1940 ed., § 927 ([June 16, 1938, ch. 486][/us/act/1938-06-16/ch486], § 7, [52 Stat. 766][/us/stat/52/766]).
 
     Reference to section establishing the Board of Parole was omitted as unnecessary.
 
@@ -111,13 +111,13 @@
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–273, § 12301(1)][/us/pl/107/273/s12301/1], in second sentence, struck out “enter an order of restitution pursuant to section 3556,” after “findings of juvenile delinquency,” and inserted “which may include a term of juvenile delinquent supervision to follow detention” after “official detention”, and inserted after second sentence “In addition, the court may enter an order of restitution pursuant to section 3556.”
+    2002—Subsec. (a). [Pub. L. 107–273][/us/pl/107/273], § 12301(1), in second sentence, struck out “enter an order of restitution pursuant to section 3556,” after “findings of juvenile delinquency,” and inserted “which may include a term of juvenile delinquent supervision to follow detention” after “official detention”, and inserted after second sentence “In addition, the court may enter an order of restitution pursuant to section 3556.”
 
-    Subsec. (b). [Pub. L. 107–273, § 12301(2)][/us/pl/107/273/s12301/2], added concluding provisions and struck out former concluding provisions which read as follows: “The provisions dealing with probation set forth in sections 3563, 3564, and 3565 are applicable to an order placing a juvenile on probation.”
+    Subsec. (b). [Pub. L. 107–273][/us/pl/107/273], § 12301(2), added concluding provisions and struck out former concluding provisions which read as follows: “The provisions dealing with probation set forth in sections 3563, 3564, and 3565 are applicable to an order placing a juvenile on probation.”
 
-    Subsec. (c)(1)(B), (C). [Pub. L. 107–273, § 12301(3)][/us/pl/107/273/s12301/3], added subpar. (B) and redesignated former subpar. (B) as (C).
+    Subsec. (c)(1)(B), (C). [Pub. L. 107–273][/us/pl/107/273], § 12301(3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    Subsec. (c)(2)(A). [Pub. L. 107–273, § 12301(4)][/us/pl/107/273/s12301/4], substituted “the lesser of—
+    Subsec. (c)(2)(A). [Pub. L. 107–273][/us/pl/107/273], § 12301(4), substituted “the lesser of—
 
     “(i) five years; or
 
@@ -125,15 +125,15 @@
 
     for “five years; or”.
 
-    Subsec. (c)(2)(B)(ii), (iii). [Pub. L. 107–273, § 12301(5)][/us/pl/107/273/s12301/5], added cl. (ii) and redesignated former cl. (ii) as (iii).
+    Subsec. (c)(2)(B)(ii), (iii). [Pub. L. 107–273][/us/pl/107/273], § 12301(5), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-    Subsecs. (d), (e). [Pub. L. 107–273, § 12301(6)][/us/pl/107/273/s12301/6], (7), added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 107–273][/us/pl/107/273], § 12301(6), (7), added subsec. (d) and redesignated former subsec. (d) as (e).
 
     1996—Subsec. (b)(1)(B), (2)(B). [Pub. L. 104–294][/us/pl/104/294] substituted “section 3561(c)” for “section 3561(b)”.
 
-    1986—Subsec. (a). [Pub. L. 99–646, § 21(a)(1)][/us/pl/99/646/s21/a/1], substituted “subsection (d)” for “subsection (e)”.
+    1986—Subsec. (a). [Pub. L. 99–646][/us/pl/99/646], § 21(a)(1), substituted “subsection (d)” for “subsection (e)”.
 
-    Subsec. (c). [Pub. L. 99–646, § 21(a)(2)][/us/pl/99/646/s21/a/2]–(4), struck out “by section 3581(b)” after “would be authorized” in pars. (1)(B) and (2)(B)(ii), and inserted provision that section 3624 is applicable to an order placing a juvenile under detention.
+    Subsec. (c). [Pub. L. 99–646][/us/pl/99/646], § 21(a)(2)–(4), struck out “by section 3581(b)” after “would be authorized” in pars. (1)(B) and (2)(B)(ii), and inserted provision that section 3624 is applicable to an order placing a juvenile under detention.
 
     1984—[Pub. L. 98–473][/us/pl/98/473] substituted subsecs. (a) to (c) for former subsecs. (a) and (b) and redesignated former subsec. (c) as (d). Prior to amendment, subsecs. (a) and (b) read as follows:
 
@@ -149,7 +149,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–646, § 21(b)][/us/pl/99/646/s21/b], Nov. 10, 1986, [100 Stat. 3597][/us/stat/100/3597], provided that: 
+[Pub. L. 99–646][/us/pl/99/646], § 21(b), Nov. 10, 1986, [100 Stat. 3597][/us/stat/100/3597], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date the amendments made by such section 214 \[of [Pub. L. 98–473][/us/pl/98/473]\] take effect \[Nov. 1, 1987\].”
 
@@ -172,34 +172,34 @@
 [/us/usc/t18/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs994
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F858
-[/us/pl/93/415/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs507
+[/us/pl/93/415/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV
 [/us/stat/88/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1136
-[/us/pl/98/473/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs214%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2013
-[/us/pl/99/646/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs21%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3596
-[/us/pl/104/294/s604/b/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F40
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3509
-[/us/pl/107/273/s12301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12301
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1896
-[/us/act/1938-06-16/ch486/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-16%2Fch486%2Fs7
+[/us/act/1938-06-16/ch486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-16%2Fch486
 [/us/stat/52/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F766
-[/us/pl/107/273/s12301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12301%2F1
-[/us/pl/107/273/s12301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12301%2F2
-[/us/pl/107/273/s12301/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12301%2F3
-[/us/pl/107/273/s12301/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12301%2F4
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
-[/us/pl/107/273/s12301/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12301%2F5
-[/us/pl/107/273/s12301/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12301%2F6
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
-[/us/pl/99/646/s21/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs21%2Fa%2F1
-[/us/pl/99/646/s21/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs21%2Fa%2F2
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/104/294/s604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fd
 [/us/usc/t18/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs13
-[/us/pl/99/646/s21/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs21%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3597
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473

@@ -23,7 +23,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on [section 588d of title 12][/us/usc/t12/s588d], U.S.C., 1940 ed., Banks and Banking; title 18, U.S.C., 1940 ed., §§ 546, 547 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], §§ 326, 340, [35 Stat. 1151][/us/stat/35/1151], 1153; [Mar. 3, 1911, ch. 231, § 291][/us/act/1911-03-03/ch231/s291], [36 Stat. 1167][/us/stat/36/1167]; [May 18, 1934, ch. 304, § 4][/us/act/1934-05-18/ch304/s4], [48 Stat. 783][/us/stat/48/783]).
+    Based on [section 588d of title 12][/us/usc/t12/s588d], U.S.C., 1940 ed., Banks and Banking; title 18, U.S.C., 1940 ed., §§ 546, 547 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], §§ 326, 340, [35 Stat. 1151][/us/stat/35/1151], 1153; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 291, [36 Stat. 1167][/us/stat/36/1167]; [May 18, 1934, ch. 304][/us/act/1934-05-18/ch304], § 4, [48 Stat. 783][/us/stat/48/783]).
 
     This section was formed by combining sections 546 and 547 of title 18, U.S.C., 1940 ed., with [section 588d of title 12][/us/usc/t12/s588d], U.S.C., Banks and Banking, with no change of substance.
 
@@ -45,9 +45,9 @@
 [/us/usc/t12/s588d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs588d
 [/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1151
-[/us/act/1911-03-03/ch231/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs291
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1167
-[/us/act/1934-05-18/ch304/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-18%2Fch304%2Fs4
+[/us/act/1934-05-18/ch304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-18%2Fch304
 [/us/stat/48/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F783
 [/us/usc/t12/s588d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs588d
 [/us/usc/t12/s588d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs588d

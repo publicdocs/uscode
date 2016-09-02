@@ -37,11 +37,11 @@
 
     shall be fined under this title, imprisoned not more than 5 years, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 689][/us/stat/62/689]; [Pub. L. 86–519, § 2][/us/pl/86/519/s2], June 12, 1960, [74 Stat. 217][/us/stat/74/217]; [Pub. L. 86–701][/us/pl/86/701], Sept. 2, 1960, [74 Stat. 753][/us/stat/74/753]; [Pub. L. 94–550, § 4][/us/pl/94/550/s4], Oct. 18, 1976, [90 Stat. 2535][/us/stat/90/2535]; [Pub. L. 95–598, title III, § 314(a)][/us/pl/95/598/s314/a], (c), Nov. 6, 1978, [92 Stat. 2676][/us/stat/92/2676], 2677; [Pub. L. 100–690, title VII, § 7017][/us/pl/100/690/s7017], Nov. 18, 1988, [102 Stat. 4395][/us/stat/102/4395]; [Pub. L. 103–322, title XXXIII, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 103–394, title III, § 312(a)(1)(A)][/us/pl/103/394/s312/a/1/A], Oct. 22, 1994, [108 Stat. 4138][/us/stat/108/4138]; [Pub. L. 104–294, title VI, § 601(a)(1)][/us/pl/104/294/s601/a/1], Oct. 11, 1996, [110 Stat. 3497][/us/stat/110/3497].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 689][/us/stat/62/689]; [Pub. L. 86–519][/us/pl/86/519], § 2, June 12, 1960, [74 Stat. 217][/us/stat/74/217]; [Pub. L. 86–701][/us/pl/86/701], Sept. 2, 1960, [74 Stat. 753][/us/stat/74/753]; [Pub. L. 94–550][/us/pl/94/550], § 4, Oct. 18, 1976, [90 Stat. 2535][/us/stat/90/2535]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 314(a), (c), Nov. 6, 1978, [92 Stat. 2676][/us/stat/92/2676], 2677; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7017, Nov. 18, 1988, [102 Stat. 4395][/us/stat/102/4395]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(K), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 103–394, title III][/us/pl/103/394/tIII], § 312(a)(1)(A), Oct. 22, 1994, [108 Stat. 4138][/us/stat/108/4138]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(a)(1), Oct. 11, 1996, [110 Stat. 3497][/us/stat/110/3497].)
 
  __Historical and Revision Notes__ 
 
-    Based on [section 52(b) of title 11][/us/usc/t11/s52/b], U.S.C., 1940 ed., Bankruptcy ([July 1, 1898, ch. 541, § 29b][/us/act/1898-07-01/ch541/s29b], [30 Stat. 554][/us/stat/30/554]; [May 27, 1926, ch. 406, § 11][/us/act/1926-05-27/ch406/s11] (part), [44 Stat. 665][/us/stat/44/665]; [June 22, 1938, ch. 575, § 1][/us/act/1938-06-22/ch575/s1] (part), [52 Stat. 855][/us/stat/52/855]).
+    Based on [section 52(b) of title 11][/us/usc/t11/s52/b], U.S.C., 1940 ed., Bankruptcy ([July 1, 1898, ch. 541][/us/act/1898-07-01/ch541], § 29b, [30 Stat. 554][/us/stat/30/554]; [May 27, 1926, ch. 406][/us/act/1926-05-27/ch406], § 11 (part), [44 Stat. 665][/us/stat/44/665]; [June 22, 1938, ch. 575][/us/act/1938-06-22/ch575], § 1 (part), [52 Stat. 855][/us/stat/52/855]).
 
     Section was broadened to apply to one who gives or offers a bribe.
 
@@ -87,28 +87,28 @@
 [/us/usc/t28/s1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1746
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F689
-[/us/pl/86/519/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F519%2Fs2
+[/us/pl/86/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F519
 [/us/stat/74/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F217
 [/us/pl/86/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F701
 [/us/stat/74/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F753
-[/us/pl/94/550/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F550%2Fs4
+[/us/pl/94/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F550
 [/us/stat/90/2535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2535
-[/us/pl/95/598/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs314%2Fa
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2676
-[/us/pl/100/690/s7017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7017
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4395
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/103/394/s312/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs312%2Fa%2F1%2FA
+[/us/pl/103/394/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtIII
 [/us/stat/108/4138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4138
-[/us/pl/104/294/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fa%2F1
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3497
 [/us/usc/t11/s52/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs52%2Fb
-[/us/act/1898-07-01/ch541/s29b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch541%2Fs29b
+[/us/act/1898-07-01/ch541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch541
 [/us/stat/30/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F554
-[/us/act/1926-05-27/ch406/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-27%2Fch406%2Fs11
+[/us/act/1926-05-27/ch406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-27%2Fch406
 [/us/stat/44/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F665
-[/us/act/1938-06-22/ch575/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-22%2Fch575%2Fs1
+[/us/act/1938-06-22/ch575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-22%2Fch575
 [/us/stat/52/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F855
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/103/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394

@@ -99,19 +99,19 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–177, title II, § 202(b)][/us/pl/110/177/s202/b], Jan. 7, 2008, [121 Stat. 2537][/us/stat/121/2537], added item 119.
+    2008—[Pub. L. 110–177, title II][/us/pl/110/177/tII], § 202(b), Jan. 7, 2008, [121 Stat. 2537][/us/stat/121/2537], added item 119.
 
-    2007—[Pub. L. 109–472, § 4(b)][/us/pl/109/472/s4/b], Jan. 11, 2007, [120 Stat. 3555][/us/stat/120/3555], added item 118.
+    2007—[Pub. L. 109–472][/us/pl/109/472], § 4(b), Jan. 11, 2007, [120 Stat. 3555][/us/stat/120/3555], added item 118.
 
-    1996—[Pub. L. 104–208, div. C, title VI, § 645(b)(2)][/us/pl/104/208/s645/b/2], Sept. 30, 1996, [110 Stat. 3009–709][/us/stat/110/3009-709], added item 116.
+    1996—[Pub. L. 104–208, div. C, title VI][/us/pl/104/208/dC/tVI], § 645(b)(2), Sept. 30, 1996, [110 Stat. 3009–709][/us/stat/110/3009-709], added item 116.
 
-    1984—[Pub. L. 98–473, title II, § 1008(b)][/us/pl/98/473/s1008/b], Oct. 12, 1984, [98 Stat. 2140][/us/stat/98/2140], added item 115.
+    1984—[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1008(b), Oct. 12, 1984, [98 Stat. 2140][/us/stat/98/2140], added item 115.
 
-    1976—[Pub. L. 94–467, § 6][/us/pl/94/467/s6], Oct. 8, 1976, [90 Stat. 2000][/us/stat/90/2000], substituted “official guests, and internationally protected persons” for “and official guests” in item 112.
+    1976—[Pub. L. 94–467][/us/pl/94/467], § 6, Oct. 8, 1976, [90 Stat. 2000][/us/stat/90/2000], substituted “official guests, and internationally protected persons” for “and official guests” in item 112.
 
-    1972—[Pub. L. 92–539, title III, § 302][/us/pl/92/539/s302], Oct. 24, 1972, [86 Stat. 1073][/us/stat/86/1073], substituted “Protection of foreign officials and official guests” for “Assaulting certain foreign diplomatic and other official personnel” in item 112.
+    1972—[Pub. L. 92–539, title III][/us/pl/92/539/tIII], § 302, Oct. 24, 1972, [86 Stat. 1073][/us/stat/86/1073], substituted “Protection of foreign officials and official guests” for “Assaulting certain foreign diplomatic and other official personnel” in item 112.
 
-    1964—[Pub. L. 88–493, § 2][/us/pl/88/493/s2], Aug. 27, 1964, [78 Stat. 610][/us/stat/78/610], substituted “certain foreign diplomatic and other official personnel” for “public minister” in item 112.
+    1964—[Pub. L. 88–493][/us/pl/88/493], § 2, Aug. 27, 1964, [78 Stat. 610][/us/stat/78/610], substituted “certain foreign diplomatic and other official personnel” for “public minister” in item 112.
 
 ----------
 
@@ -120,19 +120,19 @@
 ----------
 ----------
 
-[/us/pl/110/177/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs202%2Fb
+[/us/pl/110/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtII
 [/us/stat/121/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2537
-[/us/pl/109/472/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472%2Fs4%2Fb
+[/us/pl/109/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472
 [/us/stat/120/3555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3555
-[/us/pl/104/208/s645/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs645%2Fb%2F2
+[/us/pl/104/208/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtVI
 [/us/stat/110/3009-709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-709
-[/us/pl/98/473/s1008/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1008%2Fb
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2140
-[/us/pl/94/467/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F467%2Fs6
+[/us/pl/94/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F467
 [/us/stat/90/2000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2000
-[/us/pl/92/539/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F539%2Fs302
+[/us/pl/92/539/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F539%2FtIII
 [/us/stat/86/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1073
-[/us/pl/88/493/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F493%2Fs2
+[/us/pl/88/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F493
 [/us/stat/78/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F610
 
 

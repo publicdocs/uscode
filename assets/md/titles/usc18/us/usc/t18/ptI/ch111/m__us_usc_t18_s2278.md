@@ -17,11 +17,11 @@
 
     Whoever, being the master of a steamship or other vessel referred to in [section 151 of Title 46][/us/usc/t46/s151], except as otherwise expressly provided by law, takes, carries, or has on board of any such vessel any nitroglycerin, dynamite, or any other explosive article or compound, or any vitriol or like acids, or gunpowder, except for the ship’s use, or any article or number of articles, whether as a cargo or ballast, which, by reason of the nature or quantity or mode of storage thereof, shall, either singly or collectively, be likely to endanger the health or lives of the passengers or the safety of the vessel, shall be fined under this title or imprisoned not more than one year, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 805][/us/stat/62/805]; [Pub. L. 103–322, title XXXIII, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 805][/us/stat/62/805]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(H), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on [section 171 of title 46][/us/usc/t46/s171], U.S.C., 1940 ed., Shipping ([Aug. 2, 1882, ch. 374, § 8][/us/act/1882-08-02/ch374/s8], [22 Stat. 189][/us/stat/22/189]).
+    Based on [section 171 of title 46][/us/usc/t46/s171], U.S.C., 1940 ed., Shipping ([Aug. 2, 1882, ch. 374][/us/act/1882-08-02/ch374], § 8, [22 Stat. 189][/us/stat/22/189]).
 
     Words “except as otherwise expressly provided by law” were inserted to remove obvious inconsistency between sections 831–835 of this title, [section 170 of title 46][/us/usc/t46/s170], U.S.C., 1940 ed., Shipping, and this section.
 
@@ -49,10 +49,10 @@
 [/us/usc/t46/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs151
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F805
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/usc/t46/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs171
-[/us/act/1882-08-02/ch374/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-08-02%2Fch374%2Fs8
+[/us/act/1882-08-02/ch374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-08-02%2Fch374
 [/us/stat/22/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F189
 [/us/usc/t46/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs170
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1

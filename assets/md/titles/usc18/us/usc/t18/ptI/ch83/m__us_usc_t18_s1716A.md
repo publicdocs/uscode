@@ -19,7 +19,7 @@
 
     (b) Whoever knowingly deposits for mailing or delivery, causes to be delivered by mail, or causes to be delivered by any interstate mailing or delivery other than by the United States Postal Service, any matter declared to be nonmailable by [section 3002a of title 39][/us/usc/t39/s3002a], shall be fined under this title, imprisoned not more than one year, or both.
 
-(Added [Pub. L. 90–560, § 2(1)][/us/pl/90/560/s2/1], Oct. 12, 1968, [82 Stat. 997][/us/stat/82/997]; amended [Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, § 6(j)(26), [84 Stat. 780][/us/stat/84/780]; [Pub. L. 100–690, title VII, § 7090(c)][/us/pl/100/690/s7090/c], Nov. 18, 1988, [102 Stat. 4410][/us/stat/102/4410]; [Pub. L. 101–647, title XXXV, § 3551][/us/pl/101/647/s3551], Nov. 29, 1990, [104 Stat. 4926][/us/stat/104/4926].)
+(Added [Pub. L. 90–560][/us/pl/90/560], § 2(1), Oct. 12, 1968, [82 Stat. 997][/us/stat/82/997]; amended [Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, § 6(j)(26), [84 Stat. 780][/us/stat/84/780]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7090(c), Nov. 18, 1988, [102 Stat. 4410][/us/stat/102/4410]; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3551, Nov. 29, 1990, [104 Stat. 4926][/us/stat/104/4926].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 90–560, § 3][/us/pl/90/560/s3], Oct. 12, 1968, [82 Stat. 997][/us/stat/82/997], provided that: 
+[Pub. L. 90–560][/us/pl/90/560], § 3, Oct. 12, 1968, [82 Stat. 997][/us/stat/82/997], provided that: 
 
 > “The amendments made by the first section and section 2 of this Act \[enacting this section and section 4010 of former Title 39, The Postal Service\] shall become effective on the sixtieth day after the date of enactment of this Act \[Oct. 12, 1968\].”
 
@@ -48,13 +48,13 @@
 
 [/us/usc/t39/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3002
 [/us/usc/t39/s3002a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3002a
-[/us/pl/90/560/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F560%2Fs2%2F1
+[/us/pl/90/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F560
 [/us/stat/82/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F997
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F780
-[/us/pl/100/690/s7090/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7090%2Fc
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4410
-[/us/pl/101/647/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3551
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4926
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
@@ -62,7 +62,7 @@
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/pl/91/375/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fa
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
-[/us/pl/90/560/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F560%2Fs3
+[/us/pl/90/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F560
 [/us/stat/82/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F997
 
 

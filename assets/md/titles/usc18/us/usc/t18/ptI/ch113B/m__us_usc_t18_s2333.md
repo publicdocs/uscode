@@ -27,7 +27,7 @@
 
     A final judgment or decree rendered in favor of any foreign state in any criminal proceeding shall, to the extent that such judgment or decree may be accorded full faith and credit under the law of the United States, estop the defendant from denying the essential allegations of the criminal offense in any subsequent civil proceeding under this section.
 
-(Added [Pub. L. 102–572, title X, § 1003(a)(4)][/us/pl/102/572/s1003/a/4], Oct. 29, 1992, [106 Stat. 4522][/us/stat/106/4522]; amended [Pub. L. 103–429, § 2(1)][/us/pl/103/429/s2/1], Oct. 31, 1994, [108 Stat. 4377][/us/stat/108/4377].)
+(Added [Pub. L. 102–572, title X][/us/pl/102/572/tX], § 1003(a)(4), Oct. 29, 1992, [106 Stat. 4522][/us/stat/106/4522]; amended [Pub. L. 103–429][/us/pl/103/429], § 2(1), Oct. 31, 1994, [108 Stat. 4377][/us/stat/108/4377].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Special Rule Relating to Certain Acts of International Terrorism__ 
 
-[Pub. L. 112–239, div. A, title XII, § 1251(c)][/us/pl/112/239/s1251/c], Jan. 2, 2013, [126 Stat. 2017][/us/stat/126/2017], provided that: 
+[Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1251(c), Jan. 2, 2013, [126 Stat. 2017][/us/stat/126/2017], provided that: 
 
 > “Notwithstanding [section 2335 of title 18][/us/usc/t18/s2335], United States Code, as amended by subsection (a), a civil action under section 2333 of such title resulting from an act of international terrorism that occurred on or after September 11, 2001, and before the date that is 4 years before the date of the enactment of this Act \[Jan. 2, 2013\], may be maintained if the civil action is commenced during the 6-year period beginning on such date of enactment.”
 
@@ -50,14 +50,14 @@
 ----------
 ----------
 
-[/us/pl/102/572/s1003/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs1003%2Fa%2F4
+[/us/pl/102/572/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtX
 [/us/stat/106/4522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4522
-[/us/pl/103/429/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs2%2F1
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4377
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/pl/102/572/s1003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs1003%2Fc
 [/us/usc/t18/s2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2331
-[/us/pl/112/239/s1251/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1251%2Fc
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2017
 [/us/usc/t18/s2335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2335
 

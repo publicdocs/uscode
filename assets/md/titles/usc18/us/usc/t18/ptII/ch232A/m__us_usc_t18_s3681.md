@@ -45,11 +45,11 @@
 
     (d) As used in this section, the term “interested party” includes the defendant and any transferee of proceeds due the defendant under the contract, the person with whom the defendant has contracted, and any person physically harmed as a result of the offense for which the defendant has been convicted.
 
-(Added [Pub. L. 98–473, title II, § 1406(a)][/us/pl/98/473/s1406/a], Oct. 12, 1984, [98 Stat. 2175][/us/stat/98/2175], § 3671; amended [Pub. L. 99–399, title XIII, § 1306(c)][/us/pl/99/399/s1306/c], Aug. 27, 1986, [100 Stat. 899][/us/stat/100/899]; renumbered § 3681 and amended [Pub. L. 99–646][/us/pl/99/646], §§ 40, 41(a), Nov. 10, 1986, [100 Stat. 3600][/us/stat/100/3600].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1406(a), Oct. 12, 1984, [98 Stat. 2175][/us/stat/98/2175], § 3671; amended [Pub. L. 99–399, title XIII][/us/pl/99/399/tXIII], § 1306(c), Aug. 27, 1986, [100 Stat. 899][/us/stat/100/899]; renumbered § 3681 and amended [Pub. L. 99–646][/us/pl/99/646], §§ 40, 41(a), Nov. 10, 1986, [100 Stat. 3600][/us/stat/100/3600].)
 
  __Amendments__ 
 
-    1986—Subsec. (a). [Pub. L. 99–646, § 40][/us/pl/99/646/s40], struck out “chapter 227 or 231 of” after “restitution under”.
+    1986—Subsec. (a). [Pub. L. 99–646][/us/pl/99/646], § 40, struck out “chapter 227 or 231 of” after “restitution under”.
 
     [Pub. L. 99–399][/us/pl/99/399] inserted “an offense under [section 794 of this title][/us/usc/t18/s794] or for”.
 
@@ -65,13 +65,13 @@
 ----------
 
 [/us/usc/t18/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs794
-[/us/pl/98/473/s1406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1406%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2175
-[/us/pl/99/399/s1306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs1306%2Fc
+[/us/pl/99/399/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtXIII
 [/us/stat/100/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F899
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3600
-[/us/pl/99/646/s40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs40
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/99/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399
 [/us/usc/t18/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs794
 [/us/pl/98/473/s1409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1409%2Fa

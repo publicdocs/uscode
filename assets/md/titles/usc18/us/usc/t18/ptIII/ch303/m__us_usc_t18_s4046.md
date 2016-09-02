@@ -27,11 +27,11 @@
 
     (c) An inmate who in the judgment of the Director of the Bureau of Prisons has successfully completed the required period of shock incarceration shall remain in the custody of the Bureau for such period (not to exceed the remainder of the prison term otherwise required by law to be served by that inmate), and under such conditions, as the Bureau deems appropriate.
 
-(Added [Pub. L. 101–647, title XXX, § 3001(a)][/us/pl/101/647/s3001/a], Nov. 29, 1990, [104 Stat. 4915][/us/stat/104/4915].)
+(Added [Pub. L. 101–647, title XXX][/us/pl/101/647/tXXX], § 3001(a), Nov. 29, 1990, [104 Stat. 4915][/us/stat/104/4915].)
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 101–647, title XXX, § 3002][/us/pl/101/647/s3002], Nov. 29, 1990, [104 Stat. 4915][/us/stat/104/4915], provided that: 
+[Pub. L. 101–647, title XXX][/us/pl/101/647/tXXX], § 3002, Nov. 29, 1990, [104 Stat. 4915][/us/stat/104/4915], provided that: 
 
 > “There are authorized to be appropriated for fiscal year 1990 and each fiscal year thereafter such sums as may be necessary to carry out the shock incarceration program established under the amendments made by this Act \[see Tables for classification\]”.
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/101/647/s3001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3001%2Fa
+[/us/pl/101/647/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXX
 [/us/stat/104/4915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4915
-[/us/pl/101/647/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3002
+[/us/pl/101/647/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXX
 [/us/stat/104/4915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4915
 
 

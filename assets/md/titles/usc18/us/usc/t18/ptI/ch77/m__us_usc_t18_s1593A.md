@@ -17,7 +17,7 @@
 
     Whoever knowingly benefits, financially or by receiving anything of value, from participation in a venture which has engaged in any act in violation of section 1581(a), 1592, or 1595(a), knowing or in reckless disregard of the fact that the venture has engaged in such violation, shall be fined under this title or imprisoned in the same manner as a completed violation of such section.
 
-(Added [Pub. L. 110–457, title II, § 222(d)(1)][/us/pl/110/457/s222/d/1], Dec. 23, 2008, [122 Stat. 5070][/us/stat/122/5070].)
+(Added [Pub. L. 110–457, title II][/us/pl/110/457/tII], § 222(d)(1), Dec. 23, 2008, [122 Stat. 5070][/us/stat/122/5070].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/457/s222/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs222%2Fd%2F1
+[/us/pl/110/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtII
 [/us/stat/122/5070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5070
 
 

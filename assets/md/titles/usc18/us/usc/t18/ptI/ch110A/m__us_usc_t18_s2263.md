@@ -17,7 +17,7 @@
 
     In any proceeding pursuant to section 3142 for the purpose of determining whether a defendant charged under this chapter shall be released pending trial, or for the purpose of determining conditions of such release, the alleged victim shall be given an opportunity to be heard regarding the danger posed by the defendant.
 
-(Added [Pub. L. 103–322, title IV, § 40221(a)][/us/pl/103/322/s40221/a], Sept. 13, 1994, [108 Stat. 1928][/us/stat/108/1928].)
+(Added [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40221(a), Sept. 13, 1994, [108 Stat. 1928][/us/stat/108/1928].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s40221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40221%2Fa
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1928
 
 

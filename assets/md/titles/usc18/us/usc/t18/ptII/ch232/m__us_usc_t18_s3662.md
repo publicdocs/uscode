@@ -31,7 +31,7 @@
 
     (d) The Attorney General of the United States shall give reasonable public notice, and afford to interested parties opportunity for hearing, prior to prescribing regulations under this section.
 
-(Added [Pub. L. 91–452, title X, § 1001(a)][/us/pl/91/452/s1001/a], Oct. 15, 1970, [84 Stat. 951][/us/stat/84/951], § 3578; renumbered § 3662, [Pub. L. 98–473, title II, § 212(a)(1)][/us/pl/98/473/s212/a/1], Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987].)
+(Added [Pub. L. 91–452, title X][/us/pl/91/452/tX], § 1001(a), Oct. 15, 1970, [84 Stat. 951][/us/stat/84/951], § 3578; renumbered § 3662, [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(1), Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987].)
 
 ----------
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/91/452/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs1001%2Fa
+[/us/pl/91/452/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtX
 [/us/stat/84/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F951
-[/us/pl/98/473/s212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F1
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1987
 
 

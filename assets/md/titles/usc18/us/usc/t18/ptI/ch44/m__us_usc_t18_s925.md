@@ -55,11 +55,11 @@
 
     (f) The Attorney General shall not authorize, under subsection (d), the importation of any firearm the importation of which is prohibited by section 922(p).
 
-(Added [Pub. L. 90–351, title IV, § 902][/us/pl/90/351/s902], June 19, 1968, [82 Stat. 233][/us/stat/82/233]; amended [Pub. L. 90–618, title I, § 102][/us/pl/90/618/s102], Oct. 22, 1968, [82 Stat. 1224][/us/stat/82/1224]; [Pub. L. 98–573, title II, § 233][/us/pl/98/573/s233], Oct. 30, 1984, [98 Stat. 2991][/us/stat/98/2991]; [Pub. L. 99–308, § 105][/us/pl/99/308/s105], May 19, 1986, [100 Stat. 459][/us/stat/100/459]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–649, § 2(c)][/us/pl/100/649/s2/c], (f)(2)(C), (E), Nov. 10, 1988, [102 Stat. 3817][/us/stat/102/3817], 3818; [Pub. L. 101–647, title XXII, § 2203(b)][/us/pl/101/647/s2203/b], (c), Nov. 29, 1990, [104 Stat. 4857][/us/stat/104/4857]; [Pub. L. 104–106, div. A, title XVI, § 1624(b)(3)][/us/pl/104/106/s1624/b/3], Feb. 10, 1996, [110 Stat. 522][/us/stat/110/522]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 658(d)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–372; [Pub. L. 104–294, title VI, § 607(c)][/us/pl/104/294/s607/c], Oct. 11, 1996, [110 Stat. 3511][/us/stat/110/3511]; [Pub. L. 107–296, title XI, § 1112(f)(6)][/us/pl/107/296/s1112/f/6], Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276]; [Pub. L. 108–174, § 1(3)][/us/pl/108/174/s1/3], Dec. 9, 2003, [117 Stat. 2481][/us/stat/117/2481].)
+(Added [Pub. L. 90–351, title IV][/us/pl/90/351/tIV], § 902, June 19, 1968, [82 Stat. 233][/us/stat/82/233]; amended [Pub. L. 90–618, title I][/us/pl/90/618/tI], § 102, Oct. 22, 1968, [82 Stat. 1224][/us/stat/82/1224]; [Pub. L. 98–573, title II][/us/pl/98/573/tII], § 233, Oct. 30, 1984, [98 Stat. 2991][/us/stat/98/2991]; [Pub. L. 99–308][/us/pl/99/308], § 105, May 19, 1986, [100 Stat. 459][/us/stat/100/459]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–649][/us/pl/100/649], § 2(c), (f)(2)(C), (E), Nov. 10, 1988, [102 Stat. 3817][/us/stat/102/3817], 3818; [Pub. L. 101–647, title XXII][/us/pl/101/647/tXXII], § 2203(b), (c), Nov. 29, 1990, [104 Stat. 4857][/us/stat/104/4857]; [Pub. L. 104–106, div. A, title XVI][/us/pl/104/106/dA/tXVI], § 1624(b)(3), Feb. 10, 1996, [110 Stat. 522][/us/stat/110/522]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 658(d)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–372; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 607(c), Oct. 11, 1996, [110 Stat. 3511][/us/stat/110/3511]; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1112(f)(6), Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276]; [Pub. L. 108–174][/us/pl/108/174], § 1(3), Dec. 9, 2003, [117 Stat. 2481][/us/stat/117/2481].)
 
  __Amendment of Section__ 
 
-    [Pub. L. 100–649, § 2(f)(2)(C)][/us/pl/100/649/s2/f/2/C], (E), Nov. 10, 1988, [102 Stat. 3818][/us/stat/102/3818], as amended by [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 649\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–528; [Pub. L. 108–174, § 1(1)][/us/pl/108/174/s1/1], (3), Dec. 9, 2003, [117 Stat. 2481][/us/stat/117/2481]; [Pub. L. 113–57, § 1][/us/pl/113/57/s1], Dec. 9, 2013, [127 Stat. 656][/us/stat/127/656], provided that, effective 35 years after the 30th day beginning after Nov. 10, 1988, subsection (a) of this section is amended by striking “and provisions relating to firearms subject to the prohibitions of section 922(p)” in par. (1), striking “, except for provisions relating to firearms subject to the prohibitions of section 922(p),” in par. (2), and striking “except for provisions relating to firearms subject to the prohibitions of section 922(p),” in pars. (3) and (4) and subsection (f) of this section is repealed.
+    [Pub. L. 100–649][/us/pl/100/649], § 2(f)(2)(C), (E), Nov. 10, 1988, [102 Stat. 3818][/us/stat/102/3818], as amended by [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 649\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–528; [Pub. L. 108–174][/us/pl/108/174], § 1(1), (3), Dec. 9, 2003, [117 Stat. 2481][/us/stat/117/2481]; [Pub. L. 113–57][/us/pl/113/57], § 1, Dec. 9, 2013, [127 Stat. 656][/us/stat/127/656], provided that, effective 35 years after the 30th day beginning after Nov. 10, 1988, subsection (a) of this section is amended by striking “and provisions relating to firearms subject to the prohibitions of section 922(p)” in par. (1), striking “, except for provisions relating to firearms subject to the prohibitions of section 922(p),” in par. (2), and striking “except for provisions relating to firearms subject to the prohibitions of section 922(p),” in pars. (3) and (4) and subsection (f) of this section is repealed.
 
  __References in Text__ 
 
@@ -79,23 +79,23 @@
 
     Subsec. (a)(5). [Pub. L. 104–294][/us/pl/104/294] substituted “For the purpose of paragraph (3)” for “For the purpose of paragraphs (3) and (4)”.
 
-    1990—Subsec. (a)(1). [Pub. L. 101–647, § 2203(b)][/us/pl/101/647/s2203/b], inserted “possession,” before “or importation”.
+    1990—Subsec. (a)(1). [Pub. L. 101–647][/us/pl/101/647], § 2203(b), inserted “possession,” before “or importation”.
 
-    Subsec. (c). [Pub. L. 101–647, § 2203(c)][/us/pl/101/647/s2203/c], substituted “regarding the disability” for “regarding the conviction” and “barred by such disability” for “barred by such conviction” and struck out “by reason of such a conviction” after “incurred under this chapter”.
+    Subsec. (c). [Pub. L. 101–647][/us/pl/101/647], § 2203(c), substituted “regarding the disability” for “regarding the conviction” and “barred by such disability” for “barred by such conviction” and struck out “by reason of such a conviction” after “incurred under this chapter”.
 
-    1988—Subsec. (a). [Pub. L. 100–649, § 2(c)(1)][/us/pl/100/649/s2/c/1], inserted “, except for provisions relating to firearms subject to the prohibitions of section 922(p),” after “chapter” in pars. (1) to (4).
+    1988—Subsec. (a). [Pub. L. 100–649][/us/pl/100/649], § 2(c)(1), inserted “, except for provisions relating to firearms subject to the prohibitions of section 922(p),” after “chapter” in pars. (1) to (4).
 
-    Subsec. (f). [Pub. L. 100–649, § 2(c)(2)][/us/pl/100/649/s2/c/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 100–649][/us/pl/100/649], § 2(c)(2), added subsec. (f).
 
-    1986—Subsec. (c). [Pub. L. 99–308, § 105(1)][/us/pl/99/308/s105/1], substituted “is prohibited from possessing, shipping, transporting, or receiving firearms or ammunition” for “has been convicted of a crime punishable by imprisonment for a term exceeding one year (other than a crime involving the use of a firearm or other weapon or a violation of this chapter or of the National Firearms Act)” and “shipment, transportation, or possession of firearms, and” for “shipment, or possession of firearms and incurred by reason of such conviction, and” and inserted provision that any person whose application for relief has been denied may file for judicial relief of such denial and that the court may admit additional evidence to avoid a miscarriage of justice.
+    1986—Subsec. (c). [Pub. L. 99–308][/us/pl/99/308], § 105(1), substituted “is prohibited from possessing, shipping, transporting, or receiving firearms or ammunition” for “has been convicted of a crime punishable by imprisonment for a term exceeding one year (other than a crime involving the use of a firearm or other weapon or a violation of this chapter or of the National Firearms Act)” and “shipment, transportation, or possession of firearms, and” for “shipment, or possession of firearms and incurred by reason of such conviction, and” and inserted provision that any person whose application for relief has been denied may file for judicial relief of such denial and that the court may admit additional evidence to avoid a miscarriage of justice.
 
-    Subsec. (d). [Pub. L. 99–308, § 105(2)(A)][/us/pl/99/308/s105/2/A], (B), (D), in provision preceding par. (1) substituted “shall authorize” for “may authorize” and struck out “the person importing or bringing in the firearm or ammunition establishes to the satisfaction of the Secretary that” after “thereof if”, and in provision following par. (4) substituted “shall permit” for “may permit”.
+    Subsec. (d). [Pub. L. 99–308][/us/pl/99/308], § 105(2)(A), (B), (D), in provision preceding par. (1) substituted “shall authorize” for “may authorize” and struck out “the person importing or bringing in the firearm or ammunition establishes to the satisfaction of the Secretary that” after “thereof if”, and in provision following par. (4) substituted “shall permit” for “may permit”.
 
     Subsec. (d)(2). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
     Subsec. (d)(3). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-    [Pub. L. 99–308, § 105(2)(C)][/us/pl/99/308/s105/2/C], inserted “except in any case where the Secretary has not authorized the importation of the firearm pursuant to this paragraph, it shall be unlawful to import any frame, receiver, or barrel of such firearm which would be prohibited if assembled”.
+    [Pub. L. 99–308][/us/pl/99/308], § 105(2)(C), inserted “except in any case where the Secretary has not authorized the importation of the firearm pursuant to this paragraph, it shall be unlawful to import any frame, receiver, or barrel of such firearm which would be prohibited if assembled”.
 
     1984—Subsec. (e). [Pub. L. 98–573][/us/pl/98/573] added subsec. (e).
 
@@ -139,37 +139,37 @@
 ----------
 
 [/us/usc/t10/s4308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4308
-[/us/pl/90/351/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs902
+[/us/pl/90/351/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtIV
 [/us/stat/82/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F233
-[/us/pl/90/618/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2Fs102
+[/us/pl/90/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2FtI
 [/us/stat/82/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1224
-[/us/pl/98/573/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs233
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2991
-[/us/pl/99/308/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs105
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
 [/us/stat/100/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F459
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/100/649/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F649%2Fs2%2Fc
+[/us/pl/100/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F649
 [/us/stat/102/3817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3817
-[/us/pl/101/647/s2203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2203%2Fb
+[/us/pl/101/647/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXII
 [/us/stat/104/4857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4857
-[/us/pl/104/106/s1624/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1624%2Fb%2F3
+[/us/pl/104/106/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXVI
 [/us/stat/110/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F522
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/104/294/s607/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs607%2Fc
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3511
-[/us/pl/107/296/s1112/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Ff%2F6
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2276
-[/us/pl/108/174/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F174%2Fs1%2F3
+[/us/pl/108/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F174
 [/us/stat/117/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2481
-[/us/pl/100/649/s2/f/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F649%2Fs2%2Ff%2F2%2FC
+[/us/pl/100/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F649
 [/us/stat/102/3818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3818
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
-[/us/pl/108/174/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F174%2Fs1%2F1
+[/us/pl/108/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F174
 [/us/stat/117/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2481
-[/us/pl/113/57/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F57%2Fs1
+[/us/pl/113/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F57
 [/us/stat/127/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F656
 [/us/usc/t10/s4308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4308
 [/us/usc/t10/s4308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4308
@@ -182,15 +182,15 @@
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t10/s4308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4308
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
-[/us/pl/101/647/s2203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2203%2Fb
-[/us/pl/101/647/s2203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2203%2Fc
-[/us/pl/100/649/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F649%2Fs2%2Fc%2F1
-[/us/pl/100/649/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F649%2Fs2%2Fc%2F2
-[/us/pl/99/308/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs105%2F1
-[/us/pl/99/308/s105/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs105%2F2%2FA
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/100/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F649
+[/us/pl/100/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F649
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/308/s105/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs105%2F2%2FC
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
 [/us/pl/98/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573
 [/us/pl/90/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618
 [/us/pl/90/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618

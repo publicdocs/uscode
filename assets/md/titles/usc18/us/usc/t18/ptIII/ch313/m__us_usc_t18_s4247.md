@@ -113,7 +113,7 @@
 
     (j) Sections 4241, 4242, 4243, and 4244 do not apply to a prosecution under an Act of Congress applicable exclusively to the District of Columbia or the Uniform Code of Military Justice.
 
-(Added [Sept. 7, 1949, ch. 535, § 1][/us/act/1949-09-07/ch535/s1], [63 Stat. 687][/us/stat/63/687]; amended [Pub. L. 98–473, title II, § 403(a)][/us/pl/98/473/s403/a], Oct. 12, 1984, [98 Stat. 2065][/us/stat/98/2065]; [Pub. L. 100–690, title VII][/us/pl/100/690], §§ 7044, 7047(a), Nov. 18, 1988, [102 Stat. 4400][/us/stat/102/4400], 4401; [Pub. L. 103–322, title XXXIII, § 330003(d)][/us/pl/103/322/s330003/d], Sept. 13, 1994, [108 Stat. 2141][/us/stat/108/2141]; [Pub. L. 105–33, title XI, § 11204(2)][/us/pl/105/33/s11204/2], (3), Aug. 5, 1997, [111 Stat. 739][/us/stat/111/739]; [Pub. L. 109–248, title III, § 302(3)][/us/pl/109/248/s302/3], July 27, 2006, [120 Stat. 619][/us/stat/120/619].)
+(Added [Sept. 7, 1949, ch. 535][/us/act/1949-09-07/ch535], § 1, [63 Stat. 687][/us/stat/63/687]; amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 403(a), Oct. 12, 1984, [98 Stat. 2065][/us/stat/98/2065]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], §§ 7044, 7047(a), Nov. 18, 1988, [102 Stat. 4400][/us/stat/102/4400], 4401; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330003(d), Sept. 13, 1994, [108 Stat. 2141][/us/stat/108/2141]; [Pub. L. 105–33, title XI][/us/pl/105/33/tXI], § 11204(2), (3), Aug. 5, 1997, [111 Stat. 739][/us/stat/111/739]; [Pub. L. 109–248, title III][/us/pl/109/248/tIII], § 302(3), July 27, 2006, [120 Stat. 619][/us/stat/120/619].)
 
  __References in Text__ 
 
@@ -123,33 +123,33 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–248, § 302(3)(A)][/us/pl/109/248/s302/3/A], substituted “, 4246, or 4248” for “, or 4246” wherever appearing.
+    2006—[Pub. L. 109–248][/us/pl/109/248], § 302(3)(A), substituted “, 4246, or 4248” for “, or 4246” wherever appearing.
 
-    Subsec. (a)(1)(C). [Pub. L. 109–248, § 302(3)(C)(i)][/us/pl/109/248/s302/3/C/i], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “drug, alcohol, and other treatment programs that will assist the individual in overcoming his psychological or physical dependence; and”.
+    Subsec. (a)(1)(C). [Pub. L. 109–248][/us/pl/109/248], § 302(3)(C)(i), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “drug, alcohol, and other treatment programs that will assist the individual in overcoming his psychological or physical dependence; and”.
 
-    Subsec. (a)(4) to (6). [Pub. L. 109–248, § 302(3)(C)(ii)][/us/pl/109/248/s302/3/C/ii]–(iv), added pars. (4) to (6).
+    Subsec. (a)(4) to (6). [Pub. L. 109–248][/us/pl/109/248], § 302(3)(C)(ii)–(iv), added pars. (4) to (6).
 
-    Subsec. (b). [Pub. L. 109–248, § 302(3)(D)][/us/pl/109/248/s302/3/D], substituted “4245, 4246, or 4248” for “4245 or 4246”.
+    Subsec. (b). [Pub. L. 109–248][/us/pl/109/248], § 302(3)(D), substituted “4245, 4246, or 4248” for “4245 or 4246”.
 
-    Subsec. (c)(4)(D) to (F). [Pub. L. 109–248, § 302(3)(E)][/us/pl/109/248/s302/3/E], added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+    Subsec. (c)(4)(D) to (F). [Pub. L. 109–248][/us/pl/109/248], § 302(3)(E), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
-    Subsec. (e). [Pub. L. 109–248, § 302(3)(F)][/us/pl/109/248/s302/3/F], substituted “committed” for “hospitalized” wherever appearing and “continued commitment” for “continued hospitalization” in par. (1)(B).
+    Subsec. (e). [Pub. L. 109–248][/us/pl/109/248], § 302(3)(F), substituted “committed” for “hospitalized” wherever appearing and “continued commitment” for “continued hospitalization” in par. (1)(B).
 
-    Subsec. (g). [Pub. L. 109–248, § 302(3)(B)][/us/pl/109/248/s302/3/B], substituted “4243, 4246, or 4248” for “4243 or 4246”.
+    Subsec. (g). [Pub. L. 109–248][/us/pl/109/248], § 302(3)(B), substituted “4243, 4246, or 4248” for “4243 or 4246”.
 
-    Subsec. (h). [Pub. L. 109–248, § 302(3)(F)][/us/pl/109/248/s302/3/F], substituted “committed” for “hospitalized” wherever appearing and “person’s commitment” for “person’s hospitalization”.
+    Subsec. (h). [Pub. L. 109–248][/us/pl/109/248], § 302(3)(F), substituted “committed” for “hospitalized” wherever appearing and “person’s commitment” for “person’s hospitalization”.
 
-    Subsec. (i)(B). [Pub. L. 109–248, § 302(3)(B)][/us/pl/109/248/s302/3/B], substituted “4243, 4246, or 4248” for “4243 or 4246”.
+    Subsec. (i)(B). [Pub. L. 109–248][/us/pl/109/248], § 302(3)(B), substituted “4243, 4246, or 4248” for “4243 or 4246”.
 
-    1997—Subsec. (a)(3). [Pub. L. 105–33, § 11024(2)(C)][/us/pl/105/33/s11024/2/C], added par. (3).
+    1997—Subsec. (a)(3). [Pub. L. 105–33][/us/pl/105/33], § 11024(2)(C), added par. (3).
 
-    Subsec. (j). [Pub. L. 105–33, § 11024(3)][/us/pl/105/33/s11024/3], substituted “Sections 4241, 4242, 4243, and 4244 do” for “This chapter does”.
+    Subsec. (j). [Pub. L. 105–33][/us/pl/105/33], § 11024(3), substituted “Sections 4241, 4242, 4243, and 4244 do” for “This chapter does”.
 
     1994—Subsec. (h). [Pub. L. 103–322][/us/pl/103/322] substituted “subsection (e) of section 4241, 4244, 4245, or 4246, or subsection (f) of section 4243,” for “subsection (e) of section 4241, 4243, 4244, 4245, or 4246,”.
 
-    1988—Subsec. (b). [Pub. L. 100–690, § 7047(a)][/us/pl/100/690/s7047/a], substituted “psychologist” for “clinical psychologist” in first sentence.
+    1988—Subsec. (b). [Pub. L. 100–690][/us/pl/100/690], § 7047(a), substituted “psychologist” for “clinical psychologist” in first sentence.
 
-    Subsec. (e)(1)(B). [Pub. L. 100–690, § 7044][/us/pl/100/690/s7044], inserted at end “A copy of each such report concerning a person hospitalized after the beginning of a prosecution of that person for violation of section 871, 879, or 1751 of this title shall be submitted to the Director of the United States Secret Service. Except with the prior approval of the court, the Secret Service shall not use or disclose the information in these copies for any purpose other than carrying out protective duties under [section 3056(a) of this title][/us/usc/t18/s3056/a].”
+    Subsec. (e)(1)(B). [Pub. L. 100–690][/us/pl/100/690], § 7044, inserted at end “A copy of each such report concerning a person hospitalized after the beginning of a prosecution of that person for violation of section 871, 879, or 1751 of this title shall be submitted to the Director of the United States Secret Service. Except with the prior approval of the court, the Secret Service shall not use or disclose the information in these copies for any purpose other than carrying out protective duties under [section 3056(a) of this title][/us/usc/t18/s3056/a].”
 
     1984—[Pub. L. 98–473][/us/pl/98/473] amended section generally, substituting “General provisions for chapter” for “Alternate procedure of expiration of sentence” in section catchline, and substituting provisions relating to definitions, examinations, reports, etc., as applicable to chapter, for provisions relating to powers and duties regarding alternate procedure on expiration of sentence of prisoner.
 
@@ -169,32 +169,32 @@
 ----------
 
 [/us/usc/t18/s3056/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056%2Fa
-[/us/act/1949-09-07/ch535/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-07%2Fch535%2Fs1
+[/us/act/1949-09-07/ch535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-07%2Fch535
 [/us/stat/63/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F687
-[/us/pl/98/473/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs403%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2065
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4400
-[/us/pl/103/322/s330003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330003%2Fd
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2141
-[/us/pl/105/33/s11204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs11204%2F2
+[/us/pl/105/33/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtXI
 [/us/stat/111/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F739
-[/us/pl/109/248/s302/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs302%2F3
+[/us/pl/109/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtIII
 [/us/stat/120/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F619
-[/us/pl/109/248/s302/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs302%2F3%2FA
-[/us/pl/109/248/s302/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs302%2F3%2FC%2Fi
-[/us/pl/109/248/s302/3/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs302%2F3%2FC%2Fii
-[/us/pl/109/248/s302/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs302%2F3%2FD
-[/us/pl/109/248/s302/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs302%2F3%2FE
-[/us/pl/109/248/s302/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs302%2F3%2FF
-[/us/pl/109/248/s302/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs302%2F3%2FB
-[/us/pl/109/248/s302/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs302%2F3%2FF
-[/us/pl/109/248/s302/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs302%2F3%2FB
-[/us/pl/105/33/s11024/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs11024%2F2%2FC
-[/us/pl/105/33/s11024/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs11024%2F3
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/100/690/s7047/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7047%2Fa
-[/us/pl/100/690/s7044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7044
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t18/s3056/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056%2Fa
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33

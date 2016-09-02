@@ -331,33 +331,33 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–164, title I, § 103(a)(2)][/us/pl/109/164/s103/a/2], Jan. 10, 2006, [119 Stat. 3563][/us/stat/119/3563], added item for chapter 212A.
+    2006—[Pub. L. 109–164, title I][/us/pl/109/164/tI], § 103(a)(2), Jan. 10, 2006, [119 Stat. 3563][/us/stat/119/3563], added item for chapter 212A.
 
-    2004—[Pub. L. 108–405, title I, § 102(b)][/us/pl/108/405/s102/b], title IV, § 411(a)(2), Oct. 30, 2004, [118 Stat. 2264][/us/stat/118/2264], 2284, added items for chapters 228A and 237.
+    2004—[Pub. L. 108–405, title I][/us/pl/108/405/tI], § 102(b), title IV, § 411(a)(2), Oct. 30, 2004, [118 Stat. 2264][/us/stat/118/2264], 2284, added items for chapters 228A and 237.
 
-    2000—[Pub. L. 106–523, § 2(b)][/us/pl/106/523/s2/b], Nov. 22, 2000, [114 Stat. 2492][/us/stat/114/2492], added item for chapter 212.
+    2000—[Pub. L. 106–523][/us/pl/106/523], § 2(b), Nov. 22, 2000, [114 Stat. 2492][/us/stat/114/2492], added item for chapter 212.
 
-    1994—[Pub. L. 103–359, title VIII, § 803(c)(1)][/us/pl/103/359/s803/c/1], Oct. 14, 1994, [108 Stat. 3439][/us/stat/108/3439], substituted “terrorist acts and espionage” for “terrorists acts” in item for chapter 204.
+    1994—[Pub. L. 103–359, title VIII][/us/pl/103/359/tVIII], § 803(c)(1), Oct. 14, 1994, [108 Stat. 3439][/us/stat/108/3439], substituted “terrorist acts and espionage” for “terrorists acts” in item for chapter 204.
 
-    [Pub. L. 103–322, title VI, § 60002(b)][/us/pl/103/322/s60002/b], Sept. 13, 1994, [108 Stat. 1968][/us/stat/108/1968], added item for chapter 228.
+    [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60002(b), Sept. 13, 1994, [108 Stat. 1968][/us/stat/108/1968], added item for chapter 228.
 
-    1988—[Pub. L. 100–702, title IV, § 404(a)(1)][/us/pl/100/702/s404/a/1], Nov. 19, 1988, [102 Stat. 4651][/us/stat/102/4651], struck out item 237 “Rules of criminal procedure”.
+    1988—[Pub. L. 100–702, title IV][/us/pl/100/702/tIV], § 404(a)(1), Nov. 19, 1988, [102 Stat. 4651][/us/stat/102/4651], struck out item 237 “Rules of criminal procedure”.
 
-    1986—[Pub. L. 99–646, § 41(d)][/us/pl/99/646/s41/d], Nov. 10, 1986, [100 Stat. 3600][/us/stat/100/3600], struck out item for chapter 232 “Special forfeiture of collateral profits of crime” and added item for chapter 232A.
+    1986—[Pub. L. 99–646][/us/pl/99/646], § 41(d), Nov. 10, 1986, [100 Stat. 3600][/us/stat/100/3600], struck out item for chapter 232 “Special forfeiture of collateral profits of crime” and added item for chapter 232A.
 
-    [Pub. L. 99–508, title III, § 301(b)][/us/pl/99/508/s301/b], Oct. 21, 1986, [100 Stat. 1872][/us/stat/100/1872], added item for chapter 206.
+    [Pub. L. 99–508, title III][/us/pl/99/508/tIII], § 301(b), Oct. 21, 1986, [100 Stat. 1872][/us/stat/100/1872], added item for chapter 206.
 
-    1984—[Pub. L. 98–533, title I, § 101(b)][/us/pl/98/533/s101/b], Oct. 19, 1984, [98 Stat. 2708][/us/stat/98/2708], added item for chapter 204.
+    1984—[Pub. L. 98–533, title I][/us/pl/98/533/tI], § 101(b), Oct. 19, 1984, [98 Stat. 2708][/us/stat/98/2708], added item for chapter 204.
 
-    [Pub. L. 98–473, title II][/us/pl/98/473], §§ 203(d), 212(b), 1209(a), 1406(b), Oct. 12, 1984, [98 Stat. 1985][/us/stat/98/1985], 2011, 2163, 2176, inserted “and detention pending judicial proceedings” in item for chapter 207, added items for chapters 224, 227, 229, 231, and 232, and struck out items for former chapters 227 “Sentence, judgment, and execution”, 229 “Fines, penalties and forfeitures” and 231 “Probation”.
+    [Pub. L. 98–473, title II][/us/pl/98/473/tII], §§ 203(d), 212(b), 1209(a), 1406(b), Oct. 12, 1984, [98 Stat. 1985][/us/stat/98/1985], 2011, 2163, 2176, inserted “and detention pending judicial proceedings” in item for chapter 207, added items for chapters 224, 227, 229, 231, and 232, and struck out items for former chapters 227 “Sentence, judgment, and execution”, 229 “Fines, penalties and forfeitures” and 231 “Probation”.
 
-    1975—[Pub. L. 93–619, title I, § 102][/us/pl/93/619/s102], Jan. 3, 1975, [88 Stat. 2086][/us/stat/88/2086], added item for chapter 208.
+    1975—[Pub. L. 93–619, title I][/us/pl/93/619/tI], § 102, Jan. 3, 1975, [88 Stat. 2086][/us/stat/88/2086], added item for chapter 208.
 
-    1970—[Pub. L. 91–452, title I, § 101(b)][/us/pl/91/452/s101/b], Oct. 15, 1970, [84 Stat. 926][/us/stat/84/926], added item for chapter 216.
+    1970—[Pub. L. 91–452, title I][/us/pl/91/452/tI], § 101(b), Oct. 15, 1970, [84 Stat. 926][/us/stat/84/926], added item for chapter 216.
 
-    1968—[Pub. L. 90–578, title III, § 301(c)][/us/pl/90/578/s301/c], Oct. 17, 1968, [82 Stat. 1115][/us/stat/82/1115], substituted “Trial by United States magistrates” for “Trial by commissioners” in item for chapter 219.
+    1968—[Pub. L. 90–578, title III][/us/pl/90/578/tIII], § 301(c), Oct. 17, 1968, [82 Stat. 1115][/us/stat/82/1115], substituted “Trial by United States magistrates” for “Trial by commissioners” in item for chapter 219.
 
-    1966—[Pub. L. 89–465, § 5(e)(2)][/us/pl/89/465/s5/e/2], June 22, 1966, [80 Stat. 217][/us/stat/80/217], substituted “Release” for “Bail” in item for chapter 207.
+    1966—[Pub. L. 89–465][/us/pl/89/465], § 5(e)(2), June 22, 1966, [80 Stat. 217][/us/stat/80/217], substituted “Release” for “Bail” in item for chapter 207.
 
  __Change of Name__ 
 
@@ -370,33 +370,33 @@
 ----------
 ----------
 
-[/us/pl/109/164/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs103%2Fa%2F2
+[/us/pl/109/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2FtI
 [/us/stat/119/3563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3563
-[/us/pl/108/405/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs102%2Fb
+[/us/pl/108/405/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtI
 [/us/stat/118/2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2264
-[/us/pl/106/523/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F523%2Fs2%2Fb
+[/us/pl/106/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F523
 [/us/stat/114/2492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2492
-[/us/pl/103/359/s803/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs803%2Fc%2F1
+[/us/pl/103/359/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVIII
 [/us/stat/108/3439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3439
-[/us/pl/103/322/s60002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60002%2Fb
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1968
-[/us/pl/100/702/s404/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs404%2Fa%2F1
+[/us/pl/100/702/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIV
 [/us/stat/102/4651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4651
-[/us/pl/99/646/s41/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs41%2Fd
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3600
-[/us/pl/99/508/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs301%2Fb
+[/us/pl/99/508/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtIII
 [/us/stat/100/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1872
-[/us/pl/98/533/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F533%2Fs101%2Fb
+[/us/pl/98/533/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F533%2FtI
 [/us/stat/98/2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2708
-[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1985
-[/us/pl/93/619/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2Fs102
+[/us/pl/93/619/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2FtI
 [/us/stat/88/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2086
-[/us/pl/91/452/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs101%2Fb
+[/us/pl/91/452/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtI
 [/us/stat/84/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F926
-[/us/pl/90/578/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs301%2Fc
+[/us/pl/90/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtIII
 [/us/stat/82/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1115
-[/us/pl/89/465/s5/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F465%2Fs5%2Fe%2F2
+[/us/pl/89/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F465
 [/us/stat/80/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F217
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631

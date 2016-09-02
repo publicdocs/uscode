@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on [section 245 of title 25][/us/usc/t25/s245], U.S.C., 1940 ed., Indians ([May 18, 1916, ch. 125, § 1][/us/act/1916-05-18/ch125/s1], [39 Stat. 124][/us/stat/39/124]).
+    Based on [section 245 of title 25][/us/usc/t25/s245], U.S.C., 1940 ed., Indians ([May 18, 1916, ch. 125][/us/act/1916-05-18/ch125], § 1, [39 Stat. 124][/us/stat/39/124]).
 
     The only change made was the insertion of the word “Indian” before “country”, to substitute specificity for generality. (See definition of “Indian country” in [section 1151 of this title][/us/usc/t18/s1151].)
 
@@ -35,7 +35,7 @@
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F834
 [/us/usc/t25/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs245
-[/us/act/1916-05-18/ch125/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-05-18%2Fch125%2Fs1
+[/us/act/1916-05-18/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-05-18%2Fch125
 [/us/stat/39/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F124
 [/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151
 

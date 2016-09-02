@@ -23,7 +23,7 @@
 
     (d) It shall be unlawful for any person to conspire to violate any of the provisions of subsection (a), (b), or (c) of this section.
 
-(Added [Pub. L. 91–452, title IX, § 901(a)][/us/pl/91/452/s901/a], Oct. 15, 1970, [84 Stat. 942][/us/stat/84/942]; amended [Pub. L. 100–690, title VII, § 7033][/us/pl/100/690/s7033], Nov. 18, 1988, [102 Stat. 4398][/us/stat/102/4398].)
+(Added [Pub. L. 91–452, title IX][/us/pl/91/452/tIX], § 901(a), Oct. 15, 1970, [84 Stat. 942][/us/stat/84/942]; amended [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7033, Nov. 18, 1988, [102 Stat. 4398][/us/stat/102/4398].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/91/452/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs901%2Fa
+[/us/pl/91/452/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtIX
 [/us/stat/84/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F942
-[/us/pl/100/690/s7033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7033
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4398
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t18/ptI/ch83/m__us_usc_t18_s1737.md) | [Next](./../../../../..//us/usc/t18/ptI/ch84/m__us_usc_t18_ptI_ch84.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1738)
 
-## \[§ 1738. Repealed. [Pub. L. 106–578, § 4][/us/pl/106/578/s4], Dec. 28, 2000, [114 Stat. 3076][/us/stat/114/3076]\]
+## \[§ 1738. Repealed. [Pub. L. 106–578][/us/pl/106/578], § 4, Dec. 28, 2000, [114 Stat. 3076][/us/stat/114/3076]\]
 
-    Section, added [Pub. L. 97–398, § 4(a)][/us/pl/97/398/s4/a], Dec. 31, 1982, [96 Stat. 2011][/us/stat/96/2011]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147], related to mailing private identification documents without a disclaimer.
+    Section, added [Pub. L. 97–398][/us/pl/97/398], § 4(a), Dec. 31, 1982, [96 Stat. 2011][/us/stat/96/2011]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(H), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147], related to mailing private identification documents without a disclaimer.
 
  __Effective Date of Repeal__ 
 
@@ -28,11 +28,11 @@
 ----------
 ----------
 
-[/us/pl/106/578/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F578%2Fs4
+[/us/pl/106/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F578
 [/us/stat/114/3076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3076
-[/us/pl/97/398/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F398%2Fs4%2Fa
+[/us/pl/97/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F398
 [/us/stat/96/2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2011
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/pl/106/578/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F578%2Fs5
 [/us/usc/t18/s1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1028

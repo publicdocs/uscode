@@ -37,11 +37,11 @@
 
     (d) The term “State” as used in this section includes any State, territory, or possession of the United States, and the Canal Zone.
 
-(Added [May 9, 1952, ch. 253, § 1][/us/act/1952-05-09/ch253/s1], [66 Stat. 68][/us/stat/66/68]; amended [Pub. L. 89–267, § 1][/us/pl/89/267/s1], Oct. 19, 1965, [79 Stat. 990][/us/stat/79/990]; [Pub. L. 99–646, § 66][/us/pl/99/646/s66], Nov. 10, 1986, [100 Stat. 3615][/us/stat/100/3615].)
+(Added [May 9, 1952, ch. 253][/us/act/1952-05-09/ch253], § 1, [66 Stat. 68][/us/stat/66/68]; amended [Pub. L. 89–267][/us/pl/89/267], § 1, Oct. 19, 1965, [79 Stat. 990][/us/stat/79/990]; [Pub. L. 99–646][/us/pl/99/646], § 66, Nov. 10, 1986, [100 Stat. 3615][/us/stat/100/3615].)
 
  __References in Text__ 
 
-    [Section 4082(b) of this title][/us/usc/t18/s4082/b], referred to in subsec. (a)(2)(B), was repealed, and section 4082(f) was redesignated section 4082(b), by [Pub. L. 98–473, title II, § 218(a)][/us/pl/98/473/s218/a], Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027].
+    [Section 4082(b) of this title][/us/usc/t18/s4082/b], referred to in subsec. (a)(2)(B), was repealed, and section 4082(f) was redesignated section 4082(b), by [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 218(a), Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027].
 
     For definition of Canal Zone, referred to in subsec. (d), see [section 3602(b) of Title 22][/us/usc/t22/s3602/b], Foreign Relations and Intercourse.
 
@@ -58,14 +58,14 @@
 ----------
 ----------
 
-[/us/act/1952-05-09/ch253/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-05-09%2Fch253%2Fs1
+[/us/act/1952-05-09/ch253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-05-09%2Fch253
 [/us/stat/66/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F68
-[/us/pl/89/267/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F267%2Fs1
+[/us/pl/89/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F267
 [/us/stat/79/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F990
-[/us/pl/99/646/s66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs66
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3615
 [/us/usc/t18/s4082/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4082%2Fb
-[/us/pl/98/473/s218/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs218%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2027
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646

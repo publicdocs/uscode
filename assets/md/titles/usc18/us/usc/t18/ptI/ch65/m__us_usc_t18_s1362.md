@@ -19,11 +19,11 @@
 
     In the case of any works, property, or material, not operated or controlled by the United States, this section shall not apply to any lawful strike activity, or other lawful concerted activities for the purposes of collective bargaining or other mutual aid and protection which do not injure or destroy any line or system used or intended to be used for the military or civil defense functions of the United States.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 764][/us/stat/62/764]; [Pub. L. 87–306][/us/pl/87/306], Sept. 26, 1961, [75 Stat. 669][/us/stat/75/669]; [Pub. L. 103–322, title XXXII, § 320903(d)(2)][/us/pl/103/322/s320903/d/2], title XXXIII, § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2125][/us/stat/108/2125], 2147; [Pub. L. 107–56, title VIII, § 811(c)][/us/pl/107/56/s811/c], Oct. 26, 2001, [115 Stat. 381][/us/stat/115/381].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 764][/us/stat/62/764]; [Pub. L. 87–306][/us/pl/87/306], Sept. 26, 1961, [75 Stat. 669][/us/stat/75/669]; [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320903(d)(2), title XXXIII, § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2125][/us/stat/108/2125], 2147; [Pub. L. 107–56, title VIII][/us/pl/107/56/tVIII], § 811(c), Oct. 26, 2001, [115 Stat. 381][/us/stat/115/381].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 116 ([Mar. 4, 1909, ch. 321, § 60][/us/act/1909-03-04/ch321/s60], [35 Stat. 1099][/us/stat/35/1099]).
+    Based on title 18, U.S.C., 1940 ed., § 116 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 60, [35 Stat. 1099][/us/stat/35/1099]).
 
     This section was extended to include radio and radio stations. Minor changes were made in phraseology.
 
@@ -46,11 +46,11 @@
 [/us/stat/62/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F764
 [/us/pl/87/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F306
 [/us/stat/75/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F669
-[/us/pl/103/322/s320903/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320903%2Fd%2F2
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2125
-[/us/pl/107/56/s811/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs811%2Fc
+[/us/pl/107/56/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtVIII
 [/us/stat/115/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F381
-[/us/act/1909-03-04/ch321/s60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs60
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1099
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

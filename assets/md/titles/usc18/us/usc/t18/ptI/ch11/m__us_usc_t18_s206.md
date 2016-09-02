@@ -17,7 +17,7 @@
 
     Sections 203 and 205 of this title shall not apply to a retired officer of the uniformed services of the United States while not on active duty and not otherwise an officer or employee of the United States, or to any person specially excepted by Act of Congress.
 
-(Added [Pub. L. 87–849, § 1(a)][/us/pl/87/849/s1/a], Oct. 23, 1962, [76 Stat. 1123][/us/stat/76/1123].)
+(Added [Pub. L. 87–849][/us/pl/87/849], § 1(a), Oct. 23, 1962, [76 Stat. 1123][/us/stat/76/1123].)
 
  __Prior Provisions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/87/849/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs1%2Fa
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1123
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F692

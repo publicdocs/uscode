@@ -67,21 +67,21 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–458, title VI, § 6803(c)(1)][/us/pl/108/458/s6803/c/1], Dec. 17, 2004, [118 Stat. 3768][/us/stat/118/3768], added item 832.
+    2004—[Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6803(c)(1), Dec. 17, 2004, [118 Stat. 3768][/us/stat/118/3768], added item 832.
 
-    1982—[Pub. L. 97–351, § 2(b)][/us/pl/97/351/s2/b], Oct. 18, 1982, [96 Stat. 1666][/us/stat/96/1666], substituted “Prohibited transactions involving nuclear materials” for “Definitions” in item 831 and struck out items 832 “Transportation of explosives, radioactive materials, etiologic agents, and other dangerous articles”, 833 “Marking packages containing explosives and other dangerous articles”, 834 “Regulation by Interstate Commerce Commission”, and 835 “Administration”.
+    1982—[Pub. L. 97–351][/us/pl/97/351], § 2(b), Oct. 18, 1982, [96 Stat. 1666][/us/stat/96/1666], substituted “Prohibited transactions involving nuclear materials” for “Definitions” in item 831 and struck out items 832 “Transportation of explosives, radioactive materials, etiologic agents, and other dangerous articles”, 833 “Marking packages containing explosives and other dangerous articles”, 834 “Regulation by Interstate Commerce Commission”, and 835 “Administration”.
 
-    1970—[Pub. L. 91–452, title XI, § 1106(b)(2)][/us/pl/91/452/s1106/b/2], Oct. 15, 1970, [84 Stat. 960][/us/stat/84/960], struck out item 837.
+    1970—[Pub. L. 91–452, title XI][/us/pl/91/452/tXI], § 1106(b)(2), Oct. 15, 1970, [84 Stat. 960][/us/stat/84/960], struck out item 837.
 
     1960—[Pub. L. 86–710][/us/pl/86/710], Sept. 6, 1960, [74 Stat. 808][/us/stat/74/808], substituted “OTHER DANGEROUS ARTICLES” for “COMBUSTIBLES” in chapter heading, “explosives, radioactive materials, etiologic agents, and other dangerous articles” for “dynamite, powder and fuses” in item 832, “Marking packages containing explosives and other dangerous articles” for “Transportation of nitroglycerin” in item 833, “Regulation by Interstate Commerce Commission” for “Marking packages containing explosives” in item 834, and “Administration” for “Regulations by Interstate Commerce Commission” in item 835.
 
-    [Pub. L. 86–449, title II, § 204][/us/pl/86/449/s204], May 6, 1960, [74 Stat. 88][/us/stat/74/88], added item 837.
+    [Pub. L. 86–449, title II][/us/pl/86/449/tII], § 204, May 6, 1960, [74 Stat. 88][/us/stat/74/88], added item 837.
 
-    1954—[Act June 4, 1954, ch. 261, § 2][/us/act/1954-06-04/ch261/s2], [68 Stat. 171][/us/stat/68/171], added item 836.
+    1954—[Act June 4, 1954, ch. 261][/us/act/1954-06-04/ch261], § 2, [68 Stat. 171][/us/stat/68/171], added item 836.
 
  __Hazardous Substances__ 
 
-    Federal Hazardous Substances Act as not modifying this chapter or regulations promulgated thereunder, see [Pub. L. 86–613, § 18][/us/pl/86/613/s18], formerly 17, July 12, 1960, [74 Stat. 380][/us/stat/74/380], as amended [Pub. L. 89–756, § 4(a)][/us/pl/89/756/s4/a], Nov. 3, 1966, [80 Stat. 1305][/us/stat/80/1305]; renumbered and amended [Pub. L. 91–113, § 4(a)][/us/pl/91/113/s4/a], (b)(1), Nov. 6, 1969, [83 Stat. 189][/us/stat/83/189], 190, set out as a note under [section 1261 of Title 15][/us/usc/t15/s1261], Commerce and Trade.
+    Federal Hazardous Substances Act as not modifying this chapter or regulations promulgated thereunder, see [Pub. L. 86–613][/us/pl/86/613], § 18, formerly 17, July 12, 1960, [74 Stat. 380][/us/stat/74/380], as amended [Pub. L. 89–756][/us/pl/89/756], § 4(a), Nov. 3, 1966, [80 Stat. 1305][/us/stat/80/1305]; renumbered and amended [Pub. L. 91–113][/us/pl/91/113], § 4(a), (b)(1), Nov. 6, 1969, [83 Stat. 189][/us/stat/83/189], 190, set out as a note under [section 1261 of Title 15][/us/usc/t15/s1261], Commerce and Trade.
 
 ----------
 
@@ -90,23 +90,23 @@
 ----------
 ----------
 
-[/us/pl/108/458/s6803/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6803%2Fc%2F1
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3768
-[/us/pl/97/351/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F351%2Fs2%2Fb
+[/us/pl/97/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F351
 [/us/stat/96/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1666
-[/us/pl/91/452/s1106/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs1106%2Fb%2F2
+[/us/pl/91/452/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtXI
 [/us/stat/84/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F960
 [/us/pl/86/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F710
 [/us/stat/74/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F808
-[/us/pl/86/449/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F449%2Fs204
+[/us/pl/86/449/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F449%2FtII
 [/us/stat/74/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F88
-[/us/act/1954-06-04/ch261/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-04%2Fch261%2Fs2
+[/us/act/1954-06-04/ch261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-04%2Fch261
 [/us/stat/68/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F171
-[/us/pl/86/613/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs18
+[/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/stat/74/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F380
-[/us/pl/89/756/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756%2Fs4%2Fa
+[/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
 [/us/stat/80/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1305
-[/us/pl/91/113/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113%2Fs4%2Fa
+[/us/pl/91/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113
 [/us/stat/83/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F189
 [/us/usc/t15/s1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1261
 

@@ -31,15 +31,15 @@
 
         (2) 10 years after the victim reaches 18 years of age, if the victim was a minor at the time of the alleged offense.
 
-(Added [Pub. L. 108–193, § 4(a)(4)(A)][/us/pl/108/193/s4/a/4/A], Dec. 19, 2003, [117 Stat. 2878][/us/stat/117/2878]; amended [Pub. L. 110–457, title II, § 221(2)][/us/pl/110/457/s221/2], Dec. 23, 2008, [122 Stat. 5067][/us/stat/122/5067]; [Pub. L. 114–22, title I, § 120][/us/pl/114/22/s120], May 29, 2015, [129 Stat. 247][/us/stat/129/247].)
+(Added [Pub. L. 108–193][/us/pl/108/193], § 4(a)(4)(A), Dec. 19, 2003, [117 Stat. 2878][/us/stat/117/2878]; amended [Pub. L. 110–457, title II][/us/pl/110/457/tII], § 221(2), Dec. 23, 2008, [122 Stat. 5067][/us/stat/122/5067]; [Pub. L. 114–22, title I][/us/pl/114/22/tI], § 120, May 29, 2015, [129 Stat. 247][/us/stat/129/247].)
 
  __Amendments__ 
 
     2015—Subsec. (c). [Pub. L. 114–22][/us/pl/114/22] substituted “not later than the later of—” for “not later than 10 years after the cause of action arose.” and added pars. (1) and (2).
 
-    2008—Subsec. (a). [Pub. L. 110–457, § 221(2)(A)][/us/pl/110/457/s221/2/A], struck out “of section 1589, 1590, or 1591” after “victim of a violation” and inserted “(or whoever knowingly benefits, financially or by receiving anything of value from participation in a venture which that person knew or should have known has engaged in an act in violation of this chapter)” after “perpetrator”.
+    2008—Subsec. (a). [Pub. L. 110–457][/us/pl/110/457], § 221(2)(A), struck out “of section 1589, 1590, or 1591” after “victim of a violation” and inserted “(or whoever knowingly benefits, financially or by receiving anything of value from participation in a venture which that person knew or should have known has engaged in an act in violation of this chapter)” after “perpetrator”.
 
-    Subsec. (c). [Pub. L. 110–457, § 221(2)(B)][/us/pl/110/457/s221/2/B], added subsec. (c).
+    Subsec. (c). [Pub. L. 110–457][/us/pl/110/457], § 221(2)(B), added subsec. (c).
 
 ----------
 
@@ -48,14 +48,14 @@
 ----------
 ----------
 
-[/us/pl/108/193/s4/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193%2Fs4%2Fa%2F4%2FA
+[/us/pl/108/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F193
 [/us/stat/117/2878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2878
-[/us/pl/110/457/s221/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs221%2F2
+[/us/pl/110/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtII
 [/us/stat/122/5067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5067
-[/us/pl/114/22/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs120
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F247
 [/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
-[/us/pl/110/457/s221/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs221%2F2%2FA
-[/us/pl/110/457/s221/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs221%2F2%2FB
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
+[/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
 
 

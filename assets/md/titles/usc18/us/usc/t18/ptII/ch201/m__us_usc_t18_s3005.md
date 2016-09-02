@@ -17,7 +17,7 @@
 
     Whoever is indicted for treason or other capital crime shall be allowed to make his full defense by counsel; and the court before which the defendant is to be tried, or a judge thereof, shall promptly, upon the defendant’s request, assign 2 such counsel, of whom at least 1 shall be learned in the law applicable to capital cases, and who shall have free access to the accused at all reasonable hours. In assigning counsel under this section, the court shall consider the recommendation of the Federal Public Defender organization, or, if no such organization exists in the district, of the Administrative Office of the United States Courts. The defendant shall be allowed, in his defense to make any proof that he can produce by lawful witnesses, and shall have the like process of the court to compel his witnesses to appear at his trial, as is usually granted to compel witnesses to appear on behalf of the prosecution.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 814][/us/stat/62/814]; [Pub. L. 103–322, title VI, § 60026][/us/pl/103/322/s60026], Sept. 13, 1994, [108 Stat. 1982][/us/stat/108/1982].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 814][/us/stat/62/814]; [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60026, Sept. 13, 1994, [108 Stat. 1982][/us/stat/108/1982].)
 
  __Historical and Revision Notes__ 
 
@@ -38,7 +38,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F814
-[/us/pl/103/322/s60026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60026
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1982
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

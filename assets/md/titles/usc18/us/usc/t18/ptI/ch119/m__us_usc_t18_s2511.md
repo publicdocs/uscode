@@ -139,11 +139,11 @@
 
     (b) The court may use any means within its authority to enforce an injunction issued under paragraph (ii)(A), and shall impose a civil fine of not less than $500 for each violation of such an injunction.
 
-(Added [Pub. L. 90–351, title III, § 802][/us/pl/90/351/s802], June 19, 1968, [82 Stat. 213][/us/stat/82/213]; amended [Pub. L. 91–358, title II, § 211(a)][/us/pl/91/358/s211/a], July 29, 1970, [84 Stat. 654][/us/stat/84/654]; [Pub. L. 95–511, title II, § 201(a)][/us/pl/95/511/s201/a]–(c), Oct. 25, 1978, [92 Stat. 1796][/us/stat/92/1796], 1797; [Pub. L. 98–549, § 6(b)(2)][/us/pl/98/549/s6/b/2], Oct. 30, 1984, [98 Stat. 2804][/us/stat/98/2804]; [Pub. L. 99–508, title I][/us/pl/99/508], §§ 101(b), (c)(1), (5), (6), (d), (f)\[(1)\], 102, Oct. 21, 1986, [100 Stat. 1849][/us/stat/100/1849], 1851–1853; [Pub. L. 103–322, title XXXII, § 320901][/us/pl/103/322/s320901], title XXXIII, § 330016(1)(G), Sept. 13, 1994, [108 Stat. 2123][/us/stat/108/2123], 2147; [Pub. L. 103–414, title II][/us/pl/103/414], §§ 202(b), 204, 205, Oct. 25, 1994, [108 Stat. 4290][/us/stat/108/4290], 4291; [Pub. L. 104–294, title VI, § 604(b)(42)][/us/pl/104/294/s604/b/42], Oct. 11, 1996, [110 Stat. 3509][/us/stat/110/3509]; [Pub. L. 107–56, title II][/us/pl/107/56], §§ 204, 217(2), Oct. 26, 2001, [115 Stat. 281][/us/stat/115/281], 291; [Pub. L. 107–296, title II, § 225(h)(2)][/us/pl/107/296/s225/h/2], (j)(1), Nov. 25, 2002, [116 Stat. 2158][/us/stat/116/2158]; [Pub. L. 110–261, title I][/us/pl/110/261], §§ 101(c)(1), 102(c)(1), title IV, § 403(b)(2)(C), July 10, 2008, [122 Stat. 2459][/us/stat/122/2459], 2474.)
+(Added [Pub. L. 90–351, title III][/us/pl/90/351/tIII], § 802, June 19, 1968, [82 Stat. 213][/us/stat/82/213]; amended [Pub. L. 91–358, title II][/us/pl/91/358/tII], § 211(a), July 29, 1970, [84 Stat. 654][/us/stat/84/654]; [Pub. L. 95–511, title II][/us/pl/95/511/tII], § 201(a)–(c), Oct. 25, 1978, [92 Stat. 1796][/us/stat/92/1796], 1797; [Pub. L. 98–549][/us/pl/98/549], § 6(b)(2), Oct. 30, 1984, [98 Stat. 2804][/us/stat/98/2804]; [Pub. L. 99–508, title I][/us/pl/99/508/tI], §§ 101(b), (c)(1), (5), (6), (d), (f)\[(1)\], 102, Oct. 21, 1986, [100 Stat. 1849][/us/stat/100/1849], 1851–1853; [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320901, title XXXIII, § 330016(1)(G), Sept. 13, 1994, [108 Stat. 2123][/us/stat/108/2123], 2147; [Pub. L. 103–414, title II][/us/pl/103/414/tII], §§ 202(b), 204, 205, Oct. 25, 1994, [108 Stat. 4290][/us/stat/108/4290], 4291; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(42), Oct. 11, 1996, [110 Stat. 3509][/us/stat/110/3509]; [Pub. L. 107–56, title II][/us/pl/107/56/tII], §§ 204, 217(2), Oct. 26, 2001, [115 Stat. 281][/us/stat/115/281], 291; [Pub. L. 107–296, title II][/us/pl/107/296/tII], § 225(h)(2), (j)(1), Nov. 25, 2002, [116 Stat. 2158][/us/stat/116/2158]; [Pub. L. 110–261, title I][/us/pl/110/261/tI], §§ 101(c)(1), 102(c)(1), title IV, § 403(b)(2)(C), July 10, 2008, [122 Stat. 2459][/us/stat/122/2459], 2474.)
 
  __Amendment of Paragraph (2)(a)(ii)(A)__ 
 
-    [Pub. L. 110–261, title IV, § 403(b)(2)][/us/pl/110/261/s403/b/2], July 10, 2008, [122 Stat. 2474][/us/stat/122/2474], as amended by [Pub. L. 112–238, § 2(a)(2)][/us/pl/112/238/s2/a/2], Dec. 30, 2012, [126 Stat. 1631][/us/stat/126/1631], provided that, except as provided in [section 404 of Pub. L. 110–261][/us/pl/110/261/s404], set out as a note under [section 1801 of Title 50][/us/usc/t50/s1801], War and National Defense, effective Dec. 31, 2017, paragraph (2)(a)(ii)(A) of this section is amended by striking “or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978”.
+    [Pub. L. 110–261, title IV][/us/pl/110/261/tIV], § 403(b)(2), July 10, 2008, [122 Stat. 2474][/us/stat/122/2474], as amended by [Pub. L. 112–238][/us/pl/112/238], § 2(a)(2), Dec. 30, 2012, [126 Stat. 1631][/us/stat/126/1631], provided that, except as provided in [section 404 of Pub. L. 110–261][/us/pl/110/261/s404], set out as a note under [section 1801 of Title 50][/us/usc/t50/s1801], War and National Defense, effective Dec. 31, 2017, paragraph (2)(a)(ii)(A) of this section is amended by striking “or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978”.
 
  __References in Text__ 
 
@@ -157,67 +157,67 @@ For information regarding constitutionality of certain provisions of this sectio
 
  __Amendments__ 
 
-    2008—Par. (2)(a)(ii)(A). [Pub. L. 110–261, § 101(c)(1)][/us/pl/110/261/s101/c/1], inserted “or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978” after “assistance”.
+    2008—Par. (2)(a)(ii)(A). [Pub. L. 110–261][/us/pl/110/261], § 101(c)(1), inserted “or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978” after “assistance”.
 
-    Par. (2)(a)(iii). [Pub. L. 110–261, § 102(c)(1)][/us/pl/110/261/s102/c/1], added cl. (iii).
+    Par. (2)(a)(iii). [Pub. L. 110–261][/us/pl/110/261], § 102(c)(1), added cl. (iii).
 
-    2002—Par. (2)(a)(ii). [Pub. L. 107–296, § 225(h)(2)][/us/pl/107/296/s225/h/2], inserted “, statutory authorization,” after “terms of a court order” in concluding provisions.
+    2002—Par. (2)(a)(ii). [Pub. L. 107–296][/us/pl/107/296], § 225(h)(2), inserted “, statutory authorization,” after “terms of a court order” in concluding provisions.
 
-    Par. (4)(b), (c). [Pub. L. 107–296, § 225(j)(1)][/us/pl/107/296/s225/j/1], redesignated subpar. (c) as (b) and struck out former subpar. (b) which read as follows: “If the offense is a first offense under paragraph (a) of this subsection and is not for a tortious or illegal purpose or for purposes of direct or indirect commercial advantage or private commercial gain, and the wire or electronic communication with respect to which the offense under paragraph (a) is a radio communication that is not scrambled, encrypted, or transmitted using modulation techniques the essential parameters of which have been withheld from the public with the intention of preserving the privacy of such communication, then—
+    Par. (4)(b), (c). [Pub. L. 107–296][/us/pl/107/296], § 225(j)(1), redesignated subpar. (c) as (b) and struck out former subpar. (b) which read as follows: “If the offense is a first offense under paragraph (a) of this subsection and is not for a tortious or illegal purpose or for purposes of direct or indirect commercial advantage or private commercial gain, and the wire or electronic communication with respect to which the offense under paragraph (a) is a radio communication that is not scrambled, encrypted, or transmitted using modulation techniques the essential parameters of which have been withheld from the public with the intention of preserving the privacy of such communication, then—
 
     “(i) if the communication is not the radio portion of a cellular telephone communication, a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit, a public land mobile radio service communication or a paging service communication, and the conduct is not that described in subsection (5), the offender shall be fined under this title or imprisoned not more than one year, or both; and
 
     “(ii) if the communication is the radio portion of a cellular telephone communication, a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit, a public land mobile radio service communication or a paging service communication, the offender shall be fined under this title.”
 
-    2001—Par. (2)(f). [Pub. L. 107–56, § 204][/us/pl/107/56/s204], substituted “this chapter or chapter 121 or 206 of this title, or section 705 of the Communications Act of 1934” for “this chapter or chapter 121, or section 705 of the Communications Act of 1934” and “wire, oral, and electronic communications” for “wire and oral communications”.
+    2001—Par. (2)(f). [Pub. L. 107–56][/us/pl/107/56], § 204, substituted “this chapter or chapter 121 or 206 of this title, or section 705 of the Communications Act of 1934” for “this chapter or chapter 121, or section 705 of the Communications Act of 1934” and “wire, oral, and electronic communications” for “wire and oral communications”.
 
-    Par. (2)(i). [Pub. L. 107–56, § 217(2)][/us/pl/107/56/s217/2], added subpar. (i).
+    Par. (2)(i). [Pub. L. 107–56][/us/pl/107/56], § 217(2), added subpar. (i).
 
     1996—Par. (1)(e)(i). [Pub. L. 104–294][/us/pl/104/294] substituted “sections 2511(2)(a)(ii), 2511(2)(b)–(c), 2511(2)(e), 2516, and 2518 of this chapter” for “sections 2511(2)(A)(ii), 2511(b)–(c), 2511(e), 2516, and 2518 of this subchapter”.
 
-    1994—Par. (1)(e). [Pub. L. 103–322, § 320901][/us/pl/103/322/s320901], added par. (1)(e).
+    1994—Par. (1)(e). [Pub. L. 103–322][/us/pl/103/322], § 320901, added par. (1)(e).
 
-    Par. (2)(a)(i). [Pub. L. 103–414, § 205][/us/pl/103/414/s205], inserted “or electronic” after “transmission of a wire”.
+    Par. (2)(a)(i). [Pub. L. 103–414][/us/pl/103/414], § 205, inserted “or electronic” after “transmission of a wire”.
 
-    Par. (4)(b). [Pub. L. 103–414, § 204][/us/pl/103/414/s204], in introductory provisions substituted “, encrypted, or transmitted using modulation techniques the essential parameters of which have been withheld from the public with the intention of preserving the privacy of such communication, then” for “or encrypted, then”.
+    Par. (4)(b). [Pub. L. 103–414][/us/pl/103/414], § 204, in introductory provisions substituted “, encrypted, or transmitted using modulation techniques the essential parameters of which have been withheld from the public with the intention of preserving the privacy of such communication, then” for “or encrypted, then”.
 
-    Par. (4)(b)(i). [Pub. L. 103–414, § 202(b)(1)][/us/pl/103/414/s202/b/1], inserted “a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit,” after “cellular telephone communication,”.
+    Par. (4)(b)(i). [Pub. L. 103–414][/us/pl/103/414], § 202(b)(1), inserted “a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit,” after “cellular telephone communication,”.
 
-    Par. (4)(b)(ii). [Pub. L. 103–414, § 202(b)(2)][/us/pl/103/414/s202/b/2], inserted “a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit,” after “cellular telephone communication,”.
+    Par. (4)(b)(ii). [Pub. L. 103–414][/us/pl/103/414], § 202(b)(2), inserted “a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit,” after “cellular telephone communication,”.
 
-    [Pub. L. 103–322, § 330016(1)(G)][/us/pl/103/322/s330016/1/G], substituted “fined under this title” for “fined not more than $500”.
+    [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(G), substituted “fined under this title” for “fined not more than $500”.
 
-    1986—[Pub. L. 99–508, § 101(c)(1)(A)][/us/pl/99/508/s101/c/1/A], substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
+    1986—[Pub. L. 99–508][/us/pl/99/508], § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
 
-    Par. (1). [Pub. L. 99–508, § 101(c)(1)(A)][/us/pl/99/508/s101/c/1/A], (d)(1), (f)\[(1)\], substituted “intentionally” for “willfully” in subpars. (a) to (d) and “wire, oral, or electronic’ for “wire or oral” wherever appearing in subpars. (a), (c), and (d), and in concluding provisions substituted “shall be punished as provided in subsection (4) or shall be subject to suit as provided in subsection (5)” for “shall be fined not more than $10,000 or imprisoned not more than five years, or both”.
+    Par. (1). [Pub. L. 99–508][/us/pl/99/508], § 101(c)(1)(A), (d)(1), (f)\[(1)\], substituted “intentionally” for “willfully” in subpars. (a) to (d) and “wire, oral, or electronic’ for “wire or oral” wherever appearing in subpars. (a), (c), and (d), and in concluding provisions substituted “shall be punished as provided in subsection (4) or shall be subject to suit as provided in subsection (5)” for “shall be fined not more than $10,000 or imprisoned not more than five years, or both”.
 
-    Par. (2)(a)(i). [Pub. L. 99–508, § 101(c)(5)][/us/pl/99/508/s101/c/5], substituted “a provider of wire or electronic communication service” for “any communication common carrier” and “of the provider of that service, except that a provider of wire communication service to the public” for “of the carrier of such communication: Provided, That said communication common carriers”.
+    Par. (2)(a)(i). [Pub. L. 99–508][/us/pl/99/508], § 101(c)(5), substituted “a provider of wire or electronic communication service” for “any communication common carrier” and “of the provider of that service, except that a provider of wire communication service to the public” for “of the carrier of such communication: Provided, That said communication common carriers”.
 
-    Par. (2)(a)(ii). [Pub. L. 99–508, § 101(b)(1)][/us/pl/99/508/s101/b/1], (c)(1)(A), (6), substituted “providers of wire or electronic communication service” for “communication common carriers”, “wire, oral, or electronic” for “wire or oral”, “if such provider” for “if the common carrier”, “provider of wire or electronic communication service” for “communication common carrier” wherever appearing, “such disclosure” for “violation of this subparagraph by a communication common carrier or an officer, employee, or agent thereof”, “render such person liable” for “render the carrier liable”, and “a court order or certification under this chapter” for “an order or certification under this subparagraph” in two places.
+    Par. (2)(a)(ii). [Pub. L. 99–508][/us/pl/99/508], § 101(b)(1), (c)(1)(A), (6), substituted “providers of wire or electronic communication service” for “communication common carriers”, “wire, oral, or electronic” for “wire or oral”, “if such provider” for “if the common carrier”, “provider of wire or electronic communication service” for “communication common carrier” wherever appearing, “such disclosure” for “violation of this subparagraph by a communication common carrier or an officer, employee, or agent thereof”, “render such person liable” for “render the carrier liable”, and “a court order or certification under this chapter” for “an order or certification under this subparagraph” in two places.
 
-    Par. (2)(b). [Pub. L. 99–508, § 101(c)(1)(B)][/us/pl/99/508/s101/c/1/B], inserted “or electronic” after “wire”.
+    Par. (2)(b). [Pub. L. 99–508][/us/pl/99/508], § 101(c)(1)(B), inserted “or electronic” after “wire”.
 
-    Par. (2)(c). [Pub. L. 99–508, § 101(c)(1)(A)][/us/pl/99/508/s101/c/1/A], substituted “wire, oral, or electronic” for “wire or oral”.
+    Par. (2)(c). [Pub. L. 99–508][/us/pl/99/508], § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral”.
 
-    Par. (2)(d). [Pub. L. 99–508, § 101(b)(2)][/us/pl/99/508/s101/b/2], (c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” and struck out “or for the purpose of committing any other injurious act” after “of any State”.
+    Par. (2)(d). [Pub. L. 99–508][/us/pl/99/508], § 101(b)(2), (c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” and struck out “or for the purpose of committing any other injurious act” after “of any State”.
 
-    Par. (2)(f). [Pub. L. 99–508, § 101(b)(3)][/us/pl/99/508/s101/b/3], inserted “or chapter 121” in two places and substituted “foreign communications, or foreign intelligence activities conducted in accordance with otherwise applicable Federal law involving a foreign electronic communications system, utilizing a means” for “foreign communications by a means”.
+    Par. (2)(f). [Pub. L. 99–508][/us/pl/99/508], § 101(b)(3), inserted “or chapter 121” in two places and substituted “foreign communications, or foreign intelligence activities conducted in accordance with otherwise applicable Federal law involving a foreign electronic communications system, utilizing a means” for “foreign communications by a means”.
 
-    Par. (2)(g), (h). [Pub. L. 99–508, § 101(b)(4)][/us/pl/99/508/s101/b/4], added subpars. (g) and (h).
+    Par. (2)(g), (h). [Pub. L. 99–508][/us/pl/99/508], § 101(b)(4), added subpars. (g) and (h).
 
-    Par. (3). [Pub. L. 99–508, § 102][/us/pl/99/508/s102], added par. (3).
+    Par. (3). [Pub. L. 99–508][/us/pl/99/508], § 102, added par. (3).
 
-    Pars. (4), (5). [Pub. L. 99–508, § 101(d)(2)][/us/pl/99/508/s101/d/2], added pars. (4) and (5).
+    Pars. (4), (5). [Pub. L. 99–508][/us/pl/99/508], § 101(d)(2), added pars. (4) and (5).
 
-    1984—Par. (2)(e). [Pub. L. 98–549, § 6(b)(2)(A)][/us/pl/98/549/s6/b/2/A], substituted “section 705 or 706” for “section 605 or 606”.
+    1984—Par. (2)(e). [Pub. L. 98–549][/us/pl/98/549], § 6(b)(2)(A), substituted “section 705 or 706” for “section 605 or 606”.
 
-    Par. (2)(f). [Pub. L. 98–549, § 6(b)(2)(B)][/us/pl/98/549/s6/b/2/B], substituted “section 705” for “section 605”.
+    Par. (2)(f). [Pub. L. 98–549][/us/pl/98/549], § 6(b)(2)(B), substituted “section 705” for “section 605”.
 
-    1978—Par. (2)(a)(ii). [Pub. L. 95–511, § 201(a)][/us/pl/95/511/s201/a], substituted provisions authorizing communication common carriers etc., to provide information to designated persons, prohibiting disclosure of intercepted information, and rendering violators civilly liable for provision exempting communication common carriers from criminality for giving information to designated officers.
+    1978—Par. (2)(a)(ii). [Pub. L. 95–511][/us/pl/95/511], § 201(a), substituted provisions authorizing communication common carriers etc., to provide information to designated persons, prohibiting disclosure of intercepted information, and rendering violators civilly liable for provision exempting communication common carriers from criminality for giving information to designated officers.
 
-    Par. (2)(e), (f). [Pub. L. 95–511, § 201(b)][/us/pl/95/511/s201/b], added par. (2)(e) and (f).
+    Par. (2)(e), (f). [Pub. L. 95–511][/us/pl/95/511], § 201(b), added par. (2)(e) and (f).
 
-    Par. (3). [Pub. L. 95–511, § 201(c)][/us/pl/95/511/s201/c], struck out par. (3) which provided that nothing in this chapter or [section 605 of title 47][/us/usc/t47/s605] limited the President’s constitutional power to gather necessary intelligence to protect the national security and stated the conditions necessary for the reception into evidence and disclosure of communications intercepted by the President.
+    Par. (3). [Pub. L. 95–511][/us/pl/95/511], § 201(c), struck out par. (3) which provided that nothing in this chapter or [section 605 of title 47][/us/usc/t47/s605] limited the President’s constitutional power to gather necessary intelligence to protect the national security and stated the conditions necessary for the reception into evidence and disclosure of communications intercepted by the President.
 
     1970—Par. (2)(a). [Pub. L. 91–358][/us/pl/91/358] designated existing provisions as cl. (i) and added cl. (ii).
 
@@ -225,7 +225,7 @@ For information regarding constitutionality of certain provisions of this sectio
 
     Amendments by sections 101(c)(1) and 102(c)(1) of [Pub. L. 110–261][/us/pl/110/261] effective July 10, 2008, except as otherwise provided in [section 404 of Pub. L. 110–261][/us/pl/110/261/s404], set out as a Transition Procedures note under [section 1801 of Title 50][/us/usc/t50/s1801], War and National Defense, see [section 402 of Pub. L. 110–261][/us/pl/110/261/s402], set out as a note under [section 1801 of Title 50][/us/usc/t50/s1801].
 
-    [Pub. L. 110–261, title IV, § 403(b)(2)][/us/pl/110/261/s403/b/2], July 10, 2008, [122 Stat. 2474][/us/stat/122/2474], as amended by [Pub. L. 112–238, § 2(a)(2)][/us/pl/112/238/s2/a/2], Dec. 30, 2012, [126 Stat. 1631][/us/stat/126/1631], provided that, except as provided in [section 404 of Pub. L. 110–261][/us/pl/110/261/s404], set out as a Transition Procedures note under [section 1801 of Title 50][/us/usc/t50/s1801], War and National Defense, the amendments made by section 403(b)(2) are effective Dec. 31, 2017.
+    [Pub. L. 110–261, title IV][/us/pl/110/261/tIV], § 403(b)(2), July 10, 2008, [122 Stat. 2474][/us/stat/122/2474], as amended by [Pub. L. 112–238][/us/pl/112/238], § 2(a)(2), Dec. 30, 2012, [126 Stat. 1631][/us/stat/126/1631], provided that, except as provided in [section 404 of Pub. L. 110–261][/us/pl/110/261/s404], set out as a Transition Procedures note under [section 1801 of Title 50][/us/usc/t50/s1801], War and National Defense, the amendments made by section 403(b)(2) are effective Dec. 31, 2017.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -260,31 +260,31 @@ For information regarding constitutionality of certain provisions of this sectio
 
 [/us/usc/t18/s2518/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2518%2F7
 [/us/usc/t18/s2520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2520
-[/us/pl/90/351/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs802
+[/us/pl/90/351/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtIII
 [/us/stat/82/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F213
-[/us/pl/91/358/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2Fs211%2Fa
+[/us/pl/91/358/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2FtII
 [/us/stat/84/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F654
-[/us/pl/95/511/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs201%2Fa
+[/us/pl/95/511/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2FtII
 [/us/stat/92/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1796
-[/us/pl/98/549/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs6%2Fb%2F2
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2804
-[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtI
 [/us/stat/100/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1849
-[/us/pl/103/322/s320901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320901
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2123
-[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtII
 [/us/stat/108/4290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4290
-[/us/pl/104/294/s604/b/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F42
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3509
-[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F281
-[/us/pl/107/296/s225/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225%2Fh%2F2
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2158
-[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtI
 [/us/stat/122/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2459
-[/us/pl/110/261/s403/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs403%2Fb%2F2
+[/us/pl/110/261/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtIV
 [/us/stat/122/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2474
-[/us/pl/112/238/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F238%2Fs2%2Fa%2F2
+[/us/pl/112/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F238
 [/us/stat/126/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1631
 [/us/pl/110/261/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs404
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
@@ -292,35 +292,35 @@ For information regarding constitutionality of certain provisions of this sectio
 [/us/stat/92/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1783
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
 [/us/pl/99/508/s101/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fc%2F1%2FA
-[/us/pl/110/261/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs101%2Fc%2F1
-[/us/pl/110/261/s102/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs102%2Fc%2F1
-[/us/pl/107/296/s225/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225%2Fh%2F2
-[/us/pl/107/296/s225/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225%2Fj%2F1
-[/us/pl/107/56/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs204
-[/us/pl/107/56/s217/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs217%2F2
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
-[/us/pl/103/322/s320901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320901
-[/us/pl/103/414/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs205
-[/us/pl/103/414/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs204
-[/us/pl/103/414/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs202%2Fb%2F1
-[/us/pl/103/414/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs202%2Fb%2F2
-[/us/pl/103/322/s330016/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FG
-[/us/pl/99/508/s101/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fc%2F1%2FA
-[/us/pl/99/508/s101/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fc%2F1%2FA
-[/us/pl/99/508/s101/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fc%2F5
-[/us/pl/99/508/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fb%2F1
-[/us/pl/99/508/s101/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fc%2F1%2FB
-[/us/pl/99/508/s101/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fc%2F1%2FA
-[/us/pl/99/508/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fb%2F2
-[/us/pl/99/508/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fb%2F3
-[/us/pl/99/508/s101/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fb%2F4
-[/us/pl/99/508/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs102
-[/us/pl/99/508/s101/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fd%2F2
-[/us/pl/98/549/s6/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs6%2Fb%2F2%2FA
-[/us/pl/98/549/s6/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs6%2Fb%2F2%2FB
-[/us/pl/95/511/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs201%2Fa
-[/us/pl/95/511/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs201%2Fb
-[/us/pl/95/511/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511%2Fs201%2Fc
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
+[/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
+[/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
+[/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
 [/us/usc/t47/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs605
 [/us/pl/91/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358
 [/us/pl/110/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261
@@ -328,9 +328,9 @@ For information regarding constitutionality of certain provisions of this sectio
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
 [/us/pl/110/261/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs402
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
-[/us/pl/110/261/s403/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs403%2Fb%2F2
+[/us/pl/110/261/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2FtIV
 [/us/stat/122/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2474
-[/us/pl/112/238/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F238%2Fs2%2Fa%2F2
+[/us/pl/112/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F238
 [/us/stat/126/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1631
 [/us/pl/110/261/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F261%2Fs404
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801

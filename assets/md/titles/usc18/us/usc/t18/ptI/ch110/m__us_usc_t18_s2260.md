@@ -29,7 +29,7 @@
 
         (2) A person who violates subsection (b), or attempts or conspires to do so, shall be subject to the penalties provided in subsection (b)(1) of section 2252 for a violation of paragraph (1), (2), or (3) of subsection (a) of that section, including the penalties provided for such a violation by a person with a prior conviction or convictions as described in subsection (b)(1) of section 2252.
 
-(Added [Pub. L. 103–322, title XVI, § 160001(a)][/us/pl/103/322/s160001/a], Sept. 13, 1994, [108 Stat. 2036][/us/stat/108/2036], § 2258; renumbered § 2260, [Pub. L. 104–294, title VI, § 601(i)(1)][/us/pl/104/294/s601/i/1], Oct. 11, 1996, [110 Stat. 3501][/us/stat/110/3501]; amended [Pub. L. 109–248, title II, § 206(b)(5)][/us/pl/109/248/s206/b/5], July 27, 2006, [120 Stat. 614][/us/stat/120/614]; [Pub. L. 110–401, title III, § 303][/us/pl/110/401/s303], Oct. 13, 2008, [122 Stat. 4242][/us/stat/122/4242].)
+(Added [Pub. L. 103–322, title XVI][/us/pl/103/322/tXVI], § 160001(a), Sept. 13, 1994, [108 Stat. 2036][/us/stat/108/2036], § 2258; renumbered § 2260, [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(i)(1), Oct. 11, 1996, [110 Stat. 3501][/us/stat/110/3501]; amended [Pub. L. 109–248, title II][/us/pl/109/248/tII], § 206(b)(5), July 27, 2006, [120 Stat. 614][/us/stat/120/614]; [Pub. L. 110–401, title III][/us/pl/110/401/tIII], § 303, Oct. 13, 2008, [122 Stat. 4242][/us/stat/122/4242].)
 
  __Amendments__ 
 
@@ -50,13 +50,13 @@
 ----------
 ----------
 
-[/us/pl/103/322/s160001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs160001%2Fa
+[/us/pl/103/322/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXVI
 [/us/stat/108/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2036
-[/us/pl/104/294/s601/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fi%2F1
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3501
-[/us/pl/109/248/s206/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs206%2Fb%2F5
+[/us/pl/109/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtII
 [/us/stat/120/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F614
-[/us/pl/110/401/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2Fs303
+[/us/pl/110/401/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2FtIII
 [/us/stat/122/4242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4242
 [/us/pl/110/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248

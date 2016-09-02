@@ -27,11 +27,11 @@
 
     Shall be fined under this title or imprisoned not more than five years, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 713][/us/stat/62/713]; [Pub. L. 91–375, § 6(j)(6)][/us/pl/91/375/s6/j/6], Aug. 12, 1970, [84 Stat. 777][/us/stat/84/777]; [Pub. L. 91–448, § 1(a)][/us/pl/91/448/s1/a], Oct. 14, 1970, [84 Stat. 920][/us/stat/84/920]; [Pub. L. 103–322, title XXXIII, § 330016(1)(G)][/us/pl/103/322/s330016/1/G], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 713][/us/stat/62/713]; [Pub. L. 91–375][/us/pl/91/375], § 6(j)(6), Aug. 12, 1970, [84 Stat. 777][/us/stat/84/777]; [Pub. L. 91–448][/us/pl/91/448], § 1(a), Oct. 14, 1970, [84 Stat. 920][/us/stat/84/920]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(G), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 348 ([Mar. 4, 1909, ch. 321, § 219][/us/act/1909-03-04/ch321/s219], [35 Stat. 1132][/us/stat/35/1132]).
+    Based on title 18, U.S.C., 1940 ed., § 348 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 219, [35 Stat. 1132][/us/stat/35/1132]).
 
     Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in [section 2 of this title][/us/usc/t18/s2].
 
@@ -41,13 +41,13 @@
 
     1994—[Pub. L. 103–322][/us/pl/103/322] substituted “fined under this title” for “fined not more than $500” in last par.
 
-    1970—[Pub. L. 91–448][/us/pl/91/448] inserted references to the Postal Service and to postage meter stamps. [Pub. L. 91–448, § 1(b)][/us/pl/91/448/s1/b], repealed section 6(j)(6) of the Postal Reorganization Act, [Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 719][/us/stat/84/719], by which the references to the Postal Service had been inserted earlier.
+    1970—[Pub. L. 91–448][/us/pl/91/448] inserted references to the Postal Service and to postage meter stamps. [Pub. L. 91–448][/us/pl/91/448], § 1(b), repealed section 6(j)(6) of the Postal Reorganization Act, [Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 719][/us/stat/84/719], by which the references to the Postal Service had been inserted earlier.
 
     [Pub. L. 91–375][/us/pl/91/375] inserted “or by the Postal Service,” after “Post Office Department,” and substituted “the Department or Postal Service” for “said department” in fourth par. and struck out the comma after “stamped envelope” and “to defraud” and inserted “or the Postal Service” after “Post Office Department” in fifth par.
 
  __Change of Name__ 
 
-    Post Office Department redesignated United States Postal Service pursuant to [Pub. L. 91–375, § 6][/us/pl/91/375/s6](o), Aug. 12, 1970, [84 Stat. 733][/us/stat/84/733], set out as a note preceding [section 101 of Title 39][/us/usc/t39/s101], Postal Service.
+    Post Office Department redesignated United States Postal Service pursuant to [Pub. L. 91–375][/us/pl/91/375], § 6(o), Aug. 12, 1970, [84 Stat. 733][/us/stat/84/733], set out as a note preceding [section 101 of Title 39][/us/usc/t39/s101], Postal Service.
 
  __Effective Date of 1970 Amendment__ 
 
@@ -62,22 +62,22 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F713
-[/us/pl/91/375/s6/j/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fj%2F6
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F777
-[/us/pl/91/448/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F448%2Fs1%2Fa
+[/us/pl/91/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F448
 [/us/stat/84/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F920
-[/us/pl/103/322/s330016/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FG
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/act/1909-03-04/ch321/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs219
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1132
 [/us/usc/t18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/91/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F448
-[/us/pl/91/448/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F448%2Fs1%2Fb
+[/us/pl/91/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F448
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F719
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
-[/us/pl/91/375/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F733
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375

@@ -29,7 +29,7 @@
 
     For purposes of this section, the term “chop shop” means any building, lot, facility, or other structure or premise where one or more persons engage in receiving, concealing, destroying, disassembling, dismantling, reassembling, or storing any passenger motor vehicle or passenger motor vehicle part which has been unlawfully obtained in order to alter, counterfeit, deface, destroy, disguise, falsify, forge, obliterate, or remove the identity, including the vehicle identification number or derivative thereof, of such vehicle or vehicle part and to distribute, sell, or dispose of such vehicle or vehicle part in interstate or foreign commerce.
 
-(Added [Pub. L. 102–519, title I, § 105(a)][/us/pl/102/519/s105/a], Oct. 25, 1992, [106 Stat. 3385][/us/stat/106/3385].)
+(Added [Pub. L. 102–519, title I][/us/pl/102/519/tI], § 105(a), Oct. 25, 1992, [106 Stat. 3385][/us/stat/106/3385].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/102/519/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519%2Fs105%2Fa
+[/us/pl/102/519/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519%2FtI
 [/us/stat/106/3385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3385
 
 

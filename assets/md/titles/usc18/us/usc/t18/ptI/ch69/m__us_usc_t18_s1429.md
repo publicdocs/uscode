@@ -17,7 +17,7 @@
 
     Any person who has been subpenaed under the provisions of subsection (d) of section 336 of the Immigration and Nationality Act to appear at the final hearing of an application for naturalization, and who shall neglect or refuse to so appear and to testify, if in the power of such person to do so, shall be fined under this title or imprisoned not more than five years, or both.
 
-(Added [June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, § 402(b), [66 Stat. 276][/us/stat/66/276]; amended [Pub. L. 97–116, § 18(u)(1)][/us/pl/97/116/s18/u/1], Dec. 29, 1981, [95 Stat. 1621][/us/stat/95/1621]; [Pub. L. 101–649, title IV, § 407(c)(21)][/us/pl/101/649/s407/c/21], Nov. 29, 1990, [104 Stat. 5041][/us/stat/104/5041]; [Pub. L. 103–322, title XXXIII, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+(Added [June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title IV, § 402(b), [66 Stat. 276][/us/stat/66/276]; amended [Pub. L. 97–116][/us/pl/97/116], § 18(u)(1), Dec. 29, 1981, [95 Stat. 1621][/us/stat/95/1621]; [Pub. L. 101–649, title IV][/us/pl/101/649/tIV], § 407(c)(21), Nov. 29, 1990, [104 Stat. 5041][/us/stat/104/5041]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(K), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __References in Text__ 
 
@@ -48,11 +48,11 @@
 
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F276
-[/us/pl/97/116/s18/u/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116%2Fs18%2Fu%2F1
+[/us/pl/97/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F116
 [/us/stat/95/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1621
-[/us/pl/101/649/s407/c/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs407%2Fc%2F21
+[/us/pl/101/649/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtIV
 [/us/stat/104/5041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5041
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/usc/t8/s1447/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1447%2Fd
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

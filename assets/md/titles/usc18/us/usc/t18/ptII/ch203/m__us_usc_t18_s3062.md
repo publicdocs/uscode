@@ -17,7 +17,7 @@
 
     A law enforcement officer, who is authorized to arrest for an offense committed in his presence, may arrest a person who is released pursuant to chapter 207 if the officer has reasonable grounds to believe that the person is violating, in his presence, a condition imposed on the person pursuant to section 3142(c)(1)(B)(iv), (v), (viii), (ix), or (xiii), or, if the violation involves a failure to remain in a specified institution as required, a condition imposed pursuant to section 3142(c)(1)(B)(x).
 
-(Added [Pub. L. 98–473, title II, § 204(d)][/us/pl/98/473/s204/d], Oct. 12, 1984, [98 Stat. 1986][/us/stat/98/1986]; amended [Pub. L. 100–690, title VII, § 7052][/us/pl/100/690/s7052], Nov. 18, 1988, [102 Stat. 4401][/us/stat/102/4401].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 204(d), Oct. 12, 1984, [98 Stat. 1986][/us/stat/98/1986]; amended [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7052, Nov. 18, 1988, [102 Stat. 4401][/us/stat/102/4401].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/98/473/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs204%2Fd
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1986
-[/us/pl/100/690/s7052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7052
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4401
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 

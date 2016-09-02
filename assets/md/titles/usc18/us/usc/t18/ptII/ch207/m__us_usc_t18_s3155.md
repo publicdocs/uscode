@@ -17,7 +17,7 @@
 
     Each chief pretrial services officer in districts in which pretrial services are established under [section 3152(b) of this title][/us/usc/t18/s3152/b], and each chief probation officer in all other districts, shall prepare an annual report to the chief judge of the district court concerning the administration and operation of pretrial services and shall ensure that case file, statistical, and other information concerning the work of pretrial services is provided to the Director. The Director shall be required to include in the Director’s annual report to the Judicial Conference under [section 604 of title 28][/us/usc/t28/s604] a report on the administration and operation of the pretrial services for the previous year.
 
-(Added [Pub. L. 93–619, title II, § 201][/us/pl/93/619/s201], Jan. 3, 1975, [88 Stat. 2088][/us/stat/88/2088]; amended [Pub. L. 97–267, § 5][/us/pl/97/267/s5], Sept. 27, 1982, [96 Stat. 1138][/us/stat/96/1138]; [Pub. L. 113–235, div. E, title III, § 308][/us/pl/113/235/s308], Dec. 16, 2014, [128 Stat. 2352][/us/stat/128/2352].)
+(Added [Pub. L. 93–619, title II][/us/pl/93/619/tII], § 201, Jan. 3, 1975, [88 Stat. 2088][/us/stat/88/2088]; amended [Pub. L. 97–267][/us/pl/97/267], § 5, Sept. 27, 1982, [96 Stat. 1138][/us/stat/96/1138]; [Pub. L. 113–235, div. E, title III][/us/pl/113/235/dE/tIII], § 308, Dec. 16, 2014, [128 Stat. 2352][/us/stat/128/2352].)
 
  __Amendments__ 
 
@@ -34,11 +34,11 @@
 
 [/us/usc/t18/s3152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3152%2Fb
 [/us/usc/t28/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs604
-[/us/pl/93/619/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2Fs201
+[/us/pl/93/619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2FtII
 [/us/stat/88/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2088
-[/us/pl/97/267/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F267%2Fs5
+[/us/pl/97/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F267
 [/us/stat/96/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1138
-[/us/pl/113/235/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs308
+[/us/pl/113/235/dE/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdE%2FtIII
 [/us/stat/128/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2352
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/97/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F267

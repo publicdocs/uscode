@@ -43,7 +43,7 @@
 
         Nothing in this section shall limit or otherwise affect any other remedies that may be available to an owner of property under [section 983 of title 18][/us/usc/t18/s983], United States Code, or any other provision of law.
 
-(Added [Pub. L. 109–177, title IV, § 406(b)(1)(B)][/us/pl/109/177/s406/b/1/B], Mar. 9, 2006, [120 Stat. 244][/us/stat/120/244].)
+(Added [Pub. L. 109–177, title IV][/us/pl/109/177/tIV], § 406(b)(1)(B), Mar. 9, 2006, [120 Stat. 244][/us/stat/120/244].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in [Pub. L. 107–56, title III, § 316(a)][/us/pl/107/56/s316/a]–(c), Oct. 26, 2001, [115 Stat. 309][/us/stat/115/309], which was set out as a note under [section 983 of this title][/us/usc/t18/s983], prior to repeal by [Pub. L. 109–177, § 406(b)(2)][/us/pl/109/177/s406/b/2].
+    Provisions similar to those in this section were contained in [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 316(a)–(c), Oct. 26, 2001, [115 Stat. 309][/us/stat/115/309], which was set out as a note under [section 983 of this title][/us/usc/t18/s983], prior to repeal by [Pub. L. 109–177][/us/pl/109/177], § 406(b)(2).
 
 ----------
 
@@ -65,11 +65,11 @@
 [/us/usc/t18/s983/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs983%2Fd
 [/us/usc/t18/s983/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs983%2Fi
 [/us/usc/t18/s983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs983
-[/us/pl/109/177/s406/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs406%2Fb%2F1%2FB
+[/us/pl/109/177/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIV
 [/us/stat/120/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F244
-[/us/pl/107/56/s316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs316%2Fa
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F309
 [/us/usc/t18/s983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs983
-[/us/pl/109/177/s406/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs406%2Fb%2F2
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 
 

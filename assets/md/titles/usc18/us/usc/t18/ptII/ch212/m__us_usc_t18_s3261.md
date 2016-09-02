@@ -37,11 +37,11 @@
 
         (2) an indictment or information charges that the member committed the offense with one or more other defendants, at least one of whom is not subject to such chapter.
 
-(Added [Pub. L. 106–523, § 2(a)][/us/pl/106/523/s2/a], Nov. 22, 2000, [114 Stat. 2488][/us/stat/114/2488].)
+(Added [Pub. L. 106–523][/us/pl/106/523], § 2(a), Nov. 22, 2000, [114 Stat. 2488][/us/stat/114/2488].)
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–523, § 1][/us/pl/106/523/s1], Nov. 22, 2000, [114 Stat. 2488][/us/stat/114/2488], provided that: 
+[Pub. L. 106–523][/us/pl/106/523], § 1, Nov. 22, 2000, [114 Stat. 2488][/us/stat/114/2488], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Military Extraterritorial Jurisdiction Act of 2000’.”
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/106/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F523%2Fs2%2Fa
+[/us/pl/106/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F523
 [/us/stat/114/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2488
-[/us/pl/106/523/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F523%2Fs1
+[/us/pl/106/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F523
 [/us/stat/114/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2488
 
 

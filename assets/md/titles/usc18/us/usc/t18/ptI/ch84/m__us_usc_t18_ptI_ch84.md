@@ -43,15 +43,15 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–177, title VI, § 602(b)(2)][/us/pl/109/177/s602/b/2], Mar. 9, 2006, [120 Stat. 252][/us/stat/120/252], substituted “Restricted building or grounds” for “Temporary residences and offices of the President and others” in item 1752.
+    2006—[Pub. L. 109–177, title VI][/us/pl/109/177/tVI], § 602(b)(2), Mar. 9, 2006, [120 Stat. 252][/us/stat/120/252], substituted “Restricted building or grounds” for “Temporary residences and offices of the President and others” in item 1752.
 
-    1994—[Pub. L. 103–322, title XXXIII, § 330021(1)][/us/pl/103/322/s330021/1], Sept. 13, 1994, [108 Stat. 2150][/us/stat/108/2150], which directed the amendment of this title “by striking ‘kidnaping’ each place it appears and inserting ‘kidnapping’ ”, was executed by substituting “KIDNAPPING” for “KIDNAPING” in chapter heading, to reflect the probable intent of Congress.
+    1994—[Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330021(1), Sept. 13, 1994, [108 Stat. 2150][/us/stat/108/2150], which directed the amendment of this title “by striking ‘kidnaping’ each place it appears and inserting ‘kidnapping’ ”, was executed by substituting “KIDNAPPING” for “KIDNAPING” in chapter heading, to reflect the probable intent of Congress.
 
-    [Pub. L. 103–322, title XXXIII, § 330021(1)][/us/pl/103/322/s330021/1], Sept. 13, 1994, [108 Stat. 2150][/us/stat/108/2150], substituted “kidnapping” for “kidnaping” in item 1751.
+    [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330021(1), Sept. 13, 1994, [108 Stat. 2150][/us/stat/108/2150], substituted “kidnapping” for “kidnaping” in item 1751.
 
-    1990—[Pub. L. 101–647, title XXXV, § 3553][/us/pl/101/647/s3553], Nov. 29, 1990, [104 Stat. 4926][/us/stat/104/4926], added item 1752.
+    1990—[Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3553, Nov. 29, 1990, [104 Stat. 4926][/us/stat/104/4926], added item 1752.
 
-    1982—[Pub. L. 97–285, § 4(b)][/us/pl/97/285/s4/b], (c), Oct. 6, 1982, [96 Stat. 1220][/us/stat/96/1220], inserted “and Presidential staff” after “Presidential” in chapter heading and in item 1751.
+    1982—[Pub. L. 97–285][/us/pl/97/285], § 4(b), (c), Oct. 6, 1982, [96 Stat. 1220][/us/stat/96/1220], inserted “and Presidential staff” after “Presidential” in chapter heading and in item 1751.
 
 ----------
 
@@ -60,15 +60,15 @@
 ----------
 ----------
 
-[/us/pl/109/177/s602/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs602%2Fb%2F2
+[/us/pl/109/177/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVI
 [/us/stat/120/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F252
-[/us/pl/103/322/s330021/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330021%2F1
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2150
-[/us/pl/103/322/s330021/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330021%2F1
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2150
-[/us/pl/101/647/s3553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3553
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4926
-[/us/pl/97/285/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F285%2Fs4%2Fb
+[/us/pl/97/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F285
 [/us/stat/96/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1220
 
 

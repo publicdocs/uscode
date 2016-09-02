@@ -19,7 +19,7 @@
 
     (b) Whoever, being an officer, employee, or individual licensee of a gaming establishment operated by or for or licensed by an Indian tribe pursuant to an ordinance or resolution approved by the National Indian Gaming Commission, embezzles, abstracts, purloins, willfully misapplies, or takes and carries away with intent to steal, any moneys, funds, assets, or other property of such establishment of a value in excess of $1,000 shall be fined not more than $1,000,000 or imprisoned for not more than twenty years, or both.
 
-(Added [Pub. L. 100–497, § 23][/us/pl/100/497/s23], Oct. 17, 1988, [102 Stat. 2487][/us/stat/102/2487]; amended [Pub. L. 101–647, title XXXV, § 3537][/us/pl/101/647/s3537], Nov. 29, 1990, [104 Stat. 4925][/us/stat/104/4925].)
+(Added [Pub. L. 100–497][/us/pl/100/497], § 23, Oct. 17, 1988, [102 Stat. 2487][/us/stat/102/2487]; amended [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3537, Nov. 29, 1990, [104 Stat. 4925][/us/stat/104/4925].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/100/497/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497%2Fs23
+[/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2487
-[/us/pl/101/647/s3537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3537
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4925
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 

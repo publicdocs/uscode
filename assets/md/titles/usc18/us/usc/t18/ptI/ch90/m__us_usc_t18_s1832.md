@@ -33,7 +33,7 @@
 
     (b) Any organization that commits any offense described in subsection (a) shall be fined not more than $5,000,000.
 
-(Added [Pub. L. 104–294, title I, § 101(a)][/us/pl/104/294/s101/a], Oct. 11, 1996, [110 Stat. 3489][/us/stat/110/3489]; amended [Pub. L. 112–236, § 2][/us/pl/112/236/s2], Dec. 28, 2012, [126 Stat. 1627][/us/stat/126/1627].)
+(Added [Pub. L. 104–294, title I][/us/pl/104/294/tI], § 101(a), Oct. 11, 1996, [110 Stat. 3489][/us/stat/110/3489]; amended [Pub. L. 112–236][/us/pl/112/236], § 2, Dec. 28, 2012, [126 Stat. 1627][/us/stat/126/1627].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/104/294/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs101%2Fa
+[/us/pl/104/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtI
 [/us/stat/110/3489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3489
-[/us/pl/112/236/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F236%2Fs2
+[/us/pl/112/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F236
 [/us/stat/126/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1627
 [/us/pl/112/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F236
 

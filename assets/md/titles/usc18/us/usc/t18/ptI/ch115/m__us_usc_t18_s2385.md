@@ -27,7 +27,7 @@
 
     As used in this section, the terms “organizes” and “organize”, with respect to any society, group, or assembly of persons, include the recruiting of new members, the forming of new units, and the regrouping or expansion of existing clubs, classes, and other units of such society, group, or assembly of persons.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 808][/us/stat/62/808]; [July 24, 1956, ch. 678, § 2][/us/act/1956-07-24/ch678/s2], [70 Stat. 623][/us/stat/70/623]; [Pub. L. 87–486][/us/pl/87/486], June 19, 1962, [76 Stat. 103][/us/stat/76/103]; [Pub. L. 103–322, title XXXIII, § 330016(1)(N)][/us/pl/103/322/s330016/1/N], Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 808][/us/stat/62/808]; [July 24, 1956, ch. 678][/us/act/1956-07-24/ch678], § 2, [70 Stat. 623][/us/stat/70/623]; [Pub. L. 87–486][/us/pl/87/486], June 19, 1962, [76 Stat. 103][/us/stat/76/103]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(N), Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148].)
 
  __Historical and Revision Notes__ 
 
@@ -68,11 +68,11 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F808
-[/us/act/1956-07-24/ch678/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-24%2Fch678%2Fs2
+[/us/act/1956-07-24/ch678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-24%2Fch678
 [/us/stat/70/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F623
 [/us/pl/87/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F486
 [/us/stat/76/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F103
-[/us/pl/103/322/s330016/1/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FN
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2148
 [/us/act/1940-06-28/ch439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-28%2Fch439
 [/us/stat/54/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F670

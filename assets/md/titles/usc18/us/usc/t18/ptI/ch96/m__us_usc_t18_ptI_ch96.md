@@ -91,9 +91,9 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–647, title XXXV, § 3559][/us/pl/101/647/s3559], Nov. 29, 1990, [104 Stat. 4927][/us/stat/104/4927], struck out “racketeering” after “Prohibited” in item 1962.
+    1990—[Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3559, Nov. 29, 1990, [104 Stat. 4927][/us/stat/104/4927], struck out “racketeering” after “Prohibited” in item 1962.
 
-    1970—[Pub. L. 91–452, title IX, § 901(a)][/us/pl/91/452/s901/a], Oct. 15, 1970, [84 Stat. 941][/us/stat/84/941], added chapter 96 and items 1961 to 1968.
+    1970—[Pub. L. 91–452, title IX][/us/pl/91/452/tIX], § 901(a), Oct. 15, 1970, [84 Stat. 941][/us/stat/84/941], added chapter 96 and items 1961 to 1968.
 
 ----------
 
@@ -102,9 +102,9 @@
 ----------
 ----------
 
-[/us/pl/101/647/s3559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3559
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4927
-[/us/pl/91/452/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs901%2Fa
+[/us/pl/91/452/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtIX
 [/us/stat/84/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F941
 
 

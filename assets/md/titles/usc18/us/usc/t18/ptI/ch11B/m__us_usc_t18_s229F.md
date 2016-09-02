@@ -93,11 +93,11 @@
 
         (C) any vessel of the United States, as such term is defined in [section 70502(b) of title 46][/us/usc/t46/s70502/b], United States Code.
 
-(Added [Pub. L. 105–277, div. I, title II, § 201(a)][/us/pl/105/277/s201/a], Oct. 21, 1998, [112 Stat. 2681–869][/us/stat/112/2681-869]; amended [Pub. L. 109–304, § 17(d)(1)][/us/pl/109/304/s17/d/1], Oct. 6, 2006, [120 Stat. 1707][/us/stat/120/1707].)
+(Added [Pub. L. 105–277, div. I, title II][/us/pl/105/277/dI/tII], § 201(a), Oct. 21, 1998, [112 Stat. 2681–869][/us/stat/112/2681-869]; amended [Pub. L. 109–304][/us/pl/109/304], § 17(d)(1), Oct. 6, 2006, [120 Stat. 1707][/us/stat/120/1707].)
 
  __References in Text__ 
 
-    Paragraphs (17), (37), and (41) of [section 40102 of title 49][/us/usc/t49/s40102], referred to in par. (9)(A), (B), probably means paragraphs (17), (37), and (41) of subsection (a) of [section 40102 of title 49][/us/usc/t49/s40102]. Paragraphs (37) and (41) were subsequently redesignated as (41) and (46), respectively, by [Pub. L. 108–176, title II, § 225(a)(1)][/us/pl/108/176/s225/a/1], (3), Dec. 12, 2003, [117 Stat. 2528][/us/stat/117/2528].
+    Paragraphs (17), (37), and (41) of [section 40102 of title 49][/us/usc/t49/s40102], referred to in par. (9)(A), (B), probably means paragraphs (17), (37), and (41) of subsection (a) of [section 40102 of title 49][/us/usc/t49/s40102]. Paragraphs (37) and (41) were subsequently redesignated as (41) and (46), respectively, by [Pub. L. 108–176, title II][/us/pl/108/176/tII], § 225(a)(1), (3), Dec. 12, 2003, [117 Stat. 2528][/us/stat/117/2528].
 
  __Amendments__ 
 
@@ -114,13 +114,13 @@
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
 [/us/usc/t46/s70502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502%2Fb
-[/us/pl/105/277/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs201%2Fa
+[/us/pl/105/277/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtII
 [/us/stat/112/2681-869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-869
-[/us/pl/109/304/s17/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs17%2Fd%2F1
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1707
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
-[/us/pl/108/176/s225/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs225%2Fa%2F1
+[/us/pl/108/176/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtII
 [/us/stat/117/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2528
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s70502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502%2Fb

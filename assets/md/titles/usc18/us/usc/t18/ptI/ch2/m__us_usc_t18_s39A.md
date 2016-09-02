@@ -37,7 +37,7 @@
 
     The Attorney General, in consultation with the Secretary of Transportation, may provide by regulation, after public notice and comment, such additional exceptions to this section as may be necessary and appropriate. The Attorney General shall provide written notification of any proposed regulations under this section to the Committees on the Judiciary of the Senate and the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives, not less than 90 days before such regulations become final.
 
-(Added [Pub. L. 112–95, title III, § 311(a)][/us/pl/112/95/s311/a], Feb. 14, 2012, [126 Stat. 65][/us/stat/126/65].)
+(Added [Pub. L. 112–95, title III][/us/pl/112/95/tIII], § 311(a), Feb. 14, 2012, [126 Stat. 65][/us/stat/126/65].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/112/95/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs311%2Fa
+[/us/pl/112/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtIII
 [/us/stat/126/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F65
 
 

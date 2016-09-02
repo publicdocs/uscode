@@ -65,13 +65,13 @@
 
     As used in this chapter the term “State” includes the District of Columbia.
 
-(Added [Sept. 7, 1949, ch. 535, § 1][/us/act/1949-09-07/ch535/s1], [63 Stat. 687][/us/stat/63/687]; amended [Pub. L. 98–473, title II, § 403(a)][/us/pl/98/473/s403/a], Oct. 12, 1984, [98 Stat. 2062][/us/stat/98/2062]; [Pub. L. 101–647, title XXXV, § 3599D][/us/pl/101/647/s3599D], Nov. 29, 1990, [104 Stat. 4932][/us/stat/104/4932]; [Pub. L. 105–33, title XI, § 11204(1)][/us/pl/105/33/s11204/1], Aug. 5, 1997, [111 Stat. 739][/us/stat/111/739].)
+(Added [Sept. 7, 1949, ch. 535][/us/act/1949-09-07/ch535], § 1, [63 Stat. 687][/us/stat/63/687]; amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 403(a), Oct. 12, 1984, [98 Stat. 2062][/us/stat/98/2062]; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3599D, Nov. 29, 1990, [104 Stat. 4932][/us/stat/104/4932]; [Pub. L. 105–33, title XI][/us/pl/105/33/tXI], § 11204(1), Aug. 5, 1997, [111 Stat. 739][/us/stat/111/739].)
 
  __Amendments__ 
 
-    1997—Subsec. (a). [Pub. L. 105–33, § 11204(1)(A)][/us/pl/105/33/s11204/1/A], inserted “in the custody of the Bureau of Prisons” after “certifies that a person”.
+    1997—Subsec. (a). [Pub. L. 105–33][/us/pl/105/33], § 11204(1)(A), inserted “in the custody of the Bureau of Prisons” after “certifies that a person”.
 
-    Subsec. (h). [Pub. L. 105–33, § 11204(1)(B)][/us/pl/105/33/s11204/1/B], added subsec. (h).
+    Subsec. (h). [Pub. L. 105–33][/us/pl/105/33], § 11204(1)(B), added subsec. (h).
 
     1990—Subsec. (g). [Pub. L. 101–647][/us/pl/101/647] substituted “chapter” for “subchapter”.
 
@@ -79,7 +79,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–33, title XI, § 11721][/us/pl/105/33/s11721], Aug. 5, 1997, [111 Stat. 786][/us/stat/111/786], provided that: 
+[Pub. L. 105–33, title XI][/us/pl/105/33/tXI], § 11721, Aug. 5, 1997, [111 Stat. 786][/us/stat/111/786], provided that: 
 
 > “Except as otherwise provided in this title \[enacting section 138 of former Title 40, Public Buildings, Property, and Works, amending this section, [section 4247 of this title][/us/usc/t18/s4247], [section 1063 of Title 20][/us/usc/t20/s1063], Education, [section 225b of Title 24][/us/usc/t24/s225b], Hospitals and Asylums, sections 6103 and 7213 of Title 26, Internal Revenue Code, sections 715 and 6501 of Title 31, Money and Finance, sections 71f and 138 of former Title 40, and sections 13723 and 14407 of Title 42, The Public Health and Welfare, enacting provisions set out as a note under [section 6103 of Title 26][/us/usc/t26/s6103], and amending provisions set out as a note under [section 4201 of this title][/us/usc/t18/s4201]\], the provisions of this title shall take effect on the later of October 1, 1997, or the day the District of Columbia Financial Responsibility and Management Assistance Authority certifies that the financial plan and budget for the District government for fiscal year 1998 meet the requirements of section 201(c)(1) of the District of Columbia Financial Responsibility and Management Assistance Act of 1995 \[[Pub. L. 104–8][/us/pl/104/8], [109 Stat. 108][/us/stat/109/108]\], as amended by this title \[so certified Sept. 8, 1997\].”
 
@@ -90,19 +90,19 @@
 ----------
 ----------
 
-[/us/act/1949-09-07/ch535/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-07%2Fch535%2Fs1
+[/us/act/1949-09-07/ch535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-07%2Fch535
 [/us/stat/63/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F687
-[/us/pl/98/473/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs403%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2062
-[/us/pl/101/647/s3599D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3599D
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4932
-[/us/pl/105/33/s11204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs11204%2F1
+[/us/pl/105/33/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtXI
 [/us/stat/111/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F739
-[/us/pl/105/33/s11204/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs11204%2F1%2FA
-[/us/pl/105/33/s11204/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs11204%2F1%2FB
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/105/33/s11721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs11721
+[/us/pl/105/33/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtXI
 [/us/stat/111/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F786
 [/us/usc/t18/s4247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4247
 [/us/usc/t20/s1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1063

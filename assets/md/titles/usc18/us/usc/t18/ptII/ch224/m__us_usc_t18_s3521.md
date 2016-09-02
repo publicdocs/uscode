@@ -89,7 +89,7 @@
 
     (f) The Attorney General may terminate the protection provided under this chapter to any person who substantially breaches the memorandum of understanding entered into between the Attorney General and that person pursuant to subsection (d), or who provides false information concerning the memorandum of understanding or the circumstances pursuant to which the person was provided protection under this chapter, including information with respect to the nature and circumstances concerning child custody and visitation. Before terminating such protection, the Attorney General shall send notice to the person involved of the termination of the protection provided under this chapter and the reasons for the termination. The decision of the Attorney General to terminate such protection shall not be subject to judicial review.
 
-(Added [Pub. L. 98–473, title II, § 1208][/us/pl/98/473/s1208], Oct. 12, 1984, [98 Stat. 2153][/us/stat/98/2153]; amended [Pub. L. 101–647, title XXXV, § 3582][/us/pl/101/647/s3582], Nov. 29, 1990, [104 Stat. 4929][/us/stat/104/4929]; [Pub. L. 105–119, title I, § 115(a)(9)][/us/pl/105/119/s115/a/9], Nov. 26, 1997, [111 Stat. 2467][/us/stat/111/2467]; [Pub. L. 109–177, title V, § 506(a)(7)][/us/pl/109/177/s506/a/7], Mar. 9, 2006, [120 Stat. 248][/us/stat/120/248].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1208, Oct. 12, 1984, [98 Stat. 2153][/us/stat/98/2153]; amended [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3582, Nov. 29, 1990, [104 Stat. 4929][/us/stat/104/4929]; [Pub. L. 105–119, title I][/us/pl/105/119/tI], § 115(a)(9), Nov. 26, 1997, [111 Stat. 2467][/us/stat/111/2467]; [Pub. L. 109–177, title V][/us/pl/109/177/tV], § 506(a)(7), Mar. 9, 2006, [120 Stat. 248][/us/stat/120/248].)
 
  __Amendments__ 
 
@@ -97,13 +97,13 @@
 
     1997—Subsec. (b)(1)(H), (I). [Pub. L. 105–119][/us/pl/105/119] added subpar. (H) and redesignated former subpar. (H) as (I).
 
-    1990—Subsec. (b)(1). [Pub. L. 101–647, § 3582(1)][/us/pl/101/647/s3582/1], inserted “(G)” after “subparagraph” in last sentence.
+    1990—Subsec. (b)(1). [Pub. L. 101–647][/us/pl/101/647], § 3582(1), inserted “(G)” after “subparagraph” in last sentence.
 
-    Subsec. (d)(3). [Pub. L. 101–647, § 3582(2)][/us/pl/101/647/s3582/2], inserted “the” before “Civil Rights Division”.
+    Subsec. (d)(3). [Pub. L. 101–647][/us/pl/101/647], § 3582(2), inserted “the” before “Civil Rights Division”.
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–119, title I, § 115(c)][/us/pl/105/119/s115/c], Nov. 26, 1997, [111 Stat. 2467][/us/stat/111/2467], provided that: 
+[Pub. L. 105–119, title I][/us/pl/105/119/tI], § 115(c), Nov. 26, 1997, [111 Stat. 2467][/us/stat/111/2467], provided that: 
 
 > “This section \[amending this section, sections 3563, 3583, 4042, and 4209 of this title, and sections 14071 and 14072 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under [section 951 of Title 10][/us/usc/t10/s951], Armed Forces, and [section 14039 of Title 42][/us/usc/t42/s14039], and amending provisions set out as a note under [section 14071 of Title 42][/us/usc/t42/s14071]\] shall take effect on the date of the enactment of this Act \[Nov. 26, 1997\], except that—
 
@@ -113,13 +113,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–473, title II, § 1210][/us/pl/98/473/s1210], Oct. 12, 1984, [98 Stat. 2163][/us/stat/98/2163], provided that: 
+[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1210, Oct. 12, 1984, [98 Stat. 2163][/us/stat/98/2163], provided that: 
 
 > “This subpart \[subpart A (§§ 1207–1210) of part F of chapter XII of title II of [Pub. L. 98–473][/us/pl/98/473], see Short Title note below\] and the amendments made by this subpart shall take effect on October 1, 1984.”
 
  __Short Title__ 
 
-[Pub. L. 98–473, title II, § 1207][/us/pl/98/473/s1207], Oct. 12, 1984, [98 Stat. 2153][/us/stat/98/2153], provided that: 
+[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1207, Oct. 12, 1984, [98 Stat. 2153][/us/stat/98/2153], provided that: 
 
 > “This subpart \[subpart A (§§ 1207–1210) of part F of chapter XII of title II of [Pub. L. 98–473][/us/pl/98/473], enacting this chapter, repealing provisions set out as a note preceding [section 3481 of this title][/us/usc/t18/s3481], and enacting provisions set out as a note under this section\] may be cited as the ‘Witness Security Reform Act of 1984’.”
 
@@ -132,29 +132,29 @@
 
 [/us/usc/t18/s3522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3522
 [/us/usc/t18/s3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3521
-[/us/pl/98/473/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1208
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2153
-[/us/pl/101/647/s3582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3582
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4929
-[/us/pl/105/119/s115/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs115%2Fa%2F9
+[/us/pl/105/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtI
 [/us/stat/111/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2467
-[/us/pl/109/177/s506/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs506%2Fa%2F7
+[/us/pl/109/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtV
 [/us/stat/120/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F248
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
-[/us/pl/101/647/s3582/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3582%2F1
-[/us/pl/101/647/s3582/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3582%2F2
-[/us/pl/105/119/s115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs115%2Fc
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/105/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtI
 [/us/stat/111/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2467
 [/us/usc/t10/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs951
 [/us/usc/t42/s14039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14039
 [/us/usc/t42/s14071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14071
 [/us/usc/t10/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs951
 [/us/usc/t42/s14071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14071
-[/us/pl/98/473/s1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1210
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2163
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/98/473/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1207
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2153
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t18/s3481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3481

@@ -201,29 +201,29 @@
 
         Seizures and forfeitures under this section shall be governed by the provisions of chapter 46 of title 18, United States Code, relating to civil forfeitures, except that such duties as are imposed upon the Secretary of the Treasury under the customs laws described in section 981(d) shall be performed by such officers, agents, and other persons as may be designated for that purpose by the Secretary of Homeland Security, the Attorney General, or the Secretary of Defense.
 
-(Added [Pub. L. 103–322, title VI, § 60019(a)][/us/pl/103/322/s60019/a], Sept. 13, 1994, [108 Stat. 1975][/us/stat/108/1975]; amended [Pub. L. 104–132, title VII][/us/pl/104/132], §§ 722, 723(a)(1), Apr. 24, 1996, [110 Stat. 1299][/us/stat/110/1299], 1300; [Pub. L. 114–23, title VIII, § 801][/us/pl/114/23/s801], June 2, 2015, [129 Stat. 300][/us/stat/129/300].)
+(Added [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60019(a), Sept. 13, 1994, [108 Stat. 1975][/us/stat/108/1975]; amended [Pub. L. 104–132, title VII][/us/pl/104/132/tVII], §§ 722, 723(a)(1), Apr. 24, 1996, [110 Stat. 1299][/us/stat/110/1299], 1300; [Pub. L. 114–23, title VIII][/us/pl/114/23/tVIII], § 801, June 2, 2015, [129 Stat. 300][/us/stat/129/300].)
 
  __Amendments__ 
 
-    2015—Subsec. (b)(1)(A)(i). [Pub. L. 114–23, § 801(1)(A)][/us/pl/114/23/s801/1/A], substituted “a vessel of the United States or a vessel subject to the jurisdiction of the United States (as defined in [section 70502 of title 46][/us/usc/t46/s70502])” for “a ship flying the flag of the United States”.
+    2015—Subsec. (b)(1)(A)(i). [Pub. L. 114–23][/us/pl/114/23], § 801(1)(A), substituted “a vessel of the United States or a vessel subject to the jurisdiction of the United States (as defined in [section 70502 of title 46][/us/usc/t46/s70502])” for “a ship flying the flag of the United States”.
 
-    Subsec. (b)(1)(A)(ii). [Pub. L. 114–23, § 801(1)(B)][/us/pl/114/23/s801/1/B], inserted “, including the territorial seas” before semicolon.
+    Subsec. (b)(1)(A)(ii). [Pub. L. 114–23][/us/pl/114/23], § 801(1)(B), inserted “, including the territorial seas” before semicolon.
 
-    Subsec. (b)(1)(A)(iii). [Pub. L. 114–23, § 801(1)(C)][/us/pl/114/23/s801/1/C], inserted “, by a United States corporation or legal entity,” after “by a national of the United States”.
+    Subsec. (b)(1)(A)(iii). [Pub. L. 114–23][/us/pl/114/23], § 801(1)(C), inserted “, by a United States corporation or legal entity,” after “by a national of the United States”.
 
-    Subsec. (c). [Pub. L. 114–23, § 801(2)][/us/pl/114/23/s801/2], substituted “section 13(c)” for “section 2(c)”.
+    Subsec. (c). [Pub. L. 114–23][/us/pl/114/23], § 801(2), substituted “section 13(c)” for “section 2(c)”.
 
-    Subsecs. (d) to (g). [Pub. L. 114–23, § 801(3)][/us/pl/114/23/s801/3]–(5), added subsecs. (d) to (g) and struck out former subsecs. (d) and (e) which related to delivery of suspected offender and definitions, respectively.
+    Subsecs. (d) to (g). [Pub. L. 114–23][/us/pl/114/23], § 801(3)–(5), added subsecs. (d) to (g) and struck out former subsecs. (d) and (e) which related to delivery of suspected offender and definitions, respectively.
 
-    1996—Subsec. (a)(1)(H). [Pub. L. 104–132, § 723(a)(1)][/us/pl/104/132/s723/a/1], inserted “or conspires” after “attempts”.
+    1996—Subsec. (a)(1)(H). [Pub. L. 104–132][/us/pl/104/132], § 723(a)(1), inserted “or conspires” after “attempts”.
 
-    Subsec. (b)(1)(A)(ii). [Pub. L. 104–132, § 722(1)][/us/pl/104/132/s722/1], struck out “and the activity is not prohibited as a crime by the State in which the activity takes place” after “the United States”.
+    Subsec. (b)(1)(A)(ii). [Pub. L. 104–132][/us/pl/104/132], § 722(1), struck out “and the activity is not prohibited as a crime by the State in which the activity takes place” after “the United States”.
 
-    Subsec. (b)(1)(A)(iii). [Pub. L. 104–132, § 722(2)][/us/pl/104/132/s722/2], struck out “the activity takes place on a ship flying the flag of a foreign country or outside the United States,” before “by a national of the United States”.
+    Subsec. (b)(1)(A)(iii). [Pub. L. 104–132][/us/pl/104/132], § 722(2), struck out “the activity takes place on a ship flying the flag of a foreign country or outside the United States,” before “by a national of the United States”.
 
  __Effective Date__ 
 
-[Pub. L. 103–322, title VI, § 60019(c)][/us/pl/103/322/s60019/c], Sept. 13, 1994, [108 Stat. 1979][/us/stat/108/1979], provided that: 
+[Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60019(c), Sept. 13, 1994, [108 Stat. 1979][/us/stat/108/1979], provided that: 
 
 > “This section \[enacting this section and [section 2281 of this title][/us/usc/t18/s2281]\] and the amendments made by this section shall take effect on the later of—
 
@@ -258,22 +258,22 @@
 [/us/usc/t18/s229F/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs229F%2F6%2FA
 [/us/usc/t18/s2332f/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332f%2Fe%2F7
 [/us/usc/t18/s229F/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs229F%2F8%2FA
-[/us/pl/103/322/s60019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60019%2Fa
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1975
-[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVII
 [/us/stat/110/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1299
-[/us/pl/114/23/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs801
+[/us/pl/114/23/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVIII
 [/us/stat/129/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F300
-[/us/pl/114/23/s801/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs801%2F1%2FA
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/usc/t46/s70502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502
-[/us/pl/114/23/s801/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs801%2F1%2FB
-[/us/pl/114/23/s801/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs801%2F1%2FC
-[/us/pl/114/23/s801/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs801%2F2
-[/us/pl/114/23/s801/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs801%2F3
-[/us/pl/104/132/s723/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs723%2Fa%2F1
-[/us/pl/104/132/s722/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs722%2F1
-[/us/pl/104/132/s722/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs722%2F2
-[/us/pl/103/322/s60019/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60019%2Fc
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1979
 [/us/usc/t18/s2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2281
 [/us/usc/t18/s2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2280

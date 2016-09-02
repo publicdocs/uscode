@@ -145,27 +145,27 @@
 
         (3) to provide exclusive criminal penalties or civil remedies with respect to the conduct prohibited by this action, or to preempt State or local laws that may provide such penalties or remedies.
 
-(Added [Pub. L. 102–346, § 2(a)][/us/pl/102/346/s2/a], Aug. 26, 1992, [106 Stat. 928][/us/stat/106/928]; amended [Pub. L. 104–294, title VI, § 601(r)(3)][/us/pl/104/294/s601/r/3], Oct. 11, 1996, [110 Stat. 3502][/us/stat/110/3502]; [Pub. L. 107–188, title III, § 336][/us/pl/107/188/s336], June 12, 2002, [116 Stat. 681][/us/stat/116/681]; [Pub. L. 109–374, § 2(a)][/us/pl/109/374/s2/a], Nov. 27, 2006, [120 Stat. 2652][/us/stat/120/2652].)
+(Added [Pub. L. 102–346][/us/pl/102/346], § 2(a), Aug. 26, 1992, [106 Stat. 928][/us/stat/106/928]; amended [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(r)(3), Oct. 11, 1996, [110 Stat. 3502][/us/stat/110/3502]; [Pub. L. 107–188, title III][/us/pl/107/188/tIII], § 336, June 12, 2002, [116 Stat. 681][/us/stat/116/681]; [Pub. L. 109–374][/us/pl/109/374], § 2(a), Nov. 27, 2006, [120 Stat. 2652][/us/stat/120/2652].)
 
  __Prior Provisions__ 
 
-    A prior section 43, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 687][/us/stat/62/687]; Sept. 2, 1960, [Pub. L. 86–702, § 2][/us/pl/86/702/s2], [74 Stat. 754][/us/stat/74/754]; Dec. 5, 1969, [Pub. L. 91–135, § 7(a)][/us/pl/91/135/s7/a], [83 Stat. 279][/us/stat/83/279], related to transportation of wildlife taken in violation of State, national, or foreign law, the receipt of such wildlife, and the making of false records in relation thereto, prior to repeal by [Pub. L. 97–79, § 9(b)(2)][/us/pl/97/79/s9/b/2], Nov. 16, 1981, [95 Stat. 1079][/us/stat/95/1079]. See [section 3372(a) of Title 16][/us/usc/t16/s3372/a], Conservation.
+    A prior section 43, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 687][/us/stat/62/687]; Sept. 2, 1960, [Pub. L. 86–702][/us/pl/86/702], § 2, [74 Stat. 754][/us/stat/74/754]; Dec. 5, 1969, [Pub. L. 91–135][/us/pl/91/135], § 7(a), [83 Stat. 279][/us/stat/83/279], related to transportation of wildlife taken in violation of State, national, or foreign law, the receipt of such wildlife, and the making of false records in relation thereto, prior to repeal by [Pub. L. 97–79][/us/pl/97/79], § 9(b)(2), Nov. 16, 1981, [95 Stat. 1079][/us/stat/95/1079]. See [section 3372(a) of Title 16][/us/usc/t16/s3372/a], Conservation.
 
  __Amendments__ 
 
     2006—[Pub. L. 109–374][/us/pl/109/374] amended section catchline and text generally, substituting provisions relating to force, violence, and threats involving animal enterprises for provisions relating to animal enterprise terrorism.
 
-    2002—Subsec. (a). [Pub. L. 107–188, § 336(a)][/us/pl/107/188/s336/a], amended heading and text of subsec. (a) generally, deleting par. (2) reference to intentionally stealing and to requirement that economic damage exceed $10,000, and in concluding provisions substituting reference to punishment under subsec. (b) for reference to fine or imprisonment of not more than one year.
+    2002—Subsec. (a). [Pub. L. 107–188][/us/pl/107/188], § 336(a), amended heading and text of subsec. (a) generally, deleting par. (2) reference to intentionally stealing and to requirement that economic damage exceed $10,000, and in concluding provisions substituting reference to punishment under subsec. (b) for reference to fine or imprisonment of not more than one year.
 
-    Subsec. (b). [Pub. L. 107–188, § 336(b)][/us/pl/107/188/s336/b], amended subsec. (b) generally, substituting “Penalties” for “Aggravated Offense” in heading and list of penalties for property damage, personal injury and death for reference to serious bodily injury and death in text.
+    Subsec. (b). [Pub. L. 107–188][/us/pl/107/188], § 336(b), amended subsec. (b) generally, substituting “Penalties” for “Aggravated Offense” in heading and list of penalties for property damage, personal injury and death for reference to serious bodily injury and death in text.
 
-    Subsec. (c)(3). [Pub. L. 107–188, § 336(c)][/us/pl/107/188/s336/c], added par. (3).
+    Subsec. (c)(3). [Pub. L. 107–188][/us/pl/107/188], § 336(c), added par. (3).
 
     1996—Subsec. (c). [Pub. L. 104–294][/us/pl/104/294] inserted “or 3663A” after “section 3663” in introductory provisions.
 
  __Short Title__ 
 
-[Pub. L. 102–346, § 1][/us/pl/102/346/s1], Aug. 26, 1992, [106 Stat. 928][/us/stat/106/928], provided that: 
+[Pub. L. 102–346][/us/pl/102/346], § 1, Aug. 26, 1992, [106 Stat. 928][/us/stat/106/928], provided that: 
 
 > “This Act \[enacting this section and provisions set out below\] may be cited as the ‘Animal Enterprise Protection Act of 1992’.”
 
@@ -180,29 +180,29 @@
 ----------
 ----------
 
-[/us/pl/102/346/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F346%2Fs2%2Fa
+[/us/pl/102/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F346
 [/us/stat/106/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F928
-[/us/pl/104/294/s601/r/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fr%2F3
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3502
-[/us/pl/107/188/s336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs336
+[/us/pl/107/188/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtIII
 [/us/stat/116/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F681
-[/us/pl/109/374/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F374%2Fs2%2Fa
+[/us/pl/109/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F374
 [/us/stat/120/2652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2652
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F687
-[/us/pl/86/702/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F702%2Fs2
+[/us/pl/86/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F702
 [/us/stat/74/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F754
-[/us/pl/91/135/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F135%2Fs7%2Fa
+[/us/pl/91/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F135
 [/us/stat/83/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F279
-[/us/pl/97/79/s9/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79%2Fs9%2Fb%2F2
+[/us/pl/97/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79
 [/us/stat/95/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1079
 [/us/usc/t16/s3372/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3372%2Fa
 [/us/pl/109/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F374
-[/us/pl/107/188/s336/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs336%2Fa
-[/us/pl/107/188/s336/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs336%2Fb
-[/us/pl/107/188/s336/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs336%2Fc
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
-[/us/pl/102/346/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F346%2Fs1
+[/us/pl/102/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F346
 [/us/stat/106/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F928
 [/us/pl/102/346/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F346%2Fs3
 

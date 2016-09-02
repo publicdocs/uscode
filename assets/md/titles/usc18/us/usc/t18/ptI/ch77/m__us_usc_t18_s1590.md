@@ -19,7 +19,7 @@
 
     (b) Whoever obstructs, attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be subject to the penalties under subsection (a).
 
-(Added [Pub. L. 106–386, div. A, § 112(a)(2)][/us/pl/106/386/s112/a/2], Oct. 28, 2000, [114 Stat. 1487][/us/stat/114/1487]; amended [Pub. L. 110–457, title II, § 222(b)(4)][/us/pl/110/457/s222/b/4], Dec. 23, 2008, [122 Stat. 5069][/us/stat/122/5069].)
+(Added [Pub. L. 106–386, div. A][/us/pl/106/386/dA], § 112(a)(2), Oct. 28, 2000, [114 Stat. 1487][/us/stat/114/1487]; amended [Pub. L. 110–457, title II][/us/pl/110/457/tII], § 222(b)(4), Dec. 23, 2008, [122 Stat. 5069][/us/stat/122/5069].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/106/386/s112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs112%2Fa%2F2
+[/us/pl/106/386/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdA
 [/us/stat/114/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1487
-[/us/pl/110/457/s222/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs222%2Fb%2F4
+[/us/pl/110/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtII
 [/us/stat/122/5069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5069
 [/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
 

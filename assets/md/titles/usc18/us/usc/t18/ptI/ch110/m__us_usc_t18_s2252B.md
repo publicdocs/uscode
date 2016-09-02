@@ -33,7 +33,7 @@
 
     (e) For the purposes of subsection (d), the term “sex” means acts of masturbation, sexual intercourse, or physcial  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “physical”. </sup></sup>  contact with a person’s genitals, or the condition of human male or female genitals when in a state of sexual stimulation or arousal.
 
-(Added [Pub. L. 108–21, title V, § 521(a)][/us/pl/108/21/s521/a], Apr. 30, 2003, [117 Stat. 686][/us/stat/117/686]; amended [Pub. L. 109–248, title II, § 206(b)(4)][/us/pl/109/248/s206/b/4], July 27, 2006, [120 Stat. 614][/us/stat/120/614].)
+(Added [Pub. L. 108–21, title V][/us/pl/108/21/tV], § 521(a), Apr. 30, 2003, [117 Stat. 686][/us/stat/117/686]; amended [Pub. L. 109–248, title II][/us/pl/109/248/tII], § 206(b)(4), July 27, 2006, [120 Stat. 614][/us/stat/120/614].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/108/21/s521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs521%2Fa
+[/us/pl/108/21/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtV
 [/us/stat/117/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F686
-[/us/pl/109/248/s206/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs206%2Fb%2F4
+[/us/pl/109/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtII
 [/us/stat/120/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F614
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 

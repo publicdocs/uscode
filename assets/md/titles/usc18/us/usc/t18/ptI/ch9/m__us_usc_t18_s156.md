@@ -27,7 +27,7 @@
 
     If a bankruptcy case or related proceeding is dismissed because of a knowing attempt by a bankruptcy petition preparer in any manner to disregard the requirements of title 11, United States Code, or the Federal Rules of Bankruptcy Procedure, the bankruptcy petition preparer shall be fined under this title, imprisoned not more than 1 year, or both.
 
-(Added [Pub. L. 103–394, title III, § 312(a)(1)(B)][/us/pl/103/394/s312/a/1/B], Oct. 22, 1994, [108 Stat. 4140][/us/stat/108/4140]; amended [Pub. L. 109–8, title XII, § 1220][/us/pl/109/8/s1220], Apr. 20, 2005, [119 Stat. 195][/us/stat/119/195].)
+(Added [Pub. L. 103–394, title III][/us/pl/103/394/tIII], § 312(a)(1)(B), Oct. 22, 1994, [108 Stat. 4140][/us/stat/108/4140]; amended [Pub. L. 109–8, title XII][/us/pl/109/8/tXII], § 1220, Apr. 20, 2005, [119 Stat. 195][/us/stat/119/195].)
 
  __References in Text__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/103/394/s312/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs312%2Fa%2F1%2FB
+[/us/pl/103/394/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtIII
 [/us/stat/108/4140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4140
-[/us/pl/109/8/s1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1220
+[/us/pl/109/8/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXII
 [/us/stat/119/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F195
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8

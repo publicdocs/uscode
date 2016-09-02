@@ -19,15 +19,15 @@
 
     (b) A violation of this section may be prosecuted in any Federal judicial district in which the underlying offense was committed, or in any other Federal judicial district as provided by law.
 
-(Added [Pub. L. 107–56, title VIII, § 803(a)][/us/pl/107/56/s803/a], Oct. 26, 2001, [115 Stat. 376][/us/stat/115/376]; amended [Pub. L. 107–273, div. B, title IV, § 4005(d)(2)][/us/pl/107/273/s4005/d/2], Nov. 2, 2002, [116 Stat. 1813][/us/stat/116/1813].)
+(Added [Pub. L. 107–56, title VIII][/us/pl/107/56/tVIII], § 803(a), Oct. 26, 2001, [115 Stat. 376][/us/stat/115/376]; amended [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4005(d)(2), Nov. 2, 2002, [116 Stat. 1813][/us/stat/116/1813].)
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–273][/us/pl/107/273] made technical correction to directory language of [Pub. L. 107–56, § 803(a)][/us/pl/107/56/s803/a], which enacted this section.
+    2002—[Pub. L. 107–273][/us/pl/107/273] made technical correction to directory language of [Pub. L. 107–56][/us/pl/107/56], § 803(a), which enacted this section.
 
  __Effective Date of 2002 Amendment__ 
 
-    [Pub. L. 107–273, div. B, title IV, § 4005(d)(2)][/us/pl/107/273/s4005/d/2], Nov. 2, 2002, [116 Stat. 1813][/us/stat/116/1813], provided that the amendment made by section 4005(d)(2) is effective Oct. 26, 2001.
+    [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4005(d)(2), Nov. 2, 2002, [116 Stat. 1813][/us/stat/116/1813], provided that the amendment made by section 4005(d)(2) is effective Oct. 26, 2001.
 
 ----------
 
@@ -37,13 +37,13 @@
 ----------
 
 [/us/usc/t42/s2284/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2284%2Fa
-[/us/pl/107/56/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs803%2Fa
+[/us/pl/107/56/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtVIII
 [/us/stat/115/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F376
-[/us/pl/107/273/s4005/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4005%2Fd%2F2
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1813
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/107/56/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs803%2Fa
-[/us/pl/107/273/s4005/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4005%2Fd%2F2
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1813
 
 

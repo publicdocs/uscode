@@ -17,7 +17,7 @@
 
     The provisions of [section 3668 of this title][/us/usc/t18/s3668] shall apply to any conveyances seized, proceeded against by libel, or forfeited under the provisions of section 3113 or 3669 of this title for having been used in introducing or attempting to introduce intoxicants into the Indian country or into other places where such introduction is prohibited by treaty or enactment of Congress.
 
-(Added [Oct. 24, 1951, ch. 546, § 2][/us/act/1951-10-24/ch546/s2], [65 Stat. 609][/us/stat/65/609], § 3619; renumbered § 3670 and amended [Pub. L. 98–473, title II][/us/pl/98/473], §§ 212(a)(1), 223(k), Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987], 2029.)
+(Added [Oct. 24, 1951, ch. 546][/us/act/1951-10-24/ch546], § 2, [65 Stat. 609][/us/stat/65/609], § 3619; renumbered § 3670 and amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], §§ 212(a)(1), 223(k), Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987], 2029.)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t18/s3668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3668
-[/us/act/1951-10-24/ch546/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-24%2Fch546%2Fs2
+[/us/act/1951-10-24/ch546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-24%2Fch546
 [/us/stat/65/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F609
-[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1987
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t18/s3619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3619

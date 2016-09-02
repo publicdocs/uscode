@@ -23,7 +23,7 @@
 
     shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
 
-(Added [Pub. L. 98–473, title II, § 1108(a)][/us/pl/98/473/s1108/a], Oct. 12, 1984, [98 Stat. 2147][/us/stat/98/2147]; amended [Pub. L. 101–73, title IX, § 961(k)][/us/pl/101/73/s961/k], Aug. 9, 1989, [103 Stat. 500][/us/stat/103/500]; [Pub. L. 101–647, title XXV, § 2504(j)][/us/pl/101/647/s2504/j], Nov. 29, 1990, [104 Stat. 4861][/us/stat/104/4861].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1108(a), Oct. 12, 1984, [98 Stat. 2147][/us/stat/98/2147]; amended [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 961(k), Aug. 9, 1989, [103 Stat. 500][/us/stat/103/500]; [Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2504(j), Nov. 29, 1990, [104 Stat. 4861][/us/stat/104/4861].)
 
  __Amendments__ 
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/pl/98/473/s1108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1108%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2147
-[/us/pl/101/73/s961/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs961%2Fk
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F500
-[/us/pl/101/647/s2504/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2504%2Fj
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4861
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73

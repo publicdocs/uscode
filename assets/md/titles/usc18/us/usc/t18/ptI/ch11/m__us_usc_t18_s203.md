@@ -63,7 +63,7 @@
 
     (f) Nothing in this section prevents an individual from giving testimony under oath or from making statements required to be made under penalty of perjury.
 
-(Added [Pub. L. 87–849, § 1(a)][/us/pl/87/849/s1/a], Oct. 23, 1962, [76 Stat. 1121][/us/stat/76/1121]; amended [Pub. L. 91–405, title II, § 204(d)(2)][/us/pl/91/405/s204/d/2], (3), Sept. 22, 1970, [84 Stat. 853][/us/stat/84/853]; [Pub. L. 99–646, § 47(a)][/us/pl/99/646/s47/a], Nov. 10, 1986, [100 Stat. 3604][/us/stat/100/3604]; [Pub. L. 101–194, title IV, § 402][/us/pl/101/194/s402], Nov. 30, 1989, [103 Stat. 1748][/us/stat/103/1748]; [Pub. L. 101–280, § 5(b)][/us/pl/101/280/s5/b], May 4, 1990, [104 Stat. 159][/us/stat/104/159].)
+(Added [Pub. L. 87–849][/us/pl/87/849], § 1(a), Oct. 23, 1962, [76 Stat. 1121][/us/stat/76/1121]; amended [Pub. L. 91–405, title II][/us/pl/91/405/tII], § 204(d)(2), (3), Sept. 22, 1970, [84 Stat. 853][/us/stat/84/853]; [Pub. L. 99–646][/us/pl/99/646], § 47(a), Nov. 10, 1986, [100 Stat. 3604][/us/stat/100/3604]; [Pub. L. 101–194, title IV][/us/pl/101/194/tIV], § 402, Nov. 30, 1989, [103 Stat. 1748][/us/stat/103/1748]; [Pub. L. 101–280][/us/pl/101/280], § 5(b), May 4, 1990, [104 Stat. 159][/us/stat/104/159].)
 
  __Prior Provisions__ 
 
@@ -73,45 +73,45 @@
 
  __Amendments__ 
 
-    1990—Subsec. (a)(1)(B). [Pub. L. 101–280, § 5(b)(1)][/us/pl/101/280/s5/b/1], inserted “or Federal judge” after “employee”.
+    1990—Subsec. (a)(1)(B). [Pub. L. 101–280][/us/pl/101/280], § 5(b)(1), inserted “or Federal judge” after “employee”.
 
-    Subsec. (a)(2). [Pub. L. 101–280, § 5(b)(2)][/us/pl/101/280/s5/b/2], inserted “Commissioner Elect, Federal judge,” after “Commissioner,”.
+    Subsec. (a)(2). [Pub. L. 101–280][/us/pl/101/280], § 5(b)(2), inserted “Commissioner Elect, Federal judge,” after “Commissioner,”.
 
-    Subsec. (b)(2). [Pub. L. 101–280, § 5(b)(3)][/us/pl/101/280/s5/b/3], inserted “representational” before “services”.
+    Subsec. (b)(2). [Pub. L. 101–280][/us/pl/101/280], § 5(b)(3), inserted “representational” before “services”.
 
-    Subsec. (d)(1). [Pub. L. 101–280, § 5(b)(4)][/us/pl/101/280/s5/b/4], substituted “Government employee or as a special Government employee” for “Government employee,”.
+    Subsec. (d)(1). [Pub. L. 101–280][/us/pl/101/280], § 5(b)(4), substituted “Government employee or as a special Government employee” for “Government employee,”.
 
-    Subsec. (f). [Pub. L. 101–280, § 5(b)(5)][/us/pl/101/280/s5/b/5], added subsec. (f).
+    Subsec. (f). [Pub. L. 101–280][/us/pl/101/280], § 5(b)(5), added subsec. (f).
 
-    1989—Subsec. (a). [Pub. L. 101–194, § 402(3)][/us/pl/101/194/s402/3], in concluding provisions, substituted “shall be subject to the penalties set forth in [section 216 of this title][/us/usc/t18/s216]” for “shall be fined under this title or imprisoned for not more than two years, or both; and shall be incapable of holding any office of honor, trust, or profit under the United States”.
+    1989—Subsec. (a). [Pub. L. 101–194][/us/pl/101/194], § 402(3), in concluding provisions, substituted “shall be subject to the penalties set forth in [section 216 of this title][/us/usc/t18/s216]” for “shall be fined under this title or imprisoned for not more than two years, or both; and shall be incapable of holding any office of honor, trust, or profit under the United States”.
 
-    Subsec. (a)(1). [Pub. L. 101–194, § 402(1)][/us/pl/101/194/s402/1], (2), (7), in introductory provisions, substituted “representational services, as agent or attorney or otherwise,” for “services”, in concluding provisions, inserted “court,” after “department, agency,” and in subpar. (B), struck out “including the District of Columbia,” after “agency of the United States”.
+    Subsec. (a)(1). [Pub. L. 101–194][/us/pl/101/194], § 402(1), (2), (7), in introductory provisions, substituted “representational services, as agent or attorney or otherwise,” for “services”, in concluding provisions, inserted “court,” after “department, agency,” and in subpar. (B), struck out “including the District of Columbia,” after “agency of the United States”.
 
-    Subsec. (a)(2). [Pub. L. 101–194, § 402(4)][/us/pl/101/194/s402/4]–(6), inserted “representational” before “services”, “Member Elect,” after “Member,” and “Delegate Elect,” after “Delegate,”.
+    Subsec. (a)(2). [Pub. L. 101–194][/us/pl/101/194], § 402(4)–(6), inserted “representational” before “services”, “Member Elect,” after “Member,” and “Delegate Elect,” after “Delegate,”.
 
-    Subsec. (b). [Pub. L. 101–194, § 402(9)][/us/pl/101/194/s402/9], added subsec. (b). Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 101–194][/us/pl/101/194], § 402(9), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 101–194, § 402(8)][/us/pl/101/194/s402/8], redesignated subsec. (b) as (c) and substituted “subsections (a) and (b)” for “subsection (a)”.
+    Subsec. (c). [Pub. L. 101–194][/us/pl/101/194], § 402(8), redesignated subsec. (b) as (c) and substituted “subsections (a) and (b)” for “subsection (a)”.
 
-    Subsecs. (d), (e). [Pub. L. 101–194, § 402(10)][/us/pl/101/194/s402/10], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 101–194][/us/pl/101/194], § 402(10), added subsecs. (d) and (e).
 
-    1986—[Pub. L. 99–646, § 47(a)(3)(D)][/us/pl/99/646/s47/a/3/D], provided for alignment of margins of each subsection, paragraph, and subparagraph of this section.
+    1986—[Pub. L. 99–646][/us/pl/99/646], § 47(a)(3)(D), provided for alignment of margins of each subsection, paragraph, and subparagraph of this section.
 
-    Subsec. (a). [Pub. L. 99–646, § 47(a)(1)][/us/pl/99/646/s47/a/1], (2), substituted “indirectly—” for “indirectly” in introductory provisions, redesignated the undesignated par. which followed former subsec. (b) as concluding par. of subsec. (a), and substituted “shall be fined under this title” for “Shall be fined not more than $10,000”.
+    Subsec. (a). [Pub. L. 99–646][/us/pl/99/646], § 47(a)(1), (2), substituted “indirectly—” for “indirectly” in introductory provisions, redesignated the undesignated par. which followed former subsec. (b) as concluding par. of subsec. (a), and substituted “shall be fined under this title” for “Shall be fined not more than $10,000”.
 
-    Subsec. (a)(1). [Pub. L. 99–646, § 47(a)(1)][/us/pl/99/646/s47/a/1], substituted “(1) demands, seeks, receives, accepts, or agrees to receive or accept any” for “receives or agrees to receive, or asks, demands, solicits, or seeks, any” and “personally or by” for “by himself or”, redesignated former par. (1) as subpar. (A) and substituted “such person” for “he” and “Delegate, Delegate Elect” for “Delegate from the District of Columbia, Delegate Elect from the District of Columbia”, redesignated former par. (2) as subpar. (B) and substituted “such person” for “he”, and in closing provisions substituted “commission; or” for “commission, or”.
+    Subsec. (a)(1). [Pub. L. 99–646][/us/pl/99/646], § 47(a)(1), substituted “(1) demands, seeks, receives, accepts, or agrees to receive or accept any” for “receives or agrees to receive, or asks, demands, solicits, or seeks, any” and “personally or by” for “by himself or”, redesignated former par. (1) as subpar. (A) and substituted “such person” for “he” and “Delegate, Delegate Elect” for “Delegate from the District of Columbia, Delegate Elect from the District of Columbia”, redesignated former par. (2) as subpar. (B) and substituted “such person” for “he”, and in closing provisions substituted “commission; or” for “commission, or”.
 
-    Subsec. (a)(2). [Pub. L. 99–646, § 47(a)(2)][/us/pl/99/646/s47/a/2], redesignated former subsec. (b) as par. (2) and substituted “knowingly gives” for “Whoever, knowingly, otherwise than as provided by law for the proper discharge of official duties, directly or indirectly gives” and “employee;” for “employee—”.
+    Subsec. (a)(2). [Pub. L. 99–646][/us/pl/99/646], § 47(a)(2), redesignated former subsec. (b) as par. (2) and substituted “knowingly gives” for “Whoever, knowingly, otherwise than as provided by law for the proper discharge of official duties, directly or indirectly gives” and “employee;” for “employee—”.
 
-    Subsecs. (b), (c). [Pub. L. 99–646, § 47(a)(3)][/us/pl/99/646/s47/a/3], (4), redesignated former subsec. (c) as (b) and substituted “parties—” for “parties”, “such employee” for “he”, “otherwise; or” for “otherwise, or”, and “in which such employee is serving except that paragraph (2) of this subsection” for “in which he is serving: Provided, That clause (2)”. Former subsec. (b) redesignated (a)(2).
+    Subsecs. (b), (c). [Pub. L. 99–646][/us/pl/99/646], § 47(a)(3), (4), redesignated former subsec. (c) as (b) and substituted “parties—” for “parties”, “such employee” for “he”, “otherwise; or” for “otherwise, or”, and “in which such employee is serving except that paragraph (2) of this subsection” for “in which he is serving: Provided, That clause (2)”. Former subsec. (b) redesignated (a)(2).
 
-    1970—Subsec. (a)(1). [Pub. L. 91–405, § 204(d)(2)][/us/pl/91/405/s204/d/2], included references to Delegate from District of Columbia and Delegate Elect from District of Columbia.
+    1970—Subsec. (a)(1). [Pub. L. 91–405][/us/pl/91/405], § 204(d)(2), included references to Delegate from District of Columbia and Delegate Elect from District of Columbia.
 
-    Subsec. (b). [Pub. L. 91–405, § 204(d)(3)][/us/pl/91/405/s204/d/3], included reference to Delegate.
+    Subsec. (b). [Pub. L. 91–405][/us/pl/91/405], § 204(d)(3), included reference to Delegate.
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–646, § 47(b)][/us/pl/99/646/s47/b], Nov. 10, 1986, [100 Stat. 3605][/us/stat/100/3605], provided that: 
+[Pub. L. 99–646][/us/pl/99/646], § 47(b), Nov. 10, 1986, [100 Stat. 3605][/us/stat/100/3605], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Nov. 10, 1986\].”
 
@@ -131,13 +131,13 @@
 
  __Exemptions__ 
 
-[Pub. L. 87–849, § 2][/us/pl/87/849/s2], Oct. 23, 1962, [76 Stat. 1126][/us/stat/76/1126], provided in part that: 
+[Pub. L. 87–849][/us/pl/87/849], § 2, Oct. 23, 1962, [76 Stat. 1126][/us/stat/76/1126], provided in part that: 
 
 > “All exemptions from the provisions of sections 281, 282, 283, 284, 434, or 1914 of title 18 of the United States Code heretofore created or authorized by statute which are in force on the effective date of this Act \[see Effective Date note under [section 201 of this title][/us/usc/t18/s201]\] shall, on and after that date, be deemed to be exemptions from sections 203, 204, 205, 207, 208, or 209, respectively, of title 18 of the United States Code except to the extent that they affect officers or employees of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, as to whom they are no longer applicable.”
 
  __Private Sector Representatives on United States Delegations to International Telecommunications Meetings and Conferences__ 
 
-[Pub. L. 97–241, title I, § 120][/us/pl/97/241/s120], Aug. 24, 1982, [96 Stat. 280][/us/stat/96/280], provided that:
+[Pub. L. 97–241, title I][/us/pl/97/241/tI], § 120, Aug. 24, 1982, [96 Stat. 280][/us/stat/96/280], provided that:
 
 >     “(a) Sections 203, 205, 207, and 208 of title 18, United States Code, shall not apply to a private sector representative on the United States delegation to an international telecommunications meeting or conference who is specifically designated to speak on behalf of or otherwise represent the interests of the United States at such meeting or conference with respect to a particular matter, if the Secretary of State (or the Secretary’s designee) certifies that no Government employee on the delegation is as well qualified to represent United States interests with respect to such matter and that such designation serves the national interest. All such representatives shall have on file with the Department of State the financial disclosure report required for special Government employees.
 
@@ -152,41 +152,41 @@
 
 [/us/usc/t18/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs216
 [/us/usc/t18/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs216
-[/us/pl/87/849/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs1%2Fa
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1121
-[/us/pl/91/405/s204/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405%2Fs204%2Fd%2F2
+[/us/pl/91/405/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405%2FtII
 [/us/stat/84/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F853
-[/us/pl/99/646/s47/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs47%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3604
-[/us/pl/101/194/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs402
+[/us/pl/101/194/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtIV
 [/us/stat/103/1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1748
-[/us/pl/101/280/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs5%2Fb
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F159
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F692
 [/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/usc/t18/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs281
 [/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
-[/us/pl/101/280/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs5%2Fb%2F1
-[/us/pl/101/280/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs5%2Fb%2F2
-[/us/pl/101/280/s5/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs5%2Fb%2F3
-[/us/pl/101/280/s5/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs5%2Fb%2F4
-[/us/pl/101/280/s5/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs5%2Fb%2F5
-[/us/pl/101/194/s402/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs402%2F3
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/usc/t18/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs216
-[/us/pl/101/194/s402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs402%2F1
-[/us/pl/101/194/s402/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs402%2F4
-[/us/pl/101/194/s402/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs402%2F9
-[/us/pl/101/194/s402/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs402%2F8
-[/us/pl/101/194/s402/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs402%2F10
-[/us/pl/99/646/s47/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs47%2Fa%2F3%2FD
-[/us/pl/99/646/s47/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs47%2Fa%2F1
-[/us/pl/99/646/s47/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs47%2Fa%2F1
-[/us/pl/99/646/s47/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs47%2Fa%2F2
-[/us/pl/99/646/s47/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs47%2Fa%2F3
-[/us/pl/91/405/s204/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405%2Fs204%2Fd%2F2
-[/us/pl/91/405/s204/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405%2Fs204%2Fd%2F3
-[/us/pl/99/646/s47/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs47%2Fb
+[/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
+[/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
+[/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
+[/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
+[/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/91/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405
+[/us/pl/91/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3605
 [/us/pl/91/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405
 [/us/pl/91/405/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405%2Fs206%2Fb
@@ -195,10 +195,10 @@
 [/us/usc/t18/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs201
 [/us/usc/t5/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7301
 [/us/usc/t5/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7301
-[/us/pl/87/849/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs2
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1126
 [/us/usc/t18/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs201
-[/us/pl/97/241/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs120
+[/us/pl/97/241/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtI
 [/us/stat/96/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F280
 
 

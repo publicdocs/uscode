@@ -29,7 +29,7 @@
 
         (2) No prosecution shall be approved under this section unless the Attorney General, in consultation with the Secretary of State, determines that the conduct took place in a country in which the person is no longer present, and the country lacks the ability to lawfully secure the person’s return. A determination by the Attorney General under this paragraph is not subject to judicial review.
 
-(Added [Pub. L. 103–322, title VI, § 60009(a)][/us/pl/103/322/s60009/a], Sept. 13, 1994, [108 Stat. 1972][/us/stat/108/1972].)
+(Added [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60009(a), Sept. 13, 1994, [108 Stat. 1972][/us/stat/108/1972].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t8/s1101/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F22
-[/us/pl/103/322/s60009/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60009%2Fa
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1972
 
 

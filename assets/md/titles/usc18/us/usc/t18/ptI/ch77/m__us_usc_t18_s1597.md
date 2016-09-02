@@ -33,7 +33,7 @@
 
     Any person who knowingly obstructs, attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be subject to the penalties described in subsection (b).
 
-(Added [Pub. L. 113–4, title XII, § 1211(c)(1)][/us/pl/113/4/s1211/c/1], Mar. 7, 2013, [127 Stat. 142][/us/stat/127/142].)
+(Added [Pub. L. 113–4, title XII][/us/pl/113/4/tXII], § 1211(c)(1), Mar. 7, 2013, [127 Stat. 142][/us/stat/127/142].)
 
 ----------
 
@@ -46,7 +46,7 @@
 [/us/usc/t8/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324
 [/us/usc/t18/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1351
 [/us/usc/t8/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324
-[/us/pl/113/4/s1211/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1211%2Fc%2F1
+[/us/pl/113/4/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtXII
 [/us/stat/127/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F142
 
 

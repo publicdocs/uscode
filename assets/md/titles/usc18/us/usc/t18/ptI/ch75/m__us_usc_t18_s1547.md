@@ -21,7 +21,7 @@
 
     (2) if committed to facilitate an act of international terrorism (as defined in section 2331) is 20 years.
 
-(Added [Pub. L. 103–322, title XIII, § 130009(a)(6)][/us/pl/103/322/s130009/a/6], Sept. 13, 1994, [108 Stat. 2030][/us/stat/108/2030].)
+(Added [Pub. L. 103–322, title XIII][/us/pl/103/322/tXIII], § 130009(a)(6), Sept. 13, 1994, [108 Stat. 2030][/us/stat/108/2030].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s130009/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs130009%2Fa%2F6
+[/us/pl/103/322/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXIII
 [/us/stat/108/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2030
 
 

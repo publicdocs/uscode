@@ -21,11 +21,11 @@
 
     Shall be fined under this title, imprisoned not more than 5 years or, if the offense involves international or domestic terrorism (as defined in section 2331), imprisoned not more than 8 years, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 770][/us/stat/62/770]; [Pub. L. 87–664, § 6(a)][/us/pl/87/664/s6/a], Sept. 19, 1962, [76 Stat. 551][/us/stat/76/551]; [Pub. L. 91–452, title IX, § 903][/us/pl/91/452/s903], Oct. 15, 1970, [84 Stat. 947][/us/stat/84/947]; [Pub. L. 94–435, title I, § 105][/us/pl/94/435/s105], Sept. 30, 1976, [90 Stat. 1389][/us/stat/90/1389]; [Pub. L. 97–291, § 4(d)][/us/pl/97/291/s4/d], Oct. 12, 1982, [96 Stat. 1253][/us/stat/96/1253]; [Pub. L. 103–322, title XXXIII, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 108–458, title VI, § 6703(a)][/us/pl/108/458/s6703/a], Dec. 17, 2004, [118 Stat. 3766][/us/stat/118/3766].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 770][/us/stat/62/770]; [Pub. L. 87–664][/us/pl/87/664], § 6(a), Sept. 19, 1962, [76 Stat. 551][/us/stat/76/551]; [Pub. L. 91–452, title IX][/us/pl/91/452/tIX], § 903, Oct. 15, 1970, [84 Stat. 947][/us/stat/84/947]; [Pub. L. 94–435, title I][/us/pl/94/435/tI], § 105, Sept. 30, 1976, [90 Stat. 1389][/us/stat/90/1389]; [Pub. L. 97–291][/us/pl/97/291], § 4(d), Oct. 12, 1982, [96 Stat. 1253][/us/stat/96/1253]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(K), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6703(a), Dec. 17, 2004, [118 Stat. 3766][/us/stat/118/3766].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 241a, ([Mar. 4, 1909, ch. 321, § 135a][/us/act/1909-03-04/ch321/s135a], as added [Jan. 13, 1940, ch. 1][/us/act/1940-01-13/ch1], [54 Stat. 13][/us/stat/54/13]; [June 8, 1945, ch. 178, § 2][/us/act/1945-06-08/ch178/s2], [59 Stat. 234][/us/stat/59/234]).
+    Based on title 18, U.S.C., 1940 ed., § 241a, ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 135a, as added [Jan. 13, 1940, ch. 1][/us/act/1940-01-13/ch1], [54 Stat. 13][/us/stat/54/13]; [June 8, 1945, ch. 178][/us/act/1945-06-08/ch178], § 2, [59 Stat. 234][/us/stat/59/234]).
 
     Word “agency” was substituted for the words “independent establishment, board, commission” in two instances to eliminate any possible ambiguity as to scope of section. (See definitive [section 6 of this title][/us/usc/t18/s6].)
 
@@ -66,22 +66,22 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F770
-[/us/pl/87/664/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F664%2Fs6%2Fa
+[/us/pl/87/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F664
 [/us/stat/76/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F551
-[/us/pl/91/452/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs903
+[/us/pl/91/452/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtIX
 [/us/stat/84/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F947
-[/us/pl/94/435/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs105
+[/us/pl/94/435/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2FtI
 [/us/stat/90/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1389
-[/us/pl/97/291/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F291%2Fs4%2Fd
+[/us/pl/97/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F291
 [/us/stat/96/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1253
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/108/458/s6703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6703%2Fa
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3766
-[/us/act/1909-03-04/ch321/s135a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs135a
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/act/1940-01-13/ch1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-01-13%2Fch1
 [/us/stat/54/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F13
-[/us/act/1945-06-08/ch178/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-06-08%2Fch178%2Fs2
+[/us/act/1945-06-08/ch178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-06-08%2Fch178
 [/us/stat/59/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F234
 [/us/usc/t18/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs6
 [/us/pl/87/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F664

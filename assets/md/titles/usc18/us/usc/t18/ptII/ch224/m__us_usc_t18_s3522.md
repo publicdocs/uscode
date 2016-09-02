@@ -23,11 +23,11 @@
 
     (d) If a person provided protection under this chapter who is on probation or parole and is supervised under subsection (a) of this section has been ordered by the State court which imposed sentence on the person to pay a sum of money to the victim of the offense involved for damage caused by the offense, that penalty or award of damages may be enforced as though it were a civil judgment rendered by a United States district court. Proceedings to collect the moneys ordered to be paid may be instituted by the Attorney General in any United States district court. Moneys recovered pursuant to such proceedings shall be distributed to the victim.
 
-(Added [Pub. L. 98–473, title II, § 1208][/us/pl/98/473/s1208], Oct. 12, 1984, [98 Stat. 2157][/us/stat/98/2157]; amended [Pub. L. 99–646, § 75][/us/pl/99/646/s75], Nov. 10, 1986, [100 Stat. 3618][/us/stat/100/3618]; [Pub. L. 100–690, title VII, § 7072(b)][/us/pl/100/690/s7072/b], Nov. 18, 1988, [102 Stat. 4405][/us/stat/102/4405].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1208, Oct. 12, 1984, [98 Stat. 2157][/us/stat/98/2157]; amended [Pub. L. 99–646][/us/pl/99/646], § 75, Nov. 10, 1986, [100 Stat. 3618][/us/stat/100/3618]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7072(b), Nov. 18, 1988, [102 Stat. 4405][/us/stat/102/4405].)
 
  __References in Text__ 
 
-    Chapter 311 of this title, referred to in subsec. (c), which consisted of sections 4201 to 4218 of this title, was repealed effective Nov. 1, 1987, by [Pub. L. 98–473, title II][/us/pl/98/473], §§ 218(a)(5), 235(a)(1), (b)(1), Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027], 2031, 2032, subject to remaining effective for five years after Nov. 1, 1987, in certain circumstances.
+    Chapter 311 of this title, referred to in subsec. (c), which consisted of sections 4201 to 4218 of this title, was repealed effective Nov. 1, 1987, by [Pub. L. 98–473, title II][/us/pl/98/473/tII], §§ 218(a)(5), 235(a)(1), (b)(1), Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027], 2031, 2032, subject to remaining effective for five years after Nov. 1, 1987, in certain circumstances.
 
  __Amendments__ 
 
@@ -43,13 +43,13 @@
 ----------
 
 [/us/usc/t18/s3521/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3521%2Fd
-[/us/pl/98/473/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1208
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2157
-[/us/pl/99/646/s75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs75
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3618
-[/us/pl/100/690/s7072/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7072%2Fb
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4405
-[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2027
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646

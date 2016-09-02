@@ -29,7 +29,7 @@
 
     (c) In any prosecution under this section, if evidence has been introduced tending to show the existence, at the time the extension of credit in question was made, of the circumstances described in section 892(b)(1) or the circumstances described in section 892(b)(2), and direct evidence of the actual belief of the debtor as to the creditor’s collection practices is not available, then for the purpose of showing that words or other means of communication, shown to have been employed as a means of collection, in fact carried an express or implicit threat, the court may in its discretion allow evidence to be introduced tending to show the reputation of the defendant in any community of which the person against whom the alleged threat was made was a member at the time of the collection or attempt at collection.
 
-(Added [Pub. L. 90–321, title II, § 202(a)][/us/pl/90/321/s202/a], May 29, 1968, [82 Stat. 161][/us/stat/82/161]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+(Added [Pub. L. 90–321, title II][/us/pl/90/321/tII], § 202(a), May 29, 1968, [82 Stat. 161][/us/stat/82/161]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/90/321/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs202%2Fa
+[/us/pl/90/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtII
 [/us/stat/82/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F161
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

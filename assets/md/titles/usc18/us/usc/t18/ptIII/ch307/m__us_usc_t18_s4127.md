@@ -17,11 +17,11 @@
 
     The board of directors of Federal Prison Industries shall submit an annual report to the Congress on the conduct of the business of the corporation during each fiscal year, and on the condition of its funds during such fiscal year. Such report shall include a statement of the amount of obligations issued under section 4129(a)(1) during such fiscal year, and an estimate of the amount of obligations that will be so issued in the following fiscal year.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 852][/us/stat/62/852]; [Pub. L. 100–690, title VII, § 7095][/us/pl/100/690/s7095], Nov. 18, 1988, [102 Stat. 4413][/us/stat/102/4413].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 852][/us/stat/62/852]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7095, Nov. 18, 1988, [102 Stat. 4413][/us/stat/102/4413].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 744m ([June 23, 1934, ch. 736, § 5][/us/act/1934-06-23/ch736/s5], [48 Stat. 1212][/us/stat/48/1212]).
+    Based on title 18, U.S.C., 1940 ed., § 744m ([June 23, 1934, ch. 736][/us/act/1934-06-23/ch736], § 5, [48 Stat. 1212][/us/stat/48/1212]).
 
     Words “of Federal Prison Industries” were inserted after “board of directors”.
 
@@ -44,9 +44,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F852
-[/us/pl/100/690/s7095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7095
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4413
-[/us/act/1934-06-23/ch736/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-23%2Fch736%2Fs5
+[/us/act/1934-06-23/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-23%2Fch736
 [/us/stat/48/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1212
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

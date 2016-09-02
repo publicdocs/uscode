@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on [section 695g of title 28][/us/usc/t28/s695g], U.S.C., 1940 ed., Judicial Code and Judiciary ([June 20, 1936, ch. 640, § 8][/us/act/1936-06-20/ch640/s8], [49 Stat. 1564][/us/stat/49/1564]).
+    Based on [section 695g of title 28][/us/usc/t28/s695g], U.S.C., 1940 ed., Judicial Code and Judiciary ([June 20, 1936, ch. 640][/us/act/1936-06-20/ch640], § 8, [49 Stat. 1564][/us/stat/49/1564]).
 
  __Ex. Ord. No. 10307. Delegation of Authority__ 
 
@@ -42,7 +42,7 @@
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F836
 [/us/usc/t28/s695g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs695g
-[/us/act/1936-06-20/ch640/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch640%2Fs8
+[/us/act/1936-06-20/ch640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch640
 [/us/stat/49/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1564
 [/us/stat/64/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F419
 [/us/usc/t18/s3496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3496

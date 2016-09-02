@@ -19,7 +19,7 @@
 
     (b) This section shall not apply to the personnel of the Armed Forces of the United States or to officers or employees of the United States or of a State or of a political subdivision thereof, while acting in the performance of their duties, who are authorized by law or by rules or regulations to own or possess any such weapon or explosive.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 804][/us/stat/62/804]; [Pub. L. 103–322, title XXXIII, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 109–304, § 17(d)(6)][/us/pl/109/304/s17/d/6], Oct. 6, 2006, [120 Stat. 1707][/us/stat/120/1707].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 804][/us/stat/62/804]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(H), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 109–304][/us/pl/109/304], § 17(d)(6), Oct. 6, 2006, [120 Stat. 1707][/us/stat/120/1707].)
 
  __Historical and Revision Notes__ 
 
@@ -53,9 +53,9 @@
 [/us/usc/t50/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs191
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F804
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/109/304/s17/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs17%2Fd%2F6
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1707
 [/us/act/1941-12-31/ch642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-12-31%2Fch642
 [/us/stat/55/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F876

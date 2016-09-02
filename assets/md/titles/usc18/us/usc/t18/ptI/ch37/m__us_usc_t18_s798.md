@@ -69,7 +69,7 @@
 
         (5) As used in this subsection, the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-(Added [Oct. 31, 1951, ch. 655, § 24(a)][/us/act/1951-10-31/ch655/s24/a], [65 Stat. 719][/us/stat/65/719]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 103–359, title VIII, § 804(a)][/us/pl/103/359/s804/a], Oct. 14, 1994, [108 Stat. 3439][/us/stat/108/3439]; [Pub. L. 104–294, title VI, § 602(c)][/us/pl/104/294/s602/c], Oct. 11, 1996, [110 Stat. 3503][/us/stat/110/3503].)
+(Added [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 24(a), [65 Stat. 719][/us/stat/65/719]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 103–359, title VIII][/us/pl/103/359/tVIII], § 804(a), Oct. 14, 1994, [108 Stat. 3439][/us/stat/108/3439]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 602(c), Oct. 11, 1996, [110 Stat. 3503][/us/stat/110/3503].)
 
  __Codification__ 
 
@@ -93,13 +93,13 @@
 [/us/usc/t21/s853/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853%2Fb
 [/us/usc/t28/s524/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs524%2Fc
 [/us/usc/t42/s10601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10601
-[/us/act/1951-10-31/ch655/s24/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs24%2Fa
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F719
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/103/359/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs804%2Fa
+[/us/pl/103/359/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVIII
 [/us/stat/108/3439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3439
-[/us/pl/104/294/s602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs602%2Fc
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3503
 [/us/usc/t18/s798A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs798A
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294

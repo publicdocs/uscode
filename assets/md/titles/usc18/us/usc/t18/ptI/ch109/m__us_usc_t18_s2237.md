@@ -87,7 +87,7 @@
 
             (B) intentional grounding of a vessel in which persons are being transported.
 
-(Added [Pub. L. 109–177, title III, § 303(a)][/us/pl/109/177/s303/a], Mar. 9, 2006, [120 Stat. 233][/us/stat/120/233]; amended [Pub. L. 111–281, title IX, § 917][/us/pl/111/281/s917], Oct. 15, 2010, [124 Stat. 3021][/us/stat/124/3021].)
+(Added [Pub. L. 109–177, title III][/us/pl/109/177/tIII], § 303(a), Mar. 9, 2006, [120 Stat. 233][/us/stat/120/233]; amended [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 917, Oct. 15, 2010, [124 Stat. 3021][/us/stat/124/3021].)
 
  __References in Text__ 
 
@@ -95,13 +95,13 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b). [Pub. L. 111–281, § 917(a)][/us/pl/111/281/s917/a], amended subsec. (b) generally. Prior to amendment subsec. (b) read as follows: “Any person who intentionally violates this section shall be fined under this title or imprisoned for not more than 5 years, or both.”
+    2010—Subsec. (b). [Pub. L. 111–281][/us/pl/111/281], § 917(a), amended subsec. (b) generally. Prior to amendment subsec. (b) read as follows: “Any person who intentionally violates this section shall be fined under this title or imprisoned for not more than 5 years, or both.”
 
-    Subsec. (e)(3). [Pub. L. 111–281, § 917(b)(1)][/us/pl/111/281/s917/b/1], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the term ‘vessel subject to the jurisdiction of the United States’ has the meaning given the term in section 2 of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903); and”.
+    Subsec. (e)(3). [Pub. L. 111–281][/us/pl/111/281], § 917(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the term ‘vessel subject to the jurisdiction of the United States’ has the meaning given the term in section 2 of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903); and”.
 
-    Subsec. (e)(4). [Pub. L. 111–281, § 917(b)(2)][/us/pl/111/281/s917/b/2], substituted “[section 70502 of title 46][/us/usc/t46/s70502]; and” for “section 2 of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903).”
+    Subsec. (e)(4). [Pub. L. 111–281][/us/pl/111/281], § 917(b)(2), substituted “[section 70502 of title 46][/us/usc/t46/s70502]; and” for “section 2 of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903).”
 
-    Subsec. (e)(5). [Pub. L. 111–281, § 917(b)(3)][/us/pl/111/281/s917/b/3], added par. (5).
+    Subsec. (e)(5). [Pub. L. 111–281][/us/pl/111/281], § 917(b)(3), added par. (5).
 
 ----------
 
@@ -113,15 +113,15 @@
 [/us/usc/t19/s1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1581
 [/us/usc/t46/s70502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502
 [/us/usc/t46/s70502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502
-[/us/pl/109/177/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs303%2Fa
+[/us/pl/109/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIII
 [/us/stat/120/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F233
-[/us/pl/111/281/s917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs917
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3021
 [/us/usc/t8/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324
-[/us/pl/111/281/s917/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs917%2Fa
-[/us/pl/111/281/s917/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs917%2Fb%2F1
-[/us/pl/111/281/s917/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs917%2Fb%2F2
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/usc/t46/s70502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502
-[/us/pl/111/281/s917/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs917%2Fb%2F3
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 
 

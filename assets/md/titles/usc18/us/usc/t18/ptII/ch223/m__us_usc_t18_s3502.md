@@ -17,7 +17,7 @@
 
     The testimony of a witness that he saw the accused commit or participate in the commission of the crime for which the accused is being tried shall be admissible in evidence in a criminal prosecution in any trial court ordained and established under article III of the Constitution of the United States.
 
-(Added [Pub. L. 90–351, title II, § 701(a)][/us/pl/90/351/s701/a], June 19, 1968, [82 Stat. 211][/us/stat/82/211].)
+(Added [Pub. L. 90–351, title II][/us/pl/90/351/tII], § 701(a), June 19, 1968, [82 Stat. 211][/us/stat/82/211].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/351/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs701%2Fa
+[/us/pl/90/351/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtII
 [/us/stat/82/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F211
 
 

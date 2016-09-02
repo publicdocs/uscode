@@ -127,7 +127,7 @@
 
         (B) does not include a person known by the owner or operator of the protected computer to have an existing contractual relationship with the owner or operator of the protected computer for access to all or part of the protected computer.
 
-(Added [Pub. L. 90–351, title III, § 802][/us/pl/90/351/s802], June 19, 1968, [82 Stat. 212][/us/stat/82/212]; amended [Pub. L. 99–508, title I, § 101(a)][/us/pl/99/508/s101/a], (c)(1)(A), (4), Oct. 21, 1986, [100 Stat. 1848][/us/stat/100/1848], 1851; [Pub. L. 103–414, title II][/us/pl/103/414], §§ 202(a), 203, Oct. 25, 1994, [108 Stat. 4290][/us/stat/108/4290], 4291; [Pub. L. 104–132, title VII, § 731][/us/pl/104/132/s731], Apr. 24, 1996, [110 Stat. 1303][/us/stat/110/1303]; [Pub. L. 107–56, title II][/us/pl/107/56], §§ 203(b)(2), 209(1), 217(1), Oct. 26, 2001, [115 Stat. 280][/us/stat/115/280], 283, 290; [Pub. L. 107–108, title III, § 314(b)][/us/pl/107/108/s314/b], Dec. 28, 2001, [115 Stat. 1402][/us/stat/115/1402]; [Pub. L. 107–273, div. B, title IV, § 4002(e)(10)][/us/pl/107/273/s4002/e/10], Nov. 2, 2002, [116 Stat. 1810][/us/stat/116/1810].)
+(Added [Pub. L. 90–351, title III][/us/pl/90/351/tIII], § 802, June 19, 1968, [82 Stat. 212][/us/stat/82/212]; amended [Pub. L. 99–508, title I][/us/pl/99/508/tI], § 101(a), (c)(1)(A), (4), Oct. 21, 1986, [100 Stat. 1848][/us/stat/100/1848], 1851; [Pub. L. 103–414, title II][/us/pl/103/414/tII], §§ 202(a), 203, Oct. 25, 1994, [108 Stat. 4290][/us/stat/108/4290], 4291; [Pub. L. 104–132, title VII][/us/pl/104/132/tVII], § 731, Apr. 24, 1996, [110 Stat. 1303][/us/stat/110/1303]; [Pub. L. 107–56, title II][/us/pl/107/56/tII], §§ 203(b)(2), 209(1), 217(1), Oct. 26, 2001, [115 Stat. 280][/us/stat/115/280], 283, 290; [Pub. L. 107–108, title III][/us/pl/107/108/tIII], § 314(b), Dec. 28, 2001, [115 Stat. 1402][/us/stat/115/1402]; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(e)(10), Nov. 2, 2002, [116 Stat. 1810][/us/stat/116/1810].)
 
  __References in Text__ 
 
@@ -137,47 +137,47 @@
 
     2002—Par. (10). [Pub. L. 107–273][/us/pl/107/273] substituted “has the meaning given that term in section 3 of the Communications Act of 1934;” for “shall have the same meaning which is given the term ‘common carrier’ by [section 153(h) of title 47][/us/usc/t47/s153/h] of the United States Code;”.
 
-    2001—Par. (1). [Pub. L. 107–56, § 209(1)(A)][/us/pl/107/56/s209/1/A], struck out “and such term includes any electronic storage of such communication” before semicolon at end.
+    2001—Par. (1). [Pub. L. 107–56][/us/pl/107/56], § 209(1)(A), struck out “and such term includes any electronic storage of such communication” before semicolon at end.
 
-    Par. (14). [Pub. L. 107–56, § 209(1)(B)][/us/pl/107/56/s209/1/B], inserted “wire or” after “transmission of”.
+    Par. (14). [Pub. L. 107–56][/us/pl/107/56], § 209(1)(B), inserted “wire or” after “transmission of”.
 
     Par. (19). [Pub. L. 107–108][/us/pl/107/108] inserted “, for purposes of [section 2517(6) of this title][/us/usc/t18/s2517/6],” before “means” in introductory provisions.
 
-    [Pub. L. 107–56, § 203(b)(2)][/us/pl/107/56/s203/b/2], added par. (19).
+    [Pub. L. 107–56][/us/pl/107/56], § 203(b)(2), added par. (19).
 
-    Pars. (20), (21). [Pub. L. 107–56, § 217(1)][/us/pl/107/56/s217/1], added pars. (20) and (21).
+    Pars. (20), (21). [Pub. L. 107–56][/us/pl/107/56], § 217(1), added pars. (20) and (21).
 
-    1996—Par. (12)(D). [Pub. L. 104–132, § 731(1)][/us/pl/104/132/s731/1], added subpar. (D).
+    1996—Par. (12)(D). [Pub. L. 104–132][/us/pl/104/132], § 731(1), added subpar. (D).
 
-    Par. (16)(F). [Pub. L. 104–132, § 731(2)][/us/pl/104/132/s731/2], struck out subpar. (F) which read as follows: “an electronic communication;”.
+    Par. (16)(F). [Pub. L. 104–132][/us/pl/104/132], § 731(2), struck out subpar. (F) which read as follows: “an electronic communication;”.
 
-    1994—Par. (1). [Pub. L. 103–414, § 202(a)(1)][/us/pl/103/414/s202/a/1], struck out before semicolon at end “, but such term does not include the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit”.
+    1994—Par. (1). [Pub. L. 103–414][/us/pl/103/414], § 202(a)(1), struck out before semicolon at end “, but such term does not include the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit”.
 
-    Par. (12). [Pub. L. 103–414, § 202(a)(2)][/us/pl/103/414/s202/a/2], redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit;”.
+    Par. (12). [Pub. L. 103–414][/us/pl/103/414], § 202(a)(2), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit;”.
 
-    Par. (16)(F). [Pub. L. 103–414, § 203][/us/pl/103/414/s203], added subpar. (F).
+    Par. (16)(F). [Pub. L. 103–414][/us/pl/103/414], § 203, added subpar. (F).
 
-    1986—Par. (1). [Pub. L. 99–508, § 101(a)(1)][/us/pl/99/508/s101/a/1], substituted “any aural transfer” for “any communication”, inserted “(including the use of such connection in a switching station)” after “reception”, struck out “as a common carrier” after “person engaged”, and inserted “or communications affecting interstate or foreign commerce and such term includes any electronic storage of such communication, but such term does not include the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit” before the semicolon at end.
+    1986—Par. (1). [Pub. L. 99–508][/us/pl/99/508], § 101(a)(1), substituted “any aural transfer” for “any communication”, inserted “(including the use of such connection in a switching station)” after “reception”, struck out “as a common carrier” after “person engaged”, and inserted “or communications affecting interstate or foreign commerce and such term includes any electronic storage of such communication, but such term does not include the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit” before the semicolon at end.
 
-    Par. (2). [Pub. L. 99–508, § 101(a)(2)][/us/pl/99/508/s101/a/2], inserted “, but such term does not include any electronic communication” before the semicolon at end.
+    Par. (2). [Pub. L. 99–508][/us/pl/99/508], § 101(a)(2), inserted “, but such term does not include any electronic communication” before the semicolon at end.
 
-    Par. (4). [Pub. L. 99–508, § 101(a)(3)][/us/pl/99/508/s101/a/3], inserted “or other” after “aural” and “, electronic,” after “wire”.
+    Par. (4). [Pub. L. 99–508][/us/pl/99/508], § 101(a)(3), inserted “or other” after “aural” and “, electronic,” after “wire”.
 
-    Par. (5). [Pub. L. 99–508, § 101(a)(4)][/us/pl/99/508/s101/a/4], (c)(1)(A), (4), substituted “wire, oral, or electronic” for “wire or oral” in introductory provisions, substituted “provider of wire or electronic communication service” for “communications common carrier” in subpars. (a)(i) and (ii), and inserted “or furnished by such subscriber or user for connection to the facilities of such service and used in the ordinary course of its business” before the semicolon in subpar. (a)(i).
+    Par. (5). [Pub. L. 99–508][/us/pl/99/508], § 101(a)(4), (c)(1)(A), (4), substituted “wire, oral, or electronic” for “wire or oral” in introductory provisions, substituted “provider of wire or electronic communication service” for “communications common carrier” in subpars. (a)(i) and (ii), and inserted “or furnished by such subscriber or user for connection to the facilities of such service and used in the ordinary course of its business” before the semicolon in subpar. (a)(i).
 
-    Par. (8). [Pub. L. 99–508, § 101(a)(5)][/us/pl/99/508/s101/a/5], (c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” and struck out “identity of the parties to such communication or the existence,” after “concerning the”.
+    Par. (8). [Pub. L. 99–508][/us/pl/99/508], § 101(a)(5), (c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” and struck out “identity of the parties to such communication or the existence,” after “concerning the”.
 
-    Pars. (9)(b), (11). [Pub. L. 99–508, § 101(c)(1)(A)][/us/pl/99/508/s101/c/1/A], substituted “wire, oral, or electronic” for “wire or oral”.
+    Pars. (9)(b), (11). [Pub. L. 99–508][/us/pl/99/508], § 101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral”.
 
-    Pars. (12) to (18). [Pub. L. 99–508, § 101(a)(6)][/us/pl/99/508/s101/a/6], added pars. (12) to (18).
+    Pars. (12) to (18). [Pub. L. 99–508][/us/pl/99/508], § 101(a)(6), added pars. (12) to (18).
 
  __Termination Date of 2001 Amendment__ 
 
-    [Pub. L. 107–56, title II, § 224][/us/pl/107/56/s224], Oct. 26, 2001, [115 Stat. 295][/us/stat/115/295], as amended by [Pub. L. 109–160, § 1][/us/pl/109/160/s1], Dec. 30, 2005, [119 Stat. 2957][/us/stat/119/2957]; [Pub. L. 109–170, § 1][/us/pl/109/170/s1], Feb. 3, 2006, [120 Stat. 3][/us/stat/120/3], which provided that title II of [Pub. L. 107–56][/us/pl/107/56] and the amendments made by that title would cease to have effect on Mar. 10, 2006, with certain exceptions, was repealed by [Pub. L. 109–177, title I, § 102(a)][/us/pl/109/177/s102/a], Mar. 9, 2006, [120 Stat. 194][/us/stat/120/194].
+    [Pub. L. 107–56, title II][/us/pl/107/56/tII], § 224, Oct. 26, 2001, [115 Stat. 295][/us/stat/115/295], as amended by [Pub. L. 109–160][/us/pl/109/160], § 1, Dec. 30, 2005, [119 Stat. 2957][/us/stat/119/2957]; [Pub. L. 109–170][/us/pl/109/170], § 1, Feb. 3, 2006, [120 Stat. 3][/us/stat/120/3], which provided that title II of [Pub. L. 107–56][/us/pl/107/56] and the amendments made by that title would cease to have effect on Mar. 10, 2006, with certain exceptions, was repealed by [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 102(a), Mar. 9, 2006, [120 Stat. 194][/us/stat/120/194].
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–508, title I, § 111][/us/pl/99/508/s111], Oct. 21, 1986, [100 Stat. 1859][/us/stat/100/1859], provided that:
+[Pub. L. 99–508, title I][/us/pl/99/508/tI], § 111, Oct. 21, 1986, [100 Stat. 1859][/us/stat/100/1859], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -197,19 +197,19 @@
 
  __Short Title of 1997 Amendment__ 
 
-[Pub. L. 105–112, § 1][/us/pl/105/112/s1], Nov. 21, 1997, [111 Stat. 2273][/us/stat/111/2273], provided that: 
+[Pub. L. 105–112][/us/pl/105/112], § 1, Nov. 21, 1997, [111 Stat. 2273][/us/stat/111/2273], provided that: 
 
 > “This Act \[amending [section 2512 of this title][/us/usc/t18/s2512]\] may be cited as the ‘Law Enforcement Technology Advertisement Clarification Act of 1997’.”
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–508, § 1][/us/pl/99/508/s1], Oct. 21, 1986, [100 Stat. 1848][/us/stat/100/1848], provided that: 
+[Pub. L. 99–508][/us/pl/99/508], § 1, Oct. 21, 1986, [100 Stat. 1848][/us/stat/100/1848], provided that: 
 
 > “This Act \[enacting sections 1367, 2521, 2701 to 2710, 3117, and 3121 to 3126 of this title, amending sections 2232, 2511 to 2513, and 2516 to 2520 of this title, and enacting provisions set out as notes under this section and sections 2701 and 3121 of this title\] may be cited as the ‘Electronic Communications Privacy Act of 1986’.”
 
  __Intelligence Activities__ 
 
-[Pub. L. 99–508, title I, § 107][/us/pl/99/508/s107], Oct. 21, 1986, [100 Stat. 1858][/us/stat/100/1858], provided that:
+[Pub. L. 99–508, title I][/us/pl/99/508/tI], § 107, Oct. 21, 1986, [100 Stat. 1858][/us/stat/100/1858], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -227,7 +227,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 90–351, title III, § 801][/us/pl/90/351/s801], June 19, 1968, [82 Stat. 211][/us/stat/82/211], provided that: 
+[Pub. L. 90–351, title III][/us/pl/90/351/tIII], § 801, June 19, 1968, [82 Stat. 211][/us/stat/82/211], provided that: 
 
 > “On the basis of its own investigations and of published studies, the Congress makes the following findings:
 
@@ -241,7 +241,7 @@
 
  __National Commission for the Review of Federal and State Laws Relating to Wiretapping and Electronic Surveillance__ 
 
-    [Pub. L. 90–351, title III, § 804][/us/pl/90/351/s804], June 19, 1968, [82 Stat. 223][/us/stat/82/223], as amended by [Pub. L. 91–452, title XII, § 1212][/us/pl/91/452/s1212], Oct. 15, 1970, [84 Stat. 961][/us/stat/84/961]; [Pub. L. 91–644, title VI, § 20][/us/pl/91/644/s20], Jan. 2, 1971, [84 Stat. 1892][/us/stat/84/1892]; [Pub. L. 93–609][/us/pl/93/609], §§ 1–4, Jan. 2, 1975, [88 Stat. 1972][/us/stat/88/1972], 1973; [Pub. L. 94–176][/us/pl/94/176], Dec. 23, 1975, [89 Stat. 1031][/us/stat/89/1031], established a National Commission for the Review of Federal and State Laws Relating to Wiretapping and Electronic Surveillance, provided for its membership, Chairman, powers and functions, compensation and allowances, required the Commission to study and review the operation of the provisions of this chapter to determine their effectiveness and to submit interim reports and a final report to the President and to the Congress of its findings and recommendations on or before Apr. 30, 1976, and also provided for its termination sixty days after submission of the final report.
+    [Pub. L. 90–351, title III][/us/pl/90/351/tIII], § 804, June 19, 1968, [82 Stat. 223][/us/stat/82/223], as amended by [Pub. L. 91–452, title XII][/us/pl/91/452/tXII], § 1212, Oct. 15, 1970, [84 Stat. 961][/us/stat/84/961]; [Pub. L. 91–644, title VI][/us/pl/91/644/tVI], § 20, Jan. 2, 1971, [84 Stat. 1892][/us/stat/84/1892]; [Pub. L. 93–609][/us/pl/93/609], §§ 1–4, Jan. 2, 1975, [88 Stat. 1972][/us/stat/88/1972], 1973; [Pub. L. 94–176][/us/pl/94/176], Dec. 23, 1975, [89 Stat. 1031][/us/stat/89/1031], established a National Commission for the Review of Federal and State Laws Relating to Wiretapping and Electronic Surveillance, provided for its membership, Chairman, powers and functions, compensation and allowances, required the Commission to study and review the operation of the provisions of this chapter to determine their effectiveness and to submit interim reports and a final report to the President and to the Congress of its findings and recommendations on or before Apr. 30, 1976, and also provided for its termination sixty days after submission of the final report.
 
 ----------
 
@@ -252,69 +252,69 @@
 
 [/us/usc/t18/s3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3117
 [/us/usc/t18/s2517/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2517%2F6
-[/us/pl/90/351/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs802
+[/us/pl/90/351/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtIII
 [/us/stat/82/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F212
-[/us/pl/99/508/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fa
+[/us/pl/99/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtI
 [/us/stat/100/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1848
-[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtII
 [/us/stat/108/4290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4290
-[/us/pl/104/132/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs731
+[/us/pl/104/132/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVII
 [/us/stat/110/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1303
-[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F280
-[/us/pl/107/108/s314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2Fs314%2Fb
+[/us/pl/107/108/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108%2FtIII
 [/us/stat/115/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1402
-[/us/pl/107/273/s4002/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fe%2F10
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1810
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/usc/t47/s153/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153%2Fh
-[/us/pl/107/56/s209/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs209%2F1%2FA
-[/us/pl/107/56/s209/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs209%2F1%2FB
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/107/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F108
 [/us/usc/t18/s2517/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2517%2F6
-[/us/pl/107/56/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs203%2Fb%2F2
-[/us/pl/107/56/s217/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs217%2F1
-[/us/pl/104/132/s731/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs731%2F1
-[/us/pl/104/132/s731/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs731%2F2
-[/us/pl/103/414/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs202%2Fa%2F1
-[/us/pl/103/414/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs202%2Fa%2F2
-[/us/pl/103/414/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs203
-[/us/pl/99/508/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fa%2F1
-[/us/pl/99/508/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fa%2F2
-[/us/pl/99/508/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fa%2F3
-[/us/pl/99/508/s101/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fa%2F4
-[/us/pl/99/508/s101/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fa%2F5
-[/us/pl/99/508/s101/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fc%2F1%2FA
-[/us/pl/99/508/s101/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs101%2Fa%2F6
-[/us/pl/107/56/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs224
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F295
-[/us/pl/109/160/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F160%2Fs1
+[/us/pl/109/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F160
 [/us/stat/119/2957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2957
-[/us/pl/109/170/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F170%2Fs1
+[/us/pl/109/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F170
 [/us/stat/120/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
-[/us/pl/109/177/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs102%2Fa
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F194
-[/us/pl/99/508/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs111
+[/us/pl/99/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtI
 [/us/stat/100/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1859
 [/us/usc/t18/s2516/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2516%2F2
 [/us/usc/t18/s2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2516
-[/us/pl/105/112/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F112%2Fs1
+[/us/pl/105/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F112
 [/us/stat/111/2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2273
 [/us/usc/t18/s2512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2512
-[/us/pl/99/508/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs1
+[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
 [/us/stat/100/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1848
-[/us/pl/99/508/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs107
+[/us/pl/99/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtI
 [/us/stat/100/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1858
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
-[/us/pl/90/351/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs801
+[/us/pl/90/351/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtIII
 [/us/stat/82/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F211
-[/us/pl/90/351/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs804
+[/us/pl/90/351/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtIII
 [/us/stat/82/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F223
-[/us/pl/91/452/s1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs1212
+[/us/pl/91/452/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtXII
 [/us/stat/84/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F961
-[/us/pl/91/644/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F644%2Fs20
+[/us/pl/91/644/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F644%2FtVI
 [/us/stat/84/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1892
 [/us/pl/93/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F609
 [/us/stat/88/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1972

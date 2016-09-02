@@ -27,7 +27,7 @@
 
         “term of life imprisonment” means a sentence for the term of natural life, a sentence commuted to natural life, an indeterminate term of a minimum of at least fifteen years and a maximum of life, or an unexecuted sentence of death.
 
-(Added [Pub. L. 103–322, title VI, § 60005(a)][/us/pl/103/322/s60005/a], Sept. 13, 1994, [108 Stat. 1970][/us/stat/108/1970].)
+(Added [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60005(a), Sept. 13, 1994, [108 Stat. 1970][/us/stat/108/1970].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s60005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60005%2Fa
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1970
 [/us/usc/t18/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1122
 

@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    1979—[Pub. L. 96–82, § 7(c)][/us/pl/96/82/s7/c], Oct. 10, 1979, [93 Stat. 646][/us/stat/93/646], substituted “Misdemeanors” for “Minor offenses” in item 3401.
+    1979—[Pub. L. 96–82][/us/pl/96/82], § 7(c), Oct. 10, 1979, [93 Stat. 646][/us/stat/93/646], substituted “Misdemeanors” for “Minor offenses” in item 3401.
 
-    1968—[Pub. L. 90–578, title III][/us/pl/90/578], §§ 301(c), 302(c), Oct. 17, 1968, [82 Stat. 1115][/us/stat/82/1115], 1116, substituted “TRIAL BY UNITED STATES MAGISTRATES” for “TRIAL BY COMMISSIONERS” in chapter heading, and substituted “Minor offenses” for “Petty offenses” and struck out “fees” after “probation laws” in item 3401.
+    1968—[Pub. L. 90–578, title III][/us/pl/90/578/tIII], §§ 301(c), 302(c), Oct. 17, 1968, [82 Stat. 1115][/us/stat/82/1115], 1116, substituted “TRIAL BY UNITED STATES MAGISTRATES” for “TRIAL BY COMMISSIONERS” in chapter heading, and substituted “Minor offenses” for “Petty offenses” and struck out “fees” after “probation laws” in item 3401.
 
  __Change of Name__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/96/82/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F82%2Fs7%2Fc
+[/us/pl/96/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F82
 [/us/stat/93/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F646
-[/us/pl/90/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578
+[/us/pl/90/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtIII
 [/us/stat/82/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1115
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631

@@ -113,41 +113,41 @@
 
         The term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Added [Pub. L. 103–259, § 3][/us/pl/103/259/s3], May 26, 1994, [108 Stat. 694][/us/stat/108/694]; amended [Pub. L. 103–322, title XXXIII, § 330023(a)(2)][/us/pl/103/322/s330023/a/2], (3), Sept. 13, 1994, [108 Stat. 2150][/us/stat/108/2150].)
+(Added [Pub. L. 103–259][/us/pl/103/259], § 3, May 26, 1994, [108 Stat. 694][/us/stat/108/694]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330023(a)(2), (3), Sept. 13, 1994, [108 Stat. 2150][/us/stat/108/2150].)
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–322, § 330023(a)(2)][/us/pl/103/322/s330023/a/2], amended section catchline generally. Prior to amendment, catchline read as follows: “§ 248 Freedom of Access to Clinic Entrances.”
+    1994—[Pub. L. 103–322][/us/pl/103/322], § 330023(a)(2), amended section catchline generally. Prior to amendment, catchline read as follows: “§ 248 Freedom of Access to Clinic Entrances.”
 
-    Subsec. (b). [Pub. L. 103–322, § 330023(a)(3)][/us/pl/103/322/s330023/a/3], in concluding provisions, inserted “, notwithstanding section 3571,” before “be not more than $25,000”.
+    Subsec. (b). [Pub. L. 103–322][/us/pl/103/322], § 330023(a)(3), in concluding provisions, inserted “, notwithstanding section 3571,” before “be not more than $25,000”.
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–322, title XXXIII, § 330023(b)][/us/pl/103/322/s330023/b], Sept. 13, 1994, [108 Stat. 2150][/us/stat/108/2150], provided that: 
+[Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330023(b), Sept. 13, 1994, [108 Stat. 2150][/us/stat/108/2150], provided that: 
 
 > “The amendments made by this subsection (a) \[amending this section\] shall take effect on the date of enactment of the Freedom of Access to Clinic Entrances Act of 1994 \[May 26, 1994\].”
 
  __Effective Date__ 
 
-[Pub. L. 103–259, § 6][/us/pl/103/259/s6], May 26, 1994, [108 Stat. 697][/us/stat/108/697], provided that: 
+[Pub. L. 103–259][/us/pl/103/259], § 6, May 26, 1994, [108 Stat. 697][/us/stat/108/697], provided that: 
 
 > “This Act \[see Short Title note below\] takes effect on the date of the enactment of this Act \[May 26, 1994\], and shall apply only with respect to conduct occurring on or after such date.”
 
  __Short Title__ 
 
-[Pub. L. 103–259, § 1][/us/pl/103/259/s1], May 26, 1994, [108 Stat. 694][/us/stat/108/694], provided that: 
+[Pub. L. 103–259][/us/pl/103/259], § 1, May 26, 1994, [108 Stat. 694][/us/stat/108/694], provided that: 
 
 > “This Act \[enacting this section and provisions set out as notes under this section\] may be cited as the ‘Freedom of Access to Clinic Entrances Act of 1994’.”
 
  __Severability of Provisions__ 
 
-[Pub. L. 103–259, § 5][/us/pl/103/259/s5], May 26, 1994, [108 Stat. 697][/us/stat/108/697], provided that: 
+[Pub. L. 103–259][/us/pl/103/259], § 5, May 26, 1994, [108 Stat. 697][/us/stat/108/697], provided that: 
 
 > “If any provision of this Act \[see Short Title note above\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any other person or circumstance shall not be affected thereby.”
 
  __Congressional Statement of Purpose__ 
 
-[Pub. L. 103–259, § 2][/us/pl/103/259/s2], May 26, 1994, [108 Stat. 694][/us/stat/108/694], provided that: 
+[Pub. L. 103–259][/us/pl/103/259], § 2, May 26, 1994, [108 Stat. 694][/us/stat/108/694], provided that: 
 
 > “Pursuant to the affirmative power of Congress to enact this legislation under section 8 of article I of the Constitution, as well as under section 5 of the fourteenth amendment to the Constitution, it is the purpose of this Act \[see Short Title note above\] to protect and promote the public safety and health and activities affecting interstate commerce by establishing Federal criminal penalties and civil remedies for certain violent, threatening, obstructive and destructive conduct that is intended to injure, intimidate or interfere with persons seeking to obtain or provide reproductive health services.”
 
@@ -158,21 +158,21 @@
 ----------
 ----------
 
-[/us/pl/103/259/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F259%2Fs3
+[/us/pl/103/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F259
 [/us/stat/108/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F694
-[/us/pl/103/322/s330023/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330023%2Fa%2F2
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2150
-[/us/pl/103/322/s330023/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330023%2Fa%2F2
-[/us/pl/103/322/s330023/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330023%2Fa%2F3
-[/us/pl/103/322/s330023/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330023%2Fb
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2150
-[/us/pl/103/259/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F259%2Fs6
+[/us/pl/103/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F259
 [/us/stat/108/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F697
-[/us/pl/103/259/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F259%2Fs1
+[/us/pl/103/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F259
 [/us/stat/108/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F694
-[/us/pl/103/259/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F259%2Fs5
+[/us/pl/103/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F259
 [/us/stat/108/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F697
-[/us/pl/103/259/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F259%2Fs2
+[/us/pl/103/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F259
 [/us/stat/108/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F694
 
 

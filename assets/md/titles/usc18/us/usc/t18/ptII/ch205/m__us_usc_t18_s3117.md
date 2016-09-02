@@ -23,7 +23,7 @@
 
     As used in this section, the term “tracking device” means an electronic or mechanical device which permits the tracking of the movement of a person or object.
 
-(Added [Pub. L. 99–508, title I, § 108(a)][/us/pl/99/508/s108/a], Oct. 21, 1986, [100 Stat. 1858][/us/stat/100/1858].)
+(Added [Pub. L. 99–508, title I][/us/pl/99/508/tI], § 108(a), Oct. 21, 1986, [100 Stat. 1858][/us/stat/100/1858].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/99/508/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs108%2Fa
+[/us/pl/99/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtI
 [/us/stat/100/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1858
 [/us/usc/t18/s3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3118
 [/us/pl/99/508/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs111

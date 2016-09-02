@@ -21,13 +21,13 @@
 
     (2) an individual shall be presumed to be under the influence of drugs if the quantity of the drug in the system of the individual would be sufficient to impair the perception, mental processes, or motor functions of the average individual.
 
-(Added [Pub. L. 99–570, title I, § 1971(a)][/us/pl/99/570/s1971/a], Oct. 27, 1986, [100 Stat. 3207–59][/us/stat/100/3207-59]; amended [Pub. L. 100–690, title VI, § 6473(c)][/us/pl/100/690/s6473/c], Nov. 18, 1988, [102 Stat. 4379][/us/stat/102/4379].)
+(Added [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1971(a), Oct. 27, 1986, [100 Stat. 3207–59][/us/stat/100/3207-59]; amended [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6473(c), Nov. 18, 1988, [102 Stat. 4379][/us/stat/102/4379].)
 
  __Amendments__ 
 
-    1988—Par. (1). [Pub. L. 100–690, § 6473(c)(1)][/us/pl/100/690/s6473/c/1], substituted “.10 percent” for “.10” and struck out “conclusively” after “shall be”.
+    1988—Par. (1). [Pub. L. 100–690][/us/pl/100/690], § 6473(c)(1), substituted “.10 percent” for “.10” and struck out “conclusively” after “shall be”.
 
-    Par. (2). [Pub. L. 100–690, § 6473(c)(2)][/us/pl/100/690/s6473/c/2], struck out “conclusively” after “shall be”.
+    Par. (2). [Pub. L. 100–690][/us/pl/100/690], § 6473(c)(2), struck out “conclusively” after “shall be”.
 
 ----------
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/99/570/s1971/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1971%2Fa
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-59
-[/us/pl/100/690/s6473/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6473%2Fc
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4379
-[/us/pl/100/690/s6473/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6473%2Fc%2F1
-[/us/pl/100/690/s6473/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6473%2Fc%2F2
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 
 

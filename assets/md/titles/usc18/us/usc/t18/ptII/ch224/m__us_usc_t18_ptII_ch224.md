@@ -91,7 +91,7 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–647, title XXXV, § 3581][/us/pl/101/647/s3581], Nov. 29, 1990, [104 Stat. 4929][/us/stat/104/4929], substituted “State governments; reimbursement of expenses” for “State governments” in item 3526.
+    1990—[Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3581, Nov. 29, 1990, [104 Stat. 4929][/us/stat/104/4929], substituted “State governments; reimbursement of expenses” for “State governments” in item 3526.
 
 ----------
 
@@ -100,7 +100,7 @@
 ----------
 ----------
 
-[/us/pl/101/647/s3581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3581
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4929
 
 

@@ -181,39 +181,39 @@
 
     In addition to any other criminal, civil, or administrative liability or penalty, any legal entity located within the United States or organized under the laws of the United States, including any of the laws of its States, districts, commonwealths, territories, or possessions, shall be liable to the United States for the sum of at least $10,000, if a person responsible for the management or control of that legal entity has, in that capacity, committed an offense set forth in subsection (a).
 
-(Added [Pub. L. 107–197, title II, § 202(a)][/us/pl/107/197/s202/a], June 25, 2002, [116 Stat. 724][/us/stat/116/724]; amended [Pub. L. 107–273, div. B, title IV, § 4006][/us/pl/107/273/s4006], Nov. 2, 2002, [116 Stat. 1813][/us/stat/116/1813]; [Pub. L. 108–458, title VI, § 6604][/us/pl/108/458/s6604], Dec. 17, 2004, [118 Stat. 3764][/us/stat/118/3764]; [Pub. L. 109–177, title IV, § 408][/us/pl/109/177/s408], Mar. 9, 2006, [120 Stat. 245][/us/stat/120/245].)
+(Added [Pub. L. 107–197, title II][/us/pl/107/197/tII], § 202(a), June 25, 2002, [116 Stat. 724][/us/stat/116/724]; amended [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4006, Nov. 2, 2002, [116 Stat. 1813][/us/stat/116/1813]; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6604, Dec. 17, 2004, [118 Stat. 3764][/us/stat/118/3764]; [Pub. L. 109–177, title IV][/us/pl/109/177/tIV], § 408, Mar. 9, 2006, [120 Stat. 245][/us/stat/120/245].)
 
  __References in Text__ 
 
-    Section 1365(g)(3), referred to in subsec. (e)(11), was redesignated section 1365(h)(3) by [Pub. L. 107–307, § 2(1)][/us/pl/107/307/s2/1], Dec. 2, 2002, [116 Stat. 2445][/us/stat/116/2445].
+    Section 1365(g)(3), referred to in subsec. (e)(11), was redesignated section 1365(h)(3) by [Pub. L. 107–307][/us/pl/107/307], § 2(1), Dec. 2, 2002, [116 Stat. 2445][/us/stat/116/2445].
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–177][/us/pl/109/177] amended directory language of [Pub. L. 108–458, § 6604][/us/pl/108/458/s6604]. See 2004 Amendment notes below.
+    2006—[Pub. L. 109–177][/us/pl/109/177] amended directory language of [Pub. L. 108–458][/us/pl/108/458], § 6604. See 2004 Amendment notes below.
 
-    2004—Subsec. (c)(2). [Pub. L. 108–458, § 6604(a)(1)][/us/pl/108/458/s6604/a/1], as amended by [Pub. L. 109–177, § 408(1)][/us/pl/109/177/s408/1], substituted “or resources, or any funds or proceeds of such funds” for “, resources, or funds” in introductory provisions.
+    2004—Subsec. (c)(2). [Pub. L. 108–458][/us/pl/108/458], § 6604(a)(1), as amended by [Pub. L. 109–177][/us/pl/109/177], § 408(1), substituted “or resources, or any funds or proceeds of such funds” for “, resources, or funds” in introductory provisions.
 
-    Subsec. (c)(2)(A). [Pub. L. 108–458, § 6604(a)(2)][/us/pl/108/458/s6604/a/2], as amended by [Pub. L. 109–177, § 408(1)][/us/pl/109/177/s408/1], substituted “are to be provided, or knowing that the support or resources were provided,” for “were provided”.
+    Subsec. (c)(2)(A). [Pub. L. 108–458][/us/pl/108/458], § 6604(a)(2), as amended by [Pub. L. 109–177][/us/pl/109/177], § 408(1), substituted “are to be provided, or knowing that the support or resources were provided,” for “were provided”.
 
-    Subsec. (c)(2)(B). [Pub. L. 108–458, § 6604(a)(3)][/us/pl/108/458/s6604/a/3], as amended by [Pub. L. 109–177, § 408(1)][/us/pl/109/177/s408/1], struck out “or any proceeds of such funds” after “any such funds” and substituted “are to be provided or collected, or knowing that the funds were provided or collected,” for “were provided or collected”.
+    Subsec. (c)(2)(B). [Pub. L. 108–458][/us/pl/108/458], § 6604(a)(3), as amended by [Pub. L. 109–177][/us/pl/109/177], § 408(1), struck out “or any proceeds of such funds” after “any such funds” and substituted “are to be provided or collected, or knowing that the funds were provided or collected,” for “were provided or collected”.
 
-    Subsec. (e)(13), (14). [Pub. L. 108–458, § 6604(b)][/us/pl/108/458/s6604/b], as amended by [Pub. L. 109–177, § 408(2)][/us/pl/109/177/s408/2], added par. (13) and redesignated former par. (13) as (14).
+    Subsec. (e)(13), (14). [Pub. L. 108–458][/us/pl/108/458], § 6604(b), as amended by [Pub. L. 109–177][/us/pl/109/177], § 408(2), added par. (13) and redesignated former par. (13) as (14).
 
     2002—Subsec. (a)(1). [Pub. L. 107–273][/us/pl/107/273] substituted “described in subsection (b)” for “described in subsection (c)”.
 
  __Effective Date of 2006 Amendment__ 
 
-    [Pub. L. 109–177, title IV, § 408][/us/pl/109/177/s408], Mar. 9, 2006, [120 Stat. 245][/us/stat/120/245], provided that the amendment by [Pub. L. 109–177][/us/pl/109/177] to [section 6604 of Pub. L. 108–458][/us/pl/108/458/s6604] (amending this section) is effective on the date of enactment of [Pub. L. 108–458][/us/pl/108/458] (Dec. 17, 2004).
+    [Pub. L. 109–177, title IV][/us/pl/109/177/tIV], § 408, Mar. 9, 2006, [120 Stat. 245][/us/stat/120/245], provided that the amendment by [Pub. L. 109–177][/us/pl/109/177] to [section 6604 of Pub. L. 108–458][/us/pl/108/458/s6604] (amending this section) is effective on the date of enactment of [Pub. L. 108–458][/us/pl/108/458] (Dec. 17, 2004).
 
  __Effective Date__ 
 
-[Pub. L. 107–197, title II, § 203][/us/pl/107/197/s203], June 25, 2002, [116 Stat. 727][/us/stat/116/727], provided that: 
+[Pub. L. 107–197, title II][/us/pl/107/197/tII], § 203, June 25, 2002, [116 Stat. 727][/us/stat/116/727], provided that: 
 
 > “Except for paragraphs (1)(D) and (2)(B) of [section 2339C(b) of title 18][/us/usc/t18/s2339C/b], United States Code, which shall become effective on the date that the International Convention for the Suppression of the Financing of Terrorism enters into force for the United States \[July 26, 2002\], and for the provisions of [section 2339C(e)(7)(I) of title 18][/us/usc/t18/s2339C/e/7/I], United States Code, which shall become effective on the date that the International Convention for the Suppression of Terrorist Bombing enters into force for the United States \[July 26, 2002\], section 202 \[enacting this section and provisions set out as a note below\] shall take effect on the date of enactment of this Act \[June 25, 2002\].”
 
  __Disclaimer__ 
 
-[Pub. L. 107–197, title II, § 202(c)][/us/pl/107/197/s202/c], June 25, 2002, [116 Stat. 727][/us/stat/116/727], provided that: 
+[Pub. L. 107–197, title II][/us/pl/107/197/tII], § 202(c), June 25, 2002, [116 Stat. 727][/us/stat/116/727], provided that: 
 
 > “Nothing contained in this section \[enacting this section\] is intended to affect the scope or applicability of any other Federal or State law.”
 
@@ -229,37 +229,37 @@
 [/us/usc/t18/s1365/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1365%2Fg%2F3
 [/us/usc/t8/s1101/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F22
 [/us/usc/t18/s2339B/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2339B%2Fg%2F4
-[/us/pl/107/197/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197%2Fs202%2Fa
+[/us/pl/107/197/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197%2FtII
 [/us/stat/116/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F724
-[/us/pl/107/273/s4006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4006
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1813
-[/us/pl/108/458/s6604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6604
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3764
-[/us/pl/109/177/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs408
+[/us/pl/109/177/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIV
 [/us/stat/120/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F245
-[/us/pl/107/307/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F307%2Fs2%2F1
+[/us/pl/107/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F307
 [/us/stat/116/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2445
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
-[/us/pl/108/458/s6604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6604
-[/us/pl/108/458/s6604/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6604%2Fa%2F1
-[/us/pl/109/177/s408/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs408%2F1
-[/us/pl/108/458/s6604/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6604%2Fa%2F2
-[/us/pl/109/177/s408/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs408%2F1
-[/us/pl/108/458/s6604/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6604%2Fa%2F3
-[/us/pl/109/177/s408/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs408%2F1
-[/us/pl/108/458/s6604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6604%2Fb
-[/us/pl/109/177/s408/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs408%2F2
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/109/177/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs408
+[/us/pl/109/177/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIV
 [/us/stat/120/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F245
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/108/458/s6604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6604
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/107/197/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197%2Fs203
+[/us/pl/107/197/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197%2FtII
 [/us/stat/116/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F727
 [/us/usc/t18/s2339C/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2339C%2Fb
 [/us/usc/t18/s2339C/e/7/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2339C%2Fe%2F7%2FI
-[/us/pl/107/197/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197%2Fs202%2Fc
+[/us/pl/107/197/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197%2FtII
 [/us/stat/116/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F727
 
 

@@ -49,11 +49,11 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–177, title I, § 110(b)(1)][/us/pl/109/177/s110/b/1], Mar. 9, 2006, [120 Stat. 208][/us/stat/120/208], substituted “RAILROAD CARRIERS AND MASS TRANSPORTATION SYSTEMS ON LAND, ON WATER, OR THROUGH THE AIR” for “RAILROADS” in chapter heading, added item 1992, and struck out former items 1992 “Wrecking trains” and 1993 “Terrorist attacks and other acts of violence against public transportation systems”.
+    2006—[Pub. L. 109–177, title I][/us/pl/109/177/tI], § 110(b)(1), Mar. 9, 2006, [120 Stat. 208][/us/stat/120/208], substituted “RAILROAD CARRIERS AND MASS TRANSPORTATION SYSTEMS ON LAND, ON WATER, OR THROUGH THE AIR” for “RAILROADS” in chapter heading, added item 1992, and struck out former items 1992 “Wrecking trains” and 1993 “Terrorist attacks and other acts of violence against public transportation systems”.
 
-    2005—[Pub. L. 109–59, title III, § 3042(b)][/us/pl/109/59/s3042/b], Aug. 10, 2005, [119 Stat. 1640][/us/stat/119/1640], substituted “public transportation” for “mass transportation” in item 1993.
+    2005—[Pub. L. 109–59, title III][/us/pl/109/59/tIII], § 3042(b), Aug. 10, 2005, [119 Stat. 1640][/us/stat/119/1640], substituted “public transportation” for “mass transportation” in item 1993.
 
-    2001—[Pub. L. 107–56, title VIII, § 801(f)][/us/pl/107/56/s801/f], Oct. 26, 2001, [115 Stat. 376][/us/stat/115/376], added item 1993.
+    2001—[Pub. L. 107–56, title VIII][/us/pl/107/56/tVIII], § 801(f), Oct. 26, 2001, [115 Stat. 376][/us/stat/115/376], added item 1993.
 
 ----------
 
@@ -62,11 +62,11 @@
 ----------
 ----------
 
-[/us/pl/109/177/s110/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs110%2Fb%2F1
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F208
-[/us/pl/109/59/s3042/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs3042%2Fb
+[/us/pl/109/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIII
 [/us/stat/119/1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1640
-[/us/pl/107/56/s801/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs801%2Ff
+[/us/pl/107/56/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtVIII
 [/us/stat/115/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F376
 
 

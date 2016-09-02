@@ -85,7 +85,7 @@
 
         (6) the term “supply chain” includes manufacturer, wholesaler, repacker, own-labeled distributor, private-label distributor, jobber, broker, drug trader, transportation company, hospital, pharmacy, or security company.
 
-(Added [Pub. L. 112–186, § 2(a)][/us/pl/112/186/s2/a], Oct. 5, 2012, [126 Stat. 1427][/us/stat/126/1427].)
+(Added [Pub. L. 112–186][/us/pl/112/186], § 2(a), Oct. 5, 2012, [126 Stat. 1427][/us/stat/126/1427].)
 
  __References in Text__ 
 
@@ -97,7 +97,7 @@
 
  __Priority Given to Certain Investigations and Prosecutions__ 
 
-[Pub. L. 112–186, § 4(e)][/us/pl/112/186/s4/e], Oct. 5, 2012, [126 Stat. 1429][/us/stat/126/1429], provided that: 
+[Pub. L. 112–186][/us/pl/112/186], § 4(e), Oct. 5, 2012, [126 Stat. 1429][/us/stat/126/1429], provided that: 
 
 > “The Attorney General shall give increased priority to efforts to investigate and prosecute offenses under [section 670 of title 18][/us/usc/t18/s670], United States Code, that involve pre-retail medical products.”
 
@@ -108,12 +108,12 @@
 ----------
 ----------
 
-[/us/pl/112/186/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F186%2Fs2%2Fa
+[/us/pl/112/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F186
 [/us/stat/126/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1427
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t21/s360ee/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ee%2Fb
-[/us/pl/112/186/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F186%2Fs4%2Fe
+[/us/pl/112/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F186
 [/us/stat/126/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1429
 [/us/usc/t18/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs670
 

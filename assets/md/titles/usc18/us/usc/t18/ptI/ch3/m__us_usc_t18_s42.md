@@ -37,7 +37,7 @@
 
         (2) the presence in such vessel or conveyance at such time of a substantial ratio of dead, crippled, diseased, or starving wild animals or birds shall be deemed prima facie evidence of the violation of the provisions of this subsection.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 687][/us/stat/62/687]; [May 24, 1949, ch. 139, § 2][/us/act/1949-05-24/ch139/s2], [63 Stat. 89][/us/stat/63/89]; [Pub. L. 86–702, § 1][/us/pl/86/702/s1], Sept. 2, 1960, [74 Stat. 753][/us/stat/74/753]; [Pub. L. 97–79, § 9(d)][/us/pl/97/79/s9/d], Nov. 16, 1981, [95 Stat. 1079][/us/stat/95/1079]; [Pub. L. 101–646, title I, § 1208][/us/pl/101/646/s1208], Nov. 29, 1990, [104 Stat. 4772][/us/stat/104/4772]; [Pub. L. 102–237, title X, § 1013(e)][/us/pl/102/237/s1013/e], Dec. 13, 1991, [105 Stat. 1901][/us/stat/105/1901]; [Pub. L. 103–322, title XXXIII, § 330016(1)(G)][/us/pl/103/322/s330016/1/G], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–332, § 2(h)(1)][/us/pl/104/332/s2/h/1], Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091]; [Pub. L. 111–307, § 2][/us/pl/111/307/s2], Dec. 14, 2010, [124 Stat. 3282][/us/stat/124/3282].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 687][/us/stat/62/687]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 2, [63 Stat. 89][/us/stat/63/89]; [Pub. L. 86–702][/us/pl/86/702], § 1, Sept. 2, 1960, [74 Stat. 753][/us/stat/74/753]; [Pub. L. 97–79][/us/pl/97/79], § 9(d), Nov. 16, 1981, [95 Stat. 1079][/us/stat/95/1079]; [Pub. L. 101–646, title I][/us/pl/101/646/tI], § 1208, Nov. 29, 1990, [104 Stat. 4772][/us/stat/104/4772]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1013(e), Dec. 13, 1991, [105 Stat. 1901][/us/stat/105/1901]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(G), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–332][/us/pl/104/332], § 2(h)(1), Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091]; [Pub. L. 111–307][/us/pl/111/307], § 2, Dec. 14, 2010, [124 Stat. 3282][/us/stat/124/3282].)
 
  __Historical and Revision Notes__ 
 
@@ -65,7 +65,7 @@
 
     The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(1), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Foods and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21][/us/usc/t21/s301] and Tables.
 
-    The Federal Plant Pest Act, referred to in subsec. (a)(1), is [Pub. L. 85–36, title I][/us/pl/85/36], May 23, 1957, [71 Stat. 31][/us/stat/71/31], as amended, which was classified generally to chapter 7B (§ 150aa et seq.) of Title 7, Agriculture, prior to repeal by [Pub. L. 106–224, title IV, § 438(a)(2)][/us/pl/106/224/s438/a/2], June 20, 2000, [114 Stat. 454][/us/stat/114/454]. For complete classification of this Act to the Code, see Tables.
+    The Federal Plant Pest Act, referred to in subsec. (a)(1), is [Pub. L. 85–36, title I][/us/pl/85/36/tI], May 23, 1957, [71 Stat. 31][/us/stat/71/31], as amended, which was classified generally to chapter 7B (§ 150aa et seq.) of Title 7, Agriculture, prior to repeal by [Pub. L. 106–224, title IV][/us/pl/106/224/tIV], § 438(a)(2), June 20, 2000, [114 Stat. 454][/us/stat/114/454]. For complete classification of this Act to the Code, see Tables.
 
     This Act, referred to in subsec. (a)(3), probably refers to [Pub. L. 86–702][/us/pl/86/702], which amended this section and [section 43 of this title][/us/usc/t18/s43].
 
@@ -75,7 +75,7 @@
 
     2010—Subsec. (a)(1). [Pub. L. 111–307][/us/pl/111/307] inserted “of the bighead carp of the species Hypophthalmichthys nobilis;” after “Dreissena polymorpha;”.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–332][/us/pl/104/332] made technical amendment to [Pub. L. 101–646, § 1208][/us/pl/101/646/s1208]. See 1990 Amendment note below.
+    1996—Subsec. (a)(1). [Pub. L. 104–332][/us/pl/104/332] made technical amendment to [Pub. L. 101–646][/us/pl/101/646], § 1208. See 1990 Amendment note below.
 
     1994—Subsec. (b). [Pub. L. 103–322][/us/pl/103/322] substituted “fined under this title” for “fined not more than $500”.
 
@@ -116,21 +116,21 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F687
-[/us/act/1949-05-24/ch139/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs2
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F89
-[/us/pl/86/702/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F702%2Fs1
+[/us/pl/86/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F702
 [/us/stat/74/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F753
-[/us/pl/97/79/s9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79%2Fs9%2Fd
+[/us/pl/97/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79
 [/us/stat/95/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1079
-[/us/pl/101/646/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1208
+[/us/pl/101/646/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtI
 [/us/stat/104/4772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4772
-[/us/pl/102/237/s1013/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1013%2Fe
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1901
-[/us/pl/103/322/s330016/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FG
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/104/332/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fh%2F1
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/stat/110/4091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4091
-[/us/pl/111/307/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F307%2Fs2
+[/us/pl/111/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F307
 [/us/stat/124/3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3282
 [/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1137
@@ -148,16 +148,16 @@
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/85/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F36
+[/us/pl/85/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F36%2FtI
 [/us/stat/71/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F31
-[/us/pl/106/224/s438/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs438%2Fa%2F2
+[/us/pl/106/224/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2FtIV
 [/us/stat/114/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F454
 [/us/pl/86/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F702
 [/us/usc/t18/s43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs43
 [/us/pl/97/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79
 [/us/pl/111/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F307
 [/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
-[/us/pl/101/646/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1208
+[/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646

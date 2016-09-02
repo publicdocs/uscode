@@ -17,11 +17,11 @@
 
     It shall be unlawful for any person to intimidate, threaten, command, or coerce, or attempt to intimidate, threaten, command, or coerce, any employee of the Federal Government as defined in [section 7322(1) of title 5][/us/usc/t5/s7322/1], United States Code, to engage in, or not to engage in, any political activity, including, but not limited to, voting or refusing to vote for any candidate or measure in any election, making or refusing to make any political contribution, or working or refusing to work on behalf of any candidate. Any person who violates this section shall be fined under this title or imprisoned not more than three years, or both.
 
-(Added [Pub. L. 103–94, § 4(c)(1)][/us/pl/103/94/s4/c/1], Oct. 6, 1993, [107 Stat. 1005][/us/stat/107/1005]; amended [Pub. L. 104–294, title VI, § 601(a)(1)][/us/pl/104/294/s601/a/1], Oct. 11, 1996, [110 Stat. 3497][/us/stat/110/3497].)
+(Added [Pub. L. 103–94][/us/pl/103/94], § 4(c)(1), Oct. 6, 1993, [107 Stat. 1005][/us/stat/107/1005]; amended [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(a)(1), Oct. 11, 1996, [110 Stat. 3497][/us/stat/110/3497].)
 
  __Prior Provisions__ 
 
-    A prior section 610, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 723][/us/stat/62/723]; [May 24, 1949, ch. 139, § 10][/us/act/1949-05-24/ch139/s10], [63 Stat. 90][/us/stat/63/90]; [Oct. 31, 1951, ch. 655, § 20(c)][/us/act/1951-10-31/ch655/s20/c], [65 Stat. 718][/us/stat/65/718]; Feb. 7, 1972, [Pub. L. 92–225, title II, § 205][/us/pl/92/225/s205], [86 Stat. 10][/us/stat/86/10]; Oct. 15, 1974, [Pub. L. 93–443, title I, § 101(e)(1)][/us/pl/93/443/s101/e/1], [88 Stat. 1267][/us/stat/88/1267], prohibited campaign contributions or expenditures by national banks, corporations, and labor organizations, prior to repeal by [Pub. L. 94–283, title II, § 201(a)][/us/pl/94/283/s201/a], May 11, 1976, [90 Stat. 496][/us/stat/90/496]. See [section 30118 of Title 52][/us/usc/t52/s30118], Voting and Elections.
+    A prior section 610, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 723][/us/stat/62/723]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 10, [63 Stat. 90][/us/stat/63/90]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 20(c), [65 Stat. 718][/us/stat/65/718]; Feb. 7, 1972, [Pub. L. 92–225, title II][/us/pl/92/225/tII], § 205, [86 Stat. 10][/us/stat/86/10]; Oct. 15, 1974, [Pub. L. 93–443, title I][/us/pl/93/443/tI], § 101(e)(1), [88 Stat. 1267][/us/stat/88/1267], prohibited campaign contributions or expenditures by national banks, corporations, and labor organizations, prior to repeal by [Pub. L. 94–283, title II][/us/pl/94/283/tII], § 201(a), May 11, 1976, [90 Stat. 496][/us/stat/90/496]. See [section 30118 of Title 52][/us/usc/t52/s30118], Voting and Elections.
 
  __Amendments__ 
 
@@ -39,21 +39,21 @@
 ----------
 
 [/us/usc/t5/s7322/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7322%2F1
-[/us/pl/103/94/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94%2Fs4%2Fc%2F1
+[/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/stat/107/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1005
-[/us/pl/104/294/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fa%2F1
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3497
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F723
-[/us/act/1949-05-24/ch139/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs10
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F90
-[/us/act/1951-10-31/ch655/s20/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs20%2Fc
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F718
-[/us/pl/92/225/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs205
+[/us/pl/92/225/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2FtII
 [/us/stat/86/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F10
-[/us/pl/93/443/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs101%2Fe%2F1
+[/us/pl/93/443/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtI
 [/us/stat/88/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1267
-[/us/pl/94/283/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs201%2Fa
+[/us/pl/94/283/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtII
 [/us/stat/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F496
 [/us/usc/t52/s30118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30118
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294

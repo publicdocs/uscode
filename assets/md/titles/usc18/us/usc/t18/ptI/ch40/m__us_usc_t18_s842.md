@@ -179,7 +179,7 @@
 
             (B) to teach or demonstrate to any person the making or use of an explosive, a destructive device, or a weapon of mass destruction, or to distribute to any person, by any means, information pertaining to, in whole or in part, the manufacture or use of an explosive, destructive device, or weapon of mass destruction, knowing that such person intends to use the teaching, demonstration, or information for, or in furtherance of, an activity that constitutes a Federal crime of violence.
 
-(Added [Pub. L. 91–452, title XI, § 1102(a)][/us/pl/91/452/s1102/a], Oct. 15, 1970, [84 Stat. 953][/us/stat/84/953]; amended [Pub. L. 100–690, title VI, § 6474(c)][/us/pl/100/690/s6474/c], (d), Nov. 18, 1988, [102 Stat. 4380][/us/stat/102/4380]; [Pub. L. 101–647, title XXXV, § 3521][/us/pl/101/647/s3521], Nov. 29, 1990, [104 Stat. 4923][/us/stat/104/4923]; [Pub. L. 103–322, title XI][/us/pl/103/322], §§ 110508, 110516, Sept. 13, 1994, [108 Stat. 2018][/us/stat/108/2018], 2020; [Pub. L. 104–132, title VI, § 603][/us/pl/104/132/s603], title VII, § 707, Apr. 24, 1996, [110 Stat. 1289][/us/stat/110/1289], 1296; [Pub. L. 106–54, § 2(a)][/us/pl/106/54/s2/a], Aug. 17, 1999, [113 Stat. 398][/us/stat/113/398]; [Pub. L. 107–296, title XI][/us/pl/107/296], §§ 1112(e)(3), 1122(b), 1123, Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276], 2280, 2283; [Pub. L. 108–177, title III, § 372][/us/pl/108/177/s372], Dec. 13, 2003, [117 Stat. 2627][/us/stat/117/2627].)
+(Added [Pub. L. 91–452, title XI][/us/pl/91/452/tXI], § 1102(a), Oct. 15, 1970, [84 Stat. 953][/us/stat/84/953]; amended [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6474(c), (d), Nov. 18, 1988, [102 Stat. 4380][/us/stat/102/4380]; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3521, Nov. 29, 1990, [104 Stat. 4923][/us/stat/104/4923]; [Pub. L. 103–322, title XI][/us/pl/103/322/tXI], §§ 110508, 110516, Sept. 13, 1994, [108 Stat. 2018][/us/stat/108/2018], 2020; [Pub. L. 104–132, title VI][/us/pl/104/132/tVI], § 603, title VII, § 707, Apr. 24, 1996, [110 Stat. 1289][/us/stat/110/1289], 1296; [Pub. L. 106–54][/us/pl/106/54], § 2(a), Aug. 17, 1999, [113 Stat. 398][/us/stat/113/398]; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], §§ 1112(e)(3), 1122(b), 1123, Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276], 2280, 2283; [Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 372, Dec. 13, 2003, [117 Stat. 2627][/us/stat/117/2627].)
 
  __References in Text__ 
 
@@ -189,33 +189,33 @@
 
  __Amendments__ 
 
-    2003—Subsec. (d)(7)(A). [Pub. L. 108–177, § 372(a)(1)][/us/pl/108/177/s372/a/1], struck out “or” at end.
+    2003—Subsec. (d)(7)(A). [Pub. L. 108–177][/us/pl/108/177], § 372(a)(1), struck out “or” at end.
 
-    Subsec. (d)(7)(B). [Pub. L. 108–177, § 372(a)(2)][/us/pl/108/177/s372/a/2], inserted “or” at end of cl. (i) and struck out cls. (iii) and (iv) which read as follows:
-
-    “(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary in consultation with the Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the United States under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
-
-    “(iv) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;”.
-
-    Subsec. (d)(7)(C), (D). [Pub. L. 108–177, § 372(a)(3)][/us/pl/108/177/s372/a/3], added subpars. (C) and (D).
-
-    Subsec. (i)(5)(A). [Pub. L. 108–177, § 372(b)(1)][/us/pl/108/177/s372/b/1], struck out “or” at end.
-
-    Subsec. (i)(5)(B). [Pub. L. 108–177, § 372(b)(2)][/us/pl/108/177/s372/b/2], inserted “or” at end of cl. (i) and struck out cls. (iii) and (iv) which read as follows:
+    Subsec. (d)(7)(B). [Pub. L. 108–177][/us/pl/108/177], § 372(a)(2), inserted “or” at end of cl. (i) and struck out cls. (iii) and (iv) which read as follows:
 
     “(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary in consultation with the Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the United States under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
 
     “(iv) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;”.
 
-    Subsec. (i)(5)(C), (D). [Pub. L. 108–177, § 372(b)(3)][/us/pl/108/177/s372/b/3], added subpars. (C) and (D).
+    Subsec. (d)(7)(C), (D). [Pub. L. 108–177][/us/pl/108/177], § 372(a)(3), added subpars. (C) and (D).
 
-    2002—Subsec. (a)(3), (4). [Pub. L. 107–296, § 1122(b)(1)][/us/pl/107/296/s1122/b/1], (2), added pars. (3) and (4) and struck out former par. (3) which read as follows: “other than a licensee or permittee knowingly—
+    Subsec. (i)(5)(A). [Pub. L. 108–177][/us/pl/108/177], § 372(b)(1), struck out “or” at end.
+
+    Subsec. (i)(5)(B). [Pub. L. 108–177][/us/pl/108/177], § 372(b)(2), inserted “or” at end of cl. (i) and struck out cls. (iii) and (iv) which read as follows:
+
+    “(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary in consultation with the Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the United States under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
+
+    “(iv) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;”.
+
+    Subsec. (i)(5)(C), (D). [Pub. L. 108–177][/us/pl/108/177], § 372(b)(3), added subpars. (C) and (D).
+
+    2002—Subsec. (a)(3), (4). [Pub. L. 107–296][/us/pl/107/296], § 1122(b)(1), (2), added pars. (3) and (4) and struck out former par. (3) which read as follows: “other than a licensee or permittee knowingly—
 
     “(A) to transport, ship, cause to be transported, or receive in interstate or foreign commerce any explosive materials, except that a person who lawfully purchases explosive materials from a licensee in a State contiguous to the State in which the purchaser resides may ship, transport, or cause to be transported such explosive materials to the State in which he resides and may receive such explosive materials in the State in which he resides, if such transportation, shipment, or receipt is permitted by the law of the State in which he resides; or
 
     “(B) to distribute explosive materials to any person (other than a licensee or permittee) who the distributor knows or has reasonable cause to believe does not reside in the State in which the distributor resides.”
 
-    Subsec. (b). [Pub. L. 107–296, § 1122(b)(3)][/us/pl/107/296/s1122/b/3], added subsec. (b) and struck out former subsec. (b) which read as follows: “It shall be unlawful for any licensee knowingly to distribute any explosive materials to any person except—
+    Subsec. (b). [Pub. L. 107–296][/us/pl/107/296], § 1122(b)(3), added subsec. (b) and struck out former subsec. (b) which read as follows: “It shall be unlawful for any licensee knowingly to distribute any explosive materials to any person except—
 
     “(1) a licensee;
 
@@ -223,35 +223,35 @@
 
     “(3) a resident of the State where distribution is made and in which the licensee is licensed to do business or a State contiguous thereto if permitted by the law of the State of the purchaser’s residence.”
 
-    Subsec. (d)(6). [Pub. L. 107–296, § 1123(a)(2)][/us/pl/107/296/s1123/a/2], substituted “or who has been committed to a mental institution;” for period at end.
+    Subsec. (d)(6). [Pub. L. 107–296][/us/pl/107/296], § 1123(a)(2), substituted “or who has been committed to a mental institution;” for period at end.
 
-    Subsec. (d)(7) to (9). [Pub. L. 107–296, § 1123(a)(1)][/us/pl/107/296/s1123/a/1], (3), added pars. (7) to (9).
+    Subsec. (d)(7) to (9). [Pub. L. 107–296][/us/pl/107/296], § 1123(a)(1), (3), added pars. (7) to (9).
 
-    Subsec. (f). [Pub. L. 107–296, § 1112(e)(3)][/us/pl/107/296/s1112/e/3], substituted “Attorney General” for “Secretary”.
+    Subsec. (f). [Pub. L. 107–296][/us/pl/107/296], § 1112(e)(3), substituted “Attorney General” for “Secretary”.
 
-    Subsec. (i). [Pub. L. 107–296, § 1123(b)(3)][/us/pl/107/296/s1123/b/3], inserted “or affecting” before “interstate” in two places in concluding provisions.
+    Subsec. (i). [Pub. L. 107–296][/us/pl/107/296], § 1123(b)(3), inserted “or affecting” before “interstate” in two places in concluding provisions.
 
-    Subsec. (i)(5) to (7). [Pub. L. 107–296, § 1123(b)(1)][/us/pl/107/296/s1123/b/1], (2), added pars. (5) to (7).
+    Subsec. (i)(5) to (7). [Pub. L. 107–296][/us/pl/107/296], § 1123(b)(1), (2), added pars. (5) to (7).
 
-    Subsecs. (j), (k), (o). [Pub. L. 107–296, § 1112(e)(3)][/us/pl/107/296/s1112/e/3], substituted “Attorney General” for “Secretary” wherever appearing.
+    Subsecs. (j), (k), (o). [Pub. L. 107–296][/us/pl/107/296], § 1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
 
     1999—Subsec. (p). [Pub. L. 106–54][/us/pl/106/54] added subsec. (p).
 
-    1996—Subsec. (h). [Pub. L. 104–132, § 707][/us/pl/104/132/s707], amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “It shall be unlawful for any person to receive, conceal, transport, ship, store, barter, sell, or dispose of any explosive materials knowing or having reasonable cause to believe that such explosive materials were stolen.”
+    1996—Subsec. (h). [Pub. L. 104–132][/us/pl/104/132], § 707, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “It shall be unlawful for any person to receive, conceal, transport, ship, store, barter, sell, or dispose of any explosive materials knowing or having reasonable cause to believe that such explosive materials were stolen.”
 
-    Subsecs. (l) to (o). [Pub. L. 104–132, § 603][/us/pl/104/132/s603], added subsecs. (l) to (o).
+    Subsecs. (l) to (o). [Pub. L. 104–132][/us/pl/104/132], § 603, added subsecs. (l) to (o).
 
-    1994—Subsec. (d). [Pub. L. 103–322, § 110516][/us/pl/103/322/s110516], substituted “any person” for “any licensee” in introductory provisions.
+    1994—Subsec. (d). [Pub. L. 103–322][/us/pl/103/322], § 110516, substituted “any person” for “any licensee” in introductory provisions.
 
-    Subsec. (i). [Pub. L. 103–322, § 110508][/us/pl/103/322/s110508], inserted “or possess” after “receive” in concluding provisions.
+    Subsec. (i). [Pub. L. 103–322][/us/pl/103/322], § 110508, inserted “or possess” after “receive” in concluding provisions.
 
-    1990—Subsec. (d)(5). [Pub. L. 101–647, § 3521(1)][/us/pl/101/647/s3521/1], substituted “; or” for a period.
+    1990—Subsec. (d)(5). [Pub. L. 101–647][/us/pl/101/647], § 3521(1), substituted “; or” for a period.
 
-    Subsec. (i)(3). [Pub. L. 101–647, § 3521(2)][/us/pl/101/647/s3521/2], substituted “; or” for a period.
+    Subsec. (i)(3). [Pub. L. 101–647][/us/pl/101/647], § 3521(2), substituted “; or” for a period.
 
-    1988—Subsec. (d)(5). [Pub. L. 100–690, § 6474(c)][/us/pl/100/690/s6474/c], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “is an unlawful user of marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4721(a) of the Internal Revenue Code of 1954); or”.
+    1988—Subsec. (d)(5). [Pub. L. 100–690][/us/pl/100/690], § 6474(c), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “is an unlawful user of marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4721(a) of the Internal Revenue Code of 1954); or”.
 
-    Subsec. (i)(3). [Pub. L. 100–690, § 6474(d)][/us/pl/100/690/s6474/d], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “who is an unlawful user of or addicted to marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4731(a) of the Internal Revenue Code of 1954); or”.
+    Subsec. (i)(3). [Pub. L. 100–690][/us/pl/100/690], § 6474(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “who is an unlawful user of or addicted to marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4731(a) of the Internal Revenue Code of 1954); or”.
 
  __Change of Name__ 
 
@@ -281,47 +281,47 @@
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
 [/us/usc/t8/s1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1157
 [/us/usc/t8/s1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1158
-[/us/pl/91/452/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs1102%2Fa
+[/us/pl/91/452/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtXI
 [/us/stat/84/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F953
-[/us/pl/100/690/s6474/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6474%2Fc
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4380
-[/us/pl/101/647/s3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3521
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4923
-[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXI
 [/us/stat/108/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2018
-[/us/pl/104/132/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs603
+[/us/pl/104/132/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVI
 [/us/stat/110/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1289
-[/us/pl/106/54/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F54%2Fs2%2Fa
+[/us/pl/106/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F54
 [/us/stat/113/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F398
-[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2276
-[/us/pl/108/177/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs372
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2627
 [/us/usc/t8/s1101/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F20
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
-[/us/pl/108/177/s372/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs372%2Fa%2F1
-[/us/pl/108/177/s372/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs372%2Fa%2F2
-[/us/pl/108/177/s372/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs372%2Fa%2F3
-[/us/pl/108/177/s372/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs372%2Fb%2F1
-[/us/pl/108/177/s372/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs372%2Fb%2F2
-[/us/pl/108/177/s372/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs372%2Fb%2F3
-[/us/pl/107/296/s1122/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1122%2Fb%2F1
-[/us/pl/107/296/s1122/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1122%2Fb%2F3
-[/us/pl/107/296/s1123/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1123%2Fa%2F2
-[/us/pl/107/296/s1123/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1123%2Fa%2F1
-[/us/pl/107/296/s1112/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fe%2F3
-[/us/pl/107/296/s1123/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1123%2Fb%2F3
-[/us/pl/107/296/s1123/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1123%2Fb%2F1
-[/us/pl/107/296/s1112/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fe%2F3
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
+[/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/106/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F54
-[/us/pl/104/132/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs707
-[/us/pl/104/132/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs603
-[/us/pl/103/322/s110516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110516
-[/us/pl/103/322/s110508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110508
-[/us/pl/101/647/s3521/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3521%2F1
-[/us/pl/101/647/s3521/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3521%2F2
-[/us/pl/100/690/s6474/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6474%2Fc
-[/us/pl/100/690/s6474/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6474%2Fd
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

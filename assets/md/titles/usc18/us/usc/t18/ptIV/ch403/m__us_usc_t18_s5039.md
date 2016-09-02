@@ -21,7 +21,7 @@
 
     Whenever possible, the Attorney General shall commit a juvenile to a foster home or community-based facility located in or near his home community.
 
-(Added [Pub. L. 93–415, title V, § 509][/us/pl/93/415/s509], Sept. 7, 1974, [88 Stat. 1138][/us/stat/88/1138]; amended [Pub. L. 103–322, title XIV, § 140003][/us/pl/103/322/s140003], Sept. 13, 1994, [108 Stat. 2032][/us/stat/108/2032].)
+(Added [Pub. L. 93–415, title V][/us/pl/93/415/tV], § 509, Sept. 7, 1974, [88 Stat. 1138][/us/stat/88/1138]; amended [Pub. L. 103–322, title XIV][/us/pl/103/322/tXIV], § 140003, Sept. 13, 1994, [108 Stat. 2032][/us/stat/108/2032].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/93/415/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs509
+[/us/pl/93/415/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV
 [/us/stat/88/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1138
-[/us/pl/103/322/s140003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs140003
+[/us/pl/103/322/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXIV
 [/us/stat/108/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2032
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

@@ -35,7 +35,7 @@
 
     (9) State law, including conflict of laws rules, governing the enforceability through civil judicial processes of repayment of any extension of credit or the performance of any promise given in consideration thereof shall be judicially noticed. This paragraph does not impair any authority which any court would otherwise have to take judicial notice of any matter of State law.
 
-(Added [Pub. L. 90–321, title II, § 202(a)][/us/pl/90/321/s202/a], May 29, 1968, [82 Stat. 160][/us/stat/82/160].)
+(Added [Pub. L. 90–321, title II][/us/pl/90/321/tII], § 202(a), May 29, 1968, [82 Stat. 160][/us/stat/82/160].)
 
  __Effective Date__ 
 
@@ -43,7 +43,7 @@
 
  __Congressional Findings and Declaration of Purpose__ 
 
-[Pub. L. 90–321, title II, § 201][/us/pl/90/321/s201], May 29, 1968, [82 Stat. 159][/us/stat/82/159], provided that:
+[Pub. L. 90–321, title II][/us/pl/90/321/tII], § 201, May 29, 1968, [82 Stat. 159][/us/stat/82/159], provided that:
 
 >     “(a)
 
@@ -61,7 +61,7 @@
 
  __Annual Report to Congress by Attorney General__ 
 
-    [Section 203 of Pub. L. 90–321][/us/pl/90/321/s203] directed Attorney General to make an annual report to Congress of activities of Department of Justice in enforcement of this chapter, prior to repeal by [Pub. L. 97–375, title I, § 109(b)][/us/pl/97/375/s109/b], Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820].
+    [Section 203 of Pub. L. 90–321][/us/pl/90/321/s203] directed Attorney General to make an annual report to Congress of activities of Department of Justice in enforcement of this chapter, prior to repeal by [Pub. L. 97–375, title I][/us/pl/97/375/tI], § 109(b), Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820].
 
 ----------
 
@@ -70,13 +70,13 @@
 ----------
 ----------
 
-[/us/pl/90/321/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs202%2Fa
+[/us/pl/90/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtII
 [/us/stat/82/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F160
 [/us/pl/90/321/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs504%2Fa
-[/us/pl/90/321/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs201
+[/us/pl/90/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtII
 [/us/stat/82/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F159
 [/us/pl/90/321/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs203
-[/us/pl/97/375/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs109%2Fb
+[/us/pl/97/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtI
 [/us/stat/96/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1820
 
 

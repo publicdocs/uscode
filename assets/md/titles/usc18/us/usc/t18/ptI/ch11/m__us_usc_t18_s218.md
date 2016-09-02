@@ -17,7 +17,7 @@
 
     In addition to any other remedies provided by law the President or, under regulations prescribed by him, the head of any department or agency involved, may declare void and rescind any contract, loan, grant, subsidy, license, right, permit, franchise, use, authority, privilege, benefit, certificate, ruling, decision, opinion, or rate schedule awarded, granted, paid, furnished, or published, or the performance of any service or transfer or delivery of any thing to, by or for any agency of the United States or officer or employee of the United States or person acting on behalf thereof, in relation to which there has been a final conviction for any violation of this chapter, and the United States shall be entitled to recover in addition to any penalty prescribed by law or in a contract the amount expended or the thing transferred or delivered on its behalf, or the reasonable value thereof.
 
-(Added [Pub. L. 87–849, § 1(e)][/us/pl/87/849/s1/e], Oct. 23, 1962, [76 Stat. 1125][/us/stat/76/1125].)
+(Added [Pub. L. 87–849][/us/pl/87/849], § 1(e), Oct. 23, 1962, [76 Stat. 1125][/us/stat/76/1125].)
 
  __Prior Provisions__ 
 
@@ -56,7 +56,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 ----------
 ----------
 
-[/us/pl/87/849/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs1%2Fe
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1125
 [/us/usc/t18/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs213
 [/us/pl/87/849/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs4

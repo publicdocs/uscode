@@ -17,11 +17,11 @@
 
     Whoever knowingly ships into any place within the United States any package containing any spirituous, vinous, malted, or other fermented liquor, or any compound containing any spirituous, vinous, malted, or other fermented liquor fit for use for beverage purposes, unless such shipment is accompanied by copy of a bill of lading, or other document showing the name of the consignee, the nature of its contents, and the quantity contained therein, shall be fined under this title or imprisoned not more than one year, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 761][/us/stat/62/761]; [Pub. L. 90–518, § 1][/us/pl/90/518/s1], Sept. 26, 1968, [82 Stat. 872][/us/stat/82/872]; [Pub. L. 103–322, title XXXIII, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 761][/us/stat/62/761]; [Pub. L. 90–518][/us/pl/90/518], § 1, Sept. 26, 1968, [82 Stat. 872][/us/stat/82/872]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(H), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 390 ([Mar. 4, 1909, ch. 321, § 240][/us/act/1909-03-04/ch321/s240], [35 Stat. 1137][/us/stat/35/1137]; [June 25, 1936, ch. 815, § 8][/us/act/1936-06-25/ch815/s8], [49 Stat. 1930][/us/stat/49/1930].)
+    Based on title 18, U.S.C., 1940 ed., § 390 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 240, [35 Stat. 1137][/us/stat/35/1137]; [June 25, 1936, ch. 815][/us/act/1936-06-25/ch815], § 8, [49 Stat. 1930][/us/stat/49/1930].)
 
     Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in [section 2 of this title][/us/usc/t18/s2].
 
@@ -39,13 +39,13 @@
 
  __Effective Date of 1968 Amendment__ 
 
-[Pub. L. 90–518, § 3][/us/pl/90/518/s3], Sept. 26, 1968, [82 Stat. 872][/us/stat/82/872], provided that: 
+[Pub. L. 90–518][/us/pl/90/518], § 3, Sept. 26, 1968, [82 Stat. 872][/us/stat/82/872], provided that: 
 
 > “This Act \[amending this section\] shall become effective ninety days after the date of its enactment \[Sept. 26, 1968\].”
 
  __Congressional Disclaimer of Intent To Preempt State Regulation of Shipments of Intoxicating Liquor__ 
 
-[Pub. L. 90–518, § 2][/us/pl/90/518/s2], Sept. 26, 1968, [82 Stat. 872][/us/stat/82/872], provided that: 
+[Pub. L. 90–518][/us/pl/90/518], § 2, Sept. 26, 1968, [82 Stat. 872][/us/stat/82/872], provided that: 
 
 > “Nothing contained in this Act \[amending this section\] shall be construed as indicating an intent on the part of Congress to deprive any State of the power to enact additional prohibitions with respect to the shipment of intoxicating liquors.”
 
@@ -58,13 +58,13 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F761
-[/us/pl/90/518/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F518%2Fs1
+[/us/pl/90/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F518
 [/us/stat/82/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F872
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/act/1909-03-04/ch321/s240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs240
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1137
-[/us/act/1936-06-25/ch815/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-25%2Fch815%2Fs8
+[/us/act/1936-06-25/ch815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-25%2Fch815
 [/us/stat/49/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1930
 [/us/usc/t18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2
 [/us/usc/t18/s1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1264
@@ -79,9 +79,9 @@
 [/us/usc/t18/s3615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3615
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/90/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F518
-[/us/pl/90/518/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F518%2Fs3
+[/us/pl/90/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F518
 [/us/stat/82/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F872
-[/us/pl/90/518/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F518%2Fs2
+[/us/pl/90/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F518
 [/us/stat/82/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F872
 
 

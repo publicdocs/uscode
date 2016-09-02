@@ -25,7 +25,7 @@
 
     may be in the District of Columbia or in any other district authorized by law.
 
-(Added [Pub. L. 103–322, title XXXII, § 320909(a)][/us/pl/103/322/s320909/a], Sept. 13, 1994, [108 Stat. 2127][/us/stat/108/2127].)
+(Added [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320909(a), Sept. 13, 1994, [108 Stat. 2127][/us/stat/108/2127].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 3239, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 827][/us/stat/62/827], related to threatening communications, prior to repeal by [Pub. L. 98–473, title II, § 1204(b)][/us/pl/98/473/s1204/b], Oct. 12, 1984, [98 Stat. 2152][/us/stat/98/2152].
+    A prior section 3239, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 827][/us/stat/62/827], related to threatening communications, prior to repeal by [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1204(b), Oct. 12, 1984, [98 Stat. 2152][/us/stat/98/2152].
 
 ----------
 
@@ -45,14 +45,14 @@
 [/us/usc/t18/s1030/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1030%2Fa%2F1
 [/us/usc/t50/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs421
 [/us/usc/t50/s783/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs783%2Fb
-[/us/pl/103/322/s320909/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320909%2Fa
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2127
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/usc/t50/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3121
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F827
-[/us/pl/98/473/s1204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1204%2Fb
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2152
 
 

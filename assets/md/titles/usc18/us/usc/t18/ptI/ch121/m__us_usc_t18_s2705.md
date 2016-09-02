@@ -77,7 +77,7 @@
 
         (5) otherwise seriously jeopardizing an investigation or unduly delaying a trial.
 
-(Added [Pub. L. 99–508, title II, § 201][/us/pl/99/508/s201]\[(a)\], Oct. 21, 1986, [100 Stat. 1864][/us/stat/100/1864].)
+(Added [Pub. L. 99–508, title II][/us/pl/99/508/tII], § 201\[(a)\], Oct. 21, 1986, [100 Stat. 1864][/us/stat/100/1864].)
 
 ----------
 
@@ -89,7 +89,7 @@
 [/us/usc/t18/s2703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2703%2Fb
 [/us/usc/t18/s2703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2703%2Fb
 [/us/usc/t18/s2703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2703%2Fb
-[/us/pl/99/508/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs201
+[/us/pl/99/508/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtII
 [/us/stat/100/1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1864
 
 

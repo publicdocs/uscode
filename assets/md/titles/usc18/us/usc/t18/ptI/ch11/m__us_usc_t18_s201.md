@@ -73,7 +73,7 @@
 
     (e) The offenses and penalties prescribed in this section are separate from and in addition to those prescribed in sections 1503, 1504, and 1505 of this title.
 
-(Added [Pub. L. 87–849, § 1(a)][/us/pl/87/849/s1/a], Oct. 23, 1962, [76 Stat. 1119][/us/stat/76/1119]; amended [Pub. L. 91–405, title II, § 204(d)(1)][/us/pl/91/405/s204/d/1], Sept. 22, 1970, [84 Stat. 853][/us/stat/84/853]; [Pub. L. 99–646, § 46(a)][/us/pl/99/646/s46/a]–(l), Nov. 10, 1986, [100 Stat. 3601–3604][/us/stat/100/3601-3604]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322], §§ 330011(b), 330016(2)(D), Sept. 13, 1994, [108 Stat. 2144][/us/stat/108/2144], 2148.)
+(Added [Pub. L. 87–849][/us/pl/87/849], § 1(a), Oct. 23, 1962, [76 Stat. 1119][/us/stat/76/1119]; amended [Pub. L. 91–405, title II][/us/pl/91/405/tII], § 204(d)(1), Sept. 22, 1970, [84 Stat. 853][/us/stat/84/853]; [Pub. L. 99–646][/us/pl/99/646], § 46(a)–(l), Nov. 10, 1986, [100 Stat. 3601–3604][/us/stat/100/3601-3604]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], §§ 330011(b), 330016(2)(D), Sept. 13, 1994, [108 Stat. 2144][/us/stat/108/2144], 2148.)
 
  __Prior Provisions__ 
 
@@ -81,51 +81,51 @@
 
  __Amendments__ 
 
-    1994—Subsec. (b). [Pub. L. 103–322, § 330016(2)(D)][/us/pl/103/322/s330016/2/D], which directed the amendment of “section 201” by inserting “under this title or” after “be fined” and “whichever is greater,” before “or imprisoned”, was executed by making the insertions in text of last par. of subsec. (b), and not in last par. of subsec. (c), to reflect the probable intent of Congress.
+    1994—Subsec. (b). [Pub. L. 103–322][/us/pl/103/322], § 330016(2)(D), which directed the amendment of “section 201” by inserting “under this title or” after “be fined” and “whichever is greater,” before “or imprisoned”, was executed by making the insertions in text of last par. of subsec. (b), and not in last par. of subsec. (c), to reflect the probable intent of Congress.
 
-    [Pub. L. 103–322, § 330011(b)(A)][/us/pl/103/322/s330011/b/A], amended [Pub. L. 99–646, § 46(b)(1)][/us/pl/99/646/s46/b/1]. See 1986 Amendment note below.
+    [Pub. L. 103–322][/us/pl/103/322], § 330011(b)(A), amended [Pub. L. 99–646][/us/pl/99/646], § 46(b)(1). See 1986 Amendment note below.
 
-    Subsec. (b)(1). [Pub. L. 103–322, § 330011(b)][/us/pl/103/322/s330011/b], amended [Pub. L. 99–646, § 46(b)][/us/pl/99/646/s46/b]. See 1986 Amendment note below.
+    Subsec. (b)(1). [Pub. L. 103–322][/us/pl/103/322], § 330011(b), amended [Pub. L. 99–646][/us/pl/99/646], § 46(b). See 1986 Amendment note below.
 
-    1986—[Pub. L. 99–646, § 46][/us/pl/99/646/s46](l), provided for alignment of margins of each subsection, paragraph, and subparagraph of this section.
+    1986—[Pub. L. 99–646][/us/pl/99/646], § 46(l), provided for alignment of margins of each subsection, paragraph, and subparagraph of this section.
 
-    Subsec. (a). [Pub. L. 99–646, § 46(a)][/us/pl/99/646/s46/a], substituted “section—” for “section:”, designated provision defining “public official” as par. (1), inserted “the term” after “(1)”, and substituted “Delegate” for “Delegate from the District of Columbia”, “after such official has qualified” for “after he has qualified”, and “juror;” for “juror; and”; designated provision defining “person who has been selected to be a public official” as par. (2), inserted “the term” after “(2)”, and substituted “such person” for “he”; and designated provision defining “official act” as par. (3), inserted “the term” after “(3)”, and substituted “in such official’s official capacity, or in such official’s” for “in his official capacity, or in his”.
+    Subsec. (a). [Pub. L. 99–646][/us/pl/99/646], § 46(a), substituted “section—” for “section:”, designated provision defining “public official” as par. (1), inserted “the term” after “(1)”, and substituted “Delegate” for “Delegate from the District of Columbia”, “after such official has qualified” for “after he has qualified”, and “juror;” for “juror; and”; designated provision defining “person who has been selected to be a public official” as par. (2), inserted “the term” after “(2)”, and substituted “such person” for “he”; and designated provision defining “official act” as par. (3), inserted “the term” after “(3)”, and substituted “in such official’s official capacity, or in such official’s” for “in his official capacity, or in his”.
 
-    Subsec. (b). [Pub. L. 99–646, § 46(b)(1)][/us/pl/99/646/s46/b/1], as amended by [Pub. L. 103–322, § 330011(b)(A)][/us/pl/103/322/s330011/b/A], substituted “Whoever—” for “Whoever,” and inserted “(1)” before “directly”.
+    Subsec. (b). [Pub. L. 99–646][/us/pl/99/646], § 46(b)(1), as amended by [Pub. L. 103–322][/us/pl/103/322], § 330011(b)(A), substituted “Whoever—” for “Whoever,” and inserted “(1)” before “directly”.
 
-    [Pub. L. 99–646, § 46(e)(5)][/us/pl/99/646/s46/e/5], redesignated the undesignated par. which followed former subsec. (e) as concluding par. of subsec. (b) and substituted “shall be fined not more than” for “Shall be fined not more than $20,000 or” and “thing of value,” for “thing of value, whichever is greater,”.
+    [Pub. L. 99–646][/us/pl/99/646], § 46(e)(5), redesignated the undesignated par. which followed former subsec. (e) as concluding par. of subsec. (b) and substituted “shall be fined not more than” for “Shall be fined not more than $20,000 or” and “thing of value,” for “thing of value, whichever is greater,”.
 
-    Subsec. (b)(1). [Pub. L. 99–646, § 46(b)][/us/pl/99/646/s46/b], as amended by [Pub. L. 103–322, § 330011(b)][/us/pl/103/322/s330011/b], redesignated former subsec. (b) as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned their margins, and in subpar. (C) substituted “the lawful duty of such official or person;” for “his lawful duty, or”.
+    Subsec. (b)(1). [Pub. L. 99–646][/us/pl/99/646], § 46(b), as amended by [Pub. L. 103–322][/us/pl/103/322], § 330011(b), redesignated former subsec. (b) as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned their margins, and in subpar. (C) substituted “the lawful duty of such official or person;” for “his lawful duty, or”.
 
-    Subsec. (b)(2). [Pub. L. 99–646, § 46(c)][/us/pl/99/646/s46/c], redesignated former subsec. (c) as par. (2), struck out “Whoever,” before “being”, substituted “corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally” for “corruptly asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive anything of value for himself”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned their margins, in subpar. (A) substituted “the performance” for “his performance” and struck out “or” after “act;”, and in subpar. (C) substituted “the official duty of such official or person;” for “his official duty; or”.
+    Subsec. (b)(2). [Pub. L. 99–646][/us/pl/99/646], § 46(c), redesignated former subsec. (c) as par. (2), struck out “Whoever,” before “being”, substituted “corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally” for “corruptly asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive anything of value for himself”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned their margins, in subpar. (A) substituted “the performance” for “his performance” and struck out “or” after “act;”, and in subpar. (C) substituted “the official duty of such official or person;” for “his official duty; or”.
 
-    Subsec. (b)(3). [Pub. L. 99–646, § 46(d)][/us/pl/99/646/s46/d], redesignated former subsec. (d) as par. (3) and substituted “directly” for “Whoever, directly” and “therefrom;” for “therefrom; or”.
+    Subsec. (b)(3). [Pub. L. 99–646][/us/pl/99/646], § 46(d), redesignated former subsec. (d) as par. (3) and substituted “directly” for “Whoever, directly” and “therefrom;” for “therefrom; or”.
 
-    Subsec. (b)(4). [Pub. L. 99–646, § 46(e)][/us/pl/99/646/s46/e], redesignated former subsec. (e) as par. (4), substituted “directly” for “Whoever, directly”, “demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally” for “asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive anything of value for himself”, “in testimony” for “in his testimony”, and “therefrom;” for “therefrom—”.
+    Subsec. (b)(4). [Pub. L. 99–646][/us/pl/99/646], § 46(e), redesignated former subsec. (e) as par. (4), substituted “directly” for “Whoever, directly”, “demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally” for “asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive anything of value for himself”, “in testimony” for “in his testimony”, and “therefrom;” for “therefrom—”.
 
-    Subsec. (c). [Pub. L. 99–646, § 46(f)][/us/pl/99/646/s46/f], (g)(1), (h)(1), (i)(1), redesignated former subsecs. (f) to (i) as subsec. (c)(1)(A), (B), (2), and (3), respectively. Former subsec. (c) redesignated (b)(2).
+    Subsec. (c). [Pub. L. 99–646][/us/pl/99/646], § 46(f), (g)(1), (h)(1), (i)(1), redesignated former subsecs. (f) to (i) as subsec. (c)(1)(A), (B), (2), and (3), respectively. Former subsec. (c) redesignated (b)(2).
 
-    [Pub. L. 99–646, § 46(i)(6)][/us/pl/99/646/s46/i/6], redesignated the undesignated par. which followed former subsec. (i) as concluding par. of subsec. (c) and substituted “shall be fined under this title” for “Shall be fined not more than $10,000”.
+    [Pub. L. 99–646][/us/pl/99/646], § 46(i)(6), redesignated the undesignated par. which followed former subsec. (i) as concluding par. of subsec. (c) and substituted “shall be fined under this title” for “Shall be fined not more than $10,000”.
 
-    Subsec. (c)(1). [Pub. L. 99–646, § 46(f)][/us/pl/99/646/s46/f], (g), redesignated former subsec. (f) as par. (1) and substituted “(1) otherwise” for “, otherwise” and “(A) directly” for “, directly”, redesignated former subsec. (g) as subpar. (B) and substituted “being” for “Whoever, being”, “indirectly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally” for “indirectly asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive anything of value for himself”, and “by such official or person;” for “by him; or”.
+    Subsec. (c)(1). [Pub. L. 99–646][/us/pl/99/646], § 46(f), (g), redesignated former subsec. (f) as par. (1) and substituted “(1) otherwise” for “, otherwise” and “(A) directly” for “, directly”, redesignated former subsec. (g) as subpar. (B) and substituted “being” for “Whoever, being”, “indirectly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally” for “indirectly asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive anything of value for himself”, and “by such official or person;” for “by him; or”.
 
-    Subsec. (c)(2). [Pub. L. 99–646, § 46(h)][/us/pl/99/646/s46/h], redesignated former subsec. (h) as par. (2) and substituted “directly” for “Whoever, directly” and “such person’s absence therefrom;” for “his absence therefrom; or”.
+    Subsec. (c)(2). [Pub. L. 99–646][/us/pl/99/646], § 46(h), redesignated former subsec. (h) as par. (2) and substituted “directly” for “Whoever, directly” and “such person’s absence therefrom;” for “his absence therefrom; or”.
 
-    Subsec. (c)(3). [Pub. L. 99–646, § 46(i)][/us/pl/99/646/s46/i], redesignated former subsec. (i) as par. (3) and substituted “directly” for “Whoever, directly”, “demands, seeks, receives, accepts, or agrees to receive or accept” for “asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive”, “personally” for “for himself”, “by such person” for “by him”, and “such person’s absence therefrom;” for “his absence therefrom—”.
+    Subsec. (c)(3). [Pub. L. 99–646][/us/pl/99/646], § 46(i), redesignated former subsec. (i) as par. (3) and substituted “directly” for “Whoever, directly”, “demands, seeks, receives, accepts, or agrees to receive or accept” for “asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive”, “personally” for “for himself”, “by such person” for “by him”, and “such person’s absence therefrom;” for “his absence therefrom—”.
 
-    Subsec. (d). [Pub. L. 99–646, § 46(j)][/us/pl/99/646/s46/j], redesignated former subsec. (j) as (d), substituted “Paragraphs (3) and (4) of subsection (b) and paragraphs (2) and (3) of subsection (c)” for “Subsections (d), (e), (h), and (i)” and struck out “involving a technical or professional opinion,” after “expert witnesses,”. Former subsec. (d) redesignated (b)(3).
+    Subsec. (d). [Pub. L. 99–646][/us/pl/99/646], § 46(j), redesignated former subsec. (j) as (d), substituted “Paragraphs (3) and (4) of subsection (b) and paragraphs (2) and (3) of subsection (c)” for “Subsections (d), (e), (h), and (i)” and struck out “involving a technical or professional opinion,” after “expert witnesses,”. Former subsec. (d) redesignated (b)(3).
 
-    Subsecs. (e) to (k). [Pub. L. 99–646, § 46(f)][/us/pl/99/646/s46/f]–(k), redesignated former subsecs. (e) to (k) as (b)(4), (c)(1)(A), (B), (2), (3), (d), and (e), respectively.
+    Subsecs. (e) to (k). [Pub. L. 99–646][/us/pl/99/646], § 46(f)–(k), redesignated former subsecs. (e) to (k) as (b)(4), (c)(1)(A), (B), (2), (3), (d), and (e), respectively.
 
     1970—Subsec. (a). [Pub. L. 91–405][/us/pl/91/405] included Delegate from District of Columbia in definition of “public official”.
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–322, title XXXIII, § 330011(b)][/us/pl/103/322/s330011/b], Sept. 13, 1994, [108 Stat. 2144][/us/stat/108/2144], provided that the amendment made by that section is effective as of the date on which [section 46(b) of Pub. L. 99–646][/us/pl/99/646/s46/b] took effect.
+    [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330011(b), Sept. 13, 1994, [108 Stat. 2144][/us/stat/108/2144], provided that the amendment made by that section is effective as of the date on which [section 46(b) of Pub. L. 99–646][/us/pl/99/646/s46/b] took effect.
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–646, § 46(m)][/us/pl/99/646/s46/m], Nov. 10, 1986, [100 Stat. 3604][/us/stat/100/3604], provided that: 
+[Pub. L. 99–646][/us/pl/99/646], § 46(m), Nov. 10, 1986, [100 Stat. 3604][/us/stat/100/3604], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Nov. 10, 1986\].”
 
@@ -135,25 +135,25 @@
 
  __Effective Date__ 
 
-[Pub. L. 87–849, § 4][/us/pl/87/849/s4], Oct. 23, 1962, [76 Stat. 1126][/us/stat/76/1126], provided that: 
+[Pub. L. 87–849][/us/pl/87/849], § 4, Oct. 23, 1962, [76 Stat. 1126][/us/stat/76/1126], provided that: 
 
 > “This Act \[enacting this section and sections 202 to 209 and 218 of this title, redesignating sections 214, 215, 217 to 222 as 210, 211, 212 to 217 of this title respectively, repealing sections 223, 282, 284, 434, and 1914 of this title, and section 99 of former Title 5, Executive Departments and Government Officers and Employees, and enacting provisions set out as notes under section 281 and 282 of this title\] shall take effect ninety days after the date of its enactment \[Oct. 23, 1962\]”.
 
  __Short Title of 2003 Amendment__ 
 
-[Pub. L. 108–198, § 1][/us/pl/108/198/s1], Dec. 19, 2003, [117 Stat. 2899][/us/stat/117/2899], provided that: 
+[Pub. L. 108–198][/us/pl/108/198], § 1, Dec. 19, 2003, [117 Stat. 2899][/us/stat/117/2899], provided that: 
 
 > “This Act \[enacting sections 212 and 213 of this title and repealing former sections 212 and 213 of this title\] may be cited as the ‘Preserving Independence of Financial Institution Examinations Act of 2003’.”
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–177, § 1][/us/pl/104/177/s1], Aug. 6, 1996, [110 Stat. 1563][/us/stat/110/1563], provided that: 
+[Pub. L. 104–177][/us/pl/104/177], § 1, Aug. 6, 1996, [110 Stat. 1563][/us/stat/110/1563], provided that: 
 
 > “This Act \[amending [section 205 of this title][/us/usc/t18/s205]\] may be cited as the ‘Federal Employee Representation Improvement Act of 1996’.”
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–370, § 1][/us/pl/99/370/s1], Aug. 4, 1986, [100 Stat. 779][/us/stat/100/779], provided that: 
+[Pub. L. 99–370][/us/pl/99/370], § 1, Aug. 4, 1986, [100 Stat. 779][/us/stat/100/779], provided that: 
 
 > “This Act \[amending [section 215 of this title][/us/usc/t18/s215] and enacting provisions set out as a note under [section 215 of this title][/us/usc/t18/s215]\] may be cited as the ‘Bank Bribery Amendments Act of 1985’.”
 
@@ -370,56 +370,56 @@ Since new sections 203 and 205 extend to activities in the same range of matters
 ----------
 ----------
 
-[/us/pl/87/849/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs1%2Fa
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1119
-[/us/pl/91/405/s204/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405%2Fs204%2Fd%2F1
+[/us/pl/91/405/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405%2FtII
 [/us/stat/84/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F853
-[/us/pl/99/646/s46/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs46%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3601-3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3601-3604
-[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2144
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F691
 [/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
-[/us/pl/103/322/s330016/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F2%2FD
-[/us/pl/103/322/s330011/b/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Fb%2FA
-[/us/pl/99/646/s46/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs46%2Fb%2F1
-[/us/pl/103/322/s330011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Fb
-[/us/pl/99/646/s46/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs46%2Fb
-[/us/pl/99/646/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs46
-[/us/pl/99/646/s46/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs46%2Fa
-[/us/pl/99/646/s46/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs46%2Fb%2F1
-[/us/pl/103/322/s330011/b/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Fb%2FA
-[/us/pl/99/646/s46/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs46%2Fe%2F5
-[/us/pl/99/646/s46/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs46%2Fb
-[/us/pl/103/322/s330011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Fb
-[/us/pl/99/646/s46/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs46%2Fc
-[/us/pl/99/646/s46/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs46%2Fd
-[/us/pl/99/646/s46/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs46%2Fe
-[/us/pl/99/646/s46/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs46%2Ff
-[/us/pl/99/646/s46/i/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs46%2Fi%2F6
-[/us/pl/99/646/s46/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs46%2Ff
-[/us/pl/99/646/s46/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs46%2Fh
-[/us/pl/99/646/s46/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs46%2Fi
-[/us/pl/99/646/s46/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs46%2Fj
-[/us/pl/99/646/s46/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs46%2Ff
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/91/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405
-[/us/pl/103/322/s330011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Fb
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2144
 [/us/pl/99/646/s46/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs46%2Fb
-[/us/pl/99/646/s46/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs46%2Fm
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3604
 [/us/pl/91/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405
 [/us/pl/91/405/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405%2Fs206%2Fb
 [/us/usc/t2/s25a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs25a
-[/us/pl/87/849/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs4
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1126
-[/us/pl/108/198/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F198%2Fs1
+[/us/pl/108/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F198
 [/us/stat/117/2899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2899
-[/us/pl/104/177/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F177%2Fs1
+[/us/pl/104/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F177
 [/us/stat/110/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1563
 [/us/usc/t18/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs205
-[/us/pl/99/370/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F370%2Fs1
+[/us/pl/99/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F370
 [/us/stat/100/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F779
 [/us/usc/t18/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs215
 [/us/usc/t18/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs215

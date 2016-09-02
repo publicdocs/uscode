@@ -75,7 +75,7 @@
 
     (c) This chapter does not prohibit or punish the providing of lawful, bona fide, legal representation services in connection with or anticipation of an official proceeding.
 
-(Added [Pub. L. 97–291, § 4(a)][/us/pl/97/291/s4/a], Oct. 12, 1982, [96 Stat. 1252][/us/stat/96/1252]; amended [Pub. L. 99–646, § 50(b)][/us/pl/99/646/s50/b], Nov. 10, 1986, [100 Stat. 3605][/us/stat/100/3605]; [Pub. L. 100–690, title VII, § 7029(b)][/us/pl/100/690/s7029/b], (d), Nov. 18, 1988, [102 Stat. 4398][/us/stat/102/4398]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 103–322, title XXXII, § 320604(a)][/us/pl/103/322/s320604/a], Sept. 13, 1994, [108 Stat. 2118][/us/stat/108/2118]; [Pub. L. 104–292, § 3][/us/pl/104/292/s3], Oct. 11, 1996, [110 Stat. 3460][/us/stat/110/3460]; [Pub. L. 104–294, title VI, § 604(b)(39)][/us/pl/104/294/s604/b/39], Oct. 11, 1996, [110 Stat. 3509][/us/stat/110/3509].)
+(Added [Pub. L. 97–291][/us/pl/97/291], § 4(a), Oct. 12, 1982, [96 Stat. 1252][/us/stat/96/1252]; amended [Pub. L. 99–646][/us/pl/99/646], § 50(b), Nov. 10, 1986, [100 Stat. 3605][/us/stat/100/3605]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7029(b), (d), Nov. 18, 1988, [102 Stat. 4398][/us/stat/102/4398]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320604(a), Sept. 13, 1994, [108 Stat. 2118][/us/stat/108/2118]; [Pub. L. 104–292][/us/pl/104/292], § 3, Oct. 11, 1996, [110 Stat. 3460][/us/stat/110/3460]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(39), Oct. 11, 1996, [110 Stat. 3509][/us/stat/110/3509].)
 
  __Amendments__ 
 
@@ -87,9 +87,9 @@
 
     1992—Subsec. (a)(1)(A). [Pub. L. 102–572][/us/pl/102/572] substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-    1988—Subsec. (a)(1)(A). [Pub. L. 100–690, § 7029(b)][/us/pl/100/690/s7029/b], inserted “a judge of the United States Tax Court, a special trial judge of the Tax Court, a judge of the United States Claims Court,” after “bankruptcy judge,”.
+    1988—Subsec. (a)(1)(A). [Pub. L. 100–690][/us/pl/100/690], § 7029(b), inserted “a judge of the United States Tax Court, a special trial judge of the Tax Court, a judge of the United States Claims Court,” after “bankruptcy judge,”.
 
-    Subsec. (a)(6). [Pub. L. 100–690, § 7029(d)][/us/pl/100/690/s7029/d], added par. (6).
+    Subsec. (a)(6). [Pub. L. 100–690][/us/pl/100/690], § 7029(d), added par. (6).
 
     1986—[Pub. L. 99–646][/us/pl/99/646] inserted “; general provision” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 
@@ -116,28 +116,28 @@
 ----------
 ----------
 
-[/us/pl/97/291/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F291%2Fs4%2Fa
+[/us/pl/97/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F291
 [/us/stat/96/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1252
-[/us/pl/99/646/s50/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs50%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3605
-[/us/pl/100/690/s7029/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7029%2Fb
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4398
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/103/322/s320604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320604%2Fa
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2118
-[/us/pl/104/292/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F292%2Fs3
+[/us/pl/104/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F292
 [/us/stat/110/3460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3460
-[/us/pl/104/294/s604/b/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F39
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3509
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/104/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F292
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
-[/us/pl/100/690/s7029/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7029%2Fb
-[/us/pl/100/690/s7029/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7029%2Fd
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631

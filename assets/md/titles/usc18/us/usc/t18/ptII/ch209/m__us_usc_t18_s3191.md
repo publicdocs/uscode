@@ -17,11 +17,11 @@
 
     On the hearing of any case under a claim of extradition by a foreign government, upon affidavit being filed by the person charged setting forth that there are witnesses whose evidence is material to his defense, that he cannot safely go to trial without them, what he expects to prove by each of them, and that he is not possessed of sufficient means, and is actually unable to pay the fees of such witnesses, the judge or magistrate judge hearing the matter may order that such witnesses be subpenaed; and the costs incurred by the process, and the fees of witnesses, shall be paid in the same manner as in the case of witnesses subpenaed in behalf of the United States.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 825][/us/stat/62/825]; [Pub. L. 90–578, title III, § 301(a)(3)][/us/pl/90/578/s301/a/3], Oct. 17, 1968, [82 Stat. 1115][/us/stat/82/1115]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 825][/us/stat/62/825]; [Pub. L. 90–578, title III][/us/pl/90/578/tIII], § 301(a)(3), Oct. 17, 1968, [82 Stat. 1115][/us/stat/82/1115]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 656 ([Aug. 3, 1882, ch. 378, § 3][/us/act/1882-08-03/ch378/s3], [22 Stat. 215][/us/stat/22/215]).
+    Based on title 18, U.S.C., 1940 ed., § 656 ([Aug. 3, 1882, ch. 378][/us/act/1882-08-03/ch378], § 3, [22 Stat. 215][/us/stat/22/215]).
 
     Words “that similar” after “manner” were omitted as unnecessary.
 
@@ -46,11 +46,11 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F825
-[/us/pl/90/578/s301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs301%2Fa%2F3
+[/us/pl/90/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtIII
 [/us/stat/82/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1115
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/act/1882-08-03/ch378/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-08-03%2Fch378%2Fs3
+[/us/act/1882-08-03/ch378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-08-03%2Fch378
 [/us/stat/22/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F215
 [/us/pl/90/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321

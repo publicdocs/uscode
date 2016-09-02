@@ -21,11 +21,11 @@
 
     Shall be fined under this title or imprisoned not more than two years, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 780][/us/stat/62/780]; [Pub. L. 91–375, § 6(j)(22)][/us/pl/91/375/s6/j/22], Aug. 12, 1970, [84 Stat. 779][/us/stat/84/779]; [Pub. L. 103–322, title XXXIII, § 330016(1)(G)][/us/pl/103/322/s330016/1/G], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 780][/us/stat/62/780]; [Pub. L. 91–375][/us/pl/91/375], § 6(j)(22), Aug. 12, 1970, [84 Stat. 779][/us/stat/84/779]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(G), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 329 and on [section 172 of title 39][/us/usc/t39/s172], U.S.C., 1940 ed., The Postal Service ([Aug. 4, 1886, ch. 901, § 3][/us/act/1886-08-04/ch901/s3], [24 Stat. 221][/us/stat/24/221]; [Mar. 4, 1909, ch. 321, § 206][/us/act/1909-03-04/ch321/s206], [35 Stat. 1128][/us/stat/35/1128]; [June 10, 1921, ch. 18, § 304][/us/act/1921-06-10/ch18/s304], [42 Stat. 24][/us/stat/42/24]).
+    Based on title 18, U.S.C., 1940 ed., § 329 and on [section 172 of title 39][/us/usc/t39/s172], U.S.C., 1940 ed., The Postal Service ([Aug. 4, 1886, ch. 901][/us/act/1886-08-04/ch901], § 3, [24 Stat. 221][/us/stat/24/221]; [Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 206, [35 Stat. 1128][/us/stat/35/1128]; [June 10, 1921, ch. 18][/us/act/1921-06-10/ch18], § 304, [42 Stat. 24][/us/stat/42/24]).
 
     Said sections were consolidated.
 
@@ -54,16 +54,16 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F780
-[/us/pl/91/375/s6/j/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fj%2F22
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F779
-[/us/pl/103/322/s330016/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FG
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/usc/t39/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs172
-[/us/act/1886-08-04/ch901/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1886-08-04%2Fch901%2Fs3
+[/us/act/1886-08-04/ch901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1886-08-04%2Fch901
 [/us/stat/24/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F221
-[/us/act/1909-03-04/ch321/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs206
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1128
-[/us/act/1921-06-10/ch18/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18%2Fs304
+[/us/act/1921-06-10/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18
 [/us/stat/42/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F24
 [/us/usc/t39/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs172
 [/us/usc/t39/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs172

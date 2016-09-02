@@ -31,7 +31,7 @@
 
         (2) willfully certifies any statement as set forth in subsections (a) and (b) of this section knowing that the periodic report accompanying the statement does not comport with all the requirements set forth in this section shall be fined not more than $5,000,000, or imprisoned not more than 20 years, or both.
 
-(Added [Pub. L. 107–204, title IX, § 906(a)][/us/pl/107/204/s906/a], July 30, 2002, [116 Stat. 806][/us/stat/116/806].)
+(Added [Pub. L. 107–204, title IX][/us/pl/107/204/tIX], § 906(a), July 30, 2002, [116 Stat. 806][/us/stat/116/806].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t15/s78m/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m%2Fa
 [/us/usc/t15/s78m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m
-[/us/pl/107/204/s906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs906%2Fa
+[/us/pl/107/204/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtIX
 [/us/stat/116/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F806
 
 

@@ -541,7 +541,7 @@
 
     (u) It shall be unlawful for a person to steal or unlawfully take or carry away from the person or the premises of a person who is licensed to engage in the business of importing, manufacturing, or dealing in firearms, any firearm in the licensee’s business inventory that has been shipped or transported in interstate or foreign commerce.
 
-    \[(v), (w) Repealed. [Pub. L. 103–322, title XI, § 110105(2)][/us/pl/103/322/s110105/2], Sept. 13, 1994, [108 Stat. 2000][/us/stat/108/2000].\]
+    \[(v), (w) Repealed. [Pub. L. 103–322, title XI][/us/pl/103/322/tXI], § 110105(2), Sept. 13, 1994, [108 Stat. 2000][/us/stat/108/2000].\]
 
     (x)
 
@@ -701,13 +701,13 @@
 
                 (ii) shall not include an action brought against the person having lawful possession and control of the handgun for negligent entrustment or negligence per se.
 
-            \[APPENDIX A Repealed. [Pub. L. 103–322, title XI, § 110105(2)][/us/pl/103/322/s110105/2], Sept. 13, 1994, [108 Stat. 2000][/us/stat/108/2000]\]
+            \[APPENDIX A Repealed. [Pub. L. 103–322, title XI][/us/pl/103/322/tXI], § 110105(2), Sept. 13, 1994, [108 Stat. 2000][/us/stat/108/2000]\]
 
-(Added [Pub. L. 90–351, title IV, § 902][/us/pl/90/351/s902], June 19, 1968, [82 Stat. 228][/us/stat/82/228]; amended [Pub. L. 90–618, title I, § 102][/us/pl/90/618/s102], Oct. 22, 1968, [82 Stat. 1216][/us/stat/82/1216]; [Pub. L. 97–377, title I, § 165(a)][/us/pl/97/377/s165/a], Dec. 21, 1982, [96 Stat. 1923][/us/stat/96/1923]; [Pub. L. 99–308, § 102][/us/pl/99/308/s102], May 19, 1986, [100 Stat. 451][/us/stat/100/451]; [Pub. L. 99–408, § 2][/us/pl/99/408/s2], Aug. 28, 1986, [100 Stat. 920][/us/stat/100/920]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–649, § 2(a)][/us/pl/100/649/s2/a], (f)(2)(A), Nov. 10, 1988, [102 Stat. 3816][/us/stat/102/3816], 3818; [Pub. L. 100–690, title VII, § 7060(c)][/us/pl/100/690/s7060/c], Nov. 18, 1988, [102 Stat. 4404][/us/stat/102/4404]; [Pub. L. 101–647, title XVII, § 1702(b)(1)][/us/pl/101/647/s1702/b/1], title XXII, §§ 2201, 2202, 2204(b), title XXXV, § 3524, Nov. 29, 1990, [104 Stat. 4844][/us/stat/104/4844], 4856, 4857, 4924; [Pub. L. 103–159, title I, § 102(a)(1)][/us/pl/103/159/s102/a/1], (b), title III, § 302(a)–(c), Nov. 30, 1993, [107 Stat. 1536][/us/stat/107/1536], 1539, 1545; [Pub. L. 103–322, title XI][/us/pl/103/322], §§ 110102(a), 110103(a), 110105(2), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§ 320904, 320927, title XXXIII, § 330011(i), Sept. 13, 1994, [108 Stat. 1996][/us/stat/108/1996], 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, §§ 657, 658(b)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–369, 3009–372; [Pub. L. 104–294, title VI, § 603(b)][/us/pl/104/294/s603/b], (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, [110 Stat. 3503][/us/stat/110/3503], 3504; [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 121\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–71; [Pub. L. 107–273, div. B, title IV, § 4003(a)(1)][/us/pl/107/273/s4003/a/1], Nov. 2, 2002, [116 Stat. 1811][/us/stat/116/1811]; [Pub. L. 107–296, title XI, § 1112(f)(4)][/us/pl/107/296/s1112/f/4], (6), Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276]; [Pub. L. 109–92][/us/pl/109/92], §§ 5(c)(1), 6(a), Oct. 26, 2005, [119 Stat. 2099][/us/stat/119/2099], 2101; [Pub. L. 114–94, div. A, title XI, § 11412(c)(2)][/us/pl/114/94/s11412/c/2], Dec. 4, 2015, [129 Stat. 1688][/us/stat/129/1688].)
+(Added [Pub. L. 90–351, title IV][/us/pl/90/351/tIV], § 902, June 19, 1968, [82 Stat. 228][/us/stat/82/228]; amended [Pub. L. 90–618, title I][/us/pl/90/618/tI], § 102, Oct. 22, 1968, [82 Stat. 1216][/us/stat/82/1216]; [Pub. L. 97–377, title I][/us/pl/97/377/tI], § 165(a), Dec. 21, 1982, [96 Stat. 1923][/us/stat/96/1923]; [Pub. L. 99–308][/us/pl/99/308], § 102, May 19, 1986, [100 Stat. 451][/us/stat/100/451]; [Pub. L. 99–408][/us/pl/99/408], § 2, Aug. 28, 1986, [100 Stat. 920][/us/stat/100/920]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–649][/us/pl/100/649], § 2(a), (f)(2)(A), Nov. 10, 1988, [102 Stat. 3816][/us/stat/102/3816], 3818; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7060(c), Nov. 18, 1988, [102 Stat. 4404][/us/stat/102/4404]; [Pub. L. 101–647, title XVII][/us/pl/101/647/tXVII], § 1702(b)(1), title XXII, §§ 2201, 2202, 2204(b), title XXXV, § 3524, Nov. 29, 1990, [104 Stat. 4844][/us/stat/104/4844], 4856, 4857, 4924; [Pub. L. 103–159, title I][/us/pl/103/159/tI], § 102(a)(1), (b), title III, § 302(a)–(c), Nov. 30, 1993, [107 Stat. 1536][/us/stat/107/1536], 1539, 1545; [Pub. L. 103–322, title XI][/us/pl/103/322/tXI], §§ 110102(a), 110103(a), 110105(2), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§ 320904, 320927, title XXXIII, § 330011(i), Sept. 13, 1994, [108 Stat. 1996][/us/stat/108/1996], 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, §§ 657, 658(b)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–369, 3009–372; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 603(b), (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, [110 Stat. 3503][/us/stat/110/3503], 3504; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title I, § 121\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–71; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4003(a)(1), Nov. 2, 2002, [116 Stat. 1811][/us/stat/116/1811]; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1112(f)(4), (6), Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276]; [Pub. L. 109–92][/us/pl/109/92], §§ 5(c)(1), 6(a), Oct. 26, 2005, [119 Stat. 2099][/us/stat/119/2099], 2101; [Pub. L. 114–94, div. A, title XI][/us/pl/114/94/dA/tXI], § 11412(c)(2), Dec. 4, 2015, [129 Stat. 1688][/us/stat/129/1688].)
 
  __Amendment of Section__ 
 
-    [Pub. L. 100–649, § 2(f)(2)(A)][/us/pl/100/649/s2/f/2/A], Nov. 10, 1988, [102 Stat. 3818][/us/stat/102/3818], as amended by [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 649\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–528; [Pub. L. 108–174, § 1(1)][/us/pl/108/174/s1/1], Dec. 9, 2003, [117 Stat. 2481][/us/stat/117/2481]; [Pub. L. 113–57, § 1][/us/pl/113/57/s1], Dec. 9, 2013, [127 Stat. 656][/us/stat/127/656], provided that, effective 35 years after the 30th day beginning after Nov. 10, 1988, subsection (p) of this section is repealed.
+    [Pub. L. 100–649][/us/pl/100/649], § 2(f)(2)(A), Nov. 10, 1988, [102 Stat. 3818][/us/stat/102/3818], as amended by [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 649\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–528; [Pub. L. 108–174][/us/pl/108/174], § 1(1), Dec. 9, 2003, [117 Stat. 2481][/us/stat/117/2481]; [Pub. L. 113–57][/us/pl/113/57], § 1, Dec. 9, 2013, [127 Stat. 656][/us/stat/127/656], provided that, effective 35 years after the 30th day beginning after Nov. 10, 1988, subsection (p) of this section is repealed.
 
  __References in Text__ 
 
@@ -737,137 +737,137 @@ For information regarding constitutionality of certain provisions of this sectio
 
     2015—Subsec. (z)(2)(B). [Pub. L. 114–94][/us/pl/114/94] substituted “directly employed by or contracted by” for “employed by”.
 
-    2005—Subsec. (a)(7), (8). [Pub. L. 109–92, § 6(a)][/us/pl/109/92/s6/a], added pars. (7) and (8) and struck out former pars. (7) and (8) which related to prohibitions on the manufacture, importation, sale, and delivery of armor piercing ammunition.
+    2005—Subsec. (a)(7), (8). [Pub. L. 109–92][/us/pl/109/92], § 6(a), added pars. (7) and (8) and struck out former pars. (7) and (8) which related to prohibitions on the manufacture, importation, sale, and delivery of armor piercing ammunition.
 
-    Subsec. (z). [Pub. L. 109–92, § 5(c)(1)][/us/pl/109/92/s5/c/1], added subsec. (z).
+    Subsec. (z). [Pub. L. 109–92][/us/pl/109/92], § 5(c)(1), added subsec. (z).
 
-    2002—Subsecs. (a) to (c), (p)(2) to (4). [Pub. L. 107–296, § 1112(f)(6)][/us/pl/107/296/s1112/f/6], substituted “Attorney General” for “Secretary” wherever appearing.
+    2002—Subsecs. (a) to (c), (p)(2) to (4). [Pub. L. 107–296][/us/pl/107/296], § 1112(f)(6), substituted “Attorney General” for “Secretary” wherever appearing.
 
-    Subsec. (p)(5)(A). [Pub. L. 107–296, § 1112(f)(4)][/us/pl/107/296/s1112/f/4], substituted “after consultation with the Attorney General” for “after consultation with the Secretary”.
+    Subsec. (p)(5)(A). [Pub. L. 107–296][/us/pl/107/296], § 1112(f)(4), substituted “after consultation with the Attorney General” for “after consultation with the Secretary”.
 
-    Subsecs. (r), (s). [Pub. L. 107–296, § 1112(f)(6)][/us/pl/107/296/s1112/f/6], substituted “Attorney General” for “Secretary” wherever appearing.
+    Subsecs. (r), (s). [Pub. L. 107–296][/us/pl/107/296], § 1112(f)(6), substituted “Attorney General” for “Secretary” wherever appearing.
 
     Subsec. (t)(1)(C). [Pub. L. 107–273][/us/pl/107/273] substituted “1028(d)” for “1028(d)(1)”.
 
-    Subsecs. (t)(3), (5), (v), (w). [Pub. L. 107–296, § 1112(f)(6)][/us/pl/107/296/s1112/f/6], substituted “Attorney General” for “Secretary” wherever appearing.
+    Subsecs. (t)(3), (5), (v), (w). [Pub. L. 107–296][/us/pl/107/296], § 1112(f)(6), substituted “Attorney General” for “Secretary” wherever appearing.
 
-    1998—Subsec. (d)(5). [Pub. L. 105–277, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 121(1)\], added par. (5) and struck out former par. (5) which read as follows: “who, being an alien, is illegally or unlawfully in the United States;”.
+    1998—Subsec. (d)(5). [Pub. L. 105–277][/us/pl/105/277], § 101(b) \[title I, § 121(1)\], added par. (5) and struck out former par. (5) which read as follows: “who, being an alien, is illegally or unlawfully in the United States;”.
 
-    Subsec. (g)(5). [Pub. L. 105–277, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 121(2)\], added par. (5) and struck out former par. (5) which read as follows: “who, being an alien, is illegally or unlawfully in the United States;”.
+    Subsec. (g)(5). [Pub. L. 105–277][/us/pl/105/277], § 101(b) \[title I, § 121(2)\], added par. (5) and struck out former par. (5) which read as follows: “who, being an alien, is illegally or unlawfully in the United States;”.
 
-    Subsec. (s)(3)(B)(v). [Pub. L. 105–277, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 121(3)\], added cl. (v) and struck out former cl. (v) which read as follows: “is not an alien who is illegally or unlawfully in the United States;”.
+    Subsec. (s)(3)(B)(v). [Pub. L. 105–277][/us/pl/105/277], § 101(b) \[title I, § 121(3)\], added cl. (v) and struck out former cl. (v) which read as follows: “is not an alien who is illegally or unlawfully in the United States;”.
 
-    Subsec. (y). [Pub. L. 105–277, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 121(4)\], added subsec. (y).
+    Subsec. (y). [Pub. L. 105–277][/us/pl/105/277], § 101(b) \[title I, § 121(4)\], added subsec. (y).
 
-    1996—[Pub. L. 104–294, § 603(g)][/us/pl/104/294/s603/g], amended Appendix A by substituting “Uberti 1866 Sporting Rifle” for “Uberti 1866 Sporting Rilfe” in category designated “Centerfire Rifles—Lever & Slide”, “Sako FiberClass Sporter” for “Sako Fiberclass Sporter” in category designated “Centerfire Rifles—Bolt Action”, “Remington 870 SPS Special Purpose Magnum” for “Remington 879 SPS Special Purpose Magnum” in category designated “Shotguns—Slide Actions”, and “E.A.A./Sabatti Falcon-Mon Over/Under” for “E.A.A/Sabatti Falcon-Mon Over/Under” in category designated “Shotguns—Over/Unders”.
+    1996—[Pub. L. 104–294][/us/pl/104/294], § 603(g), amended Appendix A by substituting “Uberti 1866 Sporting Rifle” for “Uberti 1866 Sporting Rilfe” in category designated “Centerfire Rifles—Lever & Slide”, “Sako FiberClass Sporter” for “Sako Fiberclass Sporter” in category designated “Centerfire Rifles—Bolt Action”, “Remington 870 SPS Special Purpose Magnum” for “Remington 879 SPS Special Purpose Magnum” in category designated “Shotguns—Slide Actions”, and “E.A.A./Sabatti Falcon-Mon Over/Under” for “E.A.A/Sabatti Falcon-Mon Over/Under” in category designated “Shotguns—Over/Unders”.
 
-    Subsec. (d)(9). [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[§ 658(b)(1)\], added par. (9).
+    Subsec. (d)(9). [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[§ 658(b)(1)\], added par. (9).
 
-    Subsec. (g)(7). [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[§ 658(b)(2)(A)\], struck out “or” at end.
+    Subsec. (g)(7). [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[§ 658(b)(2)(A)\], struck out “or” at end.
 
-    Subsec. (g)(8)(C)(ii). [Pub. L. 104–294, § 603(b)][/us/pl/104/294/s603/b], which directed the amendment of cl. (ii) by substituting a semicolon for the comma at end, could not be executed because of the prior amendment by [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[§ 658(b)(2)\]. See below.
+    Subsec. (g)(8)(C)(ii). [Pub. L. 104–294][/us/pl/104/294], § 603(b), which directed the amendment of cl. (ii) by substituting a semicolon for the comma at end, could not be executed because of the prior amendment by [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[§ 658(b)(2)\]. See below.
 
-    [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[§ 658(b)(2)(B)\], substituted “; or” for comma at end.
+    [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[§ 658(b)(2)(B)\], substituted “; or” for comma at end.
 
-    Subsec. (g)(9). [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[§ 658(b)(2)(C)\], added par. (9).
+    Subsec. (g)(9). [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[§ 658(b)(2)(C)\], added par. (9).
 
-    Subsec. (q). [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 657\], amended subsec. (q) generally. Prior to amendment, subsec. (q) made it unlawful, with certain exceptions, for an individual knowingly to possess a firearm at a place that the individual knew, or had reasonable cause to believe, was a school zone or knowingly, or with reckless disregard for the safety of another, to discharge or attempt to discharge a firearm at a place that the individual knew was a school zone.
+    Subsec. (q). [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[title VI, § 657\], amended subsec. (q) generally. Prior to amendment, subsec. (q) made it unlawful, with certain exceptions, for an individual knowingly to possess a firearm at a place that the individual knew, or had reasonable cause to believe, was a school zone or knowingly, or with reckless disregard for the safety of another, to discharge or attempt to discharge a firearm at a place that the individual knew was a school zone.
 
-    Subsec. (s)(1). [Pub. L. 104–294, § 603(c)(1)][/us/pl/104/294/s603/c/1], amended directory language of [Pub. L. 103–322, § 320927][/us/pl/103/322/s320927]. See 1994 Amendment note below.
+    Subsec. (s)(1). [Pub. L. 104–294][/us/pl/104/294], § 603(c)(1), amended directory language of [Pub. L. 103–322][/us/pl/103/322], § 320927. See 1994 Amendment note below.
 
-    Subsec. (s)(3)(B)(i). [Pub. L. 104–208, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 658(b)(3)\], inserted “, and has not been convicted in any court of a misdemeanor crime of domestic violence” before the semicolon.
+    Subsec. (s)(3)(B)(i). [Pub. L. 104–208][/us/pl/104/208], § 101(f) \[title VI, § 658(b)(3)\], inserted “, and has not been convicted in any court of a misdemeanor crime of domestic violence” before the semicolon.
 
-    Subsec. (t)(2). [Pub. L. 104–294, § 603(d)][/us/pl/104/294/s603/d], substituted “subsection (g) or (n)” for “section 922(g) or (n)” in introductory provisions.
+    Subsec. (t)(2). [Pub. L. 104–294][/us/pl/104/294], § 603(d), substituted “subsection (g) or (n)” for “section 922(g) or (n)” in introductory provisions.
 
-    Subsec. (w)(4). [Pub. L. 104–294, § 603(e)][/us/pl/104/294/s603/e], substituted “[section 923(i) of this title][/us/usc/t18/s923/i]” for “[section 923(i) of title 18][/us/usc/t18/s923/i], United States Code,”.
+    Subsec. (w)(4). [Pub. L. 104–294][/us/pl/104/294], § 603(e), substituted “[section 923(i) of this title][/us/usc/t18/s923/i]” for “[section 923(i) of title 18][/us/usc/t18/s923/i], United States Code,”.
 
-    Subsec. (x). [Pub. L. 104–294, § 603(f)(1)][/us/pl/104/294/s603/f/1], amended directory language of [Pub. L. 103–322, § 110201(a)][/us/pl/103/322/s110201/a]. See 1994 Amendment note below.
+    Subsec. (x). [Pub. L. 104–294][/us/pl/104/294], § 603(f)(1), amended directory language of [Pub. L. 103–322][/us/pl/103/322], § 110201(a). See 1994 Amendment note below.
 
-    1994—[Pub. L. 103–322, § 110106][/us/pl/103/322/s110106], which added Appendix A specifying firearms that were not prohibited by subsec. (v)(1) at end of section, was repealed by [Pub. L. 103–322, § 110105(2)][/us/pl/103/322/s110105/2]. See Effective and Termination Dates of 1994 Amendment note below.
+    1994—[Pub. L. 103–322][/us/pl/103/322], § 110106, which added Appendix A specifying firearms that were not prohibited by subsec. (v)(1) at end of section, was repealed by [Pub. L. 103–322][/us/pl/103/322], § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
-    Subsec. (a)(9). [Pub. L. 103–322, § 110514][/us/pl/103/322/s110514], added par. (9).
+    Subsec. (a)(9). [Pub. L. 103–322][/us/pl/103/322], § 110514, added par. (9).
 
-    Subsec. (b)(1). [Pub. L. 103–322, § 330011(i)][/us/pl/103/322/s330011/i], amended directory language of [Pub. L. 101–647, § 3524][/us/pl/101/647/s3524]. See 1990 Amendment note below.
+    Subsec. (b)(1). [Pub. L. 103–322][/us/pl/103/322], § 330011(i), amended directory language of [Pub. L. 101–647][/us/pl/101/647], § 3524. See 1990 Amendment note below.
 
-    Subsec. (d)(8). [Pub. L. 103–322, § 110401(b)][/us/pl/103/322/s110401/b], added par. (8).
+    Subsec. (d)(8). [Pub. L. 103–322][/us/pl/103/322], § 110401(b), added par. (8).
 
-    Subsec. (g)(8). [Pub. L. 103–322, § 110401(c)][/us/pl/103/322/s110401/c], added par. (8).
+    Subsec. (g)(8). [Pub. L. 103–322][/us/pl/103/322], § 110401(c), added par. (8).
 
-    Subsec. (j). [Pub. L. 103–322, § 110511][/us/pl/103/322/s110511], amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “It shall be unlawful for any person to receive, conceal, store, barter, sell, or dispose of any stolen firearm or stolen ammunition, or pledge or accept as security for a loan any stolen firearm or stolen ammunition, which is moving as, which is a part of, which constitutes, or which has been shipped or transported in, interstate or foreign commerce, knowing or having reasonable cause to believe that the firearm or ammunition was stolen.”
+    Subsec. (j). [Pub. L. 103–322][/us/pl/103/322], § 110511, amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “It shall be unlawful for any person to receive, conceal, store, barter, sell, or dispose of any stolen firearm or stolen ammunition, or pledge or accept as security for a loan any stolen firearm or stolen ammunition, which is moving as, which is a part of, which constitutes, or which has been shipped or transported in, interstate or foreign commerce, knowing or having reasonable cause to believe that the firearm or ammunition was stolen.”
 
-    Subsec. (q). [Pub. L. 103–322, § 320904][/us/pl/103/322/s320904], added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
+    Subsec. (q). [Pub. L. 103–322][/us/pl/103/322], § 320904, added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
 
-    Subsec. (s)(1). [Pub. L. 103–322, § 320927][/us/pl/103/322/s320927], as amended by [Pub. L. 104–294, § 603(c)(1)][/us/pl/104/294/s603/c/1], inserted “(other than the return of a handgun to the person from whom it was received)” after “handgun” in introductory provisions.
+    Subsec. (s)(1). [Pub. L. 103–322][/us/pl/103/322], § 320927, as amended by [Pub. L. 104–294][/us/pl/104/294], § 603(c)(1), inserted “(other than the return of a handgun to the person from whom it was received)” after “handgun” in introductory provisions.
 
-    Subsec. (v). [Pub. L. 103–322, § 110102(a)][/us/pl/103/322/s110102/a], which added subsec. (v) prohibiting the manufacture, transfer, or possession of automatic assault weapons, was repealed by [Pub. L. 103–322, § 110105(2)][/us/pl/103/322/s110105/2]. See Effective and Termination Dates of 1994 Amendment note below.
+    Subsec. (v). [Pub. L. 103–322][/us/pl/103/322], § 110102(a), which added subsec. (v) prohibiting the manufacture, transfer, or possession of automatic assault weapons, was repealed by [Pub. L. 103–322][/us/pl/103/322], § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
-    Subsec. (w). [Pub. L. 103–322, § 110103(a)][/us/pl/103/322/s110103/a], which added subsec. (w) prohibiting the transfer or possession of a large capacity ammunition feeding device, was repealed by [Pub. L. 103–322, § 110105(2)][/us/pl/103/322/s110105/2]. See Effective and Termination Dates of 1994 Amendment note below.
+    Subsec. (w). [Pub. L. 103–322][/us/pl/103/322], § 110103(a), which added subsec. (w) prohibiting the transfer or possession of a large capacity ammunition feeding device, was repealed by [Pub. L. 103–322][/us/pl/103/322], § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
-    Subsec. (x). [Pub. L. 103–322, § 110201(a)][/us/pl/103/322/s110201/a], as amended by [Pub. L. 104–294, § 603(f)(1)][/us/pl/104/294/s603/f/1], added subsec. (x).
+    Subsec. (x). [Pub. L. 103–322][/us/pl/103/322], § 110201(a), as amended by [Pub. L. 104–294][/us/pl/104/294], § 603(f)(1), added subsec. (x).
 
-    1993—Subsec. (e). [Pub. L. 103–159, § 302(a)][/us/pl/103/159/s302/a], inserted at end “No common or contract carrier shall require or cause any label, tag, or other written notice to be placed on the outside of any package, luggage, or other container that such package, luggage, or other container contains a firearm.”
+    1993—Subsec. (e). [Pub. L. 103–159][/us/pl/103/159], § 302(a), inserted at end “No common or contract carrier shall require or cause any label, tag, or other written notice to be placed on the outside of any package, luggage, or other container that such package, luggage, or other container contains a firearm.”
 
-    Subsec. (f). [Pub. L. 103–159, § 302(b)][/us/pl/103/159/s302/b], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (f). [Pub. L. 103–159][/us/pl/103/159], § 302(b), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (s). [Pub. L. 103–159, § 102(a)(1)][/us/pl/103/159/s102/a/1], added subsec. (s).
+    Subsec. (s). [Pub. L. 103–159][/us/pl/103/159], § 102(a)(1), added subsec. (s).
 
-    Subsec. (t). [Pub. L. 103–159, § 102(b)][/us/pl/103/159/s102/b], added subsec. (t).
+    Subsec. (t). [Pub. L. 103–159][/us/pl/103/159], § 102(b), added subsec. (t).
 
-    Subsec. (u). [Pub. L. 103–159, § 302(c)][/us/pl/103/159/s302/c], added subsec. (u).
+    Subsec. (u). [Pub. L. 103–159][/us/pl/103/159], § 302(c), added subsec. (u).
 
-    1990—Subsec. (a)(5). [Pub. L. 101–647, § 2201][/us/pl/101/647/s2201], substituted “does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the transferor resides;” for “resides in any State other than that in which the transferor resides (or other than that in which its place of business is located if the transferor is a corporation or other business entity);”.
+    1990—Subsec. (a)(5). [Pub. L. 101–647][/us/pl/101/647], § 2201, substituted “does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the transferor resides;” for “resides in any State other than that in which the transferor resides (or other than that in which its place of business is located if the transferor is a corporation or other business entity);”.
 
-    Subsec. (b)(1). [Pub. L. 101–647, § 3524][/us/pl/101/647/s3524], as amended by [Pub. L. 103–322, § 330011(i)][/us/pl/103/322/s330011/i], substituted semicolon for period at end.
+    Subsec. (b)(1). [Pub. L. 101–647][/us/pl/101/647], § 3524, as amended by [Pub. L. 103–322][/us/pl/103/322], § 330011(i), substituted semicolon for period at end.
 
-    Subsec. (j). [Pub. L. 101–647, § 2202(a)][/us/pl/101/647/s2202/a], substituted “which constitutes, or which has been shipped or transported in” for “or which constitutes”.
+    Subsec. (j). [Pub. L. 101–647][/us/pl/101/647], § 2202(a), substituted “which constitutes, or which has been shipped or transported in” for “or which constitutes”.
 
-    Subsec. (k). [Pub. L. 101–647, § 2202(b)][/us/pl/101/647/s2202/b], inserted before period at end “or to possess or receive any firearm which has had the importer’s or manufacturer’s serial number removed, obliterated, or altered and has, at any time, been shipped or transported in interstate or foreign commerce”.
+    Subsec. (k). [Pub. L. 101–647][/us/pl/101/647], § 2202(b), inserted before period at end “or to possess or receive any firearm which has had the importer’s or manufacturer’s serial number removed, obliterated, or altered and has, at any time, been shipped or transported in interstate or foreign commerce”.
 
-    Subsec. (q). [Pub. L. 101–647, § 1702(b)(1)][/us/pl/101/647/s1702/b/1], added subsec. (q).
+    Subsec. (q). [Pub. L. 101–647][/us/pl/101/647], § 1702(b)(1), added subsec. (q).
 
-    Subsec. (r). [Pub. L. 101–647, § 2204(b)][/us/pl/101/647/s2204/b], added subsec. (r).
+    Subsec. (r). [Pub. L. 101–647][/us/pl/101/647], § 2204(b), added subsec. (r).
 
     1988—Subsec. (g)(3). [Pub. L. 100–690][/us/pl/100/690] inserted “who” before “is”.
 
     Subsec. (p). [Pub. L. 100–649][/us/pl/100/649] added subsec. (p).
 
-    1986—Subsec. (a)(1). [Pub. L. 99–308, § 102(1)][/us/pl/99/308/s102/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “for any person, except a licensed importer, licensed manufacturer, or licensed dealer, to engage in the business of importing, manufacturing, or dealing in firearms or ammunition, or in the course of such business to ship, transport, or receive any firearm or ammunition in interstate or foreign commerce;”
+    1986—Subsec. (a)(1). [Pub. L. 99–308][/us/pl/99/308], § 102(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “for any person, except a licensed importer, licensed manufacturer, or licensed dealer, to engage in the business of importing, manufacturing, or dealing in firearms or ammunition, or in the course of such business to ship, transport, or receive any firearm or ammunition in interstate or foreign commerce;”
 
-    Subsec. (a)(2). [Pub. L. 99–308, § 102(2)(A)][/us/pl/99/308/s102/2/A], in provision preceding subpar. (A) struck out “or ammunition” after “any firearm”.
+    Subsec. (a)(2). [Pub. L. 99–308][/us/pl/99/308], § 102(2)(A), in provision preceding subpar. (A) struck out “or ammunition” after “any firearm”.
 
-    Subsec. (a)(2)(A). [Pub. L. 99–308, § 102(2)(B)][/us/pl/99/308/s102/2/B], substituted “licensed dealer, or licensed collector” for “or licensed dealer for the sole purpose of repair or customizing”.
+    Subsec. (a)(2)(A). [Pub. L. 99–308][/us/pl/99/308], § 102(2)(B), substituted “licensed dealer, or licensed collector” for “or licensed dealer for the sole purpose of repair or customizing”.
 
-    Subsec. (a)(3)(B). [Pub. L. 99–308, § 102(3)][/us/pl/99/308/s102/3], substituted “firearm” for “rifle or shotgun” and “with subsection (b)(3) of this section” for “with the provisions of subsection (b)(3) of this section”.
+    Subsec. (a)(3)(B). [Pub. L. 99–308][/us/pl/99/308], § 102(3), substituted “firearm” for “rifle or shotgun” and “with subsection (b)(3) of this section” for “with the provisions of subsection (b)(3) of this section”.
 
     Subsec. (a)(4). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
     Subsec. (a)(7), (8). [Pub. L. 99–408][/us/pl/99/408] added pars. (7) and (8).
 
-    Subsec. (b)(2). [Pub. L. 99–308, § 102(4)(A)][/us/pl/99/308/s102/4/A], struck out “or ammunition” after “firearm” in two places.
+    Subsec. (b)(2). [Pub. L. 99–308][/us/pl/99/308], § 102(4)(A), struck out “or ammunition” after “firearm” in two places.
 
-    Subsec. (b)(3)(A). [Pub. L. 99–308, § 102(4)(B)][/us/pl/99/308/s102/4/B], inserted a new cl. (A) and struck out former cl. (A) which provided that par. (3) “shall not apply to the sale or delivery of a rifle or shotgun to a resident of a State contiguous to the State in which the licensee’s place of business is located if the purchaser’s State of residence permits such sale or delivery by law, the sale fully complies with the legal conditions of sale in both such contiguous States, and the purchaser and the licensee have, prior to the sale, or delivery for sale, of the rifle or shotgun, complied with all of the requirements of section 922(c) applicable to intrastate transactions other than at the licensee’s business premises,”.
+    Subsec. (b)(3)(A). [Pub. L. 99–308][/us/pl/99/308], § 102(4)(B), inserted a new cl. (A) and struck out former cl. (A) which provided that par. (3) “shall not apply to the sale or delivery of a rifle or shotgun to a resident of a State contiguous to the State in which the licensee’s place of business is located if the purchaser’s State of residence permits such sale or delivery by law, the sale fully complies with the legal conditions of sale in both such contiguous States, and the purchaser and the licensee have, prior to the sale, or delivery for sale, of the rifle or shotgun, complied with all of the requirements of section 922(c) applicable to intrastate transactions other than at the licensee’s business premises,”.
 
-    Subsec. (b)(3)(B), (C). [Pub. L. 99–308, § 102(4)(C)][/us/pl/99/308/s102/4/C], (D), inserted “and” before “(B)” and struck out cl. (C), which provided that par. (3) “shall not preclude any person who is participating in any organized rifle or shotgun match or contest, or is engaged in hunting, in a State other than his State of residence and whose rifle or shotgun has been lost or stolen or has become inoperative in such other State, from purchasing a rifle or shotgun in such other State from a licensed dealer if such person presents to such dealer a sworn statement (i) that his rifle or shotgun was lost or stolen or became inoperative while participating in such a match or contest, or while engaged in hunting, in such other State, and (ii) identifying the chief law enforcement officer of the locality in which such person resides, to whom such licensed dealer shall forward such statement by registered mail”.
+    Subsec. (b)(3)(B), (C). [Pub. L. 99–308][/us/pl/99/308], § 102(4)(C), (D), inserted “and” before “(B)” and struck out cl. (C), which provided that par. (3) “shall not preclude any person who is participating in any organized rifle or shotgun match or contest, or is engaged in hunting, in a State other than his State of residence and whose rifle or shotgun has been lost or stolen or has become inoperative in such other State, from purchasing a rifle or shotgun in such other State from a licensed dealer if such person presents to such dealer a sworn statement (i) that his rifle or shotgun was lost or stolen or became inoperative while participating in such a match or contest, or while engaged in hunting, in such other State, and (ii) identifying the chief law enforcement officer of the locality in which such person resides, to whom such licensed dealer shall forward such statement by registered mail”.
 
     Subsec. (b)(4). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-    Subsec. (b)(5). [Pub. L. 99–308, § 102(4)(E)][/us/pl/99/308/s102/4/E], substituted “or armor-piercing ammunition” for “or ammunition except .22 caliber rimfire ammunition”.
+    Subsec. (b)(5). [Pub. L. 99–308][/us/pl/99/308], § 102(4)(E), substituted “or armor-piercing ammunition” for “or ammunition except .22 caliber rimfire ammunition”.
 
-    Subsec. (d). [Pub. L. 99–308, § 102(5)(A)][/us/pl/99/308/s102/5/A], substituted “person” for “licensed importer, licensed manufacturer, licensed dealer, or licensed collector” in provision preceding par. (1).
+    Subsec. (d). [Pub. L. 99–308][/us/pl/99/308], § 102(5)(A), substituted “person” for “licensed importer, licensed manufacturer, licensed dealer, or licensed collector” in provision preceding par. (1).
 
-    Subsec. (d)(3). [Pub. L. 99–308, § 102(5)(B)][/us/pl/99/308/s102/5/B], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “is an unlawful user of or addicted to marihuana or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4731(a) of the Internal Revenue Code of 1954); or”.
+    Subsec. (d)(3). [Pub. L. 99–308][/us/pl/99/308], § 102(5)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “is an unlawful user of or addicted to marihuana or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4731(a) of the Internal Revenue Code of 1954); or”.
 
-    Subsec. (d)(5) to (7). [Pub. L. 99–308, § 102(5)(C)][/us/pl/99/308/s102/5/C], (D), added pars. (5) to (7).
+    Subsec. (d)(5) to (7). [Pub. L. 99–308][/us/pl/99/308], § 102(5)(C), (D), added pars. (5) to (7).
 
-    Subsec. (g). [Pub. L. 99–308, § 102(6)(D)][/us/pl/99/308/s102/6/D], in concluding provision substituted “in interstate or foreign commerce, or possess in or affecting commerce, any firearm or ammunition; or to receive any firearm or ammunition which has been shipped or transported in interstate or foreign commerce” for “any firearm or ammunition in interstate or foreign commerce”.
+    Subsec. (g). [Pub. L. 99–308][/us/pl/99/308], § 102(6)(D), in concluding provision substituted “in interstate or foreign commerce, or possess in or affecting commerce, any firearm or ammunition; or to receive any firearm or ammunition which has been shipped or transported in interstate or foreign commerce” for “any firearm or ammunition in interstate or foreign commerce”.
 
-    Subsec. (g)(1). [Pub. L. 99–308, § 102(6)(A)][/us/pl/99/308/s102/6/A], struck out “is under indictment for, or who” after “who”.
+    Subsec. (g)(1). [Pub. L. 99–308][/us/pl/99/308], § 102(6)(A), struck out “is under indictment for, or who” after “who”.
 
-    Subsec. (g)(3). [Pub. L. 99–308, § 102(6)(B)][/us/pl/99/308/s102/6/B], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “who is an unlawful user of or addicted to marihuana or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4731(a) of the Internal Revenue Code of 1954); or”.
+    Subsec. (g)(3). [Pub. L. 99–308][/us/pl/99/308], § 102(6)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “who is an unlawful user of or addicted to marihuana or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4731(a) of the Internal Revenue Code of 1954); or”.
 
-    Subsec. (g)(5) to (7). [Pub. L. 99–308, § 102(6)(C)][/us/pl/99/308/s102/6/C], added pars. (5) to (7).
+    Subsec. (g)(5) to (7). [Pub. L. 99–308][/us/pl/99/308], § 102(6)(C), added pars. (5) to (7).
 
-    Subsec. (h). [Pub. L. 99–308, § 102(7)][/us/pl/99/308/s102/7], amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “It shall be unlawful for any person—
+    Subsec. (h). [Pub. L. 99–308][/us/pl/99/308], § 102(7), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “It shall be unlawful for any person—
 
     “(1) who is under indictment for, or who has been convicted in any court of, a crime punishable by imprisonment for a term exceeding one year;
 
@@ -879,9 +879,9 @@ For information regarding constitutionality of certain provisions of this sectio
 
     to receive any firearm or ammunition which has been shipped or transported in interstate or foreign commerce.”
 
-    Subsec. (n). [Pub. L. 99–308, § 102(8)][/us/pl/99/308/s102/8], added subsec. (n).
+    Subsec. (n). [Pub. L. 99–308][/us/pl/99/308], § 102(8), added subsec. (n).
 
-    Subsec. (o). [Pub. L. 99–308, § 102(9)][/us/pl/99/308/s102/9], added subsec. (o).
+    Subsec. (o). [Pub. L. 99–308][/us/pl/99/308], § 102(9), added subsec. (o).
 
     1982—Subsec. (b)(5). [Pub. L. 97–377][/us/pl/97/377] inserted “except .22 caliber rimfire ammunition” after “or ammunition”.
 
@@ -933,7 +933,7 @@ For information regarding constitutionality of certain provisions of this sectio
 
     Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of [Pub. L. 108–458][/us/pl/108/458], set out as a note under [section 3001 of Title 50][/us/usc/t50/s3001], War and National Defense.
 
-    Post Office Department, referred to in subsec. (c)(2), redesignated United States Postal Service pursuant to [Pub. L. 91–375, § 6][/us/pl/91/375/s6](o), Aug. 12, 1970, [84 Stat. 733][/us/stat/84/733], set out as a note preceding [section 101 of Title 39][/us/usc/t39/s101], Postal Service.
+    Post Office Department, referred to in subsec. (c)(2), redesignated United States Postal Service pursuant to [Pub. L. 91–375][/us/pl/91/375], § 6(o), Aug. 12, 1970, [84 Stat. 733][/us/stat/84/733], set out as a note preceding [section 101 of Title 39][/us/usc/t39/s101], Postal Service.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -941,7 +941,7 @@ For information regarding constitutionality of certain provisions of this sectio
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–92, § 5(d)][/us/pl/109/92/s5/d], Oct. 26, 2005, [119 Stat. 2101][/us/stat/119/2101], provided that: 
+[Pub. L. 109–92][/us/pl/109/92], § 5(d), Oct. 26, 2005, [119 Stat. 2101][/us/stat/119/2101], provided that: 
 
 > “This section \[amending this section and [section 924 of this title][/us/usc/t18/s924] and enacting provisions set out as notes under this section and [section 921 of this title][/us/usc/t18/s921]\] and the amendments made by this section shall take effect 180 days after the date of enactment of this Act \[Oct. 26, 2005\].”
 
@@ -951,15 +951,15 @@ For information regarding constitutionality of certain provisions of this sectio
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–294, title VI, § 603(c)(2)][/us/pl/104/294/s603/c/2], Oct. 11, 1996, [110 Stat. 3503][/us/stat/110/3503], provided that: 
+[Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 603(c)(2), Oct. 11, 1996, [110 Stat. 3503][/us/stat/110/3503], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect as if the amendment had been included in section 320927 of the Act referred to in paragraph (1) \[[Pub. L. 103–322][/us/pl/103/322]\] on the date of the enactment of such Act \[Sept. 13, 1994\].”
 
-[Pub. L. 104–294, title VI, § 603(f)(2)][/us/pl/104/294/s603/f/2], Oct. 11, 1996, [110 Stat. 3503][/us/stat/110/3503], provided that: 
+[Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 603(f)(2), Oct. 11, 1996, [110 Stat. 3503][/us/stat/110/3503], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect as if the amendment had been included in section 110201 of the Act referred to in paragraph (1) \[[Pub. L. 103–322][/us/pl/103/322]\] on the date of the enactment of such Act \[Sept. 13, 1994\].”
 
-[Pub. L. 104–294, title VI, § 603(i)(2)][/us/pl/104/294/s603/i/2], Oct. 11, 1996, [110 Stat. 3504][/us/stat/110/3504], provided that: 
+[Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 603(i)(2), Oct. 11, 1996, [110 Stat. 3504][/us/stat/110/3504], provided that: 
 
 > “The amendment made by paragraph (1) \[amending [section 210603(b) of Pub. L. 103–322][/us/pl/103/322/s210603/b], which amended sections 103(k) and 106(b)(2) of [Pub. L. 103–159][/us/pl/103/159], set out as notes below\] shall take effect as if the amendment had been included in section 210603(b) of the Act referred to in paragraph (1) \[[Pub. L. 103–322][/us/pl/103/322]\] on the date of the enactment of such Act \[Sept. 13, 1994\].”
 
@@ -967,7 +967,7 @@ For information regarding constitutionality of certain provisions of this sectio
 
     Amendment by sections 110102(a), 110103(a), and 110106 of [Pub. L. 103–322][/us/pl/103/322] repealed 10 years after Sept. 13, 1994, see [section 110105(2) of Pub. L. 103–322][/us/pl/103/322/s110105/2], formerly set out as a note under [section 921 of this title][/us/usc/t18/s921].
 
-    [Pub. L. 103–322, title XXXIII, § 330011(i)][/us/pl/103/322/s330011/i], Sept. 13, 1994, [108 Stat. 2145][/us/stat/108/2145], provided that the amendment made by that section is effective as of the date on which [section 3524 of Pub. L. 101–647][/us/pl/101/647/s3524] took effect.
+    [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330011(i), Sept. 13, 1994, [108 Stat. 2145][/us/stat/108/2145], provided that the amendment made by that section is effective as of the date on which [section 3524 of Pub. L. 101–647][/us/pl/101/647/s3524] took effect.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -975,7 +975,7 @@ For information regarding constitutionality of certain provisions of this sectio
 
  __Effective Date of 1988 Amendment; Sunset Provision__ 
 
-[Pub. L. 100–649, § 2(f)][/us/pl/100/649/s2/f], Nov. 10, 1988, [102 Stat. 3818][/us/stat/102/3818], as amended by [Pub. L. 101–647, title XXXV, § 3526(b)][/us/pl/101/647/s3526/b], Nov. 29, 1990, [104 Stat. 4924][/us/stat/104/4924]; [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 649\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–528; [Pub. L. 108–174, § 1][/us/pl/108/174/s1], Dec. 9, 2003, [117 Stat. 2481][/us/stat/117/2481]; [Pub. L. 113–57, § 1][/us/pl/113/57/s1], Dec. 9, 2013, [127 Stat. 656][/us/stat/127/656], provided that:
+[Pub. L. 100–649][/us/pl/100/649], § 2(f), Nov. 10, 1988, [102 Stat. 3818][/us/stat/102/3818], as amended by [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3526(b), Nov. 29, 1990, [104 Stat. 4924][/us/stat/104/4924]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 649\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–528; [Pub. L. 108–174][/us/pl/108/174], § 1, Dec. 9, 2003, [117 Stat. 2481][/us/stat/117/2481]; [Pub. L. 113–57][/us/pl/113/57], § 1, Dec. 9, 2013, [127 Stat. 656][/us/stat/127/656], provided that:
 
 >     “(1)  __Effective date__  __.—__ 
 
@@ -1013,7 +1013,7 @@ For information regarding constitutionality of certain provisions of this sectio
 
  __Purposes__ 
 
-[Pub. L. 109–92, § 5(b)][/us/pl/109/92/s5/b], Oct. 26, 2005, [119 Stat. 2099][/us/stat/119/2099], provided that: 
+[Pub. L. 109–92][/us/pl/109/92], § 5(b), Oct. 26, 2005, [119 Stat. 2099][/us/stat/119/2099], provided that: 
 
 > “The purposes of this section \[amending this section and [section 924 of this title][/us/usc/t18/s924] and enacting provisions set out as notes under this section and [section 921 of this title][/us/usc/t18/s921]\] are—
 
@@ -1027,7 +1027,7 @@ For information regarding constitutionality of certain provisions of this sectio
 
  __Liability; Evidence__ 
 
-[Pub. L. 109–92, § 5(c)(3)][/us/pl/109/92/s5/c/3], Oct. 26, 2005, [119 Stat. 2101][/us/stat/119/2101], provided that:
+[Pub. L. 109–92][/us/pl/109/92], § 5(c)(3), Oct. 26, 2005, [119 Stat. 2101][/us/stat/119/2101], provided that:
 
 >     “(A)  __Liability__  __.—__ 
 
@@ -1049,7 +1049,7 @@ For information regarding constitutionality of certain provisions of this sectio
 
  __Criminal Background Checks for Persons Offering Firearm as Collateral__ 
 
-[Pub. L. 112–55, div. B, title V, § 511][/us/pl/112/55/s511], Nov. 18, 2011, [125 Stat. 632][/us/stat/125/632], provided that: 
+[Pub. L. 112–55, div. B, title V][/us/pl/112/55/dB/tV], § 511, Nov. 18, 2011, [125 Stat. 632][/us/stat/125/632], provided that: 
 
 > “Hereafter, none of the funds appropriated pursuant to this Act \[div. B of [Pub. L. 112–55][/us/pl/112/55], see Tables for classification\] or any other provision of law may be used for—
 
@@ -1059,13 +1059,13 @@ For information regarding constitutionality of certain provisions of this sectio
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 106–58, title VI, § 634][/us/pl/106/58/s634], Sept. 29, 1999, [113 Stat. 473][/us/stat/113/473].
+    [Pub. L. 106–58, title VI][/us/pl/106/58/tVI], § 634, Sept. 29, 1999, [113 Stat. 473][/us/stat/113/473].
 
-    [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title VI, § 655\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–530.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title VI, § 655\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–530.
 
  __Availability of Violent Crime Reduction Trust Fund To Fund Activities Authorized by Brady Handgun Violence Prevention Act and National Child Protection Act of 1993__ 
 
-    [Pub. L. 103–322, title XXI, § 210603(a)][/us/pl/103/322/s210603/a], Sept. 13, 1994, [108 Stat. 2074][/us/stat/108/2074], which provided that certain amounts authorized in sections 103(k) and 106(b)(2) of [Pub. L. 103–159][/us/pl/103/159], set out below, and [section 5119b(b) of Title 42][/us/usc/t42/s5119b/b], The Public Health and Welfare, may be appropriated from the Violent Crime Reduction Trust Fund, was repealed by [Pub. L. 109–162, title XI, § 1154(b)(4)][/us/pl/109/162/s1154/b/4], Jan. 5, 2006, [119 Stat. 3113][/us/stat/119/3113].
+    [Pub. L. 103–322, title XXI][/us/pl/103/322/tXXI], § 210603(a), Sept. 13, 1994, [108 Stat. 2074][/us/stat/108/2074], which provided that certain amounts authorized in sections 103(k) and 106(b)(2) of [Pub. L. 103–159][/us/pl/103/159], set out below, and [section 5119b(b) of Title 42][/us/usc/t42/s5119b/b], The Public Health and Welfare, may be appropriated from the Violent Crime Reduction Trust Fund, was repealed by [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1154(b)(4), Jan. 5, 2006, [119 Stat. 3113][/us/stat/119/3113].
 
  __National Instant Criminal Background Check System__ 
 
@@ -1469,7 +1469,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     Not later than 6 months after the date of enactment of this Act \[Jan. 8, 2008\], the Comptroller General shall submit a report to Congress describing the findings of the audit conducted pursuant to subsection (a).”
 
-[Pub. L. 103–159, title I, § 103][/us/pl/103/159/s103], Nov. 30, 1993, [107 Stat. 1541][/us/stat/107/1541], as amended by [Pub. L. 103–322, title XXI, § 210603(b)][/us/pl/103/322/s210603/b], Sept. 13, 1994, [108 Stat. 2074][/us/stat/108/2074]; [Pub. L. 104–294, title VI, § 603(h)][/us/pl/104/294/s603/h], (i)(1), Oct. 11, 1996, [110 Stat. 3504][/us/stat/110/3504]; [Pub. L. 110–180, title I, § 101(a)][/us/pl/110/180/s101/a], Jan. 8, 2008, [121 Stat. 2561][/us/stat/121/2561], provided that:
+[Pub. L. 103–159, title I][/us/pl/103/159/tI], § 103, Nov. 30, 1993, [107 Stat. 1541][/us/stat/107/1541], as amended by [Pub. L. 103–322, title XXI][/us/pl/103/322/tXXI], § 210603(b), Sept. 13, 1994, [108 Stat. 2074][/us/stat/108/2074]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 603(h), (i)(1), Oct. 11, 1996, [110 Stat. 3504][/us/stat/110/3504]; [Pub. L. 110–180, title I][/us/pl/110/180/tI], § 101(a), Jan. 8, 2008, [121 Stat. 2561][/us/stat/121/2561], provided that:
 
 >     “(a)  __Determination of Timetables__  __.—__ 
 
@@ -1571,7 +1571,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Funding for Improvement of Criminal Records__ 
 
-[Pub. L. 103–159, title I, § 106(b)][/us/pl/103/159/s106/b], Nov. 30, 1993, [107 Stat. 1544][/us/stat/107/1544], as amended by [Pub. L. 103–322, title XXI, § 210603(b)][/us/pl/103/322/s210603/b], Sept. 13, 1994, [103 Stat. 2074][/us/stat/103/2074]; [Pub. L. 104–294, title VI, § 603(i)(1)][/us/pl/104/294/s603/i/1], Oct. 11, 1996, [110 Stat. 3504][/us/stat/110/3504], provided that:
+[Pub. L. 103–159, title I][/us/pl/103/159/tI], § 106(b), Nov. 30, 1993, [107 Stat. 1544][/us/stat/107/1544], as amended by [Pub. L. 103–322, title XXI][/us/pl/103/322/tXXI], § 210603(b), Sept. 13, 1994, [103 Stat. 2074][/us/stat/103/2074]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 603(i)(1), Oct. 11, 1996, [110 Stat. 3504][/us/stat/110/3504], provided that:
 
 >     “(1)  __Grants for the improvement of criminal records__  __.—__ 
 
@@ -1589,13 +1589,13 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Gun-Free Zone Signs__ 
 
-[Pub. L. 101–647, title XVII, § 1702(b)(5)][/us/pl/101/647/s1702/b/5], Nov. 29, 1990, [104 Stat. 4845][/us/stat/104/4845], provided that: 
+[Pub. L. 101–647, title XVII][/us/pl/101/647/tXVII], § 1702(b)(5), Nov. 29, 1990, [104 Stat. 4845][/us/stat/104/4845], provided that: 
 
 > “Federal, State, and local authorities are encouraged to cause signs to be posted around school zones giving warning of prohibition of the possession of firearms in a school zone.”
 
  __Identification of Felons and Other Persons Ineligible To Purchase Handguns__ 
 
-[Pub. L. 100–690, title VI, § 6213][/us/pl/100/690/s6213], Nov. 18, 1988, [102 Stat. 4360][/us/stat/102/4360], provided that:
+[Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6213, Nov. 18, 1988, [102 Stat. 4360][/us/stat/102/4360], provided that:
 
 >     “(a)  __Identification of Felons Ineligible To Purchase Handguns__  __.—__ 
 
@@ -1615,7 +1615,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Studies To Identify Equipment Capable of Distinguishing Security Exemplar From Other Metal Objects Likely To Be Carried on One’s Person__ 
 
-[Pub. L. 100–649, § 2(e)][/us/pl/100/649/s2/e], Nov. 10, 1988, [102 Stat. 3817][/us/stat/102/3817], provided that: 
+[Pub. L. 100–649][/us/pl/100/649], § 2(e), Nov. 10, 1988, [102 Stat. 3817][/us/stat/102/3817], provided that: 
 
 > “The Attorney General, the Secretary of the Treasury, and the Secretary of Transportation shall each conduct studies to identify available state-of-the-art equipment capable of detecting the Security Exemplar (as defined in [section 922(p)(2)(C) of title 18][/us/usc/t18/s922/p/2/C], United States Code) and distinguishing the Security Exemplar from innocuous metal objects likely to be carried on one’s person. Such studies shall be completed within 6 months after the date of the enactment of this Act \[Nov. 10, 1988\] and shall include a schedule providing for the installation of such equipment at the earliest practicable time at security checkpoints maintained or regulated by the agency conducting the study. Such equipment shall be installed in accordance with each schedule. In addition, such studies may include recommendations, where appropriate, concerning the use of secondary security equipment and procedures to enhance detection capability at security checkpoints.”
 
@@ -1721,55 +1721,55 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t8/s1101/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F26
 [/us/usc/t8/s1101/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F26
 [/us/usc/t18/s1028/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1028%2Fd
-[/us/pl/103/322/s110105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110105%2F2
+[/us/pl/103/322/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXI
 [/us/stat/108/2000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2000
 [/us/usc/t8/s1101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F3
 [/us/usc/t8/s1101/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F26
-[/us/pl/103/322/s110105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110105%2F2
+[/us/pl/103/322/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXI
 [/us/stat/108/2000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2000
-[/us/pl/90/351/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs902
+[/us/pl/90/351/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtIV
 [/us/stat/82/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F228
-[/us/pl/90/618/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2Fs102
+[/us/pl/90/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2FtI
 [/us/stat/82/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1216
-[/us/pl/97/377/s165/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs165%2Fa
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1923
-[/us/pl/99/308/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs102
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
 [/us/stat/100/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F451
-[/us/pl/99/408/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F408%2Fs2
+[/us/pl/99/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F408
 [/us/stat/100/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F920
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/100/649/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F649%2Fs2%2Fa
+[/us/pl/100/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F649
 [/us/stat/102/3816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3816
-[/us/pl/100/690/s7060/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7060%2Fc
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4404
-[/us/pl/101/647/s1702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1702%2Fb%2F1
+[/us/pl/101/647/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXVII
 [/us/stat/104/4844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4844
-[/us/pl/103/159/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2Fs102%2Fa%2F1
+[/us/pl/103/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2FtI
 [/us/stat/107/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1536
-[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXI
 [/us/stat/108/1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1996
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/104/294/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs603%2Fb
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3503
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
-[/us/pl/107/273/s4003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4003%2Fa%2F1
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1811
-[/us/pl/107/296/s1112/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Ff%2F4
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2276
 [/us/pl/109/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92
 [/us/stat/119/2099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2099
-[/us/pl/114/94/s11412/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs11412%2Fc%2F2
+[/us/pl/114/94/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtXI
 [/us/stat/129/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1688
-[/us/pl/100/649/s2/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F649%2Fs2%2Ff%2F2%2FA
+[/us/pl/100/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F649
 [/us/stat/102/3818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3818
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
-[/us/pl/108/174/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F174%2Fs1%2F1
+[/us/pl/108/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F174
 [/us/stat/117/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2481
-[/us/pl/113/57/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F57%2Fs1
+[/us/pl/113/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F57
 [/us/stat/127/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F656
 [/us/usc/t26/s5845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5845
 [/us/pl/100/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F649
@@ -1780,86 +1780,86 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/103/159/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2Fs103
 [/us/pl/103/159/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2Fs102%2Fa%2F1
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/109/92/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92%2Fs6%2Fa
-[/us/pl/109/92/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92%2Fs5%2Fc%2F1
-[/us/pl/107/296/s1112/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Ff%2F6
-[/us/pl/107/296/s1112/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Ff%2F4
-[/us/pl/107/296/s1112/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Ff%2F6
+[/us/pl/109/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92
+[/us/pl/109/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/107/296/s1112/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Ff%2F6
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
-[/us/pl/104/294/s603/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs603%2Fg
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
-[/us/pl/104/294/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs603%2Fb
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
-[/us/pl/104/294/s603/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs603%2Fc%2F1
-[/us/pl/103/322/s320927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320927
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
-[/us/pl/104/294/s603/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs603%2Fd
-[/us/pl/104/294/s603/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs603%2Fe
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/usc/t18/s923/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs923%2Fi
 [/us/usc/t18/s923/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs923%2Fi
-[/us/pl/104/294/s603/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs603%2Ff%2F1
-[/us/pl/103/322/s110201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110201%2Fa
-[/us/pl/103/322/s110106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110106
-[/us/pl/103/322/s110105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110105%2F2
-[/us/pl/103/322/s110514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110514
-[/us/pl/103/322/s330011/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Fi
-[/us/pl/101/647/s3524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3524
-[/us/pl/103/322/s110401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110401%2Fb
-[/us/pl/103/322/s110401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110401%2Fc
-[/us/pl/103/322/s110511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110511
-[/us/pl/103/322/s320904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320904
-[/us/pl/103/322/s320927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320927
-[/us/pl/104/294/s603/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs603%2Fc%2F1
-[/us/pl/103/322/s110102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110102%2Fa
-[/us/pl/103/322/s110105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110105%2F2
-[/us/pl/103/322/s110103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110103%2Fa
-[/us/pl/103/322/s110105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110105%2F2
-[/us/pl/103/322/s110201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110201%2Fa
-[/us/pl/104/294/s603/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs603%2Ff%2F1
-[/us/pl/103/159/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2Fs302%2Fa
-[/us/pl/103/159/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2Fs302%2Fb
-[/us/pl/103/159/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2Fs102%2Fa%2F1
-[/us/pl/103/159/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2Fs102%2Fb
-[/us/pl/103/159/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2Fs302%2Fc
-[/us/pl/101/647/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2201
-[/us/pl/101/647/s3524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3524
-[/us/pl/103/322/s330011/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Fi
-[/us/pl/101/647/s2202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2202%2Fa
-[/us/pl/101/647/s2202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2202%2Fb
-[/us/pl/101/647/s1702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1702%2Fb%2F1
-[/us/pl/101/647/s2204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2204%2Fb
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/103/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159
+[/us/pl/103/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159
+[/us/pl/103/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159
+[/us/pl/103/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159
+[/us/pl/103/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F649
-[/us/pl/99/308/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs102%2F1
-[/us/pl/99/308/s102/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs102%2F2%2FA
-[/us/pl/99/308/s102/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs102%2F2%2FB
-[/us/pl/99/308/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs102%2F3
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F408
-[/us/pl/99/308/s102/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs102%2F4%2FA
-[/us/pl/99/308/s102/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs102%2F4%2FB
-[/us/pl/99/308/s102/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs102%2F4%2FC
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/308/s102/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs102%2F4%2FE
-[/us/pl/99/308/s102/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs102%2F5%2FA
-[/us/pl/99/308/s102/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs102%2F5%2FB
-[/us/pl/99/308/s102/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs102%2F5%2FC
-[/us/pl/99/308/s102/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs102%2F6%2FD
-[/us/pl/99/308/s102/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs102%2F6%2FA
-[/us/pl/99/308/s102/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs102%2F6%2FB
-[/us/pl/99/308/s102/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs102%2F6%2FC
-[/us/pl/99/308/s102/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs102%2F7
-[/us/pl/99/308/s102/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs102%2F8
-[/us/pl/99/308/s102/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs102%2F9
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
 [/us/pl/97/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377
 [/us/pl/90/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618
 [/us/pl/90/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618
@@ -1885,26 +1885,26 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/90/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
-[/us/pl/91/375/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F733
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1003
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
-[/us/pl/109/92/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92%2Fs5%2Fd
+[/us/pl/109/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92
 [/us/stat/119/2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2101
 [/us/usc/t18/s924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs924
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
-[/us/pl/104/294/s603/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs603%2Fc%2F2
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3503
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/104/294/s603/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs603%2Ff%2F2
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3503
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/104/294/s603/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs603%2Fi%2F2
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3504
 [/us/pl/103/322/s210603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs210603%2Fb
 [/us/pl/103/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159
@@ -1912,21 +1912,21 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/103/322/s110105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs110105%2F2
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
-[/us/pl/103/322/s330011/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Fi
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2145
 [/us/pl/101/647/s3524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3524
 [/us/pl/101/647/s1702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1702%2Fb%2F1
 [/us/pl/101/647/s1702/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1702%2Fb%2F4
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
-[/us/pl/100/649/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F649%2Fs2%2Ff
+[/us/pl/100/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F649
 [/us/stat/102/3818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3818
-[/us/pl/101/647/s3526/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3526%2Fb
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4924
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
-[/us/pl/108/174/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F174%2Fs1
+[/us/pl/108/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F174
 [/us/stat/117/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2481
-[/us/pl/113/57/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F57%2Fs1
+[/us/pl/113/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F57
 [/us/stat/127/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F656
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
 [/us/usc/t18/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922
@@ -1937,13 +1937,13 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/90/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618
 [/us/pl/90/618/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2Fs105
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
-[/us/pl/109/92/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92%2Fs5%2Fb
+[/us/pl/109/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92
 [/us/stat/119/2099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2099
 [/us/usc/t18/s924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs924
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
 [/us/pl/109/92/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92%2Fs5%2Fb
 [/us/usc/t15/s7903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7903
-[/us/pl/109/92/s5/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92%2Fs5%2Fc%2F3
+[/us/pl/109/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92
 [/us/stat/119/2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2101
 [/us/usc/t18/s924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs924
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
@@ -1951,19 +1951,19 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t18/s924/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs924%2Fp
 [/us/pl/109/92/s5/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92%2Fs5%2Fc%2F3
 [/us/usc/t15/s7903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7903
-[/us/pl/112/55/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs511
+[/us/pl/112/55/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2FdB%2FtV
 [/us/stat/125/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F632
 [/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
 [/us/usc/t18/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922
-[/us/pl/106/58/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2Fs634
+[/us/pl/106/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtVI
 [/us/stat/113/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F473
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
-[/us/pl/103/322/s210603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs210603%2Fa
+[/us/pl/103/322/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXI
 [/us/stat/108/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2074
 [/us/pl/103/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159
 [/us/usc/t42/s5119b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5119b%2Fb
-[/us/pl/109/162/s1154/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1154%2Fb%2F4
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3113
 [/us/pl/110/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F180
 [/us/stat/121/2559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2559
@@ -1999,13 +1999,13 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t18/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922
 [/us/usc/t18/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922
 [/us/pl/103/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159
-[/us/pl/103/159/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2Fs103
+[/us/pl/103/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2FtI
 [/us/stat/107/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1541
-[/us/pl/103/322/s210603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs210603%2Fb
+[/us/pl/103/322/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXI
 [/us/stat/108/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2074
-[/us/pl/104/294/s603/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs603%2Fh
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3504
-[/us/pl/110/180/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F180%2Fs101%2Fa
+[/us/pl/110/180/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F180%2FtI
 [/us/stat/121/2561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2561
 [/us/usc/t18/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922
 [/us/usc/t18/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922
@@ -2013,20 +2013,20 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t18/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922
 [/us/usc/t18/s921/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921%2Fa%2F9
 [/us/usc/t18/s921/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921%2Fa
-[/us/pl/103/159/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2Fs106%2Fb
+[/us/pl/103/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2FtI
 [/us/stat/107/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1544
-[/us/pl/103/322/s210603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs210603%2Fb
+[/us/pl/103/322/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXI
 [/us/stat/103/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2074
-[/us/pl/104/294/s603/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs603%2Fi%2F1
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3504
-[/us/pl/101/647/s1702/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1702%2Fb%2F5
+[/us/pl/101/647/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXVII
 [/us/stat/104/4845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4845
-[/us/pl/100/690/s6213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6213
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4360
 [/us/usc/t18/s922/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922%2Fg%2F1
 [/us/usc/t18/s922/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922%2Fg
 [/us/usc/t18/s921/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921%2Fa
-[/us/pl/100/649/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F649%2Fs2%2Fe
+[/us/pl/100/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F649
 [/us/stat/102/3817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3817
 [/us/usc/t18/s922/p/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922%2Fp%2F2%2FC
 [/us/pl/103/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159

@@ -47,13 +47,13 @@
 
         (5) the impact of compliance with the time limits of subsections (b) and (c) of section 3161 upon the litigation of civil cases by the offices of the United States Attorneys and the rule changes, statutory amendments, and resources necessary to assure that such litigation is not prejudiced by full compliance with this chapter.
 
-(Added [Pub. L. 93–619, title I, § 101][/us/pl/93/619/s101], Jan. 3, 1975, [88 Stat. 2083][/us/stat/88/2083]; amended [Pub. L. 96–43, § 9(e)][/us/pl/96/43/s9/e], Aug. 2, 1979, [93 Stat. 330][/us/stat/93/330].)
+(Added [Pub. L. 93–619, title I][/us/pl/93/619/tI], § 101, Jan. 3, 1975, [88 Stat. 2083][/us/stat/88/2083]; amended [Pub. L. 96–43][/us/pl/96/43], § 9(e), Aug. 2, 1979, [93 Stat. 330][/us/stat/93/330].)
 
  __Amendments__ 
 
-    1979—Subsec. (b). [Pub. L. 96–43, § 9(e)(1)][/us/pl/96/43/s9/e/1], inserted last sentence containing pars. (1) to (6).
+    1979—Subsec. (b). [Pub. L. 96–43][/us/pl/96/43], § 9(e)(1), inserted last sentence containing pars. (1) to (6).
 
-    Subsec. (c). [Pub. L. 96–43, § 9(e)(2)][/us/pl/96/43/s9/e/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 96–43][/us/pl/96/43], § 9(e)(2), added subsec. (c).
 
 ----------
 
@@ -63,11 +63,11 @@
 ----------
 
 [/us/usc/t18/s3165/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3165%2Fe
-[/us/pl/93/619/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2Fs101
+[/us/pl/93/619/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2FtI
 [/us/stat/88/2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2083
-[/us/pl/96/43/s9/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs9%2Fe
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 [/us/stat/93/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F330
-[/us/pl/96/43/s9/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs9%2Fe%2F1
-[/us/pl/96/43/s9/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs9%2Fe%2F2
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 
 

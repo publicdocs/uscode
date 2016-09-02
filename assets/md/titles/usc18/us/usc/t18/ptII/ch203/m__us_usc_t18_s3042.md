@@ -21,11 +21,11 @@
 
     Such marshal or other officer, or the deputies of such marshal or officer, when engaged in executing such warrant without the jurisdiction of the court to which they are attached, shall have all the powers of a marshal of the United States so far as such powers are requisite for the prisoner’s safekeeping and the execution of the warrant.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 815][/us/stat/62/815]; [Pub. L. 98–473, title II, § 204(b)][/us/pl/98/473/s204/b], Oct. 12, 1984, [98 Stat. 1985][/us/stat/98/1985].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 815][/us/stat/62/815]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 204(b), Oct. 12, 1984, [98 Stat. 1985][/us/stat/98/1985].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 662b ([Mar. 22, 1934, ch. 73, § 1][/us/act/1934-03-22/ch73/s1], [48 Stat. 454][/us/stat/48/454]).
+    Based on title 18, U.S.C., 1940 ed., § 662b ([Mar. 22, 1934, ch. 73][/us/act/1934-03-22/ch73], § 1, [48 Stat. 454][/us/stat/48/454]).
 
     Words “crime or” before “offense” were omitted as unnecessary.
 
@@ -50,9 +50,9 @@
 [/us/usc/t18/s3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3142
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F815
-[/us/pl/98/473/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs204%2Fb
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1985
-[/us/act/1934-03-22/ch73/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-22%2Fch73%2Fs1
+[/us/act/1934-03-22/ch73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-22%2Fch73
 [/us/stat/48/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F454
 [/us/usc/t18/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs5
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473

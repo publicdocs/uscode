@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on [section 44 of title 8][/us/usc/t8/s44], U.S.C., 1940 ed., Aliens and Nationality ([Mar. 1, 1875, ch. 114, § 4][/us/act/1875-03-01/ch114/s4], [18 Stat. 336][/us/stat/18/336]).
+    Based on [section 44 of title 8][/us/usc/t8/s44], U.S.C., 1940 ed., Aliens and Nationality ([Mar. 1, 1875, ch. 114][/us/act/1875-03-01/ch114], § 4, [18 Stat. 336][/us/stat/18/336]).
 
     Words “be deemed guilty of a misdemeanor, and” were deleted as unnecessary in view of definition of misdemeanor in [section 1 of this title][/us/usc/t18/s1].
 
@@ -41,7 +41,7 @@
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F696
 [/us/usc/t8/s44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs44
-[/us/act/1875-03-01/ch114/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-01%2Fch114%2Fs4
+[/us/act/1875-03-01/ch114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-01%2Fch114
 [/us/stat/18/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F336
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1
 [/us/usc/t18/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs203

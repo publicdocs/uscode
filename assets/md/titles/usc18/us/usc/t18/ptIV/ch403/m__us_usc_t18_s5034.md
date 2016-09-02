@@ -21,11 +21,11 @@
 
     If the juvenile has not been discharged before his initial appearance before the magistrate judge, the magistrate judge shall release the juvenile to his parents, guardian, custodian, or other responsible party (including, but not limited to, the director of a shelter-care facility) upon their promise to bring such juvenile before the appropriate court when requested by such court unless the magistrate judge determines, after hearing, at which the juvenile is represented by counsel, that the detention of such juvenile is required to secure his timely appearance before the appropriate court or to insure his safety or that of others.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 858][/us/stat/62/858]; [Pub. L. 87–428][/us/pl/87/428], Mar. 31, 1962, [76 Stat. 52][/us/stat/76/52]; [Pub. L. 93–415, title V, § 504][/us/pl/93/415/s504], Sept. 7, 1974, [88 Stat. 1135][/us/stat/88/1135]; [Pub. L. 100–690, title VII, § 7045][/us/pl/100/690/s7045], Nov. 18, 1988, [102 Stat. 4400][/us/stat/102/4400]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 858][/us/stat/62/858]; [Pub. L. 87–428][/us/pl/87/428], Mar. 31, 1962, [76 Stat. 52][/us/stat/76/52]; [Pub. L. 93–415, title V][/us/pl/93/415/tV], § 504, Sept. 7, 1974, [88 Stat. 1135][/us/stat/88/1135]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7045, Nov. 18, 1988, [102 Stat. 4400][/us/stat/102/4400]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 924 ([June 16, 1938, ch. 486, § 4][/us/act/1938-06-16/ch486/s4], [52 Stat. 765][/us/stat/52/765]).
+    Based on title 18, U.S.C., 1940 ed., § 924 ([June 16, 1938, ch. 486][/us/act/1938-06-16/ch486], § 4, [52 Stat. 765][/us/stat/52/765]).
 
     The words “foster homes” were inserted to remove any doubt as to the authority to commit to such foster homes in accordance with past and present administrative practice.
 
@@ -35,9 +35,9 @@
 
  __Codification__ 
 
-    Another [section 504 of title V of Pub. L. 93–415][/us/pl/93/415/s504], as added by [Pub. L. 107–273, div. C, title II, § 12222(a)][/us/pl/107/273/s12222/a], Nov. 2, 2002, [116 Stat. 1895][/us/stat/116/1895], is classified to [section 5783 of Title 42][/us/usc/t42/s5783], The Public Health and Welfare.
+    Another [section 504 of title V of Pub. L. 93–415][/us/pl/93/415/tV/s504], as added by [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12222(a), Nov. 2, 2002, [116 Stat. 1895][/us/stat/116/1895], is classified to [section 5783 of Title 42][/us/usc/t42/s5783], The Public Health and Welfare.
 
-    Another [section 504 of title V of Pub. L. 93–415][/us/pl/93/415/s504], as added by [Pub. L. 102–586, § 5(a)][/us/pl/102/586/s5/a], Nov. 4, 1992, [106 Stat. 5027][/us/stat/106/5027], was classified to [section 5783 of Title 42][/us/usc/t42/s5783], The Public Health and Welfare, prior to the general amendment of that title V by [Pub. L. 107–273][/us/pl/107/273].
+    Another [section 504 of title V of Pub. L. 93–415][/us/pl/93/415/tV/s504], as added by [Pub. L. 102–586][/us/pl/102/586], § 5(a), Nov. 4, 1992, [106 Stat. 5027][/us/stat/106/5027], was classified to [section 5783 of Title 42][/us/usc/t42/s5783], The Public Health and Welfare, prior to the general amendment of that title V by [Pub. L. 107–273][/us/pl/107/273].
 
  __Amendments__ 
 
@@ -62,20 +62,20 @@
 [/us/stat/62/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F858
 [/us/pl/87/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F428
 [/us/stat/76/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F52
-[/us/pl/93/415/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs504
+[/us/pl/93/415/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV
 [/us/stat/88/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1135
-[/us/pl/100/690/s7045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7045
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4400
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/act/1938-06-16/ch486/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-16%2Fch486%2Fs4
+[/us/act/1938-06-16/ch486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-16%2Fch486
 [/us/stat/52/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F765
-[/us/pl/93/415/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs504
-[/us/pl/107/273/s12222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12222%2Fa
+[/us/pl/93/415/tV/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV%2Fs504
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1895
 [/us/usc/t42/s5783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5783
-[/us/pl/93/415/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs504
-[/us/pl/102/586/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs5%2Fa
+[/us/pl/93/415/tV/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV%2Fs504
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5027
 [/us/usc/t42/s5783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5783
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273

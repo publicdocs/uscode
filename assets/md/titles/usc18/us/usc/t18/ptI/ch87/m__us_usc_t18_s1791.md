@@ -71,11 +71,11 @@
 
         (4) the term “prison” means a Federal correctional, detention, or penal facility or any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 786][/us/stat/62/786]; [Pub. L. 98–473, title II, § 1109(a)][/us/pl/98/473/s1109/a], Oct. 12, 1984, [98 Stat. 2147][/us/stat/98/2147]; [Pub. L. 99–646, § 52(a)][/us/pl/99/646/s52/a], Nov. 10, 1986, [100 Stat. 3606][/us/stat/100/3606]; [Pub. L. 100–690, title VI, § 6468(a)][/us/pl/100/690/s6468/a], (b), Nov. 18, 1988, [102 Stat. 4376][/us/stat/102/4376]; [Pub. L. 103–322, title IX, § 90101][/us/pl/103/322/s90101], title XXXIII, § 330003(a), Sept. 13, 1994,[108 Stat. 1986][/us/stat/108/1986], 2140; [Pub. L. 104–294, title VI, § 601(m)][/us/pl/104/294/s601/m], Oct. 11, 1996, [110 Stat. 3502][/us/stat/110/3502]; [Pub. L. 109–162, title XI, § 1178][/us/pl/109/162/s1178], Jan. 5, 2006, [119 Stat. 3126][/us/stat/119/3126]; [Pub. L. 111–225, § 2][/us/pl/111/225/s2], Aug. 10, 2010, [124 Stat. 2387][/us/stat/124/2387].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 786][/us/stat/62/786]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1109(a), Oct. 12, 1984, [98 Stat. 2147][/us/stat/98/2147]; [Pub. L. 99–646][/us/pl/99/646], § 52(a), Nov. 10, 1986, [100 Stat. 3606][/us/stat/100/3606]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6468(a), (b), Nov. 18, 1988, [102 Stat. 4376][/us/stat/102/4376]; [Pub. L. 103–322, title IX][/us/pl/103/322/tIX], § 90101, title XXXIII, § 330003(a), Sept. 13, 1994,[108 Stat. 1986][/us/stat/108/1986], 2140; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(m), Oct. 11, 1996, [110 Stat. 3502][/us/stat/110/3502]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1178, Jan. 5, 2006, [119 Stat. 3126][/us/stat/119/3126]; [Pub. L. 111–225][/us/pl/111/225], § 2, Aug. 10, 2010, [124 Stat. 2387][/us/stat/124/2387].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., §§ 753j, 908 ([May 14, 1930, ch. 274, § 11][/us/act/1930-05-14/ch274/s11], [46 Stat. 327][/us/stat/46/327]; [May 27, 1930, ch. 339, § 8][/us/act/1930-05-27/ch339/s8], [46 Stat. 390][/us/stat/46/390]).
+    Based on title 18, U.S.C., 1940 ed., §§ 753j, 908 ([May 14, 1930, ch. 274][/us/act/1930-05-14/ch274], § 11, [46 Stat. 327][/us/stat/46/327]; [May 27, 1930, ch. 339][/us/act/1930-05-27/ch339], § 8, [46 Stat. 390][/us/stat/46/390]).
 
     Section consolidates sections 753j and 908 of title 18, U.S.C., 1940 ed. The section was broadened to include the taking or sending out of contraband from the institution. This was suggested by representatives of the Federal Bureau of Prisons and the Criminal Division of the Department of Justice. In other respects the section was rewritten without change of substance.
 
@@ -91,11 +91,11 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(4). [Pub. L. 111–225, § 2(1)(A)][/us/pl/111/225/s2/1/A], substituted “, (d)(1)(E), or (d)(1)(F)” for “or (d)(1)(E)”.
+    2010—Subsec. (b)(4). [Pub. L. 111–225][/us/pl/111/225], § 2(1)(A), substituted “, (d)(1)(E), or (d)(1)(F)” for “or (d)(1)(E)”.
 
-    Subsec. (b)(5). [Pub. L. 111–225, § 2(1)(B)][/us/pl/111/225/s2/1/B], substituted “(d)(1)(G)” for “(d)(1)(F)”.
+    Subsec. (b)(5). [Pub. L. 111–225][/us/pl/111/225], § 2(1)(B), substituted “(d)(1)(G)” for “(d)(1)(F)”.
 
-    Subsec. (d)(1)(F), (G). [Pub. L. 111–225, § 2(2)][/us/pl/111/225/s2/2], added subpar. (F) and redesignated former subpar. (F) as (G).
+    Subsec. (d)(1)(F), (G). [Pub. L. 111–225][/us/pl/111/225], § 2(2), added subpar. (F) and redesignated former subpar. (F) as (G).
 
     2006—Subsec. (d)(4). [Pub. L. 109–162][/us/pl/109/162] inserted “or any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “penal facility”.
 
@@ -103,19 +103,19 @@
 
     1994—Subsec. (b)(2) to (5). [Pub. L. 103–322][/us/pl/103/322], §§ 90101(6), 330003(a), amended subsec. (b) identically, substituting “(d)” for “(c)” wherever appearing in pars. (2) to (5).
 
-    Subsec. (c). [Pub. L. 103–322, § 90101(1)][/us/pl/103/322/s90101/1], inserted at beginning “Any punishment imposed under subsection (b) for a violation of this section involving a controlled substance shall be consecutive to any other sentence imposed by any court for an offense involving such a controlled substance.”
+    Subsec. (c). [Pub. L. 103–322][/us/pl/103/322], § 90101(1), inserted at beginning “Any punishment imposed under subsection (b) for a violation of this section involving a controlled substance shall be consecutive to any other sentence imposed by any court for an offense involving such a controlled substance.”
 
-    Subsec. (d)(1)(A). [Pub. L. 103–322, § 90101(2)][/us/pl/103/322/s90101/2], inserted before semicolon at end “or a controlled substance in schedule I or II, other than marijuana or a controlled substance referred to in subparagraph (C) of this subsection”.
+    Subsec. (d)(1)(A). [Pub. L. 103–322][/us/pl/103/322], § 90101(2), inserted before semicolon at end “or a controlled substance in schedule I or II, other than marijuana or a controlled substance referred to in subparagraph (C) of this subsection”.
 
-    Subsec. (d)(1)(B). [Pub. L. 103–322, § 90101(3)][/us/pl/103/322/s90101/3], inserted “marijuana or a controlled substance in schedule III, other than a controlled substance referred to in subparagraph (C) of this subsection,” before “ammunition,”.
+    Subsec. (d)(1)(B). [Pub. L. 103–322][/us/pl/103/322], § 90101(3), inserted “marijuana or a controlled substance in schedule III, other than a controlled substance referred to in subparagraph (C) of this subsection,” before “ammunition,”.
 
-    Subsec. (d)(1)(C). [Pub. L. 103–322, § 90101(4)][/us/pl/103/322/s90101/4], inserted “methamphetamine, its salts, isomers, and salts of its isomers,” after “narcotic drug,”.
+    Subsec. (d)(1)(C). [Pub. L. 103–322][/us/pl/103/322], § 90101(4), inserted “methamphetamine, its salts, isomers, and salts of its isomers,” after “narcotic drug,”.
 
-    Subsec. (d)(1)(D). [Pub. L. 103–322, § 90101(5)][/us/pl/103/322/s90101/5], inserted “(A), (B), or” before “(C)”.
+    Subsec. (d)(1)(D). [Pub. L. 103–322][/us/pl/103/322], § 90101(5), inserted “(A), (B), or” before “(C)”.
 
-    1988—Subsec. (b). [Pub. L. 100–690, § 6468(a)][/us/pl/100/690/s6468/a], added par. (1), redesignated former pars. (1) to (4) as (2) to (5), respectively, and struck out “or (c)(1)(C)” after “subsection (c)(1)(B)” in par. (3) as redesignated.
+    1988—Subsec. (b). [Pub. L. 100–690][/us/pl/100/690], § 6468(a), added par. (1), redesignated former pars. (1) to (4) as (2) to (5), respectively, and struck out “or (c)(1)(C)” after “subsection (c)(1)(B)” in par. (3) as redesignated.
 
-    Subsecs. (c), (d). [Pub. L. 100–690, § 6468(b)][/us/pl/100/690/s6468/b], added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsecs. (c), (d). [Pub. L. 100–690][/us/pl/100/690], § 6468(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
     1986—[Pub. L. 99–646][/us/pl/99/646] amended section generally. Prior to amendment, section read as follows:
 
@@ -153,7 +153,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–646, § 52(b)][/us/pl/99/646/s52/b], Nov. 10, 1986, [100 Stat. 3607][/us/stat/100/3607], provided that: 
+[Pub. L. 99–646][/us/pl/99/646], § 52(b), Nov. 10, 1986, [100 Stat. 3607][/us/stat/100/3607], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect 30 days after the date of the enactment of this Act \[Nov. 10, 1986\].”
 
@@ -169,46 +169,46 @@
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F786
-[/us/pl/98/473/s1109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1109%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2147
-[/us/pl/99/646/s52/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs52%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3606
-[/us/pl/100/690/s6468/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6468%2Fa
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4376
-[/us/pl/103/322/s90101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90101
+[/us/pl/103/322/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIX
 [/us/stat/108/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1986
-[/us/pl/104/294/s601/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fm
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3502
-[/us/pl/109/162/s1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1178
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3126
-[/us/pl/111/225/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F225%2Fs2
+[/us/pl/111/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F225
 [/us/stat/124/2387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2387
-[/us/act/1930-05-14/ch274/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch274%2Fs11
+[/us/act/1930-05-14/ch274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch274
 [/us/stat/46/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F327
-[/us/act/1930-05-27/ch339/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-27%2Fch339%2Fs8
+[/us/act/1930-05-27/ch339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-27%2Fch339
 [/us/stat/46/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F390
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1
 [/us/usc/t18/s550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs550
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
-[/us/pl/111/225/s2/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F225%2Fs2%2F1%2FA
-[/us/pl/111/225/s2/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F225%2Fs2%2F1%2FB
-[/us/pl/111/225/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F225%2Fs2%2F2
+[/us/pl/111/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F225
+[/us/pl/111/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F225
+[/us/pl/111/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F225
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/103/322/s90101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90101%2F1
-[/us/pl/103/322/s90101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90101%2F2
-[/us/pl/103/322/s90101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90101%2F3
-[/us/pl/103/322/s90101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90101%2F4
-[/us/pl/103/322/s90101/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs90101%2F5
-[/us/pl/100/690/s6468/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6468%2Fa
-[/us/pl/100/690/s6468/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6468%2Fb
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
 [/us/usc/t18/s921/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921%2Fa%2F3
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/99/646/s52/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs52%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3607
 
 

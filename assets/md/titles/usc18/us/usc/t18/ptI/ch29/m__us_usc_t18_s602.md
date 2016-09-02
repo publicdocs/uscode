@@ -29,11 +29,11 @@
 
     (b) The prohibition in subsection (a) shall not apply to any activity of an employee (as defined in [section 7322(1) of title 5][/us/usc/t5/s7322/1]) or any individual employed in or under the United States Postal Service or the Postal Regulatory Commission, unless that activity is prohibited by section 7323 or 7324 of such title.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 722][/us/stat/62/722]; [Pub. L. 96–187, title II, § 201(a)(3)][/us/pl/96/187/s201/a/3], Jan. 8, 1980, [93 Stat. 1367][/us/stat/93/1367]; [Pub. L. 103–94, § 4(a)][/us/pl/103/94/s4/a], Oct. 6, 1993, [107 Stat. 1004][/us/stat/107/1004]; [Pub. L. 103–322, title XXXIII, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 722][/us/stat/62/722]; [Pub. L. 96–187, title II][/us/pl/96/187/tII], § 201(a)(3), Jan. 8, 1980, [93 Stat. 1367][/us/stat/93/1367]; [Pub. L. 103–94][/us/pl/103/94], § 4(a), Oct. 6, 1993, [107 Stat. 1004][/us/stat/107/1004]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(K), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 604(f), Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., §§ 208, 212 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], §§ 118, 122, [35 Stat. 1110][/us/stat/35/1110]; [Feb. 28, 1925, ch. 368, § 312][/us/act/1925-02-28/ch368/s312], [43 Stat. 1073][/us/stat/43/1073]).
+    Based on title 18, U.S.C., 1940 ed., §§ 208, 212 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], §§ 118, 122, [35 Stat. 1110][/us/stat/35/1110]; [Feb. 28, 1925, ch. 368][/us/act/1925-02-28/ch368], § 312, [43 Stat. 1073][/us/stat/43/1073]).
 
     This section consolidates sections 208 and 212 of title 18, U.S.C., 1940 ed.
 
@@ -75,17 +75,17 @@
 [/us/usc/t5/s7322/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7322%2F1
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F722
-[/us/pl/96/187/s201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs201%2Fa%2F3
+[/us/pl/96/187/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2FtII
 [/us/stat/93/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1367
-[/us/pl/103/94/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94%2Fs4%2Fa
+[/us/pl/103/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F94
 [/us/stat/107/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1004
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/109/435/s604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Ff
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
 [/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1110
-[/us/act/1925-02-28/ch368/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-28%2Fch368%2Fs312
+[/us/act/1925-02-28/ch368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-28%2Fch368
 [/us/stat/43/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1073
 [/us/usc/t18/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs201
 [/us/usc/t18/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs6

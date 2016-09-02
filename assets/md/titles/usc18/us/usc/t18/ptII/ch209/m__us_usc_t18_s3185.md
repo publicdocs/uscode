@@ -55,7 +55,7 @@
 
     If so held, such person shall be returned and surrendered to the authorities in control of such foreign country or territory on the order of the Secretary of State of the United States, and such authorities shall secure to such a person a fair and impartial trial.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 823][/us/stat/62/823]; [May 24, 1949, ch. 139, § 49][/us/act/1949-05-24/ch139/s49], [63 Stat. 96][/us/stat/63/96]; [Pub. L. 99–646, § 87(c)(6)][/us/pl/99/646/s87/c/6], Nov. 10, 1986, [100 Stat. 3623][/us/stat/100/3623]; [Pub. L. 99–654, § 3(a)(6)][/us/pl/99/654/s3/a/6], Nov. 14, 1986, [100 Stat. 3663][/us/stat/100/3663].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 823][/us/stat/62/823]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 49, [63 Stat. 96][/us/stat/63/96]; [Pub. L. 99–646][/us/pl/99/646], § 87(c)(6), Nov. 10, 1986, [100 Stat. 3623][/us/stat/100/3623]; [Pub. L. 99–654][/us/pl/99/654], § 3(a)(6), Nov. 14, 1986, [100 Stat. 3663][/us/stat/100/3663].)
 
  __Historical and Revision Notes__ 
 
@@ -90,11 +90,11 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F823
-[/us/act/1949-05-24/ch139/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs49
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F96
-[/us/pl/99/646/s87/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs87%2Fc%2F6
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3623
-[/us/pl/99/654/s3/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654%2Fs3%2Fa%2F6
+[/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
 [/us/stat/100/3663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3663
 [/us/act/1900-06-06/ch793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-06-06%2Fch793
 [/us/stat/31/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F656

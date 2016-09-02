@@ -23,7 +23,7 @@
 
     shall be fined under this title or imprisoned not more than one year, or both.
 
-(Added [Pub. L. 89–554, § 3(d)][/us/pl/89/554/s3/d], Sept. 6, 1966, [80 Stat. 608][/us/stat/80/608]; amended [Pub. L. 104–294, title VI, § 601(a)(8)][/us/pl/104/294/s601/a/8], Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498]; [Pub. L. 107–273, div. B, title III, § 3002(a)(3)][/us/pl/107/273/s3002/a/3], Nov. 2, 2002, [116 Stat. 1805][/us/stat/116/1805].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 3(d), Sept. 6, 1966, [80 Stat. 608][/us/stat/80/608]; amended [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(a)(8), Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498]; [Pub. L. 107–273, div. B, title III][/us/pl/107/273/dB/tIII], § 3002(a)(3), Nov. 2, 2002, [116 Stat. 1805][/us/stat/116/1805].)
 
 <table>
 
@@ -85,7 +85,7 @@ Aug. 23, 1912, ch. 350, § 5 (less so much as relates to removal), 37 Stat. 41
 
 </table>
 
-    The statement of the acts prohibited is supplied from [section 4 of the Act of Aug. 5, 1882, ch. 389][/us/act/1882-08-05/ch389/s4], [22 Stat. 255][/us/stat/22/255], as amended [June 22, 1906, ch. 3514][/us/act/1906-06-22/ch3514], §§ 6, 8, [34 Stat. 449][/us/stat/34/449], and [Sept. 23, 1950, ch. 1010, § 7][/us/act/1950-09-23/ch1010/s7], [64 Stat. 986][/us/stat/64/986], which is codified in sections 3103 and 5501 of title 5, United States Code.
+    The statement of the acts prohibited is supplied from [section 4 of the Act of Aug. 5, 1882, ch. 389][/us/act/1882-08-05/ch389/s4], [22 Stat. 255][/us/stat/22/255], as amended [June 22, 1906, ch. 3514][/us/act/1906-06-22/ch3514], §§ 6, 8, [34 Stat. 449][/us/stat/34/449], and [Sept. 23, 1950, ch. 1010][/us/act/1950-09-23/ch1010], § 7, [64 Stat. 986][/us/stat/64/986], which is codified in sections 3103 and 5501 of title 5, United States Code.
 
     The words “upon conviction thereof” are omitted as unnecessary because punishment can be imposed only after conviction.
 
@@ -104,17 +104,17 @@ Aug. 23, 1912, ch. 350, § 5 (less so much as relates to removal), 37 Stat. 41
 
 [/us/usc/t5/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3103
 [/us/usc/t5/s5501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5501
-[/us/pl/89/554/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs3%2Fd
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F608
-[/us/pl/104/294/s601/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fa%2F8
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3498
-[/us/pl/107/273/s3002/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs3002%2Fa%2F3
+[/us/pl/107/273/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIII
 [/us/stat/116/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1805
 [/us/act/1882-08-05/ch389/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-08-05%2Fch389%2Fs4
 [/us/stat/22/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F255
 [/us/act/1906-06-22/ch3514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-22%2Fch3514
 [/us/stat/34/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F449
-[/us/act/1950-09-23/ch1010/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fch1010%2Fs7
+[/us/act/1950-09-23/ch1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fch1010
 [/us/stat/64/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F986
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294

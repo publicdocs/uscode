@@ -119,39 +119,39 @@
 
         (2) If the defendant is absent (as defined by subsection (h)(3)) on the day set for trial, and the defendant’s subsequent appearance before the court on a bench warrant or other process or surrender to the court occurs not more than 21 days after the day set for trial, the time limit required by subsection (c), as extended by subsection (h), shall be further extended by 21 days.
 
-(Added [Pub. L. 93–619, title I, § 101][/us/pl/93/619/s101], Jan. 3, 1975, [88 Stat. 2076][/us/stat/88/2076]; amended [Pub. L. 96–43][/us/pl/96/43], §§ 2–5, Aug. 2, 1979, [93 Stat. 327][/us/stat/93/327], 328; [Pub. L. 98–473, title II, § 1219][/us/pl/98/473/s1219], Oct. 12, 1984, [98 Stat. 2167][/us/stat/98/2167]; [Pub. L. 100–690, title VI, § 6476][/us/pl/100/690/s6476], Nov. 18, 1988, [102 Stat. 4380][/us/stat/102/4380]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 110–406, § 13][/us/pl/110/406/s13], Oct. 13, 2008, [122 Stat. 4294][/us/stat/122/4294].)
+(Added [Pub. L. 93–619, title I][/us/pl/93/619/tI], § 101, Jan. 3, 1975, [88 Stat. 2076][/us/stat/88/2076]; amended [Pub. L. 96–43][/us/pl/96/43], §§ 2–5, Aug. 2, 1979, [93 Stat. 327][/us/stat/93/327], 328; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1219, Oct. 12, 1984, [98 Stat. 2167][/us/stat/98/2167]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6476, Nov. 18, 1988, [102 Stat. 4380][/us/stat/102/4380]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 110–406][/us/pl/110/406], § 13, Oct. 13, 2008, [122 Stat. 4294][/us/stat/122/4294].)
 
  __Amendments__ 
 
-    2008—Subsec. (h)(1)(B) to (J). [Pub. L. 110–406, § 13(1)][/us/pl/110/406/s13/1], redesignated subpars. (D) to (J) as (B) to (H), respectively, and struck out former subpars. (B) and (C) which read as follows:
+    2008—Subsec. (h)(1)(B) to (J). [Pub. L. 110–406][/us/pl/110/406], § 13(1), redesignated subpars. (D) to (J) as (B) to (H), respectively, and struck out former subpars. (B) and (C) which read as follows:
 
     “(B) delay resulting from any proceeding, including any examination of the defendant, pursuant to [section 2902 of title 28][/us/usc/t28/s2902], United States Code;
 
     “(C) delay resulting from deferral of prosecution pursuant to [section 2902 of title 28][/us/usc/t28/s2902], United States Code;”.
 
-    Subsec. (h)(5) to (9). [Pub. L. 110–406, § 13(2)][/us/pl/110/406/s13/2], (3), redesignated pars. (6) to (9) as (5) to (8), respectively, and struck out former par. (5) which read as follows: “Any period of delay resulting from the treatment of the defendant pursuant to [section 2902 of title 28][/us/usc/t28/s2902], United States Code.”
+    Subsec. (h)(5) to (9). [Pub. L. 110–406][/us/pl/110/406], § 13(2), (3), redesignated pars. (6) to (9) as (5) to (8), respectively, and struck out former par. (5) which read as follows: “Any period of delay resulting from the treatment of the defendant pursuant to [section 2902 of title 28][/us/usc/t28/s2902], United States Code.”
 
     1988—Subsec. (k). [Pub. L. 100–690][/us/pl/100/690] added subsec. (k).
 
-    1984—Subsec. (h)(8)(C). [Pub. L. 98–473, § 1219(1)][/us/pl/98/473/s1219/1], substituted “subparagraph (A) of this paragraph” for “paragraph (8)(A) of this subsection”.
+    1984—Subsec. (h)(8)(C). [Pub. L. 98–473][/us/pl/98/473], § 1219(1), substituted “subparagraph (A) of this paragraph” for “paragraph (8)(A) of this subsection”.
 
-    Subsec. (h)(9). [Pub. L. 98–473, § 1219(2)][/us/pl/98/473/s1219/2], added par. (9).
+    Subsec. (h)(9). [Pub. L. 98–473][/us/pl/98/473], § 1219(2), added par. (9).
 
-    1979—Subsec. (c)(1). [Pub. L. 96–43, § 2][/us/pl/96/43/s2], merged the ten day indictment-to-arraignment and the sixty day arraignment-to-trial limits into a single seventy day indictment-to-trial period.
+    1979—Subsec. (c)(1). [Pub. L. 96–43][/us/pl/96/43], § 2, merged the ten day indictment-to-arraignment and the sixty day arraignment-to-trial limits into a single seventy day indictment-to-trial period.
 
-    Subsec. (c)(2). [Pub. L. 96–43, § 2][/us/pl/96/43/s2], added par. (2).
+    Subsec. (c)(2). [Pub. L. 96–43][/us/pl/96/43], § 2, added par. (2).
 
-    Subsec. (d). [Pub. L. 96–43, § 3(a)][/us/pl/96/43/s3/a], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (d). [Pub. L. 96–43][/us/pl/96/43], § 3(a), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (e). [Pub. L. 96–43, § 3(b)][/us/pl/96/43/s3/b], substituted “seventy days” for “sixty days” in three places and inserted provisions excluding the periods of delay enumerated in subsec. (h) of this section in computing the time limitations specified in this section and applying the sanctions of [section 3162 of this title][/us/usc/t18/s3162] to this subsection.
+    Subsec. (e). [Pub. L. 96–43][/us/pl/96/43], § 3(b), substituted “seventy days” for “sixty days” in three places and inserted provisions excluding the periods of delay enumerated in subsec. (h) of this section in computing the time limitations specified in this section and applying the sanctions of [section 3162 of this title][/us/usc/t18/s3162] to this subsection.
 
-    Subsec. (h)(1). [Pub. L. 96–43, § 4][/us/pl/96/43/s4], added to the listing of excludable delays, delays resulting from the deferral of prosecution under [section 2902 of title 28][/us/usc/t28/s2902], delays caused by consideration by the court of proposed plea agreements, and delays resulting from the transportation of a defendant from another district or for the purpose of examination or hospitalization, and expanded provisions relating to exclusions of periods of delay resulting from hearings on pretrial motions, examinations and hearings relating to the mental or physical condition of defendant, or the removal of a defendant from another district under the Federal Rules of Criminal Procedure.
+    Subsec. (h)(1). [Pub. L. 96–43][/us/pl/96/43], § 4, added to the listing of excludable delays, delays resulting from the deferral of prosecution under [section 2902 of title 28][/us/usc/t28/s2902], delays caused by consideration by the court of proposed plea agreements, and delays resulting from the transportation of a defendant from another district or for the purpose of examination or hospitalization, and expanded provisions relating to exclusions of periods of delay resulting from hearings on pretrial motions, examinations and hearings relating to the mental or physical condition of defendant, or the removal of a defendant from another district under the Federal Rules of Criminal Procedure.
 
-    Subsec. (h)(8)(B)(ii). [Pub. L. 96–43, § 5(a)][/us/pl/96/43/s5/a], expanded provisions authorizing the granting of continuances based on the complexity or unusual nature of a case to include delays in preparation of all phases of a case, including pretrial motion preparation.
+    Subsec. (h)(8)(B)(ii). [Pub. L. 96–43][/us/pl/96/43], § 5(a), expanded provisions authorizing the granting of continuances based on the complexity or unusual nature of a case to include delays in preparation of all phases of a case, including pretrial motion preparation.
 
-    Subsec. (h)(8)(B)(iii). [Pub. L. 96–43, § 5(b)][/us/pl/96/43/s5/b], inserted provision authorizing a continuance where the delay in filing the indictment is caused by the arrest taking place at such time that the return and filing of the indictment can not reasonably be expected within the period specified in [section 3161(b) of this title][/us/usc/t18/s3161/b].
+    Subsec. (h)(8)(B)(iii). [Pub. L. 96–43][/us/pl/96/43], § 5(b), inserted provision authorizing a continuance where the delay in filing the indictment is caused by the arrest taking place at such time that the return and filing of the indictment can not reasonably be expected within the period specified in [section 3161(b) of this title][/us/usc/t18/s3161/b].
 
-    Subsec. (h)(8)(B)(iv). [Pub. L. 96–43, § 5(c)][/us/pl/96/43/s5/c], added cl. (iv).
+    Subsec. (h)(8)(B)(iv). [Pub. L. 96–43][/us/pl/96/43], § 5(c), added cl. (iv).
 
  __Change of Name__ 
 
@@ -163,13 +163,13 @@
 
  __Short Title of 1979 Amendment__ 
 
-[Pub. L. 96–43, § 1][/us/pl/96/43/s1], Aug. 2, 1979, [93 Stat. 327][/us/stat/93/327], provided: 
+[Pub. L. 96–43][/us/pl/96/43], § 1, Aug. 2, 1979, [93 Stat. 327][/us/stat/93/327], provided: 
 
 > “That this Act \[amending this section and sections 3163 to 3168, 3170 and 3174 of this title\] may be cited as the ‘Speedy Trial Act Amendments Act of 1979’.”
 
  __Short Title__ 
 
-[Pub. L. 93–619, § 1][/us/pl/93/619/s1], Jan. 3, 1975, [88 Stat. 2076][/us/stat/88/2076], provided: 
+[Pub. L. 93–619][/us/pl/93/619], § 1, Jan. 3, 1975, [88 Stat. 2076][/us/stat/88/2076], provided: 
 
 > “That this Act \[enacting this chapter and sections 3153 to 3156 of this title, and amending [section 3152 of this title][/us/usc/t18/s3152], and [section 604 of Title 28][/us/usc/t28/s604], Judiciary and Judicial Procedure\] may be cited as the ‘Speedy Trial Act of 1974’.”
 
@@ -181,45 +181,45 @@
 ----------
 
 [/us/usc/t18/s3292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3292
-[/us/pl/93/619/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2Fs101
+[/us/pl/93/619/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2FtI
 [/us/stat/88/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2076
 [/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 [/us/stat/93/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F327
-[/us/pl/98/473/s1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1219
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2167
-[/us/pl/100/690/s6476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6476
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4380
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/110/406/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs13
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/stat/122/4294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4294
-[/us/pl/110/406/s13/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs13%2F1
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/usc/t28/s2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2902
 [/us/usc/t28/s2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2902
-[/us/pl/110/406/s13/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs13%2F2
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/usc/t28/s2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2902
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/98/473/s1219/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1219%2F1
-[/us/pl/98/473/s1219/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1219%2F2
-[/us/pl/96/43/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs2
-[/us/pl/96/43/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs2
-[/us/pl/96/43/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs3%2Fa
-[/us/pl/96/43/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs3%2Fb
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 [/us/usc/t18/s3162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3162
-[/us/pl/96/43/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs4
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 [/us/usc/t28/s2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2902
-[/us/pl/96/43/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs5%2Fa
-[/us/pl/96/43/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs5%2Fb
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 [/us/usc/t18/s3161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3161%2Fb
-[/us/pl/96/43/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs5%2Fc
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473/s1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1220
 [/us/usc/t18/s3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3505
-[/us/pl/96/43/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs1
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 [/us/stat/93/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F327
-[/us/pl/93/619/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2Fs1
+[/us/pl/93/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619
 [/us/stat/88/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2076
 [/us/usc/t18/s3152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3152
 [/us/usc/t28/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs604

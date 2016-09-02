@@ -17,7 +17,7 @@
 
     If two or more persons conspire to violate section 1111, 1114, 1116, or 1119 of this title, and one or more of such persons do any overt act to effect the object of the conspiracy, each shall be punished by imprisonment for any term of years or for life.
 
-(Added [Pub. L. 92–539, title I, § 101][/us/pl/92/539/s101], Oct. 24, 1972, [86 Stat. 1071][/us/stat/86/1071]; amended [Pub. L. 103–322, title VI, § 60009(b)(1)][/us/pl/103/322/s60009/b/1], Sept. 13, 1994, [108 Stat. 1972][/us/stat/108/1972].)
+(Added [Pub. L. 92–539, title I][/us/pl/92/539/tI], § 101, Oct. 24, 1972, [86 Stat. 1071][/us/stat/86/1071]; amended [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60009(b)(1), Sept. 13, 1994, [108 Stat. 1972][/us/stat/108/1972].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/92/539/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F539%2Fs101
+[/us/pl/92/539/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F539%2FtI
 [/us/stat/86/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1071
-[/us/pl/103/322/s60009/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60009%2Fb%2F1
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1972
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

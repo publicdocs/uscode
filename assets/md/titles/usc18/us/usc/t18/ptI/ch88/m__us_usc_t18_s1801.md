@@ -39,11 +39,11 @@
 
     (c) This section does not prohibit any lawful law enforcement, correctional, or intelligence activity.
 
-(Added [Pub. L. 108–495, § 2(a)][/us/pl/108/495/s2/a], Dec. 23, 2004, [118 Stat. 3999][/us/stat/118/3999].)
+(Added [Pub. L. 108–495][/us/pl/108/495], § 2(a), Dec. 23, 2004, [118 Stat. 3999][/us/stat/118/3999].)
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–495, § 1][/us/pl/108/495/s1], Dec. 23, 2004, [118 Stat. 3999][/us/stat/118/3999], provided that: 
+[Pub. L. 108–495][/us/pl/108/495], § 1, Dec. 23, 2004, [118 Stat. 3999][/us/stat/118/3999], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Video Voyeurism Prevention Act of 2004’.”
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/108/495/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F495%2Fs2%2Fa
+[/us/pl/108/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F495
 [/us/stat/118/3999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3999
-[/us/pl/108/495/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F495%2Fs1
+[/us/pl/108/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F495
 [/us/stat/118/3999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3999
 
 

@@ -123,13 +123,13 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–294, title VI, § 601(a)(6)][/us/pl/104/294/s601/a/6], Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498], added item 1122.
+    1996—[Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(a)(6), Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498], added item 1122.
 
-    1994—[Pub. L. 103–322, title VI][/us/pl/103/322], §§ 60005(b), 60009(b)(2), 60012(b), 60015(b), Sept. 13, 1994, [108 Stat. 1970][/us/stat/108/1970], 1972–1974, added items 1118 to 1121.
+    1994—[Pub. L. 103–322, title VI][/us/pl/103/322/tVI], §§ 60005(b), 60009(b)(2), 60012(b), 60015(b), Sept. 13, 1994, [108 Stat. 1970][/us/stat/108/1970], 1972–1974, added items 1118 to 1121.
 
-    1976—[Pub. L. 94–467, § 3][/us/pl/94/467/s3], Oct. 8, 1976, [90 Stat. 1998][/us/stat/90/1998], substituted “official guests, or internationally protected persons” for “or official guests” in item 1116.
+    1976—[Pub. L. 94–467][/us/pl/94/467], § 3, Oct. 8, 1976, [90 Stat. 1998][/us/stat/90/1998], substituted “official guests, or internationally protected persons” for “or official guests” in item 1116.
 
-    1972—[Pub. L. 92–539, title I, § 102][/us/pl/92/539/s102], Oct. 24, 1972, [86 Stat. 1071][/us/stat/86/1071], added items 1116 and 1117.
+    1972—[Pub. L. 92–539, title I][/us/pl/92/539/tI], § 102, Oct. 24, 1972, [86 Stat. 1071][/us/stat/86/1071], added items 1116 and 1117.
 
 ----------
 
@@ -138,13 +138,13 @@
 ----------
 ----------
 
-[/us/pl/104/294/s601/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fa%2F6
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3498
-[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1970
-[/us/pl/94/467/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F467%2Fs3
+[/us/pl/94/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F467
 [/us/stat/90/1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1998
-[/us/pl/92/539/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F539%2Fs102
+[/us/pl/92/539/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F539%2FtI
 [/us/stat/86/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1071
 
 

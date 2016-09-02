@@ -17,7 +17,7 @@
 
     An offender transferred to the United States because of an act which would have been an act of juvenile delinquency had it been committed in the United States or any State thereof shall be subject to the provisions of chapter 403 of this title except as otherwise provided in the relevant treaty or in an agreement pursuant to such treaty between the Attorney General and the authority of the foreign country.
 
-(Added [Pub. L. 95–144, § 1][/us/pl/95/144/s1], Oct. 28, 1977, [91 Stat. 1218][/us/stat/91/1218].)
+(Added [Pub. L. 95–144][/us/pl/95/144], § 1, Oct. 28, 1977, [91 Stat. 1218][/us/stat/91/1218].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/144/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144%2Fs1
+[/us/pl/95/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144
 [/us/stat/91/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1218
 
 

@@ -31,7 +31,7 @@
 
     (4) the term “owner”, with respect to a trade secret, means the person or entity in whom or in which rightful legal or equitable title to, or license in, the trade secret is reposed.
 
-(Added [Pub. L. 104–294, title I, § 101(a)][/us/pl/104/294/s101/a], Oct. 11, 1996, [110 Stat. 3490][/us/stat/110/3490].)
+(Added [Pub. L. 104–294, title I][/us/pl/104/294/tI], § 101(a), Oct. 11, 1996, [110 Stat. 3490][/us/stat/110/3490].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/104/294/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs101%2Fa
+[/us/pl/104/294/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtI
 [/us/stat/110/3490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3490
 
 

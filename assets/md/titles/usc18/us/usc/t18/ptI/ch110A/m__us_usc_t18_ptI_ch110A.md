@@ -91,9 +91,9 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–294, title VI, § 604(a)(1)][/us/pl/104/294/s604/a/1], Oct. 11, 1996, [110 Stat. 3506][/us/stat/110/3506], amended analysis by inserting “Sec.” above section numbers.
+    1996—[Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(a)(1), Oct. 11, 1996, [110 Stat. 3506][/us/stat/110/3506], amended analysis by inserting “Sec.” above section numbers.
 
-    [Pub. L. 104–201, div. A, title X, § 1069(b)(3)][/us/pl/104/201/s1069/b/3], (c), Sept. 23, 1996, [110 Stat. 2656][/us/stat/110/2656], inserted “AND STALKING” after “VIOLENCE” in chapter heading and added item 2261A.
+    [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1069(b)(3), (c), Sept. 23, 1996, [110 Stat. 2656][/us/stat/110/2656], inserted “AND STALKING” after “VIOLENCE” in chapter heading and added item 2261A.
 
 ----------
 
@@ -102,9 +102,9 @@
 ----------
 ----------
 
-[/us/pl/104/294/s604/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fa%2F1
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3506
-[/us/pl/104/201/s1069/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1069%2Fb%2F3
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2656
 
 

@@ -17,7 +17,7 @@
 
     Whoever, being entitled to compensation under sections 8107–8113 and 8133 of title 5 and whose compensation by the terms of those sections stops or is reduced on his marriage or on the marriage of his dependent, accepts after such marriage any compensation or payment to which he is not entitled shall be fined under this title or imprisoned not more than one year, or both.
 
-(Added [Pub. L. 89–554, § 3(d)][/us/pl/89/554/s3/d], Sept. 6, 1966, [80 Stat. 610][/us/stat/80/610]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(I)][/us/pl/103/322/s330016/1/I], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 3(d), Sept. 6, 1966, [80 Stat. 610][/us/stat/80/610]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(I), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
 <table>
 
@@ -98,9 +98,9 @@ Oct. 14, 1949, ch. 691, § 106(e), 63 Stat. 860.  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs3%2Fd
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F610
-[/us/pl/103/322/s330016/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FI
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

@@ -107,23 +107,23 @@
 
  __Amendments__ 
 
-    2001—[Pub. L. 107–56, title III, § 373(c)][/us/pl/107/56/s373/c], Oct. 26, 2001, [115 Stat. 340][/us/stat/115/340], substituted “unlicensed” for “illegal” in item 1960.
+    2001—[Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 373(c), Oct. 26, 2001, [115 Stat. 340][/us/stat/115/340], substituted “unlicensed” for “illegal” in item 1960.
 
-    1992—[Pub. L. 102–550, title XV, § 1512(b)][/us/pl/102/550/s1512/b], Oct. 28, 1992, [106 Stat. 4058][/us/stat/106/4058], added item 1960.
+    1992—[Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1512(b), Oct. 28, 1992, [106 Stat. 4058][/us/stat/106/4058], added item 1960.
 
-    1988—[Pub. L. 100–690, title VII, § 7053(c)][/us/pl/100/690/s7053/c], Nov. 18, 1988, [102 Stat. 4402][/us/stat/102/4402], redesignated items 1952A and 1952B as 1958 and 1959, respectively, and transferred them to the end of the table of sections.
+    1988—[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7053(c), Nov. 18, 1988, [102 Stat. 4402][/us/stat/102/4402], redesignated items 1952A and 1952B as 1958 and 1959, respectively, and transferred them to the end of the table of sections.
 
-    1986—[Pub. L. 99–570, title I, § 1352(b)][/us/pl/99/570/s1352/b], Oct. 27, 1986, [100 Stat. 3207–21][/us/stat/100/3207-21], added items 1956 and 1957.
+    1986—[Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1352(b), Oct. 27, 1986, [100 Stat. 3207–21][/us/stat/100/3207-21], added items 1956 and 1957.
 
-    1984—[Pub. L. 98–473, title II, § 1002(b)][/us/pl/98/473/s1002/b], Oct. 12, 1984, [98 Stat. 2137][/us/stat/98/2137], added items 1952A and 1952B.
+    1984—[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1002(b), Oct. 12, 1984, [98 Stat. 2137][/us/stat/98/2137], added items 1952A and 1952B.
 
-    1970—[Pub. L. 91–452, title VIII, § 803(b)][/us/pl/91/452/s803/b], Oct. 15, 1970, [84 Stat. 938][/us/stat/84/938], added item 1955.
+    1970—[Pub. L. 91–452, title VIII][/us/pl/91/452/tVIII], § 803(b), Oct. 15, 1970, [84 Stat. 938][/us/stat/84/938], added item 1955.
 
-    1962—[Pub. L. 87–420, § 17(f)][/us/pl/87/420/s17/f], Mar. 20, 1962, [76 Stat. 43][/us/stat/76/43], added item 1954.
+    1962—[Pub. L. 87–420][/us/pl/87/420], § 17(f), Mar. 20, 1962, [76 Stat. 43][/us/stat/76/43], added item 1954.
 
-    1961—[Pub. L. 87–228, § 1(b)][/us/pl/87/228/s1/b], Sept. 13, 1961, [75 Stat. 499][/us/stat/75/499], added item 1952.
+    1961—[Pub. L. 87–228][/us/pl/87/228], § 1(b), Sept. 13, 1961, [75 Stat. 499][/us/stat/75/499], added item 1952.
 
-    [Pub. L. 87–218, § 1][/us/pl/87/218/s1], Sept. 13, 1961, [75 Stat. 492][/us/stat/75/492], added item 1953.
+    [Pub. L. 87–218][/us/pl/87/218], § 1, Sept. 13, 1961, [75 Stat. 492][/us/stat/75/492], added item 1953.
 
 ----------
 
@@ -132,23 +132,23 @@
 ----------
 ----------
 
-[/us/pl/107/56/s373/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs373%2Fc
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F340
-[/us/pl/102/550/s1512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1512%2Fb
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4058
-[/us/pl/100/690/s7053/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7053%2Fc
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4402
-[/us/pl/99/570/s1352/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1352%2Fb
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-21
-[/us/pl/98/473/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1002%2Fb
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2137
-[/us/pl/91/452/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs803%2Fb
+[/us/pl/91/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtVIII
 [/us/stat/84/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F938
-[/us/pl/87/420/s17/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F420%2Fs17%2Ff
+[/us/pl/87/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F420
 [/us/stat/76/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F43
-[/us/pl/87/228/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F228%2Fs1%2Fb
+[/us/pl/87/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F228
 [/us/stat/75/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F499
-[/us/pl/87/218/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F218%2Fs1
+[/us/pl/87/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F218
 [/us/stat/75/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F492
 
 

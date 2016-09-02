@@ -17,7 +17,7 @@
 
     Notwithstanding any other law, an indictment may be found or an information instituted at any time without limitation for any offense under section 1201 involving a minor victim, and for any felony under chapter 109A, 110 (except for section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “sections”. </sup></sup>  2257 and 2257A), or 117, or section 1591.
 
-(Added [Pub. L. 109–248, title II, § 211(1)][/us/pl/109/248/s211/1], July 27, 2006, [120 Stat. 616][/us/stat/120/616].)
+(Added [Pub. L. 109–248, title II][/us/pl/109/248/tII], § 211(1), July 27, 2006, [120 Stat. 616][/us/stat/120/616].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s211/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs211%2F1
+[/us/pl/109/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtII
 [/us/stat/120/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F616
 
 

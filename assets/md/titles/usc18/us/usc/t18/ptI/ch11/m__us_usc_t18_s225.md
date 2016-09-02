@@ -27,7 +27,7 @@
 
     (b) For purposes of subsection (a), the term “continuing financial crimes enterprise” means a series of violations under section 215, 656, 657, 1005, 1006, 1007, 1014, 1032, or 1344 of this title, or section 1341 or 1343 affecting a financial institution, committed by at least 4 persons acting in concert.
 
-(Added [Pub. L. 101–647, title XXV, § 2510(a)][/us/pl/101/647/s2510/a], Nov. 29, 1990, [104 Stat. 4863][/us/stat/104/4863].)
+(Added [Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2510(a), Nov. 29, 1990, [104 Stat. 4863][/us/stat/104/4863].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/101/647/s2510/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2510%2Fa
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4863
 
 

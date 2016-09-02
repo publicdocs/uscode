@@ -37,7 +37,7 @@
 
         The term “nonqualifying user” means a person who uses a traffic signal preemption transmitter and is not acting on behalf of a public agency or private corporation authorized by law to provide fire protection, law enforcement, emergency medical services, transit services, maintenance, or other services for a Federal, State, or local government entity, but does not include a person using a traffic signal preemption transmitter for classroom or instructional purposes.
 
-(Added [Pub. L. 109–59, title II, § 2018(a)][/us/pl/109/59/s2018/a], Aug. 10, 2005, [119 Stat. 1542][/us/stat/119/1542].)
+(Added [Pub. L. 109–59, title II][/us/pl/109/59/tII], § 2018(a), Aug. 10, 2005, [119 Stat. 1542][/us/stat/119/1542].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/109/59/s2018/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2018%2Fa
+[/us/pl/109/59/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtII
 [/us/stat/119/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1542
 [/us/usc/t18/s40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs40
 

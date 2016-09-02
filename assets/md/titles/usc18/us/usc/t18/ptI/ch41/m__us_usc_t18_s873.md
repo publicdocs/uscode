@@ -17,11 +17,11 @@
 
     Whoever, under a threat of informing, or as a consideration for not informing, against any violation of any law of the United States, demands or receives any money or other valuable thing, shall be fined under this title or imprisoned not more than one year, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 740][/us/stat/62/740]; [Pub. L. 103–322, title XXXIII, § 330016(1)(I)][/us/pl/103/322/s330016/1/I], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 740][/us/stat/62/740]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(I), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based upon title 18, U.S.C., 1940 ed., § 250 ([Mar. 4, 1909, ch. 321, § 145][/us/act/1909-03-04/ch321/s145], [35 Stat. 1114][/us/stat/35/1114]).
+    Based upon title 18, U.S.C., 1940 ed., § 250 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 145, [35 Stat. 1114][/us/stat/35/1114]).
 
     Only minor changes were made in phraseology.
 
@@ -38,9 +38,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F740
-[/us/pl/103/322/s330016/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FI
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/act/1909-03-04/ch321/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs145
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1114
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

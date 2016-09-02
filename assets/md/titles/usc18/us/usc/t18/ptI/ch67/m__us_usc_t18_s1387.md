@@ -17,7 +17,7 @@
 
     Whoever violates [section 2413 of title 38][/us/usc/t38/s2413] shall be fined under this title, imprisoned for not more than one year, or both.
 
-(Added [Pub. L. 109–228, § 3(a)][/us/pl/109/228/s3/a], May 29, 2006, [120 Stat. 388][/us/stat/120/388].)
+(Added [Pub. L. 109–228][/us/pl/109/228], § 3(a), May 29, 2006, [120 Stat. 388][/us/stat/120/388].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t38/s2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2413
-[/us/pl/109/228/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F228%2Fs3%2Fa
+[/us/pl/109/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F228
 [/us/stat/120/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F388
 
 

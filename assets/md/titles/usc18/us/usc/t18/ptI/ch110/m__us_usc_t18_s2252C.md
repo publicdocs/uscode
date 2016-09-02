@@ -35,7 +35,7 @@
 
         (2) the term “source code” means the combination of text and other characters comprising the content, both viewable and nonviewable, of a web page, including any website publishing language, programming language, protocol or functional content, as well as any successor languages or protocols.
 
-(Added [Pub. L. 109–248, title VII, § 703(a)][/us/pl/109/248/s703/a], July 27, 2006, [120 Stat. 648][/us/stat/120/648].)
+(Added [Pub. L. 109–248, title VII][/us/pl/109/248/tVII], § 703(a), July 27, 2006, [120 Stat. 648][/us/stat/120/648].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/109/248/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs703%2Fa
+[/us/pl/109/248/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtVII
 [/us/stat/120/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F648
 
 

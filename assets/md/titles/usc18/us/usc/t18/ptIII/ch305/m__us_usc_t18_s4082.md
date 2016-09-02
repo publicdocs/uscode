@@ -41,11 +41,11 @@
 
         the term “relative” shall mean a spouse, child (including stepchild, adopted child or child as to whom the prisoner, though not a natural parent, has acted in the place of a parent), parent (including a person who, though not a natural parent, has acted in the place of a parent), brother, or sister.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 850][/us/stat/62/850]; [Pub. L. 89–176, § 1][/us/pl/89/176/s1], Sept. 10, 1965, [79 Stat. 674][/us/stat/79/674]; [Pub. L. 93–209][/us/pl/93/209], Dec. 28, 1973, [87 Stat. 907][/us/stat/87/907]; [Pub. L. 98–473, title II, § 218(a)][/us/pl/98/473/s218/a], Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027]; [Pub. L. 99–646, § 57(a)][/us/pl/99/646/s57/a], Nov. 10, 1986, [100 Stat. 3611][/us/stat/100/3611].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 850][/us/stat/62/850]; [Pub. L. 89–176][/us/pl/89/176], § 1, Sept. 10, 1965, [79 Stat. 674][/us/stat/79/674]; [Pub. L. 93–209][/us/pl/93/209], Dec. 28, 1973, [87 Stat. 907][/us/stat/87/907]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 218(a), Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027]; [Pub. L. 99–646][/us/pl/99/646], § 57(a), Nov. 10, 1986, [100 Stat. 3611][/us/stat/100/3611].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 753f ([May 14, 1930, ch. 274, § 7][/us/act/1930-05-14/ch274/s7], [46 Stat. 326][/us/stat/46/326]; [June 14, 1941, ch. 204][/us/act/1941-06-14/ch204], [55 Stat. 252][/us/stat/55/252]; [Oct. 21, 1941, ch. 453][/us/act/1941-10-21/ch453], [55 Stat. 743][/us/stat/55/743]).
+    Based on title 18, U.S.C., 1940 ed., § 753f ([May 14, 1930, ch. 274][/us/act/1930-05-14/ch274], § 7, [46 Stat. 326][/us/stat/46/326]; [June 14, 1941, ch. 204][/us/act/1941-06-14/ch204], [55 Stat. 252][/us/stat/55/252]; [Oct. 21, 1941, ch. 453][/us/act/1941-10-21/ch453], [55 Stat. 743][/us/stat/55/743]).
 
     Words “by the juvenile court of the District of Columbia, as well as to those committed by any court of the United States,” at end of section were omitted as unnecessary, and word “all” inserted before “persons”, without change of meaning.
 
@@ -108,15 +108,15 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F850
-[/us/pl/89/176/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F176%2Fs1
+[/us/pl/89/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F176
 [/us/stat/79/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F674
 [/us/pl/93/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F209
 [/us/stat/87/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F907
-[/us/pl/98/473/s218/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs218%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2027
-[/us/pl/99/646/s57/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs57%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3611
-[/us/act/1930-05-14/ch274/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch274%2Fs7
+[/us/act/1930-05-14/ch274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch274
 [/us/stat/46/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F326
 [/us/act/1941-06-14/ch204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-14%2Fch204
 [/us/stat/55/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F252

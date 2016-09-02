@@ -19,7 +19,7 @@
 
     (b) As used in this section the term “criminal investigator” means any individual duly authorized by a department, agency, or armed force of the United States to conduct or engage in investigations for prosecutions for violations of health care offenses.
 
-(Added [Pub. L. 104–191, title II, § 245(a)][/us/pl/104/191/s245/a], Aug. 21, 1996, [110 Stat. 2017][/us/stat/110/2017].)
+(Added [Pub. L. 104–191, title II][/us/pl/104/191/tII], § 245(a), Aug. 21, 1996, [110 Stat. 2017][/us/stat/110/2017].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/104/191/s245/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs245%2Fa
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2017
 
 

@@ -29,7 +29,7 @@
 
         (5) Nothing in this chapter shall be construed to expand, restrict, or otherwise modify any right of an authorized local government official to proceed in State court, or take other enforcement actions, on the basis of an alleged violation of local or other law.
 
-(Added [Pub. L. 95–575, § 1][/us/pl/95/575/s1], Nov. 2, 1978, [92 Stat. 2465][/us/stat/92/2465]; amended [Pub. L. 107–296, title XI, § 1112(i)(2)][/us/pl/107/296/s1112/i/2], Nov. 25, 2002, [116 Stat. 2277][/us/stat/116/2277]; [Pub. L. 109–177, title I, § 121(f)][/us/pl/109/177/s121/f], Mar. 9, 2006, [120 Stat. 223][/us/stat/120/223].)
+(Added [Pub. L. 95–575][/us/pl/95/575], § 1, Nov. 2, 1978, [92 Stat. 2465][/us/stat/92/2465]; amended [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1112(i)(2), Nov. 25, 2002, [116 Stat. 2277][/us/stat/116/2277]; [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 121(f), Mar. 9, 2006, [120 Stat. 223][/us/stat/120/223].)
 
  __References in Text__ 
 
@@ -53,11 +53,11 @@
 ----------
 
 [/us/usc/t18/s2343/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2343%2Fa
-[/us/pl/95/575/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F575%2Fs1
+[/us/pl/95/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F575
 [/us/stat/92/2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2465
-[/us/pl/107/296/s1112/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fi%2F2
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2277
-[/us/pl/109/177/s121/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs121%2Ff
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F223
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

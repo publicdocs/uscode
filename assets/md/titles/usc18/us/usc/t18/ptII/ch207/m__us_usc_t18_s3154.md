@@ -51,7 +51,7 @@
 
     (15) Perform such other functions as specified under this chapter.
 
-(Added [Pub. L. 93–619, title II, § 201][/us/pl/93/619/s201], Jan. 3, 1975, [88 Stat. 2087][/us/stat/88/2087]; amended [Pub. L. 97–267, § 4][/us/pl/97/267/s4], Sept. 27, 1982, [96 Stat. 1137][/us/stat/96/1137]; [Pub. L. 98–473, title II, § 203(b)][/us/pl/98/473/s203/b], Oct. 12, 1984, [98 Stat. 1984][/us/stat/98/1984]; [Pub. L. 101–647, title XXXV, § 3576][/us/pl/101/647/s3576], Nov. 29, 1990, [104 Stat. 4929][/us/stat/104/4929]; [Pub. L. 102–572, title VII, § 701(b)][/us/pl/102/572/s701/b], title X, § 1002, Oct. 29, 1992, [106 Stat. 4515][/us/stat/106/4515], 4521; [Pub. L. 104–317, title I, § 101(b)][/us/pl/104/317/s101/b], Oct. 19, 1996, [110 Stat. 3848][/us/stat/110/3848]; [Pub. L. 110–406, § 15(a)][/us/pl/110/406/s15/a], Oct. 13, 2008, [122 Stat. 4294][/us/stat/122/4294]; [Pub. L. 111–174, § 5][/us/pl/111/174/s5], May 27, 2010, [124 Stat. 1216][/us/stat/124/1216].)
+(Added [Pub. L. 93–619, title II][/us/pl/93/619/tII], § 201, Jan. 3, 1975, [88 Stat. 2087][/us/stat/88/2087]; amended [Pub. L. 97–267][/us/pl/97/267], § 4, Sept. 27, 1982, [96 Stat. 1137][/us/stat/96/1137]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 203(b), Oct. 12, 1984, [98 Stat. 1984][/us/stat/98/1984]; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3576, Nov. 29, 1990, [104 Stat. 4929][/us/stat/104/4929]; [Pub. L. 102–572, title VII][/us/pl/102/572/tVII], § 701(b), title X, § 1002, Oct. 29, 1992, [106 Stat. 4515][/us/stat/106/4515], 4521; [Pub. L. 104–317, title I][/us/pl/104/317/tI], § 101(b), Oct. 19, 1996, [110 Stat. 3848][/us/stat/110/3848]; [Pub. L. 110–406][/us/pl/110/406], § 15(a), Oct. 13, 2008, [122 Stat. 4294][/us/stat/122/4294]; [Pub. L. 111–174][/us/pl/111/174], § 5, May 27, 2010, [124 Stat. 1216][/us/stat/124/1216].)
 
  __Amendments__ 
 
@@ -61,15 +61,15 @@
 
     1996—Pars. (13), (14). [Pub. L. 104–317][/us/pl/104/317] added par. (13) and redesignated former par. (13) as (14).
 
-    1992—Par. (1). [Pub. L. 102–572, § 1002][/us/pl/102/572/s1002], inserted before period at end “; except that a district court may direct that information not be collected, verified, or reported under this paragraph on individuals charged with Class A misdemeanors as defined in [section 3559(a)(6) of this title][/us/usc/t18/s3559/a/6]”.
+    1992—Par. (1). [Pub. L. 102–572][/us/pl/102/572], § 1002, inserted before period at end “; except that a district court may direct that information not be collected, verified, or reported under this paragraph on individuals charged with Class A misdemeanors as defined in [section 3559(a)(6) of this title][/us/usc/t18/s3559/a/6]”.
 
-    Pars. (12), (13). [Pub. L. 102–572, § 701(b)][/us/pl/102/572/s701/b], added par. (12) and redesignated former par. (12) as (13).
+    Pars. (12), (13). [Pub. L. 102–572][/us/pl/102/572], § 701(b), added par. (12) and redesignated former par. (12) as (13).
 
     1990—Par. (1). [Pub. L. 101–647][/us/pl/101/647] substituted “community, and, where appropriate, include a recommendation as to whether such individual should be released or detained and, if release is recommended, recommend appropriate conditions of release.” for “community” and all that followed through end of par. (1).
 
-    1984—Par. (1). [Pub. L. 98–473, § 203(b)(1)][/us/pl/98/473/s203/b/1], which directed the amendment of par. (1), by striking out “and recommend appropriate release conditions for each such person” and inserting in lieu thereof “and, where appropriate, include a recommendation as to whether such individual should be released or detained and, if release is recommended, recommend appropriate conditions of release” could not be executed because such language did not appear. See 1990 Amendment note above.
+    1984—Par. (1). [Pub. L. 98–473][/us/pl/98/473], § 203(b)(1), which directed the amendment of par. (1), by striking out “and recommend appropriate release conditions for each such person” and inserting in lieu thereof “and, where appropriate, include a recommendation as to whether such individual should be released or detained and, if release is recommended, recommend appropriate conditions of release” could not be executed because such language did not appear. See 1990 Amendment note above.
 
-    Par. (2). [Pub. L. 98–473, § 203(b)(2)][/us/pl/98/473/s203/b/2], substituted “section 3145” for “section 3146(e) or section 3147”.
+    Par. (2). [Pub. L. 98–473][/us/pl/98/473], § 203(b)(2), substituted “section 3145” for “section 3146(e) or section 3147”.
 
     1982—[Pub. L. 97–267][/us/pl/97/267] substituted “relating to pretrial services” for “of pretrial services agencies” in section catchline, in par. (1) struck out provisions relating to agency files concerning the pretrial release of persons charged with an offense, the establishment of regulations concerning the release of such files, and the access to and admissibility of these files, in par. (4) struck out provision relating to the cooperation of the Administrative Office of the United States Courts and the approval of the Attorney General and provision not limiting this paragraph to those facilities listed thereunder, in par. (5) inserted provisions that pretrial services may provide the United States Attorney as well as the court with information described under this paragraph and that such information also includes any danger that a person released to the custody of pretrial services may come to pose to any other person or the community, in par. (9) substituted provisions that pretrial services shall develop and implement a system to monitor and evaluate bail activities, provide information on the result of bail decisions, and prepare periodic reports to assist the improvement of the bail process for provisions that pretrial services agencies would perform such other functions as the court might assign, and added pars. (10)–(12).
 
@@ -79,7 +79,7 @@
 
  __Demonstration Program for Drug Testing of Arrested Persons and Defendants on Probation or Supervised Release__ 
 
-[Pub. L. 100–690, title VII, § 7304][/us/pl/100/690/s7304], Nov. 18, 1988, [102 Stat. 4464][/us/stat/102/4464], provided that:
+[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7304, Nov. 18, 1988, [102 Stat. 4464][/us/stat/102/4464], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -114,36 +114,36 @@
 
 [/us/usc/t18/s3559/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3559%2Fa%2F6
 [/us/usc/t18/s3152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3152%2Fb
-[/us/pl/93/619/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2Fs201
+[/us/pl/93/619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2FtII
 [/us/stat/88/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2087
-[/us/pl/97/267/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F267%2Fs4
+[/us/pl/97/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F267
 [/us/stat/96/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1137
-[/us/pl/98/473/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs203%2Fb
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1984
-[/us/pl/101/647/s3576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3576
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4929
-[/us/pl/102/572/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs701%2Fb
+[/us/pl/102/572/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtVII
 [/us/stat/106/4515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4515
-[/us/pl/104/317/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2Fs101%2Fb
+[/us/pl/104/317/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317%2FtI
 [/us/stat/110/3848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3848
-[/us/pl/110/406/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs15%2Fa
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/stat/122/4294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4294
-[/us/pl/111/174/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F174%2Fs5
+[/us/pl/111/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F174
 [/us/stat/124/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1216
 [/us/pl/111/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F174
 [/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/pl/104/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F317
-[/us/pl/102/572/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs1002
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/usc/t18/s3559/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3559%2Fa%2F6
-[/us/pl/102/572/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs701%2Fb
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
-[/us/pl/98/473/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs203%2Fb%2F1
-[/us/pl/98/473/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs203%2Fb%2F2
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/97/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F267
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs1101
 [/us/usc/t2/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs905
-[/us/pl/100/690/s7304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7304
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4464
 [/us/usc/t18/s3154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3154
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802

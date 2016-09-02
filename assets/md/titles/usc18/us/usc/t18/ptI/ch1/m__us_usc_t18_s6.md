@@ -31,7 +31,7 @@
 
  __References in Text__ 
 
-    [Section 1 of Title 5][/us/usc/t5/s1], referred to in text, was repealed by [Pub. L. 89–554, § 8][/us/pl/89/554/s8], Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632], and reenacted by the first section thereof as [section 101 of Title 5][/us/usc/t5/s101], Government Organization and Employees.
+    [Section 1 of Title 5][/us/usc/t5/s1], referred to in text, was repealed by [Pub. L. 89–554][/us/pl/89/554], § 8, Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632], and reenacted by the first section thereof as [section 101 of Title 5][/us/usc/t5/s101], Government Organization and Employees.
 
 ----------
 
@@ -44,7 +44,7 @@
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F685
 [/us/usc/t5/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1
-[/us/pl/89/554/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
 [/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
 

@@ -49,7 +49,7 @@
 
     In a prosecution under subsection (c) of this section, the Government need not prove that the defendant knew that the other person engaging in the sexual act had not attained the age of 12 years.
 
-(Added [Pub. L. 99–646, § 87(b)][/us/pl/99/646/s87/b], Nov. 10, 1986, [100 Stat. 3620][/us/stat/100/3620], and [Pub. L. 99–654, § 2][/us/pl/99/654/s2], Nov. 14, 1986, [100 Stat. 3660][/us/stat/100/3660]; amended [Pub. L. 103–322, title XXXIII, § 330021(1)][/us/pl/103/322/s330021/1], Sept. 13, 1994, [108 Stat. 2150][/us/stat/108/2150]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title I, § 121\[7(b)\]\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–26, 3009–31; [Pub. L. 105–314, title III, § 301(a)][/us/pl/105/314/s301/a], Oct. 30, 1998, [112 Stat. 2978][/us/stat/112/2978]; [Pub. L. 109–162, title XI, § 1177(a)(1)][/us/pl/109/162/s1177/a/1], (2), Jan. 5, 2006, [119 Stat. 3125][/us/stat/119/3125]; [Pub. L. 109–248, title II][/us/pl/109/248], §§ 206(a)(1), 207(2), July 27, 2006, [120 Stat. 613][/us/stat/120/613], 615; [Pub. L. 110–161, div. E, title V, § 554][/us/pl/110/161/s554], Dec. 26, 2007, [121 Stat. 2082][/us/stat/121/2082].)
+(Added [Pub. L. 99–646][/us/pl/99/646], § 87(b), Nov. 10, 1986, [100 Stat. 3620][/us/stat/100/3620], and [Pub. L. 99–654][/us/pl/99/654], § 2, Nov. 14, 1986, [100 Stat. 3660][/us/stat/100/3660]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330021(1), Sept. 13, 1994, [108 Stat. 2150][/us/stat/108/2150]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title I, § 121\[7(b)\]\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–26, 3009–31; [Pub. L. 105–314, title III][/us/pl/105/314/tIII], § 301(a), Oct. 30, 1998, [112 Stat. 2978][/us/stat/112/2978]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1177(a)(1), (2), Jan. 5, 2006, [119 Stat. 3125][/us/stat/119/3125]; [Pub. L. 109–248, title II][/us/pl/109/248/tII], §§ 206(a)(1), 207(2), July 27, 2006, [120 Stat. 613][/us/stat/120/613], 615; [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 554, Dec. 26, 2007, [121 Stat. 2082][/us/stat/121/2082].)
 
  __Codification__ 
 
@@ -59,13 +59,13 @@
 
     2007—Subsecs. (a) to (c). [Pub. L. 110–161][/us/pl/110/161] substituted “the head of any Federal department or agency” for “the Attorney General”.
 
-    2006—Subsecs. (a), (b). [Pub. L. 109–248, § 207(2)][/us/pl/109/248/s207/2], inserted comma after “Attorney General” in introductory provisions.
+    2006—Subsecs. (a), (b). [Pub. L. 109–248][/us/pl/109/248], § 207(2), inserted comma after “Attorney General” in introductory provisions.
 
-    [Pub. L. 109–162, § 1177(a)(1)][/us/pl/109/162/s1177/a/1], inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in introductory provisions.
+    [Pub. L. 109–162][/us/pl/109/162], § 1177(a)(1), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in introductory provisions.
 
     Subsec. (c). [Pub. L. 109–248][/us/pl/109/248] inserted comma after “Attorney General” and substituted “and imprisoned for not less than 30 years or for life” for “, imprisoned for any term of years or life, or both” in first sentence.
 
-    [Pub. L. 109–162, § 1177(a)(2)][/us/pl/109/162/s1177/a/2], inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in first sentence.
+    [Pub. L. 109–162][/us/pl/109/162], § 1177(a)(2), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in first sentence.
 
     1998—Subsec. (c). [Pub. L. 105–314][/us/pl/105/314] substituted “younger than the person so engaging” for “younger than that person”.
 
@@ -75,7 +75,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–646, § 87(e)][/us/pl/99/646/s87/e], Nov. 10, 1986, [100 Stat. 3624][/us/stat/100/3624], and [Pub. L. 99–654, § 4][/us/pl/99/654/s4], Nov. 14, 1986, [100 Stat. 3664][/us/stat/100/3664], provided, respectively, that: 
+[Pub. L. 99–646][/us/pl/99/646], § 87(e), Nov. 10, 1986, [100 Stat. 3624][/us/stat/100/3624], and [Pub. L. 99–654][/us/pl/99/654], § 4, Nov. 14, 1986, [100 Stat. 3664][/us/stat/100/3664], provided, respectively, that: 
 
 > “This section and the amendments made by this section \[see Short Title note below\] shall take effect 30 days after the date of the enactment of this Act \[Nov. 10, 1986\].”
 
@@ -83,13 +83,13 @@
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title I, § 121\[7(a)\]\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–31, provided that: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title I, § 121\[7(a)\]\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–31, provided that: 
 
 > “This section \[probably means subsec. 7 of [section 121 of Pub. L. 104–208][/us/pl/104/208/s121], div. A, title I, § 101(a), which amended sections 2241 and 2243 of this title\] may be cited as the ‘Amber Hagerman Child Protection Act of 1996’.”
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–646, § 87(a)][/us/pl/99/646/s87/a], Nov. 10, 1986, [100 Stat. 3620][/us/stat/100/3620], and [Pub. L. 99–654, § 1][/us/pl/99/654/s1], Nov. 14, 1986, [100 Stat. 3660][/us/stat/100/3660], provided, respectively, that: 
+[Pub. L. 99–646][/us/pl/99/646], § 87(a), Nov. 10, 1986, [100 Stat. 3620][/us/stat/100/3620], and [Pub. L. 99–654][/us/pl/99/654], § 1, Nov. 14, 1986, [100 Stat. 3660][/us/stat/100/3660], provided, respectively, that: 
 
 > “This section \[enacting this chapter, amending sections 113, 1111, 1153, and 3185 of this title, sections 300w–3, 300w–4, and 9511 of Title 42, The Public Health and Welfare, and section 1472 of former Title 49, Transportation, and repealing chapter 99 of this title\] may be cited as the ‘Sexual Abuse Act of 1986’.”
 
@@ -102,42 +102,42 @@
 ----------
 ----------
 
-[/us/pl/99/646/s87/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs87%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3620
-[/us/pl/99/654/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654%2Fs2
+[/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
 [/us/stat/100/3660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3660
-[/us/pl/103/322/s330021/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330021%2F1
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2150
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/105/314/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2Fs301%2Fa
+[/us/pl/105/314/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2FtIII
 [/us/stat/112/2978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2978
-[/us/pl/109/162/s1177/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1177%2Fa%2F1
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3125
-[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtII
 [/us/stat/120/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F613
-[/us/pl/110/161/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs554
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2082
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
-[/us/pl/109/248/s207/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs207%2F2
-[/us/pl/109/162/s1177/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1177%2Fa%2F1
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
-[/us/pl/109/162/s1177/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1177%2Fa%2F2
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/105/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/99/646/s87/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs87%2Fe
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3624
-[/us/pl/99/654/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654%2Fs4
+[/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
 [/us/stat/100/3664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3664
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/pl/104/208/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs121
-[/us/pl/99/646/s87/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs87%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3620
-[/us/pl/99/654/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654%2Fs1
+[/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
 [/us/stat/100/3660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3660
 
 

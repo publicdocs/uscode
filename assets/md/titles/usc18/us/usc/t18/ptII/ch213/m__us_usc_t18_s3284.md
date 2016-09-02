@@ -17,11 +17,11 @@
 
     The concealment of assets of a debtor in a case under title 11 shall be deemed to be a continuing offense until the debtor shall have been finally discharged or a discharge denied, and the period of limitations shall not begin to run until such final discharge or denial of discharge.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 828][/us/stat/62/828]; [Pub. L. 95–598, title III, § 314(k)][/us/pl/95/598/s314/k], Nov. 6, 1978, [92 Stat. 2678][/us/stat/92/2678].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 828][/us/stat/62/828]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 314(k), Nov. 6, 1978, [92 Stat. 2678][/us/stat/92/2678].)
 
  __Historical and Revision Notes__ 
 
-    Based on [section 52(d) of title 11][/us/usc/t11/s52/d], U.S.C., 1940 ed., Bankruptcy ([May 27, 1926, ch. 406, § 11d][/us/act/1926-05-27/ch406/s11d], [44 Stat. 665][/us/stat/44/665]; [June 22, 1938, ch. 575, § 1][/us/act/1938-06-22/ch575/s1], [52 Stat. 856][/us/stat/52/856]).
+    Based on [section 52(d) of title 11][/us/usc/t11/s52/d], U.S.C., 1940 ed., Bankruptcy ([May 27, 1926, ch. 406][/us/act/1926-05-27/ch406], § 11d, [44 Stat. 665][/us/stat/44/665]; [June 22, 1938, ch. 575][/us/act/1938-06-22/ch575], § 1, [52 Stat. 856][/us/stat/52/856]).
 
     The 3-year-limitation provision was omitted as unnecessary in view of the general statute, [section 3282 of this title][/us/usc/t18/s3282].
 
@@ -52,12 +52,12 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F828
-[/us/pl/95/598/s314/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs314%2Fk
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2678
 [/us/usc/t11/s52/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs52%2Fd
-[/us/act/1926-05-27/ch406/s11d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-27%2Fch406%2Fs11d
+[/us/act/1926-05-27/ch406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-27%2Fch406
 [/us/stat/44/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F665
-[/us/act/1938-06-22/ch575/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-22%2Fch575%2Fs1
+[/us/act/1938-06-22/ch575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-22%2Fch575
 [/us/stat/52/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F856
 [/us/usc/t18/s3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3282
 [/us/usc/t11/s52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs52

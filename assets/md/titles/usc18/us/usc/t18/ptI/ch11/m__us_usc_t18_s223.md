@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s219.md) | [Next](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s224.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs223)
+[Previous](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s220...222.md) | [Next](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s224.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs223)
 
-## \[§ 223. Repealed. [Pub. L. 87–849, § 1(c)][/us/pl/87/849/s1/c], Oct. 23, 1962, [76 Stat. 1125][/us/stat/76/1125]\]
+## \[§ 223. Repealed. [Pub. L. 87–849][/us/pl/87/849], § 1(c), Oct. 23, 1962, [76 Stat. 1125][/us/stat/76/1125]\]
 
     Section, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 696][/us/stat/62/696], related to transactions of the Home Owners’ Loan Corporation.
 
@@ -23,12 +23,12 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s219.md) | [Next](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s224.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs223)
+[Previous](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s220...222.md) | [Next](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s224.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs223)
 
 ----------
 ----------
 
-[/us/pl/87/849/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs1%2Fc
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1125
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F696

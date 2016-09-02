@@ -23,7 +23,7 @@
 
     In this section, the term “terrorist” means any person who intends to commit, or is avoiding apprehension after having committed, an offense listed under section 2332b(g)(5)(B).
 
-(Added [Pub. L. 109–177, title III, § 305(a)][/us/pl/109/177/s305/a], Mar. 9, 2006, [120 Stat. 237][/us/stat/120/237].)
+(Added [Pub. L. 109–177, title III][/us/pl/109/177/tIII], § 305(a), Mar. 9, 2006, [120 Stat. 237][/us/stat/120/237].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/177/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs305%2Fa
+[/us/pl/109/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIII
 [/us/stat/120/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F237
 
 

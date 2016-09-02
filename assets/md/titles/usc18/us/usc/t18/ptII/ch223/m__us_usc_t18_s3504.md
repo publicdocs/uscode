@@ -27,17 +27,17 @@
 
     (b) As used in this section “unlawful act” means any act the use of any electronic, mechanical, or other device (as defined in [section 2510(5) of this title][/us/usc/t18/s2510/5]) in violation of the Constitution or laws of the United States or any regulation or standard promulgated pursuant thereto.
 
-(Added [Pub. L. 91–452, title VII, § 702(a)][/us/pl/91/452/s702/a], Oct. 15, 1970, [84 Stat. 935][/us/stat/84/935].)
+(Added [Pub. L. 91–452, title VII][/us/pl/91/452/tVII], § 702(a), Oct. 15, 1970, [84 Stat. 935][/us/stat/84/935].)
 
  __Congressional Statement of Findings__ 
 
-[Pub. L. 91–452, title VII, § 701][/us/pl/91/452/s701], Oct. 15, 1970, [84 Stat. 935][/us/stat/84/935], provided that: 
+[Pub. L. 91–452, title VII][/us/pl/91/452/tVII], § 701, Oct. 15, 1970, [84 Stat. 935][/us/stat/84/935], provided that: 
 
 > “The Congress finds that claims that evidence offered in proceedings was obtained by the exploitation of unlawful acts, and is therefore inadmissible in evidence, (1) often cannot reliably be determined when such claims concern evidence of events occurring years after the allegedly unlawful act, and (2) when the allegedly unlawful act has occurred more than five years prior to the event in question, there is virtually no likelihood that the evidence offered to prove the event has been obtained by the exploitation of that allegedly unlawful act.”
 
  __Applicability to Proceedings__ 
 
-[Pub. L. 91–452, title VII, § 703][/us/pl/91/452/s703], Oct. 15, 1970, [84 Stat. 936][/us/stat/84/936], provided that: 
+[Pub. L. 91–452, title VII][/us/pl/91/452/tVII], § 703, Oct. 15, 1970, [84 Stat. 936][/us/stat/84/936], provided that: 
 
 > “This title \[enacting this section and provisions set as notes under this section\] shall apply to all proceedings, regardless of when commenced, occurring after the date of its enactment \[Oct. 15, 1970\]. Paragraph (3) of subsection (a) of section 3504, chapter 223, title 18, United States Code, shall not apply to any proceeding in which all information to be relied upon to establish inadmissibility was possessed by the party making such claim and adduced in such proceeding prior to such enactment.”
 
@@ -49,11 +49,11 @@
 ----------
 
 [/us/usc/t18/s2510/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2510%2F5
-[/us/pl/91/452/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs702%2Fa
+[/us/pl/91/452/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtVII
 [/us/stat/84/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F935
-[/us/pl/91/452/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs701
+[/us/pl/91/452/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtVII
 [/us/stat/84/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F935
-[/us/pl/91/452/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs703
+[/us/pl/91/452/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtVII
 [/us/stat/84/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F936
 
 

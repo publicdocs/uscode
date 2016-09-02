@@ -47,7 +47,7 @@
 
         (4) the term “immediate family” has the meaning given the term in section 115(c)(2).
 
-(Added [Pub. L. 110–177, title II, § 202(a)][/us/pl/110/177/s202/a], Jan. 7, 2008, [121 Stat. 2536][/us/stat/121/2536].)
+(Added [Pub. L. 110–177, title II][/us/pl/110/177/tII], § 202(a), Jan. 7, 2008, [121 Stat. 2536][/us/stat/121/2536].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/110/177/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs202%2Fa
+[/us/pl/110/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtII
 [/us/stat/121/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2536
 
 

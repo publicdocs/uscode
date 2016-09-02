@@ -21,11 +21,11 @@
 
     (c) “Knowledge or reason to believe”, within the meaning of paragraph (b) of this section, may be shown by proof that any law-enforcement officer has, prior to the commission of the offense with which the defendant is charged, informed the defendant that tokens, slugs, disks, or other devices of the kind manufactured, sold, offered, or advertised for sale by him or exposed or kept with intent to furnish or sell, are being used unlawfully or fraudulently to operate certain specified automatic merchandise vending machines, postage-stamp machines, turnstiles, fare boxes, coin-box telephones, parking meters, or other receptacles, depositories, or contrivances, designed to receive or to be operated by lawful coins of the United States.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 710][/us/stat/62/710]; [Pub. L. 87–667][/us/pl/87/667], Sept. 19, 1962, [76 Stat. 555][/us/stat/76/555]; [Pub. L. 103–322, title XXXIII, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 710][/us/stat/62/710]; [Pub. L. 87–667][/us/pl/87/667], Sept. 19, 1962, [76 Stat. 555][/us/stat/76/555]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(H), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., §§ 282, 282a ([Mar. 4, 1909, ch. 321, § 168][/us/act/1909-03-04/ch321/s168], [35 Stat. 1120][/us/stat/35/1120], and § 168a as added [Apr. 1, 1944, ch. 151][/us/act/1944-04-01/ch151], [58 Stat. 149][/us/stat/58/149]).
+    Based on title 18, U.S.C., 1940 ed., §§ 282, 282a ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 168, [35 Stat. 1120][/us/stat/35/1120], and § 168a as added [Apr. 1, 1944, ch. 151][/us/act/1944-04-01/ch151], [58 Stat. 149][/us/stat/58/149]).
 
     Mandatory punishment provision in subsection (a) was rephrased in the alternative.
 
@@ -56,9 +56,9 @@
 [/us/stat/62/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F710
 [/us/pl/87/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F667
 [/us/stat/76/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F555
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/act/1909-03-04/ch321/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs168
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1120
 [/us/act/1944-04-01/ch151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-04-01%2Fch151
 [/us/stat/58/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F149

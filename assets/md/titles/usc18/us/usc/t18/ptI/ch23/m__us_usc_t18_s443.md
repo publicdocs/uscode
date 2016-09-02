@@ -27,11 +27,11 @@
 
     The definitions of terms in section 103  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of Title 41 shall apply to similar terms used in this section.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 704][/us/stat/62/704]; [Oct. 31, 1951, ch. 655, § 20(a)][/us/act/1951-10-31/ch655/s20/a], [65 Stat. 717][/us/stat/65/717]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322], §§ 330004(17), 330016(2)(F), Sept. 13, 1994, [108 Stat. 2142][/us/stat/108/2142], 2148.)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 704][/us/stat/62/704]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 20(a), [65 Stat. 717][/us/stat/65/717]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], §§ 330004(17), 330016(2)(F), Sept. 13, 1994, [108 Stat. 2142][/us/stat/108/2142], 2148.)
 
  __Historical and Revision Notes__ 
 
-    Based on section 119, first and second paragraphs, of title 41 U.S.C., 1940 ed., Public Contracts ([July 1, 1944, ch. 358, § 19(a)][/us/act/1944-07-01/ch358/s19/a], [58 Stat. 667][/us/stat/58/667]).
+    Based on section 119, first and second paragraphs, of title 41 U.S.C., 1940 ed., Public Contracts ([July 1, 1944, ch. 358][/us/act/1944-07-01/ch358], § 19(a), [58 Stat. 667][/us/stat/58/667]).
 
     Section was rewritten with changes of phraseology to conform to the style adopted in the revision.
 
@@ -43,7 +43,7 @@
 
  __References in Text__ 
 
-    [Section 103 of Title 41][/us/usc/t41/s103], referred to in text, probably means section 3 of [act July 1, 1944, ch. 358][/us/act/1944-07-01/ch358], [58 Stat. 650][/us/stat/58/650], which was classified to section 103 of former Title 41, Public Contracts, prior to repeal by [Pub. L. 111–350, § 7(b)][/us/pl/111/350/s7/b], Jan. 4, 2011, [124 Stat. 3855][/us/stat/124/3855]. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41][/us/usc/t41/s101].
+    [Section 103 of Title 41][/us/usc/t41/s103], referred to in text, probably means section 3 of [act July 1, 1944, ch. 358][/us/act/1944-07-01/ch358], [58 Stat. 650][/us/stat/58/650], which was classified to section 103 of former Title 41, Public Contracts, prior to repeal by [Pub. L. 111–350][/us/pl/111/350], § 7(b), Jan. 4, 2011, [124 Stat. 3855][/us/stat/124/3855]. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41][/us/usc/t41/s101].
 
  __Amendments__ 
 
@@ -60,18 +60,18 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F704
-[/us/act/1951-10-31/ch655/s20/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs20%2Fa
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F717
-[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2142
-[/us/act/1944-07-01/ch358/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch358%2Fs19%2Fa
+[/us/act/1944-07-01/ch358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch358
 [/us/stat/58/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F667
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
 [/us/usc/t18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
 [/us/act/1944-07-01/ch358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch358
 [/us/stat/58/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F650
-[/us/pl/111/350/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs7%2Fb
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3855
 [/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

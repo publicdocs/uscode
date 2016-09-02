@@ -19,7 +19,7 @@
 
     (b) As used in this chapter, the term “to incite a riot”, or “to organize, promote, encourage, participate in, or carry on a riot”, includes, but is not limited to, urging or instigating other persons to riot, but shall not be deemed to mean the mere oral or written (1) advocacy of ideas or (2) expression of belief, not involving advocacy of any act or acts of violence or assertion of the rightness of, or the right to commit, any such act or acts.
 
-(Added [Pub. L. 90–284, title I, § 104(a)][/us/pl/90/284/s104/a], Apr. 11, 1968, [82 Stat. 76][/us/stat/82/76].)
+(Added [Pub. L. 90–284, title I][/us/pl/90/284/tI], § 104(a), Apr. 11, 1968, [82 Stat. 76][/us/stat/82/76].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/90/284/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs104%2Fa
+[/us/pl/90/284/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtI
 [/us/stat/82/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F76
 
 

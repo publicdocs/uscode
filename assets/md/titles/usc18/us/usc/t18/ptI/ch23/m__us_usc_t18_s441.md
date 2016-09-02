@@ -19,11 +19,11 @@
 
     Whoever violates this section shall be fined under this title  <sup>\[1\]</sup>  <sup><sup> 1 See 1994 Amendment note below. </sup></sup>  or imprisoned not more than one year, or both; and if the offender is a contractor for furnishing such supplies his contract may be annulled.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 704][/us/stat/62/704]; [Pub. L. 91–375, § 6(j)(4)][/us/pl/91/375/s6/j/4], Aug. 12, 1970, [84 Stat. 777][/us/stat/84/777]; [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 704][/us/stat/62/704]; [Pub. L. 91–375][/us/pl/91/375], § 6(j)(4), Aug. 12, 1970, [84 Stat. 777][/us/stat/84/777]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on [section 808 of title 39][/us/usc/t39/s808], U.S.C., 1940 ed., The Postal Service ([Aug. 24, 1912, ch. 389, § 2][/us/act/1912-08-24/ch389/s2], [37 Stat. 553][/us/stat/37/553]).
+    Based on [section 808 of title 39][/us/usc/t39/s808], U.S.C., 1940 ed., The Postal Service ([Aug. 24, 1912, ch. 389][/us/act/1912-08-24/ch389], § 2, [37 Stat. 553][/us/stat/37/553]).
 
     Minimum punishment provisions “less than $100 nor” and “less than three months nor” were omitted to conform to policy followed by codifiers of 1909 Criminal Code.
 
@@ -48,12 +48,12 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F704
-[/us/pl/91/375/s6/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fj%2F4
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F777
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/usc/t39/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs808
-[/us/act/1912-08-24/ch389/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch389%2Fs2
+[/us/act/1912-08-24/ch389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch389
 [/us/stat/37/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F553
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375

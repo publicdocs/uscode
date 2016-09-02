@@ -21,7 +21,7 @@
 
     In the enforcement of this section, the definition of intoxicating liquor contained in the laws of the respective States, Territories, Districts, or Possessions shall be applied, but only to the extent that sales of such intoxicating liquor (except for scientific, sacramental, medicinal, and mechanical purposes) are prohibited therein.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 761][/us/stat/62/761]; [May 24, 1949, ch. 139, § 32][/us/act/1949-05-24/ch139/s32], [63 Stat. 94][/us/stat/63/94]; [Pub. L. 101–647, title XXXV, § 3540][/us/pl/101/647/s3540], Nov. 29, 1990, [104 Stat. 4925][/us/stat/104/4925]; [Pub. L. 103–322, title XXXIII, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 761][/us/stat/62/761]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 32, [63 Stat. 94][/us/stat/63/94]; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3540, Nov. 29, 1990, [104 Stat. 4925][/us/stat/104/4925]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(H), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
@@ -64,11 +64,11 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F761
-[/us/act/1949-05-24/ch139/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs32
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F94
-[/us/pl/101/647/s3540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3540
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4925
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/act/1936-06-25/ch815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-25%2Fch815
 [/us/stat/49/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1928

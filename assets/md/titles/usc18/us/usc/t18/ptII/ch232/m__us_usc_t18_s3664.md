@@ -153,7 +153,7 @@
 
     (p) Nothing in this section or sections 2248, 2259, 2264, 2327, 3663, and 3663A and arising out of the application of such sections, shall be construed to create a cause of action not otherwise authorized in favor of any person against the United States or any officer or employee of the United States.
 
-(Added [Pub. L. 97–291, § 5(a)][/us/pl/97/291/s5/a], Oct. 12, 1982, [96 Stat. 1255][/us/stat/96/1255], § 3580; renumbered § 3664, [Pub. L. 98–473, title II, § 212(a)(1)][/us/pl/98/473/s212/a/1], Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987]; amended [Pub. L. 101–647, title XXXV, § 3596][/us/pl/101/647/s3596], Nov. 29, 1990, [104 Stat. 4931][/us/stat/104/4931]; [Pub. L. 104–132, title II, § 206(a)][/us/pl/104/132/s206/a], Apr. 24, 1996, [110 Stat. 1232][/us/stat/110/1232]; [Pub. L. 107–273, div. B, title IV, § 4002(e)(1)][/us/pl/107/273/s4002/e/1], Nov. 2, 2002, [116 Stat. 1810][/us/stat/116/1810].)
+(Added [Pub. L. 97–291][/us/pl/97/291], § 5(a), Oct. 12, 1982, [96 Stat. 1255][/us/stat/96/1255], § 3580; renumbered § 3664, [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(1), Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987]; amended [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3596, Nov. 29, 1990, [104 Stat. 4931][/us/stat/104/4931]; [Pub. L. 104–132, title II][/us/pl/104/132/tII], § 206(a), Apr. 24, 1996, [110 Stat. 1232][/us/stat/110/1232]; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(e)(1), Nov. 2, 2002, [116 Stat. 1810][/us/stat/116/1810].)
 
  __References in Text__ 
 
@@ -182,15 +182,15 @@
 ----------
 ----------
 
-[/us/pl/97/291/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F291%2Fs5%2Fa
+[/us/pl/97/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F291
 [/us/stat/96/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1255
-[/us/pl/98/473/s212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F1
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1987
-[/us/pl/101/647/s3596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3596
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4931
-[/us/pl/104/132/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs206%2Fa
+[/us/pl/104/132/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtII
 [/us/stat/110/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1232
-[/us/pl/107/273/s4002/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fe%2F1
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1810
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132

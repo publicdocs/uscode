@@ -35,7 +35,7 @@
 
         (3) the term “State” means any State of the United States, the District of Columbia, the Northern Mariana Islands, and any commonwealth, territory, or possession of the United States.
 
-(Added [Pub. L. 102–550, title XV, § 1512(a)][/us/pl/102/550/s1512/a], Oct. 28, 1992, [106 Stat. 4057][/us/stat/106/4057]; amended [Pub. L. 103–325, title IV, § 408(c)][/us/pl/103/325/s408/c], Sept. 23, 1994, [108 Stat. 2252][/us/stat/108/2252]; [Pub. L. 107–56, title III, § 373(a)][/us/pl/107/56/s373/a], Oct. 26, 2001, [115 Stat. 339][/us/stat/115/339]; [Pub. L. 109–162, title XI, § 1171(a)(2)][/us/pl/109/162/s1171/a/2], Jan. 5, 2006, [119 Stat. 3123][/us/stat/119/3123].)
+(Added [Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1512(a), Oct. 28, 1992, [106 Stat. 4057][/us/stat/106/4057]; amended [Pub. L. 103–325, title IV][/us/pl/103/325/tIV], § 408(c), Sept. 23, 1994, [108 Stat. 2252][/us/stat/108/2252]; [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 373(a), Oct. 26, 2001, [115 Stat. 339][/us/stat/115/339]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1171(a)(2), Jan. 5, 2006, [119 Stat. 3123][/us/stat/119/3123].)
 
  __Amendments__ 
 
@@ -59,13 +59,13 @@
 ----------
 
 [/us/usc/t31/s5330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5330
-[/us/pl/102/550/s1512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1512%2Fa
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4057
-[/us/pl/103/325/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs408%2Fc
+[/us/pl/103/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIV
 [/us/stat/108/2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2252
-[/us/pl/107/56/s373/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs373%2Fa
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F339
-[/us/pl/109/162/s1171/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1171%2Fa%2F2
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3123
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56

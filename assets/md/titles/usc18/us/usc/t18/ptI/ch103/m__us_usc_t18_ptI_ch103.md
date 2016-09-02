@@ -99,11 +99,11 @@
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–519, title I, § 101(c)][/us/pl/102/519/s101/c], Oct. 25, 1992, [106 Stat. 3384][/us/stat/106/3384], added item 2119.
+    1992—[Pub. L. 102–519, title I][/us/pl/102/519/tI], § 101(c), Oct. 25, 1992, [106 Stat. 3384][/us/stat/106/3384], added item 2119.
 
-    1984—[Pub. L. 98–305, § 3][/us/pl/98/305/s3], May 31, 1984, [98 Stat. 222][/us/stat/98/222], added item 2118.
+    1984—[Pub. L. 98–305][/us/pl/98/305], § 3, May 31, 1984, [98 Stat. 222][/us/stat/98/222], added item 2118.
 
-    1966—[Pub. L. 89–654, § 2(d)][/us/pl/89/654/s2/d], Oct. 14, 1966, [80 Stat. 904][/us/stat/80/904], substituted “Breaking or entering carrier facilities” for “Railroad car entered or seal broken” in item 2117.
+    1966—[Pub. L. 89–654][/us/pl/89/654], § 2(d), Oct. 14, 1966, [80 Stat. 904][/us/stat/80/904], substituted “Breaking or entering carrier facilities” for “Railroad car entered or seal broken” in item 2117.
 
 ----------
 
@@ -112,11 +112,11 @@
 ----------
 ----------
 
-[/us/pl/102/519/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519%2Fs101%2Fc
+[/us/pl/102/519/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519%2FtI
 [/us/stat/106/3384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3384
-[/us/pl/98/305/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F305%2Fs3
+[/us/pl/98/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F305
 [/us/stat/98/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F222
-[/us/pl/89/654/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F654%2Fs2%2Fd
+[/us/pl/89/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F654
 [/us/stat/80/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F904
 
 

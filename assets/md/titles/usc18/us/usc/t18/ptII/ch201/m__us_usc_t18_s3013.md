@@ -57,7 +57,7 @@
 
     (d) For the purposes of this section, an offense under [section 13 of this title][/us/usc/t18/s13] is an offense against the United States.
 
-(Added [Pub. L. 98–473, title II, § 1405(a)][/us/pl/98/473/s1405/a], Oct. 12, 1984, [98 Stat. 2174][/us/stat/98/2174]; amended [Pub. L. 100–185, § 3][/us/pl/100/185/s3], Dec. 11, 1987, [101 Stat. 1279][/us/stat/101/1279]; [Pub. L. 100–690, title VII][/us/pl/100/690], §§ 7082(b), 7085, Nov. 18, 1988, [102 Stat. 4407][/us/stat/102/4407], 4408; [Pub. L. 101–647, title XXXV, § 3569][/us/pl/101/647/s3569], Nov. 29, 1990, [104 Stat. 4928][/us/stat/104/4928]; [Pub. L. 104–132, title II, § 210][/us/pl/104/132/s210], Apr. 24, 1996, [110 Stat. 1240][/us/stat/110/1240]; [Pub. L. 104–294, title VI, § 601(r)(4)][/us/pl/104/294/s601/r/4], Oct. 11, 1996, [110 Stat. 3502][/us/stat/110/3502].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1405(a), Oct. 12, 1984, [98 Stat. 2174][/us/stat/98/2174]; amended [Pub. L. 100–185][/us/pl/100/185], § 3, Dec. 11, 1987, [101 Stat. 1279][/us/stat/101/1279]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], §§ 7082(b), 7085, Nov. 18, 1988, [102 Stat. 4407][/us/stat/102/4407], 4408; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3569, Nov. 29, 1990, [104 Stat. 4928][/us/stat/104/4928]; [Pub. L. 104–132, title II][/us/pl/104/132/tII], § 210, Apr. 24, 1996, [110 Stat. 1240][/us/stat/110/1240]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(r)(4), Oct. 11, 1996, [110 Stat. 3502][/us/stat/110/3502].)
 
  __Amendments__ 
 
@@ -67,13 +67,13 @@
 
     1990—Subsec. (a)(1)(B). [Pub. L. 101–647][/us/pl/101/647] substituted “an infraction” for “a infraction” in cl. (i) and a semicolon for a period at end of cl. (iii).
 
-    1988—Subsec. (a)(1). [Pub. L. 100–690, § 7085][/us/pl/100/690/s7085], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “in the case of a misdemeanor—
+    1988—Subsec. (a)(1). [Pub. L. 100–690][/us/pl/100/690], § 7085, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “in the case of a misdemeanor—
 
     “(A) the amount of $25 if the defendant is an individual; and
 
     “(B) the amount of $100 if the defendant is a person other than an individual; and”.
 
-    Subsec. (c). [Pub. L. 100–690, § 7082(b)][/us/pl/100/690/s7082/b], inserted at end “This subsection shall apply to all assessments irrespective of the date of imposition.”
+    Subsec. (c). [Pub. L. 100–690][/us/pl/100/690], § 7082(b), inserted at end “This subsection shall apply to all assessments irrespective of the date of imposition.”
 
     1987—Subsecs. (c), (d). [Pub. L. 100–185][/us/pl/100/185] added subsecs. (c) and (d).
 
@@ -93,23 +93,23 @@
 ----------
 
 [/us/usc/t18/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs13
-[/us/pl/98/473/s1405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1405%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2174
-[/us/pl/100/185/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185%2Fs3
+[/us/pl/100/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185
 [/us/stat/101/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1279
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4407
-[/us/pl/101/647/s3569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3569
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4928
-[/us/pl/104/132/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs210
+[/us/pl/104/132/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtII
 [/us/stat/110/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1240
-[/us/pl/104/294/s601/r/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fr%2F4
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3502
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
-[/us/pl/100/690/s7085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7085
-[/us/pl/100/690/s7082/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7082%2Fb
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/104/132/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs211

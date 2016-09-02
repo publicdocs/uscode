@@ -21,13 +21,13 @@
 
     Upon conviction by a consular court or court martial the prisoner shall be transported from the court to the place of confinement by agents of the Department of State, the Army, Navy, or Air Force, as the case may be, the expense to be paid out of the Treasury of the United States in the manner provided by law.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 849][/us/stat/62/849]; [May 24, 1949, ch. 139, § 61][/us/act/1949-05-24/ch139/s61], [63 Stat. 98][/us/stat/63/98].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 849][/us/stat/62/849]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 61, [63 Stat. 98][/us/stat/63/98].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 753g ([May 14, 1930, ch. 274, § 8][/us/act/1930-05-14/ch274/s8], [46 Stat. 327][/us/stat/46/327]).
+    Based on title 18, U.S.C., 1940 ed., § 753g ([May 14, 1930, ch. 274][/us/act/1930-05-14/ch274], § 8, [46 Stat. 327][/us/stat/46/327]).
 
     The second paragraph was originally a proviso.
 
@@ -50,9 +50,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F849
-[/us/act/1949-05-24/ch139/s61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs61
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F98
-[/us/act/1930-05-14/ch274/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch274%2Fs8
+[/us/act/1930-05-14/ch274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch274
 [/us/stat/46/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F327
 [/us/usc/t18/s4008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4008
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501

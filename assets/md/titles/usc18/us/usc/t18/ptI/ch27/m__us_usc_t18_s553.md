@@ -57,13 +57,13 @@
 
             (B) in the case of any other vehicle or equipment covered by this section, means a number or symbol assigned to the vehicle or equipment, or part thereof, by the manufacturer primarily for the purpose of identifying such vehicle, equipment, or part.
 
-(Added [Pub. L. 98–547, title III, § 301(a)][/us/pl/98/547/s301/a], Oct. 25, 1984, [98 Stat. 2771][/us/stat/98/2771]; amended [Pub. L. 100–690, title VII, § 7021][/us/pl/100/690/s7021], Nov. 18, 1988, [102 Stat. 4396][/us/stat/102/4396]; [Pub. L. 102–519, title I, § 102][/us/pl/102/519/s102], Oct. 25, 1992, [106 Stat. 3385][/us/stat/106/3385]; [Pub. L. 103–272, § 5(e)(5)][/us/pl/103/272/s5/e/5], July 5, 1994, [108 Stat. 1374][/us/stat/108/1374].)
+(Added [Pub. L. 98–547, title III][/us/pl/98/547/tIII], § 301(a), Oct. 25, 1984, [98 Stat. 2771][/us/stat/98/2771]; amended [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7021, Nov. 18, 1988, [102 Stat. 4396][/us/stat/102/4396]; [Pub. L. 102–519, title I][/us/pl/102/519/tI], § 102, Oct. 25, 1992, [106 Stat. 3385][/us/stat/106/3385]; [Pub. L. 103–272][/us/pl/103/272], § 5(e)(5), July 5, 1994, [108 Stat. 1374][/us/stat/108/1374].)
 
  __Amendments__ 
 
-    1994—Subsec. (c)(1). [Pub. L. 103–272, § 5(e)(5)(A)][/us/pl/103/272/s5/e/5/A], substituted “[section 32101 of title 49][/us/usc/t49/s32101]” for “section 2 of the Motor Vehicle Information and Cost Savings Act”.
+    1994—Subsec. (c)(1). [Pub. L. 103–272][/us/pl/103/272], § 5(e)(5)(A), substituted “[section 32101 of title 49][/us/usc/t49/s32101]” for “section 2 of the Motor Vehicle Information and Cost Savings Act”.
 
-    Subsec. (c)(4). [Pub. L. 103–272, § 5(e)(5)(B)][/us/pl/103/272/s5/e/5/B], substituted “[section 40102(a) of title 49][/us/usc/t49/s40102/a]” for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301)”.
+    Subsec. (c)(4). [Pub. L. 103–272][/us/pl/103/272], § 5(e)(5)(B), substituted “[section 40102(a) of title 49][/us/usc/t49/s40102/a]” for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301)”.
 
     1992—Subsec. (a). [Pub. L. 102–519][/us/pl/102/519] substituted “fined under this title or imprisoned not more than 10 years” for “fined not more than $15,000 or imprisoned not more than five years” in concluding provisions.
 
@@ -82,17 +82,17 @@
 [/us/usc/t19/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401
 [/us/usc/t49/s40102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa
 [/us/usc/t18/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs511
-[/us/pl/98/547/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F547%2Fs301%2Fa
+[/us/pl/98/547/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F547%2FtIII
 [/us/stat/98/2771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2771
-[/us/pl/100/690/s7021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7021
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4396
-[/us/pl/102/519/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519%2Fs102
+[/us/pl/102/519/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519%2FtI
 [/us/stat/106/3385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3385
-[/us/pl/103/272/s5/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fe%2F5
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1374
-[/us/pl/103/272/s5/e/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fe%2F5%2FA
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s32101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32101
-[/us/pl/103/272/s5/e/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fe%2F5%2FB
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s40102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa
 [/us/pl/102/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690

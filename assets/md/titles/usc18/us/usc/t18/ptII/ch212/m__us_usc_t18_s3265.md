@@ -49,7 +49,7 @@
 
             (B) is certified as competent to perform such duties by the Judge Advocate General of the armed force of which he is a member.
 
-(Added [Pub. L. 106–523, § 2(a)][/us/pl/106/523/s2/a], Nov. 22, 2000, [114 Stat. 2490][/us/stat/114/2490].)
+(Added [Pub. L. 106–523][/us/pl/106/523], § 2(a), Nov. 22, 2000, [114 Stat. 2490][/us/stat/114/2490].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/106/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F523%2Fs2%2Fa
+[/us/pl/106/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F523
 [/us/stat/114/2490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2490
 
 

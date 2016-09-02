@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 744n ([June 23, 1934, ch. 736, § 6][/us/act/1934-06-23/ch736/s6], [48 Stat. 1212][/us/stat/48/1212]).
+    Based on title 18, U.S.C., 1940 ed., § 744n ([June 23, 1934, ch. 736][/us/act/1934-06-23/ch736], § 6, [48 Stat. 1212][/us/stat/48/1212]).
 
     Phrase relating to section being “supplemental” to sections 744i–744h of title 18, U.S.C., 1940 ed., is omitted as unnecessary.
 
@@ -38,7 +38,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F853
-[/us/act/1934-06-23/ch736/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-23%2Fch736%2Fs6
+[/us/act/1934-06-23/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-23%2Fch736
 [/us/stat/48/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1212
 [/us/usc/t5/s133t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs133t
 

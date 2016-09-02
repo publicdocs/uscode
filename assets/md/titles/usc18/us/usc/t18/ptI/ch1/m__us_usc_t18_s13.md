@@ -35,11 +35,11 @@
 
     (c) Whenever any waters of the territorial sea of the United States lie outside the territory of any State, Commonwealth, territory, possession, or district, such waters (including the airspace above and the seabed and subsoil below, and artificial islands and fixed structures erected thereon) shall be deemed, for purposes of subsection (a), to lie within the area of the State, Commonwealth, territory, possession, or district that it would lie within if the boundaries of such State, Commonwealth, territory, possession, or district were extended seaward to the outer limit of the territorial sea of the United States.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 686][/us/stat/62/686]; [Pub. L. 100–690, title VI, § 6477(a)][/us/pl/100/690/s6477/a], Nov. 18, 1988, [102 Stat. 4381][/us/stat/102/4381]; [Pub. L. 103–322, title X, § 100002][/us/pl/103/322/s100002], Sept. 13, 1994, [108 Stat. 1996][/us/stat/108/1996]; [Pub. L. 104–132, title IX, § 901(b)][/us/pl/104/132/s901/b], Apr. 24, 1996, [110 Stat. 1317][/us/stat/110/1317]; [Pub. L. 104–294, title VI, § 604(b)(32)][/us/pl/104/294/s604/b/32], Oct. 11, 1996, [110 Stat. 3508][/us/stat/110/3508].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 686][/us/stat/62/686]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6477(a), Nov. 18, 1988, [102 Stat. 4381][/us/stat/102/4381]; [Pub. L. 103–322, title X][/us/pl/103/322/tX], § 100002, Sept. 13, 1994, [108 Stat. 1996][/us/stat/108/1996]; [Pub. L. 104–132, title IX][/us/pl/104/132/tIX], § 901(b), Apr. 24, 1996, [110 Stat. 1317][/us/stat/110/1317]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(32), Oct. 11, 1996, [110 Stat. 3508][/us/stat/110/3508].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 468 ([Mar. 4, 1909, ch. 321, § 289][/us/act/1909-03-04/ch321/s289], [35 Stat. 1145][/us/stat/35/1145]; [June 15, 1933, ch. 85][/us/act/1933-06-15/ch85], [48 Stat. 152][/us/stat/48/152]; [June 20, 1935, ch. 284][/us/act/1935-06-20/ch284], [49 Stat. 394][/us/stat/49/394]; [June 6, 1940, ch. 241][/us/act/1940-06-06/ch241], [54 Stat. 234][/us/stat/54/234]).
+    Based on title 18, U.S.C., 1940 ed., § 468 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 289, [35 Stat. 1145][/us/stat/35/1145]; [June 15, 1933, ch. 85][/us/act/1933-06-15/ch85], [48 Stat. 152][/us/stat/48/152]; [June 20, 1935, ch. 284][/us/act/1935-06-20/ch284], [49 Stat. 394][/us/stat/49/394]; [June 6, 1940, ch. 241][/us/act/1940-06-06/ch241], [54 Stat. 234][/us/stat/54/234]).
 
     Act March 4, 1909, § 289 used the words “now in force” when referring to the laws of any State, organized Territory or district, to be considered in force.
 
@@ -55,11 +55,11 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–132, § 901(b)(1)][/us/pl/104/132/s901/b/1], inserted “or on, above, or below any portion of the territorial sea of the United States not within the jurisdiction of any State, Commonwealth, territory, possession, or district” after “[section 7 of this title][/us/usc/t18/s7],”.
+    1996—Subsec. (a). [Pub. L. 104–132][/us/pl/104/132], § 901(b)(1), inserted “or on, above, or below any portion of the territorial sea of the United States not within the jurisdiction of any State, Commonwealth, territory, possession, or district” after “[section 7 of this title][/us/usc/t18/s7],”.
 
     Subsec. (b)(2)(A). [Pub. L. 104–294][/us/pl/104/294] substituted “under this title” for “of not more than $1,000”.
 
-    Subsec. (c). [Pub. L. 104–132, § 901(b)(2)][/us/pl/104/132/s901/b/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 104–132][/us/pl/104/132], § 901(b)(2), added subsec. (c).
 
     1994—Subsec. (b). [Pub. L. 103–322][/us/pl/103/322] designated existing provisions as par. (1), substituted “Subject to paragraph (2) and for purposes” for “For purposes”, and added par. (2).
 
@@ -67,7 +67,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–294, title VI, § 604(d)][/us/pl/104/294/s604/d], Oct. 11, 1996, [110 Stat. 3509][/us/stat/110/3509], provided that: 
+[Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(d), Oct. 11, 1996, [110 Stat. 3509][/us/stat/110/3509], provided that: 
 
 > “The amendments made by this section \[amending this section, sections 36, 112, 113, 241, 242, 245, 351, 511, 542, 544, 545, 668, 704, 709, 794, 1014, 1030, 1112, 1169, 1512, 1515, 1516, 1751, 1956, 1961, 2114, 2311, 2339A, 2423, 2511, 2512, 2721, 3059A, 3561, 3582, 3592, and 5037 of this title, [section 802 of Title 21][/us/usc/t21/s802], Food and Drugs, sections 540A and 991 of Title 28, Judiciary and Judicial Procedure, and sections 3631, 5633, 10604, and 14011 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 1001, 1169, and 2325 of this title and [section 994 of Title 28][/us/usc/t28/s994]\] shall take effect on the date of enactment of [Public Law 103–322][/us/pl/103/322] \[Sept. 13, 1994\].”
 
@@ -85,15 +85,15 @@
 [/us/usc/t18/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs7
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F686
-[/us/pl/100/690/s6477/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6477%2Fa
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4381
-[/us/pl/103/322/s100002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs100002
+[/us/pl/103/322/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtX
 [/us/stat/108/1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1996
-[/us/pl/104/132/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs901%2Fb
+[/us/pl/104/132/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIX
 [/us/stat/110/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1317
-[/us/pl/104/294/s604/b/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F32
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3508
-[/us/act/1909-03-04/ch321/s289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs289
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1145
 [/us/act/1933-06-15/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-15%2Fch85
 [/us/stat/48/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F152
@@ -101,13 +101,13 @@
 [/us/stat/49/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F394
 [/us/act/1940-06-06/ch241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-06%2Fch241
 [/us/stat/54/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F234
-[/us/pl/104/132/s901/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs901%2Fb%2F1
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/usc/t18/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs7
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
-[/us/pl/104/132/s901/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs901%2Fb%2F2
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/104/294/s604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fd
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3509
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994

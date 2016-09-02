@@ -27,7 +27,7 @@
 
  __Short Title of 1997 Amendment__ 
 
-[Pub. L. 105–6, § 1][/us/pl/105/6/s1], Mar. 19, 1997, [111 Stat. 12][/us/stat/111/12], provided that: 
+[Pub. L. 105–6][/us/pl/105/6], § 1, Mar. 19, 1997, [111 Stat. 12][/us/stat/111/12], provided that: 
 
 > “This Act \[enacting [section 3510 of this title][/us/usc/t18/s3510], amending [section 3593 of this title][/us/usc/t18/s3593], and enacting provisions set out as a note under [section 3510 of this title][/us/usc/t18/s3510]\] may be cited as the ‘Victim Rights Clarification Act of 1997’.”
 
@@ -43,7 +43,7 @@
 [/us/usc/t28/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs632
 [/us/act/1878-03-16/ch37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1878-03-16%2Fch37
 [/us/stat/20/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F20%2F30
-[/us/pl/105/6/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F6%2Fs1
+[/us/pl/105/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F6
 [/us/stat/111/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F12
 [/us/usc/t18/s3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3510
 [/us/usc/t18/s3593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3593

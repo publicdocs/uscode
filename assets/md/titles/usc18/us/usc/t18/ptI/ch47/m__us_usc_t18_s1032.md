@@ -25,7 +25,7 @@
 
     shall be fined under this title or imprisoned not more than 5 years, or both.
 
-(Added [Pub. L. 101–647, title XXV, § 2501(a)][/us/pl/101/647/s2501/a], Nov. 29, 1990, [104 Stat. 4859][/us/stat/104/4859]; amended [Pub. L. 107–273, div. B, title IV, § 4002(b)(13)][/us/pl/107/273/s4002/b/13], Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808]; [Pub. L. 111–203, title II, § 211(a)][/us/pl/111/203/s211/a], (b), title III, § 377(7), July 21, 2010, [124 Stat. 1514][/us/stat/124/1514], 1569.)
+(Added [Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2501(a), Nov. 29, 1990, [104 Stat. 4859][/us/stat/104/4859]; amended [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(b)(13), Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808]; [Pub. L. 111–203, title II][/us/pl/111/203/tII], § 211(a), (b), title III, § 377(7), July 21, 2010, [124 Stat. 1514][/us/stat/124/1514], 1569.)
 
  __References in Text__ 
 
@@ -35,11 +35,11 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 211(b)][/us/pl/111/203/s211/b], struck out “of financial institution” after “agent” in section catchline.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 211(b), struck out “of financial institution” after “agent” in section catchline.
 
-    Par. (1). [Pub. L. 111–203, § 377(7)][/us/pl/111/203/s377/7], struck out “the Resolution Trust Corporation,” after “Federal Deposit Insurance Act,” and “or the Director of the Office of Thrift Supervision” after “Comptroller of the Currency”.
+    Par. (1). [Pub. L. 111–203][/us/pl/111/203], § 377(7), struck out “the Resolution Trust Corporation,” after “Federal Deposit Insurance Act,” and “or the Director of the Office of Thrift Supervision” after “Comptroller of the Currency”.
 
-    [Pub. L. 111–203, § 211(a)][/us/pl/111/203/s211/a], inserted “the Federal Deposit Insurance Corporation acting as receiver for a covered financial company, in accordance with title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act,” before “or the National Credit”.
+    [Pub. L. 111–203][/us/pl/111/203], § 211(a), inserted “the Federal Deposit Insurance Corporation acting as receiver for a covered financial company, in accordance with title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act,” before “or the National Credit”.
 
     2002—Par. (1). [Pub. L. 107–273][/us/pl/107/273] substituted “13” for “13,”.
 
@@ -56,18 +56,18 @@
 ----------
 ----------
 
-[/us/pl/101/647/s2501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2501%2Fa
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4859
-[/us/pl/107/273/s4002/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fb%2F13
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1808
-[/us/pl/111/203/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs211%2Fa
+[/us/pl/111/203/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtII
 [/us/stat/124/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1514
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1376
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/111/203/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs211%2Fb
-[/us/pl/111/203/s377/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs377%2F7
-[/us/pl/111/203/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs211%2Fa
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4

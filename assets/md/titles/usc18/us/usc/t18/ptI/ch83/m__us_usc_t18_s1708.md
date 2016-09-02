@@ -23,13 +23,13 @@
 
     Shall be fined under this title or imprisoned not more than five years, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 779][/us/stat/62/779]; [May 24, 1949, ch. 139, § 39][/us/act/1949-05-24/ch139/s39], [63 Stat. 95][/us/stat/63/95]; [July 1, 1952, ch. 535][/us/act/1952-07-01/ch535], [66 Stat. 314][/us/stat/66/314]; [Pub. L. 103–322, title XXXIII, § 330016(1)(I)][/us/pl/103/322/s330016/1/I], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 779][/us/stat/62/779]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 39, [63 Stat. 95][/us/stat/63/95]; [July 1, 1952, ch. 535][/us/act/1952-07-01/ch535], [66 Stat. 314][/us/stat/66/314]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(I), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on title 18, U.S.C., 1940 ed., §§ 317, 321 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], §§ 194, 198, [35 Stat. 1125][/us/stat/35/1125], 1126; [May 18, 1916, ch. 126, § 10][/us/act/1916-05-18/ch126/s10], [39 Stat. 162][/us/stat/39/162]; [July 28, 1916, ch. 261, § 1][/us/act/1916-07-28/ch261/s1], [39 Stat. 418][/us/stat/39/418]; [Feb. 25, 1925, ch. 318][/us/act/1925-02-25/ch318], [43 Stat. 977][/us/stat/43/977]; [May 7, 1934, ch. 220, § 1][/us/act/1934-05-07/ch220/s1], [48 Stat. 667][/us/stat/48/667]; [Aug. 26, 1935, ch. 693][/us/act/1935-08-26/ch693], [49 Stat. 867][/us/stat/49/867]; [Aug. 7, 1939, ch. 557][/us/act/1939-08-07/ch557], [53 Stat. 1256][/us/stat/53/1256]).
+    Based on title 18, U.S.C., 1940 ed., §§ 317, 321 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], §§ 194, 198, [35 Stat. 1125][/us/stat/35/1125], 1126; [May 18, 1916, ch. 126][/us/act/1916-05-18/ch126], § 10, [39 Stat. 162][/us/stat/39/162]; [July 28, 1916, ch. 261][/us/act/1916-07-28/ch261], § 1, [39 Stat. 418][/us/stat/39/418]; [Feb. 25, 1925, ch. 318][/us/act/1925-02-25/ch318], [43 Stat. 977][/us/stat/43/977]; [May 7, 1934, ch. 220][/us/act/1934-05-07/ch220], § 1, [48 Stat. 667][/us/stat/48/667]; [Aug. 26, 1935, ch. 693][/us/act/1935-08-26/ch693], [49 Stat. 867][/us/stat/49/867]; [Aug. 7, 1939, ch. 557][/us/act/1939-08-07/ch557], [53 Stat. 1256][/us/stat/53/1256]).
 
     Each of these two sections has been divided. Provisions relating to theft or larceny of mail were placed in this section.
 
@@ -64,21 +64,21 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F779
-[/us/act/1949-05-24/ch139/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs39
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F95
 [/us/act/1952-07-01/ch535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-01%2Fch535
 [/us/stat/66/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F314
-[/us/pl/103/322/s330016/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FI
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1125
-[/us/act/1916-05-18/ch126/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-05-18%2Fch126%2Fs10
+[/us/act/1916-05-18/ch126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-05-18%2Fch126
 [/us/stat/39/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F162
-[/us/act/1916-07-28/ch261/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-28%2Fch261%2Fs1
+[/us/act/1916-07-28/ch261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-28%2Fch261
 [/us/stat/39/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F418
 [/us/act/1925-02-25/ch318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-25%2Fch318
 [/us/stat/43/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F977
-[/us/act/1934-05-07/ch220/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-07%2Fch220%2Fs1
+[/us/act/1934-05-07/ch220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-07%2Fch220
 [/us/stat/48/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F667
 [/us/act/1935-08-26/ch693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch693
 [/us/stat/49/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F867

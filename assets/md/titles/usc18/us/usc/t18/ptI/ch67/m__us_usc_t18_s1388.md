@@ -117,7 +117,7 @@
 
         (2) the term “immediate family” means, with respect to a person, the immediate family members of such person, as such term is defined in [section 115 of this title][/us/usc/t18/s115].
 
-(Added [Pub. L. 109–464, § 1(a)][/us/pl/109/464/s1/a], Dec. 22, 2006, [120 Stat. 3480][/us/stat/120/3480]; amended [Pub. L. 112–154, title VI, § 601(b)][/us/pl/112/154/s601/b], Aug. 6, 2012, [126 Stat. 1196][/us/stat/126/1196].)
+(Added [Pub. L. 109–464][/us/pl/109/464], § 1(a), Dec. 22, 2006, [120 Stat. 3480][/us/stat/120/3480]; amended [Pub. L. 112–154, title VI][/us/pl/112/154/tVI], § 601(b), Aug. 6, 2012, [126 Stat. 1196][/us/stat/126/1196].)
 
  __Amendments__ 
 
@@ -125,7 +125,7 @@
 
  __Purpose and Authority__ 
 
-[Pub. L. 112–154, title VI, § 601(a)][/us/pl/112/154/s601/a], Aug. 6, 2012, [126 Stat. 1195][/us/stat/126/1195], provided that:
+[Pub. L. 112–154, title VI][/us/pl/112/154/tVI], § 601(a), Aug. 6, 2012, [126 Stat. 1195][/us/stat/126/1195], provided that:
 
 >     “(1)  __Purpose__  __.—__ 
 
@@ -144,12 +144,12 @@
 
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/usc/t18/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs115
-[/us/pl/109/464/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F464%2Fs1%2Fa
+[/us/pl/109/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F464
 [/us/stat/120/3480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3480
-[/us/pl/112/154/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs601%2Fb
+[/us/pl/112/154/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtVI
 [/us/stat/126/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1196
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
-[/us/pl/112/154/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs601%2Fa
+[/us/pl/112/154/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtVI
 [/us/stat/126/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1195
 [/us/usc/t38/s2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2413
 

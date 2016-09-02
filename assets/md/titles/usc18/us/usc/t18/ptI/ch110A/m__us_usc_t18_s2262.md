@@ -41,7 +41,7 @@
 
         or both fined and imprisoned.
 
-(Added [Pub. L. 103–322, title IV, § 40221(a)][/us/pl/103/322/s40221/a], Sept. 13, 1994, [108 Stat. 1927][/us/stat/108/1927]; amended [Pub. L. 104–201, div. A, title X, § 1069(b)(2)][/us/pl/104/201/s1069/b/2], Sept. 23, 1996, [110 Stat. 2656][/us/stat/110/2656]; [Pub. L. 104–294, title VI, § 605(d)][/us/pl/104/294/s605/d], Oct. 11, 1996, [110 Stat. 3509][/us/stat/110/3509]; [Pub. L. 106–386, div. B, title I, § 1107(c)][/us/pl/106/386/s1107/c], Oct. 28, 2000, [114 Stat. 1498][/us/stat/114/1498]; [Pub. L. 109–162, title I, § 117(b)][/us/pl/109/162/s117/b], Jan. 5, 2006, [119 Stat. 2989][/us/stat/119/2989]; [Pub. L. 113–4, title I, § 107(c)][/us/pl/113/4/s107/c], Mar. 7, 2013, [127 Stat. 78][/us/stat/127/78].)
+(Added [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40221(a), Sept. 13, 1994, [108 Stat. 1927][/us/stat/108/1927]; amended [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1069(b)(2), Sept. 23, 1996, [110 Stat. 2656][/us/stat/110/2656]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 605(d), Oct. 11, 1996, [110 Stat. 3509][/us/stat/110/3509]; [Pub. L. 106–386, div. B, title I][/us/pl/106/386/dB/tI], § 1107(c), Oct. 28, 2000, [114 Stat. 1498][/us/stat/114/1498]; [Pub. L. 109–162, title I][/us/pl/109/162/tI], § 117(b), Jan. 5, 2006, [119 Stat. 2989][/us/stat/119/2989]; [Pub. L. 113–4, title I][/us/pl/113/4/tI], § 107(c), Mar. 7, 2013, [127 Stat. 78][/us/stat/127/78].)
 
  __Amendments__ 
 
@@ -78,17 +78,17 @@
 ----------
 ----------
 
-[/us/pl/103/322/s40221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40221%2Fa
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1927
-[/us/pl/104/201/s1069/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1069%2Fb%2F2
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2656
-[/us/pl/104/294/s605/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs605%2Fd
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3509
-[/us/pl/106/386/s1107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1107%2Fc
+[/us/pl/106/386/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtI
 [/us/stat/114/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1498
-[/us/pl/109/162/s117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs117%2Fb
+[/us/pl/109/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtI
 [/us/stat/119/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2989
-[/us/pl/113/4/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs107%2Fc
+[/us/pl/113/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtI
 [/us/stat/127/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F78
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162

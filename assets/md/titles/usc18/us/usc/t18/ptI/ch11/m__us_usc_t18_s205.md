@@ -95,7 +95,7 @@
 
         (5) any provision of any other Federal or District of Columbia law that authorizes labor-management relations between an agency or instrumentality of the United States or the District of Columbia and any labor organization that represents its employees.
 
-(Added [Pub. L. 87–849, § 1(a)][/us/pl/87/849/s1/a], Oct. 23, 1962, [76 Stat. 1122][/us/stat/76/1122]; amended [Pub. L. 101–194, title IV, § 404][/us/pl/101/194/s404], Nov. 30, 1989, [103 Stat. 1750][/us/stat/103/1750]; [Pub. L. 101–280, § 5(c)][/us/pl/101/280/s5/c], May 4, 1990, [104 Stat. 159][/us/stat/104/159]; [Pub. L. 104–177, § 2][/us/pl/104/177/s2], Aug. 6, 1996, [110 Stat. 1563][/us/stat/110/1563]; [Pub. L. 107–273, div. B, title IV, § 4002(a)(9)][/us/pl/107/273/s4002/a/9], Nov. 2, 2002, [116 Stat. 1807][/us/stat/116/1807].)
+(Added [Pub. L. 87–849][/us/pl/87/849], § 1(a), Oct. 23, 1962, [76 Stat. 1122][/us/stat/76/1122]; amended [Pub. L. 101–194, title IV][/us/pl/101/194/tIV], § 404, Nov. 30, 1989, [103 Stat. 1750][/us/stat/103/1750]; [Pub. L. 101–280][/us/pl/101/280], § 5(c), May 4, 1990, [104 Stat. 159][/us/stat/104/159]; [Pub. L. 104–177][/us/pl/104/177], § 2, Aug. 6, 1996, [110 Stat. 1563][/us/stat/110/1563]; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(a)(9), Nov. 2, 2002, [116 Stat. 1807][/us/stat/116/1807].)
 
  __References in Text__ 
 
@@ -111,13 +111,13 @@
 
     2002—Subsec. (d)(1)(B). [Pub. L. 107–273][/us/pl/107/273] substituted “group’s” for “groups’s”.
 
-    1996—Subsec. (d). [Pub. L. 104–177, § 2(a)][/us/pl/104/177/s2/a], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Nothing in subsection (a) or (b) prevents an officer or employee, if not inconsistent with the faithful performance of his duties, from acting without compensation as agent or attorney for, or otherwise representing, any person who is the subject of disciplinary, loyalty, or other personnel administration proceedings in connection with those proceedings.”
+    1996—Subsec. (d). [Pub. L. 104–177][/us/pl/104/177], § 2(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Nothing in subsection (a) or (b) prevents an officer or employee, if not inconsistent with the faithful performance of his duties, from acting without compensation as agent or attorney for, or otherwise representing, any person who is the subject of disciplinary, loyalty, or other personnel administration proceedings in connection with those proceedings.”
 
-    Subsec. (i). [Pub. L. 104–177, § 2(b)][/us/pl/104/177/s2/b], added subsec. (i).
+    Subsec. (i). [Pub. L. 104–177][/us/pl/104/177], § 2(b), added subsec. (i).
 
-    1990—Subsec. (a)(2). [Pub. L. 101–280, § 5(c)(1)][/us/pl/101/280/s5/c/1], substituted “civil” for “any civil”.
+    1990—Subsec. (a)(2). [Pub. L. 101–280][/us/pl/101/280], § 5(c)(1), substituted “civil” for “any civil”.
 
-    Subsec. (b)(2). [Pub. L. 101–280, § 5(c)(2)][/us/pl/101/280/s5/c/2], substituted “commission” for “any commission”.
+    Subsec. (b)(2). [Pub. L. 101–280][/us/pl/101/280], § 5(c)(2), substituted “commission” for “any commission”.
 
     1989—[Pub. L. 101–194][/us/pl/101/194] amended section generally, revising and restating as subsecs. (a) to (h) provisions formerly consisting of eight undesignated pars.
 
@@ -146,15 +146,15 @@
 [/us/usc/t18/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs216
 [/us/usc/t16/s831b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831b
 [/us/usc/t22/s4104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4104
-[/us/pl/87/849/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs1%2Fa
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1122
-[/us/pl/101/194/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs404
+[/us/pl/101/194/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtIV
 [/us/stat/103/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1750
-[/us/pl/101/280/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs5%2Fc
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F159
-[/us/pl/104/177/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F177%2Fs2
+[/us/pl/104/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F177
 [/us/stat/110/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1563
-[/us/pl/107/273/s4002/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fa%2F9
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1807
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
@@ -165,10 +165,10 @@
 [/us/usc/t18/s283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs283
 [/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/104/177/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F177%2Fs2%2Fa
-[/us/pl/104/177/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F177%2Fs2%2Fb
-[/us/pl/101/280/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs5%2Fc%2F1
-[/us/pl/101/280/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs5%2Fc%2F2
+[/us/pl/104/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F177
+[/us/pl/104/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F177
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/87/849/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs4
 [/us/usc/t18/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs201

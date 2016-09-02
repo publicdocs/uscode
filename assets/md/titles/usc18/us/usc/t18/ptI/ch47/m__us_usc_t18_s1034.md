@@ -19,7 +19,7 @@
 
     (b) If the Attorney General has reason to believe that a person is engaged in conduct constituting an offense under section 1033, the Attorney General may petition an appropriate United States district court for an order prohibiting that person from engaging in such conduct. The court may issue an order prohibiting that person from engaging in such conduct if the court finds that the conduct constitutes such an offense. The filing of a petition under this section does not preclude any other remedy which is available by law to the United States or any other person.
 
-(Added [Pub. L. 103–322, title XXXII, § 320603(a)][/us/pl/103/322/s320603/a], Sept. 13, 1994, [108 Stat. 2118][/us/stat/108/2118].)
+(Added [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320603(a), Sept. 13, 1994, [108 Stat. 2118][/us/stat/108/2118].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s320603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320603%2Fa
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2118
 
 

@@ -23,13 +23,13 @@
 
     This section shall not make unlawful the use of any such emblem, sign, insignia or words which was lawful on the date of enactment of this title.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 732][/us/stat/62/732]; [May 24, 1949, ch. 139, § 17][/us/act/1949-05-24/ch139/s17], [63 Stat. 92][/us/stat/63/92]; [Pub. L. 103–322, title XXXIII, § 330016(1)(E)][/us/pl/103/322/s330016/1/E], Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 732][/us/stat/62/732]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 17, [63 Stat. 92][/us/stat/63/92]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(E), Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on [section 4 of title 36][/us/usc/t36/s4], Patriotic Societies and Observances ([Jan. 5, 1905, ch. 23, § 4][/us/act/1905-01-05/ch23/s4], [33 Stat. 600][/us/stat/33/600]; [June 23, 1910, ch. 372, § 1][/us/act/1910-06-23/ch372/s1], [36 Stat. 604][/us/stat/36/604]).
+    Based on [section 4 of title 36][/us/usc/t36/s4], Patriotic Societies and Observances ([Jan. 5, 1905, ch. 23][/us/act/1905-01-05/ch23], § 4, [33 Stat. 600][/us/stat/33/600]; [June 23, 1910, ch. 372][/us/act/1910-06-23/ch372], § 1, [36 Stat. 604][/us/stat/36/604]).
 
     False personation provision in first part of section was omitted here and incorporated in [section 917 of this title][/us/usc/t18/s917].
 
@@ -64,14 +64,14 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F732
-[/us/act/1949-05-24/ch139/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs17
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F92
-[/us/pl/103/322/s330016/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FE
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2146
 [/us/usc/t36/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs4
-[/us/act/1905-01-05/ch23/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-01-05%2Fch23%2Fs4
+[/us/act/1905-01-05/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-01-05%2Fch23
 [/us/stat/33/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F600
-[/us/act/1910-06-23/ch372/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-23%2Fch372%2Fs1
+[/us/act/1910-06-23/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-23%2Fch372
 [/us/stat/36/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F604
 [/us/usc/t18/s917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs917
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1

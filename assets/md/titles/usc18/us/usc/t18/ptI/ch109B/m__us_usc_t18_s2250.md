@@ -31,9 +31,21 @@
 
         shall be fined under this title or imprisoned not more than 10 years, or both.
 
-    (b)  __Affirmative Defense__  __.—__ 
+    (b)  __International Travel Reporting Violations__  __.—__ 
 
-    In a prosecution for a violation under subsection (a), it is an affirmative defense that—
+    Whoever—
+
+        (1) is required to register under the Sex Offender Registration and Notification Act ([42 U.S.C. 16901][/us/usc/t42/s16901] et seq.);
+
+        (2) knowingly fails to provide information required by the Sex Offender Registration and Notification Act relating to intended travel in foreign commerce; and
+
+        (3) engages or attempts to engage in the intended travel in foreign commerce;
+
+        shall be fined under this title, imprisoned not more than 10 years, or both.
+
+    (c)  __Affirmative Defense__  __.—__ 
+
+    In a prosecution for a violation under subsection (a) or (b), it is an affirmative defense that—
 
         (1) uncontrollable circumstances prevented the individual from complying;
 
@@ -41,23 +53,27 @@
 
         (3) the individual complied as soon as such circumstances ceased to exist.
 
-    (c) __Crime of Violence.—__ 
+    (d) __Crime of Violence.—__ 
 
         (1)  __In general__  __.—__ 
 
-        An individual described in subsection (a) who commits a crime of violence under Federal law (including the Uniform Code of Military Justice), the law of the District of Columbia, Indian tribal law, or the law of any territory or possession of the United States shall be imprisoned for not less than 5 years and not more than 30 years.
+        An individual described in subsection (a) or (b) who commits a crime of violence under Federal law (including the Uniform Code of Military Justice), the law of the District of Columbia, Indian tribal law, or the law of any territory or possession of the United States shall be imprisoned for not less than 5 years and not more than 30 years.
 
         (2)  __Additional punishment__  __.—__ 
 
-        The punishment provided in paragraph (1) shall be in addition and consecutive to the punishment provided for the violation described in subsection (a).
+        The punishment provided in paragraph (1) shall be in addition and consecutive to the punishment provided for the violation described in subsection (a) or (b).
 
-(Added [Pub. L. 109–248, title I, § 141(a)(1)][/us/pl/109/248/s141/a/1], July 27, 2006, [120 Stat. 602][/us/stat/120/602].)
+(Added [Pub. L. 109–248, title I][/us/pl/109/248/tI], § 141(a)(1), July 27, 2006, [120 Stat. 602][/us/stat/120/602]; amended [Pub. L. 114–119][/us/pl/114/119], § 6(b), Feb. 8, 2016, [130 Stat. 23][/us/stat/130/23].)
 
  __References in Text__ 
 
-    The Sex Offender Registration and Notification Act, referred to in subsec. (a)(1), (2)(A), (3), is title I of [Pub. L. 109–248][/us/pl/109/248], July 27, 2006, [120 Stat. 590][/us/stat/120/590], which is classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 16901 of Title 42][/us/usc/t42/s16901] and Tables.
+    The Sex Offender Registration and Notification Act, referred to in subsecs. (a)(1), (2)(A), (3), and (b)(1), (2), is title I of [Pub. L. 109–248][/us/pl/109/248], July 27, 2006, [120 Stat. 590][/us/stat/120/590], which is classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 16901 of Title 42][/us/usc/t42/s16901] and Tables.
 
-    The Uniform Code of Military Justice, referred to in subsecs. (a)(2)(A) and (c)(1), is classified generally to chapter 47 (§ 801 et seq.) of Title 10, Armed Forces.
+    The Uniform Code of Military Justice, referred to in subsecs. (a)(2)(A) and (d)(1), is classified generally to chapter 47 (§ 801 et seq.) of Title 10, Armed Forces.
+
+ __Amendments__ 
+
+    2016—Subsecs. (b) to (d). [Pub. L. 114–119][/us/pl/114/119] added subsec. (b), redesignated former subsecs. (b) and (c) as (c) and (d), respectively, and in subsecs. (c) and (d), substitued “subsection (a) or (b)” for “subsection (a)” wherever appearing.
 
 ----------
 
@@ -66,10 +82,14 @@
 ----------
 ----------
 
-[/us/pl/109/248/s141/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs141%2Fa%2F1
+[/us/usc/t42/s16901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16901
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F602
+[/us/pl/114/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F119
+[/us/stat/130/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F23
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F590
 [/us/usc/t42/s16901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16901
+[/us/pl/114/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F119
 
 

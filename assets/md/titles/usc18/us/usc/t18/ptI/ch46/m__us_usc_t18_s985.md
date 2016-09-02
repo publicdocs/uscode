@@ -85,7 +85,7 @@
 
         (3) shall not affect the authority of the court to enter a restraining order relating to real property.
 
-(Added [Pub. L. 106–185, § 7(a)][/us/pl/106/185/s7/a], Apr. 25, 2000, [114 Stat. 214][/us/stat/114/214].)
+(Added [Pub. L. 106–185][/us/pl/106/185], § 7(a), Apr. 25, 2000, [114 Stat. 214][/us/stat/114/214].)
 
  __References in Text__ 
 
@@ -102,7 +102,7 @@
 ----------
 ----------
 
-[/us/pl/106/185/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs7%2Fa
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/stat/114/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F214
 [/us/pl/106/185/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs21
 [/us/usc/t8/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324

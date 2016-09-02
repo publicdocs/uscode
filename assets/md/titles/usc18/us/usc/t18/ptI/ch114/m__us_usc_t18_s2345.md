@@ -19,15 +19,15 @@
 
     (b) Nothing in this chapter shall be construed to inhibit or otherwise affect any coordinated law enforcement effort by a number of State or local governments, through interstate compact or otherwise, to provide for the administration of State or local cigarette tax laws, to provide for the confiscation of cigarettes or smokeless tobacco and other property seized in violation of such laws, and to establish cooperative programs for the administration of such laws.
 
-(Added [Pub. L. 95–575, § 1][/us/pl/95/575/s1], Nov. 2, 1978, [92 Stat. 2465][/us/stat/92/2465]; amended [Pub. L. 109–177, title I, § 121(b)(5)][/us/pl/109/177/s121/b/5], (e), (g)(2), Mar. 9, 2006, [120 Stat. 222–224][/us/stat/120/222-224].)
+(Added [Pub. L. 95–575][/us/pl/95/575], § 1, Nov. 2, 1978, [92 Stat. 2465][/us/stat/92/2465]; amended [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 121(b)(5), (e), (g)(2), Mar. 9, 2006, [120 Stat. 222–224][/us/stat/120/222-224].)
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–177, § 121(g)(2)][/us/pl/109/177/s121/g/2], substituted “Effect on State and local law” for “Effect on State law” in section catchline.
+    2006—[Pub. L. 109–177][/us/pl/109/177], § 121(g)(2), substituted “Effect on State and local law” for “Effect on State law” in section catchline.
 
-    Subsec. (a). [Pub. L. 109–177, § 121(b)(5)][/us/pl/109/177/s121/b/5], (e)(1), substituted “a State or local government to enact and enforce its own” for “a State to enact and enforce” and inserted “or smokeless tobacco” after “cigarettes”.
+    Subsec. (a). [Pub. L. 109–177][/us/pl/109/177], § 121(b)(5), (e)(1), substituted “a State or local government to enact and enforce its own” for “a State to enact and enforce” and inserted “or smokeless tobacco” after “cigarettes”.
 
-    Subsec. (b). [Pub. L. 109–177, § 121(b)(5)][/us/pl/109/177/s121/b/5], (e)(2), substituted “of State or local governments, through interstate compact or otherwise, to provide for the administration of State or local” for “of States, through interstate compact or otherwise, to provide for the administration of State” and inserted “or smokeless tobacco” after “cigarettes”.
+    Subsec. (b). [Pub. L. 109–177][/us/pl/109/177], § 121(b)(5), (e)(2), substituted “of State or local governments, through interstate compact or otherwise, to provide for the administration of State or local” for “of States, through interstate compact or otherwise, to provide for the administration of State” and inserted “or smokeless tobacco” after “cigarettes”.
 
 ----------
 
@@ -36,12 +36,12 @@
 ----------
 ----------
 
-[/us/pl/95/575/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F575%2Fs1
+[/us/pl/95/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F575
 [/us/stat/92/2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2465
-[/us/pl/109/177/s121/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs121%2Fb%2F5
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/222-224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F222-224
-[/us/pl/109/177/s121/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs121%2Fg%2F2
-[/us/pl/109/177/s121/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs121%2Fb%2F5
-[/us/pl/109/177/s121/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs121%2Fb%2F5
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 
 

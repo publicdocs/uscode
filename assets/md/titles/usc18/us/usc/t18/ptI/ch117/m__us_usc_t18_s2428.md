@@ -37,7 +37,7 @@
 
         The provisions of chapter 46 of this title relating to civil forfeitures shall apply to any seizure or civil forfeiture under this subsection.
 
-(Added [Pub. L. 109–164, title I, § 103(d)(1)][/us/pl/109/164/s103/d/1], Jan. 10, 2006, [119 Stat. 3563][/us/stat/119/3563].)
+(Added [Pub. L. 109–164, title I][/us/pl/109/164/tI], § 103(d)(1), Jan. 10, 2006, [119 Stat. 3563][/us/stat/119/3563].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/109/164/s103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2Fs103%2Fd%2F1
+[/us/pl/109/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F164%2FtI
 [/us/stat/119/3563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3563
 
 

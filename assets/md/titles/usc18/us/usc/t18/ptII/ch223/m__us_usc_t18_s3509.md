@@ -315,7 +315,7 @@
 
             (B) For the purposes of subparagraph (A), property or material shall be deemed to be reasonably available to the defendant if the Government provides ample opportunity for inspection, viewing, and examination at a Government facility of the property or material by the defendant, his or her attorney, and any individual the defendant may seek to qualify to furnish expert testimony at trial.
 
-(Added [Pub. L. 101–647, title II, § 225(a)][/us/pl/101/647/s225/a], Nov. 29, 1990, [104 Stat. 4798][/us/stat/104/4798]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322], §§ 330010(6), (7), 330011(e), 330018(b), Sept. 13, 1994, [108 Stat. 2143][/us/stat/108/2143], 2145, 2149; [Pub. L. 104–294, title VI, § 605(h)][/us/pl/104/294/s605/h], Oct. 11, 1996, [110 Stat. 3510][/us/stat/110/3510]; [Pub. L. 109–248, title V][/us/pl/109/248], §§ 504, 507, July 27, 2006, [120 Stat. 629][/us/stat/120/629], 631; [Pub. L. 111–16, § 3(11)][/us/pl/111/16/s3/11], May 7, 2009, [123 Stat. 1608][/us/stat/123/1608].)
+(Added [Pub. L. 101–647, title II][/us/pl/101/647/tII], § 225(a), Nov. 29, 1990, [104 Stat. 4798][/us/stat/104/4798]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], §§ 330010(6), (7), 330011(e), 330018(b), Sept. 13, 1994, [108 Stat. 2143][/us/stat/108/2143], 2145, 2149; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 605(h), Oct. 11, 1996, [110 Stat. 3510][/us/stat/110/3510]; [Pub. L. 109–248, title V][/us/pl/109/248/tV], §§ 504, 507, July 27, 2006, [120 Stat. 629][/us/stat/120/629], 631; [Pub. L. 111–16][/us/pl/111/16], § 3(11), May 7, 2009, [123 Stat. 1608][/us/stat/123/1608].)
 
  __References in Text__ 
 
@@ -327,23 +327,23 @@
 
     2009—Subsec. (b)(1)(A). [Pub. L. 111–16][/us/pl/111/16] substituted “7 days” for “5 days”.
 
-    2006—Subsec. (h)(1). [Pub. L. 109–248, § 507][/us/pl/109/248/s507], inserted “, and provide reasonable compensation and payment of expenses for,” after “The court may appoint”.
+    2006—Subsec. (h)(1). [Pub. L. 109–248][/us/pl/109/248], § 507, inserted “, and provide reasonable compensation and payment of expenses for,” after “The court may appoint”.
 
-    Subsec. (m). [Pub. L. 109–248, § 504][/us/pl/109/248/s504], added subsec. (m).
+    Subsec. (m). [Pub. L. 109–248][/us/pl/109/248], § 504, added subsec. (m).
 
-    1996—Subsec. (e). [Pub. L. 104–294, § 605(h)(1)][/us/pl/104/294/s605/h/1], substituted “serve the Government’s” for “serve the government’s”.
+    1996—Subsec. (e). [Pub. L. 104–294][/us/pl/104/294], § 605(h)(1), substituted “serve the Government’s” for “serve the government’s”.
 
-    Subsec. (h)(3). [Pub. L. 104–294, § 605(h)(2)][/us/pl/104/294/s605/h/2], substituted “in paragraph (2)” for “in subpart (2)”.
+    Subsec. (h)(3). [Pub. L. 104–294][/us/pl/104/294], § 605(h)(2), substituted “in paragraph (2)” for “in subpart (2)”.
 
-    1994—[Pub. L. 103–322, § 330011(e)][/us/pl/103/322/s330011/e], made technical amendment to directory language of [Pub. L. 101–647, § 225(a)][/us/pl/101/647/s225/a], which enacted this section.
+    1994—[Pub. L. 103–322][/us/pl/103/322], § 330011(e), made technical amendment to directory language of [Pub. L. 101–647][/us/pl/101/647], § 225(a), which enacted this section.
 
-    [Pub. L. 103–322, § 330010(7)(B)][/us/pl/103/322/s330010/7/B], substituted “Government” for “government” in subsecs. (b)(1)(A), (D), (2)(A), and (c)(5)(B), in subsec. (d)(1)(B)(i) after “hired by the”, and in subsec. (g)(1).
+    [Pub. L. 103–322][/us/pl/103/322], § 330010(7)(B), substituted “Government” for “government” in subsecs. (b)(1)(A), (D), (2)(A), and (c)(5)(B), in subsec. (d)(1)(B)(i) after “hired by the”, and in subsec. (g)(1).
 
-    [Pub. L. 103–322, § 330010(7)(A)][/us/pl/103/322/s330010/7/A], substituted “subsection” for “subdivision” in subsecs. (b)(1)(A), (D)(i), (2)(A), (B)(iii)(III), (c)(1), (d)(4), and (f).
+    [Pub. L. 103–322][/us/pl/103/322], § 330010(7)(A), substituted “subsection” for “subdivision” in subsecs. (b)(1)(A), (D)(i), (2)(A), (B)(iii)(III), (c)(1), (d)(4), and (f).
 
-    Subsec. (a)(11) to (13). [Pub. L. 103–322, § 330010(6)][/us/pl/103/322/s330010/6], redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11) which read as follows: “the term ‘exploitation’ means child pornography or child prostitution;”.
+    Subsec. (a)(11) to (13). [Pub. L. 103–322][/us/pl/103/322], § 330010(6), redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11) which read as follows: “the term ‘exploitation’ means child pornography or child prostitution;”.
 
-    Subsec. (k). [Pub. L. 103–322, § 330018(b)][/us/pl/103/322/s330018/b], substituted heading for one which read “Extension of Child Statute of Limitations” and struck out first sentence which read as follows: “No statute of limitation that would otherwise preclude prosecution for an offense involving the sexual or physical abuse of a child under the age of 18 years shall preclude such prosecution before the child reaches the age of 25 years.”
+    Subsec. (k). [Pub. L. 103–322][/us/pl/103/322], § 330018(b), substituted heading for one which read “Extension of Child Statute of Limitations” and struck out first sentence which read as follows: “No statute of limitation that would otherwise preclude prosecution for an offense involving the sexual or physical abuse of a child under the age of 18 years shall preclude such prosecution before the child reaches the age of 25 years.”
 
  __Effective Date of 2009 Amendment__ 
 
@@ -351,7 +351,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–322, title XXXIII, § 330011(e)][/us/pl/103/322/s330011/e], Sept. 13, 1994, [108 Stat. 2145][/us/stat/108/2145], provided that the amendment made by that section is effective as of the date on which [section 225(a) of Pub. L. 101–647][/us/pl/101/647/s225/a] took effect.
+    [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330011(e), Sept. 13, 1994, [108 Stat. 2145][/us/stat/108/2145], provided that the amendment made by that section is effective as of the date on which [section 225(a) of Pub. L. 101–647][/us/pl/101/647/s225/a] took effect.
 
 ----------
 
@@ -362,31 +362,31 @@
 
 [/us/usc/t18/s2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2256
 [/us/usc/t18/s2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2256
-[/us/pl/101/647/s225/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs225%2Fa
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4798
-[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2143
-[/us/pl/104/294/s605/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs605%2Fh
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3510
-[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtV
 [/us/stat/120/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F629
-[/us/pl/111/16/s3/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs3%2F11
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/stat/123/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1608
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
-[/us/pl/109/248/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs507
-[/us/pl/109/248/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs504
-[/us/pl/104/294/s605/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs605%2Fh%2F1
-[/us/pl/104/294/s605/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs605%2Fh%2F2
-[/us/pl/103/322/s330011/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Fe
-[/us/pl/101/647/s225/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs225%2Fa
-[/us/pl/103/322/s330010/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330010%2F7%2FB
-[/us/pl/103/322/s330010/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330010%2F7%2FA
-[/us/pl/103/322/s330010/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330010%2F6
-[/us/pl/103/322/s330018/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330018%2Fb
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/111/16/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs7
 [/us/usc/t11/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs109
-[/us/pl/103/322/s330011/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Fe
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2145
 [/us/pl/101/647/s225/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs225%2Fa
 

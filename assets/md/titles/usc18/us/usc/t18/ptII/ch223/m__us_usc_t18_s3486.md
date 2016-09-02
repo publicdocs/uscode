@@ -111,7 +111,7 @@
 
         (3) Upon the granting of such order, the court, in determining the extent to which any disclosure of all or any part of any record is necessary, shall impose appropriate safeguards against unauthorized disclosure.
 
-(Added [Pub. L. 104–191, title II, § 248(a)][/us/pl/104/191/s248/a], Aug. 21, 1996, [110 Stat. 2018][/us/stat/110/2018]; amended [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title I, § 122\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–72; [Pub. L. 105–314, title VI, § 606(a)(1)][/us/pl/105/314/s606/a/1], Oct. 30, 1998, [112 Stat. 2984][/us/stat/112/2984]; [Pub. L. 106–544, § 5(a)][/us/pl/106/544/s5/a], (b)(1), (c), Dec. 19, 2000, [114 Stat. 2716][/us/stat/114/2716], 2718; [Pub. L. 108–21, title V, § 509][/us/pl/108/21/s509], Apr. 30, 2003, [117 Stat. 684][/us/stat/117/684]; [Pub. L. 110–457, title II, § 224(b)][/us/pl/110/457/s224/b], Dec. 23, 2008, [122 Stat. 5072][/us/stat/122/5072]; [Pub. L. 112–206, § 4(a)][/us/pl/112/206/s4/a], Dec. 7, 2012, [126 Stat. 1492][/us/stat/126/1492].)
+(Added [Pub. L. 104–191, title II][/us/pl/104/191/tII], § 248(a), Aug. 21, 1996, [110 Stat. 2018][/us/stat/110/2018]; amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title I, § 122\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–72; [Pub. L. 105–314, title VI][/us/pl/105/314/tVI], § 606(a)(1), Oct. 30, 1998, [112 Stat. 2984][/us/stat/112/2984]; [Pub. L. 106–544][/us/pl/106/544], § 5(a), (b)(1), (c), Dec. 19, 2000, [114 Stat. 2716][/us/stat/114/2716], 2718; [Pub. L. 108–21, title V][/us/pl/108/21/tV], § 509, Apr. 30, 2003, [117 Stat. 684][/us/stat/117/684]; [Pub. L. 110–457, title II][/us/pl/110/457/tII], § 224(b), Dec. 23, 2008, [122 Stat. 5072][/us/stat/122/5072]; [Pub. L. 112–206][/us/pl/112/206], § 4(a), Dec. 7, 2012, [126 Stat. 1492][/us/stat/126/1492].)
 
  __References in Text__ 
 
@@ -119,37 +119,37 @@
 
  __Prior Provisions__ 
 
-    A prior section 3486, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 833][/us/stat/62/833]; [Aug. 20, 1954, ch. 769, § 1][/us/act/1954-08-20/ch769/s1], [68 Stat. 745][/us/stat/68/745]; Aug. 28, 1965, [Pub. L. 89–141, § 2][/us/pl/89/141/s2], [79 Stat. 581][/us/stat/79/581], set forth procedure for granting of immunity to witnesses compelled to testify or produce evidence in course of any Congressional investigation, or case or proceeding before any grand jury or court of the United States, involving interference with or endangering of national security or defense of the United States, prior to repeal by [Pub. L. 91–452, title II, § 228(a)][/us/pl/91/452/s228/a], Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930], effective on sixtieth day following Oct. 15, 1970. See section 6001 et seq. of this title.
+    A prior section 3486, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 833][/us/stat/62/833]; [Aug. 20, 1954, ch. 769][/us/act/1954-08-20/ch769], § 1, [68 Stat. 745][/us/stat/68/745]; Aug. 28, 1965, [Pub. L. 89–141][/us/pl/89/141], § 2, [79 Stat. 581][/us/stat/79/581], set forth procedure for granting of immunity to witnesses compelled to testify or produce evidence in course of any Congressional investigation, or case or proceeding before any grand jury or court of the United States, involving interference with or endangering of national security or defense of the United States, prior to repeal by [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 228(a), Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930], effective on sixtieth day following Oct. 15, 1970. See section 6001 et seq. of this title.
 
  __Amendments__ 
 
-    2012—Subsec. (a)(1)(A)(ii), (iii). [Pub. L. 112–206, § 4(a)(1)(A)][/us/pl/112/206/s4/a/1/A], added cl. (ii) and redesignated former cl. (ii) as (iii).
+    2012—Subsec. (a)(1)(A)(ii), (iii). [Pub. L. 112–206][/us/pl/112/206], § 4(a)(1)(A), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-    Subsec. (a)(1)(D). [Pub. L. 112–206, § 4(a)(1)(B)][/us/pl/112/206/s4/a/1/B], substituted “paragraph—” for “paragraph,”, inserted cl. (i) designation before “the term”, substituted “years; and” for “years.”, and added cl. (ii).
+    Subsec. (a)(1)(D). [Pub. L. 112–206][/us/pl/112/206], § 4(a)(1)(B), substituted “paragraph—” for “paragraph,”, inserted cl. (i) designation before “the term”, substituted “years; and” for “years.”, and added cl. (ii).
 
-    Subsec. (a)(6)(A). [Pub. L. 112–206, § 4(a)(2)(A)][/us/pl/112/206/s4/a/2/A], substituted “United States” for “United State”.
+    Subsec. (a)(6)(A). [Pub. L. 112–206][/us/pl/112/206], § 4(a)(2)(A), substituted “United States” for “United State”.
 
-    Subsec. (a)(9), (10). [Pub. L. 112–206, § 4(a)(2)(B)][/us/pl/112/206/s4/a/2/B], (C), substituted “(1)(A)(iii)” for “(1)(A)(ii)”.
+    Subsec. (a)(9), (10). [Pub. L. 112–206][/us/pl/112/206], § 4(a)(2)(B), (C), substituted “(1)(A)(iii)” for “(1)(A)(ii)”.
 
     2008—Subsec. (a)(1)(D). [Pub. L. 110–457][/us/pl/110/457] inserted “1591,” after “1201,”.
 
     2003—Subsec. (a)(1)(C)(i). [Pub. L. 108–21][/us/pl/108/21] substituted “the information specified in section 2703(c)(2)” for “the name, address, local and long distance telephone toll billing records, telephone number or other subscriber number or identity, and length of service of a subscriber to or customer of such service and the types of services the subscriber or customer utilized”.
 
-    2000—[Pub. L. 106–544, § 5(b)(1)][/us/pl/106/544/s5/b/1], struck out “in Federal health care investigations” after “subpoenas” in section catchline.
+    2000—[Pub. L. 106–544][/us/pl/106/544], § 5(b)(1), struck out “in Federal health care investigations” after “subpoenas” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 106–544, § 5(a)(1)][/us/pl/106/544/s5/a/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In any investigation relating to any act or activity involving a Federal health care offense, or any act or activity involving a Federal offense relating to the sexual exploitation or other abuse of children, the Attorney General or the Attorney General’s designee may issue in writing and cause to be served a subpoena—
+    Subsec. (a)(1). [Pub. L. 106–544][/us/pl/106/544], § 5(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In any investigation relating to any act or activity involving a Federal health care offense, or any act or activity involving a Federal offense relating to the sexual exploitation or other abuse of children, the Attorney General or the Attorney General’s designee may issue in writing and cause to be served a subpoena—
 
     “(A) requiring the production of any records (including any books, papers, documents, electronic media, or other objects or tangible things), which may be relevant to an authorized law enforcement inquiry, that a person or legal entity may possess or have care, custody, or control; or
 
     “(B) requiring a custodian of records to give testimony concerning the production and authentication of such records.”
 
-    Subsec. (a)(3). [Pub. L. 106–544, § 5(a)(2)][/us/pl/106/544/s5/a/2], inserted “relating to a Federal health care offense” after “production of records” and inserted at end “The production of things in any other case may be required from any place within the United States or subject to the laws or jurisdiction of the United States.”
+    Subsec. (a)(3). [Pub. L. 106–544][/us/pl/106/544], § 5(a)(2), inserted “relating to a Federal health care offense” after “production of records” and inserted at end “The production of things in any other case may be required from any place within the United States or subject to the laws or jurisdiction of the United States.”
 
-    Subsec. (a)(4). [Pub. L. 106–544, § 5(c)(1)][/us/pl/106/544/s5/c/1], substituted “subpoenaed” for “summoned”.
+    Subsec. (a)(4). [Pub. L. 106–544][/us/pl/106/544], § 5(c)(1), substituted “subpoenaed” for “summoned”.
 
-    Subsec. (a)(5) to (10). [Pub. L. 106–544, § 5(a)(3)][/us/pl/106/544/s5/a/3], added pars. (5) to (10).
+    Subsec. (a)(5) to (10). [Pub. L. 106–544][/us/pl/106/544], § 5(a)(3), added pars. (5) to (10).
 
-    Subsec. (d). [Pub. L. 106–544, § 5(c)(2)][/us/pl/106/544/s5/c/2], substituted “subpoena” for “summons” in two places.
+    Subsec. (d). [Pub. L. 106–544][/us/pl/106/544], § 5(c)(2), substituted “subpoena” for “summons” in two places.
 
     1998—[Pub. L. 105–314][/us/pl/105/314] substituted “Administrative subpoenas in Federal health care investigations” for “Authorized investigative demand procedures” in section catchline.
 
@@ -167,43 +167,43 @@
 ----------
 
 [/us/usc/t42/s16901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16901
-[/us/pl/104/191/s248/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs248%2Fa
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2018
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
-[/us/pl/105/314/s606/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2Fs606%2Fa%2F1
+[/us/pl/105/314/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2FtVI
 [/us/stat/112/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2984
-[/us/pl/106/544/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544%2Fs5%2Fa
+[/us/pl/106/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544
 [/us/stat/114/2716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2716
-[/us/pl/108/21/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs509
+[/us/pl/108/21/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtV
 [/us/stat/117/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F684
-[/us/pl/110/457/s224/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs224%2Fb
+[/us/pl/110/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtII
 [/us/stat/122/5072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5072
-[/us/pl/112/206/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206%2Fs4%2Fa
+[/us/pl/112/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206
 [/us/stat/126/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1492
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F590
 [/us/usc/t42/s16901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16901
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F833
-[/us/act/1954-08-20/ch769/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-20%2Fch769%2Fs1
+[/us/act/1954-08-20/ch769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-20%2Fch769
 [/us/stat/68/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F745
-[/us/pl/89/141/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F141%2Fs2
+[/us/pl/89/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F141
 [/us/stat/79/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F581
-[/us/pl/91/452/s228/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs228%2Fa
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F930
-[/us/pl/112/206/s4/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206%2Fs4%2Fa%2F1%2FA
-[/us/pl/112/206/s4/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206%2Fs4%2Fa%2F1%2FB
-[/us/pl/112/206/s4/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206%2Fs4%2Fa%2F2%2FA
-[/us/pl/112/206/s4/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206%2Fs4%2Fa%2F2%2FB
+[/us/pl/112/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206
+[/us/pl/112/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206
+[/us/pl/112/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206
+[/us/pl/112/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F206
 [/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
 [/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
-[/us/pl/106/544/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544%2Fs5%2Fb%2F1
-[/us/pl/106/544/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544%2Fs5%2Fa%2F1
-[/us/pl/106/544/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544%2Fs5%2Fa%2F2
-[/us/pl/106/544/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544%2Fs5%2Fc%2F1
-[/us/pl/106/544/s5/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544%2Fs5%2Fa%2F3
-[/us/pl/106/544/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544%2Fs5%2Fc%2F2
+[/us/pl/106/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544
+[/us/pl/106/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544
+[/us/pl/106/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544
+[/us/pl/106/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544
+[/us/pl/106/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544
+[/us/pl/106/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544
 [/us/pl/105/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

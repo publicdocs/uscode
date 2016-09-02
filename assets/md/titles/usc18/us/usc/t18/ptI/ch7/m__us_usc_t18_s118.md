@@ -17,7 +17,7 @@
 
     Any person who knowingly and willfully obstructs, resists, or interferes with a Federal law enforcement agent engaged, within the United States or the special maritime territorial jurisdiction of the United States, in the performance of the protective functions authorized under section 37 of the State Department Basic Authorities Act of 1956 ([22 U.S.C. 2709][/us/usc/t22/s2709]) or section 103 of the Diplomatic Security Act ([22 U.S.C. 4802][/us/usc/t22/s4802]) shall be fined under this title, imprisoned not more than 1 year, or both.
 
-(Added [Pub. L. 109–472, § 4(a)][/us/pl/109/472/s4/a], Jan. 11, 2007, [120 Stat. 3555][/us/stat/120/3555].)
+(Added [Pub. L. 109–472][/us/pl/109/472], § 4(a), Jan. 11, 2007, [120 Stat. 3555][/us/stat/120/3555].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t22/s2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2709
 [/us/usc/t22/s4802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4802
-[/us/pl/109/472/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472%2Fs4%2Fa
+[/us/pl/109/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F472
 [/us/stat/120/3555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3555
 
 

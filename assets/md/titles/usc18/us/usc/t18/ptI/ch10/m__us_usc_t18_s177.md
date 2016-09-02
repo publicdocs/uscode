@@ -33,7 +33,7 @@
 
         (2) such biological agent, toxin, or delivery system is of a type and quantity reasonable for that purpose.
 
-(Added [Pub. L. 101–298, § 3(a)][/us/pl/101/298/s3/a], May 22, 1990, [104 Stat. 202][/us/stat/104/202]; amended [Pub. L. 104–132, title V, § 511(b)(2)][/us/pl/104/132/s511/b/2], Apr. 24, 1996, [110 Stat. 1284][/us/stat/110/1284].)
+(Added [Pub. L. 101–298][/us/pl/101/298], § 3(a), May 22, 1990, [104 Stat. 202][/us/stat/104/202]; amended [Pub. L. 104–132, title V][/us/pl/104/132/tV], § 511(b)(2), Apr. 24, 1996, [110 Stat. 1284][/us/stat/110/1284].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 
 [/us/usc/t18/s175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs175
 [/us/usc/t18/s175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs175
-[/us/pl/101/298/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F298%2Fs3%2Fa
+[/us/pl/101/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F298
 [/us/stat/104/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F202
-[/us/pl/104/132/s511/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs511%2Fb%2F2
+[/us/pl/104/132/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtV
 [/us/stat/110/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1284
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 

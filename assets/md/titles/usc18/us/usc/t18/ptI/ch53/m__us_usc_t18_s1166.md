@@ -29,7 +29,7 @@
 
     (d) The United States shall have exclusive jurisdiction over criminal prosecutions of violations of State gambling laws that are made applicable under this section to Indian country, unless an Indian tribe pursuant to a Tribal-State compact approved by the Secretary of the Interior under section 11(d)(8) of the Indian Gaming Regulatory Act, or under any other provision of Federal law, has consented to the transfer to the State of criminal jurisdiction with respect to gambling on the lands of the Indian tribe.
 
-(Added [Pub. L. 100–497, § 23][/us/pl/100/497/s23], Oct. 17, 1988, [102 Stat. 2487][/us/stat/102/2487].)
+(Added [Pub. L. 100–497][/us/pl/100/497], § 23, Oct. 17, 1988, [102 Stat. 2487][/us/stat/102/2487].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/100/497/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497%2Fs23
+[/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2487
 [/us/pl/100/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F497
 [/us/stat/102/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2467

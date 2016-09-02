@@ -33,17 +33,17 @@
 
     A judgment of conviction or acquittal on the merits under the laws of any State shall be a bar to any prosecution under this section for the same act or acts. Nothing contained in this section shall be construed as indicating an intent on the part of Congress to occupy the field in which provisions of this section operate to the exclusion of State laws on the same subject matter, nor shall any provision of this section be construed as invalidating any provision of State law unless such provision is inconsistent with any of the purposes of this section or any provision thereof.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 729][/us/stat/62/729]; [May 24, 1949, ch. 139, § 13][/us/act/1949-05-24/ch139/s13], [63 Stat. 91][/us/stat/63/91]; [Pub. L. 89–654, § 1(a)][/us/pl/89/654/s1/a]–(d), Oct. 14, 1966, [80 Stat. 904][/us/stat/80/904]; [Pub. L. 103–322, title XXXIII, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], (K), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–294, title VI, § 606(a)][/us/pl/104/294/s606/a], Oct. 11, 1996, [110 Stat. 3511][/us/stat/110/3511]; [Pub. L. 109–177, title III, § 307(a)][/us/pl/109/177/s307/a], Mar. 9, 2006, [120 Stat. 240][/us/stat/120/240]; [Pub. L. 112–186, § 4(a)][/us/pl/112/186/s4/a], Oct. 5, 2012, [126 Stat. 1428][/us/stat/126/1428].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 729][/us/stat/62/729]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 13, [63 Stat. 91][/us/stat/63/91]; [Pub. L. 89–654][/us/pl/89/654], § 1(a)–(d), Oct. 14, 1966, [80 Stat. 904][/us/stat/80/904]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(H), (K), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 606(a), Oct. 11, 1996, [110 Stat. 3511][/us/stat/110/3511]; [Pub. L. 109–177, title III][/us/pl/109/177/tIII], § 307(a), Mar. 9, 2006, [120 Stat. 240][/us/stat/120/240]; [Pub. L. 112–186][/us/pl/112/186], § 4(a), Oct. 5, 2012, [126 Stat. 1428][/us/stat/126/1428].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on title 18, U.S.C., 1940 ed., §§ 409, 410, 411 ([Feb. 13, 1913, ch. 50][/us/act/1913-02-13/ch50], §§ 1, 2, [37 Stat. 670][/us/stat/37/670]; [Feb. 13, 1913, ch. 50, § 3][/us/act/1913-02-13/ch50/s3], as added [Jan. 28, 1925, ch. 102][/us/act/1925-01-28/ch102], [43 Stat. 794][/us/stat/43/794]; [Jan. 28, 1925, ch. 102][/us/act/1925-01-28/ch102], [43 Stat. 793][/us/stat/43/793], 794; [Jan. 21, 1933, ch. 16][/us/act/1933-01-21/ch16], [47 Stat. 773][/us/stat/47/773], 774; [July 24, 1946, ch. 606][/us/act/1946-07-24/ch606], [60 Stat. 656][/us/stat/60/656].)
+    Based on title 18, U.S.C., 1940 ed., §§ 409, 410, 411 ([Feb. 13, 1913, ch. 50][/us/act/1913-02-13/ch50], §§ 1, 2, [37 Stat. 670][/us/stat/37/670]; [Feb. 13, 1913, ch. 50][/us/act/1913-02-13/ch50], § 3, as added [Jan. 28, 1925, ch. 102][/us/act/1925-01-28/ch102], [43 Stat. 794][/us/stat/43/794]; [Jan. 28, 1925, ch. 102][/us/act/1925-01-28/ch102], [43 Stat. 793][/us/stat/43/793], 794; [Jan. 21, 1933, ch. 16][/us/act/1933-01-21/ch16], [47 Stat. 773][/us/stat/47/773], 774; [July 24, 1946, ch. 606][/us/act/1946-07-24/ch606], [60 Stat. 656][/us/stat/60/656].)
 
     This section consolidates sections 409, 410, and 411 of title 18, U.S.C., 1940 ed. First clause of said section 409 was incorporated in [section 2117 of this title][/us/usc/t18/s2117].
 
-    In the paragraph immediately preceding the last paragraph the words “and to which” were added to obviate an inadvertent and incongruous omission in the enactment of [act July 24, 1946, ch. 606, § 3][/us/act/1946-07-24/ch606/s3], [60 Stat. 657][/us/stat/60/657]. This is in harmony with corrective legislation pending before the Eightieth Congress.
+    In the paragraph immediately preceding the last paragraph the words “and to which” were added to obviate an inadvertent and incongruous omission in the enactment of [act July 24, 1946, ch. 606][/us/act/1946-07-24/ch606], § 3, [60 Stat. 657][/us/stat/60/657]. This is in harmony with corrective legislation pending before the Eightieth Congress.
 
     The definitions of “station house”, “depot”, “wagon”, “automobile”, “truck”, or “other vehicle”, contained in said [section 409 of title 18][/us/usc/t18/s409], are omitted as unnecessary.
 
@@ -75,7 +75,7 @@
 
  __Annual Report of Law Enforcement Activities__ 
 
-[Pub. L. 109–177, title III, § 307(d)][/us/pl/109/177/s307/d], Mar. 9, 2006, [120 Stat. 240][/us/stat/120/240], provided that: 
+[Pub. L. 109–177, title III][/us/pl/109/177/tIII], § 307(d), Mar. 9, 2006, [120 Stat. 240][/us/stat/120/240], provided that: 
 
 > “The Attorney General shall annually submit to Congress a report, which shall include an evaluation of law enforcement activities relating to the investigation and prosecution of offenses under [section 659 of title 18][/us/usc/t18/s659], United States Code, as amended by this title.”
 
@@ -88,21 +88,21 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F729
-[/us/act/1949-05-24/ch139/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs13
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F91
-[/us/pl/89/654/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F654%2Fs1%2Fa
+[/us/pl/89/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F654
 [/us/stat/80/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F904
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/104/294/s606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs606%2Fa
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3511
-[/us/pl/109/177/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs307%2Fa
+[/us/pl/109/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIII
 [/us/stat/120/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F240
-[/us/pl/112/186/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F186%2Fs4%2Fa
+[/us/pl/112/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F186
 [/us/stat/126/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1428
 [/us/act/1913-02-13/ch50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-02-13%2Fch50
 [/us/stat/37/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F670
-[/us/act/1913-02-13/ch50/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-02-13%2Fch50%2Fs3
+[/us/act/1913-02-13/ch50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-02-13%2Fch50
 [/us/act/1925-01-28/ch102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-01-28%2Fch102
 [/us/stat/43/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F794
 [/us/act/1925-01-28/ch102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-01-28%2Fch102
@@ -112,7 +112,7 @@
 [/us/act/1946-07-24/ch606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-24%2Fch606
 [/us/stat/60/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F656
 [/us/usc/t18/s2117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2117
-[/us/act/1946-07-24/ch606/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-24%2Fch606%2Fs3
+[/us/act/1946-07-24/ch606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-24%2Fch606
 [/us/stat/60/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F657
 [/us/usc/t18/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs409
 [/us/usc/t18/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs641
@@ -125,7 +125,7 @@
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/89/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F654
-[/us/pl/109/177/s307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs307%2Fd
+[/us/pl/109/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIII
 [/us/stat/120/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F240
 [/us/usc/t18/s659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs659
 

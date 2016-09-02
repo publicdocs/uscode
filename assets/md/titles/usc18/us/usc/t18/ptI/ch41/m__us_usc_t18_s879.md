@@ -51,15 +51,15 @@
 
         (3) the terms “President-elect” and “Vice President-elect” have the meanings given those terms in [section 871(b) of this title][/us/usc/t18/s871/b].
 
-(Added [Pub. L. 97–297, § 1(a)][/us/pl/97/297/s1/a], Oct. 12, 1982, [96 Stat. 1317][/us/stat/96/1317]; amended [Pub. L. 98–587, § 3(a)][/us/pl/98/587/s3/a], Oct. 30, 1984, [98 Stat. 3111][/us/stat/98/3111]; [Pub. L. 103–322, title XXXIII, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 106–544, § 2(a)][/us/pl/106/544/s2/a], (b)(1), Dec. 19, 2000, [114 Stat. 2715][/us/stat/114/2715].)
+(Added [Pub. L. 97–297][/us/pl/97/297], § 1(a), Oct. 12, 1982, [96 Stat. 1317][/us/stat/96/1317]; amended [Pub. L. 98–587][/us/pl/98/587], § 3(a), Oct. 30, 1984, [98 Stat. 3111][/us/stat/98/3111]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(H), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 106–544][/us/pl/106/544], § 2(a), (b)(1), Dec. 19, 2000, [114 Stat. 2715][/us/stat/114/2715].)
 
  __Amendments__ 
 
-    2000—[Pub. L. 106–544, § 2(b)(1)][/us/pl/106/544/s2/b/1], struck out “protected by the Secret Service” after “other persons” in section catchline.
+    2000—[Pub. L. 106–544][/us/pl/106/544], § 2(b)(1), struck out “protected by the Secret Service” after “other persons” in section catchline.
 
-    Subsec. (a). [Pub. L. 106–544, § 2(a)(1)][/us/pl/106/544/s2/a/1]–(4), in par. (3), substituted “a member of the immediate family” for “the spouse”, added par. (4), and, in concluding provisions, struck out “who is protected by the Secret Service as provided by law,” before “shall be fined” and substituted “5 years” for “three years”.
+    Subsec. (a). [Pub. L. 106–544][/us/pl/106/544], § 2(a)(1)–(4), in par. (3), substituted “a member of the immediate family” for “the spouse”, added par. (4), and, in concluding provisions, struck out “who is protected by the Secret Service as provided by law,” before “shall be fined” and substituted “5 years” for “three years”.
 
-    Subsec. (b)(1)(B). [Pub. L. 106–544, § 2(a)(5)][/us/pl/106/544/s2/a/5], in introductory provisions, inserted “and (a)(3)” after “subsection (a)(2)” and substituted “Vice President-elect, or major candidate for the office of President or Vice President” for “or Vice President-elect”.
+    Subsec. (b)(1)(B). [Pub. L. 106–544][/us/pl/106/544], § 2(a)(5), in introductory provisions, inserted “and (a)(3)” after “subsection (a)(2)” and substituted “Vice President-elect, or major candidate for the office of President or Vice President” for “or Vice President-elect”.
 
     1994—Subsec. (a). [Pub. L. 103–322][/us/pl/103/322] substituted “fined under this title” for “fined not more than $1,000” in concluding provisions.
 
@@ -78,17 +78,17 @@
 
 [/us/usc/t18/s3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056
 [/us/usc/t18/s871/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs871%2Fb
-[/us/pl/97/297/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F297%2Fs1%2Fa
+[/us/pl/97/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F297
 [/us/stat/96/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1317
-[/us/pl/98/587/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F587%2Fs3%2Fa
+[/us/pl/98/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F587
 [/us/stat/98/3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3111
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/106/544/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544%2Fs2%2Fa
+[/us/pl/106/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544
 [/us/stat/114/2715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2715
-[/us/pl/106/544/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544%2Fs2%2Fb%2F1
-[/us/pl/106/544/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544%2Fs2%2Fa%2F1
-[/us/pl/106/544/s2/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544%2Fs2%2Fa%2F5
+[/us/pl/106/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544
+[/us/pl/106/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544
+[/us/pl/106/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F544
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/98/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F587
 [/us/usc/t18/s3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056

@@ -33,7 +33,7 @@
 
     (3) “United States” means the several States of the United States, the District of Columbia, and the commonwealths, territories, and possessions of the United States.
 
-(Added [Pub. L. 103–236, title V, § 506(a)][/us/pl/103/236/s506/a], Apr. 30, 1994, [108 Stat. 463][/us/stat/108/463]; amended [Pub. L. 103–415, § 1(k)][/us/pl/103/415/s1/k], Oct. 25, 1994, [108 Stat. 4301][/us/stat/108/4301]; [Pub. L. 103–429, § 2(2)][/us/pl/103/429/s2/2], Oct. 31, 1994, [108 Stat. 4377][/us/stat/108/4377]; [Pub. L. 108–375, div. A, title X, § 1089][/us/pl/108/375/s1089], Oct. 28, 2004, [118 Stat. 2067][/us/stat/118/2067].)
+(Added [Pub. L. 103–236, title V][/us/pl/103/236/tV], § 506(a), Apr. 30, 1994, [108 Stat. 463][/us/stat/108/463]; amended [Pub. L. 103–415][/us/pl/103/415], § 1(k), Oct. 25, 1994, [108 Stat. 4301][/us/stat/108/4301]; [Pub. L. 103–429][/us/pl/103/429], § 2(2), Oct. 31, 1994, [108 Stat. 4377][/us/stat/108/4377]; [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1089, Oct. 28, 2004, [118 Stat. 2067][/us/stat/118/2067].)
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–236, title V, § 506(c)][/us/pl/103/236/s506/c], Apr. 30, 1994, [108 Stat. 464][/us/stat/108/464], provided that: 
+[Pub. L. 103–236, title V][/us/pl/103/236/tV], § 506(c), Apr. 30, 1994, [108 Stat. 464][/us/stat/108/464], provided that: 
 
 > “The amendments made by this section \[enacting this chapter\] shall take effect on the later of—
 
@@ -62,20 +62,20 @@
 ----------
 ----------
 
-[/us/pl/103/236/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs506%2Fa
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F463
-[/us/pl/103/415/s1/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1%2Fk
+[/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/stat/108/4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4301
-[/us/pl/103/429/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs2%2F2
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4377
-[/us/pl/108/375/s1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1089
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2067
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t49/s46501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46501%2F2
 [/us/pl/103/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/usc/t49/s46501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46501%2F2
-[/us/pl/103/236/s506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs506%2Fc
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F464
 
 

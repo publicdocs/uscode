@@ -25,7 +25,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 744c ([May 27, 1930, ch. 340, § 3][/us/act/1930-05-27/ch340/s3], [46 Stat. 391][/us/stat/46/391]).
+    Based on title 18, U.S.C., 1940 ed., § 744c ([May 27, 1930, ch. 340][/us/act/1930-05-27/ch340], § 3, [46 Stat. 391][/us/stat/46/391]).
 
     A part of said [section 744c of title 18][/us/usc/t18/s744c], U.S.C., 1940 ed., is incorporated in [section 4122 of this title][/us/usc/t18/s4122].
 
@@ -44,7 +44,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F851
-[/us/act/1930-05-27/ch340/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-27%2Fch340%2Fs3
+[/us/act/1930-05-27/ch340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-27%2Fch340
 [/us/stat/46/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F391
 [/us/usc/t18/s744c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs744c
 [/us/usc/t18/s4122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4122

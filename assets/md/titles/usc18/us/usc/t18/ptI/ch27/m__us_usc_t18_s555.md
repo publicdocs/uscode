@@ -23,7 +23,7 @@
 
     (d) Any person who attempts or conspires to commit any offense under subsection (a) or subsection (c) of this section shall be subject to the same penalties as those prescribed for the offense, the commission of which was the object of the attempt or conspiracy.
 
-(Added [Pub. L. 109–295, title V, § 551(a)][/us/pl/109/295/s551/a], Oct. 4, 2006, [120 Stat. 1389][/us/stat/120/1389], § 554; renumbered § 555, [Pub. L. 110–161, div. E, title V, § 553(a)(1)][/us/pl/110/161/s553/a/1], Dec. 26, 2007, [121 Stat. 2082][/us/stat/121/2082]; amended [Pub. L. 112–127, § 3][/us/pl/112/127/s3], June 5, 2012, [126 Stat. 371][/us/stat/126/371].)
+(Added [Pub. L. 109–295, title V][/us/pl/109/295/tV], § 551(a), Oct. 4, 2006, [120 Stat. 1389][/us/stat/120/1389], § 554; renumbered § 555, [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 553(a)(1), Dec. 26, 2007, [121 Stat. 2082][/us/stat/121/2082]; amended [Pub. L. 112–127][/us/pl/112/127], § 3, June 5, 2012, [126 Stat. 371][/us/stat/126/371].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Findings__ 
 
-[Pub. L. 112–127, § 2][/us/pl/112/127/s2], June 5, 2012, [126 Stat. 370][/us/stat/126/370], provided that: 
+[Pub. L. 112–127][/us/pl/112/127], § 2, June 5, 2012, [126 Stat. 370][/us/stat/126/370], provided that: 
 
 > “Congress finds the following:
 
@@ -60,15 +60,15 @@
 ----------
 ----------
 
-[/us/pl/109/295/s551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs551%2Fa
+[/us/pl/109/295/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtV
 [/us/stat/120/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1389
-[/us/pl/110/161/s553/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs553%2Fa%2F1
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2082
-[/us/pl/112/127/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F127%2Fs3
+[/us/pl/112/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F127
 [/us/stat/126/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F371
 [/us/pl/112/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F127
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
-[/us/pl/112/127/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F127%2Fs2
+[/us/pl/112/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F127
 [/us/stat/126/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F370
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/usc/t18/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs555

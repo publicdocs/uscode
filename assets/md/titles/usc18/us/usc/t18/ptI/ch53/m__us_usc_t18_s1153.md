@@ -19,13 +19,13 @@
 
     (b) Any offense referred to in subsection (a) of this section that is not defined and punished by Federal law in force within the exclusive jurisdiction of the United States shall be defined and punished in accordance with the laws of the State in which such offense was committed as are in force at the time of such offense.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 758][/us/stat/62/758]; [May 24, 1949, ch. 139, § 26][/us/act/1949-05-24/ch139/s26], [63 Stat. 94][/us/stat/63/94]; [Pub. L. 89–707, § 1][/us/pl/89/707/s1], Nov. 2, 1966, [80 Stat. 1100][/us/stat/80/1100]; [Pub. L. 90–284, title V, § 501][/us/pl/90/284/s501], Apr. 11, 1968, [82 Stat. 80][/us/stat/82/80]; [Pub. L. 94–297, § 2][/us/pl/94/297/s2], May 29, 1976, [90 Stat. 585][/us/stat/90/585]; [Pub. L. 98–473, title II, § 1009][/us/pl/98/473/s1009], Oct. 12, 1984, [98 Stat. 2141][/us/stat/98/2141]; [Pub. L. 99–303][/us/pl/99/303], May 15, 1986, [100 Stat. 438][/us/stat/100/438]; [Pub. L. 99–646, § 87(c)(5)][/us/pl/99/646/s87/c/5], Nov. 10, 1986, [100 Stat. 3623][/us/stat/100/3623]; [Pub. L. 99–654, § 3(a)(5)][/us/pl/99/654/s3/a/5], Nov. 14, 1986, [100 Stat. 3663][/us/stat/100/3663]; [Pub. L. 100–690, title VII, § 7027][/us/pl/100/690/s7027], Nov. 18, 1988, [102 Stat. 4397][/us/stat/102/4397]; [Pub. L. 103–322, title XVII, § 170201(e)][/us/pl/103/322/s170201/e], title XXXIII, § 330021(1), Sept. 13, 1994, [108 Stat. 2043][/us/stat/108/2043], 2150; [Pub. L. 109–248, title II, § 215][/us/pl/109/248/s215], July 27, 2006, [120 Stat. 617][/us/stat/120/617]; [Pub. L. 113–4, title IX, § 906(b)][/us/pl/113/4/s906/b], Mar. 7, 2013, [127 Stat. 125][/us/stat/127/125].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 758][/us/stat/62/758]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 26, [63 Stat. 94][/us/stat/63/94]; [Pub. L. 89–707][/us/pl/89/707], § 1, Nov. 2, 1966, [80 Stat. 1100][/us/stat/80/1100]; [Pub. L. 90–284, title V][/us/pl/90/284/tV], § 501, Apr. 11, 1968, [82 Stat. 80][/us/stat/82/80]; [Pub. L. 94–297][/us/pl/94/297], § 2, May 29, 1976, [90 Stat. 585][/us/stat/90/585]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1009, Oct. 12, 1984, [98 Stat. 2141][/us/stat/98/2141]; [Pub. L. 99–303][/us/pl/99/303], May 15, 1986, [100 Stat. 438][/us/stat/100/438]; [Pub. L. 99–646][/us/pl/99/646], § 87(c)(5), Nov. 10, 1986, [100 Stat. 3623][/us/stat/100/3623]; [Pub. L. 99–654][/us/pl/99/654], § 3(a)(5), Nov. 14, 1986, [100 Stat. 3663][/us/stat/100/3663]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7027, Nov. 18, 1988, [102 Stat. 4397][/us/stat/102/4397]; [Pub. L. 103–322, title XVII][/us/pl/103/322/tXVII], § 170201(e), title XXXIII, § 330021(1), Sept. 13, 1994, [108 Stat. 2043][/us/stat/108/2043], 2150; [Pub. L. 109–248, title II][/us/pl/109/248/tII], § 215, July 27, 2006, [120 Stat. 617][/us/stat/120/617]; [Pub. L. 113–4, title IX][/us/pl/113/4/tIX], § 906(b), Mar. 7, 2013, [127 Stat. 125][/us/stat/127/125].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on title 18, U.S.C., 1940 ed., §§ 548, 549 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], §§ 328, 329, [35 Stat. 1151][/us/stat/35/1151]; [Mar. 3, 1911, ch. 231, § 291][/us/act/1911-03-03/ch231/s291], [36 Stat. 1167][/us/stat/36/1167]; [June 28, 1932, ch. 284][/us/act/1932-06-28/ch284], [47 Stat. 337][/us/stat/47/337]).
+    Based on title 18, U.S.C., 1940 ed., §§ 548, 549 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], §§ 328, 329, [35 Stat. 1151][/us/stat/35/1151]; [Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 291, [36 Stat. 1167][/us/stat/36/1167]; [June 28, 1932, ch. 284][/us/act/1932-06-28/ch284], [47 Stat. 337][/us/stat/47/337]).
 
     Section consolidates said sections 548 and 549 of title 18, U.S.C., 1940 ed. Section 548 of said title covered 10 crimes. Section 549 of said title covered the same except robbery and incest.
 
@@ -87,33 +87,33 @@
 [/us/usc/t18/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs661
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F758
-[/us/act/1949-05-24/ch139/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs26
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F94
-[/us/pl/89/707/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F707%2Fs1
+[/us/pl/89/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F707
 [/us/stat/80/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1100
-[/us/pl/90/284/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs501
+[/us/pl/90/284/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtV
 [/us/stat/82/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F80
-[/us/pl/94/297/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F297%2Fs2
+[/us/pl/94/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F297
 [/us/stat/90/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F585
-[/us/pl/98/473/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1009
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2141
 [/us/pl/99/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F303
 [/us/stat/100/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F438
-[/us/pl/99/646/s87/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs87%2Fc%2F5
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3623
-[/us/pl/99/654/s3/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654%2Fs3%2Fa%2F5
+[/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
 [/us/stat/100/3663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3663
-[/us/pl/100/690/s7027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7027
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4397
-[/us/pl/103/322/s170201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs170201%2Fe
+[/us/pl/103/322/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXVII
 [/us/stat/108/2043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2043
-[/us/pl/109/248/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs215
+[/us/pl/109/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtII
 [/us/stat/120/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F617
-[/us/pl/113/4/s906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs906%2Fb
+[/us/pl/113/4/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtIX
 [/us/stat/127/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F125
 [/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1151
-[/us/act/1911-03-03/ch231/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs291
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1167
 [/us/act/1932-06-28/ch284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-06-28%2Fch284
 [/us/stat/47/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F337

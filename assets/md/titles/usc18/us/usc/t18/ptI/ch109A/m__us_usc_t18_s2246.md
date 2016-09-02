@@ -47,7 +47,7 @@
 
     (6) the term “State” means a State of the United States, the District of Columbia, and any commonwealth, possession, or territory of the United States.
 
-(Added [Pub. L. 99–646, § 87(b)][/us/pl/99/646/s87/b], Nov. 10, 1986, [100 Stat. 3622][/us/stat/100/3622], § 2245, and [Pub. L. 99–654, § 2][/us/pl/99/654/s2], Nov. 14, 1986, [100 Stat. 3662][/us/stat/100/3662], § 2245; renumbered § 2246 and amended [Pub. L. 103–322, title IV, § 40502][/us/pl/103/322/s40502], title VI, § 60010(a)(1), Sept. 13, 1994, [108 Stat. 1945][/us/stat/108/1945], 1972; [Pub. L. 105–314, title III, § 301(c)][/us/pl/105/314/s301/c], Oct. 30, 1998, [112 Stat. 2979][/us/stat/112/2979].)
+(Added [Pub. L. 99–646][/us/pl/99/646], § 87(b), Nov. 10, 1986, [100 Stat. 3622][/us/stat/100/3622], § 2245, and [Pub. L. 99–654][/us/pl/99/654], § 2, Nov. 14, 1986, [100 Stat. 3662][/us/stat/100/3662], § 2245; renumbered § 2246 and amended [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40502, title VI, § 60010(a)(1), Sept. 13, 1994, [108 Stat. 1945][/us/stat/108/1945], 1972; [Pub. L. 105–314, title III][/us/pl/105/314/tIII], § 301(c), Oct. 30, 1998, [112 Stat. 2979][/us/stat/112/2979].)
 
  __Codification__ 
 
@@ -57,9 +57,9 @@
 
     1998—Par. (6). [Pub. L. 105–314][/us/pl/105/314] added par. (6).
 
-    1994—[Pub. L. 103–322, § 60010(a)(1)][/us/pl/103/322/s60010/a/1], renumbered [section 2245 of this title][/us/usc/t18/s2245] as this section.
+    1994—[Pub. L. 103–322][/us/pl/103/322], § 60010(a)(1), renumbered [section 2245 of this title][/us/usc/t18/s2245] as this section.
 
-    Par. (2)(D). [Pub. L. 103–322, § 40502][/us/pl/103/322/s40502], added subpar. (D).
+    Par. (2)(D). [Pub. L. 103–322][/us/pl/103/322], § 40502, added subpar. (D).
 
 ----------
 
@@ -68,19 +68,19 @@
 ----------
 ----------
 
-[/us/pl/99/646/s87/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs87%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3622
-[/us/pl/99/654/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654%2Fs2
+[/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
 [/us/stat/100/3662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3662
-[/us/pl/103/322/s40502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40502
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1945
-[/us/pl/105/314/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2Fs301%2Fc
+[/us/pl/105/314/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2FtIII
 [/us/stat/112/2979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2979
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/99/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F654
 [/us/pl/105/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314
-[/us/pl/103/322/s60010/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60010%2Fa%2F1
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/usc/t18/s2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2245
-[/us/pl/103/322/s40502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40502
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 
 

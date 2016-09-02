@@ -13,13 +13,13 @@
 
 [Previous](./../../../../..//us/usc/t18/ptI/ch83/m__us_usc_t18_s1726.md) | [Next](./../../../../..//us/usc/t18/ptI/ch83/m__us_usc_t18_s1728.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1727)
 
-## \[§ 1727. Repealed. [Pub. L. 90–384, § 1(a)][/us/pl/90/384/s1/a], July 5, 1968, [82 Stat. 292][/us/stat/82/292]\]
+## \[§ 1727. Repealed. [Pub. L. 90–384][/us/pl/90/384], § 1(a), July 5, 1968, [82 Stat. 292][/us/stat/82/292]\]
 
     Section, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 785][/us/stat/62/785], provided for a fine of not more than $50 for postage accounting violations.
 
  __Savings Provision__ 
 
-[Pub. L. 90–384, § 2][/us/pl/90/384/s2], July 5, 1968, [82 Stat. 292][/us/stat/82/292], provided that: 
+[Pub. L. 90–384][/us/pl/90/384], § 2, July 5, 1968, [82 Stat. 292][/us/stat/82/292], provided that: 
 
 > “Nothing in this Act \[repealing this section\] shall be construed to affect in any way any prosecution for any offense occurring prior to the date of enactment of such Act \[July 5, 1968\].”
 
@@ -30,11 +30,11 @@
 ----------
 ----------
 
-[/us/pl/90/384/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F384%2Fs1%2Fa
+[/us/pl/90/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F384
 [/us/stat/82/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F292
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F785
-[/us/pl/90/384/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F384%2Fs2
+[/us/pl/90/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F384
 [/us/stat/82/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F292
 
 

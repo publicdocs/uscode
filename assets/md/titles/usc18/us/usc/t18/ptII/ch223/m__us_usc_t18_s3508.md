@@ -21,7 +21,7 @@
 
     (c) Where there is a treaty or convention between the United States and the foreign country in which the witness is being held in custody which provides for the transfer, custody and return of such witnesses, the terms and conditions of that treaty shall apply. Where there is no such treaty or convention, the Attorney General may exercise the authority described in paragraph (a) if both the foreign country and the witness give their consent.
 
-(Added [Pub. L. 100–690, title VI, § 6484(a)][/us/pl/100/690/s6484/a], Nov. 18, 1988, [102 Stat. 4384][/us/stat/102/4384].)
+(Added [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6484(a), Nov. 18, 1988, [102 Stat. 4384][/us/stat/102/4384].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/690/s6484/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6484%2Fa
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4384
 
 

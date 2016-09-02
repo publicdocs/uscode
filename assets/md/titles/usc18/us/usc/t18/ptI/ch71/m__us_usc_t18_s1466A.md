@@ -93,11 +93,11 @@
 
         (3) the term “graphic”, when used with respect to a depiction of sexually explicit conduct, means that a viewer can observe any part of the genitals or pubic area of any depicted person or animal during any part of the time that the sexually explicit conduct is being depicted.
 
-(Added [Pub. L. 108–21, title V, § 504(a)][/us/pl/108/21/s504/a], Apr. 30, 2003, [117 Stat. 680][/us/stat/117/680].)
+(Added [Pub. L. 108–21, title V][/us/pl/108/21/tV], § 504(a), Apr. 30, 2003, [117 Stat. 680][/us/stat/117/680].)
 
  __Sentencing Guidelines__ 
 
-[Pub. L. 108–21, title V, § 504(c)][/us/pl/108/21/s504/c], Apr. 30, 2003, [117 Stat. 682][/us/stat/117/682], provided that:
+[Pub. L. 108–21, title V][/us/pl/108/21/tV], § 504(c), Apr. 30, 2003, [117 Stat. 682][/us/stat/117/682], provided that:
 
 >     “(1)  __Category__  __.—__ 
 
@@ -109,7 +109,7 @@
 
  __Report to Congressional Committees__ 
 
-[Pub. L. 108–21, title V, § 513(b)][/us/pl/108/21/s513/b], Apr. 30, 2003, [117 Stat. 685][/us/stat/117/685], provided that:
+[Pub. L. 108–21, title V][/us/pl/108/21/tV], § 513(b), Apr. 30, 2003, [117 Stat. 685][/us/stat/117/685], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -132,13 +132,13 @@
 ----------
 ----------
 
-[/us/pl/108/21/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs504%2Fa
+[/us/pl/108/21/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtV
 [/us/stat/117/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F680
-[/us/pl/108/21/s504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs504%2Fc
+[/us/pl/108/21/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtV
 [/us/stat/117/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F682
 [/us/usc/t18/s3553/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3553%2Fa%2F4
 [/us/usc/t18/s1466A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1466A
-[/us/pl/108/21/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs513%2Fb
+[/us/pl/108/21/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtV
 [/us/stat/117/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F685
 [/us/usc/t18/s1466A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1466A
 [/us/usc/t18/s1466A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1466A

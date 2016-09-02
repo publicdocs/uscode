@@ -203,29 +203,29 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–177, title II, § 201(b)][/us/pl/110/177/s201/b], Jan. 7, 2008, [121 Stat. 2536][/us/stat/121/2536], added item 1521.
+    2008—[Pub. L. 110–177, title II][/us/pl/110/177/tII], § 201(b), Jan. 7, 2008, [121 Stat. 2536][/us/stat/121/2536], added item 1521.
 
-    2002—[Pub. L. 107–204, title VIII][/us/pl/107/204], §§ 802(b), 806(b), July 30, 2002, [116 Stat. 801][/us/stat/116/801], 804, added items 1514A, 1519, and 1520.
+    2002—[Pub. L. 107–204, title VIII][/us/pl/107/204/tVIII], §§ 802(b), 806(b), July 30, 2002, [116 Stat. 801][/us/stat/116/801], 804, added items 1514A, 1519, and 1520.
 
-    1996—[Pub. L. 104–191, title II, § 245(b)][/us/pl/104/191/s245/b], Aug. 21, 1996, [110 Stat. 2018][/us/stat/110/2018], added item 1518.
+    1996—[Pub. L. 104–191, title II][/us/pl/104/191/tII], § 245(b), Aug. 21, 1996, [110 Stat. 2018][/us/stat/110/2018], added item 1518.
 
-    1990—[Pub. L. 101–647, title XXV, § 2503(b)][/us/pl/101/647/s2503/b], Nov. 29, 1990, [104 Stat. 4861][/us/stat/104/4861], added item 1517.
+    1990—[Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2503(b), Nov. 29, 1990, [104 Stat. 4861][/us/stat/104/4861], added item 1517.
 
-    1988—[Pub. L. 100–690, title VII][/us/pl/100/690], §§ 7030, 7078(b), Nov. 18, 1988, [102 Stat. 4398][/us/stat/102/4398], 4406, inserted “; general provision” in item 1515 and added item 1516.
+    1988—[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], §§ 7030, 7078(b), Nov. 18, 1988, [102 Stat. 4398][/us/stat/102/4398], 4406, inserted “; general provision” in item 1515 and added item 1516.
 
-    1982—[Pub. L. 97–291, § 4(b)][/us/pl/97/291/s4/b], Oct. 12, 1982, [96 Stat. 1253][/us/stat/96/1253], substituted “or juror” for “, juror or witness” after “officer” in item 1503, and added items 1512, 1513, 1514, and 1515.
+    1982—[Pub. L. 97–291][/us/pl/97/291], § 4(b), Oct. 12, 1982, [96 Stat. 1253][/us/stat/96/1253], substituted “or juror” for “, juror or witness” after “officer” in item 1503, and added items 1512, 1513, 1514, and 1515.
 
-    1970—[Pub. L. 91–452, title VIII, § 802(b)][/us/pl/91/452/s802/b], Oct. 15, 1970, [84 Stat. 937][/us/stat/84/937], added item 1511.
+    1970—[Pub. L. 91–452, title VIII][/us/pl/91/452/tVIII], § 802(b), Oct. 15, 1970, [84 Stat. 937][/us/stat/84/937], added item 1511.
 
-    1967—[Pub. L. 90–123, § 1(b)][/us/pl/90/123/s1/b], Nov. 3, 1967, [81 Stat. 362][/us/stat/81/362], added item 1510.
+    1967—[Pub. L. 90–123][/us/pl/90/123], § 1(b), Nov. 3, 1967, [81 Stat. 362][/us/stat/81/362], added item 1510.
 
-    1962—[Pub. L. 87–664, § 6(b)][/us/pl/87/664/s6/b], Sept. 19, 1962, [76 Stat. 552][/us/stat/76/552], substituted “Obstruction of proceedings before departments, agencies, and committees” for “Influencing or injuring witness before agencies and committees” in item 1505.
+    1962—[Pub. L. 87–664][/us/pl/87/664], § 6(b), Sept. 19, 1962, [76 Stat. 552][/us/stat/76/552], substituted “Obstruction of proceedings before departments, agencies, and committees” for “Influencing or injuring witness before agencies and committees” in item 1505.
 
-    1960—[Pub. L. 86–449, title I, § 102][/us/pl/86/449/s102], May 6, 1960, [74 Stat. 86][/us/stat/74/86], added item 1509.
+    1960—[Pub. L. 86–449, title I][/us/pl/86/449/tI], § 102, May 6, 1960, [74 Stat. 86][/us/stat/74/86], added item 1509.
 
-    1956—[Act Aug. 2, 1956, ch. 879, § 2][/us/act/1956-08-02/ch879/s2], [70 Stat. 936][/us/stat/70/936], added item 1508.
+    1956—[Act Aug. 2, 1956, ch. 879][/us/act/1956-08-02/ch879], § 2, [70 Stat. 936][/us/stat/70/936], added item 1508.
 
-    1950—[Act Sept. 23, 1950, ch. 1024][/us/act/1950-09-23/ch1024], title I, § 31(b), [64 Stat. 1019][/us/stat/64/1019], added item 1507.
+    1950—[Act Sept. 23, 1950, ch. 1024, title I][/us/act/1950-09-23/ch1024/tI], § 31(b), [64 Stat. 1019][/us/stat/64/1019], added item 1507.
 
 ----------
 
@@ -234,29 +234,29 @@
 ----------
 ----------
 
-[/us/pl/110/177/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs201%2Fb
+[/us/pl/110/177/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtII
 [/us/stat/121/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2536
-[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/107/204/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtVIII
 [/us/stat/116/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F801
-[/us/pl/104/191/s245/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs245%2Fb
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2018
-[/us/pl/101/647/s2503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2503%2Fb
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4861
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4398
-[/us/pl/97/291/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F291%2Fs4%2Fb
+[/us/pl/97/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F291
 [/us/stat/96/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1253
-[/us/pl/91/452/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs802%2Fb
+[/us/pl/91/452/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtVIII
 [/us/stat/84/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F937
-[/us/pl/90/123/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F123%2Fs1%2Fb
+[/us/pl/90/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F123
 [/us/stat/81/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F362
-[/us/pl/87/664/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F664%2Fs6%2Fb
+[/us/pl/87/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F664
 [/us/stat/76/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F552
-[/us/pl/86/449/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F449%2Fs102
+[/us/pl/86/449/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F449%2FtI
 [/us/stat/74/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F86
-[/us/act/1956-08-02/ch879/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch879%2Fs2
+[/us/act/1956-08-02/ch879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch879
 [/us/stat/70/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F936
-[/us/act/1950-09-23/ch1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fch1024
+[/us/act/1950-09-23/ch1024/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fch1024%2FtI
 [/us/stat/64/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1019
 
 

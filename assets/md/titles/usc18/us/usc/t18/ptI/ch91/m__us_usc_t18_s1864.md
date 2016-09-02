@@ -85,7 +85,7 @@
 
     (e) Any person injured as the result of a violation of subsection (a) may commence a civil action on his own behalf against any person who is alleged to be in violation of subsection (a). The district courts shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, in such civil actions. The court may award, in addition to monetary damages for any injury resulting from an alleged violation of subsection (a), costs of litigation, including reasonable attorney and expert witness fees, to any prevailing or substantially prevailing party, whenever the court determines such award is appropriate.
 
-(Added [Pub. L. 100–690, title VI, § 6254(f)][/us/pl/100/690/s6254/f], Nov. 18, 1988, [102 Stat. 4366][/us/stat/102/4366]; amended [Pub. L. 101–647, title XXXV, § 3555][/us/pl/101/647/s3555], Nov. 29, 1990, [104 Stat. 4927][/us/stat/104/4927]; [Pub. L. 103–322, title XXXIII, § 330007][/us/pl/103/322/s330007], Sept. 13, 1994, [108 Stat. 2142][/us/stat/108/2142]; [Pub. L. 104–134, title I, § 101(c)][/us/pl/104/134/s101/c] \[title III, § 330\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–208; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
+(Added [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6254(f), Nov. 18, 1988, [102 Stat. 4366][/us/stat/102/4366]; amended [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3555, Nov. 29, 1990, [104 Stat. 4927][/us/stat/104/4927]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330007, Sept. 13, 1994, [108 Stat. 2142][/us/stat/108/2142]; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(c) \[title III, § 330\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–208; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
 
  __References in Text__ 
 
@@ -93,17 +93,17 @@
 
  __Amendments__ 
 
-    1996—Subsec. (b)(2). [Pub. L. 104–134, § 101(c)][/us/pl/104/134/s101/c] \[title III, § 330(1)(A)\], substituted “40” for “twenty”.
+    1996—Subsec. (b)(2). [Pub. L. 104–134][/us/pl/104/134], § 101(c) \[title III, § 330(1)(A)\], substituted “40” for “twenty”.
 
-    Subsec. (b)(3). [Pub. L. 104–134, § 101(c)][/us/pl/104/134/s101/c] \[title III, § 330(1)(B)\], substituted “20” for “ten”.
+    Subsec. (b)(3). [Pub. L. 104–134][/us/pl/104/134], § 101(c) \[title III, § 330(1)(B)\], substituted “20” for “ten”.
 
-    Subsec. (b)(4). [Pub. L. 104–134, § 101(c)][/us/pl/104/134/s101/c] \[title III, § 330(1)(C), (D)\], substituted “if damage to the property of any individual results or if avoidance costs have been incurred exceeding $10,000, in the aggregate,” for “if damage exceeding $10,000 to the property of any individual results,” and “20” for “ten”.
+    Subsec. (b)(4). [Pub. L. 104–134][/us/pl/104/134], § 101(c) \[title III, § 330(1)(C), (D)\], substituted “if damage to the property of any individual results or if avoidance costs have been incurred exceeding $10,000, in the aggregate,” for “if damage exceeding $10,000 to the property of any individual results,” and “20” for “ten”.
 
-    Subsec. (c). [Pub. L. 104–134, § 101(c)][/us/pl/104/134/s101/c] \[title III, § 330(2)\], substituted “20” for “ten”.
+    Subsec. (c). [Pub. L. 104–134][/us/pl/104/134], § 101(c) \[title III, § 330(2)\], substituted “20” for “ten”.
 
-    Subsec. (d)(4). [Pub. L. 104–134, § 101(c)][/us/pl/104/134/s101/c] \[title III, § 330(3)\], added par. (4).
+    Subsec. (d)(4). [Pub. L. 104–134][/us/pl/104/134], § 101(c) \[title III, § 330(3)\], added par. (4).
 
-    Subsec. (e). [Pub. L. 104–134, § 101(c)][/us/pl/104/134/s101/c] \[title III, § 330(4)\], added subsec. (e).
+    Subsec. (e). [Pub. L. 104–134][/us/pl/104/134], § 101(c) \[title III, § 330(4)\], added subsec. (e).
 
     1994—Subsec. (c). [Pub. L. 103–322][/us/pl/103/322] substituted “(b)(5)” for “(b)(3), (4), or (5)”.
 
@@ -116,25 +116,25 @@
 ----------
 ----------
 
-[/us/pl/100/690/s6254/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6254%2Ff
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4366
-[/us/pl/101/647/s3555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3555
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4927
-[/us/pl/103/322/s330007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330007
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2142
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-156
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 

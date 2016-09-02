@@ -35,7 +35,7 @@
 
     When the director of the facility in which the defendant is hospitalized pursuant to subsection (d) determines that the defendant has recovered from his mental disease or defect to such an extent that he is no longer in need of custody for care or treatment in such a facility, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the defendant’s counsel and to the attorney for the Government. If, at the time of the filing of the certificate, the provisional sentence imposed pursuant to subsection (d) has not expired, the court shall proceed finally to sentencing and may modify the provisional sentence.
 
-(Added [Sept. 7, 1949, ch. 535, § 1][/us/act/1949-09-07/ch535/s1], [63 Stat. 686][/us/stat/63/686]; amended [Pub. L. 98–473, title II, § 403(a)][/us/pl/98/473/s403/a], Oct. 12, 1984, [98 Stat. 2061][/us/stat/98/2061].)
+(Added [Sept. 7, 1949, ch. 535][/us/act/1949-09-07/ch535], § 1, [63 Stat. 686][/us/stat/63/686]; amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 403(a), Oct. 12, 1984, [98 Stat. 2061][/us/stat/98/2061].)
 
  __Amendments__ 
 
@@ -43,13 +43,13 @@
 
  __Separability__ 
 
-[Act Sept. 7, 1949, ch. 535, § 4][/us/act/1949-09-07/ch535/s4], [63 Stat. 688][/us/stat/63/688], provided that: 
+[Act Sept. 7, 1949, ch. 535][/us/act/1949-09-07/ch535], § 4, [63 Stat. 688][/us/stat/63/688], provided that: 
 
 > “If any provision of Title 18, United States Code, sections 4244 to 4248, inclusive, or the application thereof to any person or circumstance shall be held invalid, the remainder of the said sections and the application of such provision to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.”
 
  __Use of Appropriations__ 
 
-[Act Sept. 7, 1949, ch. 535, § 3][/us/act/1949-09-07/ch535/s3], [63 Stat. 688][/us/stat/63/688], provided that: 
+[Act Sept. 7, 1949, ch. 535][/us/act/1949-09-07/ch535], § 3, [63 Stat. 688][/us/stat/63/688], provided that: 
 
 > “The Attorney General may authorize the use of any unexpended balance of the appropriation for ‘Support of United States prisoners’ for carrying out the purposes of Title 18, United States Code, sections 4244 to 4248, inclusive, or in payment of any expenses incidental thereto and not provided for by other specific appropriations.”
 
@@ -60,14 +60,14 @@
 ----------
 ----------
 
-[/us/act/1949-09-07/ch535/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-07%2Fch535%2Fs1
+[/us/act/1949-09-07/ch535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-07%2Fch535
 [/us/stat/63/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F686
-[/us/pl/98/473/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs403%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2061
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/act/1949-09-07/ch535/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-07%2Fch535%2Fs4
+[/us/act/1949-09-07/ch535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-07%2Fch535
 [/us/stat/63/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F688
-[/us/act/1949-09-07/ch535/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-07%2Fch535%2Fs3
+[/us/act/1949-09-07/ch535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-07%2Fch535
 [/us/stat/63/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F688
 
 

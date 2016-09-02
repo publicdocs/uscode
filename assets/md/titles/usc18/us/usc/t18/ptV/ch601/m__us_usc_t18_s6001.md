@@ -25,15 +25,15 @@
 
     (4) “court of the United States” means any of the following courts: the Supreme Court of the United States, a United States court of appeals, a United States district court established under chapter 5, title 28, United States Code, a United States bankruptcy court established under chapter 6, title 28, United States Code, the District of Columbia Court of Appeals, the Superior Court of the District of Columbia, the District Court of Guam, the District Court of the Virgin Islands, the United States Court of Federal Claims, the Tax Court of the United States, the Court of International Trade, and the Court of Appeals for the Armed Forces.
 
-(Added [Pub. L. 91–452, title II, § 201(a)][/us/pl/91/452/s201/a], Oct. 15, 1970, [84 Stat. 926][/us/stat/84/926]; amended [Pub. L. 95–405, § 25][/us/pl/95/405/s25], Sept. 30, 1978, [92 Stat. 877][/us/stat/92/877]; [Pub. L. 95–598, title III, § 314][/us/pl/95/598/s314](l), Nov. 6, 1978, [92 Stat. 2678][/us/stat/92/2678]; [Pub. L. 96–417, title VI, § 601(1)][/us/pl/96/417/s601/1], Oct. 10, 1980, [94 Stat. 1744][/us/stat/94/1744]; [Pub. L. 97–164, title I, § 164(1)][/us/pl/97/164/s164/1], Apr. 2, 1982, [96 Stat. 50][/us/stat/96/50]; [Pub. L. 102–550, title XV, § 1543][/us/pl/102/550/s1543], Oct. 28, 1992, [106 Stat. 4069][/us/stat/106/4069]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 103–272, § 4(d)][/us/pl/103/272/s4/d], July 5, 1994, [108 Stat. 1361][/us/stat/108/1361]; [Pub. L. 103–322, title XXXIII, § 330013(2)][/us/pl/103/322/s330013/2], (3), Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146]; [Pub. L. 103–337, div. A, title IX, § 924(d)(1)(B)][/us/pl/103/337/s924/d/1/B], Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832]; [Pub. L. 104–88, title III, § 303(2)][/us/pl/104/88/s303/2], Dec. 29, 1995, [109 Stat. 943][/us/stat/109/943].)
+(Added [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 201(a), Oct. 15, 1970, [84 Stat. 926][/us/stat/84/926]; amended [Pub. L. 95–405][/us/pl/95/405], § 25, Sept. 30, 1978, [92 Stat. 877][/us/stat/92/877]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 314(l), Nov. 6, 1978, [92 Stat. 2678][/us/stat/92/2678]; [Pub. L. 96–417, title VI][/us/pl/96/417/tVI], § 601(1), Oct. 10, 1980, [94 Stat. 1744][/us/stat/94/1744]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 164(1), Apr. 2, 1982, [96 Stat. 50][/us/stat/96/50]; [Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1543, Oct. 28, 1992, [106 Stat. 4069][/us/stat/106/4069]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 103–272][/us/pl/103/272], § 4(d), July 5, 1994, [108 Stat. 1361][/us/stat/108/1361]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330013(2), (3), Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146]; [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 924(d)(1)(B), Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 303(2), Dec. 29, 1995, [109 Stat. 943][/us/stat/109/943].)
 
  __Amendments__ 
 
     1995—Par. (1). [Pub. L. 104–88][/us/pl/104/88] substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
 
-    1994—[Pub. L. 103–322, § 330013(3)][/us/pl/103/322/s330013/3], substituted “chapter” for “part” in introductory provisions.
+    1994—[Pub. L. 103–322][/us/pl/103/322], § 330013(3), substituted “chapter” for “part” in introductory provisions.
 
-    Par. (1). [Pub. L. 103–322, § 330013(2)][/us/pl/103/322/s330013/2], substituted “Nuclear Regulatory Commission” for “Atomic Energy Commission” and struck out “the Subversive Activities Control Board,” after “Securities and Exchange Commission,”.
+    Par. (1). [Pub. L. 103–322][/us/pl/103/322], § 330013(2), substituted “Nuclear Regulatory Commission” for “Atomic Energy Commission” and struck out “the Subversive Activities Control Board,” after “Securities and Exchange Commission,”.
 
     [Pub. L. 103–272][/us/pl/103/272] struck out “the Civil Aeronautics Board,” before “the Commodity Futures”.
 
@@ -75,7 +75,7 @@
 
  __Effective Date; Savings Provision__ 
 
-[Pub. L. 91–452, title II, § 260][/us/pl/91/452/s260], Oct. 15, 1970, [84 Stat. 931][/us/stat/84/931], provided that: 
+[Pub. L. 91–452, title II][/us/pl/91/452/tII], § 260, Oct. 15, 1970, [84 Stat. 931][/us/stat/84/931], provided that: 
 
 > “The provisions of part V of title 18, United States Code, added by title II of this Act \[this part\], and the amendments and repeals made by title II of this Act \[sections 835, 895, 1406, 1954, 2424, 2514 and 3486 of this title, sections 15, 87f(f), 135c, 499m(f), and 2115 of Title 7, Agriculture, section 25 of former Title 11, Bankruptcy, [section 1820 of Title 12][/us/usc/t12/s1820], Banks and Banking, sections 32, 33, 49, 77v, 78u(d), 79r(e), 80a–41, 80b–9, 155, 717m, 1271, and 1714 of Title 15, Commerce and Trade, [section 825f of Title 16][/us/usc/t16/s825f], Conservation, [section 1333 of Title 19][/us/usc/t19/s1333], Customs Duties, [section 373 of Title 21][/us/usc/t21/s373], Food and Drugs, sections 4874 and 7493 of Title 26, Internal Revenue Code, [section 161(3) of Title 29][/us/usc/t29/s161/3], Labor, [section 506 of Title 33][/us/usc/t33/s506], Navigation and Navigable waters, sections 405(f) and 2201 of Title 42, The Public Health and Welfare, sections 157 and 362 of Title 45, Railroads, sections 827 and 1124 of former Title 46, Shipping, section 409(l) of Title 47, Telecommunications, sections 9, 43, 46, 47, 48, 916, 1017, and 1484 of former Title 49, Transportation, sections 792 and 4555 of Title 50, War and National Defense, and former sections 643a, 1152, and 2026 of the former Appendix to Title 50\], shall take effect on the sixtieth day following the date of the enactment of this Act \[Oct. 15, 1970\]. No amendment to or repeal of any provision of law under title II of this Act shall affect any immunity to which any individual is entitled under such provision by reason of any testimony or other information given before such day.”
 
@@ -105,31 +105,31 @@
 [/us/stat/53/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1432
 [/us/stat/48/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1193
 [/us/stat/49/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F31
-[/us/pl/91/452/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs201%2Fa
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F926
-[/us/pl/95/405/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs25
+[/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/stat/92/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F877
-[/us/pl/95/598/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs314
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2678
-[/us/pl/96/417/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs601%2F1
+[/us/pl/96/417/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtVI
 [/us/stat/94/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1744
-[/us/pl/97/164/s164/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs164%2F1
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F50
-[/us/pl/102/550/s1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1543
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4069
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/103/272/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Fd
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1361
-[/us/pl/103/322/s330013/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330013%2F2
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2146
-[/us/pl/103/337/s924/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fd%2F1%2FB
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2832
-[/us/pl/104/88/s303/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs303%2F2
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F943
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
-[/us/pl/103/322/s330013/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330013%2F3
-[/us/pl/103/322/s330013/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330013%2F2
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
@@ -156,7 +156,7 @@
 [/us/pl/95/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405
 [/us/pl/95/405/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F405%2Fs28
 [/us/usc/t7/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2
-[/us/pl/91/452/s260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs260
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F931
 [/us/usc/t12/s1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1820
 [/us/usc/t16/s825f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs825f

@@ -17,7 +17,7 @@
 
     If the applicable treaty or convention does not obligate the United States to extradite its citizens to a foreign country, the Secretary of State may, nevertheless, order the surrender to that country of a United States citizen whose extradition has been requested by that country if the other requirements of that treaty or convention are met.
 
-(Added [Pub. L. 101–623, § 11(a)][/us/pl/101/623/s11/a], Nov. 21, 1990, [104 Stat. 3356][/us/stat/104/3356].)
+(Added [Pub. L. 101–623][/us/pl/101/623], § 11(a), Nov. 21, 1990, [104 Stat. 3356][/us/stat/104/3356].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/623/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623%2Fs11%2Fa
+[/us/pl/101/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F623
 [/us/stat/104/3356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3356
 
 

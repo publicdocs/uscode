@@ -59,15 +59,15 @@
 
         (2) the term “other person protected by the Secret Service” means any person whom the United States Secret Service is authorized to protect under [section 3056 of this title][/us/usc/t18/s3056] or by Presidential memorandum, when such person has not declined such protection.
 
-(Added [Pub. L. 91–644, title V, § 18][/us/pl/91/644/s18], Jan. 2, 1971, [84 Stat. 1891][/us/stat/84/1891]; amended [Pub. L. 97–308, § 1][/us/pl/97/308/s1], Oct. 14, 1982, [96 Stat. 1451][/us/stat/96/1451]; [Pub. L. 98–587, § 3(b)][/us/pl/98/587/s3/b], Oct. 30, 1984, [98 Stat. 3112][/us/stat/98/3112]; [Pub. L. 103–322, title XXXIII, § 330016(1)(G)][/us/pl/103/322/s330016/1/G], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 109–177, title VI, § 602(a)][/us/pl/109/177/s602/a], (b)(1), Mar. 9, 2006, [120 Stat. 252][/us/stat/120/252]; [Pub. L. 112–98, § 2][/us/pl/112/98/s2], Mar. 8, 2012, [126 Stat. 263][/us/stat/126/263].)
+(Added [Pub. L. 91–644, title V][/us/pl/91/644/tV], § 18, Jan. 2, 1971, [84 Stat. 1891][/us/stat/84/1891]; amended [Pub. L. 97–308][/us/pl/97/308], § 1, Oct. 14, 1982, [96 Stat. 1451][/us/stat/96/1451]; [Pub. L. 98–587][/us/pl/98/587], § 3(b), Oct. 30, 1984, [98 Stat. 3112][/us/stat/98/3112]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(G), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 109–177, title VI][/us/pl/109/177/tVI], § 602(a), (b)(1), Mar. 9, 2006, [120 Stat. 252][/us/stat/120/252]; [Pub. L. 112–98][/us/pl/112/98], § 2, Mar. 8, 2012, [126 Stat. 263][/us/stat/126/263].)
 
  __Amendments__ 
 
     2012—[Pub. L. 112–98][/us/pl/112/98] amended section generally. Prior to amendment, section related to unlawful activities on restricted buildings or grounds.
 
-    2006—[Pub. L. 109–177, § 602(b)(1)][/us/pl/109/177/s602/b/1], substituted “Restricted building or grounds” for “Temporary residences and offices of the President and others” in section catchline.
+    2006—[Pub. L. 109–177][/us/pl/109/177], § 602(b)(1), substituted “Restricted building or grounds” for “Temporary residences and offices of the President and others” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 109–177, § 602(a)(1)(A)][/us/pl/109/177/s602/a/1/A], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “willfully and knowingly to enter or remain in
+    Subsec. (a)(1). [Pub. L. 109–177][/us/pl/109/177], § 602(a)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “willfully and knowingly to enter or remain in
 
     “(i) any building or grounds designated by the Secretary of the Treasury as temporary residences of the President or other person protected by the Secret Service or as temporary offices of the President and his staff or of any other person protected by the Secret Service, or
 
@@ -75,15 +75,15 @@
 
     in violation of the regulations governing ingress or egress thereto:”
 
-    Subsec. (a)(2). [Pub. L. 109–177, § 602(a)(1)(C)][/us/pl/109/177/s602/a/1/C], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (a)(2). [Pub. L. 109–177][/us/pl/109/177], § 602(a)(1)(C), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (a)(3). [Pub. L. 109–177, § 602(a)(1)(B)][/us/pl/109/177/s602/a/1/B], (D), redesignated par. (2) as (3), inserted “willfully, knowingly, and” before “with intent to impede or disrupt”, and substituted “described in paragraph (1) or (2)” for “designated in paragraph (1)”. Former par. (3) redesignated (4).
+    Subsec. (a)(3). [Pub. L. 109–177][/us/pl/109/177], § 602(a)(1)(B), (D), redesignated par. (2) as (3), inserted “willfully, knowingly, and” before “with intent to impede or disrupt”, and substituted “described in paragraph (1) or (2)” for “designated in paragraph (1)”. Former par. (3) redesignated (4).
 
-    Subsec. (a)(4), (5). [Pub. L. 109–177, § 602(a)(1)(B)][/us/pl/109/177/s602/a/1/B], (E), (F), redesignated pars. (3) and (4) as (4) and (5), respectively, and substituted “described in paragraph (1) or (2)” for “designated or enumerated in paragraph (1)” in each par.
+    Subsec. (a)(4), (5). [Pub. L. 109–177][/us/pl/109/177], § 602(a)(1)(B), (E), (F), redesignated pars. (3) and (4) as (4) and (5), respectively, and substituted “described in paragraph (1) or (2)” for “designated or enumerated in paragraph (1)” in each par.
 
-    Subsec. (b). [Pub. L. 109–177, § 602(a)(2)][/us/pl/109/177/s602/a/2], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Violation of this section, and attempts or conspiracies to commit such violations, shall be punishable by a fine under this title or imprisonment not exceeding six months, or both.”
+    Subsec. (b). [Pub. L. 109–177][/us/pl/109/177], § 602(a)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Violation of this section, and attempts or conspiracies to commit such violations, shall be punishable by a fine under this title or imprisonment not exceeding six months, or both.”
 
-    Subsecs. (d) to (f). [Pub. L. 109–177, § 602(a)(3)][/us/pl/109/177/s602/a/3], redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: “The Secretary of the Treasury is authorized—
+    Subsecs. (d) to (f). [Pub. L. 109–177][/us/pl/109/177], § 602(a)(3), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: “The Secretary of the Treasury is authorized—
 
     “(1) to designate by regulations the buildings and grounds which constitute the temporary residences of the President or other person protected by the Secret Service and the temporary offices of the President and his staff or of any other person protected by the Secret Service, and
 
@@ -93,17 +93,17 @@
 
     1984—Subsec. (f). [Pub. L. 98–587][/us/pl/98/587] amended subsec. (f) generally, substituting “any person whom the United States Secret Service is authorized to protect under [section 3056 of this title][/us/usc/t18/s3056] when such person has not declined such protection” for “any person authorized by [section 3056 of this title][/us/usc/t18/s3056] or by [Public Law 90–331][/us/pl/90/331], as amended, to receive the protection of the United States Secret Service when such person has not declined such protection pursuant to [section 3056 of this title][/us/usc/t18/s3056] or pursuant to [Public Law 90–331][/us/pl/90/331], as amended”.
 
-    1982—[Pub. L. 97–308, § 1(a)][/us/pl/97/308/s1/a], substituted “Temporary residences and offices of the President and others” for “Temporary residence of the President” in section catchline.
+    1982—[Pub. L. 97–308][/us/pl/97/308], § 1(a), substituted “Temporary residences and offices of the President and others” for “Temporary residence of the President” in section catchline.
 
-    Subsec. (a)(1)(i). [Pub. L. 97–308, § 1(b)][/us/pl/97/308/s1/b], made one’s presence unlawful at designated temporary residences and temporary offices of any other person protected by the Secret Service.
+    Subsec. (a)(1)(i). [Pub. L. 97–308][/us/pl/97/308], § 1(b), made one’s presence unlawful at designated temporary residences and temporary offices of any other person protected by the Secret Service.
 
-    Subsec. (a)(1)(ii). [Pub. L. 97–308, § 1(c)][/us/pl/97/308/s1/c], inserted “or other person protected by the Secret Service” after “President”.
+    Subsec. (a)(1)(ii). [Pub. L. 97–308][/us/pl/97/308], § 1(c), inserted “or other person protected by the Secret Service” after “President”.
 
-    Subsec. (d)(1). [Pub. L. 97–308, § 1(d)][/us/pl/97/308/s1/d], authorized regulations for designation of the temporary residences and the temporary offices of any other person protected by the Secret Service.
+    Subsec. (d)(1). [Pub. L. 97–308][/us/pl/97/308], § 1(d), authorized regulations for designation of the temporary residences and the temporary offices of any other person protected by the Secret Service.
 
-    Subsec. (d)(2). [Pub. L. 97–308, § 1(e)][/us/pl/97/308/s1/e], inserted “or other person protected by the Secret Service” after “President”.
+    Subsec. (d)(2). [Pub. L. 97–308][/us/pl/97/308], § 1(e), inserted “or other person protected by the Secret Service” after “President”.
 
-    Subsec. (f). [Pub. L. 97–308, § 1(f)][/us/pl/97/308/s1/f], added subsec. (f).
+    Subsec. (f). [Pub. L. 97–308][/us/pl/97/308], § 1(f), added subsec. (f).
 
  __Transfer of Functions__ 
 
@@ -117,26 +117,26 @@
 ----------
 
 [/us/usc/t18/s3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056
-[/us/pl/91/644/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F644%2Fs18
+[/us/pl/91/644/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F644%2FtV
 [/us/stat/84/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1891
-[/us/pl/97/308/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F308%2Fs1
+[/us/pl/97/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F308
 [/us/stat/96/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1451
-[/us/pl/98/587/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F587%2Fs3%2Fb
+[/us/pl/98/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F587
 [/us/stat/98/3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3112
-[/us/pl/103/322/s330016/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FG
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/109/177/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs602%2Fa
+[/us/pl/109/177/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVI
 [/us/stat/120/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F252
-[/us/pl/112/98/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F98%2Fs2
+[/us/pl/112/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F98
 [/us/stat/126/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F263
 [/us/pl/112/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F98
-[/us/pl/109/177/s602/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs602%2Fb%2F1
-[/us/pl/109/177/s602/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs602%2Fa%2F1%2FA
-[/us/pl/109/177/s602/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs602%2Fa%2F1%2FC
-[/us/pl/109/177/s602/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs602%2Fa%2F1%2FB
-[/us/pl/109/177/s602/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs602%2Fa%2F1%2FB
-[/us/pl/109/177/s602/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs602%2Fa%2F2
-[/us/pl/109/177/s602/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs602%2Fa%2F3
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/98/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F587
 [/us/usc/t18/s3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056
@@ -144,12 +144,12 @@
 [/us/pl/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F331
 [/us/usc/t18/s3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056
 [/us/pl/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F331
-[/us/pl/97/308/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F308%2Fs1%2Fa
-[/us/pl/97/308/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F308%2Fs1%2Fb
-[/us/pl/97/308/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F308%2Fs1%2Fc
-[/us/pl/97/308/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F308%2Fs1%2Fd
-[/us/pl/97/308/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F308%2Fs1%2Fe
-[/us/pl/97/308/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F308%2Fs1%2Ff
+[/us/pl/97/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F308
+[/us/pl/97/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F308
+[/us/pl/97/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F308
+[/us/pl/97/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F308
+[/us/pl/97/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F308
+[/us/pl/97/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F308
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

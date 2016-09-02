@@ -59,7 +59,7 @@
 
                 (ii) appear to pertain to the commission of a crime; or
 
-            \[(B) Repealed. [Pub. L. 108–21, title V, § 508(b)(1)(A)][/us/pl/108/21/s508/b/1/A], Apr. 30, 2003, [117 Stat. 684][/us/stat/117/684]\]
+            \[(B) Repealed. [Pub. L. 108–21, title V][/us/pl/108/21/tV], § 508(b)(1)(A), Apr. 30, 2003, [117 Stat. 684][/us/stat/117/684]\]
 
         (8) to a governmental entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of communications relating to the emergency.
 
@@ -95,7 +95,7 @@
 
         (3) the number of accounts from which the Department of Justice has received voluntary disclosures under subsection (c)(4).
 
-(Added [Pub. L. 99–508, title II, § 201][/us/pl/99/508/s201]\[(a)\], Oct. 21, 1986, [100 Stat. 1860][/us/stat/100/1860]; amended [Pub. L. 100–690, title VII, § 7037][/us/pl/100/690/s7037], Nov. 18, 1988, [102 Stat. 4399][/us/stat/102/4399]; [Pub. L. 105–314, title VI, § 604(b)][/us/pl/105/314/s604/b], Oct. 30, 1998, [112 Stat. 2984][/us/stat/112/2984]; [Pub. L. 107–56, title II, § 212(a)(1)][/us/pl/107/56/s212/a/1], Oct. 26, 2001, [115 Stat. 284][/us/stat/115/284]; [Pub. L. 107–296, title II, § 225(d)(1)][/us/pl/107/296/s225/d/1], Nov. 25, 2002, [116 Stat. 2157][/us/stat/116/2157]; [Pub. L. 108–21, title V, § 508(b)][/us/pl/108/21/s508/b], Apr. 30, 2003, [117 Stat. 684][/us/stat/117/684]; [Pub. L. 109–177, title I, § 107(a)][/us/pl/109/177/s107/a], (b)(1), (c), Mar. 9, 2006, [120 Stat. 202][/us/stat/120/202], 203; [Pub. L. 110–401, title V, § 501(b)(2)][/us/pl/110/401/s501/b/2], Oct. 13, 2008, [122 Stat. 4251][/us/stat/122/4251]; [Pub. L. 114–23, title VI, § 602(d)][/us/pl/114/23/s602/d], June 2, 2015, [129 Stat. 295][/us/stat/129/295].)
+(Added [Pub. L. 99–508, title II][/us/pl/99/508/tII], § 201\[(a)\], Oct. 21, 1986, [100 Stat. 1860][/us/stat/100/1860]; amended [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7037, Nov. 18, 1988, [102 Stat. 4399][/us/stat/102/4399]; [Pub. L. 105–314, title VI][/us/pl/105/314/tVI], § 604(b), Oct. 30, 1998, [112 Stat. 2984][/us/stat/112/2984]; [Pub. L. 107–56, title II][/us/pl/107/56/tII], § 212(a)(1), Oct. 26, 2001, [115 Stat. 284][/us/stat/115/284]; [Pub. L. 107–296, title II][/us/pl/107/296/tII], § 225(d)(1), Nov. 25, 2002, [116 Stat. 2157][/us/stat/116/2157]; [Pub. L. 108–21, title V][/us/pl/108/21/tV], § 508(b), Apr. 30, 2003, [117 Stat. 684][/us/stat/117/684]; [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 107(a), (b)(1), (c), Mar. 9, 2006, [120 Stat. 202][/us/stat/120/202], 203; [Pub. L. 110–401, title V][/us/pl/110/401/tV], § 501(b)(2), Oct. 13, 2008, [122 Stat. 4251][/us/stat/122/4251]; [Pub. L. 114–23, title VI][/us/pl/114/23/tVI], § 602(d), June 2, 2015, [129 Stat. 295][/us/stat/129/295].)
 
  __Amendments__ 
 
@@ -103,41 +103,41 @@
 
     2008—Subsecs. (b)(6), (c)(5). [Pub. L. 110–401][/us/pl/110/401] substituted “section 2258A” for “section 227 of the Victims of Child Abuse Act of 1990 ([42 U.S.C. 13032][/us/usc/t42/s13032])”.
 
-    2006—Subsec. (a). [Pub. L. 109–177, § 107(c)][/us/pl/109/177/s107/c], inserted “or (c)” after “Except as provided in subsection (b)”.
+    2006—Subsec. (a). [Pub. L. 109–177][/us/pl/109/177], § 107(c), inserted “or (c)” after “Except as provided in subsection (b)”.
 
-    Subsec. (b)(8). [Pub. L. 109–177, § 107(b)(1)(A)][/us/pl/109/177/s107/b/1/A], struck out “Federal, State, or local” before “governmental entity”.
+    Subsec. (b)(8). [Pub. L. 109–177][/us/pl/109/177], § 107(b)(1)(A), struck out “Federal, State, or local” before “governmental entity”.
 
-    Subsec. (c)(4). [Pub. L. 109–177, § 107(b)(1)(B)][/us/pl/109/177/s107/b/1/B], added par. (4) and struck out former par. (4) which read as follows: “to a governmental entity, if the provider reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person justifies disclosure of the information;”.
+    Subsec. (c)(4). [Pub. L. 109–177][/us/pl/109/177], § 107(b)(1)(B), added par. (4) and struck out former par. (4) which read as follows: “to a governmental entity, if the provider reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person justifies disclosure of the information;”.
 
-    Subsec. (d). [Pub. L. 109–177, § 107(a)][/us/pl/109/177/s107/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 109–177][/us/pl/109/177], § 107(a), added subsec. (d).
 
-    2003—Subsec. (b)(5). [Pub. L. 108–21, § 508(b)(1)(C)][/us/pl/108/21/s508/b/1/C], which directed amendment of par. (5) by striking “or” at the end, could not be executed because “or” did not appear at the end. See 2002 Amendment note below.
+    2003—Subsec. (b)(5). [Pub. L. 108–21][/us/pl/108/21], § 508(b)(1)(C), which directed amendment of par. (5) by striking “or” at the end, could not be executed because “or” did not appear at the end. See 2002 Amendment note below.
 
-    Subsec. (b)(6). [Pub. L. 108–21, § 508(b)(1)(D)][/us/pl/108/21/s508/b/1/D], added par. (6). Former par. (6) redesignated (7).
+    Subsec. (b)(6). [Pub. L. 108–21][/us/pl/108/21], § 508(b)(1)(D), added par. (6). Former par. (6) redesignated (7).
 
-    Subsec. (b)(6)(B). [Pub. L. 108–21, § 508(b)(1)(A)][/us/pl/108/21/s508/b/1/A], struck out subpar. (B) which read as follows: “if required by section 227 of the Crime Control Act of 1990; or”.
+    Subsec. (b)(6)(B). [Pub. L. 108–21][/us/pl/108/21], § 508(b)(1)(A), struck out subpar. (B) which read as follows: “if required by section 227 of the Crime Control Act of 1990; or”.
 
-    Subsec. (b)(7), (8). [Pub. L. 108–21, § 508(b)(1)(B)][/us/pl/108/21/s508/b/1/B], redesignated pars. (6) and (7) as (7) and (8), respectively.
+    Subsec. (b)(7), (8). [Pub. L. 108–21][/us/pl/108/21], § 508(b)(1)(B), redesignated pars. (6) and (7) as (7) and (8), respectively.
 
-    Subsec. (c)(5), (6). [Pub. L. 108–21, § 508(b)(2)][/us/pl/108/21/s508/b/2], added par. (5) and redesignated former par. (5) as (6).
+    Subsec. (c)(5), (6). [Pub. L. 108–21][/us/pl/108/21], § 508(b)(2), added par. (5) and redesignated former par. (5) as (6).
 
-    2002—Subsec. (b)(5). [Pub. L. 107–296, § 225(d)(1)(A)][/us/pl/107/296/s225/d/1/A], struck out “or” at end.
+    2002—Subsec. (b)(5). [Pub. L. 107–296][/us/pl/107/296], § 225(d)(1)(A), struck out “or” at end.
 
-    Subsec. (b)(6)(A). [Pub. L. 107–296, § 225(d)(1)(B)][/us/pl/107/296/s225/d/1/B], inserted “or” at end.
+    Subsec. (b)(6)(A). [Pub. L. 107–296][/us/pl/107/296], § 225(d)(1)(B), inserted “or” at end.
 
-    Subsec. (b)(6)(C). [Pub. L. 107–296, § 225(d)(1)(C)][/us/pl/107/296/s225/d/1/C], struck out subpar. (C) which read as follows: “if the provider reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of the information without delay.”
+    Subsec. (b)(6)(C). [Pub. L. 107–296][/us/pl/107/296], § 225(d)(1)(C), struck out subpar. (C) which read as follows: “if the provider reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of the information without delay.”
 
-    Subsec. (b)(7). [Pub. L. 107–296, § 225(d)(1)(D)][/us/pl/107/296/s225/d/1/D], added par. (7).
+    Subsec. (b)(7). [Pub. L. 107–296][/us/pl/107/296], § 225(d)(1)(D), added par. (7).
 
-    2001—[Pub. L. 107–56, § 212(a)(1)(A)][/us/pl/107/56/s212/a/1/A], substituted “Voluntary disclosure of customer communications or records” for “Disclosure of contents” in section catchline.
+    2001—[Pub. L. 107–56][/us/pl/107/56], § 212(a)(1)(A), substituted “Voluntary disclosure of customer communications or records” for “Disclosure of contents” in section catchline.
 
-    Subsec. (a)(3). [Pub. L. 107–56, § 212(a)(1)(B)][/us/pl/107/56/s212/a/1/B], added par. (3).
+    Subsec. (a)(3). [Pub. L. 107–56][/us/pl/107/56], § 212(a)(1)(B), added par. (3).
 
-    Subsec. (b). [Pub. L. 107–56, § 212(a)(1)(C)][/us/pl/107/56/s212/a/1/C], substituted “Exceptions for disclosure of communications” for “Exceptions” in heading and “A provider described in subsection (a)” for “A person or entity” in introductory provisions.
+    Subsec. (b). [Pub. L. 107–56][/us/pl/107/56], § 212(a)(1)(C), substituted “Exceptions for disclosure of communications” for “Exceptions” in heading and “A provider described in subsection (a)” for “A person or entity” in introductory provisions.
 
-    Subsec. (b)(6)(C). [Pub. L. 107–56, § 212(a)(1)(D)][/us/pl/107/56/s212/a/1/D], added subpar. (C).
+    Subsec. (b)(6)(C). [Pub. L. 107–56][/us/pl/107/56], § 212(a)(1)(D), added subpar. (C).
 
-    Subsec. (c). [Pub. L. 107–56, § 212(a)(1)(E)][/us/pl/107/56/s212/a/1/E], added subsec. (c).
+    Subsec. (c). [Pub. L. 107–56][/us/pl/107/56], § 212(a)(1)(E), added subsec. (c).
 
     1998—Subsec. (b)(6). [Pub. L. 105–314][/us/pl/105/314] amended par. (6) generally. Prior to amendment, par. (6) read as follows: “to a law enforcement agency, if such contents—
 
@@ -158,47 +158,47 @@
 ----------
 ----------
 
-[/us/pl/108/21/s508/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs508%2Fb%2F1%2FA
+[/us/pl/108/21/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtV
 [/us/stat/117/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F684
-[/us/pl/99/508/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs201
+[/us/pl/99/508/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtII
 [/us/stat/100/1860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1860
-[/us/pl/100/690/s7037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7037
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4399
-[/us/pl/105/314/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2Fs604%2Fb
+[/us/pl/105/314/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2FtVI
 [/us/stat/112/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2984
-[/us/pl/107/56/s212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs212%2Fa%2F1
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F284
-[/us/pl/107/296/s225/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225%2Fd%2F1
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2157
-[/us/pl/108/21/s508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs508%2Fb
+[/us/pl/108/21/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtV
 [/us/stat/117/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F684
-[/us/pl/109/177/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs107%2Fa
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F202
-[/us/pl/110/401/s501/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2Fs501%2Fb%2F2
+[/us/pl/110/401/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2FtV
 [/us/stat/122/4251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4251
-[/us/pl/114/23/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs602%2Fd
+[/us/pl/114/23/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVI
 [/us/stat/129/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F295
 [/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/pl/110/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401
 [/us/usc/t42/s13032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13032
-[/us/pl/109/177/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs107%2Fc
-[/us/pl/109/177/s107/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs107%2Fb%2F1%2FA
-[/us/pl/109/177/s107/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs107%2Fb%2F1%2FB
-[/us/pl/109/177/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs107%2Fa
-[/us/pl/108/21/s508/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs508%2Fb%2F1%2FC
-[/us/pl/108/21/s508/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs508%2Fb%2F1%2FD
-[/us/pl/108/21/s508/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs508%2Fb%2F1%2FA
-[/us/pl/108/21/s508/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs508%2Fb%2F1%2FB
-[/us/pl/108/21/s508/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs508%2Fb%2F2
-[/us/pl/107/296/s225/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225%2Fd%2F1%2FA
-[/us/pl/107/296/s225/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225%2Fd%2F1%2FB
-[/us/pl/107/296/s225/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225%2Fd%2F1%2FC
-[/us/pl/107/296/s225/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225%2Fd%2F1%2FD
-[/us/pl/107/56/s212/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs212%2Fa%2F1%2FA
-[/us/pl/107/56/s212/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs212%2Fa%2F1%2FB
-[/us/pl/107/56/s212/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs212%2Fa%2F1%2FC
-[/us/pl/107/56/s212/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs212%2Fa%2F1%2FD
-[/us/pl/107/56/s212/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs212%2Fa%2F1%2FE
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/105/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

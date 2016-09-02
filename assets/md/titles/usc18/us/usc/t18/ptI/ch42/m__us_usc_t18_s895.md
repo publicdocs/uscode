@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t18/ptI/ch42/m__us_usc_t18_s894.md) | [Next](./../../../../..//us/usc/t18/ptI/ch42/m__us_usc_t18_s896.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs895)
 
-## \[§ 895. Repealed. [Pub. L. 91–452, title II, § 223(a)][/us/pl/91/452/s223/a], Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929]\]
+## \[§ 895. Repealed. [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 223(a), Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929]\]
 
-    Section, [Pub. L. 90–321, title II, § 202(a)][/us/pl/90/321/s202/a], May 29, 1968, [82 Stat. 162][/us/stat/82/162], related to immunity from prosecution of any witness compelled to testify or produce evidence after claiming his privilege against self-incrimination. See section 6001 et seq. of this title.
+    Section, [Pub. L. 90–321, title II][/us/pl/90/321/tII], § 202(a), May 29, 1968, [82 Stat. 162][/us/stat/82/162], related to immunity from prosecution of any witness compelled to testify or produce evidence after claiming his privilege against self-incrimination. See section 6001 et seq. of this title.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/91/452/s223/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs223%2Fa
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F929
-[/us/pl/90/321/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs202%2Fa
+[/us/pl/90/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtII
 [/us/stat/82/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F162
 [/us/pl/91/452/s260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs260
 [/us/usc/t18/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs6001

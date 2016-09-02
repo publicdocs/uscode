@@ -21,7 +21,7 @@
 
     (b) any other offense that is a felony and that, by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.
 
-(Added [Pub. L. 98–473, title II, § 1001(a)][/us/pl/98/473/s1001/a], Oct. 12, 1984, [98 Stat. 2136][/us/stat/98/2136].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1001(a), Oct. 12, 1984, [98 Stat. 2136][/us/stat/98/2136].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/98/473/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1001%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2136
 
 

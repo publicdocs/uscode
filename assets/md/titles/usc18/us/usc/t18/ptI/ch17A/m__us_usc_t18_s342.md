@@ -17,7 +17,7 @@
 
     Whoever operates or directs the operation of a common carrier while under the influence of alcohol or any controlled substance (as defined in section 102 of the Controlled Substances Act ([21 U.S.C. 802][/us/usc/t21/s802])), shall be imprisoned not more than fifteen years or fined under this title, or both.
 
-(Added [Pub. L. 99–570, title I, § 1971(a)][/us/pl/99/570/s1971/a], Oct. 27, 1986, [100 Stat. 3207–59][/us/stat/100/3207-59]; amended [Pub. L. 100–690, title VI][/us/pl/100/690], §§ 6473(a), (b), 6482(b), Nov. 18, 1988, [102 Stat. 4379][/us/stat/102/4379], 4382.)
+(Added [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1971(a), Oct. 27, 1986, [100 Stat. 3207–59][/us/stat/100/3207-59]; amended [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], §§ 6473(a), (b), 6482(b), Nov. 18, 1988, [102 Stat. 4379][/us/stat/102/4379], 4382.)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/99/570/s1971/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1971%2Fa
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-59
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4379
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802

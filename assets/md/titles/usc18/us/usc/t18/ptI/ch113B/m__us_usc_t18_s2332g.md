@@ -77,7 +77,7 @@
 
     As used in this section, the term “aircraft” has the definition set forth in [section 40102(a)(6) of title 49][/us/usc/t49/s40102/a/6], United States Code.
 
-(Added [Pub. L. 108–458, title VI, § 6903][/us/pl/108/458/s6903], Dec. 17, 2004, [118 Stat. 3770][/us/stat/118/3770].)
+(Added [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6903, Dec. 17, 2004, [118 Stat. 3770][/us/stat/118/3770].)
 
 ----------
 
@@ -87,7 +87,7 @@
 ----------
 
 [/us/usc/t49/s40102/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa%2F6
-[/us/pl/108/458/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6903
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3770
 
 

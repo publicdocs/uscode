@@ -91,17 +91,17 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–251, § 4(b)][/us/pl/113/251/s4/b], Dec. 18, 2014, [128 Stat. 2890][/us/stat/128/2890], added item 1308.
+    2014—[Pub. L. 113–251][/us/pl/113/251], § 4(b), Dec. 18, 2014, [128 Stat. 2890][/us/stat/128/2890], added item 1308.
 
-    1988—[Pub. L. 100–625, § 3(a)(2)][/us/pl/100/625/s3/a/2], Nov. 7, 1988, [102 Stat. 3206][/us/stat/102/3206], substituted “Exceptions relating to certain advertisements and other information and to State-conducted lotteries” for “State-conducted lotteries” in item 1307.
+    1988—[Pub. L. 100–625][/us/pl/100/625], § 3(a)(2), Nov. 7, 1988, [102 Stat. 3206][/us/stat/102/3206], substituted “Exceptions relating to certain advertisements and other information and to State-conducted lotteries” for “State-conducted lotteries” in item 1307.
 
-    1975—[Pub. L. 93–583, § 2][/us/pl/93/583/s2], Jan. 2, 1975, [88 Stat. 1916][/us/stat/88/1916], added item 1307.
+    1975—[Pub. L. 93–583][/us/pl/93/583], § 2, Jan. 2, 1975, [88 Stat. 1916][/us/stat/88/1916], added item 1307.
 
-    1967—[Pub. L. 90–203, § 5(b)][/us/pl/90/203/s5/b], Dec. 15, 1967, [81 Stat. 611][/us/stat/81/611], added item 1306.
+    1967—[Pub. L. 90–203][/us/pl/90/203], § 5(b), Dec. 15, 1967, [81 Stat. 611][/us/stat/81/611], added item 1306.
 
-    1950—[Act Aug. 16, 1950, ch. 722, § 2][/us/act/1950-08-16/ch722/s2], [64 Stat. 452][/us/stat/64/452], added item 1305.
+    1950—[Act Aug. 16, 1950, ch. 722][/us/act/1950-08-16/ch722], § 2, [64 Stat. 452][/us/stat/64/452], added item 1305.
 
-    1949—[Act May 24, 1949, ch. 139, § 33][/us/act/1949-05-24/ch139/s33], [63 Stat. 94][/us/stat/63/94], substituted “as” for “at” in item 1303.
+    1949—[Act May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 33, [63 Stat. 94][/us/stat/63/94], substituted “as” for “at” in item 1303.
 
 ----------
 
@@ -110,17 +110,17 @@
 ----------
 ----------
 
-[/us/pl/113/251/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs4%2Fb
+[/us/pl/113/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251
 [/us/stat/128/2890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2890
-[/us/pl/100/625/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F625%2Fs3%2Fa%2F2
+[/us/pl/100/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F625
 [/us/stat/102/3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3206
-[/us/pl/93/583/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F583%2Fs2
+[/us/pl/93/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F583
 [/us/stat/88/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1916
-[/us/pl/90/203/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F203%2Fs5%2Fb
+[/us/pl/90/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F203
 [/us/stat/81/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F611
-[/us/act/1950-08-16/ch722/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-16%2Fch722%2Fs2
+[/us/act/1950-08-16/ch722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-16%2Fch722
 [/us/stat/64/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F452
-[/us/act/1949-05-24/ch139/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs33
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F94
 
 

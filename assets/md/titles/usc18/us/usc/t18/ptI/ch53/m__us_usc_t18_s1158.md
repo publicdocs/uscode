@@ -21,11 +21,11 @@
 
     Shall (1) in the case of a first violation, if an individual, be fined under this title or imprisoned not more than five years, or both, and, if a person other than an individual, be fined not more than $1,000,000; and (2) in the case of subsequent violations, if an individual, be fined not more than $1,000,000 or imprisoned not more than fifteen years, or both, and, if a person other than an individual, be fined not more than $5,000,000; and (3) shall be enjoined from further carrying on the act or acts complained of.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 759][/us/stat/62/759]; [Pub. L. 101–644, title I, § 106][/us/pl/101/644/s106], Nov. 29, 1990, [104 Stat. 4665][/us/stat/104/4665]; [Pub. L. 103–322, title XXXIII, § 330016(1)(U)][/us/pl/103/322/s330016/1/U], Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 759][/us/stat/62/759]; [Pub. L. 101–644, title I][/us/pl/101/644/tI], § 106, Nov. 29, 1990, [104 Stat. 4665][/us/stat/104/4665]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(U), Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148].)
 
  __Historical and Revision Notes__ 
 
-    Based on [section 305d of title 25][/us/usc/t25/s305d], U.S.C., 1940 ed., Indians ([Aug. 27, 1935, ch. 748, § 5][/us/act/1935-08-27/ch748/s5], [49 Stat. 892][/us/stat/49/892]).
+    Based on [section 305d of title 25][/us/usc/t25/s305d], U.S.C., 1940 ed., Indians ([Aug. 27, 1935, ch. 748][/us/act/1935-08-27/ch748], § 5, [49 Stat. 892][/us/stat/49/892]).
 
     The reference to the offense as a misdemeanor was omitted as unnecessary in view of the definition of misdemeanor in [section 1 of this title][/us/usc/t18/s1].
 
@@ -55,12 +55,12 @@
 [/us/usc/t25/s305a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs305a
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F759
-[/us/pl/101/644/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs106
+[/us/pl/101/644/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtI
 [/us/stat/104/4665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4665
-[/us/pl/103/322/s330016/1/U]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FU
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2148
 [/us/usc/t25/s305d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs305d
-[/us/act/1935-08-27/ch748/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch748%2Fs5
+[/us/act/1935-08-27/ch748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch748
 [/us/stat/49/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F892
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1

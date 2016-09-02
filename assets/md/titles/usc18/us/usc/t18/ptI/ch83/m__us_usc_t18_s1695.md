@@ -17,11 +17,11 @@
 
     Whoever carries any letter or packet on board any vessel which carries the mail, otherwise than in such mail, shall, except as otherwise provided by law, be fined under this title or imprisoned not more than thirty days, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 777][/us/stat/62/777]; [Pub. L. 103–322, title XXXIII, § 330016(1)(A)][/us/pl/103/322/s330016/1/A], Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 777][/us/stat/62/777]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(A), Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 308 ([Mar. 4, 1909, ch. 321, § 185][/us/act/1909-03-04/ch321/s185], [35 Stat. 1124][/us/stat/35/1124]).
+    Based on title 18, U.S.C., 1940 ed., § 308 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 185, [35 Stat. 1124][/us/stat/35/1124]).
 
     The words “thirty days” were substituted for “one month,” to make the term of imprisonment more definite and to conform to other comparable sections. (See [section 1693 of this title][/us/usc/t18/s1693].)
 
@@ -44,9 +44,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F777
-[/us/pl/103/322/s330016/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FA
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2146
-[/us/act/1909-03-04/ch321/s185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs185
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1124
 [/us/usc/t18/s1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1693
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

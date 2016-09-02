@@ -23,13 +23,13 @@
 
     Whoever knowingly and with intent to defraud recruits, solicits, or hires a person outside the United States or causes another person to recruit, solicit, or hire a person outside the United States, or attempts to do so, for purposes of employment performed on a United States Government contract performed outside the United States, or on a United States military installation or mission outside the United States or other property or premises outside the United States owned or controlled by the United States Government, by means of materially false or fraudulent pretenses, representations, or promises regarding that employment, shall be fined under this title or imprisoned for not more than 5 years, or both.
 
-(Added [Pub. L. 110–457, title II, § 222(e)(2)][/us/pl/110/457/s222/e/2], Dec. 23, 2008, [122 Stat. 5070][/us/stat/122/5070]; amended [Pub. L. 112–239, div. A, title XVII, § 1706(a)][/us/pl/112/239/s1706/a], Jan. 2, 2013, [126 Stat. 2097][/us/stat/126/2097].)
+(Added [Pub. L. 110–457, title II][/us/pl/110/457/tII], § 222(e)(2), Dec. 23, 2008, [122 Stat. 5070][/us/stat/122/5070]; amended [Pub. L. 112–239, div. A, title XVII][/us/pl/112/239/dA/tXVII], § 1706(a), Jan. 2, 2013, [126 Stat. 2097][/us/stat/126/2097].)
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 112–239, § 1706(a)(1)][/us/pl/112/239/s1706/a/1], which directed substitution of “(a) Work Inside the United States.—Whoever knowingly and with intent to defraud recruits, solicits, or hires a person outside the United States or causes another person to recruit, solicit, or hire a person outside the United States, or attempts to do so,” for “Whoever knowingly and with the intent to defraud recruits, solicits or hires a person outside the United States”, was executed by making the substitution for “Whoever knowingly and with intent to defraud recruits, solicits or hires a person outside the United States” to reflect the probable intent of Congress.
+    2013—Subsec. (a). [Pub. L. 112–239][/us/pl/112/239], § 1706(a)(1), which directed substitution of “(a) Work Inside the United States.—Whoever knowingly and with intent to defraud recruits, solicits, or hires a person outside the United States or causes another person to recruit, solicit, or hire a person outside the United States, or attempts to do so,” for “Whoever knowingly and with the intent to defraud recruits, solicits or hires a person outside the United States”, was executed by making the substitution for “Whoever knowingly and with intent to defraud recruits, solicits or hires a person outside the United States” to reflect the probable intent of Congress.
 
-    Subsec. (b). [Pub. L. 112–239, § 1706(a)(2)][/us/pl/112/239/s1706/a/2], added subsec. (b).
+    Subsec. (b). [Pub. L. 112–239][/us/pl/112/239], § 1706(a)(2), added subsec. (b).
 
  __Effective Date of 2013 Amendment__ 
 
@@ -42,12 +42,12 @@
 ----------
 ----------
 
-[/us/pl/110/457/s222/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs222%2Fe%2F2
+[/us/pl/110/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtII
 [/us/stat/122/5070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5070
-[/us/pl/112/239/s1706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1706%2Fa
+[/us/pl/112/239/dA/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVII
 [/us/stat/126/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2097
-[/us/pl/112/239/s1706/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1706%2Fa%2F1
-[/us/pl/112/239/s1706/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1706%2Fa%2F2
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t22/s7104d/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7104d%2Fc%2F3
 

@@ -103,7 +103,7 @@
 
     Notwithstanding [section 3105 of this title][/us/usc/t18/s3105], the presence of an officer shall not be required for service or execution of a search warrant issued in accordance with this chapter requiring disclosure by a provider of electronic communications service or remote computing service of the contents of communications or records or other information pertaining to a subscriber to or customer of such service.
 
-(Added [Pub. L. 99–508, title II, § 201][/us/pl/99/508/s201]\[(a)\], Oct. 21, 1986, [100 Stat. 1861][/us/stat/100/1861]; amended [Pub. L. 100–690, title VII][/us/pl/100/690], §§ 7038, 7039, Nov. 18, 1988, [102 Stat. 4399][/us/stat/102/4399]; [Pub. L. 103–322, title XXXIII, § 330003(b)][/us/pl/103/322/s330003/b], Sept. 13, 1994, [108 Stat. 2140][/us/stat/108/2140]; [Pub. L. 103–414, title II, § 207(a)][/us/pl/103/414/s207/a], Oct. 25, 1994, [108 Stat. 4292][/us/stat/108/4292]; [Pub. L. 104–132, title VIII, § 804][/us/pl/104/132/s804], Apr. 24, 1996, [110 Stat. 1305][/us/stat/110/1305]; [Pub. L. 104–293, title VI, § 601(b)][/us/pl/104/293/s601/b], Oct. 11, 1996, [110 Stat. 3469][/us/stat/110/3469]; [Pub. L. 104–294, title VI, § 605(f)][/us/pl/104/294/s605/f], Oct. 11, 1996, [110 Stat. 3510][/us/stat/110/3510]; [Pub. L. 105–184, § 8][/us/pl/105/184/s8], June 23, 1998, [112 Stat. 522][/us/stat/112/522]; [Pub. L. 107–56, title II][/us/pl/107/56], §§ 209(2), 210, 212(b)(1), 220(a)(1), (b), Oct. 26, 2001, [115 Stat. 283][/us/stat/115/283], 285, 291, 292; [Pub. L. 107–273, div. B, title IV, § 4005(a)(2)][/us/pl/107/273/s4005/a/2], div. C, title I, § 11010, Nov. 2, 2002, [116 Stat. 1812][/us/stat/116/1812], 1822; [Pub. L. 107–296, title II, § 225(h)(1)][/us/pl/107/296/s225/h/1], Nov. 25, 2002, [116 Stat. 2158][/us/stat/116/2158]; [Pub. L. 109–162, title XI, § 1171(a)(1)][/us/pl/109/162/s1171/a/1], Jan. 5, 2006, [119 Stat. 3123][/us/stat/119/3123]; [Pub. L. 111–79, § 2(1)][/us/pl/111/79/s2/1], Oct. 19, 2009, [123 Stat. 2086][/us/stat/123/2086].)
+(Added [Pub. L. 99–508, title II][/us/pl/99/508/tII], § 201\[(a)\], Oct. 21, 1986, [100 Stat. 1861][/us/stat/100/1861]; amended [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], §§ 7038, 7039, Nov. 18, 1988, [102 Stat. 4399][/us/stat/102/4399]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330003(b), Sept. 13, 1994, [108 Stat. 2140][/us/stat/108/2140]; [Pub. L. 103–414, title II][/us/pl/103/414/tII], § 207(a), Oct. 25, 1994, [108 Stat. 4292][/us/stat/108/4292]; [Pub. L. 104–132, title VIII][/us/pl/104/132/tVIII], § 804, Apr. 24, 1996, [110 Stat. 1305][/us/stat/110/1305]; [Pub. L. 104–293, title VI][/us/pl/104/293/tVI], § 601(b), Oct. 11, 1996, [110 Stat. 3469][/us/stat/110/3469]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 605(f), Oct. 11, 1996, [110 Stat. 3510][/us/stat/110/3510]; [Pub. L. 105–184][/us/pl/105/184], § 8, June 23, 1998, [112 Stat. 522][/us/stat/112/522]; [Pub. L. 107–56, title II][/us/pl/107/56/tII], §§ 209(2), 210, 212(b)(1), 220(a)(1), (b), Oct. 26, 2001, [115 Stat. 283][/us/stat/115/283], 285, 291, 292; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4005(a)(2), div. C, title I, § 11010, Nov. 2, 2002, [116 Stat. 1812][/us/stat/116/1812], 1822; [Pub. L. 107–296, title II][/us/pl/107/296/tII], § 225(h)(1), Nov. 25, 2002, [116 Stat. 2158][/us/stat/116/2158]; [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1171(a)(1), Jan. 5, 2006, [119 Stat. 3123][/us/stat/119/3123]; [Pub. L. 111–79][/us/pl/111/79], § 2(1), Oct. 19, 2009, [123 Stat. 2086][/us/stat/123/2086].)
 
  __References in Text__ 
 
@@ -115,33 +115,33 @@
 
     2006—Subsec. (c)(1)(C). [Pub. L. 109–162][/us/pl/109/162] struck out “or” at end.
 
-    2002—Subsec. (c)(1)(E). [Pub. L. 107–273, § 4005(a)(2)][/us/pl/107/273/s4005/a/2], realigned margins.
+    2002—Subsec. (c)(1)(E). [Pub. L. 107–273][/us/pl/107/273], § 4005(a)(2), realigned margins.
 
     Subsec. (e). [Pub. L. 107–296][/us/pl/107/296] inserted “, statutory authorization” after “subpoena”.
 
-    Subsec. (g). [Pub. L. 107–273, § 11010][/us/pl/107/273/s11010], added subsec. (g).
+    Subsec. (g). [Pub. L. 107–273][/us/pl/107/273], § 11010, added subsec. (g).
 
-    2001—[Pub. L. 107–56, § 212(b)(1)(A)][/us/pl/107/56/s212/b/1/A], substituted “Required disclosure of customer communications or records” for “Requirements for governmental access” in section catchline.
+    2001—[Pub. L. 107–56][/us/pl/107/56], § 212(b)(1)(A), substituted “Required disclosure of customer communications or records” for “Requirements for governmental access” in section catchline.
 
     Subsec. (a). [Pub. L. 107–56][/us/pl/107/56], §§ 209(2)(A), (B), 220(a)(1), substituted “Contents of Wire or Electronic” for “Contents of Electronic” in heading and “contents of a wire or electronic” for “contents of an electronic” in two places and “using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation” for “under the Federal Rules of Criminal Procedure” in text.
 
-    Subsec. (b). [Pub. L. 107–56, § 209(2)(A)][/us/pl/107/56/s209/2/A], substituted “Contents of Wire or Electronic” for “Contents of Electronic” in heading.
+    Subsec. (b). [Pub. L. 107–56][/us/pl/107/56], § 209(2)(A), substituted “Contents of Wire or Electronic” for “Contents of Electronic” in heading.
 
     Subsec. (b)(1). [Pub. L. 107–56][/us/pl/107/56], §§ 209(2)(C), 220(a)(1), substituted “any wire or electronic communication” for “any electronic communication” in introductory provisions and “using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation” for “under the Federal Rules of Criminal Procedure” in subpar. (A).
 
-    Subsec. (b)(2). [Pub. L. 107–56, § 209(2)(C)][/us/pl/107/56/s209/2/C], substituted “any wire or electronic communication” for “any electronic communication” in introductory provisions.
+    Subsec. (b)(2). [Pub. L. 107–56][/us/pl/107/56], § 209(2)(C), substituted “any wire or electronic communication” for “any electronic communication” in introductory provisions.
 
     Subsec. (c)(1). [Pub. L. 107–56][/us/pl/107/56], §§ 212(b)(1)(C), 220(a)(1), designated subpar. (A) and introductory provisions of subpar. (B) as par. (1), substituted “A governmental entity may require a provider of electronic communication service or remote computing service to” for “(A) Except as provided in subparagraph (B), a provider of electronic communication service or remote computing service may” and a closing parenthesis for provisions which began with “covered by subsection (a) or (b) of this section) to any person other than a governmental entity.” in former subpar. (A) and ended with “(B) A provider of electronic communication service or remote computing service shall disclose a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications covered by subsection (a) or (b) of this section) to a governmental entity”, redesignated clauses (i) to (iv) of former subpar. (B) as subpars. (A) to (D), respectively, substituted “using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation” for “under the Federal Rules of Criminal Procedure” in subpar. (A) and “; or” for period at end of subpar. (D), added subpar. (E), and redesignated former subpar. (C) as par. (2).
 
-    Subsec. (c)(2). [Pub. L. 107–56, § 210][/us/pl/107/56/s210], amended par. (2), as redesignated by [section 212 of Pub. L. 107–56][/us/pl/107/56/s212], by substituting “entity the—” for “entity the name, address, local and long distance telephone toll billing records, telephone number or other subscriber number or identity, and length of service of a subscriber” in introductory provisions, inserting subpars. (A) to (F), striking out “and the types of services the subscriber or customer utilized,” before “when the governmental entity uses an administrative subpoena”, inserting “of a subscriber” at beginning of concluding provisions and designating “to or customer of such service when the governmental entity uses an administrative subpoena authorized by a Federal or State statute or a Federal or State grand jury or trial subpoena or any means available under paragraph (1).” as remainder of concluding provisions.
+    Subsec. (c)(2). [Pub. L. 107–56][/us/pl/107/56], § 210, amended par. (2), as redesignated by [section 212 of Pub. L. 107–56][/us/pl/107/56/s212], by substituting “entity the—” for “entity the name, address, local and long distance telephone toll billing records, telephone number or other subscriber number or identity, and length of service of a subscriber” in introductory provisions, inserting subpars. (A) to (F), striking out “and the types of services the subscriber or customer utilized,” before “when the governmental entity uses an administrative subpoena”, inserting “of a subscriber” at beginning of concluding provisions and designating “to or customer of such service when the governmental entity uses an administrative subpoena authorized by a Federal or State statute or a Federal or State grand jury or trial subpoena or any means available under paragraph (1).” as remainder of concluding provisions.
 
-    [Pub. L. 107–56, § 212(b)(1)(C)(iii)][/us/pl/107/56/s212/b/1/C/iii], (D), redesignated subpar. (C) of par. (1) as par. (2) and temporarily substituted “paragraph (1)” for “subparagraph (B)”.
+    [Pub. L. 107–56][/us/pl/107/56], § 212(b)(1)(C)(iii), (D), redesignated subpar. (C) of par. (1) as par. (2) and temporarily substituted “paragraph (1)” for “subparagraph (B)”.
 
-    [Pub. L. 107–56, § 212(b)(1)(B)][/us/pl/107/56/s212/b/1/B], redesignated par. (2) as (3).
+    [Pub. L. 107–56][/us/pl/107/56], § 212(b)(1)(B), redesignated par. (2) as (3).
 
-    Subsec. (c)(3). [Pub. L. 107–56, § 212(b)(1)(B)][/us/pl/107/56/s212/b/1/B], redesignated par. (2) as (3).
+    Subsec. (c)(3). [Pub. L. 107–56][/us/pl/107/56], § 212(b)(1)(B), redesignated par. (2) as (3).
 
-    Subsec. (d). [Pub. L. 107–56, § 220(b)][/us/pl/107/56/s220/b], struck out “described in section 3127(2)(A)” after “court of competent jurisdiction”.
+    Subsec. (d). [Pub. L. 107–56][/us/pl/107/56], § 220(b), struck out “described in section 3127(2)(A)” after “court of competent jurisdiction”.
 
     1998—Subsec. (c)(1)(B)(iv). [Pub. L. 105–184][/us/pl/105/184] added cl. (iv).
 
@@ -151,17 +151,17 @@
 
     Subsec. (f). [Pub. L. 104–132][/us/pl/104/132] added subsec. (f).
 
-    1994—Subsec. (c)(1)(B). [Pub. L. 103–414, § 207(a)(1)(A)][/us/pl/103/414/s207/a/1/A], redesignated cls. (ii) to (iv) as (i) to (iii), respectively, and struck out former cl. (i) which read as follows: “uses an administrative subpoena authorized by a Federal or State statute, or a Federal or State grand jury or trial subpoena;”.
+    1994—Subsec. (c)(1)(B). [Pub. L. 103–414][/us/pl/103/414], § 207(a)(1)(A), redesignated cls. (ii) to (iv) as (i) to (iii), respectively, and struck out former cl. (i) which read as follows: “uses an administrative subpoena authorized by a Federal or State statute, or a Federal or State grand jury or trial subpoena;”.
 
-    Subsec. (c)(1)(C). [Pub. L. 103–414, § 207(a)(1)(B)][/us/pl/103/414/s207/a/1/B], added subpar. (C).
+    Subsec. (c)(1)(C). [Pub. L. 103–414][/us/pl/103/414], § 207(a)(1)(B), added subpar. (C).
 
-    Subsec. (d). [Pub. L. 103–414, § 207(a)(2)][/us/pl/103/414/s207/a/2], amended first sentence generally. Prior to amendment, first sentence read as follows: “A court order for disclosure under subsection (b) or (c) of this section may be issued by any court that is a court of competent jurisdiction set forth in [section 3127(2)(A) of this title][/us/usc/t18/s3127/2/A] and shall issue only if the governmental entity shows that there is reason to believe the contents of a wire or electronic communication, or the records or other information sought, are relevant to a legitimate law enforcement inquiry.”
+    Subsec. (d). [Pub. L. 103–414][/us/pl/103/414], § 207(a)(2), amended first sentence generally. Prior to amendment, first sentence read as follows: “A court order for disclosure under subsection (b) or (c) of this section may be issued by any court that is a court of competent jurisdiction set forth in [section 3127(2)(A) of this title][/us/usc/t18/s3127/2/A] and shall issue only if the governmental entity shows that there is reason to believe the contents of a wire or electronic communication, or the records or other information sought, are relevant to a legitimate law enforcement inquiry.”
 
     [Pub. L. 103–322][/us/pl/103/322] substituted “section 3127(2)(A)” for “section 3126(2)(A)”.
 
-    1988—Subsecs. (b)(1)(B)(i), (c)(1)(B)(i). [Pub. L. 100–690, § 7038][/us/pl/100/690/s7038], inserted “or trial” after “grand jury”.
+    1988—Subsecs. (b)(1)(B)(i), (c)(1)(B)(i). [Pub. L. 100–690][/us/pl/100/690], § 7038, inserted “or trial” after “grand jury”.
 
-    Subsec. (d). [Pub. L. 100–690, § 7039][/us/pl/100/690/s7039], inserted “may be issued by any court that is a court of competent jurisdiction set forth in [section 3126(2)(A) of this title][/us/usc/t18/s3126/2/A] and” before “shall issue”.
+    Subsec. (d). [Pub. L. 100–690][/us/pl/100/690], § 7039, inserted “may be issued by any court that is a court of competent jurisdiction set forth in [section 3126(2)(A) of this title][/us/usc/t18/s3126/2/A] and” before “shall issue”.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -177,60 +177,60 @@
 [/us/usc/t18/s2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2705
 [/us/usc/t18/s2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2325
 [/us/usc/t18/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3105
-[/us/pl/99/508/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs201
+[/us/pl/99/508/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtII
 [/us/stat/100/1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1861
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4399
-[/us/pl/103/322/s330003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330003%2Fb
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2140
-[/us/pl/103/414/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs207%2Fa
+[/us/pl/103/414/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtII
 [/us/stat/108/4292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4292
-[/us/pl/104/132/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs804
+[/us/pl/104/132/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVIII
 [/us/stat/110/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1305
-[/us/pl/104/293/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2Fs601%2Fb
+[/us/pl/104/293/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2FtVI
 [/us/stat/110/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3469
-[/us/pl/104/294/s605/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs605%2Ff
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3510
-[/us/pl/105/184/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F184%2Fs8
+[/us/pl/105/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F184
 [/us/stat/112/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F522
-[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F283
-[/us/pl/107/273/s4005/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4005%2Fa%2F2
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1812
-[/us/pl/107/296/s225/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225%2Fh%2F1
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2158
-[/us/pl/109/162/s1171/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1171%2Fa%2F1
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3123
-[/us/pl/111/79/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F79%2Fs2%2F1
+[/us/pl/111/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F79
 [/us/stat/123/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2086
 [/us/pl/111/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F79
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
-[/us/pl/107/273/s4005/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4005%2Fa%2F2
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/107/273/s11010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11010
-[/us/pl/107/56/s212/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs212%2Fb%2F1%2FA
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
-[/us/pl/107/56/s209/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs209%2F2%2FA
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
-[/us/pl/107/56/s209/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs209%2F2%2FC
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
-[/us/pl/107/56/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs210
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/107/56/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs212
-[/us/pl/107/56/s212/b/1/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs212%2Fb%2F1%2FC%2Fiii
-[/us/pl/107/56/s212/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs212%2Fb%2F1%2FB
-[/us/pl/107/56/s212/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs212%2Fb%2F1%2FB
-[/us/pl/107/56/s220/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs220%2Fb
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/105/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F184
 [/us/pl/104/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
-[/us/pl/103/414/s207/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs207%2Fa%2F1%2FA
-[/us/pl/103/414/s207/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs207%2Fa%2F1%2FB
-[/us/pl/103/414/s207/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs207%2Fa%2F2
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
 [/us/usc/t18/s3127/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3127%2F2%2FA
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/100/690/s7038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7038
-[/us/pl/100/690/s7039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7039
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t18/s3126/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3126%2F2%2FA
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4

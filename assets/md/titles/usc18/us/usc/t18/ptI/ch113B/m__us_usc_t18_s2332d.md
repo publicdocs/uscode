@@ -37,7 +37,7 @@
 
             (D) any person in the United States.
 
-(Added [Pub. L. 104–132, title III, § 321(a)][/us/pl/104/132/s321/a], Apr. 24, 1996, [110 Stat. 1254][/us/stat/110/1254]; amended [Pub. L. 107–273, div. B, title IV, § 4002(a)(5)][/us/pl/107/273/s4002/a/5], Nov. 2, 2002, [116 Stat. 1806][/us/stat/116/1806].)
+(Added [Pub. L. 104–132, title III][/us/pl/104/132/tIII], § 321(a), Apr. 24, 1996, [110 Stat. 1254][/us/stat/110/1254]; amended [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(a)(5), Nov. 2, 2002, [116 Stat. 1806][/us/stat/116/1806].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–132, title III, § 321(c)][/us/pl/104/132/s321/c], Apr. 24, 1996, [110 Stat. 1254][/us/stat/110/1254], provided that: 
+[Pub. L. 104–132, title III][/us/pl/104/132/tIII], § 321(c), Apr. 24, 1996, [110 Stat. 1254][/us/stat/110/1254], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall become effective 120 days after the date of enactment of this Act \[Apr. 24, 1996\].”
 
@@ -64,14 +64,14 @@
 ----------
 ----------
 
-[/us/pl/104/132/s321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs321%2Fa
+[/us/pl/104/132/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIII
 [/us/stat/110/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1254
-[/us/pl/107/273/s4002/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fa%2F5
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1806
 [/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/usc/t18/s2332e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332e
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/104/132/s321/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs321%2Fc
+[/us/pl/104/132/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtIII
 [/us/stat/110/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1254
 
 

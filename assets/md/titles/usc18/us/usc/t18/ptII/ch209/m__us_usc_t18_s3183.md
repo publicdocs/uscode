@@ -21,11 +21,11 @@
 
     The agent who receives the fugitive into his custody shall be empowered to transport him to the jurisdiction from which he has fled.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 822][/us/stat/62/822]; [Pub. L. 107–273, div. B, title IV, § 4004(d)][/us/pl/107/273/s4004/d], Nov. 2, 2002, [116 Stat. 1812][/us/stat/116/1812].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 822][/us/stat/62/822]; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4004(d), Nov. 2, 2002, [116 Stat. 1812][/us/stat/116/1812].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 662c ([Mar. 22, 1934, ch. 73, § 2][/us/act/1934-03-22/ch73/s2], [48 Stat. 455][/us/stat/48/455]).
+    Based on title 18, U.S.C., 1940 ed., § 662c ([Mar. 22, 1934, ch. 73][/us/act/1934-03-22/ch73], § 2, [48 Stat. 455][/us/stat/48/455]).
 
     Said section 662c was incorporated in this section and sections 752 and 3195 of this title.
 
@@ -50,9 +50,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F822
-[/us/pl/107/273/s4004/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4004%2Fd
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1812
-[/us/act/1934-03-22/ch73/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-22%2Fch73%2Fs2
+[/us/act/1934-03-22/ch73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-22%2Fch73
 [/us/stat/48/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F455
 [/us/usc/t18/s3196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3196
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273

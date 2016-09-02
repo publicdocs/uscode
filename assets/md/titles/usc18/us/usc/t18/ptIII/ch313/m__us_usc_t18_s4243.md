@@ -105,11 +105,11 @@
 
         Subsections (f) and (g) and section 4247 shall apply to any person transferred to the custody of the Attorney General pursuant to this subsection.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 855][/us/stat/62/855]; [Pub. L. 98–473, title II, § 403(a)][/us/pl/98/473/s403/a], Oct. 12, 1984, [98 Stat. 2059][/us/stat/98/2059]; [Pub. L. 100–690, title VII, § 7043][/us/pl/100/690/s7043], Nov. 18, 1988, [102 Stat. 4400][/us/stat/102/4400]; [Pub. L. 104–294, title III, § 301(a)][/us/pl/104/294/s301/a], Oct. 11, 1996, [110 Stat. 3494][/us/stat/110/3494].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 855][/us/stat/62/855]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 403(a), Oct. 12, 1984, [98 Stat. 2059][/us/stat/98/2059]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7043, Nov. 18, 1988, [102 Stat. 4400][/us/stat/102/4400]; [Pub. L. 104–294, title III][/us/pl/104/294/tIII], § 301(a), Oct. 11, 1996, [110 Stat. 3494][/us/stat/110/3494].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 878 ([May 13, 1930, ch. 254, § 8][/us/act/1930-05-13/ch254/s8], [46 Stat. 272][/us/stat/46/272]).
+    Based on title 18, U.S.C., 1940 ed., § 878 ([May 13, 1930, ch. 254][/us/act/1930-05-13/ch254], § 8, [46 Stat. 272][/us/stat/46/272]).
 
     Changes were made in translations and phraseology, and unnecessary words omitted.
 
@@ -123,13 +123,13 @@
 
  __Severability__ 
 
-[Pub. L. 104–294, title III, § 301(d)][/us/pl/104/294/s301/d], Oct. 11, 1996, [110 Stat. 3495][/us/stat/110/3495], provided that: 
+[Pub. L. 104–294, title III][/us/pl/104/294/tIII], § 301(d), Oct. 11, 1996, [110 Stat. 3495][/us/stat/110/3495], provided that: 
 
 > “If any provision of this section \[amending this section and enacting provisions set out as notes below\], an amendment made by this section, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this section and the amendments made by this section shall not be affected thereby.”
 
  __Transfer of Records__ 
 
-[Pub. L. 104–294, title III, § 301(b)][/us/pl/104/294/s301/b], Oct. 11, 1996, [110 Stat. 3495][/us/stat/110/3495], provided that: 
+[Pub. L. 104–294, title III][/us/pl/104/294/tIII], § 301(b), Oct. 11, 1996, [110 Stat. 3495][/us/stat/110/3495], provided that: 
 
 > “Notwithstanding any provision of the District of Columbia Code or any other provision of law, the District of Columbia and St. Elizabeth’s Hospital—
 
@@ -143,7 +143,7 @@
 
  __Clarification of Effect on Certain Testimonial Privileges__ 
 
-[Pub. L. 104–294, title III, § 301(c)][/us/pl/104/294/s301/c], Oct. 11, 1996, [110 Stat. 3495][/us/stat/110/3495], provided that: 
+[Pub. L. 104–294, title III][/us/pl/104/294/tIII], § 301(c), Oct. 11, 1996, [110 Stat. 3495][/us/stat/110/3495], provided that: 
 
 > “The amendments made by this section \[amending this section and enacting provisions set out as notes above\] shall not be construed to affect in any manner any doctor-patient or psychotherapist-patient testimonial privilege that may be otherwise applicable to persons found not guilty by reason of insanity and affected by this section.”
 
@@ -160,26 +160,26 @@
 [/us/usc/t24/s301/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs301%2Fd%2F1
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F855
-[/us/pl/98/473/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs403%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2059
-[/us/pl/100/690/s7043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7043
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4400
-[/us/pl/104/294/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs301%2Fa
+[/us/pl/104/294/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtIII
 [/us/stat/110/3494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3494
-[/us/act/1930-05-13/ch254/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-13%2Fch254%2Fs8
+[/us/act/1930-05-13/ch254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-13%2Fch254
 [/us/stat/46/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F272
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/104/294/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs301%2Fd
+[/us/pl/104/294/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtIII
 [/us/stat/110/3495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3495
-[/us/pl/104/294/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs301%2Fb
+[/us/pl/104/294/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtIII
 [/us/stat/110/3495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3495
 [/us/usc/t18/s4243/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4243%2Fi
 [/us/usc/t18/s4243/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4243%2Fi
 [/us/usc/t18/s4243/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4243%2Fi
 [/us/usc/t18/s4243/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4243%2Fi
-[/us/pl/104/294/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs301%2Fc
+[/us/pl/104/294/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtIII
 [/us/stat/110/3495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3495
 
 

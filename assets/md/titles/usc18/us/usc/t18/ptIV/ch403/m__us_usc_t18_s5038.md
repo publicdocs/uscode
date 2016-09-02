@@ -43,7 +43,7 @@
 
     (f) Whenever a juvenile has on two separate occasions been found guilty of committing an act which if committed by an adult would be a felony crime of violence or an offense described in section 401 of the Controlled Substances Act or section 1001(a), 1005, or 1009 of the Controlled Substances Import and Export Act, or whenever a juvenile has been found guilty of committing an act after his 13th birthday which if committed by an adult would be an offense described in the second sentence of the fourth paragraph of [section 5032 of this title][/us/usc/t18/s5032], the court shall transmit to the Federal Bureau of Investigation the information concerning the adjudications, including name, date of adjudication, court, offenses, and sentence, along with the notation that the matters were juvenile adjudications.
 
-(Added [Pub. L. 93–415, title V, § 508][/us/pl/93/415/s508], Sept. 7, 1974, [88 Stat. 1137][/us/stat/88/1137]; amended [Pub. L. 95–115, § 8(b)][/us/pl/95/115/s8/b], Oct. 3, 1977, [91 Stat. 1060][/us/stat/91/1060]; [Pub. L. 98–473, title II, § 1202][/us/pl/98/473/s1202], Oct. 12, 1984, [98 Stat. 2150][/us/stat/98/2150]; [Pub. L. 103–322, title XIV, § 140005][/us/pl/103/322/s140005], Sept. 13, 1994, [108 Stat. 2032][/us/stat/108/2032]; [Pub. L. 104–294, title VI, § 601(f)(16)][/us/pl/104/294/s601/f/16], (o), Oct. 11, 1996, [110 Stat. 3500][/us/stat/110/3500], 3502.)
+(Added [Pub. L. 93–415, title V][/us/pl/93/415/tV], § 508, Sept. 7, 1974, [88 Stat. 1137][/us/stat/88/1137]; amended [Pub. L. 95–115][/us/pl/95/115], § 8(b), Oct. 3, 1977, [91 Stat. 1060][/us/stat/91/1060]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1202, Oct. 12, 1984, [98 Stat. 2150][/us/stat/98/2150]; [Pub. L. 103–322, title XIV][/us/pl/103/322/tXIV], § 140005, Sept. 13, 1994, [108 Stat. 2032][/us/stat/108/2032]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(f)(16), (o), Oct. 11, 1996, [110 Stat. 3500][/us/stat/110/3500], 3502.)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Amendments__ 
 
-    1996—Subsec. (d). [Pub. L. 104–294, § 601(f)(16)][/us/pl/104/294/s601/f/16], substituted “section 401 of the Controlled Substances Act or section 1001(a), 1005, or 1009 of the Controlled Substances Import and Export Act” for “section 841, 952(a), 955, or 959 of title 21”.
+    1996—Subsec. (d). [Pub. L. 104–294][/us/pl/104/294], § 601(f)(16), substituted “section 401 of the Controlled Substances Act or section 1001(a), 1005, or 1009 of the Controlled Substances Import and Export Act” for “section 841, 952(a), 955, or 959 of title 21”.
 
     Subsec. (f). [Pub. L. 104–294][/us/pl/104/294] substituted “section 401 of the Controlled Substances Act or section 1001(a), 1005, or 1009 of the Controlled Substances Import and Export Act” for “section 841, 952(a), 955, or 959 of title 21”, “juvenile has been found guilty” for “juvenille has been found guilty”, and “the Federal Bureau of Investigation” for “the Federal Bureau of Investigation, Identification Division,”.
 
@@ -75,18 +75,18 @@
 ----------
 
 [/us/usc/t18/s5032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs5032
-[/us/pl/93/415/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs508
+[/us/pl/93/415/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV
 [/us/stat/88/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1137
-[/us/pl/95/115/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs8%2Fb
+[/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/stat/91/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1060
-[/us/pl/98/473/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1202
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2150
-[/us/pl/103/322/s140005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs140005
+[/us/pl/103/322/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXIV
 [/us/stat/108/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2032
-[/us/pl/104/294/s601/f/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Ff%2F16
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3500
 [/us/usc/t21/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841
-[/us/pl/104/294/s601/f/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Ff%2F16
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/usc/t18/s5032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs5032

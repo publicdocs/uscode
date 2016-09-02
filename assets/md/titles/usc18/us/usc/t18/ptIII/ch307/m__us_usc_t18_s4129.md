@@ -23,7 +23,7 @@
 
     (b) Federal Prison Industries may request the Secretary of the Treasury to invest excess moneys from the Prison Industries Fund. Such investments shall be in public debt securities with maturities suitable to the needs of the corporation as determined by the board of directors, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
 
-(Added [Pub. L. 100–690, title VII, § 7093(a)][/us/pl/100/690/s7093/a], Nov. 18, 1988, [102 Stat. 4411][/us/stat/102/4411].)
+(Added [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7093(a), Nov. 18, 1988, [102 Stat. 4411][/us/stat/102/4411].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/100/690/s7093/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7093%2Fa
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4411
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 

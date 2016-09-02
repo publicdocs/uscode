@@ -179,11 +179,11 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–132, title VII, § 704(b)][/us/pl/104/132/s704/b], Apr. 24, 1996, [110 Stat. 1295][/us/stat/110/1295], substituted “Conspiracy to kill, kidnap, maim, or injure persons or damage property in a foreign country” for “Conspiracy to injure property of foreign government” in item 956.
+    1996—[Pub. L. 104–132, title VII][/us/pl/104/132/tVII], § 704(b), Apr. 24, 1996, [110 Stat. 1295][/us/stat/110/1295], substituted “Conspiracy to kill, kidnap, maim, or injure persons or damage property in a foreign country” for “Conspiracy to injure property of foreign government” in item 956.
 
-    1990—[Pub. L. 101–647, title XII, § 1207(a)][/us/pl/101/647/s1207/a], title XXXV, § 3530, Nov. 29, 1990, [104 Stat. 4832][/us/stat/104/4832], 4924, struck out item 968 “Exportation of war materials to certain countries” and item 969 “Exportation of arms, liquors and narcotics to Pacific Islands”.
+    1990—[Pub. L. 101–647, title XII][/us/pl/101/647/tXII], § 1207(a), title XXXV, § 3530, Nov. 29, 1990, [104 Stat. 4832][/us/stat/104/4832], 4924, struck out item 968 “Exportation of war materials to certain countries” and item 969 “Exportation of arms, liquors and narcotics to Pacific Islands”.
 
-    1972—[Pub. L. 92–539, title IV, § 402][/us/pl/92/539/s402], Oct. 24, 1972, [86 Stat. 1073][/us/stat/86/1073], added item 970.
+    1972—[Pub. L. 92–539, title IV][/us/pl/92/539/tIV], § 402, Oct. 24, 1972, [86 Stat. 1073][/us/stat/86/1073], added item 970.
 
 ----------
 
@@ -192,11 +192,11 @@
 ----------
 ----------
 
-[/us/pl/104/132/s704/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs704%2Fb
+[/us/pl/104/132/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVII
 [/us/stat/110/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1295
-[/us/pl/101/647/s1207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1207%2Fa
+[/us/pl/101/647/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXII
 [/us/stat/104/4832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4832
-[/us/pl/92/539/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F539%2Fs402
+[/us/pl/92/539/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F539%2FtIV
 [/us/stat/86/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1073
 
 

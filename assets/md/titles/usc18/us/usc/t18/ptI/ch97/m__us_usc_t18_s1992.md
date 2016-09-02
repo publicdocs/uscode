@@ -109,15 +109,15 @@
 
         (16) the term “vehicle” means any carriage or other contrivance used, or capable of being used, as a means of transportation on land, on water, or through the air.
 
-(Added [Pub. L. 109–177, title I, § 110(a)][/us/pl/109/177/s110/a], Mar. 9, 2006, [120 Stat. 205][/us/stat/120/205]; amended [Pub. L. 110–53, title XV, § 1539][/us/pl/110/53/s1539], Aug. 3, 2007, [121 Stat. 468][/us/stat/121/468].)
+(Added [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 110(a), Mar. 9, 2006, [120 Stat. 205][/us/stat/120/205]; amended [Pub. L. 110–53, title XV][/us/pl/110/53/tXV], § 1539, Aug. 3, 2007, [121 Stat. 468][/us/stat/121/468].)
 
  __References in Text__ 
 
-    [Section 5302 of title 49][/us/usc/t49/s5302], referred to in subsec. (d)(7), was amended generally by [Pub. L. 112–141, div. B, § 20004][/us/pl/112/141/s20004], July 6, 2012, [126 Stat. 623][/us/stat/126/623], and, as so amended, no longer defines the term “mass transportation”.
+    [Section 5302 of title 49][/us/usc/t49/s5302], referred to in subsec. (d)(7), was amended generally by [Pub. L. 112–141, div. B][/us/pl/112/141/dB], § 20004, July 6, 2012, [126 Stat. 623][/us/stat/126/623], and, as so amended, no longer defines the term “mass transportation”.
 
  __Prior Provisions__ 
 
-    A prior section 1992, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 794][/us/stat/62/794]; [Pub. L. 103–322, title VI, § 60003(a)(8)][/us/pl/103/322/s60003/a/8], title XXXIII, § 330016(1)(L), Sept. 13, 1994, [108 Stat. 1969][/us/stat/108/1969], 2147; [Pub. L. 104–88, title IV, § 402(b)][/us/pl/104/88/s402/b], Dec. 29, 1995, [109 Stat. 955][/us/stat/109/955]; [Pub. L. 107–56, title VIII, § 811(e)][/us/pl/107/56/s811/e], Oct. 26, 2001, [115 Stat. 381][/us/stat/115/381]; [Pub. L. 107–273, div. B, title IV, § 4002(a)(6)][/us/pl/107/273/s4002/a/6], Nov. 2, 2002, [116 Stat. 1807][/us/stat/116/1807], related to penalties for wrecking a train used by a railroad in interstate or foreign commerce, prior to repeal by [Pub. L. 109–177, title I, § 110(a)][/us/pl/109/177/s110/a], Mar. 9, 2006, [120 Stat. 205][/us/stat/120/205].
+    A prior section 1992, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 794][/us/stat/62/794]; [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60003(a)(8), title XXXIII, § 330016(1)(L), Sept. 13, 1994, [108 Stat. 1969][/us/stat/108/1969], 2147; [Pub. L. 104–88, title IV][/us/pl/104/88/tIV], § 402(b), Dec. 29, 1995, [109 Stat. 955][/us/stat/109/955]; [Pub. L. 107–56, title VIII][/us/pl/107/56/tVIII], § 811(e), Oct. 26, 2001, [115 Stat. 381][/us/stat/115/381]; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(a)(6), Nov. 2, 2002, [116 Stat. 1807][/us/stat/116/1807], related to penalties for wrecking a train used by a railroad in interstate or foreign commerce, prior to repeal by [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 110(a), Mar. 9, 2006, [120 Stat. 205][/us/stat/120/205].
 
  __Amendments__ 
 
@@ -133,24 +133,24 @@
 [/us/usc/t42/s10101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10101%2F12
 [/us/usc/t46/s2101/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101%2F22
 [/us/usc/t42/s10101/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10101%2F23
-[/us/pl/109/177/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs110%2Fa
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F205
-[/us/pl/110/53/s1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1539
+[/us/pl/110/53/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXV
 [/us/stat/121/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F468
 [/us/usc/t49/s5302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5302
-[/us/pl/112/141/s20004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20004
+[/us/pl/112/141/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdB
 [/us/stat/126/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F623
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F794
-[/us/pl/103/322/s60003/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60003%2Fa%2F8
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1969
-[/us/pl/104/88/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs402%2Fb
+[/us/pl/104/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIV
 [/us/stat/109/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F955
-[/us/pl/107/56/s811/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs811%2Fe
+[/us/pl/107/56/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtVIII
 [/us/stat/115/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F381
-[/us/pl/107/273/s4002/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fa%2F6
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1807
-[/us/pl/109/177/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs110%2Fa
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F205
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 

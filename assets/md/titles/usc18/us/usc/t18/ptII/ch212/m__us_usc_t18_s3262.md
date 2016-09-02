@@ -19,7 +19,7 @@
 
     (b) Except as provided in sections 3263 and 3264, a person arrested under subsection (a) shall be delivered as soon as practicable to the custody of civilian law enforcement authorities of the United States for removal to the United States for judicial proceedings in relation to conduct referred to in such subsection unless such person has had charges brought against him or her under chapter 47 of title 10 for such conduct.
 
-(Added [Pub. L. 106–523, § 2(a)][/us/pl/106/523/s2/a], Nov. 22, 2000, [114 Stat. 2489][/us/stat/114/2489].)
+(Added [Pub. L. 106–523][/us/pl/106/523], § 2(a), Nov. 22, 2000, [114 Stat. 2489][/us/stat/114/2489].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/106/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F523%2Fs2%2Fa
+[/us/pl/106/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F523
 [/us/stat/114/2489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2489
 
 

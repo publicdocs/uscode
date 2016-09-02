@@ -57,13 +57,13 @@
 
         (3) the conduct described in such subsections took place in any territory or possession of the United States.
 
-(Added [Pub. L. 100–690, title VII, § 7512(a)][/us/pl/100/690/s7512/a], Nov. 18, 1988, [102 Stat. 4486][/us/stat/102/4486]; amended [Pub. L. 108–21, title I, § 103(b)(1)(B)][/us/pl/108/21/s103/b/1/B], Apr. 30, 2003, [117 Stat. 653][/us/stat/117/653]; [Pub. L. 110–358, title I, § 103(a)(2)][/us/pl/110/358/s103/a/2], (b), Oct. 8, 2008, [122 Stat. 4002][/us/stat/122/4002], 4003.)
+(Added [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7512(a), Nov. 18, 1988, [102 Stat. 4486][/us/stat/102/4486]; amended [Pub. L. 108–21, title I][/us/pl/108/21/tI], § 103(b)(1)(B), Apr. 30, 2003, [117 Stat. 653][/us/stat/117/653]; [Pub. L. 110–358, title I][/us/pl/110/358/tI], § 103(a)(2), (b), Oct. 8, 2008, [122 Stat. 4002][/us/stat/122/4002], 4003.)
 
  __Amendments__ 
 
-    2008—Subsec. (c). [Pub. L. 110–358, § 103(b)][/us/pl/110/358/s103/b], substituted “in or affecting interstate” for “in interstate” in pars. (1) and (2).
+    2008—Subsec. (c). [Pub. L. 110–358][/us/pl/110/358], § 103(b), substituted “in or affecting interstate” for “in interstate” in pars. (1) and (2).
 
-    Subsec. (c)(2). [Pub. L. 110–358, § 103(a)(2)][/us/pl/110/358/s103/a/2], inserted “using any means or facility of interstate or foreign commerce or” after “or transported”.
+    Subsec. (c)(2). [Pub. L. 110–358][/us/pl/110/358], § 103(a)(2), inserted “using any means or facility of interstate or foreign commerce or” after “or transported”.
 
     2003—Subsecs. (a), (b). [Pub. L. 108–21][/us/pl/108/21] substituted “30 years” for “20 years” in concluding provisions.
 
@@ -74,14 +74,14 @@
 ----------
 ----------
 
-[/us/pl/100/690/s7512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7512%2Fa
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4486
-[/us/pl/108/21/s103/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs103%2Fb%2F1%2FB
+[/us/pl/108/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtI
 [/us/stat/117/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F653
-[/us/pl/110/358/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F358%2Fs103%2Fa%2F2
+[/us/pl/110/358/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F358%2FtI
 [/us/stat/122/4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4002
-[/us/pl/110/358/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F358%2Fs103%2Fb
-[/us/pl/110/358/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F358%2Fs103%2Fa%2F2
+[/us/pl/110/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F358
+[/us/pl/110/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F358
 [/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
 
 

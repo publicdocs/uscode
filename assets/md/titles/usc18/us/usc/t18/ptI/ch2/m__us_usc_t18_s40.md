@@ -19,7 +19,7 @@
 
     (b) A driver of a commercial motor vehicle, as defined in subsection (a), who knowingly fails to stop for inspection when directed to do so by an authorized employee of the Administration at or in the vicinity of an inspection site, or leaves the inspection site without authorization, shall be fined under this title or imprisoned not more than 1 year, or both.
 
-(Added [Pub. L. 109–59, title IV, § 4143(a)][/us/pl/109/59/s4143/a], Aug. 10, 2005, [119 Stat. 1747][/us/stat/119/1747], § 39; renumbered § 40, [Pub. L. 110–244, title III, § 301(j)][/us/pl/110/244/s301/j], June 6, 2008, [122 Stat. 1616][/us/stat/122/1616].)
+(Added [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4143(a), Aug. 10, 2005, [119 Stat. 1747][/us/stat/119/1747], § 39; renumbered § 40, [Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 301(j), June 6, 2008, [122 Stat. 1616][/us/stat/122/1616].)
 
  __Amendments__ 
 
@@ -33,9 +33,9 @@
 ----------
 
 [/us/usc/t49/s31132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31132
-[/us/pl/109/59/s4143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4143%2Fa
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1747
-[/us/pl/110/244/s301/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fj
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1616
 [/us/pl/110/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244
 [/us/usc/t18/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs39

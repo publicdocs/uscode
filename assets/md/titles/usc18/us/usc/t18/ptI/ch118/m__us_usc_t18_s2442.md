@@ -57,7 +57,7 @@
 
         The term “armed force or group” means any army, militia, or other military organization, whether or not it is state-sponsored, excluding any group assembled solely for nonviolent political association.
 
-(Added [Pub. L. 110–340, § 2(a)(1)][/us/pl/110/340/s2/a/1], Oct. 3, 2008, [122 Stat. 3735][/us/stat/122/3735].)
+(Added [Pub. L. 110–340][/us/pl/110/340], § 2(a)(1), Oct. 3, 2008, [122 Stat. 3735][/us/stat/122/3735].)
 
 ----------
 
@@ -68,7 +68,7 @@
 
 [/us/usc/t8/s1101/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F22
 [/us/usc/t8/s1101/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F20
-[/us/pl/110/340/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F340%2Fs2%2Fa%2F1
+[/us/pl/110/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F340
 [/us/stat/122/3735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3735
 
 

@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–690, title VII][/us/pl/100/690], §§ 7068, 7092(c), Nov. 18, 1988, [102 Stat. 4405][/us/stat/102/4405], 4411, substituted “trap and trace” for “trap or trace” in item 3123, added item 3125, and redesignated former items 3125 and 3126 as 3126 and 3127, respectively.
+    1988—[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], §§ 7068, 7092(c), Nov. 18, 1988, [102 Stat. 4405][/us/stat/102/4405], 4411, substituted “trap and trace” for “trap or trace” in item 3123, added item 3125, and redesignated former items 3125 and 3126 as 3126 and 3127, respectively.
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4405
 
 

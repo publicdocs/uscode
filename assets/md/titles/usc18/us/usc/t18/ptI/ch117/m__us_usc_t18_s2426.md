@@ -33,7 +33,7 @@
 
         (2) the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Added [Pub. L. 105–314, title I, § 104(a)][/us/pl/105/314/s104/a], Oct. 30, 1998, [112 Stat. 2976][/us/stat/112/2976]; amended [Pub. L. 108–21, title I, § 106(b)][/us/pl/108/21/s106/b], Apr. 30, 2003, [117 Stat. 655][/us/stat/117/655]; [Pub. L. 110–457, title II, § 224(c)][/us/pl/110/457/s224/c], Dec. 23, 2008, [122 Stat. 5072][/us/stat/122/5072].)
+(Added [Pub. L. 105–314, title I][/us/pl/105/314/tI], § 104(a), Oct. 30, 1998, [112 Stat. 2976][/us/stat/112/2976]; amended [Pub. L. 108–21, title I][/us/pl/108/21/tI], § 106(b), Apr. 30, 2003, [117 Stat. 655][/us/stat/117/655]; [Pub. L. 110–457, title II][/us/pl/110/457/tII], § 224(c), Dec. 23, 2008, [122 Stat. 5072][/us/stat/122/5072].)
 
  __Amendments__ 
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/pl/105/314/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2Fs104%2Fa
+[/us/pl/105/314/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2FtI
 [/us/stat/112/2976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2976
-[/us/pl/108/21/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs106%2Fb
+[/us/pl/108/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtI
 [/us/stat/117/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F655
-[/us/pl/110/457/s224/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs224%2Fc
+[/us/pl/110/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2FtII
 [/us/stat/122/5072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5072
 [/us/pl/110/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457
 [/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21

@@ -19,11 +19,11 @@
 
     This section shall not prohibit or make unlawful any act by any officer or employee of any educational or research institution, establishment, agency, or system which is supported in whole or in part by any state or political subdivision thereof, or by the District of Columbia or by any Territory or Possession of the United States; or by any recognized religious, philanthropic or cultural organization.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 720][/us/stat/62/720]; [Pub. L. 91–405, title II, § 204(d)(6)][/us/pl/91/405/s204/d/6], Sept. 22, 1970, [84 Stat. 853][/us/stat/84/853]; [Pub. L. 103–322, title XXXIII, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], (L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 720][/us/stat/62/720]; [Pub. L. 91–405, title II][/us/pl/91/405/tII], § 204(d)(6), Sept. 22, 1970, [84 Stat. 853][/us/stat/84/853]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(H), (L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., §§ 61a, 61g, 61n, 61s, 61u (Aug. 2, 1939, 11:50 a.m., E.S.T., ch. 410, §§ 2, 8, [53 Stat. 1147][/us/stat/53/1147], 1148; [July 19, 1940, ch. 640, § 1][/us/act/1940-07-19/ch640/s1], [54 Stat. 767][/us/stat/54/767]; [Aug. 2, 1939, ch. 410][/us/act/1939-08-02/ch410], §§ 14, 19, as added [July 19, 1940, ch. 640, § 4][/us/act/1940-07-19/ch640/s4], [54 Stat. 767][/us/stat/54/767]; [Aug. 2, 1939, ch. 410, § 21][/us/act/1939-08-02/ch410/s21], as added [Oct. 24, 1942, ch. 620][/us/act/1942-10-24/ch620], [56 Stat. 986][/us/stat/56/986]).
+    Based on title 18, U.S.C., 1940 ed., §§ 61a, 61g, 61n, 61s, 61u (Aug. 2, 1939, 11:50 a.m., E.S.T., ch. 410, §§ 2, 8, [53 Stat. 1147][/us/stat/53/1147], 1148; [July 19, 1940, ch. 640][/us/act/1940-07-19/ch640], § 1, [54 Stat. 767][/us/stat/54/767]; [Aug. 2, 1939, ch. 410][/us/act/1939-08-02/ch410], §§ 14, 19, as added [July 19, 1940, ch. 640][/us/act/1940-07-19/ch640], § 4, [54 Stat. 767][/us/stat/54/767]; [Aug. 2, 1939, ch. 410][/us/act/1939-08-02/ch410], § 21, as added [Oct. 24, 1942, ch. 620][/us/act/1942-10-24/ch620], [56 Stat. 986][/us/stat/56/986]).
 
     This section consolidates sections 61s, 61n, and 61g with 61a, all of title 18, U.S.C., 1940 ed., in first paragraph, and incorporates section 61u as second paragraph.
 
@@ -41,9 +41,9 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–322, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], which directed the amendment of this section by substituting “under this title” for “not more than $10,000”, could not be executed because the phrase “not more than $10,000” does not appear in text.
+    1994—[Pub. L. 103–322][/us/pl/103/322], § 330016(1)(L), which directed the amendment of this section by substituting “under this title” for “not more than $10,000”, could not be executed because the phrase “not more than $10,000” does not appear in text.
 
-    [Pub. L. 103–322, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], substituted “fined under this title” for “fined not more than $1,000” in first par.
+    [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” in first par.
 
     1970—[Pub. L. 91–405][/us/pl/91/405] substituted reference to Delegate from District of Columbia or Resident Commissioner for Delegate or Resident Commissioner from any Territory or Possession.
 
@@ -60,17 +60,17 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F720
-[/us/pl/91/405/s204/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405%2Fs204%2Fd%2F6
+[/us/pl/91/405/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405%2FtII
 [/us/stat/84/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F853
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/stat/53/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1147
-[/us/act/1940-07-19/ch640/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-19%2Fch640%2Fs1
+[/us/act/1940-07-19/ch640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-19%2Fch640
 [/us/stat/54/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F767
 [/us/act/1939-08-02/ch410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-02%2Fch410
-[/us/act/1940-07-19/ch640/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-19%2Fch640%2Fs4
+[/us/act/1940-07-19/ch640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-19%2Fch640
 [/us/stat/54/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F767
-[/us/act/1939-08-02/ch410/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-02%2Fch410%2Fs21
+[/us/act/1939-08-02/ch410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-02%2Fch410
 [/us/act/1942-10-24/ch620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-24%2Fch620
 [/us/stat/56/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F986
 [/us/usc/t18/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs6
@@ -78,8 +78,8 @@
 [/us/usc/t18/s61s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs61s
 [/us/usc/t18/s61g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs61g
 [/us/usc/t18/s61u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs61u
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/91/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405
 [/us/pl/91/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405
 [/us/pl/91/405/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405%2Fs206%2Fb

@@ -27,7 +27,7 @@
 
     As used in this section, the term “victim” includes all persons defined as victims in section 503(e)(2) of the Victims’ Rights and Restitution Act of 1990.
 
-(Added [Pub. L. 105–6, § 2(a)][/us/pl/105/6/s2/a], Mar. 19, 1997, [111 Stat. 12][/us/stat/111/12].)
+(Added [Pub. L. 105–6][/us/pl/105/6], § 2(a), Mar. 19, 1997, [111 Stat. 12][/us/stat/111/12].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 105–6, § 2(d)][/us/pl/105/6/s2/d], Mar. 19, 1997, [111 Stat. 13][/us/stat/111/13], provided that: 
+[Pub. L. 105–6][/us/pl/105/6], § 2(d), Mar. 19, 1997, [111 Stat. 13][/us/stat/111/13], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 3593 of this title][/us/usc/t18/s3593]\] shall apply in cases pending on the date of the enactment of this Act \[Mar. 19, 1997\].”
 
@@ -46,10 +46,10 @@
 ----------
 ----------
 
-[/us/pl/105/6/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F6%2Fs2%2Fa
+[/us/pl/105/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F6
 [/us/stat/111/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F12
 [/us/usc/t42/s10607/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10607%2Fe%2F2
-[/us/pl/105/6/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F6%2Fs2%2Fd
+[/us/pl/105/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F6
 [/us/stat/111/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F13
 [/us/usc/t18/s3593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3593
 

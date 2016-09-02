@@ -23,11 +23,11 @@
 
     A person who receives, possesses, conceals, or disposes of any money or other property that has been obtained in violation of this section, knowing the same to have been unlawfully obtained, shall be imprisoned not more than 10 years, fined under this title, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 797][/us/stat/62/797]; [Pub. L. 98–473, title II, § 223(d)][/us/pl/98/473/s223/d], Oct. 12, 1984, [98 Stat. 2028][/us/stat/98/2028]; [Pub. L. 101–647, title XXXV, § 3562][/us/pl/101/647/s3562], Nov. 29, 1990, [104 Stat. 4927][/us/stat/104/4927]; [Pub. L. 103–322, title XXXII][/us/pl/103/322], §§ 320602, 320903(a)(3), Sept. 13, 1994, [108 Stat. 2115][/us/stat/108/2115], 2124; [Pub. L. 104–294, title VI, § 604(b)(17)][/us/pl/104/294/s604/b/17], Oct. 11, 1996, [110 Stat. 3507][/us/stat/110/3507].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 797][/us/stat/62/797]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 223(d), Oct. 12, 1984, [98 Stat. 2028][/us/stat/98/2028]; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3562, Nov. 29, 1990, [104 Stat. 4927][/us/stat/104/4927]; [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], §§ 320602, 320903(a)(3), Sept. 13, 1994, [108 Stat. 2115][/us/stat/108/2115], 2124; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(17), Oct. 11, 1996, [110 Stat. 3507][/us/stat/110/3507].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 320 ([Mar. 4, 1909, ch. 321, § 197][/us/act/1909-03-04/ch321/s197], [35 Stat. 1126][/us/stat/35/1126]; [Aug. 26, 1935, ch. 694][/us/act/1935-08-26/ch694], [49 Stat. 867][/us/stat/49/867]).
+    Based on title 18, U.S.C., 1940 ed., § 320 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 197, [35 Stat. 1126][/us/stat/35/1126]; [Aug. 26, 1935, ch. 694][/us/act/1935-08-26/ch694], [49 Stat. 867][/us/stat/49/867]).
 
     The attention of Congress is directed to the mandatory minimum punishment provisions of sections 2113(e) and 2114 of this title. These were left unchanged because of the controversial question involved. Such legislative attempts to control the discretion of the sentencing judge are contrary to the opinions of experienced criminologists and criminal law experts. They are calculated to work manifest injustice in many cases.
 
@@ -35,11 +35,11 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–294][/us/pl/104/294] amended [Pub. L. 103–322, § 320602][/us/pl/103/322/s320602]. See 1994 Amendment note below.
+    1996—[Pub. L. 104–294][/us/pl/104/294] amended [Pub. L. 103–322][/us/pl/103/322], § 320602. See 1994 Amendment note below.
 
-    1994—[Pub. L. 103–322, § 320903(a)(3)][/us/pl/103/322/s320903/a/3], inserted “or attempts to rob” after “robs” in subsec. (a).
+    1994—[Pub. L. 103–322][/us/pl/103/322], § 320903(a)(3), inserted “or attempts to rob” after “robs” in subsec. (a).
 
-    [Pub. L. 103–322, § 320602][/us/pl/103/322/s320602], as amended by [Pub. L. 104–294, § 604(b)(17)][/us/pl/104/294/s604/b/17], designated existing provisions as subsec. (a), inserted heading, substituted “A person who” for “Whoever”, and added subsec. (b).
+    [Pub. L. 103–322][/us/pl/103/322], § 320602, as amended by [Pub. L. 104–294][/us/pl/104/294], § 604(b)(17), designated existing provisions as subsec. (a), inserted heading, substituted “A person who” for “Whoever”, and added subsec. (b).
 
     1990—[Pub. L. 101–647][/us/pl/101/647] inserted a comma after “money” in section catchline.
 
@@ -62,23 +62,23 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F797
-[/us/pl/98/473/s223/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs223%2Fd
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2028
-[/us/pl/101/647/s3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3562
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4927
-[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2115
-[/us/pl/104/294/s604/b/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F17
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3507
-[/us/act/1909-03-04/ch321/s197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs197
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1126
 [/us/act/1935-08-26/ch694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch694
 [/us/stat/49/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F867
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
-[/us/pl/103/322/s320602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320602
-[/us/pl/103/322/s320903/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320903%2Fa%2F3
-[/us/pl/103/322/s320602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320602
-[/us/pl/104/294/s604/b/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F17
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294

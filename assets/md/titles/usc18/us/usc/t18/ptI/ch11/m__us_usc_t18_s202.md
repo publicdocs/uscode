@@ -45,7 +45,7 @@
 
             (B) the Office of the Architect of the Capitol, the United States Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, the United States Capitol Police, and any other agency, entity, office, or commission established in the legislative branch.
 
-(Added [Pub. L. 87–849, § 1(a)][/us/pl/87/849/s1/a], Oct. 23, 1962, [76 Stat. 1121][/us/stat/76/1121]; amended [Pub. L. 90–578, title III, § 301(b)][/us/pl/90/578/s301/b], Oct. 17, 1968, [82 Stat. 1115][/us/stat/82/1115]; [Pub. L. 100–191, § 3(a)][/us/pl/100/191/s3/a], Dec. 15, 1987, [101 Stat. 1306][/us/stat/101/1306]; [Pub. L. 101–194, title IV, § 401][/us/pl/101/194/s401], Nov. 30, 1989, [103 Stat. 1747][/us/stat/103/1747]; [Pub. L. 101–280, § 5(a)][/us/pl/101/280/s5/a], May 4, 1990, [104 Stat. 158][/us/stat/104/158]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 103–337, div. A, title IX, § 924(d)(1)(B)][/us/pl/103/337/s924/d/1/B], Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+(Added [Pub. L. 87–849][/us/pl/87/849], § 1(a), Oct. 23, 1962, [76 Stat. 1121][/us/stat/76/1121]; amended [Pub. L. 90–578, title III][/us/pl/90/578/tIII], § 301(b), Oct. 17, 1968, [82 Stat. 1115][/us/stat/82/1115]; [Pub. L. 100–191][/us/pl/100/191], § 3(a), Dec. 15, 1987, [101 Stat. 1306][/us/stat/101/1306]; [Pub. L. 101–194, title IV][/us/pl/101/194/tIV], § 401, Nov. 30, 1989, [103 Stat. 1747][/us/stat/103/1747]; [Pub. L. 101–280][/us/pl/101/280], § 5(a), May 4, 1990, [104 Stat. 158][/us/stat/104/158]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 924(d)(1)(B), Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -63,15 +63,15 @@
 
     1992—Subsec. (e)(2). [Pub. L. 102–572][/us/pl/102/572] substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-    1990—Subsec. (c). [Pub. L. 101–280, § 5(a)(1)][/us/pl/101/280/s5/a/1], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Except as otherwise provided in such sections, the terms ‘officer’ and ‘employee’ in sections 203, 205, 207, 208, and 209 of this title, mean those individuals defined in sections 2104 and 2105 of title 5. The terms ‘officer’ and ‘employee’ shall not include the President, the Vice President, a Member of Congress, or a Federal judge.”
+    1990—Subsec. (c). [Pub. L. 101–280][/us/pl/101/280], § 5(a)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Except as otherwise provided in such sections, the terms ‘officer’ and ‘employee’ in sections 203, 205, 207, 208, and 209 of this title, mean those individuals defined in sections 2104 and 2105 of title 5. The terms ‘officer’ and ‘employee’ shall not include the President, the Vice President, a Member of Congress, or a Federal judge.”
 
-    Subsec. (d). [Pub. L. 101–280, § 5(a)(2)][/us/pl/101/280/s5/a/2], substituted “means” for “shall include”.
+    Subsec. (d). [Pub. L. 101–280][/us/pl/101/280], § 5(a)(2), substituted “means” for “shall include”.
 
-    Subsec. (e)(1). [Pub. L. 101–280, § 5(a)(3)(1)][/us/pl/101/280/s5/a/3/1], substituted “includes each” for “means any”.
+    Subsec. (e)(1). [Pub. L. 101–280][/us/pl/101/280], § 5(a)(3)(1), substituted “includes each” for “means any”.
 
-    Subsec. (e)(3)(A). [Pub. L. 101–280, § 5(a)(3)(2)(A)][/us/pl/101/280/s5/a/3/2/A], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a Member of Congress, or any officer or employee of the United States Senate or United States House of Representatives; and”.
+    Subsec. (e)(3)(A). [Pub. L. 101–280][/us/pl/101/280], § 5(a)(3)(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a Member of Congress, or any officer or employee of the United States Senate or United States House of Representatives; and”.
 
-    Subsec. (e)(3)(B). [Pub. L. 101–280, § 5(a)(3)(2)(B)][/us/pl/101/280/s5/a/3/2/B], substituted “the Office” for “an officer or employee”.
+    Subsec. (e)(3)(B). [Pub. L. 101–280][/us/pl/101/280], § 5(a)(3)(2)(B), substituted “the Office” for “an officer or employee”.
 
     1989—Subsecs. (c) to (e). [Pub. L. 101–194][/us/pl/101/194] added subsecs. (c) to (e).
 
@@ -111,25 +111,25 @@
 [/us/usc/t28/s594/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs594%2Fc
 [/us/stat/70A/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F632
 [/us/usc/t5/s30r/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs30r%2Fc
-[/us/pl/87/849/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs1%2Fa
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1121
-[/us/pl/90/578/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs301%2Fb
+[/us/pl/90/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtIII
 [/us/stat/82/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1115
-[/us/pl/100/191/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191%2Fs3%2Fa
+[/us/pl/100/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191
 [/us/stat/101/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1306
-[/us/pl/101/194/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs401
+[/us/pl/101/194/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtIV
 [/us/stat/103/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1747
-[/us/pl/101/280/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs5%2Fa
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F158
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/103/337/s924/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs924%2Fd%2F1%2FB
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2832
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/stat/70A/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F632
 [/us/usc/t5/s30r/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs30r%2Fc
@@ -141,11 +141,11 @@
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
-[/us/pl/101/280/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs5%2Fa%2F1
-[/us/pl/101/280/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs5%2Fa%2F2
-[/us/pl/101/280/s5/a/3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs5%2Fa%2F3%2F1
-[/us/pl/101/280/s5/a/3/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs5%2Fa%2F3%2F2%2FA
-[/us/pl/101/280/s5/a/3/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs5%2Fa%2F3%2F2%2FB
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/100/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191
 [/us/usc/t28/s594/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs594%2Fc

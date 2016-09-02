@@ -31,7 +31,7 @@
 
     (e) Not later than 1 year after the date of the enactment of this section, the Attorney General shall issue rules to implement this section. Such rules shall require that the results of any test are communicated only to the person tested, and, if the results of the test indicate the presence of the virus, to correctional facility personnel consistent with guidelines issued by the Bureau of Prisons. Such rules shall also provide for procedures designed to protect the privacy of a person requesting that the test be performed and the privacy of the person tested.
 
-(Added [Pub. L. 105–370, § 2(a)][/us/pl/105/370/s2/a], Nov. 12, 1998, [112 Stat. 3374][/us/stat/112/3374].)
+(Added [Pub. L. 105–370][/us/pl/105/370], § 2(a), Nov. 12, 1998, [112 Stat. 3374][/us/stat/112/3374].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/105/370/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F370%2Fs2%2Fa
+[/us/pl/105/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F370
 [/us/stat/112/3374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3374
 [/us/pl/105/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F370
 

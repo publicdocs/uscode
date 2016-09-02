@@ -33,7 +33,7 @@
 
     (8) The term “State” includes a State of the United States, and any commonwealth, territory, or possession of the United States.
 
-(Added [Pub. L. 90–284, title X, § 1002(a)][/us/pl/90/284/s1002/a], Apr. 11, 1968, [82 Stat. 91][/us/stat/82/91]; amended [Pub. L. 101–647, title XII, § 1205(a)][/us/pl/101/647/s1205/a], Nov. 29, 1990, [104 Stat. 4830][/us/stat/104/4830]; [Pub. L. 102–484, div. A, title X, § 1051(b)(1)][/us/pl/102/484/s1051/b/1], Oct. 23, 1992, [106 Stat. 2498][/us/stat/106/2498].)
+(Added [Pub. L. 90–284, title X][/us/pl/90/284/tX], § 1002(a), Apr. 11, 1968, [82 Stat. 91][/us/stat/82/91]; amended [Pub. L. 101–647, title XII][/us/pl/101/647/tXII], § 1205(a), Nov. 29, 1990, [104 Stat. 4830][/us/stat/104/4830]; [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1051(b)(1), Oct. 23, 1992, [106 Stat. 2498][/us/stat/106/2498].)
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/90/284/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2Fs1002%2Fa
+[/us/pl/90/284/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284%2FtX
 [/us/stat/82/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F91
-[/us/pl/101/647/s1205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1205%2Fa
+[/us/pl/101/647/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXII
 [/us/stat/104/4830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4830
-[/us/pl/102/484/s1051/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1051%2Fb%2F1
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2498
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101

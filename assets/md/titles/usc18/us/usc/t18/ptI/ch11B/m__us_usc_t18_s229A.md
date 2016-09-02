@@ -39,7 +39,7 @@
 
     The court shall order any person convicted of an offense under subsection (a) to reimburse the United States for any expenses incurred by the United States incident to the seizure, storage, handling, transportation, and destruction or other disposition of any property that was seized in connection with an investigation of the commission of the offense by that person. A person ordered to reimburse the United States for expenses under this subsection shall be jointly and severally liable for such expenses with each other person, if any, who is ordered under this subsection to reimburse the United States for the same expenses.
 
-(Added [Pub. L. 105–277, div. I, title II, § 201(a)][/us/pl/105/277/s201/a], Oct. 21, 1998, [112 Stat. 2681–867][/us/stat/112/2681-867].)
+(Added [Pub. L. 105–277, div. I, title II][/us/pl/105/277/dI/tII], § 201(a), Oct. 21, 1998, [112 Stat. 2681–867][/us/stat/112/2681-867].)
 
 ----------
 
@@ -51,7 +51,7 @@
 [/us/usc/t18/s229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs229
 [/us/usc/t18/s229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs229
 [/us/usc/t18/s229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs229
-[/us/pl/105/277/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs201%2Fa
+[/us/pl/105/277/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtII
 [/us/stat/112/2681-867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-867
 
 

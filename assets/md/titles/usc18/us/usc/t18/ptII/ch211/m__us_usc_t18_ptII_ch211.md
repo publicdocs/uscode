@@ -139,11 +139,11 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–322, title XXXII, § 320909(b)][/us/pl/103/322/s320909/b], Sept. 13, 1994, [108 Stat. 2127][/us/stat/108/2127], added item 3239.
+    1994—[Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320909(b), Sept. 13, 1994, [108 Stat. 2127][/us/stat/108/2127], added item 3239.
 
-    1984—[Pub. L. 98–473, title II, § 1204(b)][/us/pl/98/473/s1204/b], Oct. 12, 1984, [98 Stat. 2152][/us/stat/98/2152], struck out item 3239 “Threatening communications”.
+    1984—[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1204(b), Oct. 12, 1984, [98 Stat. 2152][/us/stat/98/2152], struck out item 3239 “Threatening communications”.
 
-    1978—[Pub. L. 95–598, title III, § 314(j)(2)][/us/pl/95/598/s314/j/2], Nov. 6, 1978, [92 Stat. 2678][/us/stat/92/2678], added item 3244.
+    1978—[Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 314(j)(2), Nov. 6, 1978, [92 Stat. 2678][/us/stat/92/2678], added item 3244.
 
 ----------
 
@@ -152,11 +152,11 @@
 ----------
 ----------
 
-[/us/pl/103/322/s320909/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320909%2Fb
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2127
-[/us/pl/98/473/s1204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1204%2Fb
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2152
-[/us/pl/95/598/s314/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs314%2Fj%2F2
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2678
 
 

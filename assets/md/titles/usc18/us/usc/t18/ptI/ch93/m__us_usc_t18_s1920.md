@@ -17,7 +17,7 @@
 
     Whoever knowingly and willfully falsifies, conceals, or covers up a material fact, or makes a false, fictitious, or fraudulent statement or representation, or makes or uses a false statement or report knowing the same to contain any false, fictitious, or fraudulent statement or entry in connection with the application for or receipt of compensation or other benefit or payment under subchapter I or III of chapter 81 of title 5, shall be guilty of perjury, and on conviction thereof shall be punished by a fine under this title, or by imprisonment for not more than 5 years, or both; but if the amount of the benefits falsely obtained does not exceed $1,000, such person shall be punished by a fine under this title, or by imprisonment for not more than 1 year, or both.
 
-(Added [Pub. L. 89–554, § 3(d)][/us/pl/89/554/s3/d], Sept. 6, 1966, [80 Stat. 610][/us/stat/80/610]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(I)][/us/pl/103/322/s330016/1/I], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 103–333, title I, § 101(b)(1)][/us/pl/103/333/s101/b/1], Sept. 30, 1994, [108 Stat. 2547][/us/stat/108/2547]; [Pub. L. 104–294, title VI, § 601(a)(10)][/us/pl/104/294/s601/a/10], Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498]; [Pub. L. 107–273, div. B, title IV, § 4002(f)(2)][/us/pl/107/273/s4002/f/2], Nov. 2, 2002, [116 Stat. 1811][/us/stat/116/1811].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 3(d), Sept. 6, 1966, [80 Stat. 610][/us/stat/80/610]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(I), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 103–333, title I][/us/pl/103/333/tI], § 101(b)(1), Sept. 30, 1994, [108 Stat. 2547][/us/stat/108/2547]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(a)(10), Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498]; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(f)(2), Nov. 2, 2002, [116 Stat. 1811][/us/stat/116/1811].)
 
 <table>
 
@@ -106,15 +106,15 @@ Oct. 14, 1949, ch. 691, § 103(b), 63 Stat. 855.  </td>
 ----------
 ----------
 
-[/us/pl/89/554/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs3%2Fd
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F610
-[/us/pl/103/322/s330016/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FI
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/103/333/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F333%2Fs101%2Fb%2F1
+[/us/pl/103/333/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F333%2FtI
 [/us/stat/108/2547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2547
-[/us/pl/104/294/s601/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fa%2F10
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3498
-[/us/pl/107/273/s4002/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Ff%2F2
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1811
 [/us/usc/t5/s8106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8106
 [/us/usc/t18/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs754

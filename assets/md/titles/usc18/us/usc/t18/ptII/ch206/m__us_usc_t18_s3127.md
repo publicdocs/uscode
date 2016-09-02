@@ -45,7 +45,7 @@
 
     (6) the term “State” means a State, the District of Columbia, Puerto Rico, and any other possession or territory of the United States.
 
-(Added [Pub. L. 99–508, title III, § 301(a)][/us/pl/99/508/s301/a], Oct. 21, 1986, [100 Stat. 1871][/us/stat/100/1871], § 3126; renumbered § 3127, [Pub. L. 100–690, title VII, § 7092(a)(1)][/us/pl/100/690/s7092/a/1], Nov. 18, 1988, [102 Stat. 4410][/us/stat/102/4410]; amended [Pub. L. 107–56, title II, § 216(c)(1)][/us/pl/107/56/s216/c/1]–(4), Oct. 26, 2001, [115 Stat. 290][/us/stat/115/290]; [Pub. L. 111–79, § 2(3)][/us/pl/111/79/s2/3], Oct. 19, 2009, [123 Stat. 2087][/us/stat/123/2087].)
+(Added [Pub. L. 99–508, title III][/us/pl/99/508/tIII], § 301(a), Oct. 21, 1986, [100 Stat. 1871][/us/stat/100/1871], § 3126; renumbered § 3127, [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7092(a)(1), Nov. 18, 1988, [102 Stat. 4410][/us/stat/102/4410]; amended [Pub. L. 107–56, title II][/us/pl/107/56/tII], § 216(c)(1)–(4), Oct. 26, 2001, [115 Stat. 290][/us/stat/115/290]; [Pub. L. 111–79][/us/pl/111/79], § 2(3), Oct. 19, 2009, [123 Stat. 2087][/us/stat/123/2087].)
 
  __References in Text__ 
 
@@ -55,13 +55,13 @@
 
     2009—Par. (2)(A). [Pub. L. 111–79][/us/pl/111/79] substituted “that—” and cls. (i) to (iv) for “having jurisdiction over the offense being investigated; or”.
 
-    2001—Par. (1). [Pub. L. 107–56, § 216(c)(4)][/us/pl/107/56/s216/c/4], struck out “and” after “ ‘electronic communication’,” and inserted “, and ‘contents’ ” after “ ‘electronic communication service’ ”.
+    2001—Par. (1). [Pub. L. 107–56][/us/pl/107/56], § 216(c)(4), struck out “and” after “ ‘electronic communication’,” and inserted “, and ‘contents’ ” after “ ‘electronic communication service’ ”.
 
-    Par. (2)(A). [Pub. L. 107–56, § 216(c)(1)][/us/pl/107/56/s216/c/1], added subpar. (A) and struck out former subpar. (A) which read as follows: “a district court of the United States (including a magistrate judge of such a court) or a United States Court of Appeals; or”.
+    Par. (2)(A). [Pub. L. 107–56][/us/pl/107/56], § 216(c)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “a district court of the United States (including a magistrate judge of such a court) or a United States Court of Appeals; or”.
 
-    Par. (3). [Pub. L. 107–56, § 216(c)(2)][/us/pl/107/56/s216/c/2], substituted “dialing, routing, addressing, or signaling information transmitted by an instrument or facility from which a wire or electronic communication is transmitted, provided, however, that such information shall not include the contents of any communication” for “electronic or other impulses which identify the numbers dialed or otherwise transmitted on the telephone line to which such device is attached” and inserted “or process” after “device” wherever appearing.
+    Par. (3). [Pub. L. 107–56][/us/pl/107/56], § 216(c)(2), substituted “dialing, routing, addressing, or signaling information transmitted by an instrument or facility from which a wire or electronic communication is transmitted, provided, however, that such information shall not include the contents of any communication” for “electronic or other impulses which identify the numbers dialed or otherwise transmitted on the telephone line to which such device is attached” and inserted “or process” after “device” wherever appearing.
 
-    Par. (4). [Pub. L. 107–56, § 216(c)(3)][/us/pl/107/56/s216/c/3], inserted “or process” after “means a device” and substituted “or other dialing, routing, addressing, and signaling information reasonably likely to identify the source of a wire or electronic communication, provided, however, that such information shall not include the contents of any communication;” for “of an instrument or device from which a wire or electronic communication was transmitted;”.
+    Par. (4). [Pub. L. 107–56][/us/pl/107/56], § 216(c)(3), inserted “or process” after “means a device” and substituted “or other dialing, routing, addressing, and signaling information reasonably likely to identify the source of a wire or electronic communication, provided, however, that such information shall not include the contents of any communication;” for “of an instrument or device from which a wire or electronic communication was transmitted;”.
 
     1988—[Pub. L. 100–690][/us/pl/100/690] renumbered [section 3126 of this title][/us/usc/t18/s3126] as this section.
 
@@ -75,19 +75,19 @@
 [/us/usc/t18/s2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2510
 [/us/usc/t18/s3124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3124
 [/us/usc/t18/s3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3512
-[/us/pl/99/508/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs301%2Fa
+[/us/pl/99/508/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtIII
 [/us/stat/100/1871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1871
-[/us/pl/100/690/s7092/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7092%2Fa%2F1
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4410
-[/us/pl/107/56/s216/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs216%2Fc%2F1
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F290
-[/us/pl/111/79/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F79%2Fs2%2F3
+[/us/pl/111/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F79
 [/us/stat/123/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2087
 [/us/pl/111/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F79
-[/us/pl/107/56/s216/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs216%2Fc%2F4
-[/us/pl/107/56/s216/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs216%2Fc%2F1
-[/us/pl/107/56/s216/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs216%2Fc%2F2
-[/us/pl/107/56/s216/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs216%2Fc%2F3
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t18/s3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3126
 

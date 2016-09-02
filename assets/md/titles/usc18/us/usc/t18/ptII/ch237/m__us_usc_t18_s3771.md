@@ -161,7 +161,7 @@
 
             (D) provide that the Attorney General, or the designee of the Attorney General, shall be the final arbiter of the complaint, and that there shall be no judicial review of the final decision of the Attorney General by a complainant.
 
-(Added [Pub. L. 108–405, title I, § 102(a)][/us/pl/108/405/s102/a], Oct. 30, 2004, [118 Stat. 2261][/us/stat/118/2261]; amended [Pub. L. 109–248, title II, § 212][/us/pl/109/248/s212], July 27, 2006, [120 Stat. 616][/us/stat/120/616]; [Pub. L. 111–16, § 3(12)][/us/pl/111/16/s3/12], May 7, 2009, [123 Stat. 1608][/us/stat/123/1608]; [Pub. L. 114–22, title I, § 113(a)][/us/pl/114/22/s113/a], (c)(1), May 29, 2015, [129 Stat. 240][/us/stat/129/240], 241.)
+(Added [Pub. L. 108–405, title I][/us/pl/108/405/tI], § 102(a), Oct. 30, 2004, [118 Stat. 2261][/us/stat/118/2261]; amended [Pub. L. 109–248, title II][/us/pl/109/248/tII], § 212, July 27, 2006, [120 Stat. 616][/us/stat/120/616]; [Pub. L. 111–16][/us/pl/111/16], § 3(12), May 7, 2009, [123 Stat. 1608][/us/stat/123/1608]; [Pub. L. 114–22, title I][/us/pl/114/22/tI], § 113(a), (c)(1), May 29, 2015, [129 Stat. 240][/us/stat/129/240], 241.)
 
  __References in Text__ 
 
@@ -171,19 +171,19 @@
 
  __Prior Provisions__ 
 
-    A prior section 3771, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 846][/us/stat/62/846]; [May 24, 1949, ch. 139, § 59][/us/act/1949-05-24/ch139/s59], [63 Stat. 98][/us/stat/63/98]; [May 10, 1950, ch. 174, § 1][/us/act/1950-05-10/ch174/s1], [64 Stat. 158][/us/stat/64/158]; July 7, 1958, [Pub. L. 85–508, § 12(k)][/us/pl/85/508/s12/k], [72 Stat. 348][/us/stat/72/348]; Mar. 18, 1959, [Pub. L. 86–3, § 14(g)][/us/pl/86/3/s14/g], [73 Stat. 11][/us/stat/73/11]; Oct. 17, 1968, [Pub. L. 90–578, title III, § 301(a)(2)][/us/pl/90/578/s301/a/2], [82 Stat. 1115][/us/stat/82/1115], related to procedure to and including verdict, prior to repeal by [Pub. L. 100–702, title IV][/us/pl/100/702], §§ 404(a), 407, Nov. 19, 1988, [102 Stat. 4651][/us/stat/102/4651], 4652, effective Dec. 1, 1988.
+    A prior section 3771, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 846][/us/stat/62/846]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 59, [63 Stat. 98][/us/stat/63/98]; [May 10, 1950, ch. 174][/us/act/1950-05-10/ch174], § 1, [64 Stat. 158][/us/stat/64/158]; July 7, 1958, [Pub. L. 85–508][/us/pl/85/508], § 12(k), [72 Stat. 348][/us/stat/72/348]; Mar. 18, 1959, [Pub. L. 86–3][/us/pl/86/3], § 14(g), [73 Stat. 11][/us/stat/73/11]; Oct. 17, 1968, [Pub. L. 90–578, title III][/us/pl/90/578/tIII], § 301(a)(2), [82 Stat. 1115][/us/stat/82/1115], related to procedure to and including verdict, prior to repeal by [Pub. L. 100–702, title IV][/us/pl/100/702/tIV], §§ 404(a), 407, Nov. 19, 1988, [102 Stat. 4651][/us/stat/102/4651], 4652, effective Dec. 1, 1988.
 
-    A prior section 3772, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 846][/us/stat/62/846]; [May 24, 1949, ch. 139, § 60][/us/act/1949-05-24/ch139/s60], [63 Stat. 98][/us/stat/63/98]; July 7, 1958, [Pub. L. 85–508, § 12][/us/pl/85/508/s12](l), [72 Stat. 348][/us/stat/72/348]; Mar. 18, 1959, [Pub. L. 86–3, § 14(h)][/us/pl/86/3/s14/h], [73 Stat. 11][/us/stat/73/11]; Oct. 12, 1984, [Pub. L. 98–473, title II, § 206][/us/pl/98/473/s206], [98 Stat. 1986][/us/stat/98/1986], related to procedure after verdict, prior to repeal by [Pub. L. 100–702, title IV][/us/pl/100/702], §§ 404(a), 407, Nov. 19, 1988, [102 Stat. 4651][/us/stat/102/4651], 4652, effective Dec. 1, 1988.
+    A prior section 3772, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 846][/us/stat/62/846]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 60, [63 Stat. 98][/us/stat/63/98]; July 7, 1958, [Pub. L. 85–508][/us/pl/85/508], § 12(l), [72 Stat. 348][/us/stat/72/348]; Mar. 18, 1959, [Pub. L. 86–3][/us/pl/86/3], § 14(h), [73 Stat. 11][/us/stat/73/11]; Oct. 12, 1984, [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 206, [98 Stat. 1986][/us/stat/98/1986], related to procedure after verdict, prior to repeal by [Pub. L. 100–702, title IV][/us/pl/100/702/tIV], §§ 404(a), 407, Nov. 19, 1988, [102 Stat. 4651][/us/stat/102/4651], 4652, effective Dec. 1, 1988.
 
  __Amendments__ 
 
-    2015—Subsec. (a)(9), (10). [Pub. L. 114–22, § 113(a)(1)][/us/pl/114/22/s113/a/1], added pars. (9) and (10).
+    2015—Subsec. (a)(9), (10). [Pub. L. 114–22][/us/pl/114/22], § 113(a)(1), added pars. (9) and (10).
 
-    Subsec. (d)(3). [Pub. L. 114–22, § 113(c)(1)][/us/pl/114/22/s113/c/1], inserted “In deciding such application, the court of appeals shall apply ordinary standards of appellate review.” before “In no event shall”.
+    Subsec. (d)(3). [Pub. L. 114–22][/us/pl/114/22], § 113(c)(1), inserted “In deciding such application, the court of appeals shall apply ordinary standards of appellate review.” before “In no event shall”.
 
-    [Pub. L. 114–22, § 113(a)(2)][/us/pl/114/22/s113/a/2], inserted “, unless the litigants, with the approval of the court, have stipulated to a different time period for consideration” after “after the petition has been filed”.
+    [Pub. L. 114–22][/us/pl/114/22], § 113(a)(2), inserted “, unless the litigants, with the approval of the court, have stipulated to a different time period for consideration” after “after the petition has been filed”.
 
-    Subsec. (e). [Pub. L. 114–22, § 113(a)(3)][/us/pl/114/22/s113/a/3], substituted “For the purposes of this chapter:” for “For the purposes of this chapter, the term”; designated remainder of existing provisions as par. (2) and inserted par. heading; in par. (2), inserted subpar. (A) designation, heading, and “The term” before “ ‘crime victim’ means” and inserted subpar. (B) designation and heading before “In the case”; and added pars. (1) and (3).
+    Subsec. (e). [Pub. L. 114–22][/us/pl/114/22], § 113(a)(3), substituted “For the purposes of this chapter:” for “For the purposes of this chapter, the term”; designated remainder of existing provisions as par. (2) and inserted par. heading; in par. (2), inserted subpar. (A) designation, heading, and “The term” before “ ‘crime victim’ means” and inserted subpar. (B) designation and heading before “In the case”; and added pars. (1) and (3).
 
     2009—Subsec. (d)(5)(B). [Pub. L. 111–16][/us/pl/111/16] substituted “14 days” for “10 days”.
 
@@ -191,7 +191,7 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–22, title I, § 113(c)(2)][/us/pl/114/22/s113/c/2], May 29, 2015, [129 Stat. 241][/us/stat/129/241], provided that: 
+[Pub. L. 114–22, title I][/us/pl/114/22/tI], § 113(c)(2), May 29, 2015, [129 Stat. 241][/us/stat/129/241], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any petition for a writ of mandamus filed under [section 3771(d)(3) of title 18][/us/usc/t18/s3771/d/3], United States Code, that is pending on the date of enactment of this Act \[May 29, 2015\].”
 
@@ -201,13 +201,13 @@
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–405, title I, § 101][/us/pl/108/405/s101], Oct. 30, 2004, [118 Stat. 2261][/us/stat/118/2261], provided that: 
+[Pub. L. 108–405, title I][/us/pl/108/405/tI], § 101, Oct. 30, 2004, [118 Stat. 2261][/us/stat/118/2261], provided that: 
 
 > “This title \[enacting this chapter and sections 10603d and 10603e of Title 42, The Public Health and Welfare, repealing [section 10606 of Title 42][/us/usc/t42/s10606], and enacting provisions set out as a note under this section\] may be cited as the ‘Scott Campbell, Stephanie Roper, Wendy Preston, Louarna Gillis, and Nila Lynn Crime Victims’ Rights Act’.”
 
  __Reports on Assertion of Crime Victims’ Rights in Criminal Cases__ 
 
-[Pub. L. 108–405, title I, § 104(a)][/us/pl/108/405/s104/a], Oct. 30, 2004, [118 Stat. 2265][/us/stat/118/2265], provided that: 
+[Pub. L. 108–405, title I][/us/pl/108/405/tI], § 104(a), Oct. 30, 2004, [118 Stat. 2265][/us/stat/118/2265], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Oct. 30, 2004\] and annually thereafter, the Administrative Office of the United States Courts, for each Federal court, shall report to Congress the number of times that a right established in chapter 237 of title 18, United States Code, is asserted in a criminal case and the relief requested is denied and, with respect to each such denial, the reason for such denial, as well as the number of times a mandamus action is brought pursuant to chapter 237 of title 18, and the result reached.”
 
@@ -219,57 +219,57 @@
 ----------
 
 [/us/usc/t42/s10607/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10607%2Fc
-[/us/pl/108/405/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs102%2Fa
+[/us/pl/108/405/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtI
 [/us/stat/118/2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2261
-[/us/pl/109/248/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs212
+[/us/pl/109/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtII
 [/us/stat/120/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F616
-[/us/pl/111/16/s3/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs3%2F12
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/stat/123/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1608
-[/us/pl/114/22/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs113%2Fa
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F240
 [/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F846
-[/us/act/1949-05-24/ch139/s59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs59
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F98
-[/us/act/1950-05-10/ch174/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch174%2Fs1
+[/us/act/1950-05-10/ch174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch174
 [/us/stat/64/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F158
-[/us/pl/85/508/s12/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs12%2Fk
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F348
-[/us/pl/86/3/s14/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3%2Fs14%2Fg
+[/us/pl/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3
 [/us/stat/73/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F11
-[/us/pl/90/578/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs301%2Fa%2F2
+[/us/pl/90/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtIII
 [/us/stat/82/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1115
-[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIV
 [/us/stat/102/4651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4651
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F846
-[/us/act/1949-05-24/ch139/s60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs60
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F98
-[/us/pl/85/508/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs12
+[/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F348
-[/us/pl/86/3/s14/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3%2Fs14%2Fh
+[/us/pl/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3
 [/us/stat/73/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F11
-[/us/pl/98/473/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs206
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1986
-[/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
+[/us/pl/100/702/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtIV
 [/us/stat/102/4651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4651
-[/us/pl/114/22/s113/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs113%2Fa%2F1
-[/us/pl/114/22/s113/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs113%2Fc%2F1
-[/us/pl/114/22/s113/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs113%2Fa%2F2
-[/us/pl/114/22/s113/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs113%2Fa%2F3
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
-[/us/pl/114/22/s113/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs113%2Fc%2F2
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F241
 [/us/usc/t18/s3771/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3771%2Fd%2F3
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/111/16/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs7
 [/us/usc/t11/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs109
-[/us/pl/108/405/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs101
+[/us/pl/108/405/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtI
 [/us/stat/118/2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2261
 [/us/usc/t42/s10606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10606
-[/us/pl/108/405/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs104%2Fa
+[/us/pl/108/405/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtI
 [/us/stat/118/2265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2265
 
 

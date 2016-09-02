@@ -17,11 +17,11 @@
 
     Whoever makes or presents to any person or officer in the civil, military, or naval service of the United States, or to any department or agency thereof, any claim upon or against the United States, or any department or agency thereof, knowing such claim to be false, fictitious, or fraudulent, shall be imprisoned not more than five years and shall be subject to a fine in the amount provided in this title.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 698][/us/stat/62/698]; [Pub. L. 99–562, § 7][/us/pl/99/562/s7], Oct. 27, 1986, [100 Stat. 3169][/us/stat/100/3169].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 698][/us/stat/62/698]; [Pub. L. 99–562][/us/pl/99/562], § 7, Oct. 27, 1986, [100 Stat. 3169][/us/stat/100/3169].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 80 ([Mar. 4, 1909, ch. 321, § 35][/us/act/1909-03-04/ch321/s35], [35 Stat. 1095][/us/stat/35/1095]; [Oct. 23, 1918, ch. 194][/us/act/1918-10-23/ch194], [40 Stat. 1015][/us/stat/40/1015]; [June 18, 1934, ch. 587][/us/act/1934-06-18/ch587], [48 Stat. 996][/us/stat/48/996]; [Apr. 4, 1938, ch. 69][/us/act/1938-04-04/ch69], [52 Stat. 197][/us/stat/52/197]).
+    Based on title 18, U.S.C., 1940 ed., § 80 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 35, [35 Stat. 1095][/us/stat/35/1095]; [Oct. 23, 1918, ch. 194][/us/act/1918-10-23/ch194], [40 Stat. 1015][/us/stat/40/1015]; [June 18, 1934, ch. 587][/us/act/1934-06-18/ch587], [48 Stat. 996][/us/stat/48/996]; [Apr. 4, 1938, ch. 69][/us/act/1938-04-04/ch69], [52 Stat. 197][/us/stat/52/197]).
 
     [Section 80 of title 18][/us/usc/t18/s80], U.S.C., 1940 ed., was divided into two parts. That portion making it a crime to present false claims was retained as this section. The part relating to false statements is now [section 1001 of this title][/us/usc/t18/s1001].
 
@@ -41,11 +41,11 @@
 
  __Increased Penalties for False Claims in Defense Procurement__ 
 
-[Pub. L. 99–145, title IX, § 931(a)][/us/pl/99/145/s931/a], Nov. 8, 1985, [99 Stat. 699][/us/stat/99/699], provided that: 
+[Pub. L. 99–145, title IX][/us/pl/99/145/tIX], § 931(a), Nov. 8, 1985, [99 Stat. 699][/us/stat/99/699], provided that: 
 
 > “Notwithstanding sections 287 and 3623 of title 18, United States Code, the maximum fine that may be imposed under such section for making or presenting any claim upon or against the United States related to a contract with the Department of Defense, knowing such claim to be false, fictitious, or fraudulent, is $1,000,000.”
 
-    \[[Pub. L. 99–145, title IX, § 931(c)][/us/pl/99/145/s931/c], Nov. 8, 1985, [99 Stat. 699][/us/stat/99/699], provided that section 931(a) is applicable to claims made or presented on or after Nov. 8, 1985.\]
+    \[[Pub. L. 99–145, title IX][/us/pl/99/145/tIX], § 931(c), Nov. 8, 1985, [99 Stat. 699][/us/stat/99/699], provided that section 931(a) is applicable to claims made or presented on or after Nov. 8, 1985.\]
 
 ----------
 
@@ -56,9 +56,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F698
-[/us/pl/99/562/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562%2Fs7
+[/us/pl/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562
 [/us/stat/100/3169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3169
-[/us/act/1909-03-04/ch321/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs35
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1095
 [/us/act/1918-10-23/ch194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-10-23%2Fch194
 [/us/stat/40/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1015
@@ -72,9 +72,9 @@
 [/us/usc/t18/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs6
 [/us/usc/t18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2
 [/us/pl/99/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F562
-[/us/pl/99/145/s931/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs931%2Fa
+[/us/pl/99/145/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtIX
 [/us/stat/99/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F699
-[/us/pl/99/145/s931/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs931%2Fc
+[/us/pl/99/145/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtIX
 [/us/stat/99/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F699
 
 

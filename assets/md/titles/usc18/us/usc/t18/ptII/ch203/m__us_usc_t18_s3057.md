@@ -19,13 +19,13 @@
 
     (b) The United States attorney thereupon shall inquire into the facts and report thereon to the judge, and if it appears probable that any such offense has been committed, shall without delay, present the matter to the grand jury, unless upon inquiry and examination he decides that the ends of public justice do not require investigation or prosecution, in which case he shall report the facts to the Attorney General for his direction.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 818][/us/stat/62/818]; [May 24, 1949, ch. 139, § 48][/us/act/1949-05-24/ch139/s48], [63 Stat. 96][/us/stat/63/96]; [Pub. L. 95–598, title III, § 314(i)][/us/pl/95/598/s314/i], Nov. 6, 1978, [92 Stat. 2677][/us/stat/92/2677].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 818][/us/stat/62/818]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 48, [63 Stat. 96][/us/stat/63/96]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 314(i), Nov. 6, 1978, [92 Stat. 2677][/us/stat/92/2677].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on section 52(e)(1), (2) of title 11, U.S.C., 1940 ed., Bankruptcy ([July 1, 1898, ch. 541, § 29e(1)][/us/act/1898-07-01/ch541/s29e/1], (2), as added by [May 27, 1926, ch. 406, § 11][/us/act/1926-05-27/ch406/s11], [44 Stat. 665][/us/stat/44/665], 666; [June 22, 1938, ch. 575, § 1][/us/act/1938-06-22/ch575/s1], [52 Stat. 840][/us/stat/52/840], 856).
+    Based on section 52(e)(1), (2) of title 11, U.S.C., 1940 ed., Bankruptcy ([July 1, 1898, ch. 541][/us/act/1898-07-01/ch541], § 29e(1), (2), as added by [May 27, 1926, ch. 406][/us/act/1926-05-27/ch406], § 11, [44 Stat. 665][/us/stat/44/665], 666; [June 22, 1938, ch. 575][/us/act/1938-06-22/ch575], § 1, [52 Stat. 840][/us/stat/52/840], 856).
 
     Remaining provisions of [section 52 of title 11][/us/usc/t11/s52], U.S.C., 1940 ed., Bankruptcy, constitute sections 151–154, and 3284 of this title.
 
@@ -39,9 +39,9 @@
 
  __Amendments__ 
 
-    1978—Subsec. (a). [Pub. L. 95–598, § 314(i)][/us/pl/95/598/s314/i], substituted “judge” for “referee” and “violation under chapter 9 of this title” for “violations of the bankruptcy laws”.
+    1978—Subsec. (a). [Pub. L. 95–598][/us/pl/95/598], § 314(i), substituted “judge” for “referee” and “violation under chapter 9 of this title” for “violations of the bankruptcy laws”.
 
-    Subsec. (b). [Pub. L. 95–598, § 314(i)(1)][/us/pl/95/598/s314/i/1], substituted “judge” for “referee”.
+    Subsec. (b). [Pub. L. 95–598][/us/pl/95/598], § 314(i)(1), substituted “judge” for “referee”.
 
     1949—Subsec. (a). Act May 24, 1949, substituted “or other laws of the United States” for “or laws”.
 
@@ -66,19 +66,19 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F818
-[/us/act/1949-05-24/ch139/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs48
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F96
-[/us/pl/95/598/s314/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs314%2Fi
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2677
-[/us/act/1898-07-01/ch541/s29e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch541%2Fs29e%2F1
-[/us/act/1926-05-27/ch406/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-27%2Fch406%2Fs11
+[/us/act/1898-07-01/ch541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch541
+[/us/act/1926-05-27/ch406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-27%2Fch406
 [/us/stat/44/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F665
-[/us/act/1938-06-22/ch575/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-22%2Fch575%2Fs1
+[/us/act/1938-06-22/ch575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-22%2Fch575
 [/us/stat/52/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F840
 [/us/usc/t11/s52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs52
 [/us/usc/t18/s3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3057
-[/us/pl/95/598/s314/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs314%2Fi
-[/us/pl/95/598/s314/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs314%2Fi%2F1
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/95/598/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402%2Fa
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

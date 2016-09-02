@@ -43,19 +43,19 @@
 
         (6) Whoever commits the crime of stalking in violation of a temporary or permanent civil or criminal injunction, restraining order, no-contact order, or other order described in [section 2266 of title 18][/us/usc/t18/s2266], United States Code, shall be punished by imprisonment for not less than 1 year.
 
-(Added [Pub. L. 103–322, title IV, § 40221(a)][/us/pl/103/322/s40221/a], Sept. 13, 1994, [108 Stat. 1926][/us/stat/108/1926]; amended [Pub. L. 104–201, div. A, title X, § 1069(b)(1)][/us/pl/104/201/s1069/b/1], (2), Sept. 23, 1996, [110 Stat. 2656][/us/stat/110/2656]; [Pub. L. 106–386, div. B, title I, § 1107(a)][/us/pl/106/386/s1107/a], Oct. 28, 2000, [114 Stat. 1497][/us/stat/114/1497]; [Pub. L. 109–162, title I][/us/pl/109/162], §§ 114(b), 116(a), 117(a), Jan. 5, 2006, [119 Stat. 2988][/us/stat/119/2988], 2989; [Pub. L. 113–4, title I, § 107(a)][/us/pl/113/4/s107/a], Mar. 7, 2013, [127 Stat. 77][/us/stat/127/77].)
+(Added [Pub. L. 103–322, title IV][/us/pl/103/322/tIV], § 40221(a), Sept. 13, 1994, [108 Stat. 1926][/us/stat/108/1926]; amended [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1069(b)(1), (2), Sept. 23, 1996, [110 Stat. 2656][/us/stat/110/2656]; [Pub. L. 106–386, div. B, title I][/us/pl/106/386/dB/tI], § 1107(a), Oct. 28, 2000, [114 Stat. 1497][/us/stat/114/1497]; [Pub. L. 109–162, title I][/us/pl/109/162/tI], §§ 114(b), 116(a), 117(a), Jan. 5, 2006, [119 Stat. 2988][/us/stat/119/2988], 2989; [Pub. L. 113–4, title I][/us/pl/113/4/tI], § 107(a), Mar. 7, 2013, [127 Stat. 77][/us/stat/127/77].)
 
  __Amendments__ 
 
     2013—Subsec. (a)(1). [Pub. L. 113–4][/us/pl/113/4] inserted “is present” after “Indian country or” and “or presence” after “as a result of such travel”.
 
-    2006—Subsec. (a)(1). [Pub. L. 109–162, § 117(a)][/us/pl/109/162/s117/a], inserted “or within the special maritime and territorial jurisdiction of the United States” after “Indian country”.
+    2006—Subsec. (a)(1). [Pub. L. 109–162][/us/pl/109/162], § 117(a), inserted “or within the special maritime and territorial jurisdiction of the United States” after “Indian country”.
 
-    [Pub. L. 109–162, § 116(a)(1)][/us/pl/109/162/s116/a/1], which directed substitution of “, intimate partner, or dating partner” for “or intimate partner”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+    [Pub. L. 109–162][/us/pl/109/162], § 116(a)(1), which directed substitution of “, intimate partner, or dating partner” for “or intimate partner”, was executed by making the substitution in two places to reflect the probable intent of Congress.
 
-    Subsec. (a)(2). [Pub. L. 109–162, § 116(a)(2)][/us/pl/109/162/s116/a/2], which directed substitution of “, intimate partner, or dating partner” for “or intimate partner”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+    Subsec. (a)(2). [Pub. L. 109–162][/us/pl/109/162], § 116(a)(2), which directed substitution of “, intimate partner, or dating partner” for “or intimate partner”, was executed by making the substitution in two places to reflect the probable intent of Congress.
 
-    Subsec. (b)(6). [Pub. L. 109–162, § 114(b)][/us/pl/109/162/s114/b], added par. (6).
+    Subsec. (b)(6). [Pub. L. 109–162][/us/pl/109/162], § 114(b), added par. (6).
 
     2000—Subsec. (a). [Pub. L. 106–386][/us/pl/106/386] added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
 
@@ -67,7 +67,7 @@
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 113–4, § 4][/us/pl/113/4/s4], Mar. 7, 2013, [127 Stat. 64][/us/stat/127/64], provided that: 
+[Pub. L. 113–4][/us/pl/113/4], § 4, Mar. 7, 2013, [127 Stat. 64][/us/stat/127/64], provided that: 
 
 > “Except as otherwise specifically provided in this Act \[see Tables for classification\], the provisions of titles I, II, III, IV, VII, and sections 3, 602, 901, and 902 of this Act shall not take effect until the beginning of the fiscal year following the date of enactment of this Act \[Mar. 7, 2013\].”
 
@@ -79,24 +79,24 @@
 ----------
 
 [/us/usc/t18/s2266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2266
-[/us/pl/103/322/s40221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs40221%2Fa
+[/us/pl/103/322/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIV
 [/us/stat/108/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1926
-[/us/pl/104/201/s1069/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1069%2Fb%2F1
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2656
-[/us/pl/106/386/s1107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1107%2Fa
+[/us/pl/106/386/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtI
 [/us/stat/114/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1497
-[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtI
 [/us/stat/119/2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2988
-[/us/pl/113/4/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs107%2Fa
+[/us/pl/113/4/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtI
 [/us/stat/127/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F77
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
-[/us/pl/109/162/s117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs117%2Fa
-[/us/pl/109/162/s116/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs116%2Fa%2F1
-[/us/pl/109/162/s116/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs116%2Fa%2F2
-[/us/pl/109/162/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs114%2Fb
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/stat/127/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F64
 
 

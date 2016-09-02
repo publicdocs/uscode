@@ -17,7 +17,7 @@
 
     The Attorney General may enter into such contracts or other agreements as may be necessary to carry out this chapter. Any such contract or agreement which would result in the United States being obligated to make outlays may be entered into only to the extent and in such amount as may be provided in advance in an appropriation Act.
 
-(Added [Pub. L. 98–473, title II, § 1208][/us/pl/98/473/s1208], Oct. 12, 1984, [98 Stat. 2163][/us/stat/98/2163].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1208, Oct. 12, 1984, [98 Stat. 2163][/us/stat/98/2163].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/473/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1208
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2163
 
 

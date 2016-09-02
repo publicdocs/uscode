@@ -25,13 +25,13 @@
 
     shall be fined under this title, imprisoned not more than 5 years, or both.
 
-(Added [Pub. L. 103–394, title III, § 312(a)(1)(B)][/us/pl/103/394/s312/a/1/B], Oct. 22, 1994, [108 Stat. 4140][/us/stat/108/4140]; amended [Pub. L. 109–8, title III, § 332(c)][/us/pl/109/8/s332/c], Apr. 20, 2005, [119 Stat. 103][/us/stat/119/103]; [Pub. L. 111–327, § 2(b)][/us/pl/111/327/s2/b], Dec. 22, 2010, [124 Stat. 3562][/us/stat/124/3562].)
+(Added [Pub. L. 103–394, title III][/us/pl/103/394/tIII], § 312(a)(1)(B), Oct. 22, 1994, [108 Stat. 4140][/us/stat/108/4140]; amended [Pub. L. 109–8, title III][/us/pl/109/8/tIII], § 332(c), Apr. 20, 2005, [119 Stat. 103][/us/stat/119/103]; [Pub. L. 111–327][/us/pl/111/327], § 2(b), Dec. 22, 2010, [124 Stat. 3562][/us/stat/124/3562].)
 
  __Amendments__ 
 
-    2010—Par. (1). [Pub. L. 111–327, § 2(b)(1)][/us/pl/111/327/s2/b/1], struck out “bankruptcy” after “involuntary”.
+    2010—Par. (1). [Pub. L. 111–327][/us/pl/111/327], § 2(b)(1), struck out “bankruptcy” after “involuntary”.
 
-    Pars. (2), (3). [Pub. L. 111–327, § 2(b)(2)][/us/pl/111/327/s2/b/2], struck out “, including a fraudulent involuntary bankruptcy petition under section 303 of such title” after “title 11”.
+    Pars. (2), (3). [Pub. L. 111–327][/us/pl/111/327], § 2(b)(2), struck out “, including a fraudulent involuntary bankruptcy petition under section 303 of such title” after “title 11”.
 
     2005—Pars. (1) to (3). [Pub. L. 109–8][/us/pl/109/8], which directed insertion of “, including a fraudulent involuntary bankruptcy petition under section 303 of such title” after “title 11”, was executed by making the insertion after “title 11” wherever appearing, to reflect the probable intent of Congress.
 
@@ -50,14 +50,14 @@
 ----------
 ----------
 
-[/us/pl/103/394/s312/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2Fs312%2Fa%2F1%2FB
+[/us/pl/103/394/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F394%2FtIII
 [/us/stat/108/4140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4140
-[/us/pl/109/8/s332/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs332%2Fc
+[/us/pl/109/8/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIII
 [/us/stat/119/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F103
-[/us/pl/111/327/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fb
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/stat/124/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3562
-[/us/pl/111/327/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fb%2F1
-[/us/pl/111/327/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fb%2F2
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
+[/us/pl/111/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501

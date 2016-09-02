@@ -37,7 +37,7 @@
 
     (h) This section does not prohibit a member of the reserve components of the armed forces on active duty pursuant to a call or order to active duty under a provision of law referred to in [section 101(a)(13) of title 10][/us/usc/t10/s101/a/13] from receiving from any person that employed such member before the call or order to active duty any payment of any part of the salary or wages that such person would have paid the member if the member’s employment had not been interrupted by such call or order to active duty.
 
-(Added [Pub. L. 87–849, § 1(a)][/us/pl/87/849/s1/a], Oct. 23, 1962, [76 Stat. 1125][/us/stat/76/1125]; amended [Pub. L. 96–174][/us/pl/96/174], Dec. 29, 1979, [93 Stat. 1288][/us/stat/93/1288]; [Pub. L. 97–171][/us/pl/97/171], Apr. 13, 1982, [96 Stat. 67][/us/stat/96/67]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–646, § 70][/us/pl/99/646/s70], Nov. 10, 1986, [100 Stat. 3617][/us/stat/100/3617]; [Pub. L. 101–194, title IV, § 406][/us/pl/101/194/s406], Nov. 30, 1989, [103 Stat. 1753][/us/stat/103/1753]; [Pub. L. 101–647, title XXXV, § 3510][/us/pl/101/647/s3510], Nov. 29, 1990, [104 Stat. 4922][/us/stat/104/4922]; [Pub. L. 103–322, title XXXIII, § 330008(7)][/us/pl/103/322/s330008/7], Sept. 13, 1994, [108 Stat. 2143][/us/stat/108/2143]; [Pub. L. 107–273, div. A, title III, § 302(3)][/us/pl/107/273/s302/3], Nov. 2, 2002, [116 Stat. 1781][/us/stat/116/1781]; [Pub. L. 107–347, title II, § 209(g)(2)][/us/pl/107/347/s209/g/2], Dec. 17, 2002, [116 Stat. 2932][/us/stat/116/2932]; [Pub. L. 108–375, div. A, title VI, § 663][/us/pl/108/375/s663], Oct. 28, 2004, [118 Stat. 1974][/us/stat/118/1974].)
+(Added [Pub. L. 87–849][/us/pl/87/849], § 1(a), Oct. 23, 1962, [76 Stat. 1125][/us/stat/76/1125]; amended [Pub. L. 96–174][/us/pl/96/174], Dec. 29, 1979, [93 Stat. 1288][/us/stat/93/1288]; [Pub. L. 97–171][/us/pl/97/171], Apr. 13, 1982, [96 Stat. 67][/us/stat/96/67]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–646][/us/pl/99/646], § 70, Nov. 10, 1986, [100 Stat. 3617][/us/stat/100/3617]; [Pub. L. 101–194, title IV][/us/pl/101/194/tIV], § 406, Nov. 30, 1989, [103 Stat. 1753][/us/stat/103/1753]; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3510, Nov. 29, 1990, [104 Stat. 4922][/us/stat/104/4922]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330008(7), Sept. 13, 1994, [108 Stat. 2143][/us/stat/108/2143]; [Pub. L. 107–273, div. A, title III][/us/pl/107/273/dA/tIII], § 302(3), Nov. 2, 2002, [116 Stat. 1781][/us/stat/116/1781]; [Pub. L. 107–347, title II][/us/pl/107/347/tII], § 209(g)(2), Dec. 17, 2002, [116 Stat. 2932][/us/stat/116/2932]; [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 663, Oct. 28, 2004, [118 Stat. 1974][/us/stat/118/1974].)
 
  __References in Text__ 
 
@@ -97,27 +97,27 @@
 [/us/usc/t18/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs216
 [/us/usc/t5/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3701
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
-[/us/pl/87/849/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs1%2Fa
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1125
 [/us/pl/96/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F174
 [/us/stat/93/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1288
 [/us/pl/97/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F171
 [/us/stat/96/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F67
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/99/646/s70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs70
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3617
-[/us/pl/101/194/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs406
+[/us/pl/101/194/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtIV
 [/us/stat/103/1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1753
-[/us/pl/101/647/s3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3510
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4922
-[/us/pl/103/322/s330008/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330008%2F7
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2143
-[/us/pl/107/273/s302/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs302%2F3
+[/us/pl/107/273/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIII
 [/us/stat/116/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1781
-[/us/pl/107/347/s209/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs209%2Fg%2F2
+[/us/pl/107/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtII
 [/us/stat/116/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2932
-[/us/pl/108/375/s663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs663
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1974
 [/us/usc/t26/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645

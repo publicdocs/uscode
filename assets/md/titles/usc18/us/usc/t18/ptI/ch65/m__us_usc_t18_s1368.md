@@ -19,7 +19,7 @@
 
     (b) In this section, the term “police animal” means a dog or horse employed by a Federal agency (whether in the executive, legislative, or judicial branch) for the principal purpose of aiding in the detection of criminal activity, enforcement of laws, or apprehension of criminal offenders.
 
-(Added [Pub. L. 106–254, § 2(a)][/us/pl/106/254/s2/a], Aug. 2, 2000, [114 Stat. 638][/us/stat/114/638]; amended [Pub. L. 107–273, div. B, title IV, § 4003(a)(4)][/us/pl/107/273/s4003/a/4], Nov. 2, 2002, [116 Stat. 1811][/us/stat/116/1811].)
+(Added [Pub. L. 106–254][/us/pl/106/254], § 2(a), Aug. 2, 2000, [114 Stat. 638][/us/stat/114/638]; amended [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4003(a)(4), Nov. 2, 2002, [116 Stat. 1811][/us/stat/116/1811].)
 
  __Amendments__ 
 
@@ -27,7 +27,7 @@
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–254, § 1][/us/pl/106/254/s1], Aug. 2, 2000, [114 Stat. 638][/us/stat/114/638], provided that: 
+[Pub. L. 106–254][/us/pl/106/254], § 1, Aug. 2, 2000, [114 Stat. 638][/us/stat/114/638], provided that: 
 
 > “This Act \[enacting this section\] may be cited as the ‘Federal Law Enforcement Animal Protection Act of 2000’.”
 
@@ -38,12 +38,12 @@
 ----------
 ----------
 
-[/us/pl/106/254/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F254%2Fs2%2Fa
+[/us/pl/106/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F254
 [/us/stat/114/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F638
-[/us/pl/107/273/s4003/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4003%2Fa%2F4
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1811
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/106/254/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F254%2Fs1
+[/us/pl/106/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F254
 [/us/stat/114/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F638
 
 

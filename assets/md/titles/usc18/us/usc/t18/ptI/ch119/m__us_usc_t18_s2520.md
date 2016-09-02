@@ -71,15 +71,15 @@
 
     Any willful disclosure or use by an investigative or law enforcement officer or governmental entity of information beyond the extent permitted by section 2517 is a violation of this chapter for purposes of section 2520(a).
 
-(Added [Pub. L. 90–351, title III, § 802][/us/pl/90/351/s802], June 19, 1968, [82 Stat. 223][/us/stat/82/223]; amended [Pub. L. 91–358, title II, § 211(c)][/us/pl/91/358/s211/c], July 29, 1970, [84 Stat. 654][/us/stat/84/654]; [Pub. L. 99–508, title I, § 103][/us/pl/99/508/s103], Oct. 21, 1986, [100 Stat. 1853][/us/stat/100/1853]; [Pub. L. 107–56, title II, § 223(a)][/us/pl/107/56/s223/a], Oct. 26, 2001, [115 Stat. 293][/us/stat/115/293]; [Pub. L. 107–296, title II, § 225(e)][/us/pl/107/296/s225/e], Nov. 25, 2002, [116 Stat. 2157][/us/stat/116/2157].)
+(Added [Pub. L. 90–351, title III][/us/pl/90/351/tIII], § 802, June 19, 1968, [82 Stat. 223][/us/stat/82/223]; amended [Pub. L. 91–358, title II][/us/pl/91/358/tII], § 211(c), July 29, 1970, [84 Stat. 654][/us/stat/84/654]; [Pub. L. 99–508, title I][/us/pl/99/508/tI], § 103, Oct. 21, 1986, [100 Stat. 1853][/us/stat/100/1853]; [Pub. L. 107–56, title II][/us/pl/107/56/tII], § 223(a), Oct. 26, 2001, [115 Stat. 293][/us/stat/115/293]; [Pub. L. 107–296, title II][/us/pl/107/296/tII], § 225(e), Nov. 25, 2002, [116 Stat. 2157][/us/stat/116/2157].)
 
  __Amendments__ 
 
     2002—Subsec. (d)(3). [Pub. L. 107–296][/us/pl/107/296] inserted “or 2511(2)(i)” after “2511(3)”.
 
-    2001—Subsec. (a). [Pub. L. 107–56, § 223(a)(1)][/us/pl/107/56/s223/a/1], inserted “, other than the United States,” after “person or entity”.
+    2001—Subsec. (a). [Pub. L. 107–56][/us/pl/107/56], § 223(a)(1), inserted “, other than the United States,” after “person or entity”.
 
-    Subsecs. (f), (g). [Pub. L. 107–56, § 223(a)(2)][/us/pl/107/56/s223/a/2], (3), added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 107–56][/us/pl/107/56], § 223(a)(2), (3), added subsecs. (f) and (g).
 
     1986—[Pub. L. 99–508][/us/pl/99/508] amended section generally. Prior to amendment, section read as follows: “Any person whose wire or oral communication is intercepted, disclosed, or used in violation of this chapter shall (1) have a civil cause of action against any person who intercepts, discloses, or uses, or procures any other person to intercept, disclose, or use such communications, and (2) be entitled to recover from any such person—
 
@@ -113,19 +113,19 @@
 ----------
 
 [/us/usc/t18/s2518/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2518%2F7
-[/us/pl/90/351/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs802
+[/us/pl/90/351/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtIII
 [/us/stat/82/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F223
-[/us/pl/91/358/s211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2Fs211%2Fc
+[/us/pl/91/358/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358%2FtII
 [/us/stat/84/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F654
-[/us/pl/99/508/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs103
+[/us/pl/99/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtI
 [/us/stat/100/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1853
-[/us/pl/107/56/s223/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs223%2Fa
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F293
-[/us/pl/107/296/s225/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225%2Fe
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2157
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/107/56/s223/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs223%2Fa%2F1
-[/us/pl/107/56/s223/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs223%2Fa%2F2
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
 [/us/pl/91/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F358
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

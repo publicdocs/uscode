@@ -79,13 +79,13 @@
 
         (3) Nothing in this chapter shall be construed to affect the provisions of the Act approved October 3, 1964 (D.C. Code, sections 24–451 et seq.), entitled “An Act to establish in the Treasury a correctional industries fund for the government of the District of Columbia, and for other purposes.”
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 851][/us/stat/62/851]; [May 24, 1949, ch. 139, § 63][/us/act/1949-05-24/ch139/s63], [63 Stat. 98][/us/stat/63/98]; [Oct. 31, 1951, ch. 655, § 31][/us/act/1951-10-31/ch655/s31], [65 Stat. 722][/us/stat/65/722]; [Pub. L. 90–226, title VIII, § 802][/us/pl/90/226/s802], Dec. 27, 1967, [81 Stat. 741][/us/stat/81/741]; [Pub. L. 100–690, title VII, § 7096][/us/pl/100/690/s7096], Nov. 18, 1988, [102 Stat. 4413][/us/stat/102/4413].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 851][/us/stat/62/851]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 63, [63 Stat. 98][/us/stat/63/98]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 31, [65 Stat. 722][/us/stat/65/722]; [Pub. L. 90–226, title VIII][/us/pl/90/226/tVIII], § 802, Dec. 27, 1967, [81 Stat. 741][/us/stat/81/741]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7096, Nov. 18, 1988, [102 Stat. 4413][/us/stat/102/4413].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on title 18, U.S.C., 1940 ed., §§ 744a, 744c, 744k ([May 27, 1930, ch. 340][/us/act/1930-05-27/ch340], §§ 1, 3, [46 Stat. 391][/us/stat/46/391]; [June 23, 1934, ch. 736, § 3][/us/act/1934-06-23/ch736/s3], [48 Stat. 1211][/us/stat/48/1211]).
+    Based on title 18, U.S.C., 1940 ed., §§ 744a, 744c, 744k ([May 27, 1930, ch. 340][/us/act/1930-05-27/ch340], §§ 1, 3, [46 Stat. 391][/us/stat/46/391]; [June 23, 1934, ch. 736][/us/act/1934-06-23/ch736], § 3, [48 Stat. 1211][/us/stat/48/1211]).
 
     Section consolidates sections 744a, part of 744c, and 744k of title 18, U.S.C., 1940 ed., with such changes of phraseology as were necessary to effect the consolidation.
 
@@ -109,9 +109,9 @@
 
     1988—Subsec. (b). [Pub. L. 100–690][/us/pl/100/690] designated existing provisions as par. (1), substituted “the greatest number of those inmates in the United States penal and correctional institutions who are eligible to work as is reasonably possible” for “all physically fit inmates in the United States penal and correctional institutions”, and added pars. (2) to (6).
 
-    1967—Subsec. (d). [Pub. L. 90–226, § 802(1)][/us/pl/90/226/s802/1], (2), designated existing provisions of subsec. (d) as par. (1) thereof, designated existing provisions of subsec. (e) as par. (2) of subsec. (d), and substituted reference to par. (1) of this subsection for reference to subsec. (d) of this section.
+    1967—Subsec. (d). [Pub. L. 90–226][/us/pl/90/226], § 802(1), (2), designated existing provisions of subsec. (d) as par. (1) thereof, designated existing provisions of subsec. (e) as par. (2) of subsec. (d), and substituted reference to par. (1) of this subsection for reference to subsec. (d) of this section.
 
-    Subsec. (e). [Pub. L. 90–226, § 802(3)][/us/pl/90/226/s802/3], added subsec. (e). Former subsec. (e) redesignated (d)(2).
+    Subsec. (e). [Pub. L. 90–226][/us/pl/90/226], § 802(3), added subsec. (e). Former subsec. (e) redesignated (d)(2).
 
     1951—Subsecs. (d), (e). Act Oct. 31, 1951, substituted “Department of Defense” for “National Military Establishment”.
 
@@ -119,11 +119,11 @@
 
  __Transfer of Functions__ 
 
-    Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII, § 711][/us/pl/93/198/s711], Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by Office of Mayor of District of Columbia by [section 421 of Pub. L. 93–198][/us/pl/93/198/s421].
+    Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by [Pub. L. 93–198, title VII][/us/pl/93/198/tVII], § 711, Dec. 24, 1973, [87 Stat. 818][/us/stat/87/818], and replaced by Office of Mayor of District of Columbia by [section 421 of Pub. L. 93–198][/us/pl/93/198/s421].
 
  __Utilization of Surplus Property__ 
 
-[Act June 29, 1948, ch. 719, § 4][/us/act/1948-06-29/ch719/s4], [62 Stat. 1100][/us/stat/62/1100], provided that: 
+[Act June 29, 1948, ch. 719][/us/act/1948-06-29/ch719], § 4, [62 Stat. 1100][/us/stat/62/1100], provided that: 
 
 > “For its own use in the industrial employment and training of prisoners and not for transfer or disposition, transfers of surplus property under the Surplus Property Act of 1944 \[former sections 1611 to 1646 of the former Appendix to Title 50, War and National Defense\], may be made to Federal Prison Industries, Incorporated, without reimbursement or transfer of funds.”
 
@@ -136,17 +136,17 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F851
-[/us/act/1949-05-24/ch139/s63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs63
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F98
-[/us/act/1951-10-31/ch655/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs31
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F722
-[/us/pl/90/226/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F226%2Fs802
+[/us/pl/90/226/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F226%2FtVIII
 [/us/stat/81/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F741
-[/us/pl/100/690/s7096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7096
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4413
 [/us/act/1930-05-27/ch340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-27%2Fch340
 [/us/stat/46/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F391
-[/us/act/1934-06-23/ch736/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-23%2Fch736%2Fs3
+[/us/act/1934-06-23/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-23%2Fch736
 [/us/stat/48/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1211
 [/us/usc/t18/s744k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs744k
 [/us/usc/t18/s744c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs744c
@@ -158,12 +158,12 @@
 [/us/pl/88/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F622
 [/us/stat/78/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1000
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/90/226/s802/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F226%2Fs802%2F1
-[/us/pl/90/226/s802/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F226%2Fs802%2F3
-[/us/pl/93/198/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs711
+[/us/pl/90/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F226
+[/us/pl/90/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F226
+[/us/pl/93/198/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtVII
 [/us/stat/87/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F818
 [/us/pl/93/198/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs421
-[/us/act/1948-06-29/ch719/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch719%2Fs4
+[/us/act/1948-06-29/ch719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch719
 [/us/stat/62/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1100
 
 

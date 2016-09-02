@@ -115,9 +115,9 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–322, title XXXIII, § 330004(13)][/us/pl/103/322/s330004/13], Sept. 13, 1994, [108 Stat. 2142][/us/stat/108/2142], struck out item 2391 “Temporary extension of section 2388”.
+    1994—[Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330004(13), Sept. 13, 1994, [108 Stat. 2142][/us/stat/108/2142], struck out item 2391 “Temporary extension of section 2388”.
 
-    1953—[Act June 30, 1953, ch. 175, § 5][/us/act/1953-06-30/ch175/s5], [67 Stat. 134][/us/stat/67/134], added item 2391.
+    1953—[Act June 30, 1953, ch. 175][/us/act/1953-06-30/ch175], § 5, [67 Stat. 134][/us/stat/67/134], added item 2391.
 
 ----------
 
@@ -126,9 +126,9 @@
 ----------
 ----------
 
-[/us/pl/103/322/s330004/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330004%2F13
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2142
-[/us/act/1953-06-30/ch175/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch175%2Fs5
+[/us/act/1953-06-30/ch175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch175
 [/us/stat/67/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F134
 
 

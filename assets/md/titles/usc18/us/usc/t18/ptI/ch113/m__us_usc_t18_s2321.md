@@ -27,7 +27,7 @@
 
     (c) As used in this section, the terms “identification number” and “motor vehicle” have the meaning given those terms in [section 511 of this title][/us/usc/t18/s511].
 
-(Added [Pub. L. 98–547, title II, § 204(a)][/us/pl/98/547/s204/a], Oct. 25, 1984, [98 Stat. 2770][/us/stat/98/2770], § 2320; renumbered § 2321, [Pub. L. 99–646, § 42(a)][/us/pl/99/646/s42/a], Nov. 10, 1986, [100 Stat. 3601][/us/stat/100/3601]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(N)][/us/pl/103/322/s330016/1/N], Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148].)
+(Added [Pub. L. 98–547, title II][/us/pl/98/547/tII], § 204(a), Oct. 25, 1984, [98 Stat. 2770][/us/stat/98/2770], § 2320; renumbered § 2321, [Pub. L. 99–646][/us/pl/99/646], § 42(a), Nov. 10, 1986, [100 Stat. 3601][/us/stat/100/3601]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(N), Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148].)
 
  __Amendments__ 
 
@@ -42,11 +42,11 @@
 
 [/us/usc/t18/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs511
 [/us/usc/t18/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs511
-[/us/pl/98/547/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F547%2Fs204%2Fa
+[/us/pl/98/547/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F547%2FtII
 [/us/stat/98/2770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2770
-[/us/pl/99/646/s42/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs42%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3601
-[/us/pl/103/322/s330016/1/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FN
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2148
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

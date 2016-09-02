@@ -19,7 +19,7 @@
 
     (b) The compensation, allowances, and expenses of the personnel detailed under this section may be paid from applicable appropriations of the Public Health Service in accordance with the law and regulations governing the personnel of the Public Health Service, such appropriations to be reimbursed from applicable appropriations of the Department of Justice; or the Attorney General may make allotments of funds and transfer of credit to the Public Health Service in such amounts as are available and necessary, for payment of compensation, allowances, and expenses of personnel so detailed, in accordance with the law and regulations governing the personnel of the Public Health Service.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 848][/us/stat/62/848]; [Pub. L. 105–12, § 9(k)][/us/pl/105/12/s9/k], Apr. 30, 1997, [111 Stat. 28][/us/stat/111/28].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 848][/us/stat/62/848]; [Pub. L. 105–12][/us/pl/105/12], § 9(k), Apr. 30, 1997, [111 Stat. 28][/us/stat/111/28].)
 
  __Historical and Revision Notes__ 
 
@@ -53,7 +53,7 @@
 
     Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, [80 Stat. 1610][/us/stat/80/1610], set out in the Appendix to Title 5.
 
-    Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], which is classified to [section 3508(b) of Title 20][/us/usc/t20/s3508/b], Education.
+    Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], which is classified to [section 3508(b) of Title 20][/us/usc/t20/s3508/b], Education.
 
 ----------
 
@@ -64,7 +64,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F848
-[/us/pl/105/12/s9/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12%2Fs9%2Fk
+[/us/pl/105/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F12
 [/us/stat/111/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F28
 [/us/act/1930-05-13/ch256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-13%2Fch256
 [/us/stat/46/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F273
@@ -80,7 +80,7 @@
 [/us/usc/t42/s14401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14401
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 

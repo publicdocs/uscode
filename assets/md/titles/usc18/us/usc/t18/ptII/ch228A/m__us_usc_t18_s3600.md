@@ -237,7 +237,7 @@
 
         A motion under this section shall not be considered to be a motion under section 2255 for purposes of determining whether the motion or any other motion is a second or successive motion under section 2255.
 
-(Added [Pub. L. 108–405, title IV, § 411(a)(1)][/us/pl/108/405/s411/a/1], Oct. 30, 2004, [118 Stat. 2279][/us/stat/118/2279].)
+(Added [Pub. L. 108–405, title IV][/us/pl/108/405/tIV], § 411(a)(1), Oct. 30, 2004, [118 Stat. 2279][/us/stat/118/2279].)
 
  __References in Text__ 
 
@@ -247,19 +247,19 @@
 
  __Effective Date__ 
 
-[Pub. L. 108–405, title IV, § 411(c)][/us/pl/108/405/s411/c], Oct. 30, 2004, [118 Stat. 2284][/us/stat/118/2284], provided that: 
+[Pub. L. 108–405, title IV][/us/pl/108/405/tIV], § 411(c), Oct. 30, 2004, [118 Stat. 2284][/us/stat/118/2284], provided that: 
 
 > “This section \[enacting this chapter and provisions set out as a note under this section\] and the amendments made by this section shall take effect on the date of enactment of this Act \[Oct. 30, 2004\] and shall apply with respect to any offense committed, and to any judgment of conviction entered, before, on, or after that date of enactment.”
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–405, title IV, § 401][/us/pl/108/405/s401], Oct. 30, 2004, [118 Stat. 2278][/us/stat/118/2278], provided that: 
+[Pub. L. 108–405, title IV][/us/pl/108/405/tIV], § 401, Oct. 30, 2004, [118 Stat. 2278][/us/stat/118/2278], provided that: 
 
 > “This title \[enacting this chapter and sections 14136e and 14163 to 14163e of Title 42, The Public Health and Welfare, amending [section 2513 of Title 28][/us/usc/t28/s2513], Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and [section 14136 of Title 42][/us/usc/t42/s14136]\] may be cited as the ‘Innocence Protection Act of 2004’.”
 
  __System for Reporting Motions__ 
 
-[Pub. L. 108–405, title IV, § 411(b)][/us/pl/108/405/s411/b], Oct. 30, 2004, [118 Stat. 2284][/us/stat/118/2284], provided that:
+[Pub. L. 108–405, title IV][/us/pl/108/405/tIV], § 411(b), Oct. 30, 2004, [118 Stat. 2284][/us/stat/118/2284], provided that:
 
 >     “(1)  __Establishment__  __.—__ 
 
@@ -293,17 +293,17 @@
 ----------
 
 [/us/usc/t18/s4241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4241
-[/us/pl/108/405/s411/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs411%2Fa%2F1
+[/us/pl/108/405/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIV
 [/us/stat/118/2279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2279
 [/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
 [/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
-[/us/pl/108/405/s411/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs411%2Fc
+[/us/pl/108/405/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIV
 [/us/stat/118/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2284
-[/us/pl/108/405/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs401
+[/us/pl/108/405/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIV
 [/us/stat/118/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2278
 [/us/usc/t28/s2513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2513
 [/us/usc/t42/s14136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14136
-[/us/pl/108/405/s411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs411%2Fb
+[/us/pl/108/405/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIV
 [/us/stat/118/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2284
 [/us/usc/t18/s3600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3600
 [/us/usc/t18/s3600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3600

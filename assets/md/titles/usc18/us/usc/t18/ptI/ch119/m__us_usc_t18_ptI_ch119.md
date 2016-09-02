@@ -131,15 +131,15 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–414, title II, § 201(b)(3)][/us/pl/103/414/s201/b/3], Oct. 25, 1994, [108 Stat. 4290][/us/stat/108/4290], added item 2522.
+    1994—[Pub. L. 103–414, title II][/us/pl/103/414/tII], § 201(b)(3), Oct. 25, 1994, [108 Stat. 4290][/us/stat/108/4290], added item 2522.
 
-    1988—[Pub. L. 100–690, title VII, § 7035][/us/pl/100/690/s7035], Nov. 18, 1988, [102 Stat. 4398][/us/stat/102/4398], substituted “wire, oral, or electronic” for “wire or oral” in items 2511, 2512, 2513, 2516, 2517, 2518, and 2519.
+    1988—[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7035, Nov. 18, 1988, [102 Stat. 4398][/us/stat/102/4398], substituted “wire, oral, or electronic” for “wire or oral” in items 2511, 2512, 2513, 2516, 2517, 2518, and 2519.
 
-    1986—[Pub. L. 99–508, title I][/us/pl/99/508], §§ 101(c)(2), 110(b), Oct. 21, 1986, [100 Stat. 1851][/us/stat/100/1851], 1859, inserted “AND ELECTRONIC COMMUNICATIONS” in chapter heading and added item 2521.
+    1986—[Pub. L. 99–508, title I][/us/pl/99/508/tI], §§ 101(c)(2), 110(b), Oct. 21, 1986, [100 Stat. 1851][/us/stat/100/1851], 1859, inserted “AND ELECTRONIC COMMUNICATIONS” in chapter heading and added item 2521.
 
-    1970—[Pub. L. 91–452, title II, § 227(b)][/us/pl/91/452/s227/b], Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930], struck out item 2514 “Immunity of witnesses”, which section was repealed four years following the sixtieth day after Oct. 15, 1970.
+    1970—[Pub. L. 91–452, title II][/us/pl/91/452/tII], § 227(b), Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930], struck out item 2514 “Immunity of witnesses”, which section was repealed four years following the sixtieth day after Oct. 15, 1970.
 
-    1968—[Pub. L. 90–351, title III, § 802][/us/pl/90/351/s802], June 19, 1968, [82 Stat. 212][/us/stat/82/212], added chapter 119 and items 2510 to 2520.
+    1968—[Pub. L. 90–351, title III][/us/pl/90/351/tIII], § 802, June 19, 1968, [82 Stat. 212][/us/stat/82/212], added chapter 119 and items 2510 to 2520.
 
 ----------
 
@@ -148,15 +148,15 @@
 ----------
 ----------
 
-[/us/pl/103/414/s201/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs201%2Fb%2F3
+[/us/pl/103/414/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtII
 [/us/stat/108/4290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4290
-[/us/pl/100/690/s7035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7035
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4398
-[/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
+[/us/pl/99/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtI
 [/us/stat/100/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1851
-[/us/pl/91/452/s227/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs227%2Fb
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F930
-[/us/pl/90/351/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs802
+[/us/pl/90/351/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtIII
 [/us/stat/82/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F212
 
 

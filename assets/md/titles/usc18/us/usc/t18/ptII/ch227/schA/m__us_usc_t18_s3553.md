@@ -129,7 +129,7 @@
 
         (5) not later than the time of the sentencing hearing, the defendant has truthfully provided to the Government all information and evidence the defendant has concerning the offense or offenses that were part of the same course of conduct or of a common scheme or plan, but the fact that the defendant has no relevant or useful other information to provide or that the Government is already aware of the information shall not preclude a determination by the court that the defendant has complied with this requirement.
 
-(Added [Pub. L. 98–473, title II, § 212(a)(2)][/us/pl/98/473/s212/a/2], Oct. 12, 1984, [98 Stat. 1989][/us/stat/98/1989]; amended [Pub. L. 99–570, title I, § 1007(a)][/us/pl/99/570/s1007/a], Oct. 27, 1986, [100 Stat. 3207–7][/us/stat/100/3207-7]; [Pub. L. 99–646][/us/pl/99/646], §§ 8(a), 9(a), 80(a), 81(a), Nov. 10, 1986, [100 Stat. 3593][/us/stat/100/3593], 3619; [Pub. L. 100–182][/us/pl/100/182], §§ 3, 16(a), 17, Dec. 7, 1987, [101 Stat. 1266][/us/stat/101/1266], 1269, 1270; [Pub. L. 100–690, title VII, § 7102][/us/pl/100/690/s7102], Nov. 18, 1988, [102 Stat. 4416][/us/stat/102/4416]; [Pub. L. 103–322, title VIII, § 80001(a)][/us/pl/103/322/s80001/a], title XXVIII, § 280001, Sept. 13, 1994, [108 Stat. 1985][/us/stat/108/1985], 2095; [Pub. L. 104–294, title VI][/us/pl/104/294], §§ 601(b)(5), (6), (h), Oct. 11, 1996, [110 Stat. 3499][/us/stat/110/3499], 3500; [Pub. L. 107–273, div. B, title IV, § 4002(a)(8)][/us/pl/107/273/s4002/a/8], Nov. 2, 2002, [116 Stat. 1807][/us/stat/116/1807]; [Pub. L. 108–21, title IV, § 401(a)][/us/pl/108/21/s401/a], (c), (j)(5), Apr. 30, 2003, [117 Stat. 667][/us/stat/117/667], 669, 673; [Pub. L. 111–174, § 4][/us/pl/111/174/s4], May 27, 2010, [124 Stat. 1216][/us/stat/124/1216].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(2), Oct. 12, 1984, [98 Stat. 1989][/us/stat/98/1989]; amended [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1007(a), Oct. 27, 1986, [100 Stat. 3207–7][/us/stat/100/3207-7]; [Pub. L. 99–646][/us/pl/99/646], §§ 8(a), 9(a), 80(a), 81(a), Nov. 10, 1986, [100 Stat. 3593][/us/stat/100/3593], 3619; [Pub. L. 100–182][/us/pl/100/182], §§ 3, 16(a), 17, Dec. 7, 1987, [101 Stat. 1266][/us/stat/101/1266], 1269, 1270; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7102, Nov. 18, 1988, [102 Stat. 4416][/us/stat/102/4416]; [Pub. L. 103–322, title VIII][/us/pl/103/322/tVIII], § 80001(a), title XXVIII, § 280001, Sept. 13, 1994, [108 Stat. 1985][/us/stat/108/1985], 2095; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], §§ 601(b)(5), (6), (h), Oct. 11, 1996, [110 Stat. 3499][/us/stat/110/3499], 3500; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(a)(8), Nov. 2, 2002, [116 Stat. 1807][/us/stat/116/1807]; [Pub. L. 108–21, title IV][/us/pl/108/21/tIV], § 401(a), (c), (j)(5), Apr. 30, 2003, [117 Stat. 667][/us/stat/117/667], 669, 673; [Pub. L. 111–174][/us/pl/111/174], § 4, May 27, 2010, [124 Stat. 1216][/us/stat/124/1216].)
 
  __References in Text__ 
 
@@ -145,53 +145,53 @@ For information regarding constitutionality of certain provisions of this sectio
 
     2010—Subsec. (c)(2). [Pub. L. 111–174][/us/pl/111/174] substituted “a statement of reasons form issued under [section 994(w)(1)(B) of title 28][/us/usc/t28/s994/w/1/B]” for “the written order of judgment and commitment”.
 
-    2003—Subsec. (a)(4)(A). [Pub. L. 108–21, § 401(j)(5)(A)][/us/pl/108/21/s401/j/5/A], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines issued by the Sentencing Commission pursuant to [section 994(a)(1) of title 28][/us/usc/t28/s994/a/1], United States Code, and that are in effect on the date the defendant is sentenced; or”.
+    2003—Subsec. (a)(4)(A). [Pub. L. 108–21][/us/pl/108/21], § 401(j)(5)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines issued by the Sentencing Commission pursuant to [section 994(a)(1) of title 28][/us/usc/t28/s994/a/1], United States Code, and that are in effect on the date the defendant is sentenced; or”.
 
-    Subsec. (a)(4)(B). [Pub. L. 108–21, § 401(j)(5)(B)][/us/pl/108/21/s401/j/5/B], inserted before semicolon at end “, taking into account any amendments made to such guidelines or policy statements by act of Congress (regardless of whether such amendments have yet to be incorporated by the Sentencing Commission into amendments issued under [section 994(p) of title 28][/us/usc/t28/s994/p])”.
+    Subsec. (a)(4)(B). [Pub. L. 108–21][/us/pl/108/21], § 401(j)(5)(B), inserted before semicolon at end “, taking into account any amendments made to such guidelines or policy statements by act of Congress (regardless of whether such amendments have yet to be incorporated by the Sentencing Commission into amendments issued under [section 994(p) of title 28][/us/usc/t28/s994/p])”.
 
-    Subsec. (a)(5). [Pub. L. 108–21, § 401(j)(5)(C)][/us/pl/108/21/s401/j/5/C], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “any pertinent policy statement issued by the Sentencing Commission pursuant to [28 U.S.C. 994(a)(2)][/us/usc/t28/s994/a/2] that is in effect on the date the defendant is sentenced;”.
+    Subsec. (a)(5). [Pub. L. 108–21][/us/pl/108/21], § 401(j)(5)(C), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “any pertinent policy statement issued by the Sentencing Commission pursuant to [28 U.S.C. 994(a)(2)][/us/usc/t28/s994/a/2] that is in effect on the date the defendant is sentenced;”.
 
-    Subsec. (b). [Pub. L. 108–21, § 401(a)][/us/pl/108/21/s401/a], designated existing provisions as par. (1), inserted par. heading, substituted “Except as provided in paragraph (2), the court” for “The court”, and added par. (2) and concluding provisions.
+    Subsec. (b). [Pub. L. 108–21][/us/pl/108/21], § 401(a), designated existing provisions as par. (1), inserted par. heading, substituted “Except as provided in paragraph (2), the court” for “The court”, and added par. (2) and concluding provisions.
 
-    Subsec. (c). [Pub. L. 108–21, § 401(c)(2)][/us/pl/108/21/s401/c/2], (3), in concluding provisions, inserted “, together with the order of judgment and commitment,” after “the court’s statement of reasons” and “and to the Sentencing Commission,” after “to the Probation System”.
+    Subsec. (c). [Pub. L. 108–21][/us/pl/108/21], § 401(c)(2), (3), in concluding provisions, inserted “, together with the order of judgment and commitment,” after “the court’s statement of reasons” and “and to the Sentencing Commission,” after “to the Probation System”.
 
-    Subsec. (c)(2). [Pub. L. 108–21, § 401(c)(1)][/us/pl/108/21/s401/c/1], substituted “described, which reasons must also be stated with specificity in the written order of judgment and commitment, except to the extent that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32. In the event that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32 the court shall state that such statements were so received and that it relied upon the content of such statements” for “described”.
+    Subsec. (c)(2). [Pub. L. 108–21][/us/pl/108/21], § 401(c)(1), substituted “described, which reasons must also be stated with specificity in the written order of judgment and commitment, except to the extent that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32. In the event that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32 the court shall state that such statements were so received and that it relied upon the content of such statements” for “described”.
 
     2002—Subsec. (e). [Pub. L. 107–273][/us/pl/107/273] inserted “a” before “minimum sentence”.
 
-    1996—Subsec. (f). [Pub. L. 104–294, § 601(h)][/us/pl/104/294/s601/h], amended directory language of [Pub. L. 103–322, § 80001(a)][/us/pl/103/322/s80001/a]. See 1994 Amendment note below.
+    1996—Subsec. (f). [Pub. L. 104–294][/us/pl/104/294], § 601(h), amended directory language of [Pub. L. 103–322][/us/pl/103/322], § 80001(a). See 1994 Amendment note below.
 
-    [Pub. L. 104–294, § 601(b)(5)][/us/pl/104/294/s601/b/5], in introductory provisions, substituted “section 1010 or 1013 of the Controlled Substances Import and Export Act ([21 U.S.C. 960][/us/usc/t21/s960], 963)” for “section 1010 or 1013 of the Controlled Substances Import and Export Act ([21 U.S.C. 961][/us/usc/t21/s961], 963)”.
+    [Pub. L. 104–294][/us/pl/104/294], § 601(b)(5), in introductory provisions, substituted “section 1010 or 1013 of the Controlled Substances Import and Export Act ([21 U.S.C. 960][/us/usc/t21/s960], 963)” for “section 1010 or 1013 of the Controlled Substances Import and Export Act ([21 U.S.C. 961][/us/usc/t21/s961], 963)”.
 
-    Subsec. (f)(4). [Pub. L. 104–294, § 601(b)(6)][/us/pl/104/294/s601/b/6], substituted “section 408 of the Controlled Substances Act” for “[21 U.S.C. 848][/us/usc/t21/s848]”.
+    Subsec. (f)(4). [Pub. L. 104–294][/us/pl/104/294], § 601(b)(6), substituted “section 408 of the Controlled Substances Act” for “[21 U.S.C. 848][/us/usc/t21/s848]”.
 
-    1994—Subsec. (a)(4). [Pub. L. 103–322, § 280001][/us/pl/103/322/s280001], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the kinds of sentence and the sentencing range established for the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines that are issued by the Sentencing Commission pursuant to [28 U.S.C. 994(a)(1)][/us/usc/t28/s994/a/1] and that are in effect on the date the defendant is sentenced;”.
+    1994—Subsec. (a)(4). [Pub. L. 103–322][/us/pl/103/322], § 280001, amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the kinds of sentence and the sentencing range established for the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines that are issued by the Sentencing Commission pursuant to [28 U.S.C. 994(a)(1)][/us/usc/t28/s994/a/1] and that are in effect on the date the defendant is sentenced;”.
 
-    Subsec. (f). [Pub. L. 103–322, § 80001(a)][/us/pl/103/322/s80001/a], as amended by [Pub. L. 104–294, § 601(h)][/us/pl/104/294/s601/h], added subsec. (f).
+    Subsec. (f). [Pub. L. 103–322][/us/pl/103/322], § 80001(a), as amended by [Pub. L. 104–294][/us/pl/104/294], § 601(h), added subsec. (f).
 
     1988—Subsec. (c). [Pub. L. 100–690][/us/pl/100/690] inserted “or other appropriate public record” after “transcription” in second sentence and struck out “clerk of the” before “court” in last sentence.
 
-    1987—Subsec. (b). [Pub. L. 100–182, § 3(1)][/us/pl/100/182/s3/1], (2), substituted “court finds that there exists an aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result” for “court finds that an aggravating or mitigating circumstance exists that was not adequately taken into consideration by the Sentencing Commission in formulating the guidelines and that should result”.
+    1987—Subsec. (b). [Pub. L. 100–182][/us/pl/100/182], § 3(1), (2), substituted “court finds that there exists an aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result” for “court finds that an aggravating or mitigating circumstance exists that was not adequately taken into consideration by the Sentencing Commission in formulating the guidelines and that should result”.
 
-    [Pub. L. 100–182, § 3(3)][/us/pl/100/182/s3/3], inserted after first sentence “In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission.”
+    [Pub. L. 100–182][/us/pl/100/182], § 3(3), inserted after first sentence “In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission.”
 
-    [Pub. L. 100–182, § 16(a)][/us/pl/100/182/s16/a], substituted “In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission.” for “In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, the applicable policy statements of the Sentencing Commission, and the purposes of sentencing set forth in subsection (a)(2).”
+    [Pub. L. 100–182][/us/pl/100/182], § 16(a), substituted “In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission.” for “In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, the applicable policy statements of the Sentencing Commission, and the purposes of sentencing set forth in subsection (a)(2).”
 
-    Subsec. (c)(1). [Pub. L. 100–182, § 17][/us/pl/100/182/s17], inserted “and that range exceeds 24 months,”.
+    Subsec. (c)(1). [Pub. L. 100–182][/us/pl/100/182], § 17, inserted “and that range exceeds 24 months,”.
 
-    1986—Subsec. (a)(7). [Pub. L. 99–646, § 81(a)][/us/pl/99/646/s81/a], added par. (7).
+    1986—Subsec. (a)(7). [Pub. L. 99–646][/us/pl/99/646], § 81(a), added par. (7).
 
-    Subsec. (b). [Pub. L. 99–646, § 9(a)][/us/pl/99/646/s9/a], inserted provision relating to sentencing in the absence of applicable guidelines.
+    Subsec. (b). [Pub. L. 99–646][/us/pl/99/646], § 9(a), inserted provision relating to sentencing in the absence of applicable guidelines.
 
-    Subsec. (c). [Pub. L. 99–646, § 8(a)][/us/pl/99/646/s8/a], substituted “If the court does not order restitution, or orders only partial restitution” for “If the sentence does not include an order of restitution”.
+    Subsec. (c). [Pub. L. 99–646][/us/pl/99/646], § 8(a), substituted “If the court does not order restitution, or orders only partial restitution” for “If the sentence does not include an order of restitution”.
 
-    Subsec. (d). [Pub. L. 99–646, § 80(a)][/us/pl/99/646/s80/a], struck out “or restitution” after “notice” in heading, and struck out “or an order of restitution pursuant to section 3556,” after “section 3555,” in introductory text.
+    Subsec. (d). [Pub. L. 99–646][/us/pl/99/646], § 80(a), struck out “or restitution” after “notice” in heading, and struck out “or an order of restitution pursuant to section 3556,” after “section 3555,” in introductory text.
 
     Subsec. (e). [Pub. L. 99–570][/us/pl/99/570] added subsec. (e).
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–322, title VIII, § 80001(c)][/us/pl/103/322/s80001/c], Sept. 13, 1994, [108 Stat. 1986][/us/stat/108/1986], provided that: 
+[Pub. L. 103–322, title VIII][/us/pl/103/322/tVIII], § 80001(c), Sept. 13, 1994, [108 Stat. 1986][/us/stat/108/1986], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to all sentences imposed on or after the 10th day beginning after the date of enactment of this Act \[Sept. 13, 1994\].”
 
@@ -201,23 +201,23 @@ For information regarding constitutionality of certain provisions of this sectio
 
  __Effective Date of 1986 Amendments__ 
 
-[Pub. L. 99–646, § 8(c)][/us/pl/99/646/s8/c], Nov. 10, 1986, [100 Stat. 3593][/us/stat/100/3593], provided that: 
+[Pub. L. 99–646][/us/pl/99/646], § 8(c), Nov. 10, 1986, [100 Stat. 3593][/us/stat/100/3593], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 3663 of this title][/us/usc/t18/s3663]\] shall take effect on the date of the taking effect of [section 3553 of title 18][/us/usc/t18/s3553], United States Code \[Nov. 1, 1987\].”
 
-[Pub. L. 99–646, § 9(b)][/us/pl/99/646/s9/b], Nov. 10, 1986, [100 Stat. 3593][/us/stat/100/3593], provided that: 
+[Pub. L. 99–646][/us/pl/99/646], § 9(b), Nov. 10, 1986, [100 Stat. 3593][/us/stat/100/3593], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of [section 3553 of title 18][/us/usc/t18/s3553], United States Code \[Nov. 1, 1987\].”
 
-[Pub. L. 99–646, § 80(b)][/us/pl/99/646/s80/b], Nov. 10, 1986, [100 Stat. 3619][/us/stat/100/3619], provided that: 
+[Pub. L. 99–646][/us/pl/99/646], § 80(b), Nov. 10, 1986, [100 Stat. 3619][/us/stat/100/3619], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 212(a)(2) of the Sentencing Reform Act of 1984 \[[section 212(a)(2) of Pub. L. 98–473][/us/pl/98/473/s212/a/2], effective Nov. 1, 1987\].”
 
-[Pub. L. 99–646, § 81(b)][/us/pl/99/646/s81/b], Nov. 10, 1986, [100 Stat. 3619][/us/stat/100/3619], provided that: 
+[Pub. L. 99–646][/us/pl/99/646], § 81(b), Nov. 10, 1986, [100 Stat. 3619][/us/stat/100/3619], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 212(a)(2) of the Sentencing Reform Act of 1984 \[[section 212(a)(2) of Pub. L. 98–473][/us/pl/98/473/s212/a/2], effective Nov. 1, 1987\].”
 
-[Pub. L. 99–570, title I, § 1007(b)][/us/pl/99/570/s1007/b], Oct. 27, 1986, [100 Stat. 3207–7][/us/stat/100/3207-7], provided that: 
+[Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1007(b), Oct. 27, 1986, [100 Stat. 3207–7][/us/stat/100/3207-7], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the date of the taking effect of [section 3553 of title 18][/us/usc/t18/s3553], United States Code \[Nov. 1, 1987\].”
 
@@ -227,7 +227,7 @@ For information regarding constitutionality of certain provisions of this sectio
 
  __Report by Attorney General__ 
 
-[Pub. L. 108–21, title IV, § 401][/us/pl/108/21/s401](l), Apr. 30, 2003, [117 Stat. 674][/us/stat/117/674], provided that:
+[Pub. L. 108–21, title IV][/us/pl/108/21/tIV], § 401(l), Apr. 30, 2003, [117 Stat. 674][/us/stat/117/674], provided that:
 
 >     “(1)  __Defined term__  __.—__ 
 
@@ -273,7 +273,7 @@ For information regarding constitutionality of certain provisions of this sectio
 
  __Authority To Lower a Sentence Below Statutory Minimum for Old Offenses__ 
 
-[Pub. L. 100–182, § 24][/us/pl/100/182/s24], Dec. 7, 1987, [101 Stat. 1271][/us/stat/101/1271], provided that: 
+[Pub. L. 100–182][/us/pl/100/182], § 24, Dec. 7, 1987, [101 Stat. 1271][/us/stat/101/1271], provided that: 
 
 > “Notwithstanding section 235 of the Comprehensive Crime Control Act of 1984 \[[section 235 of Pub. L. 98–473][/us/pl/98/473/s235], set out as a note under [section 3551 of this title][/us/usc/t18/s3551]\]—
 
@@ -304,91 +304,91 @@ For information regarding constitutionality of certain provisions of this sectio
 [/us/usc/t21/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841
 [/us/usc/t21/s960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs960
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
-[/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1989
-[/us/pl/99/570/s1007/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1007%2Fa
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-7
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3593
 [/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
 [/us/stat/101/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1266
-[/us/pl/100/690/s7102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7102
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4416
-[/us/pl/103/322/s80001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs80001%2Fa
+[/us/pl/103/322/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVIII
 [/us/stat/108/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1985
-[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3499
-[/us/pl/107/273/s4002/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fa%2F8
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1807
-[/us/pl/108/21/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs401%2Fa
+[/us/pl/108/21/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtIV
 [/us/stat/117/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F667
-[/us/pl/111/174/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F174%2Fs4
+[/us/pl/111/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F174
 [/us/stat/124/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1216
 [/us/usc/t21/s848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs848
 [/us/pl/108/21/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs401%2Fa%2F1
 [/us/pl/111/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F174
 [/us/usc/t28/s994/w/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994%2Fw%2F1%2FB
-[/us/pl/108/21/s401/j/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs401%2Fj%2F5%2FA
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
 [/us/usc/t28/s994/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994%2Fa%2F1
-[/us/pl/108/21/s401/j/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs401%2Fj%2F5%2FB
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
 [/us/usc/t28/s994/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994%2Fp
-[/us/pl/108/21/s401/j/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs401%2Fj%2F5%2FC
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
 [/us/usc/t28/s994/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994%2Fa%2F2
-[/us/pl/108/21/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs401%2Fa
-[/us/pl/108/21/s401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs401%2Fc%2F2
-[/us/pl/108/21/s401/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs401%2Fc%2F1
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/104/294/s601/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fh
-[/us/pl/103/322/s80001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs80001%2Fa
-[/us/pl/104/294/s601/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fb%2F5
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/usc/t21/s960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs960
 [/us/usc/t21/s961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs961
-[/us/pl/104/294/s601/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fb%2F6
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/usc/t21/s848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs848
-[/us/pl/103/322/s280001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs280001
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/usc/t28/s994/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994%2Fa%2F1
-[/us/pl/103/322/s80001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs80001%2Fa
-[/us/pl/104/294/s601/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fh
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/100/182/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs3%2F1
-[/us/pl/100/182/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs3%2F3
-[/us/pl/100/182/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs16%2Fa
-[/us/pl/100/182/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs17
-[/us/pl/99/646/s81/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs81%2Fa
-[/us/pl/99/646/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs9%2Fa
-[/us/pl/99/646/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs8%2Fa
-[/us/pl/99/646/s80/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs80%2Fa
+[/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
+[/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
+[/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
+[/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
-[/us/pl/103/322/s80001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs80001%2Fc
+[/us/pl/103/322/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVIII
 [/us/stat/108/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1986
 [/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
 [/us/pl/100/182/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs26
 [/us/usc/t18/s3006A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3006A
-[/us/pl/99/646/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs8%2Fc
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3593
 [/us/usc/t18/s3663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3663
 [/us/usc/t18/s3553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3553
-[/us/pl/99/646/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs9%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3593
 [/us/usc/t18/s3553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3553
-[/us/pl/99/646/s80/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs80%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3619
 [/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
-[/us/pl/99/646/s81/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs81%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3619
 [/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
-[/us/pl/99/570/s1007/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1007%2Fb
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-7
 [/us/usc/t18/s3553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3553
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
-[/us/pl/108/21/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs401
+[/us/pl/108/21/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtIV
 [/us/stat/117/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F674
 [/us/usc/t18/s3742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3742
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
 [/us/usc/t28/s991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs991
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
-[/us/pl/100/182/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs24
+[/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
 [/us/stat/101/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1271
 [/us/pl/98/473/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551

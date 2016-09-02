@@ -17,7 +17,7 @@
 
     Whoever directly or indirectly deprives, attempts to deprive, or threatens to deprive any person of any employment, position, work, compensation, or other benefit provided for or made possible in whole or in part by any Act of Congress appropriating funds for work relief or relief purposes, on account of political affiliation, race, color, sex, religion, or national origin, shall be fined under this title, or imprisoned not more than one year, or both.
 
-(Added [Pub. L. 94–453, § 4(a)][/us/pl/94/453/s4/a], Oct. 2, 1976, [90 Stat. 1517][/us/stat/90/1517]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+(Added [Pub. L. 94–453][/us/pl/94/453], § 4(a), Oct. 2, 1976, [90 Stat. 1517][/us/stat/90/1517]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/94/453/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F453%2Fs4%2Fa
+[/us/pl/94/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F453
 [/us/stat/90/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1517
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

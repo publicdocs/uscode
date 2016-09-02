@@ -25,7 +25,7 @@
 
     unless the indictment is returned or the information is filed within 10 years after the commission of the offense.
 
-(Added [Pub. L. 101–73, title IX, § 961][/us/pl/101/73/s961](l)(1), Aug. 9, 1989, [103 Stat. 501][/us/stat/103/501]; amended [Pub. L. 101–647, title XXV, § 2505(a)][/us/pl/101/647/s2505/a], Nov. 29, 1990, [104 Stat. 4862][/us/stat/104/4862]; [Pub. L. 103–322, title XXXII, § 320604(b)][/us/pl/103/322/s320604/b], title XXXIII, § 330002(e), Sept. 13, 1994, [108 Stat. 2119][/us/stat/108/2119], 2140.)
+(Added [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 961(l)(1), Aug. 9, 1989, [103 Stat. 501][/us/stat/103/501]; amended [Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2505(a), Nov. 29, 1990, [104 Stat. 4862][/us/stat/104/4862]; [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320604(b), title XXXIII, § 330002(e), Sept. 13, 1994, [108 Stat. 2119][/us/stat/108/2119], 2140.)
 
  __Amendments__ 
 
@@ -35,13 +35,13 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–647, title XXV, § 2505(b)][/us/pl/101/647/s2505/b], Nov. 29, 1990, [104 Stat. 4862][/us/stat/104/4862], provided that: 
+[Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2505(b), Nov. 29, 1990, [104 Stat. 4862][/us/stat/104/4862], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to any offense committed before the date of the enactment of this section \[Nov. 29, 1990\], if the statute of limitations applicable to that offense had not run as of such date.”
 
  __Effect of This Section on Offenses for Which Prior Period of Limitations Had Not Run__ 
 
-[Pub. L. 101–73, title IX, § 961][/us/pl/101/73/s961](l)(3), Aug. 9, 1989, [103 Stat. 501][/us/stat/103/501], provided that: 
+[Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 961(l)(3), Aug. 9, 1989, [103 Stat. 501][/us/stat/103/501], provided that: 
 
 > “The amendments made by this subsection \[enacting this section\] shall apply to an offense committed before the effective date of this section \[Aug. 9, 1989\], if the statute of limitations applicable to that offense under this chapter had not run as of such date.”
 
@@ -52,17 +52,17 @@
 ----------
 ----------
 
-[/us/pl/101/73/s961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs961
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F501
-[/us/pl/101/647/s2505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2505%2Fa
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4862
-[/us/pl/103/322/s320604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320604%2Fb
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2119
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
-[/us/pl/101/647/s2505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2505%2Fb
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4862
-[/us/pl/101/73/s961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs961
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F501
 
 

@@ -17,7 +17,7 @@
 
     A person who, while engaged in a professional capacity or activity described in subsection (b) of section 226 of the Victims of Child Abuse Act of 1990 on Federal land or in a federally operated (or contracted) facility, learns of facts that give reason to suspect that a child has suffered an incident of child abuse, as defined in subsection (c) of that section, and fails to make a timely report as required by subsection (a) of that section, shall be fined under this title or imprisoned not more than 1 year or both.
 
-(Added [Pub. L. 101–647, title II, § 226(g)(1)][/us/pl/101/647/s226/g/1], Nov. 29, 1990, [104 Stat. 4808][/us/stat/104/4808]; amended [Pub. L. 109–248, title II, § 209][/us/pl/109/248/s209], July 27, 2006, [120 Stat. 615][/us/stat/120/615].)
+(Added [Pub. L. 101–647, title II][/us/pl/101/647/tII], § 226(g)(1), Nov. 29, 1990, [104 Stat. 4808][/us/stat/104/4808]; amended [Pub. L. 109–248, title II][/us/pl/109/248/tII], § 209, July 27, 2006, [120 Stat. 615][/us/stat/120/615].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/101/647/s226/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs226%2Fg%2F1
+[/us/pl/101/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtII
 [/us/stat/104/4808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4808
-[/us/pl/109/248/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs209
+[/us/pl/109/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtII
 [/us/stat/120/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F615
 [/us/usc/t42/s13031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13031
 [/us/usc/t18/s2260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2260

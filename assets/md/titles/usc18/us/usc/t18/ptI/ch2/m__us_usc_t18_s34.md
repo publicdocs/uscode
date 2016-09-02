@@ -17,7 +17,7 @@
 
     Whoever is convicted of any crime prohibited by this chapter, which has resulted in the death of any person, shall be subject also to the death penalty or to imprisonment for life.
 
-(Added [July 14, 1956, ch. 595, § 1][/us/act/1956-07-14/ch595/s1], [70 Stat. 540][/us/stat/70/540]; amended [Pub. L. 103–322, title VI, § 60003(a)(1)][/us/pl/103/322/s60003/a/1], Sept. 13, 1994, [108 Stat. 1968][/us/stat/108/1968].)
+(Added [July 14, 1956, ch. 595][/us/act/1956-07-14/ch595], § 1, [70 Stat. 540][/us/stat/70/540]; amended [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60003(a)(1), Sept. 13, 1994, [108 Stat. 1968][/us/stat/108/1968].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1956-07-14/ch595/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-14%2Fch595%2Fs1
+[/us/act/1956-07-14/ch595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-14%2Fch595
 [/us/stat/70/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F540
-[/us/pl/103/322/s60003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60003%2Fa%2F1
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1968
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

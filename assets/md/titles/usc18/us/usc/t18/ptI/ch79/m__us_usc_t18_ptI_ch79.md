@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    1970—[Pub. L. 91–452, title IV, § 401(b)][/us/pl/91/452/s401/b], Oct. 15, 1970, [84 Stat. 933][/us/stat/84/933], added item 1623.
+    1970—[Pub. L. 91–452, title IV][/us/pl/91/452/tIV], § 401(b), Oct. 15, 1970, [84 Stat. 933][/us/stat/84/933], added item 1623.
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/91/452/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs401%2Fb
+[/us/pl/91/452/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtIV
 [/us/stat/84/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F933
 
 

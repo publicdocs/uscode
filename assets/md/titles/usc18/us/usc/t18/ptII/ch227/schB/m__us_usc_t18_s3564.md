@@ -35,7 +35,7 @@
 
     A sentence of probation remains conditional and subject to revocation until its expiration or termination.
 
-(Added [Pub. L. 98–473, title II, § 212(a)(2)][/us/pl/98/473/s212/a/2], Oct. 12, 1984, [98 Stat. 1994][/us/stat/98/1994]; amended [Pub. L. 99–646, § 13(a)][/us/pl/99/646/s13/a], Nov. 10, 1986, [100 Stat. 3594][/us/stat/100/3594]; [Pub. L. 100–182, § 11][/us/pl/100/182/s11], Dec. 7, 1987, [101 Stat. 1268][/us/stat/101/1268].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(2), Oct. 12, 1984, [98 Stat. 1994][/us/stat/98/1994]; amended [Pub. L. 99–646][/us/pl/99/646], § 13(a), Nov. 10, 1986, [100 Stat. 3594][/us/stat/100/3594]; [Pub. L. 100–182][/us/pl/100/182], § 11, Dec. 7, 1987, [101 Stat. 1268][/us/stat/101/1268].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–646, § 13(b)][/us/pl/99/646/s13/b], Nov. 10, 1986, [100 Stat. 3594][/us/stat/100/3594], provided that: 
+[Pub. L. 99–646][/us/pl/99/646], § 13(b), Nov. 10, 1986, [100 Stat. 3594][/us/stat/100/3594], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of such section 3564 \[Nov. 1, 1987\].”
 
@@ -72,11 +72,11 @@
 ----------
 ----------
 
-[/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1994
-[/us/pl/99/646/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs13%2Fa
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3594
-[/us/pl/100/182/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs11
+[/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
 [/us/stat/101/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1268
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
 [/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
@@ -84,7 +84,7 @@
 [/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
 [/us/pl/100/182/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs26
 [/us/usc/t18/s3006A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3006A
-[/us/pl/99/646/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs13%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3594
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551

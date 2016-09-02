@@ -17,11 +17,11 @@
 
     Whoever, being an officer, or employee of the United States or any department or agency thereof, or representing himself to be or assuming to act as such, under color or pretense of office or employment commits or attempts an act of extortion, shall be fined under this title or imprisoned not more than three years, or both; but if the amount so extorted or demanded does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 740][/us/stat/62/740]; [Oct. 31, 1951, ch. 655, § 24(b)][/us/act/1951-10-31/ch655/s24/b], [65 Stat. 720][/us/stat/65/720]; [Pub. L. 103–322, title XXXIII, § 330016(1)(G)][/us/pl/103/322/s330016/1/G], (K), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–294, title VI, § 606(a)][/us/pl/104/294/s606/a], Oct. 11, 1996, [110 Stat. 3511][/us/stat/110/3511].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 740][/us/stat/62/740]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 24(b), [65 Stat. 720][/us/stat/65/720]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(G), (K), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 606(a), Oct. 11, 1996, [110 Stat. 3511][/us/stat/110/3511].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 171 ([Mar. 4, 1909, ch. 321, § 85][/us/act/1909-03-04/ch321/s85], [35 Stat. 1104][/us/stat/35/1104]).
+    Based on title 18, U.S.C., 1940 ed., § 171 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 85, [35 Stat. 1104][/us/stat/35/1104]).
 
     Words “or any department or agency” were inserted to eliminate any possible ambiguity as to scope of section. (See definitive [section 6 of this title][/us/usc/t18/s6].)
 
@@ -44,13 +44,13 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F740
-[/us/act/1951-10-31/ch655/s24/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs24%2Fb
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F720
-[/us/pl/103/322/s330016/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FG
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/104/294/s606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs606%2Fa
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3511
-[/us/act/1909-03-04/ch321/s85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs85
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1104
 [/us/usc/t18/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs6
 [/us/usc/t18/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs171

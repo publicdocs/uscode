@@ -17,7 +17,7 @@
 
     In any civil action instituted under this chapter by the United States in any district court of the United States, the Attorney General may file with the clerk of such court a certificate stating that in his opinion the case is of general public importance. A copy of that certificate shall be furnished immediately by such clerk to the chief judge or in his absence to the presiding district judge of the district in which such action is pending. Upon receipt of such copy, such judge shall designate immediately a judge of that district to hear and determine action.
 
-(Added [Pub. L. 91–452, title IX, § 901(a)][/us/pl/91/452/s901/a], Oct. 15, 1970, [84 Stat. 944][/us/stat/84/944]; amended [Pub. L. 98–620, title IV, § 402(24)(B)][/us/pl/98/620/s402/24/B], Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359].)
+(Added [Pub. L. 91–452, title IX][/us/pl/91/452/tIX], § 901(a), Oct. 15, 1970, [84 Stat. 944][/us/stat/84/944]; amended [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(24)(B), Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/91/452/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs901%2Fa
+[/us/pl/91/452/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtIX
 [/us/stat/84/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F944
-[/us/pl/98/620/s402/24/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F24%2FB
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3359
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620

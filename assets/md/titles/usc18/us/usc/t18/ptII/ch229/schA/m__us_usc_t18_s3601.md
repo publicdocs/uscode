@@ -17,7 +17,7 @@
 
     A person who has been sentenced to probation pursuant to the provisions of subchapter B of chapter 227, or placed on probation pursuant to the provisions of chapter 403, or placed on supervised release pursuant to the provisions of section 3583, shall, during the term imposed, be supervised by a probation officer to the degree warranted by the conditions specified by the sentencing court.
 
-(Added [Pub. L. 98–473, title II, § 212(a)(2)][/us/pl/98/473/s212/a/2], Oct. 12, 1984, [98 Stat. 2001][/us/stat/98/2001].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(2), Oct. 12, 1984, [98 Stat. 2001][/us/stat/98/2001].)
 
  __Effective Date__ 
 
@@ -25,13 +25,13 @@
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 801\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–66; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided that: 
+[Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title VIII, § 801\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–66; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided that: 
 
 > “This title \[enacting sections 1915A and 1932 of Title 28, Judiciary and Judicial Procedure, amending sections 3624 and 3626 of this title, [section 523 of Title 11][/us/usc/t11/s523], Bankruptcy, sections 1346 and 1915 of Title 28, and sections 1997a to 1997c, 1997e, 1997f, and 1997h of Title 42, The Public Health and Welfare, enacting provisions set out as notes under [section 3626 of this title][/us/usc/t18/s3626], and repealing provisions set out as a note under [section 3626 of this title][/us/usc/t18/s3626]\] may be cited as the ‘Prison Litigation Reform Act of 1995’.”
 
  __Post Incarceration Vocational and Remedial Educational Opportunities for Inmates__ 
 
-[Pub. L. 107–273, div. B, title II, § 2411][/us/pl/107/273/s2411], Nov. 2, 2002, [116 Stat. 1799][/us/stat/116/1799], provided that:
+[Pub. L. 107–273, div. B, title II][/us/pl/107/273/dB/tII], § 2411, Nov. 2, 2002, [116 Stat. 1799][/us/stat/116/1799], provided that:
 
 >     “(a) __Federal Reentry Center Demonstration.—__ 
 
@@ -104,18 +104,18 @@
 ----------
 ----------
 
-[/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2001
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 [/us/usc/t11/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs523
 [/us/usc/t18/s3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3626
 [/us/usc/t18/s3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3626
-[/us/pl/107/273/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs2411
+[/us/pl/107/273/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtII
 [/us/stat/116/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1799
 
 

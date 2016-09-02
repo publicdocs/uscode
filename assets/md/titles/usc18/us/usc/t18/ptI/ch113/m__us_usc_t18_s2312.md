@@ -17,7 +17,7 @@
 
     Whoever transports in interstate or foreign commerce a motor vehicle, vessel, or aircraft, knowing the same to have been stolen, shall be fined under this title or imprisoned not more than 10 years, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 806][/us/stat/62/806]; [Pub. L. 102–519, title I, § 103][/us/pl/102/519/s103], Oct. 25, 1992, [106 Stat. 3385][/us/stat/106/3385]; [Pub. L. 109–177, title III, § 307(b)(2)(A)][/us/pl/109/177/s307/b/2/A], Mar. 9, 2006, [120 Stat. 240][/us/stat/120/240].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 806][/us/stat/62/806]; [Pub. L. 102–519, title I][/us/pl/102/519/tI], § 103, Oct. 25, 1992, [106 Stat. 3385][/us/stat/106/3385]; [Pub. L. 109–177, title III][/us/pl/109/177/tIII], § 307(b)(2)(A), Mar. 9, 2006, [120 Stat. 240][/us/stat/120/240].)
 
  __Historical and Revision Notes__ 
 
@@ -50,9 +50,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F806
-[/us/pl/102/519/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519%2Fs103
+[/us/pl/102/519/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519%2FtI
 [/us/stat/106/3385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3385
-[/us/pl/109/177/s307/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs307%2Fb%2F2%2FA
+[/us/pl/109/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIII
 [/us/stat/120/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F240
 [/us/act/1919-10-29/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-10-29%2Fch89
 [/us/stat/41/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F324

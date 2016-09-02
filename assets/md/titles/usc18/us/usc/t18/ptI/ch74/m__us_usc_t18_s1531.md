@@ -51,7 +51,7 @@
 
     (e) A woman upon whom a partial-birth abortion is performed may not be prosecuted under this section, for a conspiracy to violate this section, or for an offense under section 2, 3, or 4 of this title based on a violation of this section.
 
-(Added [Pub. L. 108–105, § 3(a)][/us/pl/108/105/s3/a], Nov. 5, 2003, [117 Stat. 1206][/us/stat/117/1206].)
+(Added [Pub. L. 108–105][/us/pl/108/105], § 3(a), Nov. 5, 2003, [117 Stat. 1206][/us/stat/117/1206].)
 
  __References in Text__ 
 
@@ -59,13 +59,13 @@
 
  __Short Title__ 
 
-[Pub. L. 108–105, § 1][/us/pl/108/105/s1], Nov. 5, 2003, [117 Stat. 1201][/us/stat/117/1201], provided that: 
+[Pub. L. 108–105][/us/pl/108/105], § 1, Nov. 5, 2003, [117 Stat. 1201][/us/stat/117/1201], provided that: 
 
 > “This Act \[enacting this chapter and provisions set out as a note under this section\] may be cited as the ‘Partial-Birth Abortion Ban Act of 2003’.”
 
  __Findings__ 
 
-[Pub. L. 108–105, § 2][/us/pl/108/105/s2], Nov. 5, 2003, [117 Stat. 1201][/us/stat/117/1201], provided that: 
+[Pub. L. 108–105][/us/pl/108/105], § 2, Nov. 5, 2003, [117 Stat. 1201][/us/stat/117/1201], provided that: 
 
 > “The Congress finds and declares the following:
 
@@ -136,12 +136,12 @@
 ----------
 ----------
 
-[/us/pl/108/105/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F105%2Fs3%2Fa
+[/us/pl/108/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F105
 [/us/stat/117/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1206
 [/us/pl/108/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F105
-[/us/pl/108/105/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F105%2Fs1
+[/us/pl/108/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F105
 [/us/stat/117/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1201
-[/us/pl/108/105/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F105%2Fs2
+[/us/pl/108/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F105
 [/us/stat/117/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1201
 [/us/usc/t52/s10303/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs10303%2Fe
 [/us/usc/t42/s1973c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973c

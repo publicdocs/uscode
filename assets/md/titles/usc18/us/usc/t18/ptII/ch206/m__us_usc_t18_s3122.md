@@ -29,7 +29,7 @@
 
         (2) a certification by the applicant that the information likely to be obtained is relevant to an ongoing criminal investigation being conducted by that agency.
 
-(Added [Pub. L. 99–508, title III, § 301(a)][/us/pl/99/508/s301/a], Oct. 21, 1986, [100 Stat. 1869][/us/stat/100/1869].)
+(Added [Pub. L. 99–508, title III][/us/pl/99/508/tIII], § 301(a), Oct. 21, 1986, [100 Stat. 1869][/us/stat/100/1869].)
 
 ----------
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t18/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3123
 [/us/usc/t18/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3123
-[/us/pl/99/508/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs301%2Fa
+[/us/pl/99/508/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtIII
 [/us/stat/100/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1869
 
 

@@ -51,7 +51,7 @@
 
  __Prior Provisions__ 
 
-    A prior chapter 113A of part I of this title, consisting of section 2331 et seq. and relating to terrorism, was renumbered chapter 113B of part I of this title by [Pub. L. 103–322, title XXV, § 250002(a)(1)][/us/pl/103/322/s250002/a/1], Sept. 13, 1994, [108 Stat. 2082][/us/stat/108/2082].
+    A prior chapter 113A of part I of this title, consisting of section 2331 et seq. and relating to terrorism, was renumbered chapter 113B of part I of this title by [Pub. L. 103–322, title XXV][/us/pl/103/322/tXXV], § 250002(a)(1), Sept. 13, 1994, [108 Stat. 2082][/us/stat/108/2082].
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s250002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs250002%2Fa%2F1
+[/us/pl/103/322/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXV
 [/us/stat/108/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2082
 
 

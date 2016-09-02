@@ -27,7 +27,7 @@
 
     (5) the identity, including district, of the applying investigative or law enforcement agency making the application and the person authorizing the order.
 
-(Added [Pub. L. 99–508, title III, § 301(a)][/us/pl/99/508/s301/a], Oct. 21, 1986, [100 Stat. 1871][/us/stat/100/1871], § 3125; renumbered § 3126, [Pub. L. 100–690, title VII, § 7092(a)(1)][/us/pl/100/690/s7092/a/1], Nov. 18, 1988, [102 Stat. 4410][/us/stat/102/4410]; amended [Pub. L. 106–197, § 3][/us/pl/106/197/s3], May 2, 2000, [114 Stat. 247][/us/stat/114/247].)
+(Added [Pub. L. 99–508, title III][/us/pl/99/508/tIII], § 301(a), Oct. 21, 1986, [100 Stat. 1871][/us/stat/100/1871], § 3125; renumbered § 3126, [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7092(a)(1), Nov. 18, 1988, [102 Stat. 4410][/us/stat/102/4410]; amended [Pub. L. 106–197][/us/pl/106/197], § 3, May 2, 2000, [114 Stat. 247][/us/stat/114/247].)
 
  __Prior Provisions__ 
 
@@ -41,7 +41,7 @@
 
  __Report on Use of DCS 1000 (Carnivore) To Implement Orders Under Section 3123__ 
 
-[Pub. L. 107–273, div. A, title III, § 305(a)][/us/pl/107/273/s305/a], Nov. 2, 2002, [116 Stat. 1782][/us/stat/116/1782], provided that: 
+[Pub. L. 107–273, div. A, title III][/us/pl/107/273/dA/tIII], § 305(a), Nov. 2, 2002, [116 Stat. 1782][/us/stat/116/1782], provided that: 
 
 > “At the same time that the Attorney General submits to Congress the annual reports required by [section 3126 of title 18][/us/usc/t18/s3126], United States Code, that are respectively next due after the end of each of the fiscal years 2002 and 2003, the Attorney General shall also submit to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives a report, covering the same respective time period, on the number of orders under section 3123 applied for by law enforcement agencies of the Department of Justice whose implementation involved the use of the DCS 1000 program (or any subsequent version of such program), which report shall include information concerning—
 
@@ -64,17 +64,17 @@
 ----------
 ----------
 
-[/us/pl/99/508/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs301%2Fa
+[/us/pl/99/508/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtIII
 [/us/stat/100/1871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1871
-[/us/pl/100/690/s7092/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7092%2Fa%2F1
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4410
-[/us/pl/106/197/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F197%2Fs3
+[/us/pl/106/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F197
 [/us/stat/114/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F247
 [/us/usc/t18/s3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3127
 [/us/pl/106/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F197
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t18/s3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3125
-[/us/pl/107/273/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs305%2Fa
+[/us/pl/107/273/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdA%2FtIII
 [/us/stat/116/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1782
 [/us/usc/t18/s3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3126
 

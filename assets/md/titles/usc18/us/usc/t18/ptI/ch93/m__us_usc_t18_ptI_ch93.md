@@ -219,17 +219,17 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–294, title VI, § 604(b)(44)][/us/pl/104/294/s604/b/44], Oct. 11, 1996, [110 Stat. 3509][/us/stat/110/3509], substituted “employees’ ” for “employee’s” in item 1920.
+    1996—[Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(44), Oct. 11, 1996, [110 Stat. 3509][/us/stat/110/3509], substituted “employees’ ” for “employee’s” in item 1920.
 
-    1994—[Pub. L. 103–359, title VIII, § 808(b)][/us/pl/103/359/s808/b], Oct. 14, 1994, [108 Stat. 3454][/us/stat/108/3454], added item 1924.
+    1994—[Pub. L. 103–359, title VIII][/us/pl/103/359/tVIII], § 808(b), Oct. 14, 1994, [108 Stat. 3454][/us/stat/108/3454], added item 1924.
 
-    [Pub. L. 103–333, title I, § 101(b)(2)][/us/pl/103/333/s101/b/2], Sept. 30, 1994, [108 Stat. 2548][/us/stat/108/2548], substituted “or fraud to obtain Federal employee’s compensation” for “to obtain Federal employees’ compensation” in item 1920.
+    [Pub. L. 103–333, title I][/us/pl/103/333/tI], § 101(b)(2), Sept. 30, 1994, [108 Stat. 2548][/us/stat/108/2548], substituted “or fraud to obtain Federal employee’s compensation” for “to obtain Federal employees’ compensation” in item 1920.
 
-    [Pub. L. 103–322, title XXXIII, § 330004(11)][/us/pl/103/322/s330004/11], Sept. 13, 1994, [108 Stat. 2141][/us/stat/108/2141], struck out items 1904 “Disclosure of information or speculation in securities affecting Reconstruction Finance Corporation” and 1908 “Disclosure of information by National Agricultural Credit Corporation examiner”.
+    [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330004(11), Sept. 13, 1994, [108 Stat. 2141][/us/stat/108/2141], struck out items 1904 “Disclosure of information or speculation in securities affecting Reconstruction Finance Corporation” and 1908 “Disclosure of information by National Agricultural Credit Corporation examiner”.
 
-    1990—[Pub. L. 101–647, title XXXV, § 3556][/us/pl/101/647/s3556], Nov. 29, 1990, [104 Stat. 4927][/us/stat/104/4927], substituted “from a bank examination report” for “by bank examiner” in item 1906 and struck out item 1914 “Salary of Government officials and employees payable only by United States”.
+    1990—[Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3556, Nov. 29, 1990, [104 Stat. 4927][/us/stat/104/4927], substituted “from a bank examination report” for “by bank examiner” in item 1906 and struck out item 1914 “Salary of Government officials and employees payable only by United States”.
 
-    1966—[Pub. L. 89–554, § 3(c)][/us/pl/89/554/s3/c], Sept. 6, 1966, [80 Stat. 608][/us/stat/80/608], added items 1916 to 1923.
+    1966—[Pub. L. 89–554][/us/pl/89/554], § 3(c), Sept. 6, 1966, [80 Stat. 608][/us/stat/80/608], added items 1916 to 1923.
 
 ----------
 
@@ -238,17 +238,17 @@
 ----------
 ----------
 
-[/us/pl/104/294/s604/b/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F44
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3509
-[/us/pl/103/359/s808/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs808%2Fb
+[/us/pl/103/359/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVIII
 [/us/stat/108/3454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3454
-[/us/pl/103/333/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F333%2Fs101%2Fb%2F2
+[/us/pl/103/333/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F333%2FtI
 [/us/stat/108/2548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2548
-[/us/pl/103/322/s330004/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330004%2F11
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2141
-[/us/pl/101/647/s3556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3556
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4927
-[/us/pl/89/554/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs3%2Fc
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F608
 
 

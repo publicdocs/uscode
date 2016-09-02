@@ -39,15 +39,15 @@
 
     (11) to delegate the authority conferred by this chapter to officers of the Department of Justice.
 
-(Added [Pub. L. 95–144, § 1][/us/pl/95/144/s1], Oct. 28, 1977, [91 Stat. 1214][/us/stat/91/1214].)
+(Added [Pub. L. 95–144][/us/pl/95/144], § 1, Oct. 28, 1977, [91 Stat. 1214][/us/stat/91/1214].)
 
  __Change of Name__ 
 
-    Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], which is classified to [section 3508(b) of Title 20][/us/usc/t20/s3508/b], Education.
+    Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695], which is classified to [section 3508(b) of Title 20][/us/usc/t20/s3508/b], Education.
 
  __Certification by Attorney General to Secretary of State for Reimbursement of Expenses Incurred Under Transfer Treaty__ 
 
-[Pub. L. 95–144, § 5(b)][/us/pl/95/144/s5/b], Oct. 28, 1977, [91 Stat. 1221][/us/stat/91/1221], provided that: 
+[Pub. L. 95–144][/us/pl/95/144], § 5(b), Oct. 28, 1977, [91 Stat. 1221][/us/stat/91/1221], provided that: 
 
 > “The Attorney General shall certify to the Secretary of State the expenses of the United States related to the return of an offender to the foreign country of which the offender is a citizen or national for which the United States is entitled to seek reimbursement from that country under a treaty providing for transfer and reimbursement.”
 
@@ -58,12 +58,12 @@
 ----------
 ----------
 
-[/us/pl/95/144/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144%2Fs1
+[/us/pl/95/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144
 [/us/stat/91/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1214
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/pl/95/144/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144%2Fs5%2Fb
+[/us/pl/95/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144
 [/us/stat/91/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1221
 
 

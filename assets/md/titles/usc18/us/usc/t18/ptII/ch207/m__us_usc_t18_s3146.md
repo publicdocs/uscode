@@ -55,13 +55,13 @@
 
     If a person fails to appear before a court as required, and the person executed an appearance bond pursuant to [section 3142(b) of this title][/us/usc/t18/s3142/b] or is subject to the release condition set forth in clause (xi) or (xii) of [section 3142(c)(1)(B) of this title][/us/usc/t18/s3142/c/1/B], the judicial officer may, regardless of whether the person has been charged with an offense under this section, declare any property designated pursuant to that section to be forfeited to the United States.
 
-(Added [Pub. L. 98–473, title II, § 203(a)][/us/pl/98/473/s203/a], Oct. 12, 1984, [98 Stat. 1982][/us/stat/98/1982]; amended [Pub. L. 99–646, § 55(f)][/us/pl/99/646/s55/f], Nov. 10, 1986, [100 Stat. 3609][/us/stat/100/3609]; [Pub. L. 103–322, title XXXIII, § 330016(2)(K)][/us/pl/103/322/s330016/2/K], Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148]; [Pub. L. 104–294, title VI, § 601(a)(4)][/us/pl/104/294/s601/a/4], Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 203(a), Oct. 12, 1984, [98 Stat. 1982][/us/stat/98/1982]; amended [Pub. L. 99–646][/us/pl/99/646], § 55(f), Nov. 10, 1986, [100 Stat. 3609][/us/stat/100/3609]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(2)(K), Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(a)(4), Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498].)
 
  __Prior Provisions__ 
 
-    A prior section 3146, added [Pub. L. 89–465, § 3(a)][/us/pl/89/465/s3/a], June 22, 1966, [80 Stat. 214][/us/stat/80/214]; amended [Pub. L. 97–291, § 8][/us/pl/97/291/s8], Oct. 12, 1982, [96 Stat. 1257][/us/stat/96/1257], related to release in noncapital cases prior to trial, prior to repeal in the revision of this chapter by [section 203(a) of Pub. L. 98–473][/us/pl/98/473/s203/a].
+    A prior section 3146, added [Pub. L. 89–465][/us/pl/89/465], § 3(a), June 22, 1966, [80 Stat. 214][/us/stat/80/214]; amended [Pub. L. 97–291][/us/pl/97/291], § 8, Oct. 12, 1982, [96 Stat. 1257][/us/stat/96/1257], related to release in noncapital cases prior to trial, prior to repeal in the revision of this chapter by [section 203(a) of Pub. L. 98–473][/us/pl/98/473/s203/a].
 
-    Another prior section 3146, [act Aug. 20, 1954, ch. 772, § 1][/us/act/1954-08-20/ch772/s1], [68 Stat. 747][/us/stat/68/747], which prescribed penalties for jumping bail, was repealed by [Pub. L. 89–465, § 3(a)][/us/pl/89/465/s3/a], June 22, 1966, [80 Stat. 214][/us/stat/80/214], and covered by former sections 3150 and 3151 of this title.
+    Another prior section 3146, [act Aug. 20, 1954, ch. 772][/us/act/1954-08-20/ch772], § 1, [68 Stat. 747][/us/stat/68/747], which prescribed penalties for jumping bail, was repealed by [Pub. L. 89–465][/us/pl/89/465], § 3(a), June 22, 1966, [80 Stat. 214][/us/stat/80/214], and covered by former sections 3150 and 3151 of this title.
 
  __Amendments__ 
 
@@ -69,13 +69,13 @@
 
     1994—Subsec. (b)(1)(A)(iv). [Pub. L. 103–322][/us/pl/103/322] substituted “fined under this title” for “fine under this chapter”.
 
-    1986—Subsec. (a). [Pub. L. 99–646, § 55(f)(1)][/us/pl/99/646/s55/f/1], added subsec. (a) and struck out former subsec. (a) which read as follows: “A person commits an offense if, after having been released pursuant to this chapter—
+    1986—Subsec. (a). [Pub. L. 99–646][/us/pl/99/646], § 55(f)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “A person commits an offense if, after having been released pursuant to this chapter—
 
     “(1) he knowingly fails to appear before a court as required by the conditions of his release; or
 
     “(2) he knowingly fails to surrender for service of sentence pursuant to a court order.”
 
-    Subsec. (b). [Pub. L. 99–646, § 55(f)(1)][/us/pl/99/646/s55/f/1], added subsec. (b) and struck out former subsec. (b) which was captioned “Grading”, and which read as follows: “If the person was released—
+    Subsec. (b). [Pub. L. 99–646][/us/pl/99/646], § 55(f)(1), added subsec. (b) and struck out former subsec. (b) which was captioned “Grading”, and which read as follows: “If the person was released—
 
     “(1) in connection with a charge of, or while awaiting sentence, surrender for service of sentence, or appeal or certiorari after conviction, for—
 
@@ -91,9 +91,9 @@
 
     A term of imprisonment imposed pursuant to this section shall be consecutive to the sentence of imprisonment for any other offense.”
 
-    Subsec. (c). [Pub. L. 99–646, § 55(f)(2)][/us/pl/99/646/s55/f/2], substituted “requirement to appear” for “requirement that he appear” and “the person appeared” for “he appeared”.
+    Subsec. (c). [Pub. L. 99–646][/us/pl/99/646], § 55(f)(2), substituted “requirement to appear” for “requirement that he appear” and “the person appeared” for “he appeared”.
 
-    Subsec. (d). [Pub. L. 99–646, § 55(f)(3)][/us/pl/99/646/s55/f/3], inserted “of this title” after “3142(b)” and substituted “clause (xi) or (xii) of [section 3142(c)(1)(B) of this title][/us/usc/t18/s3142/c/1/B]” for “section 3142(c)(2)(K) or (c)(2)(L)”.
+    Subsec. (d). [Pub. L. 99–646][/us/pl/99/646], § 55(f)(3), inserted “of this title” after “3142(b)” and substituted “clause (xi) or (xii) of [section 3142(c)(1)(B) of this title][/us/usc/t18/s3142/c/1/B]” for “section 3142(c)(2)(K) or (c)(2)(L)”.
 
  __Effective Date of 1986 Amendment__ 
 
@@ -108,29 +108,29 @@
 
 [/us/usc/t18/s3142/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3142%2Fb
 [/us/usc/t18/s3142/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3142%2Fc%2F1%2FB
-[/us/pl/98/473/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs203%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1982
-[/us/pl/99/646/s55/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs55%2Ff
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3609
-[/us/pl/103/322/s330016/2/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F2%2FK
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2148
-[/us/pl/104/294/s601/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fa%2F4
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3498
-[/us/pl/89/465/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F465%2Fs3%2Fa
+[/us/pl/89/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F465
 [/us/stat/80/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F214
-[/us/pl/97/291/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F291%2Fs8
+[/us/pl/97/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F291
 [/us/stat/96/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1257
 [/us/pl/98/473/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs203%2Fa
-[/us/act/1954-08-20/ch772/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-20%2Fch772%2Fs1
+[/us/act/1954-08-20/ch772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-20%2Fch772
 [/us/stat/68/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F747
-[/us/pl/89/465/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F465%2Fs3%2Fa
+[/us/pl/89/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F465
 [/us/stat/80/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F214
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/99/646/s55/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs55%2Ff%2F1
-[/us/pl/99/646/s55/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs55%2Ff%2F1
-[/us/pl/99/646/s55/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs55%2Ff%2F2
-[/us/pl/99/646/s55/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs55%2Ff%2F3
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/usc/t18/s3142/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3142%2Fc%2F1%2FB
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/pl/99/646/s55/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs55%2Fj

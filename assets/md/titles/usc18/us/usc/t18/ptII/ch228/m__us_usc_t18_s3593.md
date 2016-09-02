@@ -71,7 +71,7 @@
 
     In a hearing held before a jury, the court, prior to the return of a finding under subsection (e), shall instruct the jury that, in considering whether a sentence of death is justified, it shall not consider the race, color, religious beliefs, national origin, or sex of the defendant or of any victim and that the jury is not to recommend a sentence of death unless it has concluded that it would recommend a sentence of death for the crime in question no matter what the race, color, religious beliefs, national origin, or sex of the defendant or of any victim may be. The jury, upon return of a finding under subsection (e), shall also return to the court a certificate, signed by each juror, that consideration of the race, color, religious beliefs, national origin, or sex of the defendant or any victim was not involved in reaching his or her individual decision and that the individual juror would have made the same recommendation regarding a sentence for the crime in question no matter what the race, color, religious beliefs, national origin, or sex of the defendant or any victim may be.
 
-(Added [Pub. L. 103–322, title VI, § 60002(a)][/us/pl/103/322/s60002/a], Sept. 13, 1994, [108 Stat. 1964][/us/stat/108/1964]; amended [Pub. L. 105–6, § 2(c)][/us/pl/105/6/s2/c], Mar. 19, 1997, [111 Stat. 12][/us/stat/111/12]; [Pub. L. 107–273, div. B, title IV, § 4002(e)(8)][/us/pl/107/273/s4002/e/8], Nov. 2, 2002, [116 Stat. 1810][/us/stat/116/1810].)
+(Added [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60002(a), Sept. 13, 1994, [108 Stat. 1964][/us/stat/108/1964]; amended [Pub. L. 105–6][/us/pl/105/6], § 2(c), Mar. 19, 1997, [111 Stat. 12][/us/stat/111/12]; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(e)(8), Nov. 2, 2002, [116 Stat. 1810][/us/stat/116/1810].)
 
  __References in Text__ 
 
@@ -94,11 +94,11 @@
 ----------
 ----------
 
-[/us/pl/103/322/s60002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60002%2Fa
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1964
-[/us/pl/105/6/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F6%2Fs2%2Fc
+[/us/pl/105/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F6
 [/us/stat/111/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F12
-[/us/pl/107/273/s4002/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fe%2F8
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1810
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/105/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F6

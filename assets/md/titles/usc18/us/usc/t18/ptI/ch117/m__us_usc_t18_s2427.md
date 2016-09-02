@@ -17,7 +17,7 @@
 
     In this chapter, the term “sexual activity for which any person can be charged with a criminal offense” includes the production of child pornography, as defined in section 2256(8).
 
-(Added [Pub. L. 105–314, title I, § 105(a)][/us/pl/105/314/s105/a], Oct. 30, 1998, [112 Stat. 2977][/us/stat/112/2977].)
+(Added [Pub. L. 105–314, title I][/us/pl/105/314/tI], § 105(a), Oct. 30, 1998, [112 Stat. 2977][/us/stat/112/2977].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/314/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2Fs105%2Fa
+[/us/pl/105/314/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2FtI
 [/us/stat/112/2977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2977
 
 

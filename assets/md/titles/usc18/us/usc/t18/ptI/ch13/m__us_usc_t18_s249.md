@@ -121,21 +121,21 @@
 
         An indictment or information alleging that an offense under this section resulted in death may be found or instituted at any time without limitation.
 
-(Added and amended [Pub. L. 111–84, div. E][/us/pl/111/84], §§ 4707(a), 4711, Oct. 28, 2009, [123 Stat. 2838][/us/stat/123/2838], 2842.)
+(Added and amended [Pub. L. 111–84, div. E][/us/pl/111/84/dE], §§ 4707(a), 4711, Oct. 28, 2009, [123 Stat. 2838][/us/stat/123/2838], 2842.)
 
  __Amendments__ 
 
-    2009—Subsec. (a)(4). [Pub. L. 111–84, § 4711][/us/pl/111/84/s4711], added par. (4).
+    2009—Subsec. (a)(4). [Pub. L. 111–84][/us/pl/111/84], § 4711, added par. (4).
 
  __Severability__ 
 
-[Pub. L. 111–84, div. E, § 4709][/us/pl/111/84/s4709], Oct. 28, 2009, [123 Stat. 2841][/us/stat/123/2841], provided that: 
+[Pub. L. 111–84, div. E][/us/pl/111/84/dE], § 4709, Oct. 28, 2009, [123 Stat. 2841][/us/stat/123/2841], provided that: 
 
 > “If any provision of this division \[enacting this section and [section 1389 of this title][/us/usc/t18/s1389] and sections 3716 and 3716a of Title 42, The Public Health and Welfare, amending this section, enacting provisions set out as notes under this section and [section 3716 of Title 42][/us/usc/t42/s3716], and amending provisions set out as a note under section 534 and provisions listed in a table relating to sentencing guidelines set out under [section 994 of Title 28][/us/usc/t28/s994], Judiciary and Judicial Procedure\], an amendment made by this division, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this division, the amendments made by this division, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
 
  __Rule of Construction__ 
 
-[Pub. L. 111–84, div. E, § 4710][/us/pl/111/84/s4710], Oct. 28, 2009, [123 Stat. 2841][/us/stat/123/2841], provided that: 
+[Pub. L. 111–84, div. E][/us/pl/111/84/dE], § 4710, Oct. 28, 2009, [123 Stat. 2841][/us/stat/123/2841], provided that: 
 
 > “For purposes of construing this division \[see Severability note above\] and the amendments made by this division the following shall apply:
 
@@ -169,7 +169,7 @@
 
  __Findings__ 
 
-[Pub. L. 111–84, div. E, § 4702][/us/pl/111/84/s4702], Oct. 28, 2009, [123 Stat. 2835][/us/stat/123/2835], provided that: 
+[Pub. L. 111–84, div. E][/us/pl/111/84/dE], § 4702, Oct. 28, 2009, [123 Stat. 2835][/us/stat/123/2835], provided that: 
 
 > “Congress makes the following findings:
 
@@ -217,17 +217,17 @@
 [/us/usc/t18/s1365/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1365%2Fh%2F4
 [/us/usc/t18/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs232
 [/us/usc/t18/s921/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921%2Fa
-[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84/dE]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdE
 [/us/stat/123/2838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2838
-[/us/pl/111/84/s4711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs4711
-[/us/pl/111/84/s4709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs4709
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84/dE]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdE
 [/us/stat/123/2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2841
 [/us/usc/t18/s1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1389
 [/us/usc/t42/s3716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3716
 [/us/usc/t28/s994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994
-[/us/pl/111/84/s4710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs4710
+[/us/pl/111/84/dE]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdE
 [/us/stat/123/2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2841
-[/us/pl/111/84/s4702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs4702
+[/us/pl/111/84/dE]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdE
 [/us/stat/123/2835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2835
 [/us/pl/111/84/s4702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs4702
 [/us/pl/111/84/s4703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs4703%2Fb

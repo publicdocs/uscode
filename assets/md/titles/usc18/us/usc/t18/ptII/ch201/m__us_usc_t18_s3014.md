@@ -91,7 +91,7 @@
 
         The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015 shall continue to apply to the amounts transferred pursuant to paragraph (1).
 
-(Added and amended [Pub. L. 114–22, title I, § 101(a)][/us/pl/114/22/s101/a], title IX, § 905, May 29, 2015, [129 Stat. 228][/us/stat/129/228], 266.)
+(Added and amended [Pub. L. 114–22, title I][/us/pl/114/22/tI], § 101(a), title IX, § 905, May 29, 2015, [129 Stat. 228][/us/stat/129/228], 266.)
 
  __References in Text__ 
 
@@ -101,7 +101,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (e)(1)(D). [Pub. L. 114–22, § 905][/us/pl/114/22/s905], added subpar. (D).
+    2015—Subsec. (e)(1)(D). [Pub. L. 114–22][/us/pl/114/22], § 905, added subpar. (D).
 
 ----------
 
@@ -121,12 +121,12 @@
 [/us/usc/t22/s7105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7105
 [/us/usc/t42/s13002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13002%2Fb
 [/us/usc/t42/s13002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13002%2Fb
-[/us/pl/114/22/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs101%2Fa
+[/us/pl/114/22/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtI
 [/us/stat/129/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F228
 [/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 [/us/pl/114/10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs221
 [/us/stat/129/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F154
 [/us/usc/t42/s254b–2/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254b%E2%80%932%2Fb%2F1%2FE
-[/us/pl/114/22/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs905
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 
 

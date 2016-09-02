@@ -43,13 +43,13 @@
 
         (6) the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
 
-(Added [Pub. L. 87–218, § 1][/us/pl/87/218/s1], Sept. 13, 1961, [75 Stat. 492][/us/stat/75/492]; amended [Pub. L. 93–583, § 3][/us/pl/93/583/s3], Jan. 2, 1975, [88 Stat. 1916][/us/stat/88/1916]; [Pub. L. 96–90, § 2][/us/pl/96/90/s2], Oct. 23, 1979, [93 Stat. 698][/us/stat/93/698]; [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 113–251, § 5(2)][/us/pl/113/251/s5/2], Dec. 18, 2014, [128 Stat. 2891][/us/stat/128/2891].)
+(Added [Pub. L. 87–218][/us/pl/87/218], § 1, Sept. 13, 1961, [75 Stat. 492][/us/stat/75/492]; amended [Pub. L. 93–583][/us/pl/93/583], § 3, Jan. 2, 1975, [88 Stat. 1916][/us/stat/88/1916]; [Pub. L. 96–90][/us/pl/96/90], § 2, Oct. 23, 1979, [93 Stat. 698][/us/stat/93/698]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 113–251][/us/pl/113/251], § 5(2), Dec. 18, 2014, [128 Stat. 2891][/us/stat/128/2891].)
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–251, § 5(2)(A)][/us/pl/113/251/s5/2/A], substituted “(5) equipment, tickets, or materials used or designed for use in a savings promotion raffle operated by an insured depository institution or an insured credit union, or (6)” for “or (5)”.
+    2014—Subsec. (b). [Pub. L. 113–251][/us/pl/113/251], § 5(2)(A), substituted “(5) equipment, tickets, or materials used or designed for use in a savings promotion raffle operated by an insured depository institution or an insured credit union, or (6)” for “or (5)”.
 
-    Subsecs. (d), (e). [Pub. L. 113–251, § 5(2)(B)][/us/pl/113/251/s5/2/B], added subsec. (d) and struck out former subsecs. (d) and (e) which read as follows:
+    Subsecs. (d), (e). [Pub. L. 113–251][/us/pl/113/251], § 5(2)(B), added subsec. (d) and struck out former subsecs. (d) and (e) which read as follows:
 
     “(d) For the purposes of this section (1) ‘State’ means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States; and (2) ‘foreign country’ means any empire, country, dominion, colony, or protectorate, or any subdivision thereof (other than the United States, its territories or possessions).
 
@@ -57,9 +57,9 @@
 
     1994—Subsec. (a). [Pub. L. 103–322][/us/pl/103/322] substituted “fined under this title” for “fined not more than $10,000”.
 
-    1979—Subsec. (b)(5). [Pub. L. 96–90, § 2(1)][/us/pl/96/90/s2/1], added cl. (5).
+    1979—Subsec. (b)(5). [Pub. L. 96–90][/us/pl/96/90], § 2(1), added cl. (5).
 
-    Subsecs. (d), (e). [Pub. L. 96–90, § 2(2)][/us/pl/96/90/s2/2], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 96–90][/us/pl/96/90], § 2(2), added subsecs. (d) and (e).
 
     1975—Subsec. (b)(4). [Pub. L. 93–583][/us/pl/93/583] added cl. (4).
 
@@ -73,21 +73,21 @@
 [/us/usc/t12/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s5481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5481
-[/us/pl/87/218/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F218%2Fs1
+[/us/pl/87/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F218
 [/us/stat/75/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F492
-[/us/pl/93/583/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F583%2Fs3
+[/us/pl/93/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F583
 [/us/stat/88/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1916
-[/us/pl/96/90/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F90%2Fs2
+[/us/pl/96/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F90
 [/us/stat/93/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F698
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/113/251/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs5%2F2
+[/us/pl/113/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251
 [/us/stat/128/2891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2891
-[/us/pl/113/251/s5/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs5%2F2%2FA
-[/us/pl/113/251/s5/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs5%2F2%2FB
+[/us/pl/113/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251
+[/us/pl/113/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/96/90/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F90%2Fs2%2F1
-[/us/pl/96/90/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F90%2Fs2%2F2
+[/us/pl/96/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F90
+[/us/pl/96/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F90
 [/us/pl/93/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F583
 
 

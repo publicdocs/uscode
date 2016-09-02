@@ -17,7 +17,7 @@
 
     The Attorney General may contract with any public or private agency or individual and such community-based facilities as halfway houses and foster homes for the observation and study and the custody and care of juveniles in his custody. For these purposes, the Attorney General may promulgate such regulations as are necessary and may use the appropriation for “support of United States prisoners” or such other appropriations as he may designate.
 
-(Added [Pub. L. 93–415, title V, § 510][/us/pl/93/415/s510], Sept. 7, 1974, [88 Stat. 1138][/us/stat/88/1138].)
+(Added [Pub. L. 93–415, title V][/us/pl/93/415/tV], § 510, Sept. 7, 1974, [88 Stat. 1138][/us/stat/88/1138].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/415/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs510
+[/us/pl/93/415/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV
 [/us/stat/88/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1138
 
 

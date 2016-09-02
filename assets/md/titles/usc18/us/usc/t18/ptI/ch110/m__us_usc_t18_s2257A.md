@@ -121,7 +121,7 @@
 
             (D) for each case listed in response to subparagraph (C), the name of the lead defendant, the federal district in which the case was brought, the court tracking number, and a synopsis of the violation and its disposition, if any, including settlements, sentences, recoveries and penalties.
 
-(Added [Pub. L. 109–248, title V, § 503(a)][/us/pl/109/248/s503/a], July 27, 2006, [120 Stat. 626][/us/stat/120/626].)
+(Added [Pub. L. 109–248, title V][/us/pl/109/248/tV], § 503(a), July 27, 2006, [120 Stat. 626][/us/stat/120/626].)
 
  __References in Text__ 
 
@@ -138,7 +138,7 @@
 
 [/us/usc/t18/s2257/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2257%2Fh
 [/us/usc/t18/s1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1464
-[/us/pl/109/248/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs503%2Fa
+[/us/pl/109/248/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtV
 [/us/stat/120/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F626
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 

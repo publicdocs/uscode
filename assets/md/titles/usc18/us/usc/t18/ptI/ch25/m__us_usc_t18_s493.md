@@ -19,11 +19,11 @@
 
     Whoever passes, utters, or publishes, or attempts to pass, utter or publish any note, bond, debenture, coupon, obligation, instrument or document knowing the same to have been falsely made, forged, counterfeited or altered, contrary to the provisions of this section, shall be fined under this title or imprisoned not more than 10 years, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 711][/us/stat/62/711]; [Pub. L. 87–353, § 3(p)][/us/pl/87/353/s3/p], Oct. 4, 1961, [75 Stat. 774][/us/stat/75/774]; [Pub. L. 90–19, § 24(a)][/us/pl/90/19/s24/a], May 25, 1967, [81 Stat. 27][/us/stat/81/27]; [Pub. L. 91–468, § 3][/us/pl/91/468/s3], Oct. 19, 1970, [84 Stat. 1016][/us/stat/84/1016]; [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 107–56, title III, § 374(i)][/us/pl/107/56/s374/i], Oct. 26, 2001, [115 Stat. 341][/us/stat/115/341].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 711][/us/stat/62/711]; [Pub. L. 87–353][/us/pl/87/353], § 3(p), Oct. 4, 1961, [75 Stat. 774][/us/stat/75/774]; [Pub. L. 90–19][/us/pl/90/19], § 24(a), May 25, 1967, [81 Stat. 27][/us/stat/81/27]; [Pub. L. 91–468][/us/pl/91/468], § 3, Oct. 19, 1970, [84 Stat. 1016][/us/stat/84/1016]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 374(i), Oct. 26, 2001, [115 Stat. 341][/us/stat/115/341].)
 
  __Historical and Revision Notes__ 
 
-    Based on sections 264(t), 982, 1126, 1138d(b), 1316, 1441(b), 1467(b), 1731(b) of title 12, U.S.C., 1940 ed., Banks and Banking, and [section 616(b) of title 15][/us/usc/t15/s616/b], U.S.C. 1940 ed., Commerce and Trade ([Dec. 23, 1913, ch. 6, § 12B(t)][/us/act/1913-12-23/ch6/s12B/t], as added [June 16, 1933, ch. 89, § 8][/us/act/1933-06-16/ch89/s8], [48 Stat. 178][/us/stat/48/178], and amended [Aug. 23, 1935, ch. 614, § 101][/us/act/1935-08-23/ch614/s101], [49 Stat. 684][/us/stat/49/684]; [July 17, 1916, ch. 245, § 31][/us/act/1916-07-17/ch245/s31] (second paragraph), [39 Stat. 383][/us/stat/39/383]; [July 17, 1916, ch. 245, § 211(f)][/us/act/1916-07-17/ch245/s211/f], as added [Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title I, § 2, [42 Stat. 1460][/us/stat/42/1460]; [Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title II, § 216(f), [42 Stat. 1472][/us/stat/42/1472]; [Jan. 22, 1932, ch. 8, § 16(b)][/us/act/1932-01-22/ch8/s16/b], [47 Stat. 11][/us/stat/47/11]; [July 22, 1932, ch. 522, § 21(b)][/us/act/1932-07-22/ch522/s21/b], [47 Stat. 738][/us/stat/47/738]; [June 13, 1933, ch. 64, § 8(b)][/us/act/1933-06-13/ch64/s8/b], [48 Stat. 134][/us/stat/48/134]; [June 16, 1933, ch. 98, § 64(b)][/us/act/1933-06-16/ch98/s64/b], [48 Stat. 268][/us/stat/48/268]; [June 27, 1934, ch. 847, § 512(b)][/us/act/1934-06-27/ch847/s512/b], [48 Stat. 1265][/us/stat/48/1265]).
+    Based on sections 264(t), 982, 1126, 1138d(b), 1316, 1441(b), 1467(b), 1731(b) of title 12, U.S.C., 1940 ed., Banks and Banking, and [section 616(b) of title 15][/us/usc/t15/s616/b], U.S.C. 1940 ed., Commerce and Trade ([Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], § 12B(t), as added [June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 8, [48 Stat. 178][/us/stat/48/178], and amended [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], § 101, [49 Stat. 684][/us/stat/49/684]; [July 17, 1916, ch. 245][/us/act/1916-07-17/ch245], § 31 (second paragraph), [39 Stat. 383][/us/stat/39/383]; [July 17, 1916, ch. 245][/us/act/1916-07-17/ch245], § 211(f), as added [Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title I, § 2, [42 Stat. 1460][/us/stat/42/1460]; [Mar. 4, 1923, ch. 252][/us/act/1923-03-04/ch252], title II, § 216(f), [42 Stat. 1472][/us/stat/42/1472]; [Jan. 22, 1932, ch. 8][/us/act/1932-01-22/ch8], § 16(b), [47 Stat. 11][/us/stat/47/11]; [July 22, 1932, ch. 522][/us/act/1932-07-22/ch522], § 21(b), [47 Stat. 738][/us/stat/47/738]; [June 13, 1933, ch. 64][/us/act/1933-06-13/ch64], § 8(b), [48 Stat. 134][/us/stat/48/134]; [June 16, 1933, ch. 98][/us/act/1933-06-16/ch98], § 64(b), [48 Stat. 268][/us/stat/48/268]; [June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], § 512(b), [48 Stat. 1265][/us/stat/48/1265]).
 
     Each of the nine sections from which this section was derived contained similar provisions with respect to one or more named agencies or corporations. The punishment was the same in each section except that in sections 982, 1126, and 1316 of title 12, U.S.C., 1940 ed., Banks and Banking, the maximum fine was $5,000. This section adopts the $10,000 maximum fine provided in the other six former sections.
 
@@ -73,7 +73,7 @@
 
  __Abolition of Home Owners’ Loan Corporation__ 
 
-    For dissolution and abolition of Home Owners’ Loan Corporation, referred to in this section, by [act June 30, 1953, ch. 170, § 21][/us/act/1953-06-30/ch170/s21], [67 Stat. 126][/us/stat/67/126], see note set out under [section 1463 of Title 12][/us/usc/t12/s1463], Banks and Banking.
+    For dissolution and abolition of Home Owners’ Loan Corporation, referred to in this section, by [act June 30, 1953, ch. 170][/us/act/1953-06-30/ch170], § 21, [67 Stat. 126][/us/stat/67/126], see note set out under [section 1463 of Title 12][/us/usc/t12/s1463], Banks and Banking.
 
  __Farm Credit Administration__ 
 
@@ -88,38 +88,38 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F711
-[/us/pl/87/353/s3/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F353%2Fs3%2Fp
+[/us/pl/87/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F353
 [/us/stat/75/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F774
-[/us/pl/90/19/s24/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs24%2Fa
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F27
-[/us/pl/91/468/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468%2Fs3
+[/us/pl/91/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F468
 [/us/stat/84/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1016
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/107/56/s374/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs374%2Fi
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F341
 [/us/usc/t15/s616/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs616%2Fb
-[/us/act/1913-12-23/ch6/s12B/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6%2Fs12B%2Ft
-[/us/act/1933-06-16/ch89/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs8
+[/us/act/1913-12-23/ch6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-23%2Fch6
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F178
-[/us/act/1935-08-23/ch614/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614%2Fs101
+[/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F684
-[/us/act/1916-07-17/ch245/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-17%2Fch245%2Fs31
+[/us/act/1916-07-17/ch245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-17%2Fch245
 [/us/stat/39/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F383
-[/us/act/1916-07-17/ch245/s211/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-17%2Fch245%2Fs211%2Ff
+[/us/act/1916-07-17/ch245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-17%2Fch245
 [/us/act/1923-03-04/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch252
 [/us/stat/42/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1460
 [/us/act/1923-03-04/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch252
 [/us/stat/42/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1472
-[/us/act/1932-01-22/ch8/s16/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-01-22%2Fch8%2Fs16%2Fb
+[/us/act/1932-01-22/ch8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-01-22%2Fch8
 [/us/stat/47/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F11
-[/us/act/1932-07-22/ch522/s21/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522%2Fs21%2Fb
+[/us/act/1932-07-22/ch522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch522
 [/us/stat/47/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F738
-[/us/act/1933-06-13/ch64/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64%2Fs8%2Fb
+[/us/act/1933-06-13/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64
 [/us/stat/48/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F134
-[/us/act/1933-06-16/ch98/s64/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch98%2Fs64%2Fb
+[/us/act/1933-06-16/ch98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch98
 [/us/stat/48/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F268
-[/us/act/1934-06-27/ch847/s512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847%2Fs512%2Fb
+[/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1265
 [/us/usc/t18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2
 [/us/usc/t12/s1138d/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1138d%2Ff
@@ -137,7 +137,7 @@
 [/us/pl/87/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F353
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
 [/us/stat/71/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F647
-[/us/act/1953-06-30/ch170/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170%2Fs21
+[/us/act/1953-06-30/ch170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170
 [/us/stat/67/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F126
 [/us/usc/t12/s1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1463
 [/us/usc/t12/s2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2241

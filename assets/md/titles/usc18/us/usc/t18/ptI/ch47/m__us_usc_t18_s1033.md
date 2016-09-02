@@ -91,7 +91,7 @@
 
         (4) the term “State” includes any State, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands.
 
-(Added [Pub. L. 103–322, title XXXII, § 320603(a)][/us/pl/103/322/s320603/a], Sept. 13, 1994, [108 Stat. 2115][/us/stat/108/2115].)
+(Added [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320603(a), Sept. 13, 1994, [108 Stat. 2115][/us/stat/108/2115].)
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -104,7 +104,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s320603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320603%2Fa
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2115
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

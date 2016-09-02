@@ -63,9 +63,9 @@
 
  __Amendments__ 
 
-    1961—[Pub. L. 87–216, § 3][/us/pl/87/216/s3], Sept. 13, 1961, [75 Stat. 491][/us/stat/75/491], added item 1084.
+    1961—[Pub. L. 87–216][/us/pl/87/216], § 3, Sept. 13, 1961, [75 Stat. 491][/us/stat/75/491], added item 1084.
 
-    1949—[Act May 24, 1949, ch. 139, § 23][/us/act/1949-05-24/ch139/s23], [63 Stat. 92][/us/stat/63/92], added chapter 50 and items 1081 to 1083.
+    1949—[Act May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 23, [63 Stat. 92][/us/stat/63/92], added chapter 50 and items 1081 to 1083.
 
 ----------
 
@@ -75,9 +75,9 @@
 ----------
 
 [/us/stat/62/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F200
-[/us/pl/87/216/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F216%2Fs3
+[/us/pl/87/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F216
 [/us/stat/75/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F491
-[/us/act/1949-05-24/ch139/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs23
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F92
 
 

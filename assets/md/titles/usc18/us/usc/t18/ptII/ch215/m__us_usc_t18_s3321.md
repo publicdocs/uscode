@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on [section 419 of title 28][/us/usc/t28/s419], U.S.C., 1940 ed., Judicial Code and Judiciary ([Mar. 3, 1911, ch. 231, § 282][/us/act/1911-03-03/ch231/s282], [36 Stat. 1165][/us/stat/36/1165]).
+    Based on [section 419 of title 28][/us/usc/t28/s419], U.S.C., 1940 ed., Judicial Code and Judiciary ([Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 282, [36 Stat. 1165][/us/stat/36/1165]).
 
     The provisions of the first sentence are embodied in rule 6(a) of the Federal Rules of Criminal Procedure, but it has been retained because of its relation to the remainder of the text which is not covered by said rule.
 
@@ -35,7 +35,7 @@
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F829
 [/us/usc/t28/s419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs419
-[/us/act/1911-03-03/ch231/s282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs282
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1165
 
 

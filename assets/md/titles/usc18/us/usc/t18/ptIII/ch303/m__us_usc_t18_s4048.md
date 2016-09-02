@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptIII/ch303/m__us_usc_t18_s4047.md) | [Next](./../../../../..//us/usc/t18/ptIII/ch305/m__us_usc_t18_ptIII_ch305.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4048)
+[Previous](./../../../../..//us/usc/t18/ptIII/ch303/m__us_usc_t18_s4047.md) | [Next](./../../../../..//us/usc/t18/ptIII/ch303/m__us_usc_t18_s4049.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4048)
 
 ## § 4048. Fees for health care services for prisoners
 
@@ -135,7 +135,7 @@
 
     The Bureau of Prisons shall provide comprehensive coverage for services relating to human immunodeficiency virus (HIV) and acquired immune deficiency syndrome (AIDS) to each Federal prisoner in the custody of the Bureau of Prisons when medically appropriate. The Bureau of Prisons may not assess or collect a fee under this section for providing such coverage.
 
-(Added [Pub. L. 106–294, § 2(a)][/us/pl/106/294/s2/a], Oct. 12, 2000, [114 Stat. 1038][/us/stat/114/1038].)
+(Added [Pub. L. 106–294][/us/pl/106/294], § 2(a), Oct. 12, 2000, [114 Stat. 1038][/us/stat/114/1038].)
 
  __References in Text__ 
 
@@ -143,13 +143,13 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptIII/ch303/m__us_usc_t18_s4047.md) | [Next](./../../../../..//us/usc/t18/ptIII/ch305/m__us_usc_t18_ptIII_ch305.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4048)
+[Previous](./../../../../..//us/usc/t18/ptIII/ch303/m__us_usc_t18_s4047.md) | [Next](./../../../../..//us/usc/t18/ptIII/ch303/m__us_usc_t18_s4049.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4048)
 
 ----------
 ----------
 
 [/us/usc/t42/s10601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10601
-[/us/pl/106/294/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F294%2Fs2%2Fa
+[/us/pl/106/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F294
 [/us/stat/114/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1038
 [/us/pl/106/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F294
 

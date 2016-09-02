@@ -25,11 +25,11 @@
 
     (d) This section shall apply within the admiralty and maritime jurisdiction of the United States, and on the high seas, as well as within the United States.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 811][/us/stat/62/811]; [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 811][/us/stat/62/811]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on sections 33, 34, 35, 37 of title 50, U.S.C., 1940 ed., War and National Defense ([June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title I, §§ 3, 4, 5, 8, [40 Stat. 219][/us/stat/40/219]; [Mar. 3, 1921, ch. 136][/us/act/1921-03-03/ch136], [41 Stat. 1359][/us/stat/41/1359]; [Mar. 28, 1940, ch. 72, § 2][/us/act/1940-03-28/ch72/s2], [54 Stat. 79][/us/stat/54/79]).
+    Based on sections 33, 34, 35, 37 of title 50, U.S.C., 1940 ed., War and National Defense ([June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title I, §§ 3, 4, 5, 8, [40 Stat. 219][/us/stat/40/219]; [Mar. 3, 1921, ch. 136][/us/act/1921-03-03/ch136], [41 Stat. 1359][/us/stat/41/1359]; [Mar. 28, 1940, ch. 72][/us/act/1940-03-28/ch72], § 2, [54 Stat. 79][/us/stat/54/79]).
 
     Sections 33, 34, 35, and 37 of title 50, U.S.C., 1940 ed., War and National Defense, were consolidated. Sections 34, 35, and 37 of title 50, U.S.C., 1940 ed., War and National Defense, are also incorporated in sections 791, 792, and 794 of this title, to which they relate.
 
@@ -41,7 +41,7 @@
 
  __Repeals__ 
 
-    Section 7 of [act June 30, 1953, ch. 175][/us/act/1953-06-30/ch175], [67 Stat. 134][/us/stat/67/134], repealed Joint Res. [July 3, 1952, ch. 570, § 1(a)(29)][/us/act/1952-07-03/ch570/s1/a/29], [66 Stat. 333][/us/stat/66/333]; Joint Res. [Mar. 31, 1953, ch. 13, § 1][/us/act/1953-03-31/ch13/s1], [67 Stat. 18][/us/stat/67/18], which had provided that this section should continue in force until six months after the termination of the National emergency proclaimed by 1950 Proc. No. 2914, which is set out as a note preceding [section 1 of Title 50][/us/usc/t50/s1], War and National Defense.
+    Section 7 of [act June 30, 1953, ch. 175][/us/act/1953-06-30/ch175], [67 Stat. 134][/us/stat/67/134], repealed Joint Res. [July 3, 1952, ch. 570][/us/act/1952-07-03/ch570], § 1(a)(29), [66 Stat. 333][/us/stat/66/333]; Joint Res. [Mar. 31, 1953, ch. 13][/us/act/1953-03-31/ch13], § 1, [67 Stat. 18][/us/stat/67/18], which had provided that this section should continue in force until six months after the termination of the National emergency proclaimed by 1950 Proc. No. 2914, which is set out as a note preceding [section 1 of Title 50][/us/usc/t50/s1], War and National Defense.
 
  __Repeal of Extensions of War-time Provisions__ 
 
@@ -56,20 +56,20 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F811
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
 [/us/stat/40/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F219
 [/us/act/1921-03-03/ch136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-03%2Fch136
 [/us/stat/41/1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1359
-[/us/act/1940-03-28/ch72/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-28%2Fch72%2Fs2
+[/us/act/1940-03-28/ch72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-28%2Fch72
 [/us/stat/54/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F79
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/act/1953-06-30/ch175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch175
 [/us/stat/67/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F134
-[/us/act/1952-07-03/ch570/s1/a/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-03%2Fch570%2Fs1%2Fa%2F29
+[/us/act/1952-07-03/ch570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-03%2Fch570
 [/us/stat/66/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F333
-[/us/act/1953-03-31/ch13/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-03-31%2Fch13%2Fs1
+[/us/act/1953-03-31/ch13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-03-31%2Fch13
 [/us/stat/67/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F18
 [/us/usc/t50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1
 [/us/act/1952-04-14/ch204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-14%2Fch204

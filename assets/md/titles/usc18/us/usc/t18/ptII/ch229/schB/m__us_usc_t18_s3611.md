@@ -17,7 +17,7 @@
 
     A person who is sentenced to pay a fine, assessment, or restitution, shall pay the fine, assessment, or restitution (including any interest or penalty), as specified by the Director of the Administrative Office of the United States Courts. Such Director may specify that such payment be made to the clerk of the court or in the manner provided for under [section 604(a)(18) of title 28][/us/usc/t28/s604/a/18], United States Code.
 
-(Added [Pub. L. 98–473, title II, § 212(a)(2)][/us/pl/98/473/s212/a/2], Oct. 12, 1984, [98 Stat. 2004][/us/stat/98/2004]; amended [Pub. L. 100–185, § 10(a)][/us/pl/100/185/s10/a], Dec. 11, 1987, [101 Stat. 1283][/us/stat/101/1283]; [Pub. L. 101–647, title XXXV, § 3591][/us/pl/101/647/s3591], Nov. 29, 1990, [104 Stat. 4931][/us/stat/104/4931]; [Pub. L. 104–132, title II, § 207(c)(1)][/us/pl/104/132/s207/c/1], Apr. 24, 1996, [110 Stat. 1237][/us/stat/110/1237].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(2), Oct. 12, 1984, [98 Stat. 2004][/us/stat/98/2004]; amended [Pub. L. 100–185][/us/pl/100/185], § 10(a), Dec. 11, 1987, [101 Stat. 1283][/us/stat/101/1283]; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3591, Nov. 29, 1990, [104 Stat. 4931][/us/stat/104/4931]; [Pub. L. 104–132, title II][/us/pl/104/132/tII], § 207(c)(1), Apr. 24, 1996, [110 Stat. 1237][/us/stat/110/1237].)
 
  __Prior Provisions__ 
 
@@ -37,7 +37,7 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–185, § 10(b)][/us/pl/100/185/s10/b], Dec. 11, 1987, [101 Stat. 1283][/us/stat/101/1283], provided that: 
+[Pub. L. 100–185][/us/pl/100/185], § 10(b), Dec. 11, 1987, [101 Stat. 1283][/us/stat/101/1283], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply with respect to any fine imposed after October 31, 1988. Such amendment shall also apply with respect to any fine imposed on or before October 31, 1988, if the fine remains uncollected as of February 1, 1989, unless the Director of the Administrative Office of the United States Courts determines further delay is necessary. If the Director so determines, the amendment made by this section shall apply with respect to any such fine imposed on or before October 31, 1988, if the fine remains uncollected as of May 1, 1989.”
 
@@ -47,7 +47,7 @@
 
  __Receipt of Fines—Interim Provisions__ 
 
-[Pub. L. 100–185, § 9][/us/pl/100/185/s9], Dec. 11, 1987, [101 Stat. 1282][/us/stat/101/1282], provided that:
+[Pub. L. 100–185][/us/pl/100/185], § 9, Dec. 11, 1987, [101 Stat. 1282][/us/stat/101/1282], provided that:
 
 >     “(a)  __November__  __1, 1987,__  __to April__  __30, 1988.—__ 
 
@@ -69,13 +69,13 @@
 ----------
 
 [/us/usc/t28/s604/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs604%2Fa%2F18
-[/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2004
-[/us/pl/100/185/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185%2Fs10%2Fa
+[/us/pl/100/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185
 [/us/stat/101/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1283
-[/us/pl/101/647/s3591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3591
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4931
-[/us/pl/104/132/s207/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs207%2Fc%2F1
+[/us/pl/104/132/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtII
 [/us/stat/110/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1237
 [/us/usc/t18/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3601
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
@@ -84,11 +84,11 @@
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/104/132/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs211
 [/us/usc/t18/s2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2248
-[/us/pl/100/185/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185%2Fs10%2Fb
+[/us/pl/100/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185
 [/us/stat/101/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1283
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
-[/us/pl/100/185/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185%2Fs9
+[/us/pl/100/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F185
 [/us/stat/101/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1282
 [/us/usc/t18/s3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3611
 [/us/usc/t18/s3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3611

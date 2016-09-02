@@ -75,9 +75,9 @@
 
  __Amendments__ 
 
-    1970—[Pub. L. 91–452, title II, § 223(b)][/us/pl/91/452/s223/b], Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929], struck out item 895 “Immunity of witnesses”.
+    1970—[Pub. L. 91–452, title II][/us/pl/91/452/tII], § 223(b), Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929], struck out item 895 “Immunity of witnesses”.
 
-    1968—[Pub. L. 90–321, title II, § 202(a)][/us/pl/90/321/s202/a], May 29, 1968, [82 Stat. 159][/us/stat/82/159], added chapter 42 and items 891 to 896.
+    1968—[Pub. L. 90–321, title II][/us/pl/90/321/tII], § 202(a), May 29, 1968, [82 Stat. 159][/us/stat/82/159], added chapter 42 and items 891 to 896.
 
 ----------
 
@@ -86,9 +86,9 @@
 ----------
 ----------
 
-[/us/pl/91/452/s223/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs223%2Fb
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F929
-[/us/pl/90/321/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs202%2Fa
+[/us/pl/90/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtII
 [/us/stat/82/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F159
 
 

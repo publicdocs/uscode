@@ -19,7 +19,7 @@
 
     This section shall not interfere with any right or privilege conferred by existing laws of the United States.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 787][/us/stat/62/787]; [Pub. L. 104–294, title VI, § 601(a)(8)][/us/pl/104/294/s601/a/8], Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 787][/us/stat/62/787]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(a)(8), Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498].)
 
  __Historical and Revision Notes__ 
 
@@ -44,7 +44,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F787
-[/us/pl/104/294/s601/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fa%2F8
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3498
 [/us/act/1926-07-03/ch780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch780
 [/us/stat/44/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F891

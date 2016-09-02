@@ -29,11 +29,11 @@
 
     Shall be fined under this title or imprisoned not more than two years, or both; and for any subsequent offense shall be imprisoned not more than five years.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 762][/us/stat/62/762]; [Oct. 31, 1951, ch. 655, § 29][/us/act/1951-10-31/ch655/s29], [65 Stat. 721][/us/stat/65/721]; [Pub. L. 87–218, § 2][/us/pl/87/218/s2], Sept. 13, 1961, [75 Stat. 492][/us/stat/75/492]; [Pub. L. 103–322, title XXXIII, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 762][/us/stat/62/762]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 29, [65 Stat. 721][/us/stat/65/721]; [Pub. L. 87–218][/us/pl/87/218], § 2, Sept. 13, 1961, [75 Stat. 492][/us/stat/75/492]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(H), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 336 ([Mar. 4, 1909, ch. 321, § 213][/us/act/1909-03-04/ch321/s213], [35 Stat. 1129][/us/stat/35/1129]).
+    Based on title 18, U.S.C., 1940 ed., § 336 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 213, [35 Stat. 1129][/us/stat/35/1129]).
 
     Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in [section 2 of this title][/us/usc/t18/s2].
 
@@ -59,13 +59,13 @@
 [/us/usc/t18/s1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1953
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F762
-[/us/act/1951-10-31/ch655/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs29
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F721
-[/us/pl/87/218/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F218%2Fs2
+[/us/pl/87/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F218
 [/us/stat/75/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F492
-[/us/pl/103/322/s330016/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FH
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/act/1909-03-04/ch321/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs213
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1129
 [/us/usc/t18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

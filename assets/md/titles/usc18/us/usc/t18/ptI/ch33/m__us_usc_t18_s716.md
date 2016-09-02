@@ -63,29 +63,29 @@
 
         (2) for legitimate law enforcement purposes.
 
-(Added [Pub. L. 106–547, § 3(a)][/us/pl/106/547/s3/a], Dec. 19, 2000, [114 Stat. 2739][/us/stat/114/2739]; amended [Pub. L. 109–162, title XI, § 1191(a)][/us/pl/109/162/s1191/a], Jan. 5, 2006, [119 Stat. 3128][/us/stat/119/3128].)
+(Added [Pub. L. 106–547][/us/pl/106/547], § 3(a), Dec. 19, 2000, [114 Stat. 2739][/us/stat/114/2739]; amended [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1191(a), Jan. 5, 2006, [119 Stat. 3128][/us/stat/119/3128].)
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–162, § 1191(a)(6)][/us/pl/109/162/s1191/a/6], substituted “Public employee insignia and uniform” for “Police badges” in section catchline.
+    2006—[Pub. L. 109–162][/us/pl/109/162], § 1191(a)(6), substituted “Public employee insignia and uniform” for “Police badges” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 109–162, § 1191(a)(1)][/us/pl/109/162/s1191/a/1], substituted “official insignia or uniform” for “police badge”.
+    Subsec. (a)(1). [Pub. L. 109–162][/us/pl/109/162], § 1191(a)(1), substituted “official insignia or uniform” for “police badge”.
 
-    Subsec. (a)(2). [Pub. L. 109–162, § 1191(a)(1)][/us/pl/109/162/s1191/a/1], (2), substituted “official insignia or uniform to” for “police badge to” and “official insignia or uniform;” for “badge of the police;”.
+    Subsec. (a)(2). [Pub. L. 109–162][/us/pl/109/162], § 1191(a)(1), (2), substituted “official insignia or uniform to” for “police badge to” and “official insignia or uniform;” for “badge of the police;”.
 
-    Subsec. (a)(3). [Pub. L. 109–162, § 1191(a)(1)][/us/pl/109/162/s1191/a/1], substituted “official insignia or uniform” for “police badge”.
+    Subsec. (a)(3). [Pub. L. 109–162][/us/pl/109/162], § 1191(a)(1), substituted “official insignia or uniform” for “police badge”.
 
-    Subsec. (a)(4). [Pub. L. 109–162, § 1191(a)(1)][/us/pl/109/162/s1191/a/1], (2), substituted “official insignia or uniform under” for “police badge under” and “official insignia or uniform,” for “badge of the police,”.
+    Subsec. (a)(4). [Pub. L. 109–162][/us/pl/109/162], § 1191(a)(1), (2), substituted “official insignia or uniform under” for “police badge under” and “official insignia or uniform,” for “badge of the police,”.
 
-    Subsec. (b). [Pub. L. 109–162, § 1191(a)(3)(C)][/us/pl/109/162/s1191/a/3/C], which directed the insertion of “is not used to mislead or deceive, or” before “is used or intended” was executed by making the insertion before “is used or is intended”, to reflect the probable intent of Congress.
+    Subsec. (b). [Pub. L. 109–162][/us/pl/109/162], § 1191(a)(3)(C), which directed the insertion of “is not used to mislead or deceive, or” before “is used or intended” was executed by making the insertion before “is used or is intended”, to reflect the probable intent of Congress.
 
-    [Pub. L. 109–162, § 1191(a)(3)(A)][/us/pl/109/162/s1191/a/3/A], (B), substituted “the insignia or uniform” for “the badge” and inserted “is other than a counterfeit insignia or uniform and” before “is used or is intended to be used”.
+    [Pub. L. 109–162][/us/pl/109/162], § 1191(a)(3)(A), (B), substituted “the insignia or uniform” for “the badge” and inserted “is other than a counterfeit insignia or uniform and” before “is used or is intended to be used”.
 
-    [Pub. L. 109–162, § 1191(a)(1)][/us/pl/109/162/s1191/a/1], which directed substitution of “official insignia or uniform” for “police badge” could not be executed because the term “police badge” did not appear.
+    [Pub. L. 109–162][/us/pl/109/162], § 1191(a)(1), which directed substitution of “official insignia or uniform” for “police badge” could not be executed because the term “police badge” did not appear.
 
-    Subsec. (c)(3) to (5). [Pub. L. 109–162, § 1191(a)(4)][/us/pl/109/162/s1191/a/4], added pars. (3) to (5).
+    Subsec. (c)(3) to (5). [Pub. L. 109–162][/us/pl/109/162], § 1191(a)(4), added pars. (3) to (5).
 
-    Subsec. (d). [Pub. L. 109–162, § 1191(a)(5)][/us/pl/109/162/s1191/a/5], added subsec. (d).
+    Subsec. (d). [Pub. L. 109–162][/us/pl/109/162], § 1191(a)(5), added subsec. (d).
 
 ----------
 
@@ -94,19 +94,19 @@
 ----------
 ----------
 
-[/us/pl/106/547/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F547%2Fs3%2Fa
+[/us/pl/106/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F547
 [/us/stat/114/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2739
-[/us/pl/109/162/s1191/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1191%2Fa
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3128
-[/us/pl/109/162/s1191/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1191%2Fa%2F6
-[/us/pl/109/162/s1191/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1191%2Fa%2F1
-[/us/pl/109/162/s1191/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1191%2Fa%2F1
-[/us/pl/109/162/s1191/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1191%2Fa%2F1
-[/us/pl/109/162/s1191/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1191%2Fa%2F1
-[/us/pl/109/162/s1191/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1191%2Fa%2F3%2FC
-[/us/pl/109/162/s1191/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1191%2Fa%2F3%2FA
-[/us/pl/109/162/s1191/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1191%2Fa%2F1
-[/us/pl/109/162/s1191/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1191%2Fa%2F4
-[/us/pl/109/162/s1191/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1191%2Fa%2F5
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
+[/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 
 

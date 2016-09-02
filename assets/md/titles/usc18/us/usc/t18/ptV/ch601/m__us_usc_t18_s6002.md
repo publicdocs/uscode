@@ -25,7 +25,7 @@
 
     and the person presiding over the proceeding communicates to the witness an order issued under this title, the witness may not refuse to comply with the order on the basis of his privilege against self-incrimination; but no testimony or other information compelled under the order (or any information directly or indirectly derived from such testimony or other information) may be used against the witness in any criminal case, except a prosecution for perjury, giving a false statement, or otherwise failing to comply with the order.
 
-(Added [Pub. L. 91–452, title II, § 201(a)][/us/pl/91/452/s201/a], Oct. 15, 1970, [84 Stat. 927][/us/stat/84/927]; amended [Pub. L. 103–322, title XXXIII, § 330013(4)][/us/pl/103/322/s330013/4], Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
+(Added [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 201(a), Oct. 15, 1970, [84 Stat. 927][/us/stat/84/927]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330013(4), Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/91/452/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs201%2Fa
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F927
-[/us/pl/103/322/s330013/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330013%2F4
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2146
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

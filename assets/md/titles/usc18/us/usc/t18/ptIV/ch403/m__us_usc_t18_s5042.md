@@ -17,7 +17,7 @@
 
     Any juvenile probationer shall be accorded notice and a hearing with counsel before his probation can be revoked.
 
-(Added [Pub. L. 93–415, title V, § 512][/us/pl/93/415/s512], Sept. 7, 1974, [88 Stat. 1138][/us/stat/88/1138]; amended [Pub. L. 98–473, title II, § 214(c)][/us/pl/98/473/s214/c], Oct. 12, 1984, [98 Stat. 2014][/us/stat/98/2014].)
+(Added [Pub. L. 93–415, title V][/us/pl/93/415/tV], § 512, Sept. 7, 1974, [88 Stat. 1138][/us/stat/88/1138]; amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 214(c), Oct. 12, 1984, [98 Stat. 2014][/us/stat/98/2014].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/93/415/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs512
+[/us/pl/93/415/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV
 [/us/stat/88/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1138
-[/us/pl/98/473/s214/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs214%2Fc
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2014
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473

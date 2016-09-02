@@ -25,7 +25,7 @@
 
     (c) Nothing in this section shall be deemed to diminish or relieve any person of any other duty or obligation imposed by Federal or State law or regulation to maintain, or refrain from destroying, any document.
 
-(Added [Pub. L. 107–204, title VIII, § 802(a)][/us/pl/107/204/s802/a], July 30, 2002, [116 Stat. 800][/us/stat/116/800].)
+(Added [Pub. L. 107–204, title VIII][/us/pl/107/204/tVIII], § 802(a), July 30, 2002, [116 Stat. 800][/us/stat/116/800].)
 
 ----------
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t15/s78j–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78j%E2%80%931%2Fa
 [/us/usc/t15/s78j–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78j%E2%80%931%2Fa
-[/us/pl/107/204/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs802%2Fa
+[/us/pl/107/204/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtVIII
 [/us/stat/116/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F800
 
 

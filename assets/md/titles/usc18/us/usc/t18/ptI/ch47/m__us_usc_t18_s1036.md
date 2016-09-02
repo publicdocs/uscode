@@ -45,17 +45,17 @@
 
         (2) the term “airport” has the meaning given such term in [section 47102 of title 49][/us/usc/t49/s47102].
 
-(Added [Pub. L. 106–547, § 2(a)][/us/pl/106/547/s2/a], Dec. 19, 2000, [114 Stat. 2738][/us/stat/114/2738]; amended [Pub. L. 109–177, title III, § 302(a)][/us/pl/109/177/s302/a], Mar. 9, 2006, [120 Stat. 233][/us/stat/120/233].)
+(Added [Pub. L. 106–547][/us/pl/106/547], § 2(a), Dec. 19, 2000, [114 Stat. 2738][/us/stat/114/2738]; amended [Pub. L. 109–177, title III][/us/pl/109/177/tIII], § 302(a), Mar. 9, 2006, [120 Stat. 233][/us/stat/120/233].)
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–177, § 302(a)(4)][/us/pl/109/177/s302/a/4], substituted “any airport or seaport” for “any airport” in section catchline.
+    2006—[Pub. L. 109–177][/us/pl/109/177], § 302(a)(4), substituted “any airport or seaport” for “any airport” in section catchline.
 
-    Subsec. (a)(3), (4). [Pub. L. 109–177, § 302(a)(1)][/us/pl/109/177/s302/a/1], added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (a)(3), (4). [Pub. L. 109–177][/us/pl/109/177], § 302(a)(1), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (b)(1). [Pub. L. 109–177, § 302(a)(2)][/us/pl/109/177/s302/a/2], substituted “10 years” for “5 years”.
+    Subsec. (b)(1). [Pub. L. 109–177][/us/pl/109/177], § 302(a)(2), substituted “10 years” for “5 years”.
 
-    Subsec. (c)(1). [Pub. L. 109–177, § 302(a)(3)][/us/pl/109/177/s302/a/3], inserted “, captain of the seaport,” after “airport authority”.
+    Subsec. (c)(1). [Pub. L. 109–177][/us/pl/109/177], § 302(a)(3), inserted “, captain of the seaport,” after “airport authority”.
 
 ----------
 
@@ -66,13 +66,13 @@
 
 [/us/usc/t46/s70103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70103
 [/us/usc/t49/s47102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47102
-[/us/pl/106/547/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F547%2Fs2%2Fa
+[/us/pl/106/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F547
 [/us/stat/114/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2738
-[/us/pl/109/177/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs302%2Fa
+[/us/pl/109/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIII
 [/us/stat/120/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F233
-[/us/pl/109/177/s302/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs302%2Fa%2F4
-[/us/pl/109/177/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs302%2Fa%2F1
-[/us/pl/109/177/s302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs302%2Fa%2F2
-[/us/pl/109/177/s302/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs302%2Fa%2F3
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 
 

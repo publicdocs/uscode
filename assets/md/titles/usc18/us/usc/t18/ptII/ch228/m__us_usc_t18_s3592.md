@@ -195,11 +195,11 @@
 
         The jury, or if there is no jury, the court, may consider whether any other aggravating factor for which notice has been given exists.
 
-(Added and amended [Pub. L. 103–322, title VI, § 60002(a)][/us/pl/103/322/s60002/a], title XXXIII, § 330021(1), Sept. 13, 1994, [108 Stat. 1960][/us/stat/108/1960], 2150; [Pub. L. 104–132, title VII, § 728][/us/pl/104/132/s728], Apr. 24, 1996, [110 Stat. 1302][/us/stat/110/1302]; [Pub. L. 104–294, title VI][/us/pl/104/294], §§ 601(b)(7), 604(b)(35), Oct. 11, 1996, [110 Stat. 3499][/us/stat/110/3499], 3508; [Pub. L. 107–273, div. B, title IV, § 4002(e)(2)][/us/pl/107/273/s4002/e/2], Nov. 2, 2002, [116 Stat. 1810][/us/stat/116/1810]; [Pub. L. 109–248, title II, § 206(a)(4)][/us/pl/109/248/s206/a/4], July 27, 2006, [120 Stat. 614][/us/stat/120/614].)
+(Added and amended [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60002(a), title XXXIII, § 330021(1), Sept. 13, 1994, [108 Stat. 1960][/us/stat/108/1960], 2150; [Pub. L. 104–132, title VII][/us/pl/104/132/tVII], § 728, Apr. 24, 1996, [110 Stat. 1302][/us/stat/110/1302]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], §§ 601(b)(7), 604(b)(35), Oct. 11, 1996, [110 Stat. 3499][/us/stat/110/3499], 3508; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(e)(2), Nov. 2, 2002, [116 Stat. 1810][/us/stat/116/1810]; [Pub. L. 109–248, title II][/us/pl/109/248/tII], § 206(a)(4), July 27, 2006, [120 Stat. 614][/us/stat/120/614].)
 
  __References in Text__ 
 
-    [Section 1992 of this title][/us/usc/t18/s1992], referred to in subsec. (c)(1), was repealed and a new section 1992 enacted by [Pub. L. 109–177, title I, § 110(a)][/us/pl/109/177/s110/a], Mar. 9, 2006, [120 Stat. 205][/us/stat/120/205], and, as so enacted, section 1992 no longer relates only to the crime of wrecking trains.
+    [Section 1992 of this title][/us/usc/t18/s1992], referred to in subsec. (c)(1), was repealed and a new section 1992 enacted by [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 110(a), Mar. 9, 2006, [120 Stat. 205][/us/stat/120/205], and, as so enacted, section 1992 no longer relates only to the crime of wrecking trains.
 
     The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in subsec. (c)(12), is [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1236][/us/stat/84/1236], as amended. Title II of the Act, known as the Controlled Substances Act, is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. Title III of the Act, known as the Controlled Substances Import and Export Act, is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under sections 801 and 951 of Title 21 and Tables.
 
@@ -209,13 +209,13 @@
 
     2002—Subsec. (c)(1). [Pub. L. 107–273][/us/pl/107/273] substituted “section 37” for “section 36”.
 
-    1996—Subsec. (c)(1). [Pub. L. 104–294, § 601(b)(7)][/us/pl/104/294/s601/b/7], substituted “section 2332a (use of weapons of mass destruction)” for “section 2339 (use of weapons of mass destruction)”.
+    1996—Subsec. (c)(1). [Pub. L. 104–294][/us/pl/104/294], § 601(b)(7), substituted “section 2332a (use of weapons of mass destruction)” for “section 2339 (use of weapons of mass destruction)”.
 
-    Subsec. (c)(12). [Pub. L. 104–294, § 604(b)(35)][/us/pl/104/294/s604/b/35], substituted “Comprehensive Drug Abuse Prevention and Control Act of 1970” for “Controlled Substances Act”.
+    Subsec. (c)(12). [Pub. L. 104–294][/us/pl/104/294], § 604(b)(35), substituted “Comprehensive Drug Abuse Prevention and Control Act of 1970” for “Controlled Substances Act”.
 
     Subsec. (c)(16). [Pub. L. 104–132][/us/pl/104/132] added par. (16).
 
-    1994—Subsec. (c)(1). [Pub. L. 103–322, § 330021(1)][/us/pl/103/322/s330021/1], substituted “kidnapping” for “kidnaping”.
+    1994—Subsec. (c)(1). [Pub. L. 103–322][/us/pl/103/322], § 330021(1), substituted “kidnapping” for “kidnaping”.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -237,27 +237,27 @@
 [/us/usc/t21/s860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs860
 [/us/usc/t21/s861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs861
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/103/322/s60002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60002%2Fa
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1960
-[/us/pl/104/132/s728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs728
+[/us/pl/104/132/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVII
 [/us/stat/110/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1302
-[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3499
-[/us/pl/107/273/s4002/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fe%2F2
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1810
-[/us/pl/109/248/s206/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs206%2Fa%2F4
+[/us/pl/109/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtII
 [/us/stat/120/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F614
 [/us/usc/t18/s1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1992
-[/us/pl/109/177/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs110%2Fa
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F205
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1236
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/104/294/s601/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fb%2F7
-[/us/pl/104/294/s604/b/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F35
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
-[/us/pl/103/322/s330021/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330021%2F1
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/104/294/s604/b/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F35
 [/us/pl/104/294/s604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fd
 [/us/usc/t18/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs13

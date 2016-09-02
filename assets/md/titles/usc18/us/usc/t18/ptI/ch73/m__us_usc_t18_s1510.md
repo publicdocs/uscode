@@ -63,7 +63,7 @@
 
     (e) Whoever, having been notified of the applicable disclosure prohibitions or confidentiality requirements of [section 2709(c)(1) of this title][/us/usc/t18/s2709/c/1], section 626(d)(1) or 627(c)(1) of the Fair Credit Reporting Act ([15 U.S.C. 1681u(d)(1)][/us/usc/t15/s1681u/d/1] or 1681v(c)(1)), section 1114(a)(3)(A) or 1114(a)(5)(D)(i) of the Right to Financial Privacy Act  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “of 1978”. </sup></sup>  ([12 U.S.C. 3414(a)(3)(A)][/us/usc/t12/s3414/a/3/A] or 3414(a)(5)(D)(i)), or section 802(b)(1) of the National Security Act of 1947 ([50 U.S.C. 436(b)(1)][/us/usc/t50/s436/b/1]), <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  knowingly and with the intent to obstruct an investigation or judicial proceeding violates such prohibitions or requirements applicable by law to such person shall be imprisoned for not more than five years, fined under this title, or both.
 
-(Added [Pub. L. 90–123, § 1(a)][/us/pl/90/123/s1/a], Nov. 3, 1967, [81 Stat. 362][/us/stat/81/362]; amended [Pub. L. 97–291, § 4(e)][/us/pl/97/291/s4/e], Oct. 12, 1982, [96 Stat. 1253][/us/stat/96/1253]; [Pub. L. 101–73, title IX, § 962(c)][/us/pl/101/73/s962/c], Aug. 9, 1989, [103 Stat. 502][/us/stat/103/502]; [Pub. L. 102–550, title XV, § 1528][/us/pl/102/550/s1528], Oct. 28, 1992, [106 Stat. 4065][/us/stat/106/4065]; [Pub. L. 103–322, title XXXII, § 320604(c)][/us/pl/103/322/s320604/c], title XXXIII, § 330016(1)(K), Sept. 13, 1994, [108 Stat. 2119][/us/stat/108/2119], 2147; [Pub. L. 104–191, title II, § 248(c)][/us/pl/104/191/s248/c], Aug. 21, 1996, [110 Stat. 2020][/us/stat/110/2020]; [Pub. L. 109–177, title I, § 117][/us/pl/109/177/s117], Mar. 9, 2006, [120 Stat. 217][/us/stat/120/217]; [Pub. L. 111–148, title X, § 10606(d)(1)][/us/pl/111/148/s10606/d/1], Mar. 23, 2010, [124 Stat. 1008][/us/stat/124/1008].)
+(Added [Pub. L. 90–123][/us/pl/90/123], § 1(a), Nov. 3, 1967, [81 Stat. 362][/us/stat/81/362]; amended [Pub. L. 97–291][/us/pl/97/291], § 4(e), Oct. 12, 1982, [96 Stat. 1253][/us/stat/96/1253]; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 962(c), Aug. 9, 1989, [103 Stat. 502][/us/stat/103/502]; [Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1528, Oct. 28, 1992, [106 Stat. 4065][/us/stat/106/4065]; [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320604(c), title XXXIII, § 330016(1)(K), Sept. 13, 1994, [108 Stat. 2119][/us/stat/108/2119], 2147; [Pub. L. 104–191, title II][/us/pl/104/191/tII], § 248(c), Aug. 21, 1996, [110 Stat. 2020][/us/stat/110/2020]; [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 117, Mar. 9, 2006, [120 Stat. 217][/us/stat/120/217]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10606(d)(1), Mar. 23, 2010, [124 Stat. 1008][/us/stat/124/1008].)
 
  __References in Text__ 
 
@@ -71,19 +71,19 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(1). [Pub. L. 111–148, § 10606(d)(1)(A)][/us/pl/111/148/s10606/d/1/A], struck out “to the grand jury” after “has been furnished”.
+    2010—Subsec. (b)(1). [Pub. L. 111–148][/us/pl/111/148], § 10606(d)(1)(A), struck out “to the grand jury” after “has been furnished”.
 
-    Subsec. (b)(2). [Pub. L. 111–148, § 10606(d)(1)(B)(ii)][/us/pl/111/148/s10606/d/1/B/ii], struck out “to the grand jury” after “has been furnished” in concluding provisions.
+    Subsec. (b)(2). [Pub. L. 111–148][/us/pl/111/148], § 10606(d)(1)(B)(ii), struck out “to the grand jury” after “has been furnished” in concluding provisions.
 
-    Subsec. (b)(2)(A). [Pub. L. 111–148, § 10606(d)(1)(B)(i)][/us/pl/111/148/s10606/d/1/B/i], substituted “subpoena for records” for “grand jury subpoena”.
+    Subsec. (b)(2)(A). [Pub. L. 111–148][/us/pl/111/148], § 10606(d)(1)(B)(i), substituted “subpoena for records” for “grand jury subpoena”.
 
     2006—Subsec. (e). [Pub. L. 109–177][/us/pl/109/177] added subsec. (e).
 
     1996—Subsec. (b)(3)(B). [Pub. L. 104–191][/us/pl/104/191] which directed the insertion of “or a Department of Justice subpoena (issued under [section 3486 of title 18][/us/usc/t18/s3486]),” after “subpoena”, was executed by making the insertion after “subpoena” the second place it appeared to reflect the probable intent of Congress.
 
-    1994—Subsec. (a). [Pub. L. 103–322, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], substituted “fined under this title” for “fined not more than $5,000”.
+    1994—Subsec. (a). [Pub. L. 103–322][/us/pl/103/322], § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
 
-    Subsec. (d). [Pub. L. 103–322, § 320604(c)][/us/pl/103/322/s320604/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 103–322][/us/pl/103/322], § 320604(c), added subsec. (d).
 
     1992—Subsec. (b)(3)(B)(i). [Pub. L. 102–550][/us/pl/102/550] substituted “1344, 1956, 1957, or chapter 53 of title 31” for “or 1344”.
 
@@ -108,33 +108,33 @@
 [/us/usc/t15/s1681u/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681u%2Fd%2F1
 [/us/usc/t12/s3414/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3414%2Fa%2F3%2FA
 [/us/usc/t50/s436/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs436%2Fb%2F1
-[/us/pl/90/123/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F123%2Fs1%2Fa
+[/us/pl/90/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F123
 [/us/stat/81/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F362
-[/us/pl/97/291/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F291%2Fs4%2Fe
+[/us/pl/97/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F291
 [/us/stat/96/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1253
-[/us/pl/101/73/s962/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs962%2Fc
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F502
-[/us/pl/102/550/s1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1528
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4065
-[/us/pl/103/322/s320604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320604%2Fc
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2119
-[/us/pl/104/191/s248/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs248%2Fc
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2020
-[/us/pl/109/177/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs117
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F217
-[/us/pl/111/148/s10606/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10606%2Fd%2F1
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1008
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/usc/t50/s3162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3162
-[/us/pl/111/148/s10606/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10606%2Fd%2F1%2FA
-[/us/pl/111/148/s10606/d/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10606%2Fd%2F1%2FB%2Fii
-[/us/pl/111/148/s10606/d/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10606%2Fd%2F1%2FB%2Fi
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/usc/t18/s3486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3486
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
-[/us/pl/103/322/s320604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320604%2Fc
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/97/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F291

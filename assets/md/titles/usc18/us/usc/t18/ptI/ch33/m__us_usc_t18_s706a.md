@@ -35,7 +35,7 @@
 
     (e) A violation of this section or section 706 may be enjoined at the civil suit of the Attorney General.
 
-(Added [Pub. L. 109–481, § 2(a)][/us/pl/109/481/s2/a], Jan. 12, 2007, [120 Stat. 3673][/us/stat/120/3673].)
+(Added [Pub. L. 109–481][/us/pl/109/481], § 2(a), Jan. 12, 2007, [120 Stat. 3673][/us/stat/120/3673].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/109/481/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F481%2Fs2%2Fa
+[/us/pl/109/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F481
 [/us/stat/120/3673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3673
 
 

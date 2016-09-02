@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 753c ([May 14, 1930, ch. 274, § 4][/us/act/1930-05-14/ch274/s4], [46 Stat. 326][/us/stat/46/326]).
+    Based on title 18, U.S.C., 1940 ed., § 753c ([May 14, 1930, ch. 274][/us/act/1930-05-14/ch274], § 4, [46 Stat. 326][/us/stat/46/326]).
 
     Words “with or without hard labor” were omitted as unnecessary in view of omission of “hard labor” as part of the punishment. (See reviser’s note under [section 1 of this title][/us/usc/t18/s1].)
 
@@ -38,7 +38,7 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F848
-[/us/act/1930-05-14/ch274/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch274%2Fs4
+[/us/act/1930-05-14/ch274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch274
 [/us/stat/46/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F326
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1
 

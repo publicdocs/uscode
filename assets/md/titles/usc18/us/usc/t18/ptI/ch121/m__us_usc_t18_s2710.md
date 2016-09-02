@@ -109,7 +109,7 @@
 
     The provisions of this section preempt only the provisions of State or local law that require disclosure prohibited by this section.
 
-(Added [Pub. L. 100–618, § 2(a)(2)][/us/pl/100/618/s2/a/2], Nov. 5, 1988, [102 Stat. 3195][/us/stat/102/3195]; amended [Pub. L. 112–258, § 2][/us/pl/112/258/s2], Jan. 10, 2013, [126 Stat. 2414][/us/stat/126/2414].)
+(Added [Pub. L. 100–618][/us/pl/100/618], § 2(a)(2), Nov. 5, 1988, [102 Stat. 3195][/us/stat/102/3195]; amended [Pub. L. 112–258][/us/pl/112/258], § 2, Jan. 10, 2013, [126 Stat. 2414][/us/stat/126/2414].)
 
  __References in Text__ 
 
@@ -130,9 +130,9 @@
 ----------
 ----------
 
-[/us/pl/100/618/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F618%2Fs2%2Fa%2F2
+[/us/pl/100/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F618
 [/us/stat/102/3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3195
-[/us/pl/112/258/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F258%2Fs2
+[/us/pl/112/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F258
 [/us/stat/126/2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2414
 [/us/usc/t18/s2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2711
 [/us/pl/112/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F258

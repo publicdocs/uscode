@@ -71,7 +71,7 @@
 
     The owner or possessor of any property seized under this section shall be liable to the United States for any expenses incurred incident to the seizure, including any expenses relating to the handling, storage, transportation, and destruction or other disposition of the seized property.
 
-(Added [Pub. L. 105–277, div. I, title II, § 201(a)][/us/pl/105/277/s201/a], Oct. 21, 1998, [112 Stat. 2681–868][/us/stat/112/2681-868].)
+(Added [Pub. L. 105–277, div. I, title II][/us/pl/105/277/dI/tII], § 201(a), Oct. 21, 1998, [112 Stat. 2681–868][/us/stat/112/2681-868].)
 
 ----------
 
@@ -83,7 +83,7 @@
 [/us/usc/t21/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853
 [/us/usc/t21/s853/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853%2Fe%2F2
 [/us/usc/t21/s853/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853%2Fe%2F2
-[/us/pl/105/277/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs201%2Fa
+[/us/pl/105/277/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtII
 [/us/stat/112/2681-868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-868
 
 

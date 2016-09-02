@@ -35,7 +35,7 @@
 
     (c) As used in this section, the term “key” means any key, keyblank, or keyway adopted by any part of the Department of Defense, including all Department of Defense agencies, military departments, and agencies thereof, for use in protecting conventional arms, ammunition or explosives, special weapons, and classified information or classified equipment.
 
-(Added [Pub. L. 102–190, div. A, title X, § 1090(a)][/us/pl/102/190/s1090/a], Dec. 5, 1991, [105 Stat. 1485][/us/stat/105/1485].)
+(Added [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1090(a), Dec. 5, 1991, [105 Stat. 1485][/us/stat/105/1485].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/102/190/s1090/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1090%2Fa
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1485
 
 

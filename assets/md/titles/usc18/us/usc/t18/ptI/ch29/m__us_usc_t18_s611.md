@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch29/m__us_usc_t18_s610.md) | [Next](./../../../../..//us/usc/t18/ptI/ch31/m__us_usc_t18_ptI_ch31.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs611)
+[Previous](./../../../../..//us/usc/t18/ptI/ch29/m__us_usc_t18_s610.md) | [Next](./../../../../..//us/usc/t18/ptI/ch29/m__us_usc_t18_s612...617.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs611)
 
 ## § 611. Voting by aliens
 
@@ -37,11 +37,11 @@
 
         (3) the alien reasonably believed at the time of voting in violation of such subsection that he or she was a citizen of the United States.
 
-(Added [Pub. L. 104–208, div. C, title II, § 216(a)][/us/pl/104/208/s216/a], Sept. 30, 1996, [110 Stat. 3009–572][/us/stat/110/3009-572]; amended [Pub. L. 106–395, title II, § 201(d)(1)][/us/pl/106/395/s201/d/1], Oct. 30, 2000, [114 Stat. 1635][/us/stat/114/1635].)
+(Added [Pub. L. 104–208, div. C, title II][/us/pl/104/208/dC/tII], § 216(a), Sept. 30, 1996, [110 Stat. 3009–572][/us/stat/110/3009-572]; amended [Pub. L. 106–395, title II][/us/pl/106/395/tII], § 201(d)(1), Oct. 30, 2000, [114 Stat. 1635][/us/stat/114/1635].)
 
  __Prior Provisions__ 
 
-    A prior section 611, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 724][/us/stat/62/724]; Feb. 7, 1972, [Pub. L. 92–225, title II, § 206][/us/pl/92/225/s206], [86 Stat. 10][/us/stat/86/10]; Oct. 15, 1974, [Pub. L. 93–443, title I][/us/pl/93/443], §§ 101(e)(2), 103, [88 Stat. 1267][/us/stat/88/1267], 1272, prohibited campaign contributions by government contractors, prior to repeal by [Pub. L. 94–283, title II, § 201(a)][/us/pl/94/283/s201/a], May 11, 1976, [90 Stat. 496][/us/stat/90/496]. See [section 30119 of Title 52][/us/usc/t52/s30119], Voting and Elections.
+    A prior section 611, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 724][/us/stat/62/724]; Feb. 7, 1972, [Pub. L. 92–225, title II][/us/pl/92/225/tII], § 206, [86 Stat. 10][/us/stat/86/10]; Oct. 15, 1974, [Pub. L. 93–443, title I][/us/pl/93/443/tI], §§ 101(e)(2), 103, [88 Stat. 1267][/us/stat/88/1267], 1272, prohibited campaign contributions by government contractors, prior to repeal by [Pub. L. 94–283, title II][/us/pl/94/283/tII], § 201(a), May 11, 1976, [90 Stat. 496][/us/stat/90/496]. See [section 30119 of Title 52][/us/usc/t52/s30119], Voting and Elections.
 
  __Amendments__ 
 
@@ -49,83 +49,37 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–395, title II, § 201(d)(3)][/us/pl/106/395/s201/d/3], Oct. 30, 2000, [114 Stat. 1636][/us/stat/114/1636], provided that: 
+[Pub. L. 106–395, title II][/us/pl/106/395/tII], § 201(d)(3), Oct. 30, 2000, [114 Stat. 1636][/us/stat/114/1636], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall be effective as if included in the enactment of section 216 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ([Public Law 104–208][/us/pl/104/208]; [110 Stat. 3009–572][/us/stat/110/3009-572]). The amendment made by paragraph (2) \[amending [section 1015 of this title][/us/usc/t18/s1015]\] shall be effective as if included in the enactment of section 215 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ([Public Law 104–208][/us/pl/104/208]; [110 Stat. 3009–572][/us/stat/110/3009-572]). The amendments made by paragraphs (1) and (2) shall apply to an alien prosecuted on or after September 30, 1996, except in the case of an alien whose criminal proceeding (including judicial review thereof) has been finally concluded before the date of the enactment of this Act \[Oct. 30, 2000\].”
 
-\[§§ 612 to 617. __Repealed.__  __[__  __Pub. L. 94–283, title II, § 201(a)__  __][/us/pl/94/283/s201/a]__  __,__  __May 11, 1976__  __,__  __[__  __90 Stat. 496__  __][/us/stat/90/496]__  __\]__ 
-
-    Section 612, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 724][/us/stat/62/724]; [Aug. 25, 1950, ch. 784, § 2][/us/act/1950-08-25/ch784/s2], [64 Stat. 475][/us/stat/64/475]; Aug. 12, 1970, [Pub. L. 91–375, § 6(j)(7)][/us/pl/91/375/s6/j/7], [84 Stat. 777][/us/stat/84/777], regulated publication and distribution of political statements. See [section 30120 of Title 52][/us/usc/t52/s30120], Voting and Elections.
-
-    Section 613, added [Pub. L. 89–486, § 8(a)][/us/pl/89/486/s8/a], July 4, 1966, [80 Stat. 248][/us/stat/80/248]; amended [Pub. L. 93–443, title I, § 101(d)(1)][/us/pl/93/443/s101/d/1]–(3), (4)(A), (e)(3), Oct. 15, 1974, [88 Stat. 1267][/us/stat/88/1267], prohibited campaign contributions by foreign nationals. See [section 30121 of Title 52][/us/usc/t52/s30121], Voting and Elections.
-
-    Section 614, added [Pub. L. 93–443, title I, § 101(f)(1)][/us/pl/93/443/s101/f/1], Oct. 15, 1974, [88 Stat. 1268][/us/stat/88/1268], prohibited making of campaign contributions in the name of another. See [section 30122 of Title 52][/us/usc/t52/s30122], Voting and Elections.
-
-    Section 615, added [Pub. L. 93–443, title I, § 101(f)(1)][/us/pl/93/443/s101/f/1], Oct. 15, 1974, [88 Stat. 1268][/us/stat/88/1268], placed limitations on contributions of currency. See [section 30123 of Title 52][/us/usc/t52/s30123], Voting and Elections.
-
-    Section 616, added [Pub. L. 93–443, title I, § 101(f)(1)][/us/pl/93/443/s101/f/1], Oct. 15, 1974, [88 Stat. 1268][/us/stat/88/1268], prohibited acceptance of excessive honorariums.
-
-    Section 617, added [Pub. L. 93–443, title I, § 101(f)(1)][/us/pl/93/443/s101/f/1], Oct. 15, 1974, [88 Stat. 1268][/us/stat/88/1268], prohibited fraudulent misrepresentation of campaign authority. See [section 30124 of Title 52][/us/usc/t52/s30124], Voting and Elections.
-
- __Savings Provision__ 
-
-    Repeal by [Pub. L. 94–283][/us/pl/94/283] not to release or extinguish any penalty, forfeiture, or liability incurred under such sections, with each section to be treated as remaining in force for the purpose of sustaining any proper action or prosecution for the enforcement of any penalty, forfeiture, or liability, see [section 114 of Pub. L. 94–283][/us/pl/94/283/s114], set out as a note under [section 441 of Title 2][/us/usc/t2/s441], The Congress.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch29/m__us_usc_t18_s610.md) | [Next](./../../../../..//us/usc/t18/ptI/ch31/m__us_usc_t18_ptI_ch31.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs611)
+[Previous](./../../../../..//us/usc/t18/ptI/ch29/m__us_usc_t18_s610.md) | [Next](./../../../../..//us/usc/t18/ptI/ch29/m__us_usc_t18_s612...617.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs611)
 
 ----------
 ----------
 
-[/us/pl/104/208/s216/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs216%2Fa
+[/us/pl/104/208/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtII
 [/us/stat/110/3009-572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-572
-[/us/pl/106/395/s201/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F395%2Fs201%2Fd%2F1
+[/us/pl/106/395/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F395%2FtII
 [/us/stat/114/1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1635
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F724
-[/us/pl/92/225/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs206
+[/us/pl/92/225/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2FtII
 [/us/stat/86/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F10
-[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtI
 [/us/stat/88/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1267
-[/us/pl/94/283/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs201%2Fa
+[/us/pl/94/283/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtII
 [/us/stat/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F496
 [/us/usc/t52/s30119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30119
 [/us/pl/106/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F395
-[/us/pl/106/395/s201/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F395%2Fs201%2Fd%2F3
+[/us/pl/106/395/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F395%2FtII
 [/us/stat/114/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1636
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/stat/110/3009-572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-572
 [/us/usc/t18/s1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1015
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/stat/110/3009-572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-572
-[/us/pl/94/283/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs201%2Fa
-[/us/stat/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F496
-[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
-[/us/stat/62/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F724
-[/us/act/1950-08-25/ch784/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-25%2Fch784%2Fs2
-[/us/stat/64/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F475
-[/us/pl/91/375/s6/j/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fj%2F7
-[/us/stat/84/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F777
-[/us/usc/t52/s30120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30120
-[/us/pl/89/486/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F486%2Fs8%2Fa
-[/us/stat/80/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F248
-[/us/pl/93/443/s101/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs101%2Fd%2F1
-[/us/stat/88/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1267
-[/us/usc/t52/s30121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30121
-[/us/pl/93/443/s101/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs101%2Ff%2F1
-[/us/stat/88/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1268
-[/us/usc/t52/s30122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30122
-[/us/pl/93/443/s101/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs101%2Ff%2F1
-[/us/stat/88/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1268
-[/us/usc/t52/s30123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30123
-[/us/pl/93/443/s101/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs101%2Ff%2F1
-[/us/stat/88/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1268
-[/us/pl/93/443/s101/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs101%2Ff%2F1
-[/us/stat/88/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1268
-[/us/usc/t52/s30124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30124
-[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
-[/us/pl/94/283/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs114
-[/us/usc/t2/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs441
 
 

@@ -117,15 +117,15 @@
 
         (2) jurisdiction over those areas shall be concurrent among the Federal Government, State governments, and, where applicable, tribal governments.
 
-(Added [Aug. 15, 1953, ch. 505, § 2][/us/act/1953-08-15/ch505/s2], [67 Stat. 588][/us/stat/67/588]; amended [Aug. 24, 1954, ch. 910, § 1][/us/act/1954-08-24/ch910/s1], [68 Stat. 795][/us/stat/68/795]; [Pub. L. 85–615, § 1][/us/pl/85/615/s1], Aug. 8, 1958, [72 Stat. 545][/us/stat/72/545]; [Pub. L. 91–523][/us/pl/91/523], §§ 1, 2, Nov. 25, 1970, [84 Stat. 1358][/us/stat/84/1358]; [Pub. L. 111–211, title II, § 221(b)][/us/pl/111/211/s221/b], July 29, 2010, [124 Stat. 2272][/us/stat/124/2272].)
+(Added [Aug. 15, 1953, ch. 505][/us/act/1953-08-15/ch505], § 2, [67 Stat. 588][/us/stat/67/588]; amended [Aug. 24, 1954, ch. 910][/us/act/1954-08-24/ch910], § 1, [68 Stat. 795][/us/stat/68/795]; [Pub. L. 85–615][/us/pl/85/615], § 1, Aug. 8, 1958, [72 Stat. 545][/us/stat/72/545]; [Pub. L. 91–523][/us/pl/91/523], §§ 1, 2, Nov. 25, 1970, [84 Stat. 1358][/us/stat/84/1358]; [Pub. L. 111–211, title II][/us/pl/111/211/tII], § 221(b), July 29, 2010, [124 Stat. 2272][/us/stat/124/2272].)
 
  __Amendments__ 
 
     2010—Subsec. (d). [Pub. L. 111–211][/us/pl/111/211] added subsec. (d).
 
-    1970—Subsec. (a). [Pub. L. 91–523, § 1][/us/pl/91/523/s1], substituted provisions relating to the jurisdiction of the State of Alaska over offenses by or against Indians in the Indian country, and certain excepted areas, for provisions relating to the jurisdiction of the Territory of Alaska over offenses by or against Indians in the Indian country.
+    1970—Subsec. (a). [Pub. L. 91–523][/us/pl/91/523], § 1, substituted provisions relating to the jurisdiction of the State of Alaska over offenses by or against Indians in the Indian country, and certain excepted areas, for provisions relating to the jurisdiction of the Territory of Alaska over offenses by or against Indians in the Indian country.
 
-    Subsec. (c). [Pub. L. 91–523, § 2][/us/pl/91/523/s2], inserted “as areas over which the several States have exclusive jurisdiction” after “subsection (a) of this section”.
+    Subsec. (c). [Pub. L. 91–523][/us/pl/91/523], § 2, inserted “as areas over which the several States have exclusive jurisdiction” after “subsection (a) of this section”.
 
     1958—Subsec. (a). [Pub. L. 85–615][/us/pl/85/615] gave Alaska jurisdiction over offenses committed by or against Indians in all Indian country within the Territory of Alaska.
 
@@ -142,19 +142,19 @@
 ----------
 ----------
 
-[/us/act/1953-08-15/ch505/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch505%2Fs2
+[/us/act/1953-08-15/ch505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch505
 [/us/stat/67/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F588
-[/us/act/1954-08-24/ch910/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-24%2Fch910%2Fs1
+[/us/act/1954-08-24/ch910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-24%2Fch910
 [/us/stat/68/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F795
-[/us/pl/85/615/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F615%2Fs1
+[/us/pl/85/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F615
 [/us/stat/72/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F545
 [/us/pl/91/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F523
 [/us/stat/84/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1358
-[/us/pl/111/211/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs221%2Fb
+[/us/pl/111/211/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2FtII
 [/us/stat/124/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2272
 [/us/pl/111/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211
-[/us/pl/91/523/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F523%2Fs1
-[/us/pl/91/523/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F523%2Fs2
+[/us/pl/91/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F523
+[/us/pl/91/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F523
 [/us/pl/85/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F615
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F339

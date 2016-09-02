@@ -223,57 +223,57 @@
 
         (12) the term “vessel of the United States” has the meaning given that term in [section 70502 of title 46][/us/usc/t46/s70502].
 
-(Added [Pub. L. 97–351, § 2(a)][/us/pl/97/351/s2/a], Oct. 18, 1982, [96 Stat. 1663][/us/stat/96/1663]; amended [Pub. L. 100–690, title VII, § 7022][/us/pl/100/690/s7022], Nov. 18, 1988, [102 Stat. 4397][/us/stat/102/4397]; [Pub. L. 103–272, § 5(e)(6)][/us/pl/103/272/s5/e/6], July 5, 1994, [108 Stat. 1374][/us/stat/108/1374]; [Pub. L. 103–322, title XXXIII, § 330016(2)(C)][/us/pl/103/322/s330016/2/C], Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148]; [Pub. L. 104–132, title V, § 502][/us/pl/104/132/s502], Apr. 24, 1996, [110 Stat. 1282][/us/stat/110/1282]; [Pub. L. 114–23, title VIII, § 812][/us/pl/114/23/s812], June 2, 2015, [129 Stat. 311][/us/stat/129/311].)
+(Added [Pub. L. 97–351][/us/pl/97/351], § 2(a), Oct. 18, 1982, [96 Stat. 1663][/us/stat/96/1663]; amended [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7022, Nov. 18, 1988, [102 Stat. 4397][/us/stat/102/4397]; [Pub. L. 103–272][/us/pl/103/272], § 5(e)(6), July 5, 1994, [108 Stat. 1374][/us/stat/108/1374]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(2)(C), Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148]; [Pub. L. 104–132, title V][/us/pl/104/132/tV], § 502, Apr. 24, 1996, [110 Stat. 1282][/us/stat/110/1282]; [Pub. L. 114–23, title VIII][/us/pl/114/23/tVIII], § 812, June 2, 2015, [129 Stat. 311][/us/stat/129/311].)
 
  __Prior Provisions__ 
 
-    A prior section 831, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 738][/us/stat/62/738]; Sept. 6, 1960, [Pub. L. 86–710][/us/pl/86/710], [74 Stat. 808][/us/stat/74/808]; July 27, 1965, [Pub. L. 89–95][/us/pl/89/95], [79 Stat. 285][/us/stat/79/285]; Oct. 17, 1978, [Pub. L. 95–473][/us/pl/95/473]; § 2(a)(1)(A), [92 Stat. 1464][/us/stat/92/1464], defined terms used in this chapter, prior to repeal by [Pub. L. 96–129, title II, § 216(b)][/us/pl/96/129/s216/b], Nov. 30, 1979, [93 Stat. 1015][/us/stat/93/1015]. For savings provisions regarding former section 831, see [section 218 of Pub. L. 96–129][/us/pl/96/129/s218], set out as a note under former sections 832 to 835 of this title.
+    A prior section 831, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 738][/us/stat/62/738]; Sept. 6, 1960, [Pub. L. 86–710][/us/pl/86/710], [74 Stat. 808][/us/stat/74/808]; July 27, 1965, [Pub. L. 89–95][/us/pl/89/95], [79 Stat. 285][/us/stat/79/285]; Oct. 17, 1978, [Pub. L. 95–473][/us/pl/95/473]; § 2(a)(1)(A), [92 Stat. 1464][/us/stat/92/1464], defined terms used in this chapter, prior to repeal by [Pub. L. 96–129, title II][/us/pl/96/129/tII], § 216(b), Nov. 30, 1979, [93 Stat. 1015][/us/stat/93/1015]. For savings provisions regarding former section 831, see [section 218 of Pub. L. 96–129][/us/pl/96/129/s218], set out as a note under former sections 832 to 835 of this title.
 
  __Amendments__ 
 
-    2015—Subsec. (a)(3) to (7). [Pub. L. 114–23, § 812(a)(1)][/us/pl/114/23/s812/a/1], (2), added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively. Former par. (7) redesignated (8).
+    2015—Subsec. (a)(3) to (7). [Pub. L. 114–23][/us/pl/114/23], § 812(a)(1), (2), added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively. Former par. (7) redesignated (8).
 
-    Subsec. (a)(8). [Pub. L. 114–23, § 812(a)(1)][/us/pl/114/23/s812/a/1], (3), redesignated par. (7) as (8) and substituted “any act prohibited under paragraphs (1) through (5)” for “an offense under paragraph (1), (2), (3), or (4)”.
+    Subsec. (a)(8). [Pub. L. 114–23][/us/pl/114/23], § 812(a)(1), (3), redesignated par. (7) as (8) and substituted “any act prohibited under paragraphs (1) through (5)” for “an offense under paragraph (1), (2), (3), or (4)”.
 
-    Subsec. (a)(9). [Pub. L. 114–23, § 812(a)(1)][/us/pl/114/23/s812/a/1], (4), redesignated par. (8) as (9) and substituted “any act prohibited under paragraphs (1) through (7)” for “an offense under paragraph (1), (2), (3), or (4)”.
+    Subsec. (a)(9). [Pub. L. 114–23][/us/pl/114/23], § 812(a)(1), (4), redesignated par. (8) as (9) and substituted “any act prohibited under paragraphs (1) through (7)” for “an offense under paragraph (1), (2), (3), or (4)”.
 
-    Subsec. (b)(1). [Pub. L. 114–23, § 812(b)(1)][/us/pl/114/23/s812/b/1], substituted “through (8)” for “through (7)” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 114–23][/us/pl/114/23], § 812(b)(1), substituted “through (8)” for “through (7)” in introductory provisions.
 
-    Subsec. (b)(2). [Pub. L. 114–23, § 812(b)(2)][/us/pl/114/23/s812/b/2], substituted “paragraph (9)” for “paragraph (8)” in introductory provisions.
+    Subsec. (b)(2). [Pub. L. 114–23][/us/pl/114/23], § 812(b)(2), substituted “paragraph (9)” for “paragraph (8)” in introductory provisions.
 
-    Subsec. (c)(2)(A). [Pub. L. 114–23, § 812(c)(1)][/us/pl/114/23/s812/c/1], inserted “or a stateless person whose habitual residence is in the United States” before semicolon.
+    Subsec. (c)(2)(A). [Pub. L. 114–23][/us/pl/114/23], § 812(c)(1), inserted “or a stateless person whose habitual residence is in the United States” before semicolon.
 
-    Subsec. (c)(5) to (7). [Pub. L. 114–23, § 812(c)(2)][/us/pl/114/23/s812/c/2]–(4), added pars. (5) to (7) and struck out former par. (5) which read as follows: “either—
+    Subsec. (c)(5) to (7). [Pub. L. 114–23][/us/pl/114/23], § 812(c)(2)–(4), added pars. (5) to (7) and struck out former par. (5) which read as follows: “either—
 
     “(A) the governmental entity under subsection (a)(5) is the United States; or
 
     “(B) the threat under subsection (a)(6) is directed at the United States.”
 
-    Subsecs. (d) to (g). [Pub. L. 114–23, § 812(d)][/us/pl/114/23/s812/d], (e), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
+    Subsecs. (d) to (g). [Pub. L. 114–23][/us/pl/114/23], § 812(d), (e), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
-    Subsec. (g)(8) to (12). [Pub. L. 114–23, § 812(f)][/us/pl/114/23/s812/f], added pars. (8) to (12).
+    Subsec. (g)(8) to (12). [Pub. L. 114–23][/us/pl/114/23], § 812(f), added pars. (8) to (12).
 
-    1996—Subsec. (a). [Pub. L. 104–132, § 502(1)(A)][/us/pl/104/132/s502/1/A], substituted “nuclear material or nuclear byproduct material” for “nuclear material” wherever appearing.
+    1996—Subsec. (a). [Pub. L. 104–132][/us/pl/104/132], § 502(1)(A), substituted “nuclear material or nuclear byproduct material” for “nuclear material” wherever appearing.
 
-    Subsec. (a)(1)(A). [Pub. L. 104–132, § 502(1)(B)(i)][/us/pl/104/132/s502/1/B/i], inserted “or to the environment” after “damage to property”.
+    Subsec. (a)(1)(A). [Pub. L. 104–132][/us/pl/104/132], § 502(1)(B)(i), inserted “or to the environment” after “damage to property”.
 
-    Subsec. (a)(1)(B). [Pub. L. 104–132, § 502(1)(B)(ii)][/us/pl/104/132/s502/1/B/ii], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “knows that circumstances exist which are likely to cause the death of or serious bodily injury to any person or substantial damage to property;”.
+    Subsec. (a)(1)(B). [Pub. L. 104–132][/us/pl/104/132], § 502(1)(B)(ii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “knows that circumstances exist which are likely to cause the death of or serious bodily injury to any person or substantial damage to property;”.
 
-    Subsec. (a)(6). [Pub. L. 104–132, § 502(1)(C)][/us/pl/104/132/s502/1/C], inserted “or to the environment” after “damage to property”.
+    Subsec. (a)(6). [Pub. L. 104–132][/us/pl/104/132], § 502(1)(C), inserted “or to the environment” after “damage to property”.
 
-    Subsec. (c)(2). [Pub. L. 104–132, § 502(2)(A)][/us/pl/104/132/s502/2/A], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the defendant is a national of the United States, as defined in section 101 of the Immigration and Nationality Act ([8 U.S.C. 1101][/us/usc/t8/s1101]);”.
+    Subsec. (c)(2). [Pub. L. 104–132][/us/pl/104/132], § 502(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the defendant is a national of the United States, as defined in section 101 of the Immigration and Nationality Act ([8 U.S.C. 1101][/us/usc/t8/s1101]);”.
 
-    Subsec. (c)(3). [Pub. L. 104–132, § 502(2)(B)][/us/pl/104/132/s502/2/B], struck out “at the time of the offense the nuclear material is in use, storage, or transport, for peaceful purposes, and” before “after the conduct” and struck out “or” at end.
+    Subsec. (c)(3). [Pub. L. 104–132][/us/pl/104/132], § 502(2)(B), struck out “at the time of the offense the nuclear material is in use, storage, or transport, for peaceful purposes, and” before “after the conduct” and struck out “or” at end.
 
-    Subsec. (c)(4). [Pub. L. 104–132, § 502(2)(C)][/us/pl/104/132/s502/2/C], substituted “nuclear material or nuclear byproduct material” for “nuclear material for peaceful purposes” and “; or” for period at end.
+    Subsec. (c)(4). [Pub. L. 104–132][/us/pl/104/132], § 502(2)(C), substituted “nuclear material or nuclear byproduct material” for “nuclear material for peaceful purposes” and “; or” for period at end.
 
-    Subsec. (c)(5). [Pub. L. 104–132, § 502(2)(D)][/us/pl/104/132/s502/2/D], added par. (5).
+    Subsec. (c)(5). [Pub. L. 104–132][/us/pl/104/132], § 502(2)(D), added par. (5).
 
-    Subsec. (f)(1)(A). [Pub. L. 104–132, § 502(3)(A)(i)][/us/pl/104/132/s502/3/A/i], struck out “with an isotopic concentration not in excess of 80 percent plutonium 238” after “plutonium”.
+    Subsec. (f)(1)(A). [Pub. L. 104–132][/us/pl/104/132], § 502(3)(A)(i), struck out “with an isotopic concentration not in excess of 80 percent plutonium 238” after “plutonium”.
 
-    Subsec. (f)(1)(C). [Pub. L. 104–132, § 502(3)(A)(ii)][/us/pl/104/132/s502/3/A/ii], substituted “enriched uranium, defined as uranium” for “uranium”.
+    Subsec. (f)(1)(C). [Pub. L. 104–132][/us/pl/104/132], § 502(3)(A)(ii), substituted “enriched uranium, defined as uranium” for “uranium”.
 
-    Subsec. (f)(2) to (7). [Pub. L. 104–132, § 502(3)(B)][/us/pl/104/132/s502/3/B]–(F), added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and added pars. (6) and (7).
+    Subsec. (f)(2) to (7). [Pub. L. 104–132][/us/pl/104/132], § 502(3)(B)–(F), added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and added pars. (6) and (7).
 
     1994—Subsec. (b)(1)(A), (2)(A). [Pub. L. 103–322][/us/pl/103/322] substituted “fined under this title” for “fine of not more than $250,000”.
 
@@ -283,13 +283,13 @@
 
  __Short Title of 1982 Amendment__ 
 
-[Pub. L. 97–351, § 1][/us/pl/97/351/s1], Oct. 18, 1982, [96 Stat. 1663][/us/stat/96/1663], provided that: 
+[Pub. L. 97–351][/us/pl/97/351], § 1, Oct. 18, 1982, [96 Stat. 1663][/us/stat/96/1663], provided that: 
 
 > “This Act \[enacting this section and amending [section 1116 of this title][/us/usc/t18/s1116]\] may be cited as the ‘Convention on the Physical Protection of Nuclear Material Implementation Act of 1982’.”
 
  __Findings and Purpose of Title V of__  __[__  __Pub. L. 104–132__  __][/us/pl/104/132]__  __Relating to Nuclear Materials__ 
 
-[Pub. L. 104–132, title V, § 501][/us/pl/104/132/s501], Apr. 24, 1996, [110 Stat. 1281][/us/stat/110/1281], provided that:
+[Pub. L. 104–132, title V][/us/pl/104/132/tV], § 501, Apr. 24, 1996, [110 Stat. 1281][/us/stat/110/1281], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -340,17 +340,17 @@
 [/us/usc/t18/s2332f/e/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332f%2Fe%2F11
 [/us/usc/t18/s2332f/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332f%2Fe%2F3
 [/us/usc/t46/s70502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502
-[/us/pl/97/351/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F351%2Fs2%2Fa
+[/us/pl/97/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F351
 [/us/stat/96/1663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1663
-[/us/pl/100/690/s7022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7022
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4397
-[/us/pl/103/272/s5/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fe%2F6
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1374
-[/us/pl/103/322/s330016/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F2%2FC
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2148
-[/us/pl/104/132/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs502
+[/us/pl/104/132/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtV
 [/us/stat/110/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1282
-[/us/pl/114/23/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812
+[/us/pl/114/23/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVIII
 [/us/stat/129/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F311
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F738
@@ -360,40 +360,40 @@
 [/us/stat/79/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F285
 [/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1464
-[/us/pl/96/129/s216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F129%2Fs216%2Fb
+[/us/pl/96/129/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F129%2FtII
 [/us/stat/93/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1015
 [/us/pl/96/129/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F129%2Fs218
-[/us/pl/114/23/s812/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812%2Fa%2F1
-[/us/pl/114/23/s812/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812%2Fa%2F1
-[/us/pl/114/23/s812/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812%2Fa%2F1
-[/us/pl/114/23/s812/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812%2Fb%2F1
-[/us/pl/114/23/s812/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812%2Fb%2F2
-[/us/pl/114/23/s812/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812%2Fc%2F1
-[/us/pl/114/23/s812/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812%2Fc%2F2
-[/us/pl/114/23/s812/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812%2Fd
-[/us/pl/114/23/s812/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812%2Ff
-[/us/pl/104/132/s502/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs502%2F1%2FA
-[/us/pl/104/132/s502/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs502%2F1%2FB%2Fi
-[/us/pl/104/132/s502/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs502%2F1%2FB%2Fii
-[/us/pl/104/132/s502/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs502%2F1%2FC
-[/us/pl/104/132/s502/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs502%2F2%2FA
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/104/132/s502/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs502%2F2%2FB
-[/us/pl/104/132/s502/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs502%2F2%2FC
-[/us/pl/104/132/s502/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs502%2F2%2FD
-[/us/pl/104/132/s502/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs502%2F3%2FA%2Fi
-[/us/pl/104/132/s502/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs502%2F3%2FA%2Fii
-[/us/pl/104/132/s502/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs502%2F3%2FB
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s46501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46501
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/97/351/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F351%2Fs1
+[/us/pl/97/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F351
 [/us/stat/96/1663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1663
 [/us/usc/t18/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1116
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
-[/us/pl/104/132/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs501
+[/us/pl/104/132/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtV
 [/us/stat/110/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1281
 [/us/usc/t18/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs831
 [/us/usc/t18/s2332c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332c

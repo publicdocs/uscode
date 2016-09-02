@@ -47,7 +47,7 @@
 
         (4) the term “foreign terrorist organization” means an organization designated as a terrorist organization under section 219(a)(1) of the Immigration and Nationality Act.
 
-(Added [Pub. L. 108–458, title VI, § 6602][/us/pl/108/458/s6602], Dec. 17, 2004, [118 Stat. 3761][/us/stat/118/3761].)
+(Added [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6602, Dec. 17, 2004, [118 Stat. 3761][/us/stat/118/3761].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/108/458/s6602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6602
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3761
 [/us/usc/t22/s2656f/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2656f%2Fd%2F2
 

@@ -29,7 +29,7 @@
 
     The word “aircraft” as used in this section includes any contrivance for navigation or flight in the air.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 802][/us/stat/62/802]; [Pub. L. 104–294, title VI, § 601(a)(8)][/us/pl/104/294/s601/a/8], Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498]; [Pub. L. 109–177, title III, § 308][/us/pl/109/177/s308], Mar. 9, 2006, [120 Stat. 241][/us/stat/120/241].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 802][/us/stat/62/802]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(a)(8), Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498]; [Pub. L. 109–177, title III][/us/pl/109/177/tIII], § 308, Mar. 9, 2006, [120 Stat. 241][/us/stat/120/241].)
 
  __Historical and Revision Notes__ 
 
@@ -62,9 +62,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F802
-[/us/pl/104/294/s601/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fa%2F8
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3498
-[/us/pl/109/177/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs308
+[/us/pl/109/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIII
 [/us/stat/120/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F241
 [/us/act/1940-06-11/ch326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-11%2Fch326
 [/us/stat/54/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F306

@@ -39,7 +39,7 @@
 
     Pursuant to section 2522, an order may be issued to enforce the assistance capability and capacity requirements under the Communications Assistance for Law Enforcement Act.
 
-(Added [Pub. L. 99–508, title III, § 301(a)][/us/pl/99/508/s301/a], Oct. 21, 1986, [100 Stat. 1870][/us/stat/100/1870]; amended [Pub. L. 100–690, title VII][/us/pl/100/690], §§ 7040, 7092(b), (d), Nov. 18, 1988, [102 Stat. 4399][/us/stat/102/4399], 4411; [Pub. L. 101–647, title XXXV, § 3575][/us/pl/101/647/s3575], Nov. 29, 1990, [104 Stat. 4929][/us/stat/104/4929]; [Pub. L. 103–414, title II, § 201(b)(2)][/us/pl/103/414/s201/b/2], Oct. 25, 1994, [108 Stat. 4290][/us/stat/108/4290]; [Pub. L. 107–56, title II, § 216(c)(5)][/us/pl/107/56/s216/c/5], (6), Oct. 26, 2001, [115 Stat. 290][/us/stat/115/290].)
+(Added [Pub. L. 99–508, title III][/us/pl/99/508/tIII], § 301(a), Oct. 21, 1986, [100 Stat. 1870][/us/stat/100/1870]; amended [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], §§ 7040, 7092(b), (d), Nov. 18, 1988, [102 Stat. 4399][/us/stat/102/4399], 4411; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3575, Nov. 29, 1990, [104 Stat. 4929][/us/stat/104/4929]; [Pub. L. 103–414, title II][/us/pl/103/414/tII], § 201(b)(2), Oct. 25, 1994, [108 Stat. 4290][/us/stat/108/4290]; [Pub. L. 107–56, title II][/us/pl/107/56/tII], § 216(c)(5), (6), Oct. 26, 2001, [115 Stat. 290][/us/stat/115/290].)
 
  __References in Text__ 
 
@@ -47,9 +47,9 @@
 
  __Amendments__ 
 
-    2001—Subsec. (b). [Pub. L. 107–56, § 216(c)(6)][/us/pl/107/56/s216/c/6], inserted “or other facility” after “the appropriate line”.
+    2001—Subsec. (b). [Pub. L. 107–56][/us/pl/107/56], § 216(c)(6), inserted “or other facility” after “the appropriate line”.
 
-    Subsec. (d). [Pub. L. 107–56, § 216(c)(5)][/us/pl/107/56/s216/c/5], struck out “the terms of” before “a court order”.
+    Subsec. (d). [Pub. L. 107–56][/us/pl/107/56], § 216(c)(5), struck out “the terms of” before “a court order”.
 
     1994—Subsec. (f). [Pub. L. 103–414][/us/pl/103/414] added subsec. (f).
 
@@ -57,13 +57,13 @@
 
     1988—Subsec. (b). [Pub. L. 100–690][/us/pl/100/690], §§ 7040, 7092(d), inserted “, pursuant to subsection 3123(b) or [section 3125 of this title][/us/usc/t18/s3125],” after “shall be furnished” and “order” after last reference to “court”.
 
-    Subsec. (d). [Pub. L. 100–690, § 7092(b)(1)][/us/pl/100/690/s7092/b/1], inserted “or request pursuant to [section 3125 of this title][/us/usc/t18/s3125]” after “this chapter”.
+    Subsec. (d). [Pub. L. 100–690][/us/pl/100/690], § 7092(b)(1), inserted “or request pursuant to [section 3125 of this title][/us/usc/t18/s3125]” after “this chapter”.
 
-    Subsec. (e). [Pub. L. 100–690, § 7092(b)(2)][/us/pl/100/690/s7092/b/2], inserted “under this chapter, a request pursuant to [section 3125 of this title][/us/usc/t18/s3125]” after “court order”.
+    Subsec. (e). [Pub. L. 100–690][/us/pl/100/690], § 7092(b)(2), inserted “under this chapter, a request pursuant to [section 3125 of this title][/us/usc/t18/s3125]” after “court order”.
 
  __Assistance to Law Enforcement Agencies__ 
 
-[Pub. L. 107–56, title II, § 222][/us/pl/107/56/s222], Oct. 26, 2001, [115 Stat. 292][/us/stat/115/292], provided that: 
+[Pub. L. 107–56, title II][/us/pl/107/56/tII], § 222, Oct. 26, 2001, [115 Stat. 292][/us/stat/115/292], provided that: 
 
 > “Nothing in this Act \[see Short Title of 2001 Amendment note set out under [section 1 of this title][/us/usc/t18/s1]\] shall impose any additional technical obligation or requirement on a provider of a wire or electronic communication service or other person to furnish facilities or technical assistance. A provider of a wire or electronic communication service, landlord, custodian, or other person who furnishes facilities or technical assistance pursuant to section 216 \[amending this section and sections 3121, 3123, and 3127 of this title\] shall be reasonably compensated for such reasonable expenditures incurred in providing such facilities or assistance.”
 
@@ -79,30 +79,30 @@
 [/us/usc/t18/s3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3125
 [/us/usc/t18/s3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3125
 [/us/usc/t18/s3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3125
-[/us/pl/99/508/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs301%2Fa
+[/us/pl/99/508/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtIII
 [/us/stat/100/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1870
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4399
-[/us/pl/101/647/s3575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3575
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4929
-[/us/pl/103/414/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs201%2Fb%2F2
+[/us/pl/103/414/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtII
 [/us/stat/108/4290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4290
-[/us/pl/107/56/s216/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs216%2Fc%2F5
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F290
 [/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
 [/us/stat/108/4279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4279
 [/us/usc/t47/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1001
-[/us/pl/107/56/s216/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs216%2Fc%2F6
-[/us/pl/107/56/s216/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs216%2Fc%2F5
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t18/s3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3125
-[/us/pl/100/690/s7092/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7092%2Fb%2F1
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t18/s3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3125
-[/us/pl/100/690/s7092/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7092%2Fb%2F2
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/usc/t18/s3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3125
-[/us/pl/107/56/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs222
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F292
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1
 

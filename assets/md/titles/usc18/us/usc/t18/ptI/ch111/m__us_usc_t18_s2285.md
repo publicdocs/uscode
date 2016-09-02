@@ -73,11 +73,11 @@
 
     In this section, the terms “submersible vessel”, “semi-submersible vessel”, “vessel of the United States”, and “vessel without nationality” have the meaning given those terms in [section 70502 of title 46][/us/usc/t46/s70502].
 
-(Added [Pub. L. 110–407, title I, § 102(a)][/us/pl/110/407/s102/a], Oct. 13, 2008, [122 Stat. 4296][/us/stat/122/4296].)
+(Added [Pub. L. 110–407, title I][/us/pl/110/407/tI], § 102(a), Oct. 13, 2008, [122 Stat. 4296][/us/stat/122/4296].)
 
  __Findings and Declarations__ 
 
-[Pub. L. 110–407, title I, § 101][/us/pl/110/407/s101], Oct. 13, 2008, [122 Stat. 4296][/us/stat/122/4296], provided that: 
+[Pub. L. 110–407, title I][/us/pl/110/407/tI], § 101, Oct. 13, 2008, [122 Stat. 4296][/us/stat/122/4296], provided that: 
 
 > “Congress finds and declares that operating or embarking in a submersible vessel or semi-submersible vessel without nationality and on an international voyage is a serious international problem, facilitates transnational crime, including drug trafficking, and terrorism, and presents a specific threat to the safety of maritime navigation and the security of the United States.”
 
@@ -90,9 +90,9 @@
 
 [/us/usc/t46/s70507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70507%2Fb
 [/us/usc/t46/s70502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502
-[/us/pl/110/407/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F407%2Fs102%2Fa
+[/us/pl/110/407/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F407%2FtI
 [/us/stat/122/4296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4296
-[/us/pl/110/407/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F407%2Fs101
+[/us/pl/110/407/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F407%2FtI
 [/us/stat/122/4296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4296
 
 

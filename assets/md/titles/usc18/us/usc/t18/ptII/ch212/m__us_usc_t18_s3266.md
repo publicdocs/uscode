@@ -25,7 +25,7 @@
 
     (c) The regulations prescribed under this section, and any amendments to those regulations, shall not take effect before the date that is 90 days after the date on which the Secretary of Defense submits a report containing those regulations or amendments (as the case may be) to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate.
 
-(Added [Pub. L. 106–523, § 2(a)][/us/pl/106/523/s2/a], Nov. 22, 2000, [114 Stat. 2491][/us/stat/114/2491].)
+(Added [Pub. L. 106–523][/us/pl/106/523], § 2(a), Nov. 22, 2000, [114 Stat. 2491][/us/stat/114/2491].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/106/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F523%2Fs2%2Fa
+[/us/pl/106/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F523
 [/us/stat/114/2491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2491
 
 

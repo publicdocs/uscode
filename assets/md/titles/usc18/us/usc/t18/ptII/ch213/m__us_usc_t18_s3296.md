@@ -31,7 +31,7 @@
 
     Nothing in this section shall preclude the District Court from considering any defense or objection, other than statute of limitations, to the prosecution of the counts reinstated under subsection (a).
 
-(Added [Pub. L. 107–273, div. B, title III, § 3003(a)][/us/pl/107/273/s3003/a], Nov. 2, 2002, [116 Stat. 1805][/us/stat/116/1805].)
+(Added [Pub. L. 107–273, div. B, title III][/us/pl/107/273/dB/tIII], § 3003(a), Nov. 2, 2002, [116 Stat. 1805][/us/stat/116/1805].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/107/273/s3003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs3003%2Fa
+[/us/pl/107/273/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIII
 [/us/stat/116/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1805
 
 

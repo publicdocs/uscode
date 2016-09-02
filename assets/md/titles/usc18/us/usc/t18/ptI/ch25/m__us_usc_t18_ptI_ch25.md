@@ -403,29 +403,29 @@
 
  __Amendments__ 
 
-    2001—[Pub. L. 107–56, title III][/us/pl/107/56], §§ 374(e)(4), 375(d)(4), Oct. 26, 2001, [115 Stat. 340][/us/stat/115/340], 341, substituted “, stones, or analog, digital, or electronic images” for “or stones” in items 474 and 481.
+    2001—[Pub. L. 107–56, title III][/us/pl/107/56/tIII], §§ 374(e)(4), 375(d)(4), Oct. 26, 2001, [115 Stat. 340][/us/stat/115/340], 341, substituted “, stones, or analog, digital, or electronic images” for “or stones” in items 474 and 481.
 
-    1996—[Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 648(b)(2)\], title II, § 2603(b)(2), Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–368, 3009–470, amended analysis identically, adding item 514.
+    1996—[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 648(b)(2)\], title II, § 2603(b)(2), Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–368, 3009–470, amended analysis identically, adding item 514.
 
-    1994—[Pub. L. 103–322, title XII, § 120003(b)(1)][/us/pl/103/322/s120003/b/1], title XXII, § 220003(d)(2), title XXXIII, § 330010(14), Sept. 13, 1994, [108 Stat. 2022][/us/stat/108/2022], 2077, 2144, added item 470, struck out extraneous period after “money” in item 491, and added item 511A.
+    1994—[Pub. L. 103–322, title XII][/us/pl/103/322/tXII], § 120003(b)(1), title XXII, § 220003(d)(2), title XXXIII, § 330010(14), Sept. 13, 1994, [108 Stat. 2022][/us/stat/108/2022], 2077, 2144, added item 470, struck out extraneous period after “money” in item 491, and added item 511A.
 
-    1992—[Pub. L. 102–550, title XV, § 1553(b)][/us/pl/102/550/s1553/b], Oct. 28, 1992, [106 Stat. 4071][/us/stat/106/4071], added item 474A.
+    1992—[Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1553(b), Oct. 28, 1992, [106 Stat. 4071][/us/stat/106/4071], added item 474A.
 
-    1990—[Pub. L. 101–647, title XXXV, § 3513][/us/pl/101/647/s3513], Nov. 29, 1990, [104 Stat. 4922][/us/stat/104/4922], substituted “or paper used as money.” for “used as money or similar to coins” in item 491, “matters” for “entry certificates” in item 496, and “stamps, postage meter stamps,” for “stamps” in item 501.
+    1990—[Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3513, Nov. 29, 1990, [104 Stat. 4922][/us/stat/104/4922], substituted “or paper used as money.” for “used as money or similar to coins” in item 491, “matters” for “entry certificates” in item 496, and “stamps, postage meter stamps,” for “stamps” in item 501.
 
-    1986—[Pub. L. 99–646, § 31(b)][/us/pl/99/646/s31/b], Nov. 10, 1986, [100 Stat. 3598][/us/stat/100/3598], redesignated second item 510, relating to securities of the State and private entities, as item 513 and substituted “States” for “State”.
+    1986—[Pub. L. 99–646][/us/pl/99/646], § 31(b), Nov. 10, 1986, [100 Stat. 3598][/us/stat/100/3598], redesignated second item 510, relating to securities of the State and private entities, as item 513 and substituted “States” for “State”.
 
-    1984—[Pub. L. 98–547, title II, § 201(b)][/us/pl/98/547/s201/b], Oct. 25, 1984, [98 Stat. 2770][/us/stat/98/2770], added items 511 and 512.
+    1984—[Pub. L. 98–547, title II][/us/pl/98/547/tII], § 201(b), Oct. 25, 1984, [98 Stat. 2770][/us/stat/98/2770], added items 511 and 512.
 
-    [Pub. L. 98–473, title II, § 1105(b)][/us/pl/98/473/s1105/b], Oct. 12, 1984, [98 Stat. 2145][/us/stat/98/2145], added second item 510 “Securities of the State and private entities”.
+    [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1105(b), Oct. 12, 1984, [98 Stat. 2145][/us/stat/98/2145], added second item 510 “Securities of the State and private entities”.
 
-    1983—[Pub. L. 98–151, § 115(c)][/us/pl/98/151/s115/c], Nov. 14, 1983, [97 Stat. 977][/us/stat/97/977], added item 510, relating to forging endorsements.
+    1983—[Pub. L. 98–151][/us/pl/98/151], § 115(c), Nov. 14, 1983, [97 Stat. 977][/us/stat/97/977], added item 510, relating to forging endorsements.
 
-    1965—[Pub. L. 89–81, title II, § 211(b)][/us/pl/89/81/s211/b], July 23, 1965, [79 Stat. 257][/us/stat/79/257], struck out “Gold or silver” before “Coins or bars” in item 485.
+    1965—[Pub. L. 89–81, title II][/us/pl/89/81/tII], § 211(b), July 23, 1965, [79 Stat. 257][/us/stat/79/257], struck out “Gold or silver” before “Coins or bars” in item 485.
 
-    1958—[Pub. L. 85–921, § 2][/us/pl/85/921/s2], Sept. 2, 1958, [72 Stat. 1771][/us/stat/72/1771], substituted “Printing and filming of United States and foreign obligations and securities” for “Printing stamps for philatelic purposes” in item 504.
+    1958—[Pub. L. 85–921][/us/pl/85/921], § 2, Sept. 2, 1958, [72 Stat. 1771][/us/stat/72/1771], substituted “Printing and filming of United States and foreign obligations and securities” for “Printing stamps for philatelic purposes” in item 504.
 
-    1951—[Act July 16, 1951, ch. 226, § 5(c)][/us/act/1951-07-16/ch226/s5/c], [65 Stat. 122][/us/stat/65/122], struck out “; publisher’s illustrations excepted” in item 489.
+    1951—[Act July 16, 1951, ch. 226][/us/act/1951-07-16/ch226], § 5(c), [65 Stat. 122][/us/stat/65/122], struck out “; publisher’s illustrations excepted” in item 489.
 
 ----------
 
@@ -434,29 +434,29 @@
 ----------
 ----------
 
-[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F340
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/103/322/s120003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs120003%2Fb%2F1
+[/us/pl/103/322/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXII
 [/us/stat/108/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2022
-[/us/pl/102/550/s1553/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1553%2Fb
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4071
-[/us/pl/101/647/s3513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3513
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4922
-[/us/pl/99/646/s31/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs31%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3598
-[/us/pl/98/547/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F547%2Fs201%2Fb
+[/us/pl/98/547/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F547%2FtII
 [/us/stat/98/2770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2770
-[/us/pl/98/473/s1105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1105%2Fb
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2145
-[/us/pl/98/151/s115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151%2Fs115%2Fc
+[/us/pl/98/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F151
 [/us/stat/97/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F977
-[/us/pl/89/81/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F81%2Fs211%2Fb
+[/us/pl/89/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F81%2FtII
 [/us/stat/79/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F257
-[/us/pl/85/921/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F921%2Fs2
+[/us/pl/85/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F921
 [/us/stat/72/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1771
-[/us/act/1951-07-16/ch226/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-07-16%2Fch226%2Fs5%2Fc
+[/us/act/1951-07-16/ch226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-07-16%2Fch226
 [/us/stat/65/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F122
 
 

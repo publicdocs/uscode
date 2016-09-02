@@ -21,13 +21,13 @@
 
     (c) The provisions of this section and sections 3493–3496 of this title applicable to consular officers shall be applicable to diplomatic officers pursuant to such regulations as may be prescribed by the President. For purposes of this section and sections 3493 through 3496 of this title, the term “consular officers” includes any United States citizen who is designated to perform notarial functions pursuant to section 1750 of the Revised Statutes, as amended ([22 U.S.C. 4221][/us/usc/t22/s4221]).
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 834][/us/stat/62/834]; [May 24, 1949, ch. 139, § 53][/us/act/1949-05-24/ch139/s53], [63 Stat. 96][/us/stat/63/96]; [Pub. L. 94–149, § 4][/us/pl/94/149/s4], Dec. 12, 1975, [89 Stat. 806][/us/stat/89/806]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2222(c)(2), Oct. 21, 1998, [112 Stat. 2681–818][/us/stat/112/2681-818].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 834][/us/stat/62/834]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 53, [63 Stat. 96][/us/stat/63/96]; [Pub. L. 94–149][/us/pl/94/149], § 4, Dec. 12, 1975, [89 Stat. 806][/us/stat/89/806]; [Pub. L. 105–277, div. G][/us/pl/105/277/dG], subdiv. B, title XXII, § 2222(c)(2), Oct. 21, 1998, [112 Stat. 2681–818][/us/stat/112/2681-818].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on [section 695b of title 28][/us/usc/t28/s695b], U.S.C., 1940 ed., Judicial Code and Judiciary ([June 20, 1936, ch. 640, § 3][/us/act/1936-06-20/ch640/s3], [49 Stat. 1562][/us/stat/49/1562]).
+    Based on [section 695b of title 28][/us/usc/t28/s695b], U.S.C., 1940 ed., Judicial Code and Judiciary ([June 20, 1936, ch. 640][/us/act/1936-06-20/ch640], § 3, [49 Stat. 1562][/us/stat/49/1562]).
 
  __1949__  __Act__ 
 
@@ -55,14 +55,14 @@
 [/us/usc/t22/s4221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4221
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F834
-[/us/act/1949-05-24/ch139/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs53
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F96
-[/us/pl/94/149/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F149%2Fs4
+[/us/pl/94/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F149
 [/us/stat/89/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F806
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dG]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdG
 [/us/stat/112/2681-818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-818
 [/us/usc/t28/s695b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs695b
-[/us/act/1936-06-20/ch640/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch640%2Fs3
+[/us/act/1936-06-20/ch640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch640
 [/us/stat/49/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1562
 [/us/usc/t18/s3492/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3492%2Fa
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

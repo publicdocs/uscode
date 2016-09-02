@@ -71,11 +71,11 @@
 
             (C) with respect to residential real property loans, the loan is with respect to the primary residence of the applicant.
 
-(Added [Pub. L. 108–198, § 2(a)][/us/pl/108/198/s2/a], Dec. 19, 2003, [117 Stat. 2899][/us/stat/117/2899]; amended [Pub. L. 110–289, div. A, title II, § 1216(c)][/us/pl/110/289/s1216/c], July 30, 2008, [122 Stat. 2792][/us/stat/122/2792]; [Pub. L. 111–203, title III, § 377(1)][/us/pl/111/203/s377/1], July 21, 2010, [124 Stat. 1569][/us/stat/124/1569].)
+(Added [Pub. L. 108–198][/us/pl/108/198], § 2(a), Dec. 19, 2003, [117 Stat. 2899][/us/stat/117/2899]; amended [Pub. L. 110–289, div. A, title II][/us/pl/110/289/dA/tII], § 1216(c), July 30, 2008, [122 Stat. 2792][/us/stat/122/2792]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 377(1), July 21, 2010, [124 Stat. 1569][/us/stat/124/1569].)
 
  __Prior Provisions__ 
 
-    A prior section 212, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 694][/us/stat/62/694], § 212, formerly § 217; [Pub. L. 85–699, title VII, § 701(a)][/us/pl/85/699/s701/a], Aug. 21, 1958, [72 Stat. 698][/us/stat/72/698]; [Pub. L. 86–168, title I, § 104(h)][/us/pl/86/168/s104/h], Aug. 18, 1959, [73 Stat. 387][/us/stat/73/387]; renumbered § 212, [Pub. L. 87–849, § 1(d)][/us/pl/87/849/s1/d], Oct. 23, 1962, [76 Stat. 1125][/us/stat/76/1125]; [Pub. L. 101–73, title IX, § 962(a)(1)][/us/pl/101/73/s962/a/1], Aug. 9, 1989, [103 Stat. 501][/us/stat/103/501]; [Pub. L. 101–647, title XXV, § 2597(b)][/us/pl/101/647/s2597/b], Nov. 29, 1990, [104 Stat. 4908][/us/stat/104/4908]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322], §§ 330004(1), 330010(1), 330016(1)(K), Sept. 13, 1994, [108 Stat. 2141][/us/stat/108/2141], 2143, 2147, related to offer of loan or gratuity to bank examiner, prior to repeal by [Pub. L. 108–198, § 2(a)][/us/pl/108/198/s2/a], Dec. 19, 2003, [117 Stat. 2899][/us/stat/117/2899].
+    A prior section 212, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 694][/us/stat/62/694], § 212, formerly § 217; [Pub. L. 85–699, title VII][/us/pl/85/699/tVII], § 701(a), Aug. 21, 1958, [72 Stat. 698][/us/stat/72/698]; [Pub. L. 86–168, title I][/us/pl/86/168/tI], § 104(h), Aug. 18, 1959, [73 Stat. 387][/us/stat/73/387]; renumbered § 212, [Pub. L. 87–849][/us/pl/87/849], § 1(d), Oct. 23, 1962, [76 Stat. 1125][/us/stat/76/1125]; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 962(a)(1), Aug. 9, 1989, [103 Stat. 501][/us/stat/103/501]; [Pub. L. 101–647, title XXV][/us/pl/101/647/tXXV], § 2597(b), Nov. 29, 1990, [104 Stat. 4908][/us/stat/104/4908]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], §§ 330004(1), 330010(1), 330016(1)(K), Sept. 13, 1994, [108 Stat. 2141][/us/stat/108/2141], 2143, 2147, related to offer of loan or gratuity to bank examiner, prior to repeal by [Pub. L. 108–198][/us/pl/108/198], § 2(a), Dec. 19, 2003, [117 Stat. 2899][/us/stat/117/2899].
 
     Another prior section 212, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 693][/us/stat/62/693], related to an offer or threat to a customs officer or employee, prior to the general amendment to this chapter by [Pub. L. 87–849][/us/pl/87/849] and is substantially covered by revised section 201.
 
@@ -96,27 +96,27 @@
 ----------
 ----------
 
-[/us/pl/108/198/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F198%2Fs2%2Fa
+[/us/pl/108/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F198
 [/us/stat/117/2899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2899
-[/us/pl/110/289/s1216/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1216%2Fc
+[/us/pl/110/289/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtII
 [/us/stat/122/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2792
-[/us/pl/111/203/s377/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs377%2F1
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1569
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F694
-[/us/pl/85/699/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs701%2Fa
+[/us/pl/85/699/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtVII
 [/us/stat/72/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F698
-[/us/pl/86/168/s104/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F168%2Fs104%2Fh
+[/us/pl/86/168/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F168%2FtI
 [/us/stat/73/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F387
-[/us/pl/87/849/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs1%2Fd
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1125
-[/us/pl/101/73/s962/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs962%2Fa%2F1
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F501
-[/us/pl/101/647/s2597/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2597%2Fb
+[/us/pl/101/647/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXV
 [/us/stat/104/4908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4908
-[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2141
-[/us/pl/108/198/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F198%2Fs2%2Fa
+[/us/pl/108/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F198
 [/us/stat/117/2899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2899
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F693

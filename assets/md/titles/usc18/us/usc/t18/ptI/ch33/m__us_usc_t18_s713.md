@@ -37,27 +37,27 @@
 
         (4) in the case of the seal of the United States Congress, upon complaint by the Secretary of the Senate and the Clerk of the House of Representatives, acting jointly.
 
-(Added [Pub. L. 89–807, § 1(a)][/us/pl/89/807/s1/a], Nov. 11, 1966, [80 Stat. 1525][/us/stat/80/1525]; amended [Pub. L. 91–651, § 1][/us/pl/91/651/s1], Jan. 5, 1971, [84 Stat. 1940][/us/stat/84/1940]; [Pub. L. 102–229, title II, § 210(a)][/us/pl/102/229/s210/a]–(d), Dec. 12, 1991, [105 Stat. 1717][/us/stat/105/1717]; [Pub. L. 103–322, title XXXIII, § 330016(1)(E)][/us/pl/103/322/s330016/1/E], Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146]; [Pub. L. 105–55, title III, § 308(a)][/us/pl/105/55/s308/a]–(d), Oct. 7, 1997, [111 Stat. 1198][/us/stat/111/1198].)
+(Added [Pub. L. 89–807][/us/pl/89/807], § 1(a), Nov. 11, 1966, [80 Stat. 1525][/us/stat/80/1525]; amended [Pub. L. 91–651][/us/pl/91/651], § 1, Jan. 5, 1971, [84 Stat. 1940][/us/stat/84/1940]; [Pub. L. 102–229, title II][/us/pl/102/229/tII], § 210(a)–(d), Dec. 12, 1991, [105 Stat. 1717][/us/stat/105/1717]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(E), Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146]; [Pub. L. 105–55, title III][/us/pl/105/55/tIII], § 308(a)–(d), Oct. 7, 1997, [111 Stat. 1198][/us/stat/111/1198].)
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–55, § 308(d)][/us/pl/105/55/s308/d], substituted “the seal of the United States Senate, the seal of the United States House of Representatives, and the seal of the United States Congress” for “and the seal of the United States Senate” in section catchline.
+    1997—[Pub. L. 105–55][/us/pl/105/55], § 308(d), substituted “the seal of the United States Senate, the seal of the United States House of Representatives, and the seal of the United States Congress” for “and the seal of the United States Senate” in section catchline.
 
-    Subsec. (a). [Pub. L. 105–55, § 308(a)][/us/pl/105/55/s308/a], inserted “or the seal of the United States House of Representatives, or the seal of the United States Congress,” after “Senate,”.
+    Subsec. (a). [Pub. L. 105–55][/us/pl/105/55], § 308(a), inserted “or the seal of the United States House of Representatives, or the seal of the United States Congress,” after “Senate,”.
 
-    Subsecs. (d), (e). [Pub. L. 105–55, § 308(b)][/us/pl/105/55/s308/b], added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
+    Subsecs. (d), (e). [Pub. L. 105–55][/us/pl/105/55], § 308(b), added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
 
-    Subsec. (f). [Pub. L. 105–55, § 308(b)(1)][/us/pl/105/55/s308/b/1], redesignated subsec. (d) as (f).
+    Subsec. (f). [Pub. L. 105–55][/us/pl/105/55], § 308(b)(1), redesignated subsec. (d) as (f).
 
-    Subsec. (f)(3), (4). [Pub. L. 105–55, § 308(c)][/us/pl/105/55/s308/c], added pars. (3) and (4).
+    Subsec. (f)(3), (4). [Pub. L. 105–55][/us/pl/105/55], § 308(c), added pars. (3) and (4).
 
     1994—Subsecs. (a) to (c). [Pub. L. 103–322][/us/pl/103/322] substituted “fined under this title” for “fined not more than $250”.
 
-    1991—[Pub. L. 102–229, § 210(a)][/us/pl/102/229/s210/a], substituted “the seals of the President and Vice President, and the seal of the United States Senate” for “and of the seals of the President and Vice President” in section catchline.
+    1991—[Pub. L. 102–229][/us/pl/102/229], § 210(a), substituted “the seals of the President and Vice President, and the seal of the United States Senate” for “and of the seals of the President and Vice President” in section catchline.
 
-    Subsec. (a). [Pub. L. 102–229, § 210(b)][/us/pl/102/229/s210/b], inserted “or the seal of the United States Senate,” after “Vice President of the United States,”.
+    Subsec. (a). [Pub. L. 102–229][/us/pl/102/229], § 210(b), inserted “or the seal of the United States Senate,” after “Vice President of the United States,”.
 
-    Subsecs. (c), (d). [Pub. L. 102–229, § 210(c)][/us/pl/102/229/s210/c], (d), added subsec. (c), amended former subsec. (c) generally, and redesignated former subsec. (c) as (d). Prior to amendment and redesignation, former subsec. (c) read as follows: “A violation of subsection (a) or (b) of this section may be enjoined at the suit of the Attorney General upon complaint by any authorized representative of any department or agency of the United States.”
+    Subsecs. (c), (d). [Pub. L. 102–229][/us/pl/102/229], § 210(c), (d), added subsec. (c), amended former subsec. (c) generally, and redesignated former subsec. (c) as (d). Prior to amendment and redesignation, former subsec. (c) read as follows: “A violation of subsection (a) or (b) of this section may be enjoined at the suit of the Attorney General upon complaint by any authorized representative of any department or agency of the United States.”
 
     1971—[Pub. L. 91–651][/us/pl/91/651] substituted “Use of likenesses of the great seal of the United States, and of the seals of the President and Vice President” for “Use of the great seal of the United States” in section catchline.
 
@@ -67,7 +67,7 @@
 
  __Effective Date of 1971 Amendment__ 
 
-[Pub. L. 91–651, § 3][/us/pl/91/651/s3], Jan. 5, 1971, [84 Stat. 1941][/us/stat/84/1941], provided that: The amendments made by this Act \[amending this section\] shall not make unlawful any preexisting use of the design of the great seal of the United States or of the seals of the President or Vice President of the United States that was lawful on the date of enactment of this Act \[Jan. 5, 1971\], until one year after the date of such enactment.”
+[Pub. L. 91–651][/us/pl/91/651], § 3, Jan. 5, 1971, [84 Stat. 1941][/us/stat/84/1941], provided that: The amendments made by this Act \[amending this section\] shall not make unlawful any preexisting use of the design of the great seal of the United States or of the seals of the President or Vice President of the United States that was lawful on the date of enactment of this Act \[Jan. 5, 1971\], until one year after the date of such enactment.”
 
  __Ex. Ord. No. 11649. Regulations Governing Seals of President and Vice President of United States__ 
 
@@ -102,29 +102,29 @@
 ----------
 ----------
 
-[/us/pl/89/807/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F807%2Fs1%2Fa
+[/us/pl/89/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F807
 [/us/stat/80/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1525
-[/us/pl/91/651/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F651%2Fs1
+[/us/pl/91/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F651
 [/us/stat/84/1940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1940
-[/us/pl/102/229/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229%2Fs210%2Fa
+[/us/pl/102/229/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229%2FtII
 [/us/stat/105/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1717
-[/us/pl/103/322/s330016/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FE
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2146
-[/us/pl/105/55/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs308%2Fa
+[/us/pl/105/55/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2FtIII
 [/us/stat/111/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1198
-[/us/pl/105/55/s308/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs308%2Fd
-[/us/pl/105/55/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs308%2Fa
-[/us/pl/105/55/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs308%2Fb
-[/us/pl/105/55/s308/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs308%2Fb%2F1
-[/us/pl/105/55/s308/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55%2Fs308%2Fc
+[/us/pl/105/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55
+[/us/pl/105/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55
+[/us/pl/105/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55
+[/us/pl/105/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55
+[/us/pl/105/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F55
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/102/229/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229%2Fs210%2Fa
-[/us/pl/102/229/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229%2Fs210%2Fb
-[/us/pl/102/229/s210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229%2Fs210%2Fc
+[/us/pl/102/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229
+[/us/pl/102/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229
+[/us/pl/102/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F229
 [/us/pl/91/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F651
 [/us/pl/91/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F651
 [/us/pl/91/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F651
-[/us/pl/91/651/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F651%2Fs3
+[/us/pl/91/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F651
 [/us/stat/84/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1941
 [/us/usc/t18/s713/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs713%2Fb
 

@@ -29,13 +29,13 @@
 
     (c) Any property subject to forfeiture pursuant to subsection (a) may be forfeited to the United States in a civil case in accordance with the procedures set forth in chapter 46 of this title.
 
-(Added [Pub. L. 100–690, title VII, § 7522(a)][/us/pl/100/690/s7522/a], Nov. 18, 1988, [102 Stat. 4490][/us/stat/102/4490]; amended [Pub. L. 101–647, title XXXV, § 3549][/us/pl/101/647/s3549], Nov. 29, 1990, [104 Stat. 4926][/us/stat/104/4926]; [Pub. L. 109–248, title V, § 505(a)][/us/pl/109/248/s505/a], July 27, 2006, [120 Stat. 629][/us/stat/120/629].)
+(Added [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7522(a), Nov. 18, 1988, [102 Stat. 4490][/us/stat/102/4490]; amended [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3549, Nov. 29, 1990, [104 Stat. 4926][/us/stat/104/4926]; [Pub. L. 109–248, title V][/us/pl/109/248/tV], § 505(a), July 27, 2006, [120 Stat. 629][/us/stat/120/629].)
 
  __Amendments__ 
 
-    2006—Subsec. (a)(3). [Pub. L. 109–248, § 505(a)(1)][/us/pl/109/248/s505/a/1], substituted period at end for “, if the court in its discretion so determines, taking into consideration the nature, scope, and proportionality of the use of the property in the offense.”
+    2006—Subsec. (a)(3). [Pub. L. 109–248][/us/pl/109/248], § 505(a)(1), substituted period at end for “, if the court in its discretion so determines, taking into consideration the nature, scope, and proportionality of the use of the property in the offense.”
 
-    Subsecs. (b) to (n). [Pub. L. 109–248, § 505(a)(2)][/us/pl/109/248/s505/a/2], added subsecs. (b) and (c) and struck out former subsecs. (b) to (n) which related, respectively, to third party transfers, protective orders, warrant of seizure, order of forfeiture, execution of order, disposition of property, authority of Attorney General, bar on intervention, jurisdiction to enter orders, depositions, third party interests, construction of section, and substitute assets.
+    Subsecs. (b) to (n). [Pub. L. 109–248][/us/pl/109/248], § 505(a)(2), added subsecs. (b) and (c) and struck out former subsecs. (b) to (n) which related, respectively, to third party transfers, protective orders, warrant of seizure, order of forfeiture, execution of order, disposition of property, authority of Attorney General, bar on intervention, jurisdiction to enter orders, depositions, third party interests, construction of section, and substitute assets.
 
     1990—Subsec. (h)(4). [Pub. L. 101–647][/us/pl/101/647] substituted “under section 616 of the Tariff Act of 1930” for “in accordance with the provisions of section 1616, title 19, United States Code”.
 
@@ -47,14 +47,14 @@
 ----------
 
 [/us/usc/t21/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853
-[/us/pl/100/690/s7522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7522%2Fa
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4490
-[/us/pl/101/647/s3549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3549
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4926
-[/us/pl/109/248/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs505%2Fa
+[/us/pl/109/248/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtV
 [/us/stat/120/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F629
-[/us/pl/109/248/s505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs505%2Fa%2F1
-[/us/pl/109/248/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs505%2Fa%2F2
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 
 

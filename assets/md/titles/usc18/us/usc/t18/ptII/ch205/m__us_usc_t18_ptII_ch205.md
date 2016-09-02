@@ -179,17 +179,17 @@
 
  __Codification__ 
 
-    [Pub. L. 90–351][/us/pl/90/351] enacted [section 3103a of this title][/us/usc/t18/s3103a] as part of chapter 204, and [Pub. L. 90–462, § 3][/us/pl/90/462/s3], Aug. 8, 1968, [82 Stat. 638][/us/stat/82/638], corrected the chapter designation from 204 to 205.
+    [Pub. L. 90–351][/us/pl/90/351] enacted [section 3103a of this title][/us/usc/t18/s3103a] as part of chapter 204, and [Pub. L. 90–462][/us/pl/90/462], § 3, Aug. 8, 1968, [82 Stat. 638][/us/stat/82/638], corrected the chapter designation from 204 to 205.
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–647, title XXXV, § 3573(d)][/us/pl/101/647/s3573/d], Nov. 29, 1990, [104 Stat. 4929][/us/stat/104/4929], struck out item 3112 “Search warrants for seizure of animals, birds, or eggs” and renumbered item 3117, “Implied consent for certain tests”, as 3118.
+    1990—[Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3573(d), Nov. 29, 1990, [104 Stat. 4929][/us/stat/104/4929], struck out item 3112 “Search warrants for seizure of animals, birds, or eggs” and renumbered item 3117, “Implied consent for certain tests”, as 3118.
 
-    1988—[Pub. L. 100–690, title VI, § 6477(b)(2)][/us/pl/100/690/s6477/b/2], Nov. 18, 1988, [102 Stat. 4381][/us/stat/102/4381], added item 3117 “Implied consent for certain tests”.
+    1988—[Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6477(b)(2), Nov. 18, 1988, [102 Stat. 4381][/us/stat/102/4381], added item 3117 “Implied consent for certain tests”.
 
-    1986—[Pub. L. 99–508, title I, § 108(b)][/us/pl/99/508/s108/b], Oct. 21, 1986, [100 Stat. 1858][/us/stat/100/1858], added item 3117 “Mobile tracking devices”.
+    1986—[Pub. L. 99–508, title I][/us/pl/99/508/tI], § 108(b), Oct. 21, 1986, [100 Stat. 1858][/us/stat/100/1858], added item 3117 “Mobile tracking devices”.
 
-    1968—[Pub. L. 90–351, title IX, § 1401(b)][/us/pl/90/351/s1401/b], June 19, 1968, [82 Stat. 238][/us/stat/82/238], added item 3103a.
+    1968—[Pub. L. 90–351, title IX][/us/pl/90/351/tIX], § 1401(b), June 19, 1968, [82 Stat. 238][/us/stat/82/238], added item 3103a.
 
  __Change of Name__ 
 
@@ -204,15 +204,15 @@
 
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/usc/t18/s3103a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3103a
-[/us/pl/90/462/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F462%2Fs3
+[/us/pl/90/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F462
 [/us/stat/82/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F638
-[/us/pl/101/647/s3573/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3573%2Fd
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4929
-[/us/pl/100/690/s6477/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6477%2Fb%2F2
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4381
-[/us/pl/99/508/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs108%2Fb
+[/us/pl/99/508/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtI
 [/us/stat/100/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1858
-[/us/pl/90/351/s1401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1401%2Fb
+[/us/pl/90/351/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtIX
 [/us/stat/82/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F238
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631

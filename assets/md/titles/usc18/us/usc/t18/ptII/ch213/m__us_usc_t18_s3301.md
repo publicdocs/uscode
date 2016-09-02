@@ -35,7 +35,7 @@
 
     No person shall be prosecuted, tried, or punished for a securities fraud offense, unless the indictment is found or the information is instituted within 6 years after the commission of the offense.
 
-(Added [Pub. L. 111–203, title X, § 1079A(b)(1)][/us/pl/111/203/s1079A/b/1], July 21, 2010, [124 Stat. 2079][/us/stat/124/2079].)
+(Added [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1079A(b)(1), July 21, 2010, [124 Stat. 2079][/us/stat/124/2079].)
 
  __Effective Date__ 
 
@@ -53,7 +53,7 @@
 [/us/usc/t15/s80b–17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%9317
 [/us/usc/t15/s80a–48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9348
 [/us/usc/t15/s77yyy]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77yyy
-[/us/pl/111/203/s1079A/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1079A%2Fb%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2079
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

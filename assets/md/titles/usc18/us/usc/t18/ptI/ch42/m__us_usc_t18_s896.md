@@ -17,7 +17,7 @@
 
     This chapter does not preempt any field of law with respect to which State legislation would be permissible in the absence of this chapter. No law of any State which would be valid in the absence of this chapter may be held invalid or inapplicable by virtue of the exist­ence of this chapter, and no officer, agency, or instrumentality of any State may be deprived by virtue of this chapter of any jurisdiction over any offense over which it would have jurisdiction in the absence of this chapter.
 
-(Added [Pub. L. 90–321, title II, § 202(a)][/us/pl/90/321/s202/a], May 29, 1968, [82 Stat. 162][/us/stat/82/162].)
+(Added [Pub. L. 90–321, title II][/us/pl/90/321/tII], § 202(a), May 29, 1968, [82 Stat. 162][/us/stat/82/162].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/321/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs202%2Fa
+[/us/pl/90/321/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtII
 [/us/stat/82/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F162
 
 

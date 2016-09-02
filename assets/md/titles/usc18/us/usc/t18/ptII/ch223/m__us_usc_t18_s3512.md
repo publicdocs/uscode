@@ -87,7 +87,7 @@
 
         The term “foreign authority” means a foreign judicial authority, a foreign authority responsible for the investigation or prosecution of criminal offenses or for proceedings related to the prosecution of criminal offenses, or an authority designated as a competent authority or central authority for the purpose of making requests for assistance pursuant to an agreement or treaty with the United States regarding assistance in criminal matters.
 
-(Added [Pub. L. 111–79, § 2(4)][/us/pl/111/79/s2/4], Oct. 19, 2009, [123 Stat. 2087][/us/stat/123/2087].)
+(Added [Pub. L. 111–79][/us/pl/111/79], § 2(4), Oct. 19, 2009, [123 Stat. 2087][/us/stat/123/2087].)
 
  __References in Text__ 
 
@@ -104,7 +104,7 @@
 [/us/usc/t18/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3123
 [/us/usc/t18/s2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2703
 [/us/usc/t28/s1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1782
-[/us/pl/111/79/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F79%2Fs2%2F4
+[/us/pl/111/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F79
 [/us/stat/123/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2087
 
 

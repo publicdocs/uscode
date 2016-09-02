@@ -29,7 +29,7 @@
 
         (2) The term “device” means any object that, because of its physical, mechanical, structural, or chemical properties, has the capacity to cause damage to a vessel or its cargo, or cause interference with the safe navigation of a vessel.
 
-(Added [Pub. L. 109–177, title III, § 304(a)(1)][/us/pl/109/177/s304/a/1], Mar. 9, 2006, [120 Stat. 234][/us/stat/120/234].)
+(Added [Pub. L. 109–177, title III][/us/pl/109/177/tIII], § 304(a)(1), Mar. 9, 2006, [120 Stat. 234][/us/stat/120/234].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/109/177/s304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs304%2Fa%2F1
+[/us/pl/109/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIII
 [/us/stat/120/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F234
 
 

@@ -25,11 +25,11 @@
 
     Where the amount of such claim or application for indemnity is less than $1,000 only a fine shall be imposed.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 698][/us/stat/62/698]; [Pub. L. 103–322, title XXXIII, § 330016(1)(G)][/us/pl/103/322/s330016/1/G], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–294, title VI, § 606(a)][/us/pl/104/294/s606/a], Oct. 11, 1996, [110 Stat. 3511][/us/stat/110/3511].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 698][/us/stat/62/698]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(G), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 606(a), Oct. 11, 1996, [110 Stat. 3511][/us/stat/110/3511].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 354 ([Mar. 4, 1909, ch. 321, § 224][/us/act/1909-03-04/ch321/s224], [35 Stat. 1133][/us/stat/35/1133]; [Aug. 5, 1939, ch. 429][/us/act/1939-08-05/ch429], [53 Stat. 1203][/us/stat/53/1203]).
+    Based on title 18, U.S.C., 1940 ed., § 354 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 224, [35 Stat. 1133][/us/stat/35/1133]; [Aug. 5, 1939, ch. 429][/us/act/1939-08-05/ch429], [53 Stat. 1203][/us/stat/53/1203]).
 
     Reference to persons causing, assisting, aiding, or abetting, was omitted as such persons are made principals by [section 2 of this title][/us/usc/t18/s2].
 
@@ -50,11 +50,11 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F698
-[/us/pl/103/322/s330016/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FG
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/104/294/s606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs606%2Fa
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3511
-[/us/act/1909-03-04/ch321/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs224
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1133
 [/us/act/1939-08-05/ch429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-05%2Fch429
 [/us/stat/53/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1203

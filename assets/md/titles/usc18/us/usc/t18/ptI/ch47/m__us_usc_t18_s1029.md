@@ -113,7 +113,7 @@
 
     (h) Any person who, outside the jurisdiction of the United States, engages in any act that, if committed within the jurisdiction of the United States, would constitute an offense under subsection (a) or (b) of this section, shall be subject to the fines, penalties, imprisonment, and forfeiture provided in this title if the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity organized under the laws of the United States, or any State, the District of Columbia, or other territory of the United States.
 
-(Added [Pub. L. 98–473, title II, § 1602(a)][/us/pl/98/473/s1602/a], Oct. 12, 1984, [98 Stat. 2183][/us/stat/98/2183]; amended [Pub. L. 99–646, § 44(b)][/us/pl/99/646/s44/b], Nov. 10, 1986, [100 Stat. 3601][/us/stat/100/3601]; [Pub. L. 101–647, title XII, § 1205(f)][/us/pl/101/647/s1205/f], Nov. 29, 1990, [104 Stat. 4831][/us/stat/104/4831]; [Pub. L. 103–322, title XXV, § 250007][/us/pl/103/322/s250007], title XXXIII, § 330016(2)(I), Sept. 13, 1994, [108 Stat. 2087][/us/stat/108/2087], 2148; [Pub. L. 103–414, title II, § 206][/us/pl/103/414/s206], Oct. 25, 1994, [108 Stat. 4291][/us/stat/108/4291]; [Pub. L. 104–294, title VI, § 601][/us/pl/104/294/s601](l), Oct. 11, 1996, [110 Stat. 3501][/us/stat/110/3501]; [Pub. L. 105–172, § 2(a)][/us/pl/105/172/s2/a]–(d), Apr. 24, 1998, [112 Stat. 53][/us/stat/112/53], 54; [Pub. L. 107–56, title III, § 377][/us/pl/107/56/s377], Oct. 26, 2001, [115 Stat. 342][/us/stat/115/342]; [Pub. L. 107–273, div. B, title IV, § 4002(b)(11)][/us/pl/107/273/s4002/b/11], Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808]; [Pub. L. 114–113, div. N, title IV, § 407][/us/pl/114/113/s407], Dec. 18, 2015, [129 Stat. 2985][/us/stat/129/2985].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1602(a), Oct. 12, 1984, [98 Stat. 2183][/us/stat/98/2183]; amended [Pub. L. 99–646][/us/pl/99/646], § 44(b), Nov. 10, 1986, [100 Stat. 3601][/us/stat/100/3601]; [Pub. L. 101–647, title XII][/us/pl/101/647/tXII], § 1205(f), Nov. 29, 1990, [104 Stat. 4831][/us/stat/104/4831]; [Pub. L. 103–322, title XXV][/us/pl/103/322/tXXV], § 250007, title XXXIII, § 330016(2)(I), Sept. 13, 1994, [108 Stat. 2087][/us/stat/108/2087], 2148; [Pub. L. 103–414, title II][/us/pl/103/414/tII], § 206, Oct. 25, 1994, [108 Stat. 4291][/us/stat/108/4291]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(l), Oct. 11, 1996, [110 Stat. 3501][/us/stat/110/3501]; [Pub. L. 105–172][/us/pl/105/172], § 2(a)–(d), Apr. 24, 1998, [112 Stat. 53][/us/stat/112/53], 54; [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 377, Oct. 26, 2001, [115 Stat. 342][/us/stat/115/342]; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(b)(11), Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808]; [Pub. L. 114–113, div. N, title IV][/us/pl/114/113/dN/tIV], § 407, Dec. 18, 2015, [129 Stat. 2985][/us/stat/129/2985].)
 
  __References in Text__ 
 
@@ -129,21 +129,21 @@
 
     “(2) the person transports, delivers, conveys, transfers to or through, or otherwise stores, secrets, or holds within the jurisdiction of the United States, any article used to assist in the commission of the offense or the proceeds of such offense or property derived therefrom.”
 
-    2002—Subsec. (c)(1)(A)(ii). [Pub. L. 107–273, § 4002(b)(11)(A)][/us/pl/107/273/s4002/b/11/A], substituted “(9)” for “(9),”.
+    2002—Subsec. (c)(1)(A)(ii). [Pub. L. 107–273][/us/pl/107/273], § 4002(b)(11)(A), substituted “(9)” for “(9),”.
 
-    Subsec. (e)(8). [Pub. L. 107–273, § 4002(b)(11)(B)][/us/pl/107/273/s4002/b/11/B], inserted semicolon at end.
+    Subsec. (e)(8). [Pub. L. 107–273][/us/pl/107/273], § 4002(b)(11)(B), inserted semicolon at end.
 
     2001—Subsec. (h). [Pub. L. 107–56][/us/pl/107/56] added subsec. (h).
 
-    1998—Subsec. (a)(8) to (10). [Pub. L. 105–172, § 2(a)][/us/pl/105/172/s2/a], added pars. (8) and (9), redesignated former par. (9) as (10), and struck out former par. (8) which read as follows: “knowingly and with intent to defraud uses, produces, traffics in, has control or custody of, or possesses—
+    1998—Subsec. (a)(8) to (10). [Pub. L. 105–172][/us/pl/105/172], § 2(a), added pars. (8) and (9), redesignated former par. (9) as (10), and struck out former par. (8) which read as follows: “knowingly and with intent to defraud uses, produces, traffics in, has control or custody of, or possesses—
 
     “(A) a scanning receiver; or
 
     “(B) hardware or software used for altering or modifying telecommunications instruments to obtain unauthorized access to telecommunications services, or”.
 
-    Subsec. (b)(1). [Pub. L. 105–172, § 2(b)(2)][/us/pl/105/172/s2/b/2], substituted “subject to the same penalties as those prescribed for the offense attempted” for “punished as provided in subsection (c) of this section”.
+    Subsec. (b)(1). [Pub. L. 105–172][/us/pl/105/172], § 2(b)(2), substituted “subject to the same penalties as those prescribed for the offense attempted” for “punished as provided in subsection (c) of this section”.
 
-    Subsec. (c). [Pub. L. 105–172, § 2(b)(1)][/us/pl/105/172/s2/b/1], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The punishment for an offense under subsection (a) or (b)(1) of this section is—
+    Subsec. (c). [Pub. L. 105–172][/us/pl/105/172], § 2(b)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The punishment for an offense under subsection (a) or (b)(1) of this section is—
 
     “(1) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(2), (3), (5), (6), (7), (8), or (9) of this section which does not occur after a conviction for another offense under either such subsection, or an attempt to commit an offense punishable under this paragraph;
 
@@ -151,61 +151,61 @@
 
     “(3) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than twenty years, or both, in the case of an offense under subsection (a) of this section which occurs after a conviction for another offense under such subsection, or an attempt to commit an offense punishable under this paragraph.”
 
-    Subsec. (e)(8). [Pub. L. 105–172, § 2(c)][/us/pl/105/172/s2/c], inserted “or to intercept an electronic serial number, mobile identification number, or other identifier of any telecommunications service, equipment, or instrument” before the period at end.
+    Subsec. (e)(8). [Pub. L. 105–172][/us/pl/105/172], § 2(c), inserted “or to intercept an electronic serial number, mobile identification number, or other identifier of any telecommunications service, equipment, or instrument” before the period at end.
 
-    Subsec. (e)(9) to (11). [Pub. L. 105–172, § 2(d)(2)][/us/pl/105/172/s2/d/2], added pars. (9) to (11).
+    Subsec. (e)(9) to (11). [Pub. L. 105–172][/us/pl/105/172], § 2(d)(2), added pars. (9) to (11).
 
-    Subsec. (g). [Pub. L. 105–172, § 2(d)(1)][/us/pl/105/172/s2/d/1], added subsec. (g).
+    Subsec. (g). [Pub. L. 105–172][/us/pl/105/172], § 2(d)(1), added subsec. (g).
 
-    1996—Subsec. (a)(5). [Pub. L. 104–294, § 601][/us/pl/104/294/s601](l)(1)(A), redesignated par. (5), relating to instruments that have been modified or altered to obtain unauthorized access to telecommunications services, as (7).
+    1996—Subsec. (a)(5). [Pub. L. 104–294][/us/pl/104/294], § 601(l)(1)(A), redesignated par. (5), relating to instruments that have been modified or altered to obtain unauthorized access to telecommunications services, as (7).
 
-    Subsec. (a)(6). [Pub. L. 104–294, § 601][/us/pl/104/294/s601](l)(1)(C), in par. (6) relating to solicitations, struck out “or” at end.
+    Subsec. (a)(6). [Pub. L. 104–294][/us/pl/104/294], § 601(l)(1)(C), in par. (6) relating to solicitations, struck out “or” at end.
 
-    [Pub. L. 104–294, § 601][/us/pl/104/294/s601](l)(1)(A), redesignated par. (6), relating to scanning receivers or other hardware or software used to obtain unauthorized access to telecommunications services, as (8).
+    [Pub. L. 104–294][/us/pl/104/294], § 601(l)(1)(A), redesignated par. (6), relating to scanning receivers or other hardware or software used to obtain unauthorized access to telecommunications services, as (8).
 
-    Subsec. (a)(7). [Pub. L. 104–294, § 601][/us/pl/104/294/s601](l)(1)(A), (C), redesignated par. (5), relating to instruments that have been modified or altered to obtain unauthorized access to telecommunications services, as (7), and struck out “or” at end. Par. transferred to appear in numerical order to reflect probable intent of Congress. Former par. (7) redesignated (9).
+    Subsec. (a)(7). [Pub. L. 104–294][/us/pl/104/294], § 601(l)(1)(A), (C), redesignated par. (5), relating to instruments that have been modified or altered to obtain unauthorized access to telecommunications services, as (7), and struck out “or” at end. Par. transferred to appear in numerical order to reflect probable intent of Congress. Former par. (7) redesignated (9).
 
-    [Pub. L. 104–294, § 601][/us/pl/104/294/s601](l)(1)(B), redesignated par. (7) as (9).
+    [Pub. L. 104–294][/us/pl/104/294], § 601(l)(1)(B), redesignated par. (7) as (9).
 
-    Subsec. (a)(8). [Pub. L. 104–294, § 601][/us/pl/104/294/s601](l)(1)(A), (D), redesignated par. (6), relating to scanning receivers or other hardware or software used to obtain unauthorized access to telecommunications services, as (8) and inserted “or” at end. Par. transferred to appear in numerical order to reflect probable intent of Congress.
+    Subsec. (a)(8). [Pub. L. 104–294][/us/pl/104/294], § 601(l)(1)(A), (D), redesignated par. (6), relating to scanning receivers or other hardware or software used to obtain unauthorized access to telecommunications services, as (8) and inserted “or” at end. Par. transferred to appear in numerical order to reflect probable intent of Congress.
 
-    Subsec. (a)(9). [Pub. L. 104–294, § 601][/us/pl/104/294/s601](l)(1)(B), redesignated par. (7) as (9).
+    Subsec. (a)(9). [Pub. L. 104–294][/us/pl/104/294], § 601(l)(1)(B), redesignated par. (7) as (9).
 
-    Subsec. (c)(1). [Pub. L. 104–294, § 601][/us/pl/104/294/s601](l)(3)(A), substituted “(7), (8), or (9)” for “or (7)”.
+    Subsec. (c)(1). [Pub. L. 104–294][/us/pl/104/294], § 601(l)(3)(A), substituted “(7), (8), or (9)” for “or (7)”.
 
-    Subsec. (c)(2). [Pub. L. 104–294, § 601][/us/pl/104/294/s601](l)(3)(B), substituted “(6), (7), or (8)” for “or (6)”.
+    Subsec. (c)(2). [Pub. L. 104–294][/us/pl/104/294], § 601(l)(3)(B), substituted “(6), (7), or (8)” for “or (6)”.
 
-    Subsec. (e)(7), (8). [Pub. L. 104–294, § 601][/us/pl/104/294/s601](l)(2), redesignated par. (7), defining “scanning receiver”, as (8).
+    Subsec. (e)(7), (8). [Pub. L. 104–294][/us/pl/104/294], § 601(l)(2), redesignated par. (7), defining “scanning receiver”, as (8).
 
-    1994—Subsec. (a)(3). [Pub. L. 103–322, § 250007(1)(A)][/us/pl/103/322/s250007/1/A], and [Pub. L. 103–414, § 206(a)(1)][/us/pl/103/414/s206/a/1], amended par. (3) identically, striking “or” at end.
+    1994—Subsec. (a)(3). [Pub. L. 103–322][/us/pl/103/322], § 250007(1)(A), and [Pub. L. 103–414][/us/pl/103/414], § 206(a)(1), amended par. (3) identically, striking “or” at end.
 
-    Subsec. (a)(5). [Pub. L. 103–414, § 206(a)(2)][/us/pl/103/414/s206/a/2], added par. (5) relating to instruments that have been modified or altered to obtain unauthorized use of telecommunications services.
+    Subsec. (a)(5). [Pub. L. 103–414][/us/pl/103/414], § 206(a)(2), added par. (5) relating to instruments that have been modified or altered to obtain unauthorized use of telecommunications services.
 
-    [Pub. L. 103–322, § 250007(1)(B)][/us/pl/103/322/s250007/1/B], added par. (5) relating to transactions involving use of access devices issued to persons other than user.
+    [Pub. L. 103–322][/us/pl/103/322], § 250007(1)(B), added par. (5) relating to transactions involving use of access devices issued to persons other than user.
 
-    Subsec. (a)(6). [Pub. L. 103–414, § 206(a)(2)][/us/pl/103/414/s206/a/2], added par. (6) relating to scanning receivers or other hardware or software used to obtain unauthorized access to telecommunications services.
+    Subsec. (a)(6). [Pub. L. 103–414][/us/pl/103/414], § 206(a)(2), added par. (6) relating to scanning receivers or other hardware or software used to obtain unauthorized access to telecommunications services.
 
-    [Pub. L. 103–322, § 250007(1)(B)][/us/pl/103/322/s250007/1/B], added par. (6) relating to solicitations which offer access devices or information regarding access devices.
+    [Pub. L. 103–322][/us/pl/103/322], § 250007(1)(B), added par. (6) relating to solicitations which offer access devices or information regarding access devices.
 
-    Subsec. (a)(7). [Pub. L. 103–322, § 250007(1)(B)][/us/pl/103/322/s250007/1/B], added par. (7).
+    Subsec. (a)(7). [Pub. L. 103–322][/us/pl/103/322], § 250007(1)(B), added par. (7).
 
-    Subsec. (c)(1). [Pub. L. 103–322, § 330016(2)(I)][/us/pl/103/322/s330016/2/I], substituted “fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment” for “fine of not more than the greater of $10,000 or twice the value obtained by the offense or imprisonment”.
+    Subsec. (c)(1). [Pub. L. 103–322][/us/pl/103/322], § 330016(2)(I), substituted “fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment” for “fine of not more than the greater of $10,000 or twice the value obtained by the offense or imprisonment”.
 
-    [Pub. L. 103–322, § 250007(2)][/us/pl/103/322/s250007/2], substituted “(a)(2), (3), (5), (6), or (7)” for “(a)(2) or (a)(3)”.
+    [Pub. L. 103–322][/us/pl/103/322], § 250007(2), substituted “(a)(2), (3), (5), (6), or (7)” for “(a)(2) or (a)(3)”.
 
-    Subsec. (c)(2). [Pub. L. 103–414, § 206(b)][/us/pl/103/414/s206/b], substituted “(a)(1), (4), (5), or (6)” for “(a)(1) or (a)(4)”.
+    Subsec. (c)(2). [Pub. L. 103–414][/us/pl/103/414], § 206(b), substituted “(a)(1), (4), (5), or (6)” for “(a)(1) or (a)(4)”.
 
-    [Pub. L. 103–322, § 330016(2)(I)][/us/pl/103/322/s330016/2/I], substituted “fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment” for “fine of not more than the greater of $50,000 or twice the value obtained by the offense or imprisonment”.
+    [Pub. L. 103–322][/us/pl/103/322], § 330016(2)(I), substituted “fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment” for “fine of not more than the greater of $50,000 or twice the value obtained by the offense or imprisonment”.
 
-    Subsec. (c)(3). [Pub. L. 103–322, § 330016(2)(I)][/us/pl/103/322/s330016/2/I], substituted “fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment” for “fine of not more than the greater of $100,000 or twice the value obtained by the offense or imprisonment”.
+    Subsec. (c)(3). [Pub. L. 103–322][/us/pl/103/322], § 330016(2)(I), substituted “fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment” for “fine of not more than the greater of $100,000 or twice the value obtained by the offense or imprisonment”.
 
-    Subsec. (e)(1). [Pub. L. 103–414, § 206(c)(1)][/us/pl/103/414/s206/c/1], inserted “electronic serial number, mobile identification number, personal identification number, or other telecommunications service, equipment, or instrument identifier,” after “account number,”.
+    Subsec. (e)(1). [Pub. L. 103–414][/us/pl/103/414], § 206(c)(1), inserted “electronic serial number, mobile identification number, personal identification number, or other telecommunications service, equipment, or instrument identifier,” after “account number,”.
 
-    Subsec. (e)(5), (6). [Pub. L. 103–322, § 250007(3)(A)][/us/pl/103/322/s250007/3/A], (B), and [Pub. L. 103–414, § 206(c)(2)][/us/pl/103/414/s206/c/2], (3), amended subsec. (e) identically, striking “and” at end of par. (5) and substituting “; and” for period at end of par. (6).
+    Subsec. (e)(5), (6). [Pub. L. 103–322][/us/pl/103/322], § 250007(3)(A), (B), and [Pub. L. 103–414][/us/pl/103/414], § 206(c)(2), (3), amended subsec. (e) identically, striking “and” at end of par. (5) and substituting “; and” for period at end of par. (6).
 
-    Subsec. (e)(7). [Pub. L. 103–414, § 206(c)(4)][/us/pl/103/414/s206/c/4], added par. (7) defining “scanning receiver”.
+    Subsec. (e)(7). [Pub. L. 103–414][/us/pl/103/414], § 206(c)(4), added par. (7) defining “scanning receiver”.
 
-    [Pub. L. 103–322, § 250007(3)(C)][/us/pl/103/322/s250007/3/C], added par. (7) defining “credit card system member”.
+    [Pub. L. 103–322][/us/pl/103/322], § 250007(3)(C), added par. (7) defining “credit card system member”.
 
     1990—Subsec. (f). [Pub. L. 101–647][/us/pl/101/647] inserted at end “For purposes of this subsection, the term ‘State’ includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.”
 
@@ -217,7 +217,7 @@
 
  __Report to Congress__ 
 
-    [Pub. L. 98–473, title II, § 1603][/us/pl/98/473/s1603], Oct. 12, 1984, [98 Stat. 2184][/us/stat/98/2184], directed Attorney General to report to Congress annually, during first three years following Oct. 12, 1984, concerning prosecutions under this section.
+    [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1603, Oct. 12, 1984, [98 Stat. 2184][/us/stat/98/2184], directed Attorney General to report to Congress annually, during first three years following Oct. 12, 1984, concerning prosecutions under this section.
 
 ----------
 
@@ -227,71 +227,71 @@
 ----------
 
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
-[/us/pl/98/473/s1602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1602%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2183
-[/us/pl/99/646/s44/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs44%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3601
-[/us/pl/101/647/s1205/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1205%2Ff
+[/us/pl/101/647/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXII
 [/us/stat/104/4831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4831
-[/us/pl/103/322/s250007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs250007
+[/us/pl/103/322/tXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXV
 [/us/stat/108/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2087
-[/us/pl/103/414/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs206
+[/us/pl/103/414/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtII
 [/us/stat/108/4291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4291
-[/us/pl/104/294/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3501
-[/us/pl/105/172/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F172%2Fs2%2Fa
+[/us/pl/105/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F172
 [/us/stat/112/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F53
-[/us/pl/107/56/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs377
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F342
-[/us/pl/107/273/s4002/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fb%2F11
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1808
-[/us/pl/114/113/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs407
+[/us/pl/114/113/dN/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdN%2FtIV
 [/us/stat/129/2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2985
 [/us/usc/t21/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1964
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
-[/us/pl/107/273/s4002/b/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fb%2F11%2FA
-[/us/pl/107/273/s4002/b/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fb%2F11%2FB
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
-[/us/pl/105/172/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F172%2Fs2%2Fa
-[/us/pl/105/172/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F172%2Fs2%2Fb%2F2
-[/us/pl/105/172/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F172%2Fs2%2Fb%2F1
-[/us/pl/105/172/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F172%2Fs2%2Fc
-[/us/pl/105/172/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F172%2Fs2%2Fd%2F2
-[/us/pl/105/172/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F172%2Fs2%2Fd%2F1
-[/us/pl/104/294/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601
-[/us/pl/104/294/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601
-[/us/pl/104/294/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601
-[/us/pl/104/294/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601
-[/us/pl/104/294/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601
-[/us/pl/104/294/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601
-[/us/pl/104/294/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601
-[/us/pl/104/294/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601
-[/us/pl/104/294/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601
-[/us/pl/104/294/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601
-[/us/pl/103/322/s250007/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs250007%2F1%2FA
-[/us/pl/103/414/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs206%2Fa%2F1
-[/us/pl/103/414/s206/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs206%2Fa%2F2
-[/us/pl/103/322/s250007/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs250007%2F1%2FB
-[/us/pl/103/414/s206/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs206%2Fa%2F2
-[/us/pl/103/322/s250007/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs250007%2F1%2FB
-[/us/pl/103/322/s250007/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs250007%2F1%2FB
-[/us/pl/103/322/s330016/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F2%2FI
-[/us/pl/103/322/s250007/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs250007%2F2
-[/us/pl/103/414/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs206%2Fb
-[/us/pl/103/322/s330016/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F2%2FI
-[/us/pl/103/322/s330016/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F2%2FI
-[/us/pl/103/414/s206/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs206%2Fc%2F1
-[/us/pl/103/322/s250007/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs250007%2F3%2FA
-[/us/pl/103/414/s206/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs206%2Fc%2F2
-[/us/pl/103/414/s206/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs206%2Fc%2F4
-[/us/pl/103/322/s250007/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs250007%2F3%2FC
+[/us/pl/105/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F172
+[/us/pl/105/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F172
+[/us/pl/105/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F172
+[/us/pl/105/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F172
+[/us/pl/105/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F172
+[/us/pl/105/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F172
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/98/473/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1603
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2184
 
 

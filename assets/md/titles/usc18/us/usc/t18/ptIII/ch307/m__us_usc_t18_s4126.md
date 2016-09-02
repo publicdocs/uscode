@@ -39,13 +39,13 @@
 
     (f) Funds available to the corporation may be used for the lease, purchase, other acquisition, repair, alteration, erection, or maintenance of facilities only to the extent such facilities are necessary for the industrial operations of the corporation under this chapter. Such funds may not be used for the construction or acquisition of penal or correctional institutions, including camps described in section 4125.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 852][/us/stat/62/852]; [May 24, 1949, ch. 139, § 64][/us/act/1949-05-24/ch139/s64], [63 Stat. 99][/us/stat/63/99]; [Pub. L. 87–317][/us/pl/87/317], Sept. 26, 1961, [75 Stat. 681][/us/stat/75/681]; [Pub. L. 100–690, title VII, § 7094][/us/pl/100/690/s7094], Nov. 18, 1988, [102 Stat. 4412][/us/stat/102/4412]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 852][/us/stat/62/852]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 64, [63 Stat. 99][/us/stat/63/99]; [Pub. L. 87–317][/us/pl/87/317], Sept. 26, 1961, [75 Stat. 681][/us/stat/75/681]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7094, Nov. 18, 1988, [102 Stat. 4412][/us/stat/102/4412]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on title 18, U.S.C., 1940 ed., §§ 744d, 744e, 744f, 744l ([May 27, 1930, ch. 340][/us/act/1930-05-27/ch340], §§ 4–6, [46 Stat. 391][/us/stat/46/391], 392; [June 23, 1934, ch. 736, § 4][/us/act/1934-06-23/ch736/s4], [48 Stat. 1211][/us/stat/48/1211]).
+    Based on title 18, U.S.C., 1940 ed., §§ 744d, 744e, 744f, 744l ([May 27, 1930, ch. 340][/us/act/1930-05-27/ch340], §§ 4–6, [46 Stat. 391][/us/stat/46/391], 392; [June 23, 1934, ch. 736][/us/act/1934-06-23/ch736], § 4, [48 Stat. 1211][/us/stat/48/1211]).
 
     This section is a restatement of section 744l of title 18, U.S.C., 1940 ed., with which sections 744d and 744f and the first sentence of [section 744e of title 18][/us/usc/t18/s744e], U.S.C., 1940 ed., are consolidated, in view of the fact that those provisions have been superseded by section 744l of title 18, U.S.C., 1940 ed., in connection with other provisions of the [act of June 23, 1934, ch. 736][/us/act/1934-06-23/ch736], [48 Stat. 1211][/us/stat/48/1211].
 
@@ -71,13 +71,13 @@
 
     2004—Subsecs. (a), (d). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
-    1988—Subsecs. (a), (b). [Pub. L. 100–690, § 7094(1)][/us/pl/100/690/s7094/1], designated first and second pars. as subsecs. (a) and (b), respectively.
+    1988—Subsecs. (a), (b). [Pub. L. 100–690][/us/pl/100/690], § 7094(1), designated first and second pars. as subsecs. (a) and (b), respectively.
 
-    Subsec. (c). [Pub. L. 100–690, § 7094(1)][/us/pl/100/690/s7094/1], (2), designated third par. as subsec. (c) and amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The corporation, in accordance with the laws generally applicable to the expenditures of the several departments and establishments of the government, is authorized to employ the fund, and any earnings that may accrue to the corporation, as operating capital in performing the duties imposed by this chapter; in the repair, alteration, erection and maintenance of industrial buildings and equipment; in the vocational training of inmates without regard to their industrial or other assignments; in paying, under rules and regulations promulgated by the Attorney General, compensation to inmates employed in any industry, or performing outstanding services in institutional operations, and compensation to inmates or their dependents for injuries suffered in any industry or in any work activity in connection with the maintenance or operation of the institution where confined. In no event shall compensation be paid in a greater amount than that provided in the Federal Employees’ Compensation Act.”
+    Subsec. (c). [Pub. L. 100–690][/us/pl/100/690], § 7094(1), (2), designated third par. as subsec. (c) and amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The corporation, in accordance with the laws generally applicable to the expenditures of the several departments and establishments of the government, is authorized to employ the fund, and any earnings that may accrue to the corporation, as operating capital in performing the duties imposed by this chapter; in the repair, alteration, erection and maintenance of industrial buildings and equipment; in the vocational training of inmates without regard to their industrial or other assignments; in paying, under rules and regulations promulgated by the Attorney General, compensation to inmates employed in any industry, or performing outstanding services in institutional operations, and compensation to inmates or their dependents for injuries suffered in any industry or in any work activity in connection with the maintenance or operation of the institution where confined. In no event shall compensation be paid in a greater amount than that provided in the Federal Employees’ Compensation Act.”
 
-    Subsecs. (d), (e). [Pub. L. 100–690, § 7094(1)][/us/pl/100/690/s7094/1], designated fourth and fifth pars. as subsecs. (d) and (e), respectively.
+    Subsecs. (d), (e). [Pub. L. 100–690][/us/pl/100/690], § 7094(1), designated fourth and fifth pars. as subsecs. (d) and (e), respectively.
 
-    Subsec. (f). [Pub. L. 100–690, § 7094(3)][/us/pl/100/690/s7094/3], added subsec. (f).
+    Subsec. (f). [Pub. L. 100–690][/us/pl/100/690], § 7094(3), added subsec. (f).
 
     1961—[Pub. L. 87–317][/us/pl/87/317] authorized compensation for injuries to inmates incurred while working in connection with the maintenance or operation of the institution where confined.
 
@@ -92,17 +92,17 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F852
-[/us/act/1949-05-24/ch139/s64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs64
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F99
 [/us/pl/87/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F317
 [/us/stat/75/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F681
-[/us/pl/100/690/s7094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7094
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4412
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/act/1930-05-27/ch340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-27%2Fch340
 [/us/stat/46/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F391
-[/us/act/1934-06-23/ch736/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-23%2Fch736%2Fs4
+[/us/act/1934-06-23/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-23%2Fch736
 [/us/stat/48/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1211
 [/us/usc/t18/s744e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs744e
 [/us/act/1934-06-23/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-23%2Fch736
@@ -113,10 +113,10 @@
 [/us/usc/t18/s4126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4126
 [/us/stat/62/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F230
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/100/690/s7094/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7094%2F1
-[/us/pl/100/690/s7094/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7094%2F1
-[/us/pl/100/690/s7094/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7094%2F1
-[/us/pl/100/690/s7094/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7094%2F3
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/87/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F317
 
 

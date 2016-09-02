@@ -95,7 +95,7 @@
 
     (11) the term “indistinguishable” used with respect to a depiction, means virtually indistinguishable, in that the depiction is such that an ordinary person viewing the depiction would conclude that the depiction is of an actual minor engaged in sexually explicit conduct. This definition does not apply to depictions that are drawings, cartoons, sculptures, or paintings depicting minors or adults.
 
-(Added [Pub. L. 95–225, § 2(a)][/us/pl/95/225/s2/a], Feb. 6, 1978, [92 Stat. 8][/us/stat/92/8], § 2253; renumbered § 2255 and amended [Pub. L. 98–292, § 5][/us/pl/98/292/s5], May 21, 1984, [98 Stat. 205][/us/stat/98/205]; renumbered § 2256, [Pub. L. 99–500, § 101(b)][/us/pl/99/500/s101/b] \[title VII, § 703(a)\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–74, and [Pub. L. 99–591, § 101(b)][/us/pl/99/591/s101/b] \[title VII, § 703(a)\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–74; [Pub. L. 99–628, § 4][/us/pl/99/628/s4], Nov. 7, 1986, [100 Stat. 3510][/us/stat/100/3510]; [Pub. L. 100–690, title VII][/us/pl/100/690], §§ 7511(c), 7512(b), Nov. 18, 1988, [102 Stat. 4485][/us/stat/102/4485], 4486; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title I, § 121\[2\]\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–26, 3009–27; [Pub. L. 108–21, title V, § 502(a)][/us/pl/108/21/s502/a]–(c), Apr. 30, 2003, [117 Stat. 678][/us/stat/117/678], 679; [Pub. L. 110–401, title III, § 302][/us/pl/110/401/s302], Oct. 13, 2008, [122 Stat. 4242][/us/stat/122/4242].)
+(Added [Pub. L. 95–225][/us/pl/95/225], § 2(a), Feb. 6, 1978, [92 Stat. 8][/us/stat/92/8], § 2253; renumbered § 2255 and amended [Pub. L. 98–292][/us/pl/98/292], § 5, May 21, 1984, [98 Stat. 205][/us/stat/98/205]; renumbered § 2256, [Pub. L. 99–500][/us/pl/99/500], § 101(b) \[title VII, § 703(a)\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–74, and [Pub. L. 99–591][/us/pl/99/591], § 101(b) \[title VII, § 703(a)\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–74; [Pub. L. 99–628][/us/pl/99/628], § 4, Nov. 7, 1986, [100 Stat. 3510][/us/stat/100/3510]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], §§ 7511(c), 7512(b), Nov. 18, 1988, [102 Stat. 4485][/us/stat/102/4485], 4486; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title I, § 121\[2\]\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–26, 3009–27; [Pub. L. 108–21, title V][/us/pl/108/21/tV], § 502(a)–(c), Apr. 30, 2003, [117 Stat. 678][/us/stat/117/678], 679; [Pub. L. 110–401, title III][/us/pl/110/401/tIII], § 302, Oct. 13, 2008, [122 Stat. 4242][/us/stat/122/4242].)
 
  __Codification__ 
 
@@ -105,7 +105,7 @@
 
     2008—Par. (5). [Pub. L. 110–401][/us/pl/110/401] struck out “and” before “data stored” and inserted “, and data which is capable of conversion into a visual image that has been transmitted by any means, whether or not stored in a permanent format” before semicolon at end.
 
-    2003—Par. (2). [Pub. L. 108–21, § 502(b)][/us/pl/108/21/s502/b], amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+    2003—Par. (2). [Pub. L. 108–21][/us/pl/108/21], § 502(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
     “(2) ‘sexually explicit conduct’ means actual or simulated—
 
@@ -119,37 +119,37 @@
 
     “(E) lascivious exhibition of the genitals or pubic area of any person;”.
 
-    Par. (8)(B). [Pub. L. 108–21, § 502(a)(1)][/us/pl/108/21/s502/a/1], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “such visual depiction is, or appears to be, of a minor engaging in sexually explicit conduct;”.
+    Par. (8)(B). [Pub. L. 108–21][/us/pl/108/21], § 502(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “such visual depiction is, or appears to be, of a minor engaging in sexually explicit conduct;”.
 
-    Par. (8)(C). [Pub. L. 108–21, § 502(a)(2)][/us/pl/108/21/s502/a/2], substituted a period for “; or” at end.
+    Par. (8)(C). [Pub. L. 108–21][/us/pl/108/21], § 502(a)(2), substituted a period for “; or” at end.
 
-    Par. (8)(D). [Pub. L. 108–21, § 502(a)(3)][/us/pl/108/21/s502/a/3], struck out subpar. (D) which read as follows: “such visual depiction is advertised, promoted, presented, described, or distributed in such a manner that conveys the impression that the material is or contains a visual depiction of a minor engaging in sexually explicit conduct; and”.
+    Par. (8)(D). [Pub. L. 108–21][/us/pl/108/21], § 502(a)(3), struck out subpar. (D) which read as follows: “such visual depiction is advertised, promoted, presented, described, or distributed in such a manner that conveys the impression that the material is or contains a visual depiction of a minor engaging in sexually explicit conduct; and”.
 
-    Pars. (10), (11). [Pub. L. 108–21, § 502(c)][/us/pl/108/21/s502/c], added pars. (10) and (11).
+    Pars. (10), (11). [Pub. L. 108–21][/us/pl/108/21], § 502(c), added pars. (10) and (11).
 
-    1996—Par. (5). [Pub. L. 104–208, § 101(a)][/us/pl/104/208/s101/a] \[title I, § 121\[2(1)\]\], inserted “, and data stored on computer disk or by electronic means which is capable of conversion into a visual image” before semicolon at end.
+    1996—Par. (5). [Pub. L. 104–208][/us/pl/104/208], § 101(a) \[title I, § 121\[2(1)\]\], inserted “, and data stored on computer disk or by electronic means which is capable of conversion into a visual image” before semicolon at end.
 
-    Pars. (8), (9). [Pub. L. 104–208, § 101(a)][/us/pl/104/208/s101/a] \[title I, § 121\[2(2)–(4)\]\], added pars. (8) and (9).
+    Pars. (8), (9). [Pub. L. 104–208][/us/pl/104/208], § 101(a) \[title I, § 121\[2(2)–(4)\]\], added pars. (8) and (9).
 
-    1988—Par. (6). [Pub. L. 100–690, § 7511(c)][/us/pl/100/690/s7511/c], added par. (6).
+    1988—Par. (6). [Pub. L. 100–690][/us/pl/100/690], § 7511(c), added par. (6).
 
-    Par. (7). [Pub. L. 100–690, § 7512(b)][/us/pl/100/690/s7512/b], added par. (7).
+    Par. (7). [Pub. L. 100–690][/us/pl/100/690], § 7512(b), added par. (7).
 
     1986—[Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591] renumbered [section 2255 of this title][/us/usc/t18/s2255] as this section.
 
     Par. (5). [Pub. L. 99–628][/us/pl/99/628], which directed that par. (5) be added to [section 2255 of this title][/us/usc/t18/s2255], was executed by adding par. (5) to [section 2256 of this title][/us/usc/t18/s2256] to reflect the probable intent of Congress and the renumbering of section 2255 as 2256 by [Pub. L. 99–500][/us/pl/99/500] and [Pub. L. 99–591][/us/pl/99/591].
 
-    1984—[Pub. L. 98–292, § 5(b)][/us/pl/98/292/s5/b], renumbered [section 2253 of this title][/us/usc/t18/s2253] as this section.
+    1984—[Pub. L. 98–292][/us/pl/98/292], § 5(b), renumbered [section 2253 of this title][/us/usc/t18/s2253] as this section.
 
-    Par. (1). [Pub. L. 98–292, § 5(a)(1)][/us/pl/98/292/s5/a/1], substituted “eighteen” for “sixteen”.
+    Par. (1). [Pub. L. 98–292][/us/pl/98/292], § 5(a)(1), substituted “eighteen” for “sixteen”.
 
-    Par. (2)(D). [Pub. L. 98–292, § 5(a)(2)][/us/pl/98/292/s5/a/2], (3), substituted “sadistic or masochistic” for “sado-masochistic” and struck out “(for the purpose of sexual stimulation)” after “abuse”.
+    Par. (2)(D). [Pub. L. 98–292][/us/pl/98/292], § 5(a)(2), (3), substituted “sadistic or masochistic” for “sado-masochistic” and struck out “(for the purpose of sexual stimulation)” after “abuse”.
 
-    Par. (2)(E). [Pub. L. 98–292, § 5(a)(4)][/us/pl/98/292/s5/a/4], substituted “lascivious” for “lewd”.
+    Par. (2)(E). [Pub. L. 98–292][/us/pl/98/292], § 5(a)(4), substituted “lascivious” for “lewd”.
 
-    Par. (3). [Pub. L. 98–292, § 5(a)(5)][/us/pl/98/292/s5/a/5], struck out “, for pecuniary profit” after “advertising”.
+    Par. (3). [Pub. L. 98–292][/us/pl/98/292], § 5(a)(5), struck out “, for pecuniary profit” after “advertising”.
 
-    Par. (4). [Pub. L. 98–292, § 5(a)(6)][/us/pl/98/292/s5/a/6], substituted “ ‘organization’ means a person other than an individual” for “ ‘visual or print medium’ means any film, photograph, negative, slide, book, magazine, or other visual or print medium”.
+    Par. (4). [Pub. L. 98–292][/us/pl/98/292], § 5(a)(6), substituted “ ‘organization’ means a person other than an individual” for “ ‘visual or print medium’ means any film, photograph, negative, slide, book, magazine, or other visual or print medium”.
 
  __Confirmation of Intent of Congress in Enacting Sections 2252 and 2256 of This Title__ 
 
@@ -163,36 +163,36 @@
 ----------
 
 [/us/usc/t18/s1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1030
-[/us/pl/95/225/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F225%2Fs2%2Fa
+[/us/pl/95/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F225
 [/us/stat/92/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F8
-[/us/pl/98/292/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F292%2Fs5
+[/us/pl/98/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F292
 [/us/stat/98/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F205
-[/us/pl/99/500/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fb
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-39
-[/us/pl/99/591/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fb
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-39
-[/us/pl/99/628/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F628%2Fs4
+[/us/pl/99/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F628
 [/us/stat/100/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3510
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4485
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/108/21/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs502%2Fa
+[/us/pl/108/21/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtV
 [/us/stat/117/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F678
-[/us/pl/110/401/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2Fs302
+[/us/pl/110/401/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2FtIII
 [/us/stat/122/4242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4242
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/110/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401
-[/us/pl/108/21/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs502%2Fb
-[/us/pl/108/21/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs502%2Fa%2F1
-[/us/pl/108/21/s502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs502%2Fa%2F2
-[/us/pl/108/21/s502/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs502%2Fa%2F3
-[/us/pl/108/21/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs502%2Fc
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
-[/us/pl/100/690/s7511/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7511%2Fc
-[/us/pl/100/690/s7512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7512%2Fb
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/usc/t18/s2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2255
@@ -201,13 +201,13 @@
 [/us/usc/t18/s2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2256
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
-[/us/pl/98/292/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F292%2Fs5%2Fb
+[/us/pl/98/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F292
 [/us/usc/t18/s2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2253
-[/us/pl/98/292/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F292%2Fs5%2Fa%2F1
-[/us/pl/98/292/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F292%2Fs5%2Fa%2F2
-[/us/pl/98/292/s5/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F292%2Fs5%2Fa%2F4
-[/us/pl/98/292/s5/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F292%2Fs5%2Fa%2F5
-[/us/pl/98/292/s5/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F292%2Fs5%2Fa%2F6
+[/us/pl/98/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F292
+[/us/pl/98/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F292
+[/us/pl/98/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F292
+[/us/pl/98/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F292
+[/us/pl/98/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F292
 [/us/pl/103/322/s160003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs160003%2Fa
 [/us/usc/t18/s2252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2252
 

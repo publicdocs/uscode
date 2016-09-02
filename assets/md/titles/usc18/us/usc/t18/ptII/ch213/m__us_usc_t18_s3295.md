@@ -17,7 +17,7 @@
 
     No person shall be prosecuted, tried, or punished for any non-capital offense under section 81 or subsection (f), (h), or (i) of section 844 unless the indictment is found or the information is instituted not later than 10 years after the date on which the offense was committed.
 
-(Added [Pub. L. 104–132, title VII, § 708(c)(1)][/us/pl/104/132/s708/c/1], Apr. 24, 1996, [110 Stat. 1297][/us/stat/110/1297].)
+(Added [Pub. L. 104–132, title VII][/us/pl/104/132/tVII], § 708(c)(1), Apr. 24, 1996, [110 Stat. 1297][/us/stat/110/1297].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/132/s708/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs708%2Fc%2F1
+[/us/pl/104/132/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVII
 [/us/stat/110/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1297
 
 

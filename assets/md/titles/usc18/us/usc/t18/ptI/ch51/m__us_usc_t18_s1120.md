@@ -23,7 +23,7 @@
 
     A person, having escaped from a Federal correctional institution where the person was confined under a sentence for a term of life imprisonment, kills another shall be punished as provided in sections 1111 and 1112.
 
-(Added [Pub. L. 103–322, title VI, § 60012(a)][/us/pl/103/322/s60012/a], Sept. 13, 1994, [108 Stat. 1973][/us/stat/108/1973]; amended [Pub. L. 104–294, title VI, § 601(c)(2)][/us/pl/104/294/s601/c/2], Oct. 11, 1996, [110 Stat. 3499][/us/stat/110/3499].)
+(Added [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60012(a), Sept. 13, 1994, [108 Stat. 1973][/us/stat/108/1973]; amended [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(c)(2), Oct. 11, 1996, [110 Stat. 3499][/us/stat/110/3499].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/103/322/s60012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60012%2Fa
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1973
-[/us/pl/104/294/s601/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fc%2F2
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3499
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 

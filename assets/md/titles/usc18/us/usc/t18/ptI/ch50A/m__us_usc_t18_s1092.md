@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed as precluding the application of State or local laws to the conduct proscribed by this chapter, nor shall anything in this chapter be construed as creating any substantive or procedural right enforceable by law by any party in any proceeding.
 
-(Added [Pub. L. 100–606, § 2(a)][/us/pl/100/606/s2/a], Nov. 4, 1988, [102 Stat. 3046][/us/stat/102/3046].)
+(Added [Pub. L. 100–606][/us/pl/100/606], § 2(a), Nov. 4, 1988, [102 Stat. 3046][/us/stat/102/3046].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/606/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F606%2Fs2%2Fa
+[/us/pl/100/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F606
 [/us/stat/102/3046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3046
 
 

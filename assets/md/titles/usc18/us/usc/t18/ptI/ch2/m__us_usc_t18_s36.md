@@ -37,7 +37,7 @@
 
             (B) is a murder other than a first degree murder (as defined in section 1111(a)), be fined under this title, imprisoned for any term of years or for life, or both.
 
-(Added [Pub. L. 103–322, title VI, § 60008(b)][/us/pl/103/322/s60008/b], Sept. 13, 1994, [108 Stat. 1971][/us/stat/108/1971]; amended [Pub. L. 104–294, title VI, § 604(b)(30)][/us/pl/104/294/s604/b/30], Oct. 11, 1996, [110 Stat. 3508][/us/stat/110/3508].)
+(Added [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60008(b), Sept. 13, 1994, [108 Stat. 1971][/us/stat/108/1971]; amended [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 604(b)(30), Oct. 11, 1996, [110 Stat. 3508][/us/stat/110/3508].)
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@
 
  __Short Title__ 
 
-[Pub. L. 103–322, title VI, § 60008(a)][/us/pl/103/322/s60008/a], Sept. 13, 1994, [108 Stat. 1971][/us/stat/108/1971], provided that: 
+[Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60008(a), Sept. 13, 1994, [108 Stat. 1971][/us/stat/108/1971], provided that: 
 
 > “This section \[enacting this section\] may be cited as the ‘Drive-By Shooting Prevention Act of 1994’.”
 
@@ -65,15 +65,15 @@
 [/us/usc/t21/s963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs963
 [/us/usc/t21/s841/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841%2Fb%2F1%2FA
 [/us/usc/t21/s960/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs960%2Fb%2F1
-[/us/pl/103/322/s60008/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60008%2Fb
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1971
-[/us/pl/104/294/s604/b/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fb%2F30
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3508
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/104/294/s604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs604%2Fd
 [/us/usc/t18/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs13
-[/us/pl/103/322/s60008/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60008%2Fa
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1971
 
 

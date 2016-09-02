@@ -89,7 +89,7 @@
 
         The term “IP-enabled voice service” means the provision of real-time voice communications offered to the public, or such class of users as to be effectively available to the public, transmitted through customer premises equipment using TCP/IP protocol, or a successor protocol, (whether part of a bundle of services or separately) with interconnection capability such that the service can originate traffic to, or terminate traffic from, the public switched telephone network, or a successor network.
 
-(Added [Pub. L. 109–476, § 3(a)][/us/pl/109/476/s3/a], Jan. 12, 2007, [120 Stat. 3569][/us/stat/120/3569].)
+(Added [Pub. L. 109–476][/us/pl/109/476], § 3(a), Jan. 12, 2007, [120 Stat. 3569][/us/stat/120/3569].)
 
  __References in Text__ 
 
@@ -97,7 +97,7 @@
 
  __Findings__ 
 
-[Pub. L. 109–476, § 2][/us/pl/109/476/s2], Jan. 12, 2007, [120 Stat. 3568][/us/stat/120/3568], provided that: 
+[Pub. L. 109–476][/us/pl/109/476], § 2, Jan. 12, 2007, [120 Stat. 3568][/us/stat/120/3568], provided that: 
 
 > “Congress finds that—
 
@@ -129,10 +129,10 @@
 [/us/usc/t18/s1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1030
 [/us/usc/t18/s3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3571
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
-[/us/pl/109/476/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F476%2Fs3%2Fa
+[/us/pl/109/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F476
 [/us/stat/120/3569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3569
 [/us/usc/t47/s222/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs222%2Fd
-[/us/pl/109/476/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F476%2Fs2
+[/us/pl/109/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F476
 [/us/stat/120/3568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3568
 
 

@@ -175,53 +175,53 @@
 
         A civil action may not be commenced under this subsection unless it is commenced within 3 years after the date on which the claimant discovers the violation of subsection (a).
 
-(Added [Pub. L. 87–773, § 1][/us/pl/87/773/s1], Oct. 9, 1962, [76 Stat. 775][/us/stat/76/775]; amended [Pub. L. 93–573, title I, § 103][/us/pl/93/573/s103], Dec. 31, 1974, [88 Stat. 1873][/us/stat/88/1873]; [Pub. L. 94–553, title I, § 111][/us/pl/94/553/s111], Oct. 19, 1976, [90 Stat. 2600][/us/stat/90/2600]; [Pub. L. 97–180, § 2][/us/pl/97/180/s2], May 24, 1982, [96 Stat. 91][/us/stat/96/91]; [Pub. L. 101–647, title XXXV, § 3567][/us/pl/101/647/s3567], Nov. 29, 1990, [104 Stat. 4928][/us/stat/104/4928]; [Pub. L. 103–272, § 5(e)(10)][/us/pl/103/272/s5/e/10], July 5, 1994, [108 Stat. 1374][/us/stat/108/1374]; [Pub. L. 103–322, title XXXIII, § 330016(1)(U)][/us/pl/103/322/s330016/1/U], Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148]; [Pub. L. 104–153, § 4(a)][/us/pl/104/153/s4/a], (b)(1), July 2, 1996, [110 Stat. 1386][/us/stat/110/1386], 1387; [Pub. L. 108–482, title I, § 102(a)][/us/pl/108/482/s102/a], (b), Dec. 23, 2004, [118 Stat. 3912][/us/stat/118/3912], 3914; [Pub. L. 109–181, § 2(c)(2)][/us/pl/109/181/s2/c/2], Mar. 16, 2006, [120 Stat. 288][/us/stat/120/288]; [Pub. L. 110–403, title II, § 202][/us/pl/110/403/s202], Oct. 13, 2008, [122 Stat. 4260][/us/stat/122/4260]; [Pub. L. 111–295, § 6(i)][/us/pl/111/295/s6/i], Dec. 9, 2010, [124 Stat. 3182][/us/stat/124/3182].)
+(Added [Pub. L. 87–773][/us/pl/87/773], § 1, Oct. 9, 1962, [76 Stat. 775][/us/stat/76/775]; amended [Pub. L. 93–573, title I][/us/pl/93/573/tI], § 103, Dec. 31, 1974, [88 Stat. 1873][/us/stat/88/1873]; [Pub. L. 94–553, title I][/us/pl/94/553/tI], § 111, Oct. 19, 1976, [90 Stat. 2600][/us/stat/90/2600]; [Pub. L. 97–180][/us/pl/97/180], § 2, May 24, 1982, [96 Stat. 91][/us/stat/96/91]; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3567, Nov. 29, 1990, [104 Stat. 4928][/us/stat/104/4928]; [Pub. L. 103–272][/us/pl/103/272], § 5(e)(10), July 5, 1994, [108 Stat. 1374][/us/stat/108/1374]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(U), Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148]; [Pub. L. 104–153][/us/pl/104/153], § 4(a), (b)(1), July 2, 1996, [110 Stat. 1386][/us/stat/110/1386], 1387; [Pub. L. 108–482, title I][/us/pl/108/482/tI], § 102(a), (b), Dec. 23, 2004, [118 Stat. 3912][/us/stat/118/3912], 3914; [Pub. L. 109–181][/us/pl/109/181], § 2(c)(2), Mar. 16, 2006, [120 Stat. 288][/us/stat/120/288]; [Pub. L. 110–403, title II][/us/pl/110/403/tII], § 202, Oct. 13, 2008, [122 Stat. 4260][/us/stat/122/4260]; [Pub. L. 111–295][/us/pl/111/295], § 6(i), Dec. 9, 2010, [124 Stat. 3182][/us/stat/124/3182].)
 
  __References in Text__ 
 
-    [Section 2320 of this title][/us/usc/t18/s2320], referred to in subsec. (b)(2), was amended generally by [Pub. L. 112–81, div. A, title VIII, § 818(h)][/us/pl/112/81/s818/h], Dec. 31, 2011, [125 Stat. 1497][/us/stat/125/1497], and, as so amended, provisions similar to those formerly appearing in subsec. (e) are now contained in subsec. (f).
+    [Section 2320 of this title][/us/usc/t18/s2320], referred to in subsec. (b)(2), was amended generally by [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 818(h), Dec. 31, 2011, [125 Stat. 1497][/us/stat/125/1497], and, as so amended, provisions similar to those formerly appearing in subsec. (e) are now contained in subsec. (f).
 
  __Amendments__ 
 
     2010—Subsec. (e)(6). [Pub. L. 111–295][/us/pl/111/295] substituted “under this subsection” for “under section”.
 
-    2008—Subsec. (a). [Pub. L. 110–403, § 202(1)][/us/pl/110/403/s202/1], designated existing provisions as par. (1) and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A).
+    2008—Subsec. (a). [Pub. L. 110–403][/us/pl/110/403], § 202(1), designated existing provisions as par. (1) and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A).
 
-    Subsec. (d). [Pub. L. 110–403, § 202(2)][/us/pl/110/403/s202/2], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall in addition to the penalty therein prescribed, order the forfeiture and destruction or other disposition of all counterfeit labels or illicit labels and all articles to which counterfeit labels or illicit labels have been affixed or which were intended to have had such labels affixed, and of any equipment, device, or material used to manufacture, reproduce, or assemble the counterfeit labels or illicit labels.”
+    Subsec. (d). [Pub. L. 110–403][/us/pl/110/403], § 202(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall in addition to the penalty therein prescribed, order the forfeiture and destruction or other disposition of all counterfeit labels or illicit labels and all articles to which counterfeit labels or illicit labels have been affixed or which were intended to have had such labels affixed, and of any equipment, device, or material used to manufacture, reproduce, or assemble the counterfeit labels or illicit labels.”
 
-    Subsecs. (e), (f). [Pub. L. 110–403, § 202(3)][/us/pl/110/403/s202/3], redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “Except to the extent they are inconsistent with the provisions of this title, all provisions of section 509, title 17, United States Code, are applicable to violations of subsection (a).”
+    Subsecs. (e), (f). [Pub. L. 110–403][/us/pl/110/403], § 202(3), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “Except to the extent they are inconsistent with the provisions of this title, all provisions of section 509, title 17, United States Code, are applicable to violations of subsection (a).”
 
     2006—Subsec. (b)(2). [Pub. L. 109–181][/us/pl/109/181] added par. (2) and struck out former par. (2) which read as follows: “the term ‘traffic’ means to transport, transfer or otherwise dispose of, to another, as consideration for anything of value or to make or obtain control of with intent to so transport, transfer or dispose of;”.
 
-    2004—[Pub. L. 108–482, § 102(a)(1)][/us/pl/108/482/s102/a/1], substituted “Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging” for “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” in section catchline.
+    2004—[Pub. L. 108–482][/us/pl/108/482], § 102(a)(1), substituted “Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging” for “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” in section catchline.
 
-    Subsec. (a). [Pub. L. 108–482, § 102(a)(2)][/us/pl/108/482/s102/a/2], added subsec. (a) and struck out former subsec. (a) which read as follows: “Whoever, in any of the circumstances described in subsection (c) of this section, knowingly traffics in a counterfeit label affixed or designed to be affixed to a phonorecord, or a copy of a computer program or documentation or packaging for a computer program, or a copy of a motion picture or other audiovisual work, and whoever, in any of the circumstances described in subsection (c) of this section, knowingly traffics in counterfeit documentation or packaging for a computer program, shall be fined under this title or imprisoned for not more than five years, or both.”
+    Subsec. (a). [Pub. L. 108–482][/us/pl/108/482], § 102(a)(2), added subsec. (a) and struck out former subsec. (a) which read as follows: “Whoever, in any of the circumstances described in subsection (c) of this section, knowingly traffics in a counterfeit label affixed or designed to be affixed to a phonorecord, or a copy of a computer program or documentation or packaging for a computer program, or a copy of a motion picture or other audiovisual work, and whoever, in any of the circumstances described in subsection (c) of this section, knowingly traffics in counterfeit documentation or packaging for a computer program, shall be fined under this title or imprisoned for not more than five years, or both.”
 
-    Subsec. (b)(2). [Pub. L. 108–482, § 102(a)(3)(A)][/us/pl/108/482/s102/a/3/A], struck out “and” after the semicolon at end.
+    Subsec. (b)(2). [Pub. L. 108–482][/us/pl/108/482], § 102(a)(3)(A), struck out “and” after the semicolon at end.
 
-    Subsec. (b)(3). [Pub. L. 108–482, § 102(a)(3)(B)][/us/pl/108/482/s102/a/3/B], substituted “ ‘audiovisual work’, ‘literary work’, ‘pictorial, graphic, or sculptural work’, ‘sound recording’, ‘work of visual art’, and ‘copyright owner’ have” for “and ‘audiovisual work’ have” and a semicolon for the period at end.
+    Subsec. (b)(3). [Pub. L. 108–482][/us/pl/108/482], § 102(a)(3)(B), substituted “ ‘audiovisual work’, ‘literary work’, ‘pictorial, graphic, or sculptural work’, ‘sound recording’, ‘work of visual art’, and ‘copyright owner’ have” for “and ‘audiovisual work’ have” and a semicolon for the period at end.
 
-    Subsec. (b)(4) to (6). [Pub. L. 108–482, § 102(a)(3)(C)][/us/pl/108/482/s102/a/3/C], added pars. (4) to (6).
+    Subsec. (b)(4) to (6). [Pub. L. 108–482][/us/pl/108/482], § 102(a)(3)(C), added pars. (4) to (6).
 
-    Subsec. (c)(3). [Pub. L. 108–482, § 102(a)(4)(A)][/us/pl/108/482/s102/a/4/A], added par. (3) and struck former par. (3) which read as follows: “the counterfeit label is affixed to or encloses, or is designed to be affixed to or enclose, a copy of a copyrighted computer program or copyrighted documentation or packaging for a computer program, a copyrighted motion picture or other audiovisual work, or a phonorecord of a copyrighted sound recording; or”.
+    Subsec. (c)(3). [Pub. L. 108–482][/us/pl/108/482], § 102(a)(4)(A), added par. (3) and struck former par. (3) which read as follows: “the counterfeit label is affixed to or encloses, or is designed to be affixed to or enclose, a copy of a copyrighted computer program or copyrighted documentation or packaging for a computer program, a copyrighted motion picture or other audiovisual work, or a phonorecord of a copyrighted sound recording; or”.
 
-    Subsec. (c)(4). [Pub. L. 108–482, § 102(a)(4)(B)][/us/pl/108/482/s102/a/4/B], struck out “for a computer program” after “packaging”.
+    Subsec. (c)(4). [Pub. L. 108–482][/us/pl/108/482], § 102(a)(4)(B), struck out “for a computer program” after “packaging”.
 
-    Subsec. (d). [Pub. L. 108–482, § 102(a)(5)][/us/pl/108/482/s102/a/5], inserted “or illicit labels” after “counterfeit labels” in two places and inserted “, and of any equipment, device, or material used to manufacture, reproduce, or assemble the counterfeit labels or illicit labels” before period at end.
+    Subsec. (d). [Pub. L. 108–482][/us/pl/108/482], § 102(a)(5), inserted “or illicit labels” after “counterfeit labels” in two places and inserted “, and of any equipment, device, or material used to manufacture, reproduce, or assemble the counterfeit labels or illicit labels” before period at end.
 
-    Subsec. (f). [Pub. L. 108–482, § 102(b)][/us/pl/108/482/s102/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 108–482][/us/pl/108/482], § 102(b), added subsec. (f).
 
-    1996—[Pub. L. 104–153, § 4(b)(1)][/us/pl/104/153/s4/b/1], substituted “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” for “Trafficking in counterfeit labels for phonorecords and copies of motion pictures or other audiovisual works” in section catchline.
+    1996—[Pub. L. 104–153][/us/pl/104/153], § 4(b)(1), substituted “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” for “Trafficking in counterfeit labels for phonorecords and copies of motion pictures or other audiovisual works” in section catchline.
 
-    Subsec. (a). [Pub. L. 104–153, § 4(a)(1)][/us/pl/104/153/s4/a/1], substituted “a computer program or documentation or packaging for a computer program, or a copy of a motion picture or other audiovisual work, and whoever, in any of the circumstances described in subsection (c) of this section, knowingly traffics in counterfeit documentation or packaging for a computer program,” for “a motion picture or other audiovisual work,”.
+    Subsec. (a). [Pub. L. 104–153][/us/pl/104/153], § 4(a)(1), substituted “a computer program or documentation or packaging for a computer program, or a copy of a motion picture or other audiovisual work, and whoever, in any of the circumstances described in subsection (c) of this section, knowingly traffics in counterfeit documentation or packaging for a computer program,” for “a motion picture or other audiovisual work,”.
 
-    Subsec. (b)(3). [Pub. L. 104–153, § 4(a)(2)][/us/pl/104/153/s4/a/2], inserted “ ‘computer program’,” after “ ‘motion picture’,”.
+    Subsec. (b)(3). [Pub. L. 104–153][/us/pl/104/153], § 4(a)(2), inserted “ ‘computer program’,” after “ ‘motion picture’,”.
 
-    Subsec. (c)(2). [Pub. L. 104–153, § 4(a)(3)(A)][/us/pl/104/153/s4/a/3/A], struck out “or” at end.
+    Subsec. (c)(2). [Pub. L. 104–153][/us/pl/104/153], § 4(a)(3)(A), struck out “or” at end.
 
-    Subsec. (c)(3). [Pub. L. 104–153, § 4(a)(3)(B)][/us/pl/104/153/s4/a/3/B], inserted “a copy of a copyrighted computer program or copyrighted documentation or packaging for a computer program,” after “enclose,” and substituted “; or” for period at end.
+    Subsec. (c)(3). [Pub. L. 104–153][/us/pl/104/153], § 4(a)(3)(B), inserted “a copy of a copyrighted computer program or copyrighted documentation or packaging for a computer program,” after “enclose,” and substituted “; or” for period at end.
 
-    Subsec. (c)(4). [Pub. L. 104–153, § 4(a)(3)(C)][/us/pl/104/153/s4/a/3/C], added par. (4).
+    Subsec. (c)(4). [Pub. L. 104–153][/us/pl/104/153], § 4(a)(3)(C), added par. (4).
 
     1994—Subsec. (a). [Pub. L. 103–322][/us/pl/103/322] substituted “fined under this title” for “fined not more than $250,000”.
 
@@ -245,7 +245,7 @@
 
  __Other Rights Not Affected by Anti-Counterfeiting Provisions__ 
 
-[Pub. L. 108–482, title I, § 103][/us/pl/108/482/s103], Dec. 23, 2004, [118 Stat. 3915][/us/stat/118/3915], provided that:
+[Pub. L. 108–482, title I][/us/pl/108/482/tI], § 103, Dec. 23, 2004, [118 Stat. 3915][/us/stat/118/3915], provided that:
 
 >     “(a)  __Chapters__  __5__  __and__  __12__  __of Title__  __17;__  __Electronic Transmissions__  __.—__ 
 
@@ -273,53 +273,53 @@
 ----------
 
 [/us/usc/t49/s46501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46501
-[/us/pl/87/773/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F773%2Fs1
+[/us/pl/87/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F773
 [/us/stat/76/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F775
-[/us/pl/93/573/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F573%2Fs103
+[/us/pl/93/573/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F573%2FtI
 [/us/stat/88/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1873
-[/us/pl/94/553/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs111
+[/us/pl/94/553/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2FtI
 [/us/stat/90/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2600
-[/us/pl/97/180/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F180%2Fs2
+[/us/pl/97/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F180
 [/us/stat/96/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F91
-[/us/pl/101/647/s3567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3567
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4928
-[/us/pl/103/272/s5/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fe%2F10
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1374
-[/us/pl/103/322/s330016/1/U]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FU
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2148
-[/us/pl/104/153/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153%2Fs4%2Fa
+[/us/pl/104/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153
 [/us/stat/110/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1386
-[/us/pl/108/482/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482%2Fs102%2Fa
+[/us/pl/108/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482%2FtI
 [/us/stat/118/3912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3912
-[/us/pl/109/181/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F181%2Fs2%2Fc%2F2
+[/us/pl/109/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F181
 [/us/stat/120/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F288
-[/us/pl/110/403/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs202
+[/us/pl/110/403/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtII
 [/us/stat/122/4260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4260
-[/us/pl/111/295/s6/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295%2Fs6%2Fi
+[/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
 [/us/stat/124/3182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3182
 [/us/usc/t18/s2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2320
-[/us/pl/112/81/s818/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs818%2Fh
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1497
 [/us/pl/111/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F295
-[/us/pl/110/403/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs202%2F1
-[/us/pl/110/403/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs202%2F2
-[/us/pl/110/403/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs202%2F3
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
+[/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
 [/us/pl/109/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F181
-[/us/pl/108/482/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482%2Fs102%2Fa%2F1
-[/us/pl/108/482/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482%2Fs102%2Fa%2F2
-[/us/pl/108/482/s102/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482%2Fs102%2Fa%2F3%2FA
-[/us/pl/108/482/s102/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482%2Fs102%2Fa%2F3%2FB
-[/us/pl/108/482/s102/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482%2Fs102%2Fa%2F3%2FC
-[/us/pl/108/482/s102/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482%2Fs102%2Fa%2F4%2FA
-[/us/pl/108/482/s102/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482%2Fs102%2Fa%2F4%2FB
-[/us/pl/108/482/s102/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482%2Fs102%2Fa%2F5
-[/us/pl/108/482/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482%2Fs102%2Fb
-[/us/pl/104/153/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153%2Fs4%2Fb%2F1
-[/us/pl/104/153/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153%2Fs4%2Fa%2F1
-[/us/pl/104/153/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153%2Fs4%2Fa%2F2
-[/us/pl/104/153/s4/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153%2Fs4%2Fa%2F3%2FA
-[/us/pl/104/153/s4/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153%2Fs4%2Fa%2F3%2FB
-[/us/pl/104/153/s4/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153%2Fs4%2Fa%2F3%2FC
+[/us/pl/108/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482
+[/us/pl/108/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482
+[/us/pl/108/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482
+[/us/pl/108/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482
+[/us/pl/108/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482
+[/us/pl/108/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482
+[/us/pl/108/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482
+[/us/pl/108/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482
+[/us/pl/108/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482
+[/us/pl/104/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153
+[/us/pl/104/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153
+[/us/pl/104/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153
+[/us/pl/104/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153
+[/us/pl/104/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153
+[/us/pl/104/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F153
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s46501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46501
@@ -332,7 +332,7 @@
 [/us/pl/94/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553
 [/us/pl/94/553/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs102
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
-[/us/pl/108/482/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482%2Fs103
+[/us/pl/108/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F482%2FtI
 [/us/stat/118/3915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3915
 [/us/usc/t18/s2318/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2318%2Fb
 [/us/usc/t18/s2318/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2318%2Fb

@@ -27,7 +27,7 @@
 
     (b) For purposes of this section, the term “official representation” means any representation made by a Federal law enforcement officer (as defined in section 115) or by another person at the direction or with the approval of such an officer.
 
-(Added [Pub. L. 103–322, title XXXII, § 320910(a)][/us/pl/103/322/s320910/a], Sept. 13, 1994, [108 Stat. 2127][/us/stat/108/2127].)
+(Added [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320910(a), Sept. 13, 1994, [108 Stat. 2127][/us/stat/108/2127].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s320910/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320910%2Fa
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2127
 
 

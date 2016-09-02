@@ -21,13 +21,13 @@
 
     (c) Any appropriation available for the payment of fees and costs in the case of witnesses subpenaed in behalf of the United States in criminal cases shall be available for any fees or costs which the United States is required to pay under this section.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 836][/us/stat/62/836]; [May 24, 1949, ch. 139, § 54][/us/act/1949-05-24/ch139/s54], [63 Stat. 96][/us/stat/63/96].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 836][/us/stat/62/836]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 54, [63 Stat. 96][/us/stat/63/96].)
 
  __Historical and Revision Notes__ 
 
  __1948__  __Act__ 
 
-    Based on [section 695f of title 28][/us/usc/t28/s695f], U.S.C., 1940 ed., Judicial Code and Judiciary ([June 20, 1936, ch. 640, § 7][/us/act/1936-06-20/ch640/s7], [49 Stat. 1564][/us/stat/49/1564]).
+    Based on [section 695f of title 28][/us/usc/t28/s695f], U.S.C., 1940 ed., Judicial Code and Judiciary ([June 20, 1936, ch. 640][/us/act/1936-06-20/ch640], § 7, [49 Stat. 1564][/us/stat/49/1564]).
 
  __1949__  __Act__ 
 
@@ -54,10 +54,10 @@
 [/us/usc/t18/s3493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3493
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F836
-[/us/act/1949-05-24/ch139/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs54
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F96
 [/us/usc/t28/s695f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs695f
-[/us/act/1936-06-20/ch640/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch640%2Fs7
+[/us/act/1936-06-20/ch640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch640
 [/us/stat/49/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1564
 [/us/usc/t18/s3495/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3495%2Fa
 [/us/usc/t22/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs127

@@ -31,7 +31,7 @@
 
     A person who conspires to commit an offense under this section shall be subject to the same penalties (other than the penalty of death) as the penalties prescribed for the offense, the commission of which was the object of the conspiracy.
 
-(Added [Pub. L. 103–236, title V, § 506(a)][/us/pl/103/236/s506/a], Apr. 30, 1994, [108 Stat. 463][/us/stat/108/463]; amended [Pub. L. 103–322, title VI, § 60020][/us/pl/103/322/s60020], Sept. 13, 1994, [108 Stat. 1979][/us/stat/108/1979]; [Pub. L. 107–56, title VIII, § 811(g)][/us/pl/107/56/s811/g], Oct. 26, 2001, [115 Stat. 381][/us/stat/115/381].)
+(Added [Pub. L. 103–236, title V][/us/pl/103/236/tV], § 506(a), Apr. 30, 1994, [108 Stat. 463][/us/stat/108/463]; amended [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60020, Sept. 13, 1994, [108 Stat. 1979][/us/stat/108/1979]; [Pub. L. 107–56, title VIII][/us/pl/107/56/tVIII], § 811(g), Oct. 26, 2001, [115 Stat. 381][/us/stat/115/381].)
 
  __Amendments__ 
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/103/236/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs506%2Fa
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F463
-[/us/pl/103/322/s60020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60020
+[/us/pl/103/322/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtVI
 [/us/stat/108/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1979
-[/us/pl/107/56/s811/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs811%2Fg
+[/us/pl/107/56/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtVIII
 [/us/stat/115/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F381
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

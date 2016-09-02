@@ -99,19 +99,19 @@
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–29, § 2(b)][/us/pl/108/29/s2/b], May 29, 2003, [117 Stat. 772][/us/stat/117/772], added item 1369.
+    2003—[Pub. L. 108–29][/us/pl/108/29], § 2(b), May 29, 2003, [117 Stat. 772][/us/stat/117/772], added item 1369.
 
-    2000—[Pub. L. 106–254, § 2(b)][/us/pl/106/254/s2/b], Aug. 2, 2000, [114 Stat. 638][/us/stat/114/638], added item 1368.
+    2000—[Pub. L. 106–254][/us/pl/106/254], § 2(b), Aug. 2, 2000, [114 Stat. 638][/us/stat/114/638], added item 1368.
 
-    1990—[Pub. L. 101–647, title XXXV, § 3543][/us/pl/101/647/s3543], Nov. 29, 1990, [104 Stat. 4926][/us/stat/104/4926], inserted a period after “1366”.
+    1990—[Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3543, Nov. 29, 1990, [104 Stat. 4926][/us/stat/104/4926], inserted a period after “1366”.
 
-    1986—[Pub. L. 99–646, § 29(b)][/us/pl/99/646/s29/b], Nov. 10, 1986, [100 Stat. 3598][/us/stat/100/3598], redesignated item 1365, relating to destruction of an energy facility, as item 1366.
+    1986—[Pub. L. 99–646][/us/pl/99/646], § 29(b), Nov. 10, 1986, [100 Stat. 3598][/us/stat/100/3598], redesignated item 1365, relating to destruction of an energy facility, as item 1366.
 
-    [Pub. L. 99–508, title III, § 303(b)][/us/pl/99/508/s303/b], Oct. 21, 1986, [100 Stat. 1873][/us/stat/100/1873], added item 1367.
+    [Pub. L. 99–508, title III][/us/pl/99/508/tIII], § 303(b), Oct. 21, 1986, [100 Stat. 1873][/us/stat/100/1873], added item 1367.
 
-    1984—[Section 1365(d) of this title][/us/usc/t18/s1365/d] as added by [Pub. L. 98–473, title II, § 1011(a)][/us/pl/98/473/s1011/a], Oct. 12, 1984, [98 Stat. 2141][/us/stat/98/2141], added item 1365, relating to destruction of an energy facility.
+    1984—[Section 1365(d) of this title][/us/usc/t18/s1365/d] as added by [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1011(a), Oct. 12, 1984, [98 Stat. 2141][/us/stat/98/2141], added item 1365, relating to destruction of an energy facility.
 
-    1983—[Pub. L. 98–127, § 3][/us/pl/98/127/s3], Oct. 13, 1983, [97 Stat. 832][/us/stat/97/832], added item 1365, relating to tampering with consumer products.
+    1983—[Pub. L. 98–127][/us/pl/98/127], § 3, Oct. 13, 1983, [97 Stat. 832][/us/stat/97/832], added item 1365, relating to tampering with consumer products.
 
 ----------
 
@@ -120,20 +120,20 @@
 ----------
 ----------
 
-[/us/pl/108/29/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F29%2Fs2%2Fb
+[/us/pl/108/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F29
 [/us/stat/117/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F772
-[/us/pl/106/254/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F254%2Fs2%2Fb
+[/us/pl/106/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F254
 [/us/stat/114/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F638
-[/us/pl/101/647/s3543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3543
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4926
-[/us/pl/99/646/s29/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs29%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3598
-[/us/pl/99/508/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2Fs303%2Fb
+[/us/pl/99/508/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508%2FtIII
 [/us/stat/100/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1873
 [/us/usc/t18/s1365/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1365%2Fd
-[/us/pl/98/473/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1011%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2141
-[/us/pl/98/127/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F127%2Fs3
+[/us/pl/98/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F127
 [/us/stat/97/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F832
 
 

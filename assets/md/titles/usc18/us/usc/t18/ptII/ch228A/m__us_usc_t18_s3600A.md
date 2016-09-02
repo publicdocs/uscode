@@ -61,7 +61,7 @@
 
     Nothing in this section shall provide a basis for relief in any Federal habeas corpus proceeding.
 
-(Added [Pub. L. 108–405, title IV, § 411(a)(1)][/us/pl/108/405/s411/a/1], Oct. 30, 2004, [118 Stat. 2283][/us/stat/118/2283].)
+(Added [Pub. L. 108–405, title IV][/us/pl/108/405/tIV], § 411(a)(1), Oct. 30, 2004, [118 Stat. 2283][/us/stat/118/2283].)
 
  __References in Text__ 
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/108/405/s411/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs411%2Fa%2F1
+[/us/pl/108/405/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtIV
 [/us/stat/118/2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2283
 [/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
 

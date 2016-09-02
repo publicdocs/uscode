@@ -195,31 +195,31 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, title X, § 1079A(b)(2)][/us/pl/111/203/s1079A/b/2], July 21, 2010, [124 Stat. 2079][/us/stat/124/2079], added item 3301.
+    2010—[Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1079A(b)(2), July 21, 2010, [124 Stat. 2079][/us/stat/124/2079], added item 3301.
 
-    2008—[Pub. L. 110–340, § 2(a)(3)(B)][/us/pl/110/340/s2/a/3/B], Oct. 3, 2008, [122 Stat. 3736][/us/stat/122/3736], added item 3300.
+    2008—[Pub. L. 110–340][/us/pl/110/340], § 2(a)(3)(B), Oct. 3, 2008, [122 Stat. 3736][/us/stat/122/3736], added item 3300.
 
-    2006—[Pub. L. 109–248, title II, § 211(2)][/us/pl/109/248/s211/2], July 27, 2006, [120 Stat. 616][/us/stat/120/616], added item 3299.
+    2006—[Pub. L. 109–248, title II][/us/pl/109/248/tII], § 211(2), July 27, 2006, [120 Stat. 616][/us/stat/120/616], added item 3299.
 
-    [Pub. L. 109–162, title XI, § 1182(b)][/us/pl/109/162/s1182/b], Jan. 5, 2006, [119 Stat. 3126][/us/stat/119/3126], added item 3298.
+    [Pub. L. 109–162, title XI][/us/pl/109/162/tXI], § 1182(b), Jan. 5, 2006, [119 Stat. 3126][/us/stat/119/3126], added item 3298.
 
-    2004—[Pub. L. 108–405, title II, § 204(b)][/us/pl/108/405/s204/b], Oct. 30, 2004, [118 Stat. 2271][/us/stat/118/2271], added item 3297.
+    2004—[Pub. L. 108–405, title II][/us/pl/108/405/tII], § 204(b), Oct. 30, 2004, [118 Stat. 2271][/us/stat/118/2271], added item 3297.
 
-    2002—[Pub. L. 107–273, div. B, title III, § 3003(b)][/us/pl/107/273/s3003/b], Nov. 2, 2002, [116 Stat. 1805][/us/stat/116/1805], added item 3296.
+    2002—[Pub. L. 107–273, div. B, title III][/us/pl/107/273/dB/tIII], § 3003(b), Nov. 2, 2002, [116 Stat. 1805][/us/stat/116/1805], added item 3296.
 
-    1996—[Pub. L. 104–132, title VII, § 708(c)(2)][/us/pl/104/132/s708/c/2], Apr. 24, 1996, [110 Stat. 1297][/us/stat/110/1297], added item 3295.
+    1996—[Pub. L. 104–132, title VII][/us/pl/104/132/tVII], § 708(c)(2), Apr. 24, 1996, [110 Stat. 1297][/us/stat/110/1297], added item 3295.
 
-    1994—[Pub. L. 103–322, title XII, § 120001(c)][/us/pl/103/322/s120001/c], title XXXII, § 320902(d)(2), title XXXIII, § 330018(c), Sept. 13, 1994, [108 Stat. 2021][/us/stat/108/2021], 2124, 2149, substituted “Child abuse offenses” for “Customs and slave trade violations” in item 3283 and added items 3286 and 3294.
+    1994—[Pub. L. 103–322, title XII][/us/pl/103/322/tXII], § 120001(c), title XXXII, § 320902(d)(2), title XXXIII, § 330018(c), Sept. 13, 1994, [108 Stat. 2021][/us/stat/108/2021], 2124, 2149, substituted “Child abuse offenses” for “Customs and slave trade violations” in item 3283 and added items 3286 and 3294.
 
-    1990—[Pub. L. 101–647, title XII, § 1207(b)][/us/pl/101/647/s1207/b], Nov. 29, 1990, [104 Stat. 4832][/us/stat/104/4832], struck out item 3286 “Seduction on vessel of United States”.
+    1990—[Pub. L. 101–647, title XII][/us/pl/101/647/tXII], § 1207(b), Nov. 29, 1990, [104 Stat. 4832][/us/stat/104/4832], struck out item 3286 “Seduction on vessel of United States”.
 
-    1989—[Pub. L. 101–73, title IX, § 961][/us/pl/101/73/s961](l)(2), Aug. 9, 1989, [103 Stat. 501][/us/stat/103/501], added item 3293.
+    1989—[Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 961(l)(2), Aug. 9, 1989, [103 Stat. 501][/us/stat/103/501], added item 3293.
 
-    1988—[Pub. L. 100–690, title VII, § 7081(c)][/us/pl/100/690/s7081/c], Nov. 18, 1988, [102 Stat. 4407][/us/stat/102/4407], substituted “Indictments and information dismissed after period of limitations” for “Reindictment where defect found after period of limitations” in item 3288 and “Indictments and information dismissed before period of limitations” for “Reindictment where defect found before period of limitations” in item 3289.
+    1988—[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7081(c), Nov. 18, 1988, [102 Stat. 4407][/us/stat/102/4407], substituted “Indictments and information dismissed after period of limitations” for “Reindictment where defect found after period of limitations” in item 3288 and “Indictments and information dismissed before period of limitations” for “Reindictment where defect found before period of limitations” in item 3289.
 
-    1984—[Pub. L. 98–473, title II, § 1218(b)][/us/pl/98/473/s1218/b], Oct. 12, 1984, [98 Stat. 2167][/us/stat/98/2167], added item 3292.
+    1984—[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1218(b), Oct. 12, 1984, [98 Stat. 2167][/us/stat/98/2167], added item 3292.
 
-    1951—[Act June 30, 1951, ch. 194, § 2][/us/act/1951-06-30/ch194/s2], [65 Stat. 107][/us/stat/65/107], added item 3291.
+    1951—[Act June 30, 1951, ch. 194][/us/act/1951-06-30/ch194], § 2, [65 Stat. 107][/us/stat/65/107], added item 3291.
 
 ----------
 
@@ -228,31 +228,31 @@
 ----------
 ----------
 
-[/us/pl/111/203/s1079A/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1079A%2Fb%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2079
-[/us/pl/110/340/s2/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F340%2Fs2%2Fa%2F3%2FB
+[/us/pl/110/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F340
 [/us/stat/122/3736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3736
-[/us/pl/109/248/s211/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs211%2F2
+[/us/pl/109/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtII
 [/us/stat/120/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F616
-[/us/pl/109/162/s1182/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1182%2Fb
+[/us/pl/109/162/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2FtXI
 [/us/stat/119/3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3126
-[/us/pl/108/405/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs204%2Fb
+[/us/pl/108/405/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2FtII
 [/us/stat/118/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2271
-[/us/pl/107/273/s3003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs3003%2Fb
+[/us/pl/107/273/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIII
 [/us/stat/116/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1805
-[/us/pl/104/132/s708/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs708%2Fc%2F2
+[/us/pl/104/132/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVII
 [/us/stat/110/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1297
-[/us/pl/103/322/s120001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs120001%2Fc
+[/us/pl/103/322/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXII
 [/us/stat/108/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2021
-[/us/pl/101/647/s1207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1207%2Fb
+[/us/pl/101/647/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXII
 [/us/stat/104/4832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4832
-[/us/pl/101/73/s961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs961
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F501
-[/us/pl/100/690/s7081/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7081%2Fc
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4407
-[/us/pl/98/473/s1218/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1218%2Fb
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2167
-[/us/act/1951-06-30/ch194/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-06-30%2Fch194%2Fs2
+[/us/act/1951-06-30/ch194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-06-30%2Fch194
 [/us/stat/65/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F107
 
 

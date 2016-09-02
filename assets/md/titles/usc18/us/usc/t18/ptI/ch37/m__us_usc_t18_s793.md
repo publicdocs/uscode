@@ -49,11 +49,11 @@
 
         (4) Notwithstanding [section 524(c) of title 28][/us/usc/t28/s524/c], there shall be deposited in the Crime Victims Fund in the Treasury all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 736][/us/stat/62/736]; [Sept. 23, 1950, ch. 1024][/us/act/1950-09-23/ch1024], title I, § 18, [64 Stat. 1003][/us/stat/64/1003]; [Pub. L. 99–399, title XIII, § 1306(a)][/us/pl/99/399/s1306/a], Aug. 27, 1986, [100 Stat. 898][/us/stat/100/898]; [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 103–359, title VIII, § 804(b)(1)][/us/pl/103/359/s804/b/1], Oct. 14, 1994, [108 Stat. 3440][/us/stat/108/3440]; [Pub. L. 104–294, title VI, § 607(b)][/us/pl/104/294/s607/b], Oct. 11, 1996, [110 Stat. 3511][/us/stat/110/3511].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 736][/us/stat/62/736]; [Sept. 23, 1950, ch. 1024][/us/act/1950-09-23/ch1024], title I, § 18, [64 Stat. 1003][/us/stat/64/1003]; [Pub. L. 99–399, title XIII][/us/pl/99/399/tXIII], § 1306(a), Aug. 27, 1986, [100 Stat. 898][/us/stat/100/898]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 103–359, title VIII][/us/pl/103/359/tVIII], § 804(b)(1), Oct. 14, 1994, [108 Stat. 3440][/us/stat/108/3440]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 607(b), Oct. 11, 1996, [110 Stat. 3511][/us/stat/110/3511].)
 
  __Historical and Revision Notes__ 
 
-    Based on sections 31 and 36 of title 50, U.S.C., 1940 ed., War and National Defense ([June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title I, §§ 1, 6, [40 Stat. 217][/us/stat/40/217], 219; [Mar. 28, 1940, ch. 72, § 1][/us/act/1940-03-28/ch72/s1], [54 Stat. 79][/us/stat/54/79]).
+    Based on sections 31 and 36 of title 50, U.S.C., 1940 ed., War and National Defense ([June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title I, §§ 1, 6, [40 Stat. 217][/us/stat/40/217], 219; [Mar. 28, 1940, ch. 72][/us/act/1940-03-28/ch72], § 1, [54 Stat. 79][/us/stat/54/79]).
 
     Section consolidated sections 31 and 36 of title 50, U.S.C., 1940 ed., War and National Defense.
 
@@ -94,17 +94,17 @@
 [/us/stat/62/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F736
 [/us/act/1950-09-23/ch1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-23%2Fch1024
 [/us/stat/64/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1003
-[/us/pl/99/399/s1306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs1306%2Fa
+[/us/pl/99/399/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtXIII
 [/us/stat/100/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F898
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/pl/103/359/s804/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs804%2Fb%2F1
+[/us/pl/103/359/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtVIII
 [/us/stat/108/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3440
-[/us/pl/104/294/s607/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs607%2Fb
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3511
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
 [/us/stat/40/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F217
-[/us/act/1940-03-28/ch72/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-28%2Fch72%2Fs1
+[/us/act/1940-03-28/ch72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-28%2Fch72
 [/us/stat/54/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F79
 [/us/usc/t18/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs6
 [/us/usc/t18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2

@@ -19,11 +19,11 @@
 
     A United States judge or magistrate judge shall proceed under this section according to rules promulgated by the Supreme Court of the United States. Any state judge or magistrate acting hereunder may proceed according to the usual mode of procedure of his state but his acts and orders shall have no effect beyond determining, pursuant to the provisions of [section 3142 of this title][/us/usc/t18/s3142], whether to detain or conditionally release the prisoner prior to trial or to discharge him from arrest.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 815][/us/stat/62/815]; [Pub. L. 89–465, § 5(a)][/us/pl/89/465/s5/a], June 22, 1966, [80 Stat. 217][/us/stat/80/217]; [Pub. L. 90–578, title III, § 301(a)(1)][/us/pl/90/578/s301/a/1], (3), Oct. 17, 1968, [82 Stat. 1115][/us/stat/82/1115]; [Pub. L. 98–473, title II, § 204(a)][/us/pl/98/473/s204/a], Oct. 12, 1984, [98 Stat. 1985][/us/stat/98/1985]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 815][/us/stat/62/815]; [Pub. L. 89–465][/us/pl/89/465], § 5(a), June 22, 1966, [80 Stat. 217][/us/stat/80/217]; [Pub. L. 90–578, title III][/us/pl/90/578/tIII], § 301(a)(1), (3), Oct. 17, 1968, [82 Stat. 1115][/us/stat/82/1115]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 204(a), Oct. 12, 1984, [98 Stat. 1985][/us/stat/98/1985]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 591 (R.S. § 1014; [May 28, 1896, ch. 252, § 19][/us/act/1896-05-28/ch252/s19], [29 Stat. 184][/us/stat/29/184]; [Mar. 2, 1901, ch. 814][/us/act/1901-03-02/ch814], [31 Stat. 956][/us/stat/31/956]).
+    Based on title 18, U.S.C., 1940 ed., § 591 (R.S. § 1014; [May 28, 1896, ch. 252][/us/act/1896-05-28/ch252], § 19, [29 Stat. 184][/us/stat/29/184]; [Mar. 2, 1901, ch. 814][/us/act/1901-03-02/ch814], [31 Stat. 956][/us/stat/31/956]).
 
     This section was completely rewritten to omit all provisions superseded by Federal Rules of Criminal Procedure, rules 3, 4, 5, 40 and 54(a) which prescribed the procedure for preliminary proceedings and examinations before United States judges and commissioners and for removal proceedings but not for preliminary examinations before State magistrates.
 
@@ -57,15 +57,15 @@
 [/us/usc/t18/s3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3142
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F815
-[/us/pl/89/465/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F465%2Fs5%2Fa
+[/us/pl/89/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F465
 [/us/stat/80/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F217
-[/us/pl/90/578/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs301%2Fa%2F1
+[/us/pl/90/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtIII
 [/us/stat/82/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1115
-[/us/pl/98/473/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs204%2Fa
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1985
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/act/1896-05-28/ch252/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252%2Fs19
+[/us/act/1896-05-28/ch252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-05-28%2Fch252
 [/us/stat/29/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F184
 [/us/act/1901-03-02/ch814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-02%2Fch814
 [/us/stat/31/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F956

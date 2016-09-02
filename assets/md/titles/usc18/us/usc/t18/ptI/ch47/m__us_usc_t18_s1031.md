@@ -75,7 +75,7 @@
 
         (2) was not a participant in the unlawful activity that is the subject of said prosecution, may, in a civil action, obtain all relief necessary to make such individual whole. Such relief shall include reinstatement with the same seniority status such individual would have had but for the discrimination, 2 times the amount of back pay, interest on the back pay, and compensation for any special damages sustained as a result of the discrimination, including litigation costs and reasonable attorney’s fees.
 
-(Added [Pub. L. 100–700, § 2(a)][/us/pl/100/700/s2/a], Nov. 19, 1988, [102 Stat. 4631][/us/stat/102/4631]; amended [Pub. L. 101–123, § 2(a)][/us/pl/101/123/s2/a], Oct. 23, 1989, [103 Stat. 759][/us/stat/103/759]; [Pub. L. 103–322, title XXXIII, § 330002(a)][/us/pl/103/322/s330002/a], (f), Sept. 13, 1994, [108 Stat. 2140][/us/stat/108/2140]; [Pub. L. 111–21, § 2(d)][/us/pl/111/21/s2/d], May 20, 2009, [123 Stat. 1618][/us/stat/123/1618].)
+(Added [Pub. L. 100–700][/us/pl/100/700], § 2(a), Nov. 19, 1988, [102 Stat. 4631][/us/stat/102/4631]; amended [Pub. L. 101–123][/us/pl/101/123], § 2(a), Oct. 23, 1989, [103 Stat. 759][/us/stat/103/759]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330002(a), (f), Sept. 13, 1994, [108 Stat. 2140][/us/stat/108/2140]; [Pub. L. 111–21][/us/pl/111/21], § 2(d), May 20, 2009, [123 Stat. 1618][/us/stat/123/1618].)
 
  __References in Text__ 
 
@@ -85,17 +85,17 @@
 
     2009—Subsec. (a). [Pub. L. 111–21][/us/pl/111/21], in concluding provisions, inserted “any grant, contract, subcontract, subsidy, loan, guarantee, insurance, or other form of Federal assistance, including through the Troubled Asset Relief Program, an economic stimulus, recovery or rescue plan provided by the Government, or the Government’s purchase of any troubled asset as defined in the Emergency Economic Stabilization Act of 2008, or in” before “any procurement”, substituted “such grant, contract, subcontract, subsidy, loan, guarantee, insurance, or other form of Federal assistance” for “the contract, subcontract”, and struck out “for such property or services” before “is $1,000,000”.
 
-    1994—Subsec. (g). [Pub. L. 103–322, § 330002(f)][/us/pl/103/322/s330002/f], redesignated second subsec. (g) as (h).
+    1994—Subsec. (g). [Pub. L. 103–322][/us/pl/103/322], § 330002(f), redesignated second subsec. (g) as (h).
 
-    Subsec. (g)(2)(A). [Pub. L. 103–322, § 330002(a)][/us/pl/103/322/s330002/a], substituted “a Government” for “a government”.
+    Subsec. (g)(2)(A). [Pub. L. 103–322][/us/pl/103/322], § 330002(a), substituted “a Government” for “a government”.
 
-    Subsec. (h). [Pub. L. 103–322, § 330002(f)][/us/pl/103/322/s330002/f], redesignated second subsec. (g) as (h).
+    Subsec. (h). [Pub. L. 103–322][/us/pl/103/322], § 330002(f), redesignated second subsec. (g) as (h).
 
     1989—Subsec. (g). [Pub. L. 101–123][/us/pl/101/123] added, after subsec. (f), subsec. (g) relating to payments by the Attorney General.
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–123, § 2(b)][/us/pl/101/123/s2/b], Oct. 23, 1989, [103 Stat. 759][/us/stat/103/759], provided that: 
+[Pub. L. 101–123][/us/pl/101/123], § 2(b), Oct. 23, 1989, [103 Stat. 759][/us/stat/103/759], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to contracts entered into on or after the date of the enactment of this Act \[Oct. 23, 1989\].”
 
@@ -106,23 +106,23 @@
 ----------
 ----------
 
-[/us/pl/100/700/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F700%2Fs2%2Fa
+[/us/pl/100/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F700
 [/us/stat/102/4631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4631
-[/us/pl/101/123/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F123%2Fs2%2Fa
+[/us/pl/101/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F123
 [/us/stat/103/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F759
-[/us/pl/103/322/s330002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330002%2Fa
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2140
-[/us/pl/111/21/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21%2Fs2%2Fd
+[/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
 [/us/stat/123/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1618
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
 [/us/pl/111/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F21
-[/us/pl/103/322/s330002/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330002%2Ff
-[/us/pl/103/322/s330002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330002%2Fa
-[/us/pl/103/322/s330002/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330002%2Ff
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/101/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F123
-[/us/pl/101/123/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F123%2Fs2%2Fb
+[/us/pl/101/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F123
 [/us/stat/103/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F759
 
 

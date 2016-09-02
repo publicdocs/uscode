@@ -25,7 +25,7 @@
 
     (e) As used in this section, the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or a commonwealth, territory or possession of the United States.
 
-(Added [Pub. L. 87–216, § 2][/us/pl/87/216/s2], Sept. 13, 1961, [75 Stat. 491][/us/stat/75/491]; amended [Pub. L. 100–690, title VII, § 7024][/us/pl/100/690/s7024], Nov. 18, 1988, [102 Stat. 4397][/us/stat/102/4397]; [Pub. L. 101–647, title XII, § 1205(g)][/us/pl/101/647/s1205/g], Nov. 29, 1990, [104 Stat. 4831][/us/stat/104/4831]; [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+(Added [Pub. L. 87–216][/us/pl/87/216], § 2, Sept. 13, 1961, [75 Stat. 491][/us/stat/75/491]; amended [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7024, Nov. 18, 1988, [102 Stat. 4397][/us/stat/102/4397]; [Pub. L. 101–647, title XII][/us/pl/101/647/tXII], § 1205(g), Nov. 29, 1990, [104 Stat. 4831][/us/stat/104/4831]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Amendments__ 
 
@@ -33,11 +33,11 @@
 
     1990—Subsec. (e). [Pub. L. 101–647][/us/pl/101/647] inserted “commonwealth,” before “territory or possession of the United States”.
 
-    1988—Subsec. (b). [Pub. L. 100–690, § 7024(a)][/us/pl/100/690/s7024/a], inserted “or foreign country” after “State” in two places.
+    1988—Subsec. (b). [Pub. L. 100–690][/us/pl/100/690], § 7024(a), inserted “or foreign country” after “State” in two places.
 
-    Subsec. (c). [Pub. L. 100–690, § 7024(b)(2)][/us/pl/100/690/s7024/b/2], struck out “, Commonwealth of Puerto Rico, territory, possession, or the District of Columbia” after “State”.
+    Subsec. (c). [Pub. L. 100–690][/us/pl/100/690], § 7024(b)(2), struck out “, Commonwealth of Puerto Rico, territory, possession, or the District of Columbia” after “State”.
 
-    Subsec. (e). [Pub. L. 100–690, § 7024(b)(1)][/us/pl/100/690/s7024/b/1], added subsec. (e).
+    Subsec. (e). [Pub. L. 100–690][/us/pl/100/690], § 7024(b)(1), added subsec. (e).
 
 ----------
 
@@ -46,18 +46,18 @@
 ----------
 ----------
 
-[/us/pl/87/216/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F216%2Fs2
+[/us/pl/87/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F216
 [/us/stat/75/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F491
-[/us/pl/100/690/s7024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7024
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4397
-[/us/pl/101/647/s1205/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1205%2Fg
+[/us/pl/101/647/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXII
 [/us/stat/104/4831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4831
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
-[/us/pl/100/690/s7024/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7024%2Fa
-[/us/pl/100/690/s7024/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7024%2Fb%2F2
-[/us/pl/100/690/s7024/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7024%2Fb%2F1
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 
 

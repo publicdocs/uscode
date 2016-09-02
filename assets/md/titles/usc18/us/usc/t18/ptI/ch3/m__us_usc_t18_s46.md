@@ -21,7 +21,7 @@
 
     (c) Whoever knowingly delivers or receives for transportation, or transports, in interstate commerce, an advertisement, to sell, purchase, barter, exchange, give, or receive alligator grass or water chestnut plants or water hyacinth plants or the seeds of such grass or plants—    Shall be fined under this title, or imprisoned not more than six months, or both.
 
-(Added [Aug. 1, 1956, ch. 825, § 1][/us/act/1956-08-01/ch825/s1], [70 Stat. 797][/us/stat/70/797]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(G)][/us/pl/103/322/s330016/1/G], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+(Added [Aug. 1, 1956, ch. 825][/us/act/1956-08-01/ch825], § 1, [70 Stat. 797][/us/stat/70/797]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(G), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1956-08-01/ch825/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch825%2Fs1
+[/us/act/1956-08-01/ch825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch825
 [/us/stat/70/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F797
-[/us/pl/103/322/s330016/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FG
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

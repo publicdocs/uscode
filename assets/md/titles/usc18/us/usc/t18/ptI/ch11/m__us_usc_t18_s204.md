@@ -17,7 +17,7 @@
 
     Whoever, being a Member of Congress or Member of Congress Elect, practices in the United States Court of Federal Claims or the United States Court of Appeals for the Federal Circuit shall be subject to the penalties set forth in [section 216 of this title][/us/usc/t18/s216].
 
-(Added [Pub. L. 87–849, § 1(a)][/us/pl/87/849/s1/a], Oct. 23, 1962, [76 Stat. 1122][/us/stat/76/1122]; amended [Pub. L. 91–405, title II, § 204(d)(2)][/us/pl/91/405/s204/d/2], Sept. 22, 1970, [84 Stat. 853][/us/stat/84/853]; [Pub. L. 97–164, title I, § 147][/us/pl/97/164/s147], Apr. 2, 1982, [96 Stat. 45][/us/stat/96/45]; [Pub. L. 101–194, title IV, § 403][/us/pl/101/194/s403], Nov. 30, 1989, [103 Stat. 1749][/us/stat/103/1749]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+(Added [Pub. L. 87–849][/us/pl/87/849], § 1(a), Oct. 23, 1962, [76 Stat. 1122][/us/stat/76/1122]; amended [Pub. L. 91–405, title II][/us/pl/91/405/tII], § 204(d)(2), Sept. 22, 1970, [84 Stat. 853][/us/stat/84/853]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 147, Apr. 2, 1982, [96 Stat. 45][/us/stat/96/45]; [Pub. L. 101–194, title IV][/us/pl/101/194/tIV], § 403, Nov. 30, 1989, [103 Stat. 1749][/us/stat/103/1749]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Prior Provisions__ 
 
@@ -63,15 +63,15 @@
 ----------
 
 [/us/usc/t18/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs216
-[/us/pl/87/849/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs1%2Fa
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1122
-[/us/pl/91/405/s204/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405%2Fs204%2Fd%2F2
+[/us/pl/91/405/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F405%2FtII
 [/us/stat/84/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F853
-[/us/pl/97/164/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs147
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F45
-[/us/pl/101/194/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs403
+[/us/pl/101/194/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtIV
 [/us/stat/103/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1749
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F692

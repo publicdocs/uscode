@@ -21,11 +21,11 @@
 
     A judgment of conviction or acquittal on the merits under the laws of any State shall be a bar to any prosecution hereunder for the same act or acts.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 730][/us/stat/62/730]; [Pub. L. 103–322, title XXXIII, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 730][/us/stat/62/730]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(K), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., §§ 409, 412 ([Feb. 13, 1913, ch. 50, § 1][/us/act/1913-02-13/ch50/s1], [37 Stat. 670][/us/stat/37/670]; [Oct. 15, 1914, ch. 323, § 9][/us/act/1914-10-15/ch323/s9], [38 Stat. 733][/us/stat/38/733]; [Jan. 28, 1925, ch. 102][/us/act/1925-01-28/ch102], [43 Stat. 793][/us/stat/43/793]; [Jan. 21, 1933, ch. 16][/us/act/1933-01-21/ch16], [47 Stat. 773][/us/stat/47/773]; [July 24, 1946, ch. 606][/us/act/1946-07-24/ch606], [60 Stat. 656][/us/stat/60/656]).
+    Based on title 18, U.S.C., 1940 ed., §§ 409, 412 ([Feb. 13, 1913, ch. 50][/us/act/1913-02-13/ch50], § 1, [37 Stat. 670][/us/stat/37/670]; [Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], § 9, [38 Stat. 733][/us/stat/38/733]; [Jan. 28, 1925, ch. 102][/us/act/1925-01-28/ch102], [43 Stat. 793][/us/stat/43/793]; [Jan. 21, 1933, ch. 16][/us/act/1933-01-21/ch16], [47 Stat. 773][/us/stat/47/773]; [July 24, 1946, ch. 606][/us/act/1946-07-24/ch606], [60 Stat. 656][/us/stat/60/656]).
 
     Section consolidates a portion of section 409 with section 412, both of title 18, U.S.C., 1940 ed. Other provisions of said section 409 are incorporated in sections 659 and 2117 of this title.
 
@@ -54,11 +54,11 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F730
-[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/act/1913-02-13/ch50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-02-13%2Fch50%2Fs1
+[/us/act/1913-02-13/ch50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-02-13%2Fch50
 [/us/stat/37/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F670
-[/us/act/1914-10-15/ch323/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323%2Fs9
+[/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
 [/us/stat/38/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F733
 [/us/act/1925-01-28/ch102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-01-28%2Fch102
 [/us/stat/43/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F793

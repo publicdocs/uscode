@@ -27,7 +27,7 @@
 
     (5) all proceedings instituted by or on behalf of an offender seeking to challenge the validity or legality of the offender’s transfer to the United States shall be brought in the United States district court of the district in which the offender is confined or of the district in which supervision is exercised and shall name the Attorney General and the official having immediate custody or exercising immediate supervision of the offender as respondents. The Attorney General shall defend against such proceedings.
 
-(Added [Pub. L. 95–144, § 3][/us/pl/95/144/s3], Oct. 28, 1977, [91 Stat. 1220][/us/stat/91/1220], title 28, § 2256; renumbered [Pub. L. 95–598, title III, § 314(j)(1)][/us/pl/95/598/s314/j/1], Nov. 6, 1978, [92 Stat. 2677][/us/stat/92/2677].)
+(Added [Pub. L. 95–144][/us/pl/95/144], § 3, Oct. 28, 1977, [91 Stat. 1220][/us/stat/91/1220], title 28, § 2256; renumbered [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 314(j)(1), Nov. 6, 1978, [92 Stat. 2677][/us/stat/92/2677].)
 
  __Codification__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/95/144/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144%2Fs3
+[/us/pl/95/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144
 [/us/stat/91/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1220
-[/us/pl/95/598/s314/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs314%2Fj%2F1
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2677
 [/us/usc/t28/s2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2256
 [/us/pl/95/598/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs314

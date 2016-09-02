@@ -43,15 +43,15 @@
 
     (d) This section does not detract from The Hague Convention on the Civil Aspects of International Parental Child Abduction, done at The Hague on October 25, 1980.
 
-(Added [Pub. L. 103–173, § 2(a)][/us/pl/103/173/s2/a], Dec. 2, 1993, [107 Stat. 1998][/us/stat/107/1998]; amended [Pub. L. 108–21, title I, § 107][/us/pl/108/21/s107], Apr. 30, 2003, [117 Stat. 655][/us/stat/117/655].)
+(Added [Pub. L. 103–173][/us/pl/103/173], § 2(a), Dec. 2, 1993, [107 Stat. 1998][/us/stat/107/1998]; amended [Pub. L. 108–21, title I][/us/pl/108/21/tI], § 107, Apr. 30, 2003, [117 Stat. 655][/us/stat/117/655].)
 
  __Amendments__ 
 
-    2003—Subsec. (a). [Pub. L. 108–21, § 107(1)][/us/pl/108/21/s107/1], inserted “, or attempts to do so,” before “or retains”.
+    2003—Subsec. (a). [Pub. L. 108–21][/us/pl/108/21], § 107(1), inserted “, or attempts to do so,” before “or retains”.
 
-    Subsec. (c)(1). [Pub. L. 108–21, § 107(2)(A)][/us/pl/108/21/s107/2/A], inserted “or the Uniform Child Custody Jurisdiction and Enforcement Act” before “and was”.
+    Subsec. (c)(1). [Pub. L. 108–21][/us/pl/108/21], § 107(2)(A), inserted “or the Uniform Child Custody Jurisdiction and Enforcement Act” before “and was”.
 
-    Subsec. (c)(2). [Pub. L. 108–21, § 107(2)(B)][/us/pl/108/21/s107/2/B], inserted “or” after semicolon at end.
+    Subsec. (c)(2). [Pub. L. 108–21][/us/pl/108/21], § 107(2)(B), inserted “or” after semicolon at end.
 
  __Sense of Congress Regarding Use of Procedures Under The Hague Convention on the Civil Aspects of International Parental Child Abduction__ 
 
@@ -66,13 +66,13 @@
 ----------
 ----------
 
-[/us/pl/103/173/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F173%2Fs2%2Fa
+[/us/pl/103/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F173
 [/us/stat/107/1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1998
-[/us/pl/108/21/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs107
+[/us/pl/108/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2FtI
 [/us/stat/117/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F655
-[/us/pl/108/21/s107/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs107%2F1
-[/us/pl/108/21/s107/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs107%2F2%2FA
-[/us/pl/108/21/s107/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs107%2F2%2FB
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
+[/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21
 [/us/pl/103/173/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F173%2Fs2%2Fb
 
 

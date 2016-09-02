@@ -51,7 +51,7 @@
 
     (k) “treaty” means a treaty under which an offender sentenced in the courts of one country may be transferred to the country of which he is a citizen or national for the purpose of serving the sentence.
 
-(Added [Pub. L. 95–144, § 1][/us/pl/95/144/s1], Oct. 28, 1977, [91 Stat. 1213][/us/stat/91/1213]; amended [Pub. L. 98–473, title II, § 223(m)(1)][/us/pl/98/473/s223/m/1], Oct. 12, 1984, [98 Stat. 2029][/us/stat/98/2029].)
+(Added [Pub. L. 95–144][/us/pl/95/144], § 1, Oct. 28, 1977, [91 Stat. 1213][/us/stat/91/1213]; amended [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 223(m)(1), Oct. 12, 1984, [98 Stat. 2029][/us/stat/98/2029].)
 
  __Amendments__ 
 
@@ -70,9 +70,9 @@
 ----------
 ----------
 
-[/us/pl/95/144/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144%2Fs1
+[/us/pl/95/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F144
 [/us/stat/91/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1213
-[/us/pl/98/473/s223/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs223%2Fm%2F1
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2029
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473

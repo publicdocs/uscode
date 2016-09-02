@@ -43,7 +43,7 @@
 
     (d) A provider of a wire or electronic service, landlord, custodian, or other person who furnished facilities or technical assistance pursuant to this section shall be reasonably compensated for such reasonable expenses incurred in providing such facilities and assistance.
 
-(Added [Pub. L. 100–690, title VII, § 7092(a)(2)][/us/pl/100/690/s7092/a/2], Nov. 18, 1988, [102 Stat. 4410][/us/stat/102/4410]; amended [Pub. L. 103–322, title XXXIII, § 330008(3)][/us/pl/103/322/s330008/3], Sept. 13, 1994, [108 Stat. 2142][/us/stat/108/2142]; [Pub. L. 104–294, title VI, § 601(f)(5)][/us/pl/104/294/s601/f/5], Oct. 11, 1996, [110 Stat. 3499][/us/stat/110/3499]; [Pub. L. 107–296, title II, § 225(i)][/us/pl/107/296/s225/i], Nov. 25, 2002, [116 Stat. 2158][/us/stat/116/2158].)
+(Added [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7092(a)(2), Nov. 18, 1988, [102 Stat. 4410][/us/stat/102/4410]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330008(3), Sept. 13, 1994, [108 Stat. 2142][/us/stat/108/2142]; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(f)(5), Oct. 11, 1996, [110 Stat. 3499][/us/stat/110/3499]; [Pub. L. 107–296, title II][/us/pl/107/296/tII], § 225(i), Nov. 25, 2002, [116 Stat. 2158][/us/stat/116/2158].)
 
  __Prior Provisions__ 
 
@@ -55,9 +55,9 @@
 
     1996—Subsec. (a). [Pub. L. 104–294][/us/pl/104/294] struck out closing quotation mark at end.
 
-    1994—Subsec. (a). [Pub. L. 103–322, § 330008(3)(A)][/us/pl/103/322/s330008/3/A], (B), substituted “use;” for “use’ ” in par. (2) and directed that matter beginning with “may have installed” and ending with “[section 3123 of this title][/us/usc/t18/s3123]” be realigned so that it is flush to the left margin, which was executed to text containing a period after “[section 3123 of this title][/us/usc/t18/s3123]”, to reflect the probable intent of Congress.
+    1994—Subsec. (a). [Pub. L. 103–322][/us/pl/103/322], § 330008(3)(A), (B), substituted “use;” for “use’ ” in par. (2) and directed that matter beginning with “may have installed” and ending with “[section 3123 of this title][/us/usc/t18/s3123]” be realigned so that it is flush to the left margin, which was executed to text containing a period after “[section 3123 of this title][/us/usc/t18/s3123]”, to reflect the probable intent of Congress.
 
-    Subsec. (d). [Pub. L. 103–322, § 330008(3)(C)][/us/pl/103/322/s330008/3/C], substituted “provider of” for “provider for”.
+    Subsec. (d). [Pub. L. 103–322][/us/pl/103/322], § 330008(3)(C), substituted “provider of” for “provider for”.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -71,21 +71,21 @@
 ----------
 
 [/us/usc/t18/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3123
-[/us/pl/100/690/s7092/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7092%2Fa%2F2
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4410
-[/us/pl/103/322/s330008/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330008%2F3
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2142
-[/us/pl/104/294/s601/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Ff%2F5
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3499
-[/us/pl/107/296/s225/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs225%2Fi
+[/us/pl/107/296/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtII
 [/us/stat/116/2158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2158
 [/us/usc/t18/s3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3126
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
-[/us/pl/103/322/s330008/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330008%2F3%2FA
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/usc/t18/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3123
 [/us/usc/t18/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3123
-[/us/pl/103/322/s330008/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330008%2F3%2FC
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101

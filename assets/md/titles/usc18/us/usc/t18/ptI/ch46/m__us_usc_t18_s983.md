@@ -357,9 +357,9 @@
 
             (C) the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301][/us/usc/t21/s301] et seq.);
 
-            (D) the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or the International Emergency Economic Powers Act (IEEPA) ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.); or
+            (D) the Trading with the Enemy Act ([50 U.S.C. 4301][/us/usc/t50/s4301] et seq.), the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.), or the North Korea Sanctions Enforcement Act of 2016;  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or
 
-            (E) [section 1 of title VI of the Act of June 15, 1917][/us/act/1917-06-15/s1] ([40 Stat. 233][/us/stat/40/233]; [22 U.S.C. 401][/us/usc/t22/s401]).
+            (E) [section 1 of title VI of the Act of June 15, 1917][/us/act/1917-06-15/tVI/s1] ([40 Stat. 233][/us/stat/40/233]; [22 U.S.C. 401][/us/usc/t22/s401]).
 
     (j) __Restraining Orders; Protective Orders.—__ 
 
@@ -383,7 +383,7 @@
 
         (4) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 
-(Added and amended [Pub. L. 106–185][/us/pl/106/185], §§ 2(a), 9, Apr. 25, 2000, [114 Stat. 202][/us/stat/114/202], 216; [Pub. L. 106–561, § 3(a)][/us/pl/106/561/s3/a], Dec. 21, 2000, [114 Stat. 2791][/us/stat/114/2791]; [Pub. L. 107–56, title III, § 316(d)][/us/pl/107/56/s316/d], Oct. 26, 2001, [115 Stat. 310][/us/stat/115/310]; [Pub. L. 111–16, § 3(1)][/us/pl/111/16/s3/1], May 7, 2009, [123 Stat. 1607][/us/stat/123/1607].)
+(Added and amended [Pub. L. 106–185][/us/pl/106/185], §§ 2(a), 9, Apr. 25, 2000, [114 Stat. 202][/us/stat/114/202], 216; [Pub. L. 106–561][/us/pl/106/561], § 3(a), Dec. 21, 2000, [114 Stat. 2791][/us/stat/114/2791]; [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 316(d), Oct. 26, 2001, [115 Stat. 310][/us/stat/115/310]; [Pub. L. 111–16][/us/pl/111/16], § 3(1), May 7, 2009, [123 Stat. 1607][/us/stat/123/1607]; [Pub. L. 114–122, title I][/us/pl/114/122/tI], § 105(b), Feb. 18, 2016, [130 Stat. 101][/us/stat/130/101].)
 
  __References in Text__ 
 
@@ -397,13 +397,17 @@
 
     The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (i)(2)(C), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21][/us/usc/t21/s301] and Tables.
 
-    The Trading with the Enemy Act, referred to in subsec. (i)(2)(D), is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], which was classified to sections 1 to 6, 7 to 39 and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering in Title 50, and is now classified principally to chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+    The Trading with the Enemy Act, referred to in subsec. (i)(2)(D), is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], which is classified principally to chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
     The International Emergency Economic Powers Act, referred to in (i)(2)(D), is title II of [Pub. L. 95–223][/us/pl/95/223], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626], which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50][/us/usc/t50/s1701] and Tables.
+
+    The North Korea Sanctions Enforcement Act of 2016, referred to in subsec. (i)(2)(D), probably means the North Korea Sanctions and Policy Enhancement Act of 2016, [Pub. L. 114–222][/us/pl/114/222], Feb. 18, 2016, [130 Stat. 93][/us/stat/130/93], which is classified principally to chapter 99 (§ 9201 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 22][/us/usc/t22/s9201] and Tables.
 
     The Federal Rules of Evidence, referred to in subsec. (j)(4), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
  __Amendments__ 
+
+    2016—Subsec. (i)(2)(D). [Pub. L. 114–122][/us/pl/114/122] amended subpar. (D) generally. Prior to amendment, text read as follows: “the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.) or the International Emergency Economic Powers Act (IEEPA) ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.); or”.
 
     2009—Subsec. (j)(3). [Pub. L. 111–16][/us/pl/111/16] substituted “14 days” for “10 days”.
 
@@ -411,7 +415,7 @@
 
     2000—Subsec. (a)(2)(C)(ii). [Pub. L. 106–561][/us/pl/106/561] struck out “(and provide customary documentary evidence of such interest if available) and state that the claim is not frivolous” after “such property”.
 
-    Subsec. (j). [Pub. L. 106–185, § 9][/us/pl/106/185/s9], added subsec. (j).
+    Subsec. (j). [Pub. L. 106–185][/us/pl/106/185], § 9, added subsec. (j).
 
  __Effective Date of 2009 Amendment__ 
 
@@ -419,7 +423,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–561, § 3(b)][/us/pl/106/561/s3/b], Dec. 21, 2000, [114 Stat. 2791][/us/stat/114/2791], provided that: 
+[Pub. L. 106–561][/us/pl/106/561], § 3(b), Dec. 21, 2000, [114 Stat. 2791][/us/stat/114/2791], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect as if included in the amendment made by [section 2(a) of Public Law 106–185][/us/pl/106/185/s2/a].”
 
@@ -429,7 +433,7 @@
 
  __Anti-Terrorist Forfeiture Protection__ 
 
-    [Pub. L. 107–56, title III, § 316(a)][/us/pl/107/56/s316/a]–(c), Oct. 26, 2001, [115 Stat. 309][/us/stat/115/309], which provided the procedure for an owner of property that had been confiscated under any provision of law relating to the confiscation of assets of suspected international terrorists to contest such confiscation, was repealed and restated as [section 987 of this title][/us/usc/t18/s987] by [Pub. L. 109–177, title IV, § 406(b)(1)(B)][/us/pl/109/177/s406/b/1/B], (2), Mar. 9, 2006, [120 Stat. 244][/us/stat/120/244], 245.
+    [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 316(a)–(c), Oct. 26, 2001, [115 Stat. 309][/us/stat/115/309], which provided the procedure for an owner of property that had been confiscated under any provision of law relating to the confiscation of assets of suspected international terrorists to contest such confiscation, was repealed and restated as [section 987 of this title][/us/usc/t18/s987] by [Pub. L. 109–177, title IV][/us/pl/109/177/tIV], § 406(b)(1)(B), (2), Mar. 9, 2006, [120 Stat. 244][/us/stat/120/244], 245.
 
 ----------
 
@@ -443,18 +447,21 @@
 [/us/usc/t18/s3006A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3006A
 [/us/usc/t28/s1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1915
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
+[/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/act/1917-06-15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fs1
+[/us/act/1917-06-15/tVI/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2FtVI%2Fs1
 [/us/stat/40/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F233
 [/us/usc/t22/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs401
 [/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/stat/114/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F202
-[/us/pl/106/561/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F561%2Fs3%2Fa
+[/us/pl/106/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F561
 [/us/stat/114/2791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2791
-[/us/pl/107/56/s316/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs316%2Fd
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F310
-[/us/pl/111/16/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs3%2F1
+[/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/stat/123/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1607
+[/us/pl/114/122/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F122%2FtI
+[/us/stat/130/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F101
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F590
 [/us/usc/t19/s1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1654
@@ -466,23 +473,28 @@
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
+[/us/pl/114/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F222
+[/us/stat/130/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F93
+[/us/usc/t22/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9201
+[/us/pl/114/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F122
+[/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/pl/106/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F561
-[/us/pl/106/185/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs9
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/111/16/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs7
 [/us/usc/t11/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs109
-[/us/pl/106/561/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F561%2Fs3%2Fb
+[/us/pl/106/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F561
 [/us/stat/114/2791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2791
 [/us/pl/106/185/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs2%2Fa
 [/us/pl/106/185/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs21
 [/us/usc/t8/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324
-[/us/pl/107/56/s316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs316%2Fa
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F309
 [/us/usc/t18/s987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs987
-[/us/pl/109/177/s406/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs406%2Fb%2F1%2FB
+[/us/pl/109/177/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtIV
 [/us/stat/120/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F244
 
 

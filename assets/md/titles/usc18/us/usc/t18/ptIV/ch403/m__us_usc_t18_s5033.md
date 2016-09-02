@@ -19,7 +19,7 @@
 
     The juvenile shall be taken before a magistrate judge forthwith. In no event shall the juvenile be detained for longer than a reasonable period of time before being brought before a magistrate judge.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 857][/us/stat/62/857]; [Pub. L. 93–415, title V, § 503][/us/pl/93/415/s503], Sept. 7, 1974, [88 Stat. 1135][/us/stat/88/1135]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 857][/us/stat/62/857]; [Pub. L. 93–415, title V][/us/pl/93/415/tV], § 503, Sept. 7, 1974, [88 Stat. 1135][/us/stat/88/1135]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __Historical and Revision Notes__ 
 
@@ -33,9 +33,9 @@
 
  __Codification__ 
 
-    Another [section 503 of title V of Pub. L. 93–415][/us/pl/93/415/s503], as added by [Pub. L. 107–273, div. C, title II, § 12222(a)][/us/pl/107/273/s12222/a], Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894], is classified to [section 5782 of Title 42][/us/usc/t42/s5782], The Public Health and Welfare.
+    Another [section 503 of title V of Pub. L. 93–415][/us/pl/93/415/tV/s503], as added by [Pub. L. 107–273, div. C, title II][/us/pl/107/273/dC/tII], § 12222(a), Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894], is classified to [section 5782 of Title 42][/us/usc/t42/s5782], The Public Health and Welfare.
 
-    Another [section 503 of title V of Pub. L. 93–415][/us/pl/93/415/s503], as added by [Pub. L. 102–586, § 5(a)][/us/pl/102/586/s5/a], Nov. 4, 1992, [106 Stat. 5027][/us/stat/106/5027], was classified to [section 5782 of Title 42][/us/usc/t42/s5782], The Public Health and Welfare, prior to the general amendment of that title V by [Pub. L. 107–273][/us/pl/107/273].
+    Another [section 503 of title V of Pub. L. 93–415][/us/pl/93/415/tV/s503], as added by [Pub. L. 102–586][/us/pl/102/586], § 5(a), Nov. 4, 1992, [106 Stat. 5027][/us/stat/106/5027], was classified to [section 5782 of Title 42][/us/usc/t42/s5782], The Public Health and Welfare, prior to the general amendment of that title V by [Pub. L. 107–273][/us/pl/107/273].
 
  __Amendments__ 
 
@@ -54,20 +54,20 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F857
-[/us/pl/93/415/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs503
+[/us/pl/93/415/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV
 [/us/stat/88/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1135
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
 [/us/act/1938-06-16/ch486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-16%2Fch486
 [/us/stat/52/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F765
 [/us/usc/t18/s5032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs5032
 [/us/usc/t18/s5032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs5032
-[/us/pl/93/415/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs503
-[/us/pl/107/273/s12222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12222%2Fa
+[/us/pl/93/415/tV/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV%2Fs503
+[/us/pl/107/273/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtII
 [/us/stat/116/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1894
 [/us/usc/t42/s5782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5782
-[/us/pl/93/415/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs503
-[/us/pl/102/586/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs5%2Fa
+[/us/pl/93/415/tV/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2FtV%2Fs503
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/stat/106/5027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5027
 [/us/usc/t42/s5782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5782
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273

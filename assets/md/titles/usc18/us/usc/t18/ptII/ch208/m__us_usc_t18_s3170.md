@@ -21,7 +21,7 @@
 
     (c) The information and statistics compiled by the clerk pursuant to this section shall be made available to the district court, the planning group, the circuit council, and the Administrative Office of the United States Courts.
 
-(Added [Pub. L. 93–619, title I, § 101][/us/pl/93/619/s101], Jan. 3, 1975, [88 Stat. 2084][/us/stat/88/2084]; amended [Pub. L. 96–43, § 9(f)][/us/pl/96/43/s9/f], Aug. 2, 1979, [93 Stat. 331][/us/stat/93/331]; [Pub. L. 101–647, title XXXV, § 3579][/us/pl/101/647/s3579], Nov. 29, 1990, [104 Stat. 4929][/us/stat/104/4929].)
+(Added [Pub. L. 93–619, title I][/us/pl/93/619/tI], § 101, Jan. 3, 1975, [88 Stat. 2084][/us/stat/88/2084]; amended [Pub. L. 96–43][/us/pl/96/43], § 9(f), Aug. 2, 1979, [93 Stat. 331][/us/stat/93/331]; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3579, Nov. 29, 1990, [104 Stat. 4929][/us/stat/104/4929].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/93/619/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2Fs101
+[/us/pl/93/619/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2FtI
 [/us/stat/88/2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2084
-[/us/pl/96/43/s9/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43%2Fs9%2Ff
+[/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43
 [/us/stat/93/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F331
-[/us/pl/101/647/s3579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3579
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4929
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/96/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F43

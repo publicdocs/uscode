@@ -19,11 +19,11 @@
 
     The provisions of the preceding paragraph shall not apply to an actor or actress in a theatrical, television, or motion-picture production who wears the uniform or badge of the letter-carrier branch of the Postal Service while portraying a member of that service.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 785][/us/stat/62/785]; [Pub. L. 90–413][/us/pl/90/413], July 21, 1968, [82 Stat. 396][/us/stat/82/396]; [Pub. L. 91–375, § 6(j)(35)][/us/pl/91/375/s6/j/35], Aug. 12, 1970, [84 Stat. 780][/us/stat/84/780]; [Pub. L. 101–647, title XII, § 1210(a)][/us/pl/101/647/s1210/a], Nov. 29, 1990, [104 Stat. 4832][/us/stat/104/4832]; [Pub. L. 103–322, title XXXIII, § 330016(1)(B)][/us/pl/103/322/s330016/1/B], Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 785][/us/stat/62/785]; [Pub. L. 90–413][/us/pl/90/413], July 21, 1968, [82 Stat. 396][/us/stat/82/396]; [Pub. L. 91–375][/us/pl/91/375], § 6(j)(35), Aug. 12, 1970, [84 Stat. 780][/us/stat/84/780]; [Pub. L. 101–647, title XII][/us/pl/101/647/tXII], § 1210(a), Nov. 29, 1990, [104 Stat. 4832][/us/stat/104/4832]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(B), Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 310 ([Mar. 4, 1909, ch. 321, § 187][/us/act/1909-03-04/ch321/s187], [35 Stat. 1124][/us/stat/35/1124]).
+    Based on title 18, U.S.C., 1940 ed., § 310 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 187, [35 Stat. 1124][/us/stat/35/1124]).
 
     Minor verbal change was made.
 
@@ -52,13 +52,13 @@
 [/us/stat/62/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F785
 [/us/pl/90/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F413
 [/us/stat/82/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F396
-[/us/pl/91/375/s6/j/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fj%2F35
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F780
-[/us/pl/101/647/s1210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1210%2Fa
+[/us/pl/101/647/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXII
 [/us/stat/104/4832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4832
-[/us/pl/103/322/s330016/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FB
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2146
-[/us/act/1909-03-04/ch321/s187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs187
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1124
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647

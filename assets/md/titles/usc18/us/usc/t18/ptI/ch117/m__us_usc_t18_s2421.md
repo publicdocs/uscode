@@ -29,11 +29,11 @@
 
         If the Attorney General denies a request under paragraph (1), the Attorney General shall submit to the State attorney general a detailed reason for the denial not later than 60 days after the date on which a request is received.
 
-(Added [Pub. L. 114–22, title III, § 303][/us/pl/114/22/s303], May 29, 2015, [129 Stat. 255][/us/stat/129/255].)
+(Added [Pub. L. 114–22, title III][/us/pl/114/22/tIII], § 303, May 29, 2015, [129 Stat. 255][/us/stat/129/255].)
 
  __Prior Provisions__ 
 
-    A prior section 2421, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 812][/us/stat/62/812]; [May 24, 1949, ch. 139, § 47][/us/act/1949-05-24/ch139/s47], [63 Stat. 96][/us/stat/63/96]; [Pub. L. 99–628, § 5(b)(1)][/us/pl/99/628/s5/b/1], Nov. 7, 1986, [100 Stat. 3511][/us/stat/100/3511]; [Pub. L. 105–314, title I, § 106][/us/pl/105/314/s106], Oct. 30, 1998, [112 Stat. 2977][/us/stat/112/2977], related to transportation of individuals generally, prior to repeal by [Pub. L. 114–22, title III, § 303][/us/pl/114/22/s303], May 29, 2015, [129 Stat. 255][/us/stat/129/255].)
+    A prior section 2421, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 812][/us/stat/62/812]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 47, [63 Stat. 96][/us/stat/63/96]; [Pub. L. 99–628][/us/pl/99/628], § 5(b)(1), Nov. 7, 1986, [100 Stat. 3511][/us/stat/100/3511]; [Pub. L. 105–314, title I][/us/pl/105/314/tI], § 106, Oct. 30, 1998, [112 Stat. 2977][/us/stat/112/2977], related to transportation of individuals generally, prior to repeal by [Pub. L. 114–22, title III][/us/pl/114/22/tIII], § 303, May 29, 2015, [129 Stat. 255][/us/stat/129/255].)
 
 ----------
 
@@ -42,17 +42,17 @@
 ----------
 ----------
 
-[/us/pl/114/22/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs303
+[/us/pl/114/22/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtIII
 [/us/stat/129/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F255
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F812
-[/us/act/1949-05-24/ch139/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs47
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F96
-[/us/pl/99/628/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F628%2Fs5%2Fb%2F1
+[/us/pl/99/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F628
 [/us/stat/100/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3511
-[/us/pl/105/314/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2Fs106
+[/us/pl/105/314/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2FtI
 [/us/stat/112/2977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2977
-[/us/pl/114/22/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs303
+[/us/pl/114/22/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtIII
 [/us/stat/129/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F255
 
 

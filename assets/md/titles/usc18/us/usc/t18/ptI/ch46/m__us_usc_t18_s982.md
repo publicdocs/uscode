@@ -99,7 +99,7 @@
 
         (2) The substitution of assets provisions of subsection 413(p) shall not be used to order a defendant to forfeit assets in place of the actual property laundered where such defendant acted merely as an intermediary who handled but did not retain the property in the course of the money laundering offense unless the defendant, in committing the offense or offenses giving rise to the forfeiture, conducted three or more separate transactions involving a total of $100,000 or more in any twelve month period.
 
-(Added [Pub. L. 99–570, title I, § 1366(a)][/us/pl/99/570/s1366/a], Oct. 27, 1986, [100 Stat. 3207–39][/us/stat/100/3207-39]; amended [Pub. L. 100–690, title VI][/us/pl/100/690], §§ 6463(c), 6464, Nov. 18, 1988, [102 Stat. 4374][/us/stat/102/4374], 4375; [Pub. L. 101–73, title IX, § 963(c)][/us/pl/101/73/s963/c], Aug. 9, 1989, [103 Stat. 504][/us/stat/103/504]; [Pub. L. 101–647, title XIV][/us/pl/101/647], §§ 1401, 1403, title XXV, § 2525(b), Nov. 29, 1990, [104 Stat. 4835][/us/stat/104/4835], 4874; [Pub. L. 102–393, title VI, § 638(e)][/us/pl/102/393/s638/e], Oct. 6, 1992, [106 Stat. 1788][/us/stat/106/1788]; [Pub. L. 102–519, title I, § 104(b)][/us/pl/102/519/s104/b], Oct. 25, 1992, [106 Stat. 3385][/us/stat/106/3385]; [Pub. L. 102–550, title XV, § 1512(c)][/us/pl/102/550/s1512/c], Oct. 28, 1992, [106 Stat. 4058][/us/stat/106/4058]; [Pub. L. 103–322, title XXXIII, § 330011(s)(1)][/us/pl/103/322/s330011/s/1], Sept. 13, 1994, [108 Stat. 2145][/us/stat/108/2145]; [Pub. L. 104–191, title II, § 249(a)][/us/pl/104/191/s249/a], (b), Aug. 21, 1996, [110 Stat. 2020][/us/stat/110/2020]; [Pub. L. 104–208, div. C, title II, § 217][/us/pl/104/208/s217], Sept. 30, 1996, [110 Stat. 3009–573][/us/stat/110/3009-573]; [Pub. L. 105–184, § 2][/us/pl/105/184/s2], June 23, 1998, [112 Stat. 520][/us/stat/112/520]; [Pub. L. 105–318, § 6(a)][/us/pl/105/318/s6/a], Oct. 30, 1998, [112 Stat. 3010][/us/stat/112/3010]; [Pub. L. 106–185, § 18(b)][/us/pl/106/185/s18/b], Apr. 25, 2000, [114 Stat. 223][/us/stat/114/223]; [Pub. L. 107–56, title III, § 372(b)(2)][/us/pl/107/56/s372/b/2], Oct. 26, 2001, [115 Stat. 339][/us/stat/115/339]; [Pub. L. 107–273, div. B, title IV, § 4002(b)(10)][/us/pl/107/273/s4002/b/10], Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808]; [Pub. L. 109–295, title V, § 551(c)][/us/pl/109/295/s551/c], Oct. 4, 2006, [120 Stat. 1390][/us/stat/120/1390]; [Pub. L. 110–161, div. E, title V, § 553(b)][/us/pl/110/161/s553/b], Dec. 26, 2007, [121 Stat. 2082][/us/stat/121/2082]; [Pub. L. 111–203, title III, § 377(4)][/us/pl/111/203/s377/4], July 21, 2010, [124 Stat. 1569][/us/stat/124/1569]; [Pub. L. 112–127, § 5][/us/pl/112/127/s5], June 5, 2012, [126 Stat. 371][/us/stat/126/371].)
+(Added [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1366(a), Oct. 27, 1986, [100 Stat. 3207–39][/us/stat/100/3207-39]; amended [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], §§ 6463(c), 6464, Nov. 18, 1988, [102 Stat. 4374][/us/stat/102/4374], 4375; [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 963(c), Aug. 9, 1989, [103 Stat. 504][/us/stat/103/504]; [Pub. L. 101–647, title XIV][/us/pl/101/647/tXIV], §§ 1401, 1403, title XXV, § 2525(b), Nov. 29, 1990, [104 Stat. 4835][/us/stat/104/4835], 4874; [Pub. L. 102–393, title VI][/us/pl/102/393/tVI], § 638(e), Oct. 6, 1992, [106 Stat. 1788][/us/stat/106/1788]; [Pub. L. 102–519, title I][/us/pl/102/519/tI], § 104(b), Oct. 25, 1992, [106 Stat. 3385][/us/stat/106/3385]; [Pub. L. 102–550, title XV][/us/pl/102/550/tXV], § 1512(c), Oct. 28, 1992, [106 Stat. 4058][/us/stat/106/4058]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330011(s)(1), Sept. 13, 1994, [108 Stat. 2145][/us/stat/108/2145]; [Pub. L. 104–191, title II][/us/pl/104/191/tII], § 249(a), (b), Aug. 21, 1996, [110 Stat. 2020][/us/stat/110/2020]; [Pub. L. 104–208, div. C, title II][/us/pl/104/208/dC/tII], § 217, Sept. 30, 1996, [110 Stat. 3009–573][/us/stat/110/3009-573]; [Pub. L. 105–184][/us/pl/105/184], § 2, June 23, 1998, [112 Stat. 520][/us/stat/112/520]; [Pub. L. 105–318][/us/pl/105/318], § 6(a), Oct. 30, 1998, [112 Stat. 3010][/us/stat/112/3010]; [Pub. L. 106–185][/us/pl/106/185], § 18(b), Apr. 25, 2000, [114 Stat. 223][/us/stat/114/223]; [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 372(b)(2), Oct. 26, 2001, [115 Stat. 339][/us/stat/115/339]; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(b)(10), Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808]; [Pub. L. 109–295, title V][/us/pl/109/295/tV], § 551(c), Oct. 4, 2006, [120 Stat. 1390][/us/stat/120/1390]; [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 553(b), Dec. 26, 2007, [121 Stat. 2082][/us/stat/121/2082]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 377(4), July 21, 2010, [124 Stat. 1569][/us/stat/124/1569]; [Pub. L. 112–127][/us/pl/112/127], § 5, June 5, 2012, [126 Stat. 371][/us/stat/126/371].)
 
  __References in Text__ 
 
@@ -119,17 +119,17 @@
 
     2001—Subsec. (a)(1). [Pub. L. 107–56][/us/pl/107/56] struck out “of section 5313(a), 5316, or 5324 of title 31, or” before “of section 1956, 1957, or 1960 of this title” and struck out at end “However, no property shall be seized or forfeited in the case of a violation of [section 5313(a) of title 31][/us/usc/t31/s5313/a] by a domestic financial institution examined by a Federal bank supervisory agency or a financial institution regulated by the Securities and Exchange Commission or a partner, director, or employee thereof.”
 
-    2000—Subsec. (a)(6). [Pub. L. 106–185, § 18(b)(2)][/us/pl/106/185/s18/b/2], (3), designated concluding provisions of subpar. (A) as subpar. (B), substituted “The court, in imposing sentence on a person described in subparagraph (A)” for “The court, in imposing sentence on such person” and “that subparagraph” for “this subparagraph”, and struck out former subpar. (B), which read as follows: “The criminal forfeiture of property under subparagraph (A), including any seizure and disposition of the property and any related administrative or judicial proceeding, shall be governed by the provisions of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 853][/us/usc/t21/s853]), other than subsections (a) and (d) of such section 413.”
+    2000—Subsec. (a)(6). [Pub. L. 106–185][/us/pl/106/185], § 18(b)(2), (3), designated concluding provisions of subpar. (A) as subpar. (B), substituted “The court, in imposing sentence on a person described in subparagraph (A)” for “The court, in imposing sentence on such person” and “that subparagraph” for “this subparagraph”, and struck out former subpar. (B), which read as follows: “The criminal forfeiture of property under subparagraph (A), including any seizure and disposition of the property and any related administrative or judicial proceeding, shall be governed by the provisions of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 853][/us/usc/t21/s853]), other than subsections (a) and (d) of such section 413.”
 
-    Subsec. (a)(6)(A). [Pub. L. 106–185, § 18(b)(1)(A)][/us/pl/106/185/s18/b/1/A], inserted “section 274(a), 274A(a)(1), or 274A(a)(2) of the Immigration and Nationality Act or” after “a person convicted of a violation of, or conspiracy to violate,” in introductory provisions.
+    Subsec. (a)(6)(A). [Pub. L. 106–185][/us/pl/106/185], § 18(b)(1)(A), inserted “section 274(a), 274A(a)(1), or 274A(a)(2) of the Immigration and Nationality Act or” after “a person convicted of a violation of, or conspiracy to violate,” in introductory provisions.
 
-    Subsec. (a)(6)(A)(i). [Pub. L. 106–185, § 18(b)(1)(B)][/us/pl/106/185/s18/b/1/B], substituted “the offense of which the person is convicted” for “a violation of, or a conspiracy to violate, subsection (a)”.
+    Subsec. (a)(6)(A)(i). [Pub. L. 106–185][/us/pl/106/185], § 18(b)(1)(B), substituted “the offense of which the person is convicted” for “a violation of, or a conspiracy to violate, subsection (a)”.
 
-    Subsec. (a)(6)(A)(ii)(I), (II). [Pub. L. 106–185, § 18(b)(1)(C)][/us/pl/106/185/s18/b/1/C], substituted “the offense of which the person is convicted” for “a violation of, or a conspiracy to violate, subsection (a), section 274A(a)(1) or 274A(a)(2) of the Immigration and Nationality Act, or section 1028, 1425, 1426, 1427, 1541, 1542, 1543, 1544, or 1546 of this title”.
+    Subsec. (a)(6)(A)(ii)(I), (II). [Pub. L. 106–185][/us/pl/106/185], § 18(b)(1)(C), substituted “the offense of which the person is convicted” for “a violation of, or a conspiracy to violate, subsection (a), section 274A(a)(1) or 274A(a)(2) of the Immigration and Nationality Act, or section 1028, 1425, 1426, 1427, 1541, 1542, 1543, 1544, or 1546 of this title”.
 
-    1998—Subsec. (a)(6), (7). [Pub. L. 105–184, § 2(1)(A)][/us/pl/105/184/s2/1/A], which directed the amendment of subsec. (a) “by redesignating the second paragraph designated as paragraph (6) as paragraph (7)”, was executed by redesignating par. (6), relating to forfeitures for Federal health care offenses, as (7), to reflect the probable intent of Congress.
+    1998—Subsec. (a)(6), (7). [Pub. L. 105–184][/us/pl/105/184], § 2(1)(A), which directed the amendment of subsec. (a) “by redesignating the second paragraph designated as paragraph (6) as paragraph (7)”, was executed by redesignating par. (6), relating to forfeitures for Federal health care offenses, as (7), to reflect the probable intent of Congress.
 
-    Subsec. (a)(8). [Pub. L. 105–184, § 2(1)(B)][/us/pl/105/184/s2/1/B], added par. (8).
+    Subsec. (a)(8). [Pub. L. 105–184][/us/pl/105/184], § 2(1)(B), added par. (8).
 
     Subsec. (b)(1). [Pub. L. 105–318][/us/pl/105/318] amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Property subject to forfeiture under this section, any seizure and disposition thereof, and any administrative or judicial proceeding in relation thereto, shall be governed—
 
@@ -137,15 +137,15 @@
 
     “(B) in the case of a forfeiture under subsection (a)(2) of this section, by subsections (b), (c), (e), and (g) through (p) of section 413 of such Act.”
 
-    Subsec. (b)(1)(A). [Pub. L. 105–184, § 2(2)][/us/pl/105/184/s2/2], substituted “(a)(1), (a)(6), or (a)(8)” for “(a)(1) or (a)(6)”.
+    Subsec. (b)(1)(A). [Pub. L. 105–184][/us/pl/105/184], § 2(2), substituted “(a)(1), (a)(6), or (a)(8)” for “(a)(1) or (a)(6)”.
 
     1996—Subsec. (a)(6). [Pub. L. 104–208][/us/pl/104/208] added par. (6) relating to criminal forfeiture for passport and visa related offenses.
 
-    [Pub. L. 104–191, § 249(a)][/us/pl/104/191/s249/a], added par. (6) relating to forfeitures for Federal health care offenses.
+    [Pub. L. 104–191][/us/pl/104/191], § 249(a), added par. (6) relating to forfeitures for Federal health care offenses.
 
-    Subsec. (b)(1)(A). [Pub. L. 104–191, § 249(b)][/us/pl/104/191/s249/b], inserted “or (a)(6)” after “(a)(1)”.
+    Subsec. (b)(1)(A). [Pub. L. 104–191][/us/pl/104/191], § 249(b), inserted “or (a)(6)” after “(a)(1)”.
 
-    1994—Subsec. (a)(1). [Pub. L. 103–322, § 330011(s)(1)][/us/pl/103/322/s330011/s/1], amended directory language of [Pub. L. 101–647, § 1401][/us/pl/101/647/s1401]. See 1990 Amendment note below.
+    1994—Subsec. (a)(1). [Pub. L. 103–322][/us/pl/103/322], § 330011(s)(1), amended directory language of [Pub. L. 101–647][/us/pl/101/647], § 1401. See 1990 Amendment note below.
 
     1992—Subsec. (a)(1). [Pub. L. 102–550][/us/pl/102/550] substituted “, 1957, or 1960” for “or 1957”.
 
@@ -153,19 +153,19 @@
 
     Subsec. (a)(5). [Pub. L. 102–519][/us/pl/102/519] added par. (5).
 
-    1990—Subsec. (a)(1). [Pub. L. 101–647, § 1401][/us/pl/101/647/s1401], as amended by [Pub. L. 103–322, § 330011(s)(1)][/us/pl/103/322/s330011/s/1], inserted “, 5316,” after “5313(a)”, the first place appearing.
+    1990—Subsec. (a)(1). [Pub. L. 101–647][/us/pl/101/647], § 1401, as amended by [Pub. L. 103–322][/us/pl/103/322], § 330011(s)(1), inserted “, 5316,” after “5313(a)”, the first place appearing.
 
-    Subsec. (a)(3), (4). [Pub. L. 101–647, § 2525(b)][/us/pl/101/647/s2525/b], added pars. (3) and (4).
+    Subsec. (a)(3), (4). [Pub. L. 101–647][/us/pl/101/647], § 2525(b), added pars. (3) and (4).
 
-    Subsec. (b)(2). [Pub. L. 101–647, § 1403][/us/pl/101/647/s1403], inserted before period at end “unless the defendant, in committing the offense or offenses giving rise to the forfeiture, conducted three or more separate transactions involving a total of $100,000 or more in any twelve month period”.
+    Subsec. (b)(2). [Pub. L. 101–647][/us/pl/101/647], § 1403, inserted before period at end “unless the defendant, in committing the offense or offenses giving rise to the forfeiture, conducted three or more separate transactions involving a total of $100,000 or more in any twelve month period”.
 
-    1989—Subsec. (a). [Pub. L. 101–73, § 963(c)(1)][/us/pl/101/73/s963/c/1], designated existing provisions as par. (1) and added par. (2).
+    1989—Subsec. (a). [Pub. L. 101–73][/us/pl/101/73], § 963(c)(1), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (b). [Pub. L. 101–73, § 963(c)(2)][/us/pl/101/73/s963/c/2], struck out “The provisions of subsections 413(c) and (e) through (p) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 853(c)][/us/usc/t21/s853/c] and (e)–(p)) shall apply to property subject to forfeiture under this section, to any seizure or disposition thereof, and to any administrative or judicial proceeding in relation thereto, if not inconsistent with this section. However, the”, added par. (1), and inserted “(2) The” before “substitution of assets”.
+    Subsec. (b). [Pub. L. 101–73][/us/pl/101/73], § 963(c)(2), struck out “The provisions of subsections 413(c) and (e) through (p) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 853(c)][/us/usc/t21/s853/c] and (e)–(p)) shall apply to property subject to forfeiture under this section, to any seizure or disposition thereof, and to any administrative or judicial proceeding in relation thereto, if not inconsistent with this section. However, the”, added par. (1), and inserted “(2) The” before “substitution of assets”.
 
-    1988—Subsec. (a). [Pub. L. 100–690, § 6463(c)][/us/pl/100/690/s6463/c], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The court, in imposing sentence on a person convicted of an offense under section 1956 or 1957 of this title shall order that the person forfeit to the United States any property, real or personal, which represents the gross receipts the person obtained, directly or indirectly, as a result of such offense, or which is traceable to such gross receipts.”
+    1988—Subsec. (a). [Pub. L. 100–690][/us/pl/100/690], § 6463(c), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The court, in imposing sentence on a person convicted of an offense under section 1956 or 1957 of this title shall order that the person forfeit to the United States any property, real or personal, which represents the gross receipts the person obtained, directly or indirectly, as a result of such offense, or which is traceable to such gross receipts.”
 
-    Subsec. (b). [Pub. L. 100–690, § 6464][/us/pl/100/690/s6464], substituted “(p)” for “(o)” in two places and inserted at end “However, the substitution of assets provisions of subsection 413(p) not be used to order a defendant to forfeit assets in place of the actual property laundered where such defendant acted merely as an intermediary who handled but did not retain the property in the course of the money laundering offense.”
+    Subsec. (b). [Pub. L. 100–690][/us/pl/100/690], § 6464, substituted “(p)” for “(o)” in two places and inserted at end “However, the substitution of assets provisions of subsection 413(p) not be used to order a defendant to forfeit assets in place of the actual property laundered where such defendant acted merely as an intermediary who handled but did not retain the property in the course of the money laundering offense.”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -177,7 +177,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–322, title XXXIII, § 330011(s)(1)][/us/pl/103/322/s330011/s/1], Sept. 13, 1994, [108 Stat. 2145][/us/stat/108/2145], provided that the amendment made by that section is effective as of the date on which [section 1401 of Pub. L. 101–647][/us/pl/101/647/s1401] took effect.
+    [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330011(s)(1), Sept. 13, 1994, [108 Stat. 2145][/us/stat/108/2145], provided that the amendment made by that section is effective as of the date on which [section 1401 of Pub. L. 101–647][/us/pl/101/647/s1401] took effect.
 
 ----------
 
@@ -188,43 +188,43 @@
 
 [/us/usc/t18/s1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1028
 [/us/usc/t21/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853
-[/us/pl/99/570/s1366/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1366%2Fa
+[/us/pl/99/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtI
 [/us/stat/100/3207-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-39
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4374
-[/us/pl/101/73/s963/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs963%2Fc
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F504
-[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXIV
 [/us/stat/104/4835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4835
-[/us/pl/102/393/s638/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs638%2Fe
+[/us/pl/102/393/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtVI
 [/us/stat/106/1788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1788
-[/us/pl/102/519/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519%2Fs104%2Fb
+[/us/pl/102/519/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519%2FtI
 [/us/stat/106/3385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3385
-[/us/pl/102/550/s1512/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1512%2Fc
+[/us/pl/102/550/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXV
 [/us/stat/106/4058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4058
-[/us/pl/103/322/s330011/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Fs%2F1
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2145
-[/us/pl/104/191/s249/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs249%2Fa
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2020
-[/us/pl/104/208/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs217
+[/us/pl/104/208/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtII
 [/us/stat/110/3009-573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-573
-[/us/pl/105/184/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F184%2Fs2
+[/us/pl/105/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F184
 [/us/stat/112/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F520
-[/us/pl/105/318/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318%2Fs6%2Fa
+[/us/pl/105/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318
 [/us/stat/112/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3010
-[/us/pl/106/185/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs18%2Fb
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/stat/114/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F223
-[/us/pl/107/56/s372/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs372%2Fb%2F2
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F339
-[/us/pl/107/273/s4002/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fb%2F10
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1808
-[/us/pl/109/295/s551/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs551%2Fc
+[/us/pl/109/295/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtV
 [/us/stat/120/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1390
-[/us/pl/110/161/s553/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs553%2Fb
+[/us/pl/110/161/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdE%2FtV
 [/us/stat/121/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2082
-[/us/pl/111/203/s377/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs377%2F4
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1569
-[/us/pl/112/127/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F127%2Fs5
+[/us/pl/112/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F127
 [/us/stat/126/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F371
 [/us/pl/112/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F127
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
@@ -233,40 +233,40 @@
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/usc/t31/s5313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5313%2Fa
-[/us/pl/106/185/s18/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs18%2Fb%2F2
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/usc/t21/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853
-[/us/pl/106/185/s18/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs18%2Fb%2F1%2FA
-[/us/pl/106/185/s18/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs18%2Fb%2F1%2FB
-[/us/pl/106/185/s18/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs18%2Fb%2F1%2FC
-[/us/pl/105/184/s2/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F184%2Fs2%2F1%2FA
-[/us/pl/105/184/s2/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F184%2Fs2%2F1%2FB
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
+[/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
+[/us/pl/105/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F184
+[/us/pl/105/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F184
 [/us/pl/105/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F318
 [/us/usc/t21/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853
-[/us/pl/105/184/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F184%2Fs2%2F2
+[/us/pl/105/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F184
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/104/191/s249/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs249%2Fa
-[/us/pl/104/191/s249/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs249%2Fb
-[/us/pl/103/322/s330011/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Fs%2F1
-[/us/pl/101/647/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1401
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393
 [/us/pl/102/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F519
-[/us/pl/101/647/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1401
-[/us/pl/103/322/s330011/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Fs%2F1
-[/us/pl/101/647/s2525/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2525%2Fb
-[/us/pl/101/647/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1403
-[/us/pl/101/73/s963/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs963%2Fc%2F1
-[/us/pl/101/73/s963/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs963%2Fc%2F2
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t21/s853/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs853%2Fc
-[/us/pl/100/690/s6463/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6463%2Fc
-[/us/pl/100/690/s6464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6464
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs351
 [/us/usc/t2/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906
 [/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/pl/106/185/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs21
 [/us/usc/t8/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324
-[/us/pl/103/322/s330011/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330011%2Fs%2F1
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2145
 [/us/pl/101/647/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs1401
 

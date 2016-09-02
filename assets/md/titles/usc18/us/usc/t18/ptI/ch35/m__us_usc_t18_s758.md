@@ -17,7 +17,7 @@
 
     Whoever flees or evades a checkpoint operated by the Immigration and Naturalization Service, or any other Federal law enforcement agency, in a motor vehicle and flees Federal, State, or local law enforcement agents in excess of the legal speed limit shall be fined under this title, imprisoned not more than five years, or both.
 
-(Added [Pub. L. 104–208, div. C, title I, § 108(b)(1)][/us/pl/104/208/s108/b/1], Sept. 30, 1996, [110 Stat. 3009–557][/us/stat/110/3009-557].)
+(Added [Pub. L. 104–208, div. C, title I][/us/pl/104/208/dC/tI], § 108(b)(1), Sept. 30, 1996, [110 Stat. 3009–557][/us/stat/110/3009-557].)
 
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
@@ -25,7 +25,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 104–208, div. C, title I, § 108(a)][/us/pl/104/208/s108/a], Sept. 30, 1996, [110 Stat. 3009–557][/us/stat/110/3009-557], provided that: 
+[Pub. L. 104–208, div. C, title I][/us/pl/104/208/dC/tI], § 108(a), Sept. 30, 1996, [110 Stat. 3009–557][/us/stat/110/3009-557], provided that: 
 
 > “The Congress finds as follows:
 
@@ -42,10 +42,10 @@
 ----------
 ----------
 
-[/us/pl/104/208/s108/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs108%2Fb%2F1
+[/us/pl/104/208/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtI
 [/us/stat/110/3009-557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-557
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
-[/us/pl/104/208/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs108%2Fa
+[/us/pl/104/208/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtI
 [/us/stat/110/3009-557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-557
 
 

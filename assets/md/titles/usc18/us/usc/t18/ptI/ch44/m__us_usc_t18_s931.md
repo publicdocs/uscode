@@ -37,7 +37,7 @@
 
         In this subsection, the term “employer” means any other individual employed by the defendant’s business that supervises defendant’s activity. If that defendant has no supervisor, prior written certification is acceptable from any other employee of the business.
 
-(Added [Pub. L. 107–273, div. C, title I, § 11009(e)(2)(A)][/us/pl/107/273/s11009/e/2/A], Nov. 2, 2002, [116 Stat. 1821][/us/stat/116/1821].)
+(Added [Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11009(e)(2)(A), Nov. 2, 2002, [116 Stat. 1821][/us/stat/116/1821].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/107/273/s11009/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11009%2Fe%2F2%2FA
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1821
 
 

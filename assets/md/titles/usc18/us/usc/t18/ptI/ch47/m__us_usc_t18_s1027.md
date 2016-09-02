@@ -17,7 +17,7 @@
 
     Whoever, in any document required by title I of the Employee Retirement Income Security Act of 1974 (as amended from time to time) to be published, or kept as part of the records of any employee welfare benefit plan or employee pension benefit plan, or certified to the administrator of any such plan, makes any false statement or representation of fact, knowing it to be false, or knowingly conceals, covers up, or fails to disclose any fact the disclosure of which is required by such title or is necessary to verify, explain, clarify or check for accuracy and completeness any report required by such title to be published or any information required by such title to be certified, shall be fined under this title, or imprisoned not more than five years, or both.
 
-(Added [Pub. L. 87–420, § 17(c)][/us/pl/87/420/s17/c], Mar. 20, 1962, [76 Stat. 42][/us/stat/76/42]; amended [Pub. L. 93–406, title I, § 111(a)(2)(B)(i)][/us/pl/93/406/s111/a/2/B/i], (ii), Sept. 2, 1974, [88 Stat. 851][/us/stat/88/851]; [Pub. L. 103–322, title XXXIII, § 330016(1)(L)][/us/pl/103/322/s330016/1/L], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+(Added [Pub. L. 87–420][/us/pl/87/420], § 17(c), Mar. 20, 1962, [76 Stat. 42][/us/stat/76/42]; amended [Pub. L. 93–406, title I][/us/pl/93/406/tI], § 111(a)(2)(B)(i), (ii), Sept. 2, 1974, [88 Stat. 851][/us/stat/88/851]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __References in Text__ 
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/pl/87/420/s17/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F420%2Fs17%2Fc
+[/us/pl/87/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F420
 [/us/stat/76/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F42
-[/us/pl/93/406/s111/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs111%2Fa%2F2%2FB%2Fi
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F851
-[/us/pl/103/322/s330016/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FL
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F829

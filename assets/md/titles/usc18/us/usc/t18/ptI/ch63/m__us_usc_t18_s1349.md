@@ -17,7 +17,7 @@
 
     Any person who attempts or conspires to commit any offense under this chapter shall be subject to the same penalties as those prescribed for the offense, the commission of which was the object of the attempt or conspiracy.
 
-(Added [Pub. L. 107–204, title IX, § 902(a)][/us/pl/107/204/s902/a], July 30, 2002, [116 Stat. 805][/us/stat/116/805].)
+(Added [Pub. L. 107–204, title IX][/us/pl/107/204/tIX], § 902(a), July 30, 2002, [116 Stat. 805][/us/stat/116/805].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/204/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs902%2Fa
+[/us/pl/107/204/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtIX
 [/us/stat/116/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F805
 
 

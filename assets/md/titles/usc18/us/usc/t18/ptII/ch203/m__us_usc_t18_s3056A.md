@@ -79,11 +79,11 @@
 
     (d) In carrying out the functions pursuant to paragraphs (7) and (9) of subsection (a), the Secretary of Homeland Security may utilize, with their consent, on a reimbursable basis, the services, personnel, equipment, and facilities of State and local governments, and is authorized to reimburse such State and local governments for the utilization of such services, personnel, equipment, and facilities. The Secretary of Homeland Security may carry out the functions pursuant to paragraphs (7) and (9) of subsection (a) by contract. The authority of this subsection may be transferred by the President to the Secretary of State. In carrying out any duty under paragraphs (7) and (9) of subsection (a), the Secretary of State is authorized to utilize any authority available to the Secretary under title II of the State Department Basic Authorities Act of 1956.
 
-(Added [Pub. L. 109–177, title VI, § 605(a)][/us/pl/109/177/s605/a], Mar. 9, 2006, [120 Stat. 253][/us/stat/120/253].)
+(Added [Pub. L. 109–177, title VI][/us/pl/109/177/tVI], § 605(a), Mar. 9, 2006, [120 Stat. 253][/us/stat/120/253].)
 
  __References in Text__ 
 
-    Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (d), is title II of [act Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], as added Aug. 24, 1982, [Pub. L. 97–241, title II, § 202(b)][/us/pl/97/241/s202/b], [96 Stat. 283][/us/stat/96/283], known as the Foreign Missions Act, which is classified principally to chapter 53 (§ 4301 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of title II to the Code, see Short Title note set out under [section 4301 of Title 22][/us/usc/t22/s4301] and Tables.
+    Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (d), is title II of [act Aug. 1, 1956, ch. 841][/us/act/1956-08-01/ch841], as added Aug. 24, 1982, [Pub. L. 97–241, title II][/us/pl/97/241/tII], § 202(b), [96 Stat. 283][/us/stat/96/283], known as the Foreign Missions Act, which is classified principally to chapter 53 (§ 4301 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of title II to the Code, see Short Title note set out under [section 4301 of Title 22][/us/usc/t22/s4301] and Tables.
 
  __Change of Name__ 
 
@@ -91,13 +91,13 @@
 
 > “Any reference in any other law or in any regulation, document, record, or other paper of the United States to the Executive Protective Service shall be held to be a reference to the United States Secret Service Uniformed Division.”
 
-[Pub. L. 91–297, title II, § 202][/us/pl/91/297/s202], June 30, 1970, [84 Stat. 358][/us/stat/84/358], provided that: 
+[Pub. L. 91–297, title II][/us/pl/91/297/tII], § 202, June 30, 1970, [84 Stat. 358][/us/stat/84/358], provided that: 
 
 > “All laws of the United States in force on the date of enactment of this title \[June 30, 1970\] in which reference is made to the White House Police force are amended by substituting ‘Executive Protective Service’ for each such reference.”
 
  __Savings Provisions__ 
 
-[Pub. L. 109–177, title VI, § 606][/us/pl/109/177/s606], Mar. 9, 2006, [120 Stat. 256][/us/stat/120/256], provided that:
+[Pub. L. 109–177, title VI][/us/pl/109/177/tVI], § 606, Mar. 9, 2006, [120 Stat. 256][/us/stat/120/256], provided that:
 
 >     “(a) This title \[see Tables for classification\] does not affect the retirement benefits of current employees or annuitants that existed on the day before the effective date of this Act \[probably means Mar. 9, 2006, the date of enactment of [Pub. L. 109–177][/us/pl/109/177]\].
 
@@ -105,7 +105,7 @@
 
  __Conversion to New Salary Schedule__ 
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title IX, § 905\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–306, as amended by [Pub. L. 111–282, § 4(b)(4)][/us/pl/111/282/s4/b/4], Oct. 15, 2010, [124 Stat. 3043][/us/stat/124/3043], provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title IX, § 905\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–306, as amended by [Pub. L. 111–282][/us/pl/111/282], § 4(b)(4), Oct. 15, 2010, [124 Stat. 3043][/us/stat/124/3043], provided that:
 
 >     “(a) __In General.—__ 
 
@@ -117,7 +117,7 @@
 
 >             “(A)  __In general__  __.—__ 
 
->             Each officer and member shall be placed in and receive basic compensation at the corresponding scheduled service step of the salary schedule under section 501(c) of the District of Columbia Police and Firemen’s Salary Act of 1958 \[[Pub. L. 85–584, title V][/us/pl/85/584], Aug. 1, 1958, [72 Stat. 485][/us/stat/72/485]\] (as amended by section 902(a)) in accordance with the member’s total years of creditable service, receiving credit for all service step adjustments. If the scheduled rate of pay for the step to which the officer or member would be assigned in accordance with this paragraph is lower than the officer’s or member’s salary immediately prior to the enactment of this paragraph, the officer or member will be placed in and receive compensation at the next higher service step.
+>             Each officer and member shall be placed in and receive basic compensation at the corresponding scheduled service step of the salary schedule under section 501(c) of the District of Columbia Police and Firemen’s Salary Act of 1958 \[[Pub. L. 85–584, title V][/us/pl/85/584/tV], Aug. 1, 1958, [72 Stat. 485][/us/stat/72/485]\] (as amended by section 902(a)) in accordance with the member’s total years of creditable service, receiving credit for all service step adjustments. If the scheduled rate of pay for the step to which the officer or member would be assigned in accordance with this paragraph is lower than the officer’s or member’s salary immediately prior to the enactment of this paragraph, the officer or member will be placed in and receive compensation at the next higher service step.
 
 >             “(B)  __Credit for increases during transition__  __.—__ 
 
@@ -137,7 +137,7 @@
 
 >     “(c)  __Conversion Not Treated as Transfer or Promotion__  __.—__ 
 
->     The conversion of positions and individuals to appropriate classes of the salary schedule under section 501(c) of the District of Columbia Police and Firemen’s Salary Act of 1958 (as amended by section 902(a)) and the initial adjustments of rates of basic pay of those positions and individuals in accordance with subsection (a) shall not be considered to be transfers or promotions within the meaning of section 304 of the District of Columbia Police and Firemen’s Salary Act of 1958 \[[Pub. L. 85–584, title III][/us/pl/85/584], Aug. 1, 1958, [72 Stat. 484][/us/stat/72/484]\] (sec. 4–413, D.C. Code).
+>     The conversion of positions and individuals to appropriate classes of the salary schedule under section 501(c) of the District of Columbia Police and Firemen’s Salary Act of 1958 (as amended by section 902(a)) and the initial adjustments of rates of basic pay of those positions and individuals in accordance with subsection (a) shall not be considered to be transfers or promotions within the meaning of section 304 of the District of Columbia Police and Firemen’s Salary Act of 1958 \[[Pub. L. 85–584, title III][/us/pl/85/584/tIII], Aug. 1, 1958, [72 Stat. 484][/us/stat/72/484]\] (sec. 4–413, D.C. Code).
 
 >     “(d)  __Transfer of Credit for Satisfactory Service__  __.—__ 
 
@@ -151,9 +151,9 @@
 
 >     The conversion of positions and individuals to appropriate classes of the salary schedule under section 501(c) of the District of Columbia Police and Firemen’s Salary Act of 1958 (as amended by section 2\[902\](a)) and the initial adjustments of rates of basic pay of those positions and individuals in accordance with subsection (a) shall not be treated as an increase in salary for purposes of section 3 of the Act entitled ‘An Act to provide increased pensions for widows and children of deceased members of the Police Department and the Fire Department of the District of Columbia’, approved August 4, 1949 \[ch. 394, [63 Stat. 566][/us/stat/63/566]\] (sec. 4–604, D.C. Code), or section 301 of the District of Columbia Police and Firemen’s Salary Act of 1953 \[[June 20, 1953, ch. 146][/us/act/1953-06-20/ch146], title III, [67 Stat. 75][/us/stat/67/75]\] (sec. 4–605, D.C. Code).”
 
-    \[[Pub. L. 111–282, § 4(b)(4)][/us/pl/111/282/s4/b/4], Oct. 15, 2010, [124 Stat. 3043][/us/stat/124/3043], which directed amendment of section 1(a)(4) \[div. B, title IX, § 905(a)(1)\] of [Pub. L. 106–554][/us/pl/106/554], set out above, by striking out “the Secretary of Treasury” and all that followed through “United States Secret Service Uniformed Division, and”, was executed by striking out “the Secretary of the Treasury shall fix the rates of basic pay for officers and members of the United States Secret Service Uniformed Division, and” to reflect the probable intent of Congress.
+    \[[Pub. L. 111–282][/us/pl/111/282], § 4(b)(4), Oct. 15, 2010, [124 Stat. 3043][/us/stat/124/3043], which directed amendment of section 1(a)(4) \[div. B, title IX, § 905(a)(1)\] of [Pub. L. 106–554][/us/pl/106/554], set out above, by striking out “the Secretary of Treasury” and all that followed through “United States Secret Service Uniformed Division, and”, was executed by striking out “the Secretary of the Treasury shall fix the rates of basic pay for officers and members of the United States Secret Service Uniformed Division, and” to reflect the probable intent of Congress.
 
-\[[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title IX, § 909\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–310, provided that: 
+\[[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title IX, § 909\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–310, provided that: 
 
 > “Except as provided in section 908(c) \[[114 Stat. 2763][/us/stat/114/2763]A–310\], this title \[enacting provisions set out as notes above and under sections 5301, 5304, and 5305 of Title 5, Government Organization and Employees, and amending provisions set out as a note under [section 5305 of Title 5][/us/usc/t5/s5305]\] and the amendments made by this title shall become effective on the first day of the first pay period beginning 6 months after the date of enactment \[Dec. 21, 2000\].”
 
@@ -161,13 +161,13 @@
 
  __Secret Service Uniformed Division Compensation__ 
 
-[Pub. L. 105–61, title I, § 118][/us/pl/105/61/s118], Oct. 10, 1997, [111 Stat. 1285][/us/stat/111/1285], as amended by [Pub. L. 111–282, § 4(b)(3)][/us/pl/111/282/s4/b/3], Oct. 15, 2010, [124 Stat. 3043][/us/stat/124/3043], provided that:
+[Pub. L. 105–61, title I][/us/pl/105/61/tI], § 118, Oct. 10, 1997, [111 Stat. 1285][/us/stat/111/1285], as amended by [Pub. L. 111–282][/us/pl/111/282], § 4(b)(3), Oct. 15, 2010, [124 Stat. 3043][/us/stat/124/3043], provided that:
 
 >     “(a)  __New Rates of Basic Pay__  __.—__ 
 
->     \[Amended [Pub. L. 85–584, title V, § 501][/us/pl/85/584/s501], Aug. 1, 1958, [72 Stat. 485][/us/stat/72/485].\]
+>     \[Amended [Pub. L. 85–584, title V][/us/pl/85/584/tV], § 501, Aug. 1, 1958, [72 Stat. 485][/us/stat/72/485].\]
 
->     “(b) __\[Repealed.__  __[__  __Pub. L. 111–282, § 4(b)(3)__  __][/us/pl/111/282/s4/b/3]__  __,__  __Oct. 15, 2010__  __,__  __[__  __124 Stat. 3043__  __][/us/stat/124/3043]__  __.\]__ 
+>     “(b) __\[Repealed.__  __[__  __Pub. L. 111–282__  __][/us/pl/111/282]__  __, § 4(b)(3),__  __Oct. 15, 2010__  __,__  __[__  __124 Stat. 3043__  __][/us/stat/124/3043]__  __.\]__ 
 
 >     “(c)  __Limitation on Pay Period Earnings__  __.—__ 
 
@@ -175,11 +175,11 @@
 
 >     “(d)  __Savings Provision__  __.—__ 
 
->     On the effective date of this section, any existing special salary rates authorized for members of the United States Secret Service Uniformed Division under [section 5305 of title 5][/us/usc/t5/s5305], United States Code (or any previous similar provision of law) and any special rates of pay or special pay adjustments under section 403, 404, or 405 of the Federal Law Enforcement Pay Reform Act of 1990 \[[Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title IV, §§ 403–405\], [5 U.S.C. 5305][/us/usc/t5/s5305] note\] applicable to members of the United States Secret Service Uniformed Division shall be rendered inapplicable.
+>     On the effective date of this section, any existing special salary rates authorized for members of the United States Secret Service Uniformed Division under [section 5305 of title 5][/us/usc/t5/s5305], United States Code (or any previous similar provision of law) and any special rates of pay or special pay adjustments under section 403, 404, or 405 of the Federal Law Enforcement Pay Reform Act of 1990 \[[Pub. L. 101–509][/us/pl/101/509], § 529 \[title IV, §§ 403–405\], [5 U.S.C. 5305][/us/usc/t5/s5305] note\] applicable to members of the United States Secret Service Uniformed Division shall be rendered inapplicable.
 
 >     “(e)  __Conforming Amendment__  __.—__ 
 
->     \[Amended [Pub. L. 101–509, § 529][/us/pl/101/509/s529] \[title IV, § 405\], set out as a note under [section 5305 of Title 5][/us/usc/t5/s5305], Government Organization and Employees.\]
+>     \[Amended [Pub. L. 101–509][/us/pl/101/509], § 529 \[title IV, § 405\], set out as a note under [section 5305 of Title 5][/us/usc/t5/s5305], Government Organization and Employees.\]
 
 >     “(f)  __Effective Date__  __.—__ 
 
@@ -211,54 +211,54 @@ By authority vested in me as President by the Constitution and statutes of the U
 [/us/usc/t18/s3056/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056%2Fa%2F3
 [/us/usc/t18/s3056/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056%2Fe
 [/us/usc/t18/s3056/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056%2Fa%2F7
-[/us/pl/109/177/s605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs605%2Fa
+[/us/pl/109/177/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVI
 [/us/stat/120/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F253
 [/us/act/1956-08-01/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch841
-[/us/pl/97/241/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs202%2Fb
+[/us/pl/97/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtII
 [/us/stat/96/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F283
 [/us/usc/t22/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4301
 [/us/pl/95/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F179
 [/us/stat/91/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1371
-[/us/pl/91/297/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F297%2Fs202
+[/us/pl/91/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F297%2FtII
 [/us/stat/84/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F358
-[/us/pl/109/177/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs606
+[/us/pl/109/177/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtVI
 [/us/stat/120/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F256
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/usc/t3/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs208
 [/us/usc/t18/s3056A/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056A%2Fd
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/282/s4/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs4%2Fb%2F4
+[/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
 [/us/stat/124/3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3043
-[/us/pl/85/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F584
+[/us/pl/85/584/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F584%2FtV
 [/us/stat/72/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F485
-[/us/pl/85/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F584
+[/us/pl/85/584/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F584%2FtIII
 [/us/stat/72/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F484
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
 [/us/stat/63/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F566
 [/us/act/1953-06-20/ch146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-20%2Fch146
 [/us/stat/67/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F75
-[/us/pl/111/282/s4/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs4%2Fb%2F4
+[/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
 [/us/stat/124/3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3043
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
-[/us/pl/105/61/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs118
+[/us/pl/105/61/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtI
 [/us/stat/111/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1285
-[/us/pl/111/282/s4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs4%2Fb%2F3
+[/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
 [/us/stat/124/3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3043
-[/us/pl/85/584/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F584%2Fs501
+[/us/pl/85/584/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F584%2FtV
 [/us/stat/72/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F485
-[/us/pl/111/282/s4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282%2Fs4%2Fb%2F3
+[/us/pl/111/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F282
 [/us/stat/124/3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3043
 [/us/act/1950-08-15/ch715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-15%2Fch715
 [/us/stat/64/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F477
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5305
 [/us/pl/94/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F196
 [/us/stat/89/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1109

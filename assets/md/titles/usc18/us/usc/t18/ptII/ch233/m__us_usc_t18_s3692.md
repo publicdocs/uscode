@@ -23,7 +23,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on [section 111 of Title 29][/us/usc/t29/s111], U.S.C., 1940 ed., Labor ([Mar. 23, 1932, ch. 90, § 11][/us/act/1932-03-23/ch90/s11], [47 Stat. 72][/us/stat/47/72]).
+    Based on [section 111 of Title 29][/us/usc/t29/s111], U.S.C., 1940 ed., Labor ([Mar. 23, 1932, ch. 90][/us/act/1932-03-23/ch90], § 11, [47 Stat. 72][/us/stat/47/72]).
 
     The phrase “or the District of Columbia arising under the laws of the United States governing the issuance of injunctions or restraining orders in any case involving or growing out of a labor dispute” was inserted and the reference to specific sections of the Norris-LaGuardia Act (sections 101–115 of Title 29, U.S.C., 1940 ed.) were eliminated.
 
@@ -41,7 +41,7 @@
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F844
 [/us/usc/t29/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs111
-[/us/act/1932-03-23/ch90/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90%2Fs11
+[/us/act/1932-03-23/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90
 [/us/stat/47/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F72
 [/us/usc/t29/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs111
 [/us/usc/t29/s178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs178

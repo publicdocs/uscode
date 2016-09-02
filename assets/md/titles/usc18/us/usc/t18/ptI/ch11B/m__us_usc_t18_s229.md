@@ -49,7 +49,7 @@
 
         (4) is committed against any property that is owned, leased, or used by the United States or by any department or agency of the United States, whether the property is within or outside the United States.
 
-(Added [Pub. L. 105–277, div. I, title II, § 201(a)][/us/pl/105/277/s201/a], Oct. 21, 1998, [112 Stat. 2681–866][/us/stat/112/2681-866].)
+(Added [Pub. L. 105–277, div. I, title II][/us/pl/105/277/dI/tII], § 201(a), Oct. 21, 1998, [112 Stat. 2681–866][/us/stat/112/2681-866].)
 
  __Regulations__ 
 
@@ -57,7 +57,7 @@
 
  __Revocations of Export Privileges__ 
 
-[Pub. L. 105–277, div. I, title II, § 211][/us/pl/105/277/s211], Oct. 21, 1998, [112 Stat. 2681–872][/us/stat/112/2681-872], provided that: 
+[Pub. L. 105–277, div. I, title II][/us/pl/105/277/dI/tII], § 211, Oct. 21, 1998, [112 Stat. 2681–872][/us/stat/112/2681-872], provided that: 
 
 > “If the President determines, after notice and an opportunity for a hearing in accordance with [section 554 of title 5][/us/usc/t5/s554], United States Code, that any person within the United States, or any national of the United States located outside the United States, has committed any violation of [section 229 of title 18][/us/usc/t18/s229], United States Code, the President may issue an order for the suspension or revocation of the authority of the person to export from the United States any goods or technology (as such terms are defined in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415)) \[now [50 U.S.C. 4618][/us/usc/t50/s4618]\].”
 
@@ -70,10 +70,10 @@
 ----------
 ----------
 
-[/us/pl/105/277/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs201%2Fa
+[/us/pl/105/277/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtII
 [/us/stat/112/2681-866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-866
 [/us/usc/t22/s6711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6711
-[/us/pl/105/277/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs211
+[/us/pl/105/277/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI%2FtII
 [/us/stat/112/2681-872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-872
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t18/s229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs229

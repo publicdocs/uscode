@@ -25,17 +25,17 @@
 
     (e) Nothing in this section shall be construed to create a cause of action against the United States.
 
-(Added [Pub. L. 98–473, title II, § 1208][/us/pl/98/473/s1208], Oct. 12, 1984, [98 Stat. 2162][/us/stat/98/2162].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 1208, Oct. 12, 1984, [98 Stat. 2162][/us/stat/98/2162].)
 
  __References in Text__ 
 
-    [Section 3579(b) of this title][/us/usc/t18/s3579/b], referred to in subsec. (d), was renumbered [section 3663(b) of this title][/us/usc/t18/s3663/b] by [Pub. L. 98–473, title II, § 212(a)(1)][/us/pl/98/473/s212/a/1], Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987].
+    [Section 3579(b) of this title][/us/usc/t18/s3579/b], referred to in subsec. (d), was renumbered [section 3663(b) of this title][/us/usc/t18/s3663/b] by [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(1), Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987].
 
     The date of the enactment of this chapter, referred to in subsec. (d), is the date of enactment of [Pub. L. 98–473][/us/pl/98/473], which was approved Oct. 12, 1984.
 
  __Restitution to Estate of Victims Killed Before__  __October 12, 1984__  __; Limitation__ 
 
-[Pub. L. 99–180, title II, § 200][/us/pl/99/180/s200], Dec. 13, 1985, [99 Stat. 1142][/us/stat/99/1142], provided: 
+[Pub. L. 99–180, title II][/us/pl/99/180/tII], § 200, Dec. 13, 1985, [99 Stat. 1142][/us/stat/99/1142], provided: 
 
 > “That restitution of not to exceed $25,000 shall be paid to the estate of victims killed before October 12, 1984 as a result of crimes committed by persons who have been enrolled in the Federal witness protection program, if such crimes were committed within two years after protection was terminated, notwithstanding any limitations contained in part (a) of [section 3525 of title 18][/us/usc/t18/s3525] of the United States Code.”
 
@@ -43,7 +43,7 @@
 
     Similar provisions were contained in the following prior appropriation act:
 
-    [Pub. L. 99–88, title I, § 100][/us/pl/99/88/s100], Aug. 15, 1985, [99 Stat. 303][/us/stat/99/303].
+    [Pub. L. 99–88, title I][/us/pl/99/88/tI], § 100, Aug. 15, 1985, [99 Stat. 303][/us/stat/99/303].
 
 ----------
 
@@ -52,17 +52,17 @@
 ----------
 ----------
 
-[/us/pl/98/473/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs1208
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2162
 [/us/usc/t18/s3579/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3579%2Fb
 [/us/usc/t18/s3663/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3663%2Fb
-[/us/pl/98/473/s212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F1
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1987
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/99/180/s200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F180%2Fs200
+[/us/pl/99/180/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F180%2FtII
 [/us/stat/99/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1142
 [/us/usc/t18/s3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3525
-[/us/pl/99/88/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F88%2Fs100
+[/us/pl/99/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F88%2FtI
 [/us/stat/99/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F303
 
 

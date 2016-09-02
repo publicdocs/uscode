@@ -17,11 +17,11 @@
 
     Whoever, having kindled or caused to be kindled, a fire in or near any forest, timber, or other inflammable material upon any lands owned, controlled or leased by, or under the partial, concurrent, or exclusive jurisdiction of the United States, including lands under contract for purchase or for the acquisition of which condemnation proceedings have been instituted, and including any Indian reservation or lands belonging to or occupied by any tribe or group of Indians under the authority of the United States, or any Indian allotment while the title to the same is held in trust by the United States, or while the same shall remain inalienable by the allottee without the consent of the United States, leaves said fire without totally extinguishing the same, or permits or suffers said fire to burn or spread beyond his control, or leaves or suffers said fire to burn unattended, shall be fined under this title or imprisoned not more than six months, or both.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 788][/us/stat/62/788]; [Pub. L. 103–322, title XXXIII, § 330016(1)(G)][/us/pl/103/322/s330016/1/G], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 788][/us/stat/62/788]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(G), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 107 ([Mar. 4, 1909, ch. 321, § 53][/us/act/1909-03-04/ch321/s53], [35 Stat. 1908][/us/stat/35/1908]; [June 25, 1910, ch. 431, § 6][/us/act/1910-06-25/ch431/s6], [36 Stat. 857][/us/stat/36/857]; [Nov. 15, 1941, ch. 472, § 2][/us/act/1941-11-15/ch472/s2], [55 Stat. 764][/us/stat/55/764]).
+    Based on title 18, U.S.C., 1940 ed., § 107 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 53, [35 Stat. 1908][/us/stat/35/1908]; [June 25, 1910, ch. 431][/us/act/1910-06-25/ch431], § 6, [36 Stat. 857][/us/stat/36/857]; [Nov. 15, 1941, ch. 472][/us/act/1941-11-15/ch472], § 2, [55 Stat. 764][/us/stat/55/764]).
 
     Words “without hard labor” which followed “six months” and preceded “or both” were omitted as unnecessary. (See reviser’s note under [section 1 of this title][/us/usc/t18/s1].)
 
@@ -42,13 +42,13 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F788
-[/us/pl/103/322/s330016/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FG
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/act/1909-03-04/ch321/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs53
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1908
-[/us/act/1910-06-25/ch431/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch431%2Fs6
+[/us/act/1910-06-25/ch431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch431
 [/us/stat/36/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F857
-[/us/act/1941-11-15/ch472/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-11-15%2Fch472%2Fs2
+[/us/act/1941-11-15/ch472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-11-15%2Fch472
 [/us/stat/55/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F764
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

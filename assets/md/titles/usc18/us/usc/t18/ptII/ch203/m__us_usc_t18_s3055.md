@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on [section 250 of title 25][/us/usc/t25/s250], U.S.C., 1940 ed., Indians ([Aug. 24, 1912, ch. 388, § 1][/us/act/1912-08-24/ch388/s1], [37 Stat. 519][/us/stat/37/519]).
+    Based on [section 250 of title 25][/us/usc/t25/s250], U.S.C., 1940 ed., Indians ([Aug. 24, 1912, ch. 388][/us/act/1912-08-24/ch388], § 1, [37 Stat. 519][/us/stat/37/519]).
 
     The only change was to delete the words at the beginning of the section, “The powers conferred by [section 504 of title 28][/us/usc/t28/s504] upon marshals and their deputies are conferred upon.” and the addition, at the end of the section, of the phrase expressing such powers beginning with the words “may execute all warrants”.
 
@@ -35,7 +35,7 @@
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F817
 [/us/usc/t25/s250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs250
-[/us/act/1912-08-24/ch388/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch388%2Fs1
+[/us/act/1912-08-24/ch388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch388
 [/us/stat/37/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F519
 [/us/usc/t28/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs504
 

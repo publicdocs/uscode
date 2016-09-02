@@ -95,7 +95,7 @@
 
         (5) The Chief Executive Officer of each institution shall have authority to grant waivers for good cause as determined and documented on an individual basis.
 
-(Added [Pub. L. 98–473, title II, § 212(a)(2)][/us/pl/98/473/s212/a/2], Oct. 12, 1984, [98 Stat. 2008][/us/stat/98/2008]; amended [Pub. L. 99–646][/us/pl/99/646], §§ 16(a), 17(a), Nov. 10, 1986, [100 Stat. 3595][/us/stat/100/3595]; [Pub. L. 101–647, title XXIX][/us/pl/101/647], §§ 2902(a), 2904, Nov. 29, 1990, [104 Stat. 4913][/us/stat/104/4913]; [Pub. L. 103–322, title II][/us/pl/103/322], §§ 20405, 20412, Sept. 13, 1994, [108 Stat. 1825][/us/stat/108/1825], 1828; [Pub. L. 104–66, title I, § 1091(c)][/us/pl/104/66/s1091/c], Dec. 21, 1995, [109 Stat. 722][/us/stat/109/722]; [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 809(c)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–76; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 110–177, title V, § 505][/us/pl/110/177/s505], Jan. 7, 2008, [121 Stat. 2542][/us/stat/121/2542]; [Pub. L. 110–199, title II, § 251(a)][/us/pl/110/199/s251/a], Apr. 9, 2008, [122 Stat. 692][/us/stat/122/692].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(2), Oct. 12, 1984, [98 Stat. 2008][/us/stat/98/2008]; amended [Pub. L. 99–646][/us/pl/99/646], §§ 16(a), 17(a), Nov. 10, 1986, [100 Stat. 3595][/us/stat/100/3595]; [Pub. L. 101–647, title XXIX][/us/pl/101/647/tXXIX], §§ 2902(a), 2904, Nov. 29, 1990, [104 Stat. 4913][/us/stat/104/4913]; [Pub. L. 103–322, title II][/us/pl/103/322/tII], §§ 20405, 20412, Sept. 13, 1994, [108 Stat. 1825][/us/stat/108/1825], 1828; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1091(c), Dec. 21, 1995, [109 Stat. 722][/us/stat/109/722]; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title VIII, § 809(c)\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–76; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 110–177, title V][/us/pl/110/177/tV], § 505, Jan. 7, 2008, [121 Stat. 2542][/us/stat/121/2542]; [Pub. L. 110–199, title II][/us/pl/110/199/tII], § 251(a), Apr. 9, 2008, [122 Stat. 692][/us/stat/122/692].)
 
  __References in Text__ 
 
@@ -115,51 +115,51 @@
 
     Subsec. (e). [Pub. L. 110–177][/us/pl/110/177] substituted “Upon the release of a prisoner by the Bureau of Prisons to supervised release, the Bureau of Prisons shall notify such prisoner, verbally and in writing, of the requirement that the prisoner adhere to an installment schedule, not to exceed 2 years except in special circumstances, to pay for any fine imposed for the offense committed by such prisoner, and of the consequences of failure to pay such fines under sections 3611 through 3614 of this title.” for “No prisoner shall be released on supervision unless such prisoner agrees to adhere to an installment schedule, not to exceed two years except in special circumstances, to pay for any fine imposed for the offense committed by such prisoner.”
 
-    1996—Subsec. (b)(1). [Pub. L. 104–134, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 809(c)(1)(A)\], struck out at beginning “A prisoner (other than a prisoner serving a sentence for a crime of violence) who is serving a term of imprisonment of more than one year, other than a term of imprisonment for the duration of the prisoner’s life, shall receive credit toward the service of the prisoner’s sentence, beyond the time served, of fifty-four days at the end of each year of the prisoner’s term of imprisonment, beginning at the end of the first year of the term, unless the Bureau of Prisons determines that, during that year, the prisoner has not satisfactorily complied with such institutional disciplinary regulations as have been approved by the Attorney General and issued to the prisoner.”
+    1996—Subsec. (b)(1). [Pub. L. 104–134][/us/pl/104/134], § 101\[(a)\] \[title VIII, § 809(c)(1)(A)\], struck out at beginning “A prisoner (other than a prisoner serving a sentence for a crime of violence) who is serving a term of imprisonment of more than one year, other than a term of imprisonment for the duration of the prisoner’s life, shall receive credit toward the service of the prisoner’s sentence, beyond the time served, of fifty-four days at the end of each year of the prisoner’s term of imprisonment, beginning at the end of the first year of the term, unless the Bureau of Prisons determines that, during that year, the prisoner has not satisfactorily complied with such institutional disciplinary regulations as have been approved by the Attorney General and issued to the prisoner.”
 
-    [Pub. L. 104–134, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 809(c)(1)(B)\], in second sentence substituted “Subject to paragraph (2), a prisoner” for “A prisoner”, struck out “for a crime of violence,” after “1 year”, and struck out “such” after “compliance with”.
+    [Pub. L. 104–134][/us/pl/104/134], § 101\[(a)\] \[title VIII, § 809(c)(1)(B)\], in second sentence substituted “Subject to paragraph (2), a prisoner” for “A prisoner”, struck out “for a crime of violence,” after “1 year”, and struck out “such” after “compliance with”.
 
-    [Pub. L. 104–134, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 809(c)(1)(C)\], in third sentence substituted “Subject to paragraph (2), if the Bureau” for “If the Bureau”.
+    [Pub. L. 104–134][/us/pl/104/134], § 101\[(a)\] \[title VIII, § 809(c)(1)(C)\], in third sentence substituted “Subject to paragraph (2), if the Bureau” for “If the Bureau”.
 
-    [Pub. L. 104–134, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 809(c)(1)(D)\], in fourth sentence substituted “In awarding credit under this section, the Bureau shall consider whether the prisoner, during the relevant period, has earned, or is making satisfactory progress toward earning, a high school diploma or an equivalent degree.” for “The Bureau’s determination shall be made within fifteen days after the end of each year of the sentence.”
+    [Pub. L. 104–134][/us/pl/104/134], § 101\[(a)\] \[title VIII, § 809(c)(1)(D)\], in fourth sentence substituted “In awarding credit under this section, the Bureau shall consider whether the prisoner, during the relevant period, has earned, or is making satisfactory progress toward earning, a high school diploma or an equivalent degree.” for “The Bureau’s determination shall be made within fifteen days after the end of each year of the sentence.”
 
-    [Pub. L. 104–134, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 809(c)(1)(E)\], in sixth sentence substituted “Subject to paragraph (2), credit for the last” for “Credit for the last”.
+    [Pub. L. 104–134][/us/pl/104/134], § 101\[(a)\] \[title VIII, § 809(c)(1)(E)\], in sixth sentence substituted “Subject to paragraph (2), credit for the last” for “Credit for the last”.
 
-    Subsec. (b)(2). [Pub. L. 104–134, § 101][/us/pl/104/134/s101]\[(a)\] \[title VIII, § 809(c)(2)\], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Credit toward a prisoner’s service of sentence shall not be vested unless the prisoner has earned or is making satisfactory progress toward a high school diploma or an equivalent degree.”
+    Subsec. (b)(2). [Pub. L. 104–134][/us/pl/104/134], § 101\[(a)\] \[title VIII, § 809(c)(2)\], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Credit toward a prisoner’s service of sentence shall not be vested unless the prisoner has earned or is making satisfactory progress toward a high school diploma or an equivalent degree.”
 
     1995—Subsec. (f)(6). [Pub. L. 104–66][/us/pl/104/66] struck out par. (6) which read as follows: “A report shall be provided to Congress on an annual basis summarizing the results of this program, including the number of inmate participants, the number successfully completing the program, the number who do not successfully complete the program, and the reasons for failure to successfully complete the program.”
 
-    1994—Subsec. (a). [Pub. L. 103–322, § 20405(2)][/us/pl/103/322/s20405/2], substituted “the prisoner’s” for “his” after “the expiration of” and “toward the service of”.
+    1994—Subsec. (a). [Pub. L. 103–322][/us/pl/103/322], § 20405(2), substituted “the prisoner’s” for “his” after “the expiration of” and “toward the service of”.
 
-    Subsec. (b). [Pub. L. 103–322, § 20412(1)][/us/pl/103/322/s20412/1], (2), designated existing provisions as par. (1), substituted “Credit that has not been earned may not later be granted.” for “Such credit toward service of sentence vests at the time that it is received. Credit that has vested may not later be withdrawn, and credit that has not been earned may not later be granted.”, and added pars. (2) to (4).
+    Subsec. (b). [Pub. L. 103–322][/us/pl/103/322], § 20412(1), (2), designated existing provisions as par. (1), substituted “Credit that has not been earned may not later be granted.” for “Such credit toward service of sentence vests at the time that it is received. Credit that has vested may not later be withdrawn, and credit that has not been earned may not later be granted.”, and added pars. (2) to (4).
 
-    [Pub. L. 103–322, § 20405][/us/pl/103/322/s20405], inserted “(other than a prisoner serving a sentence for a crime of violence)” after “A prisoner” in first sentence, substituted “the prisoner” for “he” before “has not satisfactorily complied with” in first sentence and before “shall receive no such credit toward” in third sentence and “the prisoner’s” for “his” wherever appearing in first and third sentences, and inserted after first sentence “A prisoner who is serving a term of imprisonment of more than 1 year for a crime of violence, other than a term of imprisonment for the duration of the prisoner’s life, may receive credit toward the service of the prisoner’s sentence, beyond the time served, of up to 54 days at the end of each year of the prisoner’s term of imprisonment, beginning at the end of the first year of the term, subject to determination by the Bureau of Prisons that, during that year, the prisoner has displayed exemplary compliance with such institutional disciplinary regulations.”
+    [Pub. L. 103–322][/us/pl/103/322], § 20405, inserted “(other than a prisoner serving a sentence for a crime of violence)” after “A prisoner” in first sentence, substituted “the prisoner” for “he” before “has not satisfactorily complied with” in first sentence and before “shall receive no such credit toward” in third sentence and “the prisoner’s” for “his” wherever appearing in first and third sentences, and inserted after first sentence “A prisoner who is serving a term of imprisonment of more than 1 year for a crime of violence, other than a term of imprisonment for the duration of the prisoner’s life, may receive credit toward the service of the prisoner’s sentence, beyond the time served, of up to 54 days at the end of each year of the prisoner’s term of imprisonment, beginning at the end of the first year of the term, subject to determination by the Bureau of Prisons that, during that year, the prisoner has displayed exemplary compliance with such institutional disciplinary regulations.”
 
-    Subsec. (c). [Pub. L. 103–322, § 20405(2)][/us/pl/103/322/s20405/2], substituted “the prisoner’s re-entry” for “his re-entry”.
+    Subsec. (c). [Pub. L. 103–322][/us/pl/103/322], § 20405(2), substituted “the prisoner’s re-entry” for “his re-entry”.
 
-    Subsec. (d). [Pub. L. 103–322, § 20405(2)][/us/pl/103/322/s20405/2], (3), substituted “the prisoner” for “him” in introductory provisions and “the prisoner’s” for “his” wherever appearing in introductory provisions and par. (3).
+    Subsec. (d). [Pub. L. 103–322][/us/pl/103/322], § 20405(2), (3), substituted “the prisoner” for “him” in introductory provisions and “the prisoner’s” for “his” wherever appearing in introductory provisions and par. (3).
 
-    1990—Subsec. (c). [Pub. L. 101–647, § 2902(a)][/us/pl/101/647/s2902/a], inserted after first sentence “The authority provided by this subsection may be used to place a prisoner in home confinement.”
+    1990—Subsec. (c). [Pub. L. 101–647][/us/pl/101/647], § 2902(a), inserted after first sentence “The authority provided by this subsection may be used to place a prisoner in home confinement.”
 
-    Subsec. (f). [Pub. L. 101–647, § 2904][/us/pl/101/647/s2904], added subsec. (f).
+    Subsec. (f). [Pub. L. 101–647][/us/pl/101/647], § 2904, added subsec. (f).
 
-    1986—Subsec. (b). [Pub. L. 99–646, § 16(a)][/us/pl/99/646/s16/a], substituted “beginning at the end of” for “beginning after”.
+    1986—Subsec. (b). [Pub. L. 99–646][/us/pl/99/646], § 16(a), substituted “beginning at the end of” for “beginning after”.
 
-    Subsec. (e). [Pub. L. 99–646, § 17(a)][/us/pl/99/646/s17/a], substituted “imprisonment and runs concurrently” for “imprisonment. The term runs concurrently” and “supervised released. A term of supervised release does not run” for “supervised release, except that it does not run”, struck out “, other than during limited intervals as a condition of probation or supervised release,” after “person is imprisoned”, and inserted “unless the imprisonment is for a period of less than 30 consecutive days” before the period at end of third sentence.
+    Subsec. (e). [Pub. L. 99–646][/us/pl/99/646], § 17(a), substituted “imprisonment and runs concurrently” for “imprisonment. The term runs concurrently” and “supervised released. A term of supervised release does not run” for “supervised release, except that it does not run”, struck out “, other than during limited intervals as a condition of probation or supervised release,” after “person is imprisoned”, and inserted “unless the imprisonment is for a period of less than 30 consecutive days” before the period at end of third sentence.
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–647, title XXIX, § 2902(b)][/us/pl/101/647/s2902/b], Nov. 29, 1990, [104 Stat. 4913][/us/stat/104/4913], provided that: 
+[Pub. L. 101–647, title XXIX][/us/pl/101/647/tXXIX], § 2902(b), Nov. 29, 1990, [104 Stat. 4913][/us/stat/104/4913], provided that: 
 
 > “[Section 3624(c) of title 18][/us/usc/t18/s3624/c], United States Code, as amended by this section, shall apply with respect to all inmates, regardless of the date of their offense.”
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–646, § 16(b)][/us/pl/99/646/s16/b], Nov. 10, 1986, [100 Stat. 3595][/us/stat/100/3595], provided that: 
+[Pub. L. 99–646][/us/pl/99/646], § 16(b), Nov. 10, 1986, [100 Stat. 3595][/us/stat/100/3595], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the date of the taking effect of such section 3624 \[Nov. 1, 1987\].”
 
-[Pub. L. 99–646, § 17(b)][/us/pl/99/646/s17/b], Nov. 10, 1986, [100 Stat. 3595][/us/stat/100/3595], provided that: 
+[Pub. L. 99–646][/us/pl/99/646], § 17(b), Nov. 10, 1986, [100 Stat. 3595][/us/stat/100/3595], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the date of the taking effect of such section 3624 \[Nov. 1, 1987\].”
 
@@ -179,23 +179,23 @@
 ----------
 
 [/us/usc/t18/s3621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3621%2Fb
-[/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2008
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3595
-[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647/tXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXIX
 [/us/stat/104/4913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4913
-[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1825
-[/us/pl/104/66/s1091/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1091%2Fc
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F722
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/110/177/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2Fs505
+[/us/pl/110/177/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177%2FtV
 [/us/stat/121/2542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2542
-[/us/pl/110/199/s251/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2Fs251%2Fa
+[/us/pl/110/199/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199%2FtII
 [/us/stat/122/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F692
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
@@ -203,28 +203,28 @@
 [/us/usc/t18/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3601
 [/us/pl/110/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F199
 [/us/pl/110/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F177
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
-[/us/pl/103/322/s20405/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20405%2F2
-[/us/pl/103/322/s20412/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20412%2F1
-[/us/pl/103/322/s20405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20405
-[/us/pl/103/322/s20405/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20405%2F2
-[/us/pl/103/322/s20405/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20405%2F2
-[/us/pl/101/647/s2902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2902%2Fa
-[/us/pl/101/647/s2904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2904
-[/us/pl/99/646/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs16%2Fa
-[/us/pl/99/646/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs17%2Fa
-[/us/pl/101/647/s2902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2902%2Fb
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/101/647/tXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXIX
 [/us/stat/104/4913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4913
 [/us/usc/t18/s3624/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3624%2Fc
-[/us/pl/99/646/s16/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs16%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3595
-[/us/pl/99/646/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs17%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3595
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551

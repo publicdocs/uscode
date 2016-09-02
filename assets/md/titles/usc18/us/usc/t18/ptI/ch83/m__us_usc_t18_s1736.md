@@ -21,7 +21,7 @@
 
     (c) Subsections (a) and (b) of this section shall not preclude the use of any such information or evidence in a prosecution or other action under any applicable provision of law with respect to the furnishing of false information.
 
-(Added [Pub. L. 91–375, § 6(j)(37)(A)][/us/pl/91/375/s6/j/37/A], Aug. 12, 1970, [84 Stat. 781][/us/stat/84/781].)
+(Added [Pub. L. 91–375][/us/pl/91/375], § 6(j)(37)(A), Aug. 12, 1970, [84 Stat. 781][/us/stat/84/781].)
 
  __Effective Date__ 
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t39/s3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3010
 [/us/usc/t39/s3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3010
-[/us/pl/91/375/s6/j/37/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs6%2Fj%2F37%2FA
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F781
 [/us/pl/91/375/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs15%2Fb
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101

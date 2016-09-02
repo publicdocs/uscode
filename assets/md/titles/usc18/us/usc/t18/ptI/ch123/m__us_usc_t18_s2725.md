@@ -27,7 +27,7 @@
 
     (5) “express consent” means consent in writing, including consent conveyed electronically that bears an electronic signature as defined in [section 106(5) of Public Law 106–229][/us/pl/106/229/s106/5].
 
-(Added [Pub. L. 103–322, title XXX, § 300002(a)][/us/pl/103/322/s300002/a], Sept. 13, 1994, [108 Stat. 2102][/us/stat/108/2102]; amended [Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title III, § 309(b)\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–24.)
+(Added [Pub. L. 103–322, title XXX][/us/pl/103/322/tXXX], § 300002(a), Sept. 13, 1994, [108 Stat. 2102][/us/stat/108/2102]; amended [Pub. L. 106–346][/us/pl/106/346], § 101(a) \[title III, § 309(b)\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–24.)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/pl/106/229/s106/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2Fs106%2F5
-[/us/pl/103/322/s300002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs300002%2Fa
+[/us/pl/103/322/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXX
 [/us/stat/108/2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2102
-[/us/pl/106/346/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346%2Fs101%2Fa
+[/us/pl/106/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F346
 [/us/stat/114/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1356
 [/us/pl/106/229/s106/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2Fs106%2F5
 [/us/usc/t15/s7006/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7006%2F5

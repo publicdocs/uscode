@@ -45,7 +45,7 @@
 
     (f) As used in this section, “public officer or employee” means any officer or employee of the United States, any State, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, or any political subdivision, or any department, agency, or instrumentality thereof.
 
-(Added [Pub. L. 91–452, title I, § 101(a)][/us/pl/91/452/s101/a], Oct. 15, 1970, [84 Stat. 924][/us/stat/84/924].)
+(Added [Pub. L. 91–452, title I][/us/pl/91/452/tI], § 101(a), Oct. 15, 1970, [84 Stat. 924][/us/stat/84/924].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/91/452/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs101%2Fa
+[/us/pl/91/452/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtI
 [/us/stat/84/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F924
 
 

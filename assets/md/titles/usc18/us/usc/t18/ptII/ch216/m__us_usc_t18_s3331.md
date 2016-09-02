@@ -19,7 +19,7 @@
 
     (b) If a district court within any judicial circuit fails to extend the term of a special grand jury or enters an order for the discharge of such grand jury before such grand jury determines that it has completed its business, the grand jury, upon the affirmative vote of a majority of its members, may apply to the chief judge of the circuit for an order for the continuance of the term of the grand jury. Upon the making of such an application by the grand jury, the term thereof shall continue until the entry upon such application by the chief judge of the circuit of an appropriate order. No special grand jury term so extended shall exceed thirty-six months, except as provided in subsection (e) of section 3333 of this chapter.
 
-(Added [Pub. L. 91–452, title I, § 101(a)][/us/pl/91/452/s101/a], Oct. 15, 1970, [84 Stat. 923][/us/stat/84/923]; amended [Pub. L. 100–690, title VII, § 7020(d)][/us/pl/100/690/s7020/d], Nov. 18, 1988, [102 Stat. 4396][/us/stat/102/4396].)
+(Added [Pub. L. 91–452, title I][/us/pl/91/452/tI], § 101(a), Oct. 15, 1970, [84 Stat. 923][/us/stat/84/923]; amended [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7020(d), Nov. 18, 1988, [102 Stat. 4396][/us/stat/102/4396].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/91/452/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs101%2Fa
+[/us/pl/91/452/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtI
 [/us/stat/84/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F923
-[/us/pl/100/690/s7020/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7020%2Fd
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4396
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 

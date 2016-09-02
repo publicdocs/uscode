@@ -19,11 +19,11 @@
 
     (b) Whoever willfully causes an act to be done which if directly performed by him or another would be an offense against the United States, is punishable as a principal.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 684][/us/stat/62/684]; [Oct. 31, 1951, ch. 655, § 17b][/us/act/1951-10-31/ch655/s17b], [65 Stat. 717][/us/stat/65/717].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 684][/us/stat/62/684]; [Oct. 31, 1951, ch. 655][/us/act/1951-10-31/ch655], § 17b, [65 Stat. 717][/us/stat/65/717].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 550 ([Mar. 4, 1909, ch. 321, § 332][/us/act/1909-03-04/ch321/s332], [35 Stat. 1152][/us/stat/35/1152]).
+    Based on title 18, U.S.C., 1940 ed., § 550 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 332, [35 Stat. 1152][/us/stat/35/1152]).
 
     Section 2(a) comprises [section 550 of title 18][/us/usc/t18/s550], U.S.C., 1940 ed., without change except in minor matters of phraseology.
 
@@ -50,9 +50,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F684
-[/us/act/1951-10-31/ch655/s17b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs17b
+[/us/act/1951-10-31/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655
 [/us/stat/65/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F717
-[/us/act/1909-03-04/ch321/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs332
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1152
 [/us/usc/t18/s550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs550
 

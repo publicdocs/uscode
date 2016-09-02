@@ -21,11 +21,11 @@
 
     The rates to be paid for the care and custody of said persons shall take into consideration the character of the quarters furnished, sanitary conditions, and quality of subsistence and may be such as will permit and encourage the proper authorities to provide reasonably decent, sanitary, and healthful quarters and subsistence for such persons.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 847][/us/stat/62/847]; [Pub. L. 95–624, § 8][/us/pl/95/624/s8], Nov. 9, 1978, [92 Stat. 3463][/us/stat/92/3463].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 847][/us/stat/62/847]; [Pub. L. 95–624][/us/pl/95/624], § 8, Nov. 9, 1978, [92 Stat. 3463][/us/stat/92/3463].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., § 753b, ([May 14, 1930, ch. 274, § 3][/us/act/1930-05-14/ch274/s3], [46 Stat. 325][/us/stat/46/325]).
+    Based on title 18, U.S.C., 1940 ed., § 753b, ([May 14, 1930, ch. 274][/us/act/1930-05-14/ch274], § 3, [46 Stat. 325][/us/stat/46/325]).
 
     Changes were made in phraseology. The first sentence was incorporated in [section 4042 of this title][/us/usc/t18/s4042].
 
@@ -42,9 +42,9 @@
 
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F847
-[/us/pl/95/624/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F624%2Fs8
+[/us/pl/95/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F624
 [/us/stat/92/3463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3463
-[/us/act/1930-05-14/ch274/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch274%2Fs3
+[/us/act/1930-05-14/ch274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch274
 [/us/stat/46/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F325
 [/us/usc/t18/s4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4042
 [/us/pl/95/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F624

@@ -17,7 +17,7 @@
 
     Whoever, being an officer or employee of the United States charged with the responsibility for making the reports of the immediate superior specified by [section 8120 of title 5][/us/usc/t5/s8120], willfully fails, neglects, or refuses to make any of the reports, or knowingly files a false report, or induces, compels, or directs an injured employee to forego filing of any claim for compensation or other benefits provided under subchapter I of chapter 81 of title 5 or any extension or application thereof, or willfully retains any notice, report, claim, or paper which is required to be filed under that subchapter or any extension or application thereof, or regulations prescribed thereunder, shall be fined under this title or imprisoned not more than one year, or both.
 
-(Added [Pub. L. 89–554, § 3(d)][/us/pl/89/554/s3/d], Sept. 6, 1966, [80 Stat. 610][/us/stat/80/610]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(G)][/us/pl/103/322/s330016/1/G], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 3(d), Sept. 6, 1966, [80 Stat. 610][/us/stat/80/610]; amended [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(G), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
 <table>
 
@@ -85,9 +85,9 @@ Sept. 13, 1960, Pub. L. 86–767, § 206, 74 Stat. 908.  </td>
 ----------
 
 [/us/usc/t5/s8120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8120
-[/us/pl/89/554/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs3%2Fd
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F610
-[/us/pl/103/322/s330016/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FG
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
 [/us/usc/t5/s8120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8120
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1

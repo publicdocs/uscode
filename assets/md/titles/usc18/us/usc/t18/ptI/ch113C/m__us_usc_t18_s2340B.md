@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed as precluding the application of State or local laws on the same subject, nor shall anything in this chapter be construed as creating any substantive or procedural right enforceable by law by any party in any civil proceeding.
 
-(Added [Pub. L. 103–236, title V, § 506(a)][/us/pl/103/236/s506/a], Apr. 30, 1994, [108 Stat. 464][/us/stat/108/464].)
+(Added [Pub. L. 103–236, title V][/us/pl/103/236/tV], § 506(a), Apr. 30, 1994, [108 Stat. 464][/us/stat/108/464].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/236/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs506%2Fa
+[/us/pl/103/236/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2FtV
 [/us/stat/108/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F464
 
 

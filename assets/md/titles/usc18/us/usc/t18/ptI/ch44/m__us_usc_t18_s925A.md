@@ -23,7 +23,7 @@
 
     may bring an action against the State or political subdivision responsible for providing the erroneous information, or responsible for denying the transfer, or against the United States, as the case may be, for an order directing that the erroneous information be corrected or that the transfer be approved, as the case may be. In any action under this section, the court, in its discretion, may allow the prevailing party a reasonable attorney’s fee as part of the costs.
 
-(Added [Pub. L. 103–159, title I, § 104(a)][/us/pl/103/159/s104/a], Nov. 30, 1993, [107 Stat. 1543][/us/stat/107/1543].)
+(Added [Pub. L. 103–159, title I][/us/pl/103/159/tI], § 104(a), Nov. 30, 1993, [107 Stat. 1543][/us/stat/107/1543].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/103/159/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2Fs104%2Fa
+[/us/pl/103/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2FtI
 [/us/stat/107/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1543
 [/us/pl/103/159/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2Fs103
 [/us/usc/t18/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922

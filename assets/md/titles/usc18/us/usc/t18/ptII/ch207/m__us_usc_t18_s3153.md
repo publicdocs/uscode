@@ -43,7 +43,7 @@
 
         (3) Information made confidential under paragraph (1) of this subsection is not admissible on the issue of guilt in a criminal judicial proceeding unless such proceeding is a prosecution for a crime committed in the course of obtaining pretrial release or a prosecution for failure to appear for the criminal judicial proceeding with respect to which pretrial services were provided.
 
-(Added [Pub. L. 93–619, title II, § 201][/us/pl/93/619/s201], Jan. 3, 1975, [88 Stat. 2086][/us/stat/88/2086]; amended [Pub. L. 97–287, § 3][/us/pl/97/287/s3], Sept. 27, 1982, [96 Stat. 1136][/us/stat/96/1136].)
+(Added [Pub. L. 93–619, title II][/us/pl/93/619/tII], § 201, Jan. 3, 1975, [88 Stat. 2086][/us/stat/88/2086]; amended [Pub. L. 97–287][/us/pl/97/287], § 3, Sept. 27, 1982, [96 Stat. 1136][/us/stat/96/1136].)
 
  __Amendments__ 
 
@@ -66,9 +66,9 @@
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t18/s3152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3152%2Fa
 [/us/usc/t18/s3154/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3154%2F4
-[/us/pl/93/619/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2Fs201
+[/us/pl/93/619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F619%2FtII
 [/us/stat/88/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2086
-[/us/pl/97/287/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F287%2Fs3
+[/us/pl/97/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F287
 [/us/stat/96/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1136
 [/us/pl/97/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F267
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

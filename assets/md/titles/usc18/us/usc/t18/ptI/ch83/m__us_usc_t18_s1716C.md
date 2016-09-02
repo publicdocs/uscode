@@ -17,7 +17,7 @@
 
     Whoever forges or counterfeits any certification authorized under any rules or regulations prescribed under [section 3014(c) of title 39][/us/usc/t39/s3014/c] with intent to make it appear that such is a genuine certification, or makes or knowingly uses or sells, or possesses with intent to use or sell, any forged or counterfeited certification so authorized, or device for imprinting any such certification, shall be fined under this title, or imprisoned not more than one year, or both.
 
-(Added [Pub. L. 100–574, § 2(a)][/us/pl/100/574/s2/a], Oct. 31, 1988, [102 Stat. 2893][/us/stat/102/2893].)
+(Added [Pub. L. 100–574][/us/pl/100/574], § 2(a), Oct. 31, 1988, [102 Stat. 2893][/us/stat/102/2893].)
 
  __Effective Date__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t39/s3014/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3014%2Fc
-[/us/pl/100/574/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F574%2Fs2%2Fa
+[/us/pl/100/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F574
 [/us/stat/102/2893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2893
 [/us/pl/100/574/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F574%2Fs4
 [/us/usc/t39/s3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3014

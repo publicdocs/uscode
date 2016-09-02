@@ -27,7 +27,7 @@
 
         (2) To the extent practicable, in a hearing held pursuant to this section involving a defendant who is confined in any jail, prison, or other correctional facility, proceedings in which the prisoner’s participation is required or permitted shall be conducted by telephone, video conference, or other communications technology without removing the prisoner from the facility in which the prisoner is confined.
 
-(Added [Pub. L. 104–132, title II, § 207(c)(4)][/us/pl/104/132/s207/c/4], Apr. 24, 1996, [110 Stat. 1239][/us/stat/110/1239].)
+(Added [Pub. L. 104–132, title II][/us/pl/104/132/tII], § 207(c)(4), Apr. 24, 1996, [110 Stat. 1239][/us/stat/110/1239].)
 
  __Effective Date__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/104/132/s207/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs207%2Fc%2F4
+[/us/pl/104/132/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtII
 [/us/stat/110/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1239
 [/us/pl/104/132/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs211
 [/us/usc/t18/s2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2248

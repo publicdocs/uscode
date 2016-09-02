@@ -23,11 +23,11 @@
 
     is guilty of perjury and shall, except as otherwise expressly provided by law, be fined under this title or imprisoned not more than five years, or both. This section is applicable whether the statement or subscription is made within or without the United States.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 773][/us/stat/62/773]; [Pub. L. 88–619, § 1][/us/pl/88/619/s1], Oct. 3, 1964, [78 Stat. 995][/us/stat/78/995]; [Pub. L. 94–550, § 2][/us/pl/94/550/s2], Oct. 18, 1976, [90 Stat. 2534][/us/stat/90/2534]; [Pub. L. 103–322, title XXXIII, § 330016(1)(I)][/us/pl/103/322/s330016/1/I], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 773][/us/stat/62/773]; [Pub. L. 88–619][/us/pl/88/619], § 1, Oct. 3, 1964, [78 Stat. 995][/us/stat/78/995]; [Pub. L. 94–550][/us/pl/94/550], § 2, Oct. 18, 1976, [90 Stat. 2534][/us/stat/90/2534]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322/tXXXIII], § 330016(1)(I), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 18, U.S.C., 1940 ed., §§ 231, 629 ([Mar. 4, 1909, ch. 321, § 125][/us/act/1909-03-04/ch321/s125], [35 Stat. 1111][/us/stat/35/1111]; [June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title XI, § 19, [40 Stat. 230][/us/stat/40/230]).
+    Based on title 18, U.S.C., 1940 ed., §§ 231, 629 ([Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321], § 125, [35 Stat. 1111][/us/stat/35/1111]; [June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], title XI, § 19, [40 Stat. 230][/us/stat/40/230]).
 
     Words “except as otherwise expressly provided by law” were inserted to avoid conflict with perjury provisions in other titles where the punishment and application vary.
 
@@ -55,13 +55,13 @@
 [/us/usc/t28/s1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1746
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F773
-[/us/pl/88/619/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F619%2Fs1
+[/us/pl/88/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F619
 [/us/stat/78/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F995
-[/us/pl/94/550/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F550%2Fs2
+[/us/pl/94/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F550
 [/us/stat/90/2534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2534
-[/us/pl/103/322/s330016/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FI
+[/us/pl/103/322/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXIII
 [/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
-[/us/act/1909-03-04/ch321/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321%2Fs125
+[/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/stat/35/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F1111
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
 [/us/stat/40/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F230

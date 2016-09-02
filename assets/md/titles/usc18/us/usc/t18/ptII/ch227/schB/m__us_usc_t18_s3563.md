@@ -107,7 +107,7 @@
 
     The results of a drug test administered in accordance with subsection (a)(5) shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual’s current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with subsection (a)(5).
 
-(Added [Pub. L. 98–473, title II, § 212(a)(2)][/us/pl/98/473/s212/a/2], Oct. 12, 1984, [98 Stat. 1993][/us/stat/98/1993]; amended [Pub. L. 99–646][/us/pl/99/646], §§ 11(a), 12(a), Nov. 10, 1986, [100 Stat. 3594][/us/stat/100/3594]; [Pub. L. 100–182][/us/pl/100/182], §§ 10, 18, Dec. 7, 1987, [101 Stat. 1267][/us/stat/101/1267], 1270; [Pub. L. 100–690, title VII][/us/pl/100/690], §§ 7086, 7110, 7303(a)(1), 7305(a), Nov. 18, 1988, [102 Stat. 4408][/us/stat/102/4408], 4419, 4464, 4465; [Pub. L. 101–647, title XXXV, § 3584][/us/pl/101/647/s3584], Nov. 29, 1990, [104 Stat. 4930][/us/stat/104/4930]; [Pub. L. 102–521, § 3][/us/pl/102/521/s3], Oct. 25, 1992, [106 Stat. 3404][/us/stat/106/3404]; [Pub. L. 103–322, title II, § 20414(b)][/us/pl/103/322/s20414/b], title XXVIII, § 280002, title XXXII, § 320921(b), Sept. 13, 1994, [108 Stat. 1830][/us/stat/108/1830], 2096, 2130; [Pub. L. 104–132, title II, § 203][/us/pl/104/132/s203], Apr. 24, 1996, [110 Stat. 1227][/us/stat/110/1227]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208], §§ 308(g)(10)(E), 374(b), Sept. 30, 1996, [110 Stat. 3009–625][/us/stat/110/3009-625], 3009–647; [Pub. L. 104–294, title VI, § 601(k)][/us/pl/104/294/s601/k], Oct. 11, 1996, [110 Stat. 3501][/us/stat/110/3501]; [Pub. L. 105–119, title I, § 115(a)(8)(B)(i)][/us/pl/105/119/s115/a/8/B/i]–(iii), Nov. 26, 1997, [111 Stat. 2465][/us/stat/111/2465]; [Pub. L. 106–546, § 7(a)][/us/pl/106/546/s7/a], Dec. 19, 2000, [114 Stat. 2734][/us/stat/114/2734]; [Pub. L. 107–273, div. B, title IV, § 4002(c)(1)][/us/pl/107/273/s4002/c/1], (e)(12), Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808], 1811; [Pub. L. 109–248, title I, § 141(d)][/us/pl/109/248/s141/d], title II, § 210(a), July 27, 2006, [120 Stat. 603][/us/stat/120/603], 615; [Pub. L. 110–406, § 14(a)][/us/pl/110/406/s14/a], (c), Oct. 13, 2008, [122 Stat. 4294][/us/stat/122/4294].)
+(Added [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 212(a)(2), Oct. 12, 1984, [98 Stat. 1993][/us/stat/98/1993]; amended [Pub. L. 99–646][/us/pl/99/646], §§ 11(a), 12(a), Nov. 10, 1986, [100 Stat. 3594][/us/stat/100/3594]; [Pub. L. 100–182][/us/pl/100/182], §§ 10, 18, Dec. 7, 1987, [101 Stat. 1267][/us/stat/101/1267], 1270; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], §§ 7086, 7110, 7303(a)(1), 7305(a), Nov. 18, 1988, [102 Stat. 4408][/us/stat/102/4408], 4419, 4464, 4465; [Pub. L. 101–647, title XXXV][/us/pl/101/647/tXXXV], § 3584, Nov. 29, 1990, [104 Stat. 4930][/us/stat/104/4930]; [Pub. L. 102–521][/us/pl/102/521], § 3, Oct. 25, 1992, [106 Stat. 3404][/us/stat/106/3404]; [Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20414(b), title XXVIII, § 280002, title XXXII, § 320921(b), Sept. 13, 1994, [108 Stat. 1830][/us/stat/108/1830], 2096, 2130; [Pub. L. 104–132, title II][/us/pl/104/132/tII], § 203, Apr. 24, 1996, [110 Stat. 1227][/us/stat/110/1227]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208/dC/tIII], §§ 308(g)(10)(E), 374(b), Sept. 30, 1996, [110 Stat. 3009–625][/us/stat/110/3009-625], 3009–647; [Pub. L. 104–294, title VI][/us/pl/104/294/tVI], § 601(k), Oct. 11, 1996, [110 Stat. 3501][/us/stat/110/3501]; [Pub. L. 105–119, title I][/us/pl/105/119/tI], § 115(a)(8)(B)(i)–(iii), Nov. 26, 1997, [111 Stat. 2465][/us/stat/111/2465]; [Pub. L. 106–546][/us/pl/106/546], § 7(a), Dec. 19, 2000, [114 Stat. 2734][/us/stat/114/2734]; [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(c)(1), (e)(12), Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808], 1811; [Pub. L. 109–248, title I][/us/pl/109/248/tI], § 141(d), title II, § 210(a), July 27, 2006, [120 Stat. 603][/us/stat/120/603], 615; [Pub. L. 110–406][/us/pl/110/406], § 14(a), (c), Oct. 13, 2008, [122 Stat. 4294][/us/stat/122/4294].)
 
  __References in Text__ 
 
@@ -125,101 +125,101 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(2). [Pub. L. 110–406, § 14(a)][/us/pl/110/406/s14/a], substituted “(b)(2) or (b)(12), unless the court has imposed a fine under this chapter, or” for “(b)(2), (b)(3), or (b)(13),”.
+    2008—Subsec. (a)(2). [Pub. L. 110–406][/us/pl/110/406], § 14(a), substituted “(b)(2) or (b)(12), unless the court has imposed a fine under this chapter, or” for “(b)(2), (b)(3), or (b)(13),”.
 
-    Subsec. (b)(10). [Pub. L. 110–406, § 14(c)][/us/pl/110/406/s14/c], inserted “or supervised release” after “probation”.
+    Subsec. (b)(10). [Pub. L. 110–406][/us/pl/110/406], § 14(c), inserted “or supervised release” after “probation”.
 
-    2006—Subsec. (a)(8). [Pub. L. 109–248, § 141(d)][/us/pl/109/248/s141/d], amended par. (8) generally. Prior to amendment, par. (8) read as follows: “for a person described in section 4042(c)(4), that the person report the address where the person will reside and any subsequent change of residence to the probation officer responsible for supervision, and that the person register in any State where the person resides, is employed, carries on a vocation, or is a student (as such terms are defined under section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994); and”.
+    2006—Subsec. (a)(8). [Pub. L. 109–248][/us/pl/109/248], § 141(d), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “for a person described in section 4042(c)(4), that the person report the address where the person will reside and any subsequent change of residence to the probation officer responsible for supervision, and that the person register in any State where the person resides, is employed, carries on a vocation, or is a student (as such terms are defined under section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994); and”.
 
-    Subsec. (b)(21). [Pub. L. 109–248, § 210(a)(1)][/us/pl/109/248/s210/a/1], which directed amendment of par. (21) by striking “or”, was executed by striking “or” at the end of the par. to reflect the probable intent of Congress.
+    Subsec. (b)(21). [Pub. L. 109–248][/us/pl/109/248], § 210(a)(1), which directed amendment of par. (21) by striking “or”, was executed by striking “or” at the end of the par. to reflect the probable intent of Congress.
 
-    Subsec. (b)(22). [Pub. L. 109–248, § 210(a)(2)][/us/pl/109/248/s210/a/2], substituted “or;” for period at end.
+    Subsec. (b)(22). [Pub. L. 109–248][/us/pl/109/248], § 210(a)(2), substituted “or;” for period at end.
 
-    Subsec. (b)(23). [Pub. L. 109–248, § 210(a)(3)][/us/pl/109/248/s210/a/3], added par. (23).
+    Subsec. (b)(23). [Pub. L. 109–248][/us/pl/109/248], § 210(a)(3), added par. (23).
 
-    2002—Subsec. (a). [Pub. L. 107–273, § 4002(e)(12)(A)][/us/pl/107/273/s4002/e/12/A], made technical correction to directory language of [Pub. L. 105–119, § 115(a)(8)(B)(i)][/us/pl/105/119/s115/a/8/B/i]. See 1997 Amendment note below.
+    2002—Subsec. (a). [Pub. L. 107–273][/us/pl/107/273], § 4002(e)(12)(A), made technical correction to directory language of [Pub. L. 105–119][/us/pl/105/119], § 115(a)(8)(B)(i). See 1997 Amendment note below.
 
-    Subsec. (a)(3) to (5). [Pub. L. 107–273, § 4002(c)(1)][/us/pl/107/273/s4002/c/1], repealed [Pub. L. 104–294, § 601(k)(1)][/us/pl/104/294/s601/k/1], (2). See 1996 Amendment notes below.
+    Subsec. (a)(3) to (5). [Pub. L. 107–273][/us/pl/107/273], § 4002(c)(1), repealed [Pub. L. 104–294][/us/pl/104/294], § 601(k)(1), (2). See 1996 Amendment notes below.
 
-    Subsec. (e). [Pub. L. 107–273, § 4002(e)(12)(B)][/us/pl/107/273/s4002/e/12/B], made technical correction to directory language of [Pub. L. 107–273, § 115(a)(8)(B)(ii)][/us/pl/107/273/s115/a/8/B/ii]. See 1997 Amendment note below.
+    Subsec. (e). [Pub. L. 107–273][/us/pl/107/273], § 4002(e)(12)(B), made technical correction to directory language of [Pub. L. 107–273][/us/pl/107/273], § 115(a)(8)(B)(ii). See 1997 Amendment note below.
 
     2000—Subsec. (a)(9). [Pub. L. 106–546][/us/pl/106/546] added par. (9).
 
-    1997—Subsec. (a). [Pub. L. 105–119, § 115(a)(8)(B)(i)][/us/pl/105/119/s115/a/8/B/i], as amended by [Pub. L. 107–273, § 4002(e)(12)(A)][/us/pl/107/273/s4002/e/12/A], struck out at end “The results of a drug test administered in accordance with paragraph (4) shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual’s current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with paragraph (4).” and inserted these provisions at the end of this section.
+    1997—Subsec. (a). [Pub. L. 105–119][/us/pl/105/119], § 115(a)(8)(B)(i), as amended by [Pub. L. 107–273][/us/pl/107/273], § 4002(e)(12)(A), struck out at end “The results of a drug test administered in accordance with paragraph (4) shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual’s current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with paragraph (4).” and inserted these provisions at the end of this section.
 
-    Subsec. (a)(6), (7). [Pub. L. 105–119, § 115(a)(8)(B)(iii)(I)][/us/pl/105/119/s115/a/8/B/iii/I], made technical amendment to place pars. (6) and (7) in numerical order immediately after par. (5).
+    Subsec. (a)(6), (7). [Pub. L. 105–119][/us/pl/105/119], § 115(a)(8)(B)(iii)(I), made technical amendment to place pars. (6) and (7) in numerical order immediately after par. (5).
 
-    Subsec. (a)(8). [Pub. L. 105–119, § 115(a)(8)(B)(iii)(II)][/us/pl/105/119/s115/a/8/B/iii/II]– (IV), added par. (8).
+    Subsec. (a)(8). [Pub. L. 105–119][/us/pl/105/119], § 115(a)(8)(B)(iii)(II)– (IV), added par. (8).
 
-    Subsec. (e). [Pub. L. 105–119, § 115(a)(8)(B)(ii)][/us/pl/105/119/s115/a/8/B/ii], as amended by [Pub. L. 107–273, § 4002(e)(12)(B)][/us/pl/107/273/s4002/e/12/B], designated provisions which were struck out from the concluding provisions of subsec. (a) and inserted at the end of this section by [Pub. L. 105–119, § 115(a)(8)(B)(i)][/us/pl/105/119/s115/a/8/B/i], as amended, as subsec. (e), inserted subsec. heading, and substituted “subsection (a)(5)” for “paragraph (4)” in two places.
+    Subsec. (e). [Pub. L. 105–119][/us/pl/105/119], § 115(a)(8)(B)(ii), as amended by [Pub. L. 107–273][/us/pl/107/273], § 4002(e)(12)(B), designated provisions which were struck out from the concluding provisions of subsec. (a) and inserted at the end of this section by [Pub. L. 105–119][/us/pl/105/119], § 115(a)(8)(B)(i), as amended, as subsec. (e), inserted subsec. heading, and substituted “subsection (a)(5)” for “paragraph (4)” in two places.
 
-    1996—Subsec. (a)(3). [Pub. L. 104–294, § 601(k)(2)(A)][/us/pl/104/294/s601/k/2/A], which could not be executed due to prior amendment by [Pub. L. 104–132, § 203(1)(A)][/us/pl/104/132/s203/1/A], was repealed by [Pub. L. 107–273, § 4002(c)(1)][/us/pl/107/273/s4002/c/1]. See below.
+    1996—Subsec. (a)(3). [Pub. L. 104–294][/us/pl/104/294], § 601(k)(2)(A), which could not be executed due to prior amendment by [Pub. L. 104–132][/us/pl/104/132], § 203(1)(A), was repealed by [Pub. L. 107–273][/us/pl/107/273], § 4002(c)(1). See below.
 
-    [Pub. L. 104–132, § 203(1)(A)][/us/pl/104/132/s203/1/A], struck out “and” at end of par. (3).
+    [Pub. L. 104–132][/us/pl/104/132], § 203(1)(A), struck out “and” at end of par. (3).
 
-    Subsec. (a)(4), (5). [Pub. L. 104–294, § 601(k)(3)][/us/pl/104/294/s601/k/3], transferred pars. (4) and (5) to appear in numerical order.
+    Subsec. (a)(4), (5). [Pub. L. 104–294][/us/pl/104/294], § 601(k)(3), transferred pars. (4) and (5) to appear in numerical order.
 
-    [Pub. L. 104–294, § 601(k)(1)][/us/pl/104/294/s601/k/1], (2)(B), which could not be executed due to prior amendment by [Pub. L. 104–132, § 203(1)(B)][/us/pl/104/132/s203/1/B]–(D), was repealed by [Pub. L. 107–273, § 4002(c)(1)][/us/pl/107/273/s4002/c/1]. See below.
+    [Pub. L. 104–294][/us/pl/104/294], § 601(k)(1), (2)(B), which could not be executed due to prior amendment by [Pub. L. 104–132][/us/pl/104/132], § 203(1)(B)–(D), was repealed by [Pub. L. 107–273][/us/pl/107/273], § 4002(c)(1). See below.
 
-    [Pub. L. 104–132, § 203(1)(B)][/us/pl/104/132/s203/1/B]–(D), redesignated second par. (4), relating to conditions of probation concerning drug use and testing, as (5), and substituted semicolon for period at end of pars. (4) and (5).
+    [Pub. L. 104–132][/us/pl/104/132], § 203(1)(B)–(D), redesignated second par. (4), relating to conditions of probation concerning drug use and testing, as (5), and substituted semicolon for period at end of pars. (4) and (5).
 
-    Subsec. (a)(6), (7). [Pub. L. 104–132, § 203(1)(E)][/us/pl/104/132/s203/1/E], added pars. (6) and (7).
+    Subsec. (a)(6), (7). [Pub. L. 104–132][/us/pl/104/132], § 203(1)(E), added pars. (6) and (7).
 
-    Subsec. (b)(2). [Pub. L. 104–132, § 203(2)(C)][/us/pl/104/132/s203/2/C], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “make restitution to a victim of the offense under sections 3663 and 3664 (but not subject to the limitations of section 3663(a));”.
+    Subsec. (b)(2). [Pub. L. 104–132][/us/pl/104/132], § 203(2)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “make restitution to a victim of the offense under sections 3663 and 3664 (but not subject to the limitations of section 3663(a));”.
 
-    [Pub. L. 104–132, § 203(2)(A)][/us/pl/104/132/s203/2/A], (B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “pay a fine imposed pursuant to the provisions of subchapter C;”.
+    [Pub. L. 104–132][/us/pl/104/132], § 203(2)(A), (B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “pay a fine imposed pursuant to the provisions of subchapter C;”.
 
-    Subsec. (b)(3) to (20). [Pub. L. 104–132, § 203(2)(B)][/us/pl/104/132/s203/2/B], redesignated pars. (4) to (21) as (3) to (20), respectively. Former par. (3) redesignated (2).
+    Subsec. (b)(3) to (20). [Pub. L. 104–132][/us/pl/104/132], § 203(2)(B), redesignated pars. (4) to (21) as (3) to (20), respectively. Former par. (3) redesignated (2).
 
-    Subsec. (b)(21). [Pub. L. 104–208, § 374(b)][/us/pl/104/208/s374/b], added par. (21). Former par. (21) redesignated (22).
+    Subsec. (b)(21). [Pub. L. 104–208][/us/pl/104/208], § 374(b), added par. (21). Former par. (21) redesignated (22).
 
-    [Pub. L. 104–208, § 308(g)(10)(E)][/us/pl/104/208/s308/g/10/E], substituted “238(d)(5)” for “242A(d)(5)”.
+    [Pub. L. 104–208][/us/pl/104/208], § 308(g)(10)(E), substituted “238(d)(5)” for “242A(d)(5)”.
 
-    [Pub. L. 104–132, § 203(2)(B)][/us/pl/104/132/s203/2/B], redesignated par. (22) as (21). Former par. (21) redesignated (20).
+    [Pub. L. 104–132][/us/pl/104/132], § 203(2)(B), redesignated par. (22) as (21). Former par. (21) redesignated (20).
 
-    Subsec. (b)(22). [Pub. L. 104–208, § 374(b)][/us/pl/104/208/s374/b], redesignated par. (21) as (22).
+    Subsec. (b)(22). [Pub. L. 104–208][/us/pl/104/208], § 374(b), redesignated par. (21) as (22).
 
-    [Pub. L. 104–132, § 203(b)(2)][/us/pl/104/132/s203/b/2], redesignated par. (22) as (21).
+    [Pub. L. 104–132][/us/pl/104/132], § 203(b)(2), redesignated par. (22) as (21).
 
-    1994—Subsec. (a). [Pub. L. 103–322, § 20414(b)(4)][/us/pl/103/322/s20414/b/4], inserted at end of concluding provisions “The results of a drug test administered in accordance with paragraph (4) shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual’s current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with paragraph (4).”
+    1994—Subsec. (a). [Pub. L. 103–322][/us/pl/103/322], § 20414(b)(4), inserted at end of concluding provisions “The results of a drug test administered in accordance with paragraph (4) shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual’s current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with paragraph (4).”
 
     Subsec. (a)(2). [Pub. L. 103–322][/us/pl/103/322], §§ 20414(b)(1), 320921(b)(1), amended par. (2) identically, striking out “and” at end.
 
-    Subsec. (a)(3). [Pub. L. 103–322, § 280002][/us/pl/103/322/s280002], substituted “unlawfully possess a controlled substance” for “possess illegal controlled substances”.
+    Subsec. (a)(3). [Pub. L. 103–322][/us/pl/103/322], § 280002, substituted “unlawfully possess a controlled substance” for “possess illegal controlled substances”.
 
     [Pub. L. 103–322][/us/pl/103/322], §§ 20414(b)(2), 320921(b)(2), amended par. (3) identically, substituting “; and” for period at end.
 
-    Subsec. (a)(4). [Pub. L. 103–322, § 320921(b)(3)][/us/pl/103/322/s320921/b/3], added par. (4) relating to attendance at a rehabilitation program in the case of conviction of a domestic violence crime.
+    Subsec. (a)(4). [Pub. L. 103–322][/us/pl/103/322], § 320921(b)(3), added par. (4) relating to attendance at a rehabilitation program in the case of conviction of a domestic violence crime.
 
-    [Pub. L. 103–322, § 20414(b)(3)][/us/pl/103/322/s20414/b/3], added at end of subsec. (a) par. (4) relating to conditions of probation concerning drug use and testing.
+    [Pub. L. 103–322][/us/pl/103/322], § 20414(b)(3), added at end of subsec. (a) par. (4) relating to conditions of probation concerning drug use and testing.
 
     1992—Subsec. (b)(21), (22). [Pub. L. 102–521][/us/pl/102/521] added par. (21) and redesignated former par. (21) as (22).
 
-    1990—Subsec. (a). [Pub. L. 101–647, § 3584(1)][/us/pl/101/647/s3584/1], substituted “defendant” for “defendent” in last sentence.
+    1990—Subsec. (a). [Pub. L. 101–647][/us/pl/101/647], § 3584(1), substituted “defendant” for “defendent” in last sentence.
 
-    Subsec. (b)(3). [Pub. L. 101–647, § 3584(2)][/us/pl/101/647/s3584/2], substituted “under sections 3663 and 3664” for “pursuant to the provisions of section 3663 and 3664” and “section 3663(a)” for “3663(a)”.
+    Subsec. (b)(3). [Pub. L. 101–647][/us/pl/101/647], § 3584(2), substituted “under sections 3663 and 3664” for “pursuant to the provisions of section 3663 and 3664” and “section 3663(a)” for “3663(a)”.
 
-    1988—Subsec. (a)(2). [Pub. L. 100–690, § 7086][/us/pl/100/690/s7086], inserted “, unless the court finds on the record that extraordinary circumstances exist that would make such a condition plainly unreasonable, in which event the court shall impose one or more of the other conditions set forth under subsection (b)”.
+    1988—Subsec. (a)(2). [Pub. L. 100–690][/us/pl/100/690], § 7086, inserted “, unless the court finds on the record that extraordinary circumstances exist that would make such a condition plainly unreasonable, in which event the court shall impose one or more of the other conditions set forth under subsection (b)”.
 
-    Subsec. (a)(3). [Pub. L. 100–690, § 7303(a)(1)][/us/pl/100/690/s7303/a/1], added par. (3).
+    Subsec. (a)(3). [Pub. L. 100–690][/us/pl/100/690], § 7303(a)(1), added par. (3).
 
-    Subsec. (b)(3). [Pub. L. 100–690, § 7110][/us/pl/100/690/s7110], substituted “3663 and 3664 (but not subject to the limitations of 3663(a))” for “3556”.
+    Subsec. (b)(3). [Pub. L. 100–690][/us/pl/100/690], § 7110, substituted “3663 and 3664 (but not subject to the limitations of 3663(a))” for “3556”.
 
-    Subsec. (b)(20), (21). [Pub. L. 100–690, § 7305(a)][/us/pl/100/690/s7305/a], added par. (20) and redesignated former par. (20) as (21).
+    Subsec. (b)(20), (21). [Pub. L. 100–690][/us/pl/100/690], § 7305(a), added par. (20) and redesignated former par. (20) as (21).
 
-    1987—Subsec. (b)(12). [Pub. L. 100–182, § 18][/us/pl/100/182/s18], inserted “(including a facility maintained or under contract to the Bureau of Prisons)” after “facility”.
+    1987—Subsec. (b)(12). [Pub. L. 100–182][/us/pl/100/182], § 18, inserted “(including a facility maintained or under contract to the Bureau of Prisons)” after “facility”.
 
-    Subsec. (c). [Pub. L. 100–182, § 10][/us/pl/100/182/s10], struck out comma after “The court may” and substituted “the modification of probation and” for “revocation or modification of probation”.
+    Subsec. (c). [Pub. L. 100–182][/us/pl/100/182], § 10, struck out comma after “The court may” and substituted “the modification of probation and” for “revocation or modification of probation”.
 
-    1986—Subsec. (b)(11). [Pub. L. 99–646, § 11(a)][/us/pl/99/646/s11/a], struck out “in section 3581(b)” after “the offense”.
+    1986—Subsec. (b)(11). [Pub. L. 99–646][/us/pl/99/646], § 11(a), struck out “in section 3581(b)” after “the offense”.
 
-    Subsec. (c). [Pub. L. 99–646, § 12(a)][/us/pl/99/646/s12/a], struck out “, after a hearing” after “court may” and inserted “the provisions of the Federal Rules of Criminal Procedure relating to revocation or modification of probation” after “pursuant to”.
+    Subsec. (c). [Pub. L. 99–646][/us/pl/99/646], § 12(a), struck out “, after a hearing” after “court may” and inserted “the provisions of the Federal Rules of Criminal Procedure relating to revocation or modification of probation” after “pursuant to”.
 
  __Effective Date of 2002 Amendment__ 
 
-    [Pub. L. 107–273, div. B, title IV, § 4002(c)(1)][/us/pl/107/273/s4002/c/1], Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808], provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
+    [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(c)(1), Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808], provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
 
-    [Pub. L. 107–273, div. B, title IV, § 4002(e)(12)][/us/pl/107/273/s4002/e/12], Nov. 2, 2002, [116 Stat. 1811][/us/stat/116/1811], provided that the amendment made by section 4002(e)(12) is effective Nov. 26, 1997.
+    [Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(e)(12), Nov. 2, 2002, [116 Stat. 1811][/us/stat/116/1811], provided that the amendment made by section 4002(e)(12) is effective Nov. 26, 1997.
 
  __Effective Date of 1997 Amendment__ 
 
@@ -233,7 +233,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–690, title VII, § 7303(d)][/us/pl/100/690/s7303/d], Nov. 18, 1988, [102 Stat. 4464][/us/stat/102/4464], provided that: 
+[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7303(d), Nov. 18, 1988, [102 Stat. 4464][/us/stat/102/4464], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 3565, 3583, 4209, and 4214 of this title\] shall apply with respect to persons whose probation, supervised release, or parole begins after December 31, 1988.”
 
@@ -243,11 +243,11 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–646, § 11(b)][/us/pl/99/646/s11/b], Nov. 10, 1986, [100 Stat. 3594][/us/stat/100/3594], provided that: 
+[Pub. L. 99–646][/us/pl/99/646], § 11(b), Nov. 10, 1986, [100 Stat. 3594][/us/stat/100/3594], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the date of the taking effect of such section 3563(b)(11) \[Nov. 1, 1987\].”
 
-[Pub. L. 99–646, § 12(c)(1)][/us/pl/99/646/s12/c/1], Nov. 10, 1986, [100 Stat. 3594][/us/stat/100/3594], provided that: 
+[Pub. L. 99–646][/us/pl/99/646], § 12(c)(1), Nov. 10, 1986, [100 Stat. 3594][/us/stat/100/3594], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the taking effect of such section 3563(c) \[Nov. 1, 1987\].”
 
@@ -263,35 +263,35 @@
 ----------
 
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/98/473/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs212%2Fa%2F2
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1993
 [/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3594
 [/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
 [/us/stat/101/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1267
-[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4408
-[/us/pl/101/647/s3584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3584
+[/us/pl/101/647/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXV
 [/us/stat/104/4930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4930
-[/us/pl/102/521/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521%2Fs3
+[/us/pl/102/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521
 [/us/stat/106/3404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3404
-[/us/pl/103/322/s20414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20414%2Fb
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1830
-[/us/pl/104/132/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs203
+[/us/pl/104/132/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtII
 [/us/stat/110/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1227
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdC%2FtIII
 [/us/stat/110/3009-625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-625
-[/us/pl/104/294/s601/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fk
+[/us/pl/104/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2FtVI
 [/us/stat/110/3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3501
-[/us/pl/105/119/s115/a/8/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs115%2Fa%2F8%2FB%2Fi
+[/us/pl/105/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtI
 [/us/stat/111/2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2465
-[/us/pl/106/546/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546%2Fs7%2Fa
+[/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/stat/114/2734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2734
-[/us/pl/107/273/s4002/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fc%2F1
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1808
-[/us/pl/109/248/s141/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs141%2Fd
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F603
-[/us/pl/110/406/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs14%2Fa
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
 [/us/stat/122/4294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4294
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F590
@@ -299,64 +299,64 @@
 [/us/usc/t42/s14135a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14135a
 [/us/usc/t8/s1228/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1228%2Fd%2F5
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
-[/us/pl/110/406/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs14%2Fa
-[/us/pl/110/406/s14/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406%2Fs14%2Fc
-[/us/pl/109/248/s141/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs141%2Fd
-[/us/pl/109/248/s210/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs210%2Fa%2F1
-[/us/pl/109/248/s210/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs210%2Fa%2F2
-[/us/pl/109/248/s210/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs210%2Fa%2F3
-[/us/pl/107/273/s4002/e/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fe%2F12%2FA
-[/us/pl/105/119/s115/a/8/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs115%2Fa%2F8%2FB%2Fi
-[/us/pl/107/273/s4002/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fc%2F1
-[/us/pl/104/294/s601/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fk%2F1
-[/us/pl/107/273/s4002/e/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fe%2F12%2FB
-[/us/pl/107/273/s115/a/8/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs115%2Fa%2F8%2FB%2Fii
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
+[/us/pl/110/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F406
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
-[/us/pl/105/119/s115/a/8/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs115%2Fa%2F8%2FB%2Fi
-[/us/pl/107/273/s4002/e/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fe%2F12%2FA
-[/us/pl/105/119/s115/a/8/B/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs115%2Fa%2F8%2FB%2Fiii%2FI
-[/us/pl/105/119/s115/a/8/B/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs115%2Fa%2F8%2FB%2Fiii%2FII
-[/us/pl/105/119/s115/a/8/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs115%2Fa%2F8%2FB%2Fii
-[/us/pl/107/273/s4002/e/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fe%2F12%2FB
-[/us/pl/105/119/s115/a/8/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs115%2Fa%2F8%2FB%2Fi
-[/us/pl/104/294/s601/k/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fk%2F2%2FA
-[/us/pl/104/132/s203/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs203%2F1%2FA
-[/us/pl/107/273/s4002/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fc%2F1
-[/us/pl/104/132/s203/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs203%2F1%2FA
-[/us/pl/104/294/s601/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fk%2F3
-[/us/pl/104/294/s601/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs601%2Fk%2F1
-[/us/pl/104/132/s203/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs203%2F1%2FB
-[/us/pl/107/273/s4002/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fc%2F1
-[/us/pl/104/132/s203/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs203%2F1%2FB
-[/us/pl/104/132/s203/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs203%2F1%2FE
-[/us/pl/104/132/s203/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs203%2F2%2FC
-[/us/pl/104/132/s203/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs203%2F2%2FA
-[/us/pl/104/132/s203/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs203%2F2%2FB
-[/us/pl/104/208/s374/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs374%2Fb
-[/us/pl/104/208/s308/g/10/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs308%2Fg%2F10%2FE
-[/us/pl/104/132/s203/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs203%2F2%2FB
-[/us/pl/104/208/s374/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs374%2Fb
-[/us/pl/104/132/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs203%2Fb%2F2
-[/us/pl/103/322/s20414/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20414%2Fb%2F4
+[/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
+[/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
+[/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/103/322/s280002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs280002
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/103/322/s320921/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320921%2Fb%2F3
-[/us/pl/103/322/s20414/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20414%2Fb%2F3
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/102/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F521
-[/us/pl/101/647/s3584/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3584%2F1
-[/us/pl/101/647/s3584/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3584%2F2
-[/us/pl/100/690/s7086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7086
-[/us/pl/100/690/s7303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7303%2Fa%2F1
-[/us/pl/100/690/s7110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7110
-[/us/pl/100/690/s7305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7305%2Fa
-[/us/pl/100/182/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs18
-[/us/pl/100/182/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs10
-[/us/pl/99/646/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs11%2Fa
-[/us/pl/99/646/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs12%2Fa
-[/us/pl/107/273/s4002/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fc%2F1
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
+[/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1808
-[/us/pl/107/273/s4002/e/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs4002%2Fe%2F12
+[/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1811
 [/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
 [/us/pl/105/119/s115/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs115%2Fc%2F1
@@ -367,14 +367,14 @@
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/104/132/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs211
 [/us/usc/t18/s2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2248
-[/us/pl/100/690/s7303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7303%2Fd
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4464
 [/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
 [/us/pl/100/182/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs26
 [/us/usc/t18/s3006A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3006A
-[/us/pl/99/646/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs11%2Fb
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3594
-[/us/pl/99/646/s12/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646%2Fs12%2Fc%2F1
+[/us/pl/99/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F646
 [/us/stat/100/3594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3594
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
