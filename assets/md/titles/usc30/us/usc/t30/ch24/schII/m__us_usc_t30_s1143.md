@@ -27,7 +27,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-    Amendment by [Pub. L. 102–558][/us/pl/102/558] deemed to have become effective Mar. 1, 1992, see [section 304 of Pub. L. 102–558][/us/pl/102/558/s304], set out as a note under section 2062 of the Appendix to Title 50, War and National Defense.
+    Amendment by [Pub. L. 102–558][/us/pl/102/558] deemed to have become effective Mar. 1, 1992, see [section 304 of Pub. L. 102–558][/us/pl/102/558/s304], set out as a note under [section 4502 of Title 50][/us/usc/t50/s4502], War and National Defense.
 
 ----------
 
@@ -46,5 +46,6 @@
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/pl/102/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558
 [/us/pl/102/558/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F558%2Fs304
+[/us/usc/t50/s4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4502
 
 

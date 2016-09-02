@@ -147,7 +147,7 @@
 
     (u) __Limitations on export__ 
 
-        Any domestically produced crude oil transported by pipeline over rights-of-way granted pursuant to this section, except such crude oil which is either exchanged in similar quantity for convenience or increased efficiency of transportation with persons or the government of an adjacent foreign state, or which is temporarily exported for convenience or increased efficiency of transportation across parts of an adjacent foreign state and reenters the United States, shall be subject to all of the limitations and licensing requirements of the Export Administration Act of 1979 (50 U.S.C. App. 2401 and following) and, in addition, before any crude oil subject to this section may be exported under the limitations and licensing requirements and penalty and enforcement provisions of the Export Administration Act of 1979 the President must make and publish an express finding that such exports will not diminish the total quantity or quality of petroleum available to the United States, and are in the national interest and are in accord with the provisions of the Export Administration Act of 1979: Provided, That the President shall submit reports to the Congress containing findings made under this section, and after the date of receipt of such report Congress shall have a period of sixty calendar days, thirty days of which Congress must have been in session, to consider whether exports under the terms of this section are in the national interest. If the Congress within this time period passes a concurrent resolution of disapproval stating disagreement with the President’s finding concerning the national interest, further exports made pursuant to the aforementioned Presidential findings shall cease.
+        Any domestically produced crude oil transported by pipeline over rights-of-way granted pursuant to this section, except such crude oil which is either exchanged in similar quantity for convenience or increased efficiency of transportation with persons or the government of an adjacent foreign state, or which is temporarily exported for convenience or increased efficiency of transportation across parts of an adjacent foreign state and reenters the United States, shall be subject to all of the limitations and licensing requirements of the Export Administration Act of 1979 (50 U.S.C. App. 2401 and following) \[now [50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\] and, in addition, before any crude oil subject to this section may be exported under the limitations and licensing requirements and penalty and enforcement provisions of the Export Administration Act of 1979 the President must make and publish an express finding that such exports will not diminish the total quantity or quality of petroleum available to the United States, and are in the national interest and are in accord with the provisions of the Export Administration Act of 1979: Provided, That the President shall submit reports to the Congress containing findings made under this section, and after the date of receipt of such report Congress shall have a period of sixty calendar days, thirty days of which Congress must have been in session, to consider whether exports under the terms of this section are in the national interest. If the Congress within this time period passes a concurrent resolution of disapproval stating disagreement with the President’s finding concerning the national interest, further exports made pursuant to the aforementioned Presidential findings shall cease.
 
     (v) __State standards__ 
 
@@ -197,7 +197,7 @@
 
     The Energy Policy and Conservation Act, referred to in subsec. (s)(3), is [Pub. L. 94–163][/us/pl/94/163], Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871], as amended. Part B of title II of the Act is classified generally to part B (§ 6271 et seq.) of subchapter II of chapter 77 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of Title 42][/us/usc/t42/s6201] and Tables.
 
-    The Export Administration Act of 1979, referred to in subsec. (u), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2401 of Title 50][/us/usc/t50/s2401], Appendix, and Tables.
+    The Export Administration Act of 1979, referred to in subsec. (u), is [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503], which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
@@ -309,6 +309,7 @@ Pursuant to section 28(s) of the Mineral Leasing Act, as amended, [30 U.S.C. 185
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/act/1920-02-25/ch85/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs28
 [/us/stat/41/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F449
 [/us/act/1935-08-21/ch599/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch599%2Fs1
@@ -347,7 +348,6 @@ Pursuant to section 28(s) of the Mineral Leasing Act, as amended, [30 U.S.C. 185
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
-[/us/usc/t50/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2401
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
 [/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709

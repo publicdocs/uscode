@@ -57,7 +57,7 @@
 
     (d) __Secretary of Defense and other Cabinet members; assessment, etc., activities__ 
 
-        The Secretary of Defense, together with such other members of the Cabinet as are deemed necessary by the President, shall prepare a report assessing critical materials needs related to national security and identifying the steps necessary to meet those needs. The report shall include an assessment of the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.), and the Strategic and Critical Materials Stock Piling Act (50 U.S.C. App. 98 et seq.) \[[50 U.S.C. 98][/us/usc/t50/s98] et seq.\]. Such report shall be made available to the Congress within 1 year after October 21, 1980, and shall be revised periodically as deemed necessary.
+        The Secretary of Defense, together with such other members of the Cabinet as are deemed necessary by the President, shall prepare a report assessing critical materials needs related to national security and identifying the steps necessary to meet those needs. The report shall include an assessment of the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.) \[now [50 U.S.C. 4501][/us/usc/t50/s4501] et seq.\], and the Strategic and Critical Materials Stock Piling Act (50 U.S.C. App. 98 et seq.) \[[50 U.S.C. 98][/us/usc/t50/s98] et seq.\]. Such report shall be made available to the Congress within 1 year after October 21, 1980, and shall be revised periodically as deemed necessary.
 
     (e) __Secretary of the Interior; initiation of actions; report__ 
 
@@ -81,7 +81,7 @@
 
     The National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in subsec. (b), is [Pub. L. 94–282][/us/pl/94/282], May 11, 1976, [90 Stat. 459][/us/stat/90/459], as amended, which is classified principally to chapter 79 (§ 6601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6601 of Title 42][/us/usc/t42/s6601] and Tables.
 
-    The Defense Production Act of 1950, referred to in subsec. (d), is [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], [64 Stat. 798][/us/stat/64/798], as amended, which is classified to section 2061 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see [section 2061 of Title 50][/us/usc/t50/s2061], Appendix, and Tables.
+    The Defense Production Act of 1950, referred to in subsec. (d), is [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], [64 Stat. 798][/us/stat/64/798], which was classified to section 2061 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 55 (§ 4501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
     The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (d), is [act June 7, 1939, ch. 190][/us/act/1939-06-07/ch190], as revised generally by [Pub. L. 96–41, § 2][/us/pl/96/41/s2], July 30, 1979, [93 Stat. 319][/us/stat/93/319], which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50. For complete classification of this Act to the Code, see [section 98 of Title 50][/us/usc/t50/s98] and Tables.
 
@@ -99,6 +99,7 @@
 ----------
 
 [/us/usc/t42/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6601
+[/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/pl/96/479/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F479%2Fs5
@@ -110,7 +111,6 @@
 [/us/usc/t42/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6601
 [/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
 [/us/stat/64/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F798
-[/us/usc/t50/s2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2061
 [/us/act/1939-06-07/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190
 [/us/pl/96/41/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs2
 [/us/stat/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F319
