@@ -27,7 +27,7 @@
 
     Section 615h, [act Aug. 6, 1956, ch. 980, § 3][/us/act/1956-08-06/ch980/s3], [70 Stat. 1059][/us/stat/70/1059], related to construction, operation, and maintenance of public recreation facilities in connection with this project.
 
-    Section 615i, [act Aug. 6, 1956, ch. 980, § 4][/us/act/1956-08-06/ch980/s4], [70 Stat. 1059][/us/stat/70/1059], related to preservation and propagation of fish and wildlife in connection with this project.
+    Section 615i, [act Aug. 6, 1956, ch. 980, § 4][/us/act/1956-08-06/ch980/s4], [70 Stat. 1059][/us/stat/70/1059]; [Pub. L. 113–244, § 3][/us/pl/113/244/s3], Dec. 18, 2014, [128 Stat. 2865][/us/stat/128/2865], related to preservation and propagation of fish and wildlife in connection with this project.
 
     Section 615j, [act Aug. 6, 1956, ch. 980, § 5][/us/act/1956-08-06/ch980/s5], [70 Stat. 1059][/us/stat/70/1059], authorized appropriations for this project.
 
@@ -54,6 +54,8 @@
 [/us/stat/70/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1059
 [/us/act/1956-08-06/ch980/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch980%2Fs4
 [/us/stat/70/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1059
+[/us/pl/113/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F244%2Fs3
+[/us/stat/128/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2865
 [/us/act/1956-08-06/ch980/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch980%2Fs5
 [/us/stat/70/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1059
 [/us/pl/88/598/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F598%2Fs2
