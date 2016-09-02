@@ -39,6 +39,10 @@
 
     The Rehabilitation Act of 1973, referred to in subsec. (c), is [Pub. L. 93–112][/us/pl/93/112], Sept. 26, 1973, [87 Stat. 355][/us/stat/87/355], which is classified generally to chapter 16 (§ 701 et seq.) of this title and was amended extensively by title IV of [Pub. L. 113–128][/us/pl/113/128]. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title][/us/usc/t29/s701] and Tables.
 
+ __Effective Date__ 
+
+    Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as a note under [section 3101 of this title][/us/usc/t29/s3101].
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t29/ch32/schIII/ptB/m__us_usc_t29_ch32_schIII_ptB.md) | ~~Next~~ | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3361)
@@ -66,5 +70,7 @@
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

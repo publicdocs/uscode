@@ -61,13 +61,19 @@
 
     The Workforce Investment Act of 1998, referred to in subsecs. (a), (b), and (g), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. Pursuant to [section 3361(a) of this title][/us/usc/t29/s3361/a], references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t29/s3101] and Tables.
 
-    The Adult Education and Family Literacy Act, referred to in subsec. (c), is title II of [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], which was classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of Title 20, Education, and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. For references to provisions of this Act, which is part of the Workforce Investment Act of 1998, see note above. For complete classification of the Adult Education and Family Literacy Act to the Code, see Tables.
+    The Adult Education and Family Literacy Act, referred to in subsec. (c), was repealed, and a new Adult Education and Family Literacy Act was enacted, by [Pub. L. 113–128][/us/pl/113/128]. The former Act is title II of [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059], which was classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of Title 20, Education, prior to repeal by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. The new Act is title II of [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1608][/us/stat/128/1608], which is classified generally to subchapter II (§ 3271 et seq.) of this chapter. For complete classification of title II of [Pub. L. 105–220][/us/pl/105/220] to the Code, see Tables. For complete classification of title II of [Pub. L. 113–128][/us/pl/113/128] to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t29/s3101] and Tables.
+
+    As in effect on the day before July 22, 2014, referred to in subsecs. (c) and (d), was in the original “as in effect on the day before the date of enactment of this Act”, meaning the date of enactment of [Pub. L. 113–128][/us/pl/113/128], which was approved July 22, 2014. However, the repeal and reenactment of the Adult Education and Family Literacy Act, see note above, and the amendments to the Wagner-Peyser Act made by title III of [Pub. L. 113–128][/us/pl/113/128] are effective on the first day of the first full program year after July 22, 2014, which is probably July 1, 2015. See [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of this title][/us/usc/t29/s3101].
 
     This Act, referred to in subsecs. (c) to (g)(1), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t29/s3101] and Tables.
 
     The Wagner-Peyser Act, referred to in subsec. (d), is [act June 6, 1933, ch. 49][/us/act/1933-06-06/ch49], [48 Stat. 113][/us/stat/48/113], which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 49 of this title][/us/usc/t29/s49] and Tables.
 
     The Rehabilitation Act of 1973, referred to in subsec. (e), is [Pub. L. 93–112][/us/pl/93/112], Sept. 26, 1973, [87 Stat. 355][/us/stat/87/355], which is classified generally to chapter 16 (§ 701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title][/us/usc/t29/s701] and Tables.
+
+ __Effective Date__ 
+
+    Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as a note under [section 3101 of this title][/us/usc/t29/s3101].
 
 ----------
 
@@ -90,10 +96,20 @@
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1059
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1608
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
@@ -103,5 +119,7 @@
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 

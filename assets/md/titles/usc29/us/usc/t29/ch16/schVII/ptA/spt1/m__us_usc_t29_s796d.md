@@ -139,7 +139,7 @@
 
             (B) conduct resource development activities to support the activities described in this subsection or to support the provision of independent living services by centers for independent living; and
 
-            (C) perform such other functions, consistent with the purpose of this chapter and comparable to other functions described in this subsection, as the Council determines to be appropriate.
+            (C) perform such other functions, consistent with the purpose of this part and comparable to other functions described in this subsection, as the Council determines to be appropriate.
 
         (3) __Limitation__ 
 

@@ -39,6 +39,10 @@
 
     The Wagner-Peyser Act, referred to in text, is [act June 6, 1933, ch. 49][/us/act/1933-06-06/ch49], [48 Stat. 113][/us/stat/48/113], which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 49 of this title][/us/usc/t29/s49] and Tables.
 
+ __Effective Date__ 
+
+    Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as a note under [section 3101 of this title][/us/usc/t29/s3101].
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t29/ch32/schIII/ptA/m__us_usc_t29_s3341.md) | [Next](./../../../../../..//us/usc/t29/ch32/schIII/ptA/m__us_usc_t29_s3343.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3342)
@@ -54,5 +58,7 @@
 [/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
 [/us/stat/48/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F113
 [/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 
 
