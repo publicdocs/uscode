@@ -483,7 +483,7 @@
 
  __References in Text__ 
 
-    Section 41, referred to in subsecs. (b)(1)(A), (4), (g), (i)(1)(A), (m), and (p), which related to employee stock ownership credit, was repealed by [Pub. L. 99–514, title XI, § 1171(a)][/us/pl/99/514/s1171/a], Oct. 22, 1986, [100 Stat. 2513][/us/stat/100/2513]. [Section 30 of this title][/us/usc/t26/s30], relating to credit for increasing research activities, was renumbered section 41.
+    Section 41, referred to in subsecs. (b)(1)(A), (4), (g), (i)(1)(A), and (m), which related to employee stock ownership credit, was repealed by [Pub. L. 99–514, title XI, § 1171(a)][/us/pl/99/514/s1171/a], Oct. 22, 1986, [100 Stat. 2513][/us/stat/100/2513]. [Section 30 of this title][/us/usc/t26/s30], relating to credit for increasing research activities, was renumbered section 41.
 
     Section 12 of the Securities Exchange Act of 1934, referred to in subsec. (e)(4), is classified to section 78l of Title 15, Commerce and Trade.
 
@@ -491,9 +491,7 @@
 
     The enactment of the Tax Reform Act of 1984, referred to in subsecs. (g) and (k), means the enactment of div. A of [Pub. L. 98–369][/us/pl/98/369], which was approved July 18, 1984.
 
-    Subsec. (n) of section 48, referred to in subsecs. (g), (m), and (p)(1), was repealed by section 474(o)(15) of [Pub. L. 98–369][/us/pl/98/369].
-
-    Section 6699, referred to in subsec. (p)(2), was repealed by [Pub. L. 99–514, title XI, § 1171(b)(7)(A)][/us/pl/99/514/s1171/b/7/A], Oct. 22, 1986, [100 Stat. 2513][/us/stat/100/2513].
+    Subsec. (n) of section 48, referred to in subsecs. (g) and (m), was repealed by section 474(o)(15) of [Pub. L. 98–369][/us/pl/98/369].
 
  __Prior Provisions__ 
 
@@ -822,8 +820,6 @@
 [/us/usc/t29/s1103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1103%2Fc%2F1
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/99/514/s1171/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1171%2Fb%2F7%2FA
-[/us/stat/100/2513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2513
 [/us/pl/93/406/s2002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2002%2Fc
 [/us/stat/88/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F964
 [/us/pl/94/455/s1501/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1501%2Fb%2F6

@@ -89,7 +89,7 @@
 
  __References in Text__ 
 
-    Section 501(c)(20), referred to in subsecs. (a)(1), (c)(1), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iii)][/us/pl/113/295/s221/a/19/B/iii], Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040].
+    Section 501(c)(20), referred to in subsecs. (a)(1) and (c)(1), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iii)][/us/pl/113/295/s221/a/19/B/iii], Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040].
 
  __Amendments__ 
 

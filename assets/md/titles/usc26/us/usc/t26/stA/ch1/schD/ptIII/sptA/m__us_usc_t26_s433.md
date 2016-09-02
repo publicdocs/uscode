@@ -761,7 +761,7 @@
 
  __References in Text__ 
 
-    Section 412 (as in effect on the day before the enactment of the Pension Protection Act of 2006), referred to in subsecs. (b)(2)(E), (c)(2)(B), (5)(A), and (f)(5)(B), means [section 412 of this title][/us/usc/t26/s412] as in effect on the day before the enactment of [Pub. L. 109–280][/us/pl/109/280]. [Section 111(a) of Pub. L. 109–280][/us/pl/109/280/s111/a] generally amended section 412.
+    Section 412 (as in effect on the day before the enactment of the Pension Protection Act of 2006), referred to in subsecs. (b)(2)(E), (c)(2)(B), (5)(A), and (f)(5)(B), means [section 412 of this title][/us/usc/t26/s412] as in effect on the day before the enactment of [Pub. L. 109–280][/us/pl/109/280], which was approved Aug. 17, 2006. [Section 111(a) of Pub. L. 109–280][/us/pl/109/280/s111/a] generally amended section 412.
 
     Section 104 of the Pension Protection Act of 2006, referred to in subsec. (b)(6), is [section 104 of Pub. L. 109–280][/us/pl/109/280/s104], which is set out as a note under [section 401 of this title][/us/usc/t26/s401].
 

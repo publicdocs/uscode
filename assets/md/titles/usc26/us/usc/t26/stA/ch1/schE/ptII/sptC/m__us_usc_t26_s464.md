@@ -65,7 +65,7 @@
 
                 (ii) who has a principal occupation of farming, or
 
-                (iii) who is a member of the family (within the meaning of subsection (c)(2)(E)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> ) of a taxpayer described in clause (i) or (ii).
+                (iii) who is a member of the family (within the meaning of subsection (c)(2)(E))  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of a taxpayer described in clause (i) or (ii).
 
         (3) __Definitions__ 
 
@@ -91,7 +91,7 @@
 
  __References in Text__ 
 
-    Subsection (c), referred to in subsec. (d)(2)(B)(iii), was transferred to [section 461(j) of this title][/us/usc/t26/s461/j] by [Pub. L. 113–295, div. A, title II, § 221(a)(58)(C)(i)][/us/pl/113/295/s221/a/58/C/i], Dec. 19, 2014, [128 Stat. 4047][/us/stat/128/4047].
+    Subsection (c), referred to in subsec. (d)(2)(B)(iii), which defined “farming syndicate”, was transferred to [section 461 of this title][/us/usc/t26/s461] and redesignated as subsec. (j) by [Pub. L. 113–295, div. A, title II, § 221(a)(58)(B)(i)][/us/pl/113/295/s221/a/58/B/i], Dec. 19, 2014, [128 Stat. 4047][/us/stat/128/4047].
 
  __Amendments__ 
 
@@ -101,15 +101,15 @@
 
     [Pub. L. 113–295, § 221(a)(58)(B)(i)][/us/pl/113/295/s221/a/58/B/i], transferred subsec. (c) defining the term “farming syndicate” to [section 461 of this title][/us/usc/t26/s461].
 
-    Subsec. (d). [Pub. L. 113–295, § 221(a)(58)(D)][/us/pl/113/295/s221/a/58/D], struck out “Subsections (a) and (b) to apply to” before “certain persons” in heading, struck out par. (1), and redesignated pars. (2) to (4) as (1) to (3), respectively. Prior to amendment, par. (1) read as follows: “In the case of a taxpayer to whom this subsection applies, subsections (a) and (b) shall apply to the excess prepaid farm supplies of such taxpayer in the same manner as if such taxpayer were a farming syndicate.”
+    Subsec. (d). [Pub. L. 113–295, § 221(a)(58)(D)][/us/pl/113/295/s221/a/58/D], struck out “Subsections (a) and (b) to apply to” before “Certain persons” in heading, redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “In the case of a taxpayer to whom this subsection applies, subsections (a) and (b) shall apply to the excess prepaid farm supplies of such taxpayer in the same manner as if such taxpayer were a farming syndicate.”
 
-    [Pub. L. 113–295, § 221(a)(58)(C)(i)][/us/pl/113/295/s221/a/58/C/i], redesignated subsec. (f) as (d). Former subsec. (d) redesignated as (c).
+    [Pub. L. 113–295, § 221(a)(58)(C)(i)][/us/pl/113/295/s221/a/58/C/i], redesignated subsec. (f) as (d). Former subsec. (d) redesignated (c).
 
-    Subsec. (e). [Pub. L. 113–295, § 221(a)(58)(C)][/us/pl/113/295/s221/a/58/C], added subsec. (e) and struck out former subsec. (e) which defined the terms “farming” and “limited entrepreneur” for purposes of this section..
+    Subsec. (e). [Pub. L. 113–295, § 221(a)(58)(C)][/us/pl/113/295/s221/a/58/C], added subsec. (e) and struck out former subsec. (e) which defined the terms “farming” and “limited entrepreneur” for purposes of this section.
 
     Subsec. (f). [Pub. L. 113–295, § 221(a)(58)(C)(i)][/us/pl/113/295/s221/a/58/C/i], redesignated subsec. (f) as (d).
 
-    Subsec. (g). [Pub. L. 113–295, § 221(a)(58)(C)(i)][/us/pl/113/295/s221/a/58/C/i], struck out subsec. (g) which read as follows: “Except as provided in subsection (f), subsections (a) and (b) shall not apply to any taxable year beginning after December 31, 1986.”
+    Subsec. (g). [Pub. L. 113–295, § 221(a)(58)(C)(i)][/us/pl/113/295/s221/a/58/C/i], struck out subsec. (g). Text read as follows: “Except as provided in subsection (f), subsections (a) and (b) shall not apply to any taxable year beginning after December 31, 1986.”
 
     1997—Subsec. (f)(3)(B)(i). [Pub. L. 105–34][/us/pl/105/34] substituted “section 121” for “section 1034”.
 
@@ -192,8 +192,8 @@
 [/us/stat/111/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F839
 [/us/pl/113/295/s221/a/58/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FA
 [/us/stat/128/4047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4047
-[/us/usc/t26/s461/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs461%2Fj
-[/us/pl/113/295/s221/a/58/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FC%2Fi
+[/us/usc/t26/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs461
+[/us/pl/113/295/s221/a/58/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FB%2Fi
 [/us/stat/128/4047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4047
 [/us/pl/113/295/s221/a/58/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FA
 [/us/pl/113/295/s221/a/58/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FC%2Fi

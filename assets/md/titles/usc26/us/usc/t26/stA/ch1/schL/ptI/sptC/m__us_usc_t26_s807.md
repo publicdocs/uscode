@@ -329,7 +329,7 @@
 
             The amount taken into account for purposes of subsections (a) and (b) as—
 
-                (i) the opening balance of the items referred to in subparagraph (C), and
+                (i) the opening balance of the items referred to in subparagraph (C), <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subparagraph (B),”. See 2014 Amendment note below. </sup></sup>  and
 
                 (ii) the closing balance of such items,
 

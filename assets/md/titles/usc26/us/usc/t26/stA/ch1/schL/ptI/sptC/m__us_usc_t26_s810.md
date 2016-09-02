@@ -89,13 +89,13 @@
 
             (A) the operations loss deduction shall not be allowed, and
 
-            (B) the deductions allowed by sections 243 (relating to dividends received by corporations), and 245 (relating to dividends received from certain foreign corporations) shall be computed without regard to section 246(b) as modified by section 805(a)(4).
+            (B) the deductions allowed by sections 243 (relating to dividends received by corporations), <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  and 245 (relating to dividends received from certain foreign corporations) shall be computed without regard to section 246(b) as modified by section 805(a)(4).
 
     (d) __Offset defined__ 
 
         (1) __In general__ 
 
-            For purposes of subsection (b)(2), the term “offset” means, with respect to any taxable year, an amount equal to that increase in the operations loss deduction for the taxable year which reduces the life insurance company taxable income (computed without regard to paragraphs (2) and (3) of section 804)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or such year to zero.
+            For purposes of subsection (b)(2), the term “offset” means, with respect to any taxable year, an amount equal to that increase in the operations loss deduction for the taxable year which reduces the life insurance company taxable income (computed without regard to paragraphs (2) and (3) of section 804)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  or such year to zero.
 
         (2) __Operations loss deduction__ 
 
@@ -107,7 +107,7 @@
 
     (f) __Application of subtitles A and F in respect of operation losses__ 
 
-        Except as provided in section 805(b)(5),1 sub­titles A and F shall apply in respect of operation loss carrybacks, operation loss carryovers, and the operations loss deduction under this part, in the same manner and to the same extent as such subtitles apply in respect of net operating loss carrybacks, net operating loss carryovers, and the net operating loss deduction.
+        Except as provided in section 805(b)(5),2 sub­titles A and F shall apply in respect of operation loss carrybacks, operation loss carryovers, and the operations loss deduction under this part, in the same manner and to the same extent as such subtitles apply in respect of net operating loss carrybacks, net operating loss carryovers, and the net operating loss deduction.
 
     (g) __Transitional rule__ 
 
@@ -129,15 +129,15 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c)(2)(B). [Pub. L. 113–295, § 221(a)(41)(J)][/us/pl/113/295/s221/a/41/J], which directed amendment of subpar. (B) by striking out “244 (relating to dividends on certain preferred stock of public utilities),” was amended by striking out “244 (relating to dividends received on certain preferred stock of public utilities),” after “received by corporations),” to reflect the probable intent of Congress.
+    2014—Subsec. (c)(2)(B). [Pub. L. 113–295][/us/pl/113/295], which directed amendment of subpar. (B) by striking out “244 (relating to dividends on certain preferred stock of public utilities),” was amended by striking out “244 (relating to dividends received on certain preferred stock of public utilities),” after “received by corporations),” to reflect the probable intent of Congress.
 
     2009—Subsec. (b)(4). [Pub. L. 111–92][/us/pl/111/92] added par. (4).
 
  __Effective Date of 2014 Amendment__ 
 
-    Except as otherwise provided in [section 221(a) of Pub. L. 113–295][/us/pl/113/295/s221/a], amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
-
     Amendment by [Pub. L. 113–295][/us/pl/113/295] not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title][/us/usc/t26/s247] as in effect before its repeal by [Pub. L. 113–295][/us/pl/113/295]), see [section 221(a)(41)(K) of Pub. L. 113–295][/us/pl/113/295/s221/a/41/K], set out as a note under [section 172 of this title][/us/usc/t26/s172].
+
+    Except as otherwise provided in [section 221(a) of Pub. L. 113–295][/us/pl/113/295/s221/a], amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2009 Amendment__ 
 
@@ -172,17 +172,17 @@
 [/us/pl/91/172/s121/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs121%2Fb%2F5%2FB
 [/us/stat/83/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F541
 [/us/pl/98/369/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs211%2Fa
-[/us/pl/113/295/s221/a/41/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FJ
-[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
-[/us/pl/113/295/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
-[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
-[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/usc/t26/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs247
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/a/41/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FK
 [/us/usc/t26/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs172
+[/us/pl/113/295/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
 [/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56

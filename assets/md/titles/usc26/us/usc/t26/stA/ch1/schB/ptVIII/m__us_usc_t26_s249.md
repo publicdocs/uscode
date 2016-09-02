@@ -29,7 +29,7 @@
 
     2014—Subsec. (a). [Pub. L. 113–295, § 220(i)][/us/pl/113/295/s220/i], substituted “1563(a)(1))” for “1563(a)(1)”.
 
-    Subsec. (b). [Pub. L. 113–295, § 221(a)(43)][/us/pl/113/295/s221/a/43], which directed amendment of subsec. (b)(1) by striking out “, in the case of bonds or other evidences of indebtedness issued after February 28, 1913,” after “repurchase, or”, was executed by making the amendment in subsec. (b) to reflect the probable intent of Congress.
+    Subsec. (b). [Pub. L. 113–295, § 221(a)(43)][/us/pl/113/295/s221/a/43], which directed amendment of subsec. (b)(1) by striking out “, in the case of bonds or other evidences of indebtedness issued after February 28, 1913,” after “repurchase, or”, was executed by making the amendment in subsec. (b) to reflect the probable intent of Congress and the prior amendment by [Pub. L. 112–95, § 1108(b)][/us/pl/112/95/s1108/b]. See 2012 Amendment note below.
 
     2012—Subsec. (a). [Pub. L. 112–95, § 1108(a)][/us/pl/112/95/s1108/a], substituted “, or a corporation in the same parent-subsidiary controlled group (within the meaning of section 1563(a)(1) as” for “, or a corporation in control of, or controlled by,”.
 
@@ -82,6 +82,7 @@
 [/us/stat/128/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4036
 [/us/pl/113/295/s220/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fi
 [/us/pl/113/295/s221/a/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F43
+[/us/pl/112/95/s1108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1108%2Fb
 [/us/pl/112/95/s1108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1108%2Fa
 [/us/pl/112/95/s1108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1108%2Fb
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

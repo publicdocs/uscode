@@ -237,7 +237,7 @@
 
                 (ii) expenses for special needs services in the case of a special needs beneficiary which are incurred in connection with such enrollment or attendance  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by “; and”. </sup></sup> 
 
-                (iii) expenses paid or incurred in 2009 or 2010 for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i)  <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note. </sup></sup> ) or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is enrolled at an eligible educational institution.
+                (iii) expenses paid or incurred in 2009 or 2010 for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i))  <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note below. </sup></sup>  or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is enrolled at an eligible educational institution.
 
                 Clause (iii) shall not include expenses for computer software designed for sports, games, or hobbies unless the software is predominantly educational in nature.
 

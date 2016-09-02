@@ -1067,7 +1067,7 @@
 
 [Pub. L. 113–295, div. A, title II, § 218(c)][/us/pl/113/295/s218/c], Dec. 19, 2014, [128 Stat. 4035][/us/stat/128/4035], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 30C of this title][/us/usc/t26/s30C]\] shall take effect as if included in the provision of the Energy Tax Incentives Act of 2005 \[title XIII of [Pub. L. 109–58][/us/pl/109/58]\] to which it relates.”
+> “The amendments made by this section \[amending this section and [section 30C of this title][/us/usc/t26/s30C]\] shall take effect as if included in the provision of the Energy Tax Incentives Act of 2005 \[[Pub. L. 109–58, title XIII][/us/pl/109/58]\] to which it relates.”
 
  __Effective Date of 2013 Amendment__ 
 

@@ -451,7 +451,7 @@
 
  __References in Text__ 
 
-    The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(7)(A) to (D), (8)(B)(ii)(II), and (d)(3)(A), is [Pub. L. 93–406][/us/pl/93/406], Sept. 2, 1974, [88 Stat. 829][/us/stat/88/829]. Title IV of the Act is classified principally to subchapter III (§ 1301 et seq.) of chapter 18 of Title 29, Labor. Part 1 of subtitle E of title IV of the Act is classified generally to part 1 (§ 1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29. Sections 302, 4001, 4222, 4223, and 4243 of the Act are classified to sections 1082, 1301, 1402, 1403, and 1423, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29][/us/usc/t29/s1001] and Tables.
+    The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(7)(A) to (D), (8)(B)(ii)(II) and (d)(3)(A), is [Pub. L. 93–406][/us/pl/93/406], Sept. 2, 1974, [88 Stat. 829][/us/stat/88/829]. Title IV of the Act is classified principally to subchapter III (§ 1301 et seq.) of chapter 18 of Title 29, Labor. Part 1 of subtitle E of title IV of the Act is classified generally to part 1 (§ 1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29. Sections 302, 4001, 4222, 4223, and 4243 of the Act are classified to sections 1082, 1301, 1402, 1403, and 1423, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29][/us/usc/t29/s1001] and Tables.
 
     The date of the enactment of the Pension Protection Act of 2006, referred to in subsec. (b)(2)(D), (E), (3)(D), (4), (7)(E), is the date of enactment of [Pub. L. 109–280][/us/pl/109/280], which was approved Aug. 17, 2006.
 
@@ -461,9 +461,9 @@
 
     2014—Subsec. (a). [Pub. L. 113–235, § 108(b)(3)(A)][/us/pl/113/235/s108/b/3/A], amended subsec. (a) generally. Prior to amendment, subsec. (a) related to accumulated funding deficiency of multiemployer plan.
 
-    Subsec. (d)(1)(C). [Pub. L. 113–295, § 171(a)][/us/pl/113/295/s171/a], which directed amendment of subpar. (C) by substituting “December 31, 2015” for “December 31, 2014”, could not be executed because of previous repeal of subpar. (C) by [Pub. L. 113–235, § 101(b)(2)][/us/pl/113/235/s101/b/2]. See below.
+    Subsec. (d)(1)(C). [Pub. L. 113–295][/us/pl/113/295], which directed amendment of subpar. (C) by substituting “December 31, 2015” for “December 31, 2014”, could not be executed because of previous repeal of subpar. (C) by [Pub. L. 113–235, § 101(b)(2)][/us/pl/113/235/s101/b/2]. See below.
 
-    [Pub. L. 113–235, § 101(b)(2)][/us/pl/113/235/s101/b/2], struck out heading and text of subpar. (C). Text read as follows: “The preceding provisions of this paragraph shall not apply with respect to any application submitted after December 31, 2014.”
+    [Pub. L. 113–235, § 101(b)(2)][/us/pl/113/235/s101/b/2], struck out subpar. (C). Text read as follows: “The preceding provisions of this paragraph shall not apply with respect to any application submitted after December 31, 2014.”
 
     2010—Subsec. (b)(8). [Pub. L. 111–192][/us/pl/111/192] added par. (8).
 
@@ -526,7 +526,7 @@
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/113/235/s108/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fb%2F3%2FA
-[/us/pl/113/295/s171/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs171%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/235/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs101%2Fb%2F2
 [/us/pl/113/235/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs101%2Fb%2F2
 [/us/pl/111/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192

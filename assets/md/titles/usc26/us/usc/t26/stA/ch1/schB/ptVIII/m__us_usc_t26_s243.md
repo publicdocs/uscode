@@ -115,7 +115,7 @@
 
     “(B) subsections (a)(3) and (b)(2) of section 244,
 
-    “shall be applied by substituting ‘80 percent’ for ‘70 percent’.”
+    shall be applied by substituting ‘80 percent’ for ‘70 percent’.”
 
     Subsec. (d)(4). [Pub. L. 113–295, § 221(a)(41)(D)][/us/pl/113/295/s221/a/41/D], struck out par. (4) which read as follows: “Any dividend received which is described in section 244 (relating to dividends received on preferred stock of a public utility) shall not be treated as a dividend.”
 

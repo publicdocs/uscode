@@ -1813,6 +1813,12 @@ The corresponding percentages shall be substituted for
 
 > “Except for purposes of section 21 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title \[amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title\] shall apply with respect to taxable years beginning after December 31, 1963.”
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–14, § 1][/us/pl/114/14/s1], May 22, 2015, [129 Stat. 198][/us/stat/129/198], provided that: 
+
+> “This Act \[amending [section 104 of this title][/us/usc/t26/s104]\] may be cited as the ‘Don’t Tax Our Fallen Public Safety Heroes Act’.”
+
  __Short Title of 2014 Amendment__ 
 
 [Pub. L. 113–295, div. A, § 1(a)][/us/pl/113/295/s1/a], Dec. 19, 2014, [128 Stat. 4010][/us/stat/128/4010], provided that: 
@@ -3518,6 +3524,9 @@ The corresponding percentages shall be substituted for
 [/us/stat/78/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F30
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
+[/us/pl/114/14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F14%2Fs1
+[/us/stat/129/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F198
+[/us/usc/t26/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs104
 [/us/pl/113/295/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs1%2Fa
 [/us/stat/128/4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4010
 [/us/pl/113/295/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs201

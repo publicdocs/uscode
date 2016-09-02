@@ -323,7 +323,7 @@
 
  __References in Text__ 
 
-    Section 3(a)(4) and (5) of the Securities and Exchange Act of 1934, referred to in subsec. (a)(1)(D), is classified to section 78c(a)(4) and (5) of Title 15, Commerce and Trade.
+    Section 3(a)(4) and (5) of the Securities and Exchange Act of 1934, referred to in subsec. (a)(1)(E), is classified to section 78c(a)(4) and (5) of Title 15, Commerce and Trade.
 
     Section 563(d), referred to in subsecs. (a)(2)(B)(ii) and (d)(5)(A)(ii), was redesignated section 563(c) by [Pub. L. 108–357, title IV, § 413(c)(10)(B)][/us/pl/108/357/s413/c/10/B], Oct. 22, 2004, [118 Stat. 1507][/us/stat/118/1507].
 

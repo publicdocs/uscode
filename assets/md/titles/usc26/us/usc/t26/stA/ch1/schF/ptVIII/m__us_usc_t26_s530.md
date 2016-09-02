@@ -71,7 +71,7 @@
 
                 (ii) expenses for room and board, uniforms, transportation, and supplementary items and services (including extended day programs) which are required or provided by a public, private, or religious school in connection with such enrollment or attendance, and
 
-                (iii) expenses for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> ) or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is in school.
+                (iii) expenses for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i))  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is in school.
 
                 Clause (iii) shall not include expenses for computer software designed for sports, games, or hobbies unless the software is predominantly educational in nature.
 

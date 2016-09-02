@@ -123,9 +123,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–295, § 221(a)(51)][/us/pl/113/295/s221/a/51], struck out “on or after June 22, 1954” after “If property was acquired” in introductory provisions.
+    2014—Subsec. (a). [Pub. L. 113–295][/us/pl/113/295] struck out “on or after June 22, 1954” after “If property was acquired” in introductory provisions.
 
-    Subsec. (c)(1)(A), (2)(A). [Pub. L. 113–295, § 221(a)(51)][/us/pl/113/295/s221/a/51], struck out “, on or after June 22, 1954,” after “by a corporation”.
+    Subsec. (c)(1)(A), (2)(A). [Pub. L. 113–295][/us/pl/113/295] struck out “, on or after June 22, 1954,” after “by a corporation”.
 
     2005—Subsec. (e)(2)(C)(ii). [Pub. L. 109–135][/us/pl/109/135] reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “An election under clause (i) shall be included with the return of tax for the taxable year in which the transaction occurred, shall be in such form and manner as the Secretary may prescribe, and, once made, shall be irrevocable.”
 
@@ -194,8 +194,8 @@
 [/us/stat/119/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2631
 [/us/pl/113/295/s221/a/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F51
 [/us/stat/128/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4045
-[/us/pl/113/295/s221/a/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F51
-[/us/pl/113/295/s221/a/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F51
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36

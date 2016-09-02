@@ -53,7 +53,7 @@
 
     Section 418A, added [Pub. L. 96–364, title II, § 202(a)][/us/pl/96/364/s202/a], Sept. 26, 1980, [94 Stat. 1274][/us/stat/94/1274], related to notice of reorganization and funding requirements.
 
-    Section 418B, added [Pub. L. 96–364, title II, § 202(a)][/us/pl/96/364/s202/a], Sept. 26, 1980, [94 Stat. 1274][/us/stat/94/1274], related to Minimum contribution requirement.
+    Section 418B, added [Pub. L. 96–364, title II, § 202(a)][/us/pl/96/364/s202/a], Sept. 26, 1980, [94 Stat. 1274][/us/stat/94/1274], related to minimum contribution requirement.
 
     Section 418C, added [Pub. L. 96–364, title II, § 202(a)][/us/pl/96/364/s202/a], Sept. 26, 1980, [94 Stat. 1278][/us/stat/94/1278], related to overburden credit against minimum contribution requirement.
 

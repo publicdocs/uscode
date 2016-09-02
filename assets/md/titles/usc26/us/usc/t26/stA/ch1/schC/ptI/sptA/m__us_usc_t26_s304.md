@@ -213,7 +213,7 @@
 
     2014—Subsec. (b)(3)(D). [Pub. L. 113–295, § 221(a)(48)(B)][/us/pl/113/295/s221/a/48/B], struck out “and special rule” after “Definitions” in heading.
 
-    Subsec. (b)(3)(D)(iii). [Pub. L. 113–295, § 221(a)(48)(A)][/us/pl/113/295/s221/a/48/A], struck out cl. (iii) which read as follows: “In the case of a BHC which is formed before 1985, clause (i) of subparagraph (C) shall not apply.”
+    Subsec. (b)(3)(D)(iii). [Pub. L. 113–295, § 221(a)(48)(A)][/us/pl/113/295/s221/a/48/A], struck out cl. (iii). Text read as follows: “In the case of a BHC which is formed before 1985, clause (i) of subparagraph (C) shall not apply.”
 
     2010—Subsec. (b)(5)(B), (C). [Pub. L. 111–226][/us/pl/111/226] added subpar. (B) and redesignated former subpar. (B) as (C).
 

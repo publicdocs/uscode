@@ -403,7 +403,7 @@
 
     2014—Subsec. (h)(2)(A)(i). [Pub. L. 113–295, § 220][/us/pl/113/295/s220](l)(1), substituted “([52 U.S.C. 30102(e)][/us/usc/t52/s30102/e])” for “([2 U.S.C. 432(e)][/us/usc/t2/s432/e])”.
 
-    Subsecs. (i)(6), (j)(5)(A). [Pub. L. 113–295, § 220][/us/pl/113/295/s220](l)(2), substituted “([52 U.S.C. 30101][/us/usc/t52/s30101] et seq.)” for “([2 U.S.C. 431][/us/usc/t2/s431] et seq.)”
+    Subsecs. (i)(6), (j)(5)(A). [Pub. L. 113–295, § 220][/us/pl/113/295/s220](l)(2), substituted “([52 U.S.C. 30101][/us/usc/t52/s30101] et seq.)” for “([2 U.S.C. 431][/us/usc/t2/s431] et seq.)”.
 
     2002—Subsec. (e)(5). [Pub. L. 107–276, § 2(b)][/us/pl/107/276/s2/b], added par. (5).
 

@@ -173,7 +173,7 @@
 
     Subsec. (d)(5). [Pub. L. 113–295, § 221(a)(47)(A)(iii)][/us/pl/113/295/s221/a/47/A/iii], struck out “after October 9, 1969, and” after “some time”.
 
-    Subsecs. (i), (j). [Pub. L. 113–295, § 221(a)(47)(A)(iv)][/us/pl/113/295/s221/a/47/A/iv], redesignated subsec. (j) as (i) and struck out former subsec. (i) which read as follows: “For purposes of this section, an obligation shall not be corporate acquisition indebtedness if issued after October 9, 1969, to provide consideration for the acquisition of—
+    Subsecs. (i), (j). [Pub. L. 113–295, § 221(a)(47)(A)(iv)][/us/pl/113/295/s221/a/47/A/iv], redesignated subsec. (j) as (i) and struck out former subsec. (i). Prior to amendment, text of subsec. (i) read as follows: “For purposes of this section, an obligation shall not be corporate acquisition indebtedness if issued after October 9, 1969, to provide consideration for the acquisition of—
 
     “(1) stock or assets pursuant to a binding written contract which was in effect on October 9, 1969, and at all times thereafter before such acquisition, or
 
@@ -185,8 +185,6 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Except as otherwise provided in [section 221(a) of Pub. L. 113–295][/us/pl/113/295/s221/a], amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
-
 [Pub. L. 113–295, div. A, title II, § 221(a)(47)(B)][/us/pl/113/295/s221/a/47/B], Dec. 19, 2014, [128 Stat. 4045][/us/stat/128/4045], provided that: 
 
 > “The amendments made by this paragraph \[amending this section\] shall not—
@@ -194,6 +192,8 @@
 >     “(i) apply to obligations issued on or before October 9, 1969 (determined in the same manner as under section 279 of the Internal Revenue Code of 1986 as in effect before such amendments), and
 
 >     “(ii) be construed to require interest on obligations issued on or before December 31, 1967, to be taken into account under section 279(a)(2) of such Code (as in effect after such amendments).”
+
+    Except as otherwise provided in [section 221(a) of Pub. L. 113–295][/us/pl/113/295/s221/a], amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1976 Amendment__ 
 
@@ -228,12 +228,12 @@
 [/us/pl/113/295/s221/a/47/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F47%2FA%2Fiv
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F514
+[/us/pl/113/295/s221/a/47/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F47%2FB
+[/us/stat/128/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4045
 [/us/pl/113/295/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/113/295/s221/a/47/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F47%2FB
-[/us/stat/128/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4045
 [/us/pl/94/514/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F514%2Fs1%2Fb
 [/us/stat/90/2443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2443
 [/us/pl/91/172/s411/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs411%2Fc

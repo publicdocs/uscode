@@ -421,7 +421,7 @@
 
                     A schedule of contribution rates provided by the plan sponsor and relied upon by bargaining parties in negotiating a collective bargaining agreement shall remain in effect for the duration of that collective bargaining agreement.
 
-            (C) __Imposition of schedule where failure to adopt rehabilitation plan.—__ 
+            (C) __Imposition of schedule where failure to adopt rehabilitation plan__ 
 
                 (i) __Initial contribution schedule__ 
 
@@ -1099,7 +1099,7 @@
 
     The enactment of the Pension Protection Act of 2006, referred to in subsec. (e)(4)(B)(i)(II), means the enactment of [Pub. L. 109–280][/us/pl/109/280], which was approved Aug. 17, 2006.
 
-    The date of enactment of the Multiemployer Pension Reform Act of 2014, referred to in subsec. (e)(9)(D)(vii)(III), is the date of enactment of [Pub. L. 113–235][/us/pl/113/235], which was approved Dec. 16, 2014.
+    The date of enactment of the Multiemployer Pension Reform Act of 2014, referred to in subsec. (e)(9)(D)(vii)(III), is the date of enactment of div. O of [Pub. L. 113–235][/us/pl/113/235], which was approved Dec. 16, 2014.
 
     Section 230 of the Social Security Act, referred to in subsec. (e)(9)(H)(v)(III)(bb), is classified to [section 430 of Title 42][/us/usc/t42/s430], The Public Health and Welfare.
 
@@ -1155,9 +1155,9 @@
 
     [Pub. L. 113–235, § 109(b)(1)][/us/pl/113/235/s109/b/1], struck out par. (9) which related to adjustments disregarded in withdrawal liability determination.
 
-    Subsec. (f)(3). [Pub. L. 113–235, § 109(b)(2)(B)][/us/pl/113/235/s109/b/2/B], which directed the substitution of “During the period beginning on the date of the certification under subsection (b)(3)(A) for the initial critical year and ending on the date of the adoption of a rehabilitation plan—” for “During the rehabilitation plan adoption period—” in par. (4), was executed by making the substitution in par. (3) to reflect the probable intent of Congress.
+    Subsec. (f)(3). [Pub. L. 113–235, § 109(b)(2)(B)][/us/pl/113/235/s109/b/2/B], which directed amendment of par. (4) as redesignated by [section 109(b)(2)(A) of Pub. L. 113–235][/us/pl/113/235/s109/b/2/A] by substituting “During the period beginning on the date of the certification under subsection (b)(3)(A) for the initial critical year and ending on the date of the adoption of a rehabilitation plan—” for “During the rehabilitation plan adoption period—”, was executed by making the substitution in par. (3) as redesignated, to reflect the probable intent of Congress. See below.
 
-    [Pub. L. 113–235, § 109(b)(2)(A)][/us/pl/113/235/s109/b/2/A], redesignated par. (4) as (3) and struck out heading and text of former par. (3). Text read as follows “Any benefit reductions under this subsection shall be disregarded in determining a plan’s unfunded vested benefits for purposes of determining an employer’s withdrawal liability under section 4201 of the Employee Retirement Income Security Act of 1974.”
+    [Pub. L. 113–235, § 109(b)(2)(A)][/us/pl/113/235/s109/b/2/A], redesignated par. (4) as (3) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows “Any benefit reductions under this subsection shall be disregarded in determining a plan’s unfunded vested benefits for purposes of determining an employer’s withdrawal liability under section 4201 of the Employee Retirement Income Security Act of 1974.”
 
     Subsec. (f)(4). [Pub. L. 113–235, § 109(b)(2)(A)][/us/pl/113/235/s109/b/2/A], redesignated par. (4) as (3).
 
@@ -1165,7 +1165,7 @@
 
     Subsec. (g)(1). [Pub. L. 113–235, § 201(b)(6)][/us/pl/113/235/s201/b/6], inserted “, or benefit reductions or suspensions while in critical and declining status under subsection (e)(9)), unless the withdrawal occurs more than ten years after the effective date of a benefit suspension by a plan in critical and declining status,” after “benefit reductions under subsection (e)(8) or (f)”.
 
-    Subsecs. (h) to (j). [Pub. L. 113–235, § 109(b)(3)][/us/pl/113/235/s109/b/3], redesignated subsecs. (g), (h), and (i) as (h), (i), and (j), respectively.
+    Subsecs. (h) to (j). [Pub. L. 113–235, § 109(b)(3)][/us/pl/113/235/s109/b/3], redesignated subsecs. (g) to (i) as (h) to (j), respectively.
 
     2008—Subsec. (b)(3)(C). [Pub. L. 110–458, § 102(b)(2)(A)][/us/pl/110/458/s102/b/2/A], substituted “section 101(b)(1)” for “section 101(b)(4)”.
 
@@ -1400,6 +1400,7 @@
 [/us/pl/113/235/s201/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs201%2Fb%2F5
 [/us/pl/113/235/s109/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs109%2Fb%2F1
 [/us/pl/113/235/s109/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs109%2Fb%2F2%2FB
+[/us/pl/113/235/s109/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs109%2Fb%2F2%2FA
 [/us/pl/113/235/s109/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs109%2Fb%2F2%2FA
 [/us/pl/113/235/s109/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs109%2Fb%2F2%2FA
 [/us/pl/113/235/s109/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs109%2Fb%2F4

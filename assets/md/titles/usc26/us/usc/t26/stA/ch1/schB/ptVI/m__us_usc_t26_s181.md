@@ -119,7 +119,7 @@
 
     2005—Subsec. (d)(2). [Pub. L. 109–135][/us/pl/109/135] struck out “For purposes of a television series, only the first 44 episodes of such series may be taken into account.” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
 
- __Effective Dates of 2014 Amendment__ 
+ __Effective Date of 2014 Amendment__ 
 
 [Pub. L. 113–295, div. A, title I, § 129(b)][/us/pl/113/295/s129/b], Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018], provided that: 
 

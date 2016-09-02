@@ -83,7 +83,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschF%2FptVIII" data-uslm-ref="/us/usc/t26/stA/ch1/schF/ptVIII">VIII.</a>  </td>
 
-    <td> Certain Savings Entities. <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be “Certain savings entities”. </sup></sup>   </td>
+    <td> Certain Savings Entities. <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be “Certain savings entities.” </sup></sup>   </td>
 
   </tr>
 

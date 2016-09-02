@@ -683,7 +683,7 @@
 
                             <td> 
 
-                        110%    </td>
+                        110%  </td>
 
   </tr>
 
@@ -699,7 +699,7 @@
 
                             <td> 
 
-                        115%    </td>
+                        115%  </td>
 
   </tr>
 
@@ -715,7 +715,7 @@
 
                             <td> 
 
-                        120%    </td>
+                        120%  </td>
 
   </tr>
 
@@ -731,7 +731,7 @@
 
                             <td> 
 
-                        125%    </td>
+                        125%  </td>
 
   </tr>
 
@@ -747,7 +747,7 @@
 
                             <td> 
 
-                        130%.  </td>
+                        130%  </td>
 
   </tr>
 
@@ -1371,11 +1371,11 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c)(5). [Pub. L. 113–295, § 221(a)(57)(C)(i)][/us/pl/113/295/s221/a/57/C/i], struck out subsec. (A) designation and heading and subsec. (B) which related to a transition rule for plan years beginning after 2007 and before 2011.
+    2014—Subsec. (c)(5). [Pub. L. 113–295, § 221(a)(57)(C)(i)][/us/pl/113/295/s221/a/57/C/i], struck out subpar. (A) designation and heading and subpar. (B) which related to a transition rule for plan years beginning after 2007 and before 2011.
 
     Subsec. (h)(2)(B)(i). [Pub. L. 113–159, § 2003(d)(1)][/us/pl/113/159/s2003/d/1], substituted “the valuation date for the plan year” for “the first day of the plan year”.
 
-    Subsec. (h)(2)(C)(iv)(II). [Pub. L. 113–159, § 2003(a)][/us/pl/113/159/s2003/a], amended table generally. Prior to amendment, table related applicable minimum and maximum percentages for calendar years 2012 to 2015 and after.
+    Subsec. (h)(2)(C)(iv)(II). [Pub. L. 113–159, § 2003(a)][/us/pl/113/159/s2003/a], amended table generally. Prior to amendment, table related to applicable minimum and maximum percentages for calendar years 2012 to 2015 and after.
 
     Subsec. (h)(2)(G). [Pub. L. 113–295, § 221(a)(57)(D)(i)][/us/pl/113/295/s221/a/57/D/i], struck out subpar. (G) which related to a transition rule for plan years beginning in 2008 or 2009.
 

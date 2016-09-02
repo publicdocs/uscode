@@ -297,7 +297,7 @@
 
             (C) no part of the net earnings of which inures to the benefit of any private shareholder or individual.
 
-        \[(20) Repealed. [Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iii)][/us/pl/113/295/s221/a/19/B/iii], Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040]\]
+        \[(20) Repealed. [Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iii)][/us/pl/113/295/s221/a/19/B/iii], Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040].\]
 
         (21)
 
@@ -1141,7 +1141,7 @@
 
     2014—Subsec. (c)(20). [Pub. L. 113–295, § 221(a)(19)(B)(iii)][/us/pl/113/295/s221/a/19/B/iii], struck out par. (20) which read as follows: “an organization or trust created or organized in the United States, the exclusive function of which is to form part of a qualified group legal services plan or plans, within the meaning of section 120. An organization or trust which receives contributions because of section 120(c)(5)(C) shall not be prevented from qualifying as an organization described in this paragraph merely because it provides legal services or indemnification against the cost of legal services unassociated with a qualified group legal services plan.”
 
-    Subsec. (s). [Pub. L. 113–295, § 221(a)(62)][/us/pl/113/295/s221/a/62], struck out subsec. (s) which read as follows: “For nonexemption of Communist-controlled organizations, see section 11(b) of the Internal Security Act of 1950 ([64 Stat. 997][/us/stat/64/997]; [50 U.S.C. 790(b)][/us/usc/t50/s790/b]).”
+    Subsec. (s). [Pub. L. 113–295, § 221(a)(62)][/us/pl/113/295/s221/a/62], struck out subsec. (s). Text read as follows: “For nonexemption of Communist-controlled organizations, see section 11(b) of the Internal Security Act of 1950 ([64 Stat. 997][/us/stat/64/997]; [50 U.S.C. 790(b)][/us/usc/t50/s790/b]).”
 
     2010—Subsec. (c)(9). [Pub. L. 111–152][/us/pl/111/152] inserted at end “For purposes of providing for the payment of sick and accident benefits to members of such an association and their dependents, the term ‘dependent’ shall include any individual who is a child (as defined in section 152(f)(1)) of a member who as of the end of the calendar year has not attained age 27.”
 

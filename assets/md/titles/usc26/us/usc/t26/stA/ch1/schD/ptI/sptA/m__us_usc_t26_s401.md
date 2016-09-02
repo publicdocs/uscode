@@ -1103,7 +1103,7 @@
 
                     (II) is a district organized under the laws of a State as a municipal corporation for the purpose of irrigation, water conservation, or drainage, and
 
-                (v) an organization which is a national association of organizations described in clause (i), (ii),, <sup>\[5\]</sup>  <sup><sup> 5 So in original. </sup></sup>  (iii), or (iv).
+                (v) an organization which is a national association of organizations described in clause (i), (ii),,3 (iii), or (iv).
 
             (C) __Special rule for certain distributions__ 
 

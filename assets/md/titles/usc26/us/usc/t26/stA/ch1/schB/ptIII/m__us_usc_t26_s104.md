@@ -25,9 +25,19 @@
 
         (3) amounts received through accident or health insurance (or through an arrangement having the effect of accident or health insurance) for personal injuries or sickness (other than amounts received by an employee, to the extent such amounts (A) are attributable to contributions by the employer which were not includible in the gross income of the employee, or (B) are paid by the employer);
 
-        (4) amounts received as a pension, annuity, or similar allowance for personal injuries or sickness resulting from active service in the armed forces of any country or in the Coast and Geodetic Survey or the Public Health Service, or as a disability annuity payable under the provisions of section 808 of the Foreign Service Act of 1980; and
+        (4) amounts received as a pension, annuity, or similar allowance for personal injuries or sickness resulting from active service in the armed forces of any country or in the Coast and Geodetic Survey or the Public Health Service, or as a disability annuity payable under the provisions of section 808 of the Foreign Service Act of 1980;
 
-        (5) amounts received by an individual as disability income attributable to injuries incurred as a direct result of a terroristic or military action (as defined in section 692(c)(2)).
+        (5) amounts received by an individual as disability income attributable to injuries incurred as a direct result of a terroristic or military action (as defined in section 692(c)(2)); and
+
+        (6)
+
+         amounts received pursuant to—
+
+            (A) section 1201 of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796][/us/usc/t42/s3796]); or
+
+            (B) a program established under the laws of any State which provides monetary compensation for surviving dependents of a public safety officer who has died as the direct and proximate result of a personal injury sustained in the line of duty,
+
+            except that subparagraph (B) shall not apply to any amounts that would have been payable if death of the public safety officer had occurred other than as the direct and proximate result of a personal injury sustained in the line of duty.
 
         For purposes of paragraph (3), in the case of an individual who is, or has been, an employee within the meaning of section 401(c)(1) (relating to self-employed individuals), contributions made on behalf of such individual while he was such an employee to a trust described in section 401(a) which is exempt from tax under section 501(a), or under a plan described in section 403(a), shall, to the extent allowed as deductions under section 404, be treated as contributions by the employer which were not includible in the gross income of the employee. For purposes of paragraph (2), emotional distress shall not be treated as a physical injury or physical sickness. The preceding sentence shall not apply to an amount of damages not in excess of the amount paid for medical care (described in subparagraph (A) or (B) of section 213(d)(1)) attributable to emotional distress.
 
@@ -87,13 +97,15 @@
 
         (2) For exclusion of part of disability retirement pay from the application of subsection (a)(4) of this section, see [section 1403 of title 10][/us/usc/t10/s1403], United States Code (relating to career compensation laws).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 30][/us/stat/68A/30]; [Pub. L. 86–723, § 51][/us/pl/86/723/s51], Sept. 8, 1960, [74 Stat. 847][/us/stat/74/847]; [Pub. L. 87–792, § 7(d)][/us/pl/87/792/s7/d], Oct. 10, 1962, [76 Stat. 829][/us/stat/76/829]; [Pub. L. 94–455, title V, § 505(b)][/us/pl/94/455/s505/b], (e)(1), title XIX, § 1901(a)(18), Oct. 4, 1976, [90 Stat. 1567][/us/stat/90/1567], 1568, 1766; [Pub. L. 96–465, title II, § 2206(e)(1)][/us/pl/96/465/s2206/e/1], Oct. 17, 1980, [94 Stat. 2162][/us/stat/94/2162]; [Pub. L. 97–473, title I, § 101(a)][/us/pl/97/473/s101/a], Jan. 14, 1983, [96 Stat. 2605][/us/stat/96/2605]; [Pub. L. 101–239, title VII, § 7641(a)][/us/pl/101/239/s7641/a], Dec. 19, 1989, [103 Stat. 2379][/us/stat/103/2379]; [Pub. L. 104–188, title I, § 1605(a)][/us/pl/104/188/s1605/a]–(c), Aug. 20, 1996, [110 Stat. 1838][/us/stat/110/1838]; [Pub. L. 104–191, title III, § 311(b)][/us/pl/104/191/s311/b], Aug. 21, 1996, [110 Stat. 2053][/us/stat/110/2053]; [Pub. L. 107–134, title I, § 113(a)][/us/pl/107/134/s113/a], Jan. 23, 2002, [115 Stat. 2435][/us/stat/115/2435].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 30][/us/stat/68A/30]; [Pub. L. 86–723, § 51][/us/pl/86/723/s51], Sept. 8, 1960, [74 Stat. 847][/us/stat/74/847]; [Pub. L. 87–792, § 7(d)][/us/pl/87/792/s7/d], Oct. 10, 1962, [76 Stat. 829][/us/stat/76/829]; [Pub. L. 94–455, title V, § 505(b)][/us/pl/94/455/s505/b], (e)(1), title XIX, § 1901(a)(18), Oct. 4, 1976, [90 Stat. 1567][/us/stat/90/1567], 1568, 1766; [Pub. L. 96–465, title II, § 2206(e)(1)][/us/pl/96/465/s2206/e/1], Oct. 17, 1980, [94 Stat. 2162][/us/stat/94/2162]; [Pub. L. 97–473, title I, § 101(a)][/us/pl/97/473/s101/a], Jan. 14, 1983, [96 Stat. 2605][/us/stat/96/2605]; [Pub. L. 101–239, title VII, § 7641(a)][/us/pl/101/239/s7641/a], Dec. 19, 1989, [103 Stat. 2379][/us/stat/103/2379]; [Pub. L. 104–188, title I, § 1605(a)][/us/pl/104/188/s1605/a]–(c), Aug. 20, 1996, [110 Stat. 1838][/us/stat/110/1838]; [Pub. L. 104–191, title III, § 311(b)][/us/pl/104/191/s311/b], Aug. 21, 1996, [110 Stat. 2053][/us/stat/110/2053]; [Pub. L. 107–134, title I, § 113(a)][/us/pl/107/134/s113/a], Jan. 23, 2002, [115 Stat. 2435][/us/stat/115/2435]; [Pub. L. 114–14, § 2][/us/pl/114/14/s2], May 22, 2015, [129 Stat. 198][/us/stat/129/198].)
 
  __References in Text__ 
 
     Section 808 of the Foreign Service Act of 1980, referred to in subsec. (a)(4), is [Pub. L. 96–465, title I, § 808][/us/pl/96/465/s808], Oct. 17, 1980, [94 Stat. 2110][/us/stat/94/2110], which is classified to [section 4048 of Title 22][/us/usc/t22/s4048], Foreign Relations and Intercourse.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(6). [Pub. L. 114–14][/us/pl/114/14] added par. (6).
 
     2002—Subsec. (a)(5). [Pub. L. 107–134][/us/pl/107/134] substituted “a terroristic or military action (as defined in section 692(c)(2)).” for “a violent attack which the Secretary of State determines to be a terrorist attack and which occurred while such individual was an employee of the United States engaged in the performance of his official duties outside the United States.”
 
@@ -202,6 +214,7 @@
 ----------
 ----------
 
+[/us/usc/t42/s3796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796
 [/us/usc/t10/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1403
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F30
@@ -223,9 +236,12 @@
 [/us/stat/110/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2053
 [/us/pl/107/134/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs113%2Fa
 [/us/stat/115/2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2435
+[/us/pl/114/14/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F14%2Fs2
+[/us/stat/129/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F198
 [/us/pl/96/465/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs808
 [/us/stat/94/2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2110
 [/us/usc/t22/s4048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4048
+[/us/pl/114/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F14
 [/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
 [/us/pl/104/188/s1605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1605%2Fb
 [/us/pl/104/188/s1605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1605%2Fa

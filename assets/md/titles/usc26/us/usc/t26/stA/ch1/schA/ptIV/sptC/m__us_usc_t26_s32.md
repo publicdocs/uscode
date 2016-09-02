@@ -485,7 +485,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(1). [Pub. L. 113–295, § 221(a)(3)(A)][/us/pl/113/295/s221/a/3/A], struck out subpar. (A) designation, heading, and introductory provisions “In the case of taxable years beginning after 1995:” before the table and struck out subpars. (B) and (C) which related to transitional percentages for 1995 and transitional percentages for 1994, respectively, and realigned margins.
+    2014—Subsec. (b)(1). [Pub. L. 113–295, § 221(a)(3)(A)][/us/pl/113/295/s221/a/3/A], struck out subpar. (A) designation, heading “In general”, and introductory provisions “In the case of taxable years beginning after 1995:” before the table and struck out subpars. (B) and (C) which related to transitional percentages for 1995 and transitional percentages for 1994, respectively, and realigned margins.
 
     Subsec. (b)(2)(B). [Pub. L. 113–295, § 221(a)(3)(B)][/us/pl/113/295/s221/a/3/B], substituted “increased by $3,000.” for “increased by—
 

@@ -123,7 +123,7 @@
 
         If the plan sponsor of a plan in critical status, as described in subsection 1 432(b)(2), determines under subsection (d)(1) or (2) that the plan may become insolvent (within the meaning of subsection (b)(1)), the plan sponsor shall—
 
-            (A) notify the Secretary, the parties described in section 101(f)(1) of the Employee Retirement Income Security Act of 1974 of that determination, and
+            (A) notify the Secretary, <sup>\[3\]</sup>  <sup><sup> 3 So in original. The comma probably should be “and”. </sup></sup>  the parties described in section 101(f)(1) of the Employee Retirement Income Security Act of 1974 of that determination, and
 
             (B) inform the parties described in section 101(f)(1) of the Employee Retirement Income Security Act of 1974 that if insolvency occurs certain benefit payments will be suspended, but that basic benefits will continue to be paid.
 
