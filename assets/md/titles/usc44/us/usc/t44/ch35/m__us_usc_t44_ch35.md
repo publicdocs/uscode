@@ -203,71 +203,15 @@ SUBCHAPTER I—FEDERAL INFORMATION POLICY  </td>
 
     <td> 
 
-SUBCHAPTER II—INFORMATION SECURITY  </td>
+[SUBCHAPTER II—REPEALED]  </td>
 
   </tr>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3531" data-uslm-ref="/us/usc/t44/s3531">3531.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3531" data-uslm-ref="/us/usc/t44/s3531">3531</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3538" data-uslm-ref="/us/usc/t44/s3538">3538.</a>  </td>
 
-    <td> Purposes.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3532" data-uslm-ref="/us/usc/t44/s3532">3532.</a>  </td>
-
-    <td> Definitions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3533" data-uslm-ref="/us/usc/t44/s3533">3533.</a>  </td>
-
-    <td> Authority and functions of the Director.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3534" data-uslm-ref="/us/usc/t44/s3534">3534.</a>  </td>
-
-    <td> Federal agency responsibilities.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3535" data-uslm-ref="/us/usc/t44/s3535">3535.</a>  </td>
-
-    <td> Annual independent evaluation.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3536" data-uslm-ref="/us/usc/t44/s3536">3536.</a>  </td>
-
-    <td> National security systems.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3537" data-uslm-ref="/us/usc/t44/s3537">3537.</a>  </td>
-
-    <td> Authorization of appropriations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3538" data-uslm-ref="/us/usc/t44/s3538">3538.</a>  </td>
-
-    <td> Effect on existing law.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -275,13 +219,29 @@ SUBCHAPTER II—INFORMATION SECURITY  </td>
 
     <td> 
 
-SUBCHAPTER III—INFORMATION SECURITY  </td>
+[SUBCHAPTER III—REPEALED]  </td>
 
   </tr>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3541" data-uslm-ref="/us/usc/t44/s3541">3541.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3541" data-uslm-ref="/us/usc/t44/s3541">3541</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3549" data-uslm-ref="/us/usc/t44/s3549">3549.</a>  </td>
+
+    <td> Repealed.]  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+SUBCHAPTER II—INFORMATION SECURITY  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3551" data-uslm-ref="/us/usc/t44/s3551">3551.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -289,7 +249,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3542" data-uslm-ref="/us/usc/t44/s3542">3542.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3552" data-uslm-ref="/us/usc/t44/s3552">3552.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -297,15 +257,15 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3543" data-uslm-ref="/us/usc/t44/s3543">3543.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3553" data-uslm-ref="/us/usc/t44/s3553">3553.</a>  </td>
 
-    <td> Authority and functions of the Director.  </td>
+    <td> Authority and functions of the Director and the Secretary.  </td>
 
   </tr>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3544" data-uslm-ref="/us/usc/t44/s3544">3544.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3554" data-uslm-ref="/us/usc/t44/s3554">3554.</a>  </td>
 
     <td> Federal agency responsibilities.  </td>
 
@@ -313,7 +273,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3545" data-uslm-ref="/us/usc/t44/s3545">3545.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3555" data-uslm-ref="/us/usc/t44/s3555">3555.</a>  </td>
 
     <td> Annual independent evaluation.  </td>
 
@@ -321,7 +281,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3546" data-uslm-ref="/us/usc/t44/s3546">3546.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3556" data-uslm-ref="/us/usc/t44/s3556">3556.</a>  </td>
 
     <td> Federal information security incident center.  </td>
 
@@ -329,7 +289,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3547" data-uslm-ref="/us/usc/t44/s3547">3547.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3557" data-uslm-ref="/us/usc/t44/s3557">3557.</a>  </td>
 
     <td> National security systems.  </td>
 
@@ -337,15 +297,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3548" data-uslm-ref="/us/usc/t44/s3548">3548.</a>  </td>
-
-    <td> Authorization of appropriations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3549" data-uslm-ref="/us/usc/t44/s3549">3549.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3558" data-uslm-ref="/us/usc/t44/s3558">3558.</a>  </td>
 
     <td> Effect on existing law.  </td>
 
@@ -354,6 +306,8 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–283, § 2(e)(1)][/us/pl/113/283/s2/e/1], Dec. 18, 2014, [128 Stat. 3086][/us/stat/128/3086], added heading for subchapter II and items 3551 to 3558 and struck out heading for former subchapter II and items 3531 to 3538 and heading for subchapter III and items 3541 to 3549. Prior to amendment, headings for both subchapters II and III read “INFORMATION SECURITY” and items under each subchapter were substantially similar to items 3551 to 3558.
 
     2002—[Pub. L. 107–347, title III, § 301(b)(2)][/us/pl/107/347/s301/b/2], Dec. 17, 2002, [116 Stat. 2955][/us/stat/116/2955], added heading for subchapter III and items 3541 to 3549.
 
@@ -374,6 +328,8 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 ----------
 ----------
 
+[/us/pl/113/283/s2/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fe%2F1
+[/us/stat/128/3086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3086
 [/us/pl/107/347/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs301%2Fb%2F2
 [/us/stat/116/2955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2955
 [/us/pl/107/296/s1001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1001%2Fb%2F2

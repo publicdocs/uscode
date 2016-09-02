@@ -37,6 +37,10 @@
 
  __Short Title of 2014 Amendment__ 
 
+[Pub. L. 113–283, § 1][/us/pl/113/283/s1], Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073], provided that: 
+
+> “This Act \[enacting subchapter II of chapter 35 of this title, amending sections 143 and 511 of Title 6, Domestic Security, sections 2222, 2223, and 2315 of Title 10, Armed Forces, and sections 278g–3, 278g–4, and 7406 of Title 15, Commerce and Trade, repealing subchapters II and III of chapter 35 of this title, and enacting provisions set out as notes under sections 3553 and 3554 of this title\] may be cited as the ‘Federal Information Security Modernization Act of 2014’.”
+
 [Pub. L. 113–187, § 1(a)][/us/pl/113/187/s1/a], Nov. 26, 2014, [128 Stat. 2003][/us/stat/128/2003], provided that: 
 
 > “This Act \[enacting sections 2208, 2209, and 2911 of this title, amending sections 2107, 2111, 2114 to 2116, 2201, 2203 to 2205, 2207, 2901, 2902, 2904 to 2907, 3102 to 3106, 3301 to 3303a, and 3312 of this title, repealing sections 3315 to 3324 of this title, and enacting provisions set out as notes under sections 2108 and 2207 of this title\] may be cited as the ‘Presidential and Federal Records Act Amendments of 2014’.”
@@ -160,6 +164,8 @@
 [/us/stat/60/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F838
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/pl/97/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F4
+[/us/pl/113/283/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs1
+[/us/stat/128/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3073
 [/us/pl/113/187/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs1%2Fa
 [/us/stat/128/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2003
 [/us/pl/110/404/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F404%2Fs1

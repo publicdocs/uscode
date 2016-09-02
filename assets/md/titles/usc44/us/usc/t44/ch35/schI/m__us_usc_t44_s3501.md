@@ -67,7 +67,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-    Amendment by [Pub. L. 106–398][/us/pl/106/398] effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, § 1065\] of [Pub. L. 106–398][/us/pl/106/398], set out as an Effective Date note under [section 3531 of this title][/us/usc/t44/s3531].
+    Amendment by [Pub. L. 106–398][/us/pl/106/398] effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, § 1065\] of [Pub. L. 106–398][/us/pl/106/398], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], formerly set out as an Effective Date note under former [section 3531 of this title][/us/usc/t44/s3531].
 
  __Effective Date__ 
 
@@ -1397,7 +1397,7 @@
 
 [Pub. L. 107–347, title III, § 301(c)(1)(A)][/us/pl/107/347/s301/c/1/A], Dec. 17, 2002, [116 Stat. 2955][/us/stat/116/2955], provided that: 
 
-> “Nothing in this Act \[see Tables for classification\] (including any amendment made by this Act) shall supersede any authority of the Secretary of Defense, the Director of Central Intelligence, or other agency head, as authorized by law and as directed by the President, with regard to the operation, control, or management of national security systems, as defined by [section 3542(b)(2) of title 44][/us/usc/t44/s3542/b/2], United States Code.”
+> “Nothing in this Act \[see Tables for classification\] (including any amendment made by this Act) shall supersede any authority of the Secretary of Defense, the Director of Central Intelligence, or other agency head, as authorized by law and as directed by the President, with regard to the operation, control, or management of national security systems, as defined by \[former\] [section 3542(b)(2) of title 44][/us/usc/t44/s3542/b/2], United States Code \[see now [44 U.S.C. 3552(b)(6)][/us/usc/t44/s3552/b/6]\].”
 
     \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of [Pub. L. 108–458][/us/pl/108/458], set out as a note under [section 3001 of Title 50][/us/usc/t50/s3001], War and National Defense.\]
 
@@ -1864,6 +1864,7 @@
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t44/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3531
 [/us/pl/104/13/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13%2Fs4
 [/us/stat/109/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F185
@@ -1926,6 +1927,7 @@
 [/us/pl/107/347/s301/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs301%2Fc%2F1%2FA
 [/us/stat/116/2955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2955
 [/us/usc/t44/s3542/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542%2Fb%2F2
+[/us/usc/t44/s3552/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552%2Fb%2F6
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/107/347/s301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs301%2Fc%2F2

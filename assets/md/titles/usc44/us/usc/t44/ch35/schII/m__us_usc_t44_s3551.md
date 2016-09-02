@@ -1,7 +1,7 @@
 ---
 ---
 
-# 44 U.S.C., USLM ref /us/usc/t44/s3541
+# 44 U.S.C., USLM ref /us/usc/t44/s3551
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t44/ch35/schIII/m__us_usc_t44_ch35_schIII.md) | [Next](./../../../../..//us/usc/t44/ch35/schIII/m__us_usc_t44_s3542.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3541)
+[Previous](./../../../../..//us/usc/t44/ch35/schII/m__us_usc_t44_ch35_schII.md) | [Next](./../../../../..//us/usc/t44/ch35/schII/m__us_usc_t44_s3552.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3551)
 
-## § 3541. Purposes
+## § 3551. Purposes
 
     The purposes of this subchapter are to—
 
@@ -23,25 +23,23 @@
 
     (3) provide for development and maintenance of minimum controls required to protect Federal information and information systems;
 
-    (4) provide a mechanism for improved oversight of Federal agency information security programs;
+    (4) provide a mechanism for improved oversight of Federal agency information security programs, including through automated security tools to continuously diagnose and improve security;
 
     (5) acknowledge that commercially developed information security products offer advanced, dynamic, robust, and effective information security solutions, reflecting market solutions for the protection of critical information infrastructures important to the national defense and economic security of the nation that are designed, built, and operated by the private sector; and
 
     (6) recognize that the selection of specific technical hardware and software information security solutions should be left to individual agencies from among commercially developed products.
 
-(Added [Pub. L. 107–347, title III, § 301(b)(1)][/us/pl/107/347/s301/b/1], Dec. 17, 2002, [116 Stat. 2946][/us/stat/116/2946].)
+(Added [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073].)
 
- __Effective Date__ 
+ __Prior Provisions__ 
 
-[Pub. L. 107–347, title IV, § 402(b)][/us/pl/107/347/s402/b], Dec. 17, 2002, [116 Stat. 2962][/us/stat/116/2962], provided that: 
-
-> “Title III \[see Short Title of 2002 Amendments note set out under [section 101 of this title][/us/usc/t44/s101]\] and this title \[enacting provisions set out as a note under [section 3601 of this title][/us/usc/t44/s3601]\] shall take effect on the date of enactment of this Act \[Dec. 17, 2002\].”
+    Provisions similar to this section were contained in sections 3531 and 3541 of this title prior to repeal by [Pub. L. 113–283][/us/pl/113/283].
 
  __Cybersecurity Improvements to Agency Information Systems__ 
 
 [Pub. L. 113–76, div. F, title V, § 554][/us/pl/113/76/s554], Jan. 17, 2014, [128 Stat. 278][/us/stat/128/278], provided that:
 
->     “(a) Of the amounts made available by this Act \[div. F of [Pub. L. 113–76][/us/pl/113/76], see Tables for classification\] for National Protection and Programs Directorate, ‘Infrastructure Protection and Information Security’, $166,000,000 for the ‘Federal Network Security’ program, project, and activity shall be used to deploy on Federal systems technology to improve the information security of agency information systems covered by [section 3543(a) of title 44][/us/usc/t44/s3543/a], United States Code: Provided, That funds made available under this section shall be used to assist and support Government-wide and agency-specific efforts to provide adequate, risk-based, and cost-effective cybersecurity to address escalating and rapidly evolving threats to information security, including the acquisition and operation of a continuous monitoring and diagnostics program, in collaboration with departments and agencies, that includes equipment, software, and Department of Homeland Security supplied services: Provided further, That not later than April 1, 2014, and quarterly thereafter, the Under Secretary of Homeland Security of the National Protection and Programs Directorate shall submit to the Committees on Appropriations of the Senate and the House of Representatives a report on the obligation and expenditure of funds made available under this section: Provided further, That continuous monitoring and diagnostics software procured by the funds made available by this section shall not transmit to the Department of Homeland Security any personally identifiable information or content of network communications of other agencies’ users: Provided further, That such software shall be installed, maintained, and operated in accordance with all applicable privacy laws and agency-specific policies regarding network content.
+>     “(a) Of the amounts made available by this Act \[div. F of [Pub. L. 113–76][/us/pl/113/76], see Tables for classification\] for National Protection and Programs Directorate, ‘Infrastructure Protection and Information Security’, $166,000,000 for the ‘Federal Network Security’ program, project, and activity shall be used to deploy on Federal systems technology to improve the information security of agency information systems covered by \[former\] [section 3543(a) of title 44][/us/usc/t44/s3543/a], United States Code \[see now [44 U.S.C. 3553][/us/usc/t44/s3553]\]: Provided, That funds made available under this section shall be used to assist and support Government-wide and agency-specific efforts to provide adequate, risk-based, and cost-effective cybersecurity to address escalating and rapidly evolving threats to information security, including the acquisition and operation of a continuous monitoring and diagnostics program, in collaboration with departments and agencies, that includes equipment, software, and Department of Homeland Security supplied services: Provided further, That not later than April 1, 2014, and quarterly thereafter, the Under Secretary of Homeland Security of the National Protection and Programs Directorate shall submit to the Committees on Appropriations of the Senate and the House of Representatives a report on the obligation and expenditure of funds made available under this section: Provided further, That continuous monitoring and diagnostics software procured by the funds made available by this section shall not transmit to the Department of Homeland Security any personally identifiable information or content of network communications of other agencies’ users: Provided further, That such software shall be installed, maintained, and operated in accordance with all applicable privacy laws and agency-specific policies regarding network content.
 
 >     “(b) Funds made available under this section may not be used to supplant funds provided for any such system within an agency budget.
 
@@ -57,21 +55,19 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t44/ch35/schIII/m__us_usc_t44_ch35_schIII.md) | [Next](./../../../../..//us/usc/t44/ch35/schIII/m__us_usc_t44_s3542.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3541)
+[Previous](./../../../../..//us/usc/t44/ch35/schII/m__us_usc_t44_ch35_schII.md) | [Next](./../../../../..//us/usc/t44/ch35/schII/m__us_usc_t44_s3552.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3551)
 
 ----------
 ----------
 
-[/us/pl/107/347/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs301%2Fb%2F1
-[/us/stat/116/2946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2946
-[/us/pl/107/347/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs402%2Fb
-[/us/stat/116/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2962
-[/us/usc/t44/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs101
-[/us/usc/t44/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3601
+[/us/pl/113/283/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fa
+[/us/stat/128/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3073
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/pl/113/76/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs554
 [/us/stat/128/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F278
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/usc/t44/s3543/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3543%2Fa
+[/us/usc/t44/s3553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3553
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/usc/t44/s3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3606
 [/us/pl/113/6/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs558

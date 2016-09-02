@@ -245,13 +245,15 @@
 
  __Effective Date of 2002 Amendments__ 
 
-    Amendment by [Pub. L. 107–347][/us/pl/107/347] effective Dec. 17, 2002, see [section 402(b) of Pub. L. 107–347][/us/pl/107/347/s402/b], set out as an Effective Date note under [section 3541 of this title][/us/usc/t44/s3541].
+[Pub. L. 107–347, title IV, § 402(b)][/us/pl/107/347/s402/b], Dec. 17, 2002, [116 Stat. 2962][/us/stat/116/2962], provided that: 
+
+> “Title III \[see Short Title of 2002 Amendments note set out under [section 101 of this title][/us/usc/t44/s101]\] and this title \[enacting provisions set out as a note under [section 3601 of this title][/us/usc/t44/s3601]\] shall take effect on the date of enactment of this Act \[Dec. 17, 2002\].”
 
     Amendment by [Pub. L. 107–296][/us/pl/107/296] effective 60 days after Nov. 25, 2002, see [section 4 of Pub. L. 107–296][/us/pl/107/296/s4], set out as an Effective Date note under [section 101 of Title 6][/us/usc/t6/s101], Domestic Security.
 
  __Effective Date of 2000 Amendment__ 
 
-    Amendment by [Pub. L. 106–398][/us/pl/106/398] effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, § 1065\] of [Pub. L. 106–398][/us/pl/106/398], set out as an Effective Date note under [section 3531 of this title][/us/usc/t44/s3531].
+    Amendment by [Pub. L. 106–398][/us/pl/106/398] effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, § 1065\] of [Pub. L. 106–398][/us/pl/106/398], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], formerly set out as an Effective Date note under former [section 3531 of this title][/us/usc/t44/s3531].
 
  __Effective Date of 1996 Amendment__ 
 
@@ -439,14 +441,16 @@
 [/us/pl/104/106/s5605/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5605%2Fc
 [/us/usc/t40/s757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs757
 [/us/usc/t40/s757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs757
-[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/pl/107/347/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs402%2Fb
-[/us/usc/t44/s3541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3541
+[/us/stat/116/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2962
+[/us/usc/t44/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs101
+[/us/usc/t44/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3601
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t44/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3531
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/106/s5701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs5701

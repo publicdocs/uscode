@@ -61,7 +61,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-    Amendment by [Pub. L. 106–398][/us/pl/106/398] effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, § 1065\] of [Pub. L. 106–398][/us/pl/106/398], set out as an Effective Date note under [section 3531 of this title][/us/usc/t44/s3531].
+    Amendment by [Pub. L. 106–398][/us/pl/106/398] effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, § 1065\] of [Pub. L. 106–398][/us/pl/106/398], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], formerly set out as an Effective Date note under former [section 3531 of this title][/us/usc/t44/s3531].
 
  __Termination of Reporting Requirements__ 
 
@@ -88,6 +88,7 @@
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t44/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3531
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
