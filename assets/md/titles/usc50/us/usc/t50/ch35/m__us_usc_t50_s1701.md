@@ -5139,6 +5139,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 12978 were contained in the following:
 
+    Notice of President of the United States, dated Oct. 19, 2015, 80 F.R. 63665.
+
     Notice of President of the United States, dated Oct. 16, 2014, 79 F.R. 62795.
 
     Notice of President of the United States, dated Oct. 16, 2013, 78 F.R. 62341.
@@ -5422,6 +5424,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Ex. Ord. No. 13413, Oct. 27, 2006, 71 F.R. 64105, as amended by Ex. Ord. No. 13671, §§ 1–3, July 8, 2014, 79 F.R. 39949, 39950.
 
     Continuations of national emergency declared by Ex. Ord. No. 13413 were contained in the following:
+
+    Notice of President of the United States, dated Oct. 21, 2015, 80 F.R. 65119.
 
     Notice of President of the United States, dated Oct. 21, 2014, 79 F.R. 63495.
 
@@ -5978,6 +5982,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Ex. Ord. No. 13067, Nov. 3, 1997, 62 F.R. 59989.
 
     Continuations of national emergency declared by Ex. Ord. No. 13067 were contained in the following:
+
+    Notice of President of the United States, dated Oct. 28, 2015, 80 F.R. 67259.
 
     Notice of President of the United States, dated Oct. 24, 2014, 79 F.R. 64295.
 

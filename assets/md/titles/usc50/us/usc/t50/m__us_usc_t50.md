@@ -15,7 +15,7 @@
 
 # Title 50—WAR AND NATIONAL DEFENSE
 
-Current through 114-114not95not113
+Current through 114-115not95
 
 <table>
 
@@ -13601,7 +13601,7 @@ Omitted  </td>
 
     Domestic Minerals Program Extension (50 U.S.C. App. 2181 et seq.), [act Aug. 7, 1953, ch. 339][/us/act/1953-08-07/ch339], [67 Stat. 417][/us/stat/67/417]—see [50 U.S.C. 4502][/us/usc/t50/s4502] note.
 
-    Export Regulation (50 U.S.C. App. 2401 et seq.), [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503]—see [50 U.S.C. 4701][/us/usc/t50/s4701] et seq.
+    Export Regulation (50 U.S.C. App. 2401 et seq.), [Pub. L. 96–72][/us/pl/96/72], Sept. 29, 1979, [93 Stat. 503][/us/stat/93/503]—see [50 U.S.C. 4601][/us/usc/t50/s4601] et seq.
 
     For disposition of particular provisions that appeared with these acts, see Table II, above. Provisions not repealed or eliminated as obsolete that appeared under the heading “Proclamations, Executive Orders, Joint Resolutions and Treaties Respecting War, Neutrality and Peace” in material preceding [section 1 of Title 50][/us/usc/t50/s1], Appendix, can be found under the same heading below.
 
@@ -14077,7 +14077,7 @@ WHEREAS the Organ of Consultation of the American Republics meeting in Washingto
 [/us/usc/t50/s4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4502
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503
-[/us/usc/t50/s4701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4701
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1
 [/us/act/1918-03-08/ch20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-03-08%2Fch20
 [/us/stat/40/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F440

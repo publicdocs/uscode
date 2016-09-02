@@ -125,11 +125,13 @@
 
  __Restriction on Transfer of Funds Available to Central Intelligence Agency for Drug Interdiction and Counter-Drug Activities__ 
 
-[Pub. L. 113–235, div. C, title VIII, § 8045(b)][/us/pl/113/235/s8045/b], Dec. 16, 2014, [128 Stat. 2264][/us/stat/128/2264], provided that: 
+[Pub. L. 114–113, div. C, title VIII, § 8046(b)][/us/pl/114/113/s8046/b], Dec. 18, 2015, [129 Stat. 2362][/us/stat/129/2362], provided that: 
 
 > “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–235, div. C, title VIII, § 8045(b)][/us/pl/113/235/s8045/b], Dec. 16, 2014, [128 Stat. 2264][/us/stat/128/2264].
 
     [Pub. L. 113–76, div. C, title VIII, § 8045(b)][/us/pl/113/76/s8045/b], Jan. 17, 2014, [128 Stat. 115][/us/stat/128/115].
 
@@ -244,6 +246,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/88/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F448
 [/us/pl/88/448/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F448%2Fs403
 [/us/stat/78/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F496
+[/us/pl/114/113/s8046/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs8046%2Fb
+[/us/stat/129/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2362
 [/us/pl/113/235/s8045/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs8045%2Fb
 [/us/stat/128/2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2264
 [/us/pl/113/76/s8045/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8045%2Fb

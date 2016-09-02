@@ -189,7 +189,17 @@
 
         (6) The Inspector General shall be provided with appropriate and adequate office space at central and field office locations, together with such equipment, office supplies, maintenance services, and communications facilities and services as may be necessary for the operation of such offices.
 
-        (7) Subject to applicable law and the policies of the Director, the Inspector General shall select, appoint and employ such officers and employees as may be necessary to carry out his functions. In making such selections, the Inspector General shall ensure that such officers and employees have the requisite training and experience to enable him to carry out his duties effectively. In this regard, the Inspector General shall create within his organization a career cadre of sufficient size to provide appropriate continuity and objectivity needed for the effective performance of his duties.
+        (7)
+
+            (A) Subject to applicable law and the policies of the Director, the Inspector General shall select, appoint and employ such officers and employees as may be necessary to carry out his functions. In making such selections, the Inspector General shall ensure that such officers and employees have the requisite training and experience to enable him to carry out his duties effectively. In this regard, the Inspector General shall create within his organization a career cadre of sufficient size to provide appropriate continuity and objectivity needed for the effective performance of his duties.
+
+            (B)
+
+             Consistent with budgetary and personnel resources allocated by the Director, the Inspector General has final approval of—
+
+                (i) the selection of internal and external candidates for employment with the Office of Inspector General; and
+
+                (ii) all other personnel decisions concerning personnel permanently assigned to the Office of Inspector General, including selection and appointment to the Senior Intelligence Service, but excluding all security-based determinations that are not within the authority of a head of other Central Intelligence Agency offices.
 
         (8)
 
@@ -205,11 +215,13 @@
 
         (9)
 
-         The Inspector General may request such information or assistance as may be necessary for carrying out his duties and responsibilities from any Government agency. Upon request of the Inspector General for such information or assistance, the head of the Government agency involved shall, insofar as is practicable and not in contravention of any existing statutory restriction or regulation of the Government agency concerned, furnish to the Inspector General, or to an authorized designee, such information or assistance. Consistent with budgetary and personnel resources allocated by the Director, the Inspector General has final approval of—
+            (A) The Inspector General may request such information or assistance as may be necessary for carrying out the duties and responsibilities of the Inspector General provided by this section from any Federal, State, or local governmental agency or unit thereof.
 
-            (A) the selection of internal and external candidates for employment with the Office of Inspector General; and
+            (B) Upon request of the Inspector General for information or assistance from a department or agency of the Federal Government, the head of the department or agency involved, insofar as practicable and not in contravention of any existing statutory restriction or regulation of such department or agency, shall furnish to the Inspector General, or to an authorized designee, such information or assistance.
 
-            (B) all other personnel decisions concerning personnel permanently assigned to the Office of Inspector General, including selection and appointment to the Senior Intelligence Service, but excluding all security-based determinations that are not within the authority of a head of other Central Intelligence Agency offices.
+            (C) Nothing in this paragraph may be construed to provide any new authority to the Central Intelligence Agency to conduct intelligence activity in the United States.
+
+            (D) In this paragraph, the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States.
 
     (f) __Separate budget account__ 
 
@@ -261,7 +273,7 @@
 
         (2) The information referred to in paragraph (1) shall be obvious and facilitate accessibility to the information related to the Office of the Inspector General.
 
-([June 20, 1949, ch. 227, § 17][/us/act/1949-06-20/ch227/s17], as added [Pub. L. 100–453, title V, § 504][/us/pl/100/453/s504], Sept. 29, 1988, [102 Stat. 1910][/us/stat/102/1910]; amended [Pub. L. 101–193, title VIII, § 801][/us/pl/101/193/s801], Nov. 30, 1989, [103 Stat. 1711][/us/stat/103/1711]; [Pub. L. 102–496, title VI, § 601][/us/pl/102/496/s601], Oct. 24, 1992, [106 Stat. 3187][/us/stat/106/3187]; [Pub. L. 103–359, title IV, § 402][/us/pl/103/359/s402], Oct. 14, 1994, [108 Stat. 3427][/us/stat/108/3427]; [Pub. L. 104–93, title IV, § 403][/us/pl/104/93/s403], Jan. 6, 1996, [109 Stat. 969][/us/stat/109/969]; [Pub. L. 105–107, title IV, § 402][/us/pl/105/107/s402], Nov. 20, 1997, [111 Stat. 2257][/us/stat/111/2257]; [Pub. L. 105–272, title VII, § 702(a)][/us/pl/105/272/s702/a], Oct. 20, 1998, [112 Stat. 2414][/us/stat/112/2414]; [Pub. L. 106–567, title IV][/us/pl/106/567], §§ 402, 403, Dec. 27, 2000, [114 Stat. 2847][/us/stat/114/2847], 2848; [Pub. L. 107–108, title III, § 309(a)][/us/pl/107/108/s309/a], Dec. 28, 2001, [115 Stat. 1399][/us/stat/115/1399]; [Pub. L. 107–306, title VIII, § 811(b)(2)][/us/pl/107/306/s811/b/2], Nov. 27, 2002, [116 Stat. 2422][/us/stat/116/2422]; [Pub. L. 108–458, title I][/us/pl/108/458], §§ 1071(b)(1)(B), (2)(C), 1074(b)(2), Dec. 17, 2004, [118 Stat. 3690][/us/stat/118/3690], 3694; [Pub. L. 111–259, title IV][/us/pl/111/259], §§ 425(a)–(f)(1), 426, title VIII, § 802(2), Oct. 7, 2010, [124 Stat. 2728–2730][/us/stat/124/2728-2730], 2746; [Pub. L. 112–87, title IV, § 413][/us/pl/112/87/s413], Jan. 3, 2012, [125 Stat. 1891][/us/stat/125/1891]; [Pub. L. 112–277, title III, § 309(b)(1)][/us/pl/112/277/s309/b/1], Jan. 14, 2013, [126 Stat. 2474][/us/stat/126/2474]; [Pub. L. 113–126, title VI, § 603(b)][/us/pl/113/126/s603/b], July 7, 2014, [128 Stat. 1420][/us/stat/128/1420].)
+([June 20, 1949, ch. 227, § 17][/us/act/1949-06-20/ch227/s17], as added [Pub. L. 100–453, title V, § 504][/us/pl/100/453/s504], Sept. 29, 1988, [102 Stat. 1910][/us/stat/102/1910]; amended [Pub. L. 101–193, title VIII, § 801][/us/pl/101/193/s801], Nov. 30, 1989, [103 Stat. 1711][/us/stat/103/1711]; [Pub. L. 102–496, title VI, § 601][/us/pl/102/496/s601], Oct. 24, 1992, [106 Stat. 3187][/us/stat/106/3187]; [Pub. L. 103–359, title IV, § 402][/us/pl/103/359/s402], Oct. 14, 1994, [108 Stat. 3427][/us/stat/108/3427]; [Pub. L. 104–93, title IV, § 403][/us/pl/104/93/s403], Jan. 6, 1996, [109 Stat. 969][/us/stat/109/969]; [Pub. L. 105–107, title IV, § 402][/us/pl/105/107/s402], Nov. 20, 1997, [111 Stat. 2257][/us/stat/111/2257]; [Pub. L. 105–272, title VII, § 702(a)][/us/pl/105/272/s702/a], Oct. 20, 1998, [112 Stat. 2414][/us/stat/112/2414]; [Pub. L. 106–567, title IV][/us/pl/106/567], §§ 402, 403, Dec. 27, 2000, [114 Stat. 2847][/us/stat/114/2847], 2848; [Pub. L. 107–108, title III, § 309(a)][/us/pl/107/108/s309/a], Dec. 28, 2001, [115 Stat. 1399][/us/stat/115/1399]; [Pub. L. 107–306, title VIII, § 811(b)(2)][/us/pl/107/306/s811/b/2], Nov. 27, 2002, [116 Stat. 2422][/us/stat/116/2422]; [Pub. L. 108–458, title I][/us/pl/108/458], §§ 1071(b)(1)(B), (2)(C), 1074(b)(2), Dec. 17, 2004, [118 Stat. 3690][/us/stat/118/3690], 3694; [Pub. L. 111–259, title IV][/us/pl/111/259], §§ 425(a)–(f)(1), 426, title VIII, § 802(2), Oct. 7, 2010, [124 Stat. 2728–2730][/us/stat/124/2728-2730], 2746; [Pub. L. 112–87, title IV, § 413][/us/pl/112/87/s413], Jan. 3, 2012, [125 Stat. 1891][/us/stat/125/1891]; [Pub. L. 112–277, title III, § 309(b)(1)][/us/pl/112/277/s309/b/1], Jan. 14, 2013, [126 Stat. 2474][/us/stat/126/2474]; [Pub. L. 113–126, title VI, § 603(b)][/us/pl/113/126/s603/b], July 7, 2014, [128 Stat. 1420][/us/stat/128/1420]; [Pub. L. 114–113, div. M, title IV, § 411][/us/pl/114/113/s411], Dec. 18, 2015, [129 Stat. 2922][/us/stat/129/2922].)
 
  __References in Text__ 
 
@@ -272,6 +284,10 @@
     Section was formerly classified to [section 403q of this title][/us/usc/t50/s403q] prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
+
+    2015—Subsec. (e)(7). [Pub. L. 114–113, § 411(b)][/us/pl/114/113/s411/b], designated existing provisions as subpar. (A) and added subpar. (B).
+
+    Subsec. (e)(9). [Pub. L. 114–113, § 411(a)][/us/pl/114/113/s411/a], amended par. (9) generally. Prior to amendment, par. (9) related to authority of Inspector General to request from any Government agency information or assistance necessary for carrying out his duties and responsibilities.
 
     2014—Subsec. (d)(5)(B). [Pub. L. 113–126, § 603(b)(1)][/us/pl/113/126/s603/b/1], designated existing provisions as cl. (i) and added cl. (ii).
 
@@ -420,9 +436,13 @@
 [/us/stat/126/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2474
 [/us/pl/113/126/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs603%2Fb
 [/us/stat/128/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1420
+[/us/pl/114/113/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs411
+[/us/stat/129/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2922
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/usc/t50/s403q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs403q
+[/us/pl/114/113/s411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs411%2Fb
+[/us/pl/114/113/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs411%2Fa
 [/us/pl/113/126/s603/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs603%2Fb%2F1
 [/us/pl/113/126/s603/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs603%2Fb%2F2
 [/us/pl/112/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277

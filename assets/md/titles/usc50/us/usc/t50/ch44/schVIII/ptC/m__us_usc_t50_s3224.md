@@ -37,9 +37,9 @@
 
             (D) Faculty research.
 
-    (c) __Grant program for historically black colleges and universities__ 
+    (c) __Grant program for certain minority-serving colleges and universities__ 
 
-        (1) The Director may provide grants to historically black colleges and universities and Predominantly Black Institutions to provide programs of study in educational disciplines identified under subsection (a)(2) or described in paragraph (2).
+        (1) The Director may provide grants to historically black colleges and universities, Predominantly Black Institutions, Hispanic-serving institutions, and Asian American and Native American Pacific Islander-serving institutions to provide programs of study in educational disciplines identified under subsection (a)(2) or described in paragraph (2).
 
         (2)
 
@@ -83,7 +83,15 @@
 
         The term “Predominantly Black Institution” has the meaning given the term in [section 1059e of title 20][/us/usc/t20/s1059e].
 
-        (5)  __Study abroad program__  __.—__ 
+        (5)  __Hispanic-serving institution__  __.—__ 
+
+        The term “Hispanic-serving institution” has the meaning given that term in [section 1101a(a)(5) of title 20][/us/usc/t20/s1101a/a/5].
+
+        (6)  __Asian american and native american pacific islander-serving institution__  __.—__ 
+
+        The term “Asian American and Native American Pacific Islander-serving institution” has the meaning given that term in [section 1059g(b)(2) of title 20][/us/usc/t20/s1059g/b/2].
+
+        (7)  __Study abroad program__  __.—__ 
 
         The term “study abroad program” means a program of study that—
 
@@ -93,13 +101,19 @@
 
             (C) is a credit or noncredit program.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title X, § 1024, as added [Pub. L. 111–259, title III, § 313(a)][/us/pl/111/259/s313/a], Oct. 7, 2010, [124 Stat. 2665][/us/stat/124/2665]; amended [Pub. L. 112–18, title III, § 304][/us/pl/112/18/s304], June 8, 2011, [125 Stat. 226][/us/stat/125/226]; [Pub. L. 113–293, title III, § 306][/us/pl/113/293/s306], Dec. 19, 2014, [128 Stat. 3997][/us/stat/128/3997].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title X, § 1024, as added [Pub. L. 111–259, title III, § 313(a)][/us/pl/111/259/s313/a], Oct. 7, 2010, [124 Stat. 2665][/us/stat/124/2665]; amended [Pub. L. 112–18, title III, § 304][/us/pl/112/18/s304], June 8, 2011, [125 Stat. 226][/us/stat/125/226]; [Pub. L. 113–293, title III, § 306][/us/pl/113/293/s306], Dec. 19, 2014, [128 Stat. 3997][/us/stat/128/3997]; [Pub. L. 114–113, div. M, title VII, § 712][/us/pl/114/113/s712], Dec. 18, 2015, [129 Stat. 2934][/us/stat/129/2934].)
 
  __Codification__ 
 
     Section was formerly classified to [section 441p of this title][/us/usc/t50/s441p] prior to editorial reclassification and renumbering as this section.
 
  __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–113, § 712(1)(B)][/us/pl/114/113/s712/1/B], substituted “certain minority-serving” for “historically black” in heading.
+
+    Subsec. (c)(1). [Pub. L. 114–113, § 712(1)(A)][/us/pl/114/113/s712/1/A], substituted “historically black colleges and universities, Predominantly Black Institutions, Hispanic-serving institutions, and Asian American and Native American Pacific Islander-serving institutions” for “historically black colleges and universities and Predominantly Black Institutions”.
+
+    Subsec. (g)(5) to (7). [Pub. L. 114–113, § 712(2)][/us/pl/114/113/s712/2], added pars. (5) and (6) and redesignated former par. (5) as (7).
 
     2014—Subsec. (c)(1). [Pub. L. 113–293, § 306(1)][/us/pl/113/293/s306/1], inserted “and Predominantly Black Institutions” after “universities”.
 
@@ -123,6 +137,8 @@
 [/us/usc/t20/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1061
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t20/s1059e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059e
+[/us/usc/t20/s1101a/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1101a%2Fa%2F5
+[/us/usc/t20/s1059g/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059g%2Fb%2F2
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/pl/111/259/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs313%2Fa
 [/us/stat/124/2665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2665
@@ -130,7 +146,12 @@
 [/us/stat/125/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F226
 [/us/pl/113/293/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs306
 [/us/stat/128/3997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3997
+[/us/pl/114/113/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs712
+[/us/stat/129/2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2934
 [/us/usc/t50/s441p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs441p
+[/us/pl/114/113/s712/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs712%2F1%2FB
+[/us/pl/114/113/s712/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs712%2F1%2FA
+[/us/pl/114/113/s712/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs712%2F2
 [/us/pl/113/293/s306/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs306%2F1
 [/us/pl/113/293/s306/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs306%2F2
 [/us/pl/112/18/s304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F18%2Fs304%2F1

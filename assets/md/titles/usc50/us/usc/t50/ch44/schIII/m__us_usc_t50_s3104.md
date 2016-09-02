@@ -15,13 +15,7 @@
 
 ## § 3104. Reports on security clearances
 
-    (a) __Quadrennial audit of position requirements__ 
-
-        (1) The President shall every four years conduct an audit of the manner in which the executive branch determines whether a security clearance is required for a particular position in the United States Government.
-
-        (2) Not later than 30 days after the completion of an audit conducted under paragraph (1), the President shall submit to Congress the results of such audit.
-
-    (b) __Report on security clearance determinations__ 
+    (a) __Report on security clearance determinations__ 
 
         (1)
 
@@ -101,15 +95,21 @@
 
             (B) security clearances at the level of top secret or higher as one security clearance level.
 
-    (c) __Form__ 
+    (b) __Form__ 
 
-        The results required under subsection (a)(2) and the reports required under subsection (b)(1) shall be submitted in unclassified form, but may include a classified annex.
+        The reports required under subsection (a)(1) shall be submitted in unclassified form, but may include a classified annex.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506H, as added [Pub. L. 111–259, title III, § 367(a)(1)(A)][/us/pl/111/259/s367/a/1/A], Oct. 7, 2010, [124 Stat. 2703][/us/stat/124/2703].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506H, as added [Pub. L. 111–259, title III, § 367(a)(1)(A)][/us/pl/111/259/s367/a/1/A], Oct. 7, 2010, [124 Stat. 2703][/us/stat/124/2703]; amended [Pub. L. 114–113, div. M, title VII, § 701(a)][/us/pl/114/113/s701/a], Dec. 18, 2015, [129 Stat. 2929][/us/stat/129/2929].)
 
  __Codification__ 
 
     Section was formerly classified to [section 415a–10 of this title][/us/usc/t50/s415a–10] prior to editorial reclassification and renumbering as this section.
+
+ __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–113, § 701(a)(1)][/us/pl/114/113/s701/a/1], (2), redesignated subsec. (b) as (a) and struck out former subsec. (a) which related to quadrennial audit of position requirements.
+
+    Subsecs. (b), (c). [Pub. L. 114–113, § 701(a)(2)][/us/pl/114/113/s701/a/2], (3), redesignated subsec. (c) as (b) and substituted “The reports required under subsection (a)(1)” for “The results required under subsection (a)(2) and the reports required under subsection (b)(1)”. Former subsec. (b) redesignated (a).
 
  __Initial Audit__ 
 
@@ -127,7 +127,11 @@
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/pl/111/259/s367/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs367%2Fa%2F1%2FA
 [/us/stat/124/2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2703
+[/us/pl/114/113/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs701%2Fa
+[/us/stat/129/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2929
 [/us/usc/t50/s415a–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415a%E2%80%9310
+[/us/pl/114/113/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs701%2Fa%2F1
+[/us/pl/114/113/s701/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs701%2Fa%2F2
 [/us/pl/111/259/s367/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs367%2Fa%2F1%2FB
 [/us/stat/124/2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2704
 [/us/usc/t50/s3104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3104%2Fa%2F1

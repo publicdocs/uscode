@@ -585,9 +585,7 @@
 
     (u) __Conflict of interest regulations__ 
 
-        (1) The Director of National Intelligence, in consultation with the Director of the Office of Government Ethics, shall issue regulations prohibiting an officer or employee of an element of the intelligence community from engaging in outside employment if such employment creates a conflict of interest or appearance thereof.
-
-        (2) The Director of National Intelligence shall annually submit to the congressional intelligence committees a report describing all outside employment for officers and employees of elements of the intelligence community that was authorized by the head of an element of the intelligence community during the preceding calendar year. Such report shall be submitted each year on the date provided in [section 3106 of this title][/us/usc/t50/s3106].
+        The Director of National Intelligence, in consultation with the Director of the Office of Government Ethics, shall issue regulations prohibiting an officer or employee of an element of the intelligence community from engaging in outside employment if such employment creates a conflict of interest or appearance thereof.
 
     (v) __Authority to establish positions in excepted service__ 
 
@@ -601,7 +599,9 @@
 
         (2) An incumbent occupying a position on January 3, 2012, selected to be converted to the excepted service under this section shall have the right to refuse such conversion. Once such individual no longer occupies the position, the position may be converted to the excepted service.
 
-        (3) In this subsection, the term “covered department” means the Department of Energy, the Department of Homeland Security, the Department of State, or the Department of the Treasury.
+        (3) A covered department may appoint an individual to a position converted or established pursuant to this subsection without regard to the civil-service laws, including parts II and III of title 5.
+
+        (4) In this subsection, the term “covered department” means the Department of Energy, the Department of Homeland Security, the Department of State, or the Department of the Treasury.
 
     (w) __Nuclear Proliferation Assessment Statements intelligence community addendum__ 
 
@@ -623,7 +623,7 @@
 
         (3) ensure that the insider threat detection capabilities and insider threat policies of the intelligence community apply to facilities of contractors with access to a classified network.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 102A, as added [Pub. L. 108–458, title I, § 1011(a)][/us/pl/108/458/s1011/a], Dec. 17, 2004, [118 Stat. 3644][/us/stat/118/3644]; amended [Pub. L. 111–258, § 5(a)][/us/pl/111/258/s5/a], Oct. 7, 2010, [124 Stat. 2650][/us/stat/124/2650]; [Pub. L. 111–259, title III][/us/pl/111/259], §§ 303, 304, 306, 307, 326, title IV, §§ 401, 402(a), title VIII, § 804(2), Oct. 7, 2010, [124 Stat. 2658][/us/stat/124/2658], 2659, 2661, 2662, 2683, 2708, 2747; [Pub. L. 112–87, title III][/us/pl/112/87], §§ 304, 305, 311(d), Jan. 3, 2012, [125 Stat. 1880][/us/stat/125/1880], 1881, 1886; [Pub. L. 113–126, title III, § 329(b)(2)][/us/pl/113/126/s329/b/2], title V, §§ 501, 502(a), July 7, 2014, [128 Stat. 1406][/us/stat/128/1406], 1411, 1412.)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 102A, as added [Pub. L. 108–458, title I, § 1011(a)][/us/pl/108/458/s1011/a], Dec. 17, 2004, [118 Stat. 3644][/us/stat/118/3644]; amended [Pub. L. 111–258, § 5(a)][/us/pl/111/258/s5/a], Oct. 7, 2010, [124 Stat. 2650][/us/stat/124/2650]; [Pub. L. 111–259, title III][/us/pl/111/259], §§ 303, 304, 306, 307, 326, title IV, §§ 401, 402(a), title VIII, § 804(2), Oct. 7, 2010, [124 Stat. 2658][/us/stat/124/2658], 2659, 2661, 2662, 2683, 2708, 2747; [Pub. L. 112–87, title III][/us/pl/112/87], §§ 304, 305, 311(d), Jan. 3, 2012, [125 Stat. 1880][/us/stat/125/1880], 1881, 1886; [Pub. L. 113–126, title III, § 329(b)(2)][/us/pl/113/126/s329/b/2], title V, §§ 501, 502(a), July 7, 2014, [128 Stat. 1406][/us/stat/128/1406], 1411, 1412; [Pub. L. 114–113, div. M, title I, § 105(a)][/us/pl/114/113/s105/a], title VII, § 701(c)(1), Dec. 18, 2015, [129 Stat. 2912][/us/stat/129/2912], 2929.)
 
  __References in Text__ 
 
@@ -652,6 +652,10 @@
     Another prior section 102a of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, as added [Pub. L. 98–215, title IV, § 403][/us/pl/98/215/s403], Dec. 9, 1983, [97 Stat. 1477][/us/stat/97/1477], related to appointment of Director of the Intelligence Community Staff prior to repeal by [Pub. L. 102–496, title VII, § 705(a)(1)][/us/pl/102/496/s705/a/1], Oct. 24, 1992, [106 Stat. 3190][/us/stat/106/3190].
 
  __Amendments__ 
+
+    2015—Subsec. (u). [Pub. L. 114–113, § 701(c)(1)][/us/pl/114/113/s701/c/1], struck out par. (1) designation before “The Director of National Intelligence” and struck out par. (2) which read as follows: “The Director of National Intelligence shall annually submit to the congressional intelligence committees a report describing all outside employment for officers and employees of elements of the intelligence community that was authorized by the head of an element of the intelligence community during the preceding calendar year. Such report shall be submitted each year on the date provided in [section 3106 of this title][/us/usc/t50/s3106].”
+
+    Subsec. (v)(3), (4). [Pub. L. 114–113, § 105(a)][/us/pl/114/113/s105/a], added par. (3) and redesignated former par. (3) as (4).
 
     2014—Subsec. (g)(4). [Pub. L. 113–126, § 329(b)(2)][/us/pl/113/126/s329/b/2], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Not later than February 1 of each year, the Director of National Intelligence shall submit to the President and to the Congress an annual report that identifies any statute, regulation, policy, or practice that the Director believes impedes the ability of the Director to fully and effectively implement paragraph (1).”
 
@@ -693,6 +697,12 @@
 
     Subsecs. (s) to (u). [Pub. L. 111–259][/us/pl/111/259], §§ 303, 304, 307, added subsecs. (s) to (u).
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–113, div. M, title I, § 105(b)][/us/pl/114/113/s105/b], Dec. 18, 2015, [129 Stat. 2912][/us/stat/129/2912], provided that: 
+
+> “The amendments made by subsection (a) \[amending this section\] shall apply with respect to an appointment under section 102A(v) of the National Security Act of 1947 ([50 U.S.C. 3024(v)][/us/usc/t50/s3024/v]) made on or after the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2012 ([Public Law 112–87][/us/pl/112/87]) \[Jan. 3, 2012\] and to any proceeding pending on or filed after the date of the enactment of this section \[Dec. 18, 2015\] that relates to such an appointment.”
+
  __Effective Date of 2014 Amendment__ 
 
 [Pub. L. 113–126, title V, § 502(b)][/us/pl/113/126/s502/b], July 7, 2014, [128 Stat. 1412][/us/stat/128/1412], provided that: 
@@ -704,6 +714,38 @@
     For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under [section 3001 of this title][/us/usc/t50/s3001].
 
     Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see [section 1097(a) of Pub. L. 108–458][/us/pl/108/458/s1097/a], set out in an Effective Date of 2004 Amendment; Transition Provisions note under [section 3001 of this title][/us/usc/t50/s3001].
+
+ __Designation of Lead Intelligence Officer for Tunnels__ 
+
+[Pub. L. 114–113, div. M, title III, § 309][/us/pl/114/113/s309], Dec. 18, 2015, [129 Stat. 2918][/us/stat/129/2918], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Director of National Intelligence shall designate an official to manage the collection and analysis of intelligence regarding the tactical use of tunnels by state and nonstate actors.
+
+>     “(b)  __Annual Report__  __.—__ 
+
+>     Not later than the date that is 10 months after the date of the enactment of this Act \[Dec. 18, 2015\], and biennially thereafter until the date that is 4 years after the date of the enactment of this Act, the Director of National Intelligence shall submit to the congressional intelligence committees and the congressional defense committees (as such term is defined in [section 101(a)(16) of title 10][/us/usc/t10/s101/a/16], United States Code) a report describing—
+
+>         “(1) trends in the use of tunnels by foreign state and nonstate actors; and
+
+>         “(2) collaboration efforts between the United States and partner countries to address the use of tunnels by adversaries.”
+
+    \[For definition of “congressional intelligence committees” as used in [section 309 of div. M of Pub. L. 114–113][/us/pl/114/113/s309], set out above, see [section 2 of div. M of Pub. L. 114–113][/us/pl/114/113/s2], set out as a note under [section 3003 of this title][/us/usc/t50/s3003].\]
+
+ __Reporting Process Required for Tracking Certain Requests for Country Clearance__ 
+
+[Pub. L. 114–113, div. M, title III, § 310][/us/pl/114/113/s310], Dec. 18, 2015, [129 Stat. 2918][/us/stat/129/2918], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     By not later than September 30, 2016, the Director of National Intelligence shall establish a formal internal reporting process for tracking requests for country clearance submitted to overseas Director of National Intelligence representatives by departments and agencies of the United States. Such reporting process shall include a mechanism for tracking the department or agency that submits each such request and the date on which each such request is submitted.
+
+>     “(b)  __Congressional Briefing__  __.—__ 
+
+>     By not later than December 31, 2016, the Director of National Intelligence shall brief the congressional intelligence committees on the progress of the Director in establishing the process required under subsection (a).”
+
+    \[For definition of “congressional intelligence committees” as used in [section 310 of div. M of Pub. L. 114–113][/us/pl/114/113/s310], set out above, see [section 2 of div. M of Pub. L. 114–113][/us/pl/114/113/s2], set out as a note under [section 3003 of this title][/us/usc/t50/s3003].\]
 
  __Insider Threat Detection Program__ 
 
@@ -944,7 +986,6 @@
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/usc/t5/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5312
 [/us/usc/t5/s4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4507
-[/us/usc/t50/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3106
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/pl/108/458/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1011%2Fa
 [/us/stat/118/3644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3644
@@ -956,6 +997,8 @@
 [/us/stat/125/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1880
 [/us/pl/113/126/s329/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fb%2F2
 [/us/stat/128/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1406
+[/us/pl/114/113/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs105%2Fa
+[/us/stat/129/2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2912
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
@@ -986,6 +1029,9 @@
 [/us/stat/97/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1477
 [/us/pl/102/496/s705/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496%2Fs705%2Fa%2F1
 [/us/stat/106/3190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3190
+[/us/pl/114/113/s701/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs701%2Fc%2F1
+[/us/usc/t50/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3106
+[/us/pl/114/113/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs105%2Fa
 [/us/pl/113/126/s329/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs329%2Fb%2F2
 [/us/pl/113/126/s501/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs501%2F1
 [/us/pl/113/126/s501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs501%2F2
@@ -1006,11 +1052,26 @@
 [/us/pl/111/259/s804/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs804%2F2%2FD
 [/us/pl/111/259/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs326
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/pl/114/113/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs105%2Fb
+[/us/stat/129/2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2912
+[/us/usc/t50/s3024/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3024%2Fv
+[/us/pl/112/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87
 [/us/pl/113/126/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs502%2Fb
 [/us/stat/128/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1412
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
+[/us/pl/114/113/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs309
+[/us/stat/129/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2918
+[/us/usc/t10/s101/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F16
+[/us/pl/114/113/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs309
+[/us/pl/114/113/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs2
+[/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
+[/us/pl/114/113/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs310
+[/us/stat/129/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2918
+[/us/pl/114/113/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs310
+[/us/pl/114/113/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs2
+[/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
 [/us/pl/112/18/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F18%2Fs402
 [/us/stat/125/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F227
 [/us/pl/112/277/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs304

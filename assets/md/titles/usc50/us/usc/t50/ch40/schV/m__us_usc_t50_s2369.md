@@ -15,7 +15,7 @@
 
 ## § 2369. Repealed. [Pub. L. 111–84, div. A, title X, § 1055(f)][/us/pl/111/84/s1055/f], Oct. 28, 2009, [123 Stat. 2462][/us/stat/123/2462], as amended by [Pub. L. 111–383, div. A, title X, § 1075(d)(13)][/us/pl/111/383/s1075/d/13], Jan. 7, 2011, [124 Stat. 4373][/us/stat/124/4373]
 
-    Section, [Pub. L. 104–293, title VII, § 722][/us/pl/104/293/s722], as added [Pub. L. 107–314, div. A, title XII, § 1209(a)][/us/pl/107/314/s1209/a], Dec. 2, 2002, [116 Stat. 2668][/us/stat/116/2668], related to semiannual report on contributions of foreign persons to weapons of mass destruction and delivery systems efforts of countries of proliferation concern. See [section 2371 of this title][/us/usc/t50/s2371].
+    Section, [Pub. L. 104–293, title VII, § 722][/us/pl/104/293/s722], as added [Pub. L. 107–314, div. A, title XII, § 1209(a)][/us/pl/107/314/s1209/a], Dec. 2, 2002, [116 Stat. 2668][/us/stat/116/2668], related to semiannual report on contributions of foreign persons to weapons of mass destruction and delivery systems efforts of countries of proliferation concern.
 
 ----------
 
@@ -31,6 +31,5 @@
 [/us/pl/104/293/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F293%2Fs722
 [/us/pl/107/314/s1209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1209%2Fa
 [/us/stat/116/2668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2668
-[/us/usc/t50/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2371
 
 

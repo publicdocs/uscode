@@ -395,7 +395,7 @@ SUBCHAPTER V—MISCELLANEOUS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2371" data-uslm-ref="/us/usc/t50/s2371">2371.</a>  </td>
 
-    <td> Report on nuclear aspirations of non-state entities, nuclear weapons and related programs in non-nuclear-weapons states and countries not parties to the Nuclear Non-Proliferation Treaty, and certain foreign persons.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

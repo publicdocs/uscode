@@ -73,6 +73,52 @@
 
     Subsec. (c)(12), (13). [Pub. L. 113–293, § 327(2)][/us/pl/113/293/s327/2], (3), added par. (12) and redesignated former par. (12) as (13).
 
+ __Personnel Information Notification Policy by the Director of National Intelligence__ 
+
+[Pub. L. 114–113, div. M, title III, § 308][/us/pl/114/113/s308], Dec. 18, 2015, [129 Stat. 2917][/us/stat/129/2917], provided that:
+
+>     “(a)  __Directive Required__  __.—__ 
+
+>     The Director of National Intelligence shall issue a directive containing a written policy for the timely notification to the congressional intelligence committees of the identities of individuals occupying senior level positions within the intelligence community.
+
+>     “(b)  __Senior Level Position__  __.—__ 
+
+>     In identifying positions that are senior level positions in the intelligence community for purposes of the directive required under subsection (a), the Director of National Intelligence shall consider whether a position—
+
+>         “(1) constitutes the head of an entity or a significant component within an agency;
+
+>         “(2) is involved in the management or oversight of matters of significant import to the leadership of an entity of the intelligence community;
+
+>         “(3) provides significant responsibility on behalf of the intelligence community;
+
+>         “(4) requires the management of a significant number of personnel or funds;
+
+>         “(5) requires responsibility management or oversight of sensitive intelligence activities; and
+
+>         “(6) is held by an individual designated as a senior intelligence management official as such term is defined in section 368(a)(6) of the Intelligence Authorization Act for Fiscal Year 2010 ([Public Law 111–259][/us/pl/111/259]; [50 U.S.C. 404i–1][/us/usc/t50/s404i–1] \[now [50 U.S.C. 3051][/us/usc/t50/s3051]\] note).
+
+>     “(c)  __Notification__  __.—__ 
+
+>     The Director shall ensure that each notification under the directive issued under subsection (a) includes each of the following:
+
+>         “(1) The name of the individual occupying the position.
+
+>         “(2) Any previous senior level position held by the individual, if applicable, or the position held by the individual immediately prior to the appointment.
+
+>         “(3) The position to be occupied by the individual.
+
+>         “(4) Any other information the Director determines appropriate.
+
+>     “(d)  __Relationship to Other Laws__  __.—__ 
+
+>     The directive issued under subsection (a) and any amendment to such directive shall be consistent with the provisions of the National Security Act of 1947 ([50 U.S.C. 401][/us/usc/t50/s401] \[now [50 U.S.C. 3001][/us/usc/t50/s3001]\] et seq.).
+
+>     “(e)  __Submission__  __.—__ 
+
+>     Not later than 90 days after the date of the enactment of this Act \[Dec. 18, 2015\], the Director shall submit to the congressional intelligence committees the directive issued under subsection (a).”
+
+    \[For definitions of “congressional intelligence committees” and “intelligence community” as used in [section 308 of div. M of Pub. L. 114–113][/us/pl/114/113/s308], set out above, see [section 2 of div. M of Pub. L. 114–113][/us/pl/114/113/s2], set out as a note under [section 3003 of this title][/us/usc/t50/s3003].\]
+
  __Implementation__ 
 
 [Pub. L. 111–259, title III, § 305(b)][/us/pl/111/259/s305/b], Oct. 7, 2010, [124 Stat. 2661][/us/stat/124/2661], provided that: 
@@ -97,6 +143,16 @@
 [/us/usc/t50/s415a–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415a%E2%80%934
 [/us/pl/113/293/s327/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs327%2F1
 [/us/pl/113/293/s327/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs327%2F2
+[/us/pl/114/113/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs308
+[/us/stat/129/2917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2917
+[/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
+[/us/usc/t50/s404i–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404i%E2%80%931
+[/us/usc/t50/s3051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3051
+[/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
+[/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
+[/us/pl/114/113/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs308
+[/us/pl/114/113/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs2
+[/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
 [/us/pl/111/259/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs305%2Fb
 [/us/stat/124/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2661
 [/us/usc/t50/s3098/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3098%2Fb

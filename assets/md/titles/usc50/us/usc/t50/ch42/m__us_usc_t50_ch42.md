@@ -769,23 +769,7 @@ Part A—Safeguards and Security  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2658" data-uslm-ref="/us/usc/t50/s2658">2658.</a>  </td>
-
-    <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2659" data-uslm-ref="/us/usc/t50/s2659">2659.</a>  </td>
-
-    <td> Report on security vulnerabilities of national security laboratory computers.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td>   </td>
+    <td> 2658, 2659. Repealed.  </td>
 
     <td> 2660.  </td>
 

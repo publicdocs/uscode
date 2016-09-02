@@ -71,7 +71,7 @@
 
 [Pub. L. 100–418, title II, § 2441][/us/pl/100/418/s2441], Aug. 23, 1988, [102 Stat. 1364][/us/stat/102/1364], provided that: 
 
-> “This part \[part II (§§ 2441–2447) of subtitle D of title II of [Pub. L. 100–418][/us/pl/100/418], enacting [section 4611 of this title][/us/usc/t50/s4611], amending sections 4604 and 4616 of this title and [section 1864 of Title 19][/us/usc/t19/s1864], Customs Duties, and enacting provisions set out as notes under [section 4611 of this title][/us/usc/t50/s4611]\] may be cited as the ‘Multilateral Export Control Enhancement Amendments Act’.”
+> “This part \[part II (§§ 2441–2447) of subtitle D of title II of [Pub. L. 100–418][/us/pl/100/418], enacting [section 4611 of this title][/us/usc/t50/s4611], amending sections 4604 and 4616 of this title and [section 1864 of Title 19][/us/usc/t19/s1864], Customs Duties, and enacting provisions formerly set out as notes under section 2410a of the former Appendix to this title\] may be cited as the ‘Multilateral Export Control Enhancement Amendments Act’.”
 
  __Short Title of 1985 Amendment__ 
 
@@ -322,7 +322,6 @@ By the authority vested in me as President by the Constitution and statutes of t
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t50/s4611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4611
 [/us/usc/t19/s1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1864
-[/us/usc/t50/s4611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4611
 [/us/pl/99/64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs1
 [/us/stat/99/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F120
 [/us/usc/t19/s1864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1864

@@ -157,11 +157,13 @@
 
  __Availability of Funds Credited to Central Services Working Capital Fund__ 
 
-[Pub. L. 113–235, div. C, title VIII, § 8033][/us/pl/113/235/s8033], Dec. 16, 2014, [128 Stat. 2260][/us/stat/128/2260], provided in part: 
+[Pub. L. 114–113, div. C, title VIII, § 8035][/us/pl/114/113/s8035], Dec. 18, 2015, [129 Stat. 2358][/us/stat/129/2358], provided in part: 
 
 > “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–235, div. C, title VIII, § 8033][/us/pl/113/235/s8033], Dec. 16, 2014, [128 Stat. 2260][/us/stat/128/2260].
 
     [Pub. L. 113–76, div. C, title VIII, § 8032][/us/pl/113/76/s8032], Jan. 17, 2014, [128 Stat. 111][/us/stat/128/111].
 
@@ -247,6 +249,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458/s1097/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs1097%2Fa
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
+[/us/pl/114/113/s8035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs8035
+[/us/stat/129/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2358
 [/us/pl/113/235/s8033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs8033
 [/us/stat/128/2260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2260
 [/us/pl/113/76/s8032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8032

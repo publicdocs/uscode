@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch36/schIV/m__us_usc_t50_s1862.md) | [Next](./../../../../..//us/usc/t50/ch36/schV/m__us_usc_t50_ch36_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1863)
+[Previous](./../../../../..//us/usc/t50/ch36/schIV/m__us_usc_t50_s1862.md) | [Next](./../../../../..//us/usc/t50/ch36/schIV/m__us_usc_t50_s1864.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1863)
 
 ## § 1863. Repealed. [Pub. L. 107–56, title II, § 215][/us/pl/107/56/s215], Oct. 26, 2001, [115 Stat. 287][/us/stat/115/287]
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch36/schIV/m__us_usc_t50_s1862.md) | [Next](./../../../../..//us/usc/t50/ch36/schV/m__us_usc_t50_ch36_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1863)
+[Previous](./../../../../..//us/usc/t50/ch36/schIV/m__us_usc_t50_s1862.md) | [Next](./../../../../..//us/usc/t50/ch36/schIV/m__us_usc_t50_s1864.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1863)
 
 ----------
 ----------
