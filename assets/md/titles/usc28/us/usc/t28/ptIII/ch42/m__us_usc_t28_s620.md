@@ -65,6 +65,30 @@
 
     Amendment by [Pub. L. 98–620][/us/pl/98/620] effective Oct. 1, 1985, see [section 216 of Pub. L. 98–620][/us/pl/98/620/s216], set out as a note under [section 10701 of Title 42][/us/usc/t42/s10701], The Public Health and Welfare.
 
+ __Best Practices__ 
+
+[Pub. L. 114–153][/us/pl/114/153], § 6, May 11, 2016, [130 Stat. 384][/us/stat/130/384], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than 2 years after the date of enactment of this Act \[May 11, 2016\], the Federal Judicial Center, using existing resources, shall develop recommended best practices for—
+
+>         “(1) the seizure of information and media storing the information; and
+
+>         “(2) the securing of the information and media once seized.
+
+>     “(b)  __Updates__  __.—__ 
+
+>     The Federal Judicial Center shall update the recommended best practices developed under subsection (a) from time to time.
+
+>     “(c)  __Congressional Submissions__  __.—__ 
+
+>     The Federal Judicial Center shall provide a copy of the recommendations developed under subsection (a), and any updates made under subsection (b), to the—
+
+>         “(1) Committee on the Judiciary of the Senate; and
+
+>         “(2) Committee on the Judiciary of the House of Representatives.”
+
  __Study of Intercircuit Conflicts and Structural Alternatives for Courts of Appeals by Federal Judicial Center__ 
 
     [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 302, Dec. 1, 1990, [104 Stat. 5104][/us/stat/104/5104], as amended by [Pub. L. 102–572, title V][/us/pl/102/572/tV], § 502(c), Oct. 29, 1992, [106 Stat. 4513][/us/stat/106/4513], directed Board of the Federal Judicial Center to conduct study and submit report to Congress by Jan. 1, 1992, on number and frequency of conflicts among judicial circuits in interpreting law that remain unresolved because they are not heard by the Supreme Court, and further directed Board to study full range of structural alternatives for Federal Courts of Appeals and submit report on the study to Congress and Judicial Conference of the United States, no later than 2 years and 9 months after Dec. 1, 1990.
@@ -108,6 +132,8 @@
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs216
 [/us/usc/t42/s10701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10701
+[/us/pl/114/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F153
+[/us/stat/130/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F384
 [/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5104
 [/us/pl/102/572/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtV
