@@ -397,7 +397,7 @@
 
             (B) __Report on progress toward regional nonproliferation__ 
 
-                The information required to be submitted under paragraph (2)(F) after the initial report may be submitted together with the annual report on progress toward regional nonproliferation required under [section 2376(c) of this title][/us/usc/t22/s2376/c].
+                The information required to be submitted under paragraph (2)(F) after the initial report may be submitted together with the annual report on progress toward regional nonproliferation required under section 2376(c)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title.
 
         (4) __Form__ 
 
@@ -410,6 +410,8 @@
     This chapter, referred to in subsec. (d)(1), (2), (3)(A), was in the original “this title”, meaning title I of [Pub. L. 109–401][/us/pl/109/401], Dec. 18, 2006, [120 Stat. 2726][/us/stat/120/2726], which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 8001 of this title][/us/usc/t22/s8001] and Tables.
 
     Section 101(a) of the United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement Act, referred to in subsec. (g)(2)(M), is [section 101(a) of Pub. L. 110–369][/us/pl/110/369/s101/a], which is set out in a note under [section 8001 of this title][/us/usc/t22/s8001].
+
+    [Section 2376(c) of this title][/us/usc/t22/s2376/c], referred to in subsec. (g)(3)(B), was repealed by [Pub. L. 113–188, title XIV, § 1401][/us/pl/113/188/s1401], Nov. 26, 2014, [128 Stat. 2023][/us/stat/128/2023].
 
  __Codification__ 
 
@@ -496,7 +498,6 @@ I therefore hereby (1) exempt the proposed Agreement for Cooperation Between the
 [/us/usc/t42/s2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2160
 [/us/usc/t42/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153
 [/us/usc/t22/s3281/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3281%2Fa
-[/us/usc/t22/s2376/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2376%2Fc
 [/us/pl/109/401/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs104
 [/us/stat/120/2729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2729
 [/us/pl/110/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369
@@ -506,6 +507,9 @@ I therefore hereby (1) exempt the proposed Agreement for Cooperation Between the
 [/us/usc/t22/s8001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8001
 [/us/pl/110/369/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F369%2Fs101%2Fa
 [/us/usc/t22/s8001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8001
+[/us/usc/t22/s2376/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2376%2Fc
+[/us/pl/113/188/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1401
+[/us/stat/128/2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2023
 [/us/pl/109/401/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs104
 [/us/pl/109/401/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F401%2Fs104
 [/us/usc/t42/s2153/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153%2Fd

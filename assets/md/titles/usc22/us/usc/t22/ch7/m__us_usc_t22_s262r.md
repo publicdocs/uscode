@@ -45,7 +45,7 @@
 
         (8) a description of the status of procedures in the multilateral development banks specifically designed to increase the productive role of the poor in the economies of the nations which are borrowers from such banks;
 
-        (9) in consultation with the Secretary of State, a report on the progress toward achieving the goals of title VII (other than [section 262e of this title][/us/usc/t22/s262e]), including the information required to be reported pursuant to [section 262d(c) of this title][/us/usc/t22/s262d/c], and, for the fiscal year 1990, the report described in [section 262p–4h of this title][/us/usc/t22/s262p–4h];
+        (9) in consultation with the Secretary of State, a report on the progress toward achieving the goals of title VII (other than [section 262e of this title][/us/usc/t22/s262e]), including the information required to be reported pursuant to section 262d(c)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, and, for the fiscal year 1990, the report described in [section 262p–4h of this title][/us/usc/t22/s262p–4h];
 
         (10) in consultation with the Secretary of State and the Administrator of the Agency for International Development, an assessment of the progress being made to implement the objectives of title XIII; and
 
@@ -100,6 +100,8 @@
     Section 2018(c) of the International Narcotics Act of 1986, referred to in subsec. (b)(6), means [section 2018(c) of Pub. L. 99–570][/us/pl/99/570/s2018/c], known as the International Narcotics Control Act of 1986, which is set out as a note under [section 2291 of this title][/us/usc/t22/s2291].
 
     This title and titles VII, XIII, XVIII, and XIX, referred to in subsecs. (b)(9), (10) and (c), are titles XVII, VII, XIII, XVIII, and XIX, respectively, of [Pub. L. 95–118][/us/pl/95/118]. Title VII enacted sections 262d and 262e of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as a note under [section 262c of this title][/us/usc/t22/s262c]. Title XIII is classified to sections 262m to 262m–7 of this title. Title XVII is classified to sections 262r to 262r–5 of this title. Title XVIII is classified to sections 262s to 262s–2 of this title. Title XIX is classified to [section 262t of this title][/us/usc/t22/s262t]. For complete classification of these titles to the Code, see Tables.
+
+    [Section 262d(c) of this title][/us/usc/t22/s262d/c], referred to in subsec. (b)(9), was repealed by [Pub. L. 113–188, title XVI, § 1601(b)][/us/pl/113/188/s1601/b], Nov. 26, 2014, [128 Stat. 2025][/us/stat/128/2025].
 
     Reorganization Plan No. 4 of 1965, referred to in subsec. (d), is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -273,7 +275,6 @@
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/usc/t22/s286kk]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286kk
 [/us/usc/t22/s262e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262e
-[/us/usc/t22/s262d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262d%2Fc
 [/us/usc/t22/s262p–4h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%934h
 [/us/usc/t22/s262p–4g/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262p%E2%80%934g%2Fb
 [/us/pl/95/118/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1701
@@ -290,6 +291,9 @@
 [/us/pl/95/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118
 [/us/usc/t22/s262c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262c
 [/us/usc/t22/s262t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262t
+[/us/usc/t22/s262d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262d%2Fc
+[/us/pl/113/188/s1601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1601%2Fb
+[/us/stat/128/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2025
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
