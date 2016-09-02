@@ -33,7 +33,7 @@
 
         (7) The resource conservation and development program authorized by the Bankhead-Jones Farm Tenant Act and by the Soil Conservation and Domestic Allotment Act ([7 U.S.C. 1010][/us/usc/t7/s1010]; [16 U.S.C. 590a][/us/usc/t16/s590a] et seq.).
 
-        (8) The forestry incentives program authorized by section 4 of the Cooperative Forestry Assistance Act of 1978 ([16 U.S.C. 2103][/us/usc/t16/s2103]).
+        (8) The forestry incentives program authorized by section 4 1 of the Cooperative Forestry Assistance Act of 1978 ([16 U.S.C. 2103][/us/usc/t16/s2103]).
 
         (9) Any small watershed program administered by the Secretary of Agriculture which is determined by the Secretary of the Treasury or his delegate to be substantially similar to the type of programs described in paragraphs (1) through (8).
 
@@ -86,6 +86,8 @@
     Section 16 of the Soil Conservation and Domestic Policy Act, referred to in subsec. (a)(6), probably means section 16 of the Soil Conservation and Domestic Allotment Act, which was classified to [section 590p of Title 16][/us/usc/t16/s590p], Conservation, prior to repeal by [Pub. L. 104–127, title III, § 336(b)(1)][/us/pl/104/127/s336/b/1], Apr. 4, 1996, [110 Stat. 1006][/us/stat/110/1006].
 
     The Bankhead-Jones Farm Tenant Act, referred to in subsec. (a)(7), is [act July 22, 1937, ch. 517][/us/act/1937-07-22/ch517], [50 Stat. 522][/us/stat/50/522], as amended, which is classified generally to chapter 33 (§ 1000 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1000 of Title 7][/us/usc/t7/s1000] and Tables.
+
+    Section 4 of the Cooperative Forestry Assistance Act of 1978, referred to in subsec. (a)(8), related to a forestry incentives program, was classified to [section 2103 of Title 16][/us/usc/t16/s2103], Conservation, and was repealed by [Pub. L. 107–171, title VIII, § 8001(a)][/us/pl/107/171/s8001/a], May 13, 2002, [116 Stat. 468][/us/stat/116/468]. A new section 4 of the Act, as enacted by [Pub. L. 107–171][/us/pl/107/171], was also classified to [section 2103 of Title 16][/us/usc/t16/s2103], related to a forest land enhancement program, and was repealed by [Pub. L. 113–79, title VIII, § 8001(a)][/us/pl/113/79/s8001/a], Feb. 7, 2014, [128 Stat. 913][/us/stat/128/913].
 
  __Prior Provisions__ 
 
@@ -144,6 +146,13 @@
 [/us/act/1937-07-22/ch517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-22%2Fch517
 [/us/stat/50/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F522
 [/us/usc/t7/s1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1000
+[/us/usc/t16/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2103
+[/us/pl/107/171/s8001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs8001%2Fa
+[/us/stat/116/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F468
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/usc/t16/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2103
+[/us/pl/113/79/s8001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8001%2Fa
+[/us/stat/128/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F913
 [/us/usc/t26/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140
 [/us/pl/96/222/s105/a/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs105%2Fa%2F7%2FC
 [/us/pl/96/222/s105/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs105%2Fa%2F7%2FA
