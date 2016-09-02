@@ -27,7 +27,7 @@
 
         (4) $2,730,000,000 for fiscal year 2015.
 
-        (5) $1,300,000,000 for the period beginning on October 1, 2015, and ending on March 31, 2016.
+        (5) $2,058,333,333 for the period beginning on October 1, 2015, and ending on July 15, 2016.
 
     (b)  __Availability of Amounts__  __.—__ 
 
@@ -41,7 +41,7 @@
 
     The Administrator of the Federal Aviation Administration shall establish life-cycle cost estimates for any air traffic control modernization project the total life-cycle costs of which equal or exceed $50,000,000.
 
-([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1294][/us/stat/108/1294]; [Pub. L. 103–305, title I][/us/pl/103/305/tI], § 102(a), Aug. 23, 1994, [108 Stat. 1571][/us/stat/108/1571]; [Pub. L. 104–264, title I][/us/pl/104/264/tI], § 102(a), (b)(1), Oct. 9, 1996, [110 Stat. 3216][/us/stat/110/3216]; [Pub. L. 106–6][/us/pl/106/6], § 3, Mar. 31, 1999, [113 Stat. 10][/us/stat/113/10]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 102, Apr. 5, 2000, [114 Stat. 65][/us/stat/114/65]; [Pub. L. 108–176, title I][/us/pl/108/176/tI], § 102, Dec. 12, 2003, [117 Stat. 2494][/us/stat/117/2494]; [Pub. L. 110–330][/us/pl/110/330], § 7, Sept. 30, 2008, [122 Stat. 3719][/us/stat/122/3719]; [Pub. L. 111–12][/us/pl/111/12], § 7, Mar. 30, 2009, [123 Stat. 1458][/us/stat/123/1458]; [Pub. L. 111–69][/us/pl/111/69], § 7, Oct. 1, 2009, [123 Stat. 2056][/us/stat/123/2056]; [Pub. L. 111–116][/us/pl/111/116], § 7, Dec. 16, 2009, [123 Stat. 3033][/us/stat/123/3033]; [Pub. L. 111–153][/us/pl/111/153], § 7, Mar. 31, 2010, [124 Stat. 1086][/us/stat/124/1086]; [Pub. L. 111–161][/us/pl/111/161], § 7, Apr. 30, 2010, [124 Stat. 1128][/us/stat/124/1128]; [Pub. L. 111–197][/us/pl/111/197], § 7, July 2, 2010, [124 Stat. 1354][/us/stat/124/1354]; [Pub. L. 111–216, title I][/us/pl/111/216/tI], § 106, Aug. 1, 2010, [124 Stat. 2350][/us/stat/124/2350]; [Pub. L. 112–30, title II][/us/pl/112/30/tII], § 207, Sept. 16, 2011, [125 Stat. 359][/us/stat/125/359]; [Pub. L. 112–91][/us/pl/112/91], § 7, Jan. 31, 2012, [126 Stat. 4][/us/stat/126/4]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 102, Feb. 14, 2012, [126 Stat. 16][/us/stat/126/16]; [Pub. L. 114–55, title I][/us/pl/114/55/tI], § 104, Sept. 30, 2015, [129 Stat. 524][/us/stat/129/524].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1294][/us/stat/108/1294]; [Pub. L. 103–305, title I][/us/pl/103/305/tI], § 102(a), Aug. 23, 1994, [108 Stat. 1571][/us/stat/108/1571]; [Pub. L. 104–264, title I][/us/pl/104/264/tI], § 102(a), (b)(1), Oct. 9, 1996, [110 Stat. 3216][/us/stat/110/3216]; [Pub. L. 106–6][/us/pl/106/6], § 3, Mar. 31, 1999, [113 Stat. 10][/us/stat/113/10]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 102, Apr. 5, 2000, [114 Stat. 65][/us/stat/114/65]; [Pub. L. 108–176, title I][/us/pl/108/176/tI], § 102, Dec. 12, 2003, [117 Stat. 2494][/us/stat/117/2494]; [Pub. L. 110–330][/us/pl/110/330], § 7, Sept. 30, 2008, [122 Stat. 3719][/us/stat/122/3719]; [Pub. L. 111–12][/us/pl/111/12], § 7, Mar. 30, 2009, [123 Stat. 1458][/us/stat/123/1458]; [Pub. L. 111–69][/us/pl/111/69], § 7, Oct. 1, 2009, [123 Stat. 2056][/us/stat/123/2056]; [Pub. L. 111–116][/us/pl/111/116], § 7, Dec. 16, 2009, [123 Stat. 3033][/us/stat/123/3033]; [Pub. L. 111–153][/us/pl/111/153], § 7, Mar. 31, 2010, [124 Stat. 1086][/us/stat/124/1086]; [Pub. L. 111–161][/us/pl/111/161], § 7, Apr. 30, 2010, [124 Stat. 1128][/us/stat/124/1128]; [Pub. L. 111–197][/us/pl/111/197], § 7, July 2, 2010, [124 Stat. 1354][/us/stat/124/1354]; [Pub. L. 111–216, title I][/us/pl/111/216/tI], § 106, Aug. 1, 2010, [124 Stat. 2350][/us/stat/124/2350]; [Pub. L. 112–30, title II][/us/pl/112/30/tII], § 207, Sept. 16, 2011, [125 Stat. 359][/us/stat/125/359]; [Pub. L. 112–91][/us/pl/112/91], § 7, Jan. 31, 2012, [126 Stat. 4][/us/stat/126/4]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 102, Feb. 14, 2012, [126 Stat. 16][/us/stat/126/16]; [Pub. L. 114–55, title I][/us/pl/114/55/tI], § 104, Sept. 30, 2015, [129 Stat. 524][/us/stat/129/524]; [Pub. L. 114–141, title I][/us/pl/114/141/tI], § 104, Mar. 30, 2016, [130 Stat. 323][/us/stat/130/323].)
 
 <table>
 
@@ -152,6 +152,8 @@ Sept. 3, 1982, Pub. L. 97–248, § 506(a)(2), 96 Stat. 677; Dec. 30, 1987, Pu
     In subsection (a), the words “to the Secretary of Transportation” are added for clarity and consistency in this chapter. The words “for fiscal years beginning after September 30, 1990” and “$2,500,000,000 for fiscal year 1991” are omitted as obsolete.
 
  __Amendments__ 
+
+    2016—Subsec. (a)(5). [Pub. L. 114–141][/us/pl/114/141] amended par. (5) generally. Prior to amendment, par. (5) read as follows: “$1,300,000,000 for the period beginning on October 1, 2015, and ending on March 31, 2016.”
 
     2015—Subsec. (a)(5). [Pub. L. 114–55][/us/pl/114/55] added par. (5).
 
@@ -316,6 +318,9 @@ Sept. 3, 1982, Pub. L. 97–248, § 506(a)(2), 96 Stat. 677; Dec. 30, 1987, Pu
 [/us/stat/126/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F16
 [/us/pl/114/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2FtI
 [/us/stat/129/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F524
+[/us/pl/114/141/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F141%2FtI
+[/us/stat/130/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F323
+[/us/pl/114/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F141
 [/us/pl/114/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/pl/112/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F91

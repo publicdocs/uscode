@@ -77,7 +77,7 @@
 
             (E)  __Funding__  __.—__ 
 
-            Of the amounts appropriated pursuant to section 106(k)(1), not more than $10,350,000 for each of fiscal years 2012 through 2015 and not more than $5,175,000 for the period beginning on October 1, 2015, and ending on March 31, 2016, may be used to carry out this paragraph.
+            Of the amounts appropriated pursuant to section 106(k)(1), not more than $10,350,000 for each of fiscal years 2012 through 2015 and not more than $8,193,750 for the period beginning on October 1, 2015, and ending on July 15, 2016, may be used to carry out this paragraph.
 
             (F)  __Use of excess funds__  __.—__ 
 
@@ -141,7 +141,7 @@
 
     The Secretary shall establish uniform standards and requirements for regular safety assessments of air traffic control towers that receive funding under this section.
 
-([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1276][/us/stat/108/1276]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 131, Apr. 5, 2000, [114 Stat. 78][/us/stat/114/78]; [Pub. L. 108–7, div. I, title III][/us/pl/108/7/dI/tIII], § 370(b)(1), (2), Feb. 20, 2003, [117 Stat. 425][/us/stat/117/425], 426; [Pub. L. 108–176, title I][/us/pl/108/176/tI], § 105, Dec. 12, 2003, [117 Stat. 2498][/us/stat/117/2498]; [Pub. L. 112–55, div. C, title I][/us/pl/112/55/dC/tI], § 119, Nov. 18, 2011, [125 Stat. 649][/us/stat/125/649]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 147, Feb. 14, 2012, [126 Stat. 30][/us/stat/126/30]; [Pub. L. 113–76, div. L, title I][/us/pl/113/76/dL/tI], § 118, Jan. 17, 2014, [128 Stat. 581][/us/stat/128/581]; [Pub. L. 113–235, div. K, title I][/us/pl/113/235/dK/tI], § 118, Dec. 16, 2014, [128 Stat. 2704][/us/stat/128/2704]; [Pub. L. 114–55, title I][/us/pl/114/55/tI], § 102(c), Sept. 30, 2015, [129 Stat. 523][/us/stat/129/523].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1276][/us/stat/108/1276]; [Pub. L. 106–181, title I][/us/pl/106/181/tI], § 131, Apr. 5, 2000, [114 Stat. 78][/us/stat/114/78]; [Pub. L. 108–7, div. I, title III][/us/pl/108/7/dI/tIII], § 370(b)(1), (2), Feb. 20, 2003, [117 Stat. 425][/us/stat/117/425], 426; [Pub. L. 108–176, title I][/us/pl/108/176/tI], § 105, Dec. 12, 2003, [117 Stat. 2498][/us/stat/117/2498]; [Pub. L. 112–55, div. C, title I][/us/pl/112/55/dC/tI], § 119, Nov. 18, 2011, [125 Stat. 649][/us/stat/125/649]; [Pub. L. 112–95, title I][/us/pl/112/95/tI], § 147, Feb. 14, 2012, [126 Stat. 30][/us/stat/126/30]; [Pub. L. 113–76, div. L, title I][/us/pl/113/76/dL/tI], § 118, Jan. 17, 2014, [128 Stat. 581][/us/stat/128/581]; [Pub. L. 113–235, div. K, title I][/us/pl/113/235/dK/tI], § 118, Dec. 16, 2014, [128 Stat. 2704][/us/stat/128/2704]; [Pub. L. 114–55, title I][/us/pl/114/55/tI], § 102(c), Sept. 30, 2015, [129 Stat. 523][/us/stat/129/523]; [Pub. L. 114–141, title I][/us/pl/114/141/tI], § 102(c), Mar. 30, 2016, [130 Stat. 323][/us/stat/130/323].)
 
 <table>
 
@@ -228,6 +228,8 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 747, § 303(h); added Oct. 31, 1992,
     In subsection (b)(2), the word “Secretary” is substituted for “Administrator” for consistency in the chapter.
 
  __Amendments__ 
+
+    2016—Subsec. (b)(3)(E). [Pub. L. 114–141][/us/pl/114/141] substituted “$8,193,750 for the period beginning on October 1, 2015, and ending on July 15, 2016,” for “$5,175,000 for the period beginning on October 1, 2015, and ending on March 31, 2016,”.
 
     2015—Subsec. (b)(3)(E). [Pub. L. 114–55][/us/pl/114/55] inserted “and not more than $5,175,000 for the period beginning on October 1, 2015, and ending on March 31, 2016,” after “fiscal years 2012 through 2015”.
 
@@ -346,6 +348,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 747, § 303(h); added Oct. 31, 1992,
 [/us/stat/128/2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2704
 [/us/pl/114/55/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2FtI
 [/us/stat/129/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F523
+[/us/pl/114/141/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F141%2FtI
+[/us/stat/130/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F323
+[/us/pl/114/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F141
 [/us/pl/114/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
