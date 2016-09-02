@@ -51,7 +51,7 @@
 
     (i) __Penalties for failure to file information__ 
 
-        Any failure to make information available to the Administrator under subsection (b) of this section, any failure to comply with any general or special order under subsection (c) of this section, or any failure to allow the Administrator to act under subsection (d) of this section shall be subject to the same penalties as any violation of [section 796 of this title][/us/usc/t15/s796] or any rule, regulation, or order issued under such section.
+        Any failure to make information available to the Administrator under subsection (b), any failure to comply with any general or special order under subsection (c), or any failure to allow the Administrator to act under subsection (d) shall be subject to the same penalties as any violation of [section 796 of this title][/us/usc/t15/s796] or any rule, regulation, or order issued under such section.
 
 ([Pub. L. 93–275, § 13][/us/pl/93/275/s13], May 7, 1974, [88 Stat. 107][/us/stat/88/107]; [Pub. L. 94–385, title I][/us/pl/94/385], §§ 107, 108, Aug. 14, 1976, [90 Stat. 1129][/us/stat/90/1129].)
 

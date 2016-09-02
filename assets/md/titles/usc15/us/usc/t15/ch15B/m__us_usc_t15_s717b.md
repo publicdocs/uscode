@@ -29,7 +29,7 @@
 
     (c) __Expedited application and approval process__ 
 
-        For purposes of subsection (a) of this section, the importation of the natural gas referred to in subsection (b) of this section, or the exportation of natural gas to a nation with which there is in effect a free trade agreement requiring national treatment for trade in natural gas, shall be deemed to be consistent with the public interest, and applications for such importation or exportation shall be granted without modification or delay.
+        For purposes of subsection (a), the importation of the natural gas referred to in subsection (b), or the exportation of natural gas to a nation with which there is in effect a free trade agreement requiring national treatment for trade in natural gas, shall be deemed to be consistent with the public interest, and applications for such importation or exportation shall be granted without modification or delay.
 
     (d) __Construction with other laws__ 
 

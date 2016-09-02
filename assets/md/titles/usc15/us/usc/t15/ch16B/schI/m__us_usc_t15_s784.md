@@ -29,7 +29,7 @@
 
     (d) __Collection of independent information__ 
 
-        The Administrator shall not be required to collect independently information described in subsection (a) of this section if he can secure the information described in subsection (a) of this section from other Federal agencies and the information secured from such agencies is available to the Congress pursuant to a request under subsection (b) of this section.
+        The Administrator shall not be required to collect independently information described in subsection (a) if he can secure the information described in subsection (a) from other Federal agencies and the information secured from such agencies is available to the Congress pursuant to a request under subsection (b).
 
 ([Pub. L. 93–275, § 25][/us/pl/93/275/s25], May 7, 1974, [88 Stat. 114][/us/stat/88/114]; [Pub. L. 94–385, title I, § 111][/us/pl/94/385/s111], Aug. 14, 1976, [90 Stat. 1132][/us/stat/90/1132].)
 

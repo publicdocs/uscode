@@ -23,7 +23,7 @@
 
         (1)
 
-         In order to obtain energy information for the purpose of carrying out the provisions of subsection (a) of this section, the Federal Energy Administrator is authorized—
+         In order to obtain energy information for the purpose of carrying out the provisions of subsection (a), the Federal Energy Administrator is authorized—
 
             (A) to require, by rule, any person who is engaged in the production, processing, refining, transportation by pipeline, or distribution (at other than the retail level) of energy resources to submit reports;
 
@@ -47,7 +47,7 @@
 
         (1)
 
-         The Federal Energy Administrator shall exercise the authorities granted to him under subsection (b)(1)(A) of this section to develop, within thirty days after June 22, 1974, as full and accurate a measure as is reasonably practicable of—
+         The Federal Energy Administrator shall exercise the authorities granted to him under subsection (b)(1)(A) to develop, within thirty days after June 22, 1974, as full and accurate a measure as is reasonably practicable of—
 
             (A) domestic reserves and production;
 

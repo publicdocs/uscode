@@ -31,7 +31,7 @@
 
     (c) __Commencement of suits before effective date__ 
 
-    Except as provided in subsection (e) of this section—
+    Except as provided in subsection (e)—
 
         (1) the provisions of this chapter shall not affect suits commenced prior to the date this chapter takes effect, and
 

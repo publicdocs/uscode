@@ -31,7 +31,7 @@
 
             (A) __In general__ 
 
-                A claim under subsection (b) of this section shall be barred unless a complaint is filed prior to the expiration of such time limits in the United States Court of Appeals for the District of Columbia acting as a Special Court.
+                A claim under subsection (b) shall be barred unless a complaint is filed prior to the expiration of such time limits in the United States Court of Appeals for the District of Columbia acting as a Special Court.
 
             (B) __Exclusive jurisdiction__ 
 

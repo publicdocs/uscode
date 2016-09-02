@@ -61,9 +61,9 @@
 
              use by the Secretary—
 
-                (i) to provide financial assistance for the purpose of carrying out fisheries research and development projects approved under subsection (c) of this section, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should be a semicolon. </sup></sup> 
+                (i) to provide financial assistance for the purpose of carrying out fisheries research and development projects approved under subsection (c), <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should be a semicolon. </sup></sup> 
 
-                (ii) to implement the national fisheries research and development program provided for under subsection (d) of this section;
+                (ii) to implement the national fisheries research and development program provided for under subsection (d);
 
                 (iii) to implement the Northwest Atlantic Ocean Fisheries Reinvestment Program established under [section 1863 of title 16][/us/usc/t16/s1863]; and
 
@@ -75,7 +75,7 @@
 
     (c) __Fisheries research and development projects__ 
 
-        (1) The Secretary shall make grants from the fund established under subsection (b) of this section to assist persons in carrying out research and development projects addressed to any aspect of United States fisheries, including, but not limited to, harvesting, processing, marketing, and associated infrastructures.
+        (1) The Secretary shall make grants from the fund established under subsection (b) to assist persons in carrying out research and development projects addressed to any aspect of United States fisheries, including, but not limited to, harvesting, processing, marketing, and associated infrastructures.
 
         (2)
 
@@ -129,7 +129,7 @@
 
     (d) __National fisheries research and development program__ 
 
-        (1) The Secretary shall carry out a national program of research and development addressed to such aspects of United States fisheries (including, but not limited to, harvesting, processing, marketing, and associated infrastructures) if not adequately covered by proj- ects assisted under subsection (c) of this section, as the Secretary deems appropriate.
+        (1) The Secretary shall carry out a national program of research and development addressed to such aspects of United States fisheries (including, but not limited to, harvesting, processing, marketing, and associated infrastructures) if not adequately covered by proj- ects assisted under subsection (c), as the Secretary deems appropriate.
 
         (2)
 
@@ -139,19 +139,19 @@
 
             (B)
 
-             a description of all pending projects assisted under subsection (c) of this section or carried out under paragraph (1), in addition to—
+             a description of all pending projects assisted under subsection (c) or carried out under paragraph (1), in addition to—
 
-                (i) a list of those applications approved and those disapproved under subsection (c) of this section, and the total amount of grants made, for the current fiscal year, and
+                (i) a list of those applications approved and those disapproved under subsection (c), and the total amount of grants made, for the current fiscal year, and
 
-                (ii) a statement of the extent to which available funds were not obligated or expended by the Secretary for grants under subsection (c) of this section during the current fiscal year; and
+                (ii) a statement of the extent to which available funds were not obligated or expended by the Secretary for grants under subsection (c) during the current fiscal year; and
 
-            (C) an assessment of each project assisted under subsection (c) of this section or carried out under paragraph (1) that was completed in the preceding fiscal year regarding the extent to which (i) the objectives of the project were attained, and (ii) the project contributed to fishery development.
+            (C) an assessment of each project assisted under subsection (c) or carried out under paragraph (1) that was completed in the preceding fiscal year regarding the extent to which (i) the objectives of the project were attained, and (ii) the project contributed to fishery development.
 
     (e) __Allocation of fund moneys__ 
 
         (1)
 
-         Notwithstanding any other provision of law, all moneys in the fund shall be used exclusively for the purpose of promoting United States fisheries in accordance with the provisions of this section, and no such moneys shall be transferred from the fund for any other purpose. With respect to any fiscal year, all moneys in the fund, including the sum of all unexpended moneys carried over into that fiscal year and all moneys transferred to the fund under subsection (b) of this section or any other provision of law with respect to that fiscal year, shall be allocated as follows:
+         Notwithstanding any other provision of law, all moneys in the fund shall be used exclusively for the purpose of promoting United States fisheries in accordance with the provisions of this section, and no such moneys shall be transferred from the fund for any other purpose. With respect to any fiscal year, all moneys in the fund, including the sum of all unexpended moneys carried over into that fiscal year and all moneys transferred to the fund under subsection (b) or any other provision of law with respect to that fiscal year, shall be allocated as follows:
 
             (A) the Secretary shall use no less than 60 per centum of such moneys to make direct industry assistance grants to develop the United States fisheries and to expand domestic and foreign markets for United States fishery products pursuant to subsection (c) of this section; and
 

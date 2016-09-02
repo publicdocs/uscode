@@ -37,7 +37,7 @@
 
     (c) __Referral to joint committee__ 
 
-        The Economic Report, and all supplementary reports transmitted under subsection (b) of this section, shall, when transmitted to Congress, be referred to the joint committee created by [section 1024 of this title][/us/usc/t15/s1024].
+        The Economic Report, and all supplementary reports transmitted under subsection (b), shall, when transmitted to Congress, be referred to the joint committee created by [section 1024 of this title][/us/usc/t15/s1024].
 
     (d) __Rate of unemployment__ 
 

@@ -21,7 +21,7 @@
 
         (1) identify, by name, the organization which promulgated such standards; and
 
-        (2) state whether or not, in the judgment of the Administrator, such organization complied with the requirements of subsection (b) of this section in the promulgation of such standards.
+        (2) state whether or not, in the judgment of the Administrator, such organization complied with the requirements of subsection (b) in the promulgation of such standards.
 
     (b) __Promulgation of commercial standards__ 
 

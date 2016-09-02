@@ -25,11 +25,11 @@
 
     (b) __Expedition and precedence of actions on applications or requests__ 
 
-        All actions of a Federal officer or agency with respect to consideration of applications or requests for the issuance or grant of a certificate, right-of-way, permit, lease, or other authorization to which subsection (a) of this section applies shall be expedited and any such application or request shall take precedence over any similar applications or requests of the Federal officer or agency.
+        All actions of a Federal officer or agency with respect to consideration of applications or requests for the issuance or grant of a certificate, right-of-way, permit, lease, or other authorization to which subsection (a) applies shall be expedited and any such application or request shall take precedence over any similar applications or requests of the Federal officer or agency.
 
     (c) __Required terms and conditions__ 
 
-        Any certificate, right-of-way, permit, lease, or other authorization issued or granted pursuant to the direction under subsection (a) of this section shall include the terms and conditions required by law unless waived pursuant to a resolution under [section 719f(g) of this title][/us/usc/t15/s719f/g], and may include terms and conditions permitted by law, except that with respect to terms and conditions permitted but not required, the Federal officer or agency, notwithstanding any such other provision of law, shall have no authority to include terms and conditions as would compel a change in the basic nature and general route of the approved transportation system or those the inclusion of which would otherwise prevent or impair in any significant respect the expeditious construction and initial operation of such transportation system.
+        Any certificate, right-of-way, permit, lease, or other authorization issued or granted pursuant to the direction under subsection (a) shall include the terms and conditions required by law unless waived pursuant to a resolution under [section 719f(g) of this title][/us/usc/t15/s719f/g], and may include terms and conditions permitted by law, except that with respect to terms and conditions permitted but not required, the Federal officer or agency, notwithstanding any such other provision of law, shall have no authority to include terms and conditions as would compel a change in the basic nature and general route of the approved transportation system or those the inclusion of which would otherwise prevent or impair in any significant respect the expeditious construction and initial operation of such transportation system.
 
     (d) __Additions to, and amendment or abrogation of authorizations; exception__ 
 
@@ -37,7 +37,7 @@
 
     (e) __Appropriate terms and conditions__ 
 
-        Any Federal officer or agency to which subsection (a) of this section applies, to the extent permitted under laws administered by such officer or agency, shall include in any certificate, permit, right-of-way, lease, or authorization issued or granted those terms and conditions identified in the President’s decision as appropriate for inclusion except that the requirement to include such terms and conditions shall not limit the Federal officer or agency’s authority under subsection (d) of this section.
+        Any Federal officer or agency to which subsection (a) applies, to the extent permitted under laws administered by such officer or agency, shall include in any certificate, permit, right-of-way, lease, or authorization issued or granted those terms and conditions identified in the President’s decision as appropriate for inclusion except that the requirement to include such terms and conditions shall not limit the Federal officer or agency’s authority under subsection (d) of this section.
 
 ([Pub. L. 94–586, § 9][/us/pl/94/586/s9], Oct. 22, 1976, [90 Stat. 2912][/us/stat/90/2912].)
 

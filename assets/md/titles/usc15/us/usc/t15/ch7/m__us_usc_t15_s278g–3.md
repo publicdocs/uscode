@@ -131,13 +131,9 @@
 
         (4) the term “information technology” has the same meaning as provided in [section 11101 of title 40][/us/usc/t40/s11101]; and
 
-        (5) the term “national security system” has the same meaning as provided in section 3552(b)(5) of such title. <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note below. </sup></sup> 
+        (5) the term “national security system” has the same meaning as provided in section 3552(b)(5) 1 of such title. <sup>\[3\]</sup>  <sup><sup> 3 So in original. “Such title” probably means title 44. </sup></sup> 
 
 ([Mar. 3, 1901, ch. 872, § 20][/us/act/1901-03-03/ch872/s20], as added [Pub. L. 100–235, § 3(2)][/us/pl/100/235/s3/2], Jan. 8, 1988, [101 Stat. 1724][/us/stat/101/1724]; amended [Pub. L. 100–418, title V, § 5115(a)(1)][/us/pl/100/418/s5115/a/1], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 104–106, div. E, title LVI, § 5607(a)][/us/pl/104/106/s5607/a], Feb. 10, 1996, [110 Stat. 701][/us/stat/110/701]; [Pub. L. 105–85, div. A, title X, § 1073(h)(1)][/us/pl/105/85/s1073/h/1], Nov. 18, 1997, [111 Stat. 1906][/us/stat/111/1906]; [Pub. L. 107–296, title X, § 1003][/us/pl/107/296/s1003], Nov. 25, 2002, [116 Stat. 2269][/us/stat/116/2269]; [Pub. L. 107–305][/us/pl/107/305], §§ 8(b), 9, 10, Nov. 27, 2002, [116 Stat. 2378][/us/stat/116/2378], 2379; [Pub. L. 107–347, title III, § 303][/us/pl/107/347/s303], Dec. 17, 2002, [116 Stat. 2957][/us/stat/116/2957]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–274, title II, § 204][/us/pl/113/274/s204], Dec. 18, 2014, [128 Stat. 2980][/us/stat/128/2980]; [Pub. L. 113–283, § 2(e)(4)][/us/pl/113/283/s2/e/4], Dec. 18, 2014, [128 Stat. 3087][/us/stat/128/3087].)
-
- __References in Text__ 
-
-    Section 3552(b)(5) of such title, referred to in subsec. (f)(5), probably should be [section 3552(b)(6) of title 44][/us/usc/t44/s3552/b/6].
 
  __Codification__ 
 
@@ -396,7 +392,6 @@
 [/us/stat/128/2980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2980
 [/us/pl/113/283/s2/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fe%2F4
 [/us/stat/128/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3087
-[/us/usc/t44/s3552/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552%2Fb%2F6
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
 [/us/usc/t15/s278q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278q

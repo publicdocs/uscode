@@ -59,7 +59,7 @@
 
     (e) __Energy needs analysis; time for submission; contents; continuation of analysis after termination of Administration__ 
 
-    The analysis referred to in subsection (b)(6) of this section shall include, for each of the next five fiscal years following the year in which the annual report is submitted and for the tenth fiscal year following such year—
+    The analysis referred to in subsection (b)(6) shall include, for each of the next five fiscal years following the year in which the annual report is submitted and for the tenth fiscal year following such year—
 
         (1) the effect of various conservation programs on such energy needs;
 
@@ -75,7 +75,7 @@
 
         (3) recommendations for the best method or methods of meeting the energy needs identified in such annual report and for legislation needed to meet those needs.
 
-        Notwithstanding the termination of this chapter, the President shall designate an appropriate Federal agency to conduct the analysis specified in subsection (b)(6) of this section.
+        Notwithstanding the termination of this chapter, the President shall designate an appropriate Federal agency to conduct the analysis specified in subsection (b)(6).
 
 ([Pub. L. 93–275, § 15][/us/pl/93/275/s15], May 7, 1974, [88 Stat. 108][/us/stat/88/108]; [Pub. L. 94–385, title I, § 109(a)][/us/pl/94/385/s109/a]–(c), Aug. 14, 1976, [90 Stat. 1130][/us/stat/90/1130].)
 

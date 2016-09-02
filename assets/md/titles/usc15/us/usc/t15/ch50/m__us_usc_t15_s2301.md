@@ -77,6 +77,12 @@
 
     For definition of Canal Zone, referred to in par. (15), see [section 3602(b) of Title 22][/us/usc/t22/s3602/b], Foreign Relations and Intercourse.
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–51, § 1][/us/pl/114/51/s1], Sept. 24, 2015, [129 Stat. 494][/us/stat/129/494], provided that: 
+
+> “This Act \[amending [section 2302 of this title][/us/usc/t15/s2302] and enacting provisions set out as notes under [section 2302 of this title][/us/usc/t15/s2302]\] may be cited as the ‘E-Warranty Act of 2015’.”
+
  __Short Title__ 
 
 [Pub. L. 93–637, § 1][/us/pl/93/637/s1], Jan. 4, 1975, [88 Stat. 2183][/us/stat/88/2183], provided: 
@@ -93,6 +99,10 @@
 [/us/pl/93/637/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs101
 [/us/stat/88/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2183
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
+[/us/pl/114/51/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F51%2Fs1
+[/us/stat/129/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F494
+[/us/usc/t15/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2302
+[/us/usc/t15/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2302
 [/us/pl/93/637/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs1
 [/us/stat/88/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2183
 
