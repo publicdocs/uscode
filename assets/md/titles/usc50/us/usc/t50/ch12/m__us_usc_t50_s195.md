@@ -17,11 +17,11 @@
 
     In this Act:
 
-    (1) __United states.—__ 
+    (1)  __United states__  __.—__ 
 
     The term “United States” includes all territory and waters, continental or insular, subject to the jurisdiction of the United States.
 
-    (2) __Territorial waters.—__ 
+    (2)  __Territorial waters__  __.—__ 
 
     The term “territorial waters of the United States” includes all waters of the territorial sea of the United States as described in Presidential Proclamation 5928 of December 27, 1988.
 

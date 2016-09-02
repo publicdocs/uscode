@@ -71,11 +71,11 @@
 
 [Pub. L. 102–484, div. C, title XXXIII, § 3306][/us/pl/102/484/s3306], Oct. 23, 1992, [106 Stat. 2652][/us/stat/106/2652], provided that:
 
->     “(a) __Appointment.—__ 
+>     “(a)  __Appointment__  __.—__ 
 
 >     Not later than March 15, 1993, the President shall appoint an advisory committee under section 10(a) of the Strategic and Critical Materials Stock Piling Act ([50 U.S.C. 98h–1(a)][/us/usc/t50/s98h–1/a]) to make recommendations to the President concerning the operation and modernization of the National Defense Stockpile.
 
->     “(b) __Membership.—__ 
+>     “(b)  __Membership__  __.—__ 
 
 >     The committee shall consist of members who have expertise regarding strategic and critical materials, including—
 

@@ -195,13 +195,13 @@
 
 [Pub. L. 108–487, title I, § 107][/us/pl/108/487/s107], Dec. 23, 2004, [118 Stat. 3943][/us/stat/118/3943], provided that:
 
->     “(a) __Consultation in Preparation.—__ 
+>     “(a)  __Consultation in Preparation__  __.—__ 
 
 >         (1) The Director of National Intelligence shall ensure that any report, review, study, or plan required to be prepared or conducted by a provision of this Act \[see Tables for classification\], including a provision of the classified Schedule of Authorizations referred to in section 102(a) \[[118 Stat. 3940][/us/stat/118/3940]\] or the classified annex to this Act, that involves the intelligence or intelligence-related activities of the Department of Defense or the Department of Energy is prepared or conducted in consultation with the Secretary of Defense or the Secretary of Energy, as appropriate.
 
 >         “(2) The Secretary of Defense or the Secretary of Energy may carry out any consultation required by this subsection through an official of the Department of Defense or the Department of Energy, as the case may be, designated by such Secretary for that purpose.
 
->     “(b) __Submittal.—__ 
+>     “(b)  __Submittal__  __.—__ 
 
 >     Any report, review, study, or plan referred to in subsection (a) shall be submitted, in addition to any other committee of Congress specified for submittal in the provision concerned, to the following committees or subcommittees of Congress, as appropriate:
 

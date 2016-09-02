@@ -135,11 +135,11 @@ Section 1 of act Mar. 3, 1925, as added by [Pub. L. 86–777, § 2][/us/pl/86/
 
 [Pub. L. 113–40, § 8][/us/pl/113/40/s8], Oct. 2, 2013, [127 Stat. 544][/us/stat/127/544], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     This Act \[see Tables for classification\] and the amendments made by this Act shall not affect or diminish the rights and obligations of the Secretary of the Interior and private parties under agreements in existence on the date of enactment of this Act \[Oct. 2, 2013\], except to the extent that the agreements are renewed or extended after that date.
 
->     “(b) __Delivery.—__ 
+>     “(b)  __Delivery__  __.—__ 
 
 >     No agreement described in subsection (a) shall affect or diminish the right of any party that purchases helium after the date of enactment of this Act in accordance with section 6 of the Helium Act ([50 U.S.C. 167d][/us/usc/t50/s167d]) (as amended by section 5) to receive delivery of the helium in accordance with section 5(e)(2) of the Helium Act ([50 U.S.C. 167c(e)(2)][/us/usc/t50/s167c/e/2]) (as amended by section 4).”
 

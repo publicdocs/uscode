@@ -279,11 +279,11 @@
 
 [Pub. L. 109–177, title I, § 102(b)][/us/pl/109/177/s102/b], Mar. 9, 2006, [120 Stat. 195][/us/stat/120/195], as amended by [Pub. L. 111–118, div. B, § 1004(a)][/us/pl/111/118/s1004/a], Dec. 19, 2009, [123 Stat. 3470][/us/stat/123/3470]; [Pub. L. 111–141, § 1(a)][/us/pl/111/141/s1/a], Feb. 27, 2010, [124 Stat. 37][/us/stat/124/37]; [Pub. L. 112–3, § 2(a)][/us/pl/112/3/s2/a], Feb. 25, 2011, [125 Stat. 5][/us/stat/125/5]; [Pub. L. 112–14, § 2(a)][/us/pl/112/14/s2/a], May 26, 2011, [125 Stat. 216][/us/stat/125/216], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Effective June 1, 2015, the Foreign Intelligence Surveillance Act of 1978 \[[50 U.S.C. 1801][/us/usc/t50/s1801] et seq.\] is amended so that sections 501, 502, and 105(c)(2) \[[50 U.S.C. 1861][/us/usc/t50/s1861], 1862, and 1805(c)(2)\] read as they read on October 25, 2001.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     With respect to any particular foreign intelligence investigation that began before the date on which the provisions referred to in paragraph (1) cease to have effect, or with respect to any particular offense or potential offense that began or occurred before the date on which such provisions cease to have effect, such provisions shall continue in effect.”
 

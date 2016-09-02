@@ -55,11 +55,11 @@
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3158(b), (c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–469, provided that:
 
->     “(b) __Effective Date of Requirement to Assess Prior Plan.—__ 
+>     “(b)  __Effective Date of Requirement to Assess Prior Plan__  __.—__ 
 
 >     The first report submitted under paragraph (2) of subsection (c) of such section \[subsec. (c)(2) of this section\] (as added by subsection (a)) shall be the report on the plan prepared with respect to the budget submitted in calendar year 2001.
 
->     “(c) __GAO Report.—__ 
+>     “(c)  __GAO Report__  __.—__ 
 
 >     Not later than March 15, 2001, the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an assessment of the adequacy of the planning, programming, and budgeting processes of the National Nuclear Security Administration.”
 

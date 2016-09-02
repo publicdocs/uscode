@@ -73,13 +73,13 @@
 
         (1) The term “Director” means the Director of National Intelligence.
 
-        (2) __Historically black college and university.—__ 
+        (2)  __Historically black college and university__  __.—__ 
 
         The term “historically black college and university” has the meaning given the term “part B institution” in [section 1061 of title 20][/us/usc/t20/s1061].
 
         (3) The term “institution of higher education” has the meaning given the term in [section 1001 of title 20][/us/usc/t20/s1001].
 
-        (4) __Study abroad program.—__ 
+        (4)  __Study abroad program__  __.—__ 
 
         The term “study abroad program” means a program of study that—
 

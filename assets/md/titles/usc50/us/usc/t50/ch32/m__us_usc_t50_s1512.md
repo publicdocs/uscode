@@ -43,17 +43,17 @@
 
 [Pub. L. 109–163, div. A, title XII, § 1232][/us/pl/109/163/s1232], Jan. 6, 2006, [119 Stat. 3468][/us/stat/119/3468], provided that:
 
->     “(a) __Restatement of Policy.—__ 
+>     “(a)  __Restatement of Policy__  __.—__ 
 
 >     It is the policy of the United States that riot control agents are not chemical weapons and that the President may authorize their use as legitimate, legal, and non-lethal alternatives to the use of force that, as provided in Executive Order No. 11850 (40 Fed. Reg. 16187) \[set out below\] and consistent with the resolution of ratification of the Chemical Weapons Convention, may be employed by members of the Armed Forces in war in defensive military modes to save lives, including the illustrative purposes cited in Executive Order No. 11850.
 
 >     “(b) __Report Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Jan. 6, 2006\], the President shall submit to Congress a report on the use of riot control agents by members of the Armed Forces.
 
->         “(2) __Content.—__ 
+>         “(2)  __Content__  __.—__ 
 
 >         The report required by paragraph (1) shall include—
 
@@ -69,19 +69,19 @@
 
 >             “(F) a brief explanation of the continuing validity of Executive Order No. 11850 \[set out below\] under United States law.
 
->         “(3) __Form.—__ 
+>         “(3)  __Form__  __.—__ 
 
 >         The report required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Chemical weapons convention.—__ 
+>         “(1)  __Chemical weapons convention__  __.—__ 
 
 >         The term ‘Chemical Weapons Convention’ means the Convention on the Prohibitions of Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, with annexes, done at Paris, January 13, 1993, and entered into force April 29, 1997 (T. Doc. 103–21).
 
->         “(2) __Resolution of ratification of the chemical weapons convention.—__ 
+>         “(2)  __Resolution of ratification of the chemical weapons convention__  __.—__ 
 
 >         The term ‘resolution of ratification of the Chemical Weapons Convention’ means S. Res. 75, 105th Congress, agreed to April 24, 1997, advising and consenting to the ratification of the Chemical Weapons Convention.”
 

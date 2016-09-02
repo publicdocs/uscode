@@ -75,13 +75,13 @@
 
 [Pub. L. 111–258, § 6][/us/pl/111/258/s6], Oct. 7, 2010, [124 Stat. 2651][/us/stat/124/2651], provided that:
 
->     “(a) __Incentives for Accurate Classifications.—__ 
+>     “(a)  __Incentives for Accurate Classifications__  __.—__ 
 
 >     In making cash awards under chapter 45 of title 5, United States Code, the President or the head of an Executive agency with an officer or employee who is authorized to make original classification decisions or derivative classification decisions may consider such officer’s or employee’s consistent and proper classification of information.
 
 >     “(b) __Inspector General Evaluations.—__ 
 
->         “(1) __Requirement for evaluations.—__ 
+>         “(1)  __Requirement for evaluations__  __.—__ 
 
 >         Not later than September 30, 2016, the inspector general of each department or agency of the United States with an officer or employee who is authorized to make original classifications, in consultation with the Information Security Oversight Office, shall carry out no less than two evaluations of that department or agency or a component of the department or agency—
 
@@ -91,21 +91,21 @@
 
 >         “(2) __Deadlines for evaluations.—__ 
 
->             “(A) __Initial evaluations.—__ 
+>             “(A)  __Initial evaluations__  __.—__ 
 
 >             Each first evaluation required by paragraph (1) shall be completed no later than September 30, 2013.
 
->             “(B) __Second evaluations.—__ 
+>             “(B)  __Second evaluations__  __.—__ 
 
 >             Each second evaluation required by paragraph (1) shall review progress made pursuant to the results of the first evaluation and shall be completed no later than September 30, 2016.
 
 >         “(3) __Reports.—__ 
 
->             “(A) __Requirement.—__ 
+>             “(A)  __Requirement__  __.—__ 
 
 >             Each inspector general who is required to carry out an evaluation under paragraph (1) shall submit to the appropriate entities a report on each such evaluation.
 
->             “(B) __Content.—__ 
+>             “(B)  __Content__  __.—__ 
 
 >             Each report submitted under subparagraph (A) shall include a description of—
 
@@ -113,11 +113,11 @@
 
 >                 “(ii) the recommendations, if any, of the inspector general to address any such identified policies, procedures, rules, regulations, or management practices.
 
->             “(C) __Coordination.—__ 
+>             “(C)  __Coordination__  __.—__ 
 
 >             The inspectors general who are required to carry out evaluations under paragraph (1) shall coordinate with each other and with the Information Security Oversight Office to ensure that evaluations follow a consistent methodology, as appropriate, that allows for cross-agency comparisons.
 
->         “(4) __Appropriate entities defined.—__ 
+>         “(4)  __Appropriate entities defined__  __.—__ 
 
 >         In this subsection, the term ‘appropriate entities’ means—
 
@@ -151,13 +151,13 @@
 
 > “SEC. 703. __PUBLIC INTEREST DECLASSIFICATION BOARD.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >         (1) There is established within the executive branch of the United States a board to be known as the ‘Public Interest Declassification Board’ (in this title referred to as the ‘Board’).
 
 >         “(2) The Board shall report directly to the President or, upon designation by the President, the Vice President, the Attorney General, or other designee of the President. The other designee of the President under this paragraph may not be an agency head or official authorized to classify information under Executive Order 12958 \[formerly set out below\], or any successor order.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of the Board are as follows:
 
@@ -181,7 +181,7 @@
 
 >         “(5) To review and make recommendations to the President in a timely manner with respect to any congressional request, made by the committee of jurisdiction or by a member of the committee of jurisdiction, to declassify certain records, to evaluate the proper classification of certain records, or to reconsider a declination to declassify specific records.
 
->     “(c) __Membership.—__ 
+>     “(c)  __Membership__  __.—__ 
 
 >         (1)
 
@@ -219,7 +219,7 @@
 
 >         “(4) A member of the Board may be appointed to a new term on the Board upon the expiration of the member’s term on the Board, except that no member may serve more than three full terms on the Board.
 
->     “(d) __Chairperson; Executive Secretary.—__ 
+>     “(d)  __Chairperson; Executive Secretary__  __.—__ 
 
 >         (1)
 
@@ -231,15 +231,15 @@
 
 >         “(2) The Director of the Information Security Oversight Office shall serve as the Executive Secretary of the Board.
 
->     “(e) __Meetings.—__ 
+>     “(e)  __Meetings__  __.—__ 
 
 >     The Board shall meet as needed to accomplish its mission, consistent with the availability of funds. A majority of the members of the Board shall constitute a quorum.
 
->     “(f) __Staff.—__ 
+>     “(f)  __Staff__  __.—__ 
 
 >     Any employee of the Federal Government may be detailed to the Board, with the agreement of and without reimbursement to the detailing agency, and such detail shall be without interruption or loss of civil, military, or foreign service status or privilege.
 
->     “(g) __Security.—__ 
+>     “(g)  __Security__  __.—__ 
 
 >         (1) The members and staff of the Board shall, as a condition of appointment to or employment with the Board, hold appropriate security clearances for access to the classified records and materials to be reviewed by the Board or its staff, and shall follow the guidance and practices on security under applicable Executive orders and Presidential or agency directives.
 
@@ -255,35 +255,35 @@
 
 >         “(4) For purposes of any law or regulation governing access to classified information that pertains to the national security of the United States, and subject to any limitations on access arising under section 706(b), and to facilitate the advisory functions of the Board under this title, a member of the Board seeking access to a record or material under this title shall be deemed for purposes of this subsection to have a need to know the contents of the record or material.
 
->     “(h) __Compensation.—__ 
+>     “(h)  __Compensation__  __.—__ 
 
 >         (1) Each member of the Board shall receive compensation at a rate not to exceed the daily equivalent of the annual rate of basic pay payable for positions at ES–1 of the Senior Executive Service under [section 5382 of title 5][/us/usc/t5/s5382], United States Code, for each day such member is engaged in the actual performance of duties of the Board.
 
 >         “(2) Members of the Board shall be allowed travel expenses, including per diem in lieu of subsistence at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of the duties of the Board.
 
->     “(i) __Guidance; Annual Budget.—__ 
+>     “(i)  __Guidance; Annual Budget__  __.—__ 
 
 >         (1) On behalf of the President, the Assistant to the President for National Security Affairs shall provide guidance on policy to the Board.
 
 >         “(2) The Executive Secretary of the Board, under the direction of the Chairperson of the Board and the Board, and acting in consultation with the Archivist of the United States, the Assistant to the President for National Security Affairs, and the Director of the Office of Management and Budget, shall prepare the annual budget of the Board.
 
->     “(j) __Support.—__ 
+>     “(j)  __Support__  __.—__ 
 
 >     The Information Security Oversight Office may support the activities of the Board under this title. Such support shall be provided on a reimbursable basis.
 
->     “(k) __Public Availability of Records and Reports.—__ 
+>     “(k)  __Public Availability of Records and Reports__  __.—__ 
 
 >         (1) The Board shall make available for public inspection records of its proceedings and reports prepared in the course of its activities under this title to the extent such records and reports are not classified and would not be exempt from release under the provisions of [section 552 of title 5][/us/usc/t5/s552], United States Code.
 
 >         “(2) In making records and reports available under paragraph (1), the Board shall coordinate the release of such records and reports with appropriate officials from agencies with expertise in classified information in order to ensure that such records and reports do not inadvertently contain classified information.
 
->     “(l) __Applicability of Certain Administrative Laws.—__ 
+>     “(l)  __Applicability of Certain Administrative Laws__  __.—__ 
 
 >     The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the activities of the Board under this title. However, the records of the Board shall be governed by the provisions of the Federal Records Act of 1950 \[see References in Text note under [section 450j of Title 25][/us/usc/t25/s450j], Indians\].
 
 > “SEC. 704. __IDENTIFICATION, COLLECTION, AND REVIEW FOR DECLASSIFICATION OF INFORMATION OF ARCHIVAL VALUE OR EXTRAORDINARY PUBLIC INTEREST.__ 
 
->     “(a) __Briefings on Agency Declassification Programs.—__ 
+>     “(a)  __Briefings on Agency Declassification Programs__  __.—__ 
 
 >         (1) As requested by the Board, or by the Select Committee on Intelligence of the Senate or the Permanent Select Committee on Intelligence of the House of Representatives, the head of any agency with the authority under an Executive order to classify information shall provide to the Board, the Select Committee on Intelligence of the Senate, or the Permanent Select Committee on Intelligence of the House of Representatives, on an annual basis, a summary briefing and report on such agency’s progress and plans in the declassification of national security information. Such briefing shall cover the declassification goals set by statute, regulation, or policy, the agency’s progress with respect to such goals, and the agency’s planned goals and priorities for its declassification activities over the next 2 fiscal years. Agency briefings and reports shall give particular attention to progress on the declassification of records and materials that are of archival value or extraordinary public interest to the people of the United States.
 
@@ -293,13 +293,13 @@
 
 >             “(B) In this paragraph, the term ‘elements of the intelligence community’ means the elements of the intelligence community specified or designated under section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]) \[now [50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]\].
 
->     “(b) __Recommendations on Agency Declassification Programs.—__ 
+>     “(b)  __Recommendations on Agency Declassification Programs__  __.—__ 
 
 >         (1) Upon reviewing and discussing declassification plans and progress with an agency, the Board shall provide to the head of the agency the written recommendations of the Board as to how the agency’s declassification program could be improved. A copy of each recommendation shall also be submitted to the Assistant to the President for National Security Affairs and the Director of the Office of Management and Budget.
 
 >         “(2) Consistent with the provisions of section 703(k), the Board’s recommendations to the head of an agency under paragraph (1) shall become public 60 days after such recommendations are sent to the head of the agency under that paragraph.
 
->     “(c) __Recommendations on Special Searches for Records of Extraordinary Public Interest.—__ 
+>     “(c)  __Recommendations on Special Searches for Records of Extraordinary Public Interest__  __.—__ 
 
 >         (1) The Board shall also make recommendations to the President regarding proposed initiatives to identify, collect, and review for declassification classified records and materials of extraordinary public interest.
 
@@ -323,57 +323,57 @@
 
 >             “(H) The impact of compliance with the recommendations on the national security of the United States.
 
->     “(d) __President’s Declassification Priorities.—__ 
+>     “(d)  __President’s Declassification Priorities__  __.—__ 
 
 >         (1) Concurrent with the submission to Congress of the budget of the President each fiscal year under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, the Director of the Office of Management and Budget shall publish a description of the President’s declassification program and priorities, together with a listing of the funds requested to implement that program.
 
 >         “(2) Nothing in this title shall be construed to substitute or supersede, or establish a funding process for, any declassification program that has been established or may be established by the President by Executive order.
 
->     “(e) __Declassification Reviews.—__ 
+>     “(e)  __Declassification Reviews__  __.—__ 
 
->         (1) __In general.—__ 
+>         (1)  __In general__  __.—__ 
 
 >         If requested by the President, the Board shall review in a timely manner certain records or declinations to declassify specific records, the declassification of which has been the subject of specific congressional request described in section 703(b)(5).
 
->         “(2) __Authority of board.—__ 
+>         “(2)  __Authority of board__  __.—__ 
 
 >         Upon receiving a congressional request described in section 703(b)(5), the Board may conduct the review and make the recommendations described in that section, regardless of whether such a review is requested by the President.
 
->         “(3) __Reporting.—__ 
+>         “(3)  __Reporting__  __.—__ 
 
 >         Any recommendations submitted to the President by the Board under section 703(b)(5),\[sic\] shall be submitted to the chairman and ranking minority member of the committee of Congress that made the request relating to such recommendations.
 
 > “SEC. 705. __PROTECTION OF NATIONAL SECURITY INFORMATION AND OTHER INFORMATION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Nothing in this title shall be construed to limit the authority of the head of an agency to classify information or to continue the classification of information previously classified by that agency.
 
->     “(b) __Special Access Programs.—__ 
+>     “(b)  __Special Access Programs__  __.—__ 
 
 >     Nothing in this title shall be construed to limit the authority of the head of an agency to grant or deny access to a special access program.
 
->     “(c) __Authorities of Director of National Intelligence.—__ 
+>     “(c)  __Authorities of Director of National Intelligence__  __.—__ 
 
 >     Nothing in this title shall be construed to limit the authorities of the Director of National Intelligence as the head of the intelligence community, including the Director’s responsibility to protect intelligence sources and methods from unauthorized disclosure as required by section 103(c)(6) of the National Security Act of 1947 (\[former\] [50 U.S.C. 403–3(c)(6)][/us/usc/t50/s403–3/c/6]) \[see [50 U.S.C. 3024(i)][/us/usc/t50/s3024/i]\].
 
->     “(d) __Exemptions to Release of Information.—__ 
+>     “(d)  __Exemptions to Release of Information__  __.—__ 
 
 >     Nothing in this title shall be construed to limit any exemption or exception to the release to the public under this title of information that is protected under subsection (b) of [section 552 of title 5][/us/usc/t5/s552], United States Code (commonly referred to as the ‘Freedom of Information Act’), or [section 552a of title 5][/us/usc/t5/s552a], United States Code (commonly referred to as the ‘Privacy Act’).
 
->     “(e) __Withholding Information From Congress.—__ 
+>     “(e)  __Withholding Information From Congress__  __.—__ 
 
 >     Nothing in this title shall be construed to authorize the withholding of information from Congress.
 
 > “SEC. 706. __STANDARDS AND PROCEDURES.__ 
 
->     “(a) __Liaison.—__ 
+>     “(a)  __Liaison__  __.—__ 
 
 >         (1) The head of each agency with the authority under an Executive order to classify information and the head of each Federal Presidential library shall designate an employee of such agency or library to act as liaison to the Board for purposes of this title.
 
 >         “(2) The Board may establish liaison and otherwise consult with such other historical and advisory committees as the Board considers appropriate for purposes of this title.
 
->     “(b) __Limitations on Access.—__ 
+>     “(b)  __Limitations on Access__  __.—__ 
 
 >         (1)
 
@@ -383,15 +383,15 @@
 
 >         “(2) In the case of a determination referred to in paragraph (1) with respect to a special access program created by the Secretary of Defense, the Director of National Intelligence, or the head of any other agency, the notification of denial of access under paragraph (1), including a description of the nature of the Board’s request for access, shall be submitted to the Assistant to the President for National Security Affairs rather than to the Board.
 
->     “(c) __Discretion To Disclose.—__ 
+>     “(c)  __Discretion To Disclose__  __.—__ 
 
 >     At the conclusion of a declassification review, the head of an agency may, in the discretion of the head of the agency, determine that the public’s interest in the disclosure of records or materials of the agency covered by such review, and still properly classified, outweighs the Government’s need to protect such records or materials, and may release such records or materials in accordance with the provisions of Executive Order No. 12958 \[formerly set out below\] or any successor order to such Executive order.
 
->     “(d) __Discretion To Protect.—__ 
+>     “(d)  __Discretion To Protect__  __.—__ 
 
 >     At the conclusion of a declassification review, the head of an agency may, in the discretion of the head of the agency, determine that the interest of the agency in the protection of records or materials of the agency covered by such review, and still properly classified, outweighs the public’s need for access to such records or materials, and may deny release of such records or materials in accordance with the provisions of Executive Order No. 12958 or any successor order to such Executive order.
 
->     “(e) __Reports.—__ 
+>     “(e)  __Reports__  __.—__ 
 
 >         (1)
 
@@ -409,7 +409,7 @@
 
 >             “(C) In the case of the denial of access to a special access program created by the Secretary of Energy or the Administrator for Nuclear Security, to the Committees on Armed Services and Appropriations and the Select Committee on Intelligence of the Senate and to the Committees on Armed Services and Appropriations and the Permanent Select Committee on Intelligence of the House of Representatives.
 
->     “(f) __Notification of Review.—__ 
+>     “(f)  __Notification of Review__  __.—__ 
 
 >     In response to a specific congressional request for declassification review described in section 703(b)(5), the Board shall advise the originators of the request in a timely manner whether the Board intends to conduct such review.
 
@@ -419,7 +419,7 @@
 
 > “SEC. 708. __FUNDING.__ 
 
->     “(a) __Authorization of Appropriations.—__ 
+>     “(a)  __Authorization of Appropriations__  __.—__ 
 
 >     There is hereby authorized to be appropriated to carry out the provisions of this title amounts as follows:
 
@@ -427,7 +427,7 @@
 
 >         “(2) For each fiscal year after fiscal year 2001, such sums as may be necessary for such fiscal year.
 
->     “(b) __Funding Requests.—__ 
+>     “(b)  __Funding Requests__  __.—__ 
 
 >     The President shall include in the budget submitted to Congress for each fiscal year under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, a request for amounts for the activities of the Board under this title during such fiscal year.
 
@@ -435,7 +435,7 @@
 
 > “In this title:
 
->     “(1) __Agency.—__ 
+>     “(1)  __Agency__  __.—__ 
 
 >         (A)
 
@@ -449,27 +449,27 @@
 
 >         “(B) The term does not include the Board.
 
->     “(2) __Classified material or record.—__ 
+>     “(2)  __Classified material or record__  __.—__ 
 
 >     The terms ‘classified material’ and ‘classified record’ include any correspondence, memorandum, book, plan, map, drawing, diagram, pictorial or graphic work, photograph, film, microfilm, sound recording, videotape, machine readable records, and other documentary material, regardless of physical form or characteristics, that has been determined pursuant to Executive order to require protection against unauthorized disclosure in the interests of the national security of the United States.
 
->     “(3) __Declassification.—__ 
+>     “(3)  __Declassification__  __.—__ 
 
 >     The term ‘declassification’ means the process by which records or materials that have been classified are determined no longer to require protection from unauthorized disclosure to protect the national security of the United States.
 
->     “(4) __Donated historical material.—__ 
+>     “(4)  __Donated historical material__  __.—__ 
 
 >     The term ‘donated historical material’ means collections of personal papers donated or given to a Federal Presidential library or other archival repository under a deed of gift or otherwise.
 
->     “(5) __Federal presidential library.—__ 
+>     “(5)  __Federal presidential library__  __.—__ 
 
 >     The term ‘Federal Presidential library’ means a library operated and maintained by the United States Government through the National Archives and Records Administration under the applicable provisions of the Federal Records Act of 1950 \[see References in Text note under [section 450j of Title 25][/us/usc/t25/s450j], Indians\].
 
->     “(6) __National security.—__ 
+>     “(6)  __National security__  __.—__ 
 
 >     The term ‘national security’ means the national defense or foreign relations of the United States.
 
->     “(7) __Records or materials of extraordinary public interest.—__ 
+>     “(7)  __Records or materials of extraordinary public interest__  __.—__ 
 
 >     The term ‘records or materials of extraordinary public interest’ means records or materials that—
 
@@ -485,17 +485,17 @@
 
 >         “(C) would need to be addressed through ad hoc record searches outside any systematic declassification program established under Executive order.
 
->     “(8) __Records of archival value.—__ 
+>     “(8)  __Records of archival value__  __.—__ 
 
 >     The term ‘records of archival value’ means records that have been determined by the Archivist of the United States to have sufficient historical or other value to warrant their continued preservation by the Federal Government.
 
 > “SEC. 710. __EFFECTIVE DATE; SUNSET.__ 
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     This title shall take effect on the date that is 120 days after the date of the enactment of this Act \[Dec. 27, 2000\].
 
->     “(b) __Sunset.—__ 
+>     “(b)  __Sunset__  __.—__ 
 
 >     The provisions of this title shall expire on December 31, 2014.”
 
@@ -503,11 +503,11 @@
 
 [Pub. L. 106–65, div. A, title X, § 1041(c)][/us/pl/106/65/s1041/c], (d), Oct. 5, 1999, [113 Stat. 758][/us/stat/113/758], provided that:
 
->     “(c) __Certification Required With Respect To Automatic Declassification of Records.—__ 
+>     “(c)  __Certification Required With Respect To Automatic Declassification of Records__  __.—__ 
 
 >     No records of the Department of Defense that have not been reviewed for declassification shall be subject to automatic declassification unless the Secretary of Defense certifies to Congress that such declassification would not harm the national security.
 
->     “(d) __Report on Automatic Declassification of Department of Defense Records.—__ 
+>     “(d)  __Report on Automatic Declassification of Department of Defense Records__  __.—__ 
 
 >     Not later than February 1, 2001, the Secretary of Defense shall submit to the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate a report on the efforts of the Department of Defense relating to the declassification of classified records under the control of the Department of Defense. Such report shall include the following:
 
@@ -543,13 +543,13 @@
 
 [Pub. L. 102–190, div. A, title X, § 1082][/us/pl/102/190/s1082], Dec. 5, 1991, [105 Stat. 1480][/us/stat/105/1480], as amended by [Pub. L. 103–337, div. A, title X, § 1036][/us/pl/103/337/s1036], Oct. 5, 1994, [108 Stat. 2841][/us/stat/108/2841]; [Pub. L. 104–106, div. A, title X, § 1085][/us/pl/104/106/s1085], Feb. 10, 1996, [110 Stat. 457][/us/stat/110/457], provided that:
 
->     “(a) __Public Availability of Information.—__ 
+>     “(a)  __Public Availability of Information__  __.—__ 
 
 >         (1) Except as provided in subsection (b), the Secretary of Defense shall, with respect to any information referred to in paragraph (2), place the information in a suitable library-like location within a facility within the National Capital region for public review and photocopying.
 
 >         “(2) Paragraph (1) applies to any record, live-sighting report, or other information in the custody of the official custodian referred to in subsection (d)(3) that may pertain to the location, treatment, or condition of (A) United States personnel who remain not accounted for as a result of service in the Armed Forces or other Federal Government service during the Korean conflict, the Vietnam era, or the Cold War, or (B) their remains.
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >         (1)
 
@@ -581,7 +581,7 @@
 
 >             “(C) The authority of a person to consent to disclosure of a record or other information for the purposes of paragraph (2) may be delegated to another person or an organization only by means of an express legal power of attorney granted by the person authorized by that paragraph to consent to the disclosure.
 
->     “(c) __Deadlines.—__ 
+>     “(c)  __Deadlines__  __.—__ 
 
 >         (1) In the case of records or other information originated by the Department of Defense, the official custodian shall make such records and other information available to the public pursuant to this section not later than January 2, 1996. Such records or other information shall be made available as soon as a review carried out for the purposes of subsection (b) is completed.
 
@@ -589,7 +589,7 @@
 
 >         “(3) If the Secretary of Defense determines that the disclosure of any record or other information referred to in subsection (a) by the date required by paragraph (1) or (2) may compromise the safety of any United States personnel referred to in subsection (a)(2) who remain not accounted for but who may still be alive in captivity, then the Secretary may withhold that record or other information from the disclosure otherwise required by this section. Whenever the Secretary makes a determination under the preceding sentence, the Secretary shall immediately notify the President and the Congress of that determination.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 

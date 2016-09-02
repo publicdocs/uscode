@@ -149,7 +149,7 @@
 
 [Pub. L. 111–259, title III, § 335][/us/pl/111/259/s335], Oct. 7, 2010, [124 Stat. 2688][/us/stat/124/2688], provided that:
 
->     “(a) __Requirement for Report.—__ 
+>     “(a)  __Requirement for Report__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Oct. 7, 2010\], the Director of National Intelligence shall submit to the congressional intelligence committees a report on—
 
@@ -157,7 +157,7 @@
 
 >         “(2) efforts to protect the biodefense knowledge and infrastructure of the United States.
 
->     “(b) __Content.—__ 
+>     “(b)  __Content__  __.—__ 
 
 >     The report required by subsection (a) shall include—
 
@@ -181,7 +181,7 @@
 
 >         “(6) any long-term resource and human capital issues related to the collection of intelligence regarding biological weapons, including any recommendations to address shortfalls of experienced and qualified staff possessing relevant scientific, language, and technical skills.
 
->     “(c) __Implementation of Strategic Plan.—__ 
+>     “(c)  __Implementation of Strategic Plan__  __.—__ 
 
 >     Not later than 30 days after the date on which the Director of National Intelligence submits the report required by subsection (a), the Director shall begin implementation of the strategic plan referred to in subsection (b)(4).”
 

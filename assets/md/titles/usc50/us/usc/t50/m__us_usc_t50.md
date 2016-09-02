@@ -15,7 +15,7 @@
 
 # Title 50—WAR AND NATIONAL DEFENSE
 
-Current through 113–45
+Current through 113-46
 
 <table>
 

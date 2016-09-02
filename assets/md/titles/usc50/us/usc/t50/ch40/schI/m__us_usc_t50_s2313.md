@@ -49,11 +49,11 @@
 
 [Pub. L. 107–314, div. A, title XIV, § 1401][/us/pl/107/314/s1401], Dec. 2, 2002, [116 Stat. 2674][/us/stat/116/2674], provided that:
 
->     “(a) __Responsible Senior Official.—__ 
+>     “(a)  __Responsible Senior Official__  __.—__ 
 
 >     The Secretary of Defense shall designate a senior official of the Department of Defense to coordinate all Department of Defense efforts to identify, evaluate, deploy, and transfer to Federal, State, and local first responders technology items and equipment in support of homeland security.
 
->     “(b) __Duties.—__ 
+>     “(b)  __Duties__  __.—__ 
 
 >     The official designated pursuant to subsection (a) shall—
 
@@ -69,11 +69,11 @@
 
 >         “(6) participate in outreach programs established by appropriate Federal Government officials outside the Department of Defense to communicate with first responders and to facilitate awareness of available technology items and equipment to support responses to crises.
 
->     “(c) __Support Agreement.—__ 
+>     “(c)  __Support Agreement__  __.—__ 
 
 >     The official designated pursuant to subsection (a) shall enter into an appropriate agreement with a nongovernment entity for such entity to assist the official designated under subsection (a) in carrying out that official’s duties under this section. Any such agreement shall be entered into using competitive procedures in compliance with applicable requirements of law and regulation.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Dec. 2, 2002\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the actions taken to carry out this section. The report shall include the following:
 

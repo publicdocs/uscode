@@ -17,7 +17,7 @@
 
     (a) __Involuntary retirement__ 
 
-        (1) __Authority of director.—__ 
+        (1)  __Authority of director__  __.—__ 
 
         The Director may, in the Director’s discretion, place in a retired status any participant in the system described in paragraph (2).
 

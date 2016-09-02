@@ -241,11 +241,11 @@
 
 [Pub. L. 102–496, title VIII, § 804][/us/pl/102/496/s804], Oct. 24, 1992, [106 Stat. 3253][/us/stat/106/3253], provided that:
 
->     “(a) __Prior Elections.—__ 
+>     “(a)  __Prior Elections__  __.—__ 
 
 >     Any election made under the Central Intelligence Agency Retirement Act of 1964 for Certain Employees \[[Pub. L. 88–643][/us/pl/88/643] prior to enactment of [Pub. L. 102–496][/us/pl/102/496], formerly set out as a note under [section 403 of this title][/us/usc/t50/s403]\] before the effective date specified in section 805 \[set out as an Effective Date note above\] shall not be affected by the amendment made by section 802 \[enacting this chapter\] and shall be deemed to have been made under the corresponding provision of that Act as restated by section 802 as the Central Intelligence Agency Retirement Act.
 
->     “(b) __References.—__ 
+>     “(b)  __References__  __.—__ 
 
 >     Any reference in any other Act, or in any Executive order, rule, or regulation, to the Central Intelligence Agency Retirement Act of 1964 for Certain Employees, or to a provision of that Act, shall be deemed to refer to that Act and to the corresponding provision of that Act, as restated by section 802 as the Central Intelligence Agency Retirement Act.”
 

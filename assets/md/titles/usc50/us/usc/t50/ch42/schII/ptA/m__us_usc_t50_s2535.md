@@ -43,29 +43,29 @@
 
 [Pub. L. 112–239, div. C, title XXXI, § 3114(c)][/us/pl/112/239/s3114/c]–(e), Jan. 2, 2013, [126 Stat. 2171][/us/stat/126/2171], 2172, provided that:
 
->     “(c) __Limitation on Alternative Plutonium Strategy.—__ 
+>     “(c)  __Limitation on Alternative Plutonium Strategy__  __.—__ 
 
 >     No funds authorized to be appropriated by this Act \[see Tables for classification\] or any other Act may be obligated or expended on any activities associated with a plutonium strategy for the National Nuclear Security Administration that does not include achieving full operational capability of the replacement project by December 31, 2026, as required by section 4215(e) of the Atomic Energy Defense Act \[[50 U.S.C. 2535(e)][/us/usc/t50/s2535/e]\], as added by subsection (a).
 
 >     “(d) __Naval Reactor Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Deputy Administrator for Naval Reactors shall conduct a study of the replacement project, including an analysis of the cost, benefits, and risks with respect to nuclear safety.
 
->         “(2) __Submission.—__ 
+>         “(2)  __Submission__  __.—__ 
 
 >         Not later than 18 months after the date of the enactment of this Act \[Jan. 2, 2013\], the Deputy Administrator shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the study under paragraph (1), including recommendations of the Deputy Administrator with respect to the project structure, oversight model, and potential cost savings of the replacement project.
 
->         “(3) __Consideration of recommendations.—__ 
+>         “(3)  __Consideration of recommendations__  __.—__ 
 
 >         In carrying out the replacement project, the Secretary of Energy shall consider the recommendations made by the Deputy Administrator in the report under paragraph (2) and incorporate such recommendations into the project as the Secretary considers appropriate.
 
->         “(4) __Funding.—__ 
+>         “(4)  __Funding__  __.—__ 
 
 >         The Secretary of Energy and the Deputy Administrator shall carry out this subsection using funds authorized to be appropriated by this Act \[see Tables for classification\] or otherwise made available for the National Nuclear Security Administration that are not made available for the Naval Nuclear Propulsion Program.
 
->     “(e) __Replacement Project Defined.—__ 
+>     “(e)  __Replacement Project Defined__  __.—__ 
 
 >     In this section \[enacting this section and this note\], the term ‘replacement project’ means the replacement project for the Chemistry and Metallurgy Research Building authorized by section 4215 of the Atomic Energy Defense Act \[[50 U.S.C. 2535][/us/usc/t50/s2535]\], as added by subsection (a).”
 

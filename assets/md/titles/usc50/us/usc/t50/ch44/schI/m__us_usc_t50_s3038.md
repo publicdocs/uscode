@@ -155,7 +155,7 @@
 
 [Pub. L. 109–163, div. A, title IX, § 931][/us/pl/109/163/s931], Jan. 6, 2006, [119 Stat. 3411][/us/stat/119/3411], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -175,15 +175,15 @@
 
 >     “(b) __Department of Defense Strategy for Open-Source Intelligence.—__ 
 
->         “(1) __Development of strategy.—__ 
+>         “(1)  __Development of strategy__  __.—__ 
 
 >         The Secretary of Defense shall develop a strategy for the purpose of integrating open-source intelligence into the Defense intelligence process. The strategy shall be known as the ‘Defense Strategy for Open-Source Intelligence’. The strategy shall be incorporated within the larger Defense intelligence strategy.
 
->         “(2) __Submission.—__ 
+>         “(2)  __Submission__  __.—__ 
 
 >         The Secretary shall submit to Congress a report setting forth the strategy developed under paragraph (1). The report shall be submitted not later than 180 days after the date of the enactment of this Act \[Jan. 6, 2006\].
 
->     “(c) __Matters to Be Included.—__ 
+>     “(c)  __Matters to Be Included__  __.—__ 
 
 >     The strategy under subsection (b) shall include the following:
 

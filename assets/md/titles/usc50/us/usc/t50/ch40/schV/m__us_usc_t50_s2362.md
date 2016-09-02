@@ -27,11 +27,11 @@
 
 [Pub. L. 104–201, div. A, title XV, § 1501][/us/pl/104/201/s1501], Sept. 23, 1996, [110 Stat. 2731][/us/stat/110/2731], as amended by [Pub. L. 105–261, div. A, title XIII, § 1301(a)(2)][/us/pl/105/261/s1301/a/2], Oct. 17, 1998, [112 Stat. 2161][/us/stat/112/2161]; [Pub. L. 110–181, div. A, title XIII, § 1303][/us/pl/110/181/s1303], Jan. 28, 2008, [122 Stat. 412][/us/stat/122/412], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of section 301 \[[110 Stat. 2475][/us/stat/110/2475]\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in subsections (b) and (c).
 
->     “(b) __Specified Programs.—__ 
+>     “(b)  __Specified Programs__  __.—__ 
 
 >     The programs referred to in subsection (a) are the following programs with respect to states of the former Soviet Union:
 
@@ -43,7 +43,7 @@
 
 >         “(4) Programs to expand military-to-military and defense contacts.
 
->     “(c) __Specified Programs With Respect to States Outside the Former Soviet Union.—__ 
+>     “(c)  __Specified Programs With Respect to States Outside the Former Soviet Union__  __.—__ 
 
 >     The programs referred to in subsection (a) are the following programs with respect to states that are not states of the former Soviet Union:
 

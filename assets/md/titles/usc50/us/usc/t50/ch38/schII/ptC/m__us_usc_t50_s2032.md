@@ -191,7 +191,7 @@
 
 >         “(1) __In general.—__ 
 
->             “(A) __Entitlement of former wife or husband.—__ 
+>             “(A)  __Entitlement of former wife or husband__  __.—__ 
 
 >             Any person who was divorced on or before December 4, 1991, from a participant or retired participant in the Central Intelligence Agency Retirement and Disability System and who was married to such participant for not less than 10 years during such participant’s creditable service, at least five years of which were spent by the participant during the participant’s service as an employee of the Central Intelligence Agency outside the United States, or otherwise in a position the duties of which qualified the participant for designation by the Director of Central Intelligence as a participant under section 203 of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2013][/us/usc/t50/s2013]), shall be entitled, except to the extent such person is disqualified under paragraph (2), to a survivor annuity equal to 55 percent of the greater of—
 
@@ -199,11 +199,11 @@
 
 >                 “(ii) the unreduced amount of what such annuity as so computed would be if the participant had not elected payment of the lump-sum credit under section 294 of such Act \[[50 U.S.C. 2143][/us/usc/t50/s2143]\].
 
->             “(B) __Reduction in survivor annuity.—__ 
+>             “(B)  __Reduction in survivor annuity__  __.—__ 
 
 >             A survivor annuity payable under this subsection shall be reduced by an amount equal to any survivor annuity payments made to the former wife or husband under section 226 of such Act \[[50 U.S.C. 2036][/us/usc/t50/s2036]\].
 
->         “(2) __Limitations.—__ 
+>         “(2)  __Limitations__  __.—__ 
 
 >         A former wife or husband is not entitled to a survivor annuity under this subsection if—
 
@@ -215,7 +215,7 @@
 
 >         “(3) __Commencement and termination of annuity.—__ 
 
->             “(A) __Commencement of annuity.—__ 
+>             “(A)  __Commencement of annuity__  __.—__ 
 
 >             The entitlement of a former wife or husband to a survivor annuity under this subsection shall commence—
 
@@ -237,35 +237,35 @@
 
 >                          “(III) the date on which the former wife or husband attains age 50.
 
->             “(B) __Termination of annuity.—__ 
+>             “(B)  __Termination of annuity__  __.—__ 
 
 >             The entitlement of a former wife or husband to a survivor annuity under this subsection terminates on the last day of the month before the former wife’s or husband’s death or remarriage before attaining age 55. The entitlement of a former wife or husband to such a survivor annuity shall be restored on the date such remarriage is dissolved by death, annulment, or divorce.
 
->         “(4) __Election of benefits.—__ 
+>         “(4)  __Election of benefits__  __.—__ 
 
 >         A former wife or husband of a participant or retired participant shall not become entitled under this subsection to a survivor annuity or to the restoration of the survivor annuity unless the former wife or husband elects to receive it instead of any other survivor annuity to which the former wife or husband may be entitled under the Central Intelligence Agency Retirement and Disability System or any other retirement system for Government employees on the basis of a marriage to someone other than the participant.
 
 >         “(5) __Application—__ 
 
->             “(A) __Time limit; waiver.—__ 
+>             “(A)  __Time limit; waiver__  __.—__ 
 
 >             A survivor annuity under this subsection shall not be payable unless appropriate written application is provided to the Director, complete with any supporting documentation which the Director may by regulation require. Any such application shall be submitted not later than October 1, 1995. The Director may waive the application deadline under the preceding sentence in any case in which the Director determines that the circumstances warrant such a waiver.
 
->             “(B) __Retroactive benefits.—__ 
+>             “(B)  __Retroactive benefits__  __.—__ 
 
 >             Upon approval of an application provided under subparagraph (A), the appropriate survivor annuity shall be payable to the former wife or husband with respect to all periods before such approval during which the former wife or husband was entitled to such annuity under this subsection, but in no event shall a survivor annuity be payable under this subsection with respect to any period before October 1, 1994.
 
->         “(6) __Restoration of annuity.—__ 
+>         “(6)  __Restoration of annuity__  __.—__ 
 
 >         Notwithstanding paragraph (5)(A), the deadline by which an application for a survivor annuity must be submitted shall not apply in cases in which a former spouse’s entitlement to such a survivor annuity is restored after October 1, 1994, under paragraph (2)(A) or (3)(B).
 
 >         “(7) __Applicability in cases of participants transferred to fers.—__ 
 
->             “(A) __Entitlement.—__ 
+>             “(A)  __Entitlement__  __.—__ 
 
 >             Except as provided in paragraph (2), this subsection shall apply to a former wife or husband of a participant under the Central Intelligence Agency Retirement and Disability System who has elected to become subject to chapter 84 of title 5, United States Code.
 
->             “(B) __Amount of annuity.—__ 
+>             “(B)  __Amount of annuity__  __.—__ 
 
 >             The survivor annuity of a person covered by subparagraph (A) shall be equal to 50 percent of the unreduced amount of the participant’s annuity computed in accordance with section 302(a) of the Federal Employees’ Retirement System Act of 1986 \[[Pub. L. 99–335][/us/pl/99/335], [5 U.S.C. 8331][/us/usc/t5/s8331] note\] and shall be reduced by an amount equal to any survivor annuity payments made to the former wife or husband under [section 8445 of title 5][/us/usc/t5/s8445], United States Code.
 
@@ -273,7 +273,7 @@
 
 >         “(1) __In general.—__ 
 
->             “(A) __Entitlement of former wife or husband.—__ 
+>             “(A)  __Entitlement of former wife or husband__  __.—__ 
 
 >             A person described in subsection (a)(1)(A) shall be entitled, except to the extent such former spouse is disqualified under paragraph (2), to an annuity—
 
@@ -283,23 +283,23 @@
 
 >             “(B) __Reduction in retirement annuities.—__ 
 
->                 “(i) __Amount of reduction.—__ 
+>                 “(i)  __Amount of reduction__  __.—__ 
 
 >                 An annuity payable under this subsection shall be reduced by an amount equal to any apportionment payments payable to the former wife or husband pursuant to the terms of a court order incident to the dissolution of the marriage of such former spouse and the participant, former participant, or retired participant.
 
->                 “(ii) __Definition of terms.—__ 
+>                 “(ii)  __Definition of terms__  __.—__ 
 
 >                 For purposes of clause (i):
 
->                          “(I) __Apportionment.—__ 
+>                          “(I)  __Apportionment__  __.—__ 
 
 >                     The term ‘apportionment’ means a portion of a retired participant’s annuity payable to a former wife or husband either by the retired participant or the Government in accordance with the terms of a court order.
 
->                          “(II) __Court order.—__ 
+>                          “(II)  __Court order__  __.—__ 
 
 >                     The term ‘court order’ means any decree of divorce or annulment or any court order or court-approved property settlement agreement incident to such decree.
 
->         “(2) __Limitations.—__ 
+>         “(2)  __Limitations__  __.—__ 
 
 >         A former wife or husband is not entitled to an annuity under this subsection if—
 
@@ -311,7 +311,7 @@
 
 >         “(3) __Commencement and termination.—__ 
 
->             “(A) __Retirement annuities.—__ 
+>             “(A)  __Retirement annuities__  __.—__ 
 
 >             The entitlement of a former wife or husband to an annuity under this subsection—
 
@@ -333,7 +333,7 @@
 
 >                          “(II) the date on which the annuity of the participant terminates.
 
->             “(B) __Disability annuities.—__ 
+>             “(B)  __Disability annuities__  __.—__ 
 
 >             Notwithstanding subparagraph (A)(i)(II), in the case of a former wife or husband of a disability annuitant—
 
@@ -341,43 +341,43 @@
 
 >                 “(ii) the amount of the annuity of the former wife or husband shall be calculated on the basis of the annuity for which the participant would otherwise so qualify.
 
->             “(C) __Election of benefits.—__ 
+>             “(C)  __Election of benefits__  __.—__ 
 
 >             A former wife or husband of a participant or retired participant shall not become entitled under this subsection to an annuity or to the restoration of an annuity unless the former wife or husband elects to receive it instead of any survivor annuity to which the former wife or husband may be entitled under the Central Intelligence Agency Retirement and Disability System or any other retirement system for Government employees on the basis of a marriage to someone other than the participant.
 
 >             “(D) __Application.—__ 
 
->                 “(i) __Time limit; waiver.—__ 
+>                 “(i)  __Time limit; waiver__  __.—__ 
 
 >                 An annuity under this subsection shall not be payable unless appropriate written application is provided to the Director of Central Intelligence, complete with any supporting documentation which the Director may by regulation require, not later than October 1, 1995. The Director may waive the application deadline under the preceding sentence in any case in which the Director determines that the circumstances warrant such a waiver.
 
->                 “(ii) __Retroactive benefits.—__ 
+>                 “(ii)  __Retroactive benefits__  __.—__ 
 
 >                 Upon approval of an application under clause (i), the appropriate annuity shall be payable to the former wife or husband with respect to all periods before such approval during which the former wife or husband was entitled to an annuity under this subsection, but in no event shall an annuity be payable under this subsection with respect to any period before October 1, 1994.
 
->         “(4) __Restoration of annuities.—__ 
+>         “(4)  __Restoration of annuities__  __.—__ 
 
 >         Notwithstanding paragraph (3)(D)(i), the deadline by which an application for a retirement annuity must be submitted shall not apply in cases in which a former spouse’s entitlement to such annuity is restored after October 1, 1994, under paragraph (2)(A) or (3)(A)(ii).
 
->         “(5) __Applicability in cases of participants transferred to fers.—__ 
+>         “(5)  __Applicability in cases of participants transferred to fers__  __.—__ 
 
 >         The provisions of this subsection shall apply to a former wife or husband of a participant under the Central Intelligence Agency Retirement and Disability System who has elected to become subject to chapter 84 of title 5, United States Code. For purposes of this paragraph, any reference in this section to a participant’s annuity under the Central Intelligence Agency Retirement and Disability System shall be deemed to refer to the transferred participant’s annuity computed in accordance with section 302(a) of the Federal Employee’s Retirement System Act of 1986 \[[Pub. L. 99–335][/us/pl/99/335], [5 U.S.C. 8331][/us/usc/t5/s8331] note\].
 
->         “(6) __Savings provision.—__ 
+>         “(6)  __Savings provision__  __.—__ 
 
 >         Nothing in this subsection shall be construed to impair, reduce, or otherwise affect the annuity or the entitlement to an annuity of a participant or former participant under title II or III of the Central Intelligence Agency Retirement Act \[[50 U.S.C. 2011][/us/usc/t50/s2011] et seq., 2151 et seq.\].
 
->     “(c) __Health Benefits.—__ 
+>     “(c)  __Health Benefits__  __.—__ 
 
 >     \[Amended [section 3516 of this title][/us/usc/t50/s3516].\]
 
->     “(d) __Source of Payment for Annuities.—__ 
+>     “(d)  __Source of Payment for Annuities__  __.—__ 
 
 >     Annuities provided under subsections (a) and (b) shall be payable from the Central Intelligence Agency Retirement and Disability Fund maintained under section 202 of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2012][/us/usc/t50/s2012]).
 
 >     “(e) __Effective Date.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), subsections (a) and (b) shall take effect as of October 1, 1994, the amendments made by subsection (c) \[amending [section 3516 of this title][/us/usc/t50/s3516]\] shall apply to individuals on and after October 1, 1994, and no benefits provided pursuant to those subsections shall be payable with respect to any period before October 1, 1994.
 

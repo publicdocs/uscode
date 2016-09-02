@@ -225,9 +225,9 @@
 
 [Pub. L. 111–84, div. A, title XII, § 1251][/us/pl/111/84/s1251], Oct. 28, 2009, [123 Stat. 2549][/us/stat/123/2549], provided that:
 
->     “(a) __Report on the Plan for the Nuclear Weapons Stockpile, Nuclear Weapons Complex, and Delivery Platforms.—__ 
+>     “(a)  __Report on the Plan for the Nuclear Weapons Stockpile, Nuclear Weapons Complex, and Delivery Platforms__  __.—__ 
 
->         “(1) __Report required.—__ 
+>         “(1)  __Report required__  __.—__ 
 
 >         Not later than 30 days after the date of the enactment of this Act \[Oct. 28, 2009\] or at the time a follow-on treaty to the Strategic Arms Reduction Treaty (START Treaty) is submitted by the President to the Senate for its advice and consent, whichever is later, the President shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a report on the plan to—
 
@@ -237,7 +237,7 @@
 
 >             “(C) maintain the delivery platforms for nuclear weapons.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The report required under paragraph (1) shall include the following:
 
@@ -249,7 +249,7 @@
 
 >             “(D) An estimate of budget requirements, including the costs associated with the plans outlined under subparagraphs (A) through (C), over a 10-year period.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that—
 
@@ -263,11 +263,11 @@
 
 [Pub. L. 108–136, div. C, title XXXI, § 3133][/us/pl/108/136/s3133], Nov. 24, 2003, [117 Stat. 1751][/us/stat/117/1751], provided that:
 
->     “(a) __Inclusion in 2005 Stockpile Stewardship Plan.—__ 
+>     “(a)  __Inclusion in__  __2005__  __Stockpile Stewardship Plan__  __.—__ 
 
 >     In submitting to Congress the updated version of the 2005 stockpile stewardship plan, the Secretary of Energy shall include the matters specified in subsection (b).
 
->     “(b) __Matters Included.—__ 
+>     “(b)  __Matters Included__  __.—__ 
 
 >     The matters referred to in subsection (a) are the following:
 
@@ -283,7 +283,7 @@
 
 >             “(B) a description of the criteria for judging whether or not such science-based tool provides for the collection of such information.
 
->     “(c) __2005 Stockpile Stewardship Plan Defined.—__ 
+>     “(c) __2005__  __Stockpile Stewardship Plan Defined__  __.—__ 
 
 >     In this section, the term ‘2005 stockpile stewardship plan’ means the updated version of the plan for maintaining the nuclear weapons stockpile developed under section 4203 of the Atomic Energy Defense Act \[[50 U.S.C. 2523][/us/usc/t50/s2523]\] (as transferred and redesignated by section 3161(e)(4) \[probably should be “3141(e)(4)”\] of this Act) that is required to be submitted to Congress not later than March 15, 2005.”
 

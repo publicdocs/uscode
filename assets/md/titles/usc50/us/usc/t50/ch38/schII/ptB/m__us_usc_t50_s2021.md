@@ -133,11 +133,11 @@
 
 [Pub. L. 105–33, title VII, § 7001(c)(1)][/us/pl/105/33/s7001/c/1], (2), Aug. 5, 1997, [111 Stat. 658][/us/stat/111/658], as amended by [Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title V, § 505(c)(1)\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–53, provided that:
 
->     “(1) __Agency contributions.—__ 
+>     “(1)  __Agency contributions__  __.—__ 
 
 >     Notwithstanding \[former\] section 211(a)(2) of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2021(a)(2)][/us/usc/t50/s2021/a/2]), during the period beginning on October 1, 1997, through September 30, 2002, the Central Intelligence Agency shall contribute 8.51 percent of the basic pay of an employee participating in the Central Intelligence Agency Retirement and Disability System in lieu of the agency contribution otherwise required under section 211(a)(2) of such Act.
 
->     “(2) __Individual deductions, withholdings, and deposits.—__ 
+>     “(2)  __Individual deductions, withholdings, and deposits__  __.—__ 
 
 >     Notwithstanding \[former\] section 211(a)(1) of the Central Intelligence Agency Retirement Act ([50 U.S.C. 2021(a)(1)][/us/usc/t50/s2021/a/1]) beginning on January 1, 1999, through December 31, 2000, the percentage deducted and withheld from the basic pay of an employee participating in the Central Intelligence Agency Retirement and Disability System shall be as follows:
 

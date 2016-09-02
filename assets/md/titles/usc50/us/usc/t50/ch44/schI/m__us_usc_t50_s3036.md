@@ -91,7 +91,7 @@
 
 [Pub. L. 112–87, title IV, § 414][/us/pl/112/87/s414], Jan. 3, 2012, [125 Stat. 1891][/us/stat/125/1891], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds the following:
 
@@ -117,7 +117,7 @@
 
 >         “(11) President Obama said, ‘For over two decades, bin Laden has been al Qaeda’s leader and symbol, and has continued to plot attacks against our country and our friends and allies. The death of bin Laden marks the most significant achievement to date in our Nation’s effort to defeat al Qaeda.’.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that—
 
@@ -129,11 +129,11 @@
 
 >         “(4) preserving this history now will allow the United States to have an accurate account of the events while those that participated in the events are still serving in the Government.
 
->     “(c) __Report on the Operation That Killed Osama Bin Laden.—__ 
+>     “(c)  __Report on the Operation That Killed Osama Bin Laden__  __.—__ 
 
 >     Not later than 90 days after the completion of the report being prepared by the Center for the Study of Intelligence that documents the history of and lessons learned from the raid that resulted in the death of Osama bin Laden, the Director of the Central Intelligence Agency shall submit such report to the congressional intelligence committees.
 
->     “(d) __Preservation of Records.—__ 
+>     “(d)  __Preservation of Records__  __.—__ 
 
 >     The Director of the Central Intelligence Agency shall preserve any records, including intelligence information and assessments, used to generate the report described in subsection (c).”
 

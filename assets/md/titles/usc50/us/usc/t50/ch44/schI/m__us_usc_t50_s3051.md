@@ -25,11 +25,11 @@
 
 [Pub. L. 111–259, title III, § 368][/us/pl/111/259/s368], Oct. 7, 2010, [124 Stat. 2705][/us/stat/124/2705], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Covered element of the intelligence community.—__ 
+>         “(1)  __Covered element of the intelligence community__  __.—__ 
 
 >         The term ‘covered element of the intelligence community’ means—
 
@@ -43,7 +43,7 @@
 
 >             “(E) the National Security Agency.
 
->         “(2) __Independent auditor.—__ 
+>         “(2)  __Independent auditor__  __.—__ 
 
 >         The term ‘independent auditor’ means an individual who—
 
@@ -55,11 +55,11 @@
 
 >             “(B) is designated as an auditor by the Director of National Intelligence or the head of a covered element of the intelligence community, as appropriate.
 
->         “(3) __Independent review.—__ 
+>         “(3)  __Independent review__  __.—__ 
 
 >         The term ‘independent review’ means an audit, attestation, or examination conducted by an independent auditor in accordance with generally accepted government auditing standards.
 
->         “(4) __Long-standing, correctable material weakness.—__ 
+>         “(4)  __Long-standing, correctable material weakness__  __.—__ 
 
 >         The term ‘long-standing, correctable material weakness’ means a material weakness—
 
@@ -67,11 +67,11 @@
 
 >             “(B) the correction of which is not substantially dependent on a business system that was not implemented prior to the end of fiscal year 2010.
 
->         “(5) __Material weakness.—__ 
+>         “(5)  __Material weakness__  __.—__ 
 
 >         The term ‘material weakness’ has the meaning given that term under the Office of Management and Budget Circular A–123, entitled ‘Management’s Responsibility for Internal Control,’ revised December 21, 2004.
 
->         “(6) __Senior intelligence management official.—__ 
+>         “(6)  __Senior intelligence management official__  __.—__ 
 
 >         The term ‘senior intelligence management official’ means an official within a covered element of the intelligence community who is—
 
@@ -85,33 +85,33 @@
 
 >     “(b) __Identification of Senior Intelligence Management Officials.—__ 
 
->         “(1) __Requirement to identify.—__ 
+>         “(1)  __Requirement to identify__  __.—__ 
 
 >         Not later than 30 days after the date of the enactment of this Act \[Oct. 7, 2010\], the head of a covered element of the intelligence community shall designate a senior intelligence management official of such element to be responsible for correcting each long-standing, correctable material weakness of such element.
 
->         “(2) __Head of a covered element of the intelligence community.—__ 
+>         “(2)  __Head of a covered element of the intelligence community__  __.—__ 
 
 >         The head of a covered element of the intelligence community may designate himself or herself as the senior intelligence management official responsible for correcting a long-standing, correctable material weakness under paragraph (1).
 
->         “(3) __Requirement to update designation.—__ 
+>         “(3)  __Requirement to update designation__  __.—__ 
 
 >         If the head of a covered element of the intelligence community determines that a senior intelligence management official designated under paragraph (1) is no longer responsible for correcting a long-standing, correctable material weakness, the head of such element shall designate the successor to such official not later than 10 days after the date of such determination.
 
->     “(c) __Notification.—__ 
+>     “(c)  __Notification__  __.—__ 
 
 >     Not later than 10 days after the date on which the head of a covered element of the intelligence community has designated a senior intelligence management official pursuant to paragraph (1) or (3) of subsection (b), the head of such element shall provide written notification of such designation to the Director of National Intelligence and to such senior intelligence management official.
 
 >     “(d) __Correction of Long-Standing, Material Weakness.—__ 
 
->         “(1) __Determination of correction of deficiency.—__ 
+>         “(1)  __Determination of correction of deficiency__  __.—__ 
 
 >         If a long-standing, correctable material weakness is corrected, the senior intelligence management official who is responsible for correcting such long-standing, correctable material weakness shall make and issue a determination of the correction.
 
->         “(2) __Basis for determination.—__ 
+>         “(2)  __Basis for determination__  __.—__ 
 
 >         The determination of the senior intelligence management official under paragraph (1) shall be based on the findings of an independent review.
 
->         “(3) __Notification and submission of findings.—__ 
+>         “(3)  __Notification and submission of findings__  __.—__ 
 
 >         A senior intelligence management official who makes a determination under paragraph (1) shall—
 
@@ -119,7 +119,7 @@
 
 >             “(B) ensure that the independent auditor whose findings are the basis of a determination under paragraph (1) submits to the head of the covered element of the intelligence community and the Director of National Intelligence the findings that such determination is based on not later than 5 days after the date on which such determination is made.
 
->     “(e) __Congressional Oversight.—__ 
+>     “(e)  __Congressional Oversight__  __.—__ 
 
 >     The head of a covered element of the intelligence community shall notify the congressional intelligence committees not later than 30 days after the date—
 

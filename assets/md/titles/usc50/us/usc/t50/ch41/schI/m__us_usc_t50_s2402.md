@@ -107,21 +107,21 @@
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3161\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–470, provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Administrator for Nuclear Security shall establish a Technology Infrastructure Pilot Program in accordance with this section.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of the program shall be to explore new methods of collaboration and improvements in the management and effectiveness of collaborative programs carried out by the national security laboratories and nuclear weapons production facilities in partnership with private industry and institutions of higher education and to improve the ability of those laboratories and facilities to support missions of the Administration.
 
->     “(c) __Funding.—__ 
+>     “(c)  __Funding__  __.—__ 
 
 >         (1) Except as provided in paragraph (2), funding shall be available for the pilot program only to the extent of specific authorizations and appropriations enacted after the date of the enactment of this Act \[Oct. 30, 2000\].
 
 >         “(2) From amounts available in fiscal years 2001 and 2002 for technology partnership programs of the Administration, the Administrator may allocate to carry out the pilot program not more than $5,000,000.
 
->     “(d) __Project Requirements.—__ 
+>     “(d)  __Project Requirements__  __.—__ 
 
 >     A project may not be approved for the pilot program unless the project meets the following requirements:
 
@@ -163,7 +163,7 @@
 
 >             “(B) any project for more than five years.
 
->     “(e) __Selection Criteria.—__ 
+>     “(e)  __Selection Criteria__  __.—__ 
 
 >         (1)
 
@@ -207,7 +207,7 @@
 
 >             “(G) The extent to which the project focuses on promoting the development of technology-related business concerns that are small business concerns or involves small business concerns substantively in the project.
 
->     “(f) __Implementation Plan.—__ 
+>     “(f)  __Implementation Plan__  __.—__ 
 
 >     No funds may be allocated for the pilot program until 30 days after the date on which the Administrator submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for the implementation of the pilot program. The plan shall, at a minimum—
 
@@ -223,7 +223,7 @@
 
 >             “(C) describe the management controls that have been put into place to ensure that the pilot program as conducted at that laboratory or facility is conducted in a cost-effective manner consistent with the objectives of the pilot program.
 
->     “(g) __Report on Implementation.—__ 
+>     “(g)  __Report on Implementation__  __.—__ 
 
 >         (1) Not later than February 1, 2002, the Administrator shall submit to the congressional defense committees a report on the implementation and management of the pilot program. The report shall take into consideration the results of the pilot program to date and the views of the directors of the participating laboratories and facilities. The report shall include any recommendations the Administrator may have concerning the future of the pilot program.
 

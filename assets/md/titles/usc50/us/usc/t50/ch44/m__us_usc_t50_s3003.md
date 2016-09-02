@@ -157,7 +157,7 @@
 
 > “In this Act \[see Tables for classification\]:
 
->     “(1) __Congressional intelligence committees.—__ 
+>     “(1)  __Congressional intelligence committees__  __.—__ 
 
 >     The term ‘congressional intelligence committees’ means—
 
@@ -165,7 +165,7 @@
 
 >         “(B) the Permanent Select Committee on Intelligence of the House of Representatives.
 
->     “(2) __Intelligence community.—__ 
+>     “(2)  __Intelligence community__  __.—__ 
 
 >     The term ‘intelligence community’ has the meaning given that term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]) \[now [50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]\].”
 
@@ -173,7 +173,7 @@
 
 > “In this Act \[see Tables for classification\]:
 
->     “(1) __Congressional intelligence committees.—__ 
+>     “(1)  __Congressional intelligence committees__  __.—__ 
 
 >     The term ‘congressional intelligence committees’ means—
 
@@ -181,7 +181,7 @@
 
 >         “(B) the Permanent Select Committee on Intelligence of the House of Representatives.
 
->     “(2) __Intelligence community.—__ 
+>     “(2)  __Intelligence community__  __.—__ 
 
 >     The term ‘intelligence community’ has the meaning given that term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]) \[now [50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]\].”
 

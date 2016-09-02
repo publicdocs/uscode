@@ -55,17 +55,17 @@
 
 [Pub. L. 112–81, div. A, title X, § 1032][/us/pl/112/81/s1032], Dec. 31, 2011, [125 Stat. 1571][/us/stat/125/1571], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this section is to improve interagency strategic planning and execution to more effectively integrate efforts to deny safe havens and strengthen at-risk states to further the goals of the National Security Strategy related to the disruption, dismantlement, and defeat of al-Qaeda and its violent extremist affiliates.
 
 >     “(b) __National Security Planning Guidance.—__ 
 
->         “(1) __Guidance required.—__ 
+>         “(1)  __Guidance required__  __.—__ 
 
 >         The President shall issue classified or unclassified national security planning guidance in support of objectives stated in the national security strategy report submitted to Congress by the President pursuant to section 108 of the National Security Act of 1947 ([50 U.S.C. 404a][/us/usc/t50/s404a]) \[now [50 U.S.C. 3043][/us/usc/t50/s3043]\] to deny safe havens to al-Qaeda and its violent extremist affiliates and to strengthen at-risk states. Such guidance shall serve as the strategic plan that governs United States and coordinated international efforts to enhance the capacity of governmental and nongovernmental entities to work toward the goal of eliminating the ability of al-Qaeda and its violent extremist affiliates to establish or maintain safe havens.
 
->         “(2) __Contents of guidance.—__ 
+>         “(2)  __Contents of guidance__  __.—__ 
 
 >         The guidance required under paragraph (1) shall include each of the following:
 
@@ -79,7 +79,7 @@
 
 >             “(E) A description of gaps in United States capabilities to meet the goals listed pursuant to subparagraph (C), and the extent to which those gaps can be met through coordination with nongovernmental, international, or private sector organizations, entities, or companies.
 
->         “(3) __Review and update of guidance.—__ 
+>         “(3)  __Review and update of guidance__  __.—__ 
 
 >         The President shall review and update the guidance required under paragraph (1) as necessary. Any such review shall address each of the following:
 
@@ -91,7 +91,7 @@
 
 >             “(D) Any addition to, deletion from, or change in the order of the prioritized list maintained pursuant to paragraph (2)(A).
 
->         “(4) __Specified geographic area defined.—__ 
+>         “(4)  __Specified geographic area defined__  __.—__ 
 
 >         In this subsection, the term ‘specified geographic area’ means any country, subnational territory, or region—
 
@@ -109,7 +109,7 @@
 
 [Pub. L. 112–81, div. A, title X, § 1072][/us/pl/112/81/s1072], Dec. 31, 2011, [125 Stat. 1592][/us/stat/125/1592], provided that:
 
->     “(a) __Implementation Plan.—__ 
+>     “(a)  __Implementation Plan__  __.—__ 
 
 >     Not later than 270 days after the date of the enactment of this Act \[Dec. 31, 2011\], the President shall submit to the appropriate congressional committees an implementation plan for achieving the whole-of-government integration vision prescribed in the President’s National Security Strategy of May 2010. The implementation plan shall include—
 
@@ -123,7 +123,7 @@
 
 >         “(5) such other information as the President determines is necessary to understand progress in implementing each component of the whole-of-government vision prescribed in the National Security Strategy.
 
->     “(b) __Annual Updates.—__ 
+>     “(b)  __Annual Updates__  __.—__ 
 
 >     Not later than December 1 of each subsequent year that the National Security Strategy of May 2010 remains the policy of the President, the President shall submit to the appropriate congressional committees an update of the implementation plan required under subsection (a). Each such update shall include an explanation of—
 
@@ -131,7 +131,7 @@
 
 >         “(2) any modifications to the implementation plan.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 

@@ -59,17 +59,17 @@
 
 > “In this Act \[see Short Title of 2010 Amendment note set out under [section 101 of Title 6][/us/usc/t6/s101], Domestic Security\]:
 
->     “(1) __Derivative classification and original classification.—__ 
+>     “(1)  __Derivative classification and original classification__  __.—__ 
 
 >     The terms ‘derivative classification’ and ‘original classification’ have the meanings given those terms in Executive Order No. 13526 \[[50 U.S.C. 3161][/us/usc/t50/s3161] note\].
 
->     “(2) __Executive agency.—__ 
+>     “(2)  __Executive agency__  __.—__ 
 
 >     The term ‘Executive agency’ has the meaning given that term in [section 105 of title 5][/us/usc/t5/s105], United States Code.
 
->     “(3) __Executive order no.__ 
+>     “(3)  __Executive order no. 13526__  __.—__ 
 
->      13526.—The term ‘Executive Order No. 13526’ means Executive Order No. 13526 (75 Fed. Reg. 707; relating to classified national security information) or any subsequent corresponding executive order.”
+>     The term ‘Executive Order No. 13526’ means Executive Order No. 13526 (75 Fed. Reg. 707; relating to classified national security information) or any subsequent corresponding executive order.”
 
 ----------
 

@@ -71,11 +71,11 @@
 
 [Pub. L. 108–458, title I, § 1020][/us/pl/108/458/s1020], Dec. 17, 2004, [118 Stat. 3672][/us/stat/118/3672], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 180 days after the effective date of this Act \[probably means the effective date of title I of [Pub. L. 108–458][/us/pl/108/458], see Effective Date of 2004 Amendment; Transition Provisions note set out under [section 3001 of this title][/us/usc/t50/s3001]\], the Director of National Intelligence shall identify an individual within the Office of the Director of National Intelligence who shall be available to analysts within the Office of the Director of National Intelligence to counsel, conduct arbitration, offer recommendations, and, as appropriate, initiate inquiries into real or perceived problems of analytic tradecraft or politicization, biased reporting, or lack of objectivity in intelligence analysis.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 270 days after the effective date of this Act, the Director of National Intelligence shall provide a report to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives on the implementation of subsection (a).”
 

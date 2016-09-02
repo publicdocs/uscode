@@ -35,7 +35,7 @@
 
 [Pub. L. 111–84, div. C, title XXXI, § 3141][/us/pl/111/84/s3141], Oct. 28, 2009, [123 Stat. 2715][/us/stat/123/2715], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator for Nuclear Security and the Under Secretary for Science of the Department of Energy shall jointly develop a plan to use and fund, over a ten-year period, the following facilities of the Department of Energy:
 
@@ -47,15 +47,15 @@
 
 >         “(4) The Microsystems and Engineering Sciences Application Facility at the Sandia National Laboratories, New Mexico.
 
->     “(b) __Submittal of Plan.—__ 
+>     “(b)  __Submittal of Plan__  __.—__ 
 
 >     Not later than 45 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Administrator for Nuclear Security and the Under Secretary for Science of the Department of Energy shall submit to the appropriate congressional committees the plan required by subsection (a).
 
->     “(c) __Requirement to Specify Source of Facility Funding in Budget Requests.—__ 
+>     “(c)  __Requirement to Specify Source of Facility Funding in Budget Requests__  __.—__ 
 
 >     In any budget request for the Department of Energy for a fiscal year that is submitted to Congress after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Energy shall identify for that fiscal year the portion of the funding for each facility specified in subsection (a) that is to be provided by the National Nuclear Security Administration and by the Office of Science of the Department of Energy.
 
->     “(d) __Appropriate Congressional Committees Defined.—__ 
+>     “(d)  __Appropriate Congressional Committees Defined__  __.—__ 
 
 >     In this section, the term ‘appropriate congressional committees’ means—
 

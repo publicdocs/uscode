@@ -125,11 +125,11 @@
 
 >     “(a) __Program Required.—__ 
 
->         “(1) __Scientific engagement.—__ 
+>         “(1)  __Scientific engagement__  __.—__ 
 
 >         The Secretary of Energy, acting through the Administrator for Nuclear Security, shall carry out a program on scientific engagement in countries selected by the Secretary for purposes of the program to advance global nonproliferation and nuclear security efforts.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The program under paragraph (1) shall include the following elements:
 
@@ -137,13 +137,13 @@
 
 >             “(B) Engagement of scientists of the United States with foreign counterparts to advance nonproliferation goals.
 
->         “(3) __Distinct program.—__ 
+>         “(3)  __Distinct program__  __.—__ 
 
 >         The program required by this subsection shall be a distinct program from the Global Initiatives for Proliferation Prevention program.
 
 >     “(b) __Limitation.—__ 
 
->         “(1) __Report on commencement of program.—__ 
+>         “(1)  __Report on commencement of program__  __.—__ 
 
 >         Of the funds authorized to be appropriated by this Act \[see Tables for classification\] or otherwise made available for fiscal year 2013 or any fiscal year thereafter for the National Nuclear Security Administration, not more than 50 percent may be obligated or expended under the program under subsection (a) until the date on which the Administrator submits to the appropriate congressional committees a report setting forth the following:
 
@@ -157,35 +157,35 @@
 
 >             “(B) Accounting standards for the conduct of the program approved by the Comptroller General of the United States.
 
->         “(2) __Form.—__ 
+>         “(2)  __Form__  __.—__ 
 
 >         The report under paragraph (1) may be submitted in unclassified form and may include a classified annex.
 
 >     “(c) __Reports on Modification of Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 15 days before making any modification in the program under subsection (a) (including selecting a new country for the program, ceasing the selection of a country for the program, or modifying an element of the program), the Administrator shall submit to the appropriate congressional committees a report on the modification.
 
->         “(2) __New country.—__ 
+>         “(2)  __New country__  __.—__ 
 
 >         If the modification covered by a report under paragraph (1) consists of the selection for the program of a country not previously selected for the program, the report shall include, for each such country, the matters described in subsection (b)(1)(A).
 
->         “(3) __Form.—__ 
+>         “(3)  __Form__  __.—__ 
 
 >         The report under paragraph (1) may be submitted in unclassified form and may include a classified annex.
 
->     “(d) __Report on Coordination With Other U.__ 
+>     “(d)  __Report on Coordination With Other U.S. Nonproliferation Programs__  __.—__ 
 
->     S. Nonproliferation Programs.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Administrator shall submit to the appropriate congressional committees a report describing the manner in which the program under subsection (a) coordinates with and complements, but does not duplicate, other nonproliferation programs of the Federal Government.
+>     Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Administrator shall submit to the appropriate congressional committees a report describing the manner in which the program under subsection (a) coordinates with and complements, but does not duplicate, other nonproliferation programs of the Federal Government.
 
 >     “(e) __Comptroller General Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than two years after the date of the enactment of this Act \[Jan. 2, 2013\], the Comptroller General of the United States shall submit to the appropriate congressional committees a report on the program under subsection (a).
 
->         “(2) __Matters included.—__ 
+>         “(2)  __Matters included__  __.—__ 
 
 >         The report under paragraph (1) shall include the following:
 
@@ -195,11 +195,11 @@
 
 >             “(C) Such other matters on the program as the Comptroller General considers appropriate.
 
->     “(f) __Termination.—__ 
+>     “(f)  __Termination__  __.—__ 
 
 >     The authority to carry out the program under subsection (a) shall expire on September 30, 2016.
 
->     “(g) __Appropriate Congressional Committees Defined.—__ 
+>     “(g)  __Appropriate Congressional Committees Defined__  __.—__ 
 
 >     In this section, the term ‘appropriate congressional committees’ means the following:
 

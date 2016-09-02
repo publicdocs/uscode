@@ -49,11 +49,11 @@
 
 [Pub. L. 106–65, div. C, title XXXII, § 3299][/us/pl/106/65/s3299], Oct. 5, 1999, [113 Stat. 971][/us/stat/113/971], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), the provisions of this title \[see Short Title note below\] shall take effect on March 1, 2000.
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >         (1) Sections 3202, 3204, 3251, 3295, and 3297 \[enacting sections 2451 and former 2483 of this title and sections 7144a to 7144c of Title 42, amending [section 7132 of Title 42][/us/usc/t42/s7132], and enacting provisions set out as a note below\] shall take effect on the date of the enactment of this Act \[Oct. 5, 1999\].
 
@@ -71,11 +71,11 @@
 
 >     “(a) __Infrastructure Plan for Nuclear Weapons Complex.—__ 
 
->         “(1) __Preparation and submission.—__ 
+>         “(1)  __Preparation and submission__  __.—__ 
 
 >         Not later than the date on which the budget for the Department of Energy for fiscal year 2004 is submitted to Congress, the Secretary of Energy shall submit to Congress an infrastructure plan for the nuclear weapons complex adequate to support the nuclear weapons stockpile, the naval reactors program, and nonproliferation and national security activities.
 
->         “(2) __Special considerations.—__ 
+>         “(2)  __Special considerations__  __.—__ 
 
 >         In preparing the infrastructure plan, the Secretary shall take into consideration the following:
 
@@ -85,11 +85,11 @@
 
 >             “(C) The necessity to have a residual production capability.
 
->     “(b) __Recommendations Regarding Realignments and Closures.—__ 
+>     “(b)  __Recommendations Regarding Realignments and Closures__  __.—__ 
 
 >     On the basis of the infrastructure plan prepared under subsection (a), the Secretary shall make such recommendations regarding the need to close or realign facilities of the nuclear weapons complex as the Secretary considers appropriate, including the Secretary’s recommendations on whether to establish a process by which a round of closures and realignments would be carried out and any additional legislative authority necessary to implement the recommendations. The Secretary shall submit the recommendations as part of the infrastructure plan under subsection (a).
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -101,7 +101,7 @@
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3163\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–473, provided that:
 
->     “(a) __Study and Report Required.—__ 
+>     “(a)  __Study and Report Required__  __.—__ 
 
 >     The Secretary of Energy shall direct the Secretary of Energy Advisory Board to study and to submit to the Secretary not later than one year after the date of the enactment of this Act \[Oct. 30, 2000\] a report regarding the following topics:
 
@@ -127,11 +127,11 @@
 
 >             “(G) policies on royalty payments to inventors employed by a contractor operating a national security laboratory or nuclear weapons production facility, including those for inventions made under a funds-in agreement.
 
->     “(b) __Definition of Funds-In Agreement.—__ 
+>     “(b)  __Definition of Funds-In Agreement__  __.—__ 
 
 >     For the purposes of this section, the term ‘funds-in agreement’ means a contract between the Department and a non-Federal organization under which that organization pays the Department to provide a service or material not otherwise available in the domestic private sector.
 
->     “(c) __Submission to Congress.—__ 
+>     “(c)  __Submission to Congress__  __.—__ 
 
 >     Not later than one month after receiving the report under subsection (a), the Secretary shall submit to Congress that report, along with the Secretary’s recommendations for action and proposals for legislation to implement the recommendations.”
 

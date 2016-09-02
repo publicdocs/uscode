@@ -59,11 +59,11 @@
 
 [Pub. L. 105–272, title III, § 309][/us/pl/105/272/s309], Oct. 20, 1998, [112 Stat. 2403][/us/stat/112/2403], provided that:
 
->     “(a) __Designation.—__ 
+>     “(a)  __Designation__  __.—__ 
 
 >     The headquarters compound of the Central Intelligence Agency located in Langley, Virginia, shall be known and designated as the ‘George Bush Center for Intelligence’.
 
->     “(b) __References.—__ 
+>     “(b)  __References__  __.—__ 
 
 >     Any reference in a law, map, regulation, document, paper, or other record of the United States to the headquarters compound referred to in subsection (a) shall be deemed to be a reference to the ‘George Bush Center for Intelligence’.”
 

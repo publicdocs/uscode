@@ -113,21 +113,21 @@
 
 [Pub. L. 112–239, div. C, title XXXI, § 3165][/us/pl/112/239/s3165], Jan. 2, 2013, [126 Stat. 2207][/us/stat/126/2207], provided that:
 
->     “(a) __Pilot Program.—__ 
+>     “(a)  __Pilot Program__  __.—__ 
 
 >     The Secretary of Energy, in consultation with the Technology Transfer Coordinator appointed under section 1001(a) of the Energy Policy Act of 2005 ([42 U.S.C. 16391(a)][/us/usc/t42/s16391/a]), may carry out a pilot program at a national security laboratory for the purpose of accelerating technology transfer from such laboratories to the marketplace with respect to technologies that directly advance the mission of the National Nuclear Security Administration.
 
->     “(b) __Termination.—__ 
+>     “(b)  __Termination__  __.—__ 
 
 >     The authority to carry out the pilot program under subsection (a) shall terminate on the date that is two years after the date of the enactment of this Act \[Jan. 2, 2013\].
 
 >     “(c) __Reports.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than one year after the date of the enactment of this Act, the Secretary shall submit to the appropriate congressional committees a report on the pilot program under subsection (a).
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The report under paragraph (1) shall include the following:
 
@@ -137,7 +137,7 @@
 
 >             “(C) If the Secretary chooses not to carry out the pilot program under subsection (a), a description of why the program will not be carried out.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 

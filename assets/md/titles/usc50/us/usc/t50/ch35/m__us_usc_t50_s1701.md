@@ -67,45 +67,45 @@
 
 >     “(a) __Blocking of Assets.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of the Treasury shall, pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.) or Executive Order 13413 (74\[71\] Fed. Reg. 64105; relating to blocking property of certain persons contributing to the conflict in the Democratic Republic of the Congo), block and prohibit all transactions in all property and interests in property of a person described in subsection (c) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
 
 >         “(2) __Exception.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The requirement to block and prohibit all transactions in all property and interests in property under paragraph (1) shall not include the authority to impose sanctions on the importation of goods.
 
->             “(B) __Good defined.—__ 
+>             “(B)  __Good defined__  __.—__ 
 
 >             In this paragraph, the term ‘good’ has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.)).
 
->     “(b) __Visa Ban.—__ 
+>     “(b)  __Visa Ban__  __.—__ 
 
 >     The Secretary of State shall deny a visa to, and the Secretary of Homeland Security shall exclude from the United States, any alien who is a person described in subsection (c).
 
->     “(c) __Persons Described.—__ 
+>     “(c)  __Persons Described__  __.—__ 
 
 >     A person described in this subsection is a person that the President determines provides, on or after the date of the enactment of this Act \[Jan. 2, 2013\], significant financial, material, or technological support to M23.
 
->     “(d) __Waiver.—__ 
+>     “(d)  __Waiver__  __.—__ 
 
 >     The President may waive the application of this section with respect to a person if the President determines and reports to the appropriate congressional committees that the waiver is in the national interest of the United States.
 
->     “(e) __Termination of Sanctions.—__ 
+>     “(e)  __Termination of Sanctions__  __.—__ 
 
 >     Sanctions imposed under this section may terminate 15 days after the date on which the President determines and reports to the appropriate congressional committees that the person covered by such determination has terminated the provision of significant financial, material, and technological support to M23.
 
->     “(f) __Termination of Section.—__ 
+>     “(f)  __Termination of Section__  __.—__ 
 
 >     This section shall terminate on the date that is 15 days after the date on which the President determines and reports to the appropriate congressional committees that M23 is no longer a significant threat to peace and security in the Democratic Republic of the Congo.
 
->     “(g) __Definitions.—__ 
+>     “(g)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Appropriate congressional committees.—__ 
+>         “(1)  __Appropriate congressional committees__  __.—__ 
 
 >         The term ‘appropriate congressional committees’ means—
 
@@ -113,11 +113,11 @@
 
 >             “(B) the Committee on Financial Services, the Committee on Armed Services, and the Committee on Foreign Affairs of the House of Representatives.
 
->         “(2) __M23.—__ 
+>         “(2)  __M23__  __.—__ 
 
 >         The term ‘M23’ refers to the rebel group known as M23 operating in the Democratic Republic of the Congo that derives its name from the March 23, 2009, agreement between the Government of the Democratic Republic of the Congo and the National Congress for the Defense of the People (or any successor group).
 
->         “(3) __United states person.—__ 
+>         “(3)  __United states person__  __.—__ 
 
 >         The term ‘United States person’ means—
 
@@ -137,7 +137,7 @@
 
 > “In this Act:
 
->     “(1) __Appropriate congressional committees.—__ 
+>     “(1)  __Appropriate congressional committees__  __.—__ 
 
 >     The term ‘appropriate congressional committees’ means—
 
@@ -145,15 +145,15 @@
 
 >         “(B) the Committee on Financial Services, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
->     “(2) __Business operations.—__ 
+>     “(2)  __Business operations__  __.—__ 
 
 >     The term ‘business operations’ means engaging in commerce in any form in Sudan, including by acquiring, developing, maintaining, owning, selling, possessing, leasing, or operating equipment, facilities, personnel, products, services, personal property, real property, or any other apparatus of business or commerce.
 
->     “(3) __Executive agency.—__ 
+>     “(3)  __Executive agency__  __.—__ 
 
 >     The term ‘executive agency’ has the meaning given the term in section 4 of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 403][/us/usc/t41/s403]) \[see [41 U.S.C. 133][/us/usc/t41/s133]\].
 
->     “(4) __Government of sudan.—__ 
+>     “(4)  __Government of sudan__  __.—__ 
 
 >     The term ‘Government of Sudan’—
 
@@ -161,7 +161,7 @@
 
 >         “(B) does not include the regional government of southern Sudan.
 
->     “(5) __Marginalized populations of sudan.—__ 
+>     “(5)  __Marginalized populations of sudan__  __.—__ 
 
 >     The term ‘marginalized populations of Sudan’ refers to—
 
@@ -169,7 +169,7 @@
 
 >         “(B) marginalized areas in Northern Sudan described in section 4(9) of such Act.
 
->     “(6) __Military equipment.—__ 
+>     “(6)  __Military equipment__  __.—__ 
 
 >     The term ‘military equipment’ means—
 
@@ -177,13 +177,13 @@
 
 >         “(B) supplies or services sold or provided directly or indirectly to any force actively participating in armed conflict in Sudan.
 
->     “(7) __Mineral extraction activities.—__ 
+>     “(7)  __Mineral extraction activities__  __.—__ 
 
 >     The term ‘mineral extraction activities’ means exploring, extracting, processing, transporting, or wholesale selling or trading of elemental minerals or associated metal alloys or oxides (ore), including gold, copper, chromium, chromite, diamonds, iron, iron ore, silver, tungsten, uranium, and zinc.
 
 >     “(8) __Oil-related activities.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as provided in subparagraph (B), the term ‘oil-related activities’ means—
 
@@ -191,7 +191,7 @@
 
 >             “(ii) constructing, maintaining, or operating a pipeline, refinery, or other oilfield infrastructure.
 
->         “(B) __Exclusions.—__ 
+>         “(B)  __Exclusions__  __.—__ 
 
 >         A person shall not be considered to be involved in an oil-related activity if—
 
@@ -199,7 +199,7 @@
 
 >             “(ii) the person is involved in leasing, or owns, rights to an oil block in Sudan but is not involved in any other activity described in subparagraph (A).
 
->     “(9) __Person.—__ 
+>     “(9)  __Person__  __.—__ 
 
 >     The term ‘person’ means—
 
@@ -209,15 +209,15 @@
 
 >         “(C) any successor, subunit, parent company or subsidiary of any entity described in subparagraph (A) or (B).
 
->     “(10) __Power production activities.—__ 
+>     “(10)  __Power production activities__  __.—__ 
 
 >     The term ‘power production activities’ means any business operation that involves a project commissioned by the National Electricity Corporation of Sudan or other similar entity of the Government of Sudan whose purpose is to facilitate power generation and delivery, including establishing power-generating plants or hydroelectric dams, selling or installing components for the project, or providing service contracts related to the installation or maintenance of the project.
 
->     “(11) __State.—__ 
+>     “(11)  __State__  __.—__ 
 
 >     The term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
->     “(12) __State or local government.—__ 
+>     “(12)  __State or local government__  __.—__ 
 
 >     The term ‘State or local government’ includes—
 
@@ -231,25 +231,25 @@
 
 > “SEC. 3. __AUTHORITY OF STATE AND LOCAL GOVERNMENTS TO DIVEST FROM CERTAIN COMPANIES DIRECTLY INVESTED IN CERTAIN SUDANESE SECTORS.__ 
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the United States Government should support the decision of any State or local government to divest from, or to prohibit the investment of assets of the State or local government in, a person that the State or local government determines poses a financial or reputational risk.
 
->     “(b) __Authority To Divest.—__ 
+>     “(b)  __Authority To Divest__  __.—__ 
 
 >     Notwithstanding any other provision of law, a State or local government may adopt and enforce measures that meet the requirements of subsection (e) to divest the assets of the State or local government from, or prohibit investment of the assets of the State or local government in, persons that the State or local government determines, using credible information available to the public, are conducting or have direct investments in business operations described in subsection (d).
 
->     “(c) __Notice to Department of Justice.—__ 
+>     “(c)  __Notice to Department of Justice__  __.—__ 
 
 >     Not later than 30 days after adopting a measure pursuant to subsection (b), a State or local government shall submit written notice to the Attorney General describing the measure.
 
 >     “(d) __Business Operations Described.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Business operations described in this subsection are business operations in Sudan that include power production activities, mineral extraction activities, oil-related activities, or the production of military equipment.
 
->         “(2) __Exceptions.—__ 
+>         “(2)  __Exceptions__  __.—__ 
 
 >         Business operations described in this subsection do not include business operations that the person conducting the business operations can demonstrate—
 
@@ -265,31 +265,31 @@
 
 >             “(F) have been voluntarily suspended.
 
->     “(e) __Requirements.—__ 
+>     “(e)  __Requirements__  __.—__ 
 
 >     Any measure taken by a State or local government under subsection (b) shall meet the following requirements:
 
->         “(1) __Notice.—__ 
+>         “(1)  __Notice__  __.—__ 
 
 >         The State or local government shall provide written notice and an opportunity to comment in writing to each person to whom a measure is to be applied.
 
->         “(2) __Timing.—__ 
+>         “(2)  __Timing__  __.—__ 
 
 >         The measure shall apply to a person not earlier than the date that is 90 days after the date on which written notice is provided to the person under paragraph (1).
 
->         “(3) __Applicability.—__ 
+>         “(3)  __Applicability__  __.—__ 
 
 >         The measure shall not apply to a person that demonstrates to the State or local government that the person does not conduct or have direct investments in business operations described in subsection (d).
 
->         “(4) __Sense of congress on avoiding erroneous targeting.—__ 
+>         “(4)  __Sense of congress on avoiding erroneous targeting__  __.—__ 
 
 >         It is the sense of Congress that a State or local government should not adopt a measure under subsection (b) with respect to a person unless the State or local government has made every effort to avoid erroneously targeting the person and has verified that the person conducts or has direct investments in business operations described in subsection (d).
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Investment.—__ 
+>         “(1)  __Investment__  __.—__ 
 
 >         The ‘investment’ of assets, with respect to a State or local government, includes—
 
@@ -301,35 +301,35 @@
 
 >         “(2) __Assets.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (B), the term ‘assets’ refers to public monies and includes any pension, retirement, annuity, or endowment fund, or similar instrument, that is controlled by a State or local government.
 
->             “(B) __Exception.—__ 
+>             “(B)  __Exception__  __.—__ 
 
 >             The term ‘assets’ does not include employee benefit plans covered by title I of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1001][/us/usc/t29/s1001] et seq.).
 
->     “(g) __Nonpreemption.—__ 
+>     “(g)  __Nonpreemption__  __.—__ 
 
 >     A measure of a State or local government authorized under subsection (b) is not preempted by any Federal law or regulation.
 
 >     “(h) __Effective Date.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), this section applies to measures adopted by a State or local government before, on, or after the date of the enactment of this Act \[Dec. 31, 2007\].
 
->         “(2) __Notice requirements.—__ 
+>         “(2)  __Notice requirements__  __.—__ 
 
 >         Subsections (c) and (e) apply to measures adopted by a State or local government on or after the date of the enactment of this Act.
 
 > “SEC. 4. __SAFE HARBOR FOR CHANGES OF INVESTMENT POLICIES BY ASSET MANAGERS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     \[Amended [section 80a–13 of Title 15][/us/usc/t15/s80a–13], Commerce and Trade\]
 
->     “(b) __SEC Regulations.—__ 
+>     “(b) __SEC__  __Regulations__  __.—__ 
 
 >     Not later than 120 days after the date of the enactment of this Act \[Dec. 31, 2007\], the Securities and Exchange Commission shall prescribe regulations, in the public interest and for the protection of investors, to require disclosure by each registered investment company that divests itself of securities in accordance with section 13(c) of the Investment Company Act of 1940 \[[15 U.S.C. 80a–13(c)][/us/usc/t15/s80a–13/c]\]. Such rules shall require the disclosure to be included in the next periodic report filed with the Commission under section 30 of such Act ([15 U.S.C. 80a–29][/us/usc/t15/s80a–29]) following such divestiture.
 
@@ -349,47 +349,47 @@
 
 > “SEC. 6. __PROHIBITION ON UNITED STATES GOVERNMENT CONTRACTS.__ 
 
->     “(a) __Certification Requirement.—__ 
+>     “(a)  __Certification Requirement__  __.—__ 
 
 >     The head of each executive agency shall ensure that each contract entered into by such executive agency for the procurement of goods or services includes a clause that requires the contractor to certify to the contracting officer that the contractor does not conduct business operations in Sudan described in section 3(d).
 
 >     “(b) __Remedies.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The head of an executive agency may impose remedies as provided in this subsection if the head of the executive agency determines that the contractor has submitted a false certification under subsection (a) after the date the Federal Acquisition Regulation is amended under subsection (e) to implement the requirements of this section.
 
->         “(2) __Termination.—__ 
+>         “(2)  __Termination__  __.—__ 
 
 >         The head of an executive agency may terminate a covered contract upon the determination of a false certification under paragraph (1).
 
->         “(3) __Suspension and debarment.—__ 
+>         “(3)  __Suspension and debarment__  __.—__ 
 
 >         The head of an executive agency may debar or suspend a contractor from eligibility for Federal contracts upon the determination of a false certification under paragraph (1). The debarment period may not exceed 3 years.
 
->         “(4) __Inclusion on list of parties excluded from federal procurement and nonprocurement programs.—__ 
+>         “(4)  __Inclusion on list of parties excluded from federal procurement and nonprocurement programs__  __.—__ 
 
 >         The Administrator of General Services shall include on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs maintained by the Administrator under part 9 of the Federal Acquisition Regulation issued under section 25 of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 421][/us/usc/t41/s421]) \[see [41 U.S.C. 1303][/us/usc/t41/s1303]\] each contractor that is debarred, suspended, proposed for debarment or suspension, or declared ineligible by the head of an executive agency on the basis of a determination of a false certification under paragraph (1).
 
->         “(5) __Rule of construction.—__ 
+>         “(5)  __Rule of construction__  __.—__ 
 
 >         This section shall not be construed to limit the use of other remedies available to the head of an executive agency or any other official of the Federal Government on the basis of a determination of a false certification under paragraph (1).
 
 >     “(c) __Waiver.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The President may waive the requirement of subsection (a) on a case-by-case basis if the President determines and certifies in writing to the appropriate congressional committees that it is in the national interest to do so.
 
->         “(2) __Reporting requirement.—__ 
+>         “(2)  __Reporting requirement__  __.—__ 
 
 >         Not later than April 15, 2008, and semi-annually thereafter, the Administrator for Federal Procurement Policy shall submit to the appropriate congressional committees a report on waivers granted under paragraph (1).
 
->     “(d) __Implementation Through the Federal Acquisition Regulation.—__ 
+>     “(d)  __Implementation Through the Federal Acquisition Regulation__  __.—__ 
 
 >     Not later than 120 days after the date of the enactment of this Act \[Dec. 31, 2007\], the Federal Acquisition Regulatory Council shall amend the Federal Acquisition Regulation issued pursuant to section 25 of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 421][/us/usc/t41/s421]) \[see [41 U.S.C. 1303][/us/usc/t41/s1303]\] to provide for the implementation of the requirements of this section.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than one year after the date the Federal Acquisition Regulation is amended under subsection (e) to implement the requirements of this section, the Administrator of General Services, with the assistance of other executive agencies, shall submit to the Office of Management and Budget and the appropriate congressional committees a report on the actions taken under this section.
 
@@ -415,7 +415,7 @@
 
 > “SEC. 10. __REPORTS ON SANCTIONS IN SUPPORT OF PEACE IN DARFUR.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of State and the Secretary of the Treasury shall submit to the appropriate congressional committees a report assessing the effectiveness of sanctions imposed with respect to Sudan at the time the Secretary of State and the Secretary of the Treasury submits \[sic\] reports required under—
 
@@ -425,11 +425,11 @@
 
 >         “(3) the Darfur Peace and Accountability Act of 2006 ([Public Law 109–344][/us/pl/109/344]; [50 U.S.C. 1701][/us/usc/t50/s1701] note).
 
->     “(b) __Additional Report by the Secretary of the Treasury.—__ 
+>     “(b)  __Additional Report by the Secretary of the Treasury__  __.—__ 
 
 >     The Secretary of the Treasury shall submit to the appropriate congressional committees a report assessing the effectiveness of sanctions imposed with respect to Sudan under the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.) at the time the President submits the reports required by section 204(c) of such Act ([50 U.S.C. 1703(c)][/us/usc/t50/s1703/c]) with respect to Executive Order 13,067 \[13067\] ([50 U.S.C. 1701][/us/usc/t50/s1701] note; relating to blocking property of persons in connection with the conflict in Sudan’s region of Darfur).
 
->     “(c) __Contents.—__ 
+>     “(c)  __Contents__  __.—__ 
 
 >     The reports required by subsections (a) and (b) shall include—
 
@@ -463,11 +463,11 @@
 
 > “SECTION 1. __SHORT TITLE; TABLE OF CONTENTS.__ 
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This Act may be cited as the ‘Darfur Peace and Accountability Act of 2006’.
 
->     “(b) __Table of Contents.—__ 
+>     “(b)  __Table of Contents__  __.—__ 
 
 >     \[Omitted.\]
 
@@ -479,19 +479,19 @@
 
 >     The term ‘AMIS’ means the African Union Mission in Sudan.
 
->     “(2) __Appropriate congressional committees.—__ 
+>     “(2)  __Appropriate congressional committees__  __.—__ 
 
 >     The term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives.
 
->     “(3) __Comprehensive peace agreement for sudan.—__ 
+>     “(3)  __Comprehensive peace agreement for sudan__  __.—__ 
 
 >     The term ‘Comprehensive Peace Agreement for Sudan’ means the peace agreement signed by the Government of Sudan and the SPLM/A in Nairobi, Kenya, on January 9, 2005.
 
->     “(4) __Darfur peace agreement.—__ 
+>     “(4)  __Darfur peace agreement__  __.—__ 
 
 >     The term ‘Darfur Peace Agreement’ means the peace agreement signed by the Government of Sudan and by Minni Minnawi, leader of the Sudan Liberation Movement/Army Faction, in Abuja, Nigeria, on May 5, 2006.
 
->     “(5) __Government of sudan.—__ 
+>     “(5)  __Government of sudan__  __.—__ 
 
 >     The term ‘Government of Sudan’—
 
@@ -505,7 +505,7 @@
 
 >         “(B) does not include the regional government of Southern Sudan.
 
->     “(6) __Officials of the government of sudan.—__ 
+>     “(6)  __Officials of the government of sudan__  __.—__ 
 
 >     The term ‘official of the Government of Sudan’ does not include any individual—
 
@@ -635,21 +635,21 @@
 
 > “SEC. 5. __SANCTIONS IN SUPPORT OF PEACE IN DARFUR.__ 
 
->     “(a) __Blocking of Assets and Restriction on Visas.—__ 
+>     “(a)  __Blocking of Assets and Restriction on Visas__  __.—__ 
 
 >     \[Amended [Pub. L. 108–497][/us/pl/108/497], set out below.\]
 
->     “(b) __Waiver.—__ 
+>     “(b)  __Waiver__  __.—__ 
 
 >     \[Amended [Pub. L. 108–497][/us/pl/108/497], set out below.\]
 
->     “(c) __Sanctions Against Janjaweed Commanders and Coordinators or Other Individuals.—__ 
+>     “(c)  __Sanctions Against Janjaweed Commanders and Coordinators or Other Individuals__  __.—__ 
 
 >     It is the sense of Congress, that the President should immediately impose the sanctions described in section 6(c) of the Comprehensive Peace in Sudan Act of 2004 \[[Pub. L. 108–497][/us/pl/108/497], set out below\], as added by subsection (a), against any individual, including the Janjaweed commanders and coordinators, identified as those who, among other acts, ‘impede the peace process, constitute a threat to stability in Darfur and the region, commit violations of international humanitarian or human rights law or other atrocities’.
 
 > “SEC. 6. __ADDITIONAL AUTHORITIES TO DETER AND SUPPRESS GENOCIDE IN DARFUR.__ 
 
->     “(a) __Presidential Assistance To Support AMIS.—__ 
+>     “(a)  __Presidential Assistance To Support__  __AMIS.—__ 
 
 >     Subject to subsection (b) and notwithstanding any other provision of law, the President is authorized to provide AMIS with—
 
@@ -659,7 +659,7 @@
 
 >     “(b) __Conditions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Assistance provided under subsection (a)—
 
@@ -667,11 +667,11 @@
 
 >             “(B) shall not be provided until AMIS has agreed not to transfer title to, or possession of, any such assistance to anyone not an officer, employee or agent of AMIS (or subsequent United Nations peacekeeping operation), and not to use or to permit the use of such assistance for any purposes other than those for which such assistance was furnished, unless the consent of the President has first been obtained, and written assurances reflecting all of the forgoing have been obtained from AMIS by the President.
 
->         “(2) __Consent.—__ 
+>         “(2)  __Consent__  __.—__ 
 
 >         If the President consents to the transfer of such assistance to anyone not an officer, employee, or agent of AMIS (or subsequent United Nations peacekeeping operation), or agrees to permit the use of such assistance for any purposes other than those for which such assistance was furnished, the President shall immediately notify the Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives in accordance with the procedures applicable to reprogramming notifications under section 634A of the Foreign Assistance Act of 1961 ([22 U.S.C. 2394–1][/us/usc/t22/s2394–1]).
 
->     “(c) __NATO Assistance To Support AMIS.—__ 
+>     “(c) __NATO__  __Assistance To Support__  __AMIS.—__ 
 
 >     It is the sense of Congress that the President should continue to instruct the United States Permanent Representative to the North Atlantic Treaty Organization (referred to in this section as ‘NATO’) to use the voice, vote, and influence of the United States at NATO to—
 
@@ -681,17 +681,17 @@
 
 >         “(3) provide other logistical, transportation, communications, training, technical assistance, command and control, aerial surveillance, and intelligence support.
 
->     “(d) __Rule of Construction.—__ 
+>     “(d)  __Rule of Construction__  __.—__ 
 
 >     Nothing in this Act, or any amendment made by this Act, shall be construed as a provision described in section 5(b)(1) or 8(a)(1) of the War Powers Resolution ([Public Law 93–148][/us/pl/93/148]; [50 U.S.C. 1544(b)][/us/usc/t50/s1544/b], 1546(a)(1) \[1547(a)(1)\]).
 
 >     “(e) __Denial of Entry at United States Ports to Certain Cargo Ships or Oil Tankers.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The President should take all necessary and appropriate steps to deny the Government of Sudan access to oil revenues, including by prohibiting entry at United States ports to cargo ships or oil tankers engaged in business or trade activities in the oil sector of Sudan or involved in the shipment of goods for use by the armed forces of Sudan until such time as the Government of Sudan has honored its commitments to cease attacks on civilians, demobilize and demilitarize the Janjaweed and associated militias, grant free and unfettered access for deliveries of humanitarian assistance, and allow for the safe and voluntary return of refugees and internally displaced persons.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         Paragraph (1) shall not apply with respect to cargo ships or oil tankers involved in—
 
@@ -701,19 +701,19 @@
 
 >             “(C) the shipment of military assistance necessary to carry out elements of an agreement referred to in subparagraph (B) if the President has made the determination set forth in section 8(c)(2).
 
->     “(f) __Prohibition on Assistance to Countries in Violation of United Nations Security Council Resolutions 1556 and 1591.—__ 
+>     “(f)  __Prohibition on Assistance to Countries in Violation of United Nations Security Council Resolutions__  __1556__  __and__  __1591.—__ 
 
->         “(1) __Prohibition.—__ 
+>         “(1)  __Prohibition__  __.—__ 
 
 >         Amounts made available to carry out the Foreign Assistance Act of 1961 ([22 U.S.C. 2151][/us/usc/t22/s2151] et seq.) may not be used to provide assistance (other than humanitarian assistance) to the government of a country that is in violation of the embargo on military assistance with respect to Sudan imposed pursuant to United Nations Security Council Resolutions 1556 (2004) and 1591 (2005).
 
->         “(2) __Waiver.—__ 
+>         “(2)  __Waiver__  __.—__ 
 
 >         The President may waive the application of paragraph (1) if the President determines, and certifies to the appropriate congressional committees, that such waiver is in the national interests of the United States.
 
 > “SEC. 7. __CONTINUATION OF RESTRICTIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Restrictions against the Government of Sudan that were imposed pursuant to Executive Order No. 13067 of November 3, 1997 (62 Federal Register 59989) \[listed in a table below\], title III and sections 508, 512, 527, and 569 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2006 ([Public Law 109–102][/us/pl/109/102]) \[[119 Stat. 2191][/us/stat/119/2191], 2197, 2199, 2205, 2228\], or any other similar provision of law, shall remain in effect, and shall not be lifted pursuant to such provisions of law, until the President certifies to the appropriate congressional committees that the Government of Sudan is acting in good faith to—
 
@@ -739,33 +739,33 @@
 
 >             “(D) withdrawing government forces from Southern Sudan consistent with the terms of the Comprehensive Peace Agreement for Sudan.
 
->     “(b) __Waiver.—__ 
+>     “(b)  __Waiver__  __.—__ 
 
 >     The President may waive the application of subsection (a) if the President determines, and certifies to the appropriate congressional committees, that such waiver is in the national interests of the United States.
 
 > “SEC. 8. __ASSISTANCE EFFORTS IN SUDAN.__ 
 
->     “(a) __Assistance for International Malaria Control Act.—__ 
+>     “(a)  __Assistance for International Malaria Control Act__  __.—__ 
 
 >     \[Repealed [section 501 of Pub. L. 106–570][/us/pl/106/570/s501], formerly set out below.\]
 
->     “(b) __Comprehensive Peace in Sudan Act.—__ 
+>     “(b)  __Comprehensive Peace in Sudan Act__  __.—__ 
 
 >     \[Amended [Pub. L. 108–497][/us/pl/108/497], set out below.\]
 
 >     “(c) __Economic Assistance.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, the President is authorized to provide economic assistance for Southern Sudan, Southern Kordofan/Nuba Mountains State, Blue Nile State, Abyei, Darfur, and marginalized areas in and around Khartoum, in an effort to provide emergency relief, to promote economic self-sufficiency, to build civil authority, to provide education, to enhance rule of law and the development of judicial and legal frameworks, and to support people to people reconciliation efforts, or to implement any nonmilitary program in support of any viable peace agreement in Sudan, including the Comprehensive Peace Agreement for Sudan and the Darfur Peace Agreement.
 
->         “(2) __Congressional notification.—__ 
+>         “(2)  __Congressional notification__  __.—__ 
 
 >         Assistance may not be obligated under this subsection until 15 days after the date on which the Secretary of State notifies the congressional committees specified in section 634A of the Foreign Assistance Act of 1961 ([22 U.S.C. 2394–1][/us/usc/t22/s2394–1]) of such obligation in accordance with the procedures applicable to reprogramming notifications under such section.
 
 >     “(d) __Authorized Military Assistance.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If the President has not made a certification under section 12(a)(3) of the Sudan Peace Act \[[Pub. L. 107–245][/us/pl/107/245]\] ([50 U.S.C. 1701][/us/usc/t50/s1701] note) regarding the noncompliance of the SPLM/A or the Government of Southern Sudan with the Comprehensive Peace Agreement for Sudan, the President, notwithstanding any other provision of law, may authorize, for each of fiscal years 2006, 2007, and 2008, the provision of the following assistance to the Government of Southern Sudan for the purpose of constituting a professional military force—
 
@@ -785,7 +785,7 @@
 
 >                 “(ii) consistent with the procedures set forth in section 614(a)(3) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2364(a)(3)][/us/usc/t22/s2364/a/3]), notifies the Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives of such determination.
 
->         “(2) __End use assurances.—__ 
+>         “(2)  __End use assurances__  __.—__ 
 
 >         For each item exported pursuant to this subsection or subsection (c), the President shall include with the notification to Congress under subparagraphs (A)(ii) and (B)(ii) of paragraph (1)—
 
@@ -803,11 +803,11 @@
 
 >                 “(ii) the end use or retransfer controls that will be applied to any items provided under this subsection.
 
->         “(3) __Waiver authority.—__ 
+>         “(3)  __Waiver authority__  __.—__ 
 
 >         Section 40 of the Arms Export Control Act ([22 U.S.C. 2780][/us/usc/t22/s2780]) shall not apply to assistance provided under paragraph (1).
 
->     “(e) __Exception to Prohibitions in Executive Order Number 13067.—__ 
+>     “(e)  __Exception to Prohibitions in Executive Order Number__  __13067.—__ 
 
 >     Notwithstanding any other provision of law, the prohibitions set forth with respect to Sudan in Executive Order No. 13067 (62 Fed. Reg. 59989) \[listed in a table below\] shall not apply to activities or related transactions with respect to Southern Sudan, Southern Kordofan/Nuba Mountains State, Blue Nile State, Abyei, Darfur, or marginalized areas in and around Khartoum.
 
@@ -823,11 +823,11 @@
 
 [Pub. L. 109–293, title I, § 101][/us/pl/109/293/s101], Sept. 30, 2006, [120 Stat. 1344][/us/stat/120/1344], provided that:
 
->     “(a) __Codification of Sanctions.—__ 
+>     “(a)  __Codification of Sanctions__  __.—__ 
 
 >     Except as otherwise provided in this section, United States sanctions with respect to Iran imposed pursuant to sections 1 and 3 of Executive Order No. 12957 \[listed in a table below\], sections 1(e), (1)(g), and (3) of Executive Order No. 12959 \[listed in a table below\], and sections 2, 3, and 5 of Executive Order No. 13059 \[listed in a table below\] (relating to exports and certain other transactions with Iran) as in effect on January 1, 2006, shall remain in effect. The President may terminate such sanctions, in whole or in part, if the President notifies Congress at least 15 days in advance of such termination. In the event of exigent circumstances, the President may exercise the authority set forth in the preceding sentence without regard to the notification requirement stated therein, except that such notification shall be provided as early as practicable, but in no event later than three working days after such exercise of authority.
 
->     “(b) __No Effect on Other Sanctions Relating to Support for Acts of International Terrorism.—__ 
+>     “(b)  __No Effect on Other Sanctions Relating to Support for Acts of International Terrorism__  __.—__ 
 
 >     Nothing in this Act \[see Short Title of 2006 Amendment note above\] shall affect any United States sanction, control, or regulation as in effect on January 1, 2006, relating to a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)), section 620A(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371(a)][/us/usc/t22/s2371/a]), or section 40(d) of the Arms Export Control Act ([22 U.S.C. 2780(d)][/us/usc/t22/s2780/d]) that the Government of Iran has repeatedly provided support for acts of international terrorism.”
 
@@ -923,11 +923,11 @@
 
 > “In this Act:
 
->     “(1) __Account; correspondent account; payable-through account.—__ 
+>     “(1)  __Account; correspondent account; payable-through account__  __.—__ 
 
 >     The terms ‘account’, ‘correspondent account’, and ‘payable-through account’ have the meanings given the terms in [section 5318A(e)(1) of title 31][/us/usc/t31/s5318A/e/1], United States Code.
 
->     “(2) __Appropriate congressional committees.—__ 
+>     “(2)  __Appropriate congressional committees__  __.—__ 
 
 >     The term ‘appropriate congressional committees’ means—
 
@@ -943,7 +943,7 @@
 
 >     The term ‘ASEAN’ means the Association of Southeast Asian Nations.
 
->     “(4) __Person.—__ 
+>     “(4)  __Person__  __.—__ 
 
 >     The term ‘person’ means—
 
@@ -955,7 +955,7 @@
 
 >     The term ‘SPDC’ means the State Peace and Development Council, the ruling military regime in Burma.
 
->     “(6) __United states person.—__ 
+>     “(6)  __United states person__  __.—__ 
 
 >     The term ‘United States person’ means any United States citizen, permanent resident alien, juridical person organized under the laws of the United States (including foreign branches), or any person in the United States.
 
@@ -977,7 +977,7 @@
 
 >     “(a) __Visa Ban.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The following persons shall be ineligible for a visa to travel to the United States:
 
@@ -989,17 +989,17 @@
 
 >             “(D) The immediate family members of any person described in subparagraphs (A) through (C).
 
->         “(2) __Waiver.—__ 
+>         “(2)  __Waiver__  __.—__ 
 
 >         The President may waive the visa ban described in paragraph (1) only if the President determines and certifies in writing to Congress that travel by the person seeking such a waiver is in the national interests of the United States.
 
->         “(3) __Rule of construction.—__ 
+>         “(3)  __Rule of construction__  __.—__ 
 
 >         Nothing in this subsection shall be construed to conflict with the provisions of section 694 of the Consolidated Appropriations Act, 2008 ([Public Law 110–161][/us/pl/110/161]) \[[121 Stat. 2366][/us/stat/121/2366]\], nor shall this subsection be construed to make ineligible for a visa members of ethnic groups in Burma now or previously opposed to the regime who were forced to provide labor or other support to the Burmese military and who are otherwise eligible for admission into the United States.
 
 >     “(b) __Financial Sanctions.—__ 
 
->         “(1) __Blocked property.—__ 
+>         “(1)  __Blocked property__  __.—__ 
 
 >         No property or interest in property belonging to a person described in subsection (a)(1) may be transferred, paid, exported, withdrawn, or otherwise dealt with if—
 
@@ -1007,11 +1007,11 @@
 
 >             “(B) the property comes into the possession or control of a United States person after the date of the enactment of this Act \[July 29, 2008\].
 
->         “(2) __Financial transactions.—__ 
+>         “(2)  __Financial transactions__  __.—__ 
 
 >         Except with respect to transactions authorized under Executive Orders 13047 (May 20, 1997) and 13310 (July 28, 2003) \[listed in a table below\], no United States person may engage in a financial transaction with the SPDC or with a person described in subsection (a)(1).
 
->         “(3) __Prohibited activities.—__ 
+>         “(3)  __Prohibited activities__  __.—__ 
 
 >         Activities prohibited by reason of the blocking of property and financial transactions under this subsection shall include the following:
 
@@ -1021,7 +1021,7 @@
 
 >     “(c) __Authority for Additional Banking Sanctions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of the Treasury, in consultation with the Secretary of State, the Attorney General of the United States, and the Chairman of the Board of Governors of the Federal Reserve System, may prohibit or impose conditions on the opening or maintaining in the United States of a correspondent account or payable-through account by any financial institution (as that term is defined in [section 5312 of title 31][/us/usc/t31/s5312], United States Code) or financial agency that is organized under the laws of a State, territory, or possession of the United States, for or on behalf of a foreign banking institution, if the Secretary determines that the account might be used—
 
@@ -1029,13 +1029,13 @@
 
 >             “(B) to conduct a transaction on behalf of the SPDC or a person described in subsection (a)(1).
 
->         “(2) __Authority to define terms.—__ 
+>         “(2)  __Authority to define terms__  __.—__ 
 
 >         The Secretary of the Treasury may, by regulation, further define the terms used in paragraph (1) for purposes of this section, as the Secretary considers appropriate.
 
 >     “(d) __List of Sanctioned Officials.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 120 days after the date of the enactment of this Act \[July 29, 2008\], the President shall transmit to the appropriate congressional committees a list of—
 
@@ -1047,29 +1047,29 @@
 
 >             “(D) the immediate family members of any person described in subparagraphs (A) through (C) whom \[sic\] the President determines effectively controls property in the United States or has benefitted from a financial transaction with any United States person.
 
->         “(2) __Consideration of other data.—__ 
+>         “(2)  __Consideration of other data__  __.—__ 
 
 >         In preparing the list required under paragraph (1), the President shall consider the data already obtained by other countries and entities that apply sanctions against Burma, such as the Australian Government and the European Union.
 
->         “(3) __Updates.—__ 
+>         “(3)  __Updates__  __.—__ 
 
 >         The President shall transmit to the appropriate congressional committees updated lists of the persons described in paragraph (1) as new information becomes available.
 
->         “(4) __Identification of information.—__ 
+>         “(4)  __Identification of information__  __.—__ 
 
 >         The Secretary of State and the Secretary of the Treasury shall devote sufficient resources to the identification of information concerning potential persons to be sanctioned to carry out the purposes described in this Act.
 
->     “(e) __Rule of Construction.—__ 
+>     “(e)  __Rule of Construction__  __.—__ 
 
 >     Nothing in this section may be construed to prohibit any contract or other financial transaction with any nongovernmental humanitarian organization in Burma.
 
 >     “(f) __Exceptions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The prohibitions and restrictions described in subsections (b) and (c) shall not apply to medicine, medical equipment or supplies, food or feed, or any other form of humanitarian assistance provided to Burma.
 
->         “(2) __Regulatory exceptions.—__ 
+>         “(2)  __Regulatory exceptions__  __.—__ 
 
 >         For the following purposes, the Secretary of State may, by regulation, authorize exceptions to the prohibition and restrictions described in subsection (a), and the Secretary of the Treasury may, by regulation, authorize exceptions to the prohibitions and restrictions described in subsections (b) and (c)—
 
@@ -1079,11 +1079,11 @@
 
 >             “(C) to permit the United States to comply with the United Nations Headquarters Agreement and other applicable international agreements.
 
->     “(g) __Penalties.—__ 
+>     “(g)  __Penalties__  __.—__ 
 
 >     Any person who violates any prohibition or restriction imposed pursuant to subsection (b) or (c) shall be subject to the penalties under section 6 \[probably means section 206\] of the International Emergency Economic Powers Act ([50 U.S.C. 1705][/us/usc/t50/s1705]) to the same extent as for a violation under that Act \[[50 U.S.C. 1701][/us/usc/t50/s1701] et seq.\].
 
->     “(h) __Termination of Sanctions.—__ 
+>     “(h)  __Termination of Sanctions__  __.—__ 
 
 >     The sanctions imposed under subsection (a), (b), or (c) shall apply until the President determines and certifies to the appropriate congressional committees that the SPDC has—
 
@@ -1093,53 +1093,51 @@
 
 >         “(3) allowed humanitarian access to populations affected by armed conflict in all regions of Burma.
 
->     “(i) __Waiver.—__ 
+>     “(i)  __Waiver__  __.—__ 
 
 >     The President may waive the sanctions described in subsections (b) and (c) if the President determines and certifies to the appropriate congressional committees that such waiver is in the national interest of the United States.
 
 > “SEC. 6. __AMENDMENTS TO THE BURMESE FREEDOM AND DEMOCRACY ACT OF 2003.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     \[Amended [Pub. L. 108–61][/us/pl/108/61], set out below.\]
 
->     “(b) __Duration of Sanctions.__ 
+>     “(b)  __Duration of Sanctions.__  __—__ 
 
->     —
-
->         “(1) __Continuation of import sanctions.—__ 
+>         “(1)  __Continuation of import sanctions__  __.—__ 
 
 >         \[Amended [Pub. L. 108–61][/us/pl/108/61], set out below.\]
 
->         “(2) __Renewal resolutions.—__ 
+>         “(2)  __Renewal resolutions__  __.—__ 
 
 >         \[Amended [Pub. L. 108–61][/us/pl/108/61], set out below.\]
 
 >         “(3) __Effective date.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The amendments made by this subsection take effect on the day after the date of the enactment of 5th \[sic\] renewal resolution enacted into law after the date of the enactment of the Burmese Freedom and Democracy Act of 2003 \[July 28, 2003\], or the date of the enactment of this Act \[July 29, 2008\], whichever occurs later.
 
->             “(B) __Renewal resolution defined.—__ 
+>             “(B)  __Renewal resolution defined__  __.—__ 
 
 >             In this paragraph, the term ‘renewal resolution’ means a renewal resolution described in section 9(c) of the Burmese Freedom and Democracy Act of 2003 \[[Pub. L. 108–61][/us/pl/108/61], set out below\] that is enacted into law in accordance with such section.
 
->     “(c) __Conforming Amendment.—__ 
+>     “(c)  __Conforming Amendment__  __.—__ 
 
 >     \[Amended [Pub. L. 108–61][/us/pl/108/61], set out below.\]
 
 > “SEC. 7. __SPECIAL REPRESENTATIVE AND POLICY COORDINATOR FOR BURMA.__ 
 
->     “(a) __United States Special Representative and Policy Coordinator for Burma.—__ 
+>     “(a)  __United States Special Representative and Policy Coordinator for Burma__  __.—__ 
 
 >     The President shall appoint a Special Representative and Policy Coordinator for Burma, by and with the advice and consent of the Senate.
 
->     “(b) __Rank.—__ 
+>     “(b)  __Rank__  __.—__ 
 
 >     The Special Representative and Policy Coordinator for Burma appointed under subsection (a) shall have the rank of ambassador and shall hold the office at the pleasure of the President. Except for the position of United States Ambassador to the Association of Southeast Asian Nations, the Special Representative and Policy Coordinator may not simultaneously hold a separate position within the executive branch, including the Assistant Secretary of State, the Deputy Assistant Secretary of State, the United States Ambassador to Burma, or the Charge d’affairs to Burma.
 
->     “(c) __Duties and Responsibilities.—__ 
+>     “(c)  __Duties and Responsibilities__  __.—__ 
 
 >     The Special Representative and Policy Coordinator for Burma shall—
 
@@ -1155,11 +1153,11 @@
 
 > “SEC. 8. __SUPPORT FOR CONSTITUTIONAL DEMOCRACY IN BURMA.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The President is authorized to assist Burmese democracy activists who are dedicated to nonviolent opposition to the SPDC in their efforts to promote freedom, democracy, and human rights in Burma.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated $5,000,000 to the Secretary of State for fiscal year 2008 to—
 
@@ -1171,23 +1169,23 @@
 
 > “SEC. 9. __SUPPORT FOR NONGOVERNMENTAL ORGANIZATIONS ADDRESSING THE HUMANITARIAN NEEDS OF THE BURMESE PEOPLE.__ 
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the international community should increase support for nongovernmental organizations attempting to meet the urgent humanitarian needs of the Burmese people.
 
->     “(b) __Licenses for Humanitarian or Religious Activities in Burma.—__ 
+>     “(b)  __Licenses for Humanitarian or Religious Activities in Burma__  __.—__ 
 
 >     \[Amended [Pub. L. 108–61][/us/pl/108/61], set out below.\]
 
 >     “(c) __Authorization of Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, there are authorized to be appropriated $11,000,000 to the Secretary of State for fiscal year 2008 to support operations by nongovernmental organizations, subject to paragraph (2), designed to address the humanitarian needs of the Burmese people inside Burma and in refugee camps in neighboring countries.
 
 >         “(2) __Limitation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided under subparagraph (B), amounts appropriated pursuant to paragraph (1) may not be provided to—
 
@@ -1197,7 +1195,7 @@
 
 >                 “(iii) entities providing cash or resources to the SPDC, including organizations affiliated with the United Nations.
 
->             “(B) __Waiver.—__ 
+>             “(B)  __Waiver__  __.—__ 
 
 >             The President may waive the funding restriction described in subparagraph (A) if—
 
@@ -1209,11 +1207,11 @@
 
 > “SEC. 10. __REPORT ON MILITARY AND INTELLIGENCE AID TO BURMA.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[July 29, 2008\] and annually thereafter, the Secretary of State shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report containing a list of countries, companies, and other entities that provide military or intelligence aid to the SPDC and describing such military or intelligence aid provided by each such country, company, and other entity.
 
->     “(b) __Military or Intelligence Aid Defined.—__ 
+>     “(b)  __Military or Intelligence Aid Defined__  __.—__ 
 
 >     For the purpose of this section, the term ‘military or intelligence aid’ means, with respect to the SPDC—
 
@@ -1231,7 +1229,7 @@
 
 >         “(7) the construction or expansion of airfields, including radar and anti-aircraft systems.
 
->     “(c) __Form.—__ 
+>     “(c)  __Form__  __.—__ 
 
 >     The report required under subsection (a) shall be submitted in unclassified form but may include a classified annex and the unclassified form shall be placed on the Department of State’s website.
 
@@ -1241,7 +1239,7 @@
 
 > “SEC. 12. __REDUCTION OF SPDC REVENUE FROM TIMBER.__ 
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[July 29, 2008\] and annually thereafter, the Secretary of State, in consultation with the Secretary of Commerce, and other Federal officials, as appropriate, shall submit to the appropriate congressional committees a report on Burma’s timber trade containing information on the following:
 
@@ -1255,7 +1253,7 @@
 
 >         “(5) A description of all common consumer and commercial applications unique to Burmese hardwoods, including the furniture and marine manufacturing industries.
 
->     “(b) __Recommendations.—__ 
+>     “(b)  __Recommendations__  __.—__ 
 
 >     The report required under subsection (a) shall include recommendations on the following:
 
@@ -1269,39 +1267,39 @@
 
 > “SEC. 13. __REPORT ON FINANCIAL ASSETS HELD BY MEMBERS OF THE SPDC.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[July 29, 2008\] and annually thereafter, the Secretary of the Treasury, in consultation with the Secretary of State, shall submit to the Committee on Foreign Affairs of the House of Representatives, the Committee on Ways and Means of the House of the \[sic\] Representatives, the Committee on Foreign Relations of the Senate, and the Committee on Finance of the Senate a report containing a list of all countries and foreign banking institutions that hold assets on behalf of senior Burmese officials.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For the purpose of this section:
 
->         “(1) __Senior burmese officials.—__ 
+>         “(1)  __Senior burmese officials__  __.—__ 
 
 >         The term ‘senior Burmese officials’ shall mean individuals covered under section 5(d)(1) of this Act.
 
->         “(2) __Other terms.—__ 
+>         “(2)  __Other terms__  __.—__ 
 
 >         Other terms shall be defined under the authority of and consistent with section 5(c)(2) of this Act.
 
->     “(c) __Form.—__ 
+>     “(c)  __Form__  __.—__ 
 
 >     The report required under subsection (a) shall be submitted in unclassified form but may include a classified annex. The report shall also be posted on the Department of Treasury’s website not later than 30 days of the submission to Congress of the report. To the extent possible, the report shall include the names of the senior Burmese officials and the approximate value of their holdings in the respective foreign banking institutions and any other pertinent information.
 
 > “SEC. 14. __UNOCAL PLAINTIFFS.__ 
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the Sense of Congress that the United States should work with the Royal Thai Government to ensure the safety in Thailand of the 15 plaintiffs in the Doe v. Unocal case, and should consider granting refugee status or humanitarian parole to these plaintiffs to enter the United States consistent with existing United States law.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[July 29, 2008\], the President shall submit to the appropriate Congressional committees a report on the status of the Doe vs. Unocal plaintiffs and whether the plaintiffs have been granted refugee status or humanitarian parole.
 
 > “SEC. 15. __SENSE OF CONGRESS WITH RESPECT TO INVESTMENTS IN BURMA’S OIL AND GAS INDUSTRY.__ 
 
->     “(a) __Findings and Declarations.—__ 
+>     “(a)  __Findings and Declarations__  __.—__ 
 
 >     Congress finds the following:
 
@@ -1325,7 +1323,7 @@
 
 >         “(3) Congress urges the executive branch to work with all firms invested in Burma’s oil and gas sector to use their influence to promote the peaceful transition to civilian democratic rule in Burma.
 
->     “(c) __Sense of Congress.—__ 
+>     “(c)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that so long as Yadana investors remain invested in Burma, such investors should—
 
@@ -1334,6 +1332,8 @@
 >         “(2) publicly disclose and deal with in a transparent manner, consistent with legal obligations, its role in any ongoing investment in Burma, including its financial involvement in any joint production agreement or other joint ventures and the amount of their direct or indirect support of the Burmese Government; and
 
 >         “(3) work with project partners to ensure that forced labor is not used to construct, maintain, support, or defend the project facilities, including pipelines, offices, or other facilities.”
+
+    \[Ex. Ord. No. 13651, § 8, Aug. 6, 2013, 78 F.R. 48794, determined and certified under [section 5(i) of Pub. L. 110–286][/us/pl/110/286/s5/i], set out above, that it was in the national interest of the United States to waive, and did waive, the sanctions described in [section 5(b) of Pub. L. 110–286][/us/pl/110/286/s5/b], subject to an exception continuing the prohibition of certain transactions.\]
 
     \[Memorandum of President of the United States, Aug. 29, 2012, 77 F.R. 57479, delegated to the Secretary of State the functions and authority conferred upon the President by [section 5(a)(2) of Pub. L. 110–286][/us/pl/110/286/s5/a/2], set out above, to waive the visa ban under section 5(a)(1) of that Act, and to make the specified certification to Congress.\]
 
@@ -1381,11 +1381,11 @@
 
 >     “(a) __General Ban.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, until such time as the President determines and certifies to Congress that Burma has met the conditions described in paragraph (3), beginning 30 days after the date of the enactment of this Act \[July 28, 2003\], the President shall ban the importation of any article that is a product of Burma.
 
->         “(2) __Ban on imports from certain companies.—__ 
+>         “(2)  __Ban on imports from certain companies__  __.—__ 
 
 >         The import restrictions contained in paragraph (1) shall apply to, among other entities—
 
@@ -1401,7 +1401,7 @@
 
 >             “(F) any successor entity for the SPDC, UMEHI, MEC, or USDA.
 
->         “(3) __Conditions described.—__ 
+>         “(3)  __Conditions described__  __.—__ 
 
 >         The conditions described in this paragraph are the following:
 
@@ -1423,21 +1423,21 @@
 
 >             “(C) Pursuant to section 706(2) of the Foreign Relations Authorization Act, Fiscal Year 2003 ([Public Law 107–228][/us/pl/107/228]) \[[22 U.S.C. 2291j–1(2)][/us/usc/t22/s2291j–1/2]\], Burma has not been designated as a country that has failed demonstrably to make substantial efforts to adhere to its obligations under international counternarcotics agreements and to take other effective counternarcotics measures, including, but not limited to (i) the arrest and extradition of all individuals under indictment in the United States for narcotics trafficking, (ii) concrete and measurable actions to stem the flow of illicit drug money into Burma’s banking system and economic enterprises, and (iii) actions to stop the manufacture and export of methamphetamines.
 
->         “(4) __Appropriate congressional committees.—__ 
+>         “(4)  __Appropriate congressional committees__  __.—__ 
 
 >         In this subsection, the term ‘appropriate congressional committees’ means the Committees on Foreign Relations and Appropriations of the Senate and the Committees on International Relations \[now Foreign Affairs\] and Appropriations of the House of Representatives.
 
->     “(b) __Waiver Authorities.—__ 
+>     “(b)  __Waiver Authorities__  __.—__ 
 
 >     The President may waive the restrictions described in this section or section 3A(b)(1) or (c)(1) for any or all articles that are subject to such restrictions if the President determines and notifies the Committees on Appropriations, Finance, and Foreign Relations of the Senate and the Committees on Appropriations, International Relations \[now Foreign Affairs\], and Ways and Means of the House of Representatives that to do so is in the national interest of the United States.
 
 > “SEC. 3A. __PROHIBITION ON IMPORTATION OF JADEITE AND RUBIES FROM BURMA AND ARTICLES OF JEWELRY CONTAINING JADEITE OR RUBIES FROM BURMA.__ 
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Appropriate congressional committees.—__ 
+>         “(1)  __Appropriate congressional committees__  __.—__ 
 
 >         The term ‘appropriate congressional committees’ means—
 
@@ -1445,7 +1445,7 @@
 
 >             “(B) the Committee on Finance and the Committee on Foreign Relations of the Senate.
 
->         “(2) __Burmese covered article.—__ 
+>         “(2)  __Burmese covered article__  __.—__ 
 
 >         The term ‘Burmese covered article’ means—
 
@@ -1455,7 +1455,7 @@
 
 >             “(C) articles of jewelry containing jadeite described in subparagraph (A) or rubies described in subparagraph (B).
 
->         “(3) __Non-burmese covered article.—__ 
+>         “(3)  __Non-burmese covered article__  __.—__ 
 
 >         The term ‘non-Burmese covered article’ means—
 
@@ -1467,15 +1467,15 @@
 
 >         “(4) __Jadeite; rubies; articles of jewelry containing jadeite or rubies.—__ 
 
->             “(A) __Jadeite.—__ 
+>             “(A)  __Jadeite__  __.—__ 
 
 >             The term ‘jadeite’ means any jadeite classifiable under heading 7103 of the Harmonized Tariff Schedule of the United States (in this paragraph referred to as the ‘HTS’) \[see Publication of Harmonized Tariff Schedule note set out under [section 1202 of Title 19][/us/usc/t19/s1202], Customs Duties\].
 
->             “(B) __Rubies.—__ 
+>             “(B)  __Rubies__  __.—__ 
 
 >             The term ‘rubies’ means any rubies classifiable under heading 7103 of the HTS.
 
->             “(C) __Articles of jewelry containing jadeite or rubies.—__ 
+>             “(C)  __Articles of jewelry containing jadeite or rubies__  __.—__ 
 
 >             The term ‘articles of jewelry containing jadeite or rubies’ means—
 
@@ -1483,21 +1483,21 @@
 
 >                 “(ii) any article of jadeite or rubies classifiable under heading 7116 of the HTS.
 
->         “(5) __United states.—__ 
+>         “(5)  __United states__  __.—__ 
 
 >         The term ‘United States’, when used in the geographic sense, means the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 >     “(b) __Prohibition on Importation of Burmese Covered Articles.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, until such time as the President determines and certifies to the appropriate congressional committees that Burma has met the conditions described in section 3(a)(3), beginning 60 days after the date of the enactment of the Tom Lantos Block Burmese JADE (Junta’s Anti-Democratic Efforts) Act of 2008 \[July 29, 2008\], the President shall prohibit the importation into the United States of any Burmese covered article.
 
->         “(2) __Regulatory authority.—__ 
+>         “(2)  __Regulatory authority__  __.—__ 
 
 >         The President is authorized to, and shall as necessary, issue such proclamations, regulations, licenses, and orders, and conduct such investigations, as may be necessary to implement the prohibition under paragraph (1).
 
->         “(3) __Other actions.—__ 
+>         “(3)  __Other actions__  __.—__ 
 
 >         Beginning on the date of the enactment of this Act \[July 28, 2003\], the President shall take all appropriate actions to seek the following:
 
@@ -1507,7 +1507,7 @@
 
 >     “(c) __Requirements for Importation of Non-Burmese Covered Articles.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), until such time as the President determines and certifies to the appropriate congressional committees that Burma has met the conditions described in section 3(a)(3), beginning 60 days after the date of the enactment of the Tom Lantos Block Burmese JADE (Junta’s Anti-Democratic Efforts) Act of 2008 \[July 29, 2008\], the President shall require as a condition for the importation into the United States of any non-Burmese covered article that—
 
@@ -1523,11 +1523,11 @@
 
 >         “(2) __Exception.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The President may waive the requirements of paragraph (1) with respect to the importation of non-Burmese covered articles from any country with respect to which the President determines and certifies to the appropriate congressional committees has implemented the measures described in subparagraph (B) (or their functional equivalent) to prevent the trade in Burmese covered articles.
 
->             “(B) __Measures described.—__ 
+>             “(B)  __Measures described__  __.—__ 
 
 >             The measures referred to in subparagraph (A) are the following:
 
@@ -1543,37 +1543,37 @@
 
 >                 “(vi) Full cooperation by the country with the United Nations or other official international organizations that seek to prevent trade in Burmese covered articles.
 
->         “(3) __Regulatory authority.—__ 
+>         “(3)  __Regulatory authority__  __.—__ 
 
 >         The President is authorized to, and shall as necessary, issue such proclamations, regulations, licenses, and orders and conduct such investigations, as may be necessary to implement the provisions under paragraphs (1) and (2).
 
 >     “(d) __Inapplicability.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The requirements of subsection (b)(1) and subsection (c)(1) shall not apply to Burmese covered articles and non-Burmese covered articles, respectively, that were previously exported from the United States, including those that accompanied an individual outside the United States for personal use, if they are reimported into the United States by the same person, without having been advanced in value or improved in condition by any process or other means while outside the United States.
 
->         “(2) __Additional provision.—__ 
+>         “(2)  __Additional provision__  __.—__ 
 
 >         The requirements of subsection (c)(1) shall not apply with respect to the importation of non-Burmese covered articles that are imported by or on behalf of an individual for personal use and accompanying an individual upon entry into the United States.
 
->     “(e) __Enforcement.—__ 
+>     “(e)  __Enforcement__  __.—__ 
 
 >     Burmese covered articles or non-Burmese covered articles that are imported into the United States in violation of any prohibition of this Act or any other provision law \[sic\] shall be subject to all applicable seizure and forfeiture laws and criminal and civil laws of the United States to the same extent as any other violation of the customs laws of the United States.
 
 >     “(f) __Sense of Congress.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         It is the sense of Congress that the President should take the necessary steps to seek to negotiate an international arrangement—similar to the Kimberley Process Certification Scheme for conflict diamonds—to prevent the trade in Burmese covered articles. Such an international arrangement should create an effective global system of controls and should contain the measures described in subsection (c)(2)(B) (or their functional equivalent).
 
->         “(2) __Kimberley process certification scheme defined.—__ 
+>         “(2)  __Kimberley process certification scheme defined__  __.—__ 
 
 >         In paragraph (1), the term ‘Kimberley Process Certification Scheme’ has the meaning given the term in section 3(6) of the Clean Diamond Trade Act ([Public Law 108–19][/us/pl/108/19]; [19 U.S.C. 3902(6)][/us/usc/t19/s3902/6]).
 
 >     “(g) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of the Tom Lantos Block Burmese JADE (Junta’s Anti-Democratic Efforts) Act of 2008 \[July 29, 2008\], the President shall transmit to the appropriate congressional committees a report describing what actions the United States has taken during the 60-day period beginning on the date of the enactment of such Act to seek—
 
@@ -1583,35 +1583,35 @@
 
 >             “(C) the negotiation of an international arrangement, as specified in subsection (f)(1).
 
->         “(2) __Update.—__ 
+>         “(2)  __Update__  __.—__ 
 
 >         The President shall make continued efforts to seek the items specified in subparagraphs (A), (B), and (C) of paragraph (1) and shall promptly update the appropriate congressional committees on subsequent developments with respect to these efforts.
 
->     “(h) __GAO Report.—__ 
+>     “(h) __GAO__  __Report__  __.—__ 
 
 >     Not later than 14 months after the date of the enactment of the Tom Lantos Block Burmese JADE (Junta’s Anti-Democratic Efforts) Act of 2008 \[July 29, 2008\], the Comptroller General of the United States shall submit to the appropriate congressional committees a report on the effectiveness of the implementation of this section. The Comptroller General shall include in the report any recommendations for improving the administration of this Act.
 
 > “SEC. 4. __FREEZING ASSETS OF THE BURMESE REGIME IN THE UNITED STATES.__ 
 
->     “(a) __Reporting Requirement.—__ 
+>     “(a)  __Reporting Requirement__  __.—__ 
 
 >     Not later than 60 days after the date of enactment of this Act \[July 28, 2003\], the President shall take such action as is necessary to direct, and promulgate regulations to the same, that any United States financial institution holding funds belonging to the SPDC or the assets of those individuals who hold senior positions in the SPDC or its political arm, the Union Solidarity Development Association, shall promptly report those funds or assets to the Office of Foreign Assets Control.
 
->     “(b) __Additional Authority.—__ 
+>     “(b)  __Additional Authority__  __.—__ 
 
 >     The President may take such action as may be necessary to impose a sanctions regime to freeze such funds or assets, subject to such terms and conditions as the President determines to be appropriate.
 
->     “(c) __Delegation.—__ 
+>     “(c)  __Delegation__  __.—__ 
 
 >     The President may delegate the duties and authorities under this section to such Federal officers or other officials as the President deems appropriate.
 
 > “SEC. 5. __LOANS AT INTERNATIONAL FINANCIAL INSTITUTIONS.__ 
 
->     “(a) __Opposition to Assistance to Burma.—__ 
+>     “(a)  __Opposition to Assistance to Burma__  __.—__ 
 
 >     The Secretary of the Treasury shall instruct the United States executive director to each appropriate international financial institution in which the United States participates, to oppose, and vote against the extension by such institution of any loan or financial or technical assistance to Burma until such time as the conditions described in section 3(a)(3) are met.
 
->     “(b) __Licenses for Humanitarian or Religious Activities in Burma.—__ 
+>     “(b)  __Licenses for Humanitarian or Religious Activities in Burma__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Secretary of the Treasury is authorized to issue multi-year licenses for humanitarian or religious activities in Burma.
 
@@ -1619,15 +1619,15 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Visa ban.—__ 
+>         “(1)  __Visa ban__  __.—__ 
 
 >         The President is authorized to deny visas and entry to the former and present leadership of the SPDC or the Union Solidarity Development Association.
 
->         “(2) __Updates.—__ 
+>         “(2)  __Updates__  __.—__ 
 
 >         The Secretary of State shall coordinate on a biannual basis with representatives of the European Union to allow officials of the United States and the European Union to ensure a high degree of coordination of lists of individuals banned from obtaining a visa by the European Union for the reason described in paragraph (1) and those banned from receiving a visa from the United States.
 
->     “(b) __Publication.—__ 
+>     “(b)  __Publication__  __.—__ 
 
 >     The Secretary of State shall post on the Department of State’s website the names of individuals whose entry into the United States is banned under subsection (a).
 
@@ -1637,17 +1637,17 @@
 
 > “SEC. 8. __SUPPORT DEMOCRACY ACTIVISTS IN BURMA.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The President is authorized to use all available resources to assist Burmese democracy activists dedicated to nonviolent opposition to the regime in their efforts to promote freedom, democracy, and human rights in Burma, including a listing of constraints on such programming.
 
 >     “(b) __Reports.—__ 
 
->         “(1) __First report.—__ 
+>         “(1)  __First report__  __.—__ 
 
 >         Not later than 3 months after the date of enactment of this Act \[July 28, 2003\], the Secretary of State shall provide the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and International Relations \[now Foreign Affairs\] of the House of Representatives a comprehensive report on its short- and long-term programs and activities to support democracy activists in Burma, including a list of constraints on such programming.
 
->         “(2) __Report on resources.—__ 
+>         “(2)  __Report on resources__  __.—__ 
 
 >         Not later than 6 months after the date of enactment of this Act, the Secretary of State shall provide the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and International Relations \[now Foreign Affairs\] of the House of Representatives a report identifying resources that will be necessary for the reconstruction of Burma, after the SPDC is removed from power, including—
 
@@ -1661,7 +1661,7 @@
 
 >             “(E) providing health, educational, and economic development.
 
->         “(3) __Report on trade sanctions.—__ 
+>         “(3)  __Report on trade sanctions__  __.—__ 
 
 >         Not later than 90 days before the date on which the import restrictions contained in section 3(a)(1) are to expire, the Secretary of State, in consultation with the United States Trade Representative and the heads of appropriate agencies, shall submit to the Committees on Appropriations, Finance, and Foreign Relations of the Senate, and the Committees on Appropriations, International Relations \[now Foreign Affairs\], and Ways and Means of the House of Representatives, a report on—
 
@@ -1679,37 +1679,37 @@
 
 > “SEC. 9. __DURATION OF SANCTIONS.__ 
 
->     “(a) __Termination by Request From Democratic Burma.—__ 
+>     “(a)  __Termination by Request From Democratic Burma__  __.—__ 
 
 >     The President may terminate any provision in this Act upon the request of a democratically elected government in Burma, provided that all the conditions in section 3(a)(3) have been met.
 
 >     “(b) __Continuation of Import Sanctions.—__ 
 
->         “(1) __Expiration.—__ 
+>         “(1)  __Expiration__  __.—__ 
 
 >         The import restrictions contained in section 3(a)(1) shall expire 1 year from the date of enactment of this Act \[July 28, 2003\] unless renewed under paragraph (2) of this section \[subsection\].
 
->         “(2) __Resolution by congress.—__ 
+>         “(2)  __Resolution by congress__  __.—__ 
 
 >         The import restrictions contained in section 3(a)(1) may be renewed annually for a 1-year period if, prior to the anniversary of the date of enactment of this Act, and each year thereafter, a renewal resolution is enacted into law in accordance with subsection (c).
 
->         “(3) __Limitation.—__ 
+>         “(3)  __Limitation__  __.—__ 
 
 >         The import restrictions contained in section 3(a)(1) may be renewed for a maximum of twelve years from the date of the enactment of this Act \[July 28, 2003\].
 
->         “(4) __Rule of construction.—__ 
+>         “(4)  __Rule of construction__  __.—__ 
 
 >         For purposes of this subsection, any reference to section 3(a)(1) shall be deemed to include a reference to section 3A(b)(1) and (c)(1).
 
 >     “(c) __Renewal Resolutions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For purposes of this section, the term ‘renewal resolution’ means a joint resolution of the 2 Houses of Congress, the sole matter after the resolving clause of which is as follows: ‘That Congress approves the renewal of the import restrictions contained in section 3(a)(1) and section 3A(b)(1) and (c)(1) of the Burmese Freedom and Democracy Act of 2003.’.
 
 >         “(2) __Procedures.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             A renewal resolution—
 
@@ -1717,7 +1717,7 @@
 
 >                 “(ii) the provisions of subparagraph (B) shall apply.
 
->             “(B) __Expedited consideration.—__ 
+>             “(B)  __Expedited consideration__  __.—__ 
 
 >             The provisions of section 152(b), (c), (d), (e), and (f) of the Trade Act of 1974 ([19 U.S.C. 2192][/us/usc/t19/s2192] (b), (c), (d), (e), and (f)) apply to a renewal resolution under this Act as if such resolution were a resolution described in section 152(a) of the Trade Act of 1974.”
 
@@ -1755,15 +1755,15 @@ Provisions similar to those contained in [section 5(a) of Pub. L. 108–61][/us/
 
 >     “(b) __Renewal of Import Restrictions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Congress approves the renewal of the import restrictions contained in section 3(a)(1) and section 3A (b)(1) and (c)(1) of the Burmese Freedom and Democracy Act of 2003 \[[Pub. L. 108–61][/us/pl/108/61], set out above\].
 
->         “(2) __Rule of construction.—__ 
+>         “(2)  __Rule of construction__  __.—__ 
 
 >         This section shall be deemed to be a ‘renewal resolution’ for purposes of section 9 of the Burmese Freedom and Democracy Act of 2003.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     This section \[enacting this note and amending [Pub. L. 108–61][/us/pl/108/61], set out above\] and the amendment made by this section shall take effect on the date of the enactment of this Act \[Aug. 10, 2012\] or July 26, 2012, whichever occurs first.”
 
@@ -1793,7 +1793,7 @@ Prior similar provisions were contained in the following Acts:
 
 >      Until such time as the President determines and certifies to Congress that Burma has made measurable and substantial progress in improving human rights practices and implementing democratic government, the following sanctions shall be imposed on Burma:
 
->         “(1) __Bilateral assistance.—__ 
+>         “(1)  __Bilateral assistance__  __.—__ 
 
 >         There shall be no United States assistance to the Government of Burma, other than:
 
@@ -1809,23 +1809,23 @@ Prior similar provisions were contained in the following Acts:
 
 >             “(C) assistance promoting human rights and democratic values.
 
->         “(2) __Multilateral assistance.—__ 
+>         “(2)  __Multilateral assistance__  __.—__ 
 
 >         The Secretary of the Treasury shall instruct the United States executive director of each international financial institution to vote against any loan or other utilization of funds of the respective bank to or for Burma.
 
->         “(3) __Visas.—__ 
+>         “(3)  __Visas__  __.—__ 
 
 >         Except as required by treaty obligations or to staff the Burmese mission to the United States, the United States should not grant entry visas to any Burmese government official.
 
->     “(b) __Conditional Sanctions.—__ 
+>     “(b)  __Conditional Sanctions__  __.—__ 
 
 >     The President is hereby authorized to prohibit, and shall prohibit\[,\] United States persons from new investment in Burma, if the President determines and certifies to Congress that, after the date of enactment of this Act \[Sept. 30, 1996\], the Government of Burma has physically harmed, rearrested for political acts, or exiled Daw Aung San Suu Kyi or has committed large-scale repression of or violence against the Democratic opposition.
 
->     “(c) __Multilateral Strategy.—__ 
+>     “(c)  __Multilateral Strategy__  __.—__ 
 
 >     The President shall seek to develop, in coordination with members of ASEAN and other countries having major trading and investment interests in Burma, a comprehensive, multilateral strategy to bring democracy to and improve human rights practices and the quality of life in Burma, including the development of a dialogue between the State Law and Order Restoration Council (SLORC) and democratic opposition groups within Burma.
 
->     “(d) __Presidential Reports.—__ 
+>     “(d)  __Presidential Reports__  __.—__ 
 
 >     Every six months following the enactment of this Act \[Sept. 30, 1996\], the President shall report to the Chairmen of the Committee on Foreign Relations, the Committee on International Relations and the House and Senate Appropriations Committees on the following:
 
@@ -1835,7 +1835,7 @@ Prior similar provisions were contained in the following Acts:
 
 >         “(3) progress made in developing the strategy referred to in subsection (c).
 
->     “(e) __Waiver Authority.—__ 
+>     “(e)  __Waiver Authority__  __.—__ 
 
 >     The President shall have the authority to waive, temporarily or permanently, any sanction referred to in subsection (a) or subsection (b) if he determines and certifies to Congress that the application of such sanction would be contrary to the national security interests of the United States.
 
@@ -1885,11 +1885,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 > “In this Act:
 
->     “(1) __Appropriate congressional committees.—__ 
+>     “(1)  __Appropriate congressional committees__  __.—__ 
 
 >     The term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives.
 
->     “(2) __Government of sudan.—__ 
+>     “(2)  __Government of sudan__  __.—__ 
 
 >     The term ‘Government of Sudan’ means the National Congress Party, formerly known as the National Islamic Front, government in Khartoum, Sudan, or any successor government formed on or after the date of the enactment of this Act \[Dec. 23, 2004\] (other than the coalition government agreed upon in the Nairobi Declaration on the Final Phase of Peace in the Sudan signed on June 5, 2004).
 
@@ -1945,11 +1945,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 > “SEC. 4. __SENSE OF CONGRESS REGARDING THE CONFLICT IN DARFUR, SUDAN.__ 
 
->     “(a) __Sudan Peace Act.—__ 
+>     “(a)  __Sudan Peace Act__  __.—__ 
 
 >     It is the sense of Congress that the Sudan Peace Act \[[Pub. L. 107–245][/us/pl/107/245]\] ([50 U.S.C. 1701][/us/usc/t50/s1701] note) remains relevant and should be extended to include the Darfur region of Sudan.
 
->     “(b) __Actions To Address the Conflict.—__ 
+>     “(b)  __Actions To Address the Conflict__  __.—__ 
 
 >     It is the sense of Congress that—
 
@@ -2005,33 +2005,33 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 > “SEC. 6. __SANCTIONS IN SUPPORT OF PEACE IN DARFUR.__ 
 
->     “(a) __Sanctions.—__ 
+>     “(a)  __Sanctions__  __.—__ 
 
 >     Beginning on the date that is 30 days after the date of enactment of this Act \[Dec. 23, 2004\], the President shall, notwithstanding paragraph (1) of section 6(b) of the Sudan Peace Act \[[Pub. L. 107–245][/us/pl/107/245]\] ([50 U.S.C. 1701][/us/usc/t50/s1701] note), implement the measures set forth in subparagraphs (A) through (D) of paragraph (2) of such section.
 
->     “(b) __Blocking of Assets of Appropriate Senior Officials of the Government of Sudan.—__ 
+>     “(b)  __Blocking of Assets of Appropriate Senior Officials of the Government of Sudan__  __.—__ 
 
 >     Beginning on the date that is 30 days after the date of enactment of this Act, the President shall, consistent with the authorities granted in the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.), block the assets of appropriate senior officials of the Government of Sudan.
 
 >     “(c) __Blocking of Assets and Restriction on Visas of Certain Individuals Identified by the President.—__ 
 
->         “(1) __Blocking of assets.—__ 
+>         “(1)  __Blocking of assets__  __.—__ 
 
 >         Beginning on the date that is 30 days after the date of the enactment of the Darfur Peace and Accountability Act of 2006 \[Oct. 13, 2006\], and in the interest of contributing to peace in Sudan, the President shall, consistent with the authorities granted under the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.), block the assets of any individual who the President determines is complicit in, or responsible for, acts of genocide, war crimes, or crimes against humanity in Darfur, including the family members or any associates of such individual to whom assets or property of such individual was transferred on or after July 1, 2002.
 
->         “(2) __Restriction on visas.—__ 
+>         “(2)  __Restriction on visas__  __.—__ 
 
 >         Beginning on the date that is 30 days after the date of the enactment of the Darfur Peace and Accountability Act of 2006, and in the interest of contributing to peace in Sudan, the President shall deny a visa and entry to any individual who the President determines to be complicit in, or responsible for, acts of genocide, war crimes, or crimes against humanity in Darfur, including the family members or any associates of such individual to whom assets or property of such individual was transferred on or after July 1, 2002.
 
->     “(d) __Waiver.—__ 
+>     “(d)  __Waiver__  __.—__ 
 
 >     The President may waive the application of subsection (a) or (b) if the President determines and certifies to the appropriate congressional committees that such a waiver is in the national interest of the United States. The President may waive the application of paragraph (1) or (2) of subsection (c) with respect to any individual if the President determines that such a waiver is in the national interests of the United States and, before exercising the waiver, notifies the appropriate congressional committees of the name of the individual and the reasons for the waiver.
 
->     “(e) __Continuation of Restrictions.—__ 
+>     “(e)  __Continuation of Restrictions__  __.—__ 
 
 >     Restrictions against the Government of Sudan that were imposed pursuant to title III and sections 508, 512, and 527 of the Foreign Operations, Export Financing, and Related Programs Act, 2004 (division D of [Public Law 108–199][/us/pl/108/199]; [118 Stat. 143][/us/stat/118/143] \[162, 169, 170, 177\]), or any other similar provision of law, shall remain in effect against the Government of Sudan and may not be lifted pursuant to such provisions of law unless the President transmits a certification to the appropriate congressional committees in accordance with paragraph (2) of section 12(a) of the Sudan Peace Act (as added by section 5(a)(1) of this Act).
 
->     “(f) __Determination.—__ 
+>     “(f)  __Determination__  __.—__ 
 
 >     Notwithstanding subsection (a) of this section, the President shall continue to transmit the determination required under section 6(b)(1)(A) of the Sudan Peace Act ([50 U.S.C. 1701][/us/usc/t50/s1701] note).
 
@@ -2103,11 +2103,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 > “In this Act:
 
->     “(1) __Appropriate congressional committees.—__ 
+>     “(1)  __Appropriate congressional committees__  __.—__ 
 
 >     The term ‘appropriate congressional committees’ means the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
->     “(2) __Government of sudan.—__ 
+>     “(2)  __Government of sudan__  __.—__ 
 
 >     Except as provided in section 12, the term ‘Government of Sudan’ means the National Islamic Front government in Khartoum, Sudan.
 
@@ -2141,23 +2141,23 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 > “SEC. 5. __ASSISTANCE FOR PEACE AND DEMOCRATIC GOVERNANCE.__ 
 
->     “(a) __Assistance to Sudan.—__ 
+>     “(a)  __Assistance to Sudan__  __.—__ 
 
 >     The President is authorized to provide increased assistance to the areas of Sudan that are not controlled by the Government of Sudan to prepare the population for peace and democratic governance, including support for civil administration, communications infrastructure, education, health, and agriculture.
 
 >     “(b) __Authorization of Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There are authorized to be appropriated to the President to carry out the activities described in subsection (a) of this section $100,000,000 for each of the fiscal years 2003, 2004, and 2005.
 
->         “(2) __Availability.—__ 
+>         “(2)  __Availability__  __.—__ 
 
 >         Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) of this subsection are authorized to remain available until expended.
 
 > “SEC. 6. __SUPPORT FOR AN INTERNATIONALLY SANCTIONED PEACE PROCESS.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress hereby—
 
@@ -2185,7 +2185,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >             “(E) If, at any time after the President has made a certification under subparagraph (B), the President makes a determination and certifies in writing to the appropriate congressional committees that the Government of Sudan has resumed good faith negotiations, or makes a determination and certifies in writing to the appropriate congressional committees that the Government of Sudan is in compliance with a peace agreement, then paragraph (2) shall not apply to the Government of Sudan.
 
->         “(2) __Measures in support of the peace process.—__ 
+>         “(2)  __Measures in support of the peace process__  __.—__ 
 
 >         Subject to the provisions of paragraph (1), the President—
 
@@ -2197,19 +2197,19 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >             “(D) shall seek a United Nations Security Council Resolution to impose an arms embargo on the Government of Sudan.
 
->     “(c) __Report on the Status of Negotiations.—__ 
+>     “(c)  __Report on the Status of Negotiations__  __.—__ 
 
 >     If, at any time after the President has made a certification under subsection (b)(1)(A), the Government of Sudan discontinues negotiations with the Sudan People’s Liberation Movement for a 14-day period, then the President shall submit a quarterly report to the appropriate congressional committees on the status of the peace process until negotiations resume.
 
->     “(d) __Report on United States Opposition To Financing by International Financial Institutions.—__ 
+>     “(d)  __Report on United States Opposition To Financing by International Financial Institutions__  __.—__ 
 
 >     The Secretary of the Treasury shall submit a semiannual report to the appropriate congressional committees describing the steps taken by the United States to oppose the extension of a loan, credit, or guarantee if, after the Secretary of the Treasury gives the instructions described in subsection (b)(2)(A), such financing is extended.
 
->     “(e) __Report on Efforts To Deny Oil Revenues.—__ 
+>     “(e)  __Report on Efforts To Deny Oil Revenues__  __.—__ 
 
 >     Not later than 45 days after the President takes an action under subsection (b)(2)(C), the President shall submit to the appropriate congressional committees a comprehensive plan for implementing the actions described in such subsection.
 
->     “(f) __Definition.—__ 
+>     “(f)  __Definition__  __.—__ 
 
 >     In this section, the term ‘international financial institution’ means the International Bank for Reconstruction and Development, the International Development Association, the International Monetary Fund, the African Development Bank, and the African Development Fund.
 
@@ -2225,7 +2225,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 > “SEC. 8. __REPORTING REQUIREMENTS.__ 
 
->     “(a) __Report on Commercial Activity.—__ 
+>     “(a)  __Report on Commercial Activity__  __.—__ 
 
 >     Not later than 30 days after the date of the enactment of the Comprehensive Peace in Sudan Act of 2004 \[Dec. 23, 2004\], and annually thereafter until the completion of the interim period outlined in the Machakos Protocol of 2002, the Secretary of State, in consultation with relevant United States Government departments and agencies, shall submit to the appropriate congressional committees a report regarding commercial activity in Sudan that includes—
 
@@ -2235,7 +2235,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(3) a description of the relationships between Sudan’s arms industry and major foreign business enterprises and their subsidiaries, including government-controlled entities.
 
->     “(b) __Report on the Conflict in Sudan, Including the Darfur Region.—__ 
+>     “(b)  __Report on the Conflict in Sudan, Including the Darfur Region__  __.—__ 
 
 >     Not later than 30 days after the date of the enactment of the Comprehensive Peace in Sudan Act of 2004 \[Dec. 23, 2004\], and annually thereafter until the completion of the interim period outlined in the Machakos Protocol of 2002, the Secretary of State shall prepare and submit to the appropriate congressional committees a report regarding the conflict in Sudan, including the conflict in the Darfur region. Such report shall include—
 
@@ -2243,7 +2243,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(2) a description of the extent to which humanitarian relief in Sudan has been obstructed or manipulated by the Government of Sudan or other forces, and a contingency plan to distribute assistance should the Government of Sudan continue to obstruct or delay the international humanitarian response to the crisis in Darfur.
 
->     “(c) __Report on African Union Mission in Sudan.—__ 
+>     “(c)  __Report on African Union Mission in Sudan__  __.—__ 
 
 >     Until such time as AMIS concludes its mission in Darfur, in conjunction with the other reports required under this section, the Secretary of State, in consultation with all relevant Federal departments and agencies, shall prepare and submit a report, to the appropriate congressional committees, regarding—
 
@@ -2251,7 +2251,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(2) the level of other international assistance provided to AMIS, including assistance from countries, regional and international organizations, such as the North Atlantic Treaty Organization, the European Union, the Arab League, and the United Nations, reported by fiscal year and the type and purpose of such assistance, to the extent possible.
 
->     “(d) __Report on Sanctions in Support of Peace in Darfur.—__ 
+>     “(d)  __Report on Sanctions in Support of Peace in Darfur__  __.—__ 
 
 >     In conjunction with the other reports required under this section, the Secretary of State shall submit a report to the appropriate congressional committees regarding sanctions imposed under section 6 of the Comprehensive Peace in Sudan Act of 2004 \[[Pub. L. 108–497][/us/pl/108/497], set out above\], including—
 
@@ -2261,7 +2261,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(3) whether or not such individual has been identified by the United Nations panel of experts.
 
->     “(e) __Report on United States Military Assistance.—__ 
+>     “(e)  __Report on United States Military Assistance__  __.—__ 
 
 >     In conjunction with the other reports required under this section, the Secretary of State shall submit a report to the appropriate congressional committees describing the effectiveness of any assistance provided under section 8 of the Darfur Peace and Accountability Act of 2006 \[[Pub. L. 109–344][/us/pl/109/344], set out above\], including—
 
@@ -2271,41 +2271,41 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(3) any unauthorized retransfer or use of military assistance furnished by the United States.
 
->     “(g) __\[sic\] Disclosure to the Public.—__ 
+>     “(g) __\[sic\]__  __Disclosure to the Public__  __.—__ 
 
 >     The Secretary of State shall publish or otherwise make available to the public each unclassified report, or portion of a report that is unclassified, submitted under subsection (a) or (b).
 
 > “SEC. 9. __CONTINUED USE OF NON-OLS ORGANIZATIONS FOR RELIEF EFFORTS.__ 
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of the Congress that the President should continue to increase the use of non-OLS agencies in the distribution of relief supplies in southern Sudan.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[Oct. 21, 2002\], the President shall submit to the appropriate congressional committees a detailed report describing the progress made toward carrying out subsection (a).
 
 > “SEC. 10. __CONTINGENCY PLAN FOR ANY BAN ON AIR TRANSPORT RELIEF FLIGHTS.__ 
 
->     “(a) __Plan.—__ 
+>     “(a)  __Plan__  __.—__ 
 
 >     The President shall develop a contingency plan to provide, outside the auspices of the United Nations if necessary, the greatest possible amount of United States Government and privately donated relief to all affected areas in Sudan, including the Nuba Mountains and the Upper Nile and the Blue Nile regions, in the event that the Government of Sudan imposes a total, partial, or incremental ban on OLS air transport relief flights.
 
->     “(b) __Reprogramming Authority.—__ 
+>     “(b)  __Reprogramming Authority__  __.—__ 
 
 >     Notwithstanding any other provision of law, in carrying out the plan developed under subsection (a), the President may reprogram up to 100 percent of the funds available for support of OLS operations for the purposes of the plan.
 
 > “SEC. 11. __INVESTIGATION OF WAR CRIMES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of State shall collect information about incidents which may constitute crimes against humanity, genocide, war crimes, and other violations of international humanitarian law by all parties to the conflict in Sudan, including slavery, rape, and aerial bombardment of civilian targets.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 6 months after the date of the enactment of this Act \[Oct. 21, 2002\] and annually thereafter, the Secretary of State shall prepare and submit to the appropriate congressional committees a detailed report on the information that the Secretary of State has collected under subsection (a) and any findings or determinations made by the Secretary on the basis of that information. The report under this subsection may be submitted as part of the report required under section 8.
 
->     “(c) __Consultations With Other Departments.—__ 
+>     “(c)  __Consultations With Other Departments__  __.—__ 
 
 >     In preparing the report required by this section, the Secretary of State shall consult and coordinate with all other Government officials who have information necessary to complete the report. Nothing contained in this section shall require the disclosure, on a classified or unclassified basis, of information that would jeopardize sensitive sources and methods or other vital national security interests.
 
@@ -2313,7 +2313,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >     “(a) __Assistance.—__ 
 
->         “(1) __Authority.—__ 
+>         “(1)  __Authority__  __.—__ 
 
 >         Notwithstanding any other provision of law, the President is authorized to provide assistance for Sudan as authorized in paragraph (5) of this section—
 
@@ -2321,7 +2321,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >             “(B) to address the humanitarian and human rights crisis in the Darfur region and eastern Chad, including to support the African Union mission in the Darfur region, provided that no assistance may be made available to the Government of Sudan.
 
->         “(2) __Certification for the government of sudan.—__ 
+>         “(2)  __Certification for the government of sudan__  __.—__ 
 
 >         Assistance authorized under paragraph (1)(A) may be provided to the Government of Sudan only if the President certifies to the appropriate congressional committees that the Government of Sudan has taken demonstrable steps to—
 
@@ -2339,17 +2339,17 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >             “(G) implement the final agreements reached in the Naivasha peace process and install a new coalition government based on the Nairobi Declaration on the Final Phase of Peace in the Sudan signed on June 5, 2004.
 
->         “(3) __Certification with regard to splm’s compliance with a peace agreement.—__ 
+>         “(3)  __Certification with regard to splm’s compliance with a peace agreement__  __.—__ 
 
 >         If the President determines and certifies in writing to the appropriate congressional committees that the SPLM has not engaged in good faith negotiations, or has failed to honor the agreements signed, the President shall suspend assistance authorized in this section for the SPLM, except for health care, education, and humanitarian assistance.
 
->         “(4) __Suspension of assistance.—__ 
+>         “(4)  __Suspension of assistance__  __.—__ 
 
 >         If, on a date after the President transmits the certification described in paragraph (2), the President determines that the Government of Sudan has ceased taking the actions described in such paragraph, the President shall immediately suspend the provision of any assistance to such Government under this section until the date on which the President transmits to the appropriate congressional committees a further certification that the Government of Sudan has resumed taking such actions.
 
 >         “(5) __Authorization of appropriations.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In addition to any other funds otherwise available for such purposes, there are authorized to be appropriated to the President—
 
@@ -2357,11 +2357,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                 “(ii) $200,000,000 for fiscal year 2005 to carry out paragraph (1)(B), provided that no amounts appropriated under this authorization may be made available for the Government of Sudan.
 
->             “(B) __Availability.—__ 
+>             “(B)  __Availability__  __.—__ 
 
 >             Amounts appropriated pursuant to the authorization of appropriations under subparagraph (A) are authorized to remain available until expended.
 
->     “(b) __Government of Sudan Defined.—__ 
+>     “(b)  __Government of Sudan Defined__  __.—__ 
 
 >     In this section, the term ‘Government of Sudan’ means the National Congress Party, formerly known as the National Islamic Front, government in Khartoum, Sudan, or any successor government formed on or after the date of the enactment of the Comprehensive Peace in Sudan Act \[of 2004, Dec. 23, 2004\] (other than the coalition government agreed upon in the Nairobi Declaration on the Final Phase of Peace in the Sudan signed on June 5, 2004).”
 
@@ -2395,7 +2395,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 > “SEC. 2. __REPORTS ON PROLIFERATION RELATING TO IRAN, NORTH KOREA, AND SYRIA.__ 
 
->     “(a) __Reports.—__ 
+>     “(a)  __Reports__  __.—__ 
 
 >     The President shall, at the times specified in subsection (b), submit to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate a report identifying every foreign person with respect to whom there is credible information indicating that that person, on or after January 1, 1999, transferred to or acquired from Iran, on or after January 1, 2005, transferred to or acquired from Syria, or on or after January 1, 2006, transferred to or acquired from North Korea—
 
@@ -2415,11 +2415,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(2) goods, services, or technology not listed on any list identified in paragraph (1) but which nevertheless would be, if they were United States goods, services, or technology, prohibited for export to Iran, North Korea, or Syria, as the case may be, because of their potential to make a material contribution to the development of nuclear, biological, or chemical weapons, or of ballistic or cruise missile systems.
 
->     “(b) __Timing of Reports.—__ 
+>     “(b)  __Timing of Reports__  __.—__ 
 
 >     The reports under subsection (a) shall be submitted not later than 90 days after the date of the enactment of this Act \[Mar. 14, 2000\], not later than 6 months after such date of enactment, and not later than the end of each 6-month period thereafter.
 
->     “(c) __Exceptions.—__ 
+>     “(c)  __Exceptions__  __.—__ 
 
 >     Any foreign person who—
 
@@ -2429,37 +2429,37 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         is not required to be identified on account of that same transfer in any report submitted thereafter under this section, except to the degree that new information has emerged indicating that the particular transfer may have continued, or been larger, more significant, or different in nature than previously reported under this section.
 
->     “(d) __Submission in Classified Form.—__ 
+>     “(d)  __Submission in Classified Form__  __.—__ 
 
 >     When the President considers it appropriate, reports submitted under subsection (a), or appropriate parts thereof, may be submitted in classified form.
 
->     “(e) __Content of Reports.—__ 
+>     “(e)  __Content of Reports__  __.—__ 
 
 >     Each report under subsection (a) shall contain, with respect to each foreign person identified in such report, a brief description of the type and quantity of the goods, services, or technology transferred by that person to Iran, the circumstances surrounding the transfer, the usefulness of the transfer to Iranian weapons programs, and the probable awareness or lack thereof of the transfer on the part of the government with primary jurisdiction over the person.
 
 > “SEC. 3. __APPLICATION OF MEASURES TO CERTAIN FOREIGN PERSONS.__ 
 
->     “(a) __Application of Measures.—__ 
+>     “(a)  __Application of Measures__  __.—__ 
 
 >     Subject to sections 4 and 5, the President is authorized to apply with respect to each foreign person identified in a report submitted pursuant to section 2(a), for such period of time as he may determine, any or all of the measures described in subsection (b).
 
->     “(b) __Description of Measures.—__ 
+>     “(b)  __Description of Measures__  __.—__ 
 
 >     The measures referred to in subsection (a) are the following:
 
->         “(1) __Executive order no.__ 
+>         “(1)  __Executive order no. 12938 prohibitions__  __.—__ 
 
->          12938 prohibitions.—The measures set forth in subsections (b) and (c) of section 4 of Executive Order No. 12938.
+>         The measures set forth in subsections (b) and (c) of section 4 of Executive Order No. 12938.
 
->         “(2) __Arms export prohibition.—__ 
+>         “(2)  __Arms export prohibition__  __.—__ 
 
 >         Prohibition on United States Government sales to that foreign person of any item on the United States Munitions List as in effect on August 8, 1995, and termination of sales to that person of any defense articles, defense services, or design and construction services under the Arms Export Control Act \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\].
 
->         “(3) __Dual use export prohibition.—__ 
+>         “(3)  __Dual use export prohibition__  __.—__ 
 
 >         Denial of licenses and suspension of existing licenses for the transfer to that person of items the export of which is controlled under the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\] or the Export Administration Regulations.
 
->     “(c) __Effective Date of Measures.—__ 
+>     “(c)  __Effective Date of Measures__  __.—__ 
 
 >     Measures applied pursuant to subsection (a) shall be effective with respect to a foreign person no later than—
 
@@ -2469,27 +2469,27 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(3) on the date that the report identifying the foreign person is submitted, if that report is submitted more than 60 days after the date required by section 2(b).
 
->     “(d) __Publication in Federal Register.—__ 
+>     “(d)  __Publication in Federal Register__  __.—__ 
 
 >     The application of measures to a foreign person pursuant to subsection (a) shall be announced by notice published in the Federal Register.
 
 > “SEC. 4. __PROCEDURES IF MEASURES ARE NOT APPLIED.__ 
 
->     “(a) __Requirement To Notify Congress.—__ 
+>     “(a)  __Requirement To Notify Congress__  __.—__ 
 
 >     Should the President not exercise the authority of section 3(a) to apply any or all of the measures described in section 3(b) with respect to a foreign person identified in a report submitted pursuant to section 2(a), he shall so notify the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate no later than the effective date under section 3(c) for measures with respect to that person.
 
->     “(b) __Written Justification.—__ 
+>     “(b)  __Written Justification__  __.—__ 
 
 >     Any notification submitted by the President under subsection (a) shall include a written justification describing in detail the facts and circumstances relating specifically to the foreign person identified in a report submitted pursuant to section 2(a) that support the President’s decision not to exercise the authority of section 3(a) with respect to that person.
 
->     “(c) __Submission in Classified Form.—__ 
+>     “(c)  __Submission in Classified Form__  __.—__ 
 
 >     When the President considers it appropriate, the notification of the President under subsection (a), and the written justification under subsection (b), or appropriate parts thereof, may be submitted in classified form.
 
 > “SEC. 5. __DETERMINATION EXEMPTING FOREIGN PERSON FROM SECTIONS 3 AND 4.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Sections 3 and 4 shall not apply to a foreign person 15 days after the President reports to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate that the President has determined, on the basis of information provided by that person, or otherwise obtained by the President, that—
 
@@ -2501,7 +2501,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(4) the government with primary jurisdiction over the person has imposed meaningful penalties on that person on account of the transfer of the goods, services, or technology which caused that person to be identified in a report submitted pursuant to section 2(a).
 
->     “(b) __Opportunity To Provide Information.—__ 
+>     “(b)  __Opportunity To Provide Information__  __.—__ 
 
 >     Congress urges the President—
 
@@ -2509,17 +2509,17 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(2) to exercise the authority in subsection (a) in all cases where information obtained from a foreign person identified in a report submitted pursuant to section 2(a), or from the government with primary jurisdiction over such person, establishes that the exercise of such authority is warranted.
 
->     “(c) __Submission in Classified Form.—__ 
+>     “(c)  __Submission in Classified Form__  __.—__ 
 
 >     When the President considers it appropriate, the determination and report of the President under subsection (a), or appropriate parts thereof, may be submitted in classified form.
 
 > “SEC. 6. __RESTRICTION ON EXTRAORDINARY PAYMENTS IN CONNECTION WITH THE INTERNATIONAL SPACE STATION.__ 
 
->     “(a) __Restriction on Extraordinary Payments in Connection With the International Space Station.—__ 
+>     “(a)  __Restriction on Extraordinary Payments in Connection With the International Space Station__  __.—__ 
 
 >     Notwithstanding any other provision of law, no agency of the United States Government may make extraordinary payments in connection with the International Space Station to the Russian Aviation and Space Agency, any organization or entity under the jurisdiction or control of the Russian Aviation and Space Agency, or any other organization, entity, or element of the Government of the Russian Federation, unless, during the fiscal year in which the extraordinary payments in connection with the International Space Station are to be made, the President has made the determination described in subsection (b), and reported such determination to the Committee on International Relations \[now Committee on Foreign Affairs\] and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation of the Senate.
 
->     “(b) __Determination Regarding Russian Cooperation in Preventing Proliferation Relating to Iran, North Korea, and Syria.—__ 
+>     “(b)  __Determination Regarding Russian Cooperation in Preventing Proliferation Relating to Iran, North Korea, and Syria__  __.—__ 
 
 >     The determination referred to in subsection (a) is a determination by the President that—
 
@@ -2529,25 +2529,25 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(3) neither the Russian Aviation and Space Agency, nor any organization or entity under the jurisdiction or control of the Russian Aviation and Space Agency, has, during the 1-year period prior to the date of the determination pursuant to this subsection, made transfers to or from Iran, North Korea, or Syria reportable under section 2(a) of this Act (other than transfers with respect to which a determination pursuant to section 5 has been or will be made).
 
->     “(c) __Prior Notification.—__ 
+>     “(c)  __Prior Notification__  __.—__ 
 
 >     Not less than 5 days before making a determination under subsection (b), the President shall notify the Committee on International Relations \[now Committee on Foreign Affairs\] and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation of the Senate of his intention to make such determination.
 
->     “(d) __Written Justification.—__ 
+>     “(d)  __Written Justification__  __.—__ 
 
 >     A determination of the President under subsection (b) shall include a written justification describing in detail the facts and circumstances supporting the President’s conclusion.
 
->     “(e) __Submission in Classified Form.—__ 
+>     “(e)  __Submission in Classified Form__  __.—__ 
 
 >     When the President considers it appropriate, a determination of the President under subsection (b), a prior notification under subsection (c), and a written justification under subsection (d), or appropriate parts thereof, may be submitted in classified form.
 
 >     “(f) __Exception for Crew Safety.—__ 
 
->         “(1) __Exception.—__ 
+>         “(1)  __Exception__  __.—__ 
 
 >         The National Aeronautics and Space Administration may make extraordinary payments that would otherwise be prohibited under this section to the Russian Aviation and Space Agency or any organization or entity under the jurisdiction or control of the Russian Aviation and Space Agency if the President has notified the Congress in writing that such payments are necessary to prevent the imminent loss of life by or grievous injury to individuals aboard the International Space Station.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 30 days after notifying Congress that the National Aeronautics and Space Administration will make extraordinary payments under paragraph (1), the President shall submit to Congress a report describing—
 
@@ -2577,7 +2577,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(3) This subsection shall cease to be effective 60 days after a United States propulsion module is in place at the International Space Station.
 
->     “(h) __Exception.—__ 
+>     “(h)  __Exception__  __.—__ 
 
 >     Notwithstanding subsections (a) and (b), no agency of the United States Government may make extraordinary payments in connection with the International Space Station, or any other payments in connection with the International Space Station, to any foreign person subject to measures applied pursuant to—
 
@@ -2589,11 +2589,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >     “(i) __Report on Certain Payments Related to International Space Station.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The President shall, together with each report submitted under section 2(a), submit to the Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives a report that identifies each Russian entity or person to whom the United States Government has, since the date of the enactment of the Iran Nonproliferation Amendments Act of 2005 \[Nov. 22, 2005\], made a payment in cash or in kind for work to be performed or services to be rendered under the Agreement Concerning Cooperation on the Civil International Space Station, with annex, signed at Washington January 29, 1998, and entered into force March 27, 2001, or any protocol, agreement, memorandum of understanding, or contract related thereto.
 
->         “(2) __Content.—__ 
+>         “(2)  __Content__  __.—__ 
 
 >         Each report submitted under paragraph (1) shall include—
 
@@ -2605,7 +2605,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 > “For purposes of this Act, the following terms have the following meanings:
 
->     “(1) __Extraordinary payments in connection with the international space station.—__ 
+>     “(1)  __Extraordinary payments in connection with the international space station__  __.—__ 
 
 >     The term ‘extraordinary payments in connection with the International Space Station’ means payments in cash or in kind made or to be made by the United States Government—
 
@@ -2613,7 +2613,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(B) for work on the International Space Station not required to be made under the terms of a contract or other agreement that was in effect on January 1, 1999, as those terms were in effect on such date, except that such term does not mean payments in cash or in kind made or to be made by the United States Government prior to December 31, 2020, for work to be performed or services to be rendered prior to that date necessary to meet United States obligations under the Agreement Concerning Cooperation on the Civil International Space Station, with annex, signed at Washington January 29, 1998, and entered into force March 27, 2001, or any protocol, agreement, memorandum of understanding, or contract related thereto.
 
->     “(2) __Foreign person; person.—__ 
+>     “(2)  __Foreign person; person__  __.—__ 
 
 >     The terms ‘foreign person’ and ‘person’ mean—
 
@@ -2625,11 +2625,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(D) any successor, subunit, or subsidiary of any entity described in subparagraph (A), (B), or (C), including any entity in which any entity described in any such subparagraph owns a controlling interest.
 
->     “(3) __Executive order no.__ 
+>     “(3)  __Executive order no. 12938__  __.—__ 
 
->      12938.—The term ‘Executive Order No. 12938’ means Executive Order No. 12938 \[listed in a table below\] as in effect on January 1, 1999.
+>     The term ‘Executive Order No. 12938’ means Executive Order No. 12938 \[listed in a table below\] as in effect on January 1, 1999.
 
->     “(4) __Adherent to relevant nonproliferation regime.—__ 
+>     “(4)  __Adherent to relevant nonproliferation regime__  __.—__ 
 
 >     A government is an ‘adherent’ to a ‘relevant nonproliferation regime’ if that government—
 
@@ -2679,21 +2679,21 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >     “(a) __Presidential Authority.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The President may exercise IEEPA authorities (other than authorities relating to importation) without regard to section 202 of the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701]) in the case of any commercial activity in the United States by a person that is on the list published under subsection (b).
 
->         “(2) __Penalties.—__ 
+>         “(2)  __Penalties__  __.—__ 
 
 >         The penalties set forth in section 206 of the International Emergency Economic Powers Act ([50 U.S.C. 1705][/us/usc/t50/s1705]) apply to violations of any license, order, or regulation issued under paragraph (1).
 
->         “(3) __Ieepa authorities.—__ 
+>         “(3)  __Ieepa authorities__  __.—__ 
 
 >         For purposes of paragraph (1), the term ‘IEEPA authorities’ means the authorities set forth in section 203(a) of the International Emergency Economic Powers Act ([50 U.S.C. 1702(a)][/us/usc/t50/s1702/a]).
 
 >     “(b) __Determination and Reporting of Communist Chinese Military Companies Operating in United States.—__ 
 
->         “(1) __Initial determination and reporting.—__ 
+>         “(1)  __Initial determination and reporting__  __.—__ 
 
 >         Not later than March 1, 2001, the Secretary of Defense shall make a determination of those persons operating directly or indirectly in the United States or any of its territories and possessions that are Communist Chinese military companies and shall submit a list of those persons in classified and unclassified form to the following:
 
@@ -2713,11 +2713,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >             “(H) The Director of Central Intelligence.
 
->         “(2) __Annual revisions to the list.—__ 
+>         “(2)  __Annual revisions to the list__  __.—__ 
 
 >         The Secretary of Defense shall make additions or deletions to the list submitted under paragraph (1) on an annual basis based on the latest information available and shall submit the updated list not later than February 1, each year to the committees and officers specified in paragraph (1).
 
->         “(3) __Consultation.—__ 
+>         “(3)  __Consultation__  __.—__ 
 
 >         The Secretary of Defense shall consult with the following officers in carrying out paragraphs (1) and (2):
 
@@ -2727,7 +2727,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >             “(C) The Director of the Federal Bureau of Investigation.
 
->         “(4) __Communist chinese military company.—__ 
+>         “(4)  __Communist chinese military company__  __.—__ 
 
 >         For purposes of making the determination required by paragraph (1) and of carrying out paragraph (2), the term ‘Communist Chinese military company’ means—
 
@@ -2741,7 +2741,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                 “(ii) is engaged in providing commercial services, manufacturing, producing, or exporting.
 
->     “(c) __People’s Liberation Army.—__ 
+>     “(c)  __People’s Liberation Army__  __.—__ 
 
 >     For purposes of this section, the term ‘People’s Liberation Army’ means the land, naval, and air military services, the police, and the intelligence services of the Communist Government of the People’s Republic of China, and any member of any such service or of such police.”
 
@@ -2771,11 +2771,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 > “SEC. 4. __MULTILATERAL REGIME.__ 
 
->     “(a) __Multilateral Negotiations.—__ 
+>     “(a)  __Multilateral Negotiations__  __.—__ 
 
 >     In order to further the objectives of section 3, the Congress urges the President to commence immediately diplomatic efforts, both in appropriate international fora such as the United Nations, and bilaterally with allies of the United States, to establish a multilateral sanctions regime against Iran, including provisions limiting the development of petroleum resources, that will inhibit Iran’s efforts to carry out activities described in section 2.
 
->     “(b) __Reports to Congress.—__ 
+>     “(b)  __Reports to Congress__  __.—__ 
 
 >     The President shall report to the appropriate congressional committees, not later than 1 year after the date of the enactment of this Act \[Aug. 5, 1996\], and periodically thereafter, on the extent that diplomatic efforts described in subsection (a) have been successful. Each report shall include—
 
@@ -2785,13 +2785,13 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >     “(c) __Waiver.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
->             “(A) __General waiver.—__ 
+>             “(A)  __General waiver__  __.—__ 
 
 >             The President may, on a case by case basis, waive for a period of not more than six months the application of section 5(a) with respect to a national of a country, if the President certifies to the appropriate congressional committees at least 30 days before such waiver is to take effect that such waiver is vital to the national security interests of the United States.
 
->             “(B) __Waiver with respect to persons in countries that cooperate in multilateral efforts with respect to iran.—__ 
+>             “(B)  __Waiver with respect to persons in countries that cooperate in multilateral efforts with respect to iran__  __.—__ 
 
 >             The President may, on a case by case basis, waive for a period of not more than 12 months the application of section 5(a) with respect to a person if the President, at least 30 days before the waiver is to take effect—
 
@@ -2817,7 +2817,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                          “(II) the actions taken by the government described in clause (i)(I) to cooperate in multilateral efforts described in that clause.
 
->         “(2) __Subsequent renewal of waiver.—__ 
+>         “(2)  __Subsequent renewal of waiver__  __.—__ 
 
 >         At the conclusion of the period of a waiver under subparagraph (A) or (B) of paragraph (1), the President may renew the waiver—
 
@@ -2829,7 +2829,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                 “(ii) in the case of a waiver under subparagraph (B) of paragraph (1), for subsequent periods of not more than 12 months each.
 
->     “(d) __Interim Report on Multilateral Sanctions; Monitoring.—__ 
+>     “(d)  __Interim Report on Multilateral Sanctions; Monitoring__  __.—__ 
 
 >     The President, not later than 90 days after the date of the enactment of this Act, shall report to the appropriate congressional committees on—
 
@@ -2841,15 +2841,15 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >     “(e) __Investigations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The President shall initiate an investigation into the possible imposition of sanctions under section 5(a) against a person upon receipt by the United States of credible information indicating that such person is engaged in an activity described in such section.
 
->         “(2) __Determination and notification.—__ 
+>         “(2)  __Determination and notification__  __.—__ 
 
 >         Not later than 180 days after an investigation is initiated in accordance with paragraph (1), the President shall (unless paragraph (3) applies) determine, pursuant to section 5(a), if a person has engaged in an activity described in such section and shall notify the appropriate congressional committees of the basis for any such determination.
 
->         “(3) __Special rule.—__ 
+>         “(3)  __Special rule__  __.—__ 
 
 >         The President need not initiate an investigation, and may terminate an investigation, under this subsection if the President certifies in writing to the appropriate congressional committees that—
 
@@ -2857,7 +2857,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >             “(B) the President has received reliable assurances that the person will not knowingly engage in an activity described in section 5(a) in the future.
 
->     “(f) __Briefings on Implementation.—__ 
+>     “(f)  __Briefings on Implementation__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 \[Aug. 10, 2012\], and every 120 days thereafter, the President, acting through the Secretary of State, shall provide to the appropriate congressional committees a comprehensive briefing on efforts to implement this Act.
 
@@ -2867,7 +2867,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(1) __Development of petroleum resources of iran.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subsection (f), the President shall impose 5 or more of the sanctions described in section 6(a) with respect to a person if the President determines that the person knowingly, on or after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 \[Aug. 10, 2012\]—
 
@@ -2875,13 +2875,13 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                 “(ii) makes a combination of investments described in subparagraph (B) in a 12-month period if each such investment is of at least $5,000,000 and such investments equal or exceed $20,000,000 in the aggregate.
 
->             “(B) __Investment described.—__ 
+>             “(B)  __Investment described__  __.—__ 
 
 >             An investment described in this subparagraph is an investment that directly and significantly contributes to the enhancement of Iran’s ability to develop petroleum resources.
 
 >         “(2) __Production of refined petroleum products.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subsection (f), the President shall impose 5 or more of the sanctions described in section 6(a) with respect to a person if the President determines that the person knowingly, on or after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 \[Aug. 10, 2012\], sells, leases, or provides to Iran goods, services, technology, information, or support described in subparagraph (B)—
 
@@ -2889,13 +2889,13 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                 “(ii) that, during a 12-month period, have an aggregate fair market value of $5,000,000 or more.
 
->             “(B) __Goods, services, technology, information, or support described.—__ 
+>             “(B)  __Goods, services, technology, information, or support described__  __.—__ 
 
 >             Goods, services, technology, information, or support described in this subparagraph are goods, services, technology, information, or support that could directly and significantly facilitate the maintenance or expansion of Iran’s domestic production of refined petroleum products, including any direct and significant assistance with respect to the construction, modernization, or repair of petroleum refineries or directly associated infrastructure, including construction of port facilities, railways, and roads, the primary use of which is to support the delivery of refined petroleum products.
 
 >         “(3) __Exportation of refined petroleum products to iran.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subsection (f), the President shall impose 5 or more of the sanctions described in section 6(a) with respect to a person if the President determines that the person knowingly, on or after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 \[Aug. 10, 2012\]—
 
@@ -2915,7 +2915,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                          “(II) that, during a 12-month period, have an aggregate fair market value of $5,000,000 or more.
 
->             “(B) __Goods, services, technology, information, or support described.—__ 
+>             “(B)  __Goods, services, technology, information, or support described__  __.—__ 
 
 >             Goods, services, technology, information, or support described in this subparagraph are goods, services, technology, information, or support that could directly and significantly contribute to the enhancement of Iran’s ability to import refined petroleum products, including—
 
@@ -2929,13 +2929,13 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                 “(v) purchasing, subscribing to, or facilitating the issuance of sovereign debt of the Government of Iran, including governmental bonds, issued on or after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012.
 
->             “(C) __Exception for underwriters and insurance providers exercising due diligence.—__ 
+>             “(C)  __Exception for underwriters and insurance providers exercising due diligence__  __.—__ 
 
 >             The President may not impose sanctions under this paragraph with respect to a person that provides underwriting services or insurance or reinsurance if the President determines that the person has exercised due diligence in establishing and enforcing official policies, procedures, and controls to ensure that the person does not underwrite or enter into a contract to provide insurance or reinsurance for the sale, lease, or provision of goods, services, technology, information, or support described in subparagraph (B).
 
 >         “(4) __Joint ventures with iran relating to developing petroleum resources.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (B) or subsection (f), the President shall impose 5 or more of the sanctions described in section 6(a) with respect to a person if the President determines that the person knowingly participates, on or after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 \[Aug. 10, 2012\], in a joint venture with respect to the development of petroleum resources outside of Iran if—
 
@@ -2947,13 +2947,13 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                     “(II) Iran could, through a direct operational role in the joint venture or by other means, receive technological knowledge or equipment not previously available to Iran that could directly and significantly contribute to the enhancement of Iran’s ability to develop petroleum resources in Iran.
 
->             “(B) __Applicability.—__ 
+>             “(B)  __Applicability__  __.—__ 
 
 >             Subparagraph (A) shall not apply with respect to participation in a joint venture established on or after January 1, 2002, and before the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012, if the person participating in the joint venture terminates that participation not later than the date that is 180 days after such date of enactment.
 
 >         “(5) __Support for the development of petroleum resources and refined petroleum products in iran.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subsection (f), the President shall impose 5 or more of the sanctions described in section 6(a) with respect to a person if the President determines that the person knowingly, on or after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 \[Aug. 10, 2012\], sells, leases, or provides to Iran goods, services, technology, or support described in subparagraph (B)—
 
@@ -2961,7 +2961,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                 “(ii) that, during a 12-month period, have an aggregate fair market value of $5,000,000 or more.
 
->             “(B) __Goods, services, technology, or support described.—__ 
+>             “(B)  __Goods, services, technology, or support described__  __.—__ 
 
 >             Goods, services, technology, or support described in this subparagraph are goods, services, technology, or support that could directly and significantly contribute to the maintenance or enhancement of Iran’s—
 
@@ -2971,7 +2971,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(6) __Development and purchase of petrochemical products from iran.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subsection (f), the President shall impose 5 or more of the sanctions described in section 6(a) with respect to a person if the President determines that the person knowingly, on or after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 \[Aug. 10, 2012\], sells, leases, or provides to Iran goods, services, technology, or support described in subparagraph (B)—
 
@@ -2979,13 +2979,13 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                 “(ii) that, during a 12-month period, have an aggregate fair market value of $1,000,000 or more.
 
->             “(B) __Goods, services, technology, or support described.—__ 
+>             “(B)  __Goods, services, technology, or support described__  __.—__ 
 
 >             Goods, services, technology, or support described in this subparagraph are goods, services, technology, or support that could directly and significantly contribute to the maintenance or expansion of Iran’s domestic production of petrochemical products.
 
 >         “(7) __Transportation of crude oil from iran.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subsection (f), the President shall impose 5 or more of the sanctions described in section 6(a) with respect to a person if the President determines that—
 
@@ -2999,17 +2999,17 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >             “(B) __Applicability of sanctions.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Except as provided in clause (ii), subparagraph (A) shall apply with respect to the transportation of crude oil from Iran only if a determination of the President under section 1245(d)(4)(B) of the National Defense Authorization Act for Fiscal Year 2012 ([22 U.S.C. 8513a(d)(4)(B)][/us/usc/t22/s8513a/d/4/B]) that there is a sufficient supply of petroleum and petroleum products produced in countries other than Iran to permit purchasers of petroleum and petroleum products from Iran to reduce significantly their purchases from Iran is in effect at the time of the transportation of the crude oil.
 
->                 “(ii) __Exception for certain countries.—__ 
+>                 “(ii)  __Exception for certain countries__  __.—__ 
 
 >                 Subparagraph (A) shall not apply with respect to the transportation of crude oil from Iran to a country to which the exception under paragraph (4)(D) of section 1245(d) of the National Defense Authorization Act for Fiscal Year 2012 ([22 U.S.C. 8513a(d)][/us/usc/t22/s8513a/d]) to the imposition of sanctions under paragraph (1) of that section applies at the time of the transportation of the crude oil.
 
 >         “(8) __Concealing iranian origin of crude oil and refined petroleum products.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subsection (f), the President shall impose 5 or more of the sanctions described in section 6(a) with respect to a person if the President determines that the person is a controlling beneficial owner, or otherwise owns, operates, or controls, a vessel that, on or after the date that is 90 days after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 \[Aug. 10, 2012\], is used, with actual knowledge in the case of a person that is a controlling beneficial owner or knowingly in the case of a person that otherwise owns, operates, or controls the vessel, in a manner that conceals the Iranian origin of crude oil or refined petroleum products transported on the vessel, including by—
 
@@ -3025,11 +3025,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                          “(III) any other entity determined by the President to be owned or controlled by the Government of Iran or an entity specified in subclause (II).
 
->             “(B) __Additional sanction.—__ 
+>             “(B)  __Additional sanction__  __.—__ 
 
 >             Subject to such regulations as the President may prescribe and in addition to the sanctions imposed under subparagraph (A), the President may prohibit a vessel owned, operated, or controlled by a person, including a controlling beneficial owner, with respect to which the President has imposed sanctions under that subparagraph and that was used for the activity for which the President imposed those sanctions from landing at a port in the United States for a period of not more than 2 years after the date on which the President imposed those sanctions.
 
->             “(C) __Vessels identified by the office of foreign assets control.—__ 
+>             “(C)  __Vessels identified by the office of foreign assets control__  __.—__ 
 
 >             For purposes of subparagraph (A)(ii), a person shall be deemed to have actual knowledge that a vessel is owned, operated, or controlled by the Government of Iran or an entity specified in subclause (II) or (III) of subparagraph (A)(ii) if the International Maritime Organization vessel registration identification for the vessel is—
 
@@ -3037,7 +3037,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                 “(ii) identified by the Office of Foreign Assets Control as a vessel in which the Government of Iran or any entity specified in subclause (II) or (III) of subparagraph (A)(ii) has an interest.
 
->             “(D) __Definition of iranian origin.—__ 
+>             “(D)  __Definition of iranian origin__  __.—__ 
 
 >             For purposes of subparagraph (A), the term ‘Iranian origin’ means—
 
@@ -3045,13 +3045,13 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                 “(ii) with respect to a refined petroleum product, that the refined petroleum product was produced or refined in Iran.
 
->         “(9) __Exception for provision of underwriting services and insurance and reinsurance.—__ 
+>         “(9)  __Exception for provision of underwriting services and insurance and reinsurance__  __.—__ 
 
 >         The President may not impose sanctions under paragraph (7) or (8) with respect to a person that provides underwriting services or insurance or reinsurance if the President determines that the person has exercised due diligence in establishing and enforcing official policies, procedures, and controls to ensure that the person does not provide underwriting services or insurance or reinsurance for the transportation of crude oil or refined petroleum products from Iran in a manner for which sanctions may be imposed under either such paragraph.
 
->     “(b) __Mandatory Sanctions With Respect to Development of Weapons of Mass Destruction or Other Military Capabilities.—__ 
+>     “(b)  __Mandatory Sanctions With Respect to Development of Weapons of Mass Destruction or Other Military Capabilities__  __.—__ 
 
->         “(1) __Exports, transfers, and transshipments.—__ 
+>         “(1)  __Exports, transfers, and transshipments__  __.—__ 
 
 >         Except as provided in subsection (f), the President shall impose 5 or more of the sanctions described in section 6(a) with respect to a person if the President determines that the person—
 
@@ -3073,7 +3073,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(2) __Joint ventures relating to the mining, production, or transportation of uranium.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (B) or subsection (f), the President shall impose 5 or more of the sanctions described in section 6(a) with respect to a person if the President determines that the person knowingly participated, on or after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 \[Aug. 10, 2012\], in a joint venture that involves any activity relating to the mining, production, or transportation of uranium—
 
@@ -3107,17 +3107,17 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                              “(cc) Iran could, through a direct operational role or by other means, receive technological knowledge or equipment not previously available to Iran that could contribute materially to the ability of Iran to develop nuclear weapons or related technologies.
 
->             “(B) __Applicability of sanctions.—__ 
+>             “(B)  __Applicability of sanctions__  __.—__ 
 
 >             Subparagraph (A) shall not apply with respect to participation in a joint venture established before the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 if the person participating in the joint venture terminates that participation not later than the date that is 180 days after such date of enactment.
 
 >         “(3) __Additional mandatory sanctions relating to transfer of nuclear technology.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraphs (B) and (C), in any case in which a person is subject to sanctions under paragraph (1) or (2) because of an activity described in that paragraph that relates to the acquisition or development of nuclear weapons or related technology or of missiles or advanced conventional weapons that are designed or modified to deliver a nuclear weapon, no license may be issued for the export, and no approval may be given for the transfer or retransfer, directly or indirectly, to the country the government of which has primary jurisdiction over the person, of any nuclear material, facilities, components, or other goods, services, or technology that are or would be subject to an agreement for cooperation between the United States and that government.
 
->             “(B) __Exception.—__ 
+>             “(B)  __Exception__  __.—__ 
 
 >             The sanctions described in subparagraph (A) shall not apply with respect to a country the government of which has primary jurisdiction over a person that engages in an activity described in that subparagraph if the President determines and notifies the appropriate congressional committees that the government of the country—
 
@@ -3125,7 +3125,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                 “(ii) has taken, or is taking, all reasonable steps necessary to prevent a recurrence of the activity and to penalize the person for the activity.
 
->             “(C) __Individual approval.—__ 
+>             “(C)  __Individual approval__  __.—__ 
 
 >             Notwithstanding subparagraph (A), the President may, on a case-by-case basis, approve the issuance of a license for the export, or approve the transfer or retransfer, of any nuclear material, facilities, components, or other goods, services, or technology that are or would be subject to an agreement for cooperation, to a person in a country to which subparagraph (A) applies (other than a person that is subject to the sanctions under paragraph (1) or (2)) if the President—
 
@@ -3133,19 +3133,19 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                 “(ii) not later than 15 days before issuing such license or approving such transfer or retransfer, submits to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate the justification for approving such license, transfer, or retransfer.
 
->             “(D) __Construction.—__ 
+>             “(D)  __Construction__  __.—__ 
 
 >             The restrictions in subparagraph (A) shall apply in addition to all other applicable procedures, requirements, and restrictions contained in the Atomic Energy Act of 1954 \[[42 U.S.C. 2011][/us/usc/t42/s2011] et seq.\] and other related laws.
 
->             “(E) __Definition.—__ 
+>             “(E)  __Definition__  __.—__ 
 
 >             In this paragraph, the term ‘agreement for cooperation’ has the meaning given that term in section 11 b. of the Atomic Energy Act of 1954 ([42 U.S.C. 2014(b)][/us/usc/t42/s2014/b]).
 
->             “(F) __Applicability.—__ 
+>             “(F)  __Applicability__  __.—__ 
 
 >             The sanctions under subparagraph (A) shall apply only in a case in which a person is subject to sanctions under paragraph (1) or (2) because of an activity described in paragraph (1) or (2), as the case may be\[,\] in which the person engages on or after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 \[Aug. 10, 2012\].
 
->     “(c) __Persons Against Which the Sanctions Are To Be Imposed.—__ 
+>     “(c)  __Persons Against Which the Sanctions Are To Be Imposed__  __.—__ 
 
 >     The sanctions described in subsection (a) and paragraphs (1) and (2) of subsection (b) shall be imposed on—
 
@@ -3163,15 +3163,15 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         For purposes of this Act, any person or entity described in this subsection shall be referred to as a ‘sanctioned person’.
 
->     “(d) __Publication in Federal Register.—__ 
+>     “(d)  __Publication in Federal Register__  __.—__ 
 
 >     The President shall cause to be published in the Federal Register a current list of persons and entities on whom sanctions have been imposed under this Act. The removal of persons or entities from, and the addition of persons and entities to, the list, shall also be so published.
 
->     “(e) __Publication of Projects.—__ 
+>     “(e)  __Publication of Projects__  __.—__ 
 
 >     The President shall cause to be published in the Federal Register a list of all significant projects which have been publicly tendered in the oil and gas sector in Iran.
 
->     “(f) __Exceptions.—__ 
+>     “(f)  __Exceptions__  __.—__ 
 
 >     The President shall not be required to apply or maintain the sanctions under subsection (a) or paragraph (1) or (2) of subsection (b)—
 
@@ -3205,15 +3205,15 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 > “SEC. 6. __DESCRIPTION OF SANCTIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The sanctions to be imposed on a sanctioned person under section 5 are as follows:
 
->         “(1) __Export-import bank assistance for exports to sanctioned persons.—__ 
+>         “(1)  __Export-import bank assistance for exports to sanctioned persons__  __.—__ 
 
 >         The President may direct the Export-Import Bank of the United States not to give approval to the issuance of any guarantee, insurance, extension of credit, or participation in the extension of credit in connection with the export of any goods or services to any sanctioned person.
 
->         “(2) __Export sanction.—__ 
+>         “(2)  __Export sanction__  __.—__ 
 
 >         The President may order the United States Government not to issue any specific license and not to grant any other specific permission or authority to export any goods or technology to a sanctioned person under—
 
@@ -3225,37 +3225,37 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >             “(iv) any other statute that requires the prior review and approval of the United States Government as a condition for the export or reexport of goods or services.
 
->         “(3) __Loans from united states financial institutions.—__ 
+>         “(3)  __Loans from united states financial institutions__  __.—__ 
 
 >         The United States Government may prohibit any United States financial institution from making loans or providing credits to any sanctioned person totaling more than $10,000,000 in any 12-month period unless such person is engaged in activities to relieve human suffering and the loans or credits are provided for such activities.
 
->         “(4) __Prohibitions on financial institutions.—__ 
+>         “(4)  __Prohibitions on financial institutions__  __.—__ 
 
 >         The following prohibitions may be imposed against a sanctioned person that is a financial institution:
 
->             “(A) __Prohibition on designation as primary dealer.—__ 
+>             “(A)  __Prohibition on designation as primary dealer__  __.—__ 
 
 >             Neither the Board of Governors of the Federal Reserve System nor the Federal Reserve Bank of New York may designate, or permit the continuation of any prior designation of, such financial institution as a primary dealer in United States Government debt instruments.
 
->             “(B) __Prohibition on service as a repository of government funds.—__ 
+>             “(B)  __Prohibition on service as a repository of government funds__  __.—__ 
 
 >             Such financial institution may not serve as agent of the United States Government or serve as repository for United States Government funds.
 
 >             The imposition of either sanction under subparagraph (A) or (B) shall be treated as 1 sanction for purposes of section 5, and the imposition of both such sanctions shall be treated as 2 sanctions for purposes of section 5.
 
->         “(5) __Procurement sanction.—__ 
+>         “(5)  __Procurement sanction__  __.—__ 
 
 >         The United States Government may not procure, or enter into any contract for the procurement of, any goods or services from a sanctioned person.
 
->         “(6) __Foreign exchange.—__ 
+>         “(6)  __Foreign exchange__  __.—__ 
 
 >         The President may, pursuant to such regulations as the President may prescribe, prohibit any transactions in foreign exchange that are subject to the jurisdiction of the United States and in which the sanctioned person has any interest.
 
->         “(7) __Banking transactions.—__ 
+>         “(7)  __Banking transactions__  __.—__ 
 
 >         The President may, pursuant to such regulations as the President may prescribe, prohibit any transfers of credit or payments between financial institutions or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of the sanctioned person.
 
->         “(8) __Property transactions.—__ 
+>         “(8)  __Property transactions__  __.—__ 
 
 >         The President may, pursuant to such regulations as the President may prescribe, prohibit any person from—
 
@@ -3265,19 +3265,19 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >             “(C) conducting any transaction involving such property.
 
->         “(9) __Ban on investment in equity or debt of sanctioned person.—__ 
+>         “(9)  __Ban on investment in equity or debt of sanctioned person__  __.—__ 
 
 >         The President may, pursuant to such regulations or guidelines as the President may prescribe, prohibit any United States person from investing in or purchasing significant amounts of equity or debt instruments of a sanctioned person.
 
->         “(10) __Exclusion of corporate officers.—__ 
+>         “(10)  __Exclusion of corporate officers__  __.—__ 
 
 >         The President may direct the Secretary of State to deny a visa to, and the Secretary of Homeland Security to exclude from the United States, any alien that the President determines is a corporate officer or principal of, or a shareholder with a controlling interest in, a sanctioned person.
 
->         “(11) __Sanctions on principal executive officers.—__ 
+>         “(11)  __Sanctions on principal executive officers__  __.—__ 
 
 >         The President may impose on the principal executive officer or officers of any sanctioned person, or on persons performing similar functions and with similar authorities as such officer or officers, any of the sanctions under this subsection.
 
->         “(12) __Additional sanctions.—__ 
+>         “(12)  __Additional sanctions__  __.—__ 
 
 >         The President may impose sanctions, as appropriate, to restrict imports with respect to a sanctioned person, in accordance with the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] and following).
 
@@ -3285,55 +3285,55 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(1) __Modification of federal acquisition regulation.—__ 
 
->             “(A) __Certifications relating to activities described in section 5.—__ 
+>             “(A)  __Certifications relating to activities described in section 5__  __.—__ 
 
 >             Not later than 90 days after the date of the enactment of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 \[July 1, 2010\], the Federal Acquisition Regulation shall be revised to require a certification from each person that is a prospective contractor that the person, and any person owned or controlled by the person, does not engage in any activity for which sanctions may be imposed under section 5.
 
->             “(B) __Certifications relating to transactions with iran’s revolutionary guard corps.—__ 
+>             “(B)  __Certifications relating to transactions with iran’s revolutionary guard corps__  __.—__ 
 
 >             Not later than 120 days after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 \[Aug. 10, 2012\], the Federal Acquisition Regulation shall be revised to require a certification from each person that is a prospective contractor that the person, and any person owned or controlled by the person, does not knowingly engage in a significant transaction or transactions with Iran’s Revolutionary Guard Corps or any of its officials, agents, or affiliates the property and interests in property of which are blocked pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.).
 
 >         “(2) __Remedies.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             If the head of an executive agency determines that a person has submitted a false certification under paragraph (1) on or after the date on which the applicable revision of the Federal Acquisition Regulation required by this subsection becomes effective, the head of that executive agency shall terminate a contract with such person or debar or suspend such person from eligibility for Federal contracts for a period of not less than 2 years. Any such debarment or suspension shall be subject to the procedures that apply to debarment and suspension under the Federal Acquisition Regulation under subpart 9.4 of part 9 of title 48, Code of Federal Regulations.
 
->             “(B) __Inclusion on list of parties excluded from federal procurement and nonprocurement programs.—__ 
+>             “(B)  __Inclusion on list of parties excluded from federal procurement and nonprocurement programs__  __.—__ 
 
 >             The Administrator of General Services shall include on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs maintained by the Administrator under part 9 of the Federal Acquisition Regulation each person that is debarred, suspended, or proposed for debarment or suspension by the head of an executive agency on the basis of a determination of a false certification under subparagraph (A).
 
->         “(3) __Clarification regarding certain products.—__ 
+>         “(3)  __Clarification regarding certain products__  __.—__ 
 
 >         The remedies set forth in paragraph (2) shall not apply with respect to the procurement of eligible products, as defined in section 308(4) of the Trade Agreements Act of 1974 \[1979\] ([19 U.S.C. 2518(4)][/us/usc/t19/s2518/4]), of any foreign country or instrumentality designated under section 301(b) of that Act ([19 U.S.C. 2511(b)][/us/usc/t19/s2511/b]).
 
->         “(4) __Rule of construction.—__ 
+>         “(4)  __Rule of construction__  __.—__ 
 
 >         This subsection shall not be construed to limit the use of other remedies available to the head of an executive agency or any other official of the Federal Government on the basis of a determination of a false certification under paragraph (1).
 
->         “(5) __Waivers.—__ 
+>         “(5)  __Waivers__  __.—__ 
 
 >         The President may on a case-by-case basis waive the requirement that a person make a certification under paragraph (1) if the President determines and certifies in writing to the appropriate congressional committees, the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives, that it is essential to the national security interests of the United States to do so.
 
->         “(6) __Definitions.—__ 
+>         “(6)  __Definitions__  __.—__ 
 
 >         In this subsection:
 
->             “(A) __Executive agency.—__ 
+>             “(A)  __Executive agency__  __.—__ 
 
 >             The term ‘executive agency’ has the meaning given that term in [section 133 of title 41][/us/usc/t41/s133], United States Code.
 
->             “(B) __Federal acquisition regulation.—__ 
+>             “(B)  __Federal acquisition regulation__  __.—__ 
 
 >             The term ‘Federal Acquisition Regulation’ means the regulation issued pursuant to [section 1303(a)(1) of title 41][/us/usc/t41/s1303/a/1], United States Code.
 
 >         “(7) __Applicability.—__ 
 
->             “(A) __Certifications relating to activities described in section 5.—__ 
+>             “(A)  __Certifications relating to activities described in section 5__  __.—__ 
 
 >             The revisions to the Federal Acquisition Regulation required under paragraph (1)(A) shall apply with respect to contracts for which solicitations are issued on or after the date that is 90 days after the date of the enactment of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 \[July 1, 2010\].
 
->             “(B) __Certifications relating to transactions with iran’s revolutionary guard corps.—__ 
+>             “(B)  __Certifications relating to transactions with iran’s revolutionary guard corps__  __.—__ 
 
 >             The revisions to the Federal Acquisition Regulation required under paragraph (1)(B) shall apply with respect to contracts for which solicitations are issued on or after the date that is 120 days after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 \[Aug. 10, 2012\].
 
@@ -3363,23 +3363,23 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >     “(a) __Delay of Sanctions.—__ 
 
->         “(1) __Consultations.—__ 
+>         “(1)  __Consultations__  __.—__ 
 
 >         If the President makes a determination described in subsection (a) or paragraph (1) or (2) of subsection (b) of section 5 with respect to a foreign person, the Congress urges the President to initiate consultations immediately with the government with primary jurisdiction over that foreign person with respect to the imposition of sanctions under this Act.
 
->         “(2) __Actions by government of jurisdiction.—__ 
+>         “(2)  __Actions by government of jurisdiction__  __.—__ 
 
 >         In order to pursue consultations under paragraph (1) with the government concerned, the President may delay imposition of sanctions under this Act for up to 90 days. Following such consultations, the President shall immediately impose sanctions unless the President determines and certifies to the Congress that the government has taken specific and effective actions, including, as appropriate, the imposition of appropriate penalties, to terminate the involvement of the foreign person in the activities that resulted in the determination by the President under subsection (a) or paragraph (1) or (2) of subsection (b) of section 5 concerning such person.
 
->         “(3) __Additional delay in imposition of sanctions.—__ 
+>         “(3)  __Additional delay in imposition of sanctions__  __.—__ 
 
 >         The President may delay the imposition of sanctions for up to an additional 90 days if the President determines and certifies to the Congress that the government with primary jurisdiction over the person concerned is in the process of taking the actions described in paragraph (2).
 
->         “(4) __Report to congress.—__ 
+>         “(4)  __Report to congress__  __.—__ 
 
 >         Not later than 90 days after making a determination under subsection (a) or paragraph (1) or (2) of subsection (b) of section 5, the President shall submit to the appropriate congressional committees a report on the status of consultations with the appropriate foreign government under this subsection, and the basis for any determination under paragraph (3).
 
->     “(b) __Duration of Sanctions.—__ 
+>     “(b)  __Duration of Sanctions__  __.—__ 
 
 >     A sanction imposed under section 5 shall remain in effect—
 
@@ -3391,19 +3391,19 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(1) __Authority.—__ 
 
->             “(A) __Sanctions relating to the energy sector of iran.—__ 
+>             “(A)  __Sanctions relating to the energy sector of iran__  __.—__ 
 
 >             The President may waive, on a case-by-case basis and for a period of not more than one year, the requirement in section 5(a) to impose a sanction or sanctions on a person described in section 5(c), and may waive the continued imposition of a sanction or sanctions under subsection (b) of this section, 30 days or more after the President determines and so reports to the appropriate congressional committees that it is essential to the national security interests of the United States to exercise such waiver authority.
 
->             “(B) __Sanctions relating to development of weapons of mass destruction or other military capabilities.—__ 
+>             “(B)  __Sanctions relating to development of weapons of mass destruction or other military capabilities__  __.—__ 
 
 >             The President may waive, on a case-by-case basis and for a period of not more than one year, the requirement in paragraph (1) or (2) of section 5(b) to impose a sanction or sanctions on a person described in section 5(c), and may waive the continued imposition of a sanction or sanctions under subsection (b) of this section, 30 days or more after the President determines and so reports to the appropriate congressional committees that it is vital to the national security interests of the United States to exercise such waiver authority.
 
->             “(C) __Renewal of waivers.—__ 
+>             “(C)  __Renewal of waivers__  __.—__ 
 
 >             The President may renew, on a case-by-case basis, a waiver with respect to a person under subparagraph (A) or (B) for additional one-year periods if, not later than 30 days before the waiver expires, the President makes the determination and submits to the appropriate congressional committees the report described in subparagraph (A) or (B), as applicable.
 
->         “(2) __Contents of report.—__ 
+>         “(2)  __Contents of report__  __.—__ 
 
 >         Any report under paragraph (1) shall provide a specific and detailed rationale for the determination under paragraph (1), including—
 
@@ -3427,13 +3427,13 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >             “(D) a statement as to the response of the United States in the event that the person concerned engages in other activities that would be subject to subsection (a) or paragraph (1) or (2) of subsection (b) of section 5.
 
->         “(3) __Effect of report on waiver.—__ 
+>         “(3)  __Effect of report on waiver__  __.—__ 
 
 >         If the President makes a report under paragraph (1) with respect to a waiver of sanctions on a person described in section 5(c), sanctions need not be imposed under subsection (a) or paragraph (1) or (2) of subsection (b) of section 5 on that person during the 30-day period referred to in paragraph (1).
 
 > “SEC. 10. __REPORTS REQUIRED.__ 
 
->     “(a) __Report on Certain International Initiatives.—__ 
+>     “(a)  __Report on Certain International Initiatives__  __.—__ 
 
 >     Not later than 6 months after the date of the enactment of this Act \[Aug. 5, 1996\], and every 6 months thereafter, the President shall transmit a report to the appropriate congressional committees describing—
 
@@ -3445,7 +3445,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(4) Iran’s use of Iranian diplomats and representatives of other government and military or quasi-governmental institutions of Iran to promote acts of international terrorism or to develop or sustain Iran’s nuclear, chemical, biological, and missile weapons programs.
 
->     “(b) __Report on Effectiveness of Actions Under This Act.—__ 
+>     “(b)  __Report on Effectiveness of Actions Under This Act__  __.—__ 
 
 >     Not earlier than 24 months, and not later than 30 months, after the date of the enactment of the ILSA Extension Act of 2001 \[Aug. 3, 2001\], the President shall transmit to Congress a report that describes—
 
@@ -3461,7 +3461,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         The President may include in the report the President’s recommendation on whether or not this Act should be terminated or modified.
 
->     “(c) __Other Reports.—__ 
+>     “(c)  __Other Reports__  __.—__ 
 
 >     The President shall ensure the continued transmittal to the Congress of reports describing—
 
@@ -3469,7 +3469,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(2) the support provided by Iran for acts of international terrorism, as part of the Department of State’s annual report on international terrorism.
 
->     “(d) __Reports on Global Trade Relating to Iran.—__ 
+>     “(d)  __Reports on Global Trade Relating to Iran__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 \[July 1, 2010\], and annually thereafter, the President shall submit to the appropriate congressional committees a report, with respect to the most recent 12-month period for which data are available, on the dollar value amount of trade, including in the energy sector, between Iran and each country maintaining membership in the Group of 20 Finance Ministers and Central Bank Governors.
 
@@ -3483,11 +3483,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 > “SEC. 13. __EFFECTIVE DATE; SUNSET.__ 
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     This Act shall take effect on the date of the enactment of this Act \[Aug. 5, 1996\].
 
->     “(b) __Sunset.—__ 
+>     “(b)  __Sunset__  __.—__ 
 
 >     This Act shall cease to be effective on December 31, 2016.
 
@@ -3495,7 +3495,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 > “As used in this Act:
 
->     “(1) __Act of international terrorism.—__ 
+>     “(1)  __Act of international terrorism__  __.—__ 
 
 >     The term ‘act of international terrorism’ means an act—
 
@@ -3511,15 +3511,15 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >             “(iii) to affect the conduct of a government by assassination or kidnapping.
 
->     “(2) __Appropriate congressional committees.—__ 
+>     “(2)  __Appropriate congressional committees__  __.—__ 
 
 >     The term ‘appropriate congressional committees’ means the Committee on Finance, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Foreign Relations of the Senate and the Committee on Ways and Means, the Committee on Financial Services, and the Committee on Foreign Affairs of the House of Representatives.
 
->     “(3) __Component part.—__ 
+>     “(3)  __Component part__  __.—__ 
 
 >     The term ‘component part’ has the meaning given that term in section 11A(e)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2410a(e)(1)).
 
->     “(4) __Credible information.—__ 
+>     “(4)  __Credible information__  __.—__ 
 
 >     The term ‘credible information’, with respect to a person—
 
@@ -3545,11 +3545,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >                      “(II) a report or publication of a similarly reputable governmental organization or trade or industry organization.
 
->     “(5) __Develop and development.—__ 
+>     “(5)  __Develop and development__  __.—__ 
 
 >     To ‘develop’, or the ‘development’ of, petroleum resources means the exploration for, or the extraction, refining, or transportation by pipeline of, petroleum resources.
 
->     “(6) __Financial institution.—__ 
+>     “(6)  __Financial institution__  __.—__ 
 
 >     The term ‘financial institution’ includes—
 
@@ -3563,11 +3563,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(E) any other company that provides financial services.
 
->     “(7) __Finished product.—__ 
+>     “(7)  __Finished product__  __.—__ 
 
 >     The term ‘finished product’ has the meaning given that term in section 11A(e)(2) of the Export Administration Act of 1979 (50 U.S.C. App. 2410a(e)(2)).
 
->     “(8) __Foreign person.—__ 
+>     “(8)  __Foreign person__  __.—__ 
 
 >     The term ‘foreign person’ means—
 
@@ -3575,11 +3575,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(B) a corporation, partnership, or other nongovernmental entity which is not a United States person.
 
->     “(9) __Goods and technology.—__ 
+>     “(9)  __Goods and technology__  __.—__ 
 
 >     The terms ‘goods’ and ‘technology’ have the meanings given those terms in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415).
 
->     “(10) __Investment.—__ 
+>     “(10)  __Investment__  __.—__ 
 
 >     The term ‘investment’ means any of the following activities if such activity is undertaken pursuant to an agreement, or pursuant to the exercise of rights under such an agreement, that is entered into with the Government of Iran or a nongovernmental entity in Iran on or after the date of the enactment of this Act \[Aug. 5, 1996\]:
 
@@ -3591,11 +3591,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         For purposes of this paragraph, an amendment or other modification that is made, on or after June 13, 2001, to an agreement or contract shall be treated as the entry of an agreement or contract.
 
->     “(11) __Iran.—__ 
+>     “(11)  __Iran__  __.—__ 
 
 >     The term ‘Iran’ includes any agency or instrumentality of Iran.
 
->     “(12) __Iranian diplomats and representatives of other government and military or quasi-governmental institutions of iran.—__ 
+>     “(12)  __Iranian diplomats and representatives of other government and military or quasi-governmental institutions of iran__  __.—__ 
 
 >     The term ‘Iranian diplomats and representatives of other government and military or quasi-governmental institutions of Iran’ includes employees, representatives, or affiliates of Iran’s—
 
@@ -3623,17 +3623,17 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(L) Ministry of Islamic Guidance.
 
->     “(13) __Knowingly.—__ 
+>     “(13)  __Knowingly__  __.—__ 
 
 >     The term ‘knowingly’, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
 
->     “(14) __Nuclear explosive device.—__ 
+>     “(14)  __Nuclear explosive device__  __.—__ 
 
 >     The term ‘nuclear explosive device’ means any device, whether assembled or disassembled, that is designed to produce an instantaneous release of an amount of nuclear energy from special nuclear material (as defined in section 11(aa) of the Atomic Energy Act of 1954 \[[42 U.S.C. 2014(aa)][/us/usc/t42/s2014/aa]\]) that is greater than the amount of energy that would be released from the detonation of one pound of trinitrotoluene (TNT).
 
->     “(15) __Person.—__ 
+>     “(15)  __Person__  __.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The term ‘person’ means—
 
@@ -3643,31 +3643,31 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >             “(iii) any successor to any entity described in clause (ii).
 
->         “(B) __Application to governmental entities.—__ 
+>         “(B)  __Application to governmental entities__  __.—__ 
 
 >         The term ‘person’ does not include a government or governmental entity that is not operating as a business enterprise.
 
->     “(16) __Petrochemical product.—__ 
+>     “(16)  __Petrochemical product__  __.—__ 
 
 >     The term ‘petrochemical product’ includes any aromatic, olefin, or synthesis gas, and any derivative of such a gas, including ethylene, propylene, butadiene, benzene, toluene, xylene, ammonia, methanol, and urea.
 
->     “(17) __Petroleum resources.—__ 
+>     “(17)  __Petroleum resources__  __.—__ 
 
 >     The term ‘petroleum resources’ includes petroleum, refined petroleum products, oil or liquefied natural gas, natural gas resources, oil or liquefied natural gas tankers, and products used to construct or maintain pipelines used to transport oil or liquefied natural gas.
 
->     “(18) __Refined petroleum products.—__ 
+>     “(18)  __Refined petroleum products__  __.—__ 
 
 >     The term ‘refined petroleum products’ means diesel, gasoline, jet fuel (including naphtha-type and kerosene-type jet fuel), and aviation gasoline.
 
->     “(19) __Services.—__ 
+>     “(19)  __Services__  __.—__ 
 
 >     The term ‘services’ includes software, hardware, financial, professional consulting, engineering, and specialized energy information services, energy-related technical assistance, and maintenance and repairs.
 
->     “(20) __United states or state.—__ 
+>     “(20)  __United states or state__  __.—__ 
 
 >     The term ‘United States’ or ‘State’ means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the United States Virgin Islands, and any other territory or possession of the United States.
 
->     “(21) __United states person.—__ 
+>     “(21)  __United states person__  __.—__ 
 
 >     The term ‘United States person’ means—
 
@@ -3793,7 +3793,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 599\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–127, provided that:
 
->     “(a) __Continuation of Executive Branch Sanctions.—__ 
+>     “(a)  __Continuation of Executive Branch Sanctions__  __.—__ 
 
 >     The sanctions listed in subsection (b) shall remain in effect for fiscal year 2000, unless the President submits to the Committees on Appropriations and Foreign Relations in the Senate and the Committees on Appropriations and International Relations \[now Foreign Affairs\] of the House of Representatives a certification described in subsection (c).
 
@@ -3809,7 +3809,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(5) The Secretary of State should instruct the United States Representatives to the Southeast European Cooperative Initiative (SECI) to oppose and to work to prevent the extension of SECI membership to Serbia.
 
->     “(c) __Certification.—__ 
+>     “(c)  __Certification__  __.—__ 
 
 >     A certification described in this subsection is a certification that—
 
@@ -3823,33 +3823,33 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(5) Serbian federal governmental officials, and representatives of the ethnic Albanian community in Kosova have agreed on, signed, and begun implementation of a negotiated settlement on the future status of Kosova.
 
->     “(d) __Statement of Policy.—__ 
+>     “(d)  __Statement of Policy__  __.—__ 
 
 >     It is the sense of the Congress that the United States should not restore full diplomatic relations with Serbia until the President submits to the Committees on Appropriations and Foreign Relations in the Senate and the Committees on Appropriations and International Relations \[now Foreign Affairs\] in the House of Representatives the certification described in subsection (c).
 
->     “(e) __Exemption of Montenegro and Kosova.—__ 
+>     “(e)  __Exemption of Montenegro and Kosova__  __.—__ 
 
 >     The sanctions described in subsection (b) shall not apply to Montenegro or Kosova.
 
->     “(f) __Definition.—__ 
+>     “(f)  __Definition__  __.—__ 
 
 >     The term ‘international financial institution’ includes the International Monetary Fund, the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Multilateral Investment Guaranty Agency, and the European Bank for Reconstruction and Development.
 
->     “(g) __Waiver Authority.—__ 
+>     “(g)  __Waiver Authority__  __.—__ 
 
 >     The President may waive the application in whole or in part, of any sanction described in subsection (b) if the President certifies to the Congress that the President has determined that the waiver is necessary to meet emergency humanitarian needs.”
 
 [Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title V, § 539\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–182, provided that:
 
->     “(a) __Restrictions.—__ 
+>     “(a)  __Restrictions__  __.—__ 
 
 >     None of the funds in this or any other Act may be made available to modify or remove any sanction, prohibition or requirement with respect to Serbia-Montenegro unless the President first submits to the Congress a certification described in subsection (c).
 
->     “(b) __International Financial Institutions.—__ 
+>     “(b)  __International Financial Institutions__  __.—__ 
 
 >     The Secretary of the Treasury shall instruct the United States executive directors of the international financial institutions to work in opposition to, and vote against, any extension by such institutions of any financial or technical assistance or grants of any kind to the government of Serbia-Montenegro, unless the President first submits to the Congress a certification described in subsection (c).
 
->     “(c) __Certification.—__ 
+>     “(c)  __Certification__  __.—__ 
 
 >     A certification described in this subsection is a certification that—
 
@@ -3861,11 +3861,11 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(4) the government of Serbia-Montenegro is fully complying with its obligations as a signatory to the General Framework Agreement for Peace in Bosnia-Herzegovina including fully cooperating with the International Criminal Tribunal for the Former Yugoslavia.
 
->     “(d) __Waiver Authority.—__ 
+>     “(d)  __Waiver Authority__  __.—__ 
 
 >     The President may waive the application, in whole or in part, of subsections (a) and (b) if he certifies in writing to the Congress that the waiver is necessary to meet emergency humanitarian needs or to advance negotiations toward a peaceful settlement of the conflict in Kosova that is acceptable to the parties.
 
->     “(e) __Exemption for Montenegro.—__ 
+>     “(e)  __Exemption for Montenegro__  __.—__ 
 
 >     This section shall not apply to Montenegro.”
 
@@ -3879,7 +3879,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 103–160, div. A, title XV, § 1511][/us/pl/103/160/s1511], Nov. 30, 1993, [107 Stat. 1839][/us/stat/107/1839], provided that:
 
->     “(a) __Codification of Executive Branch Sanctions.—__ 
+>     “(a)  __Codification of Executive Branch Sanctions__  __.—__ 
 
 >     The sanctions imposed on Serbia and Montenegro, as in effect on the date of the enactment of this Act \[Nov. 30, 1993\], that were imposed by or pursuant to the following directives of the executive branch shall (except as provided under subsections (d) and (e)) remain in effect until changed by law:
 
@@ -3899,19 +3899,19 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(8) Federal Aviation Administration action of June 19, 1992 (14 C.F.R. Part 91).
 
->     “(b) __Prohibition on Assistance.—__ 
+>     “(b)  __Prohibition on Assistance__  __.—__ 
 
 >     No funds appropriated or otherwise made available by law may be obligated or expended on behalf of the government of Serbia or the government of Montenegro.
 
->     “(c) __International Financial Institutions.—__ 
+>     “(c)  __International Financial Institutions__  __.—__ 
 
 >     The Secretary of the Treasury shall instruct the United States executive director of each international financial institution to use the voice and vote of the United States to oppose any assistance from that institution to the government of Serbia or the government of Montenegro, except for basic human needs.
 
->     “(d) __Exception.—__ 
+>     “(d)  __Exception__  __.—__ 
 
 >     Notwithstanding any other provision of law, the President is authorized and encouraged to exempt from sanctions imposed against Serbia and Montenegro that are described in subsection (a) those United States-supported programs, projects, or activities that involve reform of the electoral process, the development of democratic institutions or democratic political parties, or humanitarian assistance (including refugee care and human rights observation).
 
->     “(e) __Waiver Authority.—__ 
+>     “(e)  __Waiver Authority__  __.—__ 
 
 >         (1) The President may waive or modify the application, in whole or in part, of any sanction described in subsection (a), the prohibition in subsection (b), or the requirement in subsection (c).
 
@@ -3939,17 +3939,17 @@ Provisions suspending sanctions imposed on the governments of Serbia and Montene
 
 > “SEC. 1602. __UNITED STATES POLICY.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     It shall be the policy of the United States to oppose, and urgently to seek the agreement of other nations also to oppose, any transfer to Iran or Iraq of any goods or technology, including dual-use goods or technology, wherever that transfer could materially contribute to either country’s acquiring chemical, biological, nuclear, or destabilizing numbers and types of advanced conventional weapons.
 
->     “(b) __Sanctions.—__ 
+>     “(b)  __Sanctions__  __.—__ 
 
 >         (1) In the furtherance of this policy, the President shall apply sanctions and controls with respect to Iran, Iraq, and those nations and persons who assist them in acquiring weapons of mass destruction in accordance with the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\], the Nuclear Non-Proliferation Act of 1978 \[[22 U.S.C. 3201][/us/usc/t22/s3201] et seq.\], the Chemical and Biological Weapons Control and Warfare Elimination Act of 1991 \[[22 U.S.C. 5601][/us/usc/t22/s5601] et seq.\], chapter 7 of the Arms Export Control Act \[[22 U.S.C. 2797][/us/usc/t22/s2797] et seq.\], and other relevant statutes, regarding the non-proliferation of weapons of mass destruction and the means of their delivery.
 
 >         “(2) The President should also urgently seek the agreement of other nations to adopt and institute, at the earliest practicable date, sanctions and controls comparable to those the United States is obligated to apply under this subsection.
 
->     “(c) __Public Identification.—__ 
+>     “(c)  __Public Identification__  __.—__ 
 
 >     The Congress calls on the President to identify publicly (in the report required by section 1607) any country or person that transfers goods or technology to Iran or Iraq contrary to the policy set forth in subsection (a).
 
@@ -3959,25 +3959,25 @@ Provisions suspending sanctions imposed on the governments of Serbia and Montene
 
 > “SEC. 1604. __SANCTIONS AGAINST CERTAIN PERSONS.__ 
 
->     “(a) __Prohibition.—__ 
+>     “(a)  __Prohibition__  __.—__ 
 
 >     If any person transfers or retransfers goods or technology so as to contribute knowingly and materially to the efforts by Iran or Iraq (or any agency or instrumentality of either such country) to acquire chemical, biological, or nuclear weapons or to acquire destabilizing numbers and types of advanced conventional weapons, then the sanctions described in subsection (b) shall be imposed.
 
->     “(b) __Mandatory Sanctions.—__ 
+>     “(b)  __Mandatory Sanctions__  __.—__ 
 
 >     The sanctions to be imposed pursuant to subsection (a) are as follows:
 
->         “(1) __Procurement sanction.—__ 
+>         “(1)  __Procurement sanction__  __.—__ 
 
 >         For a period of two years, the United States Government shall not procure, or enter into any contract for the procurement of, any goods or services from the sanctioned person.
 
->         “(2) __Export sanction.—__ 
+>         “(2)  __Export sanction__  __.—__ 
 
 >         For a period of two years, the United States Government shall not issue any license for any export by or to the sanctioned person.
 
 > “SEC. 1605. __SANCTIONS AGAINST CERTAIN FOREIGN COUNTRIES.__ 
 
->     “(a) __Prohibition.—__ 
+>     “(a)  __Prohibition__  __.—__ 
 
 >     If the President determines that the government of any foreign country transfers or retransfers goods or technology so as to contribute knowingly and materially to the efforts by Iran or Iraq (or any agency or instrumentality of either such country) to acquire chemical, biological, or nuclear weapons or to acquire destabilizing numbers and types of advanced conventional weapons, then—
 
@@ -3985,39 +3985,39 @@ Provisions suspending sanctions imposed on the governments of Serbia and Montene
 
 >         “(2) in addition, the President may apply, in the discretion of the President, the sanction described in subsection (c).
 
->     “(b) __Mandatory Sanctions.—__ 
+>     “(b)  __Mandatory Sanctions__  __.—__ 
 
 >     Except as provided in paragraph (2), the sanctions to be imposed pursuant to subsection (a)(1) are as follows:
 
->         “(1) __Suspension of united states assistance.—__ 
+>         “(1)  __Suspension of united states assistance__  __.—__ 
 
 >         The United States Government shall suspend, for a period of one year, United States assistance to the sanctioned country.
 
->         “(2) __Multilateral development bank assistance.—__ 
+>         “(2)  __Multilateral development bank assistance__  __.—__ 
 
 >         The Secretary of the Treasury shall instruct the United States Executive Director to each appropriate international financial institution to oppose, and vote against, for a period of one year, the extension by such institution of any loan or financial or technical assistance to the sanctioned country.
 
->         “(3) __Suspension of codevelopment or coproduction agreements.—__ 
+>         “(3)  __Suspension of codevelopment or coproduction agreements__  __.—__ 
 
 >         The United States shall suspend, for a period of one year, compliance with its obligations under any memorandum of understanding with the sanctioned country for the codevelopment or coproduction of any item on the United States Munitions List (established under section 38 of the Arms Export Control Act \[[22 U.S.C. 2778][/us/usc/t22/s2778]\]), including any obligation for implementation of the memorandum of understanding through the sale to the sanctioned country of technical data or assistance or the licensing for export to the sanctioned country of any component part.
 
->         “(4) __Suspension of military and dual-use technical exchange agreements.—__ 
+>         “(4)  __Suspension of military and dual-use technical exchange agreements__  __.—__ 
 
 >         The United States shall suspend, for a period of one year, compliance with its obligations under any technical exchange agreement involving military and dual-use technology between the United States and the sanctioned country that does not directly contribute to the security of the United States, and no military or dual-use technology may be exported from the United States to the sanctioned country pursuant to that agreement during that period.
 
->         “(5) __United states munitions list.—__ 
+>         “(5)  __United states munitions list__  __.—__ 
 
 >         No item on the United States Munitions List (established pursuant to section 38 of the Arms Export Control Act) may be exported to the sanctioned country for a period of one year.
 
->     “(c) __Discretionary Sanction.—__ 
+>     “(c)  __Discretionary Sanction__  __.—__ 
 
 >     The sanction referred to in subsection (a)(2) is as follows:
 
->         “(1) __Use of authorities of international emergency economic powers act.—__ 
+>         “(1)  __Use of authorities of international emergency economic powers act__  __.—__ 
 
 >         Except as provided in paragraph (2), the President may exercise, in accordance with the provisions of that Act \[[50 U.S.C. 1701][/us/usc/t50/s1701] et seq.\], the authorities of the International Emergency Economic Powers Act with respect to the sanctioned country.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         Paragraph (1) does not apply with respect to urgent humanitarian assistance.
 
@@ -4029,7 +4029,7 @@ Provisions suspending sanctions imposed on the governments of Serbia and Montene
 
 >     “\[(a) Repealed. [Pub. L. 107–228, div. B, title XIII, § 1308(g)(1)(C)][/us/pl/107/228/s1308/g/1/C], Sept. 30, 2002, [116 Stat. 1441][/us/stat/116/1441].\]
 
->     “(b) __Report on Individual Transfers.—__ 
+>     “(b)  __Report on Individual Transfers__  __.—__ 
 
 >     Whenever the President determines that a person or foreign government has made a transfer which is subject to any sanction under this title, the President shall, within 30 days after such transfer, submit to the Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs of the House of Representatives a report—
 
@@ -4037,7 +4037,7 @@ Provisions suspending sanctions imposed on the governments of Serbia and Montene
 
 >         “(2) describing the actions the President intends to undertake or has undertaken under the provisions of this title with respect to each such transfer.
 
->     “(c) __Form of Transmittal.—__ 
+>     “(c)  __Form of Transmittal__  __.—__ 
 
 >     Reports required by this section may be submitted in classified as well as in unclassified form.
 
@@ -4121,37 +4121,37 @@ Provisions suspending sanctions imposed on the governments of Serbia and Montene
 
 > “SEC. 586C. __TRADE EMBARGO AGAINST IRAQ.__ 
 
->     “(a) __Continuation of Embargo.—__ 
+>     “(a)  __Continuation of Embargo__  __.—__ 
 
 >     Except as otherwise provided in this section, the President shall continue to impose the trade embargo and other economic sanctions with respect to Iraq and Kuwait that the United States is imposing, in response to Iraq’s invasion of Kuwait, pursuant to Executive Orders Numbered 12724 and 12725 \[listed in a table below\] (August 9, 1990) and, to the extent they are still in effect, Executive Orders Numbered 12722 and 12723 \[listed in a table below\] (August 2, 1990). Notwithstanding any other provision of law, no funds, credits, guarantees, or insurance appropriated or otherwise made available by this or any other Act for fiscal year 1991 or any fiscal year thereafter shall be used to support or administer any financial or commercial operation of any United States Government department, agency, or other entity, or of any person subject to the jurisdiction of the United States, for the benefit of the Government of Iraq, its agencies or instrumentalities, or any person working on behalf of the Government of Iraq, contrary to the trade embargo and other economic sanctions imposed in accordance with this section.
 
->     “(b) __Humanitarian Assistance.—__ 
+>     “(b)  __Humanitarian Assistance__  __.—__ 
 
 >     To the extent that transactions involving foodstuffs or payments for foodstuffs are exempted ‘in humanitarian circumstances’ from the prohibitions established by the United States pursuant to United Nations Security Council Resolution 661 (1990), those exemptions shall be limited to foodstuffs that are to be provided consistent with United Nations Security Council Resolution 666 (1990) and other relevant Security Council resolutions.
 
 >     “(c) __Notice to Congress of Exceptions to and Termination of Sanctions.—__ 
 
->         “(1) __Notice of regulations.—__ 
+>         “(1)  __Notice of regulations__  __.—__ 
 
 >         Any regulations issued after the date of enactment of this Act \[Nov. 5, 1990\] with respect to the economic sanctions imposed with respect to Iraq and Kuwait by the United States under Executive Orders Numbered 12722 and 12723 (August 2, 1990) and Executive Orders Numbered 12724 and 12725 (August 9, 1990) shall be submitted to the Congress before those regulations take effect.
 
->         “(2) __Notice of termination of sanctions.—__ 
+>         “(2)  __Notice of termination of sanctions__  __.—__ 
 
 >         The President shall notify the Congress at least 15 days before the termination, in whole or in part, of any sanction imposed with respect to Iraq or Kuwait pursuant to those Executive orders.
 
 >     “(d) __Relation to Other Laws.—__ 
 
->         “(1) __Sanctions legislation.—__ 
+>         “(1)  __Sanctions legislation__  __.—__ 
 
 >         The sanctions that are described in subsection (a) are in addition to, and not in lieu of the sanctions provided for in section 586G of this Act or any other provision of law.
 
->         “(2) __National emergencies and united nations legislation.—__ 
+>         “(2)  __National emergencies and united nations legislation__  __.—__ 
 
 >         Nothing in this section supersedes any provision of the National Emergencies Act \[[50 U.S.C. 1601][/us/usc/t50/s1601] et seq.\] or any authority of the President under the International Emergency Economic Powers Act \[[50 U.S.C. 1701][/us/usc/t50/s1701] et seq.\] or section 5(a) of the United Nations Participation Act of 1945 \[[22 U.S.C. 287c(a)][/us/usc/t22/s287c/a]\].
 
 > “SEC. 586D. __COMPLIANCE WITH UNITED NATIONS SANCTIONS AGAINST IRAQ.__ 
 
->     “(a) __Denial of Assistance.—__ 
+>     “(a)  __Denial of Assistance__  __.—__ 
 
 >     None of the funds appropriated or otherwise made available pursuant to this Act \[see Tables for classification\] to carry out the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\] (including title IV of chapter 2 of part I \[[22 U.S.C. 2191][/us/usc/t22/s2191] et seq.\], relating to the Overseas Private Investment Corporation) or the Arms Export Control Act \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\] may be used to provide assistance to any country that is not in compliance with the United Nations Security Council sanctions against Iraq unless the President determines and so certifies to the Congress that—
 
@@ -4161,7 +4161,7 @@ Provisions suspending sanctions imposed on the governments of Serbia and Montene
 
 >         “(3) the assistance to be provided will be humanitarian assistance for foreign nationals who have fled Iraq and Kuwait.
 
->     “(b) __Import Sanctions.—__ 
+>     “(b)  __Import Sanctions__  __.—__ 
 
 >     If the President considers that the taking of such action would promote the effectiveness of the economic sanctions of the United Nations and the United States imposed with respect to Iraq, and is consistent with the national interest, the President may prohibit, for such a period of time as he considers appropriate, the importation into the United States of any or all products of any foreign country that has not prohibited—
 
@@ -4187,7 +4187,7 @@ Provisions suspending sanctions imposed on the governments of Serbia and Montene
 
 > “SEC. 586F. __DECLARATIONS REGARDING IRAQ’S LONG-STANDING VIOLATIONS OF INTERNATIONAL LAW.__ 
 
->     “(a) __Iraq’s Violations of International Law.—__ 
+>     “(a)  __Iraq’s Violations of International Law__  __.—__ 
 
 >     The Congress determines that—
 
@@ -4213,11 +4213,11 @@ Provisions suspending sanctions imposed on the governments of Serbia and Montene
 
 >         “(11) Iraqi President Saddam Hussein has threatened to use terrorism against other nations in violation of international law and has increased Iraq’s support for the Palestine Liberation Organization and other Palestinian groups that have conducted terrorist acts.
 
->     “(b) __Human Rights Violations.—__ 
+>     “(b)  __Human Rights Violations__  __.—__ 
 
 >     The Congress determines that the Government of Iraq is engaged in a consistent pattern of gross violations of internationally recognized human rights. All provisions of law that impose sanctions against a country whose government is engaged in a consistent pattern of gross violations of internationally recognized human rights shall be fully enforced against Iraq.
 
->     “(c) __Support for International Terrorism.—__ 
+>     “(c)  __Support for International Terrorism__  __.—__ 
 
 >         (1) The Congress determines that Iraq is a country which has repeatedly provided support for acts of international terrorism, a country which grants sanctuary from prosecution to individuals or groups which have committed an act of international terrorism, and a country which otherwise supports international terrorism. The provisions of law specified in paragraph (2) and all other provisions of law that impose sanctions against a country which has repeatedly provided support for acts of international terrorism, which grants sanctuary from prosecution to an individual or group which has committed an act of international terrorism, or which otherwise supports international terrorism shall be fully enforced against Iraq.
 
@@ -4233,7 +4233,7 @@ Provisions suspending sanctions imposed on the governments of Serbia and Montene
 
 >             “(D) section 555 of the International Security and Development Cooperation Act of 1985 \[[99 Stat. 227][/us/stat/99/227]\].
 
->     “(d) __Multilateral Cooperation.—__ 
+>     “(d)  __Multilateral Cooperation__  __.—__ 
 
 >     The Congress calls on the President to seek multilateral cooperation—
 
@@ -4245,63 +4245,63 @@ Provisions suspending sanctions imposed on the governments of Serbia and Montene
 
 > “SEC. 586G. __SANCTIONS AGAINST IRAQ.__ 
 
->     “(a) __Imposition.—__ 
+>     “(a)  __Imposition__  __.—__ 
 
 >     Except as provided in section 586H, the following sanctions shall apply with respect to Iraq:
 
->         “(1) __FMS sales.—__ 
+>         “(1)  __FMS sales__  __.—__ 
 
 >         The United States Government shall not enter into any sale with Iraq under the Arms Export Control Act \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\].
 
->         “(2) __Commercial arms sales.—__ 
+>         “(2)  __Commercial arms sales__  __.—__ 
 
 >         Licenses shall not be issued for the export to Iraq of any item on the United States Munitions List.
 
->         “(3) __Exports of certain goods and technology.—__ 
+>         “(3)  __Exports of certain goods and technology__  __.—__ 
 
 >         The authorities of section 6 of the Export Administration Act of 1979 (50 U.S.C. App. 2405) shall be used to prohibit the export to Iraq of any goods or technology listed pursuant to that section or section 5(c)(1) of that Act (50 U.S.C. App. 2404(c)(1)) on the control list provided for in section 4(b) of that Act (50 U.S.C. App. 2403(b)).
 
 >         “(4) __Nuclear equipment, materials, and technology.—__ 
 
->             “(A) __NRC licenses.—__ 
+>             “(A)  __NRC licenses__  __.—__ 
 
 >             The Nuclear Regulatory Commission shall not issue any license or other authorization under the Atomic Energy Act of 1954 ([42 U.S.C. 2011][/us/usc/t42/s2011] and following) for the export to Iraq of any source or special nuclear material, any production or utilization facility, any sensitive nuclear technology, any component, item, or substance determined to have significance for nuclear explosive purposes pursuant to section 109b. of the Atomic Energy Act of 1954 ([42 U.S.C. 2139(b)][/us/usc/t42/s2139/b]), or any other material or technology requiring such a license or authorization.
 
->             “(B) __Distribution of nuclear materials.—__ 
+>             “(B)  __Distribution of nuclear materials__  __.—__ 
 
 >             The authority of the Atomic Energy Act of 1954 shall not be used to distribute any special nuclear material, source material, or byproduct material to Iraq.
 
->             “(C) __DOE authorizations.—__ 
+>             “(C)  __DOE authorizations__  __.—__ 
 
 >             The Secretary of Energy shall not provide a specific authorization under section 57b.(2) of the Atomic Energy Act of 1954 ([42 U.S.C. 2077(b)(2)][/us/usc/t42/s2077/b/2]) for any activity that would constitute directly or indirectly engaging in Iraq in activities that require a specific authorization under that section.
 
->         “(5) __Assistance from international financial institutions.—__ 
+>         “(5)  __Assistance from international financial institutions__  __.—__ 
 
 >         The United States shall oppose any loan or financial or technical assistance to Iraq by international financial institutions in accordance with section 701 of the International Financial Institutions Act ([22 U.S.C. 262d][/us/usc/t22/s262d]).
 
->         “(6) __Assistance through the export-import bank.—__ 
+>         “(6)  __Assistance through the export-import bank__  __.—__ 
 
 >         Credits and credit guarantees through the Export-Import Bank of the United States shall be denied to Iraq.
 
->         “(7) __Assistance through the commodity credit corporation.—__ 
+>         “(7)  __Assistance through the commodity credit corporation__  __.—__ 
 
 >         Credit, credit guarantees, and other assistance through the Commodity Credit Corporation shall be denied to Iraq.
 
->         “(8) __Foreign assistance.—__ 
+>         “(8)  __Foreign assistance__  __.—__ 
 
 >         All forms of assistance under the Foreign Assistance Act of 1961 ([22 U.S.C. 2151][/us/usc/t22/s2151] and following) other than emergency assistance for medical supplies and other forms of emergency humanitarian assistance, and under the Arms Export Control Act ([22 U.S.C. 2751][/us/usc/t22/s2751] and following) shall be denied to Iraq.
 
->     “(b) __Contract Sanctity.—__ 
+>     “(b)  __Contract Sanctity__  __.—__ 
 
 >     For purposes of the export controls imposed pursuant to subsection (a)(3), the date described in subsection (m)(1) of section 6 of the Export Administration Act of 1979 (50 U.S.C. App. 2405) shall be deemed to be August 1, 1990.
 
 > “SEC. 586H. __WAIVER AUTHORITY.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The President may waive the requirements of any paragraph of section 586G(a) if the President makes a certification under subsection (b) or subsection (c).
 
->     “(b) __Certification of Fundamental Changes in Iraqi Policies and Actions.—__ 
+>     “(b)  __Certification of Fundamental Changes in Iraqi Policies and Actions__  __.—__ 
 
 >     The authority of subsection (a) may be exercised 60 days after the President certifies to the Congress that—
 
@@ -4333,7 +4333,7 @@ Provisions suspending sanctions imposed on the governments of Serbia and Montene
 
 >         “(3) the President has determined that it is essential to the national interests of the United States to exercise the authority of subsection (a).
 
->     “(c) __Certification of Fundamental Changes in Iraqi Leadership and Policies.—__ 
+>     “(c)  __Certification of Fundamental Changes in Iraqi Leadership and Policies__  __.—__ 
 
 >     The authority of subsection (a) may be exercised 30 days after the President certifies to the Congress that—
 
@@ -4351,23 +4351,23 @@ Provisions suspending sanctions imposed on the governments of Serbia and Montene
 
 >             “(D) it is and will continue to be in substantial compliance with its obligations under international law, including all the treaties specified in subparagraphs (A) through (F) of subsection (b)(2).
 
->     “(d) __Information To Be Included in Certifications.—__ 
+>     “(d)  __Information To Be Included in Certifications__  __.—__ 
 
 >     Any certification under subsection (b) or (c) shall include the justification for each determination required by that subsection. The certification shall also specify which paragraphs of section 586G(a) the President will waive pursuant to that certification.
 
 > “SEC. 586I. __DENIAL OF LICENSES FOR CERTAIN EXPORTS TO COUNTRIES ASSISTING IRAQ’S ROCKET OR CHEMICAL, BIOLOGICAL, OR NUCLEAR WEAPONS CAPABILITY.__ 
 
->     “(a) __Restriction on Export Licenses.—__ 
+>     “(a)  __Restriction on Export Licenses__  __.—__ 
 
 >     None of the funds appropriated by this or any other Act may be used to approve the licensing for export of any supercomputer to any country whose government the President determines is assisting, or whose government officials the President determines are assisting, Iraq to improve its rocket technology or chemical, biological, or nuclear weapons capability.
 
->     “(b) __Negotiations.—__ 
+>     “(b)  __Negotiations__  __.—__ 
 
 >     The President is directed to begin immediate negotiations with those governments with which the United States has bilateral supercomputer agreements, including the Government of the United Kingdom and the Government of Japan, on conditions restricting the transfer to Iraq of supercomputer or associated technology.
 
 > “SEC. 586J. __REPORTS TO CONGRESS.__ 
 
->     “(a) __Study and Report on the International Export to Iraq of Nuclear, Biological, Chemical, and Ballistic Missile Technology.—__ 
+>     “(a)  __Study and Report on the International Export to Iraq of Nuclear, Biological, Chemical, and Ballistic Missile Technology__  __.—__ 
 
 >         (1)
 
@@ -4383,13 +4383,13 @@ Provisions suspending sanctions imposed on the governments of Serbia and Montene
 
 >         “(3) Not later than March 30, 1991, the President shall submit to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives, a report, in both classified and unclassified form, setting forth the findings of the study required by paragraph (1) of this subsection.
 
->     “(b) __Study and Report on Iraq’s Offensive Military Capability.—__ 
+>     “(b)  __Study and Report on Iraq’s Offensive Military Capability__  __.—__ 
 
 >         (1) The President shall conduct a study on Iraq’s offensive military capability and its effect on the Middle East balance of power including an assessment of Iraq’s power projection capability, the prospects for another sustained conflict with Iran, joint Iraqi-Jordanian military cooperation, the threat Iraq’s arms transfer activities pose to United States allies in the Middle East, and the extension of Iraq’s political-military influence into Africa and Latin America.
 
 >         “(2) Not later than March 30, 1991, the President shall submit to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives, a report, in both classified and unclassified form, setting forth the findings of the study required by paragraph (1).
 
->     “(c) __Report on Sanctions Taken by Other Nations Against Iraq.—__ 
+>     “(c)  __Report on Sanctions Taken by Other Nations Against Iraq__  __.—__ 
 
 >         (1) The President shall prepare a report on the steps taken by other nations, both before and after the August 2, 1990, invasion of Kuwait, to curtail the export of goods, services, and technologies to Iraq which might contribute to, or enhance, Iraq’s nuclear, biological, chemical, and ballistic missile capability.
 
@@ -4569,13 +4569,15 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Notice of President of the United States, dated May 18, 1998, 63 F.R. 27661.
 
-    Ex. Ord. No. 13310, July 28, 2003, 68 F.R. 44853.
+    Ex. Ord. No. 13310, July 28, 2003, 68 F.R. 44853, as amended by Ex. Ord. No. 13651, § 2, Aug. 6, 2013, 78 F.R. 48793.
 
     Ex. Ord. No. 13448, Oct. 18, 2007, 72 F.R. 60223, as amended by Ex. Ord. No. 13619, § 2(b), July 11, 2012, 77 F.R. 41244.
 
     Ex. Ord. No. 13464, Apr. 30, 2008, 73 F.R. 24491, as amended by Ex. Ord. No. 13619, § 2(a), July 11, 2012, 77 F.R. 41244.
 
     Ex. Ord. No. 13619, July 11, 2012, 77 F.R. 41243.
+
+    Ex. Ord. No. 13651, Aug. 6, 2013, 78 F.R. 48793.
 
  __Colombia__ 
 
@@ -4810,6 +4812,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Ex. Ord. No. 13222, Aug. 17, 2001, 66 F.R. 44025, as amended by Ex. Ord. No. 13637, § 5, Mar. 8, 2013, 78 F.R. 16131.
 
     Continuations of national emergency declared by Ex. Ord. No. 13222 were contained in the following:
+
+    Notice of President of the United States, dated Aug. 8, 2013, 78 F.R. 49107.
 
     Notice of President of the United States, dated Aug. 15, 2012, 77 F.R. 49699.
 
@@ -5644,6 +5648,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/pl/108/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F61
 [/us/pl/108/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F61
 [/us/pl/108/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F61
+[/us/pl/110/286/s5/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F286%2Fs5%2Fi
+[/us/pl/110/286/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F286%2Fs5%2Fb
 [/us/pl/110/286/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F286%2Fs5%2Fa%2F2
 [/us/pl/108/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F61
 [/us/stat/117/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F864

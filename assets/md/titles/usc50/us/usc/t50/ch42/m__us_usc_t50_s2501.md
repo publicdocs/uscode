@@ -77,19 +77,19 @@
 
 [Pub. L. 108–136, div. C, title XXXI, § 3141(a)][/us/pl/108/136/s3141/a], Nov. 24, 2003, [117 Stat. 1752][/us/stat/117/1752], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The purpose of this section \[see Tables for classification\] is to assemble together, without substantive amendment but with technical and conforming amendments of a non-substantive nature, recurring and general provisions of law on Department of Energy national security programs that remain in force in order to consolidate and organize such provisions of law into a single Act intended to comprise general provisions of law on such programs.
 
->     “(2) __Construction of transfers.—__ 
+>     “(2)  __Construction of transfers__  __.—__ 
 
 >     The transfer of a provision of law by this section shall not be construed as amending, altering, or otherwise modifying the substantive effect of such provision.
 
->     “(3) __Treatment of satisfied requirements.—__ 
+>     “(3)  __Treatment of satisfied requirements__  __.—__ 
 
 >     Any requirement in a provision of law transferred under this section (including a requirement that an amendment to law be executed) that has been fully satisfied in accordance with the terms of such provision of law as of the date of transfer under this section shall be treated as so fully satisfied, and shall not be treated as being revived solely by reason of transfer under this section.
 
->     “(4) __Classification.—__ 
+>     “(4)  __Classification__  __.—__ 
 
 >     The provisions of the Atomic Energy Defense Act \[[Pub. L. 107–314, div. D][/us/pl/107/314], [50 U.S.C. 2501][/us/usc/t50/s2501] et seq.\], as amended by this section, shall be classified to the United States Code as a new chapter of title 50, United States Code.”
 

@@ -227,7 +227,7 @@
 
 [Pub. L. 112–277, title III, § 306][/us/pl/112/277/s306], Jan. 14, 2013, [126 Stat. 2472][/us/stat/126/2472], provided that:
 
->     “(a) __Strategy.—__ 
+>     “(a)  __Strategy__  __.—__ 
 
 >     The President shall develop a strategy and a schedule for carrying out the requirements of section 3001(d) of the Intelligence Reform and Terrorism Prevention Act of 2004 ([50 U.S.C. 435b(d)][/us/usc/t50/s435b/d]) \[now [50 U.S.C. 3341(d)][/us/usc/t50/s3341/d]\]. Such strategy and schedule shall include—
 
@@ -235,7 +235,7 @@
 
 >         “(2) a description of the specific circumstances under which a department or agency of the Federal Government may not recognize a security clearance issued by another department or agency of the Federal Government.
 
->     “(b) __Congressional Notification.—__ 
+>     “(b)  __Congressional Notification__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 14, 2013\], the President shall inform Congress of the strategy and schedule developed under subsection (a).”
 

@@ -91,23 +91,23 @@
 
 [Pub. L. 109–364, div. C, title XXXI, § 3114][/us/pl/109/364/s3114], Oct. 17, 2006, [120 Stat. 2505][/us/stat/120/2505], as amended by [Pub. L. 110–417, div. C, title XXXI, § 3115][/us/pl/110/417/s3115], Oct. 14, 2008, [122 Stat. 4757][/us/stat/122/4757], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Energy may, with the concurrence of the Secretary of State, enter into one or more agreements with any person (including a foreign government, international organization, or multinational entity) that the Secretary of Energy considers appropriate under which the person contributes funds for purposes of the International Nuclear Materials Protection and Cooperation program or Russian Plutonium Disposition program of the National Nuclear Security Administration.
 
->     “(b) __Retention and Use of Amounts.—__ 
+>     “(b)  __Retention and Use of Amounts__  __.—__ 
 
 >     Notwithstanding [section 3302 of title 31][/us/usc/t31/s3302], United States Code, the Secretary of Energy may retain and use amounts contributed under an agreement under subsection (a) for purposes of the International Nuclear Materials Protection and Cooperation program or Russian Plutonium Disposition program. Amounts so contributed shall be retained in a separate fund established in the Treasury for such purposes and shall be available for use without further appropriation and without fiscal year limitation.
 
->     “(c) __Return of Amounts Not Used Within 5 Years.—__ 
+>     “(c)  __Return of Amounts Not Used Within__  __5__  __Years__  __.—__ 
 
 >     If an amount contributed under an agreement under subsection (a) is not used under this section within 5 years after it was contributed, the Secretary of Energy shall return that amount to the person who contributed it.
 
->     “(d) __Notice to Congressional Defense Committees.—__ 
+>     “(d)  __Notice to Congressional Defense Committees__  __.—__ 
 
 >     Not later than 30 days after the receipt of an amount contributed under subsection (a), the Secretary of Energy shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a notice specifying the purpose and value of the contribution and identifying the person who contributed it. The Secretary may not use the amount until 15 days after the notice is submitted.
 
->     “(e) __Annual Report.—__ 
+>     “(e)  __Annual Report__  __.—__ 
 
 >     Not later than October 31 of each year, the Secretary of Energy shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the receipt and use of amounts under this section during the preceding fiscal year. Each report for a fiscal year shall set forth—
 
@@ -117,7 +117,7 @@
 
 >         “(3) a statement of the amounts retained but not used under this section, including, for each such amount, the purposes (if known) for which the Secretary intends to use the amount.
 
->     “(f) __Expiration.—__ 
+>     “(f)  __Expiration__  __.—__ 
 
 >     The authority to accept, retain, and use contributions under this section expires on December 31, 2015.”
 
@@ -139,11 +139,11 @@
 
 > “SEC. 1402. __DOMESTIC PREPAREDNESS FOR RESPONSE TO THREATS OF TERRORIST USE OF WEAPONS OF MASS DESTRUCTION.__ 
 
->     “(a) __Enhanced Response Capability.—__ 
+>     “(a)  __Enhanced Response Capability__  __.—__ 
 
 >     In light of the continuing potential for terrorist use of weapons of mass destruction against the United States and the need to develop a more fully coordinated response to that threat on the part of Federal, State, and local agencies, the President shall act to increase the effectiveness at the Federal, State, and local level of the domestic emergency preparedness program for response to terrorist incidents involving weapons of mass destruction by utilizing the President’s existing authorities to develop an integrated program that builds upon the program established under the Defense Against Weapons of Mass Destruction Act of 1996 (title XIV of [Public Law 104–201][/us/pl/104/201]; [110 Stat. 2714][/us/stat/110/2714]; [50 U.S.C. 2301][/us/usc/t50/s2301] et seq.).
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than January 31, 1999, the President shall submit to Congress a report containing information on the actions taken at the Federal, State, and local level to develop an integrated program to prevent and respond to terrorist incidents involving weapons of mass destruction.
 

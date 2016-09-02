@@ -199,11 +199,11 @@
 
 [Pub. L. 108–458, title VI, § 6001(b)][/us/pl/108/458/s6001/b], Dec. 17, 2004, [118 Stat. 3742][/us/stat/118/3742], as amended by [Pub. L. 109–177, title I, § 103][/us/pl/109/177/s103], Mar. 9, 2006, [120 Stat. 195][/us/stat/120/195]; [Pub. L. 111–118, div. B, § 1004(b)][/us/pl/111/118/s1004/b], Dec. 19, 2009, [123 Stat. 3470][/us/stat/123/3470]; [Pub. L. 111–141, § 1(b)][/us/pl/111/141/s1/b], Feb. 27, 2010, [124 Stat. 37][/us/stat/124/37]; [Pub. L. 112–3, § 2(b)][/us/pl/112/3/s2/b], Feb. 25, 2011, [125 Stat. 5][/us/stat/125/5]; [Pub. L. 112–14, § 2(b)][/us/pl/112/14/s2/b], May 26, 2011, [125 Stat. 216][/us/stat/125/216], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall cease to have effect on June 1, 2015.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     With respect to any particular foreign intelligence investigation that began before the date on which the provisions referred to in paragraph (1) cease to have effect, or with respect to any particular offense or potential offense that began or occurred before the date on which the provisions cease to have effect, such provisions shall continue in effect.”
 
@@ -269,13 +269,13 @@
 
 [Pub. L. 110–261, title IV, § 404][/us/pl/110/261/s404], July 10, 2008, [122 Stat. 2474][/us/stat/122/2474], as amended by [Pub. L. 112–238, § 2(b)][/us/pl/112/238/s2/b], Dec. 30, 2012, [126 Stat. 1631][/us/stat/126/1631], provided that:
 
->     “(a) __Transition Procedures for Protect America Act of 2007 Provisions.—__ 
+>     “(a)  __Transition Procedures for Protect America Act of__  __2007 Provisions.—__ 
 
->         “(1) __Continued effect of orders, authorizations, directives.—__ 
+>         “(1)  __Continued effect of orders, authorizations, directives__  __.—__ 
 
 >         Except as provided in paragraph (7), notwithstanding any other provision of law, any order, authorization, or directive issued or made pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978 \[[50 U.S.C. 1805b][/us/usc/t50/s1805b]\], as added by section 2 of the Protect America Act of 2007 ([Public Law 110–55][/us/pl/110/55]; [121 Stat. 552][/us/stat/121/552]), shall continue in effect until the expiration of such order, authorization, or directive.
 
->         “(2) __Applicability of protect america act of 2007 to continued orders, authorizations, directives.—__ 
+>         “(2)  __Applicability of protect america act of 2007 to continued orders, authorizations, directives__  __.—__ 
 
 >         Notwithstanding any other provision of this Act \[see Short Title of 2008 Amendment note above\], any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801][/us/usc/t50/s1801] et seq.)—
 
@@ -289,15 +289,15 @@
 
 >                 “(ii) the date on which final judgment is entered for any petition or other litigation relating to such order, authorization, or directive.
 
->         “(3) __Use of information.—__ 
+>         “(3)  __Use of information__  __.—__ 
 
 >         Information acquired from an acquisition conducted pursuant to an order, authorization, or directive referred to in paragraph (1) shall be deemed to be information acquired from an electronic surveillance pursuant to title I of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801][/us/usc/t50/s1801] et seq.) for purposes of section 106 of such Act ([50 U.S.C. 1806][/us/usc/t50/s1806]), except for purposes of subsection (j) of such section.
 
->         “(4) __Protection from liability.—__ 
+>         “(4)  __Protection from liability__  __.—__ 
 
 >         Subsection (l) of section 105B of the Foreign Intelligence Surveillance Act of 1978 \[[50 U.S.C. 1805b][/us/usc/t50/s1805b](l)\], as added by section 2 of the Protect America Act of 2007, shall continue to apply with respect to any directives issued pursuant to such section 105B.
 
->         “(5) __Jurisdiction of foreign intelligence surveillance court.—__ 
+>         “(5)  __Jurisdiction of foreign intelligence surveillance court__  __.—__ 
 
 >         Notwithstanding any other provision of this Act or of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801][/us/usc/t50/s1801] et seq.), section 103(e) of the Foreign Intelligence Surveillance Act \[of 1978\] ([50 U.S.C. 1803(e)][/us/usc/t50/s1803/e]), as amended by section 5(a) of the Protect America Act of 2007 ([Public Law 110–55][/us/pl/110/55]; [121 Stat. 556][/us/stat/121/556]), shall continue to apply with respect to a directive issued pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978 \[[50 U.S.C. 1805b][/us/usc/t50/s1805b]\], as added by section 2 of the Protect America Act of 2007, until the later of—
 
@@ -307,11 +307,11 @@
 
 >         “(6) __Reporting requirements.—__ 
 
->             “(A) __Continued applicability.—__ 
+>             “(A)  __Continued applicability__  __.—__ 
 
 >             Notwithstanding any other provision of this Act, any amendment made by this Act, the Protect America Act of 2007 ([Public Law 110–55][/us/pl/110/55]) \[see Short Title of 2007 Amendment note above\], or the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801][/us/usc/t50/s1801] et seq.), section 4 of the Protect America Act of 2007 \[[121 Stat. 555][/us/stat/121/555]\] shall continue to apply until the date that the certification described in subparagraph (B) is submitted.
 
->             “(B) __Certification.—__ 
+>             “(B)  __Certification__  __.—__ 
 
 >             The certification described in this subparagraph is a certification—
 
@@ -325,25 +325,25 @@
 
 >         “(7) __Replacement of orders, authorizations, and directives.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             If the Attorney General and the Director of National Intelligence seek to replace an authorization issued pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978 \[[50 U.S.C. 1805b][/us/usc/t50/s1805b]\], as added by section 2 of the Protect America Act of 2007 ([Public Law 110–55][/us/pl/110/55]), with an authorization under section 702 of the Foreign Intelligence Surveillance Act of 1978 \[[50 U.S.C. 1881a][/us/usc/t50/s1881a]\] (as added by section 101(a) of this Act), the Attorney General and the Director of National Intelligence shall, to the extent practicable, submit to the Foreign Intelligence Surveillance Court (as such term is defined in section 701(b)(2) of such Act \[[50 U.S.C. 1881(b)(2)][/us/usc/t50/s1881/b/2]\] (as so added)) a certification prepared in accordance with subsection (g) of such section 702 and the procedures adopted in accordance with subsections (d) and (e) of such section 702 at least 30 days before the expiration of such authorization.
 
->             “(B) __Continuation of existing orders.—__ 
+>             “(B)  __Continuation of existing orders__  __.—__ 
 
 >             If the Attorney General and the Director of National Intelligence seek to replace an authorization made pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978, as added by section 2 of the Protect America Act of 2007 ([Public Law 110–55][/us/pl/110/55]; [121 Stat. 522][/us/stat/121/522]), by filing a certification in accordance with subparagraph (A), that authorization, and any directives issued thereunder and any order related thereto, shall remain in effect, notwithstanding the expiration provided for in subsection (a) of such section 105B, until the Foreign Intelligence Surveillance Court (as such term is defined in section 701(b)(2) of the Foreign Intelligence Surveillance Act of 1978 (as so added)) issues an order with respect to that certification under section 702(i)(3) of such Act (as so added) at which time the provisions of that section and of section 702(i)(4) of such Act (as so added) shall apply.
 
->         “(8) __Effective date.—__ 
+>         “(8)  __Effective date__  __.—__ 
 
 >         Paragraphs (1) through (7) shall take effect as if enacted on August 5, 2007.
 
->     “(b) __Transition Procedures for FISA Amendments Act of 2008 Provisions.—__ 
+>     “(b)  __Transition Procedures for FISA Amendments Act of__  __2008 Provisions.—__ 
 
->         “(1) __Orders in effect on__  __december 31, 2017__  __.—__ 
+>         “(1)  __Orders in effect on __  __december 31, 2017__  __.—__ 
 
 >         Notwithstanding any other provision of this Act, any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801][/us/usc/t50/s1801] et seq.), any order, authorization, or directive issued or made under title VII of the Foreign Intelligence Surveillance Act of 1978 \[[50 U.S.C. 1881][/us/usc/t50/s1881] et seq.\], as amended by section 101(a), shall continue in effect until the date of the expiration of such order, authorization, or directive.
 
->         “(2) __Applicability of title vii of fisa to continued orders, authorizations, directives.—__ 
+>         “(2)  __Applicability of title vii of fisa to continued orders, authorizations, directives__  __.—__ 
 
 >         Notwithstanding any other provision of this Act, any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801][/us/usc/t50/s1801] et seq.), with respect to any order, authorization, or directive referred to in paragraph (1), title VII of such Act, as amended by section 101(a), shall continue to apply until the later of—
 
@@ -351,7 +351,7 @@
 
 >             “(B) the date on which final judgment is entered for any petition or other litigation relating to such order, authorization, or directive.
 
->         “(3) __Challenge of directives; protection from liability; use of information.—__ 
+>         “(3)  __Challenge of directives; protection from liability; use of information__  __.—__ 
 
 >         Notwithstanding any other provision of this Act or of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801][/us/usc/t50/s1801] et seq.)—
 
@@ -367,11 +367,11 @@
 
 >         “(4) __Reporting requirements.—__ 
 
->             “(A) __Continued applicability.—__ 
+>             “(A)  __Continued applicability__  __.—__ 
 
 >             Notwithstanding any other provision of this Act or of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801][/us/usc/t50/s1801] et seq.), section 601(a) of such Act ([50 U.S.C. 1871(a)][/us/usc/t50/s1871/a]), as amended by section 101(c)(2), and sections 702(l) and 707 of such Act, \[[50 U.S.C. 1881a][/us/usc/t50/s1881a](l), 1881f\] as added by section 101(a), shall continue to apply until the date that the certification described in subparagraph (B) is submitted.
 
->             “(B) __Certification.—__ 
+>             “(B)  __Certification__  __.—__ 
 
 >             The certification described in this subparagraph is a certification—
 
@@ -383,7 +383,7 @@
 
 >                 “(iv) that states that the information required to be included in a review, assessment, or report under section 601 of such Act \[[50 U.S.C. 1871][/us/usc/t50/s1871]\], as amended by section 101(c), or section 702(l) or 707 of such Act, as added by section 101(a), relating to any acquisition conducted under title VII of such Act, as amended by section 101(a), has been included in a review, assessment, or report under such section 601, 702(l), or 707.
 
->         “(5) __Transition procedures concerning the targeting of united states persons overseas.—__ 
+>         “(5)  __Transition procedures concerning the targeting of united states persons overseas__  __.—__ 
 
 >         Any authorization in effect on the date of enactment of this Act \[July 10, 2008\] under section 2.5 of Executive Order 12333 \[[50 U.S.C. 3001][/us/usc/t50/s3001] note\] to intentionally target a United States person reasonably believed to be located outside the United States shall continue in effect, and shall constitute a sufficient basis for conducting such an acquisition targeting a United States person located outside the United States until the earlier of—
 

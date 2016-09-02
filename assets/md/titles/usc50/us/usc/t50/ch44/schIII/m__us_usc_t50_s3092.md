@@ -67,11 +67,11 @@
 
 [Pub. L. 102–88, title IV, § 405][/us/pl/102/88/s405], Aug. 14, 1991, [105 Stat. 434][/us/stat/105/434], provided that:
 
->     “(a) __Furnishing of Specific Information.—__ 
+>     “(a)  __Furnishing of Specific Information__  __.—__ 
 
 >     In accordance with title V of the National Security Act of 1947 \[[50 U.S.C. 3091][/us/usc/t50/s3091] et seq.\], the head of any department or agency of the United States involved in any intelligence activities which may pertain to United States military personnel listed as prisoner, missing, or unaccounted for in military actions shall furnish any information or documents in the possession, custody, or control of the department or agency, or person paid by such department or agency, whenever requested by the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate.
 
->     “(b) __Access by Committees and Members of Congress.—__ 
+>     “(b)  __Access by Committees and Members of Congress__  __.—__ 
 
 >     In accordance with Senate Resolution 400, Ninety-Fourth Congress, and House Resolution 658, Ninety-Fifth Congress, the committees named in subsection (a) shall, upon request and under such regulations as the committees have prescribed to protect the classification of such information, make any information described in subsection (a) available to any other committee or any other Member of Congress and appropriately cleared staff.”
 

@@ -675,19 +675,19 @@
 
 [Pub. L. 112–18, title IV, § 402][/us/pl/112/18/s402], June 8, 2011, [125 Stat. 227][/us/stat/125/227], as amended by [Pub. L. 112–277, title III, § 304][/us/pl/112/277/s304], Jan. 14, 2013, [126 Stat. 2471][/us/stat/126/2471], provided that:
 
->     “(a) __Initial Operating Capability.—__ 
+>     “(a)  __Initial Operating Capability__  __.—__ 
 
 >     Not later than October 1, 2013, the Director of National Intelligence shall establish an initial operating capability for an effective automated insider threat detection program for the information resources in each element of the intelligence community in order to detect unauthorized access to, or use or transmission of, classified intelligence.
 
->     “(b) __Full Operating Capability.—__ 
+>     “(b)  __Full Operating Capability__  __.—__ 
 
 >     Not later than October 1, 2014, the Director of National Intelligence shall ensure the program described in subsection (a) has reached full operating capability.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than December 1, 2011, the Director of National Intelligence shall submit to the congressional intelligence committees a report on the resources required to implement the insider threat detection program referred to in subsection (a) and any other issues related to such implementation the Director considers appropriate to include in the report.
 
->     “(d) __Information Resources Defined.—__ 
+>     “(d)  __Information Resources Defined__  __.—__ 
 
 >     In this section, the term ‘information resources’ means networks, systems, workstations, servers, routers, applications, databases, websites, online collaboration environments, and any other information resources in an element of the intelligence community designated by the Director of National Intelligence.”
 
@@ -697,7 +697,7 @@
 
 [Pub. L. 108–458, title I, § 1013][/us/pl/108/458/s1013], Dec. 17, 2004, [118 Stat. 3662][/us/stat/118/3662], provided that:
 
->     “(a) __Development of Procedures.—__ 
+>     “(a)  __Development of Procedures__  __.—__ 
 
 >     The Director of National Intelligence, in consultation with the Secretary of Defense and the Director of the Central Intelligence Agency, shall develop joint procedures to be used by the Department of Defense and the Central Intelligence Agency to improve the coordination and deconfliction of operations that involve elements of both the Armed Forces and the Central Intelligence Agency consistent with national security and the protection of human intelligence sources and methods. Those procedures shall, at a minimum, provide the following:
 
@@ -711,7 +711,7 @@
 
 >         “(2) When appropriate, in cases where the Department of Defense and the Central Intelligence Agency are conducting separate missions in the same geographical area, a mutual agreement on the tactical and strategic objectives for the region and a clear delineation of operational responsibilities to prevent conflict and duplication of effort.
 
->     “(b) __Implementation Report.—__ 
+>     “(b)  __Implementation Report__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of the Act \[Dec. 17, 2004\], the Director of National Intelligence shall submit to the congressional defense committees (as defined in [section 101 of title 10][/us/usc/t10/s101], United States Code) and the congressional intelligence committees (as defined in section 3(7) of the National Security Act of 1947 ([50 U.S.C. 401a(7)][/us/usc/t50/s401a/7]) \[now [50 U.S.C. 3003(7)][/us/usc/t50/s3003/7]\]) a report describing the procedures established pursuant to subsection (a) and the status of the implementation of those procedures.”
 
@@ -719,11 +719,11 @@
 
 [Pub. L. 108–458, title I, § 1017][/us/pl/108/458/s1017], Dec. 17, 2004, [118 Stat. 3670][/us/stat/118/3670], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 180 days after the effective date of this Act \[probably means the effective date of title I of [Pub. L. 108–458][/us/pl/108/458], see Effective Date of 2004 Amendment; Transition Provisions note set out under [section 3001 of this title][/us/usc/t50/s3001]\], the Director of National Intelligence shall establish a process and assign an individual or entity the responsibility for ensuring that, as appropriate, elements of the intelligence community conduct alternative analysis (commonly referred to as ‘red-team analysis’) of the information and conclusions in intelligence products.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 270 days after the effective date of this Act, the Director of National Intelligence shall provide a report to the Select Committee on Intelligence of the Senate and the Permanent Select Committee of the House of Representatives on the implementation of subsection (a).”
 
@@ -731,11 +731,11 @@
 
 [Pub. L. 108–458, title VII, § 7201(e)][/us/pl/108/458/s7201/e], Dec. 17, 2004, [118 Stat. 3813][/us/stat/118/3813], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Director of National Intelligence shall significantly increase resources and personnel to the small classified program that collects and analyzes intelligence on terrorist travel.
 
->     “(2) __Authorization of appropriations.—__ 
+>     “(2)  __Authorization of appropriations__  __.—__ 
 
 >     There are authorized to be appropriated for each of the fiscal years 2005 through 2009 such sums as may be necessary to carry out this subsection.”
 
@@ -743,11 +743,11 @@
 
 [Pub. L. 108–458, title VIII, § 8101][/us/pl/108/458/s8101], Dec. 17, 2004, [118 Stat. 3864][/us/stat/118/3864], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Director of National Intelligence shall establish a formal relationship, including information sharing, between the elements of the intelligence community and the National Infrastructure Simulation and Analysis Center.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of the relationship under subsection (a) shall be to permit the intelligence community to take full advantage of the capabilities of the National Infrastructure Simulation and Analysis Center, particularly vulnerability and consequence analysis, for real time response to reported threats and long term planning for projected threats.”
 
@@ -759,11 +759,11 @@
 
 [Pub. L. 107–306, title III, § 352][/us/pl/107/306/s352], Nov. 27, 2002, [116 Stat. 2401][/us/stat/116/2401], as amended by [Pub. L. 108–458, title I, § 1071(g)(2)(D)][/us/pl/108/458/s1071/g/2/D], Dec. 17, 2004, [118 Stat. 3691][/us/stat/118/3691], provided that:
 
->     “(a) __Method of Transliteration Required.—__ 
+>     “(a)  __Method of Transliteration Required__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Nov. 27, 2002\], the Director of Central Intelligence shall provide for a standardized method for transliterating into the Roman alphabet personal and place names originally rendered in any language that uses an alphabet other than the Roman alphabet.
 
->     “(b) __Use by Intelligence Community.—__ 
+>     “(b)  __Use by Intelligence Community__  __.—__ 
 
 >     The Director of National Intelligence shall ensure the use of the method established under subsection (a) in—
 
@@ -777,29 +777,29 @@
 
 >     “(a) __Survey of Current Standards.—__ 
 
->         “(1) __Survey.—__ 
+>         “(1)  __Survey__  __.—__ 
 
 >         The Director of Central Intelligence shall carry out a survey of current standards for the spelling of foreign names and places, and the use of geographic coordinates for such places, among the elements of the intelligence community.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 90 days after the date of enactment of this Act \[Nov. 20, 1997\], the Director shall submit to the congressional intelligence committees a report on the survey carried out under paragraph (1). The report shall be submitted in unclassified form, but may include a classified annex.
 
 >     “(b) __Guidelines.—__ 
 
->         “(1) __Issuance.—__ 
+>         “(1)  __Issuance__  __.—__ 
 
 >         Not later than 180 days after the date of enactment of this Act, the Director shall issue guidelines to ensure the use of uniform spelling of foreign names and places and the uniform use of geographic coordinates for such places. The guidelines shall apply to all intelligence reports, intelligence products, and intelligence databases prepared and utilized by the elements of the intelligence community.
 
->         “(2) __Basis.—__ 
+>         “(2)  __Basis__  __.—__ 
 
 >         The guidelines under paragraph (1) shall, to the maximum extent practicable, be based on current United States Government standards for the transliteration of foreign names, standards for foreign place names developed by the Board on Geographic Names, and a standard set of geographic coordinates.
 
->         “(3) __Submittal to congress.—__ 
+>         “(3)  __Submittal to congress__  __.—__ 
 
 >         The Director shall submit a copy of the guidelines to the congressional intelligence committees.
 
->     “(c) __Congressional Intelligence Committees Defined.—__ 
+>     “(c)  __Congressional Intelligence Committees Defined__  __.—__ 
 
 >     In this section, the term ‘congressional intelligence committees’ means the following:
 
@@ -831,7 +831,7 @@
 
 > “In this Act \[see Tables for classification\]:
 
->     “(1) __Congressional intelligence committees.—__ 
+>     “(1)  __Congressional intelligence committees__  __.—__ 
 
 >     The term ‘congressional intelligence committees’ means—
 
@@ -839,7 +839,7 @@
 
 >         “(B) the Permanent Select Committee on Intelligence of the House of Representatives.
 
->     “(2) __Intelligence community.—__ 
+>     “(2)  __Intelligence community__  __.—__ 
 
 >     The term ‘intelligence community’ has the meaning given that term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]) \[now [50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]\].”
 

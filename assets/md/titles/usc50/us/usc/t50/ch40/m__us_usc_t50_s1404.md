@@ -17,11 +17,11 @@
 
 ## “SEC. 1404. THREAT AND RISK ASSESSMENTS.
 
->     “(a) __Threat and Risk Assessments.—__ 
+>     “(a)  __Threat and Risk Assessments__  __.—__ 
 
 >     Assistance to Federal, State, and local agencies provided under the program under section 1402 shall include the performance of assessments of the threat and risk of terrorist employment of weapons of mass destruction against cities and other local areas. Such assessments shall be used by Federal, State, and local agencies to determine the training and equipment requirements under this program and shall be performed as a collaborative effort with State and local agencies.
 
->     “(b) __Conduct of Assessments.—__ 
+>     “(b)  __Conduct of Assessments__  __.—__ 
 
 >     The Department of Justice, as lead Federal agency for domestic crisis management in response to terrorism involving weapons of mass destruction, shall—
 

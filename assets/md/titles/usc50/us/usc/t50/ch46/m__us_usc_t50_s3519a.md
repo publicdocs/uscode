@@ -135,15 +135,15 @@
 
 [Pub. L. 104–293, title IV, § 402][/us/pl/104/293/s402], Oct. 11, 1996, [110 Stat. 3468][/us/stat/110/3468], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[Oct. 11, 1996\], the Director of Central Intelligence shall prescribe regulations requiring each employee of the Central Intelligence Agency designated by the Director for such purpose to sign a written agreement restricting the activities of the employee upon ceasing employment with the Central Intelligence Agency. The Director may designate a group or class of employees for such purpose.
 
->     “(b) __Agreement Elements.—__ 
+>     “(b)  __Agreement Elements__  __.—__ 
 
 >     The regulations shall provide that an agreement contain provisions specifying that the employee concerned not represent or advise the government, or any political party, of any foreign country during the three-year period beginning on the cessation of the employee’s employment with the Central Intelligence Agency unless the Director determines that such representation or advice would be in the best interests of the United States.
 
->     “(c) __Disciplinary Actions.—__ 
+>     “(c)  __Disciplinary Actions__  __.—__ 
 
 >     The regulations shall specify appropriate disciplinary actions (including loss of retirement benefits) to be taken against any employee determined by the Director of Central Intelligence to have violated the agreement of the employee under this section.”
 

@@ -123,7 +123,7 @@
 
 [Pub. L. 108–375, div. C, title XXXI, § 3116][/us/pl/108/375/s3116], Oct. 28, 2004, [118 Stat. 2162][/us/stat/118/2162], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding the provisions of the Nuclear Waste Policy Act of 1982 \[[42 U.S.C. 10101][/us/usc/t42/s10101] et seq.\], the requirements of section 202 of the Energy Reorganization Act of 1974 \[[42 U.S.C. 5842][/us/usc/t42/s5842]\], and other laws that define classes of radioactive waste, with respect to material stored at a Department of Energy site at which activities are regulated by a covered State pursuant to approved closure plans or permits issued by the State, the term ‘high-level radioactive waste’ does not include radioactive waste resulting from the reprocessing of spent nuclear fuel that the Secretary of Energy (in this section referred to as the ‘Secretary’), in consultation with the Nuclear Regulatory Commission (in this section referred to as the ‘Commission’), determines—
 
@@ -151,7 +151,7 @@
 
 >                 “(iii) pursuant to plans developed by the Secretary in consultation with the Commission.
 
->     “(b) __Monitoring by Nuclear Regulatory Commission.—__ 
+>     “(b)  __Monitoring by Nuclear Regulatory Commission__  __.—__ 
 
 >         (1) The Commission shall, in coordination with the covered State, monitor disposal actions taken by the Department of Energy pursuant to subparagraphs (A) and (B) of subsection (a)(3) for the purpose of assessing compliance with the performance objectives set out in subpart C of part 61 of title 10, Code of Federal Regulations.
 
@@ -167,11 +167,11 @@
 
 >         “(4) For fiscal years after 2005, the Commission shall include in the budget justification materials submitted to Congress in support of the Commission budget for that fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code) the amounts required, not offset by revenues, for performance under subsection (a) and this subsection.
 
->     “(c) __Inapplicability to Certain Materials.—__ 
+>     “(c)  __Inapplicability to Certain Materials__  __.—__ 
 
 >     Subsection (a) shall not apply to any material otherwise covered by that subsection that is transported from the covered State.
 
->     “(d) __Covered States.—__ 
+>     “(d)  __Covered States__  __.—__ 
 
 >     For purposes of this section, the following States are covered States:
 
@@ -179,7 +179,7 @@
 
 >         “(2) The State of Idaho.
 
->     “(e) __Construction.—__ 
+>     “(e)  __Construction__  __.—__ 
 
 >         (1) Nothing in this section shall impair, alter, or modify the full implementation of any Federal Facility Agreement and Consent Order or other applicable consent decree for a Department of Energy site.
 
@@ -191,7 +191,7 @@
 
 >         “(5) Nothing in this section amends the West Valley Demonstration Act \[[Pub. L. 96–368][/us/pl/96/368]\] ([42 U.S.C. 2121a][/us/usc/t42/s2121a] \[2021a\] note).
 
->     “(f) __Judicial Review.—__ 
+>     “(f)  __Judicial Review__  __.—__ 
 
 >     Judicial review shall be available in accordance with chapter 7 of title 5, United States Code, for the following:
 

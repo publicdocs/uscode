@@ -79,11 +79,11 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XII, § 1234, Oct. 14, 2008, [122 Stat. 4640][/us/stat/122/4640], provided that:
 
->     “(a) __Report Required.—__ 
+>     “(a)  __Report Required__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Oct. 14, 2008\], and annually thereafter, the Director of National Intelligence shall submit to Congress a report on Iran’s capability to produce nuclear weapons. The report required under this subsection may be submitted in classified form.
 
->     “(b) __Matters to Be Included.—__ 
+>     “(b)  __Matters to Be Included__  __.—__ 
 
 >     The report required under subsection (a) shall include the following:
 
@@ -99,7 +99,7 @@
 
 >         “(6) A summary of assessments made by allies of the United States of Iran’s nuclear weapons program and nuclear-capable delivery systems programs.
 
->     “(c) __Notification.—__ 
+>     “(c)  __Notification__  __.—__ 
 
 >     The President shall notify Congress, in writing, within 15 days of determining that—
 

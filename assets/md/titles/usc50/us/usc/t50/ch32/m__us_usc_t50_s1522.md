@@ -97,11 +97,11 @@
 
 [Pub. L. 105–261, div. A, title II, § 247][/us/pl/105/261/s247], Oct. 17, 1998, [112 Stat. 1956][/us/stat/112/1956], provided that:
 
->     “(a) __Review and Modification of Policies and Doctrines.—__ 
+>     “(a)  __Review and Modification of Policies and Doctrines__  __.—__ 
 
 >     The Secretary of Defense shall review the policies and doctrines of the Department of Defense on chemical warfare defense and modify the policies and doctrine as appropriate to achieve the objectives set forth in subsection (b).
 
->     “(b) __Objectives.—__ 
+>     “(b)  __Objectives__  __.—__ 
 
 >     The objectives for the modification of policies and doctrines of the Department of Defense on chemical warfare defense are as follows:
 
@@ -137,11 +137,11 @@
 
 >         “(3) To provide solutions for the concerns and mission requirements that are specifically applicable for one or more of the Armed Forces in a protracted conflict when exposures to chemical agents could be complex, dynamic, and occurring over an extended period.
 
->     “(c) __Research Program.—__ 
+>     “(c)  __Research Program__  __.—__ 
 
 >     The Secretary of Defense shall develop and carry out a plan to establish a research program for determining the effects of exposures to chemical warfare agents of the type described in subsection (b). The research shall be designed to yield results that can guide the Secretary in the evolution of policy and doctrine on exposures to chemical warfare agents and to develop new risk assessment methods and instruments with respect to such exposures. The plan shall state the objectives and scope of the program and include a 5-year funding plan.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than May 1, 1999, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the results of the review under subsection (a) and on the research program developed under subsection (c). The report shall include the following:
 
@@ -155,7 +155,7 @@
 
 [Pub. L. 104–132, title V, § 521(b)][/us/pl/104/132/s521/b], Apr. 24, 1996, [110 Stat. 1286][/us/stat/110/1286], provided that:
 
->     “(1) __Findings.—__ 
+>     “(1)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -167,11 +167,11 @@
 
 >     “(2) __Study of facility.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The President shall establish an interagency task force to determine the feasibility and advisability of establishing a facility that recreates both an urban environment and a suburban environment in such a way as to permit the effective testing, training, and evaluation in such environments of government personnel who are responsible for responding to the use of chemical and biological weapons in the United States.
 
->         “(B) __Description of facility.—__ 
+>         “(B)  __Description of facility__  __.—__ 
 
 >         The facility considered under subparagraph (A) shall include—
 
@@ -187,7 +187,7 @@
 
 >             “(vi) the capacity to test and evaluate the effectiveness of variable sensor arrays (including video, audio, meteorological, chemical, and biosensor arrays) in urban areas and suburban areas.
 
->         “(C) __Sense of congress.—__ 
+>         “(C)  __Sense of congress__  __.—__ 
 
 >         It is the sense of Congress that the facility considered under subparagraph (A) shall, if established—
 

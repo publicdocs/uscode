@@ -121,17 +121,17 @@
 
 [Pub. L. 110–55, § 6][/us/pl/110/55/s6], Aug. 5, 2007, [121 Stat. 556][/us/stat/121/556], as amended by [Pub. L. 110–182, § 1][/us/pl/110/182/s1], Jan. 31, 2008, [122 Stat. 605][/us/stat/122/605]; [Pub. L. 110–261, title IV, § 403(a)(3)][/us/pl/110/261/s403/a/3], July 10, 2008, [122 Stat. 2474][/us/stat/122/2474], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     Except as otherwise provided, the amendments made by this Act \[enacting sections 1805a to 1805c of this title and amending this section\] shall take effect immediately after the date of the enactment of this Act \[Aug. 5, 2007\].
 
 >     “\[(b) Repealed. [Pub. L. 110–261, title IV, § 403(a)(3)][/us/pl/110/261/s403/a/3], July 10, 2008, [122 Stat. 2474][/us/stat/122/2474].\]
 
->     “(c) __Sunset.—__ 
+>     “(c)  __Sunset__  __.—__ 
 
 >     Except as provided in subsection (d), sections 2, 3, 4, and 5 of this Act \[enacting sections 1805a to 1805c of this title and amending this section\], and the amendments made by this Act \[enacting sections 1805a to 1805c of this title and amending this section\], shall cease to have effect 195 days after the date of the enactment of this Act.
 
->     “(d) __Authorizations in Effect.—__ 
+>     “(d)  __Authorizations in Effect__  __.—__ 
 
 >     Authorizations for the acquisition of foreign intelligence information pursuant to the amendments made by this Act, and directives issued pursuant to such authorizations, shall remain in effect until their expiration. Such acquisitions shall be governed by the applicable provisions of such amendments and shall not be deemed to constitute electronic surveillance as that term is defined in section 101(f) of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801(f)][/us/usc/t50/s1801/f]).”
 

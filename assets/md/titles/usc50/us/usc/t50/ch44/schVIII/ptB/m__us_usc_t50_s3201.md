@@ -33,11 +33,11 @@
 
 [Pub. L. 111–259, title III, § 314][/us/pl/111/259/s314], Oct. 7, 2010, [124 Stat. 2666][/us/stat/124/2666], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Director of National Intelligence, in consultation with the National Security Education Board established under section 803(a) of the David L. Boren National Security Education Act of 1991 ([50 U.S.C. 1903(a)][/us/usc/t50/s1903/a]), may establish a pilot program for intensive language instruction in African languages.
 
->     “(b) __Program.—__ 
+>     “(b)  __Program__  __.—__ 
 
 >     A pilot program established under subsection (a) shall provide scholarships for programs that provide intensive language instruction—
 
@@ -45,17 +45,17 @@
 
 >         “(2) both in the United States and in a country in which the language is the native language of a significant portion of the population, as determined by the Director of National Intelligence.
 
->     “(c) __Termination.—__ 
+>     “(c)  __Termination__  __.—__ 
 
 >     A pilot program established under subsection (a) shall terminate on the date that is five years after the date on which such pilot program is established.
 
 >     “(d) __Authorization of Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is authorized to be appropriated to carry out this section $2,000,000.
 
->         “(2) __Availability.—__ 
+>         “(2)  __Availability__  __.—__ 
 
 >         Funds authorized to be appropriated under paragraph (1) shall remain available until the termination of the pilot program in accordance with subsection (c).”
 

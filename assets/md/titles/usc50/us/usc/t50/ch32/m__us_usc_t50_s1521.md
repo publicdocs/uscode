@@ -455,7 +455,7 @@
 
 [Pub. L. 110–181, div. A, title IX, § 922][/us/pl/110/181/s922], Jan. 28, 2008, [122 Stat. 282][/us/stat/122/282], as amended by [Pub. L. 111–383, div. A, title XIV, § 1421(b)(10)][/us/pl/111/383/s1421/b/10], Jan. 7, 2011, [124 Stat. 4420][/us/stat/124/4420], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -475,7 +475,7 @@
 
 >         “(8) Section 921(b)(4) of that Act contained a sense of Congress urging the Secretary of Defense to propose a credible treatment and disposal process with the support of affected communities. In this regard, any such process should provide for sufficient communication and consultation between representatives of the Department of Defense and representatives of affected States and communities.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that—
 

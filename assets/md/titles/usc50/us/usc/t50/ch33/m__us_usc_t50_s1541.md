@@ -45,11 +45,11 @@
 
 [Pub. L. 111–84, div. A, title XII, § 1227][/us/pl/111/84/s1227], Oct. 28, 2009, [123 Stat. 2525][/us/stat/123/2525], as amended by [Pub. L. 111–383, div. A, title XII, § 1233(a)][/us/pl/111/383/s1233/a]–(e), Jan. 7, 2011, [124 Stat. 4396][/us/stat/124/4396], 4397, provided that:
 
->     “(a) __Report Required.—__ 
+>     “(a)  __Report Required__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 2009\], or December 31, 2010, whichever occurs later, and every 180 days thereafter, the Secretary of Defense shall submit to the appropriate congressional committees a report concerning the responsible redeployment of United States Armed Forces from Iraq in accordance with the policy announced by the President on February 27, 2009, and the Agreement Between the United States of America and the Republic of Iraq On the Withdrawal of United States Forces From Iraq and the Organization of Their Activities During Their Temporary Presence in Iraq.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     The report required under subsection (a) shall include the following elements:
 
@@ -79,15 +79,15 @@
 
 >         “(8) A listing and assessment of the anticipated level and type of support to be provided by United States special operations forces to the Government of Iraq and Iraqi special operations forces during the redeployment of United States conventional forces from Iraq. The assessment should include a listing of anticipated critical support from general purpose forces required by United States special operations forces and Iraqi special operations forces. The assessment should also include combat support, including rotary aircraft and intelligence, surveillance, and reconnaissance assets, combat service support, and contractor support needed through December 31, 2011.
 
->     “(c) __Secretary of State Comments.—__ 
+>     “(c)  __Secretary of State Comments__  __.—__ 
 
 >     Prior to submitting the report required under subsection (a), the Secretary of Defense shall provide a copy of the report to the Secretary of State for review. At the request of the Secretary of State, the Secretary of Defense shall include an appendix to the report which contains any comments or additional information that the Secretary of State requests.
 
->     “(d) __Form.—__ 
+>     “(d)  __Form__  __.—__ 
 
 >     The report required under subsection (a) may include a classified annex.
 
->     “(e) __Appropriate Congressional Committees.—__ 
+>     “(e)  __Appropriate Congressional Committees__  __.—__ 
 
 >     In this section, the term ‘appropriate congressional committees’ means—
 
@@ -95,7 +95,7 @@
 
 >         “(2) the Committee on Armed Services, the Committee on Foreign Affairs, the Permanent Select Committee on Intelligence, and the Committee on Appropriations of the House of Representatives.
 
->     “(f) __Termination.—__ 
+>     “(f)  __Termination__  __.—__ 
 
 >     The requirement to submit the report required under subsection (a) shall terminate on September 30, 2012.”
 
@@ -229,7 +229,7 @@
 
 [Pub. L. 106–65, div. A, title XII, § 1232][/us/pl/106/65/s1232], Oct. 5, 1999, [113 Stat. 788][/us/stat/113/788], as amended by [Pub. L. 107–107, div. A, title XII, § 1222][/us/pl/107/107/s1222], Dec. 28, 2001, [115 Stat. 1253][/us/stat/115/1253], provided that:
 
->     “(a) __Limitation on Deployment.—__ 
+>     “(a)  __Limitation on Deployment__  __.—__ 
 
 >     No funds available to the Department of Defense during fiscal year 2000 may be expended after May 31, 2000, for the continuous deployment of United States Armed Forces in Haiti pursuant to the Department of Defense operation designated as Operation Uphold Democracy.
 
@@ -335,11 +335,11 @@
 
 >     “(b) __Statement of Congressional Policy.—__ 
 
->         “(1) __Consultation with the congress.—__ 
+>         “(1)  __Consultation with the congress__  __.—__ 
 
 >         The President should consult closely with the Congress regarding United States policy with respect to Somalia, including in particular the deployment of United States Armed Forces in that country, whether under United Nations or United States command.
 
->         “(2) __Planning.—__ 
+>         “(2)  __Planning__  __.—__ 
 
 >         The United States shall facilitate the assumption of the functions of United States forces by the United Nations.
 
@@ -349,7 +349,7 @@
 
 >             “(B) Such report shall include the status of planning to transfer the function contained in paragraph (2).
 
->         “(4) __Congressional approval.—__ 
+>         “(4)  __Congressional approval__  __.—__ 
 
 >         Upon reporting under the requirements of paragraph (3) Congress believes the President should by November 15, 1993, seek and receive congressional authorization in order for the deployment of United States forces to Somalia to continue.”
 

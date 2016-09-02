@@ -45,11 +45,11 @@
 
 [Pub. L. 110–96, § 2(b)][/us/pl/110/96/s2/b], Oct. 16, 2007, [121 Stat. 1011][/us/stat/121/1011], provided that:
 
->     “(1) __Civil penalties.—__ 
+>     “(1)  __Civil penalties__  __.—__ 
 
 >     Section 206(b) of the International Emergency Economic Powers Act \[[50 U.S.C. 1705(b)][/us/usc/t50/s1705/b]\], as amended by subsection (a), shall apply to violations described in section 206(a) of such Act with respect to which enforcement action is pending or commenced on or after the date of the enactment of this Act \[Oct. 16, 2007\].
 
->     “(2) __Criminal penalties.—__ 
+>     “(2)  __Criminal penalties__  __.—__ 
 
 >     Section 206(c) of the International Emergency Economic Powers Act, as amended by subsection (a), shall apply to violations described in section 206(a) of such Act with respect to which enforcement action is commenced on or after the date of the enactment of this Act.”
 

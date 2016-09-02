@@ -31,15 +31,15 @@
 
 [Pub. L. 108–458, title I, § 1081][/us/pl/108/458/s1081], Dec. 17, 2004, [118 Stat. 3696][/us/stat/118/3696], provided that:
 
->     “(a) __Director of Central Intelligence as Head of Intelligence Community.—__ 
+>     “(a)  __Director of Central Intelligence as Head of Intelligence Community__  __.—__ 
 
 >     Any reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community in any law, regulation, document, paper, or other record of the United States shall be deemed to be a reference to the Director of National Intelligence.
 
->     “(b) __Director of Central Intelligence as Head of CIA.—__ 
+>     “(b)  __Director of Central Intelligence as Head of__  __CIA.—__ 
 
 >     Any reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency in any law, regulation, document, paper, or other record of the United States shall be deemed to be a reference to the Director of the Central Intelligence Agency.
 
->     “(c) __Community Management Staff.—__ 
+>     “(c)  __Community Management Staff__  __.—__ 
 
 >     Any reference to the Community Management Staff in any law, regulation, document, paper, or other record of the United States shall be deemed to be a reference to the staff of the Office of the Director of National Intelligence.”
 
@@ -49,31 +49,31 @@
 
 > “SEC. 1091. __TRANSFER OF COMMUNITY MANAGEMENT STAFF.__ 
 
->     “(a) __Transfer.—__ 
+>     “(a)  __Transfer__  __.—__ 
 
 >     There shall be transferred to the Office of the Director of National Intelligence such staff of the Community Management Staff as of the date of the enactment of this Act \[Dec. 17, 2004\] as the Director of National Intelligence determines to be appropriate, including all functions and activities discharged by the Community Management Staff as of that date.
 
->     “(b) __Administration.—__ 
+>     “(b)  __Administration__  __.—__ 
 
 >     The Director of National Intelligence shall administer the Community Management Staff after the date of the enactment of this Act \[Dec. 17, 2004\] as a component of the Office of the Director of National Intelligence under section 103 of the National Security Act of 1947 \[[50 U.S.C. 3025][/us/usc/t50/s3025]\], as amended by section 1011(a) of this Act.
 
 > “SEC. 1092. __TRANSFER OF TERRORIST THREAT INTEGRATION CENTER.__ 
 
->     “(a) __Transfer.—__ 
+>     “(a)  __Transfer__  __.—__ 
 
 >     There shall be transferred to the National Counterterrorism Center the Terrorist Threat Integration Center (TTIC) or its successor entity, including all functions and activities discharged by the Terrorist Threat Integration Center or its successor entity as of the date of the enactment of this Act \[Dec. 17, 2004\].
 
->     “(b) __Administration.—__ 
+>     “(b)  __Administration__  __.—__ 
 
 >     The Director of the National Counterterrorism Center shall administer the Terrorist Threat Integration Center after the date of the enactment of this Act \[Dec. 17, 2004\] as a component of the Directorate of Intelligence of the National Counterterrorism Center under section 119(i) of the National Security Act of 1947 \[[50 U.S.C. 3056(i)][/us/usc/t50/s3056/i]\], as added by section 1021(a) \[1021\] of this Act.
 
 > “SEC. 1093. __TERMINATION OF POSITIONS OF ASSISTANT DIRECTORS OF CENTRAL INTELLIGENCE.__ 
 
->     “(a) __Termination.—__ 
+>     “(a)  __Termination__  __.—__ 
 
 >     The positions referred to in subsection (b) are hereby abolished.
 
->     “(b) __Covered Positions.—__ 
+>     “(b)  __Covered Positions__  __.—__ 
 
 >     The positions referred to in this subsection are as follows:
 
@@ -99,11 +99,11 @@
 
 > “SEC. 1095. __DIRECTOR OF NATIONAL INTELLIGENCE REPORT ON IMPLEMENTATION OF INTELLIGENCE COMMUNITY REFORM.__ 
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     Not later than one year after the effective date of this Act \[probably means the effective date of title I of [Pub. L. 108–458][/us/pl/108/458], see below\], the Director of National Intelligence shall submit to the congressional intelligence committees a report on the progress made in the implementation of this title \[see Tables for classification\], including the amendments made by this title. The report shall include a comprehensive description of the progress made, and may include such recommendations for additional legislative or administrative action as the Director considers appropriate.
 
->     “(b) __Congressional Intelligence Committees Defined.—__ 
+>     “(b)  __Congressional Intelligence Committees Defined__  __.—__ 
 
 >     In this section, the term ‘congressional intelligence committees’ means—
 
@@ -113,11 +113,11 @@
 
 > “SEC. 1096. __TRANSITIONAL AUTHORITIES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Upon the request of the Director of National Intelligence, the head of any executive agency may, on a reimbursable basis, provide services or detail personnel to the Director of National Intelligence.
 
->     “(b) __Transfer of Personnel.—__ 
+>     “(b)  __Transfer of Personnel__  __.—__ 
 
 >     In addition to any other authorities available under law for such purposes, in the fiscal years 2005 and 2006, the Director of National Intelligence—
 
@@ -127,11 +127,11 @@
 
 > “SEC. 1097. __EFFECTIVE DATES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise expressly provided in this Act \[see Tables for classification\], this title \[see Tables for classification\] and the amendments made by this title shall take effect not later than six months after the date of the enactment of this Act \[Dec. 17, 2004\] \[For determination by the President that certain sections of title I of [Pub. L. 108–458][/us/pl/108/458] take effect earlier than six months after the date of enactment, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note below.\].
 
->     “(b) __Specific Effective Dates.—__ 
+>     “(b)  __Specific Effective Dates__  __.—__ 
 
 >         (1)
 
@@ -813,7 +813,7 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 [Pub. L. 108–487, title VIII, § 803][/us/pl/108/487/s803], Dec. 23, 2004, [118 Stat. 3962][/us/stat/118/3962], provided that:
 
->     “(a) __Head of Intelligence Community.—__ 
+>     “(a)  __Head of Intelligence Community__  __.—__ 
 
 >         (1) During the period beginning on the date of the enactment of this Act \[Dec. 23, 2004\] and ending on the date of the appointment of the Director of National Intelligence \[Apr. 21, 2005\] under section 102 of the National Security Act of 1947, as amended by section 1011(a) of the National Security Intelligence Reform Act of 2004 \[[50 U.S.C. 3023][/us/usc/t50/s3023]\], the Director of Central Intelligence may, acting as the head of the intelligence community, discharge the functions and authorities provided in this Act, and the amendments made by this Act \[see Effective Date of 2004 Amendments note set out under [section 2656f of Title 22][/us/usc/t22/s2656f], Foreign Relations and Intercourse\], to the Director of National Intelligence.
 
@@ -821,7 +821,7 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 >         “(3) Upon the appointment of an individual as Director of National Intelligence under section 102 of the National Security Act of 1947, as so amended, any reference in this Act, or in the classified annex to accompany this Act, to the Director of Central Intelligence as head of the intelligence community shall be deemed to be a reference to the Director of National Intelligence.
 
->     “(b) __Head of Central Intelligence Agency.—__ 
+>     “(b)  __Head of Central Intelligence Agency__  __.—__ 
 
 >         (1) During the period beginning on the date of the enactment of this Act \[Dec. 23, 2004\] and ending on the date of the appointment of the Director of the Central Intelligence Agency under section 104A of the National Security Act of 1947, as amended by section 1011(a) of the National Security Intelligence Reform Act of 2004 \[[50 U.S.C. 3036][/us/usc/t50/s3036]\], the Director of Central Intelligence may, acting as the head of the Central Intelligence Agency, discharge the functions and authorities provided in this Act, and the amendments made by this Act, to the Director of the Central Intelligence Agency.
 
@@ -861,11 +861,11 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 [Pub. L. 108–177, title I, § 106][/us/pl/108/177/s106], Dec. 13, 2003, [117 Stat. 2604][/us/stat/117/2604], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Each requirement to submit a report to the congressional intelligence committees that is included in the joint explanatory statement to accompany the conference report on the bill H.R. 2417 of the One Hundred Eighth Congress \[enacted as [Pub. L. 108–177][/us/pl/108/177]\], or in the classified annex to this Act, is hereby incorporated into this Act, and is hereby made a requirement in law.
 
->     “(b) __Congressional Intelligence Committees Defined.—__ 
+>     “(b)  __Congressional Intelligence Committees Defined__  __.—__ 
 
 >     In this section, the term ‘congressional intelligence committees’ means—
 
@@ -895,11 +895,11 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 > “SEC. 1002. __NATIONAL COMMISSION FOR THE REVIEW OF THE RESEARCH AND DEVELOPMENT PROGRAMS OF THE UNITED STATES INTELLIGENCE COMMUNITY.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established a commission to be known as the ‘National Commission for the Review of the Research and Development Programs of the United States Intelligence Community’ (in this title referred to as the ‘Commission’).
 
->     “(b) __Composition.—__ 
+>     “(b)  __Composition__  __.—__ 
 
 >     The Commission shall be composed of 12 members, as follows:
 
@@ -915,7 +915,7 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 >         “(6) Two members appointed by the minority leader of the House of Representatives, in consultation with the ranking member of the Permanent Select Committee on Intelligence of the House of Representatives, one from Members of the House of Representatives and one from private life.
 
->     “(c) __Membership.—__ 
+>     “(c)  __Membership__  __.—__ 
 
 >         (1)
 
@@ -933,7 +933,7 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 >         “(3) All members of the Commission appointed from private life shall possess an appropriate security clearance in accordance with applicable laws and regulations concerning the handling of classified information.
 
->     “(d) __Co-Chairs.—__ 
+>     “(d)  __Co-Chairs__  __.—__ 
 
 >         (1) The Commission shall have two co-chairs, selected from among the members of the Commission.
 
@@ -941,13 +941,13 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 >         “(3) The individuals who serve as the co-chairs of the Commission shall be jointly agreed upon by the President, the majority leader of the Senate, the minority leader of the Senate, the Speaker of the House of Representatives, and the minority leader of the House of Representatives.
 
->     “(e) __Appointment; Initial Meeting.—__ 
+>     “(e)  __Appointment; Initial Meeting__  __.—__ 
 
 >         (1) Members of the Commission shall be appointed not later than 45 days after the date of the enactment of this Act \[Nov. 27, 2002\].
 
 >         “(2) The Commission shall hold its initial meeting on the date that is 60 days after the date of the enactment of this Act.
 
->     “(f) __Meetings; Quorum; Vacancies.—__ 
+>     “(f)  __Meetings; Quorum; Vacancies__  __.—__ 
 
 >         (1) After its initial meeting, the Commission shall meet upon the call of the co-chairs of the Commission.
 
@@ -957,7 +957,7 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 >         “(4) If vacancies in the Commission occur on any day after 45 days after the date of the enactment of this Act \[Nov. 27, 2002\], a quorum shall consist of a majority of the members of the Commission as of such day.
 
->     “(g) __Actions of Commission.—__ 
+>     “(g)  __Actions of Commission__  __.—__ 
 
 >         (1) The Commission shall act by resolution agreed to by a majority of the members of the Commission voting and present.
 
@@ -965,7 +965,7 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 >         “(3) Any member, agent, or staff of the Commission may, if authorized by the co-chairs of the Commission, take any action which the Commission is authorized to take pursuant to this title.
 
->     “(h) __Duties.—__ 
+>     “(h)  __Duties__  __.—__ 
 
 >     The duties of the Commission shall be—
 
@@ -973,7 +973,7 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 >         “(2) to submit to the congressional intelligence committees, the Director of National Intelligence, and the Secretary of Defense a final report on the results of the review.
 
->     “(i) __Review.—__ 
+>     “(i)  __Review__  __.—__ 
 
 >     The Commission shall review the status of research and development programs and activities within the intelligence community, including advanced research and development programs and activities. Such review shall include—
 
@@ -991,7 +991,7 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 > “SEC. 1003. __POWERS OF COMMISSION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >         (1)
 
@@ -1005,15 +1005,15 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 >         “(3) The provisions of sections 102 through 104 of the Revised Statutes of the United States ([2 U.S.C. 192–194][/us/usc/t2/s192–194]) shall apply in the case of any failure of a witness to comply with any subpoena or to testify when summoned under authority of this section.
 
->     “(b) __Contracting.—__ 
+>     “(b)  __Contracting__  __.—__ 
 
 >     The Commission may, to such extent and in such amounts as are provided in advance in appropriation Acts, enter into contracts to enable the Commission to discharge its duties under this title.
 
->     “(c) __Information From Federal Agencies.—__ 
+>     “(c)  __Information From Federal Agencies__  __.—__ 
 
 >     The Commission may secure directly from any executive department, agency, bureau, board, commission, office, independent establishment, or instrumentality of the Government information, suggestions, estimates, and statistics for the purposes of this title. Each such department, agency, bureau, board, commission, office, establishment, or instrumentality shall, to the extent authorized by law, furnish such information, suggestions, estimates, and statistics directly to the Commission, upon request of the co-chairs of the Commission. The Commission shall handle and protect all classified information provided to it under this section in accordance with applicable statutes and regulations.
 
->     “(d) __Assistance From Federal Agencies.—__ 
+>     “(d)  __Assistance From Federal Agencies__  __.—__ 
 
 >         (1) The Director of National Intelligence shall provide to the Commission, on a nonreimbursable basis, such administrative services, funds, staff, facilities, and other support services as are necessary for the performance of the Commission’s duties under this title.
 
@@ -1023,21 +1023,21 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 >         “(4) The Commission shall receive the full and timely cooperation of any official, department, or agency of the United States Government whose assistance is necessary for the fulfillment of the duties of the Commission under this title, including the provision of full and current briefings and analyses.
 
->     “(e) __Prohibition on Withholding Information.—__ 
+>     “(e)  __Prohibition on Withholding Information__  __.—__ 
 
 >     No department or agency of the Government may withhold information from the Commission on the grounds that providing the information to the Commission would constitute the unauthorized disclosure of classified information or information relating to intelligence sources or methods.
 
->     “(f) __Postal Services.—__ 
+>     “(f)  __Postal Services__  __.—__ 
 
 >     The Commission may use the United States mails in the same manner and under the same conditions as the departments and agencies of the United States.
 
->     “(g) __Gifts.—__ 
+>     “(g)  __Gifts__  __.—__ 
 
 >     The Commission may accept, use, and dispose of gifts or donations of services or property in carrying out its duties under this title.
 
 > “SEC. 1004. __STAFF OF COMMISSION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >         (1) The co-chairs of the Commission, in accordance with rules agreed upon by the Commission, shall appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its duties, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of such title.
 
@@ -1045,7 +1045,7 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 >         “(3) All staff of the Commission shall possess a security clearance in accordance with applicable laws and regulations concerning the handling of classified information.
 
->     “(b) __Consultant Services.—__ 
+>     “(b)  __Consultant Services__  __.—__ 
 
 >         (1) The Commission may procure the services of experts and consultants in accordance with [section 3109 of title 5][/us/usc/t5/s3109], United States Code, but at rates not to exceed the daily rate paid a person occupying a position at level IV of the Executive Schedule under section 5315 of such title.
 
@@ -1053,35 +1053,35 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 > “SEC. 1005. __COMPENSATION AND TRAVEL EXPENSES.__ 
 
->     “(a) __Compensation.—__ 
+>     “(a)  __Compensation__  __.—__ 
 
 >         (1) Except as provided in paragraph (2), each member of the Commission may be compensated at not to exceed the daily equivalent of the annual rate of basic pay in effect for a position at level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code, for each day during which that member is engaged in the actual performance of the duties of the Commission under this title.
 
 >         “(2) Members of the Commission who are officers or employees of the United States or Members of Congress shall receive no additional pay by reason of their service on the Commission.
 
->     “(b) __Travel Expenses.—__ 
+>     “(b)  __Travel Expenses__  __.—__ 
 
 >     While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under [section 5703 of title 5][/us/usc/t5/s5703], United States Code.
 
 > “SEC. 1006. __TREATMENT OF INFORMATION RELATING TO NATIONAL SECURITY.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >         (1) The Director of National Intelligence shall assume responsibility for the handling and disposition of any information related to the national security of the United States that is received, considered, or used by the Commission under this title.
 
 >         “(2) Any information related to the national security of the United States that is provided to the Commission by a congressional intelligence committee may not be further provided or released without the approval of the chairman of such committee.
 
->     “(b) __Access After Termination of Commission.—__ 
+>     “(b)  __Access After Termination of Commission__  __.—__ 
 
 >     Notwithstanding any other provision of law, after the termination of the Commission under section 1007, only the Members and designated staff of the congressional intelligence committees, the Director of National Intelligence (and the designees of the Director), and such other officials of the executive branch as the President may designate shall have access to information related to the national security of the United States that is received, considered, or used by the Commission.
 
 > “SEC. 1007. __FINAL REPORT; TERMINATION.__ 
 
->     “(a) __Final Report.—__ 
+>     “(a)  __Final Report__  __.—__ 
 
 >     Not later than March 31, 2013, the Commission shall submit to the congressional intelligence committees, the Director of National Intelligence, and the Secretary of Defense a final report as required by section 1002(h)(2).
 
->     “(b) __Termination.—__ 
+>     “(b)  __Termination__  __.—__ 
 
 >         (1) The Commission, and all the authorities of this title, shall terminate at the end of the 120-day period beginning on the date on which the final report under subsection (a) is transmitted to the congressional intelligence committees.
 
@@ -1093,11 +1093,11 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 > “SEC. 1009. __INAPPLICABILITY OF CERTAIN ADMINISTRATIVE PROVISIONS.__ 
 
->     “(a) __Federal Advisory Committee Act.—__ 
+>     “(a)  __Federal Advisory Committee Act__  __.—__ 
 
 >     The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the activities of the Commission under this title.
 
->     “(b) __Freedom of Information Act.—__ 
+>     “(b)  __Freedom of Information Act__  __.—__ 
 
 >     The provisions of [section 552 of title 5][/us/usc/t5/s552], United States Code (commonly referred to as the Freedom of Information Act), shall not apply to the activities, records, and proceedings of the Commission under this title.
 
@@ -1107,7 +1107,7 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 > “In this title:
 
->     “(1) __Congressional intelligence committees.—__ 
+>     “(1)  __Congressional intelligence committees__  __.—__ 
 
 >     The term ‘congressional intelligence committees’ means—
 
@@ -1115,7 +1115,7 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 >         “(B) the Permanent Select Committee on Intelligence of the House of Representatives.
 
->     “(2) __Intelligence community.—__ 
+>     “(2)  __Intelligence community__  __.—__ 
 
 >     The term ‘intelligence community’ has the meaning given that term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]) \[now [50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]\].”
 
@@ -1171,11 +1171,11 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 > “SEC. 4. __DUTIES OF COMMISSION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Commission shall analyze and make recommendations to the President and Congress concerning the national security and national defense policies of the United States.
 
->     “(b) __Matters To Be Analyzed.—__ 
+>     “(b)  __Matters To Be Analyzed__  __.—__ 
 
 >     Matters to be analyzed by the Commission shall include the following:
 
@@ -1203,7 +1203,7 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 > “SEC. 5. __MEMBERSHIP.__ 
 
->     “(a) __Number and Appointment.—__ 
+>     “(a)  __Number and Appointment__  __.—__ 
 
 >     The Commission shall be composed of 10 members, as follows:
 
@@ -1217,101 +1217,101 @@ Sections of National Security Act of 1947, which were classified to former Title
 
 >         “(5) One appointed by the minority leader of the Senate.
 
->     “(b) __Qualifications.—__ 
+>     “(b)  __Qualifications__  __.—__ 
 
 >     Persons appointed to the Commission shall be persons who are not officers or employees of the Federal Government (including Members of Congress) and who are specially qualified to serve on the Commission by virtue of their education, training, or experience.
 
->     “(c) __Terms.—__ 
+>     “(c)  __Terms__  __.—__ 
 
 >     Members shall be appointed for the life of the Commission. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
->     “(d) __Basic Pay.—__ 
+>     “(d)  __Basic Pay__  __.—__ 
 
 >     Members of the Commission shall serve without pay.
 
->     “(e) __Quorum.—__ 
+>     “(e)  __Quorum__  __.—__ 
 
 >     A majority of the members of the Commission shall constitute a quorum, but a lesser number may hold hearings.
 
->     “(f) __Chairman and Vice Chairman.—__ 
+>     “(f)  __Chairman and Vice Chairman__  __.—__ 
 
 >     The Chairman of the Commission shall be designated by the President from among the members appointed by the President. The Vice Chairman of the Commission shall be designated by the Speaker of the House of Representatives from among the members appointed by the Speaker.
 
->     “(g) __Meetings.—__ 
+>     “(g)  __Meetings__  __.—__ 
 
 >     The Commission shall meet at the call of the Chairman or a majority of its members.
 
->     “(h) __Deadline for Appointments.—__ 
+>     “(h)  __Deadline for Appointments__  __.—__ 
 
 >     Members of the Commission shall be appointed not later than the end of the 30-day period beginning on the date of the enactment of this Act \[Nov. 5, 1990\].
 
 > “SEC. 6. __REPORTS.__ 
 
->     “(a) __Initial Report.—__ 
+>     “(a)  __Initial Report__  __.—__ 
 
 >     The Commission shall transmit to the President and to Congress an initial report not later than six months after the date on which the Commission is first constituted with a quorum.
 
->     “(b) __Final Report.—__ 
+>     “(b)  __Final Report__  __.—__ 
 
 >     The Commission shall transmit to the President and to Congress a final report one year following submission of the initial report under subsection (a).
 
->     “(c) __Contents of Reports.—__ 
+>     “(c)  __Contents of Reports__  __.—__ 
 
 >     The report under subsection (b) shall contain a detailed statement of the findings and conclusions of the Commission concerning the matters to be studied by the Commission under section 4, together with its recommendations for such legislation and administrative actions as it considers appropriate. Such report shall include a comprehensive description and discussion of the matters set forth in section 4.
 
->     “(d) __Reports To Be Unclassified.—__ 
+>     “(d)  __Reports To Be Unclassified__  __.—__ 
 
 >     Each such report shall be submitted in unclassified form.
 
->     “(e) __Additional and Minority Views.—__ 
+>     “(e)  __Additional and Minority Views__  __.—__ 
 
 >     Each report may include such additional and minority views as individual members of the Commission may request be included.
 
 > “SEC. 7. __DIRECTOR AND STAFF OF COMMISSION; EXPERTS AND CONSULTANTS.__ 
 
->     “(a) __Director.—__ 
+>     “(a)  __Director__  __.—__ 
 
 >     The Commission shall, without regard to [section 5311(b) of title 5][/us/usc/t5/s5311/b], United States Code, have a Director who shall be appointed by the Chairman and who shall be paid at a rate not to exceed the maximum rate of basic pay payable for GS–18 of the General Schedule.
 
->     “(b) __Staff.—__ 
+>     “(b)  __Staff__  __.—__ 
 
 >     The Chairman may appoint and fix the pay of such additional personnel as the Chairman considers appropriate.
 
->     “(c) __Applicability of Certain Civil Service Laws.—__ 
+>     “(c)  __Applicability of Certain Civil Service Laws__  __.—__ 
 
 >     The Director and staff of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay payable for GS–18 of the General Schedule.
 
->     “(d) __Experts and Consultants.—__ 
+>     “(d)  __Experts and Consultants__  __.—__ 
 
 >     Subject to such rules as may be prescribed by the Commission, the Chairman may procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b] of the United States Code, but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of basic pay payable for GS–18 of the General Schedule.
 
->     “(e) __Staff of Federal Agencies.—__ 
+>     “(e)  __Staff of Federal Agencies__  __.—__ 
 
 >     Upon request of the Commission, the head of any Federal agency may detail, on a reimbursable basis, any of the personnel of such agency to the Commission to assist the Commission in carrying out its duties under this Act.
 
 > “SEC. 8. __POWERS OF COMMISSION__ 
 
->     “(a) __Hearings and Sessions.—__ 
+>     “(a)  __Hearings and Sessions__  __.—__ 
 
 >     The Commission may, for the purpose of carrying out this Act, hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Commission considers appropriate.
 
->     “(b) __Powers of Members and Agents.—__ 
+>     “(b)  __Powers of Members and Agents__  __.—__ 
 
 >     Any member or agent of the Commission may, if so authorized by the Commission, take any action which the Commission is authorized to take by this section.
 
->     “(c) __Obtaining Official Data.—__ 
+>     “(c)  __Obtaining Official Data__  __.—__ 
 
 >     The Chairman or a designee on behalf of the Chairman may request information necessary to enable the Commission to carry out this Act directly from any department or agency of the United States.
 
->     “(d) __Gifts.—__ 
+>     “(d)  __Gifts__  __.—__ 
 
 >     The Commission may accept, use, and dispose of gifts or donations of services or property.
 
->     “(e) __Mails.—__ 
+>     “(e)  __Mails__  __.—__ 
 
 >     The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
 
->     “(f) __Administrative Support Services.—__ 
+>     “(f)  __Administrative Support Services__  __.—__ 
 
 >     The Administrator of General Services shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request.
 

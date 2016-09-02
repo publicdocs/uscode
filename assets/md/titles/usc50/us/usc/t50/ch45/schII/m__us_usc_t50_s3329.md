@@ -41,19 +41,19 @@
 
 [Pub. L. 112–87, title III, § 309][/us/pl/112/87/s309], Jan. 3, 2012, [125 Stat. 1883][/us/stat/125/1883], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Covered agency.—__ 
+>         “(1)  __Covered agency__  __.—__ 
 
 >         The term ‘covered agency’ means any element of the intelligence community other than an element within the Department of Defense.
 
->         “(2) __Covered item of supply.—__ 
+>         “(2)  __Covered item of supply__  __.—__ 
 
 >         The term ‘covered item of supply’ means an item of information technology (as that term is defined in [section 11101 of title 40][/us/usc/t40/s11101], United States Code) that is purchased for inclusion in a covered system, and the loss of integrity of which could result in a supply chain risk for a covered system.
 
->         “(3) __Covered procurement.—__ 
+>         “(3)  __Covered procurement__  __.—__ 
 
 >         The term ‘covered procurement’ means—
 
@@ -63,7 +63,7 @@
 
 >             “(C) any contract action involving a contract for a covered system or a covered item of supply where such contract includes a clause establishing requirements relating to supply chain risk.
 
->         “(4) __Covered procurement action.—__ 
+>         “(4)  __Covered procurement action__  __.—__ 
 
 >         The term ‘covered procurement action’ means any of the following actions, if the action takes place in the course of conducting a covered procurement:
 
@@ -73,15 +73,15 @@
 
 >             “(C) The decision to withhold consent for a contractor to subcontract with a particular source or to direct a contractor for a covered system to exclude a particular source from consideration for a subcontract under the contract.
 
->         “(5) __Covered system.—__ 
+>         “(5)  __Covered system__  __.—__ 
 
 >         The term ‘covered system’ means a national security system, as that term is defined in [section 3542(b) of title 44][/us/usc/t44/s3542/b], United States Code.
 
->         “(6) __Supply chain risk.—__ 
+>         “(6)  __Supply chain risk__  __.—__ 
 
 >         The term ‘supply chain risk’ means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a covered system so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of such system.
 
->     “(b) __Authority.—__ 
+>     “(b)  __Authority__  __.—__ 
 
 >     Subject to subsection (c) and in consultation with the Director of National Intelligence, the head of a covered agency may, in conducting intelligence and intelligence-related activities—
 
@@ -89,7 +89,7 @@
 
 >         “(2) limit, notwithstanding any other provision of law, in whole or in part, the disclosure of information relating to the basis for carrying out a covered procurement action.
 
->     “(c) __Determination and Notification.—__ 
+>     “(c)  __Determination and Notification__  __.—__ 
 
 >     The head of a covered agency may exercise the authority provided in subsection (b) only after—
 
@@ -109,19 +109,19 @@
 
 >         “(4) providing a notice, which may be in classified form, of the determination made under paragraph (2) to the congressional intelligence committees that includes a summary of the basis for the determination, including a discussion of less intrusive measures that were considered and why they were not reasonably available to reduce supply chain risk.
 
->     “(d) __Delegation.—__ 
+>     “(d)  __Delegation__  __.—__ 
 
 >     The head of a covered agency may not delegate the authority provided in subsection (b) or the responsibility to make a determination under subsection (c) to an official below the level of the service acquisition executive for the agency concerned.
 
->     “(e) __Savings.—__ 
+>     “(e)  __Savings__  __.—__ 
 
 >     The authority under this section is in addition to any other authority under any other provision of law. The authority under this section shall not be construed to alter or effect the exercise of any other provision of law.
 
->     “(f) __Effective Date.—__ 
+>     “(f)  __Effective Date__  __.—__ 
 
 >     The requirements of this section shall take effect on the date that is 180 days after the date of the enactment of this Act \[Jan. 3, 2012\] and shall apply to contracts that are awarded on or after such date.
 
->     “(g) __Sunset.—__ 
+>     “(g)  __Sunset__  __.—__ 
 
 >     The authority provided in this section shall expire on the date that section 806 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 ([Public Law 111–383][/us/pl/111/383]; [10 U.S.C. 2304][/us/usc/t10/s2304] note) expires.”
 

@@ -109,7 +109,7 @@
 
 [Pub. L. 108–136, div. C, title XXXI, § 3114][/us/pl/108/136/s3114], Nov. 24, 2003, [117 Stat. 1744][/us/stat/117/1744], as amended by [Pub. L. 108–375, div. C, title XXXI, § 3113(a)][/us/pl/108/375/s3113/a], Oct. 28, 2004, [118 Stat. 2160][/us/stat/118/2160]; [Pub. L. 109–364, div. C, title XXXI, § 3112][/us/pl/109/364/s3112], Oct. 17, 2006, [120 Stat. 2503][/us/stat/120/2503], provided that:
 
->     “(a) __Inclusion of Projects in Facilities and Infrastructure Recapitalization Program.—__ 
+>     “(a)  __Inclusion of Projects in Facilities and Infrastructure Recapitalization Program__  __.—__ 
 
 >         (1) The Administrator for Nuclear Security shall complete the selection of projects for inclusion in the Facilities and Infrastructure Recapitalization Program of the National Nuclear Security Administration not later than December 31, 2004.
 
@@ -135,11 +135,11 @@
 
 >             “(F) A project may not be carried out under this paragraph unless the project will be completed by September 30, 2013.
 
->     “(b) __Termination of Facilities and Infrastructure Recapitalization Program.—__ 
+>     “(b)  __Termination of Facilities and Infrastructure Recapitalization Program__  __.—__ 
 
 >     The Administrator shall terminate the Facilities and Infrastructure Recapitalization Program not later than September 30, 2013.
 
->     “(c) __Readiness in Technical Base and Facilities Program.—__ 
+>     “(c)  __Readiness in Technical Base and Facilities Program__  __.—__ 
 
 >         (1) Not later than September 30, 2004, the Administrator shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report setting forth guidelines on the conduct of the Readiness in Technical Base and Facilities program of the National Nuclear Security Administration.
 
@@ -155,7 +155,7 @@
 
 >         “(3) Such guidelines shall ensure that the maintenance activities referred to in paragraph (2)(C) are carried out in a timely and efficient manner designed to avoid maintenance backlogs.
 
->     “(d) __Operations of Facilities Program.—__ 
+>     “(d)  __Operations of Facilities Program__  __.—__ 
 
 >         (1) The Administrator shall continue the Operations of Facilities program of the National Nuclear Security Administration as a subprogram within the Readiness in Technical Base and Facilities program.
 
