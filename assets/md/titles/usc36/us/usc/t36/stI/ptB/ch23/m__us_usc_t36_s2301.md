@@ -19,17 +19,19 @@
 
     (1) provide for appropriate ways for the Nation to commemorate the Days of Remembrance, as an annual, national, civic commemoration of the Holocaust, and encourage and sponsor appropriate observances of such Days of Remembrance throughout the United States;
 
-    (2) operate and maintain a permanent living memorial museum to the victims of the Holocaust, in cooperation with the Secretary of the Interior and other Federal agencies as provided in section 2306  <sup>\[1\]</sup>  <sup><sup> 1 So in original. [Section 2306 of this title][/us/usc/t36/s2306] does not relate to cooperation with the Secretary or other Federal agencies. </sup></sup>  of this title; and
+    (2) operate and maintain a permanent living memorial museum to the victims of the Holocaust, in cooperation with the Secretary of the Interior and other Federal agencies as provided in [section 2304 of this title][/us/usc/t36/s2304]; and
 
     (3) carry out the recommendations of the President’s Commission on the Holocaust in its report to the President of September 27, 1979, to the extent such recommendations are not otherwise provided for in this chapter.
 
-(Added [Pub. L. 106–292, § 1][/us/pl/106/292/s1], Oct. 12, 2000, [114 Stat. 1030][/us/stat/114/1030]; amended [Pub. L. 109–284, § 5(4)][/us/pl/109/284/s5/4], Sept. 27, 2006, [120 Stat. 1211][/us/stat/120/1211].)
+(Added [Pub. L. 106–292, § 1][/us/pl/106/292/s1], Oct. 12, 2000, [114 Stat. 1030][/us/stat/114/1030]; amended [Pub. L. 109–284, § 5(4)][/us/pl/109/284/s5/4], Sept. 27, 2006, [120 Stat. 1211][/us/stat/120/1211]; [Pub. L. 113–237, § 3(c)(2)][/us/pl/113/237/s3/c/2], Dec. 18, 2014, [128 Stat. 2840][/us/stat/128/2840].)
 
  __Prior Provisions__ 
 
     A prior section 2301, [Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1277][/us/stat/112/1277], related to the establishment and purposes of the Holocaust Memorial Council, prior to the general amendment of this chapter by [Pub. L. 106–292][/us/pl/106/292].
 
  __Amendments__ 
+
+    2014—Par. (2). [Pub. L. 113–237][/us/pl/113/237] substituted “section 2304” for “section 2306”.
 
     2006—[Pub. L. 109–284][/us/pl/109/284] substituted “United States Government” for “United State Government” in introductory provisions.
 
@@ -50,14 +52,17 @@
 ----------
 ----------
 
-[/us/usc/t36/s2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs2306
+[/us/usc/t36/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs2304
 [/us/pl/106/292/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F292%2Fs1
 [/us/stat/114/1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1030
 [/us/pl/109/284/s5/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs5%2F4
 [/us/stat/120/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1211
+[/us/pl/113/237/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fc%2F2
+[/us/stat/128/2840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2840
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1277
 [/us/pl/106/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F292
+[/us/pl/113/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237
 [/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/pl/101/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F45
 [/us/stat/103/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F125

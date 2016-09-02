@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch1601/m__us_usc_t36_stII_ptB_ch1601.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch1701/m__us_usc_t36_s170101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstII%2FptB%2Fch1701)
+[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch1547/m__us_usc_t36_s154713.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch1701/m__us_usc_t36_s170101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstII%2FptB%2Fch1701)
 
 #### CHAPTER 1701—PARALYZED VETERANS OF AMERICA
 
@@ -115,7 +115,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch1601/m__us_usc_t36_stII_ptB_ch1601.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch1701/m__us_usc_t36_s170101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstII%2FptB%2Fch1701)
+[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch1547/m__us_usc_t36_s154713.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch1701/m__us_usc_t36_s170101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstII%2FptB%2Fch1701)
 
 ----------
 ----------

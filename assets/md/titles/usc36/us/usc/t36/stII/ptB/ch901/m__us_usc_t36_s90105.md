@@ -1,7 +1,7 @@
 ---
 ---
 
-# 36 U.S.C., USLM ref /us/usc/t36/s152605
+# 36 U.S.C., USLM ref /us/usc/t36/s90105
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch1526/m__us_usc_t36_s152604.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch1526/m__us_usc_t36_s152606.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs152605)
+[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch901/m__us_usc_t36_s90104.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch901/m__us_usc_t36_s90106.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs90105)
 
-## § 152605. Powers
+## § 90105. Powers
 
     (a)  __In General__  __.—__ 
 
@@ -55,16 +55,24 @@
 
     During each year (beginning with 2003), the foundation may sponsor a conference in the Washington, D.C. metropolitan area to honor secondary school students and other individuals who have served (or plan to serve) as poll workers and assistants and who have otherwise participated in the programs and activities of the foundation.
 
-(Added [Pub. L. 107–252, title VI, § 601(a)][/us/pl/107/252/s601/a], Oct. 29, 2002, [116 Stat. 1720][/us/stat/116/1720].)
+(Added [Pub. L. 107–252, title VI, § 601(a)][/us/pl/107/252/s601/a], Oct. 29, 2002, [116 Stat. 1720][/us/stat/116/1720], § 152605; renumbered § 90105, [Pub. L. 113–237, § 3(c)(6)(B)][/us/pl/113/237/s3/c/6/B], Dec. 18, 2014, [128 Stat. 2840][/us/stat/128/2840].)
+
+ __Amendments__ 
+
+    2014—[Pub. L. 113–237][/us/pl/113/237] renumbered [section 152605 of this title][/us/usc/t36/s152605] as this section.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch1526/m__us_usc_t36_s152604.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch1526/m__us_usc_t36_s152606.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs152605)
+[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch901/m__us_usc_t36_s90104.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch901/m__us_usc_t36_s90106.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs90105)
 
 ----------
 ----------
 
 [/us/pl/107/252/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs601%2Fa
 [/us/stat/116/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1720
+[/us/pl/113/237/s3/c/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fc%2F6%2FB
+[/us/stat/128/2840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2840
+[/us/pl/113/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237
+[/us/usc/t36/s152605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs152605
 
 

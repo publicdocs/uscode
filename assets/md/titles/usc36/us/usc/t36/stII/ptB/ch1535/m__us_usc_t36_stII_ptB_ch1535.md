@@ -131,11 +131,15 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs153514" data-uslm-ref="/us/usc/t36/s153514">153514.</a>  </td>
 
-    <td> Authorization of appropriations. <sup>[1]</sup>  <sup><sup> 1 Editorially supplied. Section added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F111%2F11" data-uslm-ref="/us/pl/111/11">Pub. L. 111–11</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
+    <td> Authorization of appropriations.  </td>
 
   </tr>
 
 </table>
+
+ __Amendments__ 
+
+    2014—[Pub. L. 113–237, § 3(c)(7)][/us/pl/113/237/s3/c/7], Dec. 18, 2014, [128 Stat. 2840][/us/stat/128/2840], added item 153514.
 
 ----------
 
@@ -144,5 +148,7 @@
 ----------
 ----------
 
+[/us/pl/113/237/s3/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fc%2F7
+[/us/stat/128/2840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2840
 
 

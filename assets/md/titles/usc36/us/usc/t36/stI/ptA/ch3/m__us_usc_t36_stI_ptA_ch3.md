@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t36/stI/ptA/ch1/m__us_usc_t36_s144.md) | [Next](./../../../../../..//us/usc/t36/stI/ptA/ch3/m__us_usc_t36_s301.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstI%2FptA%2Fch3)
 
-#### CHAPTER 3—NATIONAL ANTHEM, MOTTO, FLORAL EMBLEM  <sup>\[1\]</sup>  <sup><sup> 1 So in original. A comma probably should follow “EMBLEM”. </sup></sup>  MARCH, AND TREE
+#### CHAPTER 3—NATIONAL ANTHEM, MOTTO, FLORAL EMBLEM, MARCH, AND TREE
 
 <table>
 
@@ -67,6 +67,8 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–237, § 3(c)(1)][/us/pl/113/237/s3/c/1], Dec. 18, 2014, [128 Stat. 2840][/us/stat/128/2840], substituted “FLORAL EMBLEM, MARCH” for “FLORAL EMBLEM MARCH” in chapter heading.
+
     2004—[Pub. L. 108–447, div. J, title I, § 109(b)(2)][/us/pl/108/447/s109/b/2], (3), Dec. 8, 2004, [118 Stat. 3344][/us/stat/118/3344], substituted “MARCH, AND TREE” for “, AND MARCH” in chapter heading and added item 305.
 
 ----------
@@ -76,6 +78,8 @@
 ----------
 ----------
 
+[/us/pl/113/237/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fc%2F1
+[/us/stat/128/2840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2840
 [/us/pl/108/447/s109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs109%2Fb%2F2
 [/us/stat/118/3344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3344
 

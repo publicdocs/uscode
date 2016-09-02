@@ -1,0 +1,50 @@
+---
+---
+
+# 36 U.S.C., USLM ref /us/usc/t36/s90101
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch901/m__us_usc_t36_stII_ptB_ch901.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch901/m__us_usc_t36_s90102.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs90101)
+
+## § 90101. Organization
+
+    (a)  __Federal Charter__  __.—__ 
+
+    The Help America Vote Foundation (in this chapter, the “foundation”) is a federally chartered corporation.
+
+    (b)  __Nature of Foundation__  __.—__ 
+
+    The foundation is a charitable and nonprofit corporation and is not an agency or establishment of the United States Government.
+
+    (c)  __Perpetual Existence__  __.—__ 
+
+    Except as otherwise provided, the foundation has perpetual existence.
+
+(Added [Pub. L. 107–252, title VI, § 601(a)][/us/pl/107/252/s601/a], Oct. 29, 2002, [116 Stat. 1718][/us/stat/116/1718], § 152601; renumbered § 90101, [Pub. L. 113–237, § 3(c)(6)(B)][/us/pl/113/237/s3/c/6/B], Dec. 18, 2014, [128 Stat. 2840][/us/stat/128/2840].)
+
+ __Amendments__ 
+
+    2014—[Pub. L. 113–237][/us/pl/113/237] renumbered [section 152601 of this title][/us/usc/t36/s152601] as this section.
+
+----------
+
+[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch901/m__us_usc_t36_stII_ptB_ch901.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch901/m__us_usc_t36_s90102.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs90101)
+
+----------
+----------
+
+[/us/pl/107/252/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs601%2Fa
+[/us/stat/116/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1718
+[/us/pl/113/237/s3/c/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fc%2F6%2FB
+[/us/stat/128/2840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2840
+[/us/pl/113/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237
+[/us/usc/t36/s152601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs152601
+
+

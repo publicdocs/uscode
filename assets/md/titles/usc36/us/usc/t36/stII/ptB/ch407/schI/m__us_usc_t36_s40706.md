@@ -17,13 +17,13 @@
 
     (a)  __Secretary of the Army__  __.—__ 
 
-    On dissolution of the corporation, title to the following items, and the right to possess the items, vest in the Secretary of the Army—
+    On dissolution of the corporation, title to the following items, and the right to possess the items, vest in the Secretary of the Army:
 
-        (1) firearms stored at Defense Distribution Depot, Anniston, Anniston, Alabama on the date of dissolution.
+        (1) Firearms stored at Defense Distribution Depot, Anniston, Anniston, Alabama on the date of dissolution.
 
         (2) M–16 rifles under control of the corporation.
 
-        (3) trophies received from the National Board for the Promotion of Rifle Practice through the date of dissolution.
+        (3) Trophies received from the National Board for the Promotion of Rifle Practice through the date of dissolution.
 
     (b)  __Tax-Exempt Organizations__  __.—__ 
 
@@ -41,7 +41,7 @@
 
     On dissolution of the corporation, any asset not distributed under subsection (a) or (b) of this section shall be sold and the proceeds shall be deposited in the Treasury.
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1336][/us/stat/112/1336].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1336][/us/stat/112/1336]; [Pub. L. 113–237, § 3(c)(3)][/us/pl/113/237/s3/c/3], Dec. 18, 2014, [128 Stat. 2840][/us/stat/128/2840].)
 
 <table>
 
@@ -141,6 +141,10 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1619, 110 Stat. 520; Sept. 23,
 
     In subsection (b), paragraph (2) is applied only to subsection (b) because the prohibition is not relevant to 36:5509(a)(1) or (3).
 
+ __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–237][/us/pl/113/237] substituted colon for dash at end of introductory provisions, “Firearms” for “firearms” in par. (1) and “Trophies” for “trophies” in par. (3).
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t36/stII/ptB/ch407/schI/m__us_usc_t36_s40705.md) | [Next](./../../../../../../..//us/usc/t36/stII/ptB/ch407/schI/m__us_usc_t36_s40707.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs40706)
@@ -153,5 +157,8 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1619, 110 Stat. 520; Sept. 23,
 [/us/usc/t36/s40722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs40722
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1336
+[/us/pl/113/237/s3/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fc%2F3
+[/us/stat/128/2840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2840
+[/us/pl/113/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237
 
 

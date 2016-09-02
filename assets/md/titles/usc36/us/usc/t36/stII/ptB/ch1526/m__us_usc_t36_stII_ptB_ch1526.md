@@ -11,119 +11,19 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch1525/m__us_usc_t36_s152512.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch1526/m__us_usc_t36_s152601.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstII%2FptB%2Fch1526)
+[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch1525/m__us_usc_t36_s152512.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch1527/m__us_usc_t36_stII_ptB_ch1527.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstII%2FptB%2Fch1526)
 
-#### CHAPTER 1526—HELP AMERICA VOTE FOUNDATION
+#### \[CHAPTER 1526—TRANSFERRED\]
 
-<table>
+\[§§ 152601 to 152612. __Renumbered §§ 90101 to 90112\]__ 
 
-  <tr>
+ __Codification__ 
 
-    <td> Sec.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs152601" data-uslm-ref="/us/usc/t36/s152601">152601.</a>  </td>
-
-    <td> Organization.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs152602" data-uslm-ref="/us/usc/t36/s152602">152602.</a>  </td>
-
-    <td> Purposes.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs152603" data-uslm-ref="/us/usc/t36/s152603">152603.</a>  </td>
-
-    <td> Board of directors.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs152604" data-uslm-ref="/us/usc/t36/s152604">152604.</a>  </td>
-
-    <td> Officers and employees.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs152605" data-uslm-ref="/us/usc/t36/s152605">152605.</a>  </td>
-
-    <td> Powers.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs152606" data-uslm-ref="/us/usc/t36/s152606">152606.</a>  </td>
-
-    <td> Principal office.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs152607" data-uslm-ref="/us/usc/t36/s152607">152607.</a>  </td>
-
-    <td> Service of process.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs152608" data-uslm-ref="/us/usc/t36/s152608">152608.</a>  </td>
-
-    <td> Annual audit.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs152609" data-uslm-ref="/us/usc/t36/s152609">152609.</a>  </td>
-
-    <td> Civil action by Attorney General for equitable relief.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs152610" data-uslm-ref="/us/usc/t36/s152610">152610.</a>  </td>
-
-    <td> Immunity of United States Government.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs152611" data-uslm-ref="/us/usc/t36/s152611">152611.</a>  </td>
-
-    <td> Authorization of appropriations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs152612" data-uslm-ref="/us/usc/t36/s152612">152612.</a>  </td>
-
-    <td> Annual report.  </td>
-
-  </tr>
-
-</table>
+    Former chapter 1526 of this title, which consisted of sections 152601 to 152612, was renumbered chapter 901 of this title and transferred to follow the placeholder for chapters 807 to 899 of this title, and sections 152601 to 152612 were renumbered sections 90101 to 90112 of this title, respectively.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch1525/m__us_usc_t36_s152512.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch1526/m__us_usc_t36_s152601.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstII%2FptB%2Fch1526)
+[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch1525/m__us_usc_t36_s152512.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch1527/m__us_usc_t36_stII_ptB_ch1527.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstII%2FptB%2Fch1526)
 
 ----------
 ----------

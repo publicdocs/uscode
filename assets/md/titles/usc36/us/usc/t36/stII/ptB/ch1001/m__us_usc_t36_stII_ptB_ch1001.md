@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch901/m__us_usc_t36_stII_ptB_ch901.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch1001/m__us_usc_t36_s100101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstII%2FptB%2Fch1001)
+[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch901/m__us_usc_t36_s90112.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch1001/m__us_usc_t36_s100101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstII%2FptB%2Fch1001)
 
 #### CHAPTER 1001—ITALIAN AMERICAN WAR VETERANS OF THE UNITED STATES
 
@@ -123,7 +123,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch901/m__us_usc_t36_stII_ptB_ch901.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch1001/m__us_usc_t36_s100101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstII%2FptB%2Fch1001)
+[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch901/m__us_usc_t36_s90112.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch1001/m__us_usc_t36_s100101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstII%2FptB%2Fch1001)
 
 ----------
 ----------

@@ -67,6 +67,12 @@ July 14, 1964, Pub. L. 88–372, § 16, 78 Stat. 318.  </td>
 
     The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The words “outstanding” and “all Federal and State laws applicable thereto” are omitted as unnecessary.
 
+ __CHAPTERS 233 THROUGH 299—RESERVED__ 
+
+ __Amendments__ 
+
+    2014—[Pub. L. 113–237, § 3(b)(1)][/us/pl/113/237/s3/b/1], Dec. 18, 2014, [128 Stat. 2836][/us/stat/128/2836], added placeholder for chapters 233 to 299.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t36/stII/ptB/ch231/m__us_usc_t36_s23111.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch301/m__us_usc_t36_stII_ptB_ch301.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs23112)
@@ -76,5 +82,7 @@ July 14, 1964, Pub. L. 88–372, § 16, 78 Stat. 318.  </td>
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1314
+[/us/pl/113/237/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fb%2F1
+[/us/stat/128/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2836
 
 

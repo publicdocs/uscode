@@ -11,40 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t36/stII/ptB/ch2701/m__us_usc_t36_stII_ptB_ch2701.md) | [Next](./../../../..//us/usc/t36/stIII/ch3001/m__us_usc_t36_stIII_ch3001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstIII)
+[Previous](./../../../..//us/usc/t36/stII/ptB/ch2401/m__us_usc_t36_s240112.md) | [Next](./../../../..//us/usc/t36/stIII/ch3001/m__us_usc_t36_stIII_ch3001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstIII)
 
 ## Subtitle III—Treaty Obligation Organizations
 
-<table>
+ __Amendments__ 
 
-  <tr>
-
-    <td> Chapter  </td>
-
-    <td>   </td>
-
-    <td> Sec.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2FstIII%2Fch3001" data-uslm-ref="/us/usc/t36/stIII/ch3001">3001.</a>  </td>
-
-    <td> The American National Red Cross  </td>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs300101" data-uslm-ref="/us/usc/t36/s300101">300101</a>  </td>
-
-  </tr>
-
-</table>
+    2014—[Pub. L. 113–237, § 3(a)(2)(C)][/us/pl/113/237/s3/a/2/C], Dec. 18, 2014, [128 Stat. 2836][/us/stat/128/2836], struck out item for chapter 3001 “The American National Red Cross”.
 
 ----------
 
-[Previous](./../../../..//us/usc/t36/stII/ptB/ch2701/m__us_usc_t36_stII_ptB_ch2701.md) | [Next](./../../../..//us/usc/t36/stIII/ch3001/m__us_usc_t36_stIII_ch3001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstIII)
+[Previous](./../../../..//us/usc/t36/stII/ptB/ch2401/m__us_usc_t36_s240112.md) | [Next](./../../../..//us/usc/t36/stIII/ch3001/m__us_usc_t36_stIII_ch3001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstIII)
 
 ----------
 ----------
 
+[/us/pl/113/237/s3/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fa%2F2%2FC
+[/us/stat/128/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2836
 
 

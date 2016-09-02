@@ -1,7 +1,7 @@
 ---
 ---
 
-# 36 U.S.C., USLM ref /us/usc/t36/s152603
+# 36 U.S.C., USLM ref /us/usc/t36/s90103
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch1526/m__us_usc_t36_s152602.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch1526/m__us_usc_t36_s152604.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs152603)
+[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch901/m__us_usc_t36_s90102.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch901/m__us_usc_t36_s90104.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs90103)
 
-## § 152603. Board of directors
+## § 90103. Board of directors
 
     (a)  __General__  __.—__ 
 
@@ -63,21 +63,29 @@
 
     Directors are not personally liable, except for gross negligence.
 
-(Added [Pub. L. 107–252, title VI, § 601(a)][/us/pl/107/252/s601/a], Oct. 29, 2002, [116 Stat. 1718][/us/stat/116/1718].)
+(Added [Pub. L. 107–252, title VI, § 601(a)][/us/pl/107/252/s601/a], Oct. 29, 2002, [116 Stat. 1718][/us/stat/116/1718], § 152603, renumbered § 90103, [Pub. L. 113–237, § 3(c)(6)(B)][/us/pl/113/237/s3/c/6/B], Dec. 18, 2014, [128 Stat. 2840][/us/stat/128/2840].)
 
  __References in Text__ 
 
     The date of the enactment of this chapter, referred to in subsec. (b), is the date of enactment of [Pub. L. 107–252][/us/pl/107/252], which was approved Oct. 29, 2002.
 
+ __Amendments__ 
+
+    2014—[Pub. L. 113–237][/us/pl/113/237] renumbered [section 152603 of this title][/us/usc/t36/s152603] as this section.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch1526/m__us_usc_t36_s152602.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch1526/m__us_usc_t36_s152604.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs152603)
+[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch901/m__us_usc_t36_s90102.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch901/m__us_usc_t36_s90104.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs90103)
 
 ----------
 ----------
 
 [/us/pl/107/252/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252%2Fs601%2Fa
 [/us/stat/116/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1718
+[/us/pl/113/237/s3/c/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fc%2F6%2FB
+[/us/stat/128/2840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2840
 [/us/pl/107/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252
+[/us/pl/113/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237
+[/us/usc/t36/s152603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs152603
 
 

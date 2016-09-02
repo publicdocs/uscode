@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch1801/m__us_usc_t36_stII_ptB_ch1801.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch1901/m__us_usc_t36_s190101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstII%2FptB%2Fch1901)
+[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch1705/m__us_usc_t36_s170512.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch1901/m__us_usc_t36_s190101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstII%2FptB%2Fch1901)
 
 #### CHAPTER 1901—RESERVE OFFICERS ASSOCIATION OF THE UNITED STATES
 
@@ -123,7 +123,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch1801/m__us_usc_t36_stII_ptB_ch1801.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch1901/m__us_usc_t36_s190101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstII%2FptB%2Fch1901)
+[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch1705/m__us_usc_t36_s170512.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch1901/m__us_usc_t36_s190101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstII%2FptB%2Fch1901)
 
 ----------
 ----------
