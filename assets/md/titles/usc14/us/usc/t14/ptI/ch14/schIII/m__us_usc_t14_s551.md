@@ -41,7 +41,7 @@
 
         (B) provides home-based child care services on a regular basis in exchange for monetary compensation.
 
-(Added [Pub. L. 113–281, title II, § 214(a)][/us/pl/113/281/s214/a], Dec. 18, 2014, [128 Stat. 3031][/us/stat/128/3031].)
+(Added [Pub. L. 113–281, title II][/us/pl/113/281/tII], § 214(a), Dec. 18, 2014, [128 Stat. 3031][/us/stat/128/3031].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 
 [/us/usc/t42/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5101
 [/us/usc/t5/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2102
-[/us/pl/113/281/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs214%2Fa
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3031
 [/us/pl/93/247/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs3
 [/us/usc/t42/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5101

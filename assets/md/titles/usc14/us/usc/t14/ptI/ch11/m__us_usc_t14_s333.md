@@ -17,7 +17,7 @@
 
     Any regular officer on the retired list recalled to active duty who during such active duty is advanced to a higher grade under an appointment shall, upon relief from active duty, if his performance of duty under such appointment has been satisfactory, be advanced on the retired list to the highest grade held while on such active duty.
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 189][/us/stat/77/189].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 189][/us/stat/77/189].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F189
 
 

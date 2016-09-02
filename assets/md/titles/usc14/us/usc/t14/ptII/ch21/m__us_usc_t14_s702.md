@@ -19,7 +19,7 @@
 
     (b) Subject to the authorized strength of the Coast Guard Reserve, the Secretary shall determine, at least annually, the authorized strength in numbers in each grade necessary to provide for mobilization requirements. Without the consent of the member concerned, a member of the Reserve may not be reduced in grade because of the Secretary’s determination.
 
-(Added [Pub. L. 96–322, § 1][/us/pl/96/322/s1], Aug. 4, 1980, [94 Stat. 1003][/us/stat/94/1003].)
+(Added [Pub. L. 96–322][/us/pl/96/322], § 1, Aug. 4, 1980, [94 Stat. 1003][/us/stat/94/1003].)
 
  __Prior Provisions__ 
 
@@ -27,7 +27,7 @@
 
  __Coast Guard Reserve Components Transition Initiatives__ 
 
-[Pub. L. 103–160, title V, § 564(a)][/us/pl/103/160/s564/a], (b), Nov. 30, 1993, [107 Stat. 1669][/us/stat/107/1669], 1670, provided that:
+[Pub. L. 103–160, title V][/us/pl/103/160/tV], § 564(a), (b), Nov. 30, 1993, [107 Stat. 1669][/us/stat/107/1669], 1670, provided that:
 
 >     “(a)  __Applicability of Certain Benefits__  __.—__ 
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/96/322/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322%2Fs1
+[/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
 [/us/stat/94/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1003
 [/us/usc/t14/s752a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs752a
 [/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
-[/us/pl/103/160/s564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs564%2Fa
+[/us/pl/103/160/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FtV
 [/us/stat/107/1669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1669
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/stat/106/2712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2712

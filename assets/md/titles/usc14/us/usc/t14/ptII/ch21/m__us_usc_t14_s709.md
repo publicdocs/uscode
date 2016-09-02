@@ -31,7 +31,7 @@
 
     (h) If qualified under regulations prescribed by the Secretary, an aviation pilot may be appointed as an ensign in the Reserve.
 
-(Added [Pub. L. 96–322, § 1][/us/pl/96/322/s1], Aug. 4, 1980, [94 Stat. 1005][/us/stat/94/1005].)
+(Added [Pub. L. 96–322][/us/pl/96/322], § 1, Aug. 4, 1980, [94 Stat. 1005][/us/stat/94/1005].)
 
  __Prior Provisions__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/96/322/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322%2Fs1
+[/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
 [/us/stat/94/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1005
 [/us/usc/t14/s758a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs758a
 [/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322

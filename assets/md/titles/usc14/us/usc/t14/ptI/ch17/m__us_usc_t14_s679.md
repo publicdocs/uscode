@@ -57,7 +57,7 @@
 
             (B) a discussion of the impact that such consolidation would have on Coast Guard mission effectiveness.
 
-(Added [Pub. L. 113–281, title II, § 217(a)][/us/pl/113/281/s217/a], Dec. 18, 2014, [128 Stat. 3035][/us/stat/128/3035].)
+(Added [Pub. L. 113–281, title II][/us/pl/113/281/tII], § 217(a), Dec. 18, 2014, [128 Stat. 3035][/us/stat/128/3035].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/113/281/s217/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs217%2Fa
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3035
 
 

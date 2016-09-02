@@ -29,15 +29,15 @@
 
         (3) the estimates of both the cost of the lease and the anticipated cost avoidance through the use of a multiyear lease are realistic.
 
-(Added [Pub. L. 103–206, title III, § 304(a)][/us/pl/103/206/s304/a], Dec. 20, 1993, [107 Stat. 2424][/us/stat/107/2424]; amended [Pub. L. 104–324, title VII, § 746(d)][/us/pl/104/324/s746/d], Oct. 19, 1996, [110 Stat. 3943][/us/stat/110/3943]; [Pub. L. 108–293, title II, § 212(a)][/us/pl/108/293/s212/a], Aug. 9, 2004, [118 Stat. 1036][/us/stat/118/1036].)
+(Added [Pub. L. 103–206, title III][/us/pl/103/206/tIII], § 304(a), Dec. 20, 1993, [107 Stat. 2424][/us/stat/107/2424]; amended [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 746(d), Oct. 19, 1996, [110 Stat. 3943][/us/stat/110/3943]; [Pub. L. 108–293, title II][/us/pl/108/293/tII], § 212(a), Aug. 9, 2004, [118 Stat. 1036][/us/stat/118/1036].)
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–293, § 212(a)(1)][/us/pl/108/293/s212/a/1], added section catchline and struck out former section catchline which read as follows: “Long-term lease authority for navigation and communications systems sites”.
+    2004—[Pub. L. 108–293][/us/pl/108/293], § 212(a)(1), added section catchline and struck out former section catchline which read as follows: “Long-term lease authority for navigation and communications systems sites”.
 
-    Subsec. (a). [Pub. L. 108–293, § 212(a)(2)][/us/pl/108/293/s212/a/2], inserted “special purpose facilities, including,” after “automatic renewal clauses, for”.
+    Subsec. (a). [Pub. L. 108–293][/us/pl/108/293], § 212(a)(2), inserted “special purpose facilities, including,” after “automatic renewal clauses, for”.
 
-    Subsecs. (b), (c). [Pub. L. 108–293, § 212(a)(3)][/us/pl/108/293/s212/a/3], added subsec. (b), redesignated former subsec. (b) as (c), and substituted “In the case of ATON, VTS, or NDS sites, the” for “The” in introductory provisions.
+    Subsecs. (b), (c). [Pub. L. 108–293][/us/pl/108/293], § 212(a)(3), added subsec. (b), redesignated former subsec. (b) as (c), and substituted “In the case of ATON, VTS, or NDS sites, the” for “The” in introductory provisions.
 
     1996—[Pub. L. 104–324][/us/pl/104/324] added section catchline and struck out former section catchline.
 
@@ -48,15 +48,15 @@
 ----------
 ----------
 
-[/us/pl/103/206/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs304%2Fa
+[/us/pl/103/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIII
 [/us/stat/107/2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2424
-[/us/pl/104/324/s746/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs746%2Fd
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3943
-[/us/pl/108/293/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs212%2Fa
+[/us/pl/108/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtII
 [/us/stat/118/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1036
-[/us/pl/108/293/s212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs212%2Fa%2F1
-[/us/pl/108/293/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs212%2Fa%2F2
-[/us/pl/108/293/s212/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs212%2Fa%2F3
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 
 

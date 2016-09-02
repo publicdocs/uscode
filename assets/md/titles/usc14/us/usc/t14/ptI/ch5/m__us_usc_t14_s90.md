@@ -49,11 +49,11 @@
 
     In this section, the term “Arctic”?  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  has the meaning given such term in section 112 of the Arctic Research and Policy Act of 1984 ([15 U.S.C. 4111][/us/usc/t15/s4111]).
 
-(Added [Pub. L. 113–281, title V, § 501(a)][/us/pl/113/281/s501/a], Dec. 18, 2014, [128 Stat. 3056][/us/stat/128/3056].)
+(Added [Pub. L. 113–281, title V][/us/pl/113/281/tV], § 501(a), Dec. 18, 2014, [128 Stat. 3056][/us/stat/128/3056].)
 
  __Prior Provisions__ 
 
-    A prior section 90, [act Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 502][/us/stat/63/502]; [Pub. L. 85–726, title XIV, § 1404][/us/pl/85/726/s1404], Aug. 23, 1958, [72 Stat. 808][/us/stat/72/808]; [Pub. L. 94–546, § 1(8)][/us/pl/94/546/s1/8], Oct. 18, 1976, [90 Stat. 2519][/us/stat/90/2519], authorized the Coast Guard to operate and maintain floating ocean stations, prior to repeal by [Pub. L. 112–213, title II, § 216(c)][/us/pl/112/213/s216/c], Dec. 20, 2012, [126 Stat. 1555][/us/stat/126/1555].
+    A prior section 90, [act Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 502][/us/stat/63/502]; [Pub. L. 85–726, title XIV][/us/pl/85/726/tXIV], § 1404, Aug. 23, 1958, [72 Stat. 808][/us/stat/72/808]; [Pub. L. 94–546][/us/pl/94/546], § 1(8), Oct. 18, 1976, [90 Stat. 2519][/us/stat/90/2519], authorized the Coast Guard to operate and maintain floating ocean stations, prior to repeal by [Pub. L. 112–213, title II][/us/pl/112/213/tII], § 216(c), Dec. 20, 2012, [126 Stat. 1555][/us/stat/126/1555].
 
 ----------
 
@@ -64,15 +64,15 @@
 
 [/us/usc/t46/s55501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55501
 [/us/usc/t15/s4111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4111
-[/us/pl/113/281/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs501%2Fa
+[/us/pl/113/281/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtV
 [/us/stat/128/3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3056
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F502
-[/us/pl/85/726/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726%2Fs1404
+[/us/pl/85/726/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726%2FtXIV
 [/us/stat/72/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F808
-[/us/pl/94/546/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F8
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/stat/90/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2519
-[/us/pl/112/213/s216/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs216%2Fc
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1555
 
 

@@ -17,7 +17,7 @@
 
     No more than one Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, or one Coast Guard medal shall be issued to any one person; but for each succeeding deed or service sufficient to justify the awarding of a Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, or Coast Guard medal, the President may award a suitable emblem or insignia to be worn with the decoration and a corresponding rosette or other device.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 535][/us/stat/63/535]; [Aug. 10, 1956, ch. 1041, § 13][/us/act/1956-08-10/ch1041/s13], [70A Stat. 624][/us/stat/70A/624]; [Pub. L. 111–281, title II, § 224(c)(1)][/us/pl/111/281/s224/c/1], Oct. 15, 2010, [124 Stat. 2922][/us/stat/124/2922]; [Pub. L. 113–281, title II, § 213][/us/pl/113/281/s213], Dec. 18, 2014, [128 Stat. 3029][/us/stat/128/3029].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 535][/us/stat/63/535]; [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 13, [70A Stat. 624][/us/stat/70A/624]; [Pub. L. 111–281, title II][/us/pl/111/281/tII], § 224(c)(1), Oct. 15, 2010, [124 Stat. 2922][/us/stat/124/2922]; [Pub. L. 113–281, title II][/us/pl/113/281/tII], § 213, Dec. 18, 2014, [128 Stat. 3029][/us/stat/128/3029].)
 
  __Historical and Revision Notes__ 
 
@@ -40,11 +40,11 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F535
-[/us/act/1956-08-10/ch1041/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs13
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F624
-[/us/pl/111/281/s224/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs224%2Fc%2F1
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2922
-[/us/pl/113/281/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs213
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3029
 [/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281

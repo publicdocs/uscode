@@ -17,7 +17,7 @@
 
     A citizen of the United States, its territories, or possessions who is a member of the Auxiliary, an officer or member of the crew of a motorboat or yacht placed at the disposal of the Coast Guard, or a person (including a Government employee without pay other than the compensation of that person’s civilian position) who by reason of special training and experience is considered by the Commandant to be qualified for duty, may be enrolled by the Commandant as a temporary member of the Reserve, for duty under conditions the Commandant may prescribe, including part-time and intermittent active duty with or without pay, without regard to age. The Commandant is authorized to define the powers and duties of temporary members of the Reserve, and to confer upon them, appropriate to their qualifications and experience, the same grades and ratings as provided for members of the Reserve. When performing active duty with pay as authorized by this section, temporary members of the Reserve are entitled to receive the pay and allowances of their rank, grade, or rating.
 
-(Added [Pub. L. 96–322, § 1][/us/pl/96/322/s1], Aug. 4, 1980, [94 Stat. 1004][/us/stat/94/1004].)
+(Added [Pub. L. 96–322][/us/pl/96/322], § 1, Aug. 4, 1980, [94 Stat. 1004][/us/stat/94/1004].)
 
  __Prior Provisions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/322/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322%2Fs1
+[/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
 [/us/stat/94/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1004
 [/us/usc/t14/s756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs756
 [/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322

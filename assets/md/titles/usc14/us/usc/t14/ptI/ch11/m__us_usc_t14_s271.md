@@ -27,7 +27,7 @@
 
     (f) The promotion of an officer who is under investigation or against whom proceedings of a court-martial or a board of officers are pending may be delayed without prejudice by the Secretary until completion of the investigation or proceedings. However, unless the Secretary determines that a further delay is necessary in the public interest, a promotion may not be delayed under this subsection for more than one year after the date the officer would otherwise have been promoted. An officer whose promotion is delayed under this subsection and who is subsequently promoted shall be given the date of rank and position on the active duty promotion list in the grade to which promoted that he would have held had his promotion not been so delayed.
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 181][/us/stat/77/181]; amended [Pub. L. 91–278, § 1(8)][/us/pl/91/278/s1/8], June 12, 1970, [84 Stat. 305][/us/stat/84/305]; [Pub. L. 97–417, § 2(5)][/us/pl/97/417/s2/5], Jan. 4, 1983, [96 Stat. 2085][/us/stat/96/2085]; [Pub. L. 99–145, title V, § 514(c)(1)][/us/pl/99/145/s514/c/1], Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629]; [Pub. L. 101–225, title II, § 203(2)][/us/pl/101/225/s203/2], Dec. 12, 1989, [103 Stat. 1911][/us/stat/103/1911]; [Pub. L. 103–337, div. A, title XVI, § 1677(b)(2)][/us/pl/103/337/s1677/b/2], Oct. 5, 1994, [108 Stat. 3020][/us/stat/108/3020]; [Pub. L. 107–295, title III, § 313(3)][/us/pl/107/295/s313/3], Nov. 25, 2002, [116 Stat. 2103][/us/stat/116/2103].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 181][/us/stat/77/181]; amended [Pub. L. 91–278][/us/pl/91/278], § 1(8), June 12, 1970, [84 Stat. 305][/us/stat/84/305]; [Pub. L. 97–417][/us/pl/97/417], § 2(5), Jan. 4, 1983, [96 Stat. 2085][/us/stat/96/2085]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 514(c)(1), Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629]; [Pub. L. 101–225, title II][/us/pl/101/225/tII], § 203(2), Dec. 12, 1989, [103 Stat. 1911][/us/stat/103/1911]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1677(b)(2), Oct. 5, 1994, [108 Stat. 3020][/us/stat/108/3020]; [Pub. L. 107–295, title III][/us/pl/107/295/tIII], § 313(3), Nov. 25, 2002, [116 Stat. 2103][/us/stat/116/2103].)
 
  __Amendments__ 
 
@@ -39,9 +39,9 @@
 
     1985—Subsec. (d). [Pub. L. 99–145][/us/pl/99/145] substituted “rear admiral (lower half)” for “commodore”.
 
-    1983—Subsec. (c). [Pub. L. 97–417, § 2(5)(A)][/us/pl/97/417/s2/5/A], inserted a comma after “ensign may”.
+    1983—Subsec. (c). [Pub. L. 97–417][/us/pl/97/417], § 2(5)(A), inserted a comma after “ensign may”.
 
-    Subsecs. (d) to (f). [Pub. L. 97–417, § 2(5)(B)][/us/pl/97/417/s2/5/B], (C), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+    Subsecs. (d) to (f). [Pub. L. 97–417][/us/pl/97/417], § 2(5)(B), (C), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
     1970—Subsec. (c). [Pub. L. 91–278][/us/pl/91/278] substituted “twelve” for “eighteen”.
 
@@ -51,7 +51,7 @@
 
  __Rule of Construction__ 
 
-[Pub. L. 112–213, title II, § 208(e)(2)][/us/pl/112/213/s208/e/2], Dec. 20, 2012, [126 Stat. 1549][/us/stat/126/1549], provided that: 
+[Pub. L. 112–213, title II][/us/pl/112/213/tII], § 208(e)(2), Dec. 20, 2012, [126 Stat. 1549][/us/stat/126/1549], provided that: 
 
 > “Sections 271, 272, and 273 of title 14, United States Code, apply to the activities of—
 
@@ -61,7 +61,7 @@
 
  __Permanent Grades and Titles for Officers Holding Certain Grades on__  __January 3, 1983__ 
 
-[Pub. L. 97–417, § 4][/us/pl/97/417/s4], Jan. 4, 1983, [96 Stat. 2087][/us/stat/96/2087], provided that:
+[Pub. L. 97–417][/us/pl/97/417], § 4, Jan. 4, 1983, [96 Stat. 2087][/us/stat/96/2087], provided that:
 
 >     “(a)
 
@@ -124,19 +124,19 @@
 
 [/us/usc/t14/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs42
 [/us/usc/t10/s12203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12203
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F181
-[/us/pl/91/278/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278%2Fs1%2F8
+[/us/pl/91/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278
 [/us/stat/84/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F305
-[/us/pl/97/417/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417%2Fs2%2F5
+[/us/pl/97/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417
 [/us/stat/96/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2085
-[/us/pl/99/145/s514/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fc%2F1
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F629
-[/us/pl/101/225/s203/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs203%2F2
+[/us/pl/101/225/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtII
 [/us/stat/103/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1911
-[/us/pl/103/337/s1677/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1677%2Fb%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3020
-[/us/pl/107/295/s313/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs313%2F3
+[/us/pl/107/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIII
 [/us/stat/116/2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2103
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
@@ -144,15 +144,15 @@
 [/us/usc/t10/s593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs593
 [/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
-[/us/pl/97/417/s2/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417%2Fs2%2F5%2FA
-[/us/pl/97/417/s2/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417%2Fs2%2F5%2FB
+[/us/pl/97/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417
+[/us/pl/97/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417
 [/us/pl/91/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
-[/us/pl/112/213/s208/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs208%2Fe%2F2
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1549
-[/us/pl/97/417/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417%2Fs4
+[/us/pl/97/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417
 [/us/stat/96/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2087
 [/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/usc/t14/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs211

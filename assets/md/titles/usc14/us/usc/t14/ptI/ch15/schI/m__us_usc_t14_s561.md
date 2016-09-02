@@ -27,7 +27,7 @@
 
         (2) to assist in the development of a workforce that is trained and qualified to further the Coast Guard’s missions and deliver the best-value products and services to the Nation.
 
-(Added [Pub. L. 111–281, title IV, § 402(a)][/us/pl/111/281/s402/a], Oct. 15, 2010, [124 Stat. 2931][/us/stat/124/2931].)
+(Added [Pub. L. 111–281, title IV][/us/pl/111/281/tIV], § 402(a), Oct. 15, 2010, [124 Stat. 2931][/us/stat/124/2931].)
 
  __Prior Provisions__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs402%2Fa
+[/us/pl/111/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIV
 [/us/stat/124/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2931
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F538

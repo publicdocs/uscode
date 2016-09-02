@@ -17,7 +17,7 @@
 
     In time of war or national emergency declared by Congress, the President may suspend the operation of this subchapter or any part hereof. If this subchapter or any part hereof is suspended by the President, prior to placing the suspended provision in operation, the President shall by regulation, in so far as practicable, adjust the grades of Reserve officers in the same manner as adjustments in grade are made for Regular officers.
 
-(Added [Pub. L. 96–322, § 1][/us/pl/96/322/s1], Aug. 4, 1980, [94 Stat. 1007][/us/stat/94/1007].)
+(Added [Pub. L. 96–322][/us/pl/96/322], § 1, Aug. 4, 1980, [94 Stat. 1007][/us/stat/94/1007].)
 
  __Prior Provisions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/96/322/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322%2Fs1
+[/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
 [/us/stat/94/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1007
 [/us/usc/t14/s778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs778
 [/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322

@@ -35,7 +35,7 @@
 
         (3) an estimate of the annual costs that the Coast Guard may incur in conducting operations on such waterway, or portion thereof.
 
-(Added [Pub. L. 113–281, title II, § 210(a)][/us/pl/113/281/s210/a], Dec. 18, 2014, [128 Stat. 3027][/us/stat/128/3027].)
+(Added [Pub. L. 113–281, title II][/us/pl/113/281/tII], § 210(a), Dec. 18, 2014, [128 Stat. 3027][/us/stat/128/3027].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/113/281/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs210%2Fa
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3027
 
 

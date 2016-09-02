@@ -23,7 +23,7 @@
 
     (3) “pollutant” has the same meaning it has in section 502 of the Federal Water Pollution Control Act ([33 U.S.C. 1362][/us/usc/t33/s1362]).
 
-(Added [Pub. L. 101–225, title II, § 222(a)][/us/pl/101/225/s222/a], Dec. 12, 1989, [103 Stat. 1917][/us/stat/103/1917].)
+(Added [Pub. L. 101–225, title II][/us/pl/101/225/tII], § 222(a), Dec. 12, 1989, [103 Stat. 1917][/us/stat/103/1917].)
 
 ----------
 
@@ -36,7 +36,7 @@
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
 [/us/usc/t33/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1362
-[/us/pl/101/225/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs222%2Fa
+[/us/pl/101/225/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtII
 [/us/stat/103/1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1917
 
 

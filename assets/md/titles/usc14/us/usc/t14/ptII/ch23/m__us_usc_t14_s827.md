@@ -17,7 +17,7 @@
 
     While assigned to authorized Coast Guard duty, any motorboat or yacht shall be deemed to be a public vessel of the United States and a vessel of the Coast Guard within the meaning of sections 646 and 647 of this title and other applicable provisions of law.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 555][/us/stat/63/555]; [Pub. L. 104–324, title IV, § 406][/us/pl/104/324/s406], Oct. 19, 1996, [110 Stat. 3924][/us/stat/110/3924].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 555][/us/stat/63/555]; [Pub. L. 104–324, title IV][/us/pl/104/324/tIV], § 406, Oct. 19, 1996, [110 Stat. 3924][/us/stat/110/3924].)
 
  __Historical and Revision Notes__ 
 
@@ -38,7 +38,7 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F555
-[/us/pl/104/324/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs406
+[/us/pl/104/324/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIV
 [/us/stat/110/3924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3924
 [/us/act/1941-02-19/ch8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-02-19%2Fch8
 [/us/stat/55/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F10

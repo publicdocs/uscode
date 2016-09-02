@@ -27,11 +27,11 @@
 
     (c) No person shall receive more than one gold medal and one silver medal; but any person who has received or may hereafter receive a gold or silver medal and who again performs an act which would entitle him to receive another medal of the same class may be awarded, in lieu of a second medal of the same class, a gold or silver bar, as the case may be, to be worn with the medal already bestowed, and for every such additional act, an additional bar may be awarded. Medals and bars in lieu thereof, authorized by this subsection, may be awarded posthumously.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 536][/us/stat/63/536]; [Pub. L. 94–546, § 1(31)][/us/pl/94/546/s1/31], Oct. 18, 1976, [90 Stat. 2521][/us/stat/90/2521].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 536][/us/stat/63/536]; [Pub. L. 94–546][/us/pl/94/546], § 1(31), Oct. 18, 1976, [90 Stat. 2521][/us/stat/90/2521].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 14, U.S.C., 1946 ed., §§ 193, 194, 195, 196 ([June 20, 1874, ch. 344, § 7][/us/act/1874-06-20/ch344/s7], [18 Stat. 127][/us/stat/18/127]; [June 18, 1878, ch. 265, § 12][/us/act/1878-06-18/ch265/s12], [20 Stat. 165][/us/stat/20/165]; [May 4, 1882, ch. 117, § 9][/us/act/1882-05-04/ch117/s9], [22 Stat. 57][/us/stat/22/57]; [Jan. 21, 1897, ch. 83][/us/act/1897-01-21/ch83], [29 Stat. 494][/us/stat/29/494]).
+    Based on title 14, U.S.C., 1946 ed., §§ 193, 194, 195, 196 ([June 20, 1874, ch. 344][/us/act/1874-06-20/ch344], § 7, [18 Stat. 127][/us/stat/18/127]; [June 18, 1878, ch. 265][/us/act/1878-06-18/ch265], § 12, [20 Stat. 165][/us/stat/20/165]; [May 4, 1882, ch. 117][/us/act/1882-05-04/ch117], § 9, [22 Stat. 57][/us/stat/22/57]; [Jan. 21, 1897, ch. 83][/us/act/1897-01-21/ch83], [29 Stat. 494][/us/stat/29/494]).
 
     Said sections have been rewritten so as to make the awarding of Life-saving medals turn on whether or not the United States has an interest in the heroic act, rather than on technical jurisdictional grounds. Under existing law the award of a medal could be made in any case in which the rescuer or the rescued was a citizen of the United States, or was from a vessel owned or operated by the United States regardless of where the rescue took place; and if the rescue took place within waters of the United States the award could be made to an alien.
 
@@ -54,13 +54,13 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F536
-[/us/pl/94/546/s1/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F31
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/stat/90/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2521
-[/us/act/1874-06-20/ch344/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-20%2Fch344%2Fs7
+[/us/act/1874-06-20/ch344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-20%2Fch344
 [/us/stat/18/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F127
-[/us/act/1878-06-18/ch265/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1878-06-18%2Fch265%2Fs12
+[/us/act/1878-06-18/ch265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1878-06-18%2Fch265
 [/us/stat/20/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F20%2F165
-[/us/act/1882-05-04/ch117/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-05-04%2Fch117%2Fs9
+[/us/act/1882-05-04/ch117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-05-04%2Fch117
 [/us/stat/22/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F57
 [/us/act/1897-01-21/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-01-21%2Fch83
 [/us/stat/29/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F494

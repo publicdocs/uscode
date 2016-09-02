@@ -23,7 +23,7 @@
 
     The Secretary may also establish requirements similar to those established by the Secretary of Defense pursuant to [section 2784a of title 10][/us/usc/t10/s2784a] for deduction or withholding of pay or retired pay from a Coast Guard employee, member, or retired member who is delinquent in payment under the terms of the contract under which the card was issued and does not dispute the amount of the delinquency.
 
-(Added [Pub. L. 108–293, title II, § 210(a)][/us/pl/108/293/s210/a], Aug. 9, 2004, [118 Stat. 1036][/us/stat/118/1036].)
+(Added [Pub. L. 108–293, title II][/us/pl/108/293/tII], § 210(a), Aug. 9, 2004, [118 Stat. 1036][/us/stat/118/1036].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t10/s2784a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2784a
-[/us/pl/108/293/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs210%2Fa
+[/us/pl/108/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtII
 [/us/stat/118/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1036
 
 

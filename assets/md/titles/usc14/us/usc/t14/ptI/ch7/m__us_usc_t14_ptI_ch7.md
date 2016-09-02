@@ -151,21 +151,21 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–281, title V, § 502(b)][/us/pl/113/281/s502/b], Dec. 18, 2014, [128 Stat. 3058][/us/stat/128/3058], added item 154.
+    2014—[Pub. L. 113–281, title V][/us/pl/113/281/tV], § 502(b), Dec. 18, 2014, [128 Stat. 3058][/us/stat/128/3058], added item 154.
 
-    2010—[Pub. L. 111–281, title II, § 201(b)][/us/pl/111/281/s201/b], title IX, § 903(b)(1), Oct. 15, 2010, [124 Stat. 2909][/us/stat/124/2909], 3011, inserted period at end of item 149 and added item 153.
+    2010—[Pub. L. 111–281, title II][/us/pl/111/281/tII], § 201(b), title IX, § 903(b)(1), Oct. 15, 2010, [124 Stat. 2909][/us/stat/124/2909], 3011, inserted period at end of item 149 and added item 153.
 
-    2006—[Pub. L. 109–241, title II, § 202(b)][/us/pl/109/241/s202/b], July 11, 2006, [120 Stat. 520][/us/stat/120/520], substituted “Assistance to foreign governments and maritime authorities” for “Detail of members to assist foreign governments.” in item 149.
+    2006—[Pub. L. 109–241, title II][/us/pl/109/241/tII], § 202(b), July 11, 2006, [120 Stat. 520][/us/stat/120/520], substituted “Assistance to foreign governments and maritime authorities” for “Detail of members to assist foreign governments.” in item 149.
 
-    2004—[Pub. L. 108–293, title II, § 202(b)][/us/pl/108/293/s202/b], Aug. 9, 2004, [118 Stat. 1032][/us/stat/118/1032], added item 152.
+    2004—[Pub. L. 108–293, title II][/us/pl/108/293/tII], § 202(b), Aug. 9, 2004, [118 Stat. 1032][/us/stat/118/1032], added item 152.
 
-    1996—[Pub. L. 104–324, title IV, § 405(b)][/us/pl/104/324/s405/b], Oct. 19, 1996, [110 Stat. 3924][/us/stat/110/3924], substituted “Cooperation with other agencies, States, territories, and political subdivisions” for “General” in item 141.
+    1996—[Pub. L. 104–324, title IV][/us/pl/104/324/tIV], § 405(b), Oct. 19, 1996, [110 Stat. 3924][/us/stat/110/3924], substituted “Cooperation with other agencies, States, territories, and political subdivisions” for “General” in item 141.
 
-    1984—[Pub. L. 98–557, § 15(a)(4)(A)(ii)][/us/pl/98/557/s15/a/4/A/ii], Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865], substituted “members” for “officers and men” in item 149.
+    1984—[Pub. L. 98–557][/us/pl/98/557], § 15(a)(4)(A)(ii), Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865], substituted “members” for “officers and men” in item 149.
 
-    1982—[Pub. L. 97–295, § 2(6)(B)][/us/pl/97/295/s2/6/B], Oct. 12, 1982, [96 Stat. 1301][/us/stat/96/1301], added item 147a.
+    1982—[Pub. L. 97–295][/us/pl/97/295], § 2(6)(B), Oct. 12, 1982, [96 Stat. 1301][/us/stat/96/1301], added item 147a.
 
-    1976—[Pub. L. 94–546, § 1(12)][/us/pl/94/546/s1/12], Oct. 18, 1976, [90 Stat. 2519][/us/stat/90/2519], substituted “United States Postal Service” for “Post Office Department” in item 146.
+    1976—[Pub. L. 94–546][/us/pl/94/546], § 1(12), Oct. 18, 1976, [90 Stat. 2519][/us/stat/90/2519], substituted “United States Postal Service” for “Post Office Department” in item 146.
 
 ----------
 
@@ -174,21 +174,21 @@
 ----------
 ----------
 
-[/us/pl/113/281/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs502%2Fb
+[/us/pl/113/281/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtV
 [/us/stat/128/3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3058
-[/us/pl/111/281/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs201%2Fb
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2909
-[/us/pl/109/241/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs202%2Fb
+[/us/pl/109/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtII
 [/us/stat/120/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F520
-[/us/pl/108/293/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs202%2Fb
+[/us/pl/108/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtII
 [/us/stat/118/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1032
-[/us/pl/104/324/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs405%2Fb
+[/us/pl/104/324/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIV
 [/us/stat/110/3924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3924
-[/us/pl/98/557/s15/a/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F4%2FA%2Fii
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2865
-[/us/pl/97/295/s2/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs2%2F6%2FB
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1301
-[/us/pl/94/546/s1/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F12
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/stat/90/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2519
 
 

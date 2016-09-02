@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_s518.md) | [Next](./../../../../..//us/usc/t14/ptI/ch14/schI/m__us_usc_t14_ptI_ch14_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch14)
+[Previous](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_s519.md) | [Next](./../../../../..//us/usc/t14/ptI/ch14/schI/m__us_usc_t14_ptI_ch14_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch14)
 
 ### CHAPTER 14—COAST GUARD FAMILY SUPPORT AND CHILD CARE
 
@@ -145,16 +145,16 @@ Amendments  </td>
 
 </table>
 
-    2014—[Pub. L. 113–281, title II, § 214(b)(2)(C)][/us/pl/113/281/s214/b/2/C], Dec. 18, 2014, [128 Stat. 3034][/us/stat/128/3034], added items 541, 544, and 552.
+    2014—[Pub. L. 113–281, title II][/us/pl/113/281/tII], § 214(b)(2)(C), Dec. 18, 2014, [128 Stat. 3034][/us/stat/128/3034], added items 541, 544, and 552.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_s518.md) | [Next](./../../../../..//us/usc/t14/ptI/ch14/schI/m__us_usc_t14_ptI_ch14_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch14)
+[Previous](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_s519.md) | [Next](./../../../../..//us/usc/t14/ptI/ch14/schI/m__us_usc_t14_ptI_ch14_schI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch14)
 
 ----------
 ----------
 
-[/us/pl/113/281/s214/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs214%2Fb%2F2%2FC
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3034
 
 

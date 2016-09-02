@@ -39,7 +39,7 @@
 
     (d) Fares received under subsection (a), and proceeds of the leasing or chartering of equipment under subsection (c)(3), shall be covered into the Treasury as miscellaneous receipts.
 
-(Added [Pub. L. 96–376, § 10(a)][/us/pl/96/376/s10/a], Oct. 3, 1980, [94 Stat. 1510][/us/stat/94/1510]; amended [Pub. L. 99–145, title XVI, § 1623][/us/pl/99/145/s1623], Nov. 8, 1985, [99 Stat. 778][/us/stat/99/778]; [Pub. L. 99–550, § 2(e)][/us/pl/99/550/s2/e], Oct. 27, 1986, [100 Stat. 3070][/us/stat/100/3070].)
+(Added [Pub. L. 96–376][/us/pl/96/376], § 10(a), Oct. 3, 1980, [94 Stat. 1510][/us/stat/94/1510]; amended [Pub. L. 99–145, title XVI][/us/pl/99/145/tXVI], § 1623, Nov. 8, 1985, [99 Stat. 778][/us/stat/99/778]; [Pub. L. 99–550][/us/pl/99/550], § 2(e), Oct. 27, 1986, [100 Stat. 3070][/us/stat/100/3070].)
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@
 
  __Effective Date of 1985 Amendment__ 
 
-    [Pub. L. 99–145, title XVI, § 1623][/us/pl/99/145/s1623], Nov. 8, 1985, [99 Stat. 778][/us/stat/99/778], provided that the amendment made by that section is effective Oct. 1, 1985.
+    [Pub. L. 99–145, title XVI][/us/pl/99/145/tXVI], § 1623, Nov. 8, 1985, [99 Stat. 778][/us/stat/99/778], provided that the amendment made by that section is effective Oct. 1, 1985.
 
 ----------
 
@@ -58,16 +58,16 @@
 ----------
 ----------
 
-[/us/pl/96/376/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F376%2Fs10%2Fa
+[/us/pl/96/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F376
 [/us/stat/94/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1510
-[/us/pl/99/145/s1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1623
+[/us/pl/99/145/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXVI
 [/us/stat/99/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F778
-[/us/pl/99/550/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F550%2Fs2%2Fe
+[/us/pl/99/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F550
 [/us/stat/100/3070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3070
 [/us/pl/99/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F550
 [/us/usc/t31/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1344
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
-[/us/pl/99/145/s1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1623
+[/us/pl/99/145/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXVI
 [/us/stat/99/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F778
 
 

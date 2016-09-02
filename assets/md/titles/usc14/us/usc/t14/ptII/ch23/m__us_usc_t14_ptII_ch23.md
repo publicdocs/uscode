@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptII/ch21/m__us_usc_t14_s762.md) | [Next](./../../../../..//us/usc/t14/ptII/ch23/m__us_usc_t14_s821.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptII%2Fch23)
+[Previous](./../../../../..//us/usc/t14/ptII/ch21/m__us_usc_t14_s770...798.md) | [Next](./../../../../..//us/usc/t14/ptII/ch23/m__us_usc_t14_s821.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptII%2Fch23)
 
 ### CHAPTER 23—COAST GUARD AUXILIARY
 
@@ -131,20 +131,20 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–213, title II, § 215(b)][/us/pl/112/213/s215/b], Dec. 20, 2012, [126 Stat. 1555][/us/stat/126/1555], substituted “Eligibility; enrollments” for “Eligibility, enrollments” in item 823.
+    2012—[Pub. L. 112–213, title II][/us/pl/112/213/tII], § 215(b), Dec. 20, 2012, [126 Stat. 1555][/us/stat/126/1555], substituted “Eligibility; enrollments” for “Eligibility, enrollments” in item 823.
 
-    1996—[Pub. L. 104–324, title IV][/us/pl/104/324], §§ 401(b), 402(b), 403(b), Oct. 19, 1996, [110 Stat. 3923][/us/stat/110/3923], 3924, inserted “of the Coast Guard Auxiliary” after “Administration” in item 821, inserted “of the Coast Guard Auxiliary” after “Purpose” in item 822, and added item 823a.
-
-----------
-
-[Previous](./../../../../..//us/usc/t14/ptII/ch21/m__us_usc_t14_s762.md) | [Next](./../../../../..//us/usc/t14/ptII/ch23/m__us_usc_t14_s821.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptII%2Fch23)
+    1996—[Pub. L. 104–324, title IV][/us/pl/104/324/tIV], §§ 401(b), 402(b), 403(b), Oct. 19, 1996, [110 Stat. 3923][/us/stat/110/3923], 3924, inserted “of the Coast Guard Auxiliary” after “Administration” in item 821, inserted “of the Coast Guard Auxiliary” after “Purpose” in item 822, and added item 823a.
 
 ----------
+
+[Previous](./../../../../..//us/usc/t14/ptII/ch21/m__us_usc_t14_s770...798.md) | [Next](./../../../../..//us/usc/t14/ptII/ch23/m__us_usc_t14_s821.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptII%2Fch23)
+
+----------
 ----------
 
-[/us/pl/112/213/s215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs215%2Fb
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1555
-[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIV
 [/us/stat/110/3923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3923
 
 

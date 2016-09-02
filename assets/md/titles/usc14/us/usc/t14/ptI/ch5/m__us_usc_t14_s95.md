@@ -39,7 +39,7 @@
 
     (c) The authority provided under subsection (a) shall be exercised in accordance with guidelines prescribed by the Commandant and approved by the Attorney General and any other applicable guidelines prescribed by the Secretary or the Attorney General.
 
-(Added [Pub. L. 100–448, § 10(a)][/us/pl/100/448/s10/a], Sept. 28, 1988, [102 Stat. 1842][/us/stat/102/1842]; amended [Pub. L. 105–383, title II, § 205(a)][/us/pl/105/383/s205/a], Nov. 13, 1998, [112 Stat. 3415][/us/stat/112/3415]; [Pub. L. 107–296, title XVII, § 1704(a)][/us/pl/107/296/s1704/a], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 112–213, title II, § 217(2)][/us/pl/112/213/s217/2], Dec. 20, 2012, [126 Stat. 1557][/us/stat/126/1557].)
+(Added [Pub. L. 100–448][/us/pl/100/448], § 10(a), Sept. 28, 1988, [102 Stat. 1842][/us/stat/102/1842]; amended [Pub. L. 105–383, title II][/us/pl/105/383/tII], § 205(a), Nov. 13, 1998, [112 Stat. 3415][/us/stat/112/3415]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(a), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 112–213, title II][/us/pl/112/213/tII], § 217(2), Dec. 20, 2012, [126 Stat. 1557][/us/stat/126/1557].)
 
  __Amendments__ 
 
@@ -60,13 +60,13 @@
 ----------
 ----------
 
-[/us/pl/100/448/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs10%2Fa
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
 [/us/stat/102/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1842
-[/us/pl/105/383/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs205%2Fa
+[/us/pl/105/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtII
 [/us/stat/112/3415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3415
-[/us/pl/107/296/s1704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fa
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/112/213/s217/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs217%2F2
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1557
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

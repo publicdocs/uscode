@@ -19,7 +19,7 @@
 
     (b) An officer in the Retired Reserve or an officer on a Reserve retired list recalled to active duty shall upon release therefrom be advanced in the Retired Reserve or on the Reserve retired list to the highest grade held on active duty, if: (1) appointed to a higher grade while on that duty, and (2) the officer’s performance has been satisfactory in the higher grade.
 
-(Added [Pub. L. 96–322, § 1][/us/pl/96/322/s1], Aug. 4, 1980, [94 Stat. 1015][/us/stat/94/1015].)
+(Added [Pub. L. 96–322][/us/pl/96/322], § 1, Aug. 4, 1980, [94 Stat. 1015][/us/stat/94/1015].)
 
  __Prior Provisions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/322/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322%2Fs1
+[/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
 [/us/stat/94/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1015
 [/us/usc/t14/s793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs793
 [/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322

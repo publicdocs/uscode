@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_ptI_ch18.md) | [Next](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_s681.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs680.1)
+[Previous](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_ptI_ch18.md) | [Next](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_s681.1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs680.1)
 
 ## § 680. <sup>\[1\]</sup>  <sup><sup> 1 Another section 680 has been enacted in chapter 17 of this title. </sup></sup>  Definitions
 
@@ -25,7 +25,7 @@
 
     (4) The term “United States” includes the Commonwealth of Puerto Rico, Guam, the United States Virgin Islands, and the District of Columbia.
 
-(Added [Pub. L. 104–324, title II, § 208(a)][/us/pl/104/324/s208/a], Oct. 19, 1996, [110 Stat. 3909][/us/stat/110/3909]; amended [Pub. L. 108–293, title II, § 207(a)][/us/pl/108/293/s207/a], Aug. 9, 2004, [118 Stat. 1034][/us/stat/118/1034]; [Pub. L. 111–281, title II, § 221(a)(1)][/us/pl/111/281/s221/a/1], Oct. 15, 2010, [124 Stat. 2919][/us/stat/124/2919].)
+(Added [Pub. L. 104–324, title II][/us/pl/104/324/tII], § 208(a), Oct. 19, 1996, [110 Stat. 3909][/us/stat/110/3909]; amended [Pub. L. 108–293, title II][/us/pl/108/293/tII], § 207(a), Aug. 9, 2004, [118 Stat. 1034][/us/stat/118/1034]; [Pub. L. 111–281, title II][/us/pl/111/281/tII], § 221(a)(1), Oct. 15, 2010, [124 Stat. 2919][/us/stat/124/2919].)
 
  __Amendments__ 
 
@@ -41,26 +41,26 @@
 
  __Savings Clause__ 
 
-[Pub. L. 111–281, title II, § 221(b)][/us/pl/111/281/s221/b], Oct. 15, 2010, [124 Stat. 2920][/us/stat/124/2920], provided that: 
+[Pub. L. 111–281, title II][/us/pl/111/281/tII], § 221(b), Oct. 15, 2010, [124 Stat. 2920][/us/stat/124/2920], provided that: 
 
 > “This section \[amending this section and sections 681, 685, 687, and 688 of this title and repealing sections 682 to 684, 686, 687a, and 689 of this title\] shall not affect any action commenced prior to the date of enactment of this Act \[Oct. 15, 2010\].”
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_ptI_ch18.md) | [Next](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_s681.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs680.1)
+[Previous](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_ptI_ch18.md) | [Next](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_s681.1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs680.1)
 
 ----------
 ----------
 
-[/us/pl/104/324/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs208%2Fa
+[/us/pl/104/324/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtII
 [/us/stat/110/3909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3909
-[/us/pl/108/293/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs207%2Fa
+[/us/pl/108/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtII
 [/us/stat/118/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1034
-[/us/pl/111/281/s221/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs221%2Fa%2F1
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2919
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
-[/us/pl/111/281/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs221%2Fb
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2920
 
 

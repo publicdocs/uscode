@@ -39,13 +39,13 @@
 
         (3) In this subsection, the term “dependents” has the same meaning as defined in [section 1072(2) of title 10][/us/usc/t10/s1072/2].
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 506][/us/stat/63/506]; [Aug. 3, 1950, ch. 536, § 3][/us/act/1950-08-03/ch536/s3], [64 Stat. 406][/us/stat/64/406]; [Pub. L. 94–546, § 1(11)][/us/pl/94/546/s1/11], Oct. 18, 1976, [90 Stat. 2519][/us/stat/90/2519]; [Pub. L. 98–557, § 15(a)(3)(D)][/us/pl/98/557/s15/a/3/D], Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865]; [Pub. L. 107–296, title XVII, § 1704(a)][/us/pl/107/296/s1704/a], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 111–281, title II, § 223][/us/pl/111/281/s223], Oct. 15, 2010, [124 Stat. 2921][/us/stat/124/2921].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 506][/us/stat/63/506]; [Aug. 3, 1950, ch. 536][/us/act/1950-08-03/ch536], § 3, [64 Stat. 406][/us/stat/64/406]; [Pub. L. 94–546][/us/pl/94/546], § 1(11), Oct. 18, 1976, [90 Stat. 2519][/us/stat/90/2519]; [Pub. L. 98–557][/us/pl/98/557], § 15(a)(3)(D), Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(a), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 111–281, title II][/us/pl/111/281/tII], § 223, Oct. 15, 2010, [124 Stat. 2921][/us/stat/124/2921].)
 
  __Historical and Revision Notes__ 
 
-    Subsection (a) is based on title 14, U.S.C., 1946 ed., §§ 28, 42, 57 ([Aug. 29, 1916, ch. 417][/us/act/1916-08-29/ch417], [39 Stat. 601][/us/stat/39/601]; [July 3, 1926, ch. 742, § 11][/us/act/1926-07-03/ch742/s11], [44 Stat. 817][/us/stat/44/817].) Subsection is enlarged to make reimbursement for the building of ships or the training of personnel dependent on agreement of the Secretaries, and to include all schools operated by the Navy, rather than aviation schools only.
+    Subsection (a) is based on title 14, U.S.C., 1946 ed., §§ 28, 42, 57 ([Aug. 29, 1916, ch. 417][/us/act/1916-08-29/ch417], [39 Stat. 601][/us/stat/39/601]; [July 3, 1926, ch. 742][/us/act/1926-07-03/ch742], § 11, [44 Stat. 817][/us/stat/44/817].) Subsection is enlarged to make reimbursement for the building of ships or the training of personnel dependent on agreement of the Secretaries, and to include all schools operated by the Navy, rather than aviation schools only.
 
-    Subsection (b) is based on title 14, U.S.C., 1946 ed., § 31 ([Mar. 6, 1920, ch. 94, § 1][/us/act/1920-03-06/ch94/s1], [41 Stat. 506][/us/stat/41/506]).
+    Subsection (b) is based on title 14, U.S.C., 1946 ed., § 31 ([Mar. 6, 1920, ch. 94][/us/act/1920-03-06/ch94], § 1, [41 Stat. 506][/us/stat/41/506]).
 
     Subsection (c) is new. This subsection enacts what has been the practice of the Navy and Coast Guard in keeping the Coast Guard trained to “come on board with some muscle” in time of emergency.
 
@@ -55,17 +55,17 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(4). [Pub. L. 111–281, § 223(1)][/us/pl/111/281/s223/1], added par. (4).
+    2010—Subsec. (a)(4). [Pub. L. 111–281][/us/pl/111/281], § 223(1), added par. (4).
 
-    Subsec. (d). [Pub. L. 111–281, § 223(2)][/us/pl/111/281/s223/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 111–281][/us/pl/111/281], § 223(2), added subsec. (d).
 
     2002—Subsec. (c). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation” in two places.
 
     1984—Subsec. (a)(2). [Pub. L. 98–557][/us/pl/98/557] substituted reference to members for reference to officers and enlisted men in two places.
 
-    1976—Subsec. (a). [Pub. L. 94–546, § 1(11)(a)][/us/pl/94/546/s1/11/a], substituted “at the request of the Secretary” for “at the request of the Secretary of the Treasury”.
+    1976—Subsec. (a). [Pub. L. 94–546][/us/pl/94/546], § 1(11)(a), substituted “at the request of the Secretary” for “at the request of the Secretary of the Treasury”.
 
-    Subsec. (c). [Pub. L. 94–546, § 1(11)(b)][/us/pl/94/546/s1/11/b], substituted in first sentence “Department of Transportation” for “Treasury Department” and in second sentence “Secretary of Transportation” for “Secretary of the Treasury”.
+    Subsec. (c). [Pub. L. 94–546][/us/pl/94/546], § 1(11)(b), substituted in first sentence “Department of Transportation” for “Treasury Department” and in second sentence “Secretary of Transportation” for “Secretary of the Treasury”.
 
     1950—Subsec. (a)(3). Act Aug. 3, 1950, added par. (3).
 
@@ -84,29 +84,29 @@
 [/us/usc/t10/s1072/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F506
-[/us/act/1950-08-03/ch536/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch536%2Fs3
+[/us/act/1950-08-03/ch536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch536
 [/us/stat/64/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F406
-[/us/pl/94/546/s1/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F11
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/stat/90/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2519
-[/us/pl/98/557/s15/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F3%2FD
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2865
-[/us/pl/107/296/s1704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fa
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/111/281/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs223
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2921
 [/us/act/1916-08-29/ch417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-29%2Fch417
 [/us/stat/39/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F601
-[/us/act/1926-07-03/ch742/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch742%2Fs11
+[/us/act/1926-07-03/ch742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch742
 [/us/stat/44/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F817
-[/us/act/1920-03-06/ch94/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-06%2Fch94%2Fs1
+[/us/act/1920-03-06/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-06%2Fch94
 [/us/stat/41/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F506
 [/us/usc/t14/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs3
-[/us/pl/111/281/s223/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs223%2F1
-[/us/pl/111/281/s223/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs223%2F2
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
-[/us/pl/94/546/s1/11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F11%2Fa
-[/us/pl/94/546/s1/11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F11%2Fb
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101

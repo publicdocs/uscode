@@ -19,7 +19,7 @@
 
     (b) Notwithstanding any other provision of law, if promotion of inactive duty promotion list officers to the grade of rear admiral is not determined in accordance with a running mate system, a Reserve officer serving in an active status in the grade of rear admiral (lower half) shall be promoted to the grade of rear admiral, if acceptable to the President and the Senate, on the date the officer has served 2 years in an active status in grade of rear admiral (lower half), or in the case of a vacancy occurring prior to having served 2 years in an active status, on the date the vacancy occurs, if the officer served at least 1 year in an active status in the grade of rear admiral (lower half).
 
-(Added [Pub. L. 96–322, § 1][/us/pl/96/322/s1], Aug. 4, 1980, [94 Stat. 1015][/us/stat/94/1015]; amended [Pub. L. 97–417, § 2(17)(A)][/us/pl/97/417/s2/17/A], Jan. 4, 1983, [96 Stat. 2086][/us/stat/96/2086]; [Pub. L. 99–145, title V, § 514(c)(1)][/us/pl/99/145/s514/c/1], (3)(A), Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629]; [Pub. L. 108–293, title II, § 220(d)][/us/pl/108/293/s220/d], Aug. 9, 2004, [118 Stat. 1039][/us/stat/118/1039].)
+(Added [Pub. L. 96–322][/us/pl/96/322], § 1, Aug. 4, 1980, [94 Stat. 1015][/us/stat/94/1015]; amended [Pub. L. 97–417][/us/pl/97/417], § 2(17)(A), Jan. 4, 1983, [96 Stat. 2086][/us/stat/96/2086]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 514(c)(1), (3)(A), Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629]; [Pub. L. 108–293, title II][/us/pl/108/293/tII], § 220(d), Aug. 9, 2004, [118 Stat. 1039][/us/stat/118/1039].)
 
  __Amendments__ 
 
@@ -36,13 +36,13 @@
 ----------
 ----------
 
-[/us/pl/96/322/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322%2Fs1
+[/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
 [/us/stat/94/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1015
-[/us/pl/97/417/s2/17/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417%2Fs2%2F17%2FA
+[/us/pl/97/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417
 [/us/stat/96/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2086
-[/us/pl/99/145/s514/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fc%2F1
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F629
-[/us/pl/108/293/s220/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs220%2Fd
+[/us/pl/108/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtII
 [/us/stat/118/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1039
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145

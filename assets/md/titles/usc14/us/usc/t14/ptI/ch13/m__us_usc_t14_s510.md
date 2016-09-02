@@ -17,7 +17,7 @@
 
     An officer or cadet of the Coast Guard who is assigned shore patrol duty away from his vessel or other duty station may be paid his actual expenses.
 
-(Added [Aug. 10, 1956, ch. 1041, § 14(a)][/us/act/1956-08-10/ch1041/s14/a], [70A Stat. 624][/us/stat/70A/624].)
+(Added [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 14(a), [70A Stat. 624][/us/stat/70A/624].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-10/ch1041/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs14%2Fa
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F624
 
 

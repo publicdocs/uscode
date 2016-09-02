@@ -53,11 +53,11 @@
 
         (2) subject to a civil penalty of not more than $1,000 per day for each violation.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 501][/us/stat/63/501]; [Pub. L. 91–278, § 1(3)][/us/pl/91/278/s1/3], June 12, 1970, [84 Stat. 304][/us/stat/84/304]; [Pub. L. 100–448, § 30(a)][/us/pl/100/448/s30/a], Sept. 28, 1988, [102 Stat. 1849][/us/stat/102/1849]; [Pub. L. 101–595, title IV, § 401][/us/pl/101/595/s401], Nov. 16, 1990, [104 Stat. 2989][/us/stat/104/2989]; [Pub. L. 104–324, title II, § 213(a)][/us/pl/104/324/s213/a], Oct. 19, 1996, [110 Stat. 3915][/us/stat/110/3915]; [Pub. L. 112–213, title II, § 201][/us/pl/112/213/s201], Dec. 20, 2012, [126 Stat. 1543][/us/stat/126/1543]; [Pub. L. 113–281, title II, § 205(a)(4)][/us/pl/113/281/s205/a/4], Dec. 18, 2014, [128 Stat. 3025][/us/stat/128/3025].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 501][/us/stat/63/501]; [Pub. L. 91–278][/us/pl/91/278], § 1(3), June 12, 1970, [84 Stat. 304][/us/stat/84/304]; [Pub. L. 100–448][/us/pl/100/448], § 30(a), Sept. 28, 1988, [102 Stat. 1849][/us/stat/102/1849]; [Pub. L. 101–595, title IV][/us/pl/101/595/tIV], § 401, Nov. 16, 1990, [104 Stat. 2989][/us/stat/104/2989]; [Pub. L. 104–324, title II][/us/pl/104/324/tII], § 213(a), Oct. 19, 1996, [110 Stat. 3915][/us/stat/110/3915]; [Pub. L. 112–213, title II][/us/pl/112/213/tII], § 201, Dec. 20, 2012, [126 Stat. 1543][/us/stat/126/1543]; [Pub. L. 113–281, title II][/us/pl/113/281/tII], § 205(a)(4), Dec. 18, 2014, [128 Stat. 3025][/us/stat/128/3025].)
 
  __Historical and Revision Notes__ 
 
-    Derived from title 14, U.S.C., 1946 ed., §§ 29, 53, 55, 60, 61, 62, 63, 104, and title 34, U.S.C., 1946 ed., § 471 (R.S. 1536, R.S. 2759; [June 18, 1878, ch. 265, § 4][/us/act/1878-06-18/ch265/s4], [20 Stat. 163][/us/stat/20/163]; [Apr. 19, 1906, ch. 1640][/us/act/1906-04-19/ch1640], §§ 1–3, [34 Stat. 123][/us/stat/34/123]; [May 12, 1906, ch. 2454][/us/act/1906-05-12/ch2454], [34 Stat. 190][/us/stat/34/190]; [June 24, 1914, ch. 124][/us/act/1914-06-24/ch124], [38 Stat. 387][/us/stat/38/387]; [Aug. 29, 1916, ch. 417][/us/act/1916-08-29/ch417], [39 Stat. 601][/us/stat/39/601]; [Aug. 6, 1947, ch. 502][/us/act/1947-08-06/ch502], [61 Stat. 786][/us/stat/61/786]).
+    Derived from title 14, U.S.C., 1946 ed., §§ 29, 53, 55, 60, 61, 62, 63, 104, and title 34, U.S.C., 1946 ed., § 471 (R.S. 1536, R.S. 2759; [June 18, 1878, ch. 265][/us/act/1878-06-18/ch265], § 4, [20 Stat. 163][/us/stat/20/163]; [Apr. 19, 1906, ch. 1640][/us/act/1906-04-19/ch1640], §§ 1–3, [34 Stat. 123][/us/stat/34/123]; [May 12, 1906, ch. 2454][/us/act/1906-05-12/ch2454], [34 Stat. 190][/us/stat/34/190]; [June 24, 1914, ch. 124][/us/act/1914-06-24/ch124], [38 Stat. 387][/us/stat/38/387]; [Aug. 29, 1916, ch. 417][/us/act/1916-08-29/ch417], [39 Stat. 601][/us/stat/39/601]; [Aug. 6, 1947, ch. 502][/us/act/1947-08-06/ch502], [61 Stat. 786][/us/stat/61/786]).
 
     This section broadens existing law in that it authorizes the Coast Guard to engage in saving life and property in the broadest possible terms, without limitation as to place. This section reflects existing sentiment as to Coast Guard functions in relation to saving life and property. There is no intention to supersede or conflict with the present authority of the Civil Aeronautics Board to investigate certain aircraft wrecks. 81st Congress, House Report No. 557.
 
@@ -81,15 +81,15 @@
 
  __Modernization of National Distress and Response System__ 
 
-    [Pub. L. 107–295, title III, § 346][/us/pl/107/295/s346], Nov. 25, 2002, [116 Stat. 2107][/us/stat/116/2107], which required annual reports on the modernization of the National Distress and Response System, was repealed by [Pub. L. 113–188, title X, § 1001(d)(1)][/us/pl/113/188/s1001/d/1], Nov. 26, 2014, [128 Stat. 2022][/us/stat/128/2022].
+    [Pub. L. 107–295, title III][/us/pl/107/295/tIII], § 346, Nov. 25, 2002, [116 Stat. 2107][/us/stat/116/2107], which required annual reports on the modernization of the National Distress and Response System, was repealed by [Pub. L. 113–188, title X][/us/pl/113/188/tX], § 1001(d)(1), Nov. 26, 2014, [128 Stat. 2022][/us/stat/128/2022].
 
  __Helicopter Rescue Swimming Program__ 
 
-    [Pub. L. 98–557, § 9][/us/pl/98/557/s9], Oct. 30, 1984, [98 Stat. 2862][/us/stat/98/2862], required Secretary of department in which Coast Guard was operating to use such sums as necessary, from amounts appropriated for operation and maintenance of Coast Guard, to establish helicopter rescue swimming program for purpose of training selected Coast Guard personnel in rescue swimming skills, prior to repeal by [Pub. L. 104–324, title II, § 213(b)][/us/pl/104/324/s213/b], Oct. 19, 1996, [110 Stat. 3915][/us/stat/110/3915].
+    [Pub. L. 98–557][/us/pl/98/557], § 9, Oct. 30, 1984, [98 Stat. 2862][/us/stat/98/2862], required Secretary of department in which Coast Guard was operating to use such sums as necessary, from amounts appropriated for operation and maintenance of Coast Guard, to establish helicopter rescue swimming program for purpose of training selected Coast Guard personnel in rescue swimming skills, prior to repeal by [Pub. L. 104–324, title II][/us/pl/104/324/tII], § 213(b), Oct. 19, 1996, [110 Stat. 3915][/us/stat/110/3915].
 
  __Coast Guard Policies and Procedures for Towing and Salvage of Disabled Vessels for Minimization of Coast Guard Competition or Interference with Commercial Enterprise__ 
 
-[Pub. L. 97–322, title I, § 113][/us/pl/97/322/s113], Oct. 15, 1982, [96 Stat. 1585][/us/stat/96/1585], as amended by [Pub. L. 100–448, § 30(b)][/us/pl/100/448/s30/b], Sept. 28, 1988, [102 Stat. 1850][/us/stat/102/1850], provided that: 
+[Pub. L. 97–322, title I][/us/pl/97/322/tI], § 113, Oct. 15, 1982, [96 Stat. 1585][/us/stat/96/1585], as amended by [Pub. L. 100–448][/us/pl/100/448], § 30(b), Sept. 28, 1988, [102 Stat. 1850][/us/stat/102/1850], provided that: 
 
 > “The Commandant of the Coast Guard shall review Coast Guard policies and procedures for towing and salvage of disabled vessels in order to further minimize the possibility of Coast Guard competition or interference (other than by the Coast Guard Auxiliary) with private towing activities or other commercial enterprise.”
 
@@ -103,19 +103,19 @@
 [/us/usc/t46/s8904/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs8904%2Fb
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F501
-[/us/pl/91/278/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278%2Fs1%2F3
+[/us/pl/91/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278
 [/us/stat/84/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F304
-[/us/pl/100/448/s30/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs30%2Fa
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
 [/us/stat/102/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1849
-[/us/pl/101/595/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs401
+[/us/pl/101/595/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2FtIV
 [/us/stat/104/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2989
-[/us/pl/104/324/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs213%2Fa
+[/us/pl/104/324/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtII
 [/us/stat/110/3915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3915
-[/us/pl/112/213/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs201
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1543
-[/us/pl/113/281/s205/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs205%2Fa%2F4
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3025
-[/us/act/1878-06-18/ch265/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1878-06-18%2Fch265%2Fs4
+[/us/act/1878-06-18/ch265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1878-06-18%2Fch265
 [/us/stat/20/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F20%2F163
 [/us/act/1906-04-19/ch1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-04-19%2Fch1640
 [/us/stat/34/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F123
@@ -134,17 +134,17 @@
 [/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
 [/us/pl/91/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/295/s346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs346
+[/us/pl/107/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIII
 [/us/stat/116/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2107
-[/us/pl/113/188/s1001/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1001%2Fd%2F1
+[/us/pl/113/188/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtX
 [/us/stat/128/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2022
-[/us/pl/98/557/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs9
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2862
-[/us/pl/104/324/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs213%2Fb
+[/us/pl/104/324/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtII
 [/us/stat/110/3915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3915
-[/us/pl/97/322/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322%2Fs113
+[/us/pl/97/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322%2FtI
 [/us/stat/96/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1585
-[/us/pl/100/448/s30/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs30%2Fb
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
 [/us/stat/102/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1850
 
 

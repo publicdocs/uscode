@@ -69,21 +69,21 @@
 
     There shall be in each Coast Guard sector a Chief of Response who shall be at least a Lieutenant Commander or civilian employee within the grade GS–13 of the General Schedule in each Coast Guard sector.
 
-(Added [Pub. L. 111–281, title V, § 521(a)][/us/pl/111/281/s521/a], Oct. 15, 2010, [124 Stat. 2953][/us/stat/124/2953]; amended [Pub. L. 113–281, title II][/us/pl/113/281], §§ 203, 221(b)(1)(B), Dec. 18, 2014, [128 Stat. 3024][/us/stat/128/3024], 3038.)
+(Added [Pub. L. 111–281, title V][/us/pl/111/281/tV], § 521(a), Oct. 15, 2010, [124 Stat. 2953][/us/stat/124/2953]; amended [Pub. L. 113–281, title II][/us/pl/113/281/tII], §§ 203, 221(b)(1)(B), Dec. 18, 2014, [128 Stat. 3024][/us/stat/128/3024], 3038.)
 
  __Amendments__ 
 
-    2014—Subsec. (b)(4), (5). [Pub. L. 113–281, § 203(1)][/us/pl/113/281/s203/1], added pars. (4) and (5).
+    2014—Subsec. (b)(4), (5). [Pub. L. 113–281][/us/pl/113/281], § 203(1), added pars. (4) and (5).
 
-    Subsec. (c). [Pub. L. 113–281, § 203(2)][/us/pl/113/281/s203/2], substituted “marine safety engineer, waterways operations manager, or port and facility safety and security specialist” for “or marine safety engineer”.
+    Subsec. (c). [Pub. L. 113–281][/us/pl/113/281], § 203(2), substituted “marine safety engineer, waterways operations manager, or port and facility safety and security specialist” for “or marine safety engineer”.
 
-    Subsec. (e). [Pub. L. 113–281, § 221(b)(1)(B)][/us/pl/113/281/s221/b/1/B], redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to assessment of adequacy of marine safety workforce.
+    Subsec. (e). [Pub. L. 113–281][/us/pl/113/281], § 221(b)(1)(B), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to assessment of adequacy of marine safety workforce.
 
-    Subsec. (f). [Pub. L. 113–281, § 221(b)(1)(B)(ii)][/us/pl/113/281/s221/b/1/B/ii], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 113–281][/us/pl/113/281], § 221(b)(1)(B)(ii), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-    Subsec. (f)(2). [Pub. L. 113–281, § 203(3)][/us/pl/113/281/s203/3], substituted “investigator, marine safety engineer, waterways operations manager, or port and facility safety and security specialist” for “investigator or marine safety engineer”.
+    Subsec. (f)(2). [Pub. L. 113–281][/us/pl/113/281], § 203(3), substituted “investigator, marine safety engineer, waterways operations manager, or port and facility safety and security specialist” for “investigator or marine safety engineer”.
 
-    Subsecs. (g), (h). [Pub. L. 113–281, § 221(b)(1)(B)(ii)][/us/pl/113/281/s221/b/1/B/ii], redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+    Subsecs. (g), (h). [Pub. L. 113–281][/us/pl/113/281], § 221(b)(1)(B)(ii), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
 ----------
 
@@ -93,15 +93,15 @@
 ----------
 
 [/us/usc/t46/s3316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs3316
-[/us/pl/111/281/s521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs521%2Fa
+[/us/pl/111/281/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtV
 [/us/stat/124/2953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2953
-[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3024
-[/us/pl/113/281/s203/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs203%2F1
-[/us/pl/113/281/s203/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs203%2F2
-[/us/pl/113/281/s221/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs221%2Fb%2F1%2FB
-[/us/pl/113/281/s221/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs221%2Fb%2F1%2FB%2Fii
-[/us/pl/113/281/s203/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs203%2F3
-[/us/pl/113/281/s221/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs221%2Fb%2F1%2FB%2Fii
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
+[/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 
 

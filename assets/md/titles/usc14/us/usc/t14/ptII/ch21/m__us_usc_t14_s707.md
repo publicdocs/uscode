@@ -41,7 +41,7 @@
 
         (3) the Secretary of Labor shall inform the Commissioner of Social Security whenever a claim is filed and eligibility for compensation is established under subsection (a)(2) or (a)(3) of [section 8133 of title 5][/us/usc/t5/s8133]. The Commissioner of Social Security shall then certify to the Secretary of Labor whether or not the member concerned was fully or currently insured under title II of the Social Security Act at the time of the member’s death.
 
-(Added [Pub. L. 96–322, § 1][/us/pl/96/322/s1], Aug. 4, 1980, [94 Stat. 1004][/us/stat/94/1004]; amended [Pub. L. 97–136, § 8(a)][/us/pl/97/136/s8/a], Dec. 29, 1981, [95 Stat. 1706][/us/stat/95/1706]; [Pub. L. 97–295, § 2(21)][/us/pl/97/295/s2/21], Oct. 12, 1982, [96 Stat. 1303][/us/stat/96/1303]; [Pub. L. 103–296, title I, § 108(g)][/us/pl/103/296/s108/g], Aug. 15, 1994, [108 Stat. 1487][/us/stat/108/1487].)
+(Added [Pub. L. 96–322][/us/pl/96/322], § 1, Aug. 4, 1980, [94 Stat. 1004][/us/stat/94/1004]; amended [Pub. L. 97–136][/us/pl/97/136], § 8(a), Dec. 29, 1981, [95 Stat. 1706][/us/stat/95/1706]; [Pub. L. 97–295][/us/pl/97/295], § 2(21), Oct. 12, 1982, [96 Stat. 1303][/us/stat/96/1303]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(g), Aug. 15, 1994, [108 Stat. 1487][/us/stat/108/1487].)
 
  __References in Text__ 
 
@@ -59,9 +59,9 @@
 
     1994—Subsec. (e)(3). [Pub. L. 103–296][/us/pl/103/296] substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” in two places.
 
-    1982—Subsec. (e)(1). [Pub. L. 97–295, § 2(21)(A)][/us/pl/97/295/s2/21/A], substituted “percent” for “per centum” wherever appearing.
+    1982—Subsec. (e)(1). [Pub. L. 97–295][/us/pl/97/295], § 2(21)(A), substituted “percent” for “per centum” wherever appearing.
 
-    Subsec. (e)(1)(A). [Pub. L. 97–295, § 2(21)(B)][/us/pl/97/295/s2/21/B], inserted “([42 U.S.C. 401][/us/usc/t42/s401] et seq.)” after “Social Security Act”.
+    Subsec. (e)(1)(A). [Pub. L. 97–295][/us/pl/97/295], § 2(21)(B), inserted “([42 U.S.C. 401][/us/usc/t42/s401] et seq.)” after “Social Security Act”.
 
     1981—Subsec. (a). [Pub. L. 97–136][/us/pl/97/136] substituted “monthly pay of the monthly equivalent of the minimum rate of basic pay in effect for grade GS–9 of the General Schedule on the date the injury is incurred” for “monthly pay of $600”.
 
@@ -71,7 +71,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–136, § 8(b)][/us/pl/97/136/s8/b], Dec. 29, 1981, [95 Stat. 1706][/us/stat/95/1706], provided that: 
+[Pub. L. 97–136][/us/pl/97/136], § 8(b), Dec. 29, 1981, [95 Stat. 1706][/us/stat/95/1706], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to payments for benefits under [section 707(a) of title 14][/us/usc/t14/s707/a], United States Code, for months beginning on or after the date of the enactment of this Act \[Dec. 29, 1981\].”
 
@@ -85,13 +85,13 @@
 [/us/usc/t5/s8133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8133
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t5/s8133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8133
-[/us/pl/96/322/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322%2Fs1
+[/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
 [/us/stat/94/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1004
-[/us/pl/97/136/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F136%2Fs8%2Fa
+[/us/pl/97/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F136
 [/us/stat/95/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1706
-[/us/pl/97/295/s2/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs2%2F21
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1303
-[/us/pl/103/296/s108/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fg
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1487
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
@@ -100,14 +100,14 @@
 [/us/usc/t14/s760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs760
 [/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
-[/us/pl/97/295/s2/21/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs2%2F21%2FA
-[/us/pl/97/295/s2/21/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs2%2F21%2FB
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/97/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F136
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/97/136/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F136%2Fs8%2Fb
+[/us/pl/97/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F136
 [/us/stat/95/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1706
 [/us/usc/t14/s707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs707%2Fa
 

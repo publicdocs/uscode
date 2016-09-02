@@ -17,7 +17,7 @@
 
     No individual, association, partnership, or corporation shall, without authority of the Commandant, use the combination of letters “USCG” or “USCGR”, the words “Coast Guard,” “United States Coast Guard,” “Coast Guard Reserve,” “United States Coast Guard Reserve,” “Coast Guard Auxiliary,” “United States Coast Guard Auxiliary,” “Lighthouse Service,” “Life Saving Service,” or any combination or variation of such letters or words alone or with other letters or words, as the name under which he or it shall do business, for the purpose of trade, or by way of advertisement to induce the effect of leading the public to believe that any such individual, association, partnership, or corporation has any connection with the Coast Guard. No individual, association, partnership, or corporation shall falsely advertise, or otherwise represent falsely by any device whatsoever, that any project or business in which he or it is engaged, or product which he or it manufactures, deals in, or sells, has been in any way endorsed, authorized, or approved by the Coast Guard. Every person violating this section shall be fined not more than $10,000, or imprisoned not more than one year, or both.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 546][/us/stat/63/546]; [Aug. 3, 1950, ch. 536, § 30][/us/act/1950-08-03/ch536/s30], [64 Stat. 408][/us/stat/64/408]; [Pub. L. 113–281, title II, § 205(b)][/us/pl/113/281/s205/b], Dec. 18, 2014, [128 Stat. 3025][/us/stat/128/3025].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 546][/us/stat/63/546]; [Aug. 3, 1950, ch. 536][/us/act/1950-08-03/ch536], § 30, [64 Stat. 408][/us/stat/64/408]; [Pub. L. 113–281, title II][/us/pl/113/281/tII], § 205(b), Dec. 18, 2014, [128 Stat. 3025][/us/stat/128/3025].)
 
  __Historical and Revision Notes__ 
 
@@ -31,9 +31,9 @@
 
  __Coast Guard City, USA__ 
 
-[Pub. L. 105–383, title IV, § 409][/us/pl/105/383/s409], Nov. 13, 1998, [112 Stat. 3431][/us/stat/112/3431], provided that: 
+[Pub. L. 105–383, title IV][/us/pl/105/383/tIV], § 409, Nov. 13, 1998, [112 Stat. 3431][/us/stat/112/3431], as amended by [Pub. L. 114–120, title II][/us/pl/114/120/tII], § 206, Feb. 8, 2016, [130 Stat. 37][/us/stat/130/37], provided that: 
 
-> “The Commandant of the Coast Guard may recognize the community of Grand Haven, Michigan, as ‘Coast Guard City, USA’. If the Commandant desires to recognize any other community in the same manner or any other community requests such recognition from the Coast Guard, the Commandant shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives 90 days prior to approving such recognition.”
+> “The Commandant of the Coast Guard may recognize the community of Grand Haven, Michigan, as ‘Coast Guard City, USA’. If the Commandant desires to recognize any other community in the same manner or any other community requests such recognition from the Coast Guard, the Commandant shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives 30 days prior to approving such recognition.”
 
 ----------
 
@@ -44,12 +44,14 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F546
-[/us/act/1950-08-03/ch536/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch536%2Fs30
+[/us/act/1950-08-03/ch536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch536
 [/us/stat/64/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F408
-[/us/pl/113/281/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs205%2Fb
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3025
 [/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
-[/us/pl/105/383/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs409
+[/us/pl/105/383/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtIV
 [/us/stat/112/3431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3431
+[/us/pl/114/120/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtII
+[/us/stat/130/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F37
 
 

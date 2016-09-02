@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 14, U.S.C., 1946 ed., § 2 ([Jan. 28, 1915, ch. 20, § 3][/us/act/1915-01-28/ch20/s3], [38 Stat. 801][/us/stat/38/801]).
+    Based on title 14, U.S.C., 1946 ed., § 2 ([Jan. 28, 1915, ch. 20][/us/act/1915-01-28/ch20], § 3, [38 Stat. 801][/us/stat/38/801]).
 
     The Air Force is added in the enumeration of services.
 
@@ -38,7 +38,7 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F531
-[/us/act/1915-01-28/ch20/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-28%2Fch20%2Fs3
+[/us/act/1915-01-28/ch20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-28%2Fch20
 [/us/stat/38/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F801
 
 

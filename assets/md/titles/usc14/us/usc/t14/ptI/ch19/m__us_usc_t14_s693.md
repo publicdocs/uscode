@@ -17,7 +17,7 @@
 
     The Commandant of the Coast Guard shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a prioritized list of projects eligible for environmental compliance and restoration funding for each fiscal year concurrent with the President’s budget submission for that fiscal year.
 
-(Added [Pub. L. 101–225, title II, § 222(a)][/us/pl/101/225/s222/a], Dec. 12, 1989, [103 Stat. 1918][/us/stat/103/1918]; amended [Pub. L. 112–213, title II, § 213(b)][/us/pl/112/213/s213/b], Dec. 20, 2012, [126 Stat. 1553][/us/stat/126/1553].)
+(Added [Pub. L. 101–225, title II][/us/pl/101/225/tII], § 222(a), Dec. 12, 1989, [103 Stat. 1918][/us/stat/103/1918]; amended [Pub. L. 112–213, title II][/us/pl/112/213/tII], § 213(b), Dec. 20, 2012, [126 Stat. 1553][/us/stat/126/1553].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/101/225/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs222%2Fa
+[/us/pl/101/225/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtII
 [/us/stat/103/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1918
-[/us/pl/112/213/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs213%2Fb
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1553
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 

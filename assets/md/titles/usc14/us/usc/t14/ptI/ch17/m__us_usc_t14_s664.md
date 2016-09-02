@@ -59,7 +59,7 @@
 
     (h) In this section the term “costs of collecting a fee or charge” includes the reasonable administrative, accounting, personnel, contract, equipment, supply, training, and travel expenses of calculating, assessing, collecting, enforcing, reviewing, adjusting, and reporting on a fee or charge.
 
-(Added [Pub. L. 99–509, title V, § 5102(a)(3)][/us/pl/99/509/s5102/a/3], Oct. 21, 1986, [100 Stat. 1926][/us/stat/100/1926]; amended [Pub. L. 101–225, title II, § 211][/us/pl/101/225/s211], Dec. 12, 1989, [103 Stat. 1914][/us/stat/103/1914]; [Pub. L. 107–295, title IV, § 408(a)(3)][/us/pl/107/295/s408/a/3], Nov. 25, 2002, [116 Stat. 2117][/us/stat/116/2117]; [Pub. L. 108–293, title II, § 206][/us/pl/108/293/s206], Aug. 9, 2004, [118 Stat. 1033][/us/stat/118/1033]; [Pub. L. 113–281, title III, § 311(b)][/us/pl/113/281/s311/b], Dec. 18, 2014, [128 Stat. 3048][/us/stat/128/3048].)
+(Added [Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5102(a)(3), Oct. 21, 1986, [100 Stat. 1926][/us/stat/100/1926]; amended [Pub. L. 101–225, title II][/us/pl/101/225/tII], § 211, Dec. 12, 1989, [103 Stat. 1914][/us/stat/103/1914]; [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 408(a)(3), Nov. 25, 2002, [116 Stat. 2117][/us/stat/116/2117]; [Pub. L. 108–293, title II][/us/pl/108/293/tII], § 206, Aug. 9, 2004, [118 Stat. 1033][/us/stat/118/1033]; [Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 311(b), Dec. 18, 2014, [128 Stat. 3048][/us/stat/128/3048].)
 
  __Amendments__ 
 
@@ -73,7 +73,7 @@
 
  __Limitation__ 
 
-[Pub. L. 113–281, title III, § 311(c)][/us/pl/113/281/s311/c], Dec. 18, 2014, [128 Stat. 3048][/us/stat/128/3048], provided that: 
+[Pub. L. 113–281, title III][/us/pl/113/281/tIII], § 311(c), Dec. 18, 2014, [128 Stat. 3048][/us/stat/128/3048], provided that: 
 
 > “The Secretary of the Department in which the Coast Guard is operating may not accept in-kind transportation, travel, or subsistence under [section 664(e) of title 14][/us/usc/t14/s664/e], United States Code, or [section 2110(d)(4) of title 46][/us/usc/t46/s2110/d/4], United States Code, as amended by this section, until the Commandant of the Coast Guard—
 
@@ -90,21 +90,21 @@
 
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
 [/us/usc/t37/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs464
-[/us/pl/99/509/s5102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5102%2Fa%2F3
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1926
-[/us/pl/101/225/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs211
+[/us/pl/101/225/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtII
 [/us/stat/103/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1914
-[/us/pl/107/295/s408/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs408%2Fa%2F3
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2117
-[/us/pl/108/293/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs206
+[/us/pl/108/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtII
 [/us/stat/118/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1033
-[/us/pl/113/281/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs311%2Fb
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3048
 [/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225
-[/us/pl/113/281/s311/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs311%2Fc
+[/us/pl/113/281/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtIII
 [/us/stat/128/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3048
 [/us/usc/t14/s664/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs664%2Fe
 [/us/usc/t46/s2110/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2110%2Fd%2F4

@@ -17,7 +17,7 @@
 
     The Coast Guard Exchange System, or a morale, welfare, and recreation system of the Coast Guard, may enter into a contract or other agreement with any element or instrumentality of the Coast Guard or with another Federal department, agency, or instrumentality to provide or obtain goods and services beneficial to the efficient management and operation of the Coast Guard Exchange System or that morale, welfare, and recreation system.
 
-(Added [Pub. L. 108–293, title II, § 202(a)][/us/pl/108/293/s202/a], Aug. 9, 2004, [118 Stat. 1031][/us/stat/118/1031].)
+(Added [Pub. L. 108–293, title II][/us/pl/108/293/tII], § 202(a), Aug. 9, 2004, [118 Stat. 1031][/us/stat/118/1031].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/293/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs202%2Fa
+[/us/pl/108/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtII
 [/us/stat/118/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1031
 
 

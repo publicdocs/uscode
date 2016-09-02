@@ -19,13 +19,13 @@
 
     (b) The number of retired officers on active duty in the grade of lieutenant commander, commander, or captain shall not exceed 2 percent of the authorized number of officers on active duty in each such grade. However, this limitation does not apply to retired officers of these grades recalled to serve as members of courts, boards, panels, surveys, or special projects for periods not to exceed one year.
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 189][/us/stat/77/189]; amended [Pub. L. 89–444, § 1(18)][/us/pl/89/444/s1/18], June 9, 1966, [80 Stat. 196][/us/stat/80/196]; [Pub. L. 91–278, § 1(9)][/us/pl/91/278/s1/9], June 12, 1970, [84 Stat. 305][/us/stat/84/305]; [Pub. L. 102–241, § 14][/us/pl/102/241/s14], Dec. 19, 1991, [105 Stat. 2213][/us/stat/105/2213].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 189][/us/stat/77/189]; amended [Pub. L. 89–444][/us/pl/89/444], § 1(18), June 9, 1966, [80 Stat. 196][/us/stat/80/196]; [Pub. L. 91–278][/us/pl/91/278], § 1(9), June 12, 1970, [84 Stat. 305][/us/stat/84/305]; [Pub. L. 102–241][/us/pl/102/241], § 14, Dec. 19, 1991, [105 Stat. 2213][/us/stat/105/2213].)
 
  __Amendments__ 
 
-    1991—Subsec. (a). [Pub. L. 102–241, § 14(b)][/us/pl/102/241/s14/b], substituted “that officer’s” for “his” and “that officer” for “he”.
+    1991—Subsec. (a). [Pub. L. 102–241][/us/pl/102/241], § 14(b), substituted “that officer’s” for “his” and “that officer” for “he”.
 
-    Subsec. (b). [Pub. L. 102–241, § 14(a)][/us/pl/102/241/s14/a], substituted “2” for “1”.
+    Subsec. (b). [Pub. L. 102–241][/us/pl/102/241], § 14(a), substituted “2” for “1”.
 
     1970—Subsec. (a). [Pub. L. 91–278][/us/pl/91/278] struck out prohibition against recall to duty in time of peace of any officer on retired list who reached age of sixty-two years.
 
@@ -38,16 +38,16 @@
 ----------
 ----------
 
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F189
-[/us/pl/89/444/s1/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444%2Fs1%2F18
+[/us/pl/89/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444
 [/us/stat/80/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F196
-[/us/pl/91/278/s1/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278%2Fs1%2F9
+[/us/pl/91/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278
 [/us/stat/84/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F305
-[/us/pl/102/241/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241%2Fs14
+[/us/pl/102/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241
 [/us/stat/105/2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2213
-[/us/pl/102/241/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241%2Fs14%2Fb
-[/us/pl/102/241/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241%2Fs14%2Fa
+[/us/pl/102/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241
+[/us/pl/102/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241
 [/us/pl/91/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278
 [/us/pl/89/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444
 

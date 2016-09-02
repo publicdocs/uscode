@@ -23,7 +23,7 @@
 
     (d) Amounts recovered under section 107 of the Comprehensive Environmental Response, Compensation, and Liability Act ([42 U.S.C. 9607][/us/usc/t42/s9607]) for the Secretary’s response actions at current and former Coast Guard facilities shall be credited to the account.
 
-(Added [Pub. L. 101–225, title II, § 222(a)][/us/pl/101/225/s222/a], Dec. 12, 1989, [103 Stat. 1918][/us/stat/103/1918].)
+(Added [Pub. L. 101–225, title II][/us/pl/101/225/tII], § 222(a), Dec. 12, 1989, [103 Stat. 1918][/us/stat/103/1918].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t42/s9607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607
-[/us/pl/101/225/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs222%2Fa
+[/us/pl/101/225/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtII
 [/us/stat/103/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1918
 
 

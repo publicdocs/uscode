@@ -43,7 +43,7 @@
 
         (3) addresses specifically the question of whether the Coast Guard can better leverage Department of Defense or other agencies’ contracts that would meet the needs of Level 1 or Level 2 acquisitions in order to obtain the best possible price.
 
-(Added [Pub. L. 111–281, title IV, § 402(a)][/us/pl/111/281/s402/a], Oct. 15, 2010, [124 Stat. 2937][/us/stat/124/2937]; amended [Pub. L. 111–330, § 1(4)][/us/pl/111/330/s1/4], Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569].)
+(Added [Pub. L. 111–281, title IV][/us/pl/111/281/tIV], § 402(a), Oct. 15, 2010, [124 Stat. 2937][/us/stat/124/2937]; amended [Pub. L. 111–330][/us/pl/111/330], § 1(4), Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569].)
 
  __References in Text__ 
 
@@ -55,11 +55,11 @@
 
  __Amendments__ 
 
-    2010—Subsec. (d). [Pub. L. 111–330][/us/pl/111/330], which directed the amendment of [Pub. L. 111–281, § 402(a)][/us/pl/111/281/s402/a], which enacted this section, by substituting “Coast Guard Authorization Act of 2010” for “Coast Guard Authorization Act for Fiscal Years 2010 and 2011” wherever appearing, was executed in subsec. (d) of this section as added by section 402(a) by making the substitution for text which read “Coast Guard Authorization Act for fiscal years 2010 and 2011”, to reflect the probable intent of Congress.
+    2010—Subsec. (d). [Pub. L. 111–330][/us/pl/111/330], which directed the amendment of [Pub. L. 111–281][/us/pl/111/281], § 402(a), which enacted this section, by substituting “Coast Guard Authorization Act of 2010” for “Coast Guard Authorization Act for Fiscal Years 2010 and 2011” wherever appearing, was executed in subsec. (d) of this section as added by section 402(a) by making the substitution for text which read “Coast Guard Authorization Act for fiscal years 2010 and 2011”, to reflect the probable intent of Congress.
 
  __Effective Date of 2010 Amendment__ 
 
-    [Pub. L. 111–330, § 1][/us/pl/111/330/s1], Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569], provided that the amendment made by section 1(4) is effective with the enactment of [Pub. L. 111–281][/us/pl/111/281].
+    [Pub. L. 111–330][/us/pl/111/330], § 1, Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569], provided that the amendment made by section 1(4) is effective with the enactment of [Pub. L. 111–281][/us/pl/111/281].
 
 ----------
 
@@ -68,9 +68,9 @@
 ----------
 ----------
 
-[/us/pl/111/281/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs402%2Fa
+[/us/pl/111/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIV
 [/us/stat/124/2937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2937
-[/us/pl/111/330/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330%2Fs1%2F4
+[/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
 [/us/stat/124/3569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3569
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
@@ -78,8 +78,8 @@
 [/us/act/1950-05-05/ch169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-05%2Fch169
 [/us/stat/64/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F145
 [/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
-[/us/pl/111/281/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs402%2Fa
-[/us/pl/111/330/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330%2Fs1
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
 [/us/stat/124/3569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3569
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 

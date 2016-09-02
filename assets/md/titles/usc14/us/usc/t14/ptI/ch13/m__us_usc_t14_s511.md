@@ -17,7 +17,7 @@
 
     The Secretary may grant compensatory absence from duty to military personnel of the Coast Guard serving at isolated duty stations of the Coast Guard when conditions of duty result in confinement because of isolation or in long periods of continuous duty.
 
-(Added [Aug. 9, 1955, ch. 650, § 4][/us/act/1955-08-09/ch650/s4], [69 Stat. 577][/us/stat/69/577]; amended [Pub. L. 94–546, § 1(32)][/us/pl/94/546/s1/32], Oct. 18, 1976, [90 Stat. 2521][/us/stat/90/2521]; [Pub. L. 107–295, title III, § 312(a)][/us/pl/107/295/s312/a], Nov. 25, 2002, [116 Stat. 2102][/us/stat/116/2102].)
+(Added [Aug. 9, 1955, ch. 650][/us/act/1955-08-09/ch650], § 4, [69 Stat. 577][/us/stat/69/577]; amended [Pub. L. 94–546][/us/pl/94/546], § 1(32), Oct. 18, 1976, [90 Stat. 2521][/us/stat/90/2521]; [Pub. L. 107–295, title III][/us/pl/107/295/tIII], § 312(a), Nov. 25, 2002, [116 Stat. 2102][/us/stat/116/2102].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/act/1955-08-09/ch650/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch650%2Fs4
+[/us/act/1955-08-09/ch650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch650
 [/us/stat/69/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F577
-[/us/pl/94/546/s1/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F32
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/stat/90/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2521
-[/us/pl/107/295/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs312%2Fa
+[/us/pl/107/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIII
 [/us/stat/116/2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2102
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546

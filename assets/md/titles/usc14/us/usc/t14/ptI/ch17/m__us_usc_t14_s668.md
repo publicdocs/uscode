@@ -39,7 +39,7 @@
 
     (c) The Secretary may prescribe a premium, deductible, copayment, or other change for health care provided under this section.
 
-(Added [Pub. L. 101–595, title III, § 319(a)][/us/pl/101/595/s319/a], Nov. 16, 1990, [104 Stat. 2989][/us/stat/104/2989].)
+(Added [Pub. L. 101–595, title III][/us/pl/101/595/tIII], § 319(a), Nov. 16, 1990, [104 Stat. 2989][/us/stat/104/2989].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/101/595/s319/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs319%2Fa
+[/us/pl/101/595/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2FtIII
 [/us/stat/104/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2989
 
 

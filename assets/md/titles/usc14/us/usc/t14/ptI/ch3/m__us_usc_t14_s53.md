@@ -43,7 +43,7 @@
 
     The Director of the Coast Guard Reserve shall submit to the Secretary of Homeland Security and the Secretary of Defense an annual report on the state of the Coast Guard Reserve and the ability of the Coast Guard Reserve to meet its missions. The report shall be prepared in conjunction with the Commandant and may be submitted in classified and unclassified versions.
 
-(Added [Pub. L. 106–65, div. A, title V, § 557(a)][/us/pl/106/65/s557/a], Oct. 5, 1999, [113 Stat. 619][/us/stat/113/619]; amended [Pub. L. 107–296, title XVII, § 1704(a)][/us/pl/107/296/s1704/a], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+(Added [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 557(a), Oct. 5, 1999, [113 Stat. 619][/us/stat/113/619]; amended [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(a), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
  __Amendments__ 
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/106/65/s557/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs557%2Fa
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F619
-[/us/pl/107/296/s1704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fa
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

@@ -17,7 +17,7 @@
 
     The Secretary may furnish persons discharged pursuant to the sentence of a Coast Guard court-martial suitable civilian clothing and a monetary allowance not to exceed $25 if the person discharged would not otherwise have suitable clothing or funds to meet immediate needs.
 
-(Added [May 5, 1950, ch. 169, § 16(a)][/us/act/1950-05-05/ch169/s16/a], [64 Stat. 148][/us/stat/64/148]; amended [Pub. L. 90–377, § 8][/us/pl/90/377/s8], July 5, 1968, [82 Stat. 288][/us/stat/82/288].)
+(Added [May 5, 1950, ch. 169][/us/act/1950-05-05/ch169], § 16(a), [64 Stat. 148][/us/stat/64/148]; amended [Pub. L. 90–377][/us/pl/90/377], § 8, July 5, 1968, [82 Stat. 288][/us/stat/82/288].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date__ 
 
-    Section effective May 31, 1951, see [act May 5, 1950, ch. 169, § 5][/us/act/1950-05-05/ch169/s5], [64 Stat. 145][/us/stat/64/145].
+    Section effective May 31, 1951, see [act May 5, 1950, ch. 169][/us/act/1950-05-05/ch169], § 5, [64 Stat. 145][/us/stat/64/145].
 
 ----------
 
@@ -34,12 +34,12 @@
 ----------
 ----------
 
-[/us/act/1950-05-05/ch169/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-05%2Fch169%2Fs16%2Fa
+[/us/act/1950-05-05/ch169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-05%2Fch169
 [/us/stat/64/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F148
-[/us/pl/90/377/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F377%2Fs8
+[/us/pl/90/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F377
 [/us/stat/82/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F288
 [/us/pl/90/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F377
-[/us/act/1950-05-05/ch169/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-05%2Fch169%2Fs5
+[/us/act/1950-05-05/ch169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-05%2Fch169
 [/us/stat/64/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F145
 
 

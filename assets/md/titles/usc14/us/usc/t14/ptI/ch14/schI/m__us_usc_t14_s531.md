@@ -23,7 +23,7 @@
 
     (3) to perform such other duties as the Commandant considers necessary.
 
-(Added [Pub. L. 113–281, title II, § 214(a)][/us/pl/113/281/s214/a], Dec. 18, 2014, [128 Stat. 3029][/us/stat/128/3029].)
+(Added [Pub. L. 113–281, title II][/us/pl/113/281/tII], § 214(a), Dec. 18, 2014, [128 Stat. 3029][/us/stat/128/3029].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/113/281/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs214%2Fa
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3029
 
 

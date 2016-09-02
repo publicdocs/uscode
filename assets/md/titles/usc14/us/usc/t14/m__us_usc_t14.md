@@ -15,9 +15,9 @@
 
 # Title 14—COAST GUARD
 
-This title was enacted by [act Aug. 4, 1949, ch. 393, § 1][/us/act/1949-08-04/ch393/s1], [63 Stat. 495][/us/stat/63/495]
+This title was enacted by [act Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], § 1, [63 Stat. 495][/us/stat/63/495]
 
-Current through 114-115
+Current through 114-139
 
 <table>
 
@@ -51,11 +51,23 @@ Current through 114-115
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2FptIII" data-uslm-ref="/us/usc/t14/ptIII">III.</a>  </td>
+
+    <td> Coast Guard Authorizations and Reports to Congress  </td>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs2701" data-uslm-ref="/us/usc/t14/s2701">2701</a>  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–640, § 10(a)(1)][/us/pl/99/640/s10/a/1], Nov. 10, 1986, [100 Stat. 3548][/us/stat/100/3548], substituted “701” for “751” in item for part II.
+    2016—[Pub. L. 114–120, title I][/us/pl/114/120/tI], § 102(a), Feb. 8, 2016, [130 Stat. 32][/us/stat/130/32], added item for part III.
+
+    1986—[Pub. L. 99–640][/us/pl/99/640], § 10(a)(1), Nov. 10, 1986, [100 Stat. 3548][/us/stat/100/3548], substituted “701” for “751” in item for part II.
 
 <table>
 
@@ -3243,41 +3255,41 @@ Rep.  </td>
 
  __Positive Law; Citation__ 
 
-This title has been enacted into positive law by [act Aug. 4, 1949, ch. 393, § 1][/us/act/1949-08-04/ch393/s1], [63 Stat. 495][/us/stat/63/495], which provided in part that: 
+This title has been enacted into positive law by [act Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], § 1, [63 Stat. 495][/us/stat/63/495], which provided in part that: 
 
 > “Title 14 of the United States Code, entitled ‘Coast Guard’, is hereby revised, codified, and enacted into law, and may be cited as ‘14 U.S.C., § —.’ ”
 
  __Effective Date__ 
 
-[Act Aug. 4, 1949, ch. 393, § 19][/us/act/1949-08-04/ch393/s19], [63 Stat. 561][/us/stat/63/561], provided that: 
+[Act Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], § 19, [63 Stat. 561][/us/stat/63/561], provided that: 
 
 > “This Act shall take effect on the first day of the third month after approval by the President but shall not affect any proceedings commenced by or against any person prior to the effective date of this Act.”
 
  __Repeals__ 
 
-    [Act Aug. 4, 1949, ch. 393, § 20][/us/act/1949-08-04/ch393/s20], [63 Stat. 561][/us/stat/63/561], repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this act, with a proviso that “any rights or liabilities now existing under such sections or parts thereof shall not be affected by such repeal”.
+    [Act Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], § 20, [63 Stat. 561][/us/stat/63/561], repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this act, with a proviso that “any rights or liabilities now existing under such sections or parts thereof shall not be affected by such repeal”.
 
  __Legislative Construction__ 
 
-[Act Aug. 4, 1949, ch. 393, § 3][/us/act/1949-08-04/ch393/s3], [63 Stat. 557][/us/stat/63/557], provided that: 
+[Act Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], § 3, [63 Stat. 557][/us/stat/63/557], provided that: 
 
 > “No inference of a legislative construction is to be drawn by reason of the chapter in Title 14, Coast Guard, as set out in section 1 of this Act, in which any section is placed, nor by reason of the catch lines used in such title.”
 
  __Separability__ 
 
-[Act Aug. 4, 1949, ch. 393, § 2][/us/act/1949-08-04/ch393/s2], [63 Stat. 557][/us/stat/63/557], provided that: 
+[Act Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], § 2, [63 Stat. 557][/us/stat/63/557], provided that: 
 
 > “If any part of Title 14, United States Code, as enacted by section 1 of this Act, shall be held invalid the remainder of such title shall not be affected thereby.”
 
  __Orders, Rules, and Regulations__ 
 
-[Act Aug. 4, 1949, ch. 393, § 4][/us/act/1949-08-04/ch393/s4], [63 Stat. 558][/us/stat/63/558], provided that: 
+[Act Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], § 4, [63 Stat. 558][/us/stat/63/558], provided that: 
 
 > “All orders, rules, and regulations of the Coast Guard in effect under provisions of law superseded or amended by this Act shall, to the extent they would have been authorized under this Act, remain in force and effect as the regulations and orders under the provisions of this Act and shall be administered and enforced under this Act as nearly as may be until specifically repealed, amended, or revised.”
 
  __Reduction in Grade, Rank, Pay, Allowances, and Benefits__ 
 
-[Act Aug. 4, 1949, ch. 393, § 5][/us/act/1949-08-04/ch393/s5], [63 Stat. 558][/us/stat/63/558], provided that: 
+[Act Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], § 5, [63 Stat. 558][/us/stat/63/558], provided that: 
 
 > “Nothing contained in this Act shall operate to abolish or reduce the grade, rank, rating, pay, allowances, or other benefits to which any person in the Coast Guard is entitled on the effective date of this Act.”
 
@@ -3288,23 +3300,25 @@ This title has been enacted into positive law by [act Aug. 4, 1949, ch. 393, §�
 ----------
 ----------
 
-[/us/act/1949-08-04/ch393/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393%2Fs1
+[/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F495
-[/us/pl/99/640/s10/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640%2Fs10%2Fa%2F1
+[/us/pl/114/120/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtI
+[/us/stat/130/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F32
+[/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
 [/us/stat/100/3548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3548
-[/us/act/1949-08-04/ch393/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393%2Fs1
+[/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F495
-[/us/act/1949-08-04/ch393/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393%2Fs19
+[/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F561
-[/us/act/1949-08-04/ch393/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393%2Fs20
+[/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F561
-[/us/act/1949-08-04/ch393/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393%2Fs3
+[/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F557
-[/us/act/1949-08-04/ch393/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393%2Fs2
+[/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F557
-[/us/act/1949-08-04/ch393/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393%2Fs4
+[/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F558
-[/us/act/1949-08-04/ch393/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393%2Fs5
+[/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F558
 
 

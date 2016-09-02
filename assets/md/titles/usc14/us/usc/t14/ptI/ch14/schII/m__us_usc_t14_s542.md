@@ -45,7 +45,7 @@
 
         The term “portable career” includes an occupation that requires education, training, or both that results in a credential that is recognized by an industry, profession, or specific type of business.
 
-(Added [Pub. L. 113–281, title II, § 214(a)][/us/pl/113/281/s214/a], Dec. 18, 2014, [128 Stat. 3030][/us/stat/128/3030].)
+(Added [Pub. L. 113–281, title II][/us/pl/113/281/tII], § 214(a), Dec. 18, 2014, [128 Stat. 3030][/us/stat/128/3030].)
 
 ----------
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t10/s1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1059
-[/us/pl/113/281/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs214%2Fa
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3030
 
 

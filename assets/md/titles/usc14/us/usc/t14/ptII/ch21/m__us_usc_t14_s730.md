@@ -23,7 +23,7 @@
 
     (d) An officer eligible for consideration for promotion by a selection board may forward, through official channels, a written communication inviting the attention of the board to any matter in the officer’s record in the armed forces that, in the opinion of the officer concerned, is important to the board’s consideration. A communication forwarded under this subsection shall arrive in time to allow delivery to the board prior to its convening, and may not criticize or reflect upon the character, conduct, or motive of any officer.
 
-(Added [Pub. L. 96–322, § 1][/us/pl/96/322/s1], Aug. 4, 1980, [94 Stat. 1011][/us/stat/94/1011].)
+(Added [Pub. L. 96–322][/us/pl/96/322], § 1, Aug. 4, 1980, [94 Stat. 1011][/us/stat/94/1011].)
 
  __Prior Provisions__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/322/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322%2Fs1
+[/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
 [/us/stat/94/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1011
 [/us/usc/t14/s775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs775
 [/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322

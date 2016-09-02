@@ -57,11 +57,11 @@
 
         (2) Retired pay computed under this section, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 525][/us/stat/63/525]; [Aug. 3, 1950, ch. 536, § 23][/us/act/1950-08-03/ch536/s23], [64 Stat. 407][/us/stat/64/407]; [Pub. L. 85–422, § 11(b)][/us/pl/85/422/s11/b], May 20, 1958, [72 Stat. 132][/us/stat/72/132]; [Pub. L. 88–132, § 5(i)][/us/pl/88/132/s5/i], Oct. 2, 1963, [77 Stat. 214][/us/stat/77/214]; [Pub. L. 92–455, § 2][/us/pl/92/455/s2], Oct. 2, 1972, [86 Stat. 761][/us/stat/86/761]; [Pub. L. 96–342, title VIII, § 813(f)(2)][/us/pl/96/342/s813/f/2], Sept. 8, 1980, [94 Stat. 1109][/us/stat/94/1109]; [Pub. L. 97–295, § 2(12)][/us/pl/97/295/s2/12], Oct. 12, 1982, [96 Stat. 1302][/us/stat/96/1302]; [Pub. L. 98–94, title IX][/us/pl/98/94], §§ 922(b), 923(d), Sept. 24, 1983, [97 Stat. 642][/us/stat/97/642], 643; [Pub. L. 98–557, § 15(a)(3)(A)][/us/pl/98/557/s15/a/3/A], Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865]; [Pub. L. 99–348, title II, § 205(a)][/us/pl/99/348/s205/a], July 1, 1986, [100 Stat. 699][/us/stat/100/699].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 525][/us/stat/63/525]; [Aug. 3, 1950, ch. 536][/us/act/1950-08-03/ch536], § 23, [64 Stat. 407][/us/stat/64/407]; [Pub. L. 85–422][/us/pl/85/422], § 11(b), May 20, 1958, [72 Stat. 132][/us/stat/72/132]; [Pub. L. 88–132][/us/pl/88/132], § 5(i), Oct. 2, 1963, [77 Stat. 214][/us/stat/77/214]; [Pub. L. 92–455][/us/pl/92/455], § 2, Oct. 2, 1972, [86 Stat. 761][/us/stat/86/761]; [Pub. L. 96–342, title VIII][/us/pl/96/342/tVIII], § 813(f)(2), Sept. 8, 1980, [94 Stat. 1109][/us/stat/94/1109]; [Pub. L. 97–295][/us/pl/97/295], § 2(12), Oct. 12, 1982, [96 Stat. 1302][/us/stat/96/1302]; [Pub. L. 98–94, title IX][/us/pl/98/94/tIX], §§ 922(b), 923(d), Sept. 24, 1983, [97 Stat. 642][/us/stat/97/642], 643; [Pub. L. 98–557][/us/pl/98/557], § 15(a)(3)(A), Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865]; [Pub. L. 99–348, title II][/us/pl/99/348/tII], § 205(a), July 1, 1986, [100 Stat. 699][/us/stat/100/699].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 14, U.S.C., 1946 ed., §§ 162a, 167, 175c, 185d ([Apr. 12, 1902, ch. 501, § 9][/us/act/1902-04-12/ch501/s9], [32 Stat. 101][/us/stat/32/101]; [Jan. 12, 1938, ch. 3, § 3][/us/act/1938-01-12/ch3/s3], [52 Stat. 5][/us/stat/52/5]; [May 24, 1939, ch. 146, § 5][/us/act/1939-05-24/ch146/s5], [53 Stat. 756][/us/stat/53/756]; [Feb. 21, 1946, ch. 34, § 10][/us/act/1946-02-21/ch34/s10], [60 Stat. 29][/us/stat/60/29]).
+    Based on title 14, U.S.C., 1946 ed., §§ 162a, 167, 175c, 185d ([Apr. 12, 1902, ch. 501][/us/act/1902-04-12/ch501], § 9, [32 Stat. 101][/us/stat/32/101]; [Jan. 12, 1938, ch. 3][/us/act/1938-01-12/ch3], § 3, [52 Stat. 5][/us/stat/52/5]; [May 24, 1939, ch. 146][/us/act/1939-05-24/ch146], § 5, [53 Stat. 756][/us/stat/53/756]; [Feb. 21, 1946, ch. 34][/us/act/1946-02-21/ch34], § 10, [60 Stat. 29][/us/stat/60/29]).
 
     Section was enlarged to include computation of retired pay in all situations. It is in accord with the provisions of Navy statutes. 81st Congress, House Report No. 557.
 
@@ -71,9 +71,9 @@
 
     1984—Subsec. (a). [Pub. L. 98–557][/us/pl/98/557] substituted reference to enlisted member concerned for reference to enlisted man concerned.
 
-    1983—Subsec. (a). [Pub. L. 98–94, § 923(d)][/us/pl/98/94/s923/d], substituted “In computing the number of years of service by which the rate of 2½ percent is multiplied, each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “A fractional year of six months or more shall be considered a full year in computing the number of years of service by which the rate of 2½ percent is multiplied”.
+    1983—Subsec. (a). [Pub. L. 98–94][/us/pl/98/94], § 923(d), substituted “In computing the number of years of service by which the rate of 2½ percent is multiplied, each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “A fractional year of six months or more shall be considered a full year in computing the number of years of service by which the rate of 2½ percent is multiplied”.
 
-    [Pub. L. 98–94, § 922(b)][/us/pl/98/94/s922/b], inserted “Retired pay, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
+    [Pub. L. 98–94][/us/pl/98/94], § 922(b), inserted “Retired pay, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
 
     1982—Subsec. (b). [Pub. L. 97–295][/us/pl/97/295] substituted “after September 7, 1980” for “on or after the date of the enactment of the Department of Defense Authorization Act, 1981”.
 
@@ -99,7 +99,7 @@
 
  __Effective Date of 1958 Amendment__ 
 
-    Amendment by [Pub. L. 85–422][/us/pl/85/422] effective June 1, 1958, see [Pub. L. 85–422, § 9][/us/pl/85/422/s9], May 20, 1958, [72 Stat. 130][/us/stat/72/130].
+    Amendment by [Pub. L. 85–422][/us/pl/85/422] effective June 1, 1958, see [Pub. L. 85–422][/us/pl/85/422], § 9, May 20, 1958, [72 Stat. 130][/us/stat/72/130].
 
 ----------
 
@@ -116,38 +116,38 @@
 [/us/usc/t10/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1405
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F525
-[/us/act/1950-08-03/ch536/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch536%2Fs23
+[/us/act/1950-08-03/ch536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch536
 [/us/stat/64/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F407
-[/us/pl/85/422/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F422%2Fs11%2Fb
+[/us/pl/85/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F422
 [/us/stat/72/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F132
-[/us/pl/88/132/s5/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132%2Fs5%2Fi
+[/us/pl/88/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132
 [/us/stat/77/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F214
-[/us/pl/92/455/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F455%2Fs2
+[/us/pl/92/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F455
 [/us/stat/86/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F761
-[/us/pl/96/342/s813/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs813%2Ff%2F2
+[/us/pl/96/342/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtVIII
 [/us/stat/94/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1109
-[/us/pl/97/295/s2/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs2%2F12
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1302
-[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F642
-[/us/pl/98/557/s15/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F3%2FA
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2865
-[/us/pl/99/348/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs205%2Fa
+[/us/pl/99/348/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtII
 [/us/stat/100/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F699
-[/us/act/1902-04-12/ch501/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-04-12%2Fch501%2Fs9
+[/us/act/1902-04-12/ch501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-04-12%2Fch501
 [/us/stat/32/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F101
-[/us/act/1938-01-12/ch3/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-01-12%2Fch3%2Fs3
+[/us/act/1938-01-12/ch3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-01-12%2Fch3
 [/us/stat/52/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F5
-[/us/act/1939-05-24/ch146/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-05-24%2Fch146%2Fs5
+[/us/act/1939-05-24/ch146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-05-24%2Fch146
 [/us/stat/53/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F756
-[/us/act/1946-02-21/ch34/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-21%2Fch34%2Fs10
+[/us/act/1946-02-21/ch34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-21%2Fch34
 [/us/stat/60/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F29
 [/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
 [/us/usc/t10/s1407/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1407%2Fa%2F2
 [/us/usc/t10/s1407/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1407%2Ff
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
-[/us/pl/98/94/s923/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs923%2Fd
-[/us/pl/98/94/s922/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs922%2Fb
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/pl/96/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342
 [/us/pl/92/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F455
@@ -164,7 +164,7 @@
 [/us/pl/88/132/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132%2Fs14
 [/us/usc/t37/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs201
 [/us/pl/85/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F422
-[/us/pl/85/422/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F422%2Fs9
+[/us/pl/85/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F422
 [/us/stat/72/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F130
 
 

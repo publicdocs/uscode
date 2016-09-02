@@ -87,11 +87,11 @@
 
     Each member of the Board and each adviser consulted by the Board under subsection (f) shall be reimbursed, to the extent permitted by law, by the Coast Guard for actual expenses incurred while engaged in duties as a member or adviser.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 510][/us/stat/63/510]; [Pub. L. 101–595, title III, § 304][/us/pl/101/595/s304], Nov. 16, 1990, [104 Stat. 2984][/us/stat/104/2984]; [Pub. L. 107–295, title IV, § 408(a)(1)][/us/pl/107/295/s408/a/1], Nov. 25, 2002, [116 Stat. 2117][/us/stat/116/2117]; [Pub. L. 113–281, title II, § 211][/us/pl/113/281/s211], Dec. 18, 2014, [128 Stat. 3027][/us/stat/128/3027].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 510][/us/stat/63/510]; [Pub. L. 101–595, title III][/us/pl/101/595/tIII], § 304, Nov. 16, 1990, [104 Stat. 2984][/us/stat/104/2984]; [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 408(a)(1), Nov. 25, 2002, [116 Stat. 2117][/us/stat/116/2117]; [Pub. L. 113–281, title II][/us/pl/113/281/tII], § 211, Dec. 18, 2014, [128 Stat. 3027][/us/stat/128/3027].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 14, U.S.C., 1946 ed., § 15h ([Apr. 16, 1937, ch. 107, § 7][/us/act/1937-04-16/ch107/s7], [50 Stat. 67][/us/stat/50/67]; [July 15, 1939, ch. 288][/us/act/1939-07-15/ch288], [53 Stat. 1044][/us/stat/53/1044]).
+    Based on title 14, U.S.C., 1946 ed., § 15h ([Apr. 16, 1937, ch. 107][/us/act/1937-04-16/ch107], § 7, [50 Stat. 67][/us/stat/50/67]; [July 15, 1939, ch. 288][/us/act/1939-07-15/ch288], [53 Stat. 1044][/us/stat/53/1044]).
 
     Changes were made in phraseology. 81st Congress, House Report No. 557.
 
@@ -116,13 +116,13 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F510
-[/us/pl/101/595/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs304
+[/us/pl/101/595/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2FtIII
 [/us/stat/104/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2984
-[/us/pl/107/295/s408/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs408%2Fa%2F1
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2117
-[/us/pl/113/281/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs211
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3027
-[/us/act/1937-04-16/ch107/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-04-16%2Fch107%2Fs7
+[/us/act/1937-04-16/ch107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-04-16%2Fch107
 [/us/stat/50/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F67
 [/us/act/1939-07-15/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-07-15%2Fch288
 [/us/stat/53/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1044

@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 14, U.S.C., 1946 ed., § 271 ([Feb. 19, 1941, ch. 8][/us/act/1941-02-19/ch8], title I, § 12, as added [Sept. 30, 1944, ch. 453, § 8][/us/act/1944-09-30/ch453/s8], [58 Stat. 761][/us/stat/58/761]).
+    Based on title 14, U.S.C., 1946 ed., § 271 ([Feb. 19, 1941, ch. 8][/us/act/1941-02-19/ch8], title I, § 12, as added [Sept. 30, 1944, ch. 453][/us/act/1944-09-30/ch453], § 8, [58 Stat. 761][/us/stat/58/761]).
 
     Temporary members of the Reserve are included within the provisions of this section.
 
@@ -37,7 +37,7 @@
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F557
 [/us/act/1941-02-19/ch8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-02-19%2Fch8
-[/us/act/1944-09-30/ch453/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-30%2Fch453%2Fs8
+[/us/act/1944-09-30/ch453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-30%2Fch453
 [/us/stat/58/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F761
 
 

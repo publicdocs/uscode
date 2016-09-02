@@ -35,7 +35,7 @@
 
     Each person surveyed under subsection (a) shall be considered an employee of the United States for purposes of [section 3502(3)(A)(i) of title 44][/us/usc/t44/s3502/3/A/i].
 
-(Added [Pub. L. 113–281, title II, § 214(a)][/us/pl/113/281/s214/a], Dec. 18, 2014, [128 Stat. 3029][/us/stat/128/3029].)
+(Added [Pub. L. 113–281, title II][/us/pl/113/281/tII], § 214(a), Dec. 18, 2014, [128 Stat. 3029][/us/stat/128/3029].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t44/s3502/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3502%2F3%2FA%2Fi
-[/us/pl/113/281/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs214%2Fa
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3029
 
 

@@ -19,7 +19,7 @@
 
     (b) A board convened under [section 251 of this title][/us/usc/t14/s251] shall certify that, in the opinion of at least a majority of the members if the board has five members, or in the opinion of at least two-thirds of the members if the board has more than five members, the officers recommended for promotion are the best qualified for promotion to meet the needs of the service (as noted in specific direction furnished the board by the Secretary under [section 258 of this title][/us/usc/t14/s258]) of those officers whose names have been furnished to the board.
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 180][/us/stat/77/180]; amended [Pub. L. 107–295, title III, § 313(2)][/us/pl/107/295/s313/2], Nov. 25, 2002, [116 Stat. 2103][/us/stat/116/2103]; [Pub. L. 111–281, title II, § 212(4)][/us/pl/111/281/s212/4], Oct. 15, 2010, [124 Stat. 2915][/us/stat/124/2915].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 180][/us/stat/77/180]; amended [Pub. L. 107–295, title III][/us/pl/107/295/tIII], § 313(2), Nov. 25, 2002, [116 Stat. 2103][/us/stat/116/2103]; [Pub. L. 111–281, title II][/us/pl/111/281/tII], § 212(4), Oct. 15, 2010, [124 Stat. 2915][/us/stat/124/2915].)
 
  __Amendments__ 
 
@@ -38,11 +38,11 @@
 [/us/usc/t14/s271/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs271%2Fa
 [/us/usc/t14/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs251
 [/us/usc/t14/s258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs258
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F180
-[/us/pl/107/295/s313/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs313%2F2
+[/us/pl/107/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIII
 [/us/stat/116/2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2103
-[/us/pl/111/281/s212/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs212%2F4
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2915
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/usc/t14/s258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs258

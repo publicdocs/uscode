@@ -31,7 +31,7 @@
 
         (2) Unless retired or discharged under another provision of law, each officer who is continued on active duty under subsection (b) but is not subsequently promoted or continued on active duty, and is not on a list of officers recommended for continuation or for promotion to the next higher grade, shall, if eligible for retirement under any provision of law, be retired under that law on the first day of the first month following the month in which the period of continued service is completed.
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 185][/us/stat/77/185]; amended [Pub. L. 93–283, § 1(7)][/us/pl/93/283/s1/7], May 14, 1974, [88 Stat. 140][/us/stat/88/140]; [Pub. L. 94–546, § 1(24)][/us/pl/94/546/s1/24], Oct. 18, 1976, [90 Stat. 2521][/us/stat/90/2521]; [Pub. L. 107–295, title IV, § 412][/us/pl/107/295/s412], Nov. 25, 2002, [116 Stat. 2118][/us/stat/116/2118].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 185][/us/stat/77/185]; amended [Pub. L. 93–283][/us/pl/93/283], § 1(7), May 14, 1974, [88 Stat. 140][/us/stat/88/140]; [Pub. L. 94–546][/us/pl/94/546], § 1(24), Oct. 18, 1976, [90 Stat. 2521][/us/stat/90/2521]; [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 412, Nov. 25, 2002, [116 Stat. 2118][/us/stat/116/2118].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Interim Authority for Selection of Commanders and Captains for Continuation on Active Duty__ 
 
-    [Pub. L. 88–130, § 3][/us/pl/88/130/s3], Sept. 24, 1963, [77 Stat. 191][/us/stat/77/191], authorized the Secretary, until July 1, 1966, to convene boards to recommend for continuation on active duty officers of the Coast Guard on the active duty promotion list in specified categories.
+    [Pub. L. 88–130][/us/pl/88/130], § 3, Sept. 24, 1963, [77 Stat. 191][/us/stat/77/191], authorized the Secretary, until July 1, 1966, to convene boards to recommend for continuation on active duty officers of the Coast Guard on the active duty promotion list in specified categories.
 
  __Retired Pay on or Prior to__  __September 24, 1963__ 
 
@@ -61,18 +61,18 @@
 ----------
 
 [/us/usc/t14/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs251
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F185
-[/us/pl/93/283/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F283%2Fs1%2F7
+[/us/pl/93/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F283
 [/us/stat/88/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F140
-[/us/pl/94/546/s1/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F24
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/stat/90/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2521
-[/us/pl/107/295/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs412
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2118
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/pl/93/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F283
-[/us/pl/88/130/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs3
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F191
 [/us/pl/88/130/s5/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs5%2Fg
 [/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130

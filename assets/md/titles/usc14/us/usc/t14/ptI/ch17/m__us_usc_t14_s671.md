@@ -17,7 +17,7 @@
 
     The Secretary may expend funds for the repair, improvement, restoration, or replacement of those federally or nonfederally owned support buildings, including appurtenances, which are on leased or permitted real property constituting Coast Guard Air Station Cape Cod, located on Massachusetts Military Reservation, Cape Cod, Massachusetts.
 
-(Added [Pub. L. 103–206, title III, § 303(a)][/us/pl/103/206/s303/a], Dec. 20, 1993, [107 Stat. 2423][/us/stat/107/2423].)
+(Added [Pub. L. 103–206, title III][/us/pl/103/206/tIII], § 303(a), Dec. 20, 1993, [107 Stat. 2423][/us/stat/107/2423].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/206/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs303%2Fa
+[/us/pl/103/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIII
 [/us/stat/107/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2423
 
 

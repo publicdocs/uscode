@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 33, U.S.C., 1946 ed., § 716 ([June 17, 1910, ch. 301, § 9][/us/act/1910-06-17/ch301/s9], [36 Stat. 538][/us/stat/36/538]; [July 27, 1939, ch. 388, § 1][/us/act/1939-07-27/ch388/s1], [53 Stat. 1130][/us/stat/53/1130]).
+    Based on title 33, U.S.C., 1946 ed., § 716 ([June 17, 1910, ch. 301][/us/act/1910-06-17/ch301], § 9, [36 Stat. 538][/us/stat/36/538]; [July 27, 1939, ch. 388][/us/act/1939-07-27/ch388], § 1, [53 Stat. 1130][/us/stat/53/1130]).
 
     Changes were made in phraseology. 81st Congress, House Report No. 557.
 
@@ -34,9 +34,9 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F550
-[/us/act/1910-06-17/ch301/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-17%2Fch301%2Fs9
+[/us/act/1910-06-17/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-17%2Fch301
 [/us/stat/36/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F538
-[/us/act/1939-07-27/ch388/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-07-27%2Fch388%2Fs1
+[/us/act/1939-07-27/ch388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-07-27%2Fch388
 [/us/stat/53/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1130
 
 

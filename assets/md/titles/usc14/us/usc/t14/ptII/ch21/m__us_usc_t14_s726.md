@@ -33,7 +33,7 @@
 
     (d) The Secretary may adjust, as necessary, the date of rank of a Reserve officer not on active duty so that the date will correspond with that of the running mate assigned to the officer in accordance with this section. If an overpayment of pay or allowances results from adjusting the date of rank, the overpayment is not subject to recoupment.
 
-(Added [Pub. L. 96–322, § 1][/us/pl/96/322/s1], Aug. 4, 1980, [94 Stat. 1008][/us/stat/94/1008].)
+(Added [Pub. L. 96–322][/us/pl/96/322], § 1, Aug. 4, 1980, [94 Stat. 1008][/us/stat/94/1008].)
 
  __Prior Provisions__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t14/s289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs289
-[/us/pl/96/322/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322%2Fs1
+[/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
 [/us/stat/94/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1008
 [/us/usc/t14/s782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs782
 [/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322

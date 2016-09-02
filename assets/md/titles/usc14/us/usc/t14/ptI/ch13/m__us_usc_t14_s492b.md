@@ -17,7 +17,7 @@
 
     The President may present, but not in the name of Congress, a distinguished flying cross of appropriate design, with accompanying ribbon, to any person who, while serving in any capacity with the Coast Guard, distinguishes himself by heroism or extraordinary achievement while participating in an aerial flight.
 
-(Added [Aug. 10, 1956, ch. 1041, § 12(a)][/us/act/1956-08-10/ch1041/s12/a], [70A Stat. 624][/us/stat/70A/624], § 492a; renumbered § 492b, [Pub. L. 111–281, title II, § 224(b)(1)][/us/pl/111/281/s224/b/1], Oct. 15, 2010, [124 Stat. 2922][/us/stat/124/2922].)
+(Added [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 12(a), [70A Stat. 624][/us/stat/70A/624], § 492a; renumbered § 492b, [Pub. L. 111–281, title II][/us/pl/111/281/tII], § 224(b)(1), Oct. 15, 2010, [124 Stat. 2922][/us/stat/124/2922].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1956-08-10/ch1041/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs12%2Fa
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F624
-[/us/pl/111/281/s224/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs224%2Fb%2F1
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2922
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/usc/t14/s492a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs492a

@@ -19,7 +19,7 @@
 
     (b) Retired pay computed under [section 423(a) of this title][/us/usc/t14/s423/a] of an officer retired under this section shall not be less than 50 percent of the basic pay upon which the computation of his retired pay is based.
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 185][/us/stat/77/185]; amended [Pub. L. 93–283, § 1(8)][/us/pl/93/283/s1/8], May 14, 1974, [88 Stat. 140][/us/stat/88/140]; [Pub. L. 94–546, § 1(25)][/us/pl/94/546/s1/25], Oct. 18, 1976, [90 Stat. 2521][/us/stat/90/2521]; [Pub. L. 96–342, title VIII, § 813(f)(1)][/us/pl/96/342/s813/f/1], Sept. 8, 1980, [94 Stat. 1109][/us/stat/94/1109]; [Pub. L. 97–417, § 2(7)][/us/pl/97/417/s2/7], Jan. 4, 1983, [96 Stat. 2085][/us/stat/96/2085]; [Pub. L. 99–348, title II, § 205(b)(4)][/us/pl/99/348/s205/b/4], July 1, 1986, [100 Stat. 700][/us/stat/100/700]; [Pub. L. 99–661, div. A, title XIII, § 1343(c)][/us/pl/99/661/s1343/c], Nov. 14, 1986, [100 Stat. 3995][/us/stat/100/3995].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 185][/us/stat/77/185]; amended [Pub. L. 93–283][/us/pl/93/283], § 1(8), May 14, 1974, [88 Stat. 140][/us/stat/88/140]; [Pub. L. 94–546][/us/pl/94/546], § 1(25), Oct. 18, 1976, [90 Stat. 2521][/us/stat/90/2521]; [Pub. L. 96–342, title VIII][/us/pl/96/342/tVIII], § 813(f)(1), Sept. 8, 1980, [94 Stat. 1109][/us/stat/94/1109]; [Pub. L. 97–417][/us/pl/97/417], § 2(7), Jan. 4, 1983, [96 Stat. 2085][/us/stat/96/2085]; [Pub. L. 99–348, title II][/us/pl/99/348/tII], § 205(b)(4), July 1, 1986, [100 Stat. 700][/us/stat/100/700]; [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1343(c), Nov. 14, 1986, [100 Stat. 3995][/us/stat/100/3995].)
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 
  __Interim Authority for Selection of Commanders and Captains for Continuation on Active Duty__ 
 
-    [Pub. L. 88–130, § 3(a)][/us/pl/88/130/s3/a], Sept. 24, 1963, [77 Stat. 191][/us/stat/77/191], excluded officers subject to retirement under this section during the fiscal year the selection board convened from being continued on active duty.
+    [Pub. L. 88–130][/us/pl/88/130], § 3(a), Sept. 24, 1963, [77 Stat. 191][/us/stat/77/191], excluded officers subject to retirement under this section during the fiscal year the selection board convened from being continued on active duty.
 
 ----------
 
@@ -55,19 +55,19 @@
 ----------
 
 [/us/usc/t14/s423/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs423%2Fa
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F185
-[/us/pl/93/283/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F283%2Fs1%2F8
+[/us/pl/93/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F283
 [/us/stat/88/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F140
-[/us/pl/94/546/s1/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F25
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/stat/90/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2521
-[/us/pl/96/342/s813/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs813%2Ff%2F1
+[/us/pl/96/342/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtVIII
 [/us/stat/94/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1109
-[/us/pl/97/417/s2/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417%2Fs2%2F7
+[/us/pl/97/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417
 [/us/stat/96/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2085
-[/us/pl/99/348/s205/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs205%2Fb%2F4
+[/us/pl/99/348/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtII
 [/us/stat/100/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F700
-[/us/pl/99/661/s1343/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1343%2Fc
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3995
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
@@ -83,7 +83,7 @@
 [/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/usc/t14/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs211
-[/us/pl/88/130/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs3%2Fa
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F191
 
 

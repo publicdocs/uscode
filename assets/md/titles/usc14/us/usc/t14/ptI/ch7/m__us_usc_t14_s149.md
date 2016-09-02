@@ -47,7 +47,7 @@
 
         (3) The amount of funds used under this subsection may not exceed $100,000 in any fiscal year.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 507][/us/stat/63/507]; [Pub. L. 98–557, § 15(a)(3)(D)][/us/pl/98/557/s15/a/3/D], (E), (4)(A)(i), Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865]; [Pub. L. 109–241, title II, § 202(a)][/us/pl/109/241/s202/a], July 11, 2006, [120 Stat. 520][/us/stat/120/520]; [Pub. L. 111–281, title II][/us/pl/111/281], §§ 206, 220, Oct. 15, 2010, [124 Stat. 2911][/us/stat/124/2911], 2918; [Pub. L. 112–213, title II][/us/pl/112/213], §§ 203, 216(d), Dec. 20, 2012, [126 Stat. 1543][/us/stat/126/1543], 1555.)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 507][/us/stat/63/507]; [Pub. L. 98–557][/us/pl/98/557], § 15(a)(3)(D), (E), (4)(A)(i), Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865]; [Pub. L. 109–241, title II][/us/pl/109/241/tII], § 202(a), July 11, 2006, [120 Stat. 520][/us/stat/120/520]; [Pub. L. 111–281, title II][/us/pl/111/281/tII], §§ 206, 220, Oct. 15, 2010, [124 Stat. 2911][/us/stat/124/2911], 2918; [Pub. L. 112–213, title II][/us/pl/112/213/tII], §§ 203, 216(d), Dec. 20, 2012, [126 Stat. 1543][/us/stat/126/1543], 1555.)
 
  __Historical and Revision Notes__ 
 
@@ -59,13 +59,13 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a). [Pub. L. 112–213, § 216(d)][/us/pl/112/213/s216/d], struck out at end “Members so detailed may accept, from the government to which detailed, offices and such compensation and emoluments thereunder appertaining as may be first approved by the Secretary. While so detailed such members shall receive, in addition to the compensation and emoluments allowed them by such governments, the pay and allowances to which they are entitled in the Coast Guard and shall be allowed the same credit for longevity, retirement, and for all other purposes that they would receive if they were serving with the Coast Guard.”
+    2012—Subsec. (a). [Pub. L. 112–213][/us/pl/112/213], § 216(d), struck out at end “Members so detailed may accept, from the government to which detailed, offices and such compensation and emoluments thereunder appertaining as may be first approved by the Secretary. While so detailed such members shall receive, in addition to the compensation and emoluments allowed them by such governments, the pay and allowances to which they are entitled in the Coast Guard and shall be allowed the same credit for longevity, retirement, and for all other purposes that they would receive if they were serving with the Coast Guard.”
 
-    Subsec. (d)(3). [Pub. L. 112–213, § 203][/us/pl/112/213/s203], added par. (3).
+    Subsec. (d)(3). [Pub. L. 112–213][/us/pl/112/213], § 203, added par. (3).
 
-    2010—Subsec. (c). [Pub. L. 111–281, § 206][/us/pl/111/281/s206], added subsec. (c).
+    2010—Subsec. (c). [Pub. L. 111–281][/us/pl/111/281], § 206, added subsec. (c).
 
-    Subsec. (d). [Pub. L. 111–281, § 220][/us/pl/111/281/s220], added subsec. (d).
+    Subsec. (d). [Pub. L. 111–281][/us/pl/111/281], § 220, added subsec. (d).
 
     2006—[Pub. L. 109–241][/us/pl/109/241] substituted “Assistance to foreign governments and maritime authorities” for “Detail of members to assist foreign governments” in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -84,13 +84,13 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F507
-[/us/pl/98/557/s15/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F3%2FD
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2865
-[/us/pl/109/241/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs202%2Fa
+[/us/pl/109/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtII
 [/us/stat/120/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F520
-[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2911
-[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1543
 [/us/act/1926-05-19/ch334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-19%2Fch334
 [/us/stat/44/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F565
@@ -100,10 +100,10 @@
 [/us/stat/56/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F763
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
 [/us/stat/56/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F763
-[/us/pl/112/213/s216/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs216%2Fd
-[/us/pl/112/213/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs203
-[/us/pl/111/281/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs206
-[/us/pl/111/281/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs220
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/usc/t10/s12302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12302

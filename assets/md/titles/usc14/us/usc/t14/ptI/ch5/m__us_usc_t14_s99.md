@@ -27,7 +27,7 @@
 
         (B) seize property as otherwise provided by law.
 
-(Added [Pub. L. 111–281, title II, § 208(a)][/us/pl/111/281/s208/a], Oct. 15, 2010, [124 Stat. 2912][/us/stat/124/2912].)
+(Added [Pub. L. 111–281, title II][/us/pl/111/281/tII], § 208(a), Oct. 15, 2010, [124 Stat. 2912][/us/stat/124/2912].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t46/s70101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70101
-[/us/pl/111/281/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs208%2Fa
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2912
 
 

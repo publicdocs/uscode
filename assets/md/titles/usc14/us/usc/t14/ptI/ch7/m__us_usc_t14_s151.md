@@ -23,7 +23,7 @@
 
     Under this section, the Coast Guard industrial activities may accept orders from and enter into reimbursable agreements with establishments, agencies, and departments of the Department of Defense and the Department of Homeland Security.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 507][/us/stat/63/507]; [Pub. L. 111–281, title II, § 202][/us/pl/111/281/s202], Oct. 15, 2010, [124 Stat. 2909][/us/stat/124/2909].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 507][/us/stat/63/507]; [Pub. L. 111–281, title II][/us/pl/111/281/tII], § 202, Oct. 15, 2010, [124 Stat. 2909][/us/stat/124/2909].)
 
  __Historical and Revision Notes__ 
 
@@ -42,7 +42,7 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F507
-[/us/pl/111/281/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs202
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2909
 [/us/act/1942-06-06/ch384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-06%2Fch384
 [/us/stat/56/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F328

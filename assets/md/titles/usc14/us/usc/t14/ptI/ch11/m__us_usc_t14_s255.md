@@ -17,7 +17,7 @@
 
     Before convening a board under [section 251 of this title][/us/usc/t14/s251] to recommend officers for promotion to any grade, the Secretary shall determine the total number of officers to be selected for promotion to that grade. This number shall be equal to the number of vacancies existing in the grade, plus the number of additional vacancies estimated for the next twelve months, less the number of officers on the selection list for the grade.
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 179][/us/stat/77/179].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 179][/us/stat/77/179].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t14/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs251
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F179
 
 

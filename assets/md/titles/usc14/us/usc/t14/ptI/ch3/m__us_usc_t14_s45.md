@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t14/ptI/ch3/m__us_usc_t14_s44.md) | [Next](./../../../../..//us/usc/t14/ptI/ch3/m__us_usc_t14_s46.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs45)
 
-## \[§ 45. Repealed. [Pub. L. 86–474, § 1(4)][/us/pl/86/474/s1/4], May 14, 1960, [74 Stat. 144][/us/stat/74/144]\]
+## \[§ 45. Repealed. [Pub. L. 86–474][/us/pl/86/474], § 1(4), May 14, 1960, [74 Stat. 144][/us/stat/74/144]\]
 
     Section, [act Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 498][/us/stat/63/498], related to permanent grade of Commandant on expiration of term.
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/pl/86/474/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F474%2Fs1%2F4
+[/us/pl/86/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F474
 [/us/stat/74/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F144
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F498

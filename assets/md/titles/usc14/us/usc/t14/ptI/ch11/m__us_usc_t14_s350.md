@@ -17,7 +17,7 @@
 
     The Secretary shall initiate and carry forward an intensified voluntary enlistment campaign to obtain the required personnel strengths.
 
-(Added [Aug. 10, 1956, ch. 1041, § 7(a)][/us/act/1956-08-10/ch1041/s7/a], [70A Stat. 620][/us/stat/70A/620].)
+(Added [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 7(a), [70A Stat. 620][/us/stat/70A/620].)
 
 <table>
 
@@ -76,7 +76,7 @@ June 24, 1948, ch. 625, § 20 (last sentence), 62 Stat. 627; Sept. 27, 1950, c
 ----------
 ----------
 
-[/us/act/1956-08-10/ch1041/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs7%2Fa
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F620
 
 

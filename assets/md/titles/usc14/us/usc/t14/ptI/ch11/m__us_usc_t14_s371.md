@@ -29,15 +29,15 @@
 
     (d) Under such regulations as the Secretary prescribes, an aviation cadet may be transferred to another enlisted grade or rating in the Coast Guard, released from active duty, or discharged.
 
-(Added [Pub. L. 89–444, § 1(20)][/us/pl/89/444/s1/20], June 9, 1966, [80 Stat. 196][/us/stat/80/196]; amended [Pub. L. 97–295, § 2(11)][/us/pl/97/295/s2/11], Oct. 12, 1982, [96 Stat. 1302][/us/stat/96/1302]; [Pub. L. 98–557, § 15(a)(1)][/us/pl/98/557/s15/a/1], Oct. 30, 1984, [98 Stat. 2864][/us/stat/98/2864].)
+(Added [Pub. L. 89–444][/us/pl/89/444], § 1(20), June 9, 1966, [80 Stat. 196][/us/stat/80/196]; amended [Pub. L. 97–295][/us/pl/97/295], § 2(11), Oct. 12, 1982, [96 Stat. 1302][/us/stat/96/1302]; [Pub. L. 98–557][/us/pl/98/557], § 15(a)(1), Oct. 30, 1984, [98 Stat. 2864][/us/stat/98/2864].)
 
  __Amendments__ 
 
-    1984—Subsec. (a). [Pub. L. 98–557, § 15(a)(1)(A)][/us/pl/98/557/s15/a/1/A], struck out “male” before “citizens” and “enlisted members”.
+    1984—Subsec. (a). [Pub. L. 98–557][/us/pl/98/557], § 15(a)(1)(A), struck out “male” before “citizens” and “enlisted members”.
 
-    Subsec. (c)(1). [Pub. L. 98–557, § 15(a)(1)(B)][/us/pl/98/557/s15/a/1/B], substituted “the person” for “he” in two places and struck out “his” after “upon”.
+    Subsec. (c)(1). [Pub. L. 98–557][/us/pl/98/557], § 15(a)(1)(B), substituted “the person” for “he” in two places and struck out “his” after “upon”.
 
-    Subsec. (c)(2). [Pub. L. 98–557, § 15(a)(1)(C)][/us/pl/98/557/s15/a/1/C], substituted “the person” for “he”, “the person’s” for “his”, and “the agreement” for “his agreement”.
+    Subsec. (c)(2). [Pub. L. 98–557][/us/pl/98/557], § 15(a)(1)(C), substituted “the person” for “he”, “the person’s” for “his”, and “the agreement” for “his agreement”.
 
     1982—Subsec. (b). [Pub. L. 97–295][/us/pl/97/295] substituted “percent” for “per centum”.
 
@@ -48,15 +48,15 @@
 ----------
 ----------
 
-[/us/pl/89/444/s1/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444%2Fs1%2F20
+[/us/pl/89/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444
 [/us/stat/80/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F196
-[/us/pl/97/295/s2/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs2%2F11
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1302
-[/us/pl/98/557/s15/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F1
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2864
-[/us/pl/98/557/s15/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F1%2FA
-[/us/pl/98/557/s15/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F1%2FB
-[/us/pl/98/557/s15/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F1%2FC
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 
 

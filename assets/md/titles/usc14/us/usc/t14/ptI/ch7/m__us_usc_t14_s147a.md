@@ -27,7 +27,7 @@
 
     (b) An individual (or the estate of that individual) who is authorized by the Coast Guard to provide a service under a program established under subsection (a) and who is acting within the scope of that individual’s duties is not liable for injury to, or loss of, property or personal injury or death that may be caused incident to providing the service.
 
-(Added [Pub. L. 97–295, § 2(6)(A)][/us/pl/97/295/s2/6/A], Oct. 12, 1982, [96 Stat. 1301][/us/stat/96/1301].)
+(Added [Pub. L. 97–295][/us/pl/97/295], § 2(6)(A), Oct. 12, 1982, [96 Stat. 1301][/us/stat/96/1301].)
 
 <table>
 
@@ -86,7 +86,7 @@ July 1, 1977, Pub. L. 95–61, § 8, 91 Stat. 260.  </td>
 ----------
 ----------
 
-[/us/pl/97/295/s2/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs2%2F6%2FA
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1301
 [/us/pl/95/61/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F61%2Fs8
 [/us/usc/t14/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs141

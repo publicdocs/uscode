@@ -19,7 +19,7 @@
 
     (b) The President may authorize exceptions to the prohibition in subsection (a) when the President determines that it is in the national security interest of the United States to do so. The President shall transmit notice to Congress of any such determination, and no contract may be made pursuant to the exception authorized until the end of the 30-day period beginning on the date the notice of such determination is received by Congress.
 
-(Added [Pub. L. 100–448, § 26(a)][/us/pl/100/448/s26/a], Sept. 28, 1988, [102 Stat. 1847][/us/stat/102/1847].)
+(Added [Pub. L. 100–448][/us/pl/100/448], § 26(a), Sept. 28, 1988, [102 Stat. 1847][/us/stat/102/1847].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/100/448/s26/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs26%2Fa
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
 [/us/stat/102/1847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1847
 
 

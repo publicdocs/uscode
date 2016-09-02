@@ -33,13 +33,13 @@
 
         (3)
 
-         any  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “it is”. </sup></sup>  other vessel or aircraft on government noncommercial service when—
+         it is any other vessel or aircraft on government noncommercial service when—
 
             (A) the vessel or aircraft is under the tactical control of the Coast Guard; and
 
             (B) at least one member of the Coast Guard is assigned and conducting a Coast Guard mission on the vessel or aircraft.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 546][/us/stat/63/546]; [Pub. L. 100–690, title VII, § 7401(a)][/us/pl/100/690/s7401/a], Nov. 18, 1988, [102 Stat. 4483][/us/stat/102/4483]; [Pub. L. 106–65, div. A, title X, § 1022][/us/pl/106/65/s1022], Oct. 5, 1999, [113 Stat. 746][/us/stat/113/746]; [Pub. L. 108–293, title II, § 205(a)][/us/pl/108/293/s205/a]–(c), (e)(1), Aug. 9, 2004, [118 Stat. 1032][/us/stat/118/1032], 1033; [Pub. L. 111–281, title II, § 213(a)][/us/pl/111/281/s213/a], Oct. 15, 2010, [124 Stat. 2915][/us/stat/124/2915].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 546][/us/stat/63/546]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7401(a), Nov. 18, 1988, [102 Stat. 4483][/us/stat/102/4483]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1022, Oct. 5, 1999, [113 Stat. 746][/us/stat/113/746]; [Pub. L. 108–293, title II][/us/pl/108/293/tII], § 205(a)–(c), (e)(1), Aug. 9, 2004, [118 Stat. 1032][/us/stat/118/1032], 1033; [Pub. L. 111–281, title II][/us/pl/111/281/tII], § 213(a), Oct. 15, 2010, [124 Stat. 2915][/us/stat/124/2915]; [Pub. L. 114–120, title II][/us/pl/114/120/tII], § 209(9), Feb. 8, 2016, [130 Stat. 41][/us/stat/130/41].)
 
  __Historical and Revision Notes__ 
 
@@ -51,19 +51,21 @@
 
  __Amendments__ 
 
+    2016—Subsec. (c)(3). [Pub. L. 114–120][/us/pl/114/120] inserted “it is” before “any” in introductory provisions.
+
     2010—Subsec. (c)(3). [Pub. L. 111–281][/us/pl/111/281] added par. (3).
 
-    2004—[Pub. L. 108–293, § 205(e)(1)][/us/pl/108/293/s205/e/1], substituted “indemnity” for “immunity” in section catchline.
+    2004—[Pub. L. 108–293][/us/pl/108/293], § 205(e)(1), substituted “indemnity” for “immunity” in section catchline.
 
-    Subsec. (a). [Pub. L. 108–293, § 205(a)][/us/pl/108/293/s205/a], designated existing provisions as par. (1), substituted “subject to paragraph (2),” for “after a gun has been fired by the authorized vessel or authorized aircraft as a warning signal,”, and added par. (2).
+    Subsec. (a). [Pub. L. 108–293][/us/pl/108/293], § 205(a), designated existing provisions as par. (1), substituted “subject to paragraph (2),” for “after a gun has been fired by the authorized vessel or authorized aircraft as a warning signal,”, and added par. (2).
 
-    Subsec. (c). [Pub. L. 108–293, § 205(b)][/us/pl/108/293/s205/b], inserted “or” after the semicolon at end of par. (1), inserted “or military aircraft” after “surface naval vessel” and substituted a period for “; or” in par. (2), and struck out par. (3) which read as follows: “subject to subsection (d), it is a naval aircraft that has one or more members of the Coast Guard on board and is operating from a surface naval vessel described in paragraph (2).”
+    Subsec. (c). [Pub. L. 108–293][/us/pl/108/293], § 205(b), inserted “or” after the semicolon at end of par. (1), inserted “or military aircraft” after “surface naval vessel” and substituted a period for “; or” in par. (2), and struck out par. (3) which read as follows: “subject to subsection (d), it is a naval aircraft that has one or more members of the Coast Guard on board and is operating from a surface naval vessel described in paragraph (2).”
 
-    Subsec. (d). [Pub. L. 108–293, § 205(c)][/us/pl/108/293/s205/c], struck out subsec. (d) which related to inclusion of naval aircraft as authorized aircraft for purposes of this section.
+    Subsec. (d). [Pub. L. 108–293][/us/pl/108/293], § 205(c), struck out subsec. (d) which related to inclusion of naval aircraft as authorized aircraft for purposes of this section.
 
-    1999—Subsec. (c)(3). [Pub. L. 106–65, § 1022(a)][/us/pl/106/65/s1022/a], added par. (3).
+    1999—Subsec. (c)(3). [Pub. L. 106–65][/us/pl/106/65], § 1022(a), added par. (3).
 
-    Subsec. (d). [Pub. L. 106–65, § 1022(b)][/us/pl/106/65/s1022/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–65][/us/pl/106/65], § 1022(b), added subsec. (d).
 
     1988—[Pub. L. 100–690][/us/pl/100/690] substituted “immunity for firing at or into vessel” for “immunity of Coast Guard officer” in section catchline, and amended text generally. Prior to amendment, text read as follows:
 
@@ -73,9 +75,9 @@
 
  __Report on Vessels or Aircraft Fired At or Into Without Warning__ 
 
-    [Pub. L. 108–293, title II, § 205(d)][/us/pl/108/293/s205/d], Aug. 9, 2004, [118 Stat. 1033][/us/stat/118/1033], which required the Commandant of the Coast Guard to transmit an annual report to Congress describing the location, vessels or aircraft, circumstances, and consequences of each incident in which an authorized vessel or an authorized aircraft fired at or into a vessel without prior use of the warning signal as authorized by this section, was repealed by [Pub. L. 111–207, § 4(a)(5)][/us/pl/111/207/s4/a/5], July 27, 2010, [124 Stat. 2251][/us/stat/124/2251].
+    [Pub. L. 108–293, title II][/us/pl/108/293/tII], § 205(d), Aug. 9, 2004, [118 Stat. 1033][/us/stat/118/1033], which required the Commandant of the Coast Guard to transmit an annual report to Congress describing the location, vessels or aircraft, circumstances, and consequences of each incident in which an authorized vessel or an authorized aircraft fired at or into a vessel without prior use of the warning signal as authorized by this section, was repealed by [Pub. L. 111–207][/us/pl/111/207], § 4(a)(5), July 27, 2010, [124 Stat. 2251][/us/stat/124/2251].
 
-    \[[Pub. L. 111–207, § 4(a)(5)][/us/pl/111/207/s4/a/5], which directed the repeal of section 205(d) of the Coast Guard and Maritime Transportation Act of 2006, was executed by repealing [section 205(d) of Pub. L. 108–293][/us/pl/108/293/s205/d], the Coast Guard and Maritime Transportation Act of 2004, formerly set out above, to reflect the probable intent of Congress.\]
+    \[[Pub. L. 111–207][/us/pl/111/207], § 4(a)(5), which directed the repeal of section 205(d) of the Coast Guard and Maritime Transportation Act of 2006, was executed by repealing [section 205(d) of Pub. L. 108–293][/us/pl/108/293/s205/d], the Coast Guard and Maritime Transportation Act of 2004, formerly set out above, to reflect the probable intent of Congress.\]
 
 ----------
 
@@ -87,27 +89,30 @@
 [/us/usc/t10/s379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs379
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F546
-[/us/pl/100/690/s7401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7401%2Fa
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4483
-[/us/pl/106/65/s1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1022
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F746
-[/us/pl/108/293/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs205%2Fa
+[/us/pl/108/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtII
 [/us/stat/118/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1032
-[/us/pl/111/281/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs213%2Fa
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2915
+[/us/pl/114/120/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtII
+[/us/stat/130/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F41
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
-[/us/pl/108/293/s205/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs205%2Fe%2F1
-[/us/pl/108/293/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs205%2Fa
-[/us/pl/108/293/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs205%2Fb
-[/us/pl/108/293/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs205%2Fc
-[/us/pl/106/65/s1022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1022%2Fa
-[/us/pl/106/65/s1022/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1022%2Fb
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/108/293/s205/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs205%2Fd
+[/us/pl/108/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtII
 [/us/stat/118/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1033
-[/us/pl/111/207/s4/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207%2Fs4%2Fa%2F5
+[/us/pl/111/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207
 [/us/stat/124/2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2251
-[/us/pl/111/207/s4/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207%2Fs4%2Fa%2F5
+[/us/pl/111/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207
 [/us/pl/108/293/s205/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs205%2Fd
 
 

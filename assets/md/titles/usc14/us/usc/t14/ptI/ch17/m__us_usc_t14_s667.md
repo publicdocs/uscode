@@ -21,7 +21,7 @@
 
     (2) the Secretary or Commandant determines after investigation that the amount of the bond in excess of 20 percent of the value of the base contract quantity excluding options, would not prevent a responsible bidder or offeror from competing for award of the contract.
 
-(Added [Pub. L. 101–595, title III, § 306(a)][/us/pl/101/595/s306/a], Nov. 16, 1990, [104 Stat. 2985][/us/stat/104/2985].)
+(Added [Pub. L. 101–595, title III][/us/pl/101/595/tIII], § 306(a), Nov. 16, 1990, [104 Stat. 2985][/us/stat/104/2985].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/595/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs306%2Fa
+[/us/pl/101/595/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2FtIII
 [/us/stat/104/2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2985
 
 

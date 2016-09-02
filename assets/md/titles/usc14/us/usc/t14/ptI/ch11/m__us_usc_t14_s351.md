@@ -19,13 +19,13 @@
 
     (b) The Secretary shall prescribe the grades or ratings for persons enlisting in the Regular Coast Guard.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 520][/us/stat/63/520]; [Aug. 3, 1950, ch. 536, § 16][/us/act/1950-08-03/ch536/s16], [64 Stat. 407][/us/stat/64/407]; [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], §§ 8(a), 53, [70A Stat. 620][/us/stat/70A/620], 679; [Pub. L. 98–557, § 15(a)(3)(F)][/us/pl/98/557/s15/a/3/F], Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865]; [Pub. L. 108–293, title II, § 203][/us/pl/108/293/s203], Aug. 9, 2004, [118 Stat. 1032][/us/stat/118/1032].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 520][/us/stat/63/520]; [Aug. 3, 1950, ch. 536][/us/act/1950-08-03/ch536], § 16, [64 Stat. 407][/us/stat/64/407]; [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], §§ 8(a), 53, [70A Stat. 620][/us/stat/70A/620], 679; [Pub. L. 98–557][/us/pl/98/557], § 15(a)(3)(F), Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865]; [Pub. L. 108–293, title II][/us/pl/108/293/tII], § 203, Aug. 9, 2004, [118 Stat. 1032][/us/stat/118/1032].)
 
  __Historical and Revision Notes__ 
 
  __1949__  __Act__ 
 
-    Based on title 14, U.S.C., 1946 ed., §§ 35, 35a, 206 ([May 26, 1906, ch. 2556, § 1][/us/act/1906-05-26/ch2556/s1], [34 Stat. 200][/us/stat/34/200]; [Jan. 28, 1915, ch. 20, § 1][/us/act/1915-01-28/ch20/s1], [38 Stat. 800][/us/stat/38/800]; [Apr. 21, 1924, ch. 130, § 6][/us/act/1924-04-21/ch130/s6], [43 Stat. 106][/us/stat/43/106]; [July 30, 1937, ch. 545, § 1][/us/act/1937-07-30/ch545/s1], [50 Stat. 547][/us/stat/50/547]; [July 11, 1941, ch. 290, § 8][/us/act/1941-07-11/ch290/s8], [55 Stat. 586][/us/stat/55/586]; [Aug. 18, 1941, ch. 364, § 3][/us/act/1941-08-18/ch364/s3], [55 Stat. 629][/us/stat/55/629]).
+    Based on title 14, U.S.C., 1946 ed., §§ 35, 35a, 206 ([May 26, 1906, ch. 2556][/us/act/1906-05-26/ch2556], § 1, [34 Stat. 200][/us/stat/34/200]; [Jan. 28, 1915, ch. 20][/us/act/1915-01-28/ch20], § 1, [38 Stat. 800][/us/stat/38/800]; [Apr. 21, 1924, ch. 130][/us/act/1924-04-21/ch130], § 6, [43 Stat. 106][/us/stat/43/106]; [July 30, 1937, ch. 545][/us/act/1937-07-30/ch545], § 1, [50 Stat. 547][/us/stat/50/547]; [July 11, 1941, ch. 290][/us/act/1941-07-11/ch290], § 8, [55 Stat. 586][/us/stat/55/586]; [Aug. 18, 1941, ch. 364][/us/act/1941-08-18/ch364], § 3, [55 Stat. 629][/us/stat/55/629]).
 
     [Section 35 of title 14][/us/usc/t14/s35], U.S.C., 1946 ed., has been divided. The provisions of the first sentence of subsection (a) are placed in this section. The proviso of subsection (a) is covered in [section 367(b) of this title][/us/usc/t14/s367/b]. Subsection (b) is placed in [section 365 of this title][/us/usc/t14/s365]. Subsections (c) and (d) are placed in [section 367(a) of this title][/us/usc/t14/s367/a], except that part (3) of subsection (c) is covered by [section 366 of this title][/us/usc/t14/s366].
 
@@ -106,25 +106,25 @@ Oct. 6, 1945, ch. 393, § 5 (as made applicable to Coast Guard by § 13), 13
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F520
-[/us/act/1950-08-03/ch536/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch536%2Fs16
+[/us/act/1950-08-03/ch536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch536
 [/us/stat/64/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F407
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F620
-[/us/pl/98/557/s15/a/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F3%2FF
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2865
-[/us/pl/108/293/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs203
+[/us/pl/108/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtII
 [/us/stat/118/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1032
-[/us/act/1906-05-26/ch2556/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-05-26%2Fch2556%2Fs1
+[/us/act/1906-05-26/ch2556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-05-26%2Fch2556
 [/us/stat/34/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F200
-[/us/act/1915-01-28/ch20/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-28%2Fch20%2Fs1
+[/us/act/1915-01-28/ch20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-28%2Fch20
 [/us/stat/38/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F800
-[/us/act/1924-04-21/ch130/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-04-21%2Fch130%2Fs6
+[/us/act/1924-04-21/ch130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-04-21%2Fch130
 [/us/stat/43/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F106
-[/us/act/1937-07-30/ch545/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-30%2Fch545%2Fs1
+[/us/act/1937-07-30/ch545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-30%2Fch545
 [/us/stat/50/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F547
-[/us/act/1941-07-11/ch290/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-11%2Fch290%2Fs8
+[/us/act/1941-07-11/ch290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-11%2Fch290
 [/us/stat/55/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F586
-[/us/act/1941-08-18/ch364/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-18%2Fch364%2Fs3
+[/us/act/1941-08-18/ch364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-18%2Fch364
 [/us/stat/55/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F629
 [/us/usc/t14/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs35
 [/us/usc/t14/s367/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs367%2Fb

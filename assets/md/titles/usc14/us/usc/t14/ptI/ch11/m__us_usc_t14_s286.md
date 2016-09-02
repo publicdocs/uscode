@@ -23,7 +23,7 @@
 
     (d) Notwithstanding subsections (a) and (b), an officer discharged under chapter 11 of this title for twice failing of selection for promotion to the next higher grade is not entitled to separation pay under this section if the officer requested in writing or otherwise sought not to be selected for promotion, or requested removal from the list of selectees.
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 185][/us/stat/77/185]; amended [Pub. L. 107–295, title IV, § 416(a)(3)][/us/pl/107/295/s416/a/3], Nov. 25, 2002, [116 Stat. 2121][/us/stat/116/2121].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 185][/us/stat/77/185]; amended [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 416(a)(3), Nov. 25, 2002, [116 Stat. 2121][/us/stat/116/2121].)
 
  __Amendments__ 
 
@@ -31,13 +31,13 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–295, title IV, § 416(c)][/us/pl/107/295/s416/c], Nov. 25, 2002, [116 Stat. 2122][/us/stat/116/2122], provided that: 
+[Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 416(c), Nov. 25, 2002, [116 Stat. 2122][/us/stat/116/2122], provided that: 
 
 > “The amendments made by paragraphs (2), (3), (4), and (5) of subsection (a) \[amending this section and sections 283, 286a, and 327 of this title\] shall take effect 4 years after the date of enactment of this Act \[Nov. 25, 2002\], except that subsection (d) of [section 286 of title 14][/us/usc/t14/s286], United States Code, as amended by paragraph (3) of subsection (a) of this section, shall take effect on the date of enactment of this Act and shall apply with respect to conduct on or after that date. The amendments made to the table of sections of chapter 11 of title 14, United States Code, by paragraphs (2), (3), and (4) of subsection (b) \[amending the table of sections for this chapter\] of this section shall take effect 4 years after the date of enactment of this Act.”
 
  __Interim Authority for Selection of Commanders and Captains for Continuation on Active Duty__ 
 
-    [Pub. L. 88–130, § 3(p)][/us/pl/88/130/s3/p], Sept. 24, 1963, [77 Stat. 192][/us/stat/77/192], authorized officers who failed of selection for continuation to request their discharge with severance pay computed in accordance with this section.
+    [Pub. L. 88–130][/us/pl/88/130], § 3(p), Sept. 24, 1963, [77 Stat. 192][/us/stat/77/192], authorized officers who failed of selection for continuation to request their discharge with severance pay computed in accordance with this section.
 
 ----------
 
@@ -49,15 +49,15 @@
 [/us/usc/t10/s1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1174
 [/us/usc/t14/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs327
 [/us/usc/t10/s1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1174
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F185
-[/us/pl/107/295/s416/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs416%2Fa%2F3
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2121
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
-[/us/pl/107/295/s416/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs416%2Fc
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2122
 [/us/usc/t14/s286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs286
-[/us/pl/88/130/s3/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs3%2Fp
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F192
 
 

@@ -65,7 +65,7 @@
 
         Each specialist described in paragraph (1) shall be an employee in a competitive service position.
 
-(Added [Pub. L. 113–281, title II, § 214(a)][/us/pl/113/281/s214/a], Dec. 18, 2014, [128 Stat. 3032][/us/stat/128/3032].)
+(Added [Pub. L. 113–281, title II][/us/pl/113/281/tII], § 214(a), Dec. 18, 2014, [128 Stat. 3032][/us/stat/128/3032].)
 
 ----------
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/113/281/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs214%2Fa
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3032
 
 

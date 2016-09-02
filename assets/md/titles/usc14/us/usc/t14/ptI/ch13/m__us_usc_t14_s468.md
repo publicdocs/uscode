@@ -21,7 +21,7 @@
 
     (2) gain support of recruiting objectives from those who may assist in the recruiting effort.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 531][/us/stat/63/531]; [Pub. L. 104–324, title II, § 206(b)][/us/pl/104/324/s206/b], Oct. 19, 1996, [110 Stat. 3908][/us/stat/110/3908].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 531][/us/stat/63/531]; [Pub. L. 104–324, title II][/us/pl/104/324/tII], § 206(b), Oct. 19, 1996, [110 Stat. 3908][/us/stat/110/3908].)
 
  __Historical and Revision Notes__ 
 
@@ -46,7 +46,7 @@ Based on the following language contained in the Coast Guard appropriation act f
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F531
-[/us/pl/104/324/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs206%2Fb
+[/us/pl/104/324/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtII
 [/us/stat/110/3908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3908
 [/us/act/1948-06-19/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch558
 [/us/stat/62/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F562

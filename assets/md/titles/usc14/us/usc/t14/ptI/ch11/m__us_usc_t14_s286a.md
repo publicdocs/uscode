@@ -23,7 +23,7 @@
 
     (d) The acceptance of separation pay under this section does not deprive a person of any retirement benefits from the United States. However, there shall be deducted from each of his retirement payments so much thereof as is based on the service for which he has received separation pay under this section, until the total deductions equal the amount of such separation pay.
 
-(Added [Pub. L. 96–513, title V, § 505(a)(1)][/us/pl/96/513/s505/a/1], Dec. 12, 1980, [94 Stat. 2918][/us/stat/94/2918]; amended [Pub. L. 102–190, div. A, title XI, § 1125(b)(1)][/us/pl/102/190/s1125/b/1], Dec. 5, 1991, [105 Stat. 1505][/us/stat/105/1505]; [Pub. L. 103–337, div. A, title V, § 541(f)(2)][/us/pl/103/337/s541/f/2], Oct. 5, 1994, [108 Stat. 2766][/us/stat/108/2766]; [Pub. L. 105–383, title II, § 201(a)][/us/pl/105/383/s201/a], (b), Nov. 13, 1998, [112 Stat. 3414][/us/stat/112/3414]; [Pub. L. 107–295, title IV, § 416(a)(4)][/us/pl/107/295/s416/a/4], Nov. 25, 2002, [116 Stat. 2121][/us/stat/116/2121]; [Pub. L. 112–213, title II, § 217(4)][/us/pl/112/213/s217/4], Dec. 20, 2012, [126 Stat. 1557][/us/stat/126/1557].)
+(Added [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 505(a)(1), Dec. 12, 1980, [94 Stat. 2918][/us/stat/94/2918]; amended [Pub. L. 102–190, div. A, title XI][/us/pl/102/190/dA/tXI], § 1125(b)(1), Dec. 5, 1991, [105 Stat. 1505][/us/stat/105/1505]; [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 541(f)(2), Oct. 5, 1994, [108 Stat. 2766][/us/stat/108/2766]; [Pub. L. 105–383, title II][/us/pl/105/383/tII], § 201(a), (b), Nov. 13, 1998, [112 Stat. 3414][/us/stat/112/3414]; [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 416(a)(4), Nov. 25, 2002, [116 Stat. 2121][/us/stat/116/2121]; [Pub. L. 112–213, title II][/us/pl/112/213/tII], § 217(4), Dec. 20, 2012, [126 Stat. 1557][/us/stat/126/1557].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 
     2002—[Pub. L. 107–295][/us/pl/107/295] substituted “separation” for “severance” in section catchline, added subsecs. (a) to (c), and struck out former subsecs. (a) to (c) which related to, in subsec. (a), severance pay of a regular warrant officer of the Coast Guard who is separated under [section 580(a)(4)(A) of title 10][/us/usc/t10/s580/a/4/A], in subsec. (b), severance pay of a regular warrant officer of the Coast Guard who is separated under [section 1166 of title 10][/us/usc/t10/s1166], and, in subsec. (c), the calculation of part of the year of service for the purposes of this section.
 
-    1998—Subsec. (b). [Pub. L. 105–383, § 201(b)][/us/pl/105/383/s201/b], inserted before period at end “, unless the Secretary determines that the conditions under which the officer is discharged or separated do not warrant payment of that amount of severance pay”.
+    1998—Subsec. (b). [Pub. L. 105–383][/us/pl/105/383], § 201(b), inserted before period at end “, unless the Secretary determines that the conditions under which the officer is discharged or separated do not warrant payment of that amount of severance pay”.
 
-    Subsec. (d). [Pub. L. 105–383, § 201(a)][/us/pl/105/383/s201/a], struck out at end “However, no person is entitled to severance pay under this section in an amount that is more than $15,000.”
+    Subsec. (d). [Pub. L. 105–383][/us/pl/105/383], § 201(a), struck out at end “However, no person is entitled to severance pay under this section in an amount that is more than $15,000.”
 
     1994—Subsec. (a). [Pub. L. 103–337][/us/pl/103/337] substituted “[section 580(a)(4)(A) of title 10][/us/usc/t10/s580/a/4/A]” for “[section 564(a)(3) of title 10][/us/usc/t10/s564/a/3] (as in effect on the day before the effective date of the Warrant Officer Management Act)”.
 
@@ -69,24 +69,24 @@
 [/us/usc/t10/s580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs580
 [/us/usc/t10/s1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1174
 [/us/usc/t10/s1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1174
-[/us/pl/96/513/s505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs505%2Fa%2F1
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2918
-[/us/pl/102/190/s1125/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1125%2Fb%2F1
+[/us/pl/102/190/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtXI
 [/us/stat/105/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1505
-[/us/pl/103/337/s541/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Ff%2F2
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2766
-[/us/pl/105/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs201%2Fa
+[/us/pl/105/383/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2FtII
 [/us/stat/112/3414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3414
-[/us/pl/107/295/s416/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs416%2Fa%2F4
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2121
-[/us/pl/112/213/s217/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs217%2F4
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1557
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/usc/t10/s580/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs580%2Fa%2F4%2FA
 [/us/usc/t10/s1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1166
-[/us/pl/105/383/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs201%2Fb
-[/us/pl/105/383/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383%2Fs201%2Fa
+[/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
+[/us/pl/105/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F383
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s580/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs580%2Fa%2F4%2FA
 [/us/usc/t10/s564/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs564%2Fa%2F3

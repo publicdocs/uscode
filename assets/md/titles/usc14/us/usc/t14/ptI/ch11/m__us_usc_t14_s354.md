@@ -17,11 +17,11 @@
 
     Any enlisted member who has completed thirty years’ service may, upon his own application, in the discretion of the Commandant, be retired from active service.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 521][/us/stat/63/521]; [Pub. L. 98–557, § 15(a)(3)(A)][/us/pl/98/557/s15/a/3/A], Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865]; [Pub. L. 99–348, title II, § 205(b)(8)][/us/pl/99/348/s205/b/8], July 1, 1986, [100 Stat. 700][/us/stat/100/700].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 521][/us/stat/63/521]; [Pub. L. 98–557][/us/pl/98/557], § 15(a)(3)(A), Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865]; [Pub. L. 99–348, title II][/us/pl/99/348/tII], § 205(b)(8), July 1, 1986, [100 Stat. 700][/us/stat/100/700].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 14, U.S.C., 1946 ed., § 175 ([Jan. 28, 1915, ch. 20, § 3][/us/act/1915-01-28/ch20/s3], [38 Stat. 801][/us/stat/38/801]).
+    Based on title 14, U.S.C., 1946 ed., § 175 ([Jan. 28, 1915, ch. 20][/us/act/1915-01-28/ch20], § 3, [38 Stat. 801][/us/stat/38/801]).
 
     Said section has been divided. That part dealing with retirement of enlisted men is placed in this section. That part dealing with retirement of commissioned officers is placed in [section 231 of this title][/us/usc/t14/s231]. That part dealing with retirement of warrant officers is placed in [section 304 of this title][/us/usc/t14/s304]. That part providing for retired pay is incorporated in [section 423 of this title][/us/usc/t14/s423]. That part providing for assignment of duties to retired personnel is incorporated in sections 241, 311, and 360 of this title.
 
@@ -42,11 +42,11 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F521
-[/us/pl/98/557/s15/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F3%2FA
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2865
-[/us/pl/99/348/s205/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs205%2Fb%2F8
+[/us/pl/99/348/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtII
 [/us/stat/100/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F700
-[/us/act/1915-01-28/ch20/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-28%2Fch20%2Fs3
+[/us/act/1915-01-28/ch20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-28%2Fch20
 [/us/stat/38/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F801
 [/us/usc/t14/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs231
 [/us/usc/t14/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs304

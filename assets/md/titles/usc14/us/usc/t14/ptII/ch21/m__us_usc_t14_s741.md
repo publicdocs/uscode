@@ -43,7 +43,7 @@
 
     (d) The provisions of [section 260 of this title][/us/usc/t14/s260] shall, to the extent that they are not inconsistent with this subchapter, apply to boards convened under this section.
 
-(Added [Pub. L. 96–322, § 1][/us/pl/96/322/s1], Aug. 4, 1980, [94 Stat. 1014][/us/stat/94/1014]; amended [Pub. L. 101–225, title II, § 203(5)][/us/pl/101/225/s203/5], Dec. 12, 1989, [103 Stat. 1911][/us/stat/103/1911]; [Pub. L. 103–206, title II, § 203][/us/pl/103/206/s203], Dec. 20, 1993, [107 Stat. 2420][/us/stat/107/2420]; [Pub. L. 103–337, div. A, title XVI, § 1677(b)(5)][/us/pl/103/337/s1677/b/5], Oct. 5, 1994, [108 Stat. 3020][/us/stat/108/3020]; [Pub. L. 104–106, div. A, title XV, § 1501(e)(1)(B)][/us/pl/104/106/s1501/e/1/B], Feb. 10, 1996, [110 Stat. 501][/us/stat/110/501].)
+(Added [Pub. L. 96–322][/us/pl/96/322], § 1, Aug. 4, 1980, [94 Stat. 1014][/us/stat/94/1014]; amended [Pub. L. 101–225, title II][/us/pl/101/225/tII], § 203(5), Dec. 12, 1989, [103 Stat. 1911][/us/stat/103/1911]; [Pub. L. 103–206, title II][/us/pl/103/206/tII], § 203, Dec. 20, 1993, [107 Stat. 2420][/us/stat/107/2420]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1677(b)(5), Oct. 5, 1994, [108 Stat. 3020][/us/stat/108/3020]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(e)(1)(B), Feb. 10, 1996, [110 Stat. 501][/us/stat/110/501].)
 
  __Prior Provisions__ 
 
@@ -76,15 +76,15 @@
 
 [/us/usc/t10/s12646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12646
 [/us/usc/t14/s260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs260
-[/us/pl/96/322/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322%2Fs1
+[/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
 [/us/stat/94/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1014
-[/us/pl/101/225/s203/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs203%2F5
+[/us/pl/101/225/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtII
 [/us/stat/103/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1911
-[/us/pl/103/206/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs203
+[/us/pl/103/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtII
 [/us/stat/107/2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2420
-[/us/pl/103/337/s1677/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1677%2Fb%2F5
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3020
-[/us/pl/104/106/s1501/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fe%2F1%2FB
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F501
 [/us/usc/t14/s787a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs787a
 [/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322

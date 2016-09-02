@@ -31,7 +31,7 @@
 
         (2) emergency circumstances exist.
 
-(Added [Pub. L. 104–324, title XI, § 1128(a)][/us/pl/104/324/s1128/a], Oct. 19, 1996, [110 Stat. 3984][/us/stat/110/3984].)
+(Added [Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1128(a), Oct. 19, 1996, [110 Stat. 3984][/us/stat/110/3984].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/104/324/s1128/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1128%2Fa
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3984
 
 

@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 14, U.S.C., 1946 ed., § 39 ([Aug. 29, 1916, ch. 418, § 1][/us/act/1916-08-29/ch418/s1], [39 Stat. 649][/us/stat/39/649]).
+    Based on title 14, U.S.C., 1946 ed., § 39 ([Aug. 29, 1916, ch. 418][/us/act/1916-08-29/ch418], § 1, [39 Stat. 649][/us/stat/39/649]).
 
     The assimilation is made in general terms, rather than by reference to the applicable section in title 10, U.S.C., 1946 ed. 81st Congress, House Report No. 557.
 
@@ -34,7 +34,7 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F533
-[/us/act/1916-08-29/ch418/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-29%2Fch418%2Fs1
+[/us/act/1916-08-29/ch418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-29%2Fch418
 [/us/stat/39/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F649
 
 

@@ -17,7 +17,7 @@
 
     Coast Guard facilities and personnel may be utilized for the transportation and delivery of mail matter during emergency conditions or at isolated locations under such arrangements as may be satisfactory to the Secretary and the United States Postal Service.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 506][/us/stat/63/506]; [Pub. L. 94–546, § 1(12)][/us/pl/94/546/s1/12], Oct. 18, 1976, [90 Stat. 2519][/us/stat/90/2519]; [Pub. L. 99–640, § 10(a)(5)][/us/pl/99/640/s10/a/5], Nov. 10, 1986, [100 Stat. 3549][/us/stat/100/3549].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 506][/us/stat/63/506]; [Pub. L. 94–546][/us/pl/94/546], § 1(12), Oct. 18, 1976, [90 Stat. 2519][/us/stat/90/2519]; [Pub. L. 99–640][/us/pl/99/640], § 10(a)(5), Nov. 10, 1986, [100 Stat. 3549][/us/stat/100/3549].)
 
  __Historical and Revision Notes__ 
 
@@ -38,9 +38,9 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F506
-[/us/pl/94/546/s1/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F12
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/stat/90/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2519
-[/us/pl/99/640/s10/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640%2Fs10%2Fa%2F5
+[/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
 [/us/stat/100/3549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3549
 [/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
 [/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546

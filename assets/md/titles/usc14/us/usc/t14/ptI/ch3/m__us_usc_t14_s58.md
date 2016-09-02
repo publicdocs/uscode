@@ -59,7 +59,7 @@
 
         (3) The Commandant shall prescribe written guidance setting forth the criteria to be used in determining whether or not the acceptance of a donation from a foreign source would have a result described in paragraph (2).
 
-(Added [Pub. L. 111–281, title V, § 521(a)][/us/pl/111/281/s521/a], Oct. 15, 2010, [124 Stat. 2955][/us/stat/124/2955]; amended [Pub. L. 113–281, title II, § 204][/us/pl/113/281/s204], Dec. 18, 2014, [128 Stat. 3025][/us/stat/128/3025].)
+(Added [Pub. L. 111–281, title V][/us/pl/111/281/tV], § 521(a), Oct. 15, 2010, [124 Stat. 2955][/us/stat/124/2955]; amended [Pub. L. 113–281, title II][/us/pl/113/281/tII], § 204, Dec. 18, 2014, [128 Stat. 3025][/us/stat/128/3025].)
 
  __Amendments__ 
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/111/281/s521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs521%2Fa
+[/us/pl/111/281/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtV
 [/us/stat/124/2955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2955
-[/us/pl/113/281/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs204
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3025
 [/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 

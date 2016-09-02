@@ -17,7 +17,7 @@
 
     There may be furnished to officers, enlisted members, and civilian employees, while actually engaged in flight operations, an aircraft flight ration in kind, chargeable to the proper Coast Guard appropriation, which flight ration shall be supplementary to any ration or subsistence allowance now granted to such personnel. No part of an aircraft flight ration shall be furnished without cost to any person in a travel status or to any person to whom a per diem allowance is granted in lieu of actual subsistence.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 533][/us/stat/63/533]; [Pub. L. 98–557, § 15(a)(3)(B)][/us/pl/98/557/s15/a/3/B], Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 533][/us/stat/63/533]; [Pub. L. 98–557][/us/pl/98/557], § 15(a)(3)(B), Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865].)
 
  __Historical and Revision Notes__ 
 
@@ -42,7 +42,7 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F533
-[/us/pl/98/557/s15/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F3%2FB
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2865
 [/us/act/1942-06-05/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-05%2Fch327
 [/us/stat/56/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F308

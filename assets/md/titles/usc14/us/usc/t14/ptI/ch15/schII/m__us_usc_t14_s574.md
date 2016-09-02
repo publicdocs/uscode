@@ -37,7 +37,7 @@
 
         (4) prepare an acquisition project or program transition plan to enter into programmatic sustainment, operations, and support.
 
-(Added [Pub. L. 111–281, title IV, § 402(a)][/us/pl/111/281/s402/a], Oct. 15, 2010, [124 Stat. 2947][/us/stat/124/2947].)
+(Added [Pub. L. 111–281, title IV][/us/pl/111/281/tIV], § 402(a), Oct. 15, 2010, [124 Stat. 2947][/us/stat/124/2947].)
 
  __Prior Provisions__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs402%2Fa
+[/us/pl/111/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIV
 [/us/stat/124/2947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2947
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F543

@@ -17,7 +17,7 @@
 
     The Secretary is authorized to confer or impose upon the Commandant any of the rights, privileges, powers, or duties, in respect to the administration of the Coast Guard, vested in or imposed upon the Secretary by this title or other provisions of law.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 544][/us/stat/63/544]; [Pub. L. 94–546, § 1(33)][/us/pl/94/546/s1/33], Oct. 18, 1976, [90 Stat. 2521][/us/stat/90/2521].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 544][/us/stat/63/544]; [Pub. L. 94–546][/us/pl/94/546], § 1(33), Oct. 18, 1976, [90 Stat. 2521][/us/stat/90/2521].)
 
  __Historical and Revision Notes__ 
 
@@ -29,7 +29,7 @@
 
  __Administrative Advisory Committees; Solicitation of Nominations for Membership; Publication in Federal Register; Disclosures to Congress; Compensation and Travel Expenses__ 
 
-[Pub. L. 97–322, title I, § 118(e)][/us/pl/97/322/s118/e], Oct. 15, 1982, [96 Stat. 1587][/us/stat/96/1587], provided that:
+[Pub. L. 97–322, title I][/us/pl/97/322/tI], § 118(e), Oct. 15, 1982, [96 Stat. 1587][/us/stat/96/1587], provided that:
 
 >     “(1) The Secretary of the department in which the Coast Guard is operating shall, not less often than once a year, publish notice in the Federal Register for solicitation of nominations for membership on any advisory committee established administratively for the purpose of giving advice and recommendations to such Secretary or the Commandant of the Coast Guard with respect to functions of the Coast Guard.
 
@@ -46,10 +46,10 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F544
-[/us/pl/94/546/s1/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F33
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/stat/90/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2521
 [/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
-[/us/pl/97/322/s118/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322%2Fs118%2Fe
+[/us/pl/97/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322%2FtI
 [/us/stat/96/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1587
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 

@@ -603,7 +603,7 @@ ENLISTED MEMBERS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs357" data-uslm-ref="/us/usc/t14/s357">357.</a>  </td>
 
-    <td> Involuntary retirement of enlisted members.  </td>
+    <td> Retirement of enlisted members: increase in retired pay.  </td>
 
   </tr>
 
@@ -817,17 +817,33 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs429" data-uslm-ref="/us/usc/t14/s429">429.</a>  </td>
 
-SPECIAL PROVISIONS  </td>
+    <td> Multirater assessment of certain personnel.  </td>
 
   </tr>
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs431" data-uslm-ref="/us/usc/t14/s431">431.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs430" data-uslm-ref="/us/usc/t14/s430">430.</a>  </td>
 
-    <td> Repealed.]  </td>
+    <td> Investigations of flag officers and Senior Executive Service employees.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs431" data-uslm-ref="/us/usc/t14/s431">431.</a>  </td>
+
+    <td> Leave policies for the Coast Guard.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+SPECIAL PROVISIONS  </td>
 
   </tr>
 
@@ -857,67 +873,69 @@ SPECIAL PROVISIONS  </td>
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–281, title II, § 212(b)][/us/pl/113/281/s212/b], title III, § 305(b)(2), Dec. 18, 2014, [128 Stat. 3029][/us/stat/128/3029], 3044, added items 296 and 428.
+    2016—[Pub. L. 114–120, title II][/us/pl/114/120/tII], § 214(a)(2), 215(b)(2), 220(b), 222(b), Feb. 8, 2016, [130 Stat. 43][/us/stat/130/43], 46, 48, 50, added items 357, 429, 430, and 431 and struck out former item 357 “Involuntary retirement of enlisted members”.
 
-    2012—[Pub. L. 112–213, title II][/us/pl/112/213], §§ 208(d), 209(b), Dec. 20, 2012, [126 Stat. 1549][/us/stat/126/1549], 1550, added items 263 and 427.
+    2014—[Pub. L. 113–281, title II][/us/pl/113/281/tII], § 212(b), title III, § 305(b)(2), Dec. 18, 2014, [128 Stat. 3029][/us/stat/128/3029], 3044, added items 296 and 428.
 
-    2010—[Pub. L. 111–281, title II][/us/pl/111/281], §§ 207(b), 209, 215(b), Oct. 15, 2010, [124 Stat. 2912][/us/stat/124/2912], 2917, struck out item 216 “Director of Boating Safety Office”, substituted “Compulsory retirement” for “Compulsory retirement at age of sixty-two” in item 293, and added item 426.
+    2012—[Pub. L. 112–213, title II][/us/pl/112/213/tII], §§ 208(d), 209(b), Dec. 20, 2012, [126 Stat. 1549][/us/stat/126/1549], 1550, added items 263 and 427.
 
-    2006—[Pub. L. 109–241, title II, § 215(b)][/us/pl/109/241/s215/b], July 11, 2006, [120 Stat. 525][/us/stat/120/525], added item 216.
+    2010—[Pub. L. 111–281, title II][/us/pl/111/281/tII], §§ 207(b), 209, 215(b), Oct. 15, 2010, [124 Stat. 2912][/us/stat/124/2912], 2917, struck out item 216 “Director of Boating Safety Office”, substituted “Compulsory retirement” for “Compulsory retirement at age of sixty-two” in item 293, and added item 426.
 
-    2004—[Pub. L. 108–293, title II, § 204(b)][/us/pl/108/293/s204/b], Aug. 9, 2004, [118 Stat. 1032][/us/stat/118/1032], added item 374.
+    2006—[Pub. L. 109–241, title II][/us/pl/109/241/tII], § 215(b), July 11, 2006, [120 Stat. 525][/us/stat/120/525], added item 216.
 
-    2002—[Pub. L. 107–295, title IV][/us/pl/107/295], §§ 416(b), 444(b), Nov. 25, 2002, [116 Stat. 2122][/us/stat/116/2122], 2133, substituted “five” for “three” in item 281 and “separation” for “severance” in items 286, 286a, and 327 and added item 424a.
+    2004—[Pub. L. 108–293, title II][/us/pl/108/293/tII], § 204(b), Aug. 9, 2004, [118 Stat. 1032][/us/stat/118/1032], added item 374.
 
-    1996—[Pub. L. 104–324, title II][/us/pl/104/324], §§ 209(b), 210(b), 211(b), Oct. 19, 1996, [110 Stat. 3914][/us/stat/110/3914], 3915, substituted “Appointment” for “Original appointment” in item 214, struck out item 277 “Temporary promotions of warrant officers”, and added item 425.
+    2002—[Pub. L. 107–295, title IV][/us/pl/107/295/tIV], §§ 416(b), 444(b), Nov. 25, 2002, [116 Stat. 2122][/us/stat/116/2122], 2133, substituted “five” for “three” in item 281 and “separation” for “severance” in items 286, 286a, and 327 and added item 424a.
 
-    1994—[Pub. L. 103–337, div. A, title V, § 541(e)(2)][/us/pl/103/337/s541/e/2], (f)(5)(B), Oct. 5, 1994, [108 Stat. 2766][/us/stat/108/2766], 2767, struck out items 212 “Original appointment of permanent commissioned warrant officers” and 213 “Original appointment of permanent warrant officers (W–1)” and added item 215.
+    1996—[Pub. L. 104–324, title II][/us/pl/104/324/tII], §§ 209(b), 210(b), 211(b), Oct. 19, 1996, [110 Stat. 3914][/us/stat/110/3914], 3915, substituted “Appointment” for “Original appointment” in item 214, struck out item 277 “Temporary promotions of warrant officers”, and added item 425.
 
-    1991—[Pub. L. 102–241, § 6(b)][/us/pl/102/241/s6/b], Dec. 19, 1991, [105 Stat. 2212][/us/stat/105/2212], substituted “Involuntary retirement of enlisted members” for “Enlisted Personnel Board” in item 357.
+    1994—[Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 541(e)(2), (f)(5)(B), Oct. 5, 1994, [108 Stat. 2766][/us/stat/108/2766], 2767, struck out items 212 “Original appointment of permanent commissioned warrant officers” and 213 “Original appointment of permanent warrant officers (W–1)” and added item 215.
 
-    1986—[Pub. L. 99–640, § 10(a)(6)(B)][/us/pl/99/640/s10/a/6/B], Nov. 10, 1986, [100 Stat. 3549][/us/stat/100/3549], struck out items 431, 433, 434, and 438.
+    1991—[Pub. L. 102–241][/us/pl/102/241], § 6(b), Dec. 19, 1991, [105 Stat. 2212][/us/stat/105/2212], substituted “Involuntary retirement of enlisted members” for “Enlisted Personnel Board” in item 357.
 
-    1985—[Pub. L. 99–145, title V, § 514(c)(2)(B)][/us/pl/99/145/s514/c/2/B], Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629], substituted “rear admirals (lower half)” for “commodores” in item 290.
+    1986—[Pub. L. 99–640][/us/pl/99/640], § 10(a)(6)(B), Nov. 10, 1986, [100 Stat. 3549][/us/stat/100/3549], struck out items 431, 433, 434, and 438.
+
+    1985—[Pub. L. 99–145, title V][/us/pl/99/145/tV], § 514(c)(2)(B), Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629], substituted “rear admirals (lower half)” for “commodores” in item 290.
 
     1984—[Pub. L. 98–557][/us/pl/98/557], §§ 15(a)(4)(B)(ii), (C)(ii), (E)(ii), 17(b)(2)(B), Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865], 2866, 2867, added item 295, in heading preceding item 350 substituted “MEMBERS” for “MEN”, in item 360 substituted “member” for “man”, and in item 361 substituted “enlisted member” for “man”.
 
-    1983—[Pub. L. 97–417, § 2(9)(B)][/us/pl/97/417/s2/9/B], Jan. 4, 1983, [96 Stat. 2086][/us/stat/96/2086], inserted “and commodores” after “Rear admirals” in item 290.
+    1983—[Pub. L. 97–417][/us/pl/97/417], § 2(9)(B), Jan. 4, 1983, [96 Stat. 2086][/us/stat/96/2086], inserted “and commodores” after “Rear admirals” in item 290.
 
-    1982—[Pub. L. 97–322, title I, § 115(b)(2)][/us/pl/97/322/s115/b/2], Oct. 15, 1982, [96 Stat. 1585][/us/stat/96/1585], struck out item 368.
+    1982—[Pub. L. 97–322, title I][/us/pl/97/322/tI], § 115(b)(2), Oct. 15, 1982, [96 Stat. 1585][/us/stat/96/1585], struck out item 368.
 
-    1980—[Pub. L. 96–513, title V, § 505(a)(2)][/us/pl/96/513/s505/a/2], Dec. 12, 1980, [94 Stat. 2918][/us/stat/94/2918], added item 286a.
+    1980—[Pub. L. 96–513, title V][/us/pl/96/513/tV], § 505(a)(2), Dec. 12, 1980, [94 Stat. 2918][/us/stat/94/2918], added item 286a.
 
-    1976—[Pub. L. 94–546, § 1(18)][/us/pl/94/546/s1/18], Oct. 18, 1976, [90 Stat. 2520][/us/stat/90/2520], added item 256a.
+    1976—[Pub. L. 94–546][/us/pl/94/546], § 1(18), Oct. 18, 1976, [90 Stat. 2520][/us/stat/90/2520], added item 256a.
 
-    1972—[Pub. L. 92–451, § 1(9)][/us/pl/92/451/s1/9], Oct. 2, 1972, [86 Stat. 757][/us/stat/86/757], substituted “continuation on active duty” for “retention on the active list” in item 290.
+    1972—[Pub. L. 92–451][/us/pl/92/451], § 1(9), Oct. 2, 1972, [86 Stat. 757][/us/stat/86/757], substituted “continuation on active duty” for “retention on the active list” in item 290.
 
-    1966—[Pub. L. 89–444, § 1(25)][/us/pl/89/444/s1/25], June 9, 1966, [80 Stat. 197][/us/stat/80/197], substituted “Grade on retirement” for “Retirement in cases where higher grade has been held” in item 334, and added items 371, 372, and 373.
+    1966—[Pub. L. 89–444][/us/pl/89/444], § 1(25), June 9, 1966, [80 Stat. 197][/us/stat/80/197], substituted “Grade on retirement” for “Retirement in cases where higher grade has been held” in item 334, and added items 371, 372, and 373.
 
-    1965—[Pub. L. 89–189, § 1(2)][/us/pl/89/189/s1/2], Sept. 17, 1965, [79 Stat. 820][/us/stat/79/820], added item 336.
+    1965—[Pub. L. 89–189][/us/pl/89/189], § 1(2), Sept. 17, 1965, [79 Stat. 820][/us/stat/79/820], added item 336.
 
     1963—[Pub. L. 88–130][/us/pl/88/130], §§ 1(9), (10)(B), 4(c), Sept. 24, 1963, [77 Stat. 175][/us/stat/77/175], 177, 193, added items 211 to 214, 251 to 262, 271 to 277, 281 to 294, 321 to 327, 331 to 335, struck out items 221 to 248, 301 to 313a, 435 to 437, 439, and 440, and struck out headings “COMMISSIONED OFFICERS” and “WARRANT OFFICERS” which preceded sections 221 and 301, respectively, of this title.
 
-    [Pub. L. 88–114, § 1(3)][/us/pl/88/114/s1/3], Sept. 6, 1963, [77 Stat. 144][/us/stat/77/144], struck out item 358.
+    [Pub. L. 88–114][/us/pl/88/114], § 1(3), Sept. 6, 1963, [77 Stat. 144][/us/stat/77/144], struck out item 358.
 
-    1959—[Pub. L. 86–155, § 10(a)(2)][/us/pl/86/155/s10/a/2], Aug. 11, 1959, [73 Stat. 338][/us/stat/73/338], struck out items 239 and 309.
+    1959—[Pub. L. 86–155][/us/pl/86/155], § 10(a)(2), Aug. 11, 1959, [73 Stat. 338][/us/stat/73/338], struck out items 239 and 309.
 
-    1958—[Pub. L. 85–861, § 33(b)(2)][/us/pl/85/861/s33/b/2], Sept. 2, 1958, [72 Stat. 1567][/us/stat/72/1567], added item 440.
+    1958—[Pub. L. 85–861][/us/pl/85/861], § 33(b)(2), Sept. 2, 1958, [72 Stat. 1567][/us/stat/72/1567], added item 440.
 
     1957—[Pub. L. 85–144][/us/pl/85/144], §§ 2(b), 3, Aug. 14, 1957, [71 Stat. 367][/us/stat/71/367], added item 313a and struck out items 303, 304, 305, 307, 308, and 313.
 
     1956—[Act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], §§ 7(b), 8(b), 9(b), [70A Stat. 620][/us/stat/70A/620], 623, added items 350 and 435 to 438, and substituted “Enlistments; term, grade” for “Enlistments” in item 351.
 
-    [Act July 20, 1956, ch. 647, § 3(b)][/us/act/1956-07-20/ch647/s3/b], [70 Stat. 588][/us/stat/70/588], added item 439.
+    [Act July 20, 1956, ch. 647][/us/act/1956-07-20/ch647], § 3(b), [70 Stat. 588][/us/stat/70/588], added item 439.
 
-    1955—[Act Aug. 9, 1955, ch. 684, § 1(1)][/us/act/1955-08-09/ch684/s1/1], [69 Stat. 620][/us/stat/69/620], added items 245 to 248.
+    1955—[Act Aug. 9, 1955, ch. 684][/us/act/1955-08-09/ch684], § 1(1), [69 Stat. 620][/us/stat/69/620], added items 245 to 248.
 
-    [Act June 8, 1955, ch. 136, § 1][/us/act/1955-06-08/ch136/s1], [69 Stat. 88][/us/stat/69/88], added item 370.
+    [Act June 8, 1955, ch. 136][/us/act/1955-06-08/ch136], § 1, [69 Stat. 88][/us/stat/69/88], added item 370.
 
-    1950—[Act Aug. 3, 1950, ch. 536, § 4][/us/act/1950-08-03/ch536/s4], [64 Stat. 406][/us/stat/64/406], struck out items 233, 245, 246, 306, 314, 315, 356, 363, 364, and 425.
+    1950—[Act Aug. 3, 1950, ch. 536][/us/act/1950-08-03/ch536], § 4, [64 Stat. 406][/us/stat/64/406], struck out items 233, 245, 246, 306, 314, 315, 356, 363, 364, and 425.
 
  __Year-End Strength for Active Duty Personnel and Average Military Training Student Loads for Each Fiscal Year After Fiscal Year 1977; Authorization and Appropriations__ 
 
-    [Pub. L. 94–406, § 6][/us/pl/94/406/s6], Sept. 10, 1976, [90 Stat. 1236][/us/stat/90/1236], which had required that Congress set the active duty end strength and average training student loads for each fiscal year for the Coast Guard, appropriations for those years not to be spent relating to those areas until Congress made such determination, was repealed and reenacted as [section 661 of this title][/us/usc/t14/s661] by [Pub. L. 97–295][/us/pl/97/295], §§ 2(20)(A), 6(b), Oct. 12, 1982, [96 Stat. 1302][/us/stat/96/1302], 1314.
+    [Pub. L. 94–406][/us/pl/94/406], § 6, Sept. 10, 1976, [90 Stat. 1236][/us/stat/90/1236], which had required that Congress set the active duty end strength and average training student loads for each fiscal year for the Coast Guard, appropriations for those years not to be spent relating to those areas until Congress made such determination, was repealed and reenacted as [section 661 of this title][/us/usc/t14/s661] by [Pub. L. 97–295][/us/pl/97/295], §§ 2(20)(A), 6(b), Oct. 12, 1982, [96 Stat. 1302][/us/stat/96/1302], 1314 and subsequently transferred to [section 2703 of this title][/us/usc/t14/s2703] by [Pub. L. 114–120, title I][/us/pl/114/120/tI], § 101(c), Feb. 8, 2016, [130 Stat. 31][/us/stat/130/31].
 
  __OFFICERS__ 
 
@@ -933,68 +951,73 @@ SPECIAL PROVISIONS  </td>
 [/us/act/1946-02-21/ch34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-21%2Fch34
 [/us/stat/60/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F29
 [/us/usc/t14/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs305
-[/us/pl/113/281/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs212%2Fb
+[/us/pl/114/120/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtII
+[/us/stat/130/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F43
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3029
-[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1549
-[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2912
-[/us/pl/109/241/s215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs215%2Fb
+[/us/pl/109/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtII
 [/us/stat/120/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F525
-[/us/pl/108/293/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs204%2Fb
+[/us/pl/108/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtII
 [/us/stat/118/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1032
-[/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2122
-[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtII
 [/us/stat/110/3914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3914
-[/us/pl/103/337/s541/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fe%2F2
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2766
-[/us/pl/102/241/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241%2Fs6%2Fb
+[/us/pl/102/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241
 [/us/stat/105/2212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2212
-[/us/pl/99/640/s10/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640%2Fs10%2Fa%2F6%2FB
+[/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
 [/us/stat/100/3549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3549
-[/us/pl/99/145/s514/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fc%2F2%2FB
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F629
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2865
-[/us/pl/97/417/s2/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417%2Fs2%2F9%2FB
+[/us/pl/97/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417
 [/us/stat/96/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2086
-[/us/pl/97/322/s115/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322%2Fs115%2Fb%2F2
+[/us/pl/97/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322%2FtI
 [/us/stat/96/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1585
-[/us/pl/96/513/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs505%2Fa%2F2
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2918
-[/us/pl/94/546/s1/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F18
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/stat/90/2520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2520
-[/us/pl/92/451/s1/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F451%2Fs1%2F9
+[/us/pl/92/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F451
 [/us/stat/86/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F757
-[/us/pl/89/444/s1/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444%2Fs1%2F25
+[/us/pl/89/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444
 [/us/stat/80/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F197
-[/us/pl/89/189/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F189%2Fs1%2F2
+[/us/pl/89/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F189
 [/us/stat/79/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F820
 [/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F175
-[/us/pl/88/114/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F114%2Fs1%2F3
+[/us/pl/88/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F114
 [/us/stat/77/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F144
-[/us/pl/86/155/s10/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F155%2Fs10%2Fa%2F2
+[/us/pl/86/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F155
 [/us/stat/73/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F338
-[/us/pl/85/861/s33/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fb%2F2
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1567
 [/us/pl/85/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F144
 [/us/stat/71/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F367
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F620
-[/us/act/1956-07-20/ch647/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-20%2Fch647%2Fs3%2Fb
+[/us/act/1956-07-20/ch647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-20%2Fch647
 [/us/stat/70/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F588
-[/us/act/1955-08-09/ch684/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch684%2Fs1%2F1
+[/us/act/1955-08-09/ch684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch684
 [/us/stat/69/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F620
-[/us/act/1955-06-08/ch136/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-08%2Fch136%2Fs1
+[/us/act/1955-06-08/ch136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-08%2Fch136
 [/us/stat/69/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F88
-[/us/act/1950-08-03/ch536/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch536%2Fs4
+[/us/act/1950-08-03/ch536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch536
 [/us/stat/64/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F406
-[/us/pl/94/406/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F406%2Fs6
+[/us/pl/94/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F406
 [/us/stat/90/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1236
 [/us/usc/t14/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs661
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1302
+[/us/usc/t14/s2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs2703
+[/us/pl/114/120/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtI
+[/us/stat/130/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F31
 
 

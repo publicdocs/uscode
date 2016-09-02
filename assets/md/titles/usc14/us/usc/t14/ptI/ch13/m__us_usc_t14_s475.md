@@ -27,11 +27,11 @@
 
     (c) Where sufficient quarters are not possessed by the United States, the Commandant may hire quarters for personnel, including personnel on sea duty at such times as they may be deprived of their quarters on board ship due to repairs or other conditions which may render them uninhabitable. Such accommodations shall not be available for occupancy by the dependents of such personnel.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 532][/us/stat/63/532]; [Pub. L. 91–278, § 1(11)][/us/pl/91/278/s1/11], June 12, 1970, [84 Stat. 305][/us/stat/84/305]; [Pub. L. 92–343, § 4][/us/pl/92/343/s4], July 10, 1972, [86 Stat. 450][/us/stat/86/450]; [Pub. L. 93–65, § 5][/us/pl/93/65/s5], July 9, 1973, [87 Stat. 151][/us/stat/87/151]; [Pub. L. 94–406, § 4][/us/pl/94/406/s4], Sept. 10, 1976, [90 Stat. 1236][/us/stat/90/1236]; [Pub. L. 94–478][/us/pl/94/478], Oct. 11, 1976, [90 Stat. 2077][/us/stat/90/2077]; [Pub. L. 94–546, § 1(30)][/us/pl/94/546/s1/30], Oct. 18, 1976, [90 Stat. 2521][/us/stat/90/2521]; [Pub. L. 96–376, § 4][/us/pl/96/376/s4], Oct. 3, 1980, [94 Stat. 1509][/us/stat/94/1509]; [Pub. L. 96–470, title I, § 112(d)][/us/pl/96/470/s112/d], Oct. 19, 1980, [94 Stat. 2240][/us/stat/94/2240]; [Pub. L. 97–136, § 7][/us/pl/97/136/s7], Dec. 29, 1981, [95 Stat. 1706][/us/stat/95/1706]; [Pub. L. 97–295, § 2(11)][/us/pl/97/295/s2/11], Oct. 12, 1982, [96 Stat. 1302][/us/stat/96/1302]; [Pub. L. 97–322, title I, § 106][/us/pl/97/322/s106], Oct. 15, 1982, [96 Stat. 1582][/us/stat/96/1582]; [Pub. L. 100–180, div. A, title VI, § 632(b)(2)][/us/pl/100/180/s632/b/2], Dec. 4, 1987, [101 Stat. 1105][/us/stat/101/1105].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 532][/us/stat/63/532]; [Pub. L. 91–278][/us/pl/91/278], § 1(11), June 12, 1970, [84 Stat. 305][/us/stat/84/305]; [Pub. L. 92–343][/us/pl/92/343], § 4, July 10, 1972, [86 Stat. 450][/us/stat/86/450]; [Pub. L. 93–65][/us/pl/93/65], § 5, July 9, 1973, [87 Stat. 151][/us/stat/87/151]; [Pub. L. 94–406][/us/pl/94/406], § 4, Sept. 10, 1976, [90 Stat. 1236][/us/stat/90/1236]; [Pub. L. 94–478][/us/pl/94/478], Oct. 11, 1976, [90 Stat. 2077][/us/stat/90/2077]; [Pub. L. 94–546][/us/pl/94/546], § 1(30), Oct. 18, 1976, [90 Stat. 2521][/us/stat/90/2521]; [Pub. L. 96–376][/us/pl/96/376], § 4, Oct. 3, 1980, [94 Stat. 1509][/us/stat/94/1509]; [Pub. L. 96–470, title I][/us/pl/96/470/tI], § 112(d), Oct. 19, 1980, [94 Stat. 2240][/us/stat/94/2240]; [Pub. L. 97–136][/us/pl/97/136], § 7, Dec. 29, 1981, [95 Stat. 1706][/us/stat/95/1706]; [Pub. L. 97–295][/us/pl/97/295], § 2(11), Oct. 12, 1982, [96 Stat. 1302][/us/stat/96/1302]; [Pub. L. 97–322, title I][/us/pl/97/322/tI], § 106, Oct. 15, 1982, [96 Stat. 1582][/us/stat/96/1582]; [Pub. L. 100–180, div. A, title VI][/us/pl/100/180/dA/tVI], § 632(b)(2), Dec. 4, 1987, [101 Stat. 1105][/us/stat/101/1105].)
 
  __Historical and Revision Notes__ 
 
-Based on title 14, U.S.C., 1946 ed., § 133a ([June 19, 1942, ch. 419, § 2][/us/act/1942-06-19/ch419/s2], [56 Stat. 372][/us/stat/56/372]) and on the following language contained in the Coast Guard appropriation act for 1949, “Pay and Allowances” and preceding years: 
+Based on title 14, U.S.C., 1946 ed., § 133a ([June 19, 1942, ch. 419][/us/act/1942-06-19/ch419], § 2, [56 Stat. 372][/us/stat/56/372]) and on the following language contained in the Coast Guard appropriation act for 1949, “Pay and Allowances” and preceding years: 
 
 > “hire of quarters for Coast Guard personnel comparable to quarters assignable on a capital ship of the Navy, as authorized by the Secretary to meet emergency conditions, including officers and men on sea duty at such times as they may be deprived of their quarters on board ship due to repairs or other conditions which may render them uninhabitable: Provided, That under this authorization no funds may be expended for the hire of quarters for occupancy by the dependents of officers or enlisted personnel”
 
@@ -53,23 +53,23 @@ Based on title 14, U.S.C., 1946 ed., § 133a ([June 19, 1942, ch. 419, § 2]
 
     Subsec. (e). [Pub. L. 96–470][/us/pl/96/470] struck out reference to subsec. (c).
 
-    1976—Subsec. (a). [Pub. L. 94–546, § 1(30)(a)][/us/pl/94/546/s1/30/a], substituted “Secretary” for “Secretary of the Department in which the Coast Guard is operating” wherever appearing.
+    1976—Subsec. (a). [Pub. L. 94–546][/us/pl/94/546], § 1(30)(a), substituted “Secretary” for “Secretary of the Department in which the Coast Guard is operating” wherever appearing.
 
     [Pub. L. 94–478][/us/pl/94/478] inserted provision allowing leases for housing facilities in foreign countries to be made on a multi-year basis.
 
-    Subsec. (e). [Pub. L. 94–546, § 1(30)(b)][/us/pl/94/546/s1/30/b], which was executed to subsec. (e) as the probable intent of Congress, substituted “Secretary” for “Secretary of the Department in which the Coast Guard is operating” and struck out “commencing April 1, 1973,” after “not later than April 1,”.
+    Subsec. (e). [Pub. L. 94–546][/us/pl/94/546], § 1(30)(b), which was executed to subsec. (e) as the probable intent of Congress, substituted “Secretary” for “Secretary of the Department in which the Coast Guard is operating” and struck out “commencing April 1, 1973,” after “not later than April 1,”.
 
-    [Pub. L. 94–406, § 4(1)][/us/pl/94/406/s4/1], redesignated subsec. (f) as (e). Former subsec. (e), which provided that the authority conferred by subsecs. (b) and (c) of this section expire on June 30, 1976, was struck out.
+    [Pub. L. 94–406][/us/pl/94/406], § 4(1), redesignated subsec. (f) as (e). Former subsec. (e), which provided that the authority conferred by subsecs. (b) and (c) of this section expire on June 30, 1976, was struck out.
 
-    Subsecs. (f), (g). [Pub. L. 94–406, § 4(1)][/us/pl/94/406/s4/1], (2), redesignated subsec. (g) as (f) and substituted “(e)” for “(f)”. Former subsec. (f) redesignated (e).
+    Subsecs. (f), (g). [Pub. L. 94–406][/us/pl/94/406], § 4(1), (2), redesignated subsec. (g) as (f) and substituted “(e)” for “(f)”. Former subsec. (f) redesignated (e).
 
     1973—Subsec. (e). [Pub. L. 93–65][/us/pl/93/65] extended termination date of authority provided in subsecs. (b) and (c) from June 30, 1973, to June 30, 1976.
 
-    1972—Subsec. (a). [Pub. L. 92–343, § 4(1)][/us/pl/92/343/s4/1], substituted “The Secretary of the Department in which the Coast Guard is operating” for “The Secretary” in first sentence.
+    1972—Subsec. (a). [Pub. L. 92–343][/us/pl/92/343], § 4(1), substituted “The Secretary of the Department in which the Coast Guard is operating” for “The Secretary” in first sentence.
 
-    Subsec. (e). [Pub. L. 92–343, § 4(2)][/us/pl/92/343/s4/2], struck out reference to subsec. (a) and extended authority provided in subsecs. (b) and (c) to June 30, 1973.
+    Subsec. (e). [Pub. L. 92–343][/us/pl/92/343], § 4(2), struck out reference to subsec. (a) and extended authority provided in subsecs. (b) and (c) to June 30, 1973.
 
-    Subsecs. (f), (g). [Pub. L. 92–343, § 4(3)][/us/pl/92/343/s4/3], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 92–343][/us/pl/92/343], § 4(3), added subsecs. (f) and (g).
 
     1970—[Pub. L. 91–278][/us/pl/91/278] substituted “Leasing and hiring of quarters; rental of inadequate housing” for “Hiring of quarters for personnel” in section catchline, designated existing provisions as subsec. (d), and added subsecs. (a) to (c) and (e).
 
@@ -92,31 +92,31 @@ Based on title 14, U.S.C., 1946 ed., § 133a ([June 19, 1942, ch. 419, § 2]
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F532
-[/us/pl/91/278/s1/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278%2Fs1%2F11
+[/us/pl/91/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278
 [/us/stat/84/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F305
-[/us/pl/92/343/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F343%2Fs4
+[/us/pl/92/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F343
 [/us/stat/86/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F450
-[/us/pl/93/65/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F65%2Fs5
+[/us/pl/93/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F65
 [/us/stat/87/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F151
-[/us/pl/94/406/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F406%2Fs4
+[/us/pl/94/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F406
 [/us/stat/90/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1236
 [/us/pl/94/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F478
 [/us/stat/90/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2077
-[/us/pl/94/546/s1/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F30
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/stat/90/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2521
-[/us/pl/96/376/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F376%2Fs4
+[/us/pl/96/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F376
 [/us/stat/94/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1509
-[/us/pl/96/470/s112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs112%2Fd
+[/us/pl/96/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtI
 [/us/stat/94/2240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2240
-[/us/pl/97/136/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F136%2Fs7
+[/us/pl/97/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F136
 [/us/stat/95/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1706
-[/us/pl/97/295/s2/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs2%2F11
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1302
-[/us/pl/97/322/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322%2Fs106
+[/us/pl/97/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322%2FtI
 [/us/stat/96/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1582
-[/us/pl/100/180/s632/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs632%2Fb%2F2
+[/us/pl/100/180/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVI
 [/us/stat/101/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1105
-[/us/act/1942-06-19/ch419/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-19%2Fch419%2Fs2
+[/us/act/1942-06-19/ch419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-19%2Fch419
 [/us/stat/56/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F372
 [/us/act/1948-06-19/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch558
 [/us/stat/62/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F562
@@ -126,15 +126,15 @@ Based on title 14, U.S.C., 1946 ed., § 133a ([June 19, 1942, ch. 419, § 2]
 [/us/pl/97/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F136
 [/us/pl/96/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F376
 [/us/pl/96/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470
-[/us/pl/94/546/s1/30/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F30%2Fa
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/pl/94/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F478
-[/us/pl/94/546/s1/30/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F30%2Fb
-[/us/pl/94/406/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F406%2Fs4%2F1
-[/us/pl/94/406/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F406%2Fs4%2F1
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
+[/us/pl/94/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F406
+[/us/pl/94/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F406
 [/us/pl/93/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F65
-[/us/pl/92/343/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F343%2Fs4%2F1
-[/us/pl/92/343/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F343%2Fs4%2F2
-[/us/pl/92/343/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F343%2Fs4%2F3
+[/us/pl/92/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F343
+[/us/pl/92/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F343
+[/us/pl/92/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F343
 [/us/pl/91/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t14/s475/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs475%2Fc

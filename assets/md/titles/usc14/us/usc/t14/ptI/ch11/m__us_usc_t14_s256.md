@@ -29,7 +29,7 @@
 
     (b) Promotion zones from which officers will be selected for promotion to the grade of rear admiral (lower half) shall be established by the Secretary as the needs of the service require.
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 179][/us/stat/77/179]; amended [Pub. L. 89–444, § 1(16)][/us/pl/89/444/s1/16], June 9, 1966, [80 Stat. 196][/us/stat/80/196]; [Pub. L. 97–417, § 2(3)][/us/pl/97/417/s2/3], Jan. 4, 1983, [96 Stat. 2085][/us/stat/96/2085]; [Pub. L. 99–145, title V, § 514(c)(1)][/us/pl/99/145/s514/c/1], Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629]; [Pub. L. 99–661, div. A, title XIII, § 1343(c)][/us/pl/99/661/s1343/c], Nov. 14, 1986, [100 Stat. 3995][/us/stat/100/3995].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 179][/us/stat/77/179]; amended [Pub. L. 89–444][/us/pl/89/444], § 1(16), June 9, 1966, [80 Stat. 196][/us/stat/80/196]; [Pub. L. 97–417][/us/pl/97/417], § 2(3), Jan. 4, 1983, [96 Stat. 2085][/us/stat/96/2085]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 514(c)(1), Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629]; [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1343(c), Nov. 14, 1986, [100 Stat. 3995][/us/stat/100/3995].)
 
  __Amendments__ 
 
@@ -48,15 +48,15 @@
 ----------
 ----------
 
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F179
-[/us/pl/89/444/s1/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444%2Fs1%2F16
+[/us/pl/89/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444
 [/us/stat/80/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F196
-[/us/pl/97/417/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417%2Fs2%2F3
+[/us/pl/97/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417
 [/us/stat/96/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2085
-[/us/pl/99/145/s514/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fc%2F1
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F629
-[/us/pl/99/661/s1343/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1343%2Fc
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3995
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145

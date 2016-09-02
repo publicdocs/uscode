@@ -31,6 +31,26 @@ Based on the following language contained in the Coast Guard appropriation act f
 
     Changes were made in phraseology. 81st Congress, House Report No. 557.
 
+ __Coast Guard Graduate Maritime Operations Education__ 
+
+[Pub. L. 114–120, title II][/us/pl/114/120/tII], § 213, Feb. 8, 2016, [130 Stat. 42][/us/stat/130/42], provided that: 
+
+> “Not later than 1 year after the date of the enactment of this Act \[Feb. 8, 2016\], the Secretary of the department in which the Coast Guard is operating shall establish an education program, for members and employees of the Coast Guard, that—
+
+>     “(1) offers a master’s degree in maritime operations;
+
+>     “(2) is relevant to the professional development of such members and employees;
+
+>     “(3) provides resident and distant education options, including the ability to utilize both options; and
+
+>     “(4)
+
+>      to the greatest extent practicable, is conducted using existing academic programs at an accredited public academic institution that—
+
+>         “(A) is located near a significant number of Coast Guard, maritime, and other Department of Homeland Security law enforcement personnel; and
+
+>         “(B) has an ability to simulate operations normally conducted at a command center.”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_s469.md) | [Next](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_s471.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs470)
@@ -42,5 +62,7 @@ Based on the following language contained in the Coast Guard appropriation act f
 [/us/stat/63/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F531
 [/us/act/1948-06-19/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch558
 [/us/stat/62/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F562
+[/us/pl/114/120/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtII
+[/us/stat/130/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F42
 
 

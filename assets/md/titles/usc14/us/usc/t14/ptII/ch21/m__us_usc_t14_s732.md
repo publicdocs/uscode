@@ -17,7 +17,7 @@
 
     A Reserve officer is eligible for consideration for promotion and for promotion under this subchapter, if that officer is in an active status. A Reserve officer who has been considered but not recommended for retention in an active status by a board convened under sub[section 741(a) of this title][/us/usc/t14/s741/a], is not eligible for consideration for promotion.
 
-(Added [Pub. L. 96–322, § 1][/us/pl/96/322/s1], Aug. 4, 1980, [94 Stat. 1011][/us/stat/94/1011].)
+(Added [Pub. L. 96–322][/us/pl/96/322], § 1, Aug. 4, 1980, [94 Stat. 1011][/us/stat/94/1011].)
 
  __Prior Provisions__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t14/s741/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs741%2Fa
-[/us/pl/96/322/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322%2Fs1
+[/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
 [/us/stat/94/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1011
 [/us/usc/t14/s774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs774
 [/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322

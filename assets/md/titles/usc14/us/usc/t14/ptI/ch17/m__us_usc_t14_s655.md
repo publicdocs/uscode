@@ -17,7 +17,7 @@
 
     No tax on the sale or transfer of firearms, pistols, revolvers, shells, or cartridges may be imposed on such articles when bought with funds appropriated for the Coast Guard.
 
-(Added [Pub. L. 87–526, § 1(6)][/us/pl/87/526/s1/6], July 10, 1962, [76 Stat. 142][/us/stat/76/142]; amended [Pub. L. 94–546, § 1(37)][/us/pl/94/546/s1/37], Oct. 18, 1976, [90 Stat. 2522][/us/stat/90/2522].)
+(Added [Pub. L. 87–526][/us/pl/87/526], § 1(6), July 10, 1962, [76 Stat. 142][/us/stat/76/142]; amended [Pub. L. 94–546][/us/pl/94/546], § 1(37), Oct. 18, 1976, [90 Stat. 2522][/us/stat/90/2522].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/87/526/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F526%2Fs1%2F6
+[/us/pl/87/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F526
 [/us/stat/76/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F142
-[/us/pl/94/546/s1/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F37
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/stat/90/2522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2522
 [/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 

@@ -151,7 +151,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch19" data-uslm-ref="/us/usc/t14/ptI/ch19">19.</a>  </td>
 
-    <td> Coast Guard Environmental Compliance and Restoration Program  <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to chapter heading. </sup></sup>   </td>
+    <td> Environmental Compliance and Restoration Program  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs690" data-uslm-ref="/us/usc/t14/s690">690</a>  </td>
 
@@ -161,13 +161,15 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–281, title II, § 214(b)(2)(A)][/us/pl/113/281/s214/b/2/A], Dec. 18, 2014, [128 Stat. 3033][/us/stat/128/3033], added item for chapter 14.
+    2016—[Pub. L. 114–120, title II][/us/pl/114/120/tII], § 209(1), Feb. 8, 2016, [130 Stat. 40][/us/stat/130/40], substituted “Environmental Compliance and Restoration Program” for “Coast Guard Environmental Compliance and Restoration Program” in item for chapter 19.
 
-    2010—[Pub. L. 111–281, title IV, § 402(b)][/us/pl/111/281/s402/b], Oct. 15, 2010, [124 Stat. 2950][/us/stat/124/2950], added item for chapter 15.
+    2014—[Pub. L. 113–281, title II][/us/pl/113/281/tII], § 214(b)(2)(A), Dec. 18, 2014, [128 Stat. 3033][/us/stat/128/3033], added item for chapter 14.
 
-    1996—[Pub. L. 104–324, title II, § 208(c)][/us/pl/104/324/s208/c], Oct. 19, 1996, [110 Stat. 3913][/us/stat/110/3913], added item for chapter 18.
+    2010—[Pub. L. 111–281, title IV][/us/pl/111/281/tIV], § 402(b), Oct. 15, 2010, [124 Stat. 2950][/us/stat/124/2950], added item for chapter 15.
 
-    1989—[Pub. L. 101–225, title II, § 222(b)][/us/pl/101/225/s222/b], Dec. 12, 1989, [103 Stat. 1918][/us/stat/103/1918], added item for chapter 19.
+    1996—[Pub. L. 104–324, title II][/us/pl/104/324/tII], § 208(c), Oct. 19, 1996, [110 Stat. 3913][/us/stat/110/3913], added item for chapter 18.
+
+    1989—[Pub. L. 101–225, title II][/us/pl/101/225/tII], § 222(b), Dec. 12, 1989, [103 Stat. 1918][/us/stat/103/1918], added item for chapter 19.
 
     1950—[Act May 5, 1950, ch. 169][/us/act/1950-05-05/ch169], §§ 5, 14(v), [64 Stat. 148][/us/stat/64/148], repealed item for chapter 15 “Discipline and Related Matters———561”, effective May 31, 1951.
 
@@ -178,13 +180,15 @@
 ----------
 ----------
 
-[/us/pl/113/281/s214/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs214%2Fb%2F2%2FA
+[/us/pl/114/120/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtII
+[/us/stat/130/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F40
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3033
-[/us/pl/111/281/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs402%2Fb
+[/us/pl/111/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIV
 [/us/stat/124/2950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2950
-[/us/pl/104/324/s208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs208%2Fc
+[/us/pl/104/324/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtII
 [/us/stat/110/3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3913
-[/us/pl/101/225/s222/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs222%2Fb
+[/us/pl/101/225/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtII
 [/us/stat/103/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1918
 [/us/act/1950-05-05/ch169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-05%2Fch169
 [/us/stat/64/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F148

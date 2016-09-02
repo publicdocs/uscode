@@ -17,7 +17,7 @@
 
     An officer whose name appears on an approved list of officers selected for promotion to the next higher grade and who is retired for physical disability under the provisions of chapter 61 of title 10 prior to being promoted shall be retired in the grade to which he was selected for promotion.
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 187][/us/stat/77/187].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 187][/us/stat/77/187].)
 
  __Retired Pay on or Prior to__  __September 24, 1963__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F187
 [/us/pl/88/130/s5/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs5%2Fg
 [/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130

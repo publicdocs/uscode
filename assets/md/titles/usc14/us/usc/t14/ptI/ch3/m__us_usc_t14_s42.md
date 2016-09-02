@@ -59,11 +59,11 @@
 
     The number of officers authorized to be serving on active duty in each grade of the permanent commissioned teaching staff of the Coast Guard Academy and of the Reserve serving in connection with organizing, administering, recruiting, instructing, or training the reserve components shall be prescribed by the Secretary.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 497][/us/stat/63/497]; [July 20, 1956, ch. 647, § 2][/us/act/1956-07-20/ch647/s2], [70 Stat. 588][/us/stat/70/588]; [Pub. L. 86–474, § 1(2)][/us/pl/86/474/s1/2], May 14, 1960, [74 Stat. 144][/us/stat/74/144]; [Pub. L. 88–130, § 1(2)][/us/pl/88/130/s1/2], Sept. 24, 1963, [77 Stat. 174][/us/stat/77/174]; [Pub. L. 89–444, § 1(2)][/us/pl/89/444/s1/2], June 9, 1966, [80 Stat. 195][/us/stat/80/195]; [Pub. L. 90–385][/us/pl/90/385], July 5, 1968, [82 Stat. 293][/us/stat/82/293]; [Pub. L. 92–451, § 1(2)][/us/pl/92/451/s1/2], Oct. 2, 1972, [86 Stat. 755][/us/stat/86/755]; [Pub. L. 93–174, § 1(2)][/us/pl/93/174/s1/2], Dec. 5, 1973, [87 Stat. 692][/us/stat/87/692]; [Pub. L. 96–23, § 4][/us/pl/96/23/s4], June 13, 1979, [93 Stat. 68][/us/stat/93/68]; [Pub. L. 97–417, § 2(2)][/us/pl/97/417/s2/2], Jan. 4, 1983, [96 Stat. 2085][/us/stat/96/2085]; [Pub. L. 97–449, § 5(b)][/us/pl/97/449/s5/b], Jan. 12, 1983, [96 Stat. 2442][/us/stat/96/2442]; [Pub. L. 98–557, § 25(a)(1)][/us/pl/98/557/s25/a/1], Oct. 30, 1984, [98 Stat. 2872][/us/stat/98/2872]; [Pub. L. 99–145, title V, § 514(c)(1)][/us/pl/99/145/s514/c/1], Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629]; [Pub. L. 103–206, title II, § 201][/us/pl/103/206/s201], Dec. 20, 1993, [107 Stat. 2420][/us/stat/107/2420]; [Pub. L. 108–293, title II, § 214][/us/pl/108/293/s214], Aug. 9, 2004, [118 Stat. 1037][/us/stat/118/1037]; [Pub. L. 111–281, title II, § 204(a)][/us/pl/111/281/s204/a], Oct. 15, 2010, [124 Stat. 2910][/us/stat/124/2910]; [Pub. L. 113–281, title II, § 201][/us/pl/113/281/s201], Dec. 18, 2014, [128 Stat. 3024][/us/stat/128/3024].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 497][/us/stat/63/497]; [July 20, 1956, ch. 647][/us/act/1956-07-20/ch647], § 2, [70 Stat. 588][/us/stat/70/588]; [Pub. L. 86–474][/us/pl/86/474], § 1(2), May 14, 1960, [74 Stat. 144][/us/stat/74/144]; [Pub. L. 88–130][/us/pl/88/130], § 1(2), Sept. 24, 1963, [77 Stat. 174][/us/stat/77/174]; [Pub. L. 89–444][/us/pl/89/444], § 1(2), June 9, 1966, [80 Stat. 195][/us/stat/80/195]; [Pub. L. 90–385][/us/pl/90/385], July 5, 1968, [82 Stat. 293][/us/stat/82/293]; [Pub. L. 92–451][/us/pl/92/451], § 1(2), Oct. 2, 1972, [86 Stat. 755][/us/stat/86/755]; [Pub. L. 93–174][/us/pl/93/174], § 1(2), Dec. 5, 1973, [87 Stat. 692][/us/stat/87/692]; [Pub. L. 96–23][/us/pl/96/23], § 4, June 13, 1979, [93 Stat. 68][/us/stat/93/68]; [Pub. L. 97–417][/us/pl/97/417], § 2(2), Jan. 4, 1983, [96 Stat. 2085][/us/stat/96/2085]; [Pub. L. 97–449][/us/pl/97/449], § 5(b), Jan. 12, 1983, [96 Stat. 2442][/us/stat/96/2442]; [Pub. L. 98–557][/us/pl/98/557], § 25(a)(1), Oct. 30, 1984, [98 Stat. 2872][/us/stat/98/2872]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 514(c)(1), Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629]; [Pub. L. 103–206, title II][/us/pl/103/206/tII], § 201, Dec. 20, 1993, [107 Stat. 2420][/us/stat/107/2420]; [Pub. L. 108–293, title II][/us/pl/108/293/tII], § 214, Aug. 9, 2004, [118 Stat. 1037][/us/stat/118/1037]; [Pub. L. 111–281, title II][/us/pl/111/281/tII], § 204(a), Oct. 15, 2010, [124 Stat. 2910][/us/stat/124/2910]; [Pub. L. 113–281, title II][/us/pl/113/281/tII], § 201, Dec. 18, 2014, [128 Stat. 3024][/us/stat/128/3024].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 14, U.S.C., 1946 ed., § 6a ([July 23, 1947, ch. 301, § 1][/us/act/1947-07-23/ch301/s1], [61 Stat. 409][/us/stat/61/409]).
+    Based on title 14, U.S.C., 1946 ed., § 6a ([July 23, 1947, ch. 301][/us/act/1947-07-23/ch301], § 1, [61 Stat. 409][/us/stat/61/409]).
 
     The only change is in phraseology in the second sentence, it being necessary to include the extra numbers authorized by the act of July 23, 1947, in the figure given as the present number of extra numbers in the Coast Guard. 81st Congress, House Report No. 557.
 
@@ -73,9 +73,9 @@
 
     2010—[Pub. L. 111–281][/us/pl/111/281] amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to number and distribution of commissioned officers.
 
-    2004—Subsec. (a). [Pub. L. 108–293, § 214(1)][/us/pl/108/293/s214/1], substituted “6,700 in each fiscal year 2004, 2005, and 2006” for “6,200”.
+    2004—Subsec. (a). [Pub. L. 108–293][/us/pl/108/293], § 214(1), substituted “6,700 in each fiscal year 2004, 2005, and 2006” for “6,200”.
 
-    Subsec. (b). [Pub. L. 108–293, § 214(2)][/us/pl/108/293/s214/2], substituted “commander 15.0; lieutenant commander 22.0” for “commander 12.0; lieutenant commander 18.0”.
+    Subsec. (b). [Pub. L. 108–293][/us/pl/108/293], § 214(2), substituted “commander 15.0; lieutenant commander 22.0” for “commander 12.0; lieutenant commander 18.0”.
 
     1993—Subsec. (a). [Pub. L. 103–206][/us/pl/103/206] substituted “6,200” for “6,000”.
 
@@ -117,44 +117,44 @@
 [/us/usc/t49/s324/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs324%2Fd
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F497
-[/us/act/1956-07-20/ch647/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-20%2Fch647%2Fs2
+[/us/act/1956-07-20/ch647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-20%2Fch647
 [/us/stat/70/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F588
-[/us/pl/86/474/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F474%2Fs1%2F2
+[/us/pl/86/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F474
 [/us/stat/74/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F144
-[/us/pl/88/130/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F2
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F174
-[/us/pl/89/444/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444%2Fs1%2F2
+[/us/pl/89/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444
 [/us/stat/80/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F195
 [/us/pl/90/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F385
 [/us/stat/82/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F293
-[/us/pl/92/451/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F451%2Fs1%2F2
+[/us/pl/92/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F451
 [/us/stat/86/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F755
-[/us/pl/93/174/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F174%2Fs1%2F2
+[/us/pl/93/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F174
 [/us/stat/87/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F692
-[/us/pl/96/23/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F23%2Fs4
+[/us/pl/96/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F23
 [/us/stat/93/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F68
-[/us/pl/97/417/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417%2Fs2%2F2
+[/us/pl/97/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417
 [/us/stat/96/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2085
-[/us/pl/97/449/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs5%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2442
-[/us/pl/98/557/s25/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs25%2Fa%2F1
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2872
-[/us/pl/99/145/s514/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fc%2F1
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F629
-[/us/pl/103/206/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs201
+[/us/pl/103/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtII
 [/us/stat/107/2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2420
-[/us/pl/108/293/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs214
+[/us/pl/108/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtII
 [/us/stat/118/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1037
-[/us/pl/111/281/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs204%2Fa
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2910
-[/us/pl/113/281/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs201
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3024
-[/us/act/1947-07-23/ch301/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-23%2Fch301%2Fs1
+[/us/act/1947-07-23/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-23%2Fch301
 [/us/stat/61/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F409
 [/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
-[/us/pl/108/293/s214/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs214%2F1
-[/us/pl/108/293/s214/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs214%2F2
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
+[/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 [/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557

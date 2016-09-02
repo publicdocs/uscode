@@ -35,7 +35,7 @@
 
         (2) Selections made based on the direction and guidance provided under this subsection shall not exceed the maximum percentage of officers who may be selected from below the announced promotion zone at any given selection board convened under [section 251 of this title][/us/usc/t14/s251].
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 180][/us/stat/77/180]; amended [Pub. L. 89–444, § 1(17)][/us/pl/89/444/s1/17], June 9, 1966, [80 Stat. 196][/us/stat/80/196]; [Pub. L. 104–324, title II, § 212][/us/pl/104/324/s212], Oct. 19, 1996, [110 Stat. 3915][/us/stat/110/3915]; [Pub. L. 111–281, title II, § 212(2)][/us/pl/111/281/s212/2], Oct. 15, 2010, [124 Stat. 2914][/us/stat/124/2914].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 180][/us/stat/77/180]; amended [Pub. L. 89–444][/us/pl/89/444], § 1(17), June 9, 1966, [80 Stat. 196][/us/stat/80/196]; [Pub. L. 104–324, title II][/us/pl/104/324/tII], § 212, Oct. 19, 1996, [110 Stat. 3915][/us/stat/110/3915]; [Pub. L. 111–281, title II][/us/pl/111/281/tII], § 212(2), Oct. 15, 2010, [124 Stat. 2914][/us/stat/124/2914].)
 
  __Amendments__ 
 
@@ -54,13 +54,13 @@
 
 [/us/usc/t14/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs251
 [/us/usc/t14/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs251
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F180
-[/us/pl/89/444/s1/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444%2Fs1%2F17
+[/us/pl/89/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444
 [/us/stat/80/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F196
-[/us/pl/104/324/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs212
+[/us/pl/104/324/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtII
 [/us/stat/110/3915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3915
-[/us/pl/111/281/s212/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs212%2F2
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2914
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324

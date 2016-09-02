@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    [Pub. L. 112–213, title II, § 213(c)(2)][/us/pl/112/213/s213/c/2], Dec. 20, 2012, [126 Stat. 1553][/us/stat/126/1553], substituted “Annual list of projects to Congress” for “Annual Report to Congress” in item 693.
+    [Pub. L. 112–213, title II][/us/pl/112/213/tII], § 213(c)(2), Dec. 20, 2012, [126 Stat. 1553][/us/stat/126/1553], substituted “Annual list of projects to Congress” for “Annual Report to Congress” in item 693.
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/112/213/s213/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs213%2Fc%2F2
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1553
 
 

@@ -27,7 +27,7 @@
 
  __Official Representation Items in Support of the Coast Guard Attaché Program__ 
 
-[Pub. L. 113–126, title III, § 312][/us/pl/113/126/s312], July 7, 2014, [128 Stat. 1399][/us/stat/128/1399], provided that: 
+[Pub. L. 113–126, title III][/us/pl/113/126/tIII], § 312, July 7, 2014, [128 Stat. 1399][/us/stat/128/1399], provided that: 
 
 > “Notwithstanding any other limitation on the amount of funds that may be used for official representation items, the Secretary of Homeland Security may use funds made available to the Secretary through the National Intelligence Program for necessary expenses for intelligence analysis and operations coordination activities for official representation items in support of the Coast Guard Attaché Program.”
 
@@ -42,7 +42,7 @@
 [/us/stat/63/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F507
 [/us/stat/42/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1453
 [/us/stat/46/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F498
-[/us/pl/113/126/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs312
+[/us/pl/113/126/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2FtIII
 [/us/stat/128/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1399
 
 

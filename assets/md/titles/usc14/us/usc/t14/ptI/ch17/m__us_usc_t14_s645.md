@@ -73,11 +73,11 @@
 
     (i) Except as otherwise provided in this section, an individual who willfully discloses a medical quality assurance record knowing that the record is a medical quality assurance record, is liable to the United States Government for a civil penalty of not more than $3,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
 
-(Added [Pub. L. 102–587, title V, § 5203(a)][/us/pl/102/587/s5203/a], Nov. 4, 1992, [106 Stat. 5072][/us/stat/106/5072]; amended [Pub. L. 104–324, title VII, § 746(b)][/us/pl/104/324/s746/b], Oct. 19, 1996, [110 Stat. 3943][/us/stat/110/3943]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+(Added [Pub. L. 102–587, title V][/us/pl/102/587/tV], § 5203(a), Nov. 4, 1992, [106 Stat. 5072][/us/stat/106/5072]; amended [Pub. L. 104–324, title VII][/us/pl/104/324/tVII], § 746(b), Oct. 19, 1996, [110 Stat. 3943][/us/stat/110/3943]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Prior Provisions__ 
 
-    A prior section 645, acts [Aug. 4, 1949, ch. 393, § 1][/us/act/1949-08-04/ch393/s1], [63 Stat. 547][/us/stat/63/547]; [Sept. 3, 1954, ch. 1263, § 34][/us/act/1954-09-03/ch1263/s34], [68 Stat. 1239][/us/stat/68/1239]; Aug. 23, 1958, [Pub. L. 85–738][/us/pl/85/738], §§ 4, 5, [72 Stat. 833][/us/stat/72/833], provided for settlement of claims incident to activities of Coast Guard, prior to repeal, effective two years after Sept. 26, 1968, by [Pub. L. 90–525, § 2][/us/pl/90/525/s2], Sept. 26, 1968, [82 Stat. 877][/us/stat/82/877]. See [section 2733 of Title 10][/us/usc/t10/s2733], Armed Forces.
+    A prior section 645, acts [Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], § 1, [63 Stat. 547][/us/stat/63/547]; [Sept. 3, 1954, ch. 1263][/us/act/1954-09-03/ch1263], § 34, [68 Stat. 1239][/us/stat/68/1239]; Aug. 23, 1958, [Pub. L. 85–738][/us/pl/85/738], §§ 4, 5, [72 Stat. 833][/us/stat/72/833], provided for settlement of claims incident to activities of Coast Guard, prior to repeal, effective two years after Sept. 26, 1968, by [Pub. L. 90–525][/us/pl/90/525], § 2, Sept. 26, 1968, [82 Stat. 877][/us/stat/82/877]. See [section 2733 of Title 10][/us/usc/t10/s2733], Armed Forces.
 
  __Amendments__ 
 
@@ -94,19 +94,19 @@
 
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/102/587/s5203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5203%2Fa
+[/us/pl/102/587/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtV
 [/us/stat/106/5072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5072
-[/us/pl/104/324/s746/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs746%2Fb
+[/us/pl/104/324/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtVII
 [/us/stat/110/3943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3943
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/act/1949-08-04/ch393/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393%2Fs1
+[/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F547
-[/us/act/1954-09-03/ch1263/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263%2Fs34
+[/us/act/1954-09-03/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-03%2Fch1263
 [/us/stat/68/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1239
 [/us/pl/85/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F738
 [/us/stat/72/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F833
-[/us/pl/90/525/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F525%2Fs2
+[/us/pl/90/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F525
 [/us/stat/82/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F877
 [/us/usc/t10/s2733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2733
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271

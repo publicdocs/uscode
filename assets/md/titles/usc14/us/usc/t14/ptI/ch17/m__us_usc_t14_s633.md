@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 14, U.S.C., 1946 ed., §§ 92, 185e ([June 20, 1874, ch. 344, § 8][/us/act/1874-06-20/ch344/s8], [18 Stat. 127][/us/stat/18/127]; [May 26, 1906, ch. 2556, § 1][/us/act/1906-05-26/ch2556/s1], [34 Stat. 200][/us/stat/34/200]; [May 24, 1939, ch. 146, § 6][/us/act/1939-05-24/ch146/s6], [53 Stat. 756][/us/stat/53/756]).
+    Based on title 14, U.S.C., 1946 ed., §§ 92, 185e ([June 20, 1874, ch. 344][/us/act/1874-06-20/ch344], § 8, [18 Stat. 127][/us/stat/18/127]; [May 26, 1906, ch. 2556][/us/act/1906-05-26/ch2556], § 1, [34 Stat. 200][/us/stat/34/200]; [May 24, 1939, ch. 146][/us/act/1939-05-24/ch146], § 6, [53 Stat. 756][/us/stat/53/756]).
 
     This section enlarges said sections to prescribe what is generally understood in a military organization, that the promulgation of regulations is a function of the head of the Department.
 
@@ -36,11 +36,11 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F545
-[/us/act/1874-06-20/ch344/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-20%2Fch344%2Fs8
+[/us/act/1874-06-20/ch344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-20%2Fch344
 [/us/stat/18/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F127
-[/us/act/1906-05-26/ch2556/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-05-26%2Fch2556%2Fs1
+[/us/act/1906-05-26/ch2556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-05-26%2Fch2556
 [/us/stat/34/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F200
-[/us/act/1939-05-24/ch146/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-05-24%2Fch146%2Fs6
+[/us/act/1939-05-24/ch146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-05-24%2Fch146
 [/us/stat/53/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F756
 
 

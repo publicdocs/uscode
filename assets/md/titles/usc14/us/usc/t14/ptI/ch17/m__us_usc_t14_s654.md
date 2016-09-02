@@ -23,7 +23,7 @@
 
     Sales under this section shall be at such prices as the Secretary considers reasonable. Payment will be made on a cash basis or on such other basis as will reasonably assure prompt payment. Amounts received from such a sale shall, unless otherwise directed by another provision of law, be credited to the current appropriation concerned and are available for the same purposes as that appropriation.
 
-(Added [Pub. L. 86–159, § 1][/us/pl/86/159/s1], Aug. 14, 1959, [73 Stat. 357][/us/stat/73/357]; amended [Pub. L. 89–444, § 1(22)][/us/pl/89/444/s1/22], June 9, 1966, [80 Stat. 197][/us/stat/80/197].)
+(Added [Pub. L. 86–159][/us/pl/86/159], § 1, Aug. 14, 1959, [73 Stat. 357][/us/stat/73/357]; amended [Pub. L. 89–444][/us/pl/89/444], § 1(22), June 9, 1966, [80 Stat. 197][/us/stat/80/197].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/86/159/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F159%2Fs1
+[/us/pl/86/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F159
 [/us/stat/73/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F357
-[/us/pl/89/444/s1/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444%2Fs1%2F22
+[/us/pl/89/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444
 [/us/stat/80/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F197
 [/us/pl/89/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444
 

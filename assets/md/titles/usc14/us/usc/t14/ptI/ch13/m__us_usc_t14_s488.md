@@ -17,7 +17,7 @@
 
     The Commandant, under regulations prescribed by the Secretary, may advance public funds to personnel when required to meet expenses of members detailed on emergency shore duty. Funds so advanced shall not exceed a reasonable estimate of the actual expenditures to be made and for which reimbursement is authorized by law.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 534][/us/stat/63/534]; [Pub. L. 98–557, § 15(a)(3)(I)][/us/pl/98/557/s15/a/3/I], Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 534][/us/stat/63/534]; [Pub. L. 98–557][/us/pl/98/557], § 15(a)(3)(I), Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865].)
 
  __Historical and Revision Notes__ 
 
@@ -40,7 +40,7 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F534
-[/us/pl/98/557/s15/a/3/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F3%2FI
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2865
 [/us/act/1928-05-22/ch688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-22%2Fch688
 [/us/stat/45/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F712

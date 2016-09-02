@@ -31,7 +31,7 @@
 
         (2) no award was made, because the statement was lost or through inadvertence the recommendation was not acted upon; a medal of honor, Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, Coast Guard medal, or bar, emblem, or insignia in lieu thereof, as the case may be, may be awarded to the person within two years after the date of that determination.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 536][/us/stat/63/536]; [Pub. L. 87–526, § 1(5)][/us/pl/87/526/s1/5], July 10, 1962, [76 Stat. 141][/us/stat/76/141]; [Pub. L. 111–281, title II, § 224(c)(2)][/us/pl/111/281/s224/c/2], Oct. 15, 2010, [124 Stat. 2922][/us/stat/124/2922].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 536][/us/stat/63/536]; [Pub. L. 87–526][/us/pl/87/526], § 1(5), July 10, 1962, [76 Stat. 141][/us/stat/76/141]; [Pub. L. 111–281, title II][/us/pl/111/281/tII], § 224(c)(2), Oct. 15, 2010, [124 Stat. 2922][/us/stat/124/2922].)
 
  __Historical and Revision Notes__ 
 
@@ -39,9 +39,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–281, § 224(c)(2)(A)][/us/pl/111/281/s224/c/2/A], substituted “Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross,” for “distinguished service medal, distinguished flying cross,” in introductory provisions.
+    2010—Subsec. (a). [Pub. L. 111–281][/us/pl/111/281], § 224(c)(2)(A), substituted “Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross,” for “distinguished service medal, distinguished flying cross,” in introductory provisions.
 
-    Subsec. (b)(2). [Pub. L. 111–281, § 224(c)(2)(B)][/us/pl/111/281/s224/c/2/B], substituted “Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross,” for “distinguished service medal, distinguished flying cross,”.
+    Subsec. (b)(2). [Pub. L. 111–281][/us/pl/111/281], § 224(c)(2)(B), substituted “Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross,” for “distinguished service medal, distinguished flying cross,”.
 
     1962—[Pub. L. 87–526][/us/pl/87/526] incorporated existing provisions in subsec. (a), included the distinguished flying cross and bar in lieu of any award in the enumeration of medals, and extended the time limit for recommending award of a medal after performance of the deed justifying the award from one to three years and added subsec. (b).
 
@@ -54,12 +54,12 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F536
-[/us/pl/87/526/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F526%2Fs1%2F5
+[/us/pl/87/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F526
 [/us/stat/76/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F141
-[/us/pl/111/281/s224/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs224%2Fc%2F2
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2922
-[/us/pl/111/281/s224/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs224%2Fc%2F2%2FA
-[/us/pl/111/281/s224/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs224%2Fc%2F2%2FB
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/87/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F526
 
 

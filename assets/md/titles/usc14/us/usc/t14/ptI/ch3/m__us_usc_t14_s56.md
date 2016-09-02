@@ -61,17 +61,17 @@
 
         (9) reporting to the Commandant, through the chain of command, on the progress made in improving acquisition management capability.
 
-(Added [Pub. L. 111–281, title IV, § 401(a)][/us/pl/111/281/s401/a], Oct. 15, 2010, [124 Stat. 2929][/us/stat/124/2929].)
+(Added [Pub. L. 111–281, title IV][/us/pl/111/281/tIV], § 401(a), Oct. 15, 2010, [124 Stat. 2929][/us/stat/124/2929].)
 
  __Selection Deadline__ 
 
-[Pub. L. 111–281, title IV, § 401(c)][/us/pl/111/281/s401/c], Oct. 15, 2010, [124 Stat. 2930][/us/stat/124/2930], provided that: 
+[Pub. L. 111–281, title IV][/us/pl/111/281/tIV], § 401(c), Oct. 15, 2010, [124 Stat. 2930][/us/stat/124/2930], provided that: 
 
 > “As soon as practicable after the date of enactment of this Act \[Oct. 15, 2010\], but no later than October 1, 2011, the Commandant of the Coast Guard shall select a Chief Acquisition Officer under [section 56 of title 14][/us/usc/t14/s56], United States Code, as amended by this section.”
 
  __Special Rate Supplements__ 
 
-[Pub. L. 111–281, title IV, § 401(d)][/us/pl/111/281/s401/d], Oct. 15, 2010, [124 Stat. 2930][/us/stat/124/2930], as amended by [Pub. L. 111–330, § 1(3)][/us/pl/111/330/s1/3], Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569], provided that:
+[Pub. L. 111–281, title IV][/us/pl/111/281/tIV], § 401(d), Oct. 15, 2010, [124 Stat. 2930][/us/stat/124/2930], as amended by [Pub. L. 111–330][/us/pl/111/330], § 1(3), Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569], provided that:
 
 >     “(1)  __Requirement to establish__  __.—__ 
 
@@ -83,7 +83,7 @@
 
  __Elevation of Disputes to the Chief Acquisition Officer__ 
 
-[Pub. L. 111–281, title IV, § 401(e)][/us/pl/111/281/s401/e], Oct. 15, 2010, [124 Stat. 2931][/us/stat/124/2931], provided that: 
+[Pub. L. 111–281, title IV][/us/pl/111/281/tIV], § 401(e), Oct. 15, 2010, [124 Stat. 2931][/us/stat/124/2931], provided that: 
 
 > “If, after 90 days following the elevation to the Chief Acquisition Officer of any design or other dispute regarding Level 1 or Level 2 acquisition, the dispute remains unresolved, the Commandant shall provide to the appropriate congressional committees a detailed description of the issue and the rationale underlying the decision taken by the Chief Acquisition Officer to resolve the issue.”
 
@@ -94,16 +94,16 @@
 ----------
 ----------
 
-[/us/pl/111/281/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs401%2Fa
+[/us/pl/111/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIV
 [/us/stat/124/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2929
-[/us/pl/111/281/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs401%2Fc
+[/us/pl/111/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIV
 [/us/stat/124/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2930
 [/us/usc/t14/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs56
-[/us/pl/111/281/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs401%2Fd
+[/us/pl/111/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIV
 [/us/stat/124/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2930
-[/us/pl/111/330/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330%2Fs1%2F3
+[/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
 [/us/stat/124/3569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3569
-[/us/pl/111/281/s401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs401%2Fe
+[/us/pl/111/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIV
 [/us/stat/124/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2931
 
 

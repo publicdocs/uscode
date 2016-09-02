@@ -19,7 +19,7 @@
 
     (b) Amounts received from leases made under this section, less expenses incurred, shall be deposited in the fund established under section 687.
 
-(Added [Pub. L. 107–295, title IV, § 417(a)][/us/pl/107/295/s417/a], Nov. 25, 2002, [116 Stat. 2122][/us/stat/116/2122]; amended [Pub. L. 113–281, title II, § 208(b)][/us/pl/113/281/s208/b], Dec. 18, 2014, [128 Stat. 3026][/us/stat/128/3026].)
+(Added [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 417(a), Nov. 25, 2002, [116 Stat. 2122][/us/stat/116/2122]; amended [Pub. L. 113–281, title II][/us/pl/113/281/tII], § 208(b), Dec. 18, 2014, [128 Stat. 3026][/us/stat/128/3026].)
 
  __References in Text__ 
 
@@ -37,9 +37,9 @@
 ----------
 
 [/us/usc/t40/s303b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs303b
-[/us/pl/107/295/s417/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs417%2Fa
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2122
-[/us/pl/113/281/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs208%2Fb
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3026
 [/us/usc/t40/s303b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs303b
 [/us/act/1932-06-30/ch314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-06-30%2Fch314

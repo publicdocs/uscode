@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_ptI_ch11.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s214.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs211)
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_ptI_ch11.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s212 _us_usc_t14_s213.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs211)
 
 ## § 211. Original appointment of permanent commissioned officers
 
@@ -39,7 +39,7 @@
 
     (d) For the purposes of this section, the term “original”, with respect to the appointment of a member of the Coast Guard, refers to that member’s most recent appointment in the Coast Guard that is neither a promotion nor a demotion.
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 177][/us/stat/77/177]; amended [Pub. L. 89–444, § 1(11)][/us/pl/89/444/s1/11], June 9, 1966, [80 Stat. 196][/us/stat/80/196]; [Pub. L. 98–557, § 15(a)(3)(B)][/us/pl/98/557/s15/a/3/B], Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865]; [Pub. L. 109–241, title II, § 217(a)][/us/pl/109/241/s217/a], July 11, 2006, [120 Stat. 525][/us/stat/120/525]; [Pub. L. 112–213, title II, § 206][/us/pl/112/213/s206], Dec. 20, 2012, [126 Stat. 1546][/us/stat/126/1546].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 177][/us/stat/77/177]; amended [Pub. L. 89–444][/us/pl/89/444], § 1(11), June 9, 1966, [80 Stat. 196][/us/stat/80/196]; [Pub. L. 98–557][/us/pl/98/557], § 15(a)(3)(B), Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865]; [Pub. L. 109–241, title II][/us/pl/109/241/tII], § 217(a), July 11, 2006, [120 Stat. 525][/us/stat/120/525]; [Pub. L. 112–213, title II][/us/pl/112/213/tII], § 206, Dec. 20, 2012, [126 Stat. 1546][/us/stat/126/1546].)
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 
  __Savings Provision__ 
 
-[Pub. L. 88–130, § 5][/us/pl/88/130/s5], Sept. 24, 1963, [77 Stat. 193][/us/stat/77/193], as amended by [Pub. L. 89–444, § 3][/us/pl/89/444/s3], June 9, 1966, [80 Stat. 198][/us/stat/80/198], provided that:
+[Pub. L. 88–130][/us/pl/88/130], § 5, Sept. 24, 1963, [77 Stat. 193][/us/stat/77/193], as amended by [Pub. L. 89–444][/us/pl/89/444], § 3, June 9, 1966, [80 Stat. 198][/us/stat/80/198], provided that:
 
 >     “(a) Officers in each grade who have been recommended as qualified for temporary promotion under laws and regulations in effect the day before the effective date of this Act \[Sept. 24, 1963\] but not promoted to the grade for which they were recommended shall be placed on a list of selectees in order of their precedence, and they shall be promoted as if they had been selected for promotion in the approved report of a selection board convened under this Act \[enacting sections 41a, 211 to 214, 251 to 262, 271 to 277, 281 to 294, 321 to 327, 331 to 335, of this title amending sections 42, 44, 46, 47, 190, 433, 759a, and 791 of this title, and enacting provisions set out as notes under sections 262, 285, and 289 of this title, and repealing sections 221 to 248, 301 to 313a, 435 to 437, 439, and 440 of this title, and act Sept. 21, 1961, [75 Stat. 538][/us/stat/75/538], set out as a note under [section 435 of this title][/us/usc/t14/s435]\].
 
@@ -71,40 +71,30 @@
 
 >     “(h) Notwithstanding [section 1431 of title 10][/us/usc/t10/s1431], United States Code, an original election, change, or revocation of an election, made under that section by an officer who is retired under the provisions of section 282, 283, 284, 285, or 288 of title 14, United States Code, is effective if made prior to the first day of the third month following the month in which this Act is enacted \[September 1963\].”
 
-\[§§ 212, 213. __Repealed.__  __[__  __Pub. L. 103–337, div. A, title V, § 541(f)(5)(A)__  __][/us/pl/103/337/s541/f/5/A]__  __,__  __Oct. 5, 1994__  __,__  __[__  __108 Stat. 2767__  __][/us/stat/108/2767]__  __\]__ 
-
-    Section 212, added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 177][/us/stat/77/177]; amended [Pub. L. 98–557, § 15(a)(3)(B)][/us/pl/98/557/s15/a/3/B], Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865], related to original appointment of permanent commissioned warrant officers in Coast Guard. See section 571 et seq. of Title 10, Armed Forces.
-
-    Section 213, added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 178][/us/stat/77/178]; amended [Pub. L. 98–557, § 15(a)(3)(B)][/us/pl/98/557/s15/a/3/B], Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865], related to original appointment of permanent warrant officers (W–1) in Coast Guard. See section 571 et seq. of Title 10.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective on the first day of the fourth month beginning after Oct. 5, 1994, see [section 541(h) of Pub. L. 103–337][/us/pl/103/337/s541/h], set out as an Effective Date of 1994 Amendment note under [section 571 of Title 10][/us/usc/t10/s571], Armed Forces.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_ptI_ch11.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s214.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs211)
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_ptI_ch11.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s212 _us_usc_t14_s213.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs211)
 
 ----------
 ----------
 
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F177
-[/us/pl/89/444/s1/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444%2Fs1%2F11
+[/us/pl/89/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444
 [/us/stat/80/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F196
-[/us/pl/98/557/s15/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F3%2FB
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2865
-[/us/pl/109/241/s217/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs217%2Fa
+[/us/pl/109/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtII
 [/us/stat/120/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F525
-[/us/pl/112/213/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs206
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1546
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/pl/89/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444
-[/us/pl/88/130/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs5
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F193
-[/us/pl/89/444/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444%2Fs3
+[/us/pl/89/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444
 [/us/stat/80/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F198
 [/us/stat/75/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F538
 [/us/usc/t14/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs435
@@ -114,17 +104,5 @@
 [/us/usc/t14/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs288
 [/us/usc/t14/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs288
 [/us/usc/t10/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1431
-[/us/pl/103/337/s541/f/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Ff%2F5%2FA
-[/us/stat/108/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2767
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
-[/us/stat/77/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F177
-[/us/pl/98/557/s15/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F3%2FB
-[/us/stat/98/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2865
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
-[/us/stat/77/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F178
-[/us/pl/98/557/s15/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F3%2FB
-[/us/stat/98/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2865
-[/us/pl/103/337/s541/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fh
-[/us/usc/t10/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs571
 
 

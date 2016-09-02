@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 5, U.S.C., 1946 ed., § 41, and on title 14, U.S.C., 1946 ed. §§ 22, 58, 91, 99, 103 (R.S. 2749; [June 18, 1878, ch. 265][/us/act/1878-06-18/ch265], §§ 7, 8, [22 Stat. 164][/us/stat/22/164]; [May 4, 1882, ch. 117, § 5][/us/act/1882-05-04/ch117/s5], [22 Stat. 57][/us/stat/22/57]; [Mar. 4, 1907, ch. 2918][/us/act/1907-03-04/ch2918], [34 Stat. 1309][/us/stat/34/1309]; [Jan. 28, 1915, ch. 20, § 1][/us/act/1915-01-28/ch20/s1], [38 Stat. 800][/us/stat/38/800]; [Aug. 29, 1916, ch. 417][/us/act/1916-08-29/ch417], [39 Stat. 601][/us/stat/39/601]; [June 10, 1921, ch. 18, § 304][/us/act/1921-06-10/ch18/s304], [42 Stat. 23][/us/stat/42/23]; [July 3, 1926, ch. 742, § 9][/us/act/1926-07-03/ch742/s9], [44 Stat. 817][/us/stat/44/817]).
+    Based on title 5, U.S.C., 1946 ed., § 41, and on title 14, U.S.C., 1946 ed. §§ 22, 58, 91, 99, 103 (R.S. 2749; [June 18, 1878, ch. 265][/us/act/1878-06-18/ch265], §§ 7, 8, [22 Stat. 164][/us/stat/22/164]; [May 4, 1882, ch. 117][/us/act/1882-05-04/ch117], § 5, [22 Stat. 57][/us/stat/22/57]; [Mar. 4, 1907, ch. 2918][/us/act/1907-03-04/ch2918], [34 Stat. 1309][/us/stat/34/1309]; [Jan. 28, 1915, ch. 20][/us/act/1915-01-28/ch20], § 1, [38 Stat. 800][/us/stat/38/800]; [Aug. 29, 1916, ch. 417][/us/act/1916-08-29/ch417], [39 Stat. 601][/us/stat/39/601]; [June 10, 1921, ch. 18][/us/act/1921-06-10/ch18], § 304, [42 Stat. 23][/us/stat/42/23]; [July 3, 1926, ch. 742][/us/act/1926-07-03/ch742], § 9, [44 Stat. 817][/us/stat/44/817]).
 
     Said section 91 has been divided. That part dealing with investigation of plans and inventions is covered in [section 93(d) of this title][/us/usc/t14/s93/d]. The remainder is covered in general terms. It has been rewritten in broad terms, making clear that the Commandant is granted the necessary authority to administer the Coast Guard under the Secretary, including authority to issue rules, orders, and instructions.
 
@@ -40,17 +40,17 @@
 [/us/stat/63/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F545
 [/us/act/1878-06-18/ch265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1878-06-18%2Fch265
 [/us/stat/22/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F164
-[/us/act/1882-05-04/ch117/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-05-04%2Fch117%2Fs5
+[/us/act/1882-05-04/ch117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-05-04%2Fch117
 [/us/stat/22/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F57
 [/us/act/1907-03-04/ch2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2918
 [/us/stat/34/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1309
-[/us/act/1915-01-28/ch20/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-28%2Fch20%2Fs1
+[/us/act/1915-01-28/ch20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-28%2Fch20
 [/us/stat/38/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F800
 [/us/act/1916-08-29/ch417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-29%2Fch417
 [/us/stat/39/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F601
-[/us/act/1921-06-10/ch18/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18%2Fs304
+[/us/act/1921-06-10/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18
 [/us/stat/42/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F23
-[/us/act/1926-07-03/ch742/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch742%2Fs9
+[/us/act/1926-07-03/ch742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch742
 [/us/stat/44/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F817
 [/us/usc/t14/s93/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs93%2Fd
 

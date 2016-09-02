@@ -37,7 +37,7 @@
 
         (3) A multiyear contract authorized under subsection (a) of this section shall contain cancellation and termination provisions to the extent necessary to protect the best interests of the United States, and may include consideration of both recurring and nonrecurring costs. The contract may provide for a cancellation payment to be made. Amounts that were originally obligated for the cost of the contract may be used for cancellation or termination costs.
 
-(Added [Pub. L. 103–206, title III, § 302(a)][/us/pl/103/206/s302/a], Dec. 20, 1993, [107 Stat. 2423][/us/stat/107/2423].)
+(Added [Pub. L. 103–206, title III][/us/pl/103/206/tIII], § 302(a), Dec. 20, 1993, [107 Stat. 2423][/us/stat/107/2423].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/103/206/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs302%2Fa
+[/us/pl/103/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtIII
 [/us/stat/107/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2423
 
 

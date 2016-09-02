@@ -75,15 +75,15 @@
 
             (C) Any other source authorized by a State to provide adoption placement if the adoption is supervised by a court under State or local law.
 
-(Added [Pub. L. 102–190, div. A, title VI, § 651(b)(1)][/us/pl/102/190/s651/b/1], Dec. 5, 1991, [105 Stat. 1386][/us/stat/105/1386], § 514; amended [Pub. L. 102–484, div. A, title X, § 1054(g)][/us/pl/102/484/s1054/g], Oct. 23, 1992, [106 Stat. 2503][/us/stat/106/2503]; [Pub. L. 104–201, div. A, title VI, § 652(b)][/us/pl/104/201/s652/b], Sept. 23, 1996, [110 Stat. 2582][/us/stat/110/2582]; renumbered § 541, [Pub. L. 113–281, title II, § 214(b)(1)(A)][/us/pl/113/281/s214/b/1/A], Dec. 18, 2014, [128 Stat. 3033][/us/stat/128/3033].)
+(Added [Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], § 651(b)(1), Dec. 5, 1991, [105 Stat. 1386][/us/stat/105/1386], § 514; amended [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1054(g), Oct. 23, 1992, [106 Stat. 2503][/us/stat/106/2503]; [Pub. L. 104–201, div. A, title VI][/us/pl/104/201/dA/tVI], § 652(b), Sept. 23, 1996, [110 Stat. 2582][/us/stat/110/2582]; renumbered § 541, [Pub. L. 113–281, title II][/us/pl/113/281/tII], § 214(b)(1)(A), Dec. 18, 2014, [128 Stat. 3033][/us/stat/128/3033].)
 
  __Amendments__ 
 
     2014—[Pub. L. 113–281][/us/pl/113/281] renumbered [section 514 of this title][/us/usc/t14/s514] as this section.
 
-    1996—Subsec. (g)(1). [Pub. L. 104–201, § 652(b)(1)][/us/pl/104/201/s652/b/1], substituted “qualified adoption agency.” for “State or local government agency which has responsibility under State or local law for child placement through adoption or by a nonprofit, voluntary adoption agency which is authorized by State or local law to place children for adoption.”
+    1996—Subsec. (g)(1). [Pub. L. 104–201][/us/pl/104/201], § 652(b)(1), substituted “qualified adoption agency.” for “State or local government agency which has responsibility under State or local law for child placement through adoption or by a nonprofit, voluntary adoption agency which is authorized by State or local law to place children for adoption.”
 
-    Subsec. (g)(3). [Pub. L. 104–201, § 652(b)(2)][/us/pl/104/201/s652/b/2], added par. (3).
+    Subsec. (g)(3). [Pub. L. 104–201][/us/pl/104/201], § 652(b)(2), added par. (3).
 
     1992—Subsec. (b). [Pub. L. 102–484][/us/pl/102/484] inserted a close parenthesis before period at end.
 
@@ -103,18 +103,18 @@
 ----------
 
 [/us/usc/t42/s673/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs673%2Fc
-[/us/pl/102/190/s651/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs651%2Fb%2F1
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1386
-[/us/pl/102/484/s1054/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1054%2Fg
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2503
-[/us/pl/104/201/s652/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs652%2Fb
+[/us/pl/104/201/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVI
 [/us/stat/110/2582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2582
-[/us/pl/113/281/s214/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs214%2Fb%2F1%2FA
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3033
 [/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/usc/t14/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs514
-[/us/pl/104/201/s652/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs652%2Fb%2F1
-[/us/pl/104/201/s652/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs652%2Fb%2F2
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/190/s651/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs651%2Fc
 [/us/usc/t10/s1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1052

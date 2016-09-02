@@ -79,7 +79,7 @@
 
     (h) As used in this section, the term “institution of higher education” has the meaning given that term in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001][/us/usc/t20/s1001]).
 
-(Added [Pub. L. 107–295, title IV, § 413(a)][/us/pl/107/295/s413/a], Nov. 25, 2002, [116 Stat. 2119][/us/stat/116/2119].)
+(Added [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 413(a), Nov. 25, 2002, [116 Stat. 2119][/us/stat/116/2119].)
 
 ----------
 
@@ -89,7 +89,7 @@
 ----------
 
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/107/295/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs413%2Fa
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2119
 
 

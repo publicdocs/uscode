@@ -17,7 +17,7 @@
 
     Not more than $45,000 each fiscal year appropriated for necessary expenses for the operation of the Coast Guard shall be available for investigative expenses of a confidential character, to be expended on the approval or authority of the Commandant and payment to be made on his certificate of necessity for confidential purposes, and his determination shall be final and conclusive upon the accounting officers of the Government.
 
-(Added [Pub. L. 93–283, § 1(10)][/us/pl/93/283/s1/10], May 14, 1974, [88 Stat. 140][/us/stat/88/140]; amended [Pub. L. 108–293, title II, § 221][/us/pl/108/293/s221], Aug. 9, 2004, [118 Stat. 1040][/us/stat/118/1040].)
+(Added [Pub. L. 93–283][/us/pl/93/283], § 1(10), May 14, 1974, [88 Stat. 140][/us/stat/88/140]; amended [Pub. L. 108–293, title II][/us/pl/108/293/tII], § 221, Aug. 9, 2004, [118 Stat. 1040][/us/stat/118/1040].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/93/283/s1/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F283%2Fs1%2F10
+[/us/pl/93/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F283
 [/us/stat/88/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F140
-[/us/pl/108/293/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs221
+[/us/pl/108/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtII
 [/us/stat/118/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1040
 [/us/pl/108/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293
 

@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 14, U.S.C., 1946 ed., § 170 ([Apr. 12, 1902, ch. 501, § 5][/us/act/1902-04-12/ch501/s5], [32 Stat. 100][/us/stat/32/100]).
+    Based on title 14, U.S.C., 1946 ed., § 170 ([Apr. 12, 1902, ch. 501][/us/act/1902-04-12/ch501], § 5, [32 Stat. 100][/us/stat/32/100]).
 
     Said section has been divided. That part relating to oaths is covered in this section. The remainder is covered in [section 425 of this title][/us/usc/t14/s425].
 
@@ -36,7 +36,7 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F545
-[/us/act/1902-04-12/ch501/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-04-12%2Fch501%2Fs5
+[/us/act/1902-04-12/ch501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-04-12%2Fch501
 [/us/stat/32/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F100
 [/us/usc/t14/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs425
 

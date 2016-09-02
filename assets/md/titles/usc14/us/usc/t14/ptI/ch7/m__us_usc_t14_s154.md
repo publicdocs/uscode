@@ -63,7 +63,7 @@
 
     In this section the term “Arctic” has the meaning given that term in section 112 of the Arctic Research and Policy Act of 1984 ([15 U.S.C. 4111][/us/usc/t15/s4111]).
 
-(Added [Pub. L. 113–281, title V, § 502(a)][/us/pl/113/281/s502/a], Dec. 18, 2014, [128 Stat. 3057][/us/stat/128/3057].)
+(Added [Pub. L. 113–281, title V][/us/pl/113/281/tV], § 502(a), Dec. 18, 2014, [128 Stat. 3057][/us/stat/128/3057].)
 
 ----------
 
@@ -73,7 +73,7 @@
 ----------
 
 [/us/usc/t15/s4111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4111
-[/us/pl/113/281/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs502%2Fa
+[/us/pl/113/281/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtV
 [/us/stat/128/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3057
 
 

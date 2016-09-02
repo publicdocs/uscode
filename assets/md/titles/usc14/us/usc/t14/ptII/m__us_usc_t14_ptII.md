@@ -61,9 +61,9 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–640, § 10(a)(2)][/us/pl/99/640/s10/a/2], Nov. 10, 1986, [100 Stat. 3549][/us/stat/100/3549], substituted “701” for “751” in item for chapter 21.
+    1986—[Pub. L. 99–640][/us/pl/99/640], § 10(a)(2), Nov. 10, 1986, [100 Stat. 3549][/us/stat/100/3549], substituted “701” for “751” in item for chapter 21.
 
-    1950—[Act Aug. 3, 1950, ch. 536, § 34][/us/act/1950-08-03/ch536/s34], [64 Stat. 408][/us/stat/64/408], substituted “Sec.” for “Page”.
+    1950—[Act Aug. 3, 1950, ch. 536][/us/act/1950-08-03/ch536], § 34, [64 Stat. 408][/us/stat/64/408], substituted “Sec.” for “Page”.
 
 ----------
 
@@ -72,9 +72,9 @@
 ----------
 ----------
 
-[/us/pl/99/640/s10/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640%2Fs10%2Fa%2F2
+[/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
 [/us/stat/100/3549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3549
-[/us/act/1950-08-03/ch536/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch536%2Fs34
+[/us/act/1950-08-03/ch536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch536
 [/us/stat/64/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F408
 
 

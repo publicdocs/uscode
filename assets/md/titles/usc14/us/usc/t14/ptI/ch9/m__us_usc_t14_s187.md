@@ -17,7 +17,7 @@
 
     The permanent commissioned teaching staff at the Academy shall consist of professors, associate professors, assistant professors and instructors, in such numbers as the needs of the Service require. They shall perform duties as prescribed by the Commandant, and exercise command only in the academic department of the Academy.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 509][/us/stat/63/509]; [Pub. L. 86–474, § 1(10)][/us/pl/86/474/s1/10], May 14, 1960, [74 Stat. 145][/us/stat/74/145].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 509][/us/stat/63/509]; [Pub. L. 86–474][/us/pl/86/474], § 1(10), May 14, 1960, [74 Stat. 145][/us/stat/74/145].)
 
  __Historical and Revision Notes__ 
 
@@ -44,7 +44,7 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F509
-[/us/pl/86/474/s1/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F474%2Fs1%2F10
+[/us/pl/86/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F474
 [/us/stat/74/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F145
 [/us/act/1937-04-16/ch107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-04-16%2Fch107
 [/us/stat/50/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F66

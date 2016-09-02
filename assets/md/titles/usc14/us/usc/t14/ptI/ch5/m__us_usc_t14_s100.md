@@ -17,7 +17,7 @@
 
     Officers and members of the Coast Guard are authorized to enforce chapter 551 of title 46. The Secretary shall establish a program for these officers and members to enforce that chapter.
 
-(Added [Pub. L. 111–281, title II, § 216(a)][/us/pl/111/281/s216/a], Oct. 15, 2010, [124 Stat. 2917][/us/stat/124/2917].)
+(Added [Pub. L. 111–281, title II][/us/pl/111/281/tII], § 216(a), Oct. 15, 2010, [124 Stat. 2917][/us/stat/124/2917].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s216/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs216%2Fa
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2917
 
 

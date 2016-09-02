@@ -19,7 +19,7 @@
 
     (b) Warrant officers shall take precedence in the grade to which appointed in accordance with the dates of their commissions as commissioned officers in the Coast Guard in such grade. Precedence among warrant officers of the same grade who have the same date of commission shall be determined by regulations prescribed by the Secretary.
 
-(Added [Pub. L. 103–337, div. A, title V, § 541(e)(1)][/us/pl/103/337/s541/e/1], Oct. 5, 1994, [108 Stat. 2766][/us/stat/108/2766].)
+(Added [Pub. L. 103–337, div. A, title V][/us/pl/103/337/dA/tV], § 541(e)(1), Oct. 5, 1994, [108 Stat. 2766][/us/stat/108/2766].)
 
  __Effective Date__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/337/s541/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fe%2F1
+[/us/pl/103/337/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtV
 [/us/stat/108/2766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2766
 [/us/pl/103/337/s541/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fh
 [/us/usc/t10/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs571

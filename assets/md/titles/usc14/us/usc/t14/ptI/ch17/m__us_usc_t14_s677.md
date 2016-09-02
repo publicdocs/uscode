@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s676.md) | [Next](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s678.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs677)
+[Previous](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s676a.md) | [Next](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s678.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs677)
 
 ## § 677. Turnkey selection procedures
 
@@ -29,16 +29,16 @@
 
         (3) The term “facility” means a building, structure, or other improvement to real property.
 
-(Added [Pub. L. 109–241, title II, § 205(a)][/us/pl/109/241/s205/a], July 11, 2006, [120 Stat. 521][/us/stat/120/521].)
+(Added [Pub. L. 109–241, title II][/us/pl/109/241/tII], § 205(a), July 11, 2006, [120 Stat. 521][/us/stat/120/521].)
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s676.md) | [Next](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s678.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs677)
+[Previous](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s676a.md) | [Next](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s678.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs677)
 
 ----------
 ----------
 
-[/us/pl/109/241/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs205%2Fa
+[/us/pl/109/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtII
 [/us/stat/120/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F521
 
 

@@ -21,11 +21,11 @@
 
     (b) any member on the retired list shall be entitled to wear the uniform of his rank or rating.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 533][/us/stat/63/533]; [Pub. L. 98–557, § 15(a)(3)(H)][/us/pl/98/557/s15/a/3/H], Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 533][/us/stat/63/533]; [Pub. L. 98–557][/us/pl/98/557], § 15(a)(3)(H), Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865].)
 
  __Historical and Revision Notes__ 
 
-    Subsection (a) is based on title 14, U.S.C., 1946 ed., § 167b–2 ([June 21, 1930, ch. 563, § 2][/us/act/1930-06-21/ch563/s2], [46 Stat. 793][/us/stat/46/793]).
+    Subsection (a) is based on title 14, U.S.C., 1946 ed., § 167b–2 ([June 21, 1930, ch. 563][/us/act/1930-06-21/ch563], § 2, [46 Stat. 793][/us/stat/46/793]).
 
     Inasmuch as the act cited above applies equally to the Navy and Marine Corps as well as the Coast Guard, it is not scheduled for repeal but is being amended by section 12 of this act to eliminate reference to the Coast Guard.
 
@@ -39,7 +39,7 @@
 
  __Wearing of Uniform Authorized by President__ 
 
-    [Act June 21, 1930, ch. 563, § 2][/us/act/1930-06-21/ch563/s2], [46 Stat. 793][/us/stat/46/793], upon which subsec. (a) of this section was based, was amended by [act July 6, 1953, ch. 180, § 2][/us/act/1953-07-06/ch180/s2], [67 Stat. 140][/us/stat/67/140], to substitute “Authorized by regulations of the President” for “of ceremony”.
+    [Act June 21, 1930, ch. 563][/us/act/1930-06-21/ch563], § 2, [46 Stat. 793][/us/stat/46/793], upon which subsec. (a) of this section was based, was amended by [act July 6, 1953, ch. 180][/us/act/1953-07-06/ch180], § 2, [67 Stat. 140][/us/stat/67/140], to substitute “Authorized by regulations of the President” for “of ceremony”.
 
 ----------
 
@@ -50,14 +50,14 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F533
-[/us/pl/98/557/s15/a/3/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F3%2FH
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2865
-[/us/act/1930-06-21/ch563/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-21%2Fch563%2Fs2
+[/us/act/1930-06-21/ch563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-21%2Fch563
 [/us/stat/46/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F793
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
-[/us/act/1930-06-21/ch563/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-21%2Fch563%2Fs2
+[/us/act/1930-06-21/ch563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-21%2Fch563
 [/us/stat/46/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F793
-[/us/act/1953-07-06/ch180/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-06%2Fch180%2Fs2
+[/us/act/1953-07-06/ch180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-06%2Fch180
 [/us/stat/67/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F140
 
 

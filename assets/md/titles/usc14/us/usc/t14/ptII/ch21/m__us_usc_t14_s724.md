@@ -27,7 +27,7 @@
 
     If at the end of any fiscal year there is in effect a declaration of war or national emergency, the President may defer the effectiveness of any end-strength limitation with respect to that fiscal year prescribed by law for any military or civilian component of the Coast Guard Reserve, for a period not to exceed 6 months after the end of the war or termination of the national emergency.
 
-(Added [Pub. L. 96–322, § 1][/us/pl/96/322/s1], Aug. 4, 1980, [94 Stat. 1007][/us/stat/94/1007]; amended [Pub. L. 97–417, § 2(12)][/us/pl/97/417/s2/12], Jan. 4, 1983, [96 Stat. 2086][/us/stat/96/2086]; [Pub. L. 98–557, § 25(a)(4)][/us/pl/98/557/s25/a/4], Oct. 30, 1984, [98 Stat. 2872][/us/stat/98/2872]; [Pub. L. 99–145, title V, § 514(c)(1)][/us/pl/99/145/s514/c/1], Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629]; [Pub. L. 107–295, title I, § 105(b)][/us/pl/107/295/s105/b], Nov. 25, 2002, [116 Stat. 2085][/us/stat/116/2085]; [Pub. L. 109–241, title II, § 207][/us/pl/109/241/s207], July 11, 2006, [120 Stat. 521][/us/stat/120/521].)
+(Added [Pub. L. 96–322][/us/pl/96/322], § 1, Aug. 4, 1980, [94 Stat. 1007][/us/stat/94/1007]; amended [Pub. L. 97–417][/us/pl/97/417], § 2(12), Jan. 4, 1983, [96 Stat. 2086][/us/stat/96/2086]; [Pub. L. 98–557][/us/pl/98/557], § 25(a)(4), Oct. 30, 1984, [98 Stat. 2872][/us/stat/98/2872]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 514(c)(1), Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629]; [Pub. L. 107–295, title I][/us/pl/107/295/tI], § 105(b), Nov. 25, 2002, [116 Stat. 2085][/us/stat/116/2085]; [Pub. L. 109–241, title II][/us/pl/109/241/tII], § 207, July 11, 2006, [120 Stat. 521][/us/stat/120/521].)
 
  __Prior Provisions__ 
 
@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–241, § 207(1)][/us/pl/109/241/s207/1], inserted “Reserve officers on an active-duty list shall not be counted as part of the authorized number of officers in the Reserve.” after “5,000.”
+    2006—Subsec. (a). [Pub. L. 109–241][/us/pl/109/241], § 207(1), inserted “Reserve officers on an active-duty list shall not be counted as part of the authorized number of officers in the Reserve.” after “5,000.”
 
-    Subsec. (b)(1). [Pub. L. 109–241, § 207(2)][/us/pl/109/241/s207/2], added par. (1) and struck out former par. (1) which read as follows: “The authorized number of Reserve officers in an active status below the grade of rear admiral (lower half) shall be distributed in grade in the following percentages, respectively: captain, 1.5; commander, 7.0; lieutenant commander, 22.0; lieutenant, 37.0; and the combined grades of lieutenant (junior grade) and ensign, 32.5. When the actual number of Reserve officers in an active status in a grade is less than the number authorized, the difference may be applied to increase the authorized number in a lower grade. A Reserve officer may not be reduced in rank or grade solely because of a reduction in an authorized number as provided for in this subsection, or because an excess results directly from the operation of law.”
+    Subsec. (b)(1). [Pub. L. 109–241][/us/pl/109/241], § 207(2), added par. (1) and struck out former par. (1) which read as follows: “The authorized number of Reserve officers in an active status below the grade of rear admiral (lower half) shall be distributed in grade in the following percentages, respectively: captain, 1.5; commander, 7.0; lieutenant commander, 22.0; lieutenant, 37.0; and the combined grades of lieutenant (junior grade) and ensign, 32.5. When the actual number of Reserve officers in an active status in a grade is less than the number authorized, the difference may be applied to increase the authorized number in a lower grade. A Reserve officer may not be reduced in rank or grade solely because of a reduction in an authorized number as provided for in this subsection, or because an excess results directly from the operation of law.”
 
     2002—Subsec. (c). [Pub. L. 107–295][/us/pl/107/295] added subsec. (c).
 
@@ -55,22 +55,22 @@
 ----------
 
 [/us/usc/t14/s42/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs42%2Fb
-[/us/pl/96/322/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322%2Fs1
+[/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
 [/us/stat/94/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1007
-[/us/pl/97/417/s2/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417%2Fs2%2F12
+[/us/pl/97/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417
 [/us/stat/96/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2086
-[/us/pl/98/557/s25/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs25%2Fa%2F4
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2872
-[/us/pl/99/145/s514/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fc%2F1
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F629
-[/us/pl/107/295/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs105%2Fb
+[/us/pl/107/295/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtI
 [/us/stat/116/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2085
-[/us/pl/109/241/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs207
+[/us/pl/109/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtII
 [/us/stat/120/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F521
 [/us/usc/t14/s772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs772
 [/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
-[/us/pl/109/241/s207/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs207%2F1
-[/us/pl/109/241/s207/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs207%2F2
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557

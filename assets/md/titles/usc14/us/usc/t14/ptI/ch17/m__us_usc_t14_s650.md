@@ -19,7 +19,7 @@
 
     (b) Obligations may, without regard to fiscal year limitations, be incurred against anticipated reimbursement to the Coast Guard Supply Fund in such amount and for such period, as the Secretary, with approval of the Director of the Office of Management and Budget, may determine to be necessary to maintain stock levels consistently with planned operations for the next year.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 550][/us/stat/63/550]; [Aug. 7, 1956, ch. 1023, § 1(a)][/us/act/1956-08-07/ch1023/s1/a], [70 Stat. 1077][/us/stat/70/1077]; [Pub. L. 91–278, § 1(13)][/us/pl/91/278/s1/13], June 12, 1970, [84 Stat. 306][/us/stat/84/306]; [Pub. L. 94–546, § 1(35)][/us/pl/94/546/s1/35], Oct. 18, 1976, [90 Stat. 2521][/us/stat/90/2521]; [Pub. L. 96–376, § 5][/us/pl/96/376/s5], Oct. 3, 1980, [94 Stat. 1509][/us/stat/94/1509].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 550][/us/stat/63/550]; [Aug. 7, 1956, ch. 1023][/us/act/1956-08-07/ch1023], § 1(a), [70 Stat. 1077][/us/stat/70/1077]; [Pub. L. 91–278][/us/pl/91/278], § 1(13), June 12, 1970, [84 Stat. 306][/us/stat/84/306]; [Pub. L. 94–546][/us/pl/94/546], § 1(35), Oct. 18, 1976, [90 Stat. 2521][/us/stat/90/2521]; [Pub. L. 96–376][/us/pl/96/376], § 5, Oct. 3, 1980, [94 Stat. 1509][/us/stat/94/1509].)
 
  __Historical and Revision Notes__ 
 
@@ -44,13 +44,13 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F550
-[/us/act/1956-08-07/ch1023/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1023%2Fs1%2Fa
+[/us/act/1956-08-07/ch1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1023
 [/us/stat/70/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1077
-[/us/pl/91/278/s1/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278%2Fs1%2F13
+[/us/pl/91/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278
 [/us/stat/84/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F306
-[/us/pl/94/546/s1/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F35
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/stat/90/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2521
-[/us/pl/96/376/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F376%2Fs5
+[/us/pl/96/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F376
 [/us/stat/94/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1509
 [/us/stat/56/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F73
 [/us/pl/96/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F376

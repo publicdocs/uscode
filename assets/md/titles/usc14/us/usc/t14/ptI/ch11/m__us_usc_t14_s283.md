@@ -43,7 +43,7 @@
 
     (c) Each officer who has been continued on active duty under subsection (b) shall, unless earlier removed from active duty, be retired on the last day of the month in which he completes twenty years of active service.
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 184][/us/stat/77/184]; amended [Pub. L. 93–283, § 1(6)][/us/pl/93/283/s1/6], May 14, 1974, [88 Stat. 140][/us/stat/88/140]; [Pub. L. 94–546, § 1(22)][/us/pl/94/546/s1/22], Oct. 18, 1976, [90 Stat. 2520][/us/stat/90/2520]; [Pub. L. 97–295, § 2(9)][/us/pl/97/295/s2/9], Oct. 12, 1982, [96 Stat. 1302][/us/stat/96/1302]; [Pub. L. 104–324, title II, § 205][/us/pl/104/324/s205], Oct. 19, 1996, [110 Stat. 3907][/us/stat/110/3907]; [Pub. L. 107–295, title IV, § 416(a)(2)][/us/pl/107/295/s416/a/2], Nov. 25, 2002, [116 Stat. 2121][/us/stat/116/2121].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 184][/us/stat/77/184]; amended [Pub. L. 93–283][/us/pl/93/283], § 1(6), May 14, 1974, [88 Stat. 140][/us/stat/88/140]; [Pub. L. 94–546][/us/pl/94/546], § 1(22), Oct. 18, 1976, [90 Stat. 2520][/us/stat/90/2520]; [Pub. L. 97–295][/us/pl/97/295], § 2(9), Oct. 12, 1982, [96 Stat. 1302][/us/stat/96/1302]; [Pub. L. 104–324, title II][/us/pl/104/324/tII], § 205, Oct. 19, 1996, [110 Stat. 3907][/us/stat/110/3907]; [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 416(a)(2), Nov. 25, 2002, [116 Stat. 2121][/us/stat/116/2121].)
 
  __Amendments__ 
 
@@ -79,17 +79,17 @@
 [/us/usc/t14/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs211
 [/us/usc/t14/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs251
 [/us/usc/t14/s286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs286
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F184
-[/us/pl/93/283/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F283%2Fs1%2F6
+[/us/pl/93/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F283
 [/us/stat/88/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F140
-[/us/pl/94/546/s1/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F22
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/stat/90/2520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2520
-[/us/pl/97/295/s2/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs2%2F9
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1302
-[/us/pl/104/324/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs205
+[/us/pl/104/324/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtII
 [/us/stat/110/3907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3907
-[/us/pl/107/295/s416/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs416%2Fa%2F2
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2121
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324

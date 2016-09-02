@@ -17,7 +17,7 @@
 
     For the purposes of this chapter, “promotion year” means the period which commences on July 1 of each year and ends on June 30 of the following year.
 
-(Added [Pub. L. 94–546, § 1(17)][/us/pl/94/546/s1/17], Oct. 18, 1976, [90 Stat. 2520][/us/stat/90/2520].)
+(Added [Pub. L. 94–546][/us/pl/94/546], § 1(17), Oct. 18, 1976, [90 Stat. 2520][/us/stat/90/2520].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/546/s1/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F17
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/stat/90/2520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2520
 
 

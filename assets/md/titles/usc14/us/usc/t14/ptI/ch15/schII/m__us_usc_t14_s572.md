@@ -97,19 +97,23 @@
 
             (A) the key performance parameters to be resolved through the integrated test and evaluation strategy;
 
-            (B) critical operational issues to be assessed in addition to the key performance parameters;
+            (B) the performance data to be used to determine whether the key performance parameters have been resolved;
 
-            (C) specific development test and evaluation phases and the scope of each phase;
+            (C) critical operational issues to be assessed in addition to the key performance parameters;
 
-            (D) modeling and simulation activities to be performed, if any, and the scope of such activities;
+            (D) the results during test and evaluation that will be required to demonstrate that a capability, asset, or subsystem meets performance requirements;
 
-            (E) early operational assessments to be performed, if any, and the scope of such assessments;
+            (E) specific development test and evaluation phases and the scope of each phase;
 
-            (F) operational test and evaluation phases;
+            (F) modeling and simulation activities to be performed, if any, and the scope of such activities;
 
-            (G) an estimate of the resources, including funds, that will be required for all test, evaluation, assessment, modeling, and simulation activities; and
+            (G) early operational assessments to be performed, if any, and the scope of such assessments;
 
-            (H) the Government entity or independent entity that will perform the test, evaluation, assessment, modeling, and simulation activities.
+            (H) operational test and evaluation phases;
+
+            (I) an estimate of the resources, including funds, that will be required for all test, evaluation, assessment, modeling, and simulation activities; and
+
+            (J) the Government entity or independent entity that will perform the test, evaluation, assessment, modeling, and simulation activities.
 
         (4)  __Update__  __.—__ 
 
@@ -137,11 +141,15 @@
 
         For each Level 1 or Level 2 acquisition project or program the Commandant shall require that life-cycle cost estimates shall be updated before each milestone decision is concluded and the project or program enters a new acquisition phase.
 
-(Added [Pub. L. 111–281, title IV, § 402(a)][/us/pl/111/281/s402/a], Oct. 15, 2010, [124 Stat. 2942][/us/stat/124/2942].)
+(Added [Pub. L. 111–281, title IV][/us/pl/111/281/tIV], § 402(a), Oct. 15, 2010, [124 Stat. 2942][/us/stat/124/2942]; amended [Pub. L. 114–120, title II][/us/pl/114/120/tII], § 204(a), Feb. 8, 2016, [130 Stat. 34][/us/stat/130/34].)
 
  __Prior Provisions__ 
 
     A prior section 572, [act Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 543][/us/stat/63/543], related to courts of inquiry, prior to repeal by [act May 5, 1950, ch. 169][/us/act/1950-05-05/ch169], §§ 5, 14(v), [64 Stat. 145][/us/stat/64/145], 148, effective May 31, 1951.
+
+ __Amendments__ 
+
+    2016—Subsec. (d)(3)(B) to (J). [Pub. L. 114–120][/us/pl/114/120] added subpars. (B) and (D) and redesignated former subpar. (B) as (C) and former subpars. (C) to (H) as (E) to (J), respectively.
 
 ----------
 
@@ -150,11 +158,14 @@
 ----------
 ----------
 
-[/us/pl/111/281/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs402%2Fa
+[/us/pl/111/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIV
 [/us/stat/124/2942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2942
+[/us/pl/114/120/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtII
+[/us/stat/130/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F34
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F543
 [/us/act/1950-05-05/ch169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-05%2Fch169
 [/us/stat/64/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F145
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
 
 

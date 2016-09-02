@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s675.md) | [Next](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s677.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs676)
+[Previous](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s675.md) | [Next](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s676a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs676)
 
 ## § 676. Search and rescue center standards
 
@@ -45,7 +45,7 @@
 
     For the purposes of this section, the term “search and rescue center facility” means a Coast Guard shore facility that maintains a search and rescue mission coordination and communications watch.
 
-(Added [Pub. L. 107–295, title IV, § 405(a)(2)][/us/pl/107/295/s405/a/2], Nov. 25, 2002, [116 Stat. 2115][/us/stat/116/2115]; amended [Pub. L. 111–207, § 4(a)(3)][/us/pl/111/207/s4/a/3], July 27, 2010, [124 Stat. 2251][/us/stat/124/2251].)
+(Added [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 405(a)(2), Nov. 25, 2002, [116 Stat. 2115][/us/stat/116/2115]; amended [Pub. L. 111–207][/us/pl/111/207], § 4(a)(3), July 27, 2010, [124 Stat. 2251][/us/stat/124/2251].)
 
  __Amendments__ 
 
@@ -53,23 +53,23 @@
 
  __Prescription of Standards__ 
 
-[Pub. L. 107–295, title IV, § 405(b)][/us/pl/107/295/s405/b], Nov. 25, 2002, [116 Stat. 2116][/us/stat/116/2116], provided that: 
+[Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 405(b), Nov. 25, 2002, [116 Stat. 2116][/us/stat/116/2116], provided that: 
 
 > “The Secretary shall prescribe the standards required under section 675(a) \[676(a)\] of title 14, United States Code, as enacted by subsection (a) of this section, before January 1, 2003.”
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s675.md) | [Next](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s677.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs676)
+[Previous](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s675.md) | [Next](./../../../../..//us/usc/t14/ptI/ch17/m__us_usc_t14_s676a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs676)
 
 ----------
 ----------
 
-[/us/pl/107/295/s405/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs405%2Fa%2F2
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2115
-[/us/pl/111/207/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207%2Fs4%2Fa%2F3
+[/us/pl/111/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207
 [/us/stat/124/2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2251
 [/us/pl/111/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207
-[/us/pl/107/295/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs405%2Fb
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2116
 
 

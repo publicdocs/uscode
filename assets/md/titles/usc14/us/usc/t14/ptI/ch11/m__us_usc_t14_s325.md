@@ -25,7 +25,7 @@
 
     (4) allowed full access to, and furnished copies of, records relevant to the case at all stages of the proceeding, except that a board shall withhold any records that the Secretary determines should be withheld in the interests of national security. In any case where any records are withheld under this clause, the officer whose case is under consideration shall, to the extent that the national security permits, be furnished a summary of the rec­ords so withheld.
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 188][/us/stat/77/188].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 188][/us/stat/77/188].)
 
 ----------
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t14/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs322
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F188
 
 

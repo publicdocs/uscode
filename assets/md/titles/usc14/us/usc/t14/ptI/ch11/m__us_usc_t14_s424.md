@@ -19,7 +19,7 @@
 
     (b) In no case may the retired pay of a member exceed 75 percent of (1) the sum of the active-duty pay and all permanent additions thereto (including longevity credit to which the member is entitled) of the grade or rate on which the member’s pay is computed, or (2) the retired pay base determined under [section 1407 of title 10][/us/usc/t10/s1407], as appropriate.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 525][/us/stat/63/525]; [Pub. L. 98–557, § 15(a)(3)(A)][/us/pl/98/557/s15/a/3/A], Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865]; [Pub. L. 99–348, title II, § 205(b)(11)][/us/pl/99/348/s205/b/11], July 1, 1986, [100 Stat. 700][/us/stat/100/700].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 525][/us/stat/63/525]; [Pub. L. 98–557][/us/pl/98/557], § 15(a)(3)(A), Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865]; [Pub. L. 99–348, title II][/us/pl/99/348/tII], § 205(b)(11), July 1, 1986, [100 Stat. 700][/us/stat/100/700].)
 
  __Historical and Revision Notes__ 
 
@@ -41,9 +41,9 @@
 [/us/usc/t10/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1407
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F525
-[/us/pl/98/557/s15/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F3%2FA
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2865
-[/us/pl/99/348/s205/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs205%2Fb%2F11
+[/us/pl/99/348/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtII
 [/us/stat/100/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F700
 [/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557

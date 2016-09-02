@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s313a.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s322.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs321)
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s314 _us_usc_t14_s315.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s322.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs321)
 
 ## § 321. Review of records of officers
 
@@ -21,16 +21,16 @@
 
     (2) because of moral dereliction, professional dereliction, or because his retention is not clearly consistent with the interests of national security.
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 187][/us/stat/77/187].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 187][/us/stat/77/187].)
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s313a.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s322.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs321)
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s314 _us_usc_t14_s315.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s322.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs321)
 
 ----------
 ----------
 
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F187
 
 

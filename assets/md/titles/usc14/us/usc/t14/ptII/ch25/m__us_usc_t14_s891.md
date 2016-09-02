@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 14, U.S.C., 1946 ed., § 352 ([Feb. 19, 1941, ch. 8][/us/act/1941-02-19/ch8], title III, § 302, [55 Stat. 13][/us/stat/55/13]; [Sept. 30, 1944, ch. 453, § 9][/us/act/1944-09-30/ch453/s9], [58 Stat. 761][/us/stat/58/761]).
+    Based on title 14, U.S.C., 1946 ed., § 352 ([Feb. 19, 1941, ch. 8][/us/act/1941-02-19/ch8], title III, § 302, [55 Stat. 13][/us/stat/55/13]; [Sept. 30, 1944, ch. 453][/us/act/1944-09-30/ch453], § 9, [58 Stat. 761][/us/stat/58/761]).
 
     Said section has been divided. The first two sentences are placed in this section. The last sentence is placed in [section 892 of this title][/us/usc/t14/s892].
 
@@ -38,7 +38,7 @@
 [/us/stat/63/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F557
 [/us/act/1941-02-19/ch8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-02-19%2Fch8
 [/us/stat/55/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F13
-[/us/act/1944-09-30/ch453/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-30%2Fch453%2Fs9
+[/us/act/1944-09-30/ch453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-30%2Fch453
 [/us/stat/58/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F761
 [/us/usc/t14/s892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs892
 

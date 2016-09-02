@@ -17,7 +17,7 @@
 
     The President, by and with the advice and consent of the Senate, may appoint a flag officer of the Coast Guard as the Chief of Staff to the President.
 
-(Added [Pub. L. 109–163, div. A, title V, § 597(a)][/us/pl/109/163/s597/a], Jan. 6, 2006, [119 Stat. 3283][/us/stat/119/3283].)
+(Added [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 597(a), Jan. 6, 2006, [119 Stat. 3283][/us/stat/119/3283].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/163/s597/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs597%2Fa
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3283
 
 

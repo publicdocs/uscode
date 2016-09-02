@@ -29,7 +29,7 @@
 
         (C) concurs in writing on the decision on appeal.
 
-(Added [Pub. L. 111–281, title V, § 524(a)][/us/pl/111/281/s524/a], Oct. 15, 2010, [124 Stat. 2958][/us/stat/124/2958], § 102; renumbered § 101, [Pub. L. 111–330, § 1(6)(A)][/us/pl/111/330/s1/6/A], Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569].)
+(Added [Pub. L. 111–281, title V][/us/pl/111/281/tV], § 524(a), Oct. 15, 2010, [124 Stat. 2958][/us/stat/124/2958], § 102; renumbered § 101, [Pub. L. 111–330][/us/pl/111/330], § 1(6)(A), Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569].)
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 
  __Effective Date of 2010 Amendment__ 
 
-    [Pub. L. 111–330, § 1][/us/pl/111/330/s1], Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569], provided that the amendment made by section 1(6)(A) is effective with the enactment of [Pub. L. 111–281][/us/pl/111/281].
+    [Pub. L. 111–330][/us/pl/111/330], § 1, Dec. 22, 2010, [124 Stat. 3569][/us/stat/124/3569], provided that the amendment made by section 1(6)(A) is effective with the enactment of [Pub. L. 111–281][/us/pl/111/281].
 
 ----------
 
@@ -46,13 +46,13 @@
 ----------
 ----------
 
-[/us/pl/111/281/s524/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs524%2Fa
+[/us/pl/111/281/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtV
 [/us/stat/124/2958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2958
-[/us/pl/111/330/s1/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330%2Fs1%2F6%2FA
+[/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
 [/us/stat/124/3569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3569
 [/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
 [/us/usc/t14/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs102
-[/us/pl/111/330/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330%2Fs1
+[/us/pl/111/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F330
 [/us/stat/124/3569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3569
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 

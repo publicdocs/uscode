@@ -23,7 +23,7 @@
 
     (3) while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
-(Added [Pub. L. 111–281, title II, § 224(b)(2)][/us/pl/111/281/s224/b/2], Oct. 15, 2010, [124 Stat. 2922][/us/stat/124/2922].)
+(Added [Pub. L. 111–281, title II][/us/pl/111/281/tII], § 224(b)(2), Oct. 15, 2010, [124 Stat. 2922][/us/stat/124/2922].)
 
  __Prior Provisions__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/111/281/s224/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs224%2Fb%2F2
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2922
 [/us/usc/t14/s492b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs492b
 

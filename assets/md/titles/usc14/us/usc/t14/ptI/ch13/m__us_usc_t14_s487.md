@@ -17,7 +17,7 @@
 
     Such stores as the Secretary may designate may be procured and sold to members of the Coast Guard, and to the surviving spouses of such members. Such designated stores may also be procured and sold to civilian officers and employees of the United States, and to such other persons as may be specifically authorized by the Secretary, at Coast Guard stations and other units beyond the continental limits of the United States or in Alaska.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 534][/us/stat/63/534]; [Pub. L. 98–557, § 15(a)(2)][/us/pl/98/557/s15/a/2], (3)(D), (4)(D)(i), Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865], 2866.)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 534][/us/stat/63/534]; [Pub. L. 98–557][/us/pl/98/557], § 15(a)(2), (3)(D), (4)(D)(i), Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865], 2866.)
 
  __Historical and Revision Notes__ 
 
@@ -40,7 +40,7 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F534
-[/us/pl/98/557/s15/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F2
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2865
 [/us/act/1909-03-03/ch255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-03%2Fch255
 [/us/stat/35/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F768

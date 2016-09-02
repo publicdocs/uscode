@@ -17,7 +17,7 @@
 
     The initial period of active duty for training required by [section 12103(d) of title 10][/us/usc/t10/s12103/d], may be divided into two successive annual periods of not less than six weeks each, to permit the enlistment of a Reserve member without interrupting any full-time schooling in which the member is engaged.
 
-(Added [Pub. L. 96–322, § 1][/us/pl/96/322/s1], Aug. 4, 1980, [94 Stat. 1007][/us/stat/94/1007]; amended [Pub. L. 103–337, div. A, title XVI, § 1677(b)(4)][/us/pl/103/337/s1677/b/4], Oct. 5, 1994, [108 Stat. 3020][/us/stat/108/3020].)
+(Added [Pub. L. 96–322][/us/pl/96/322], § 1, Aug. 4, 1980, [94 Stat. 1007][/us/stat/94/1007]; amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1677(b)(4), Oct. 5, 1994, [108 Stat. 3020][/us/stat/108/3020].)
 
  __Prior Provisions__ 
 
@@ -43,9 +43,9 @@
 ----------
 
 [/us/usc/t10/s12103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12103%2Fd
-[/us/pl/96/322/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322%2Fs1
+[/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
 [/us/stat/94/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1007
-[/us/pl/103/337/s1677/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1677%2Fb%2F4
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3020
 [/us/usc/t14/s765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs765
 [/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322

@@ -45,7 +45,7 @@
 
     (f) The Secretary may waive subsection (a) to the extent necessary to allow officers described therein to have at least two opportunities for consideration for promotion to the next higher grade as officers below the promotion zone.
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 179][/us/stat/77/179]; amended [Pub. L. 94–546, § 1(19)][/us/pl/94/546/s1/19], Oct. 18, 1976, [90 Stat. 2520][/us/stat/90/2520]; [Pub. L. 98–557, § 17(b)(1)][/us/pl/98/557/s17/b/1], Oct. 30, 1984, [98 Stat. 2867][/us/stat/98/2867]; [Pub. L. 109–241, title II, § 203][/us/pl/109/241/s203], July 11, 2006, [120 Stat. 520][/us/stat/120/520].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 179][/us/stat/77/179]; amended [Pub. L. 94–546][/us/pl/94/546], § 1(19), Oct. 18, 1976, [90 Stat. 2520][/us/stat/90/2520]; [Pub. L. 98–557][/us/pl/98/557], § 17(b)(1), Oct. 30, 1984, [98 Stat. 2867][/us/stat/98/2867]; [Pub. L. 109–241, title II][/us/pl/109/241/tII], § 203, July 11, 2006, [120 Stat. 520][/us/stat/120/520].)
 
  __Amendments__ 
 
@@ -53,9 +53,9 @@
 
     1984—Subsec. (e). [Pub. L. 98–557][/us/pl/98/557] added subsec. (e).
 
-    1976—Subsec. (a). [Pub. L. 94–546, § 1(19)(a)][/us/pl/94/546/s1/19/a], substituted “promotion year” for “fiscal year”.
+    1976—Subsec. (a). [Pub. L. 94–546][/us/pl/94/546], § 1(19)(a), substituted “promotion year” for “fiscal year”.
 
-    Subsec. (d). [Pub. L. 94–546, § 1(19)(b)][/us/pl/94/546/s1/19/b], struck out cl. (3) “if serving in a grade below captain, has not twice failed of selection for promotion to the next higher grade.”
+    Subsec. (d). [Pub. L. 94–546][/us/pl/94/546], § 1(19)(b), struck out cl. (3) “if serving in a grade below captain, has not twice failed of selection for promotion to the next higher grade.”
 
 ----------
 
@@ -66,17 +66,17 @@
 
 [/us/usc/t14/s275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs275
 [/us/usc/t14/s295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs295
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F179
-[/us/pl/94/546/s1/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F19
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/stat/90/2520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2520
-[/us/pl/98/557/s17/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs17%2Fb%2F1
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2867
-[/us/pl/109/241/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs203
+[/us/pl/109/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtII
 [/us/stat/120/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F520
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
-[/us/pl/94/546/s1/19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F19%2Fa
-[/us/pl/94/546/s1/19/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F19%2Fb
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 
 

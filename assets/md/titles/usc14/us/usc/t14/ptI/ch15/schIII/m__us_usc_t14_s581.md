@@ -65,7 +65,7 @@
 
         (A) the estimated life-cycle costs of which are equal to or less than $1,000,000,000, but greater than $300,000,000; or
 
-        (B) the estimated total acquisition costs of which are equal to or less than $300,000,0000,  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  but greater than $100,000,000.
+        (B) the estimated total acquisition costs of which are equal to or less than $300,000,000, but greater than $100,000,000.
 
     (6)  __Life-cycle cost__  __.—__ 
 
@@ -99,7 +99,11 @@
 
         (B) the evaluation of the results of such testing.
 
-(Added [Pub. L. 111–281, title IV, § 402(a)][/us/pl/111/281/s402/a], Oct. 15, 2010, [124 Stat. 2948][/us/stat/124/2948].)
+(Added [Pub. L. 111–281, title IV][/us/pl/111/281/tIV], § 402(a), Oct. 15, 2010, [124 Stat. 2948][/us/stat/124/2948]; amended [Pub. L. 114–120, title II][/us/pl/114/120/tII], § 209(8), Feb. 8, 2016, [130 Stat. 41][/us/stat/130/41].)
+
+ __Amendments__ 
+
+    2016—Par. (5)(B). [Pub. L. 114–120][/us/pl/114/120] substituted “$300,000,000,” for “$300,000,0000,”.
 
 ----------
 
@@ -109,7 +113,10 @@
 ----------
 
 [/us/usc/t14/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs56
-[/us/pl/111/281/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs402%2Fa
+[/us/pl/111/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIV
 [/us/stat/124/2948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2948
+[/us/pl/114/120/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtII
+[/us/stat/130/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F41
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
 
 

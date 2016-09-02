@@ -17,11 +17,11 @@
 
     Any enlisted member who has completed twenty years’ service may, upon his own application, in the discretion of the Commandant, be retired from active service.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 521][/us/stat/63/521]; [Pub. L. 98–557, § 15(a)(3)(A)][/us/pl/98/557/s15/a/3/A], Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865]; [Pub. L. 99–348, title II, § 205(b)(8)][/us/pl/99/348/s205/b/8], July 1, 1986, [100 Stat. 700][/us/stat/100/700].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 521][/us/stat/63/521]; [Pub. L. 98–557][/us/pl/98/557], § 15(a)(3)(A), Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865]; [Pub. L. 99–348, title II][/us/pl/99/348/tII], § 205(b)(8), July 1, 1986, [100 Stat. 700][/us/stat/100/700].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 14, U.S.C., 1946 ed., § 185a ([May 24, 1939, ch. 146, § 2][/us/act/1939-05-24/ch146/s2], [53 Stat. 755][/us/stat/53/755]).
+    Based on title 14, U.S.C., 1946 ed., § 185a ([May 24, 1939, ch. 146][/us/act/1939-05-24/ch146], § 2, [53 Stat. 755][/us/stat/53/755]).
 
     Changes were made in phraseology. 81st Congress, House Report No. 557.
 
@@ -40,11 +40,11 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F521
-[/us/pl/98/557/s15/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F3%2FA
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2865
-[/us/pl/99/348/s205/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs205%2Fb%2F8
+[/us/pl/99/348/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtII
 [/us/stat/100/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F700
-[/us/act/1939-05-24/ch146/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-05-24%2Fch146%2Fs2
+[/us/act/1939-05-24/ch146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-05-24%2Fch146
 [/us/stat/53/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F755
 [/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557

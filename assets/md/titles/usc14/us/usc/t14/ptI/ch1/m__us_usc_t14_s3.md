@@ -37,11 +37,11 @@
 
         (5) the Secretary may place on furlough any officer of the Coast Guard and officers on furlough shall receive one half of the pay to which they would be entitled if on leave of absence, but officers of the Coast Guard Reserve shall not be so placed on furlough.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 496][/us/stat/63/496]; [Pub. L. 94–546, § 1(2)][/us/pl/94/546/s1/2], Oct. 18, 1976, [90 Stat. 2519][/us/stat/90/2519]; [Pub. L. 107–296, title XVII, § 1704(a)][/us/pl/107/296/s1704/a], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 109–241, title II, § 211][/us/pl/109/241/s211], July 11, 2006, [120 Stat. 523][/us/stat/120/523]; [Pub. L. 112–213, title II, § 217(1)][/us/pl/112/213/s217/1], Dec. 20, 2012, [126 Stat. 1556][/us/stat/126/1556].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 496][/us/stat/63/496]; [Pub. L. 94–546][/us/pl/94/546], § 1(2), Oct. 18, 1976, [90 Stat. 2519][/us/stat/90/2519]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(a), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 109–241, title II][/us/pl/109/241/tII], § 211, July 11, 2006, [120 Stat. 523][/us/stat/120/523]; [Pub. L. 112–213, title II][/us/pl/112/213/tII], § 217(1), Dec. 20, 2012, [126 Stat. 1556][/us/stat/126/1556].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 14, U.S.C., 1946 ed., § 1 ([Jan. 28, 1915, ch. 20, § 1][/us/act/1915-01-28/ch20/s1], [38 Stat. 800][/us/stat/38/800]; [July 11, 1941, ch. 290][/us/act/1941-07-11/ch290], §§ 5, 6(a), [55 Stat. 585][/us/stat/55/585]).
+    Based on title 14, U.S.C., 1946 ed., § 1 ([Jan. 28, 1915, ch. 20][/us/act/1915-01-28/ch20], § 1, [38 Stat. 800][/us/stat/38/800]; [July 11, 1941, ch. 290][/us/act/1941-07-11/ch290], §§ 5, 6(a), [55 Stat. 585][/us/stat/55/585]).
 
     Said section has been divided. The provisions relating to when the Coast Guard operates as a service in the Navy are in this section. The provisions relating to the establishment of the Coast Guard are placed in [section 1 of this title][/us/usc/t14/s1]. The provisions relating to appropriations are placed in [section 4 of this title][/us/usc/t14/s4].
 
@@ -70,15 +70,15 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F496
-[/us/pl/94/546/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F2
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/stat/90/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2519
-[/us/pl/107/296/s1704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fa
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/109/241/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs211
+[/us/pl/109/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtII
 [/us/stat/120/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F523
-[/us/pl/112/213/s217/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs217%2F1
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1556
-[/us/act/1915-01-28/ch20/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-28%2Fch20%2Fs1
+[/us/act/1915-01-28/ch20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-28%2Fch20
 [/us/stat/38/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F800
 [/us/act/1941-07-11/ch290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-11%2Fch290
 [/us/stat/55/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F585

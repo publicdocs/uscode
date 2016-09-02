@@ -17,7 +17,7 @@
 
     Any regular commissioned officer who has completed twenty years’ active service in the Coast Guard, Navy, Army, Air Force, or Marine Corps, or the Reserve components thereof, including active duty for training, at least ten years of which shall have been active commissioned service, may, upon his own application, in the discretion of the President, be retired from active service.
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 187][/us/stat/77/187]; amended [Pub. L. 99–348, title II, § 205(b)(5)][/us/pl/99/348/s205/b/5], July 1, 1986, [100 Stat. 700][/us/stat/100/700].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 187][/us/stat/77/187]; amended [Pub. L. 99–348, title II][/us/pl/99/348/tII], § 205(b)(5), July 1, 1986, [100 Stat. 700][/us/stat/100/700].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F187
-[/us/pl/99/348/s205/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2Fs205%2Fb%2F5
+[/us/pl/99/348/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348%2FtII
 [/us/stat/100/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F700
 [/us/pl/99/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F348
 [/us/pl/88/130/s5/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs5%2Fg

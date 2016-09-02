@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 33, U.S.C., 1946 ed., § 721a ([Aug. 16, 1937, ch. 665, § 2][/us/act/1937-08-16/ch665/s2], [50 Stat. 667][/us/stat/50/667]).
+    Based on title 33, U.S.C., 1946 ed., § 721a ([Aug. 16, 1937, ch. 665][/us/act/1937-08-16/ch665], § 2, [50 Stat. 667][/us/stat/50/667]).
 
     Changes were made in phraseology. 81st Congress, House Report No. 557.
 
@@ -34,7 +34,7 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F547
-[/us/act/1937-08-16/ch665/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-16%2Fch665%2Fs2
+[/us/act/1937-08-16/ch665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-16%2Fch665
 [/us/stat/50/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F667
 
 

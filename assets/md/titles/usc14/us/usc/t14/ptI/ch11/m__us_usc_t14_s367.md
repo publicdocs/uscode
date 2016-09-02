@@ -27,11 +27,11 @@
 
     Any member detained in the Coast Guard as provided in this section shall be entitled to receive pay and allowances and benefits under the same conditions as though his enlistment period had not expired, and shall be subject in all respects to the laws and regulations for the government of the Coast Guard until his discharge therefrom. Enlisted members detained under the provisions of clause (1) shall be entitled to the pay and allowances provided for enlisted personnel of the Navy detained under similar circumstances.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 523][/us/stat/63/523]; [Aug. 3, 1950, ch. 536, § 22][/us/act/1950-08-03/ch536/s22], [64 Stat. 407][/us/stat/64/407]; [July 24, 1956, ch. 692][/us/act/1956-07-24/ch692], §§ 2(4), 3, [70 Stat. 631][/us/stat/70/631]; [Pub. L. 98–557][/us/pl/98/557], §§ 15(a)(3)(A), (C), 17(b)(4), Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865], 2868.)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 523][/us/stat/63/523]; [Aug. 3, 1950, ch. 536][/us/act/1950-08-03/ch536], § 22, [64 Stat. 407][/us/stat/64/407]; [July 24, 1956, ch. 692][/us/act/1956-07-24/ch692], §§ 2(4), 3, [70 Stat. 631][/us/stat/70/631]; [Pub. L. 98–557][/us/pl/98/557], §§ 15(a)(3)(A), (C), 17(b)(4), Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865], 2868.)
 
  __Historical and Revision Notes__ 
 
-    Based on title 14, U.S.C., 1946 ed., §§ 35, 35a, 35c ([May 26, 1906, ch. 2556, § 1][/us/act/1906-05-26/ch2556/s1], [34 Stat. 200][/us/stat/34/200]; [Jan. 28, 1915, ch. 20, § 1][/us/act/1915-01-28/ch20/s1], [38 Stat. 800][/us/stat/38/800]; [July 30, 1937, ch. 545, § 1][/us/act/1937-07-30/ch545/s1], [50 Stat. 547][/us/stat/50/547]; [July 11, 1941, ch. 290, § 8][/us/act/1941-07-11/ch290/s8], [55 Stat. 586][/us/stat/55/586]; [Aug. 18, 1941, ch. 364, § 3][/us/act/1941-08-18/ch364/s3], [55 Stat. 629][/us/stat/55/629]; [Dec. 13, 1941, ch. 570, § 5][/us/act/1941-12-13/ch570/s5], [55 Stat. 799][/us/stat/55/799]).
+    Based on title 14, U.S.C., 1946 ed., §§ 35, 35a, 35c ([May 26, 1906, ch. 2556][/us/act/1906-05-26/ch2556], § 1, [34 Stat. 200][/us/stat/34/200]; [Jan. 28, 1915, ch. 20][/us/act/1915-01-28/ch20], § 1, [38 Stat. 800][/us/stat/38/800]; [July 30, 1937, ch. 545][/us/act/1937-07-30/ch545], § 1, [50 Stat. 547][/us/stat/50/547]; [July 11, 1941, ch. 290][/us/act/1941-07-11/ch290], § 8, [55 Stat. 586][/us/stat/55/586]; [Aug. 18, 1941, ch. 364][/us/act/1941-08-18/ch364], § 3, [55 Stat. 629][/us/stat/55/629]; [Dec. 13, 1941, ch. 570][/us/act/1941-12-13/ch570], § 5, [55 Stat. 799][/us/stat/55/799]).
 
     [Section 35 of title 14][/us/usc/t14/s35], U.S.C., 1946 ed., has been divided. The proviso of subsection (a) is covered by subsection (b) of this section. Subsections (c) and (d) are placed in subsection (a) of this section, except that part (3) of subsection (c) is covered in [section 366 of this title][/us/usc/t14/s366]. The first sentence of subsection (a) is placed in [section 351 of this title][/us/usc/t14/s351]. Subsection (b) is placed in [section 365 of this title][/us/usc/t14/s365].
 
@@ -60,23 +60,23 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F523
-[/us/act/1950-08-03/ch536/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch536%2Fs22
+[/us/act/1950-08-03/ch536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch536
 [/us/stat/64/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F407
 [/us/act/1956-07-24/ch692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-24%2Fch692
 [/us/stat/70/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F631
 [/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2865
-[/us/act/1906-05-26/ch2556/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-05-26%2Fch2556%2Fs1
+[/us/act/1906-05-26/ch2556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-05-26%2Fch2556
 [/us/stat/34/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F200
-[/us/act/1915-01-28/ch20/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-28%2Fch20%2Fs1
+[/us/act/1915-01-28/ch20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-28%2Fch20
 [/us/stat/38/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F800
-[/us/act/1937-07-30/ch545/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-30%2Fch545%2Fs1
+[/us/act/1937-07-30/ch545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-30%2Fch545
 [/us/stat/50/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F547
-[/us/act/1941-07-11/ch290/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-11%2Fch290%2Fs8
+[/us/act/1941-07-11/ch290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-11%2Fch290
 [/us/stat/55/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F586
-[/us/act/1941-08-18/ch364/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-18%2Fch364%2Fs3
+[/us/act/1941-08-18/ch364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-18%2Fch364
 [/us/stat/55/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F629
-[/us/act/1941-12-13/ch570/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-12-13%2Fch570%2Fs5
+[/us/act/1941-12-13/ch570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-12-13%2Fch570
 [/us/stat/55/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F799
 [/us/usc/t14/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs35
 [/us/usc/t14/s366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs366

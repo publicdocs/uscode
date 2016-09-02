@@ -23,11 +23,11 @@
 
     (d) As used in this section “navigable waters of the United States” includes all waters of the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 503][/us/stat/63/503]; [Pub. L. 99–640, § 10(a)(4)][/us/pl/99/640/s10/a/4], Nov. 10, 1986, [100 Stat. 3549][/us/stat/100/3549]; [Pub. L. 109–241, title II, § 201][/us/pl/109/241/s201], July 11, 2006, [120 Stat. 519][/us/stat/120/519].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 503][/us/stat/63/503]; [Pub. L. 99–640][/us/pl/99/640], § 10(a)(4), Nov. 10, 1986, [100 Stat. 3549][/us/stat/100/3549]; [Pub. L. 109–241, title II][/us/pl/109/241/tII], § 201, July 11, 2006, [120 Stat. 519][/us/stat/120/519].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 14, U.S.C., 1946 ed., § 48a ([Nov. 15, 1941, ch. 471, § 1][/us/act/1941-11-15/ch471/s1], [55 Stat. 763][/us/stat/55/763]).
+    Based on title 14, U.S.C., 1946 ed., § 48a ([Nov. 15, 1941, ch. 471][/us/act/1941-11-15/ch471], § 1, [55 Stat. 763][/us/stat/55/763]).
 
     Changes were made in phraseology. 81st Congress, House Report No. 557.
 
@@ -51,11 +51,11 @@
 [/us/usc/t33/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1232
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F503
-[/us/pl/99/640/s10/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640%2Fs10%2Fa%2F4
+[/us/pl/99/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F640
 [/us/stat/100/3549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3549
-[/us/pl/109/241/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs201
+[/us/pl/109/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtII
 [/us/stat/120/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F519
-[/us/act/1941-11-15/ch471/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-11-15%2Fch471%2Fs1
+[/us/act/1941-11-15/ch471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-11-15%2Fch471
 [/us/stat/55/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F763
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241

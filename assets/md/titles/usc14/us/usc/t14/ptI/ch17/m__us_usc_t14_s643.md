@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 14, U.S.C., 1946 ed., § 50c ([Aug. 2, 1946, ch. 756, § 32][/us/act/1946-08-02/ch756/s32], [60 Stat. 857][/us/stat/60/857]).
+    Based on title 14, U.S.C., 1946 ed., § 50c ([Aug. 2, 1946, ch. 756][/us/act/1946-08-02/ch756], § 32, [60 Stat. 857][/us/stat/60/857]).
 
     Section is enlarged to provide for payment of rewards for information leading to the discovery or recovery of missing Coast Guard property. 81st Congress, House Report No. 557.
 
@@ -34,7 +34,7 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F547
-[/us/act/1946-08-02/ch756/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch756%2Fs32
+[/us/act/1946-08-02/ch756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch756
 [/us/stat/60/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F857
 
 

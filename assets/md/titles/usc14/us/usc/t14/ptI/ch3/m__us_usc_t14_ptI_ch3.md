@@ -83,7 +83,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs47" data-uslm-ref="/us/usc/t14/s47">47.</a>  </td>
 
-    <td> Vice Commandant; appointment. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
+    <td> Vice Commandant; appointment.  </td>
 
   </tr>
 
@@ -179,7 +179,15 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs59" data-uslm-ref="/us/usc/t14/s59">59.</a>  </td>
 
-    <td> Marine industry training programs. <sup>[1]</sup>   </td>
+    <td> Marine industry training programs. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs60" data-uslm-ref="/us/usc/t14/s60">60.</a>  </td>
+
+    <td> Training course on workings of Congress.  </td>
 
   </tr>
 
@@ -187,23 +195,25 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–213, title II, § 216(a)][/us/pl/112/213/s216/a], Dec. 20, 2012, [126 Stat. 1555][/us/stat/126/1555], struck out item 55 “District Ombudsmen”.
+    2016—[Pub. L. 114–120, title II][/us/pl/114/120/tII], § 214(b)(2), Feb. 8, 2016, [130 Stat. 45][/us/stat/130/45], added item 60.
 
-    2010—[Pub. L. 111–281, title II][/us/pl/111/281], §§ 204(b), 214(b), title IV, § 401(b), title V, §§ 511(f)(3), 521(b), Oct. 15, 2010, [124 Stat. 2911][/us/stat/124/2911], 2916, 2930, 2953, 2956, added items 55 to 59, substituted “Number and distribution of commissioned officers on active duty promotion list” for “Number and distribution of commissioned officers” in item 42, “Vice Commandant; appointment” for “Vice Commandant; assignment” in item 47, “Vice admirals” for “Area commanders” in item 50, and “Vice admirals and admiral, continuity of grade” for “Vice admirals, continuity of grade” in item 52, and struck out item 50a “Chief of Staff”.
+    2012—[Pub. L. 112–213, title II][/us/pl/112/213/tII], § 216(a), Dec. 20, 2012, [126 Stat. 1555][/us/stat/126/1555], struck out item 55 “District Ombudsmen”.
 
-    2006—[Pub. L. 109–163, div. A, title V, § 597(b)][/us/pl/109/163/s597/b], Jan. 6, 2006, [119 Stat. 3283][/us/stat/119/3283], added item 54.
+    2010—[Pub. L. 111–281, title II][/us/pl/111/281/tII], §§ 204(b), 214(b), title IV, § 401(b), title V, §§ 511(f)(3), 521(b), Oct. 15, 2010, [124 Stat. 2911][/us/stat/124/2911], 2916, 2930, 2953, 2956, added items 55 to 59, substituted “Number and distribution of commissioned officers on active duty promotion list” for “Number and distribution of commissioned officers” in item 42, “Vice Commandant; appointment” for “Vice Commandant; assignment” in item 47, “Vice admirals” for “Area commanders” in item 50, and “Vice admirals and admiral, continuity of grade” for “Vice admirals, continuity of grade” in item 52, and struck out item 50a “Chief of Staff”.
 
-    1999—[Pub. L. 106–65, div. A, title V, § 557(b)][/us/pl/106/65/s557/b], Oct. 5, 1999, [113 Stat. 620][/us/stat/113/620], added item 53.
+    2006—[Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 597(b), Jan. 6, 2006, [119 Stat. 3283][/us/stat/119/3283], added item 54.
 
-    1993—[Pub. L. 103–206, title II][/us/pl/103/206], §§ 204(b)(2), 205(b)(2), Dec. 20, 1993, [107 Stat. 2421][/us/stat/107/2421], 2422, struck out “; retirement” after “assignment” in item 47 and added item 50a.
+    1999—[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 557(b), Oct. 5, 1999, [113 Stat. 620][/us/stat/113/620], added item 53.
 
-    1982—[Pub. L. 97–322, title I, § 115(a)(2)][/us/pl/97/322/s115/a/2], Oct. 15, 1982, [96 Stat. 1585][/us/stat/96/1585], added item 52.
+    1993—[Pub. L. 103–206, title II][/us/pl/103/206/tII], §§ 204(b)(2), 205(b)(2), Dec. 20, 1993, [107 Stat. 2421][/us/stat/107/2421], 2422, struck out “; retirement” after “assignment” in item 47 and added item 50a.
 
-    1972—[Pub. L. 92–451, § 1(8)][/us/pl/92/451/s1/8], Oct. 2, 1972, [86 Stat. 756][/us/stat/86/756], substituted “Vice Commandant” for “Assistant Commandant” in item 47 and added items 50 and 51.
+    1982—[Pub. L. 97–322, title I][/us/pl/97/322/tI], § 115(a)(2), Oct. 15, 1982, [96 Stat. 1585][/us/stat/96/1585], added item 52.
 
-    1963—[Pub. L. 88–130, § 1(7)][/us/pl/88/130/s1/7], Sept. 24, 1963, [77 Stat. 175][/us/stat/77/175], added item 41a and struck out item 43.
+    1972—[Pub. L. 92–451][/us/pl/92/451], § 1(8), Oct. 2, 1972, [86 Stat. 756][/us/stat/86/756], substituted “Vice Commandant” for “Assistant Commandant” in item 47 and added items 50 and 51.
 
-    1960—[Pub. L. 86–474, § 1(8)][/us/pl/86/474/s1/8], May 14, 1960, [74 Stat. 145][/us/stat/74/145], substituted “Assistant Commandant; assignment; retirement” for “Assistant Commandant and Engineer in Chief; appointment” in item 47 and struck out items 45, 48, and 49.
+    1963—[Pub. L. 88–130][/us/pl/88/130], § 1(7), Sept. 24, 1963, [77 Stat. 175][/us/stat/77/175], added item 41a and struck out item 43.
+
+    1960—[Pub. L. 86–474][/us/pl/86/474], § 1(8), May 14, 1960, [74 Stat. 145][/us/stat/74/145], substituted “Assistant Commandant; assignment; retirement” for “Assistant Commandant and Engineer in Chief; appointment” in item 47 and struck out items 45, 48, and 49.
 
 ----------
 
@@ -212,23 +222,25 @@
 ----------
 ----------
 
-[/us/pl/112/213/s216/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs216%2Fa
+[/us/pl/114/120/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtII
+[/us/stat/130/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F45
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1555
-[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2911
-[/us/pl/109/163/s597/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs597%2Fb
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3283
-[/us/pl/106/65/s557/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs557%2Fb
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F620
-[/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
+[/us/pl/103/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtII
 [/us/stat/107/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2421
-[/us/pl/97/322/s115/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322%2Fs115%2Fa%2F2
+[/us/pl/97/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322%2FtI
 [/us/stat/96/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1585
-[/us/pl/92/451/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F451%2Fs1%2F8
+[/us/pl/92/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F451
 [/us/stat/86/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F756
-[/us/pl/88/130/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F7
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F175
-[/us/pl/86/474/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F474%2Fs1%2F8
+[/us/pl/86/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F474
 [/us/stat/74/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F145
 
 

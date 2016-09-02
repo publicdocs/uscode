@@ -35,7 +35,7 @@
 
     Fees collected under this section shall be deposited in the general fund of the Treasury as offsetting receipts. The fees may be used, to the extent provided in advance in an appropriation law, only to carry out activities under section 93(a)(4).
 
-(Added [Pub. L. 113–281, title II, § 206(b)][/us/pl/113/281/s206/b], Dec. 18, 2014, [128 Stat. 3025][/us/stat/128/3025].)
+(Added [Pub. L. 113–281, title II][/us/pl/113/281/tII], § 206(b), Dec. 18, 2014, [128 Stat. 3025][/us/stat/128/3025].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/113/281/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs206%2Fb
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3025
 
 

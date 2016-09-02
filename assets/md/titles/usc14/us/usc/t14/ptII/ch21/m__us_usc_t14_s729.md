@@ -67,7 +67,7 @@
 
     (i) A Reserve officer whose name is on a list of selectees for promotion shall, unless that officer’s promotion is lawfully withheld, be tendered an appointment in the next higher grade on the date a vacancy occurs, or as soon thereafter as practicable in the grade to which the officer was selected for promotion or, if promotion was determined in accordance with a running mate system, at the same time, or as soon thereafter as practicable, as that officer’s running mate is tendered a similar appointment.
 
-(Added [Pub. L. 96–322, § 1][/us/pl/96/322/s1], Aug. 4, 1980, [94 Stat. 1010][/us/stat/94/1010]; amended [Pub. L. 97–417, § 2(13)][/us/pl/97/417/s2/13], Jan. 4, 1983, [96 Stat. 2086][/us/stat/96/2086]; [Pub. L. 99–145, title V, § 514(c)(1)][/us/pl/99/145/s514/c/1], Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 502(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–99; [Pub. L. 107–295, title IV, § 411(a)][/us/pl/107/295/s411/a], Nov. 25, 2002, [116 Stat. 2118][/us/stat/116/2118].)
+(Added [Pub. L. 96–322][/us/pl/96/322], § 1, Aug. 4, 1980, [94 Stat. 1010][/us/stat/94/1010]; amended [Pub. L. 97–417][/us/pl/97/417], § 2(13), Jan. 4, 1983, [96 Stat. 2086][/us/stat/96/2086]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 514(c)(1), Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 502(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–99; [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 411(a), Nov. 25, 2002, [116 Stat. 2118][/us/stat/116/2118].)
 
  __Prior Provisions__ 
 
@@ -85,7 +85,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 502(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–100, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 502(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–100, provided that: 
 
 > “The amendments made by this section \[amending this section and [section 731 of this title][/us/usc/t14/s731]\] shall apply with respect to selection boards convened under [section 730 of title 14][/us/usc/t14/s730], United States Code, on or after the date of the enactment of this Act \[Oct. 30, 2000\].”
 
@@ -102,15 +102,15 @@
 
 [/us/usc/t14/s260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs260
 [/us/usc/t14/s738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs738
-[/us/pl/96/322/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322%2Fs1
+[/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
 [/us/stat/94/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1010
-[/us/pl/97/417/s2/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417%2Fs2%2F13
+[/us/pl/97/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417
 [/us/stat/96/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2086
-[/us/pl/99/145/s514/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fc%2F1
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F629
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/295/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs411%2Fa
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2118
 [/us/usc/t14/s780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs780
 [/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
@@ -118,7 +118,7 @@
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/97/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t14/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs731
 [/us/usc/t14/s730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs730

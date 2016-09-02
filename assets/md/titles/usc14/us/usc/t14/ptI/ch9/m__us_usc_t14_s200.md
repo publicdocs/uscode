@@ -113,7 +113,7 @@
 
     To the extent that information collected under the authority of this section is reported or otherwise made available to the public, such information shall be provided in a form that is consistent with applicable privacy protections under Federal law and does not jeopardize the confidentiality of victims.
 
-(Added [Pub. L. 112–213, title II, § 205(a)][/us/pl/112/213/s205/a], Dec. 20, 2012, [126 Stat. 1543][/us/stat/126/1543].)
+(Added [Pub. L. 112–213, title II][/us/pl/112/213/tII], § 205(a), Dec. 20, 2012, [126 Stat. 1543][/us/stat/126/1543].)
 
  __Prior Provisions__ 
 
@@ -121,9 +121,9 @@
 
  __Applicability of Sexual Assault Prevention and Response and Related Military Justice Enhancements to Coast Guard Academy__ 
 
-[Pub. L. 113–291, div. A, title V, § 552(b)][/us/pl/113/291/s552/b], Dec. 19, 2014, [128 Stat. 3377][/us/stat/128/3377], provided that: 
+[Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 552(b), Dec. 19, 2014, [128 Stat. 3377][/us/stat/128/3377], provided that: 
 
-> “The Secretary of the Department in which the Coast Guard is operating shall ensure that the provisions of title XVII of the National Defense Authorization Act for Fiscal Year 2014 ([Public Law 113–66][/us/pl/113/66]; [127 Stat. 950][/us/stat/127/950]) \[see Tables for classification\], including amendments made by that title, and the provisions of subtitle D \[§[§ 531–547 of title V of div. A of Pub. L. 113–291][/us/pl/113/291/s531–547]; see Tables for classification\], including amendments made by such subtitle, apply to the Coast Guard Academy.”
+> “The Secretary of the Department in which the Coast Guard is operating shall ensure that the provisions of title XVII of the National Defense Authorization Act for Fiscal Year 2014 ([Public Law 113–66][/us/pl/113/66]; [127 Stat. 950][/us/stat/127/950]) \[see Tables for classification\], including amendments made by that title, and the provisions of subtitle D \[§§ 531–547 of title V of div. A of [Pub. L. 113–291][/us/pl/113/291]; see Tables for classification\], including amendments made by such subtitle, apply to the Coast Guard Academy.”
 
 ----------
 
@@ -132,13 +132,13 @@
 ----------
 ----------
 
-[/us/pl/112/213/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs205%2Fa
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1543
 [/us/usc/t14/s199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs199
-[/us/pl/113/291/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs552%2Fb
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3377
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/stat/127/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F950
-[/us/pl/113/291/s531–547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%E2%80%93547
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 
 

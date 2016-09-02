@@ -115,7 +115,7 @@
 
     The Secretary may designate a selection board convened under section 251 as a special selection board convened under this section. A selection board so designated may function in the capacity of a selection board convened under section 251 and a special selection board convened under this section.
 
-(Added [Pub. L. 112–213, title II, § 208(a)][/us/pl/112/213/s208/a], Dec. 20, 2012, [126 Stat. 1546][/us/stat/126/1546].)
+(Added [Pub. L. 112–213, title II][/us/pl/112/213/tII], § 208(a), Dec. 20, 2012, [126 Stat. 1546][/us/stat/126/1546].)
 
  __Effective Date__ 
 
@@ -131,7 +131,7 @@
 ----------
 
 [/us/usc/t10/s1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1552
-[/us/pl/112/213/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs208%2Fa
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1546
 [/us/pl/112/213/s208/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs208%2Fe%2F1
 [/us/usc/t14/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs261

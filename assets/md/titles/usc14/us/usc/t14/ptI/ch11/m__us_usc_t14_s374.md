@@ -19,7 +19,7 @@
 
     (b) If an enlisted member voluntarily or because of misconduct does not complete the member’s term of obligated active service, the Secretary may require the member to repay the United States, on a pro rata basis, all sums paid under this section. The Secretary may charge interest on the amount repaid at a rate, to be determined quarterly, equal to 150 percent of the average of the yields on the 91-day Treasury bills auctioned during the calendar quarter preceding the date on which the amount to be repaid is determined.
 
-(Added [Pub. L. 108–293, title II, § 204(a)][/us/pl/108/293/s204/a], Aug. 9, 2004, [118 Stat. 1032][/us/stat/118/1032].)
+(Added [Pub. L. 108–293, title II][/us/pl/108/293/tII], § 204(a), Aug. 9, 2004, [118 Stat. 1032][/us/stat/118/1032].)
 
  __GENERAL PROVISIONS__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/108/293/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs204%2Fa
+[/us/pl/108/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtII
 [/us/stat/118/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1032
 
 

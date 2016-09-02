@@ -23,7 +23,7 @@
 
     (d) A Reserve officer, other than one excluded by subsection (a), shall, when he enters on active duty, be placed on the active duty promotion list in accordance with his grade and seniority. The position of such a Reserve officer among other officers of the Coast Guard on active duty who have the same date of rank shall be determined by the Secretary.
 
-(Added [Pub. L. 88–130, § 1(1)][/us/pl/88/130/s1/1], Sept. 24, 1963, [77 Stat. 174][/us/stat/77/174]; amended [Pub. L. 91–278, § 1(2)][/us/pl/91/278/s1/2], June 12, 1970, [84 Stat. 304][/us/stat/84/304]; [Pub. L. 93–174, § 1(1)][/us/pl/93/174/s1/1], Dec. 5, 1973, [87 Stat. 692][/us/stat/87/692]; [Pub. L. 97–136, § 6(a)][/us/pl/97/136/s6/a], Dec. 29, 1981, [95 Stat. 1706][/us/stat/95/1706]; [Pub. L. 103–206, title II, § 205(a)][/us/pl/103/206/s205/a], Dec. 20, 1993, [107 Stat. 2422][/us/stat/107/2422]; [Pub. L. 103–337, div. A, title XVI, § 1677(b)(1)][/us/pl/103/337/s1677/b/1], Oct. 5, 1994, [108 Stat. 3019][/us/stat/108/3019].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(1), Sept. 24, 1963, [77 Stat. 174][/us/stat/77/174]; amended [Pub. L. 91–278][/us/pl/91/278], § 1(2), June 12, 1970, [84 Stat. 304][/us/stat/84/304]; [Pub. L. 93–174][/us/pl/93/174], § 1(1), Dec. 5, 1973, [87 Stat. 692][/us/stat/87/692]; [Pub. L. 97–136][/us/pl/97/136], § 6(a), Dec. 29, 1981, [95 Stat. 1706][/us/stat/95/1706]; [Pub. L. 103–206, title II][/us/pl/103/206/tII], § 205(a), Dec. 20, 1993, [107 Stat. 2422][/us/stat/107/2422]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1677(b)(1), Oct. 5, 1994, [108 Stat. 3019][/us/stat/108/3019].)
 
  __Amendments__ 
 
@@ -31,11 +31,11 @@
 
     1993—Subsec. (b). [Pub. L. 103–206][/us/pl/103/206] struck out before period at end of second sentence “, except that the rear admiral serving as Chief of Staff shall be the senior rear admiral for all purposes other than pay”.
 
-    1981—Subsec. (a). [Pub. L. 97–136, § 6(a)(1)][/us/pl/97/136/s6/a/1], substituted “Reserve officers on active duty, other than pursuant to an active duty agreement executed under [section 679 of title 10][/us/usc/t10/s679], retired officers, and officers of the permanent commissioned teaching staff of the Coast Guard Academy shall not” for “Retired officers and officers of the permanent commissioned teaching staff of the Coast Guard Academy shall not be included on the active duty promotion list. Reserve officers on extended active duty, other than those serving in connection with organizing, administering, recruiting, instructing, or training the Reserve components or assigned to the Selective Service System, shall”.
+    1981—Subsec. (a). [Pub. L. 97–136][/us/pl/97/136], § 6(a)(1), substituted “Reserve officers on active duty, other than pursuant to an active duty agreement executed under [section 679 of title 10][/us/usc/t10/s679], retired officers, and officers of the permanent commissioned teaching staff of the Coast Guard Academy shall not” for “Retired officers and officers of the permanent commissioned teaching staff of the Coast Guard Academy shall not be included on the active duty promotion list. Reserve officers on extended active duty, other than those serving in connection with organizing, administering, recruiting, instructing, or training the Reserve components or assigned to the Selective Service System, shall”.
 
-    Subsec. (b). [Pub. L. 97–136, § 6(a)(2)][/us/pl/97/136/s6/a/2], inserted exception that rear admiral serving as Chief of Staff shall be senior rear admiral for all purposes other than pay.
+    Subsec. (b). [Pub. L. 97–136][/us/pl/97/136], § 6(a)(2), inserted exception that rear admiral serving as Chief of Staff shall be senior rear admiral for all purposes other than pay.
 
-    Subsec. (d). [Pub. L. 97–136, § 6(a)(3)][/us/pl/97/136/s6/a/3], substituted “enters on active duty” for “enters on extended active duty”.
+    Subsec. (d). [Pub. L. 97–136][/us/pl/97/136], § 6(a)(3), substituted “enters on active duty” for “enters on extended active duty”.
 
     1973—Subsec. (a). [Pub. L. 93–174][/us/pl/93/174] substituted “Retired officers and officers” for “Retired officers, officers” and struck out “, and officers of the Women’s Reserve” after “Coast Guard Academy”.
 
@@ -53,26 +53,26 @@
 ----------
 
 [/us/usc/t10/s12311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12311
-[/us/pl/88/130/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F1
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F174
-[/us/pl/91/278/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278%2Fs1%2F2
+[/us/pl/91/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278
 [/us/stat/84/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F304
-[/us/pl/93/174/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F174%2Fs1%2F1
+[/us/pl/93/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F174
 [/us/stat/87/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F692
-[/us/pl/97/136/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F136%2Fs6%2Fa
+[/us/pl/97/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F136
 [/us/stat/95/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1706
-[/us/pl/103/206/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs205%2Fa
+[/us/pl/103/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtII
 [/us/stat/107/2422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2422
-[/us/pl/103/337/s1677/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1677%2Fb%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3019
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s12311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12311
 [/us/usc/t10/s679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs679
 [/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
-[/us/pl/97/136/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F136%2Fs6%2Fa%2F1
+[/us/pl/97/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F136
 [/us/usc/t10/s679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs679
-[/us/pl/97/136/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F136%2Fs6%2Fa%2F2
-[/us/pl/97/136/s6/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F136%2Fs6%2Fa%2F3
+[/us/pl/97/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F136
+[/us/pl/97/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F136
 [/us/pl/93/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F174
 [/us/pl/91/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

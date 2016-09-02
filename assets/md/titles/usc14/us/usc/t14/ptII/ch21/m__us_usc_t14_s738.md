@@ -21,7 +21,7 @@
 
     (c) An officer whose name is removed from a list of selectees under subsection (a) or (b) continues to be eligible for consideration for promotion. If selected for promotion by the next selection board and promoted, that officer shall be assigned the date of rank and precedence that would have been assigned if the officer’s name had not been previously removed. However, if the officer is not selected by the next selection board, or if the officer’s name is again removed from the list of selectees, the officer shall be considered for all purposes as having twice failed of selection for promotion.
 
-(Added [Pub. L. 96–322, § 1][/us/pl/96/322/s1], Aug. 4, 1980, [94 Stat. 1013][/us/stat/94/1013].)
+(Added [Pub. L. 96–322][/us/pl/96/322], § 1, Aug. 4, 1980, [94 Stat. 1013][/us/stat/94/1013].)
 
  __Prior Provisions__ 
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t14/s729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs729
 [/us/usc/t14/s729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs729
-[/us/pl/96/322/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322%2Fs1
+[/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
 [/us/stat/94/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1013
 [/us/usc/t14/s788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs788
 [/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322

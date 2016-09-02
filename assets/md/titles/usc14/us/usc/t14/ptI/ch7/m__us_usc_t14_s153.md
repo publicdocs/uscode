@@ -17,7 +17,7 @@
 
     The Secretary may appoint civilian employees of the department in which the Coast Guard is operating as appellate military judges, available for assignment to the Coast Guard Court of Criminal Appeals as provided for in [section 866(a) of title 10][/us/usc/t10/s866/a].
 
-(Added [Pub. L. 111–281, title II, § 201(a)][/us/pl/111/281/s201/a], Oct. 15, 2010, [124 Stat. 2909][/us/stat/124/2909].)
+(Added [Pub. L. 111–281, title II][/us/pl/111/281/tII], § 201(a), Oct. 15, 2010, [124 Stat. 2909][/us/stat/124/2909].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t10/s866/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs866%2Fa
-[/us/pl/111/281/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs201%2Fa
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2909
 
 

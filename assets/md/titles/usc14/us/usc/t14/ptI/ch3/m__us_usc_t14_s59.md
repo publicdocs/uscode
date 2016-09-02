@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch3/m__us_usc_t14_s58.md) | [Next](./../../../../..//us/usc/t14/ptI/ch5/m__us_usc_t14_ptI_ch5.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs59)
+[Previous](./../../../../..//us/usc/t14/ptI/ch3/m__us_usc_t14_s58.md) | [Next](./../../../../..//us/usc/t14/ptI/ch3/m__us_usc_t14_s60.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs59)
 
 ## § 59. Marine industry training program
 
@@ -29,7 +29,7 @@
 
     (2) shall require the Commandant, before approving the assignment of an officer, member, or employee of the Coast Guard to a private entity, to determine that the assignment is an effective use of the Coast Guard’s funds, taking into account the best interests of the Coast Guard and the costs and benefits of alternative methods of achieving the same results and objectives.
 
-(Added [Pub. L. 111–281, title V, § 521(a)][/us/pl/111/281/s521/a], Oct. 15, 2010, [124 Stat. 2956][/us/stat/124/2956]; amended [Pub. L. 113–281, title II, § 221(a)(1)][/us/pl/113/281/s221/a/1], Dec. 18, 2014, [128 Stat. 3037][/us/stat/128/3037].)
+(Added [Pub. L. 111–281, title V][/us/pl/111/281/tV], § 521(a), Oct. 15, 2010, [124 Stat. 2956][/us/stat/124/2956]; amended [Pub. L. 113–281, title II][/us/pl/113/281/tII], § 221(a)(1), Dec. 18, 2014, [128 Stat. 3037][/us/stat/128/3037].)
 
  __Amendments__ 
 
@@ -41,14 +41,14 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch3/m__us_usc_t14_s58.md) | [Next](./../../../../..//us/usc/t14/ptI/ch5/m__us_usc_t14_ptI_ch5.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs59)
+[Previous](./../../../../..//us/usc/t14/ptI/ch3/m__us_usc_t14_s58.md) | [Next](./../../../../..//us/usc/t14/ptI/ch3/m__us_usc_t14_s60.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs59)
 
 ----------
 ----------
 
-[/us/pl/111/281/s521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs521%2Fa
+[/us/pl/111/281/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtV
 [/us/stat/124/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2956
-[/us/pl/113/281/s221/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs221%2Fa%2F1
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3037
 [/us/pl/113/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105

@@ -19,7 +19,7 @@
 
     (b) Aviation cadets who complete their training at approximately the same time are considered for all purposes to have begun their commissioned service on the same date, and the decision of the Secretary in this regard is conclusive.
 
-(Added [Pub. L. 89–444, § 1(20)][/us/pl/89/444/s1/20], June 9, 1966, [80 Stat. 197][/us/stat/80/197]; amended [Pub. L. 94–546, § 1(28)][/us/pl/94/546/s1/28], Oct. 18, 1976, [90 Stat. 2521][/us/stat/90/2521].)
+(Added [Pub. L. 89–444][/us/pl/89/444], § 1(20), June 9, 1966, [80 Stat. 197][/us/stat/80/197]; amended [Pub. L. 94–546][/us/pl/94/546], § 1(28), Oct. 18, 1976, [90 Stat. 2521][/us/stat/90/2521].)
 
  __Amendments__ 
 
@@ -33,9 +33,9 @@
 ----------
 
 [/us/usc/t10/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2003
-[/us/pl/89/444/s1/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444%2Fs1%2F20
+[/us/pl/89/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444
 [/us/stat/80/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F197
-[/us/pl/94/546/s1/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F28
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/stat/90/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2521
 [/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/usc/t10/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2003

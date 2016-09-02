@@ -67,7 +67,7 @@
 
  __Amendments__ 
 
-    [Pub. L. 112–213, title II, § 217(1)][/us/pl/112/213/s217/1], Dec. 20, 2012, [126 Stat. 1555][/us/stat/126/1555], amended analysis generally, substituting items 1 to 4 for former items 1 “Establishment of Coast Guard”, 2 “Primary duties”, 3 “Relationship to Navy Department”, 4 “Operation as a service in the Navy”, and 5 “ ‘Secretary’ defined”.
+    [Pub. L. 112–213, title II][/us/pl/112/213/tII], § 217(1), Dec. 20, 2012, [126 Stat. 1555][/us/stat/126/1555], amended analysis generally, substituting items 1 to 4 for former items 1 “Establishment of Coast Guard”, 2 “Primary duties”, 3 “Relationship to Navy Department”, 4 “Operation as a service in the Navy”, and 5 “ ‘Secretary’ defined”.
 
 ----------
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/112/213/s217/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs217%2F1
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1555
 
 

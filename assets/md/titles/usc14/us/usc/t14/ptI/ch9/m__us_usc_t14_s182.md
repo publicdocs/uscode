@@ -67,11 +67,11 @@
 
     (g) A cadet or former cadet who does not fulfill the terms of the obligation to serve as specified under section (b), or the alternative obligation imposed under subsection (c), shall be subject to the repayment provisions of [section 303a(e) of title 37][/us/usc/t37/s303a/e].
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 508][/us/stat/63/508]; [Pub. L. 88–276, § 5(b)][/us/pl/88/276/s5/b], Mar. 3, 1964, [78 Stat. 153][/us/stat/78/153]; [Pub. L. 89–444, § 1(8)][/us/pl/89/444/s1/8], June 9, 1966, [80 Stat. 195][/us/stat/80/195]; [Pub. L. 91–278, § 1(4)][/us/pl/91/278/s1/4], June 12, 1970, [84 Stat. 304][/us/stat/84/304]; [Pub. L. 94–572, § 1][/us/pl/94/572/s1], Oct. 21, 1976, [90 Stat. 2708][/us/stat/90/2708]; [Pub. L. 97–295, § 2(8)][/us/pl/97/295/s2/8], Oct. 12, 1982, [96 Stat. 1302][/us/stat/96/1302]; [Pub. L. 100–448, § 12][/us/pl/100/448/s12], Sept. 28, 1988, [102 Stat. 1843][/us/stat/102/1843]; [Pub. L. 109–163, div. A, title VI, § 687(d)][/us/pl/109/163/s687/d], Jan. 6, 2006, [119 Stat. 3336][/us/stat/119/3336]; [Pub. L. 111–281, title IX, § 903(b)(4)][/us/pl/111/281/s903/b/4], Oct. 15, 2010, [124 Stat. 3011][/us/stat/124/3011].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 508][/us/stat/63/508]; [Pub. L. 88–276][/us/pl/88/276], § 5(b), Mar. 3, 1964, [78 Stat. 153][/us/stat/78/153]; [Pub. L. 89–444][/us/pl/89/444], § 1(8), June 9, 1966, [80 Stat. 195][/us/stat/80/195]; [Pub. L. 91–278][/us/pl/91/278], § 1(4), June 12, 1970, [84 Stat. 304][/us/stat/84/304]; [Pub. L. 94–572][/us/pl/94/572], § 1, Oct. 21, 1976, [90 Stat. 2708][/us/stat/90/2708]; [Pub. L. 97–295][/us/pl/97/295], § 2(8), Oct. 12, 1982, [96 Stat. 1302][/us/stat/96/1302]; [Pub. L. 100–448][/us/pl/100/448], § 12, Sept. 28, 1988, [102 Stat. 1843][/us/stat/102/1843]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 687(d), Jan. 6, 2006, [119 Stat. 3336][/us/stat/119/3336]; [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 903(b)(4), Oct. 15, 2010, [124 Stat. 3011][/us/stat/124/3011].)
 
  __Historical and Revision Notes__ 
 
-    Based on the proviso under the heading “Revenue Cutter Service” of [act Feb. 25, 1903, ch. 755][/us/act/1903-02-25/ch755], [32 Stat. 869][/us/stat/32/869], and on title 14, U.S.C., 1946 ed., §§ 15, 15a–1, 25 ([June 23, 1906, ch. 3520, § 2][/us/act/1906-06-23/ch3520/s2], [34 Stat. 452][/us/stat/34/452]; [Jan. 28, 1915, ch. 20, § 1][/us/act/1915-01-28/ch20/s1], [38 Stat. 800][/us/stat/38/800]; [July 3, 1926, ch. 742, § 6][/us/act/1926-07-03/ch742/s6], [44 Stat. 816][/us/stat/44/816]; [July 30, 1937, ch. 545, § 5][/us/act/1937-07-30/ch545/s5], [50 Stat. 549][/us/stat/50/549]; [May 25, 1943, ch. 99][/us/act/1943-05-25/ch99], [57 Stat. 84][/us/stat/57/84]).
+    Based on the proviso under the heading “Revenue Cutter Service” of [act Feb. 25, 1903, ch. 755][/us/act/1903-02-25/ch755], [32 Stat. 869][/us/stat/32/869], and on title 14, U.S.C., 1946 ed., §§ 15, 15a–1, 25 ([June 23, 1906, ch. 3520][/us/act/1906-06-23/ch3520], § 2, [34 Stat. 452][/us/stat/34/452]; [Jan. 28, 1915, ch. 20][/us/act/1915-01-28/ch20], § 1, [38 Stat. 800][/us/stat/38/800]; [July 3, 1926, ch. 742][/us/act/1926-07-03/ch742], § 6, [44 Stat. 816][/us/stat/44/816]; [July 30, 1937, ch. 545][/us/act/1937-07-30/ch545], § 5, [50 Stat. 549][/us/stat/50/549]; [May 25, 1943, ch. 99][/us/act/1943-05-25/ch99], [57 Stat. 84][/us/stat/57/84]).
 
     [Section 15 of title 14][/us/usc/t14/s15], U.S.C., 1946 ed., has been divided. That part dealing with clothing allowance for cadets is placed in [section 183 of this title][/us/usc/t14/s183] and the other parts are incorporated with the proviso of title 14, U.S.C., 1946 ed., § 15a–1 to form this section.
 
@@ -87,9 +87,9 @@
 
     2006—Subsec. (g). [Pub. L. 109–163][/us/pl/109/163] added subsec. (g).
 
-    1988—Subsec. (a). [Pub. L. 100–448, § 12(1)][/us/pl/100/448/s12/1], struck out before last sentence “Previous to his admission each cadet shall obligate himself, in such manner as the Secretary shall prescribe, to complete the course of instruction at the Coast Guard Academy and to serve at least five years as an officer in the Coast Guard after graduation, if his service be so long required.”
+    1988—Subsec. (a). [Pub. L. 100–448][/us/pl/100/448], § 12(1), struck out before last sentence “Previous to his admission each cadet shall obligate himself, in such manner as the Secretary shall prescribe, to complete the course of instruction at the Coast Guard Academy and to serve at least five years as an officer in the Coast Guard after graduation, if his service be so long required.”
 
-    Subsecs. (b) to (f). [Pub. L. 100–448, § 12(2)][/us/pl/100/448/s12/2], added subsecs. (b) to (f) and struck out former subsec. (b) which read as follows: “A cadet who does not fulfill his obligation to complete the course of instruction or refuses to accept an appointment as an officer in the Coast Guard may be transferred by the Secretary to the Coast Guard Reserve in an appropriate enlisted grade or rating, and, notwithstanding [section 651 of title 10][/us/usc/t10/s651], may be ordered to active duty to serve in that grade or rating for such period of time as the Secretary prescribes, but not for more than four years.”
+    Subsecs. (b) to (f). [Pub. L. 100–448][/us/pl/100/448], § 12(2), added subsecs. (b) to (f) and struck out former subsec. (b) which read as follows: “A cadet who does not fulfill his obligation to complete the course of instruction or refuses to accept an appointment as an officer in the Coast Guard may be transferred by the Secretary to the Coast Guard Reserve in an appropriate enlisted grade or rating, and, notwithstanding [section 651 of title 10][/us/usc/t10/s651], may be ordered to active duty to serve in that grade or rating for such period of time as the Secretary prescribes, but not for more than four years.”
 
     1982—Subsec. (b). [Pub. L. 97–295][/us/pl/97/295] struck out “United States Code,” after “title 10,”.
 
@@ -120,31 +120,31 @@
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F508
-[/us/pl/88/276/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F276%2Fs5%2Fb
+[/us/pl/88/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F276
 [/us/stat/78/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F153
-[/us/pl/89/444/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444%2Fs1%2F8
+[/us/pl/89/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444
 [/us/stat/80/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F195
-[/us/pl/91/278/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278%2Fs1%2F4
+[/us/pl/91/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278
 [/us/stat/84/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F304
-[/us/pl/94/572/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F572%2Fs1
+[/us/pl/94/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F572
 [/us/stat/90/2708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2708
-[/us/pl/97/295/s2/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs2%2F8
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1302
-[/us/pl/100/448/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs12
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
 [/us/stat/102/1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1843
-[/us/pl/109/163/s687/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fd
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3336
-[/us/pl/111/281/s903/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs903%2Fb%2F4
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3011
 [/us/act/1903-02-25/ch755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-25%2Fch755
 [/us/stat/32/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F869
-[/us/act/1906-06-23/ch3520/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-23%2Fch3520%2Fs2
+[/us/act/1906-06-23/ch3520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-23%2Fch3520
 [/us/stat/34/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F452
-[/us/act/1915-01-28/ch20/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-28%2Fch20%2Fs1
+[/us/act/1915-01-28/ch20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-28%2Fch20
 [/us/stat/38/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F800
-[/us/act/1926-07-03/ch742/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch742%2Fs6
+[/us/act/1926-07-03/ch742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch742
 [/us/stat/44/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F816
-[/us/act/1937-07-30/ch545/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-30%2Fch545%2Fs5
+[/us/act/1937-07-30/ch545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-30%2Fch545
 [/us/stat/50/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F549
 [/us/act/1943-05-25/ch99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-05-25%2Fch99
 [/us/stat/57/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F84
@@ -154,8 +154,8 @@
 [/us/usc/t14/s185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs185
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/100/448/s12/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs12%2F1
-[/us/pl/100/448/s12/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs12%2F2
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
 [/us/usc/t10/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs651
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/pl/94/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F572

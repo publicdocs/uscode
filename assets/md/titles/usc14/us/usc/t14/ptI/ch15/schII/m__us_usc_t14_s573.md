@@ -79,7 +79,7 @@
 
             The Commandant shall cause each cutter, other than a National Security Cutter, acquired by the Coast Guard and delivered after the date of enactment of the Coast Guard Authorization Act of 2010 to be classed by the American Bureau of Shipping before final acceptance.
 
-            \[(B) Repealed. [Pub. L. 112–213, title II, § 210(c)(2)(B)][/us/pl/112/213/s210/c/2/B], Dec. 20, 2012, [126 Stat. 1551][/us/stat/126/1551].\]
+            \[(B) Repealed. [Pub. L. 112–213, title II][/us/pl/112/213/tII], § 210(c)(2)(B), Dec. 20, 2012, [126 Stat. 1551][/us/stat/126/1551].\]
 
         (4)  __Other vessels__  __.—__ 
 
@@ -89,9 +89,11 @@
 
         The Commandant shall cause all aircraft and aircraft engines acquired by the Coast Guard and delivered after the date of enactment of the Coast Guard Authorization Act of 2010 to be assessed for airworthiness by an independent third party with expertise in aircraft and aircraft engine certification before final acceptance.
 
-(Added [Pub. L. 111–281, title IV, § 402(a)][/us/pl/111/281/s402/a], Oct. 15, 2010, [124 Stat. 2944][/us/stat/124/2944]; amended [Pub. L. 112–213, title II, § 210(c)(2)(B)][/us/pl/112/213/s210/c/2/B], Dec. 20, 2012, [126 Stat. 1551][/us/stat/126/1551].)
+(Added [Pub. L. 111–281, title IV][/us/pl/111/281/tIV], § 402(a), Oct. 15, 2010, [124 Stat. 2944][/us/stat/124/2944]; amended [Pub. L. 112–213, title II][/us/pl/112/213/tII], § 210(c)(2)(B), Dec. 20, 2012, [126 Stat. 1551][/us/stat/126/1551].)
 
  __References in Text__ 
+
+    Section 572(d)(1), referred to in subsec. (b)(1), was redesignated [section 572(f)(1) of this title][/us/usc/t14/s572/f/1] by [Pub. L. 114–120, title II][/us/pl/114/120/tII], § 204(a)(1), Feb. 8, 2016, [130 Stat. 34][/us/stat/130/34].
 
     The date of enactment of the Coast Guard Authorization Act of 2010, referred to in subsec. (c)(2)(A), (3)(A), (5), is the date of enactment of [Pub. L. 111–281][/us/pl/111/281], which was approved Oct. 15, 2010.
 
@@ -105,7 +107,7 @@
 
  __National Security Cutters__ 
 
-[Pub. L. 112–213, title II, § 221][/us/pl/112/213/s221], Dec. 20, 2012, [126 Stat. 1559][/us/stat/126/1559], provided that:
+[Pub. L. 112–213, title II][/us/pl/112/213/tII], § 221, Dec. 20, 2012, [126 Stat. 1559][/us/stat/126/1559], provided that:
 
 >     “(a) __In General.—__ 
 
@@ -152,19 +154,22 @@
 ----------
 ----------
 
-[/us/pl/112/213/s210/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs210%2Fc%2F2%2FB
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1551
-[/us/pl/111/281/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs402%2Fa
+[/us/pl/111/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIV
 [/us/stat/124/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2944
-[/us/pl/112/213/s210/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs210%2Fc%2F2%2FB
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1551
+[/us/usc/t14/s572/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs572%2Ff%2F1
+[/us/pl/114/120/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtII
+[/us/stat/130/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F34
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F543
 [/us/act/1950-05-05/ch169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-05%2Fch169
 [/us/stat/64/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F145
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
-[/us/pl/112/213/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs221
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1559
 [/us/usc/t10/s2306b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306b
 [/us/usc/t10/s2306b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306b%2Fa

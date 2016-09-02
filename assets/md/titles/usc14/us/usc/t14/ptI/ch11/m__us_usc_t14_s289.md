@@ -31,7 +31,7 @@
 
     (h) Notwithstanding subsection (g) and [section 288 of this title][/us/usc/t14/s288], the Commandant may by annual action retain on active duty from promotion year to promotion year any officer who would otherwise be retired under subsection (g) or [section 288 of this title][/us/usc/t14/s288]. An officer so retained, unless retired under some other provision of law, shall be retired on June 30 of that promotion year in which no action is taken to further retain the officer under this subsection.
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 186][/us/stat/77/186]; amended [Pub. L. 94–546, § 1(26)][/us/pl/94/546/s1/26], Oct. 18, 1976, [90 Stat. 2521][/us/stat/90/2521]; [Pub. L. 97–417, § 2(8)][/us/pl/97/417/s2/8], Jan. 4, 1983, [96 Stat. 2085][/us/stat/96/2085]; [Pub. L. 99–145, title V, § 514(c)(1)][/us/pl/99/145/s514/c/1], Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629]; [Pub. L. 101–225, title II, § 203(3)][/us/pl/101/225/s203/3], Dec. 12, 1989, [103 Stat. 1911][/us/stat/103/1911]; [Pub. L. 104–324, title II, § 203][/us/pl/104/324/s203], Oct. 19, 1996, [110 Stat. 3907][/us/stat/110/3907]; [Pub. L. 107–295, title IV, § 414][/us/pl/107/295/s414], Nov. 25, 2002, [116 Stat. 2120][/us/stat/116/2120].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 186][/us/stat/77/186]; amended [Pub. L. 94–546][/us/pl/94/546], § 1(26), Oct. 18, 1976, [90 Stat. 2521][/us/stat/90/2521]; [Pub. L. 97–417][/us/pl/97/417], § 2(8), Jan. 4, 1983, [96 Stat. 2085][/us/stat/96/2085]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 514(c)(1), Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629]; [Pub. L. 101–225, title II][/us/pl/101/225/tII], § 203(3), Dec. 12, 1989, [103 Stat. 1911][/us/stat/103/1911]; [Pub. L. 104–324, title II][/us/pl/104/324/tII], § 203, Oct. 19, 1996, [110 Stat. 3907][/us/stat/110/3907]; [Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 414, Nov. 25, 2002, [116 Stat. 2120][/us/stat/116/2120].)
 
  __Amendments__ 
 
@@ -49,13 +49,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 88–130, § 6][/us/pl/88/130/s6], Sept. 24, 1963, [77 Stat. 193][/us/stat/77/193], provided that: 
+[Pub. L. 88–130][/us/pl/88/130], § 6, Sept. 24, 1963, [77 Stat. 193][/us/stat/77/193], provided that: 
 
 > “[Section 289 of title 14][/us/usc/t14/s289], United States Code, as enacted by section 1(10)(C) of this Act \[see [section 5(a) of Pub. L. 88–130][/us/pl/88/130/s5/a], set out as a note under [section 211 of this title][/us/usc/t14/s211]\], becomes effective three years after the effective date of this Act \[Sept. 24, 1963\], or on July 1, 1966, whichever is later.”
 
  __Consideration for Retention on Active Duty Under Former Section 248 of This Title__ 
 
-[Pub. L. 88–130, § 2(c)][/us/pl/88/130/s2/c], Sept. 24, 1963, [77 Stat. 191][/us/stat/77/191], provided that: 
+[Pub. L. 88–130][/us/pl/88/130], § 2(c), Sept. 24, 1963, [77 Stat. 191][/us/stat/77/191], provided that: 
 
 > “Officers who, prior to the effective date of this Act \[Sept. 24, 1963\], were considered but not selected for retention on active duty under the provisions of section 248, title 14, United States Code, shall remain subject to the provisions of subsections (b) and (c) of that section.”
 
@@ -73,19 +73,19 @@
 [/us/usc/t14/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs288
 [/us/usc/t14/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs288
 [/us/usc/t14/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs288
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F186
-[/us/pl/94/546/s1/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546%2Fs1%2F26
+[/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
 [/us/stat/90/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2521
-[/us/pl/97/417/s2/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417%2Fs2%2F8
+[/us/pl/97/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417
 [/us/stat/96/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2085
-[/us/pl/99/145/s514/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fc%2F1
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F629
-[/us/pl/101/225/s203/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs203%2F3
+[/us/pl/101/225/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtII
 [/us/stat/103/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1911
-[/us/pl/104/324/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs203
+[/us/pl/104/324/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtII
 [/us/stat/110/3907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3907
-[/us/pl/107/295/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs414
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2120
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
@@ -93,12 +93,12 @@
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/97/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417
 [/us/pl/94/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F546
-[/us/pl/88/130/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs6
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F193
 [/us/usc/t14/s289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs289
 [/us/pl/88/130/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs5%2Fa
 [/us/usc/t14/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs211
-[/us/pl/88/130/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs2%2Fc
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F191
 [/us/pl/88/130/s5/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs5%2Fg
 [/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130

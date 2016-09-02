@@ -21,7 +21,7 @@
 
     (c) In time of war, or of national emergency declared by the President or Congress, the President may, under regulations to be prescribed by him, promote to the next higher warrant officer grade any warrant officer serving on active duty in a grade below chief warrant officer, W–4.
 
-    \[(d) Repealed. [Pub. L. 97–417, § 2(6)][/us/pl/97/417/s2/6], Jan. 4, 1983, [96 Stat. 2085][/us/stat/96/2085].\]
+    \[(d) Repealed. [Pub. L. 97–417][/us/pl/97/417], § 2(6), Jan. 4, 1983, [96 Stat. 2085][/us/stat/96/2085].\]
 
     (e) A promotion under this section to a grade above lieutenant may be made only upon the recommendation of a board of officers convened for that purpose.
 
@@ -33,7 +33,7 @@
 
     (i) Not later than six months after the end of the war or national emergency the President shall, under such regulations as he may prescribe, reestablish the active duty promotion list with adjustments and additions appropriate to the conditions of original appointment and wartime service of all officers to be included thereon. The President may, by and with the advice and consent of the Senate, appoint officers on the reestablished active duty promotion list to fill vacancies in the authorized active duty strength of each grade. Such appointments shall be considered to have been made under [section 271 of this title][/us/usc/t14/s271].
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 182][/us/stat/77/182]; amended [Pub. L. 92–129, title VI, § 605][/us/pl/92/129/s605], Sept. 28, 1971, [85 Stat. 362][/us/stat/85/362]; [Pub. L. 97–417, § 2(6)][/us/pl/97/417/s2/6], Jan. 4, 1983, [96 Stat. 2085][/us/stat/96/2085]; [Pub. L. 109–241, title II, § 217(b)][/us/pl/109/241/s217/b], July 11, 2006, [120 Stat. 526][/us/stat/120/526].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 182][/us/stat/77/182]; amended [Pub. L. 92–129, title VI][/us/pl/92/129/tVI], § 605, Sept. 28, 1971, [85 Stat. 362][/us/stat/85/362]; [Pub. L. 97–417][/us/pl/97/417], § 2(6), Jan. 4, 1983, [96 Stat. 2085][/us/stat/96/2085]; [Pub. L. 109–241, title II][/us/pl/109/241/tII], § 217(b), July 11, 2006, [120 Stat. 526][/us/stat/120/526].)
 
  __Amendments__ 
 
@@ -54,16 +54,16 @@
 ----------
 ----------
 
-[/us/pl/97/417/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417%2Fs2%2F6
+[/us/pl/97/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417
 [/us/stat/96/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2085
 [/us/usc/t14/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs271
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F182
-[/us/pl/92/129/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs605
+[/us/pl/92/129/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2FtVI
 [/us/stat/85/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F362
-[/us/pl/97/417/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417%2Fs2%2F6
+[/us/pl/97/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417
 [/us/stat/96/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2085
-[/us/pl/109/241/s217/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs217%2Fb
+[/us/pl/109/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtII
 [/us/stat/120/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F526
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/97/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417

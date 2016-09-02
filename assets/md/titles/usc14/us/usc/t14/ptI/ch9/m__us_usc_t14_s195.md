@@ -29,13 +29,13 @@
 
         (2) subject to those regulations applicable to the Academy governing admission, attendance, discipline, resignation, discharge, dismissal, and graduation, except as may otherwise be prescribed by the Secretary.
 
-(Added [Pub. L. 91–278, § 1(6)][/us/pl/91/278/s1/6], June 12, 1970, [84 Stat. 304][/us/stat/84/304]; amended [Pub. L. 94–468][/us/pl/94/468], Oct. 11, 1976, [90 Stat. 2002][/us/stat/90/2002]; [Pub. L. 112–213, title II, § 204][/us/pl/112/213/s204], Dec. 20, 2012, [126 Stat. 1543][/us/stat/126/1543].)
+(Added [Pub. L. 91–278][/us/pl/91/278], § 1(6), June 12, 1970, [84 Stat. 304][/us/stat/84/304]; amended [Pub. L. 94–468][/us/pl/94/468], Oct. 11, 1976, [90 Stat. 2002][/us/stat/90/2002]; [Pub. L. 112–213, title II][/us/pl/112/213/tII], § 204, Dec. 20, 2012, [126 Stat. 1543][/us/stat/126/1543].)
 
  __Amendments__ 
 
     2012—Subsec. (c). [Pub. L. 112–213][/us/pl/112/213] substituted “foreign national” for “person” in two places and “pay, allowances, and emoluments” for “pay and allowances” in two places.
 
-    Subsec. (d). [Pub. L. 112–213, § 204(1)][/us/pl/112/213/s204/1], substituted “foreign national” for “person” in introductory provisions.
+    Subsec. (d). [Pub. L. 112–213][/us/pl/112/213], § 204(1), substituted “foreign national” for “person” in introductory provisions.
 
     1976—[Pub. L. 94–468][/us/pl/94/468] substituted “foreign nationals” for “foreigners” in section catchline.
 
@@ -55,14 +55,14 @@
 ----------
 
 [/us/usc/t14/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs182
-[/us/pl/91/278/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278%2Fs1%2F6
+[/us/pl/91/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278
 [/us/stat/84/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F304
 [/us/pl/94/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F468
 [/us/stat/90/2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2002
-[/us/pl/112/213/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs204
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1543
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
-[/us/pl/112/213/s204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs204%2F1
+[/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 [/us/pl/94/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F468
 [/us/pl/94/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F468
 [/us/pl/94/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F468

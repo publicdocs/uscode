@@ -25,7 +25,7 @@
 
     (e) The Secretary shall adjust the date of rank of a Reserve officer so that no changes of precedence occur.
 
-(Added [Pub. L. 96–322, § 1][/us/pl/96/322/s1], Aug. 4, 1980, [94 Stat. 1008][/us/stat/94/1008]; amended [Pub. L. 108–293, title II, § 220(a)][/us/pl/108/293/s220/a], Aug. 9, 2004, [118 Stat. 1039][/us/stat/118/1039].)
+(Added [Pub. L. 96–322][/us/pl/96/322], § 1, Aug. 4, 1980, [94 Stat. 1008][/us/stat/94/1008]; amended [Pub. L. 108–293, title II][/us/pl/108/293/tII], § 220(a), Aug. 9, 2004, [118 Stat. 1039][/us/stat/118/1039].)
 
  __Prior Provisions__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/96/322/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322%2Fs1
+[/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
 [/us/stat/94/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1008
-[/us/pl/108/293/s220/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs220%2Fa
+[/us/pl/108/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtII
 [/us/stat/118/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1039
 [/us/usc/t14/s781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs781
 [/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322

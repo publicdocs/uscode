@@ -29,11 +29,11 @@
 
     (c) If a claim under this section is settled or compromised for more than $100,000, the Secretary shall certify it to Congress.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 548][/us/stat/63/548]; [Pub. L. 86–533, § 1(3)(A)][/us/pl/86/533/s1/3/A], June 29, 1960, [74 Stat. 245][/us/stat/74/245]; [Pub. L. 92–417, § 2(a)][/us/pl/92/417/s2/a], Aug. 29, 1972, [86 Stat. 655][/us/stat/86/655].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 548][/us/stat/63/548]; [Pub. L. 86–533][/us/pl/86/533], § 1(3)(A), June 29, 1960, [74 Stat. 245][/us/stat/74/245]; [Pub. L. 92–417][/us/pl/92/417], § 2(a), Aug. 29, 1972, [86 Stat. 655][/us/stat/86/655].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 14, U.S.C., 1946 ed., § 71 ([June 15, 1936, ch. 550][/us/act/1936-06-15/ch550], [49 Stat. 1514][/us/stat/49/1514]; [July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 711, [58 Stat. 714][/us/stat/58/714]; [Aug. 13, 1946, ch. 958, § 5][/us/act/1946-08-13/ch958/s5], [60 Stat. 1051][/us/stat/60/1051]).
+    Based on title 14, U.S.C., 1946 ed., § 71 ([June 15, 1936, ch. 550][/us/act/1936-06-15/ch550], [49 Stat. 1514][/us/stat/49/1514]; [July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VII, § 711, [58 Stat. 714][/us/stat/58/714]; [Aug. 13, 1946, ch. 958][/us/act/1946-08-13/ch958], § 5, [60 Stat. 1051][/us/stat/60/1051]).
 
     This section closely parallels title 46, U.S.C., 1946 ed., §§ 797, 798, which authorizes the Secretary of the Navy to negotiate amicable settlement of claims against the United States arising out of the operation of Naval vessels. It grants similar authority to the Secretary of the Treasury in relation to vessels in the Coast Guard service, and the limiting amount is reduced from $1,000,000 to $25,000. It is believed that this section will work to the benefit of the Government by reducing civil litigation and the number of claims which must presently be certified to Congress for appropriations in order to make settlement. It will greatly expedite the settlement of just claims and should result in a considerable overall savings to the Government. 81st Congress, House Report No. 557.
 
@@ -56,15 +56,15 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F548
-[/us/pl/86/533/s1/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F533%2Fs1%2F3%2FA
+[/us/pl/86/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F533
 [/us/stat/74/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F245
-[/us/pl/92/417/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F417%2Fs2%2Fa
+[/us/pl/92/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F417
 [/us/stat/86/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F655
 [/us/act/1936-06-15/ch550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch550
 [/us/stat/49/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1514
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F714
-[/us/act/1946-08-13/ch958/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958%2Fs5
+[/us/act/1946-08-13/ch958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958
 [/us/stat/60/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1051
 [/us/pl/92/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F417
 [/us/pl/92/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F417

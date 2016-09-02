@@ -35,7 +35,7 @@
 
     (d) For the purpose of this section, the total commissioned service of an officer who has served continuously in the Reserve following appointment in the grade of ensign shall be computed from the date on which that appointment to the Reserve was accepted. A Reserve officer initially appointed in a grade above ensign is considered to have the actual total commissioned service performed in a grade above commissioned warrant officer or the same total commissioned service as an officer of the Regular Coast Guard who has served continuously from an original appointment as ensign, who has not lost numbers or precedence, and who is, or was, junior to the Reserve officer, whichever is greater.
 
-(Added [Pub. L. 96–322, § 1][/us/pl/96/322/s1], Aug. 4, 1980, [94 Stat. 1013][/us/stat/94/1013]; amended [Pub. L. 97–417, § 2(15)][/us/pl/97/417/s2/15], Jan. 4, 1983, [96 Stat. 2086][/us/stat/96/2086]; [Pub. L. 99–145, title V, § 514(c)(1)][/us/pl/99/145/s514/c/1], Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629]; [Pub. L. 103–337, div. A, title XVI, § 1677(b)(5)][/us/pl/103/337/s1677/b/5], Oct. 5, 1994, [108 Stat. 3020][/us/stat/108/3020]; [Pub. L. 112–213, title II, § 217(14)][/us/pl/112/213/s217/14], Dec. 20, 2012, [126 Stat. 1558][/us/stat/126/1558].)
+(Added [Pub. L. 96–322][/us/pl/96/322], § 1, Aug. 4, 1980, [94 Stat. 1013][/us/stat/94/1013]; amended [Pub. L. 97–417][/us/pl/97/417], § 2(15), Jan. 4, 1983, [96 Stat. 2086][/us/stat/96/2086]; [Pub. L. 99–145, title V][/us/pl/99/145/tV], § 514(c)(1), Nov. 8, 1985, [99 Stat. 629][/us/stat/99/629]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1677(b)(5), Oct. 5, 1994, [108 Stat. 3020][/us/stat/108/3020]; [Pub. L. 112–213, title II][/us/pl/112/213/tII], § 217(14), Dec. 20, 2012, [126 Stat. 1558][/us/stat/126/1558].)
 
  __Prior Provisions__ 
 
@@ -63,15 +63,15 @@
 ----------
 
 [/us/usc/t10/s12646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12646
-[/us/pl/96/322/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322%2Fs1
+[/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
 [/us/stat/94/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1013
-[/us/pl/97/417/s2/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417%2Fs2%2F15
+[/us/pl/97/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417
 [/us/stat/96/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2086
-[/us/pl/99/145/s514/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs514%2Fc%2F1
+[/us/pl/99/145/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtV
 [/us/stat/99/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F629
-[/us/pl/103/337/s1677/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1677%2Fb%2F5
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3020
-[/us/pl/112/213/s217/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs217%2F14
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1558
 [/us/usc/t14/s787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs787
 [/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322

@@ -17,7 +17,7 @@
 
     The Commandant may expend for contingencies of the Coast Guard a sum not to exceed $50,000 in any one fiscal year.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 532][/us/stat/63/532]; [Pub. L. 108–293, title II, § 219][/us/pl/108/293/s219], Aug. 9, 2004, [118 Stat. 1039][/us/stat/118/1039].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 532][/us/stat/63/532]; [Pub. L. 108–293, title II][/us/pl/108/293/tII], § 219, Aug. 9, 2004, [118 Stat. 1039][/us/stat/118/1039].)
 
  __Historical and Revision Notes__ 
 
@@ -38,7 +38,7 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F532
-[/us/pl/108/293/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs219
+[/us/pl/108/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtII
 [/us/stat/118/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1039
 [/us/act/1939-04-20/ch75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-04-20%2Fch75
 [/us/stat/53/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F582

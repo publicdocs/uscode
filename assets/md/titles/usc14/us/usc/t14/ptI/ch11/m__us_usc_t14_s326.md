@@ -17,7 +17,7 @@
 
     The Secretary may remove an officer from active duty if his removal is recommended by a board of review under [section 323 of this title][/us/usc/t14/s323]. The Secretary’s action in such as case is final and conclusive.
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 189][/us/stat/77/189].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 189][/us/stat/77/189].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t14/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs323
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F189
 
 

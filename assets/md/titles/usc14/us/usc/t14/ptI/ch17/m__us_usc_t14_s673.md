@@ -43,7 +43,7 @@
 
         (2) A designation of a deputy disbursing official under subsection (a) that is made while the Coast Guard is not operating as a service in the Navy continues in effect for purposes of [section 2773 of title 10][/us/usc/t10/s2773] while the Coast Guard operates as a service in the Navy unless and until the designation is terminated by the disbursing official who made the designation or an official authorized to approve such a designation under subsection (a)(3) of such section.
 
-(Added [Pub. L. 104–201, div. A, title X, § 1009(a)(2)(A)][/us/pl/104/201/s1009/a/2/A], Sept. 23, 1996, [110 Stat. 2634][/us/stat/110/2634]; amended [Pub. L. 107–296, title XVII, § 1704(a)][/us/pl/107/296/s1704/a], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 112–213, title II, § 217(11)][/us/pl/112/213/s217/11], Dec. 20, 2012, [126 Stat. 1558][/us/stat/126/1558].)
+(Added [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1009(a)(2)(A), Sept. 23, 1996, [110 Stat. 2634][/us/stat/110/2634]; amended [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(a), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 112–213, title II][/us/pl/112/213/tII], § 217(11), Dec. 20, 2012, [126 Stat. 1558][/us/stat/126/1558].)
 
  __Codification__ 
 
@@ -68,11 +68,11 @@
 
 [/us/usc/t10/s2773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2773
 [/us/usc/t10/s2773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2773
-[/us/pl/104/201/s1009/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1009%2Fa%2F2%2FA
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2634
-[/us/pl/107/296/s1704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fa
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/112/213/s217/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs217%2F11
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1558
 [/us/usc/t14/s674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs674
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213

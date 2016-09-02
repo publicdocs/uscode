@@ -17,7 +17,7 @@
 
     The Coast Guard shall conduct such oceanographic research, use such equipment or instruments, and collect and analyze such oceanographic data, in cooperation with other agencies of the Government, or not, as may be in the national interest.
 
-(Added [Pub. L. 87–396, § 1][/us/pl/87/396/s1], Oct. 5, 1961, [75 Stat. 827][/us/stat/75/827].)
+(Added [Pub. L. 87–396][/us/pl/87/396], § 1, Oct. 5, 1961, [75 Stat. 827][/us/stat/75/827].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/396/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F396%2Fs1
+[/us/pl/87/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F396
 [/us/stat/75/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F827
 
 

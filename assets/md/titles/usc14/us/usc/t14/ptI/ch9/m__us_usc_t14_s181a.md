@@ -17,7 +17,7 @@
 
     The Secretary is authorized to expend appropriated funds for selective preappointment travel to the Academy for orientation visits of cadet applicants.
 
-(Added [Pub. L. 98–557, § 24(a)][/us/pl/98/557/s24/a], Oct. 30, 1984, [98 Stat. 2872][/us/stat/98/2872].)
+(Added [Pub. L. 98–557][/us/pl/98/557], § 24(a), Oct. 30, 1984, [98 Stat. 2872][/us/stat/98/2872].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/557/s24/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs24%2Fa
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2872
 
 

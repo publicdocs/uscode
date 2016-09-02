@@ -39,7 +39,7 @@
 
     (e) The Secretary shall, by regulation, prescribe a schedule for the allocation of funds made available to carry out this section during any year for which funds are not sufficient to pay the sum of the amounts eligible for repayment under subsection (a).
 
-(Added [Pub. L. 108–293, title II, § 218(a)][/us/pl/108/293/s218/a], Aug. 9, 2004, [118 Stat. 1038][/us/stat/118/1038].)
+(Added [Pub. L. 108–293, title II][/us/pl/108/293/tII], § 218(a), Aug. 9, 2004, [118 Stat. 1038][/us/stat/118/1038].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 472, [act Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 532][/us/stat/63/532], related to travel allowance to enlisted men on discharge, prior to repeal by [act Aug. 3, 1950, ch. 536, § 36][/us/act/1950-08-03/ch536/s36], [64 Stat. 408][/us/stat/64/408]. See [section 474 of Title 37][/us/usc/t37/s474], Pay and Allowances of the Uniformed Services.
+    A prior section 472, [act Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 532][/us/stat/63/532], related to travel allowance to enlisted men on discharge, prior to repeal by [act Aug. 3, 1950, ch. 536][/us/act/1950-08-03/ch536], § 36, [64 Stat. 408][/us/stat/64/408]. See [section 474 of Title 37][/us/usc/t37/s474], Pay and Allowances of the Uniformed Services.
 
 ----------
 
@@ -59,14 +59,14 @@
 [/us/usc/t20/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1071
 [/us/usc/t20/s1087a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087a
 [/us/usc/t20/s1087aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087aa
-[/us/pl/108/293/s218/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs218%2Fa
+[/us/pl/108/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtII
 [/us/stat/118/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1038
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F532
-[/us/act/1950-08-03/ch536/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch536%2Fs36
+[/us/act/1950-08-03/ch536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-03%2Fch536
 [/us/stat/64/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F408
 [/us/usc/t37/s474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs474
 

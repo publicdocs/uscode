@@ -23,7 +23,7 @@
 
     (d) Except as required by this section, the proceedings of a selection board, including a special selection board convened under section 263, shall not be disclosed to any person not a member of the board.
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 181][/us/stat/77/181]; amended [Pub. L. 112–213, title II, § 208(b)][/us/pl/112/213/s208/b], Dec. 20, 2012, [126 Stat. 1549][/us/stat/126/1549].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 181][/us/stat/77/181]; amended [Pub. L. 112–213, title II][/us/pl/112/213/tII], § 208(b), Dec. 20, 2012, [126 Stat. 1549][/us/stat/126/1549].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–213, title II, § 208(e)(1)][/us/pl/112/213/s208/e/1], Dec. 20, 2012, [126 Stat. 1549][/us/stat/126/1549], provided that: 
+[Pub. L. 112–213, title II][/us/pl/112/213/tII], § 208(e)(1), Dec. 20, 2012, [126 Stat. 1549][/us/stat/126/1549], provided that: 
 
 > “The amendments made by this section \[enacting [section 263 of this title][/us/usc/t14/s263] and amending this section and [section 262 of this title][/us/usc/t14/s262]\] shall take effect on the date of enactment of this Act \[Dec. 20, 2012\] and the Secretary may convene a special selection board on or after that date under [section 263 of title 14][/us/usc/t14/s263], United States Code, with respect to any error or other action for which such a board may be convened if that error or other action occurred on or after the date that is 1 year before the date of enactment of this Act.”
 
@@ -44,12 +44,12 @@
 
 [/us/usc/t14/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs251
 [/us/usc/t14/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs251
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F181
-[/us/pl/112/213/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs208%2Fb
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1549
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
-[/us/pl/112/213/s208/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs208%2Fe%2F1
+[/us/pl/112/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2FtII
 [/us/stat/126/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1549
 [/us/usc/t14/s263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs263
 [/us/usc/t14/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs262

@@ -17,7 +17,7 @@
 
     Enlisted members discharged for bad conduct, undesirability, unsuitability, or inaptitude may be furnished civilian clothing, including an overcoat when necessary, the cost of such furnished clothing not to exceed $30, per person.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 533][/us/stat/63/533]; [Pub. L. 98–557, § 15(a)(3)(C)][/us/pl/98/557/s15/a/3/C], Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 533][/us/stat/63/533]; [Pub. L. 98–557][/us/pl/98/557], § 15(a)(3)(C), Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865].)
 
  __Historical and Revision Notes__ 
 
@@ -40,7 +40,7 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F533
-[/us/pl/98/557/s15/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F3%2FC
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2865
 [/us/act/1943-12-23/ch380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-12-23%2Fch380
 [/us/stat/57/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F628

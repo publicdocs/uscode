@@ -27,7 +27,7 @@
 
     (f) A member of the Coast Guard Reserve not on active duty who is enrolled in an officer candidate program authorized by [section 12209 of title 10][/us/usc/t10/s12209] leading to a commission in the Coast Guard Reserve, and is a full-time student in an accredited college curriculum leading to a bachelor’s degree may be paid a subsistence allowance for each month of the member’s academic year at the same rate as that prescribed by [section 209(a) of title 37][/us/usc/t37/s209/a].
 
-(Added [Pub. L. 96–322, § 1][/us/pl/96/322/s1], Aug. 4, 1980, [94 Stat. 1003][/us/stat/94/1003]; amended [Pub. L. 97–417, § 1][/us/pl/97/417/s1], Jan. 4, 1983, [96 Stat. 2085][/us/stat/96/2085]; [Pub. L. 104–106, div. A, title XV, § 1501(e)(1)(A)][/us/pl/104/106/s1501/e/1/A], Feb. 10, 1996, [110 Stat. 501][/us/stat/110/501]; [Pub. L. 109–163, div. A, title V, § 515(c)][/us/pl/109/163/s515/c], Jan. 6, 2006, [119 Stat. 3235][/us/stat/119/3235].)
+(Added [Pub. L. 96–322][/us/pl/96/322], § 1, Aug. 4, 1980, [94 Stat. 1003][/us/stat/94/1003]; amended [Pub. L. 97–417][/us/pl/97/417], § 1, Jan. 4, 1983, [96 Stat. 2085][/us/stat/96/2085]; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(e)(1)(A), Feb. 10, 1996, [110 Stat. 501][/us/stat/110/501]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(c), Jan. 6, 2006, [119 Stat. 3235][/us/stat/119/3235].)
 
  __Prior Provisions__ 
 
@@ -55,13 +55,13 @@
 [/us/usc/t42/s253/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs253%2Fa
 [/us/usc/t10/s12209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12209
 [/us/usc/t37/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs209%2Fa
-[/us/pl/96/322/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322%2Fs1
+[/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322
 [/us/stat/94/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1003
-[/us/pl/97/417/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417%2Fs1
+[/us/pl/97/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F417
 [/us/stat/96/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2085
-[/us/pl/104/106/s1501/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fe%2F1%2FA
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F501
-[/us/pl/109/163/s515/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fc
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3235
 [/us/usc/t14/s755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs755
 [/us/pl/96/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F322

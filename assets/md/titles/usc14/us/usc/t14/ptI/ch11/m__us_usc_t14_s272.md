@@ -21,7 +21,7 @@
 
     (c) An officer whose name is removed from a list under subsection (a) or (b) continues to be eligible for consideration for promotion. If he is selected for promotion by the next selection board and promoted, he shall be given the date of rank and position on the active duty promotion list in the grade to which promoted that he would have held if his name had not been removed. However, if the officer is not selected by the next selection board or if his name is again removed from the list of selectees, he shall be considered for all purposes as having twice failed of selection for promotion.
 
-(Added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 182][/us/stat/77/182].)
+(Added [Pub. L. 88–130][/us/pl/88/130], § 1(10)(C), Sept. 24, 1963, [77 Stat. 182][/us/stat/77/182].)
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t14/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs271
 [/us/usc/t14/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs271
-[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/pl/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130
 [/us/stat/77/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F182
 
 

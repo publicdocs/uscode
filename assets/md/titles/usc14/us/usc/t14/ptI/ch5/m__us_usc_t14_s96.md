@@ -17,7 +17,7 @@
 
     A Coast Guard vessel the home port of which is in the United States or Guam may not be overhauled, repaired, or maintained in a shipyard outside the United States or Guam, other than in the case of voyage repairs.
 
-(Added [Pub. L. 104–324, title III, § 311(a)][/us/pl/104/324/s311/a], Oct. 19, 1996, [110 Stat. 3920][/us/stat/110/3920]; amended [Pub. L. 111–281, title II, § 218][/us/pl/111/281/s218], Oct. 15, 2010, [124 Stat. 2918][/us/stat/124/2918].)
+(Added [Pub. L. 104–324, title III][/us/pl/104/324/tIII], § 311(a), Oct. 19, 1996, [110 Stat. 3920][/us/stat/110/3920]; amended [Pub. L. 111–281, title II][/us/pl/111/281/tII], § 218, Oct. 15, 2010, [124 Stat. 2918][/us/stat/124/2918].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/104/324/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs311%2Fa
+[/us/pl/104/324/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtIII
 [/us/stat/110/3920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3920
-[/us/pl/111/281/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs218
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2918
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 

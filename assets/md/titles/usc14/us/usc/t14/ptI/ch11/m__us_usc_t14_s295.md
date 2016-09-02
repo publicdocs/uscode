@@ -25,7 +25,7 @@
 
         (2) if the Secretary receives written notice from the officer withdrawing that consent, shall end not later than the end of the sixty-day period beginning on the date the Secretary receives that notice.
 
-(Added [Pub. L. 98–557, § 17(b)(2)(A)][/us/pl/98/557/s17/b/2/A], Oct. 30, 1984, [98 Stat. 2867][/us/stat/98/2867].)
+(Added [Pub. L. 98–557][/us/pl/98/557], § 17(b)(2)(A), Oct. 30, 1984, [98 Stat. 2867][/us/stat/98/2867].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/98/557/s17/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs17%2Fb%2F2%2FA
+[/us/pl/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557
 [/us/stat/98/2867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2867
 
 

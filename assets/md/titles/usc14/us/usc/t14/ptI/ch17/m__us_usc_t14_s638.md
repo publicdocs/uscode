@@ -19,7 +19,7 @@
 
     (b) No vessel or aircraft without authority shall carry, hoist, or display any ensign, pennant, or other identifying insignia prescribed for, or intended to resemble, any ensign, pennant, or other identifying insignia prescribed for Coast Guard vessels or aircraft. Every person violating this subsection shall be fined not more than $5,000, or imprisoned for not more than two years, or both.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 546][/us/stat/63/546]; [Pub. L. 111–281, title II, § 213(b)][/us/pl/111/281/s213/b], Oct. 15, 2010, [124 Stat. 2915][/us/stat/124/2915].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 546][/us/stat/63/546]; [Pub. L. 111–281, title II][/us/pl/111/281/tII], § 213(b), Oct. 15, 2010, [124 Stat. 2915][/us/stat/124/2915].)
 
  __Historical and Revision Notes__ 
 
@@ -46,7 +46,7 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F546
-[/us/pl/111/281/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs213%2Fb
+[/us/pl/111/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtII
 [/us/stat/124/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2915
 [/us/act/1935-08-05/ch438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-05%2Fch438
 [/us/stat/49/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F528

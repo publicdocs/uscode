@@ -19,13 +19,13 @@
 
     (b) Commissioned officers may be appointed as United States Deputy Marshals in Alaska.
 
-([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 545][/us/stat/63/545]; [Pub. L. 86–70, § 11][/us/pl/86/70/s11], June 25, 1959, [73 Stat. 143][/us/stat/73/143]; [Pub. L. 97–295, § 2(18)][/us/pl/97/295/s2/18], Oct. 12, 1982, [96 Stat. 1302][/us/stat/96/1302].)
+([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 545][/us/stat/63/545]; [Pub. L. 86–70][/us/pl/86/70], § 11, June 25, 1959, [73 Stat. 143][/us/stat/73/143]; [Pub. L. 97–295][/us/pl/97/295], § 2(18), Oct. 12, 1982, [96 Stat. 1302][/us/stat/96/1302].)
 
  __Historical and Revision Notes__ 
 
  __1949__  __Act__ 
 
-    Subsection (a) is based on title 14, U.S.C., 1946 ed., § 48 ([June 22, 1936, ch. 705, § 4][/us/act/1936-06-22/ch705/s4], [49 Stat. 1821][/us/stat/49/1821]; [July 11, 1941, ch. 290, § 7][/us/act/1941-07-11/ch290/s7], [55 Stat. 585][/us/stat/55/585]).
+    Subsection (a) is based on title 14, U.S.C., 1946 ed., § 48 ([June 22, 1936, ch. 705][/us/act/1936-06-22/ch705], § 4, [49 Stat. 1821][/us/stat/49/1821]; [July 11, 1941, ch. 290][/us/act/1941-07-11/ch290], § 7, [55 Stat. 585][/us/stat/55/585]).
 
     Subsection (b) is derived from the last 6 lines of title 48, U.S.C., 1946 ed., § 1460 ([July 31, 1939, ch. 399][/us/act/1939-07-31/ch399], [53 Stat. 1143][/us/stat/53/1143]). An additional provision is added waiving the requirement of a performance bond inasmuch as Coast Guard officers appointed as United States commissioners or marshals are not custodians of funds, and in any case their oath as a commissioned officer appears to be sufficient to insure faithful performance of duty.
 
@@ -50,13 +50,13 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F545
-[/us/pl/86/70/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs11
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F143
-[/us/pl/97/295/s2/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs2%2F18
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1302
-[/us/act/1936-06-22/ch705/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch705%2Fs4
+[/us/act/1936-06-22/ch705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch705
 [/us/stat/49/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1821
-[/us/act/1941-07-11/ch290/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-11%2Fch290%2Fs7
+[/us/act/1941-07-11/ch290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-11%2Fch290
 [/us/stat/55/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F585
 [/us/act/1939-07-31/ch399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-07-31%2Fch399
 [/us/stat/53/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1143

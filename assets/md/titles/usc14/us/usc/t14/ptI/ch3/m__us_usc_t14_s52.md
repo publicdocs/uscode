@@ -17,7 +17,7 @@
 
     The continuity of an officer’s precedence on the active duty promotion list, date of rank, grade, pay, and allowances as a vice admiral or admiral shall not be interrupted by the termination of an appointment for the purpose of reappointment to another position as a vice admiral or admiral.
 
-(Added [Pub. L. 97–322, title I, § 115(a)(1)][/us/pl/97/322/s115/a/1], Oct. 15, 1982, [96 Stat. 1585][/us/stat/96/1585]; amended [Pub. L. 101–225, title II, § 203(1)][/us/pl/101/225/s203/1], Dec. 12, 1989, [103 Stat. 1911][/us/stat/103/1911]; [Pub. L. 111–281, title V, § 511(d)][/us/pl/111/281/s511/d], (f)(2), Oct. 15, 2010, [124 Stat. 2952][/us/stat/124/2952], 2953.)
+(Added [Pub. L. 97–322, title I][/us/pl/97/322/tI], § 115(a)(1), Oct. 15, 1982, [96 Stat. 1585][/us/stat/96/1585]; amended [Pub. L. 101–225, title II][/us/pl/101/225/tII], § 203(1), Dec. 12, 1989, [103 Stat. 1911][/us/stat/103/1911]; [Pub. L. 111–281, title V][/us/pl/111/281/tV], § 511(d), (f)(2), Oct. 15, 2010, [124 Stat. 2952][/us/stat/124/2952], 2953.)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/97/322/s115/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322%2Fs115%2Fa%2F1
+[/us/pl/97/322/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F322%2FtI
 [/us/stat/96/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1585
-[/us/pl/101/225/s203/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2Fs203%2F1
+[/us/pl/101/225/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225%2FtII
 [/us/stat/103/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1911
-[/us/pl/111/281/s511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs511%2Fd
+[/us/pl/111/281/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtV
 [/us/stat/124/2952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2952
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/101/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F225

@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Derived from title 5, U.S.C., 1946, ed., § 118g ([Aug. 2, 1946, ch. 744, § 13][/us/act/1946-08-02/ch744/s13], [60 Stat. 809][/us/stat/60/809]).
+    Derived from title 5, U.S.C., 1946, ed., § 118g ([Aug. 2, 1946, ch. 744][/us/act/1946-08-02/ch744], § 13, [60 Stat. 809][/us/stat/60/809]).
 
     Because of the wide variety of tasks assigned to Coast Guard personnel it is deemed advisable to broaden this authority to the more general language as rewritten, insofar as Coast Guard personnel are concerned, thus giving complete authority to protect their health.
 
@@ -35,7 +35,7 @@
 
  __Hypothermia Protective Clothing Requirement__ 
 
-[Pub. L. 107–295, title IV, § 410][/us/pl/107/295/s410], Nov. 25, 2002, [116 Stat. 2118][/us/stat/116/2118], provided that: 
+[Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 410, Nov. 25, 2002, [116 Stat. 2118][/us/stat/116/2118], provided that: 
 
 > “The Commandant of the Coast Guard shall ensure that all Coast Guard personnel are equipped with adequate safety equipment, including hypothermia protective clothing where appropriate, while performing search and rescue missions.”
 
@@ -48,10 +48,10 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F532
-[/us/act/1946-08-02/ch744/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch744%2Fs13
+[/us/act/1946-08-02/ch744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch744
 [/us/stat/60/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F809
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/107/295/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs410
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2118
 
 

@@ -21,9 +21,9 @@
 
     (b)  __Limitation on Expenditures__  __.—__ 
 
-        (1) Except as provided in paragraph (2), the Secretary shall not expend any appropriated Federal funds for the engineering, design, or construction of any museum established under this section.
+        (1) Except as provided in paragraph (2), the Secretary shall not expend any funds appropriated to the Coast Guard on the engineering, design, or construction of any museum established under this section.
 
-        (2) The Secretary shall fund the operation and maintenance of the National Coast Guard Museum with nonappropriated and non-Federal funds to the maximum extent practicable. The priority use of Federal operation and maintenance funds should be to preserve and protect historic Coast Guard artifacts.
+        (2) The Secretary shall fund the operation and maintenance of the National Coast Guard Museum with nonappropriated and non-Federal funds to the maximum extent practicable. The priority use of Federal operation and maintenance funds should be to preserve and protect historic Coast Guard artifacts, including the design, fabrication, and installation of exhibits or displays in which such artifacts are included.
 
     (c)  __Funding Plan__  __.—__ 
 
@@ -39,7 +39,13 @@
 
     The Commandant may not establish a Coast Guard museum except as set forth in this section.
 
-(Added [Pub. L. 108–293, title II, § 213(a)][/us/pl/108/293/s213/a], Aug. 9, 2004, [118 Stat. 1037][/us/stat/118/1037].)
+(Added [Pub. L. 108–293, title II][/us/pl/108/293/tII], § 213(a), Aug. 9, 2004, [118 Stat. 1037][/us/stat/118/1037]; amended [Pub. L. 114–120, title II][/us/pl/114/120/tII], § 219, Feb. 8, 2016, [130 Stat. 48][/us/stat/130/48].)
+
+ __Amendments__ 
+
+    2016—Subsec. (b)(1). [Pub. L. 114–120][/us/pl/114/120], § 219(1), substituted “any funds appropriated to the Coast Guard on” for “any appropriated Federal funds for”.
+
+    Subsec. (b)(2). [Pub. L. 114–120][/us/pl/114/120], § 219(2), substituted “artifacts, including the design, fabrication, and installation of exhibits or displays in which such artifacts are included.” for “artifacts.”
 
 ----------
 
@@ -48,7 +54,11 @@
 ----------
 ----------
 
-[/us/pl/108/293/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs213%2Fa
+[/us/pl/108/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtII
 [/us/stat/118/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1037
+[/us/pl/114/120/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtII
+[/us/stat/130/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F48
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
 
 

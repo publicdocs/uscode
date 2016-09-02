@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 14, U.S.C., 1946 ed., § 132 ([Aug. 1, 1914, ch. 223, § 1][/us/act/1914-08-01/ch223/s1], [38 Stat. 620][/us/stat/38/620]). 81st Congress, House Report No. 557.
+    Based on title 14, U.S.C., 1946 ed., § 132 ([Aug. 1, 1914, ch. 223][/us/act/1914-08-01/ch223], § 1, [38 Stat. 620][/us/stat/38/620]). 81st Congress, House Report No. 557.
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F533
-[/us/act/1914-08-01/ch223/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-01%2Fch223%2Fs1
+[/us/act/1914-08-01/ch223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-01%2Fch223
 [/us/stat/38/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F620
 
 
