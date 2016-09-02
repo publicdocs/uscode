@@ -47,6 +47,14 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs433" data-uslm-ref="/us/usc/t26/s433">433.</a>  </td>
+
+    <td> Minimum funding standards. <sup>[2]</sup>  <sup><sup> 2 Editorially supplied. Section 433 added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F113%2F97" data-uslm-ref="/us/pl/113/97">Pub. L. 113–97</a> without corresponding amendment of subpart analysis. </sup></sup>   </td>
+
+  </tr>
+
 </table>
 
  __Amendment of Analysis__ 

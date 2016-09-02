@@ -25,17 +25,19 @@
 
         For purposes of paragraph (1), a plan shall be treated as satisfying the minimum funding standard for a plan year if—
 
-            (A) in the case of a defined benefit plan which is not a multiemployer plan, the employer makes contributions to or under the plan for the plan year which, in the aggregate, are not less than the minimum required contribution determined under section 430 for the plan for the plan year,
+            (A) in the case of a defined benefit plan which is not a multiemployer plan or a CSEC plan, the employer makes contributions to or under the plan for the plan year which, in the aggregate, are not less than the minimum required contribution determined under section 430 for the plan for the plan year,
 
-            (B) in the case of a money purchase plan which is not a multiemployer plan, the employer makes contributions to or under the plan for the plan year which are required under the terms of the plan, and
+            (B) in the case of a money purchase plan which is not a multiemployer plan, the employer makes contributions to or under the plan for the plan year which are required under the terms of the plan,
 
-            (C) in the case of a multiemployer plan, the employers make contributions to or under the plan for any plan year which, in the aggregate, are sufficient to ensure that the plan does not have an accumulated funding deficiency under section 431 as of the end of the plan year.
+            (C) in the case of a multiemployer plan, the employers make contributions to or under the plan for any plan year which, in the aggregate, are sufficient to ensure that the plan does not have an accumulated funding deficiency under section 431 as of the end of the plan year, and
+
+            (D) in the case of a CSEC plan, the employers make contributions to or under the plan for any plan year which, in the aggregate, are sufficient to ensure that the plan does not have an accumulated funding deficiency under section 433 as of the end of the plan year.
 
     (b) __Liability for contributions__ 
 
         (1) __In general__ 
 
-            Except as provided in paragraph (2), the amount of any contribution required by this section (including any required installments under paragraphs (3) and (4) of section 430(j)) shall be paid by the employer responsible for making contributions to or under the plan.
+            Except as provided in paragraph (2), the amount of any contribution required by this section (including any required installments under paragraphs (3) and (4) of section 430(j) or under section 433(f)) shall be paid by the employer responsible for making contributions to or under the plan.
 
         (2) __Joint and several liability where employer member of controlled group__ 
 
@@ -53,7 +55,7 @@
 
             If—
 
-                (i) an employer is (or in the case of a multiemployer plan, 10 percent or more of the number of employers contributing to or under the plan are) unable to satisfy the minimum funding standard for a plan year without temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan), and
+                (i) an employer is (or in the case of a multiemployer plan or a CSEC plan, 10 percent or more of the number of employers contributing to or under the plan are) unable to satisfy the minimum funding standard for a plan year without temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan), and
 
                 (ii) application of the standard would be adverse to the interests of plan participants in the aggregate,
 
@@ -63,9 +65,11 @@
 
             If a waiver is granted under subparagraph (A) for any plan year—
 
-                (i) in the case of a defined benefit plan which is not a multiemployer plan, the minimum required contribution under section 430 for the plan year shall be reduced by the amount of the waived funding deficiency and such amount shall be amortized as required under section 430(e), and
+                (i) in the case of a defined benefit plan which is not a multiemployer plan or a CSEC plan, the minimum required contribution under section 430 for the plan year shall be reduced by the amount of the waived funding deficiency and such amount shall be amortized as required under section 430(e),
 
-                (ii) in the case of a multiemployer plan, the funding standard account shall be credited under section 431(b)(3)(C) with the amount of the waived funding deficiency and such amount shall be amortized as required under section 431(b)(2)(C).
+                (ii) in the case of a multiemployer plan, the funding standard account shall be credited under section 431(b)(3)(C) with the amount of the waived funding deficiency and such amount shall be amortized as required under section 431(b)(2)(C), and
+
+                (iii) in the case of a CSEC plan, the funding standard account shall be credited under section 433(b)(3)(C) with the amount of the waived funding deficiency and such amount shall be amortized as required under section 433(b)(2)(C).
 
             (C) __Waiver of amortized portion not allowed__ 
 
@@ -93,7 +97,7 @@
 
                 (i) __In general__ 
 
-                    Except as provided in subparagraph (C), the Secretary may require an employer maintaining a defined benefit plan which is a single-employer plan (within the meaning of section 4001(a)(15) of the Employee Retirement Income Security Act of 1974) to provide security to such plan as a condition for granting or modifying a waiver under paragraph (1).
+                    Except as provided in subparagraph (C), the Secretary may require an employer maintaining a defined benefit plan which is a single-employer plan (within the meaning of section 4001(a)(15) of the Employee Retirement Income Security Act of 1974) to provide security to such plan as a condition for granting or modifying a waiver under paragraph (1) or for granting an extension under section 433(d).
 
                 (ii) __Special rules__ 
 
@@ -101,13 +105,13 @@
 
             (B) __Consultation with the Pension Benefit Guaranty Corporation__ 
 
-            Except as provided in subparagraph (C), the Secretary shall, before granting or modifying a waiver under this subsection with respect to a plan described in subparagraph (A)(i)—
+            Except as provided in subparagraph (C), the Secretary shall, before granting or modifying a waiver under this subsection or an extension under 433(d)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “section”. </sup></sup>  with respect to a plan described in subparagraph (A)(i)—
 
                 (i)
 
                  provide the Pension Benefit Guaranty Corporation with—
 
-                    (I) notice of the completed application for any waiver or modification, and
+                    (I) notice of the completed application for any waiver, modification, or extension, and
 
                     (II) an opportunity to comment on such application within 30 days after receipt of such notice, and
 
@@ -121,21 +125,23 @@
 
                 Information provided to the Corporation under this subparagraph shall be considered tax return information and subject to the safeguarding and reporting requirements of section 6103(p).
 
-            (C) __Exception for certain waivers__ 
+            (C) __Exception for certain waivers or extensions__ 
 
                 (i) __In general__ 
 
                 The preceding provisions of this paragraph shall not apply to any plan with respect to which the sum of—
 
-                    (I) the aggregate unpaid minimum required contributions (within the meaning of section 4971(c)(4)) for the plan year and all preceding plan years, and
+                    (I) the aggregate unpaid minimum required contributions (within the meaning of section 4971(c)(4)) for the plan year and all preceding plan years, or the accumulated funding deficiency under section 433, whichever is applicable,
 
-                    (II) the present value of all waiver amortization installments determined for the plan year and succeeding plan years under section 430(e)(2),
+                    (II) the present value of all waiver amortization installments determined for the plan year and succeeding plan years under section 430(e)(2) or 433(b)(2)(C), whichever is applicable, and
+
+                    (III) the total amounts not paid by reason of an extension in effect under section 433(d),
 
                  is less than $1,000,000.
 
-                (ii) __Treatment of waivers for which applications are pending__ 
+                (ii) __Treatment of waivers or extensions for which applications are pending__ 
 
-                    The amount described in clause (i)(I) shall include any increase in such amount which would result if all applications for waivers of the minimum funding standard under this subsection which are pending with respect to such plan were denied.
+                    The amount described in clause (i)(I) shall include any increase in such amount which would result if all applications for waivers or extensions with respect to the minimum funding standard under this subsection which are pending with respect to such plan were denied.
 
         (5) __Special rules for single-employer plans__ 
 
@@ -167,7 +173,7 @@
 
             (A) __In general__ 
 
-                No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 431(d) is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) which reduces the accrued benefit of any participant has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
+                No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 431(d) or section 433(d) is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) which reduces the accrued benefit of any participant has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
 
             (B) __Exception__ 
 
@@ -177,7 +183,7 @@
 
                 (ii) only repeals an amendment described in subsection (d)(2), or
 
-                (iii) is required as a condition of qualification under part I of subchapter D, <sup>\[2\]</sup>  <sup><sup> 2 So in original. The comma probably should not appear. </sup></sup>  of chapter 1.
+                (iii) is required as a condition of qualification under part I of subchapter D, <sup>\[3\]</sup>  <sup><sup> 3 So in original. The comma probably should not appear. </sup></sup>  of chapter 1.
 
     (d) __Miscellaneous rules__ 
 
@@ -195,7 +201,7 @@
 
             (C) does not reduce the accrued benefit of any participant determined as of the time of adoption except to the extent required by the circumstances,
 
-            shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary notifying him of such amendment and the Secretary has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary unless the Secretary determines that such amendment is necessary because of a temporary substantial business hardship (as determined under subsection (c)(2)) or a substantial business hardship (as so determined) in the case of a multiemployer plan and that a waiver under subsection (c) (or, in the case of a multiemployer plan, any extension of the amortization period under section 431(d)) is unavailable or inadequate.
+            shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary notifying him of such amendment and the Secretary has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary unless the Secretary determines that such amendment is necessary because of a temporary substantial business hardship (as determined under subsection (c)(2)) or a substantial business hardship (as so determined) in the case of a multiemployer plan and that a waiver under subsection (c) (or, in the case of a multiemployer plan or a CSEC plan, any extension of the amortization period under section 431(d) or section 433(d)) is unavailable or inadequate.
 
         (3) __Controlled group__ 
 
@@ -251,7 +257,7 @@
 
             This section applies with respect to a terminated multiemployer plan to which section 4021 of the Employee Retirement Income Security Act of 1974 applies until the last day of the plan year in which the plan terminates (within the meaning of section 4041A(a)(2) of such Act).
 
-(Added [Pub. L. 93–406, title II, § 1013(a)][/us/pl/93/406/s1013/a], Sept. 2, 1974, [88 Stat. 914][/us/stat/88/914]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(63), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1775][/us/stat/90/1775], 1834; [Pub. L. 96–364, title II][/us/pl/96/364], §§ 203, 208(c), Sept. 26, 1980, [94 Stat. 1285][/us/stat/94/1285], 1289; [Pub. L. 98–369, div. A, title IV, § 491(d)(25)][/us/pl/98/369/s491/d/25], July 18, 1984, [98 Stat. 850][/us/stat/98/850]; [Pub. L. 99–272, title XI][/us/pl/99/272], §§ 11015(a)(2), (b)(2), 11016(c)(4), Apr. 7, 1986, [100 Stat. 265][/us/stat/100/265], 267, 273; [Pub. L. 100–203, title IX][/us/pl/100/203], §§ 9301(a), 9303(a), (d)(1), 9304(a)(1), (b)(1), (e)(1), 9305(b)(1), 9306(a)(1), (b)(1), (c)(1), (d)(1), (e)(1), 9307(a)(1), (b)(1), (e)(1), Dec. 22, 1987, [101 Stat. 1330–331][/us/stat/101/1330-331], 1330–333, 1330–342 to 1330–344, 1330–348, 1330–351, 1330–352, 1330–354 to 1330–357; [Pub. L. 100–647, title II, § 2005(a)(2)(A)][/us/pl/100/647/s2005/a/2/A], (d)(1), Nov. 10, 1988, [102 Stat. 3610][/us/stat/102/3610], 3612; [Pub. L. 101–239, title VII, § 7881(a)(1)(A)][/us/pl/101/239/s7881/a/1/A], (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (b)(1)(A), (2)(A), (3)(A), (4)(A), (6)(A), (c)(1), (d)(1)(A), Dec. 19, 1989, [103 Stat. 2435–2439][/us/stat/103/2435-2439]; [Pub. L. 103–465, title VII][/us/pl/103/465], §§ 751(a)(1)–(9)(A), (10), 752(a), 753(a), 754(a), 768(a), Dec. 8, 1994, [108 Stat. 5012–5019][/us/stat/108/5012-5019], 5021–5023, 5040; [Pub. L. 105–34, title XV, § 1521(a)][/us/pl/105/34/s1521/a], (c)(1), (3)(A), title XVI, § 1604(b)(2)(A), Aug. 5, 1997, [111 Stat. 1069][/us/stat/111/1069], 1070, 1097; [Pub. L. 107–16, title VI][/us/pl/107/16], §§ 651(a), 661(a), June 7, 2001, [115 Stat. 129][/us/stat/115/129], 141; [Pub. L. 107–147, title IV][/us/pl/107/147], §§ 405(a), 411(v)(1), Mar. 9, 2002, [116 Stat. 42][/us/stat/116/42], 52; [Pub. L. 108–218, title I][/us/pl/108/218], §§ 101(b)(1)–(3), 102(b), 104(b), Apr. 10, 2004, [118 Stat. 597][/us/stat/118/597], 598, 601, 606; [Pub. L. 109–135, title IV, § 412(x)(1)][/us/pl/109/135/s412/x/1], Dec. 21, 2005, [119 Stat. 2638][/us/stat/119/2638]; [Pub. L. 109–280, title I, § 111(a)][/us/pl/109/280/s111/a], title II, § 212(c), title III, § 301(b), Aug. 17, 2006, [120 Stat. 820][/us/stat/120/820], 917, 919; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(a)(2), 102(b)(2)(H), Dec. 23, 2008, [122 Stat. 5093][/us/stat/122/5093], 5103.)
+(Added [Pub. L. 93–406, title II, § 1013(a)][/us/pl/93/406/s1013/a], Sept. 2, 1974, [88 Stat. 914][/us/stat/88/914]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(63), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1775][/us/stat/90/1775], 1834; [Pub. L. 96–364, title II][/us/pl/96/364], §§ 203, 208(c), Sept. 26, 1980, [94 Stat. 1285][/us/stat/94/1285], 1289; [Pub. L. 98–369, div. A, title IV, § 491(d)(25)][/us/pl/98/369/s491/d/25], July 18, 1984, [98 Stat. 850][/us/stat/98/850]; [Pub. L. 99–272, title XI][/us/pl/99/272], §§ 11015(a)(2), (b)(2), 11016(c)(4), Apr. 7, 1986, [100 Stat. 265][/us/stat/100/265], 267, 273; [Pub. L. 100–203, title IX][/us/pl/100/203], §§ 9301(a), 9303(a), (d)(1), 9304(a)(1), (b)(1), (e)(1), 9305(b)(1), 9306(a)(1), (b)(1), (c)(1), (d)(1), (e)(1), 9307(a)(1), (b)(1), (e)(1), Dec. 22, 1987, [101 Stat. 1330–331][/us/stat/101/1330-331], 1330–333, 1330–342 to 1330–344, 1330–348, 1330–351, 1330–352, 1330–354 to 1330–357; [Pub. L. 100–647, title II, § 2005(a)(2)(A)][/us/pl/100/647/s2005/a/2/A], (d)(1), Nov. 10, 1988, [102 Stat. 3610][/us/stat/102/3610], 3612; [Pub. L. 101–239, title VII, § 7881(a)(1)(A)][/us/pl/101/239/s7881/a/1/A], (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (b)(1)(A), (2)(A), (3)(A), (4)(A), (6)(A), (c)(1), (d)(1)(A), Dec. 19, 1989, [103 Stat. 2435–2439][/us/stat/103/2435-2439]; [Pub. L. 103–465, title VII][/us/pl/103/465], §§ 751(a)(1)–(9)(A), (10), 752(a), 753(a), 754(a), 768(a), Dec. 8, 1994, [108 Stat. 5012–5019][/us/stat/108/5012-5019], 5021–5023, 5040; [Pub. L. 105–34, title XV, § 1521(a)][/us/pl/105/34/s1521/a], (c)(1), (3)(A), title XVI, § 1604(b)(2)(A), Aug. 5, 1997, [111 Stat. 1069][/us/stat/111/1069], 1070, 1097; [Pub. L. 107–16, title VI][/us/pl/107/16], §§ 651(a), 661(a), June 7, 2001, [115 Stat. 129][/us/stat/115/129], 141; [Pub. L. 107–147, title IV][/us/pl/107/147], §§ 405(a), 411(v)(1), Mar. 9, 2002, [116 Stat. 42][/us/stat/116/42], 52; [Pub. L. 108–218, title I][/us/pl/108/218], §§ 101(b)(1)–(3), 102(b), 104(b), Apr. 10, 2004, [118 Stat. 597][/us/stat/118/597], 598, 601, 606; [Pub. L. 109–135, title IV, § 412(x)(1)][/us/pl/109/135/s412/x/1], Dec. 21, 2005, [119 Stat. 2638][/us/stat/119/2638]; [Pub. L. 109–280, title I, § 111(a)][/us/pl/109/280/s111/a], title II, § 212(c), title III, § 301(b), Aug. 17, 2006, [120 Stat. 820][/us/stat/120/820], 917, 919; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(a)(2), 102(b)(2)(H), Dec. 23, 2008, [122 Stat. 5093][/us/stat/122/5093], 5103; [Pub. L. 113–97, title II, § 202(c)(1)][/us/pl/113/97/s202/c/1], (2), Apr. 7, 2014, [128 Stat. 1135][/us/stat/128/1135].)
 
  __Amendment of Section__ 
 
@@ -264,6 +270,42 @@
     The effective date of this section, referred to in subsec. (e)(1), probably means the effective date of [Pub. L. 109–280, § 111(a)][/us/pl/109/280/s111/a], which amended this section. See Effective and Termination Dates of 2006 Amendment note below.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2)(A). [Pub. L. 113–97, § 202(c)(2)(A)][/us/pl/113/97/s202/c/2/A], substituted “multiemployer plan or a CSEC plan” for “multiemployer plan”.
+
+    Subsec. (a)(2)(D). [Pub. L. 113–97, § 202(c)(1)][/us/pl/113/97/s202/c/1], added subpar. (D).
+
+    Subsec. (b)(1). [Pub. L. 113–97, § 202(c)(2)(B)][/us/pl/113/97/s202/c/2/B], substituted “430(j) or under section 433(f)” for “430(j)”.
+
+    Subsec. (c)(1)(A)(i). [Pub. L. 113–97, § 202(c)(2)(A)][/us/pl/113/97/s202/c/2/A], substituted “multiemployer plan or a CSEC plan, 10 percent” for “multiemployer plan, 10 percent”.
+
+    Subsec. (c)(1)(B)(i). [Pub. L. 113–97, § 202(c)(2)(A)][/us/pl/113/97/s202/c/2/A], substituted “multiemployer plan or a CSEC plan” for “multiemployer plan”.
+
+    Subsec. (c)(1)(B)(iii). [Pub. L. 113–97, § 202(c)(2)(C)][/us/pl/113/97/s202/c/2/C], added cl. (iii).
+
+    Subsec. (c)(4)(A)(i). [Pub. L. 113–97, § 202(c)(2)(D)][/us/pl/113/97/s202/c/2/D], substituted “under paragraph (1) or for granting an extension under section 433(d)” for “under paragraph (1)”.
+
+    Subsec. (c)(4)(B). [Pub. L. 113–97, § 202(c)(2)(E)][/us/pl/113/97/s202/c/2/E], substituted “waiver under this subsection or an extension under 433(d)” for “waiver under this subsection” in introductory provisions.
+
+    Subsec. (c)(4)(B)(i)(I). [Pub. L. 113–97, § 202(c)(2)(F)][/us/pl/113/97/s202/c/2/F], substituted “waiver, modification, or extension” for “waiver or modification”.
+
+    Subsec. (c)(4)(C). [Pub. L. 113–97, § 202(c)(2)(G)][/us/pl/113/97/s202/c/2/G], substituted “waivers or extensions” for “waivers” in heading.
+
+    Subsec. (c)(4)(C)(i)(I). [Pub. L. 113–97, § 202(c)(2)(I)][/us/pl/113/97/s202/c/2/I], substituted “or the accumulated funding deficiency under section 433, whichever is applicable,” for “and” at end.
+
+    Subsec. (c)(4)(C)(i)(II). [Pub. L. 113–97, § 202(c)(2)(J)][/us/pl/113/97/s202/c/2/J], substituted “430(e)(2) or 433(b)(2)(C), whichever is applicable, and” for “430(e)(2),”.
+
+    Subsec. (c)(4)(C)(i)(III). [Pub. L. 113–97, § 202(c)(2)(K)][/us/pl/113/97/s202/c/2/K], added subcl. (III).
+
+    Subsec. (c)(4)(C)(ii). [Pub. L. 113–97, § 202(c)(2)(L)][/us/pl/113/97/s202/c/2/L], substituted “for waivers or extensions with respect to” for “for waivers of”.
+
+    [Pub. L. 113–97, § 202(c)(2)(G)][/us/pl/113/97/s202/c/2/G], substituted “waivers or extensions” for “waivers” in heading.
+
+    Subsec. (c)(7)(A). [Pub. L. 113–97, § 202(c)(2)(H)][/us/pl/113/97/s202/c/2/H], substituted “section 431(d) or section 433(d)” for “section 431(d)”.
+
+    Subsec. (d)(2). [Pub. L. 113–97, § 202(c)(2)(H)][/us/pl/113/97/s202/c/2/H], substituted “section 431(d) or section 433(d)” for “section 431(d)” in concluding provisions.
+
+    [Pub. L. 113–97, § 202(c)(2)(A)][/us/pl/113/97/s202/c/2/A], substituted “multiemployer plan or a CSEC plan, any extension” for “multiemployer plan, any extension” in concluding provisions.
 
     2008—Subsec. (b)(3). [Pub. L. 110–458, § 102(b)(2)(H)][/us/pl/110/458/s102/b/2/H], substituted “the plan sponsor adopts” for “the plan adopts”.
 
@@ -492,6 +534,10 @@
     Subsec. (h). [Pub. L. 94–455, § 1901(a)(63)][/us/pl/94/455/s1901/a/63], substituted reference to Sept. 2, 1974, for reference to the date of enactment of the Employee Retirement Income Security Act of 1974 in par. (5) and substituted reference to Sept. 1, 1974, for reference to the day before the date of enactment of the Employee Retirement Income Security Act of 1974 in the provisions following par. (6).
 
     Subsec. (i). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–97][/us/pl/113/97] applicable to years beginning after Dec. 31, 2013, see [section 3 of Pub. L. 113–97][/us/pl/113/97/s3], set out as a note under [section 401 of this title][/us/usc/t26/s401].
 
  __Effective Date of 2008 Amendment__ 
 
@@ -735,7 +781,7 @@
 
 [Pub. L. 99–272, title XI, § 11015(a)(3)][/us/pl/99/272/s11015/a/3], Apr. 7, 1986, [100 Stat. 267][/us/stat/100/267], provided that: 
 
-> “The amendments made by this subsection \[enacting former [section 1085a of Title 29][/us/usc/t29/s1085a], Labor, and amending this section and [section 1061 of Title 29][/us/usc/t29/s1061]\] shall apply with respect to applications for waivers, extensions, and modifications filed on or after the date of the enactment of this Act \[Apr. 7, 1986\].”
+> “The amendments made by this subsection \[enacting [section 1085a of Title 29][/us/usc/t29/s1085a], Labor, and amending this section and [section 1061 of Title 29][/us/usc/t29/s1061]\] shall apply with respect to applications for waivers, extensions, and modifications filed on or after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
     Amendment by sections 11015(b)(2) and 11016(c)(4) of [Pub. L. 99–272][/us/pl/99/272] effective Jan. 1, 1986, with certain exceptions, see [section 11019 of Pub. L. 99–272][/us/pl/99/272/s11019], set out as a note under [section 1341 of Title 29][/us/usc/t29/s1341].
 
@@ -894,11 +940,31 @@
 [/us/stat/120/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F820
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/stat/122/5093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5093
+[/us/pl/113/97/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F1
+[/us/stat/128/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1135
 [/us/pl/109/280/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs221%2Fc
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F829
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/pl/109/280/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs111%2Fa
+[/us/pl/113/97/s202/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F2%2FA
+[/us/pl/113/97/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F1
+[/us/pl/113/97/s202/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F2%2FB
+[/us/pl/113/97/s202/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F2%2FA
+[/us/pl/113/97/s202/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F2%2FA
+[/us/pl/113/97/s202/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F2%2FC
+[/us/pl/113/97/s202/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F2%2FD
+[/us/pl/113/97/s202/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F2%2FE
+[/us/pl/113/97/s202/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F2%2FF
+[/us/pl/113/97/s202/c/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F2%2FG
+[/us/pl/113/97/s202/c/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F2%2FI
+[/us/pl/113/97/s202/c/2/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F2%2FJ
+[/us/pl/113/97/s202/c/2/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F2%2FK
+[/us/pl/113/97/s202/c/2/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F2%2FL
+[/us/pl/113/97/s202/c/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F2%2FG
+[/us/pl/113/97/s202/c/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F2%2FH
+[/us/pl/113/97/s202/c/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F2%2FH
+[/us/pl/113/97/s202/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F2%2FA
 [/us/pl/110/458/s102/b/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs102%2Fb%2F2%2FH
 [/us/pl/110/458/s101/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fa%2F2%2FA
 [/us/pl/110/458/s101/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fa%2F2%2FB
@@ -1003,6 +1069,9 @@
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/94/455/s1901/a/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F63
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
+[/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/458/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs112

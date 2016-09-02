@@ -17,15 +17,17 @@
 
     (a) __Establishment of account__ 
 
-        The Secretary shall maintain in the Presidential Election Campaign Fund established by section 9006(a), in addition to any account which he maintains under such section, a separate account to be known as the Presidential Primary Matching Payment Account. The Secretary shall deposit into the matching payment account, for use by the candidate of any political party who is eligible to receive payments under section 9033, the amount available after the Secretary determines that amounts for payments under section 9006(c) and for payments under section 9008(b)(3) are available for such payments.
+        The Secretary shall maintain in the Presidential Election Campaign Fund established by section 9006(a), in addition to any account which he maintains under such section, a separate account to be known as the Presidential Primary Matching Payment Account. The Secretary shall deposit into the matching payment account, for use by the candidate of any political party who is eligible to receive payments under section 9033, the amount available after the Secretary determines that amounts for payments under section 9006(c) and for payments under section 9008(i)(2) are available for such payments.
 
     (b) __Payments from the matching payment account__ 
 
         Upon receipt of a certification from the Commission under section 9036, but not before the beginning of the matching payment period, the Secretary shall promptly transfer the amount certified by the Commission from the matching payment account to the candidate. In making such transfers to candidates of the same political party, the Secretary shall seek to achieve an equitable distribution of funds available under subsection (a), and the Secretary shall take into account, in seeking to achieve an equitable distribution, the sequence in which such certifications are received.
 
-(Added [Pub. L. 93–443, title IV, § 408(c)][/us/pl/93/443/s408/c], Oct. 15, 1974, [88 Stat. 1300][/us/stat/88/1300]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
+(Added [Pub. L. 93–443, title IV, § 408(c)][/us/pl/93/443/s408/c], Oct. 15, 1974, [88 Stat. 1300][/us/stat/88/1300]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 113–94, § 2(b)(2)][/us/pl/113/94/s2/b/2], Apr. 3, 2014, [128 Stat. 1085][/us/stat/128/1085].)
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–94][/us/pl/113/94] substituted “section 9008(i)(2)” for “section 9008(b)(3)”.
 
     1976—Subsec. (b). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary” in three places.
 
@@ -40,6 +42,9 @@
 [/us/stat/88/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1300
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
+[/us/pl/113/94/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs2%2Fb%2F2
+[/us/stat/128/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1085
+[/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 
 

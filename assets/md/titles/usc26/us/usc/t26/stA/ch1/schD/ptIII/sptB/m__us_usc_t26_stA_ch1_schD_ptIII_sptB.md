@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schD/ptIII/sptA/m__us_usc_t26_s432.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schD/ptIII/sptB/m__us_usc_t26_s436.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschD%2FptIII%2FsptB)
+[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schD/ptIII/sptA/m__us_usc_t26_s433.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schD/ptIII/sptB/m__us_usc_t26_s436.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschD%2FptIII%2FsptB)
 
 ###### Subpart B—Benefit Limitations Under Single-Employer Plans
 
@@ -35,7 +35,7 @@
 
 ----------
 
-[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schD/ptIII/sptA/m__us_usc_t26_s432.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schD/ptIII/sptB/m__us_usc_t26_s436.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschD%2FptIII%2FsptB)
+[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schD/ptIII/sptA/m__us_usc_t26_s433.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schD/ptIII/sptB/m__us_usc_t26_s436.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschD%2FptIII%2FsptB)
 
 ----------
 ----------

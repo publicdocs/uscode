@@ -129,7 +129,27 @@
 
                 For purposes of applying paragraphs (4)(A) and (6)(A), the assets and liabilities of each plan shall be treated as the assets and liabilities which would be allocated to a plan maintained by the employer if the employer withdrew from the multiple employer plan.
 
-(Added [Pub. L. 93–406, title II, § 1014][/us/pl/93/406/s1014], Sept. 2, 1974, [88 Stat. 924][/us/stat/88/924]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–364, title II, § 208(d)][/us/pl/96/364/s208/d], Sept. 26, 1980, [94 Stat. 1290][/us/stat/94/1290]; [Pub. L. 100–647, title I, § 1011(h)(10)][/us/pl/100/647/s1011/h/10], title VI, § 6058(a)–(c), Nov. 10, 1988, [102 Stat. 3466][/us/stat/102/3466], 3698, 3699; [Pub. L. 101–508, title XI, § 11704(a)(4)][/us/pl/101/508/s11704/a/4], Nov. 5, 1990, [104 Stat. 1388–518][/us/stat/104/1388-518].)
+    (d) __CSEC plans__ 
+
+    Notwithstanding any other provision of this section, in the case of a CSEC plan—
+
+        (1) __Funding__ 
+
+            The requirements of section 412 shall be determined as if all participants in the plan were employed by a single employer.
+
+        (2) __Application of provisions__ 
+
+            Paragraphs (1), (2), (3), and (5) of subsection (c) shall apply.
+
+        (3) __Deduction limitations__ 
+
+            Each applicable limitation provided by section 404(a) shall be determined as if all participants in the plan were employed by a single employer. The amounts contributed to or under the plan by each employer who maintains the plan (for the portion of the taxable year included within a plan year) shall be considered not to exceed such applicable limitation if the anticipated employer contributions for such plan year of all employers (determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary) do not exceed such limitation. If such anticipated contributions exceed such limitation, the portion of each such employer’s contributions which is not deductible under section 404 shall be determined in accordance with regulations prescribed by the Secretary.
+
+        (4) __Allocations__ 
+
+            Allocations of amounts under paragraph (3) and subsection (c)(5) among the employers maintaining the plan shall not be inconsistent with the regulations prescribed for this purpose by the Secretary.
+
+(Added [Pub. L. 93–406, title II, § 1014][/us/pl/93/406/s1014], Sept. 2, 1974, [88 Stat. 924][/us/stat/88/924]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–364, title II, § 208(d)][/us/pl/96/364/s208/d], Sept. 26, 1980, [94 Stat. 1290][/us/stat/94/1290]; [Pub. L. 100–647, title I, § 1011(h)(10)][/us/pl/100/647/s1011/h/10], title VI, § 6058(a)–(c), Nov. 10, 1988, [102 Stat. 3466][/us/stat/102/3466], 3698, 3699; [Pub. L. 101–508, title XI, § 11704(a)(4)][/us/pl/101/508/s11704/a/4], Nov. 5, 1990, [104 Stat. 1388–518][/us/stat/104/1388-518]; [Pub. L. 113–97, title II, § 202(b)][/us/pl/113/97/s202/b], Apr. 7, 2014, [128 Stat. 1134][/us/stat/128/1134].)
 
  __References in Text__ 
 
@@ -140,6 +160,8 @@
     The date of enactment of the Technical and Miscellaneous Revenue Act of 1988, referred to in subsec. (c)(4)(B), is the date of enactment of [Pub. L. 100–647][/us/pl/100/647], which was approved Nov. 10, 1988.
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–97][/us/pl/113/97] added subsec. (d).
 
     1990—Subsec. (c)(7)(B). [Pub. L. 101–508][/us/pl/101/508] substituted “Assets” for “Asset” in heading.
 
@@ -156,6 +178,10 @@
     1980—Subsec. (b)(6). [Pub. L. 96–364][/us/pl/96/364] inserted provisions relating to withdrawal liability of employer.
 
     1976—Subsecs. (b), (c). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–97][/us/pl/113/97] applicable to years beginning after Dec. 31, 2013, see [section 3 of Pub. L. 113–97][/us/pl/113/97/s3], set out as a note under [section 401 of this title][/us/usc/t26/s401].
 
  __Effective Date of 1988 Amendment__ 
 
@@ -190,12 +216,15 @@
 [/us/stat/102/3466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3466
 [/us/pl/101/508/s11704/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11704%2Fa%2F4
 [/us/stat/104/1388-518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-518
+[/us/pl/113/97/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fb
+[/us/stat/128/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1134
 [/us/pl/100/203/s9305/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9305%2Fa%2F2%2FA
 [/us/stat/101/1330-351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-351
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F829
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/647/s1011/h/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fh%2F10
 [/us/pl/100/647/s6058/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6058%2Fc
@@ -204,6 +233,9 @@
 [/us/pl/100/647/s6058/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6058%2Fc
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
+[/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/100/647/s1011/h/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fh%2F10
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa

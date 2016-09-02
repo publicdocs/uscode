@@ -519,7 +519,7 @@
 
         (29)  __Benefit limitations__  __.—__ 
 
-        In the case of a defined benefit plan (other than a multiemployer plan) to which the requirements of section 412 apply, the trust of which the plan is a part shall not constitute a qualified trust under this subsection unless the plan meets the requirements of section 436.
+        In the case of a defined benefit plan (other than a multiemployer plan or a CSEC plan) to which the requirements of section 412 apply, the trust of which the plan is a part shall not constitute a qualified trust under this subsection unless the plan meets the requirements of section 436.
 
         (30)  __Limitations on elective deferrals__  __.—__ 
 
@@ -573,7 +573,7 @@
 
             (A)  __In general__  __.—__ 
 
-            A trust forming part of a pension plan to which section section  <sup>\[3\]</sup>  <sup><sup> 3 So in original. </sup></sup>  430(j)(4) applies shall not be treated as failing to constitute a qualified trust under this section merely because such plan ceases to make any payment described in subparagraph (B) during any period that such plan has a liquidity shortfall (as defined in section section  <sup>\[3\]</sup>  430(j)(4)).
+            A trust forming part of a pension plan to which section section  <sup>\[3\]</sup>  <sup><sup> 3 So in original. </sup></sup>  430(j)(4) or 433(f)(5) applies shall not be treated as failing to constitute a qualified trust under this section merely because such plan ceases to make any payment described in subparagraph (B) during any period that such plan has a liquidity shortfall (as defined in section section  <sup>\[3\]</sup>  430(j)(4) or 433(f)(5)).
 
             (B)  __Payments described__  __.—__ 
 
@@ -587,7 +587,7 @@
 
             (C)  __Period of shortfall__  __.—__ 
 
-            For purposes of this paragraph, a plan has a liquidity shortfall during the period that there is an underpayment of an installment under section 430(j)(3) by reason of section 430(j)(4)(A) thereof. <sup>\[4\]</sup>  <sup><sup> 4 So in original. The “thereof” probably should not appear. </sup></sup> 
+            For purposes of this paragraph, a plan has a liquidity shortfall during the period that there is an underpayment of an installment under section 430(j)(3) or 433(f) by reason of section 430(j)(4)(A) or 433(f)(5), respectively.
 
         (33) __Prohibition on benefit increases while sponsor is in bankruptcy.—__ 
 
@@ -617,7 +617,7 @@
 
             (C)  __Plans to which this paragraph applies__  __.—__ 
 
-            This paragraph shall apply only to plans (other than multiemployer plans) covered under section 4021 of the Employee Retirement Income Security Act of 1974.
+            This paragraph shall apply only to plans (other than multiemployer plans or CSEC plans) covered under section 4021 of the Employee Retirement Income Security Act of 1974.
 
             (D)  __Employer__  __.—__ 
 
@@ -849,7 +849,7 @@
 
                 (ii) without regard to paragraphs (4) and (5) of section 1402(c),
 
-                (iii) in the case of any individual who is treated as an employee under sections  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “section”. </sup></sup>  3121(d)(3)(A), (C), or (D), without regard to paragraph (2) of section 1402(c),
+                (iii) in the case of any individual who is treated as an employee under sections  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “section”. </sup></sup>  3121(d)(3)(A), (C), or (D), without regard to paragraph (2) of section 1402(c),
 
                 (iv) without regard to items which are not included in gross income for purposes of this chapter, and the deductions properly allocable to or chargeable against such items,
 
@@ -1113,7 +1113,7 @@
 
                     (II) is a district organized under the laws of a State as a municipal corporation for the purpose of irrigation, water conservation, or drainage, and
 
-                (v) an organization which is a national association of organizations described in clause (i), (ii),, <sup>\[6\]</sup>  <sup><sup> 6 So in original. </sup></sup>  (iii), or (iv).
+                (v) an organization which is a national association of organizations described in clause (i), (ii),, <sup>\[5\]</sup>  <sup><sup> 5 So in original. </sup></sup>  (iii), or (iv).
 
             (C) __Special rule for certain distributions__ 
 
@@ -1729,7 +1729,7 @@
 
         For exemption from tax of a trust qualified under this section, see section 501(a).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 134][/us/stat/68A/134]; [Pub. L. 87–792, § 2][/us/pl/87/792/s2], Oct. 10, 1962, [76 Stat. 809][/us/stat/76/809]; [Pub. L. 87–863, § 2(a)][/us/pl/87/863/s2/a], Oct. 23, 1962, [76 Stat. 1141][/us/stat/76/1141]; [Pub. L. 88–272, title II, § 219(a)][/us/pl/88/272/s219/a], Feb. 26, 1964, [78 Stat. 57][/us/stat/78/57]; [Pub. L. 89–97, title I, § 106(d)(4)][/us/pl/89/97/s106/d/4], July 30, 1965, [79 Stat. 337][/us/stat/79/337]; [Pub. L. 89–809, title II][/us/pl/89/809], §§ 204(b)(1), (c), 205(a), Nov. 13, 1966, [80 Stat. 1577][/us/stat/80/1577], 1578; [Pub. L. 91–691, § 1(a)][/us/pl/91/691/s1/a], Jan. 12, 1971, [84 Stat. 2074][/us/stat/84/2074]; [Pub. L. 93–406, title II][/us/pl/93/406], §§ 1012(b), 1016(a)(2), 1021, 1022(a)–(d), (f), 1023, 2001(c)–(e)(4), (h)(1), 2004(a)(1), Sept. 2, 1974, [88 Stat. 913][/us/stat/88/913], 929, 935, 938–940, 943, 952–955, 957, 979; [Pub. L. 94–267, § 1(c)(1)][/us/pl/94/267/s1/c/1], (2), Apr. 15, 1976, [90 Stat. 367][/us/stat/90/367]; [Pub. L. 94–455, title VIII, § 803(b)(2)][/us/pl/94/455/s803/b/2], title XV, § 1505(b), title XIX, §§ 1901(a)(56), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1584][/us/stat/90/1584], 1738, 1773, 1834; [Pub. L. 95–600, title I][/us/pl/95/600], §§ 135(a), 141(f)(3), 143(a), 152(e), Nov. 6, 1978, [92 Stat. 2785][/us/stat/92/2785], 2795, 2796, 2799; [Pub. L. 96–222, title I, § 101(a)(7)(L)(i)(V)][/us/pl/96/222/s101/a/7/L/i/V], (9), (14)(E)(iii), Apr. 1, 1980, [94 Stat. 199][/us/stat/94/199], 201, 205; [Pub. L. 96–364, title II, § 208(a)][/us/pl/96/364/s208/a], (e), title IV, § 410(b), Sept. 26, 1980, [94 Stat. 1289][/us/stat/94/1289], 1290, 1308; [Pub. L. 96–605, title II][/us/pl/96/605], §§ 221(a), 225(b)(1), (2), Dec. 28, 1980, [94 Stat. 3528][/us/stat/94/3528], 3529; [Pub. L. 97–34, title III][/us/pl/97/34], §§ 312(b)(1), (c)(2)–(4), (e)(2), 314(a)(1), 335, 338(a), Aug. 13, 1981, [95 Stat. 283–286][/us/stat/95/283-286], 297, 298; [Pub. L. 97–248, title II][/us/pl/97/248], §§ 237(a), (b), (e)(1), 238(b), (d)(1), (2), 240(b), 242(a), 249(a), 254(a), Sept. 3, 1982, [96 Stat. 511–513][/us/stat/96/511-513], 520, 521, 527, 533; [Pub. L. 97–448, title I, § 103(c)(10)(A)][/us/pl/97/448/s103/c/10/A], (d)(2), (g)(2)(A), title III, § 306(a)(12), Jan. 12, 1983, [96 Stat. 2377–2379][/us/stat/96/2377-2379], 2405; [Pub. L. 98–21, title I, § 124(c)(4)(A)][/us/pl/98/21/s124/c/4/A], Apr. 20, 1983, [97 Stat. 91][/us/stat/97/91]; [Pub. L. 98–369, div. A, title II, § 211(b)(5)][/us/pl/98/369/s211/b/5], title IV, §§ 474(r)(13), 491(e)(4), (5), title V, §§ 521(a), 524(d)(1), 527(a), (b), 528(b), title VII, § 713(c)(2)(A), (d)(3), July 18, 1984, [98 Stat. 754][/us/stat/98/754], 842, 853, 865, 872, 875–877, 957, 958; [Pub. L. 98–397, title II][/us/pl/98/397], §§ 203(a), 204(a), title III, § 301(b), Aug. 23, 1984, [98 Stat. 1440][/us/stat/98/1440], 1445, 1451; [Pub. L. 99–514, title XI][/us/pl/99/514], §§ 1106(d)(1), 1111(a), (b), 1112(b), (d)(1), 1114(b)(7), 1116(a)–(e), 1117(a), 1119(a), 1121(b), 1136(a), 1143(a), 1145(a), 1171(b)(5), 1174(c)(2)(A), 1175(a)(1), 1176(a), title XVIII, §§ 1848(b), 1852(a)(4)(A), (6), (b)(8), (g), (h)(1), 1879(g)(1), (2), 1898(b)(2)(A), (3)(A), (7)(A), (13)(A), (14)(A), (c)(3), 1899A(10), Oct. 22, 1986, [100 Stat. 2435][/us/stat/100/2435], 2439, 2444, 2445, 2451, 2454–2456, 2459, 2463, 2465, 2485, 2490, 2513, 2518, 2519, 2857, 2865–2869, 2906, 2907, 2945, 2948, 2950, 2953, 2958; [Pub. L. 100–203, title IX, § 9341(a)][/us/pl/100/203/s9341/a], Dec. 22, 1987, [101 Stat. 1330–369][/us/stat/101/1330-369]; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1011(c)(7)(A), (d)(4), (e)(3), (g)(1)–(3), (h)(3), (k)(1)(A), (B), s2)–(7), (9), (l)(1)–(5)(A), (6), (7), 1011A(j), (l), 1011B(j)(1), (2), (6), (k)(1), (2), title VI, §§ 6053(a), 6055(a), 6071(a), (b), Nov. 10, 1988, [102 Stat. 3458–3460][/us/stat/102/3458-3460], 3463, 3464, 3468–3470, 3483, 3492, 3493, 3696, 3697, 3705; [Pub. L. 101–140, title II, § 203(a)(5)][/us/pl/101/140/s203/a/5], Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7311(a), 7811(g)(1), (h)(3), 7816(l), 7881(i)(1)(A), (4)(A), Dec. 19, 1989, [103 Stat. 2354][/us/stat/103/2354], 2409, 2421, 2442; [Pub. L. 101–508, title XII, § 12011(b)][/us/pl/101/508/s12011/b], Nov. 5, 1990, [104 Stat. 1388–571][/us/stat/104/1388-571]; [Pub. L. 102–318, title V][/us/pl/102/318], §§ 521(b)(5)–(8), 522(a)(1), July 3, 1992, [106 Stat. 310][/us/stat/106/310], 313; [Pub. L. 103–66, title XIII, § 13212(a)][/us/pl/103/66/s13212/a], Aug. 10, 1993, [107 Stat. 471][/us/stat/107/471]; [Pub. L. 103–465, title VII][/us/pl/103/465], §§ 732(a), 751(a)(9)(C), 766(b), 776(d), Dec. 8, 1994, [108 Stat. 5004][/us/stat/108/5004], 5021, 5037, 5048; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1401(b)(5), (6), 1404(a), 1422(a), (b), 1426(a), 1431(b)(2), (c)(1)(B), 1432(a), (b), 1433(a)–(e), 1441(a), 1443(a), (b), 1445(a), 1459(a), (b), 1704(a), (t)(67), Aug. 20, 1996, [110 Stat. 1789][/us/stat/110/1789], 1791, 1800, 1801, 1803–1809, 1811, 1820, 1878, 1890; [Pub. L. 105–34, title XV][/us/pl/105/34], §§ 1502(b), 1505(a)(1), (2), (b), 1525(a), 1530(c)(1), title XVI, § 1601(d)(2)(A), (B), (D), (3), Aug. 5, 1997, [111 Stat. 1059][/us/stat/111/1059], 1063, 1072, 1078, 1088, 1089; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 316(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–644; [Pub. L. 107–16, title VI][/us/pl/107/16], §§ 611(c), (f)(3), (g)(1), 641(e)(3), 643(b), 646(a)(1), 657(a), 666(a), June 7, 2001, [115 Stat. 97][/us/stat/115/97], 99, 120, 122, 126, 135, 143; [Pub. L. 107–147, title IV, § 411][/us/pl/107/147/s411](o)(2), (q)(1), Mar. 9, 2002, [116 Stat. 48][/us/stat/116/48], 51; [Pub. L. 108–311, title IV, § 407(b)][/us/pl/108/311/s407/b], Oct. 4, 2004, [118 Stat. 1190][/us/stat/118/1190]; [Pub. L. 109–280, title I, § 114(a)][/us/pl/109/280/s114/a], title VIII, §§ 827(b)(1), 861(a), (b), title IX, §§ 901(a)(1), (2)(A), 902(a), (b), (d)(2)(C), (D), (e)(3)(B), 905(b), Aug. 17, 2006, [120 Stat. 853][/us/stat/120/853], 1000, 1020, 1021, 1026, 1029, 1033, 1035, 1038, 1050; [Pub. L. 110–245, title I, § 104(a)][/us/pl/110/245/s104/a], June 17, 2008, [122 Stat. 1626][/us/stat/122/1626]; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(d)(2)(A)–(C), 109(a)–(b)(2), title II, § 201(a), Dec. 23, 2008, [122 Stat. 5099][/us/stat/122/5099], 5111, 5116; [Pub. L. 111–152, title I, § 1004(d)(5)][/us/pl/111/152/s1004/d/5], Mar. 30, 2010, [124 Stat. 1036][/us/stat/124/1036].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 134][/us/stat/68A/134]; [Pub. L. 87–792, § 2][/us/pl/87/792/s2], Oct. 10, 1962, [76 Stat. 809][/us/stat/76/809]; [Pub. L. 87–863, § 2(a)][/us/pl/87/863/s2/a], Oct. 23, 1962, [76 Stat. 1141][/us/stat/76/1141]; [Pub. L. 88–272, title II, § 219(a)][/us/pl/88/272/s219/a], Feb. 26, 1964, [78 Stat. 57][/us/stat/78/57]; [Pub. L. 89–97, title I, § 106(d)(4)][/us/pl/89/97/s106/d/4], July 30, 1965, [79 Stat. 337][/us/stat/79/337]; [Pub. L. 89–809, title II][/us/pl/89/809], §§ 204(b)(1), (c), 205(a), Nov. 13, 1966, [80 Stat. 1577][/us/stat/80/1577], 1578; [Pub. L. 91–691, § 1(a)][/us/pl/91/691/s1/a], Jan. 12, 1971, [84 Stat. 2074][/us/stat/84/2074]; [Pub. L. 93–406, title II][/us/pl/93/406], §§ 1012(b), 1016(a)(2), 1021, 1022(a)–(d), (f), 1023, 2001(c)–(e)(4), (h)(1), 2004(a)(1), Sept. 2, 1974, [88 Stat. 913][/us/stat/88/913], 929, 935, 938–940, 943, 952–955, 957, 979; [Pub. L. 94–267, § 1(c)(1)][/us/pl/94/267/s1/c/1], (2), Apr. 15, 1976, [90 Stat. 367][/us/stat/90/367]; [Pub. L. 94–455, title VIII, § 803(b)(2)][/us/pl/94/455/s803/b/2], title XV, § 1505(b), title XIX, §§ 1901(a)(56), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1584][/us/stat/90/1584], 1738, 1773, 1834; [Pub. L. 95–600, title I][/us/pl/95/600], §§ 135(a), 141(f)(3), 143(a), 152(e), Nov. 6, 1978, [92 Stat. 2785][/us/stat/92/2785], 2795, 2796, 2799; [Pub. L. 96–222, title I, § 101(a)(7)(L)(i)(V)][/us/pl/96/222/s101/a/7/L/i/V], (9), (14)(E)(iii), Apr. 1, 1980, [94 Stat. 199][/us/stat/94/199], 201, 205; [Pub. L. 96–364, title II, § 208(a)][/us/pl/96/364/s208/a], (e), title IV, § 410(b), Sept. 26, 1980, [94 Stat. 1289][/us/stat/94/1289], 1290, 1308; [Pub. L. 96–605, title II][/us/pl/96/605], §§ 221(a), 225(b)(1), (2), Dec. 28, 1980, [94 Stat. 3528][/us/stat/94/3528], 3529; [Pub. L. 97–34, title III][/us/pl/97/34], §§ 312(b)(1), (c)(2)–(4), (e)(2), 314(a)(1), 335, 338(a), Aug. 13, 1981, [95 Stat. 283–286][/us/stat/95/283-286], 297, 298; [Pub. L. 97–248, title II][/us/pl/97/248], §§ 237(a), (b), (e)(1), 238(b), (d)(1), (2), 240(b), 242(a), 249(a), 254(a), Sept. 3, 1982, [96 Stat. 511–513][/us/stat/96/511-513], 520, 521, 527, 533; [Pub. L. 97–448, title I, § 103(c)(10)(A)][/us/pl/97/448/s103/c/10/A], (d)(2), (g)(2)(A), title III, § 306(a)(12), Jan. 12, 1983, [96 Stat. 2377–2379][/us/stat/96/2377-2379], 2405; [Pub. L. 98–21, title I, § 124(c)(4)(A)][/us/pl/98/21/s124/c/4/A], Apr. 20, 1983, [97 Stat. 91][/us/stat/97/91]; [Pub. L. 98–369, div. A, title II, § 211(b)(5)][/us/pl/98/369/s211/b/5], title IV, §§ 474(r)(13), 491(e)(4), (5), title V, §§ 521(a), 524(d)(1), 527(a), (b), 528(b), title VII, § 713(c)(2)(A), (d)(3), July 18, 1984, [98 Stat. 754][/us/stat/98/754], 842, 853, 865, 872, 875–877, 957, 958; [Pub. L. 98–397, title II][/us/pl/98/397], §§ 203(a), 204(a), title III, § 301(b), Aug. 23, 1984, [98 Stat. 1440][/us/stat/98/1440], 1445, 1451; [Pub. L. 99–514, title XI][/us/pl/99/514], §§ 1106(d)(1), 1111(a), (b), 1112(b), (d)(1), 1114(b)(7), 1116(a)–(e), 1117(a), 1119(a), 1121(b), 1136(a), 1143(a), 1145(a), 1171(b)(5), 1174(c)(2)(A), 1175(a)(1), 1176(a), title XVIII, §§ 1848(b), 1852(a)(4)(A), (6), (b)(8), (g), (h)(1), 1879(g)(1), (2), 1898(b)(2)(A), (3)(A), (7)(A), (13)(A), (14)(A), (c)(3), 1899A(10), Oct. 22, 1986, [100 Stat. 2435][/us/stat/100/2435], 2439, 2444, 2445, 2451, 2454–2456, 2459, 2463, 2465, 2485, 2490, 2513, 2518, 2519, 2857, 2865–2869, 2906, 2907, 2945, 2948, 2950, 2953, 2958; [Pub. L. 100–203, title IX, § 9341(a)][/us/pl/100/203/s9341/a], Dec. 22, 1987, [101 Stat. 1330–369][/us/stat/101/1330-369]; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1011(c)(7)(A), (d)(4), (e)(3), (g)(1)–(3), (h)(3), (k)(1)(A), (B), s2)–(7), (9), (l)(1)–(5)(A), (6), (7), 1011A(j), (l), 1011B(j)(1), (2), (6), (k)(1), (2), title VI, §§ 6053(a), 6055(a), 6071(a), (b), Nov. 10, 1988, [102 Stat. 3458–3460][/us/stat/102/3458-3460], 3463, 3464, 3468–3470, 3483, 3492, 3493, 3696, 3697, 3705; [Pub. L. 101–140, title II, § 203(a)(5)][/us/pl/101/140/s203/a/5], Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7311(a), 7811(g)(1), (h)(3), 7816(l), 7881(i)(1)(A), (4)(A), Dec. 19, 1989, [103 Stat. 2354][/us/stat/103/2354], 2409, 2421, 2442; [Pub. L. 101–508, title XII, § 12011(b)][/us/pl/101/508/s12011/b], Nov. 5, 1990, [104 Stat. 1388–571][/us/stat/104/1388-571]; [Pub. L. 102–318, title V][/us/pl/102/318], §§ 521(b)(5)–(8), 522(a)(1), July 3, 1992, [106 Stat. 310][/us/stat/106/310], 313; [Pub. L. 103–66, title XIII, § 13212(a)][/us/pl/103/66/s13212/a], Aug. 10, 1993, [107 Stat. 471][/us/stat/107/471]; [Pub. L. 103–465, title VII][/us/pl/103/465], §§ 732(a), 751(a)(9)(C), 766(b), 776(d), Dec. 8, 1994, [108 Stat. 5004][/us/stat/108/5004], 5021, 5037, 5048; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1401(b)(5), (6), 1404(a), 1422(a), (b), 1426(a), 1431(b)(2), (c)(1)(B), 1432(a), (b), 1433(a)–(e), 1441(a), 1443(a), (b), 1445(a), 1459(a), (b), 1704(a), (t)(67), Aug. 20, 1996, [110 Stat. 1789][/us/stat/110/1789], 1791, 1800, 1801, 1803–1809, 1811, 1820, 1878, 1890; [Pub. L. 105–34, title XV][/us/pl/105/34], §§ 1502(b), 1505(a)(1), (2), (b), 1525(a), 1530(c)(1), title XVI, § 1601(d)(2)(A), (B), (D), (3), Aug. 5, 1997, [111 Stat. 1059][/us/stat/111/1059], 1063, 1072, 1078, 1088, 1089; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 316(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–644; [Pub. L. 107–16, title VI][/us/pl/107/16], §§ 611(c), (f)(3), (g)(1), 641(e)(3), 643(b), 646(a)(1), 657(a), 666(a), June 7, 2001, [115 Stat. 97][/us/stat/115/97], 99, 120, 122, 126, 135, 143; [Pub. L. 107–147, title IV, § 411][/us/pl/107/147/s411](o)(2), (q)(1), Mar. 9, 2002, [116 Stat. 48][/us/stat/116/48], 51; [Pub. L. 108–311, title IV, § 407(b)][/us/pl/108/311/s407/b], Oct. 4, 2004, [118 Stat. 1190][/us/stat/118/1190]; [Pub. L. 109–280, title I, § 114(a)][/us/pl/109/280/s114/a], title VIII, §§ 827(b)(1), 861(a), (b), title IX, §§ 901(a)(1), (2)(A), 902(a), (b), (d)(2)(C), (D), (e)(3)(B), 905(b), Aug. 17, 2006, [120 Stat. 853][/us/stat/120/853], 1000, 1020, 1021, 1026, 1029, 1033, 1035, 1038, 1050; [Pub. L. 110–245, title I, § 104(a)][/us/pl/110/245/s104/a], June 17, 2008, [122 Stat. 1626][/us/stat/122/1626]; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(d)(2)(A)–(C), 109(a)–(b)(2), title II, § 201(a), Dec. 23, 2008, [122 Stat. 5099][/us/stat/122/5099], 5111, 5116; [Pub. L. 111–152, title I, § 1004(d)(5)][/us/pl/111/152/s1004/d/5], Mar. 30, 2010, [124 Stat. 1036][/us/stat/124/1036]; [Pub. L. 113–97, title II, § 202(c)(3)(A)][/us/pl/113/97/s202/c/3/A], (4), (5), Apr. 7, 2014, [128 Stat. 1136][/us/stat/128/1136].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -1746,6 +1746,14 @@
     The Railroad Retirement Act of 1974, referred to in subsec. (l)(6), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended generally by [Pub. L. 93–445, title I, § 101][/us/pl/93/445/s101], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(29). [Pub. L. 113–97, § 202(c)(3)(A)][/us/pl/113/97/s202/c/3/A], substituted “multiemployer plan or a CSEC plan” for “multiemployer plan”.
+
+    Subsec. (a)(32)(A). [Pub. L. 113–97, § 202(c)(5)(A)][/us/pl/113/97/s202/c/5/A], substituted “430(j)(4) or 433(f)(5)” for “430(j)(4)” in two places.
+
+    Subsec. (a)(32)(C). [Pub. L. 113–97, § 202(c)(5)(B)][/us/pl/113/97/s202/c/5/B], substituted “430(j)(3) or 433(f) by reason of section 430(j)(4)(A) or 433(f)(5), respectively” for “430(j)(3) by reason of section 430(j)(4)(A) thereof”.
+
+    Subsec. (a)(33)(C). [Pub. L. 113–97, § 202(c)(4)][/us/pl/113/97/s202/c/4], substituted “multiemployer plans or CSEC plans” for “multiemployer plans”.
 
     2010—Subsec. (h). [Pub. L. 111–152][/us/pl/111/152] inserted at end “For purposes of this subsection, the term ‘dependent’ shall include any individual who is a child (as defined in section 152(f)(1)) of a retired employee who as of the end of the calendar year has not attained age 27.”
 
@@ -2440,6 +2448,12 @@
     [Pub. L. 87–792, § 2(3)][/us/pl/87/792/s2/3], redesignated former subsec. (c) as (h).
 
     Subsec. (i). [Pub. L. 87–863][/us/pl/87/863] redesignated former subsec. (h) as (i).
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–97, § 3][/us/pl/113/97/s3], Apr. 7, 2014, [128 Stat. 1101][/us/stat/128/1101], provided that: 
+
+> “Unless otherwise specified in this Act \[see Tables for classification\], the provisions of this Act shall apply to years beginning after December 31, 2013.”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -3499,7 +3513,7 @@
 
  __Special Rules for Multiple Employer Plans of Certain Cooperatives__ 
 
-[Pub. L. 109–280, title I, § 104][/us/pl/109/280/s104], Aug. 17, 2006, [120 Stat. 816][/us/stat/120/816], as amended by [Pub. L. 111–192, title II, § 202(b)][/us/pl/111/192/s202/b], June 25, 2010, [124 Stat. 1298][/us/stat/124/1298], provided that:
+[Pub. L. 109–280, title I, § 104][/us/pl/109/280/s104], Aug. 17, 2006, [120 Stat. 816][/us/stat/120/816], as amended by [Pub. L. 111–192, title II, § 202(b)][/us/pl/111/192/s202/b], June 25, 2010, [124 Stat. 1298][/us/stat/124/1298]; [Pub. L. 113–97, title I, § 103(b)][/us/pl/113/97/s103/b], Apr. 7, 2014, [128 Stat. 1117][/us/stat/128/1117], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -3529,9 +3543,77 @@
 
 >         A plan shall also be treated as an eligible cooperative plan for any plan year for which it is described in section 210(a) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1060(a)][/us/usc/t29/s1060/a]\] and is maintained by a rural telephone cooperative association described in section 3(40)(B)(v) of such Act \[[29 U.S.C. 1002(40)(B)(v)][/us/usc/t29/s1002/40/B/v]\].
 
->     “(d)  __Eligible Charity Plan Defined__  __.—__ 
+>     “(d) __Eligible Charity Plan Defined.—__ 
 
->     For purposes of this section, a plan shall be treated as an eligible charity plan for a plan year if the plan is maintained by more than one employer (determined without regard to section 414(c) of the Internal Revenue Code) and 100 percent of the employers are described in section 501(c)(3) of such Code.”
+>         “(1)  __In general__  __.—__ 
+
+>         For purposes of this section, a plan shall be treated as an eligible charity plan for a plan year if the plan is maintained by more than one employer (determined without regard to section 414(c) of the Internal Revenue Code) and 100 percent of the employers are described in section 501(c)(3) of such Code.
+
+>         “(2)  __Election not to be an eligible charity plan__  __.—__ 
+
+>         A plan sponsor may elect for a plan to cease to be treated as an eligible charity plan for plan years beginning after December 31, 2013. Such election shall be made at such time and in such form and manner as shall be prescribed by the Secretary of the Treasury. Any such election may be revoked only with the consent of the Secretary of the Treasury.
+
+>         “(3) __Election to use funding options available to other plan sponsors.—__ 
+
+>             “(A) A plan sponsor that makes the election described in paragraph (2) may elect for a plan to apply the rules described in subparagraphs (B), (C), and (D) for plan years beginning after December 31, 2013. Such election shall be made at such time and in such form and manner as shall be prescribed by the Secretary of the Treasury. Any such election may be revoked only with the consent of the Secretary of the Treasury.
+
+>             “(B)
+
+>              Under the rules described in this subparagraph, for the first plan year beginning after December 31, 2013, a plan has—
+
+>                 “(i) an 11-year shortfall amortization base,
+
+>                 “(ii) a 12-year shortfall amortization base, and
+
+>                 “(iii) a 7-year shortfall amortization base.
+
+>             “(C)
+
+>              Under the rules described in this subparagraph, section 303(c)(2)(A) and (B) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1083(c)(2)(A)][/us/usc/t29/s1083/c/2/A], (B)\], and section 430(c)(2)(A) and (B) of the Internal Revenue Code of 1986 shall be applied by—
+
+>                 “(i) in the case of an 11-year shortfall amortization base, substituting ‘11-plan-year period’ for ‘7-plan-year period’ wherever such phrase appears, and
+
+>                 “(ii) in the case of a 12-year shortfall amortization base, substituting ‘12-plan-year period’ for ‘7-plan-year period’ wherever such phrase appears.
+
+>             “(D)
+
+>              Under the rules described in this subparagraph, section 303(c)(7) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1083(c)(7)][/us/usc/t29/s1083/c/7]\] and section 430(c)(7) of the Internal Revenue Code of 1986 shall apply to a plan for which an election has been made under subparagraph (A). Such provisions shall apply in the following manner:
+
+>                 “(i) The first plan year beginning after December 31, 2013, shall be treated as an election year, and no other plan years shall be so treated.
+
+>                 “(ii) All references in section 303(c)(7) of such Act \[[29 U.S.C. 1083(c)(7)][/us/usc/t29/s1083/c/7]\] and section 430(c)(7) of such Code to ‘February 28, 2010’ or ‘March 1, 2010’ shall be treated as references to ‘February 28, 2013’ or ‘March 1, 2013’, respectively.
+
+>             “(E)
+
+>              For purposes of this paragraph, the 11-year amortization base is an amount, determined for the first plan year beginning after December 31, 2013, equal to the unamortized principal amount of the shortfall amortization base (as defined in section 303(c)(3) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1083(c)(3)][/us/usc/t29/s1083/c/3]\] and section 430(c)(3) of the Internal Revenue Code of 1986) that would have applied to the plan for the first plan beginning after December 31, 2009, if—
+
+>                 “(i) the plan had never been an eligible charity plan,
+
+>                 “(ii) the plan sponsor had made the election described in section 303(c)(2)(D)(i) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1083(c)(2)(D)(i)][/us/usc/t29/s1083/c/2/D/i]\] and in section 430(c)(2)(D)(i) of the Internal Revenue Code of 1986 to have section 303(c)(2)(D)(i) of such Act and section 430(c)(2)(D)(iii) of such Code apply with respect to the shortfall amortization base for the first plan year beginning after December 31, 2009, and
+
+>                 “(iii) no event had occurred under paragraph (6) or (7) of section 303(c) of such Act \[[29 U.S.C. 1083(c)(6)][/us/usc/t29/s1083/c/6], (7)\] or paragraph (6) or (7) of section 430(c) of such Code that, as of the first day of the first plan year beginning after December 31, 2013, would have modified the shortfall amortization base or the shortfall amortization installments with respect to the first plan year beginning after December 31, 2009.
+
+>             “(F)
+
+>              For purposes of this paragraph, the 12-year amortization base is an amount, determined for the first plan year beginning after December 31, 2013, equal to the unamortized principal amount of the shortfall amortization base (as defined in section 303(c)(3) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1083(c)(3)][/us/usc/t29/s1083/c/3]\] and section 430(c)(3) of the Internal Revenue Code of 1986) that would have applied to the plan for the first plan beginning after December 31, 2010, if—
+
+>                 “(i) the plan had never been an eligible charity plan,
+
+>                 “(ii) the plan sponsor had made the election described in section 303(c)(2)(D)(i) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1083(c)(2)(D)(i)][/us/usc/t29/s1083/c/2/D/i]\] and in section 430(c)(2)(D)(i) of the Internal Revenue Code of 1986 to have section 303(c)(2)(D)(i) of such Act and section 430(c)(2)(D)(iii) of such Code apply with respect to the shortfall amortization base for the first plan year beginning after December 31, 2010, and
+
+>                 “(iii) no event had occurred under paragraph (6) or (7) of section 303(c) of such Act \[[29 U.S.C. 1083(c)(6)][/us/usc/t29/s1083/c/6], (7)\] or paragraph (6) or (7) of section 430(c) of such Code that, as of the first day of the first plan year beginning after December 31, 2013, would have modified the shortfall amortization base or the shortfall amortization installments with respect to the first plan year beginning after December 31, 2010.
+
+>             “(G)
+
+>              For purposes of this paragraph, the 7-year shortfall amortization base is an amount, determined for the first plan year beginning after December 31, 2013, equal to—
+
+>                 “(i) the shortfall amortization base for the first plan year beginning after December 31, 2013, without regard to this paragraph, minus
+
+>                 “(ii) the sum of the 11-year shortfall amortization base and the 12-year shortfall amortization base.
+
+>         “(4)  __Retroactive election__  __.—__ 
+
+>         Not later than December 31, 2014, a plan sponsor may make a one-time, irrevocable, retroactive election to not be treated as an eligible charity plan. Such election shall be effective for plan years beginning after December 31, 2007, and shall be made by providing reasonable notice to the Secretary of the Treasury.”
 
 \[[Pub. L. 111–192, title II, § 202(c)(2)][/us/pl/111/192/s202/c/2], June 25, 2010, [124 Stat. 1299][/us/stat/124/1299], provided that: 
 
@@ -4050,6 +4132,8 @@
 [/us/stat/122/5099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5099
 [/us/pl/111/152/s1004/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1004%2Fd%2F5
 [/us/stat/124/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1036
+[/us/pl/113/97/s202/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F3%2FA
+[/us/stat/128/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1136
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F829
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
@@ -4062,6 +4146,10 @@
 [/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
 [/us/usc/t45/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231
 [/us/usc/t45/s231t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231t
+[/us/pl/113/97/s202/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F3%2FA
+[/us/pl/113/97/s202/c/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F5%2FA
+[/us/pl/113/97/s202/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F5%2FB
+[/us/pl/113/97/s202/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F4
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 [/us/pl/110/458/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs201%2Fa
 [/us/pl/110/458/s101/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fd%2F2%2FA
@@ -4366,6 +4454,8 @@
 [/us/pl/87/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F863
 [/us/pl/87/792/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792%2Fs2%2F3
 [/us/pl/87/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F863
+[/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
+[/us/stat/128/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1101
 [/us/pl/111/192/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs202%2Fc%2F1
 [/us/stat/124/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1299
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
@@ -4772,6 +4862,8 @@
 [/us/stat/120/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F816
 [/us/pl/111/192/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs202%2Fb
 [/us/stat/124/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1298
+[/us/pl/113/97/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs103%2Fb
+[/us/stat/128/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1117
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
@@ -4780,6 +4872,15 @@
 [/us/usc/t29/s1083/h/2/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fh%2F2%2FC%2Fiii
 [/us/usc/t29/s1060/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1060%2Fa
 [/us/usc/t29/s1002/40/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F40%2FB%2Fv
+[/us/usc/t29/s1083/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fc%2F2%2FA
+[/us/usc/t29/s1083/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fc%2F7
+[/us/usc/t29/s1083/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fc%2F7
+[/us/usc/t29/s1083/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fc%2F3
+[/us/usc/t29/s1083/c/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fc%2F2%2FD%2Fi
+[/us/usc/t29/s1083/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fc%2F6
+[/us/usc/t29/s1083/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fc%2F3
+[/us/usc/t29/s1083/c/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fc%2F2%2FD%2Fi
+[/us/usc/t29/s1083/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fc%2F6
 [/us/pl/111/192/s202/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs202%2Fc%2F2
 [/us/stat/124/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1299
 [/us/pl/109/280/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs104

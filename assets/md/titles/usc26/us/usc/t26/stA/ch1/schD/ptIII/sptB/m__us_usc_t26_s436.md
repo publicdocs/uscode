@@ -17,7 +17,7 @@
 
     (a) __General rule__ 
 
-        For purposes of section 401(a)(29), a defined benefit plan which is a single-employer plan shall be treated as meeting the requirements of this section if the plan meets the requirements of subsections (b), (c), (d), and (e).
+        For purposes of section 401(a)(29), a defined benefit plan which is a single-employer plan (other than a CSEC plan) shall be treated as meeting the requirements of this section if the plan meets the requirements of subsections (b), (c), (d), and (e).
 
     (b) __Funding-based limitation on shutdown benefits and other unpredictable contingent event benefits under single-employer plans__ 
 
@@ -319,7 +319,7 @@
 
         For purposes of this section, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary may provide.
 
-(Added [Pub. L. 109–280, title I, § 113(a)(1)(B)][/us/pl/109/280/s113/a/1/B], Aug. 17, 2006, [120 Stat. 847][/us/stat/120/847]; amended [Pub. L. 110–458, title I, § 101(c)(2)][/us/pl/110/458/s101/c/2], Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097]; [Pub. L. 111–192, title II, § 203(a)(2)][/us/pl/111/192/s203/a/2], June 25, 2010, [124 Stat. 1300][/us/stat/124/1300].)
+(Added [Pub. L. 109–280, title I, § 113(a)(1)(B)][/us/pl/109/280/s113/a/1/B], Aug. 17, 2006, [120 Stat. 847][/us/stat/120/847]; amended [Pub. L. 110–458, title I, § 101(c)(2)][/us/pl/110/458/s101/c/2], Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097]; [Pub. L. 111–192, title II, § 203(a)(2)][/us/pl/111/192/s203/a/2], June 25, 2010, [124 Stat. 1300][/us/stat/124/1300]; [Pub. L. 113–97, title II, § 202(c)(3)(B)][/us/pl/113/97/s202/c/3/B], Apr. 7, 2014, [128 Stat. 1136][/us/stat/128/1136].)
 
  __References in Text__ 
 
@@ -328,6 +328,8 @@
     Section 412 of the Employee Retirement Income Security Act of 1974, referred to in subsec (f)(1)(B)(i), is classified to [section 1112 of Title 29][/us/usc/t29/s1112], Labor.
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–97][/us/pl/113/97] substituted “single-employer plan (other than a CSEC plan)” for “single-employer plan”.
 
     2010—Subsec. (j)(3). [Pub. L. 111–192][/us/pl/111/192] added par. (3) relating to special rule for certain years.
 
@@ -346,6 +348,10 @@
     Subsec. (j)(3)(C). [Pub. L. 110–458, § 101(c)(2)(E)(ii)][/us/pl/110/458/s101/c/2/E/ii], substituted “without regard to the reduction in the value of assets under section 430(f)(4)” for “without regard to this paragraph” and inserted “beginning” before “after” in two places.
 
     Subsecs. (k) to (m). [Pub. L. 110–458, § 101(c)(2)(F)][/us/pl/110/458/s101/c/2/F], added subsecs. (k) and (l) and redesignated former subsec. (k) as (m).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–97][/us/pl/113/97] applicable to years beginning after Dec. 31, 2013, see [section 3 of Pub. L. 113–97][/us/pl/113/97/s3], set out as a note under [section 401 of this title][/us/usc/t26/s401].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -414,8 +420,11 @@
 [/us/stat/122/5097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5097
 [/us/pl/111/192/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs203%2Fa%2F2
 [/us/stat/124/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1300
+[/us/pl/113/97/s202/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F3%2FB
+[/us/stat/128/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1136
 [/us/usc/t29/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322
 [/us/usc/t29/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1112
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/111/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192
 [/us/pl/110/458/s101/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F2%2FA
 [/us/pl/110/458/s101/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F2%2FB
@@ -425,6 +434,9 @@
 [/us/pl/110/458/s101/c/2/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F2%2FE%2Fi
 [/us/pl/110/458/s101/c/2/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F2%2FE%2Fii
 [/us/pl/110/458/s101/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F2%2FF
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
+[/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/111/192/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs203%2Fc
 [/us/stat/124/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1300
 [/us/usc/t29/s1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1056

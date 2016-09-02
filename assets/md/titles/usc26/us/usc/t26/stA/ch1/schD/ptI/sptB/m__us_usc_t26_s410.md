@@ -553,6 +553,20 @@
 
     Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity Commission shall each issue before Feb. 1, 1988, final regulations to carry out amendments made by [section 9203 of Pub. L. 99–509][/us/pl/99/509/s9203], see [section 9204 of Pub. L. 99–509][/us/pl/99/509/s9204], set out as a note under [section 623 of Title 29][/us/usc/t29/s623], Labor.
 
+ __Deemed Election__ 
+
+[Pub. L. 113–97, title I, § 103(c)][/us/pl/113/97/s103/c], Apr. 7, 2014, [128 Stat. 1120][/us/stat/128/1120], provided that: 
+
+> “For purposes of the Internal Revenue Code of 1986, sections 4(b)(2) and 4021(b)(3) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1003(b)(2)][/us/usc/t29/s1003/b/2], 1321(b)(3)\], and all other purposes, a plan shall be deemed to have made an irrevocable election under section 410(d) of the Internal Revenue Code of 1986 if—
+
+>     “(1) the plan was established before January 1, 2014;
+
+>     “(2) the plan falls within the definition of a CSEC plan;
+
+>     “(3) the plan sponsor does not make an election under section 210(f)(3)(A) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1060(f)(3)(A)][/us/usc/t29/s1060/f/3/A]\] and section 414(y)(3)(A) of the Internal Revenue Code of 1986, as added by this Act; and
+
+>     “(4) the plan, plan sponsor, administrator, or fiduciary remits one or more premium payments for the plan to the Pension Benefit Guaranty Corporation for a plan year beginning after December 31, 2013.”
+
  __Plan Amendments Not Required Until January 1, 1989__ 
 
     For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§ 1101–1147 and 1171–1177\] or title XVIII \[§§ 1800–1899A\] of [Pub. L. 99–514][/us/pl/99/514] require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see [section 1140 of Pub. L. 99–514][/us/pl/99/514/s1140], as amended, set out as a note under [section 401 of this title][/us/usc/t26/s401].
@@ -669,6 +683,10 @@
 [/us/pl/99/509/s9203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9203
 [/us/pl/99/509/s9204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9204
 [/us/usc/t29/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs623
+[/us/pl/113/97/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs103%2Fc
+[/us/stat/128/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1120
+[/us/usc/t29/s1003/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1003%2Fb%2F2
+[/us/usc/t29/s1060/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1060%2Ff%2F3%2FA
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401

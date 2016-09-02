@@ -19,19 +19,23 @@
 
     If at any time during any taxable year an employer maintains a plan to which section 412 applies, there is hereby imposed for the taxable year a tax equal to—
 
-        (1) in the case of a single-employer plan, 10 percent of the aggregate unpaid minimum required contributions for all plan years remaining unpaid as of the end of any plan year ending with or within the taxable year, and
+        (1) in the case of a single-employer plan, 10 percent of the aggregate unpaid minimum required contributions for all plan years remaining unpaid as of the end of any plan year ending with or within the taxable year,
 
-        (2) in the case of a multiemployer plan, 5 percent of the accumulated funding deficiency determined under section 431 as of the end of any plan year ending with or within the taxable year.
+        (2) in the case of a multiemployer plan, 5 percent of the accumulated funding deficiency determined under section 431 as of the end of any plan year ending with or within the taxable year, and
+
+        (3) in the case of a CSEC plan, 10 percent of the CSEC accumulated funding deficiency as of the end of the plan year ending with or within the taxable year.
 
     (b) __Additional tax__ 
 
     If—
 
-        (1) a tax is imposed under subsection (a)(1) on any unpaid minimum required contribution and such amount remains unpaid as of the close of the taxable period, or
+        (1) a tax is imposed under subsection (a)(1) on any unpaid minimum required contribution and such amount remains unpaid as of the close of the taxable period,
 
-        (2) a tax is imposed under subsection (a)(2) on any accumulated funding deficiency and the accumulated funding deficiency is not corrected within the taxable period,
+        (2) a tax is imposed under subsection (a)(2) on any accumulated funding deficiency and the accumulated funding deficiency is not corrected within the taxable period, or
 
-        there is hereby imposed a tax equal to 100 percent of the unpaid minimum required contribution or accumulated funding deficiency, whichever is applicable, to the extent not so paid or corrected.
+        (3) a tax is imposed under subsection (a)(3) on any CSEC accumulated funding deficiency and the CSEC accumulated funding deficiency is not corrected within the taxable period,
+
+        there is hereby imposed a tax equal to 100 percent of the unpaid minimum required contribution, accumulated funding deficiency, or CSEC accumulated funding deficiency, whichever is applicable, to the extent not so paid or corrected.
 
     (c) __Definitions__ 
 
@@ -43,11 +47,11 @@
 
         (2) __Correct__ 
 
-            The term “correct” means, with respect to an accumulated funding deficiency, the contribution, to or under the plan, of the amount necessary to reduce such accumulated funding deficiency as of the end of a plan year in which such deficiency arose to zero.
+            The term “correct” means, with respect to an accumulated funding deficiency or CSEC accumulated funding deficiency, the contribution, to or under the plan, of the amount necessary to reduce such accumulated funding deficiency or CSEC accumulated funding deficiency as of the end of a plan year in which such deficiency arose to zero.
 
         (3) __Taxable period__ 
 
-        The term “taxable period” means, with respect to an accumulated funding deficiency or unpaid minimum required contribution, whichever is applicable, the period beginning with the end of the plan year in which there is an accumulated funding deficiency or unpaid minimum required contribution, whichever is applicable  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  and ending on the earlier of—
+        The term “taxable period” means, with respect to an accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution, whichever is applicable, the period beginning with the end of the plan year in which there is an accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution, whichever is applicable  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  and ending on the earlier of—
 
             (A) the date of mailing of a notice of deficiency with respect to the tax imposed by subsection (a), or
 
@@ -63,11 +67,15 @@
 
                 Any payment to or under a plan for any plan year shall be allocated first to unpaid minimum required contributions for all preceding plan years on a first-in, first-out basis and then to the minimum required contribution under section 430 for the plan year.
 
+        (5) __CSEC accumulated funding deficiency__ 
+
+            The term “CSEC accumulated funding deficiency” means the accumulated funding deficiency determined under section 433.
+
     (d) __Notification of the Secretary of Labor__ 
 
     Before issuing a notice of deficiency with respect to the tax imposed by subsection (a) or (b), the Secretary shall notify the Secretary of Labor and provide him a reasonable opportunity (but not more than 60 days)—
 
-        (1) to require the employer responsible for contributing to or under the plan to eliminate the accumulated funding deficiency or unpaid minimum required contribution, whichever is applicable, or
+        (1) to require the employer responsible for contributing to or under the plan to eliminate the accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution, whichever is applicable, or
 
         (2) to comment on the imposition of such tax.
 
@@ -93,11 +101,11 @@
 
         (1) __In general__ 
 
-        In the case of a plan to which section 430(j)(4) applies, there is hereby imposed a tax of 10 percent of the excess (if any) of—
+        In the case of a plan to which section 430(j)(4) or 433(f) applies, there is hereby imposed a tax of 10 percent of the excess (if any) of—
 
             (A) the amount of the liquidity shortfall for any quarter, over
 
-            (B) the amount of such shortfall which is paid by the required installment under section 430(j) for such quarter (but only if such installment is paid on or before the due date for such installment).
+            (B) the amount of such shortfall which is paid by the required installment under section 430(j) or 433(f), whichever is applicable 1 for such quarter (but only if such installment is paid on or before the due date for such installment).
 
         (2) __Additional tax__ 
 
@@ -107,7 +115,7 @@
 
             (A) __Liquidity shortfall; quarter__ 
 
-                For purposes of this subsection, the terms “liquidity shortfall” and “quarter” have the respective meanings given such terms by section 412(m)(5). <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup> 
+                For purposes of this subsection, the terms “liquidity shortfall” and “quarter” have the respective meanings given such terms by section 430(j) or 433(f), whichever is applicable.
 
             (B) __Special rule__ 
 
@@ -195,7 +203,25 @@
 
             For purposes of this subsection, any term used in this subsection which is also used in section 432 shall have the meaning given such term by section 432.
 
-    (h) __Cross references__ 
+    (h) __Failure of a CSEC plan sponsor to adopt funding restoration plan__ 
+
+        (1) __In general__ 
+
+            In the case of a CSEC plan that is in funding restoration status (within the meaning of section 433(j)(5)(A)), there is hereby imposed a tax on the failure of such plan to adopt a funding restoration plan within the time prescribed under section 433(j)(3).
+
+        (2) __Amount of tax__ 
+
+            The amount of the tax imposed under paragraph (1) with respect to any plan sponsor for any taxable year shall be the amount equal to $100 multiplied by the number of days during the taxable year which are included in the period beginning on the day following the close of the 180-day period described in section 433(j)(3) and ending on the day on which the funding restoration plan is adopted.
+
+        (3) __Waiver by Secretary__ 
+
+            In the case of a failure described in paragraph (1) which the Secretary determines is due to reasonable cause and not to willful neglect, the Secretary may waive a portion or all of the tax imposed by such paragraph.
+
+        (4) __Liability for tax__ 
+
+            The tax imposed by paragraph (1) shall be paid by the plan sponsor (within the meaning of section 433(j)(5)(E)).
+
+    (i) __Cross references__ 
 
         For disallowance of deduction for taxes paid under this section, see section 275.
 
@@ -203,7 +229,7 @@
 
         For provisions concerning notification of Secretary of Labor of imposition of tax under this section, waiver of the tax imposed by subsection (b), and other coordination between Secretary of the Treasury and Secretary of Labor with respect to compliance with this section, see section 3002(b) of title III of the Employee Retirement Income Security Act of 1974.
 
-(Added [Pub. L. 93–406, title II, § 1013(b)][/us/pl/93/406/s1013/b], Sept. 2, 1974, [88 Stat. 920][/us/stat/88/920]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–364, title II, § 204][/us/pl/96/364/s204], Sept. 26, 1980, [94 Stat. 1287][/us/stat/94/1287]; [Pub. L. 96–596, § 2(a)(1)(J)][/us/pl/96/596/s2/a/1/J], (2)(H), Dec. 24, 1980, [94 Stat. 3469][/us/stat/94/3469], 3471; [Pub. L. 100–203, title IX][/us/pl/100/203], §§ 9304(c)(1), 9305(a), Dec. 22, 1987, [101 Stat. 1330–348][/us/stat/101/1330-348], 1330–351; [Pub. L. 103–465, title VII, § 751(a)(9)(B)][/us/pl/103/465/s751/a/9/B], Dec. 8, 1994, [108 Stat. 5020][/us/stat/108/5020]; [Pub. L. 104–188, title I, § 1464(a)][/us/pl/104/188/s1464/a], Aug. 20, 1996, [110 Stat. 1824][/us/stat/110/1824]; [Pub. L. 109–280, title I, § 114(e)(1)][/us/pl/109/280/s114/e/1]–(4), title II, § 212(b), Aug. 17, 2006, [120 Stat. 854][/us/stat/120/854], 855, 915; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(d)(2)(F), 102(b)(2)(I), (3)(A), Dec. 23, 2008, [122 Stat. 5099][/us/stat/122/5099], 5103.)
+(Added [Pub. L. 93–406, title II, § 1013(b)][/us/pl/93/406/s1013/b], Sept. 2, 1974, [88 Stat. 920][/us/stat/88/920]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–364, title II, § 204][/us/pl/96/364/s204], Sept. 26, 1980, [94 Stat. 1287][/us/stat/94/1287]; [Pub. L. 96–596, § 2(a)(1)(J)][/us/pl/96/596/s2/a/1/J], (2)(H), Dec. 24, 1980, [94 Stat. 3469][/us/stat/94/3469], 3471; [Pub. L. 100–203, title IX][/us/pl/100/203], §§ 9304(c)(1), 9305(a), Dec. 22, 1987, [101 Stat. 1330–348][/us/stat/101/1330-348], 1330–351; [Pub. L. 103–465, title VII, § 751(a)(9)(B)][/us/pl/103/465/s751/a/9/B], Dec. 8, 1994, [108 Stat. 5020][/us/stat/108/5020]; [Pub. L. 104–188, title I, § 1464(a)][/us/pl/104/188/s1464/a], Aug. 20, 1996, [110 Stat. 1824][/us/stat/110/1824]; [Pub. L. 109–280, title I, § 114(e)(1)][/us/pl/109/280/s114/e/1]–(4), title II, § 212(b), Aug. 17, 2006, [120 Stat. 854][/us/stat/120/854], 855, 915; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(d)(2)(F), 102(b)(2)(I), (3)(A), Dec. 23, 2008, [122 Stat. 5099][/us/stat/122/5099], 5103; [Pub. L. 113–97, title II, § 202(c)(8)][/us/pl/113/97/s202/c/8], (9), Apr. 7, 2014, [128 Stat. 1137][/us/stat/128/1137], 1138.)
 
  __Amendment of Section__ 
 
@@ -211,11 +237,31 @@
 
  __References in Text__ 
 
-    Section 412, referred to in subsec. (f)(3)(A), was amended generally by [Pub. L. 109–280, title I, § 111(a)][/us/pl/109/280/s111/a], Aug. 17, 2006, [120 Stat. 820][/us/stat/120/820], and as so amended, no longer contains a subsec. (m)(5).
-
-    Section 3002(b) of title III of the Employee Retirement Income Security Act of 1974, referred to in subsec. (h), is classified to [section 1202(b) of Title 29][/us/usc/t29/s1202/b], Labor.
+    Section 3002(b) of title III of the Employee Retirement Income Security Act of 1974, referred to in subsec. (i), is classified to [section 1202(b) of Title 29][/us/usc/t29/s1202/b], Labor.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(3). [Pub. L. 113–97, § 202(c)(8)(A)][/us/pl/113/97/s202/c/8/A], added par. (3).
+
+    Subsec. (b). [Pub. L. 113–97, § 202(c)(8)(B)(ii)][/us/pl/113/97/s202/c/8/B/ii], which directed substitution of “minimum required contribution, accumulated funding deficiency, or CSEC accumulated funding deficiency” for “minimum required contributions or accumulated funding deficiency”, was executed by making the substitution for “minimum required contribution or accumulated funding deficiency” in concluding provisions, to reflect the probable intent of Congress.
+
+    Subsec. (b)(3). [Pub. L. 113–97, § 202(c)(8)(B)(i)][/us/pl/113/97/s202/c/8/B/i], added par. (3).
+
+    Subsec. (c)(2). [Pub. L. 113–97, § 202(c)(8)(C)(i)][/us/pl/113/97/s202/c/8/C/i], substituted “accumulated funding deficiency or CSEC accumulated funding deficiency” for “accumulated funding deficiency” in two places.
+
+    Subsec. (c)(3). [Pub. L. 113–97, § 202(c)(8)(C)(ii)][/us/pl/113/97/s202/c/8/C/ii], substituted “accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution” for “accumulated funding deficiency or unpaid minimum required contribution” in two places in introductory provisions.
+
+    Subsec. (c)(5). [Pub. L. 113–97, § 202(c)(8)(C)(iii)][/us/pl/113/97/s202/c/8/C/iii], added par. (5).
+
+    Subsec. (d)(1). [Pub. L. 113–97, § 202(c)(8)(D)][/us/pl/113/97/s202/c/8/D], substituted “accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution” for “accumulated funding deficiency or unpaid minimum required contribution”.
+
+    Subsec. (f)(1). [Pub. L. 113–97, § 202(c)(8)(E)(i)][/us/pl/113/97/s202/c/8/E/i], substituted “430(j)(4) or 433(f)” for “430(j)(4)” in introductory provisions.
+
+    Subsec. (f)(1)(B). [Pub. L. 113–97, § 202(c)(8)(E)(ii)][/us/pl/113/97/s202/c/8/E/ii], substituted “430(j) or 433(f), whichever is applicable” for “430(j)”.
+
+    Subsec. (f)(3)(A). [Pub. L. 113–97, § 202(c)(8)(E)(iii)][/us/pl/113/97/s202/c/8/E/iii], substituted “430(j) or 433(f), whichever is applicable” for “412(m)(5)”.
+
+    Subsecs. (h), (i). [Pub. L. 113–97, § 202(c)(9)][/us/pl/113/97/s202/c/9], added subsec. (h) and redesignated former subsec. (h) as (i).
 
     2008—Subsec. (b)(1). [Pub. L. 110–458, § 101(d)(2)(F)(i)][/us/pl/110/458/s101/d/2/F/i], substituted “minimum required” for “required minimum”.
 
@@ -272,6 +318,10 @@
     Subsec. (d). [Pub. L. 96–364, § 204(2)][/us/pl/96/364/s204/2], inserted provisions relating to a multiemployer plan in reorganization.
 
     1976—Subsecs. (c), (d). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary” wherever appearing.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–97][/us/pl/113/97] applicable to years beginning after Dec. 31, 2013, see [section 3 of Pub. L. 113–97][/us/pl/113/97/s3], set out as a note under [section 401 of this title][/us/usc/t26/s401].
 
  __Effective Date of 2008 Amendment__ 
 
@@ -374,10 +424,21 @@
 [/us/stat/120/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F854
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/stat/122/5099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5099
+[/us/pl/113/97/s202/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F8
+[/us/stat/128/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1137
 [/us/pl/109/280/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs221%2Fc
-[/us/pl/109/280/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs111%2Fa
-[/us/stat/120/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F820
 [/us/usc/t29/s1202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1202%2Fb
+[/us/pl/113/97/s202/c/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F8%2FA
+[/us/pl/113/97/s202/c/8/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F8%2FB%2Fii
+[/us/pl/113/97/s202/c/8/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F8%2FB%2Fi
+[/us/pl/113/97/s202/c/8/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F8%2FC%2Fi
+[/us/pl/113/97/s202/c/8/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F8%2FC%2Fii
+[/us/pl/113/97/s202/c/8/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F8%2FC%2Fiii
+[/us/pl/113/97/s202/c/8/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F8%2FD
+[/us/pl/113/97/s202/c/8/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F8%2FE%2Fi
+[/us/pl/113/97/s202/c/8/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F8%2FE%2Fii
+[/us/pl/113/97/s202/c/8/E/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F8%2FE%2Fiii
+[/us/pl/113/97/s202/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F9
 [/us/pl/110/458/s101/d/2/F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fd%2F2%2FF%2Fi
 [/us/pl/110/458/s101/d/2/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fd%2F2%2FF%2Fii
 [/us/pl/110/458/s101/d/2/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fd%2F2%2FF%2Fii
@@ -408,6 +469,9 @@
 [/us/usc/t26/s6213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6213%2Fa
 [/us/pl/96/364/s204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs204%2F2
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
+[/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/458/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs112

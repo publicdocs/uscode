@@ -25,7 +25,7 @@
 
         (1) a description of the funding method and actuarial assumptions used to determine costs under the plan,
 
-        (2) a certification of the contribution necessary to reduce the minimum required contribution determined under section 430, or the accumulated funding deficiency determined under section 431, to zero,
+        (2) a certification of the contribution necessary to reduce the minimum required contribution determined under section 430, the accumulated funding deficiency under section 433, or the accumulated funding deficiency determined under section 431, to zero,
 
         (3)
 
@@ -33,7 +33,7 @@
 
             (A) that to the best of his knowledge the report is complete and accurate, and
 
-            (B) the requirements for reasonable actuarial assumptions under section 430(h)(1) or 431(c)(3), whichever are applicable, have been complied with. <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should be a comma. </sup></sup> 
+            (B) the requirements for reasonable actuarial assumptions under section 430(h)(1), 431(c)(3), or 433(c)(3), whichever are applicable, have been complied with. <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should be a comma. </sup></sup> 
 
         (4) such other information as may be necessary to fully and fairly disclose the actuarial position of the plan, and
 
@@ -47,7 +47,7 @@
 
         For coordination between the Department of the Treasury and the Department of Labor with respect to the report required to be filed under this section, see section 3004 of title III of the Employee Retirement Income Security Act of 1974.
 
-(Added [Pub. L. 93–406, title II, § 1033(a)][/us/pl/93/406/s1033/a], Sept. 2, 1974, [88 Stat. 947][/us/stat/88/947]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 109–280, title I, § 114(f)][/us/pl/109/280/s114/f], Aug. 17, 2006, [120 Stat. 855][/us/stat/120/855].)
+(Added [Pub. L. 93–406, title II, § 1033(a)][/us/pl/93/406/s1033/a], Sept. 2, 1974, [88 Stat. 947][/us/stat/88/947]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 109–280, title I, § 114(f)][/us/pl/109/280/s114/f], Aug. 17, 2006, [120 Stat. 855][/us/stat/120/855]; [Pub. L. 113–97, title II, § 202(c)(10)][/us/pl/113/97/s202/c/10], Apr. 7, 2014, [128 Stat. 1138][/us/stat/128/1138].)
 
  __References in Text__ 
 
@@ -55,11 +55,19 @@
 
  __Amendments__ 
 
+    2014—Subsec. (b)(2). [Pub. L. 113–97, § 202(c)(10)(A)][/us/pl/113/97/s202/c/10/A], substituted “430, the accumulated funding deficiency under section 433,” for “430,”.
+
+    Subsec. (b)(3)(B). [Pub. L. 113–97, § 202(c)(10)(B)][/us/pl/113/97/s202/c/10/B], substituted “430(h)(1), 431(c)(3), or 433(c)(3)” for “430(h)(1) or 431(c)(3)”.
+
     2006—Subsec. (b)(2). [Pub. L. 109–280, § 114(f)(1)][/us/pl/109/280/s114/f/1], substituted “the minimum required contribution determined under section 430, or the accumulated funding deficiency determined under section 431,” for “the accumulated funding deficiency (as defined in section 412(a))”.
 
     Subsec. (b)(3)(B). [Pub. L. 109–280, § 114(f)(2)][/us/pl/109/280/s114/f/2], added subpar. (B) and struck out former subpar. (B) which read as follows: “the requirements of section 412(c) (relating to reasonable actuarial assumptions) have been complied with,”.
 
     1976—[Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary” wherever appearing.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–97][/us/pl/113/97] applicable to years beginning after Dec. 31, 2013, see [section 3 of Pub. L. 113–97][/us/pl/113/97/s3], set out as a note under [section 401 of this title][/us/usc/t26/s401].
 
  __Effective Date of 2006 Amendment__ 
 
@@ -92,10 +100,17 @@
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/pl/109/280/s114/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs114%2Ff
 [/us/stat/120/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F855
+[/us/pl/113/97/s202/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F10
+[/us/stat/128/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1138
 [/us/usc/t29/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1204
+[/us/pl/113/97/s202/c/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F10%2FA
+[/us/pl/113/97/s202/c/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F10%2FB
 [/us/pl/109/280/s114/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs114%2Ff%2F1
 [/us/pl/109/280/s114/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs114%2Ff%2F2
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
+[/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s114/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs114%2Fg%2F1
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458

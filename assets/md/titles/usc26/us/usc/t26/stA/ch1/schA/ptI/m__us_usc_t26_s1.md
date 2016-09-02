@@ -1789,6 +1789,12 @@ The corresponding percentages shall be substituted for
 
 > “Except for purposes of section 21 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title \[amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title\] shall apply with respect to taxable years beginning after December 31, 1963.”
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–94, § 1][/us/pl/113/94/s1], Apr. 3, 2014, [128 Stat. 1085][/us/stat/128/1085], provided that: 
+
+> “This Act \[amending sections 9006, 9008, 9009, 9012, and 9037 of this title and sections 282 and 282a of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under [section 282a of Title 42][/us/usc/t42/s282a]\] may be cited as the ‘Gabriella Miller Kids First Research Act’.”
+
  __Short Title of 2013 Amendment__ 
 
 [Pub. L. 112–240, § 1(a)][/us/pl/112/240/s1/a], Jan. 2, 2013, [126 Stat. 2313][/us/stat/126/2313], provided that: 
@@ -3465,6 +3471,9 @@ The corresponding percentages shall be substituted for
 [/us/stat/78/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F30
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
+[/us/pl/113/94/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs1
+[/us/stat/128/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1085
+[/us/usc/t42/s282a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282a
 [/us/pl/112/240/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs1%2Fa
 [/us/stat/126/2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2313
 [/us/pl/112/141/s40001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40001

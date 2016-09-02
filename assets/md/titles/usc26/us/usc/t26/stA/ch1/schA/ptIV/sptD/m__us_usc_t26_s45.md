@@ -605,7 +605,7 @@
 
 (Added [Pub. L. 102–486, title XIX, § 1914(a)][/us/pl/102/486/s1914/a], Oct. 24, 1992, [106 Stat. 3020][/us/stat/106/3020]; amended [Pub. L. 106–170, title V, § 507(a)][/us/pl/106/170/s507/a]–(c), Dec. 17, 1999, [113 Stat. 1922][/us/stat/113/1922]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646; [Pub. L. 107–147, title VI, § 603(a)][/us/pl/107/147/s603/a], Mar. 9, 2002, [116 Stat. 59][/us/stat/116/59]; [Pub. L. 108–311, title III, § 313(a)][/us/pl/108/311/s313/a], Oct. 4, 2004, [118 Stat. 1181][/us/stat/118/1181]; [Pub. L. 108–357, title VII, § 710(a)][/us/pl/108/357/s710/a]–(d), (f), Oct. 22, 2004, [118 Stat. 1552–1557][/us/stat/118/1552-1557]; [Pub. L. 109–58, title XIII][/us/pl/109/58], §§ 1301(a)–(f)(4), 1302(a), 1322(a)(3)(C), Aug. 8, 2005, [119 Stat. 986–990][/us/stat/119/986-990], 1011; [Pub. L. 109–135, title IV][/us/pl/109/135], §§ 402(b), 403(t), 412(j), Dec. 21, 2005, [119 Stat. 2610][/us/stat/119/2610], 2628, 2637; [Pub. L. 109–432, div. A, title II, § 201][/us/pl/109/432/s201], Dec. 20, 2006, [120 Stat. 2944][/us/stat/120/2944]; [Pub. L. 110–172][/us/pl/110/172], §§ 7(b), 9(a), Dec. 29, 2007, [121 Stat. 2482][/us/stat/121/2482], 2484; [Pub. L. 110–343, div. B, title I][/us/pl/110/343], §§ 101(a)–(e), 102(a)–(e), 106(c)(3)(B), 108(a)–(d)(1), Oct. 3, 2008, [122 Stat. 3808–3810][/us/stat/122/3808-3810], 3815, 3819–3821; [Pub. L. 111–5, div. B, title I, § 1101(a)][/us/pl/111/5/s1101/a], (b), Feb. 17, 2009, [123 Stat. 319][/us/stat/123/319]; [Pub. L. 111–312, title VII, § 702(a)][/us/pl/111/312/s702/a], Dec. 17, 2010, [124 Stat. 3311][/us/stat/124/3311]; [Pub. L. 112–240, title IV][/us/pl/112/240], §§ 406(a), 407(a), Jan. 2, 2013, [126 Stat. 2340][/us/stat/126/2340].)
 
- __Inflation Adjusted Items for Certain Tax Years__ 
+ __Inflation Adjusted Items for Certain Years__ 
 
     For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.
 
@@ -963,9 +963,9 @@
 
     Section applicable to taxable years ending after Dec. 31, 1992, see [section 1914(e) of Pub. L. 102–486][/us/pl/102/486/s1914/e], set out as an Effective Date of 1992 Amendment note under [section 38 of this title][/us/usc/t26/s38].
 
- __Inflation Adjusted Items for Certain Tax Years__ 
+ __Inflation Adjusted Items for Certain Years__ 
 
-    Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
+    Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
     2013—Internal Revenue Notice 2013–33.
 
