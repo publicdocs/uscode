@@ -41,7 +41,7 @@
 
  __References in Text__ 
 
-    President’s Proclamation 4313 of September 16, 1974, referred to in subsec. (e)(2)(A), is set out as a note under [section 462 of Title 50][/us/usc/t50/s462], Appendix, War and National Defense.
+    President’s Proclamation 4313 of September 16, 1974, referred to in subsec. (e)(2)(A), is set out as a note under [section 3811 of Title 50][/us/usc/t50/s3811], War and National Defense.
 
  __Amendments__ 
 
@@ -138,7 +138,7 @@
 [/us/stat/105/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F238
 [/us/pl/102/83/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fa%2F1
 [/us/stat/105/403-405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F403-405
-[/us/usc/t50/s462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs462
+[/us/usc/t50/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3811
 [/us/pl/102/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40
 [/us/usc/t38/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3103
 [/us/pl/102/83/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs4%2Fb%2F1

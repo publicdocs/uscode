@@ -545,7 +545,7 @@
 
 [Pub. L. 111–275, § 1(a)][/us/pl/111/275/s1/a], Oct. 13, 2010, [124 Stat. 2864][/us/stat/124/2864], provided that: 
 
-> “This Act \[enacting sections 2021A and 2108 of this title and sections 597 to 597b of Title 50, Appendix, War and National Defense, amending sections 107, 315, 503, 1114, 1311, 1318, 1503, 1521, 1541, 1542, 1717, 1785, 1922A, 1967, 1968, 1977, 1980, 1980A, 2021, 2044, 2106, 2301, 2303, 2306, 2402, 3120, 3313, 3316, 3318, 3319, 3321, 3485, 3512, 3684, 3692, 3729, 3732, 3733, 3901, 3902, 4102A, 4303, 4324, 5111, 5503, 5510, 5723, 5727, 7325, 7903, 8104, 8111A, 8117, and 8127 of this title, [section 1316 of Title 2][/us/usc/t2/s1316], The Congress, [section 416 of Title 3][/us/usc/t3/s416], The President, and sections 527, 531 to 533, and 535 to 537 of Title 50, Appendix, enacting provisions set out as notes under this section and sections 107, 1114, 1318, 1503, 1521, 1922A, 1968, 1977, 1980, 1980A, 2106, 2303, 2400, 2402, 3120, 3317, 3485, 3732, 3901, 3902, 4102A, 4301, 4303, 5111, and 8127 of this title and [section 2913 of Title 29][/us/usc/t29/s2913], Labor, and amending provisions set out as notes under sections 1117, 1980A, and 5101 of this title\] may be cited as the ‘Veterans’ Benefits Act of 2010’.”
+> “This Act \[enacting sections 2021A and 2108 of this title and sections 4041 to 4043 of Title 50, War and National Defense, amending sections 107, 315, 503, 1114, 1311, 1318, 1503, 1521, 1541, 1542, 1717, 1785, 1922A, 1967, 1968, 1977, 1980, 1980A, 2021, 2044, 2106, 2301, 2303, 2306, 2402, 3120, 3313, 3316, 3318, 3319, 3321, 3485, 3512, 3684, 3692, 3729, 3732, 3733, 3901, 3902, 4102A, 4303, 4324, 5111, 5503, 5510, 5723, 5727, 7325, 7903, 8104, 8111A, 8117, and 8127 of this title, [section 1316 of Title 2][/us/usc/t2/s1316], The Congress, [section 416 of Title 3][/us/usc/t3/s416], The President, and sections 3937, 3951 to 3953, and 3955 to 3958 of Title 50, enacting provisions set out as notes under this section and sections 107, 1114, 1318, 1503, 1521, 1922A, 1968, 1977, 1980, 1980A, 2106, 2303, 2400, 2402, 3120, 3317, 3485, 3732, 3901, 3902, 4102A, 4301, 4303, 5111, and 8127 of this title and [section 2913 of Title 29][/us/usc/t29/s2913], Labor, and amending provisions set out as notes under sections 1117, 1980A, and 5101 of this title\] may be cited as the ‘Veterans’ Benefits Act of 2010’.”
 
 [Pub. L. 111–275, title I, § 104(a)][/us/pl/111/275/s104/a], Oct. 13, 2010, [124 Stat. 2867][/us/stat/124/2867], provided that: 
 
@@ -577,7 +577,7 @@
 
 [Pub. L. 110–389, § 1(a)][/us/pl/110/389/s1/a], Oct. 10, 2008, [122 Stat. 4145][/us/stat/122/4145], provided that: 
 
-> “This Act \[enacting sections 321, 322, 521A, 532, 546, 1156, 3122, 4327, 4335, 5121A, 7288, and 7732A of this title and [section 535a of Title 50][/us/usc/t50/s535a], Appendix, War and National Defense, amending this section, sections 502, 544, 1112, 1161, 1922, 1965, 1967 to 1969, 1973, 2103, 2306, 3105, 3120, 3512, 3673, 3676, 3677, 3686, 3691, 3703, 3707, 3707A, 3710, 4103, 4110A, 4322 to 4324, 4332, 5103, 5317, 7253, 7257, 7268, 7285, 7296, 7731, and 8127 of this title, [section 3711 of Title 31][/us/usc/t31/s3711], Money and Finance, and [section 527 of Title 50][/us/usc/t50/s527], Appendix, enacting provisions set out as notes under sections 322, 521A, 1156, 1161, 1967 to 1969, 1973, 2306, 3703, 4332, 5101, 5103, 5121A, 5302A, and 7732A of this title, and amending provisions set out as notes under [section 5101 of this title][/us/usc/t38/s5101] and [section 1212 of Title 10][/us/usc/t10/s1212], Armed Forces\] may be cited as the ‘Veterans’ Benefits Improvement Act of 2008’.”
+> “This Act \[enacting sections 321, 322, 521A, 532, 546, 1156, 3122, 4327, 4335, 5121A, 7288, and 7732A of this title and [section 3956 of Title 50][/us/usc/t50/s3956], War and National Defense, amending this section, sections 502, 544, 1112, 1161, 1922, 1965, 1967 to 1969, 1973, 2103, 2306, 3105, 3120, 3512, 3673, 3676, 3677, 3686, 3691, 3703, 3707, 3707A, 3710, 4103, 4110A, 4322 to 4324, 4332, 5103, 5317, 7253, 7257, 7268, 7285, 7296, 7731, and 8127 of this title, [section 3711 of Title 31][/us/usc/t31/s3711], Money and Finance, and [section 3937 of Title 50][/us/usc/t50/s3937], enacting provisions set out as notes under sections 322, 521A, 1156, 1161, 1967 to 1969, 1973, 2306, 3703, 4332, 5101, 5103, 5121A, 5302A, and 7732A of this title, and amending provisions set out as notes under [section 5101 of this title][/us/usc/t38/s5101] and [section 1212 of Title 10][/us/usc/t10/s1212], Armed Forces\] may be cited as the ‘Veterans’ Benefits Improvement Act of 2008’.”
 
 [Pub. L. 110–387, § 1(a)][/us/pl/110/387/s1/a], Oct. 10, 2008, [122 Stat. 4110][/us/stat/122/4110], provided that: 
 
@@ -683,7 +683,7 @@
 
 [Pub. L. 107–330, § 1(a)][/us/pl/107/330/s1/a], Dec. 6, 2002, [116 Stat. 2820][/us/stat/116/2820], provided that: 
 
-> “This Act \[enacting [section 3707A of this title][/us/usc/t38/s3707A], amending sections 103, 107, 112, 1114, 1115, 1160, 1162, 1311, 1313, 1314, 1562, 1701, 1705, 1707, 1710, 1729B, 1781, 2106, 2301, 2306, 2411, 3011, 3014A, 3018C, 3031, 3035, 3103, 3485, 3512, 3674, 3689, 3703, 3734, 7261, 7292, and 7315 of this title, [section 6103 of Title 26][/us/usc/t26/s6103], Internal Revenue Code, and [section 511 of Title 50][/us/usc/t50/s511], Appendix, War and National Defense, enacting provisions set out as notes under sections 103, 112, 1562, 2306, 2409, 3035, 3103, 3512, 3703, 3729, 7261, and 7292 of this title and [section 2412 of Title 28][/us/usc/t28/s2412], Judiciary and Judicial Procedure, and amending provisions set out as notes under sections 2306 and 2400 of this title\] may be cited as the ‘Veterans Benefits Act of 2002’.”
+> “This Act \[enacting [section 3707A of this title][/us/usc/t38/s3707A], amending sections 103, 107, 112, 1114, 1115, 1160, 1162, 1311, 1313, 1314, 1562, 1701, 1705, 1707, 1710, 1729B, 1781, 2106, 2301, 2306, 2411, 3011, 3014A, 3018C, 3031, 3035, 3103, 3485, 3512, 3674, 3689, 3703, 3734, 7261, 7292, and 7315 of this title, [section 6103 of Title 26][/us/usc/t26/s6103], Internal Revenue Code, and [section 3911 of Title 50][/us/usc/t50/s3911], War and National Defense, enacting provisions set out as notes under sections 103, 112, 1562, 2306, 2409, 3035, 3103, 3512, 3703, 3729, 7261, and 7292 of this title and [section 2412 of Title 28][/us/usc/t28/s2412], Judiciary and Judicial Procedure, and amending provisions set out as notes under sections 2306 and 2400 of this title\] may be cited as the ‘Veterans Benefits Act of 2002’.”
 
 [Pub. L. 107–288, § 1(a)][/us/pl/107/288/s1/a], Nov. 7, 2002, [116 Stat. 2033][/us/stat/116/2033], provided that: 
 
@@ -1675,9 +1675,9 @@
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
 [/us/pl/110/389/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389%2Fs1%2Fa
 [/us/stat/122/4145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4145
-[/us/usc/t50/s535a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs535a
+[/us/usc/t50/s3956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3956
 [/us/usc/t31/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3711
-[/us/usc/t50/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs527
+[/us/usc/t50/s3937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3937
 [/us/usc/t38/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5101
 [/us/usc/t10/s1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1212
 [/us/pl/110/387/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F387%2Fs1%2Fa
@@ -1762,7 +1762,7 @@
 [/us/stat/116/2820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2820
 [/us/usc/t38/s3707A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3707A
 [/us/usc/t26/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103
-[/us/usc/t50/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs511
+[/us/usc/t50/s3911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3911
 [/us/usc/t28/s2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412
 [/us/pl/107/288/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288%2Fs1%2Fa
 [/us/stat/116/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2033
