@@ -15,7 +15,7 @@
 
 ## § 451. Definitions
 
-    (a) __Definitions Relating to Persons.—__ 
+    (a)  __Definitions Relating to Persons__  __.—__ 
 
     In this subchapter and subchapter II:
 
@@ -39,7 +39,7 @@
 
             (B) A family member of a member of the uniformed services.
 
-            (C) A person acting as an escort or attendant for a member or family member who is traveling on official travel or is traveling with the remains of a deceased member.
+            (C) A person acting as an escort or attendant for a member or family member who is traveling on official travel or is traveling with the remains of a deceased member or as an escort or attendant for dependents of a member for necessary travel performed not later than one year after the member is unable to accompany the dependents who are incapable of traveling alone.
 
             (D) A person who participates in a military funeral honors detail.
 
@@ -79,7 +79,7 @@
 
             (E) A former spouse of the member.
 
-    (b) __Definitions Relating to Travel and Transportation Allowances.—__ 
+    (b)  __Definitions Relating to Travel and Transportation Allowances__  __.—__ 
 
     In this subchapter and subchapter II:
 
@@ -113,7 +113,11 @@
 
         (9) The term “dislocation allowances” means the costs associated with relocation of the household of a member of the uniformed services and the member’s dependents in relation to a change in the member’s permanent duty assignment location ordered for the convenience of the Government or incident to an evacuation.
 
-(Added [Pub. L. 112–81, div. A, title VI, § 631(b)][/us/pl/112/81/s631/b], Dec. 31, 2011, [125 Stat. 1453][/us/stat/125/1453].)
+(Added [Pub. L. 112–81, div. A, title VI, § 631(b)][/us/pl/112/81/s631/b], Dec. 31, 2011, [125 Stat. 1453][/us/stat/125/1453]; amended [Pub. L. 113–66, div. A, title VI, § 621(a)(1)][/us/pl/113/66/s621/a/1], Dec. 26, 2013, [127 Stat. 783][/us/stat/127/783].)
+
+ __Amendments__ 
+
+    2013—Subsec. (a)(2)(C). [Pub. L. 113–66][/us/pl/113/66] inserted “or as an escort or attendant for dependents of a member for necessary travel performed not later than one year after the member is unable to accompany the dependents who are incapable of traveling alone” before period at end.
 
  __Purpose of Consolidation and Reform of Travel and Transportation Authorities of the Uniformed Services__ 
 
@@ -125,15 +129,15 @@
 
 [Pub. L. 112–81, div. A, title VI, § 632][/us/pl/112/81/s632], Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465], provided that:
 
->     “(a) __Implementation Plan.—__ 
+>     “(a)  __Implementation Plan__  __.—__ 
 
 >     The Secretary of Defense shall develop a plan to implement subchapters I and II of chapter 8 of title 37, United States Code (as added by section 631(b) of this Act), and to transition all of the travel and transportation programs for members of the uniformed services under chapter 7 of title 37, United States Code, solely to provisions of those subchapters by the end of the transition period.
 
->     “(b) __Authority for Modifications to Old-Law Authorities During Transition Period.—__ 
+>     “(b)  __Authority for Modifications to Old-Law Authorities During Transition Period__  __.—__ 
 
 >     During the transition period, the Secretary of Defense and the Secretaries concerned, in using the authorities under subchapter III of chapter 8 of title 37, United States Code (as so added), may apply those authorities subject to the terms of such provisions and such modifications as the Secretary of Defense may include in the implementation plan required under subsection (a) or in any subsequent modification to that implementation plan.
 
->     “(c) __Coordination.—__ 
+>     “(c)  __Coordination__  __.—__ 
 
 >     The Secretary of Defense shall prepare the implementation plan under subsection (a) and any modification to that plan under subsection (b) in coordination with—
 
@@ -143,11 +147,11 @@
 
 >         “(3) the Secretary of Commerce, with respect to the National Oceanic and Atmospheric Administration.
 
->     “(d) __Program of Compliance.—__ 
+>     “(d)  __Program of Compliance__  __.—__ 
 
 >     The Secretary of Defense and the other administering Secretaries shall commence the operation of the programs of compliance required by [section 463 of title 37][/us/usc/t37/s463], United States Code (as so added), by not later than one year after the date of the enactment of this Act \[Dec. 31, 2011\].
 
->     “(e) __Transition Period.—__ 
+>     “(e)  __Transition Period__  __.—__ 
 
 >     In this section, the term ‘transition period’ means the 10-year period beginning on the first day of the first month beginning after the date of the enactment of this Act.”
 
@@ -170,6 +174,9 @@
 [/us/usc/t37/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs464
 [/us/pl/112/81/s631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fb
 [/us/stat/125/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1453
+[/us/pl/113/66/s621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs621%2Fa%2F1
+[/us/stat/127/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F783
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/81/s631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fa
 [/us/stat/125/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1452
 [/us/pl/112/81/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs632

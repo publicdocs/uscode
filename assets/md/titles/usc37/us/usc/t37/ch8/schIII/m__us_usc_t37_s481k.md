@@ -15,11 +15,11 @@
 
 ## § 481k. Travel and transportation allowances: non-medical attendants for members who are determined to be very seriously or seriously wounded, ill, or injured
 
-    (a) __Allowance for Non-medical Attendant.—__ 
+    (a)  __Allowance for Non-medical Attendant__  __.—__ 
 
     Under uniform regulations prescribed by the Secretaries concerned, travel and transportation described in subsection (d) may be provided for a qualified non-medical attendant for a covered member of the uniformed services described in subsection (c) if the attending physician or surgeon and the commander or head of the military medical facility exercising control over the member determine that the presence of such an attendant may contribute to the member’s health and welfare.
 
-    (b) __Qualified Non-medical Attendant.—__ 
+    (b)  __Qualified Non-medical Attendant__  __.—__ 
 
     For purposes of this section, a qualified non-medical attendant, with respect to a covered member, is an individual who—
 
@@ -27,7 +27,7 @@
 
         (2) is determined by the attending physician or surgeon and the commander or head of the military medical facility to be appropriate to serve as a non-medical attendant for the member and whose presence may contribute to the health and welfare of the member.
 
-    (c) __Covered Members.—__ 
+    (c)  __Covered Members__  __.—__ 
 
     A member of the uniformed services covered by this section is a member who—
 
@@ -35,7 +35,7 @@
 
         (2) is hospitalized for treatment of the wound, illness, or injury or requires continuing outpatient treatment for the wound, illness, or injury.
 
-    (d) __Authorized Travel and Transportation.—__ 
+    (d)  __Authorized Travel and Transportation__  __.—__ 
 
         (1) The transportation authorized by subsection (a) for a qualified non-medical attendant for a member is round-trip transportation between the home of the attendant and the location at which the member is receiving treatment and may include transportation, while accompanying the member, to any other location to which the member is subsequently transferred for further treatment. A designated non-medical attendant under this section may not also be a designated individual for travel and transportation allowances under [section 481h(a) of this title][/us/usc/t37/s481h/a].
 
@@ -57,7 +57,7 @@
 
         (6) Reimbursement payable under this subsection may not exceed the cost of Government-procured commercial round-trip air travel.
 
-    (e) __Termination.—__ 
+    (e)  __Termination__  __.—__ 
 
     No transportation, allowance, reimbursement, or per diem may be provided under this section for travel that begins after the travel authorities transition expiration date.
 

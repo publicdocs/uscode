@@ -25,7 +25,13 @@
 
     (b) For the purposes of subsection (a), under regulations prescribed by the President, the time necessary for a member of a uniformed service who is called or ordered to active duty for a period of more than 30 days to travel from his home to his first duty station and from his last duty station to his home, by the mode of transportation authorized in his call or orders, is considered active duty.
 
-    (c) A member of the National Guard who is called into Federal service for a period of 30 days or less is entitled to basic pay from the date when he appears at the place of company rendezvous. However, this subsection does not authorize any expenditure before arriving at the place of rendezvous that is not authorized by law to be paid after arrival at that place.
+    (c)
+
+        (1) A member of the National Guard who is called into Federal service for a period of 30 days or less is entitled to basic pay from the date on which the member, in person or by authorized telephonic or electronic means, contacts the member’s unit.
+
+        (2) Paragraph (1) does not authorize any expenditure to be paid for a period before the date on which the unit receives the member’s contact provided under such paragraph.
+
+        (3) The Secretary of the Army, with respect to the Army National Guard, and the Secretary of the Air Force, with respect to the Air National Guard, shall prescribe such regulations as may be necessary to carry out this subsection.
 
     (d) Full-time training, training duty with pay, or other full-time duty performed by a member of the Army National Guard of the United States or the Air National Guard of the United States in his status as a member of the National Guard, is active duty for the purposes of this section.
 
@@ -103,7 +109,7 @@
 
     (j) A member of the uniformed services who is entitled to medical or dental care under [section 1074a of title 10][/us/usc/t10/s1074a] is entitled to travel and transportation allowances, or a monetary allowance in place thereof, for necessary travel incident to such care, and return to his home upon discharge from treatment.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 457][/us/stat/76/457]; [Pub. L. 96–513, title V, § 506(4)][/us/pl/96/513/s506/4], Dec. 12, 1980, [94 Stat. 2919][/us/stat/94/2919]; [Pub. L. 98–94, title X, § 1012(b)][/us/pl/98/94/s1012/b], Sept. 24, 1983, [97 Stat. 665][/us/stat/97/665]; [Pub. L. 99–433, title V, § 531(b)][/us/pl/99/433/s531/b], Oct. 1, 1986, [100 Stat. 1063][/us/stat/100/1063]; [Pub. L. 99–661, div. A, title VI, § 604(b)][/us/pl/99/661/s604/b], Nov. 14, 1986, [100 Stat. 3875][/us/stat/100/3875]; [Pub. L. 100–456, div. A, title VI, § 631(a)][/us/pl/100/456/s631/a], (b), Sept. 29, 1988, [102 Stat. 1984][/us/stat/102/1984], 1985; [Pub. L. 102–25, title VII, § 701(b)(1)][/us/pl/102/25/s701/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 103–337, div. A, title XVI, § 1676(b)(1)][/us/pl/103/337/s1676/b/1], Oct. 5, 1994, [108 Stat. 3019][/us/stat/108/3019]; [Pub. L. 104–106, div. A, title VII, § 702(c)][/us/pl/104/106/s702/c], Feb. 10, 1996, [110 Stat. 371][/us/stat/110/371]; [Pub. L. 105–85, div. A, title V, § 513(f)][/us/pl/105/85/s513/f], Nov. 18, 1997, [111 Stat. 1732][/us/stat/111/1732]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 665(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–168; [Pub. L. 107–107, div. A, title V, § 513(d)][/us/pl/107/107/s513/d], Dec. 28, 2001, [115 Stat. 1093][/us/stat/115/1093]; [Pub. L. 107–296, title XVII, § 1704(c)][/us/pl/107/296/s1704/c], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 457][/us/stat/76/457]; [Pub. L. 96–513, title V, § 506(4)][/us/pl/96/513/s506/4], Dec. 12, 1980, [94 Stat. 2919][/us/stat/94/2919]; [Pub. L. 98–94, title X, § 1012(b)][/us/pl/98/94/s1012/b], Sept. 24, 1983, [97 Stat. 665][/us/stat/97/665]; [Pub. L. 99–433, title V, § 531(b)][/us/pl/99/433/s531/b], Oct. 1, 1986, [100 Stat. 1063][/us/stat/100/1063]; [Pub. L. 99–661, div. A, title VI, § 604(b)][/us/pl/99/661/s604/b], Nov. 14, 1986, [100 Stat. 3875][/us/stat/100/3875]; [Pub. L. 100–456, div. A, title VI, § 631(a)][/us/pl/100/456/s631/a], (b), Sept. 29, 1988, [102 Stat. 1984][/us/stat/102/1984], 1985; [Pub. L. 102–25, title VII, § 701(b)(1)][/us/pl/102/25/s701/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 103–337, div. A, title XVI, § 1676(b)(1)][/us/pl/103/337/s1676/b/1], Oct. 5, 1994, [108 Stat. 3019][/us/stat/108/3019]; [Pub. L. 104–106, div. A, title VII, § 702(c)][/us/pl/104/106/s702/c], Feb. 10, 1996, [110 Stat. 371][/us/stat/110/371]; [Pub. L. 105–85, div. A, title V, § 513(f)][/us/pl/105/85/s513/f], Nov. 18, 1997, [111 Stat. 1732][/us/stat/111/1732]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 665(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–168; [Pub. L. 107–107, div. A, title V, § 513(d)][/us/pl/107/107/s513/d], Dec. 28, 2001, [115 Stat. 1093][/us/stat/115/1093]; [Pub. L. 107–296, title XVII, § 1704(c)][/us/pl/107/296/s1704/c], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 113–66, div. A, title VI, § 602][/us/pl/113/66/s602], Dec. 26, 2013, [127 Stat. 779][/us/stat/127/779].)
 
 <table>
 
@@ -279,6 +285,8 @@ Dec. 20, 1886, ch. 2, 24 Stat. 351; June 2, 1950, ch. 217, § 2, 64 Stat. 195.
 
  __Amendments__ 
 
+    2013—Subsec. (c). [Pub. L. 113–66][/us/pl/113/66] amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A member of the National Guard who is called into Federal service for a period of 30 days or less is entitled to basic pay from the date when he appears at the place of company rendezvous. However, this subsection does not authorize any expenditure before arriving at the place of rendezvous that is not authorized by law to be paid after arrival at that place.”
+
     2002—Subsec. (i)(4)(B). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
 
     2001—Subsecs. (g)(1)(D), (h)(1)(D). [Pub. L. 107–107][/us/pl/107/107] struck out “, if the site is outside reasonable commuting distance from the member’s residence” before semicolon.
@@ -395,8 +403,11 @@ Dec. 20, 1886, ch. 2, 24 Stat. 351; June 2, 1950, ch. 217, § 2, 64 Stat. 195.
 [/us/stat/115/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1093
 [/us/pl/107/296/s1704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fc
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
+[/us/pl/113/66/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs602
+[/us/stat/127/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F779
 [/us/usc/t10/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs541
 [/us/usc/t14/s755/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs755%2Fc
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1

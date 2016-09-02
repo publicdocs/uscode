@@ -15,7 +15,7 @@
 
 ## § 211. Participation in Thrift Savings Plan
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “member” means—
 
@@ -23,11 +23,11 @@
 
         (2) a member of the Ready Reserve in any pay status.
 
-    (b) __Authority.—__ 
+    (b)  __Authority__  __.—__ 
 
     Any member may participate in the Thrift Savings Plan in accordance with [section 8440e of title 5][/us/usc/t5/s8440e].
 
-    (c) __Rule of Construction Regarding Separation.—__ 
+    (c)  __Rule of Construction Regarding Separation__  __.—__ 
 
     For purposes of subchapters III and VII of chapter 84 of title 5, each of the following actions shall, in the case of a member participating in the Thrift Savings Plan in accordance with section 8440e of such title, be considered a separation from Government employment:
 
@@ -41,7 +41,7 @@
 
         (2) Transfer of the member to inactive status, or to a retired list pursuant to any provision of title 10.
 
-    (d) __Agency Contributions for Retention in Critical Specialties and First-Time Enlistees.—__ 
+    (d)  __Agency Contributions for Retention in Critical Specialties and First-Time Enlistees__  __.—__ 
 
         (1)
 
@@ -61,7 +61,7 @@
 
         (4) Paragraph (2) of [section 8432(c) of title 5][/us/usc/t5/s8432/c] applies to the Secretary’s obligation to make contributions under this subsection, except that the reference in such paragraph (2) to contributions under paragraph (1) of such section 8432(c) does not apply.
 
-    (e) __Repayment of Amounts Borrowed From Member Account.—__ 
+    (e)  __Repayment of Amounts Borrowed From Member Account__  __.—__ 
 
     If a loan is issued to a member under [section 8433(g) of title 5][/us/usc/t5/s8433/g] from funds in the member’s account in the Thrift Savings Plan, repayment of the loan may be required on the same semi-monthly basis as authorized for contributions to the Thrift Savings Fund on behalf of the member under [section 1014(c) of this title][/us/usc/t37/s1014/c].
 
@@ -87,7 +87,7 @@
 
 [Pub. L. 109–163, div. A, title VI, § 606][/us/pl/109/163/s606], Jan. 6, 2006, [119 Stat. 3287][/us/stat/119/3287], as amended by [Pub. L. 109–364, div. A, title VI, § 608][/us/pl/109/364/s608], title X, § 1071(e)(3), Oct. 17, 2006, [120 Stat. 2247][/us/stat/120/2247], 2401, provided that:
 
->     “(a) __Pilot Program Required.—__ 
+>     “(a)  __Pilot Program Required__  __.—__ 
 
 >     During the period beginning on January 6, 2006, and ending on December 31, 2008, the Secretary of the Army shall use the authority provided by [section 211(d)(1)(B) of title 37][/us/usc/t37/s211/d/1/B], United States Code, as amended by section 605, to carry out within the Army a pilot program in order to assess the extent to which contributions by the Secretary to the Thrift Savings Fund on behalf of members of the Army described in subsection (b) would—
 
@@ -95,27 +95,27 @@
 
 >         “(2) assist such members in establishing habits of financial responsibility during their initial enlistment in the Armed Forces.
 
->     “(b) __Covered Members.—__ 
+>     “(b)  __Covered Members__  __.—__ 
 
 >     To be eligible to participate in the pilot program under subsection (a), a member of the Army must be serving under an initial enlistment for a period of not less than two years.
 
 >     “(c) __Contributions to Thrift Savings Fund.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of the Army may make contributions to the Thrift Savings Fund on behalf of any participant in the pilot program under subsection (a) for any pay period during the period of the pilot program.
 
->         “(2) __Limitations.—__ 
+>         “(2)  __Limitations__  __.—__ 
 
 >         The amount of any contributions made with respect to a member under paragraph (1) shall be subject to the provisions of [section 8432(c) of title 5][/us/usc/t5/s8432/c], United States Code.
 
 >     “(d) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than February 1, 2008, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot program under subsection (a).
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The report shall include the following:
 

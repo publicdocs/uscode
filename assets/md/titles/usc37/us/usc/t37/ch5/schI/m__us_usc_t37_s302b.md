@@ -15,7 +15,7 @@
 
 ## § 302b. Special pay: dental officers of the armed forces
 
-    (a) __Variable, Additional, Board Certification, and Incentive Special Pay.—__ 
+    (a)  __Variable, Additional, Board Certification, and Incentive Special Pay__  __.—__ 
 
         (1)
 
@@ -73,13 +73,13 @@
 
         (6) An officer described in paragraph (1) who is an oral or maxillofacial surgeon may be paid incentive special pay at the same rates, and subject to the same terms and conditions, as incentive special pay available for medical officers under [section 302(b) of this title][/us/usc/t37/s302/b].
 
-    (b) __Active-Duty Agreement.—__ 
+    (b)  __Active-Duty Agreement__  __.—__ 
 
         (1) An officer may not be paid additional special pay under paragraph (4) or (6) of subsection (a) for any 12-month period unless the officer first executes a written agreement under which the officer agrees to remain on active duty for a period of not less than one year beginning on the date the officer accepts the award of such special pay.
 
         (2) Under regulations prescribed by the Secretary of Defense under [section 303a(a) of this title][/us/usc/t37/s303a/a], the Secretary of the military department concerned may terminate at any time an officer’s entitlement to the special pay authorized by paragraph (4) or (6) of subsection (a). If such entitlement is terminated, the officer concerned shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     Regulations prescribed by the Secretary of Defense under [section 303a(a) of this title][/us/usc/t37/s303a/a] shall include standards for determining—
 
@@ -87,15 +87,15 @@
 
         (2) whether an officer is board certified for purposes of subsection (a)(5).
 
-    (d) __Frequency of Payments.—__ 
+    (d)  __Frequency of Payments__  __.—__ 
 
     Special pay payable to an officer under paragraphs (2), (3), and (5) of subsection (a) shall be paid monthly. Special pay payable to an officer under paragraph (4) or (6) of subsection (a) shall be paid annually at the beginning of the 12-month period for which the officer is entitled to such payment.
 
-    (e) __Repayment.—__ 
+    (e)  __Repayment__  __.—__ 
 
     An officer who does not complete the period of active duty specified in the agreement referred to in subsection (b) shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-    (f) __Determination of Creditable Service.—__ 
+    (f)  __Determination of Creditable Service__  __.—__ 
 
     For purposes of this section, creditable service of an officer is computed by adding—
 
@@ -103,7 +103,7 @@
 
         (2) all periods of active service in the Dental Corps of the Army or Navy, as an officer of the Air Force designated as a dental officer, or as a dental officer of the Public Health Service.
 
-    (g) __Reserve Dental Officers Special Pay.—__ 
+    (g)  __Reserve Dental Officers Special Pay__  __.—__ 
 
         (1) A reserve dental officer described in paragraph (2) is entitled to special pay at the rate of $350 a month for each month of active duty, including active duty in the form of annual training, active duty for training, and active duty for special work.
 

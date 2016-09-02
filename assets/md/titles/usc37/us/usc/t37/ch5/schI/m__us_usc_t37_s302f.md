@@ -15,7 +15,7 @@
 
 ## § 302f. Special pay: reserve, recalled, or retained health care officers
 
-    (a) __Eligible for Special Pay.—__ 
+    (a)  __Eligible for Special Pay__  __.—__ 
 
     A health care officer described in subsection (b) shall be eligible for special pay under section 302, 302a, 302b, 302c, 302e, or 303 of this title (whichever applies) notwithstanding any requirement in those sections that—
 
@@ -23,7 +23,7 @@
 
         (2) the officer execute a written agreement to remain on active duty for a period of not less than one year.
 
-    (b) __Health Care Officers Described.—__ 
+    (b)  __Health Care Officers Described__  __.—__ 
 
     A health care officer referred to in subsection (a) is an officer of the armed forces who is otherwise eligible for special pay under section 302, 302a, 302b, 302c, 302e, or 303 of this title and who—
 
@@ -39,11 +39,11 @@
 
             (B) the Secretary of Defense determines (pursuant to regulations prescribed by the Secretary) that special circumstances justify the payment of special pay under this section.
 
-    (c) __Monthly Payments.—__ 
+    (c)  __Monthly Payments__  __.—__ 
 
     Payment of special pay pursuant to this section may be made on a monthly basis. The officer shall repay in the manner provided in [section 303a(e) of this title][/us/usc/t37/s303a/e] any amount received under this section in excess of the amount that corresponds to the actual period of active duty served by the officer.
 
-    (d) __Special Rule for Reserve Medical and Dental Officers.—__ 
+    (d)  __Special Rule for Reserve Medical and Dental Officers__  __.—__ 
 
     While a reserve medical or dental officer receives a special pay under section 302 or 302b of this title by reason of subsection (a), the officer shall not be entitled to special pay under section 302(h) or 302b(h) of this title.
 
@@ -69,7 +69,7 @@
 
 [Pub. L. 102–25, title III, § 304][/us/pl/102/25/s304], Apr. 25, 1991, [105 Stat. 81][/us/stat/105/81], as amended by [Pub. L. 102–190, div. A, title VI, § 656][/us/pl/102/190/s656], Dec. 5, 1991, [105 Stat. 1393][/us/stat/105/1393], provided that:
 
->     “(a) __Eligible for Special Pay.—__ 
+>     “(a)  __Eligible for Special Pay__  __.—__ 
 
 >     A health care officer described in subsection (b) shall be eligible for special pay under section 302, 302a, 302b, 302e, or 303 of title 37, United States Code (whichever applies), notwithstanding any requirement in those sections that—
 
@@ -77,7 +77,7 @@
 
 >         “(2) the officer execute a written agreement to remain on active duty for a period of not less than one year.
 
->     “(b) __Health Care Officers Described.—__ 
+>     “(b)  __Health Care Officers Described__  __.—__ 
 
 >     A health care officer referred to in subsection (a) is an officer of the Armed Forces who is otherwise eligible for special pay under section 302, 302a, 302b, 302e, or 303 of title 37, United States Code, and who—
 
@@ -87,15 +87,15 @@
 
 >         “(3) voluntarily agrees to remain on active duty for a period of less than one year in connection with Operation Desert Storm.
 
->     “(c) __Monthly Payments.—__ 
+>     “(c)  __Monthly Payments__  __.—__ 
 
 >     Payment of special pay pursuant to this section may be made on a monthly basis. If the service on active duty of an officer described in subsection (b) is terminated before the end of the period for which a payment is made to the officer under subsection (a), the officer is entitled to special pay under section 302, 302a, 302b, 302e, or 303 of title 37, United States Code (whichever applies), only for the portion of that period that the officer actually served on active duty. The officer shall refund any amount received in excess of the amount that corresponds to the period of active duty of the officer.
 
->     “(d) __Special Rule for Reserve Medical Officer.—__ 
+>     “(d)  __Special Rule for Reserve Medical Officer__  __.—__ 
 
 >     While a reserve medical officer receives a special pay under [section 302 of title 37][/us/usc/t37/s302], United States Code, by operation of subsection (a), the officer shall not be entitled to special pay under subsection (h) of that section.
 
->     “(e) __Period of Applicability.—__ 
+>     “(e)  __Period of Applicability__  __.—__ 
 
 >     Subsection (a) shall apply during the period beginning on August 1, 1990, and ending on the first day of the first month beginning on or after the date 180 days after the end of the Persian Gulf conflict.”
 

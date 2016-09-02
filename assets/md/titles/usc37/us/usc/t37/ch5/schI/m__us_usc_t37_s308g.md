@@ -31,13 +31,15 @@
 
         (1) during the period beginning on October 1, 1992, and ending on September 30, 2005; or
 
-        (2) after December 31, 2013.
+        (2) after December 31, 2014.
 
-(Added [Pub. L. 98–94, title X, § 1011(a)][/us/pl/98/94/s1011/a], Sept. 24, 1983, [97 Stat. 663][/us/stat/97/663]; amended [Pub. L. 99–145, title VI, § 646(a)(1)][/us/pl/99/145/s646/a/1], title XIII, § 1303(b)(3), Nov. 8, 1985, [99 Stat. 654][/us/stat/99/654], 740; [Pub. L. 100–180, div. A, title VI, § 626(b)][/us/pl/100/180/s626/b], Dec. 4, 1987, [101 Stat. 1104][/us/stat/101/1104]; [Pub. L. 101–189, div. A, title VI, § 613][/us/pl/101/189/s613], Nov. 29, 1989, [103 Stat. 1446][/us/stat/103/1446]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 107–296, title XVII, § 1704(c)][/us/pl/107/296/s1704/c], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–375, div. A, title VI, § 618(d)][/us/pl/108/375/s618/d], Oct. 28, 2004, [118 Stat. 1950][/us/stat/118/1950]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 621(c), 687(b)(17), Jan. 6, 2006, [119 Stat. 3294][/us/stat/119/3294], 3330; [Pub. L. 109–364, div. A, title VI, § 611(d)][/us/pl/109/364/s611/d], title X, § 1071(c)(3), Oct. 17, 2006, [120 Stat. 2247][/us/stat/120/2247], 2400; [Pub. L. 110–181, div. A, title VI, § 611(d)][/us/pl/110/181/s611/d], Jan. 28, 2008, [122 Stat. 148][/us/stat/122/148]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 611(d), Oct. 14, 2008, [122 Stat. 4484][/us/stat/122/4484]; [Pub. L. 111–84, div. A, title VI, § 611(4)][/us/pl/111/84/s611/4], Oct. 28, 2009, [123 Stat. 2352][/us/stat/123/2352]; [Pub. L. 111–383, div. A, title VI, § 611(4)][/us/pl/111/383/s611/4], Jan. 7, 2011, [124 Stat. 4236][/us/stat/124/4236]; [Pub. L. 112–81, div. A, title VI, § 611(4)][/us/pl/112/81/s611/4], Dec. 31, 2011, [125 Stat. 1449][/us/stat/125/1449]; [Pub. L. 112–239, div. A, title VI, § 611(4)][/us/pl/112/239/s611/4], Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776].)
+(Added [Pub. L. 98–94, title X, § 1011(a)][/us/pl/98/94/s1011/a], Sept. 24, 1983, [97 Stat. 663][/us/stat/97/663]; amended [Pub. L. 99–145, title VI, § 646(a)(1)][/us/pl/99/145/s646/a/1], title XIII, § 1303(b)(3), Nov. 8, 1985, [99 Stat. 654][/us/stat/99/654], 740; [Pub. L. 100–180, div. A, title VI, § 626(b)][/us/pl/100/180/s626/b], Dec. 4, 1987, [101 Stat. 1104][/us/stat/101/1104]; [Pub. L. 101–189, div. A, title VI, § 613][/us/pl/101/189/s613], Nov. 29, 1989, [103 Stat. 1446][/us/stat/103/1446]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 107–296, title XVII, § 1704(c)][/us/pl/107/296/s1704/c], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–375, div. A, title VI, § 618(d)][/us/pl/108/375/s618/d], Oct. 28, 2004, [118 Stat. 1950][/us/stat/118/1950]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 621(c), 687(b)(17), Jan. 6, 2006, [119 Stat. 3294][/us/stat/119/3294], 3330; [Pub. L. 109–364, div. A, title VI, § 611(d)][/us/pl/109/364/s611/d], title X, § 1071(c)(3), Oct. 17, 2006, [120 Stat. 2247][/us/stat/120/2247], 2400; [Pub. L. 110–181, div. A, title VI, § 611(d)][/us/pl/110/181/s611/d], Jan. 28, 2008, [122 Stat. 148][/us/stat/122/148]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 611(d), Oct. 14, 2008, [122 Stat. 4484][/us/stat/122/4484]; [Pub. L. 111–84, div. A, title VI, § 611(4)][/us/pl/111/84/s611/4], Oct. 28, 2009, [123 Stat. 2352][/us/stat/123/2352]; [Pub. L. 111–383, div. A, title VI, § 611(4)][/us/pl/111/383/s611/4], Jan. 7, 2011, [124 Stat. 4236][/us/stat/124/4236]; [Pub. L. 112–81, div. A, title VI, § 611(4)][/us/pl/112/81/s611/4], Dec. 31, 2011, [125 Stat. 1449][/us/stat/125/1449]; [Pub. L. 112–239, div. A, title VI, § 611(4)][/us/pl/112/239/s611/4], Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776]; [Pub. L. 113–66, div. A, title VI, § 611(4)][/us/pl/113/66/s611/4], Dec. 26, 2013, [127 Stat. 779][/us/stat/127/779].)
 
  __Amendments__ 
 
-    2013—Subsec. (f)(2). [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
+    2013—Subsec. (f)(2). [Pub. L. 113–66][/us/pl/113/66] substituted “December 31, 2014” for “December 31, 2013”.
+
+    [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
 
     2011—Subsec. (f)(2). [Pub. L. 112–81][/us/pl/112/81] substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -143,6 +145,9 @@
 [/us/stat/125/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1449
 [/us/pl/112/239/s611/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs611%2F4
 [/us/stat/126/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1776
+[/us/pl/113/66/s611/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs611%2F4
+[/us/stat/127/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F779
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

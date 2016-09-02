@@ -15,7 +15,7 @@
 
 ## § 490. Travel and transportation: dependent children of members stationed overseas
 
-    (a) __Availability of Allowance.—__ 
+    (a)  __Availability of Allowance__  __.—__ 
 
         (1)
 
@@ -37,7 +37,7 @@
 
             (C) is attending that school or is participating in a foreign study program approved by that school and, pursuant to that foreign study program, is attending a school outside the United States for a period of not more than one year.
 
-    (b) __Allowance Authorized.—__ 
+    (b)  __Allowance Authorized__  __.—__ 
 
         (1) A member described in subsection (a) may be paid a transportation allowance for each eligible dependent child of the member of one annual trip between the school being attended by that child and the member’s duty station outside the continental United States and return. The allowance authorized by this section may be transportation in kind or reimbursement therefor, as prescribed by the Secretaries concerned. However, the transportation authorized by this section may not be paid a member for a child attending a school in the continental United States for the purpose of obtaining a secondary education if the child is eligible to attend a secondary school for dependents that is located at or in the vicinity of the duty station of the member and is operated under the Defense Dependents’ Education Act of 1978 ([20 U.S.C. 921][/us/usc/t20/s921] et seq.).
 
@@ -47,19 +47,19 @@
 
         (4) The transportation allowance paid under paragraph (1) for an annual trip of an eligible dependent child who is attending a school outside the United States may not exceed the transportation allowance that would be paid under this section for the annual trip of that child between the child’s school in the continental United States and the member’s duty station outside the continental United States and return.
 
-    (c) __Use of Airlift and Sealift Command.—__ 
+    (c)  __Use of Airlift and Sealift Command__  __.—__ 
 
     Whenever possible, the Air Mobility Command or Military Sealift Command shall be used, on a space-required basis, for the travel authorized by this section.
 
-    (d) __Attendance at School in Alaska or Hawaii.—__ 
+    (d)  __Attendance at School in Alaska or Hawaii__  __.—__ 
 
     For a member assigned to duty outside the continental United States, transportation under this section may be provided a dependent child as described in subsection (a)(2) who is attending a school in Alaska or Hawaii.
 
-    (e) __Exception.—__ 
+    (e)  __Exception__  __.—__ 
 
     The transportation allowance authorized by this section (whether transportation in kind or reimbursement) may not be paid in the case of a member assigned to a permanent duty station in Alaska or Hawaii for a child attending a school in the State of the permanent duty station.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -79,7 +79,7 @@
 
         (3) The term “postsecondary vocational institution” has the meaning given that term in section 102(c) of the Higher Education Act of 1965 ([20 U.S.C. 1002(c)][/us/usc/t20/s1002/c]).
 
-    (g) __Termination.—__ 
+    (g)  __Termination__  __.—__ 
 
     No transportation, allowance, reimbursement, or per diem may be provided under this section for travel that begins after the travel authorities transition expiration date.
 

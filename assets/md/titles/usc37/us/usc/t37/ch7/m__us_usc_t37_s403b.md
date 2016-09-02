@@ -15,11 +15,11 @@
 
 ## § 403b. Cost-of-living allowance in the continental United States
 
-    (a) __Payment Authorized.—__ 
+    (a)  __Payment Authorized__  __.—__ 
 
     The Secretary concerned may pay a cost-of-living allowance to the eligible members of a uniformed service under the jurisdiction of the Secretary.
 
-    (b) __Eligible Members.—__ 
+    (b)  __Eligible Members__  __.—__ 
 
     The following members are eligible to receive a cost-of-living allowance under this section:
 
@@ -35,11 +35,11 @@
 
             (B) it would be inequitable for the member’s eligibility for the allowance to be determined on the basis of the duty location of the member.
 
-    (c) __High Cost Area Defined.—__ 
+    (c)  __High Cost Area Defined__  __.—__ 
 
     An area is a high cost area for a fiscal year for purposes of this section if the uniformed services cost of living for that area for the base period exceeds the average cost of living in the continental United States for such base period by at least the threshold percentage. The Secretary of Defense, in consultation with the other administering Secretaries, shall establish the threshold percentage, except that the threshold percentage may not be less than 8 percent. The administering Secretaries shall prescribe a higher threshold percentage to be applied for a fiscal year when it is necessary to do so in order to ensure that the total amount of the payments of the cost-of-living allowance made to members of the uniformed services under this section for such fiscal year does not exceed the total amount available to all uniformed services for that fiscal year for paying such allowance.
 
-    (d) __Amount of Allowance.—__ 
+    (d)  __Amount of Allowance__  __.—__ 
 
     The cost-of-living allowance that may be paid to a member for a high cost area for a fiscal year shall be the amount that is equal to the product of—
 
@@ -53,7 +53,7 @@
 
             (B) the threshold percentage applicable to such fiscal year under subsection (c).
 
-    (e) __Limitation to One Allowance.—__ 
+    (e)  __Limitation to One Allowance__  __.—__ 
 
     If primary dependents of a member reside separately in different high cost areas—
 
@@ -61,7 +61,7 @@
 
         (2) the cost-of-living allowance payable to the member shall be the highest of the amounts computed under this section for such high cost areas.
 
-    (f) __Service Not Covered.—__ 
+    (f)  __Service Not Covered__  __.—__ 
 
         (1) A cost-of-living allowance may not be paid a member under this section for the days authorized for travel of the member in connection with a permanent change of duty station.
 
@@ -73,15 +73,15 @@
 
             (B) states that the call or order to active duty is in support of a contingency operation.
 
-    (g) __Average Spendable Income.—__ 
+    (g)  __Average Spendable Income__  __.—__ 
 
     The Secretary of Defense shall determine, using a methodology and assumptions that the Secretary considers appropriate, the amounts of average spendable income of members of the uniformed services for various ranges of regular military compensation. For purposes of this subsection, spendable income is the total amount of regular military compensation that is available for purchase of goods and services after allocation of amounts for taxes, insurance, housing, gifts and contributions, and savings.
 
-    (h) __Joint Regulations.—__ 
+    (h)  __Joint Regulations__  __.—__ 
 
     The Secretary of Defense and the other administering Secretaries shall jointly prescribe regulations to carry out this section.
 
-    (i) __Other Definitions.—__ 
+    (i)  __Other Definitions__  __.—__ 
 
     In this section:
 

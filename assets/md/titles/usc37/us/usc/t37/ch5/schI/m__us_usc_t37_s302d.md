@@ -15,13 +15,13 @@
 
 ## § 302d. Special pay: accession bonus for registered nurses
 
-    (a) __Accession Bonus Authorized.—__ 
+    (a)  __Accession Bonus Authorized__  __.—__ 
 
-        (1) A person who is a registered nurse and who, during the period beginning on November 29, 1989, and ending on December 31, 2013, executes a written agreement described in subsection (c) to accept a commission as an officer and remain on active duty for a period of not less than three years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+        (1) A person who is a registered nurse and who, during the period beginning on November 29, 1989, and ending on December 31, 2014, executes a written agreement described in subsection (c) to accept a commission as an officer and remain on active duty for a period of not less than three years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
 
         (2) The amount of an accession bonus under paragraph (1) may not exceed $30,000.
 
-    (b) __Limitation on Eligibility for Bonus.—__ 
+    (b)  __Limitation on Eligibility for Bonus__  __.—__ 
 
     A person may not be paid a bonus under subsection (a) if—
 
@@ -29,19 +29,21 @@
 
         (2) the Secretary concerned determines that the person is not qualified to become and remain licensed as a registered nurse.
 
-    (c) __Agreement.—__ 
+    (c)  __Agreement__  __.—__ 
 
     The agreement referred to in subsection (a) shall provide that, consistent with the needs of the uniformed service concerned, the person executing the agreement will be assigned to duty, for the period of obligated service covered by the agreement, as an officer of the Nurse Corps of the Army or Navy, an officer of the Air Force designated as a nurse, or an officer designated as a nurse in the commissioned corps of the Public Health Service.
 
-    (d) __Repayment.—__ 
+    (d)  __Repayment__  __.—__ 
 
     An officer who does not become and remain licensed as a registered nurse during the period for which the payment is made, or who does not complete the period of active duty specified in the agreement entered into under subsection (a), shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-(Added [Pub. L. 101–189, div. A, title VII, § 705(a)(1)][/us/pl/101/189/s705/a/1], Nov. 29, 1989, [103 Stat. 1471][/us/stat/103/1471]; amended [Pub. L. 101–510, div. A, title VI, § 613(a)][/us/pl/101/510/s613/a], title XIV, § 1484(d)(2), Nov. 5, 1990, [104 Stat. 1577][/us/stat/104/1577], 1716; [Pub. L. 102–484, div. A, title VI, § 612(g)][/us/pl/102/484/s612/g], Oct. 23, 1992, [106 Stat. 2421][/us/stat/106/2421]; [Pub. L. 103–160, div. A, title VI, § 611(b)][/us/pl/103/160/s611/b], Nov. 30, 1993, [107 Stat. 1679][/us/stat/107/1679]; [Pub. L. 103–337, div. A, title VI, § 612(b)][/us/pl/103/337/s612/b], Oct. 5, 1994, [108 Stat. 2783][/us/stat/108/2783]; [Pub. L. 104–106, div. A, title VI, § 612(b)][/us/pl/104/106/s612/b], Feb. 10, 1996, [110 Stat. 359][/us/stat/110/359]; [Pub. L. 104–201, div. A, title VI, § 612(b)][/us/pl/104/201/s612/b], Sept. 23, 1996, [110 Stat. 2543][/us/stat/110/2543]; [Pub. L. 105–85, div. A, title VI, § 612(b)][/us/pl/105/85/s612/b], Nov. 18, 1997, [111 Stat. 1786][/us/stat/111/1786]; [Pub. L. 105–261, div. A, title VI, § 612(b)][/us/pl/105/261/s612/b], Oct. 17, 1998, [112 Stat. 2039][/us/stat/112/2039]; [Pub. L. 106–65, div. A, title VI, § 612(b)][/us/pl/106/65/s612/b], Oct. 5, 1999, [113 Stat. 650][/us/stat/113/650]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 622(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–151; [Pub. L. 107–107, div. A, title VI, § 612(b)][/us/pl/107/107/s612/b], Dec. 28, 2001, [115 Stat. 1135][/us/stat/115/1135]; [Pub. L. 107–314, div. A, title VI][/us/pl/107/314], §§ 612(c), 615(e), Dec. 2, 2002, [116 Stat. 2567][/us/stat/116/2567], 2568; [Pub. L. 108–136, div. A, title VI, § 612(c)][/us/pl/108/136/s612/c], Nov. 24, 2003, [117 Stat. 1501][/us/stat/117/1501]; [Pub. L. 108–375, div. A, title VI][/us/pl/108/375], §§ 612(c), 616(a), Oct. 28, 2004, [118 Stat. 1947][/us/stat/118/1947], 1948; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 622(c), 687(b)(7), Jan. 6, 2006, [119 Stat. 3294][/us/stat/119/3294], 3328; [Pub. L. 109–364, div. A, title VI, § 612(c)][/us/pl/109/364/s612/c], Oct. 17, 2006, [120 Stat. 2248][/us/stat/120/2248]; [Pub. L. 110–181, div. A, title VI, § 612(c)][/us/pl/110/181/s612/c], Jan. 28, 2008, [122 Stat. 148][/us/stat/122/148]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 612(c), Oct. 14, 2008, [122 Stat. 4484][/us/stat/122/4484]; [Pub. L. 111–84, div. A, title VI, § 612(b)(2)][/us/pl/111/84/s612/b/2], Oct. 28, 2009, [123 Stat. 2353][/us/stat/123/2353]; [Pub. L. 111–383, div. A, title VI, § 612(b)(2)][/us/pl/111/383/s612/b/2], Jan. 7, 2011, [124 Stat. 4236][/us/stat/124/4236]; [Pub. L. 112–81, div. A, title VI, § 612(b)(2)][/us/pl/112/81/s612/b/2], Dec. 31, 2011, [125 Stat. 1449][/us/stat/125/1449]; [Pub. L. 112–239, div. A, title VI, § 612(b)(2)][/us/pl/112/239/s612/b/2], Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776].)
+(Added [Pub. L. 101–189, div. A, title VII, § 705(a)(1)][/us/pl/101/189/s705/a/1], Nov. 29, 1989, [103 Stat. 1471][/us/stat/103/1471]; amended [Pub. L. 101–510, div. A, title VI, § 613(a)][/us/pl/101/510/s613/a], title XIV, § 1484(d)(2), Nov. 5, 1990, [104 Stat. 1577][/us/stat/104/1577], 1716; [Pub. L. 102–484, div. A, title VI, § 612(g)][/us/pl/102/484/s612/g], Oct. 23, 1992, [106 Stat. 2421][/us/stat/106/2421]; [Pub. L. 103–160, div. A, title VI, § 611(b)][/us/pl/103/160/s611/b], Nov. 30, 1993, [107 Stat. 1679][/us/stat/107/1679]; [Pub. L. 103–337, div. A, title VI, § 612(b)][/us/pl/103/337/s612/b], Oct. 5, 1994, [108 Stat. 2783][/us/stat/108/2783]; [Pub. L. 104–106, div. A, title VI, § 612(b)][/us/pl/104/106/s612/b], Feb. 10, 1996, [110 Stat. 359][/us/stat/110/359]; [Pub. L. 104–201, div. A, title VI, § 612(b)][/us/pl/104/201/s612/b], Sept. 23, 1996, [110 Stat. 2543][/us/stat/110/2543]; [Pub. L. 105–85, div. A, title VI, § 612(b)][/us/pl/105/85/s612/b], Nov. 18, 1997, [111 Stat. 1786][/us/stat/111/1786]; [Pub. L. 105–261, div. A, title VI, § 612(b)][/us/pl/105/261/s612/b], Oct. 17, 1998, [112 Stat. 2039][/us/stat/112/2039]; [Pub. L. 106–65, div. A, title VI, § 612(b)][/us/pl/106/65/s612/b], Oct. 5, 1999, [113 Stat. 650][/us/stat/113/650]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 622(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–151; [Pub. L. 107–107, div. A, title VI, § 612(b)][/us/pl/107/107/s612/b], Dec. 28, 2001, [115 Stat. 1135][/us/stat/115/1135]; [Pub. L. 107–314, div. A, title VI][/us/pl/107/314], §§ 612(c), 615(e), Dec. 2, 2002, [116 Stat. 2567][/us/stat/116/2567], 2568; [Pub. L. 108–136, div. A, title VI, § 612(c)][/us/pl/108/136/s612/c], Nov. 24, 2003, [117 Stat. 1501][/us/stat/117/1501]; [Pub. L. 108–375, div. A, title VI][/us/pl/108/375], §§ 612(c), 616(a), Oct. 28, 2004, [118 Stat. 1947][/us/stat/118/1947], 1948; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 622(c), 687(b)(7), Jan. 6, 2006, [119 Stat. 3294][/us/stat/119/3294], 3328; [Pub. L. 109–364, div. A, title VI, § 612(c)][/us/pl/109/364/s612/c], Oct. 17, 2006, [120 Stat. 2248][/us/stat/120/2248]; [Pub. L. 110–181, div. A, title VI, § 612(c)][/us/pl/110/181/s612/c], Jan. 28, 2008, [122 Stat. 148][/us/stat/122/148]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 612(c), Oct. 14, 2008, [122 Stat. 4484][/us/stat/122/4484]; [Pub. L. 111–84, div. A, title VI, § 612(b)(2)][/us/pl/111/84/s612/b/2], Oct. 28, 2009, [123 Stat. 2353][/us/stat/123/2353]; [Pub. L. 111–383, div. A, title VI, § 612(b)(2)][/us/pl/111/383/s612/b/2], Jan. 7, 2011, [124 Stat. 4236][/us/stat/124/4236]; [Pub. L. 112–81, div. A, title VI, § 612(b)(2)][/us/pl/112/81/s612/b/2], Dec. 31, 2011, [125 Stat. 1449][/us/stat/125/1449]; [Pub. L. 112–239, div. A, title VI, § 612(b)(2)][/us/pl/112/239/s612/b/2], Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776]; [Pub. L. 113–66, div. A, title VI, § 612(b)(2)][/us/pl/113/66/s612/b/2], Dec. 26, 2013, [127 Stat. 780][/us/stat/127/780].)
 
  __Amendments__ 
 
-    2013—Subsec. (a)(1). [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
+    2013—Subsec. (a)(1). [Pub. L. 113–66][/us/pl/113/66] substituted “December 31, 2014” for “December 31, 2013”.
+
+    [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
 
     2011—Subsec. (a)(1). [Pub. L. 112–81][/us/pl/112/81] substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -171,6 +173,9 @@
 [/us/stat/125/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1449
 [/us/pl/112/239/s612/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs612%2Fb%2F2
 [/us/stat/126/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1776
+[/us/pl/113/66/s612/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs612%2Fb%2F2
+[/us/stat/127/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F780
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

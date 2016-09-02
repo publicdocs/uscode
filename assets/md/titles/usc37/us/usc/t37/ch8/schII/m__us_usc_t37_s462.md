@@ -15,15 +15,15 @@
 
 ## § 462. Travel and transportation allowances paid to members that are unauthorized or in excess of authorized amounts: requirement for repayment
 
-    (a) __Repayment Required.—__ 
+    (a)  __Repayment Required__  __.—__ 
 
     Except as provided in subsection (b), a member of the uniformed services or other person who is paid travel and transportation allowances under subchapter I shall repay to the United States any amount of such payment that is determined to be unauthorized or in excess of the applicable authorized amount.
 
-    (b) __Exception.—__ 
+    (b)  __Exception__  __.—__ 
 
     The regulations prescribed under [section 464 of this title][/us/usc/t37/s464] shall specify procedures for determining the circumstances under which an exception to repayment otherwise required by subsection (a) may be granted.
 
-    (c) __Effect of Bankruptcy.—__ 
+    (c)  __Effect of Bankruptcy__  __.—__ 
 
     An obligation to repay the United States under this section is, for all purposes, a debt owed the United States. A discharge in bankruptcy under title 11 does not discharge a person from such debt if the discharge order is entered less than five years after the date on which the debt was incurred.
 

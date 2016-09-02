@@ -15,7 +15,7 @@
 
 ## § 327. Incentive bonus: transfer between armed forces
 
-    (a) __Incentive Bonus Authorized.—__ 
+    (a)  __Incentive Bonus Authorized__  __.—__ 
 
     A bonus under this section may be paid to an eligible member of a regular component or reserve component of an armed force who executes a written agreement—
 
@@ -23,7 +23,7 @@
 
         (2) to serve pursuant to such agreement for a period of not less than three years in the component to which transferred.
 
-    (b) __Eligible Members.—__ 
+    (b)  __Eligible Members__  __.—__ 
 
     A member is eligible to enter into an agreement under subsection (a) if, as of the date of the agreement, the member—
 
@@ -33,11 +33,11 @@
 
         (3) has fulfilled such requirements for transfer to the component of the armed force to which the member will transfer as the Secretary having jurisdiction over such armed force shall establish.
 
-    (c) __Limitation.—__ 
+    (c)  __Limitation__  __.—__ 
 
     A member may enter into an agreement under subsection (a) to transfer to a regular component or reserve component of another armed force only if the Secretary having jurisdiction over such armed force determines that there is shortage of trained and qualified personnel in such component.
 
-    (d) __Amount and Payment of Bonus.—__ 
+    (d)  __Amount and Payment of Bonus__  __.—__ 
 
         (1) A bonus under this section may not exceed $10,000.
 
@@ -51,27 +51,29 @@
 
             (B) be paid to the member in annual installments in such amounts as may be determined by the Secretary paying the bonus.
 
-    (e) __Relationship to Other Pay and Allowances.—__ 
+    (e)  __Relationship to Other Pay and Allowances__  __.—__ 
 
     A bonus paid to a member under this section is in addition to any other pay and allowances to which the member is entitled.
 
-    (f) __Repayment.—__ 
+    (f)  __Repayment__  __.—__ 
 
     A member who is paid a bonus under an agreement under this section and who, voluntarily or because of misconduct, fails to serve for the period covered by such agreement shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-    (g) __Regulations.—__ 
+    (g)  __Regulations__  __.—__ 
 
     The Secretaries concerned shall prescribe regulations to carry out this section. Regulations prescribed by the Secretary of a military department under this subsection shall be subject to the approval of the Secretary of Defense.
 
-    (h) __Termination of Authority.—__ 
+    (h)  __Termination of Authority__  __.—__ 
 
-    No agreement under this section may be entered into after December 31, 2013.
+    No agreement under this section may be entered into after December 31, 2014.
 
-(Added and amended [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 641(a), 687(b)(35), Jan. 6, 2006, [119 Stat. 3304][/us/stat/119/3304], 3333; [Pub. L. 109–364, div. A, title VI][/us/pl/109/364], §§ 614(h), 620(a), Oct. 17, 2006, [120 Stat. 2249][/us/stat/120/2249], 2252; [Pub. L. 111–84, div. A, title VI, § 615(7)][/us/pl/111/84/s615/7], Oct. 28, 2009, [123 Stat. 2354][/us/stat/123/2354]; [Pub. L. 111–383, div. A, title VI, § 615(7)][/us/pl/111/383/s615/7], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 615(7)][/us/pl/112/81/s615/7], Dec. 31, 2011, [125 Stat. 1451][/us/stat/125/1451]; [Pub. L. 112–239, div. A, title VI, § 615(7)][/us/pl/112/239/s615/7], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777].)
+(Added and amended [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 641(a), 687(b)(35), Jan. 6, 2006, [119 Stat. 3304][/us/stat/119/3304], 3333; [Pub. L. 109–364, div. A, title VI][/us/pl/109/364], §§ 614(h), 620(a), Oct. 17, 2006, [120 Stat. 2249][/us/stat/120/2249], 2252; [Pub. L. 111–84, div. A, title VI, § 615(7)][/us/pl/111/84/s615/7], Oct. 28, 2009, [123 Stat. 2354][/us/stat/123/2354]; [Pub. L. 111–383, div. A, title VI, § 615(7)][/us/pl/111/383/s615/7], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 615(7)][/us/pl/112/81/s615/7], Dec. 31, 2011, [125 Stat. 1451][/us/stat/125/1451]; [Pub. L. 112–239, div. A, title VI, § 615(7)][/us/pl/112/239/s615/7], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777]; [Pub. L. 113–66, div. A, title VI, § 615(7)][/us/pl/113/66/s615/7], Dec. 26, 2013, [127 Stat. 781][/us/stat/127/781].)
 
  __Amendments__ 
 
-    2013—Subsec. (h). [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
+    2013—Subsec. (h). [Pub. L. 113–66][/us/pl/113/66] substituted “December 31, 2014” for “December 31, 2013”.
+
+    [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
 
     2011—Subsec. (h). [Pub. L. 112–81][/us/pl/112/81] substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -121,6 +123,9 @@
 [/us/stat/125/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1451
 [/us/pl/112/239/s615/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs615%2F7
 [/us/stat/126/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1777
+[/us/pl/113/66/s615/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs615%2F7
+[/us/stat/127/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F781
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

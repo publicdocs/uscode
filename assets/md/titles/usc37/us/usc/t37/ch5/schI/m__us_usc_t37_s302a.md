@@ -15,7 +15,7 @@
 
 ## § 302a. Special pay: optometrists
 
-    (a) __Regular Special Pay.—__ 
+    (a)  __Regular Special Pay__  __.—__ 
 
     Each of the following officers is entitled to special pay at the rate of $100 a month for each month of active duty:
 
@@ -39,7 +39,7 @@
 
         (3) A general officer of the Army or the Air Force appointed, from any of the categories named in clause (1) or (2), in the Army, Air Force, or the National Guard, as the case may be.
 
-    (b) __Retention Special Pay.—__ 
+    (b)  __Retention Special Pay__  __.—__ 
 
         (1) Under regulations prescribed under [section 303a(a) of this title][/us/usc/t37/s303a/a], the Secretary concerned may pay an officer described in paragraph (2) a retention special pay of not more than $15,000 for any twelve-month period during which the officer is not undergoing an internship or initial residency training.
 

@@ -15,15 +15,15 @@
 
 ## § 1009. Adjustments of monthly basic pay
 
-    (a) __Requirement for Annual Adjustment.—__ 
+    (a)  __Requirement for Annual Adjustment__  __.—__ 
 
     Effective on January 1 of each year, the rates of basic pay for members of the uniformed services under [section 203(a) of this title][/us/usc/t37/s203/a] shall be increased under this section.
 
-    (b) __Effectiveness of Adjustment.—__ 
+    (b)  __Effectiveness of Adjustment__  __.—__ 
 
     An adjustment under this section shall have the force and effect of law.
 
-    (c) __Equal Percentage Increase for All Members.—__ 
+    (c)  __Equal Percentage Increase for All Members__  __.—__ 
 
         (1) An adjustment made under this section in a year shall provide all eligible members with an increase in the monthly basic pay that is the percentage (rounded to the nearest one-tenth of one percent) by which the ECI for the base quarter of the year before the preceding year exceeds the ECI for the base quarter of the second year before the preceding calendar year (if at all).
 
@@ -37,7 +37,7 @@
 
             (B) The term “base quarter” for any year is the three-month period ending on September 30 of such year.
 
-    (d) __Protection of Member’s Total Compensation While Performing Certain Duty.—__ 
+    (d)  __Protection of Member’s Total Compensation While Performing Certain Duty__  __.—__ 
 
         (1) The total daily equivalent amount of the elements of compensation described in paragraph (3), together with other pay and allowances under this title, to be paid to a member of the uniformed services who is temporarily assigned to duty away from the member’s permanent duty station or to duty under field conditions at the member’s permanent duty station shall not be less, for any day during the assignment period, than the total amount, for the day immediately preceding the date of the assignment, of the elements of compensation and other pay and allowances of the member.
 
@@ -53,7 +53,7 @@
 
             (C) the basic allowance for housing authorized members of the uniformed services by [section 403 of this title][/us/usc/t37/s403].
 
-    (e) __Presidential Determination of Need for Alternative Pay Adjustment.—__ 
+    (e)  __Presidential Determination of Need for Alternative Pay Adjustment__  __.—__ 
 
         (1) If, because of national emergency or serious economic conditions affecting the general welfare, the President considers the pay adjustment which would otherwise be required by this section in any year to be inappropriate, the President shall prepare and transmit to Congress before September 1 of the preceding year a plan for such alternative pay adjustments as the President considers appropriate, together with the reasons therefor.
 
@@ -137,11 +137,11 @@
 
 [Pub. L. 112–239, div. A, title VI, § 601][/us/pl/112/239/s601], Jan. 2, 2013, [126 Stat. 1773][/us/stat/126/1773], provided that:
 
->     “(a) __Waiver of Section 1009 Adjustment.—__ 
+>     “(a)  __Waiver of Section__  __1009__  __Adjustment__  __.—__ 
 
 >     The adjustment to become effective during fiscal year 2013 required by [section 1009 of title 37][/us/usc/t37/s1009], United States Code, in the rates of monthly basic pay authorized members of the uniformed services shall not be made.
 
->     “(b) __Increase in Basic Pay.—__ 
+>     “(b)  __Increase in Basic Pay__  __.—__ 
 
 >     Effective on January 1, 2013, the rates of monthly basic pay for members of the uniformed services are increased by 1.7 percent.”
 

@@ -15,21 +15,21 @@
 
 ## § 481b. Travel and transportation allowances: travel performed in connection with leave between consecutive overseas tours
 
-    (a) __Allowances Authorized.—__ 
+    (a)  __Allowances Authorized__  __.—__ 
 
     Under uniform regulations prescribed by the Secretaries concerned, a member of a uniformed service stationed outside the continental United States who is ordered to a consecutive tour of duty at the same duty station or who is ordered to make a change of permanent station to another duty station outside the continental United States may be paid travel and transportation allowances in connection with authorized leave from his last duty station to a place approved by the Secretary concerned and from that place to his designated post of duty. Such allowances may be paid for the member and for the dependents of the member who are authorized to, and do, accompany him at his duty stations.
 
-    (b) __Authority to Defer Travel; Limitations.—__ 
+    (b)  __Authority to Defer Travel; Limitations__  __.—__ 
 
         (1) Under the regulations referred to in subsection (a), a member may defer the travel for which the member is paid travel and transportation allowances under this section until any time before the completion of the consecutive tour at the same duty station or the completion of the tour of duty at the new duty station under the order involved, as the case may be.
 
         (2) If a member is unable to undertake the travel before expiration of the deferral period under paragraph (1) because of duty in connection with a contingency operation, the member may defer the travel until not more than one year after the date on which the member’s duty in connection with the contingency operation ends.
 
-    (c) __Limitation on Allowance Rate.—__ 
+    (c)  __Limitation on Allowance Rate__  __.—__ 
 
     The allowances prescribed under this section may not exceed the rate authorized under [section 474(d) of this title][/us/usc/t37/s474/d]. Authorized travel under this section is performed in a duty status.
 
-    (d) __Termination.—__ 
+    (d)  __Termination__  __.—__ 
 
     No travel and transportation allowance may be provided under this section for travel that is authorized after the travel authorities transition expiration date.
 

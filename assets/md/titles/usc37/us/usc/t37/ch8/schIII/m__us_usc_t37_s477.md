@@ -15,7 +15,7 @@
 
 ## § 477. Travel and transportation allowances: dislocation allowance
 
-    (a) __Eligibility for Primary Dislocation Allowance.—__ 
+    (a)  __Eligibility for Primary Dislocation Allowance__  __.—__ 
 
         (1) Under regulations prescribed by the Secretary concerned, a member of a uniformed service described in paragraph (2) is entitled to a primary dislocation allowance at the rate determined under subsection (c) for the member’s pay grade and dependency status.
 
@@ -67,19 +67,19 @@
 
         (4) If a primary dislocation allowance is payable to two members described in paragraph (2)(G) who are married to each other, the amount of the allowance payable to such members shall be the amount otherwise payable under this subsection to the member in the higher pay grade, or to either member if both members are in the same pay grade. The allowance shall be paid jointly to both members.
 
-    (b) __Secondary Allowance Authorized Under Certain Circumstances.—__ 
+    (b)  __Secondary Allowance Authorized Under Certain Circumstances__  __.—__ 
 
         (1) Under regulations prescribed by the Secretary concerned, whenever a member is entitled to a primary dislocation allowance under subsection (a) as a member described in paragraph (2)(C) or (2)(D)(ii) of such subsection, the member is also entitled to a secondary dislocation allowance at the rate determined under subsection (c) for the member’s pay grade and dependency status if, subsequent to the member or the member’s dependents actually moving from their place of residence under circumstances described in [section 476a of this title][/us/usc/t37/s476a], the member or member’s dependents complete that move to a new location and then actually move from that new location to another location also under circumstances described in [section 476a of this title][/us/usc/t37/s476a].
 
         (2) If a secondary dislocation allowance is paid under this subsection, the member is not entitled to a dislocation allowance as a member described in paragraph (2)(A) or (2)(E) of subsection (a) in connection with those moves.
 
-    (c) __Dislocation Allowance Rates.—__ 
+    (c)  __Dislocation Allowance Rates__  __.—__ 
 
         (1) The amount of the dislocation allowance to be paid under this section to a member shall be based on the member’s pay grade and dependency status at the time the member becomes entitled to the allowance, except that the Secretary concerned may not differentiate between members with dependents in pay grades E–1 through E–5.
 
         (2) The initial rate for the dislocation allowance, for each pay grade and dependency status, shall be equal to the rate in effect for that pay grade and dependency status on December 31, 1997, as adjusted by the average percentage increase in the rates of basic pay for calendar year 1998. Effective on the same date that the monthly rates of basic pay for members are increased for a subsequent calendar year, the Secretary of Defense shall adjust the rates for the dislocation allowance for that calendar year by the percentage equal to the average percentage increase in the rates of basic pay for that calendar year.
 
-    (d) __Fiscal Year Limitation; Exceptions.—__ 
+    (d)  __Fiscal Year Limitation; Exceptions__  __.—__ 
 
         (1)
 
@@ -95,11 +95,11 @@
 
         (2) This subsection does not apply in time of national emergency or in time of war.
 
-    (e) __First or Last Duty.—__ 
+    (e)  __First or Last Duty__  __.—__ 
 
     A member is not entitled to payment of a dislocation allowance under this section when the member is ordered from the member’s home to the member’s first duty station (except as provided in subsection (a)(2)(F)) or from the member’s last duty station to the member’s home.
 
-    (f) __Partial Dislocation Allowance.—__ 
+    (f)  __Partial Dislocation Allowance__  __.—__ 
 
         (1) Under regulations prescribed by the Secretary concerned, a member ordered to occupy or vacate family housing provided by the United States to permit the privatization or renovation of housing or for any other reason (other than pursuant to a permanent change of station) may be paid a partial dislocation allowance of $500.
 
@@ -107,15 +107,15 @@
 
         (3) Subsections (c) and (d) do not apply to the partial dislocation allowance authorized by this subsection.
 
-    (g) __Rule of Construction.—__ 
+    (g)  __Rule of Construction__  __.—__ 
 
     For purposes of this section, a member whose dependents may not make an authorized move in connection with a change of permanent station is considered a member without dependents.
 
-    (h) __Advance Payment.—__ 
+    (h)  __Advance Payment__  __.—__ 
 
     A dislocation allowance payable under this section may be paid in advance.
 
-    (i) __Termination.—__ 
+    (i)  __Termination__  __.—__ 
 
     No dislocation allowance may be paid under this section for a move that begins after the travel authorities transition expiration date.
 

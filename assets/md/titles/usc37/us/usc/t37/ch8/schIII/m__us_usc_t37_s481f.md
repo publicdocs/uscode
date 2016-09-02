@@ -15,7 +15,7 @@
 
 ## § 481f. Travel and transportation allowances: transportation for survivors of deceased member to attend member’s burial ceremonies; transportation for survivors of member dying overseas to attend transfer ceremonies
 
-    (a) __Allowances Authorized.—__ 
+    (a)  __Allowances Authorized__  __.—__ 
 
         (1) The Secretary concerned may provide round trip travel and transportation allowances to eligible relatives of a member of the uniformed services who dies while on active duty or inactive duty in order that the eligible relatives may attend the burial ceremony of the deceased member at the location determined under subsection (a)(8) of [section 1482 of title 10][/us/usc/t10/s1482] or attend a memorial service for the deceased member, under circumstances covered by subsection (d) of such section.
 
@@ -29,11 +29,11 @@
 
             (B) there is no other eligible relative of the deceased member traveling to the burial ceremony who is eligible for travel and transportation allowances under paragraph (1) and is qualified to serve as the attendant.
 
-    (b) __Limitation on Amount.—__ 
+    (b)  __Limitation on Amount__  __.—__ 
 
     Allowances for travel under subsection (a) may not exceed the rates for two days and the time necessary for such travel.
 
-    (c) __Eligible Relatives.—__ 
+    (c)  __Eligible Relatives__  __.—__ 
 
         (1)
 
@@ -51,7 +51,7 @@
 
         (2) If no person described in subparagraphs (A) through (D) of paragraph (1) is provided travel and transportation allowances under paragraph (1) or (2) of subsection (a), the travel and transportation allowances may be provided to one or two other persons who are closely related to the deceased member and are selected by the person referred to in paragraph (1)(E). A person provided travel and transportation allowances under this paragraph is in addition to the person referred to in paragraph (1)(E).
 
-    (d) __Expanded Allowances Related to Recovery of Remains From Vietnam Conflict.—__ 
+    (d)  __Expanded Allowances Related to Recovery of Remains From Vietnam Conflict__  __.—__ 
 
         (1) The Secretary of Defense may provide round trip travel and transportation allowances for the family of a deceased member of the armed forces who died while classified as a prisoner of war or as missing in action during the Vietnam conflict and whose remains are returned to the United States in order that the family members may attend the burial ceremony of the deceased member.
 
@@ -69,7 +69,7 @@
 
             (D) If no person described in subparagraph (A), (B), or (C) is provided travel and transportation allowances under paragraph (1), any brothers, sisters, halfbrothers, halfsisters, stepbrothers, and stepsisters of the deceased member.
 
-    (e) __Transportation to Transfer Ceremonies of Members of the Armed Forces Who Die Overseas.—__ 
+    (e)  __Transportation to Transfer Ceremonies of Members of the Armed Forces Who Die Overseas__  __.—__ 
 
         (1)
 
@@ -91,7 +91,7 @@
 
         (4) The Secretary of a military department may, upon the request of the primary next of kin covered by paragraph (1)(A) and at the discretion of the Secretary, provide for the accompaniment of such next of kin in travel under this subsection by a casualty assistance officer or family liaison officer of the military department who shall act as an escort in such accompaniment.
 
-    (f) __Burial Ceremony Defined.—__ 
+    (f)  __Burial Ceremony Defined__  __.—__ 
 
     In this section, the term “burial ceremony” includes the following:
 
@@ -103,11 +103,11 @@
 
         (4) A burial of commingled remains that cannot be individually identified in a common grave in a national cemetery.
 
-    (g) __Regulations.—__ 
+    (g)  __Regulations__  __.—__ 
 
     The Secretaries concerned shall prescribe uniform regulations to carry out this section.
 
-    (h) __Termination.—__ 
+    (h)  __Termination__  __.—__ 
 
     No travel and transportation allowance or reimbursement may be provided under this section for travel that begins after the travel authorities transition expiration date.
 

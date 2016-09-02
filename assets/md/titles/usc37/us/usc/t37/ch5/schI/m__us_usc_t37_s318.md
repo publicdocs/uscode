@@ -15,7 +15,7 @@
 
 ## § 318. Special pay: special warfare officers extending period of active duty
 
-    (a) __Special Warfare Officer Defined.—__ 
+    (a)  __Special Warfare Officer Defined__  __.—__ 
 
     In this section, the term “special warfare officer” means an officer of a uniformed service who—
 
@@ -23,11 +23,11 @@
 
         (2) is serving in a position for which that specialty or designator is authorized.
 
-    (b) __Retention Bonus Authorized.—__ 
+    (b)  __Retention Bonus Authorized__  __.—__ 
 
     A special warfare officer who meets the eligibility requirements specified in subsection (c) and who executes a written agreement to remain on active duty in special warfare service for at least one year may, upon the acceptance of the agreement by the Secretary concerned, be paid a retention bonus as provided in this section.
 
-    (c) __Eligibility Requirements.—__ 
+    (c)  __Eligibility Requirements__  __.—__ 
 
     A special warfare officer may apply to enter into an agreement referred to in subsection (b) if the officer—
 
@@ -37,15 +37,15 @@
 
         (3) has completed any service commitment incurred to be commissioned as an officer.
 
-    (d) __Amount of Bonus.—__ 
+    (d)  __Amount of Bonus__  __.—__ 
 
     The amount of a retention bonus paid under this section may not be more than $15,000 for each year covered by the agreement.
 
-    (e) __Proration.—__ 
+    (e)  __Proration__  __.—__ 
 
     The term of an agreement under subsection (b) and the amount of the retention bonus payable under subsection (d) may be prorated as long as the agreement does not extend beyond the date on which the officer executing the agreement would complete 14 years of active commissioned service.
 
-    (f) __Payment Methods.—__ 
+    (f)  __Payment Methods__  __.—__ 
 
         (1) Upon acceptance of an agreement under subsection (b) by the Secretary concerned, the total amount payable pursuant to the agreement becomes fixed.
 
@@ -57,15 +57,15 @@
 
             (B) The Secretary concerned may make graduated annual payments under regulations prescribed by the Secretary, with the first payment being payable at the time the agreement is accepted by the Secretary and subsequent payments being payable on the anniversary of the acceptance of the agreement.
 
-    (g) __Additional Pay.—__ 
+    (g)  __Additional Pay__  __.—__ 
 
     A retention bonus paid under this section is in addition to any other pay and allowances to which an officer is entitled.
 
-    (h) __Repayment.—__ 
+    (h)  __Repayment__  __.—__ 
 
     An officer who, having entered into a written agreement under subsection (b) and having received all or part of a bonus under this section, does not complete the period of active duty in special warfare service as specified in the agreement shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-    (i) __Regulations.—__ 
+    (i)  __Regulations__  __.—__ 
 
     The Secretaries concerned shall prescribe regulations to carry out this section, including the definition of the term “special warfare service” for purposes of this section. Regulations prescribed by the Secretary of a military department under this section shall be subject to the approval of the Secretary of Defense.
 

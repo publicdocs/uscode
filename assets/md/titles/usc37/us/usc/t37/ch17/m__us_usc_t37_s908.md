@@ -15,7 +15,7 @@
 
 ## § 908. Employment of reserves and retired members by foreign governments
 
-    (a) __Congressional Consent.—__ 
+    (a)  __Congressional Consent__  __.—__ 
 
     Subject to subsection (b), Congress consents to the following persons accepting civil employment (and compensation for that employment) for which the consent of Congress is required by the last paragraph of section 9 of article I of the Constitution, related to acceptance of emoluments, offices, or titles from a foreign government:
 
@@ -25,11 +25,11 @@
 
         (3) Members of the Commissioned Reserve Corps of the Public Health Service.
 
-    (b) __Approval Required.—__ 
+    (b)  __Approval Required__  __.—__ 
 
     A person described in subsection (a) may accept employment or compensation described in that subsection only if the Secretary concerned and the Secretary of State approve the employment.
 
-    (c) __Military Service in Foreign Armed Forces.—__ 
+    (c)  __Military Service in Foreign Armed Forces__  __.—__ 
 
     For a provision of law providing the consent of Congress to service in the military forces of certain foreign nations, see [section 1060 of title 10][/us/usc/t10/s1060].
 

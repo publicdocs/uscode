@@ -15,7 +15,7 @@
 
 ## § 308b. Special pay: reenlistment bonus for members of the Selected Reserve
 
-    (a) __Authority and Eligibility Requirements.—__ 
+    (a)  __Authority and Eligibility Requirements__  __.—__ 
 
     The Secretary concerned may pay a bonus under subsection (b) to an enlisted member of a reserve component who—
 
@@ -23,7 +23,7 @@
 
         (2) reenlists or voluntarily extends an enlistment for a period of at least three years in a designated military skill, or in a designated unit, as determined by the Secretary concerned, in the Selected Reserve of the Ready Reserve of an armed force.
 
-    (b) __Bonus Amounts; Payment.—__ 
+    (b)  __Bonus Amounts; Payment__  __.—__ 
 
         (1) The amount of a bonus under this section may not exceed $15,000.
 
@@ -31,31 +31,33 @@
 
         (3) Any portion of a term of reenlistment or extension of enlistment of a member that, when added to the total years of service of the member at the time of discharge or release, exceeds 24 years may not be used in computing the total bonus amount under paragraph (1).
 
-    (c) __Waiver of Condition on Eligibility.—__ 
+    (c)  __Waiver of Condition on Eligibility__  __.—__ 
 
     In the case of a reenlistment or voluntary extension of enlistment by a member of the armed forces that is entered into as described in subsection (a) while the member is serving on active duty in Afghanistan, Iraq, or Kuwait in support of Operation Enduring Freedom or Operation Iraqi Freedom, the Secretary concerned may waive so much of subsection (a)(2) as requires that the skill or unit in which the member reenlists or extends an enlistment be a designated skill or designated unit determined by the Secretary concerned.
 
-    (d) __Payment to Mobilized Members.—__ 
+    (d)  __Payment to Mobilized Members__  __.—__ 
 
     A member entitled to a bonus under this section who is called or ordered to active duty shall be paid, during that period of active duty, any amount of the bonus that becomes payable to the member during that period of active duty.
 
-    (e) __Repayment.—__ 
+    (e)  __Repayment__  __.—__ 
 
     A member who does not complete the term of enlistment in the element of the Selected Reserve for which the bonus was paid to the member under this section shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-    (f) __Regulations.—__ 
+    (f)  __Regulations__  __.—__ 
 
     This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as a service in the Navy.
 
-    (g) __Termination of Authority.—__ 
+    (g)  __Termination of Authority__  __.—__ 
 
-    No bonus may be paid under this section to any enlisted member who, after December 31, 2013, reenlists or voluntarily extends his enlistment in a reserve component.
+    No bonus may be paid under this section to any enlisted member who, after December 31, 2014, reenlists or voluntarily extends his enlistment in a reserve component.
 
-(Added [Pub. L. 95–79, title IV, § 403(a)(1)][/us/pl/95/79/s403/a/1], July 30, 1977, [91 Stat. 330][/us/stat/91/330]; amended [Pub. L. 95–485, title IV, § 403][/us/pl/95/485/s403], Oct. 20, 1978, [92 Stat. 1614][/us/stat/92/1614]; [Pub. L. 96–342, title VIII, § 805(b)][/us/pl/96/342/s805/b], Sept. 8, 1980, [94 Stat. 1095][/us/stat/94/1095]; [Pub. L. 97–295, § 3(2)][/us/pl/97/295/s3/2], Oct. 12, 1982, [96 Stat. 1303][/us/stat/96/1303]; [Pub. L. 99–145, title VI, § 643(a)][/us/pl/99/145/s643/a], Nov. 8, 1985, [99 Stat. 652][/us/stat/99/652]; [Pub. L. 100–180, div. A, title VI, § 626(b)][/us/pl/100/180/s626/b], Dec. 4, 1987, [101 Stat. 1104][/us/stat/101/1104]; [Pub. L. 101–189, div. A, title VI][/us/pl/101/189], §§ 613, 652(b)(1), Nov. 29, 1989, [103 Stat. 1446][/us/stat/103/1446], 1461; [Pub. L. 101–510, div. A, title XIII, § 1322(c)(4)][/us/pl/101/510/s1322/c/4], Nov. 5, 1990, [104 Stat. 1672][/us/stat/104/1672]; [Pub. L. 102–484, div. A, title VI, § 612(d)][/us/pl/102/484/s612/d], Oct. 23, 1992, [106 Stat. 2421][/us/stat/106/2421]; [Pub. L. 103–160, div. A, title VI, § 612(a)][/us/pl/103/160/s612/a], Nov. 30, 1993, [107 Stat. 1680][/us/stat/107/1680]; [Pub. L. 103–337, div. A, title VI, § 611(a)][/us/pl/103/337/s611/a], Oct. 5, 1994, [108 Stat. 2782][/us/stat/108/2782]; [Pub. L. 104–106, div. A, title VI, § 611(a)][/us/pl/104/106/s611/a], Feb. 10, 1996, [110 Stat. 359][/us/stat/110/359]; [Pub. L. 104–201, div. A, title VI, § 611(b)][/us/pl/104/201/s611/b], Sept. 23, 1996, [110 Stat. 2543][/us/stat/110/2543]; [Pub. L. 105–85, div. A, title VI][/us/pl/105/85], §§ 611(b), 621, Nov. 18, 1997, [111 Stat. 1785][/us/stat/111/1785], 1790; [Pub. L. 105–261, div. A, title VI, § 611(b)][/us/pl/105/261/s611/b], Oct. 17, 1998, [112 Stat. 2038][/us/stat/112/2038]; [Pub. L. 106–65, div. A, title VI, § 611(b)][/us/pl/106/65/s611/b], Oct. 5, 1999, [113 Stat. 649][/us/stat/113/649]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 621(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–151; [Pub. L. 107–107, div. A, title VI, § 611(b)][/us/pl/107/107/s611/b], Dec. 28, 2001, [115 Stat. 1135][/us/stat/115/1135]; [Pub. L. 107–296, title XVII, § 1704(c)][/us/pl/107/296/s1704/c], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title VI, § 611(a)][/us/pl/107/314/s611/a], Dec. 2, 2002, [116 Stat. 2567][/us/stat/116/2567]; [Pub. L. 108–136, div. A, title VI][/us/pl/108/136], §§ 611(a), 617, 626(b), Nov. 24, 2003, [117 Stat. 1500][/us/stat/117/1500], 1503, 1507; [Pub. L. 108–375, div. A, title VI][/us/pl/108/375], §§ 611(a), 618(b), Oct. 28, 2004, [118 Stat. 1946][/us/stat/118/1946], 1949; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 621(a), 630, 687(b)(15), Jan. 6, 2006, [119 Stat. 3294][/us/stat/119/3294], 3297, 3330; [Pub. L. 109–364, div. A, title VI, § 611(a)][/us/pl/109/364/s611/a], title X, § 1071(e)(7), Oct. 17, 2006, [120 Stat. 2247][/us/stat/120/2247], 2401; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181], §§ 611(a), 619(a)–(c), Jan. 28, 2008, [122 Stat. 148][/us/stat/122/148], 151; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 611(a), Oct. 14, 2008, [122 Stat. 4484][/us/stat/122/4484]; [Pub. L. 111–84, div. A, title VI, § 611(1)][/us/pl/111/84/s611/1], Oct. 28, 2009, [123 Stat. 2352][/us/stat/123/2352]; [Pub. L. 111–383, div. A, title VI, § 611(1)][/us/pl/111/383/s611/1], Jan. 7, 2011, [124 Stat. 4236][/us/stat/124/4236]; [Pub. L. 112–81, div. A, title VI, § 611(1)][/us/pl/112/81/s611/1], Dec. 31, 2011, [125 Stat. 1449][/us/stat/125/1449]; [Pub. L. 112–239, div. A, title VI, § 611(1)][/us/pl/112/239/s611/1], Jan. 2, 2013, [126 Stat. 1775][/us/stat/126/1775].)
+(Added [Pub. L. 95–79, title IV, § 403(a)(1)][/us/pl/95/79/s403/a/1], July 30, 1977, [91 Stat. 330][/us/stat/91/330]; amended [Pub. L. 95–485, title IV, § 403][/us/pl/95/485/s403], Oct. 20, 1978, [92 Stat. 1614][/us/stat/92/1614]; [Pub. L. 96–342, title VIII, § 805(b)][/us/pl/96/342/s805/b], Sept. 8, 1980, [94 Stat. 1095][/us/stat/94/1095]; [Pub. L. 97–295, § 3(2)][/us/pl/97/295/s3/2], Oct. 12, 1982, [96 Stat. 1303][/us/stat/96/1303]; [Pub. L. 99–145, title VI, § 643(a)][/us/pl/99/145/s643/a], Nov. 8, 1985, [99 Stat. 652][/us/stat/99/652]; [Pub. L. 100–180, div. A, title VI, § 626(b)][/us/pl/100/180/s626/b], Dec. 4, 1987, [101 Stat. 1104][/us/stat/101/1104]; [Pub. L. 101–189, div. A, title VI][/us/pl/101/189], §§ 613, 652(b)(1), Nov. 29, 1989, [103 Stat. 1446][/us/stat/103/1446], 1461; [Pub. L. 101–510, div. A, title XIII, § 1322(c)(4)][/us/pl/101/510/s1322/c/4], Nov. 5, 1990, [104 Stat. 1672][/us/stat/104/1672]; [Pub. L. 102–484, div. A, title VI, § 612(d)][/us/pl/102/484/s612/d], Oct. 23, 1992, [106 Stat. 2421][/us/stat/106/2421]; [Pub. L. 103–160, div. A, title VI, § 612(a)][/us/pl/103/160/s612/a], Nov. 30, 1993, [107 Stat. 1680][/us/stat/107/1680]; [Pub. L. 103–337, div. A, title VI, § 611(a)][/us/pl/103/337/s611/a], Oct. 5, 1994, [108 Stat. 2782][/us/stat/108/2782]; [Pub. L. 104–106, div. A, title VI, § 611(a)][/us/pl/104/106/s611/a], Feb. 10, 1996, [110 Stat. 359][/us/stat/110/359]; [Pub. L. 104–201, div. A, title VI, § 611(b)][/us/pl/104/201/s611/b], Sept. 23, 1996, [110 Stat. 2543][/us/stat/110/2543]; [Pub. L. 105–85, div. A, title VI][/us/pl/105/85], §§ 611(b), 621, Nov. 18, 1997, [111 Stat. 1785][/us/stat/111/1785], 1790; [Pub. L. 105–261, div. A, title VI, § 611(b)][/us/pl/105/261/s611/b], Oct. 17, 1998, [112 Stat. 2038][/us/stat/112/2038]; [Pub. L. 106–65, div. A, title VI, § 611(b)][/us/pl/106/65/s611/b], Oct. 5, 1999, [113 Stat. 649][/us/stat/113/649]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 621(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–151; [Pub. L. 107–107, div. A, title VI, § 611(b)][/us/pl/107/107/s611/b], Dec. 28, 2001, [115 Stat. 1135][/us/stat/115/1135]; [Pub. L. 107–296, title XVII, § 1704(c)][/us/pl/107/296/s1704/c], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title VI, § 611(a)][/us/pl/107/314/s611/a], Dec. 2, 2002, [116 Stat. 2567][/us/stat/116/2567]; [Pub. L. 108–136, div. A, title VI][/us/pl/108/136], §§ 611(a), 617, 626(b), Nov. 24, 2003, [117 Stat. 1500][/us/stat/117/1500], 1503, 1507; [Pub. L. 108–375, div. A, title VI][/us/pl/108/375], §§ 611(a), 618(b), Oct. 28, 2004, [118 Stat. 1946][/us/stat/118/1946], 1949; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 621(a), 630, 687(b)(15), Jan. 6, 2006, [119 Stat. 3294][/us/stat/119/3294], 3297, 3330; [Pub. L. 109–364, div. A, title VI, § 611(a)][/us/pl/109/364/s611/a], title X, § 1071(e)(7), Oct. 17, 2006, [120 Stat. 2247][/us/stat/120/2247], 2401; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181], §§ 611(a), 619(a)–(c), Jan. 28, 2008, [122 Stat. 148][/us/stat/122/148], 151; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 611(a), Oct. 14, 2008, [122 Stat. 4484][/us/stat/122/4484]; [Pub. L. 111–84, div. A, title VI, § 611(1)][/us/pl/111/84/s611/1], Oct. 28, 2009, [123 Stat. 2352][/us/stat/123/2352]; [Pub. L. 111–383, div. A, title VI, § 611(1)][/us/pl/111/383/s611/1], Jan. 7, 2011, [124 Stat. 4236][/us/stat/124/4236]; [Pub. L. 112–81, div. A, title VI, § 611(1)][/us/pl/112/81/s611/1], Dec. 31, 2011, [125 Stat. 1449][/us/stat/125/1449]; [Pub. L. 112–239, div. A, title VI, § 611(1)][/us/pl/112/239/s611/1], Jan. 2, 2013, [126 Stat. 1775][/us/stat/126/1775]; [Pub. L. 113–66, div. A, title VI, § 611(1)][/us/pl/113/66/s611/1], Dec. 26, 2013, [127 Stat. 779][/us/stat/127/779].)
 
  __Amendments__ 
 
-    2013—Subsec. (g). [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
+    2013—Subsec. (g). [Pub. L. 113–66][/us/pl/113/66] substituted “December 31, 2014” for “December 31, 2013”.
+
+    [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
 
     2011—Subsec. (g). [Pub. L. 112–81][/us/pl/112/81] substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -317,6 +319,9 @@
 [/us/stat/125/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1449
 [/us/pl/112/239/s611/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs611%2F1
 [/us/stat/126/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1775
+[/us/pl/113/66/s611/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs611%2F1
+[/us/stat/127/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F779
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

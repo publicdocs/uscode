@@ -15,7 +15,7 @@
 
 ## § 301c. Incentive pay: submarine duty
 
-    (a) __Eligibility Requirements.—__ 
+    (a)  __Eligibility Requirements__  __.—__ 
 
         (1) Subject to regulations prescribed by the President, a member of the naval service who is entitled to basic pay, and (A) holds (or is in training leading to) a submarine duty designator, (B) is in and remains in the submarine service on a career basis, and (C) meets the requirements of paragraph (3), is entitled to continuous monthly submarine duty incentive pay in the amount prescribed pursuant to subsection (b).
 
@@ -49,17 +49,17 @@
 
             (B) The term “submarine service” means the service performed, under regulations prescribed by the Secretary of the Navy, by a member, and the years of submarine service are computed beginning with the effective date of the initial order to perform submarine service.
 
-    (b) __Monthly Rates.—__ 
+    (b)  __Monthly Rates__  __.—__ 
 
     The Secretary of the Navy shall prescribe the monthly rates of submarine duty incentive pay, except that the maximum monthly rate may not exceed $1,000.
 
-    (c) __Exceptions.—__ 
+    (c)  __Exceptions__  __.—__ 
 
         (1) An officer who fails of selection for assignment as an executive officer or commanding officer of a submarine or who declines to serve in either such position may not be paid submarine duty incentive pay except for periods during which the officer is serving on a submarine during underway operations.
 
         (2) An enlisted member may not be paid continuous submarine duty incentive pay while serving ashore between submarine sea duty assignments unless the member has a sufficient period of enlistment (including any extension of an enlistment) remaining to be reassigned to submarine sea duty.
 
-    (d) __Applicability to Certain Navy Reserve Duty.—__ 
+    (d)  __Applicability to Certain Navy Reserve Duty__  __.—__ 
 
     Under regulations prescribed by the President and to the extent provided for by appropriations, when a member of the Navy Reserve who is entitled to compensation under [section 206 of this title][/us/usc/t37/s206], performs, under orders, duty on a submarine during underway operations, he is eligible for an increase in such compensation equal to one-thirtieth of the monthly incentive pay prescribed pursuant to subsection (b) for the performance of that duty by a member of a corresponding grade and years of service who is entitled to basic pay. Such a member is eligible for the increase for each day served, for as long as he is qualified for it, during each regular period of appropriate duty.
 

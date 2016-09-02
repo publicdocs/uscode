@@ -15,7 +15,7 @@
 
 ## § 481j. Travel and transportation allowances: transportation of family members incident to the repatriation of members held captive
 
-    (a) __Allowance for Family Members and Certain Others.—__ 
+    (a)  __Allowance for Family Members and Certain Others__  __.—__ 
 
         (1) Under uniform regulations prescribed by the Secretaries concerned, travel and transportation described in subsection (d) may be provided for not more than three family members of a member described in subsection (b).
 
@@ -31,7 +31,7 @@
 
         (4) In circumstances determined to be appropriate by the Secretary concerned, the Secretary may waive the limitation on the number of family members of a member provided travel and transportation allowances under this section.
 
-    (b) __Covered Members.—__ 
+    (b)  __Covered Members__  __.—__ 
 
     A member described in this subsection is a member of the uniformed services who—
 
@@ -41,11 +41,11 @@
 
         (3) is repatriated to a site inside or outside the United States.
 
-    (c) __Eligible Family Members.—__ 
+    (c)  __Eligible Family Members__  __.—__ 
 
     In this section, the term “family member” has the meaning given the term in [section 481h(b) of this title][/us/usc/t37/s481h/b].
 
-    (d) __Travel and Transportation Authorized.—__ 
+    (d)  __Travel and Transportation Authorized__  __.—__ 
 
         (1) The transportation authorized by subsection (a) is round-trip transportation between the home of the family member (or home of the attendant or person provided transportation under paragraph (2) or (3) of subsection (a), as the case may be) and the location of the repatriation site at which the member is located.
 
@@ -57,7 +57,7 @@
 
         (5) Reimbursement payable under this subsection may not exceed the cost of Government-procured round-trip air travel.
 
-    (e) __Termination.—__ 
+    (e)  __Termination__  __.—__ 
 
     No transportation, allowance, reimbursement, or per diem may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
