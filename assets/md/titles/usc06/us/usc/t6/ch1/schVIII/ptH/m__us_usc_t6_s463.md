@@ -15,7 +15,7 @@
 
 ## § 463. Requirement to comply with laws protecting equal employment opportunity and providing whistleblower protections
 
-Nothing in this chapter shall be construed as exempting the Department from requirements applicable with respect to executive agencies—
+    Nothing in this chapter shall be construed as exempting the Department from requirements applicable with respect to executive agencies—
 
     (1) to provide equal employment protection for employees of the Department (including pursuant to the provisions in [section 2302(b)(1) of title 5][/us/usc/t5/s2302/b/1] and the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 ([Public Law 107–174][/us/pl/107/174])); or
 

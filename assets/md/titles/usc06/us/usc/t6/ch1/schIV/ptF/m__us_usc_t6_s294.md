@@ -15,7 +15,7 @@
 
 ## § 294. Sense of Congress
 
-It is the sense of Congress that—
+    It is the sense of Congress that—
 
     (1) the missions of the Bureau of Border Security and the Bureau of Citizenship and Immigration Services are equally important and, accordingly, they each should be adequately funded; and
 

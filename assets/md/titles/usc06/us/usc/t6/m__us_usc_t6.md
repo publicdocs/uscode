@@ -13,9 +13,9 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t6/ch1/m__us_usc_t6_ch1.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6)
 
-# 
+# Title 6—DOMESTIC SECURITY
 
-Title 6—DOMESTIC SECURITY
+Current through 113–44
 
 <table>
 
@@ -31,51 +31,51 @@ Title 6—DOMESTIC SECURITY
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fch1" data-uslm-ref="/us/usc/t6/ch1">1.</a>  </td>
 
     <td> Homeland Security Organization  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs101" data-uslm-ref="/us/usc/t6/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fch2" data-uslm-ref="/us/usc/t6/ch2">2.</a>  </td>
 
     <td> National Emergency Management  </td>
 
-    <td> 701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs701" data-uslm-ref="/us/usc/t6/s701">701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fch3" data-uslm-ref="/us/usc/t6/ch3">3.</a>  </td>
 
     <td> Security and Accountability for Every Port  </td>
 
-    <td> 901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs901" data-uslm-ref="/us/usc/t6/s901">901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fch4" data-uslm-ref="/us/usc/t6/ch4">4.</a>  </td>
 
     <td> Transportation Security  </td>
 
-    <td> 1101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs1101" data-uslm-ref="/us/usc/t6/s1101">1101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fch5" data-uslm-ref="/us/usc/t6/ch5">5.</a>  </td>
 
     <td> Border Infrastructure and Technology Modernization  </td>
 
-    <td> 1401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs1401" data-uslm-ref="/us/usc/t6/s1401">1401</a>  </td>
 
   </tr>
 

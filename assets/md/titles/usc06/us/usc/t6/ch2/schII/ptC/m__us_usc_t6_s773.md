@@ -15,7 +15,7 @@
 
 ## § 773. Individuals with disabilities guidelines
 
-Not later than 90 days after October 4, 2006, and in coordination with the National Advisory Council, the National Council on Disability, the Interagency Coordinating Council on Preparedness and Individuals With Disabilities established under Executive Order No. 13347, and the Disability Coordinator (established under [section 321b of this title][/us/usc/t6/s321b]), the Administrator shall develop guidelines to accommodate individuals with disabilities, which shall include guidelines for—
+    Not later than 90 days after October 4, 2006, and in coordination with the National Advisory Council, the National Council on Disability, the Interagency Coordinating Council on Preparedness and Individuals With Disabilities established under Executive Order No. 13347, and the Disability Coordinator (established under [section 321b of this title][/us/usc/t6/s321b]), the Administrator shall develop guidelines to accommodate individuals with disabilities, which shall include guidelines for—
 
     (1) the accessibility of, and communications and programs in, shelters, recovery centers, and other facilities; and
 

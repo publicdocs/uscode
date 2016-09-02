@@ -15,7 +15,7 @@
 
 ## § 1131. Definitions
 
-For purposes of this subchapter, the following terms apply:
+    For purposes of this subchapter, the following terms apply:
 
     (1) __Appropriate congressional committees__ 
 

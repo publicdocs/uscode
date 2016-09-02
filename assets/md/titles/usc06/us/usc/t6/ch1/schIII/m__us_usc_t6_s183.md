@@ -15,7 +15,7 @@
 
 ## § 183. Functions transferred
 
-In accordance with subchapter XII of this chapter, there shall be transferred to the Secretary the functions, personnel, assets, and liabilities of the following entities:
+    In accordance with subchapter XII of this chapter, there shall be transferred to the Secretary the functions, personnel, assets, and liabilities of the following entities:
 
     (1)
 

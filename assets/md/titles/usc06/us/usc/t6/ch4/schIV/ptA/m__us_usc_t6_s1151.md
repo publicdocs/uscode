@@ -15,7 +15,7 @@
 
 ## § 1151. Definitions
 
-In this subchapter, the following definitions apply:
+    In this subchapter, the following definitions apply:
 
     (1) __Appropriate congressional committees__ 
 

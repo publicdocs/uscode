@@ -15,7 +15,7 @@
 
 ## § 253. Professional responsibility and quality review
 
-The Under Secretary for Border and Transportation Security shall be responsible for—
+    The Under Secretary for Border and Transportation Security shall be responsible for—
 
     (1) conducting investigations of noncriminal allegations of misconduct, corruption, and fraud involving any employee of the Bureau of Border Security that are not subject to investigation by the Inspector General for the Department;
 

@@ -15,7 +15,7 @@
 
 ## § 346. Consolidation and co-location of offices
 
-Not later than 1 year after November 25, 2002, the Secretary shall develop and submit to Congress a plan for consolidating and co-locating—
+    Not later than 1 year after November 25, 2002, the Secretary shall develop and submit to Congress a plan for consolidating and co-locating—
 
     (1) any regional offices or field offices of agencies that are transferred to the Department under this chapter, if such officers  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “offices”. </sup></sup>  are located in the same municipality; and
 

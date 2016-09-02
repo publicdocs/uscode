@@ -15,7 +15,7 @@
 
 ## § 750. Remedial action management program
 
-The Administrator, in coordination with the National Council on Disability and the National Advisory Council, shall establish a remedial action management program to—
+    The Administrator, in coordination with the National Council on Disability and the National Advisory Council, shall establish a remedial action management program to—
 
     (1) analyze training, exercises, and real-world events to identify and disseminate lessons learned and best practices;
 

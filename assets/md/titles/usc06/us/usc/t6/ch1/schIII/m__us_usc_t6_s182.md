@@ -15,7 +15,7 @@
 
 ## § 182. Responsibilities and authorities of the Under Secretary for Science and Technology
 
-The Secretary, acting through the Under Secretary for Science and Technology, shall have the responsibility for—
+    The Secretary, acting through the Under Secretary for Science and Technology, shall have the responsibility for—
 
     (1) advising the Secretary regarding research and development efforts and priorities in support of the Department’s missions;
 

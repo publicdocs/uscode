@@ -15,7 +15,7 @@
 
 ## § 764. National exercise simulation center
 
-The President shall establish a national exercise simulation center that—
+    The President shall establish a national exercise simulation center that—
 
     (1)
 

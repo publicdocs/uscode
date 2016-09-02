@@ -369,7 +369,11 @@
 
 >              an assessment of whether the implementation of the cybersecurity program—
 
->                 “(i) is in compliance with—         “(I) the legal basis referred to in subsection (a)(2)(A); and
+>                 “(i)
+
+>                  is in compliance with—
+
+>                          “(I) the legal basis referred to in subsection (a)(2)(A); and
 
 >                          “(II) an assessment referred to in subsection (a)(2)(D), if any;
 

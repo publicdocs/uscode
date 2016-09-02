@@ -15,7 +15,7 @@
 
 ## § 494. Other functions and activities
 
-For the purpose of more effectively coordinating the policies and functions of the United States Government relating to homeland security, the Council shall—
+    For the purpose of more effectively coordinating the policies and functions of the United States Government relating to homeland security, the Council shall—
 
     (1) assess the objectives, commitments, and risks of the United States in the interest of homeland security and to  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “to” probably should not appear. </sup></sup>  make resulting recommendations to the President;
 

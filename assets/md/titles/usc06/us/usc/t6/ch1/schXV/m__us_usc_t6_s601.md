@@ -15,7 +15,7 @@
 
 ## § 601. Definitions
 
-In this subchapter, the following definitions shall apply:
+    In this subchapter, the following definitions shall apply:
 
     (1) __Administrator__ 
 

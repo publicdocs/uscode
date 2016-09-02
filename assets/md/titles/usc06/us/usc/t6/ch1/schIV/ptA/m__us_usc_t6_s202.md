@@ -15,7 +15,7 @@
 
 ## § 202. Responsibilities
 
-The Secretary, acting through the Under Secretary for Border and Transportation Security, shall be responsible for the following:
+    The Secretary, acting through the Under Secretary for Border and Transportation Security, shall be responsible for the following:
 
     (1) Preventing the entry of terrorists and the instruments of terrorism into the United States.
 

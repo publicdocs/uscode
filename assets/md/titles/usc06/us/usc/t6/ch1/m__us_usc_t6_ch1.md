@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs101" data-uslm-ref="/us/usc/t6/s101">101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs102" data-uslm-ref="/us/usc/t6/s102">102.</a>  </td>
 
     <td> Construction; severability.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs103" data-uslm-ref="/us/usc/t6/s103">103.</a>  </td>
 
     <td> Use of appropriated funds.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—DEPARTMENT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs111" data-uslm-ref="/us/usc/t6/s111">111.</a>  </td>
 
     <td> Executive department; mission.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—DEPARTMENT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs112" data-uslm-ref="/us/usc/t6/s112">112.</a>  </td>
 
     <td> Secretary; functions.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—DEPARTMENT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs113" data-uslm-ref="/us/usc/t6/s113">113.</a>  </td>
 
     <td> Other officers.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—DEPARTMENT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs114" data-uslm-ref="/us/usc/t6/s114">114.</a>  </td>
 
     <td> Sensitive Security Information.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—DEPARTMENT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs115" data-uslm-ref="/us/usc/t6/s115">115.</a>  </td>
 
     <td> Trade and customs revenue functions of the Department.  </td>
 
@@ -113,7 +113,7 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 
   <tr>
 
-    <td> 121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs121" data-uslm-ref="/us/usc/t6/s121">121.</a>  </td>
 
     <td> Information and Analysis and Infrastructure Protection.  </td>
 
@@ -121,7 +121,7 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 
   <tr>
 
-    <td> 121a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs121a" data-uslm-ref="/us/usc/t6/s121a">121a.</a>  </td>
 
     <td> Homeland Security Intelligence Program.  </td>
 
@@ -129,7 +129,7 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 
   <tr>
 
-    <td> 122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs122" data-uslm-ref="/us/usc/t6/s122">122.</a>  </td>
 
     <td> Access to information.  </td>
 
@@ -137,7 +137,7 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 
   <tr>
 
-    <td> 123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs123" data-uslm-ref="/us/usc/t6/s123">123.</a>  </td>
 
     <td> Terrorist travel program.  </td>
 
@@ -145,7 +145,7 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 
   <tr>
 
-    <td> 124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs124" data-uslm-ref="/us/usc/t6/s124">124.</a>  </td>
 
     <td> Homeland Security Advisory System.  </td>
 
@@ -153,7 +153,7 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 
   <tr>
 
-    <td> 124a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs124a" data-uslm-ref="/us/usc/t6/s124a">124a.</a>  </td>
 
     <td> Homeland security information sharing.  </td>
 
@@ -161,7 +161,7 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 
   <tr>
 
-    <td> 124b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs124b" data-uslm-ref="/us/usc/t6/s124b">124b.</a>  </td>
 
     <td> Comprehensive information technology network architecture.  </td>
 
@@ -169,7 +169,7 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 
   <tr>
 
-    <td> 124c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs124c" data-uslm-ref="/us/usc/t6/s124c">124c.</a>  </td>
 
     <td> Coordination with information sharing environment.  </td>
 
@@ -177,7 +177,7 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 
   <tr>
 
-    <td> 124d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs124d" data-uslm-ref="/us/usc/t6/s124d">124d.</a>  </td>
 
     <td> Intelligence components.  </td>
 
@@ -185,7 +185,7 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 
   <tr>
 
-    <td> 124e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs124e" data-uslm-ref="/us/usc/t6/s124e">124e.</a>  </td>
 
     <td> Training for employees of intelligence components.  </td>
 
@@ -193,7 +193,7 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 
   <tr>
 
-    <td> 124f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs124f" data-uslm-ref="/us/usc/t6/s124f">124f.</a>  </td>
 
     <td> Intelligence training development for State and local government officials.  </td>
 
@@ -201,7 +201,7 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 
   <tr>
 
-    <td> 124g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs124g" data-uslm-ref="/us/usc/t6/s124g">124g.</a>  </td>
 
     <td> Information sharing incentives.  </td>
 
@@ -209,7 +209,7 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 
   <tr>
 
-    <td> 124h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs124h" data-uslm-ref="/us/usc/t6/s124h">124h.</a>  </td>
 
     <td> Department of Homeland Security State, Local, and Regional Fusion Center Initiative.  </td>
 
@@ -217,7 +217,7 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 
   <tr>
 
-    <td> 124i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs124i" data-uslm-ref="/us/usc/t6/s124i">124i.</a>  </td>
 
     <td> Homeland Security Information Sharing Fellows Program.  </td>
 
@@ -225,7 +225,7 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 
   <tr>
 
-    <td> 124j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs124j" data-uslm-ref="/us/usc/t6/s124j">124j.</a>  </td>
 
     <td> Rural Policing Institute.  </td>
 
@@ -233,7 +233,7 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 
   <tr>
 
-    <td> 124k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs124k" data-uslm-ref="/us/usc/t6/s124k">124k.</a>  </td>
 
     <td> Interagency Threat Assessment and Coordination Group.  </td>
 
@@ -241,7 +241,7 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 
   <tr>
 
-    <td> 124l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs124" data-uslm-ref="/us/usc/t6/s124">124</a>l.  </td>
 
     <td> National asset database.  </td>
 
@@ -249,7 +249,7 @@ Part A—Information and Analysis and Infrastructure Protection; Access to Infor
 
   <tr>
 
-    <td> 124m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs124m" data-uslm-ref="/us/usc/t6/s124m">124m.</a>  </td>
 
     <td> Classified Information Advisory Officer.  </td>
 
@@ -265,7 +265,7 @@ Part B—Critical Infrastructure Information  </td>
 
   <tr>
 
-    <td> 131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs131" data-uslm-ref="/us/usc/t6/s131">131.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -273,7 +273,7 @@ Part B—Critical Infrastructure Information  </td>
 
   <tr>
 
-    <td> 132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs132" data-uslm-ref="/us/usc/t6/s132">132.</a>  </td>
 
     <td> Designation of critical infrastructure protection program.  </td>
 
@@ -281,7 +281,7 @@ Part B—Critical Infrastructure Information  </td>
 
   <tr>
 
-    <td> 133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs133" data-uslm-ref="/us/usc/t6/s133">133.</a>  </td>
 
     <td> Protection of voluntarily shared critical infrastructure information.  </td>
 
@@ -289,7 +289,7 @@ Part B—Critical Infrastructure Information  </td>
 
   <tr>
 
-    <td> 134.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs134" data-uslm-ref="/us/usc/t6/s134">134.</a>  </td>
 
     <td> No private right of action.  </td>
 
@@ -305,7 +305,7 @@ Part C—Information Security  </td>
 
   <tr>
 
-    <td> 141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs141" data-uslm-ref="/us/usc/t6/s141">141.</a>  </td>
 
     <td> Procedures for sharing information.  </td>
 
@@ -313,7 +313,7 @@ Part C—Information Security  </td>
 
   <tr>
 
-    <td> 142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs142" data-uslm-ref="/us/usc/t6/s142">142.</a>  </td>
 
     <td> Privacy officer.  </td>
 
@@ -321,7 +321,7 @@ Part C—Information Security  </td>
 
   <tr>
 
-    <td> 143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs143" data-uslm-ref="/us/usc/t6/s143">143.</a>  </td>
 
     <td> Enhancement of non-Federal cybersecurity.  </td>
 
@@ -329,7 +329,7 @@ Part C—Information Security  </td>
 
   <tr>
 
-    <td> 144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs144" data-uslm-ref="/us/usc/t6/s144">144.</a>  </td>
 
     <td> NET Guard.  </td>
 
@@ -337,7 +337,7 @@ Part C—Information Security  </td>
 
   <tr>
 
-    <td> 145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs145" data-uslm-ref="/us/usc/t6/s145">145.</a>  </td>
 
     <td> Cyber Security Enhancement Act of 2002.  </td>
 
@@ -353,7 +353,7 @@ Part D—Office of Science and Technology  </td>
 
   <tr>
 
-    <td> 161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs161" data-uslm-ref="/us/usc/t6/s161">161.</a>  </td>
 
     <td> Establishment of Office; Director.  </td>
 
@@ -361,7 +361,7 @@ Part D—Office of Science and Technology  </td>
 
   <tr>
 
-    <td> 162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs162" data-uslm-ref="/us/usc/t6/s162">162.</a>  </td>
 
     <td> Mission of Office; duties.  </td>
 
@@ -369,7 +369,7 @@ Part D—Office of Science and Technology  </td>
 
   <tr>
 
-    <td> 163.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs163" data-uslm-ref="/us/usc/t6/s163">163.</a>  </td>
 
     <td> Definition of law enforcement technology.  </td>
 
@@ -377,7 +377,7 @@ Part D—Office of Science and Technology  </td>
 
   <tr>
 
-    <td> 164.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs164" data-uslm-ref="/us/usc/t6/s164">164.</a>  </td>
 
     <td> Abolishment of Office of Science and Technology of National Institute of Justice; transfer of functions.  </td>
 
@@ -385,7 +385,7 @@ Part D—Office of Science and Technology  </td>
 
   <tr>
 
-    <td> 165.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs165" data-uslm-ref="/us/usc/t6/s165">165.</a>  </td>
 
     <td> National Law Enforcement and Corrections Technology Centers.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER III—SCIENCE AND TECHNOLOGY IN SUPPORT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 181.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs181" data-uslm-ref="/us/usc/t6/s181">181.</a>  </td>
 
     <td> Under Secretary for Science and Technology.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER III—SCIENCE AND TECHNOLOGY IN SUPPORT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 182.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs182" data-uslm-ref="/us/usc/t6/s182">182.</a>  </td>
 
     <td> Responsibilities and authorities of the Under Secretary for Science and Technology.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER III—SCIENCE AND TECHNOLOGY IN SUPPORT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 183.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs183" data-uslm-ref="/us/usc/t6/s183">183.</a>  </td>
 
     <td> Functions transferred.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER III—SCIENCE AND TECHNOLOGY IN SUPPORT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 184.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs184" data-uslm-ref="/us/usc/t6/s184">184.</a>  </td>
 
     <td> Conduct of certain public health-related activities.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER III—SCIENCE AND TECHNOLOGY IN SUPPORT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 185.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs185" data-uslm-ref="/us/usc/t6/s185">185.</a>  </td>
 
     <td> Federally funded research and development centers.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER III—SCIENCE AND TECHNOLOGY IN SUPPORT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 186.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs186" data-uslm-ref="/us/usc/t6/s186">186.</a>  </td>
 
     <td> Miscellaneous provisions.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER III—SCIENCE AND TECHNOLOGY IN SUPPORT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 187.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs187" data-uslm-ref="/us/usc/t6/s187">187.</a>  </td>
 
     <td> Homeland Security Advanced Research Projects Agency.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER III—SCIENCE AND TECHNOLOGY IN SUPPORT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 188.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs188" data-uslm-ref="/us/usc/t6/s188">188.</a>  </td>
 
     <td> Conduct of research, development, demonstration, testing and evaluation.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER III—SCIENCE AND TECHNOLOGY IN SUPPORT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 189.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs189" data-uslm-ref="/us/usc/t6/s189">189.</a>  </td>
 
     <td> Utilization of Department of Energy national laboratories and sites in support of homeland security activities.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER III—SCIENCE AND TECHNOLOGY IN SUPPORT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 190.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs190" data-uslm-ref="/us/usc/t6/s190">190.</a>  </td>
 
     <td> Transfer of Plum Island Animal Disease Center, Department of Agriculture.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER III—SCIENCE AND TECHNOLOGY IN SUPPORT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 191.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs191" data-uslm-ref="/us/usc/t6/s191">191.</a>  </td>
 
     <td> Homeland Security Science and Technology Advisory Committee.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER III—SCIENCE AND TECHNOLOGY IN SUPPORT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 192.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs192" data-uslm-ref="/us/usc/t6/s192">192.</a>  </td>
 
     <td> Homeland Security Institute.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER III—SCIENCE AND TECHNOLOGY IN SUPPORT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 193.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs193" data-uslm-ref="/us/usc/t6/s193">193.</a>  </td>
 
     <td> Technology clearinghouse to encourage and support innovative solutions to enhance homeland security.  </td>
 
@@ -505,7 +505,7 @@ SUBCHAPTER III—SCIENCE AND TECHNOLOGY IN SUPPORT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 194.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs194" data-uslm-ref="/us/usc/t6/s194">194.</a>  </td>
 
     <td> Enhancement of public safety communications interoperability.  </td>
 
@@ -513,7 +513,7 @@ SUBCHAPTER III—SCIENCE AND TECHNOLOGY IN SUPPORT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 195.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs195" data-uslm-ref="/us/usc/t6/s195">195.</a>  </td>
 
     <td> Office for Interoperability and Compatibility.  </td>
 
@@ -521,7 +521,7 @@ SUBCHAPTER III—SCIENCE AND TECHNOLOGY IN SUPPORT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 195a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs195a" data-uslm-ref="/us/usc/t6/s195a">195a.</a>  </td>
 
     <td> Emergency communications interoperability research and development.  </td>
 
@@ -529,7 +529,7 @@ SUBCHAPTER III—SCIENCE AND TECHNOLOGY IN SUPPORT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 195b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs195b" data-uslm-ref="/us/usc/t6/s195b">195b.</a>  </td>
 
     <td> National Biosurveillance Integration Center.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER III—SCIENCE AND TECHNOLOGY IN SUPPORT OF HOMELAND SECURITY  </td>
 
   <tr>
 
-    <td> 195c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs195c" data-uslm-ref="/us/usc/t6/s195c">195c.</a>  </td>
 
     <td> Promoting antiterrorism through international cooperation program.  </td>
 
@@ -561,7 +561,7 @@ Part A—Under Secretary for Border and Transportation Security  </td>
 
   <tr>
 
-    <td> 201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs201" data-uslm-ref="/us/usc/t6/s201">201.</a>  </td>
 
     <td> Under Secretary for Border and Transportation Security.  </td>
 
@@ -569,7 +569,7 @@ Part A—Under Secretary for Border and Transportation Security  </td>
 
   <tr>
 
-    <td> 202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs202" data-uslm-ref="/us/usc/t6/s202">202.</a>  </td>
 
     <td> Responsibilities.  </td>
 
@@ -577,7 +577,7 @@ Part A—Under Secretary for Border and Transportation Security  </td>
 
   <tr>
 
-    <td> 203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs203" data-uslm-ref="/us/usc/t6/s203">203.</a>  </td>
 
     <td> Functions transferred.  </td>
 
@@ -593,7 +593,7 @@ Part B—United States Customs Service  </td>
 
   <tr>
 
-    <td> 211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs211" data-uslm-ref="/us/usc/t6/s211">211.</a>  </td>
 
     <td> Establishment; Commissioner of Customs.  </td>
 
@@ -601,7 +601,7 @@ Part B—United States Customs Service  </td>
 
   <tr>
 
-    <td> 212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs212" data-uslm-ref="/us/usc/t6/s212">212.</a>  </td>
 
     <td> Retention of Customs revenue functions by Secretary of the Treasury.  </td>
 
@@ -609,7 +609,7 @@ Part B—United States Customs Service  </td>
 
   <tr>
 
-    <td> 213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs213" data-uslm-ref="/us/usc/t6/s213">213.</a>  </td>
 
     <td> Preservation of Customs funds.  </td>
 
@@ -617,7 +617,7 @@ Part B—United States Customs Service  </td>
 
   <tr>
 
-    <td> 214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs214" data-uslm-ref="/us/usc/t6/s214">214.</a>  </td>
 
     <td> Separate budget request for Customs.  </td>
 
@@ -625,7 +625,7 @@ Part B—United States Customs Service  </td>
 
   <tr>
 
-    <td> 215.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs215" data-uslm-ref="/us/usc/t6/s215">215.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -633,7 +633,7 @@ Part B—United States Customs Service  </td>
 
   <tr>
 
-    <td> 216.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs216" data-uslm-ref="/us/usc/t6/s216">216.</a>  </td>
 
     <td> GAO report to Congress.  </td>
 
@@ -641,7 +641,7 @@ Part B—United States Customs Service  </td>
 
   <tr>
 
-    <td> 217.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs217" data-uslm-ref="/us/usc/t6/s217">217.</a>  </td>
 
     <td> Allocation of resources by the Secretary.  </td>
 
@@ -649,7 +649,7 @@ Part B—United States Customs Service  </td>
 
   <tr>
 
-    <td> 218.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs218" data-uslm-ref="/us/usc/t6/s218">218.</a>  </td>
 
     <td> Reports to Congress.  </td>
 
@@ -657,7 +657,7 @@ Part B—United States Customs Service  </td>
 
   <tr>
 
-    <td> 220.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs220" data-uslm-ref="/us/usc/t6/s220">220.</a>  </td>
 
     <td> Methamphetamine and methamphetamine precursor chemicals.  </td>
 
@@ -665,7 +665,7 @@ Part B—United States Customs Service  </td>
 
   <tr>
 
-    <td> 221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs221" data-uslm-ref="/us/usc/t6/s221">221.</a>  </td>
 
     <td> Requirements with respect to administering polygraph examinations to law enforcement personnel of U.S. Customs and Border Protection.  </td>
 
@@ -673,7 +673,7 @@ Part B—United States Customs Service  </td>
 
   <tr>
 
-    <td> 222.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs222" data-uslm-ref="/us/usc/t6/s222">222.</a>  </td>
 
     <td> Advanced Training Center Revolving Fund.  </td>
 
@@ -689,7 +689,7 @@ Part C—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs231" data-uslm-ref="/us/usc/t6/s231">231.</a>  </td>
 
     <td> Transfer of certain agricultural inspection functions of the Department of Agriculture.  </td>
 
@@ -697,7 +697,7 @@ Part C—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs232" data-uslm-ref="/us/usc/t6/s232">232.</a>  </td>
 
     <td> Functions of Administrator of General Services.  </td>
 
@@ -705,7 +705,7 @@ Part C—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 233.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs233" data-uslm-ref="/us/usc/t6/s233">233.</a>  </td>
 
     <td> Functions of Transportation Security Administration.  </td>
 
@@ -713,7 +713,7 @@ Part C—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 234.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs234" data-uslm-ref="/us/usc/t6/s234">234.</a>  </td>
 
     <td> Preservation of Transportation Security Administration as a distinct entity.  </td>
 
@@ -721,7 +721,7 @@ Part C—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 235.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs235" data-uslm-ref="/us/usc/t6/s235">235.</a>  </td>
 
     <td> Coordination of information and information technology.  </td>
 
@@ -729,7 +729,7 @@ Part C—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 236.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs236" data-uslm-ref="/us/usc/t6/s236">236.</a>  </td>
 
     <td> Visa issuance.  </td>
 
@@ -737,7 +737,7 @@ Part C—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 237.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs237" data-uslm-ref="/us/usc/t6/s237">237.</a>  </td>
 
     <td> Information on visa denials required to be entered into electronic data system.  </td>
 
@@ -745,7 +745,7 @@ Part C—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 238.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs238" data-uslm-ref="/us/usc/t6/s238">238.</a>  </td>
 
     <td> Office for Domestic Preparedness.  </td>
 
@@ -753,7 +753,7 @@ Part C—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 239.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs239" data-uslm-ref="/us/usc/t6/s239">239.</a>  </td>
 
     <td> Office of Cargo Security Policy.  </td>
 
@@ -761,7 +761,7 @@ Part C—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 240.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs240" data-uslm-ref="/us/usc/t6/s240">240.</a>  </td>
 
     <td> Border Enforcement Security Task Force.  </td>
 
@@ -777,7 +777,7 @@ Part D—Immigration Enforcement Functions  </td>
 
   <tr>
 
-    <td> 251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs251" data-uslm-ref="/us/usc/t6/s251">251.</a>  </td>
 
     <td> Transfer of functions to Under Secretary for Border and Transportation Security.  </td>
 
@@ -785,7 +785,7 @@ Part D—Immigration Enforcement Functions  </td>
 
   <tr>
 
-    <td> 252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs252" data-uslm-ref="/us/usc/t6/s252">252.</a>  </td>
 
     <td> Establishment of Bureau of Border Security.  </td>
 
@@ -793,7 +793,7 @@ Part D—Immigration Enforcement Functions  </td>
 
   <tr>
 
-    <td> 253.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs253" data-uslm-ref="/us/usc/t6/s253">253.</a>  </td>
 
     <td> Professional responsibility and quality review.  </td>
 
@@ -801,7 +801,7 @@ Part D—Immigration Enforcement Functions  </td>
 
   <tr>
 
-    <td> 254.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs254" data-uslm-ref="/us/usc/t6/s254">254.</a>  </td>
 
     <td> Employee discipline.  </td>
 
@@ -809,7 +809,7 @@ Part D—Immigration Enforcement Functions  </td>
 
   <tr>
 
-    <td> 255.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs255" data-uslm-ref="/us/usc/t6/s255">255.</a>  </td>
 
     <td> Report on improving enforcement functions.  </td>
 
@@ -817,7 +817,7 @@ Part D—Immigration Enforcement Functions  </td>
 
   <tr>
 
-    <td> 256.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs256" data-uslm-ref="/us/usc/t6/s256">256.</a>  </td>
 
     <td> Sense of Congress regarding construction of fencing near San Diego, California.  </td>
 
@@ -825,7 +825,7 @@ Part D—Immigration Enforcement Functions  </td>
 
   <tr>
 
-    <td> 257.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs257" data-uslm-ref="/us/usc/t6/s257">257.</a>  </td>
 
     <td> Report.  </td>
 
@@ -841,7 +841,7 @@ Part E—Citizenship and Immigration Services  </td>
 
   <tr>
 
-    <td> 271.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs271" data-uslm-ref="/us/usc/t6/s271">271.</a>  </td>
 
     <td> Establishment of Bureau of Citizenship and Immigration Services.  </td>
 
@@ -849,7 +849,7 @@ Part E—Citizenship and Immigration Services  </td>
 
   <tr>
 
-    <td> 272.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs272" data-uslm-ref="/us/usc/t6/s272">272.</a>  </td>
 
     <td> Citizenship and Immigration Services Ombudsman.  </td>
 
@@ -857,7 +857,7 @@ Part E—Citizenship and Immigration Services  </td>
 
   <tr>
 
-    <td> 273.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs273" data-uslm-ref="/us/usc/t6/s273">273.</a>  </td>
 
     <td> Professional responsibility and quality review.  </td>
 
@@ -865,7 +865,7 @@ Part E—Citizenship and Immigration Services  </td>
 
   <tr>
 
-    <td> 274.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs274" data-uslm-ref="/us/usc/t6/s274">274.</a>  </td>
 
     <td> Employee discipline.  </td>
 
@@ -873,7 +873,7 @@ Part E—Citizenship and Immigration Services  </td>
 
   <tr>
 
-    <td> 275.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs275" data-uslm-ref="/us/usc/t6/s275">275.</a>  </td>
 
     <td> Transition.  </td>
 
@@ -881,7 +881,7 @@ Part E—Citizenship and Immigration Services  </td>
 
   <tr>
 
-    <td> 276.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs276" data-uslm-ref="/us/usc/t6/s276">276.</a>  </td>
 
     <td> Report on improving immigration services.  </td>
 
@@ -889,7 +889,7 @@ Part E—Citizenship and Immigration Services  </td>
 
   <tr>
 
-    <td> 277.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs277" data-uslm-ref="/us/usc/t6/s277">277.</a>  </td>
 
     <td> Report on responding to fluctuating needs.  </td>
 
@@ -897,7 +897,7 @@ Part E—Citizenship and Immigration Services  </td>
 
   <tr>
 
-    <td> 278.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs278" data-uslm-ref="/us/usc/t6/s278">278.</a>  </td>
 
     <td> Application of Internet-based technologies.  </td>
 
@@ -905,7 +905,7 @@ Part E—Citizenship and Immigration Services  </td>
 
   <tr>
 
-    <td> 279.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs279" data-uslm-ref="/us/usc/t6/s279">279.</a>  </td>
 
     <td> Children’s affairs.  </td>
 
@@ -921,7 +921,7 @@ Part F—General Immigration Provisions  </td>
 
   <tr>
 
-    <td> 291.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs291" data-uslm-ref="/us/usc/t6/s291">291.</a>  </td>
 
     <td> Abolishment of INS.  </td>
 
@@ -929,7 +929,7 @@ Part F—General Immigration Provisions  </td>
 
   <tr>
 
-    <td> 292.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs292" data-uslm-ref="/us/usc/t6/s292">292.</a>  </td>
 
     <td> Voluntary separation incentive payments.  </td>
 
@@ -937,7 +937,7 @@ Part F—General Immigration Provisions  </td>
 
   <tr>
 
-    <td> 293.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs293" data-uslm-ref="/us/usc/t6/s293">293.</a>  </td>
 
     <td> Authority to conduct a demonstration project relating to disciplinary action.  </td>
 
@@ -945,7 +945,7 @@ Part F—General Immigration Provisions  </td>
 
   <tr>
 
-    <td> 294.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs294" data-uslm-ref="/us/usc/t6/s294">294.</a>  </td>
 
     <td> Sense of Congress.  </td>
 
@@ -953,7 +953,7 @@ Part F—General Immigration Provisions  </td>
 
   <tr>
 
-    <td> 295.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs295" data-uslm-ref="/us/usc/t6/s295">295.</a>  </td>
 
     <td> Director of Shared Services.  </td>
 
@@ -961,7 +961,7 @@ Part F—General Immigration Provisions  </td>
 
   <tr>
 
-    <td> 296.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs296" data-uslm-ref="/us/usc/t6/s296">296.</a>  </td>
 
     <td> Separation of funding.  </td>
 
@@ -969,7 +969,7 @@ Part F—General Immigration Provisions  </td>
 
   <tr>
 
-    <td> 297.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs297" data-uslm-ref="/us/usc/t6/s297">297.</a>  </td>
 
     <td> Reports and implementation plans.  </td>
 
@@ -977,7 +977,7 @@ Part F—General Immigration Provisions  </td>
 
   <tr>
 
-    <td> 298.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs298" data-uslm-ref="/us/usc/t6/s298">298.</a>  </td>
 
     <td> Immigration functions.  </td>
 
@@ -993,7 +993,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs311" data-uslm-ref="/us/usc/t6/s311">311.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -1001,7 +1001,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs312" data-uslm-ref="/us/usc/t6/s312">312.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -1009,7 +1009,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs313" data-uslm-ref="/us/usc/t6/s313">313.</a>  </td>
 
     <td> Federal Emergency Management Agency.  </td>
 
@@ -1017,7 +1017,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs314" data-uslm-ref="/us/usc/t6/s314">314.</a>  </td>
 
     <td> Authority and responsibilities.  </td>
 
@@ -1025,7 +1025,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 314a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs314a" data-uslm-ref="/us/usc/t6/s314a">314a.</a>  </td>
 
     <td> FEMA programs.  </td>
 
@@ -1033,7 +1033,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs315" data-uslm-ref="/us/usc/t6/s315">315.</a>  </td>
 
     <td> Functions transferred.  </td>
 
@@ -1041,7 +1041,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs316" data-uslm-ref="/us/usc/t6/s316">316.</a>  </td>
 
     <td> Preserving the Federal Emergency Management Agency.  </td>
 
@@ -1049,7 +1049,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs317" data-uslm-ref="/us/usc/t6/s317">317.</a>  </td>
 
     <td> Regional offices.  </td>
 
@@ -1057,7 +1057,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs318" data-uslm-ref="/us/usc/t6/s318">318.</a>  </td>
 
     <td> National Advisory Council.  </td>
 
@@ -1065,7 +1065,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 319.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs319" data-uslm-ref="/us/usc/t6/s319">319.</a>  </td>
 
     <td> National Integration Center.  </td>
 
@@ -1073,7 +1073,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 320.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs320" data-uslm-ref="/us/usc/t6/s320">320.</a>  </td>
 
     <td> Credentialing and typing.  </td>
 
@@ -1081,7 +1081,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs321" data-uslm-ref="/us/usc/t6/s321">321.</a>  </td>
 
     <td> The National Infrastructure Simulation and Analysis Center.  </td>
 
@@ -1089,7 +1089,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 321a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs321a" data-uslm-ref="/us/usc/t6/s321a">321a.</a>  </td>
 
     <td> Evacuation plans and exercises.  </td>
 
@@ -1097,7 +1097,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 321b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs321b" data-uslm-ref="/us/usc/t6/s321b">321b.</a>  </td>
 
     <td> Disability Coordinator.  </td>
 
@@ -1105,7 +1105,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 321c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs321c" data-uslm-ref="/us/usc/t6/s321c">321c.</a>  </td>
 
     <td> Department and Agency officials.  </td>
 
@@ -1113,7 +1113,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 321d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs321d" data-uslm-ref="/us/usc/t6/s321d">321d.</a>  </td>
 
     <td> National Operations Center.  </td>
 
@@ -1121,7 +1121,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 321e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs321e" data-uslm-ref="/us/usc/t6/s321e">321e.</a>  </td>
 
     <td> Chief Medical Officer.  </td>
 
@@ -1129,7 +1129,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 321f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs321f" data-uslm-ref="/us/usc/t6/s321f">321f.</a>  </td>
 
     <td> Nuclear incident response.  </td>
 
@@ -1137,7 +1137,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 321g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs321g" data-uslm-ref="/us/usc/t6/s321g">321g.</a>  </td>
 
     <td> Conduct of certain public health-related activities.  </td>
 
@@ -1145,7 +1145,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 321h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs321h" data-uslm-ref="/us/usc/t6/s321h">321h.</a>  </td>
 
     <td> Use of national private sector networks in emergency response.  </td>
 
@@ -1153,7 +1153,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 321i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs321i" data-uslm-ref="/us/usc/t6/s321i">321i.</a>  </td>
 
     <td> Use of commercially available technology, goods, and services.  </td>
 
@@ -1161,7 +1161,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 321j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs321j" data-uslm-ref="/us/usc/t6/s321j">321j.</a>  </td>
 
     <td> Procurement of security countermeasures for Strategic National Stockpile.  </td>
 
@@ -1169,7 +1169,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 321k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs321k" data-uslm-ref="/us/usc/t6/s321k">321k.</a>  </td>
 
     <td> Model standards and guidelines for critical infrastructure workers.  </td>
 
@@ -1177,7 +1177,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 321l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs321" data-uslm-ref="/us/usc/t6/s321">321</a>l.  </td>
 
     <td> Guidance and recommendations.  </td>
 
@@ -1185,7 +1185,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 321m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs321m" data-uslm-ref="/us/usc/t6/s321m">321m.</a>  </td>
 
     <td> Voluntary private sector preparedness accreditation and certification program.  </td>
 
@@ -1193,7 +1193,7 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT  </td>
 
   <tr>
 
-    <td> 321n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs321n" data-uslm-ref="/us/usc/t6/s321n">321n.</a>  </td>
 
     <td> Acceptance of gifts.  </td>
 
@@ -1209,7 +1209,7 @@ SUBCHAPTER VI—TREATMENT OF CHARITABLE TRUSTS FOR MEMBERS OF THE ARMED FORCES O
 
   <tr>
 
-    <td> 331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs331" data-uslm-ref="/us/usc/t6/s331">331.</a>  </td>
 
     <td> Treatment of charitable trusts for members of the Armed Forces of the United States and other governmental organizations.  </td>
 
@@ -1225,7 +1225,7 @@ SUBCHAPTER VII—MANAGEMENT  </td>
 
   <tr>
 
-    <td> 341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs341" data-uslm-ref="/us/usc/t6/s341">341.</a>  </td>
 
     <td> Under Secretary for Management.  </td>
 
@@ -1233,7 +1233,7 @@ SUBCHAPTER VII—MANAGEMENT  </td>
 
   <tr>
 
-    <td> 342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs342" data-uslm-ref="/us/usc/t6/s342">342.</a>  </td>
 
     <td> Chief Financial Officer.  </td>
 
@@ -1241,7 +1241,7 @@ SUBCHAPTER VII—MANAGEMENT  </td>
 
   <tr>
 
-    <td> 343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs343" data-uslm-ref="/us/usc/t6/s343">343.</a>  </td>
 
     <td> Chief Information Officer.  </td>
 
@@ -1249,7 +1249,7 @@ SUBCHAPTER VII—MANAGEMENT  </td>
 
   <tr>
 
-    <td> 344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs344" data-uslm-ref="/us/usc/t6/s344">344.</a>  </td>
 
     <td> Chief Human Capital Officer.  </td>
 
@@ -1257,7 +1257,7 @@ SUBCHAPTER VII—MANAGEMENT  </td>
 
   <tr>
 
-    <td> 345.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs345" data-uslm-ref="/us/usc/t6/s345">345.</a>  </td>
 
     <td> Establishment of Officer for Civil Rights and Civil Liberties.  </td>
 
@@ -1265,7 +1265,7 @@ SUBCHAPTER VII—MANAGEMENT  </td>
 
   <tr>
 
-    <td> 346.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs346" data-uslm-ref="/us/usc/t6/s346">346.</a>  </td>
 
     <td> Consolidation and co-location of offices.  </td>
 
@@ -1273,7 +1273,7 @@ SUBCHAPTER VII—MANAGEMENT  </td>
 
   <tr>
 
-    <td> 347.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs347" data-uslm-ref="/us/usc/t6/s347">347.</a>  </td>
 
     <td> Quadrennial homeland security review.  </td>
 
@@ -1297,7 +1297,7 @@ Part A—Coordination with Non-Federal Entities  </td>
 
   <tr>
 
-    <td> 361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs361" data-uslm-ref="/us/usc/t6/s361">361.</a>  </td>
 
     <td> Office for State and Local Government Coordination.  </td>
 
@@ -1313,7 +1313,7 @@ Part B—Inspector General  </td>
 
   <tr>
 
-    <td> 371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs371" data-uslm-ref="/us/usc/t6/s371">371.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -1329,7 +1329,7 @@ Part C—United States Secret Service  </td>
 
   <tr>
 
-    <td> 381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs381" data-uslm-ref="/us/usc/t6/s381">381.</a>  </td>
 
     <td> Functions transferred.  </td>
 
@@ -1345,7 +1345,7 @@ Part D—Acquisitions  </td>
 
   <tr>
 
-    <td> 391.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs391" data-uslm-ref="/us/usc/t6/s391">391.</a>  </td>
 
     <td> Research and development projects.  </td>
 
@@ -1353,7 +1353,7 @@ Part D—Acquisitions  </td>
 
   <tr>
 
-    <td> 392.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs392" data-uslm-ref="/us/usc/t6/s392">392.</a>  </td>
 
     <td> Personal services.  </td>
 
@@ -1361,7 +1361,7 @@ Part D—Acquisitions  </td>
 
   <tr>
 
-    <td> 393.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs393" data-uslm-ref="/us/usc/t6/s393">393.</a>  </td>
 
     <td> Special streamlined acquisition authority.  </td>
 
@@ -1369,7 +1369,7 @@ Part D—Acquisitions  </td>
 
   <tr>
 
-    <td> 394.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs394" data-uslm-ref="/us/usc/t6/s394">394.</a>  </td>
 
     <td> Unsolicited proposals.  </td>
 
@@ -1377,7 +1377,7 @@ Part D—Acquisitions  </td>
 
   <tr>
 
-    <td> 395.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs395" data-uslm-ref="/us/usc/t6/s395">395.</a>  </td>
 
     <td> Prohibition on contracts with corporate expatriates.  </td>
 
@@ -1385,7 +1385,7 @@ Part D—Acquisitions  </td>
 
   <tr>
 
-    <td> 396.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs396" data-uslm-ref="/us/usc/t6/s396">396.</a>  </td>
 
     <td> Lead system integrator; financial interests.  </td>
 
@@ -1401,7 +1401,7 @@ Part E—Human Resources Management  </td>
 
   <tr>
 
-    <td> 411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs411" data-uslm-ref="/us/usc/t6/s411">411.</a>  </td>
 
     <td> Establishment of human resources management system.  </td>
 
@@ -1409,7 +1409,7 @@ Part E—Human Resources Management  </td>
 
   <tr>
 
-    <td> 412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs412" data-uslm-ref="/us/usc/t6/s412">412.</a>  </td>
 
     <td> Labor-management relations.  </td>
 
@@ -1417,7 +1417,7 @@ Part E—Human Resources Management  </td>
 
   <tr>
 
-    <td> 413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs413" data-uslm-ref="/us/usc/t6/s413">413.</a>  </td>
 
     <td> Use of counternarcotics enforcement activities in certain employee performance appraisals.  </td>
 
@@ -1425,7 +1425,7 @@ Part E—Human Resources Management  </td>
 
   <tr>
 
-    <td> 414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs414" data-uslm-ref="/us/usc/t6/s414">414.</a>  </td>
 
     <td> Homeland Security Rotation Program.  </td>
 
@@ -1433,7 +1433,7 @@ Part E—Human Resources Management  </td>
 
   <tr>
 
-    <td> 415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs415" data-uslm-ref="/us/usc/t6/s415">415.</a>  </td>
 
     <td> Homeland Security Education Program.  </td>
 
@@ -1441,7 +1441,7 @@ Part E—Human Resources Management  </td>
 
   <tr>
 
-    <td> 416.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs416" data-uslm-ref="/us/usc/t6/s416">416.</a>  </td>
 
     <td> Use of protective equipment or measures by employees.  </td>
 
@@ -1457,7 +1457,7 @@ Part F—Federal Emergency Procurement Flexibility  </td>
 
   <tr>
 
-    <td> 421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs421" data-uslm-ref="/us/usc/t6/s421">421.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -1465,7 +1465,7 @@ Part F—Federal Emergency Procurement Flexibility  </td>
 
   <tr>
 
-    <td> 422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs422" data-uslm-ref="/us/usc/t6/s422">422.</a>  </td>
 
     <td> Procurements for defense against or recovery from terrorism or nuclear, biological, chemical, or radiological attack.  </td>
 
@@ -1473,7 +1473,7 @@ Part F—Federal Emergency Procurement Flexibility  </td>
 
   <tr>
 
-    <td> 423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs423" data-uslm-ref="/us/usc/t6/s423">423.</a>  </td>
 
     <td> Increased simplified acquisition threshold for procurements in support of humanitarian or peacekeeping operations or contingency operations.  </td>
 
@@ -1481,7 +1481,7 @@ Part F—Federal Emergency Procurement Flexibility  </td>
 
   <tr>
 
-    <td> 424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs424" data-uslm-ref="/us/usc/t6/s424">424.</a>  </td>
 
     <td> Increased micro-purchase threshold for certain procurements.  </td>
 
@@ -1489,7 +1489,7 @@ Part F—Federal Emergency Procurement Flexibility  </td>
 
   <tr>
 
-    <td> 425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs425" data-uslm-ref="/us/usc/t6/s425">425.</a>  </td>
 
     <td> Application of certain commercial items authorities to certain procurements.  </td>
 
@@ -1497,7 +1497,7 @@ Part F—Federal Emergency Procurement Flexibility  </td>
 
   <tr>
 
-    <td> 426.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs426" data-uslm-ref="/us/usc/t6/s426">426.</a>  </td>
 
     <td> Use of streamlined procedures.  </td>
 
@@ -1505,7 +1505,7 @@ Part F—Federal Emergency Procurement Flexibility  </td>
 
   <tr>
 
-    <td> 427.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs427" data-uslm-ref="/us/usc/t6/s427">427.</a>  </td>
 
     <td> Review and report by Comptroller General.  </td>
 
@@ -1513,7 +1513,7 @@ Part F—Federal Emergency Procurement Flexibility  </td>
 
   <tr>
 
-    <td> 428.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs428" data-uslm-ref="/us/usc/t6/s428">428.</a>  </td>
 
     <td> Identification of new entrants into the Federal marketplace.  </td>
 
@@ -1529,7 +1529,7 @@ Part G—Support Anti-Terrorism by Fostering Effective Technologies  </td>
 
   <tr>
 
-    <td> 441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs441" data-uslm-ref="/us/usc/t6/s441">441.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -1537,7 +1537,7 @@ Part G—Support Anti-Terrorism by Fostering Effective Technologies  </td>
 
   <tr>
 
-    <td> 442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs442" data-uslm-ref="/us/usc/t6/s442">442.</a>  </td>
 
     <td> Litigation management.  </td>
 
@@ -1545,7 +1545,7 @@ Part G—Support Anti-Terrorism by Fostering Effective Technologies  </td>
 
   <tr>
 
-    <td> 443.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs443" data-uslm-ref="/us/usc/t6/s443">443.</a>  </td>
 
     <td> Risk management.  </td>
 
@@ -1553,7 +1553,7 @@ Part G—Support Anti-Terrorism by Fostering Effective Technologies  </td>
 
   <tr>
 
-    <td> 444.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs444" data-uslm-ref="/us/usc/t6/s444">444.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -1569,7 +1569,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs451" data-uslm-ref="/us/usc/t6/s451">451.</a>  </td>
 
     <td> Advisory committees.  </td>
 
@@ -1577,7 +1577,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs452" data-uslm-ref="/us/usc/t6/s452">452.</a>  </td>
 
     <td> Reorganization.  </td>
 
@@ -1585,7 +1585,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs453" data-uslm-ref="/us/usc/t6/s453">453.</a>  </td>
 
     <td> Use of appropriated funds.  </td>
 
@@ -1593,7 +1593,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 453a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs453a" data-uslm-ref="/us/usc/t6/s453a">453a.</a>  </td>
 
     <td> Additional uses of appropriated funds.  </td>
 
@@ -1601,7 +1601,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 453b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs453b" data-uslm-ref="/us/usc/t6/s453b">453b.</a>  </td>
 
     <td> Requirement to buy certain items related to national security interests from American sources; exceptions.  </td>
 
@@ -1609,7 +1609,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 453c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs453c" data-uslm-ref="/us/usc/t6/s453c">453c.</a>  </td>
 
     <td> Disposition of equines unfit for service.  </td>
 
@@ -1617,7 +1617,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 454.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs454" data-uslm-ref="/us/usc/t6/s454">454.</a>  </td>
 
     <td> Future Years Homeland Security Program.  </td>
 
@@ -1625,7 +1625,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 455.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs455" data-uslm-ref="/us/usc/t6/s455">455.</a>  </td>
 
     <td> Miscellaneous authorities.  </td>
 
@@ -1633,7 +1633,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 456.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs456" data-uslm-ref="/us/usc/t6/s456">456.</a>  </td>
 
     <td> Military activities.  </td>
 
@@ -1641,7 +1641,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 457.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs457" data-uslm-ref="/us/usc/t6/s457">457.</a>  </td>
 
     <td> Regulatory authority and preemption.  </td>
 
@@ -1649,7 +1649,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 458.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs458" data-uslm-ref="/us/usc/t6/s458">458.</a>  </td>
 
     <td> Office of Counternarcotics Enforcement.  </td>
 
@@ -1657,7 +1657,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 459.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs459" data-uslm-ref="/us/usc/t6/s459">459.</a>  </td>
 
     <td> Office of International Affairs.  </td>
 
@@ -1665,7 +1665,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 460.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs460" data-uslm-ref="/us/usc/t6/s460">460.</a>  </td>
 
     <td> Prohibition of the Terrorism Information and Prevention System.  </td>
 
@@ -1673,7 +1673,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs461" data-uslm-ref="/us/usc/t6/s461">461.</a>  </td>
 
     <td> Review of pay and benefit plans.  </td>
 
@@ -1681,7 +1681,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs462" data-uslm-ref="/us/usc/t6/s462">462.</a>  </td>
 
     <td> Office of National Capital Region Coordination.  </td>
 
@@ -1689,7 +1689,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 463.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs463" data-uslm-ref="/us/usc/t6/s463">463.</a>  </td>
 
     <td> Requirement to comply with laws protecting equal employment opportunity and providing whistleblower protections.  </td>
 
@@ -1697,7 +1697,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 464.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs464" data-uslm-ref="/us/usc/t6/s464">464.</a>  </td>
 
     <td> Federal Law Enforcement Training Center.  </td>
 
@@ -1705,7 +1705,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 464a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs464a" data-uslm-ref="/us/usc/t6/s464a">464a.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -1713,7 +1713,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 464b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs464b" data-uslm-ref="/us/usc/t6/s464b">464b.</a>  </td>
 
     <td> Staffing accreditation function.  </td>
 
@@ -1721,7 +1721,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 464c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs464c" data-uslm-ref="/us/usc/t6/s464c">464c.</a>  </td>
 
     <td> Student housing.  </td>
 
@@ -1729,7 +1729,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 464d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs464d" data-uslm-ref="/us/usc/t6/s464d">464d.</a>  </td>
 
     <td> Additional funds for training.  </td>
 
@@ -1737,7 +1737,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 464e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs464e" data-uslm-ref="/us/usc/t6/s464e">464e.</a>  </td>
 
     <td> Short-term medical services for students.  </td>
 
@@ -1745,7 +1745,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 465.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs465" data-uslm-ref="/us/usc/t6/s465">465.</a>  </td>
 
     <td> Joint Interagency Task Force.  </td>
 
@@ -1753,7 +1753,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 466.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs466" data-uslm-ref="/us/usc/t6/s466">466.</a>  </td>
 
     <td> Sense of Congress reaffirming the continued importance and applicability of the Posse Comitatus Act.  </td>
 
@@ -1761,7 +1761,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 467.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs467" data-uslm-ref="/us/usc/t6/s467">467.</a>  </td>
 
     <td> Coordination with the Department of Health and Human Services under the Public Health Service Act.  </td>
 
@@ -1769,7 +1769,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 468.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs468" data-uslm-ref="/us/usc/t6/s468">468.</a>  </td>
 
     <td> Preserving Coast Guard mission performance.  </td>
 
@@ -1777,7 +1777,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 469.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs469" data-uslm-ref="/us/usc/t6/s469">469.</a>  </td>
 
     <td> Fees for credentialing and background investigations in transportation.  </td>
 
@@ -1785,7 +1785,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 469a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs469a" data-uslm-ref="/us/usc/t6/s469a">469a.</a>  </td>
 
     <td> Collection of fees from non-Federal participants in meetings.  </td>
 
@@ -1793,7 +1793,7 @@ Part H—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 470.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs470" data-uslm-ref="/us/usc/t6/s470">470.</a>  </td>
 
     <td> Disclosures regarding homeland security grants.  </td>
 
@@ -1809,7 +1809,7 @@ Part I—Information Sharing  </td>
 
   <tr>
 
-    <td> 481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs481" data-uslm-ref="/us/usc/t6/s481">481.</a>  </td>
 
     <td> Short title; findings; and sense of Congress.  </td>
 
@@ -1817,7 +1817,7 @@ Part I—Information Sharing  </td>
 
   <tr>
 
-    <td> 482.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs482" data-uslm-ref="/us/usc/t6/s482">482.</a>  </td>
 
     <td> Facilitating homeland security information sharing procedures.  </td>
 
@@ -1825,7 +1825,7 @@ Part I—Information Sharing  </td>
 
   <tr>
 
-    <td> 483.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs483" data-uslm-ref="/us/usc/t6/s483">483.</a>  </td>
 
     <td> Report.  </td>
 
@@ -1833,7 +1833,7 @@ Part I—Information Sharing  </td>
 
   <tr>
 
-    <td> 484.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs484" data-uslm-ref="/us/usc/t6/s484">484.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -1841,7 +1841,7 @@ Part I—Information Sharing  </td>
 
   <tr>
 
-    <td> 485.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs485" data-uslm-ref="/us/usc/t6/s485">485.</a>  </td>
 
     <td> Information sharing.  </td>
 
@@ -1849,7 +1849,7 @@ Part I—Information Sharing  </td>
 
   <tr>
 
-    <td> 486.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs486" data-uslm-ref="/us/usc/t6/s486">486.</a>  </td>
 
     <td> Limitation of liability.  </td>
 
@@ -1865,7 +1865,7 @@ Part J—Secure Handling of Ammonium Nitrate  </td>
 
   <tr>
 
-    <td> 488.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs488" data-uslm-ref="/us/usc/t6/s488">488.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -1873,7 +1873,7 @@ Part J—Secure Handling of Ammonium Nitrate  </td>
 
   <tr>
 
-    <td> 488a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs488a" data-uslm-ref="/us/usc/t6/s488a">488a.</a>  </td>
 
     <td> Regulation of the sale and transfer of ammonium nitrate.  </td>
 
@@ -1881,7 +1881,7 @@ Part J—Secure Handling of Ammonium Nitrate  </td>
 
   <tr>
 
-    <td> 488b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs488b" data-uslm-ref="/us/usc/t6/s488b">488b.</a>  </td>
 
     <td> Inspection and auditing of records.  </td>
 
@@ -1889,7 +1889,7 @@ Part J—Secure Handling of Ammonium Nitrate  </td>
 
   <tr>
 
-    <td> 488c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs488c" data-uslm-ref="/us/usc/t6/s488c">488c.</a>  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -1897,7 +1897,7 @@ Part J—Secure Handling of Ammonium Nitrate  </td>
 
   <tr>
 
-    <td> 488d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs488d" data-uslm-ref="/us/usc/t6/s488d">488d.</a>  </td>
 
     <td> Theft reporting requirement.  </td>
 
@@ -1905,7 +1905,7 @@ Part J—Secure Handling of Ammonium Nitrate  </td>
 
   <tr>
 
-    <td> 488e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs488e" data-uslm-ref="/us/usc/t6/s488e">488e.</a>  </td>
 
     <td> Prohibitions and penalty.  </td>
 
@@ -1913,7 +1913,7 @@ Part J—Secure Handling of Ammonium Nitrate  </td>
 
   <tr>
 
-    <td> 488f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs488f" data-uslm-ref="/us/usc/t6/s488f">488f.</a>  </td>
 
     <td> Protection from civil liability.  </td>
 
@@ -1921,7 +1921,7 @@ Part J—Secure Handling of Ammonium Nitrate  </td>
 
   <tr>
 
-    <td> 488g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs488g" data-uslm-ref="/us/usc/t6/s488g">488g.</a>  </td>
 
     <td> Preemption of other laws.  </td>
 
@@ -1929,7 +1929,7 @@ Part J—Secure Handling of Ammonium Nitrate  </td>
 
   <tr>
 
-    <td> 488h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs488h" data-uslm-ref="/us/usc/t6/s488h">488h.</a>  </td>
 
     <td> Deadlines for regulations.  </td>
 
@@ -1937,7 +1937,7 @@ Part J—Secure Handling of Ammonium Nitrate  </td>
 
   <tr>
 
-    <td> 488i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs488i" data-uslm-ref="/us/usc/t6/s488i">488i.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -1953,7 +1953,7 @@ SUBCHAPTER IX—NATIONAL HOMELAND SECURITY COUNCIL  </td>
 
   <tr>
 
-    <td> 491.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs491" data-uslm-ref="/us/usc/t6/s491">491.</a>  </td>
 
     <td> National Homeland Security Council.  </td>
 
@@ -1961,7 +1961,7 @@ SUBCHAPTER IX—NATIONAL HOMELAND SECURITY COUNCIL  </td>
 
   <tr>
 
-    <td> 492.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs492" data-uslm-ref="/us/usc/t6/s492">492.</a>  </td>
 
     <td> Function.  </td>
 
@@ -1969,7 +1969,7 @@ SUBCHAPTER IX—NATIONAL HOMELAND SECURITY COUNCIL  </td>
 
   <tr>
 
-    <td> 493.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs493" data-uslm-ref="/us/usc/t6/s493">493.</a>  </td>
 
     <td> Membership.  </td>
 
@@ -1977,7 +1977,7 @@ SUBCHAPTER IX—NATIONAL HOMELAND SECURITY COUNCIL  </td>
 
   <tr>
 
-    <td> 494.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs494" data-uslm-ref="/us/usc/t6/s494">494.</a>  </td>
 
     <td> Other functions and activities.  </td>
 
@@ -1985,7 +1985,7 @@ SUBCHAPTER IX—NATIONAL HOMELAND SECURITY COUNCIL  </td>
 
   <tr>
 
-    <td> 495.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs495" data-uslm-ref="/us/usc/t6/s495">495.</a>  </td>
 
     <td> Staff composition.  </td>
 
@@ -1993,7 +1993,7 @@ SUBCHAPTER IX—NATIONAL HOMELAND SECURITY COUNCIL  </td>
 
   <tr>
 
-    <td> 496.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs496" data-uslm-ref="/us/usc/t6/s496">496.</a>  </td>
 
     <td> Relation to the National Security Council.  </td>
 
@@ -2009,7 +2009,7 @@ SUBCHAPTER X—CONSTRUCTION  </td>
 
   <tr>
 
-    <td> 511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs511" data-uslm-ref="/us/usc/t6/s511">511.</a>  </td>
 
     <td> Information security responsibilities of certain agencies.  </td>
 
@@ -2017,7 +2017,7 @@ SUBCHAPTER X—CONSTRUCTION  </td>
 
   <tr>
 
-    <td> 512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs512" data-uslm-ref="/us/usc/t6/s512">512.</a>  </td>
 
     <td> Construction.  </td>
 
@@ -2025,7 +2025,7 @@ SUBCHAPTER X—CONSTRUCTION  </td>
 
   <tr>
 
-    <td> 513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs513" data-uslm-ref="/us/usc/t6/s513">513.</a>  </td>
 
     <td> Federal air marshal program.  </td>
 
@@ -2049,7 +2049,7 @@ Part A—Executive Office for Immigration Review  </td>
 
   <tr>
 
-    <td> 521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs521" data-uslm-ref="/us/usc/t6/s521">521.</a>  </td>
 
     <td> Legal status of EOIR.  </td>
 
@@ -2057,7 +2057,7 @@ Part A—Executive Office for Immigration Review  </td>
 
   <tr>
 
-    <td> 522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs522" data-uslm-ref="/us/usc/t6/s522">522.</a>  </td>
 
     <td> Statutory construction.  </td>
 
@@ -2073,7 +2073,7 @@ Part B—Transfer of the Bureau of Alcohol, Tobacco and Firearms to the Departme
 
   <tr>
 
-    <td> 531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs531" data-uslm-ref="/us/usc/t6/s531">531.</a>  </td>
 
     <td> Bureau of Alcohol, Tobacco, Firearms, and Explosives.  </td>
 
@@ -2081,7 +2081,7 @@ Part B—Transfer of the Bureau of Alcohol, Tobacco and Firearms to the Departme
 
   <tr>
 
-    <td> 532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs532" data-uslm-ref="/us/usc/t6/s532">532.</a>  </td>
 
     <td> Explosives Training and Research Facility.  </td>
 
@@ -2089,7 +2089,7 @@ Part B—Transfer of the Bureau of Alcohol, Tobacco and Firearms to the Departme
 
   <tr>
 
-    <td> 533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs533" data-uslm-ref="/us/usc/t6/s533">533.</a>  </td>
 
     <td> Transferred.  </td>
 
@@ -2113,7 +2113,7 @@ Part A—Reorganization Plan  </td>
 
   <tr>
 
-    <td> 541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs541" data-uslm-ref="/us/usc/t6/s541">541.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -2121,7 +2121,7 @@ Part A—Reorganization Plan  </td>
 
   <tr>
 
-    <td> 542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs542" data-uslm-ref="/us/usc/t6/s542">542.</a>  </td>
 
     <td> Reorganization plan.  </td>
 
@@ -2129,7 +2129,7 @@ Part A—Reorganization Plan  </td>
 
   <tr>
 
-    <td> 543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs543" data-uslm-ref="/us/usc/t6/s543">543.</a>  </td>
 
     <td> Review of congressional committee structures.  </td>
 
@@ -2145,7 +2145,7 @@ Part B—Transitional Provisions  </td>
 
   <tr>
 
-    <td> 551.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs551" data-uslm-ref="/us/usc/t6/s551">551.</a>  </td>
 
     <td> Transitional authorities.  </td>
 
@@ -2153,7 +2153,7 @@ Part B—Transitional Provisions  </td>
 
   <tr>
 
-    <td> 552.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs552" data-uslm-ref="/us/usc/t6/s552">552.</a>  </td>
 
     <td> Savings provisions.  </td>
 
@@ -2161,7 +2161,7 @@ Part B—Transitional Provisions  </td>
 
   <tr>
 
-    <td> 552a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs552a" data-uslm-ref="/us/usc/t6/s552a">552a.</a>  </td>
 
     <td> Savings provision of certain transfers made under the Homeland Security Act of 2002.  </td>
 
@@ -2169,7 +2169,7 @@ Part B—Transitional Provisions  </td>
 
   <tr>
 
-    <td> 553.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs553" data-uslm-ref="/us/usc/t6/s553">553.</a>  </td>
 
     <td> Terminations.  </td>
 
@@ -2177,7 +2177,7 @@ Part B—Transitional Provisions  </td>
 
   <tr>
 
-    <td> 554.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs554" data-uslm-ref="/us/usc/t6/s554">554.</a>  </td>
 
     <td> National identification system not authorized.  </td>
 
@@ -2185,7 +2185,7 @@ Part B—Transitional Provisions  </td>
 
   <tr>
 
-    <td> 555.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs555" data-uslm-ref="/us/usc/t6/s555">555.</a>  </td>
 
     <td> Continuity of Inspector General oversight.  </td>
 
@@ -2193,7 +2193,7 @@ Part B—Transitional Provisions  </td>
 
   <tr>
 
-    <td> 556.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs556" data-uslm-ref="/us/usc/t6/s556">556.</a>  </td>
 
     <td> Incidental transfers.  </td>
 
@@ -2201,7 +2201,7 @@ Part B—Transitional Provisions  </td>
 
   <tr>
 
-    <td> 557.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs557" data-uslm-ref="/us/usc/t6/s557">557.</a>  </td>
 
     <td> Reference.  </td>
 
@@ -2217,7 +2217,7 @@ SUBCHAPTER XIII—EMERGENCY COMMUNICATIONS  </td>
 
   <tr>
 
-    <td> 571.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs571" data-uslm-ref="/us/usc/t6/s571">571.</a>  </td>
 
     <td> Office of Emergency Communications.  </td>
 
@@ -2225,7 +2225,7 @@ SUBCHAPTER XIII—EMERGENCY COMMUNICATIONS  </td>
 
   <tr>
 
-    <td> 572.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs572" data-uslm-ref="/us/usc/t6/s572">572.</a>  </td>
 
     <td> National Emergency Communications Plan.  </td>
 
@@ -2233,7 +2233,7 @@ SUBCHAPTER XIII—EMERGENCY COMMUNICATIONS  </td>
 
   <tr>
 
-    <td> 573.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs573" data-uslm-ref="/us/usc/t6/s573">573.</a>  </td>
 
     <td> Assessments and reports.  </td>
 
@@ -2241,7 +2241,7 @@ SUBCHAPTER XIII—EMERGENCY COMMUNICATIONS  </td>
 
   <tr>
 
-    <td> 574.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs574" data-uslm-ref="/us/usc/t6/s574">574.</a>  </td>
 
     <td> Coordination of Department emergency communications grant programs.  </td>
 
@@ -2249,7 +2249,7 @@ SUBCHAPTER XIII—EMERGENCY COMMUNICATIONS  </td>
 
   <tr>
 
-    <td> 575.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs575" data-uslm-ref="/us/usc/t6/s575">575.</a>  </td>
 
     <td> Regional emergency communications coordination.  </td>
 
@@ -2257,7 +2257,7 @@ SUBCHAPTER XIII—EMERGENCY COMMUNICATIONS  </td>
 
   <tr>
 
-    <td> 576.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs576" data-uslm-ref="/us/usc/t6/s576">576.</a>  </td>
 
     <td> Emergency Communications Preparedness Center.  </td>
 
@@ -2265,7 +2265,7 @@ SUBCHAPTER XIII—EMERGENCY COMMUNICATIONS  </td>
 
   <tr>
 
-    <td> 577.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs577" data-uslm-ref="/us/usc/t6/s577">577.</a>  </td>
 
     <td> Urban and other high risk area communications capabilities.  </td>
 
@@ -2273,7 +2273,7 @@ SUBCHAPTER XIII—EMERGENCY COMMUNICATIONS  </td>
 
   <tr>
 
-    <td> 578.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs578" data-uslm-ref="/us/usc/t6/s578">578.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -2281,7 +2281,7 @@ SUBCHAPTER XIII—EMERGENCY COMMUNICATIONS  </td>
 
   <tr>
 
-    <td> 579.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs579" data-uslm-ref="/us/usc/t6/s579">579.</a>  </td>
 
     <td> Interoperable Emergency Communications Grant Program.  </td>
 
@@ -2289,7 +2289,7 @@ SUBCHAPTER XIII—EMERGENCY COMMUNICATIONS  </td>
 
   <tr>
 
-    <td> 580.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs580" data-uslm-ref="/us/usc/t6/s580">580.</a>  </td>
 
     <td> Border interoperability demonstration project.  </td>
 
@@ -2305,7 +2305,7 @@ SUBCHAPTER XIV—DOMESTIC NUCLEAR DETECTION OFFICE  </td>
 
   <tr>
 
-    <td> 591.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs591" data-uslm-ref="/us/usc/t6/s591">591.</a>  </td>
 
     <td> Domestic Nuclear Detection Office.  </td>
 
@@ -2313,7 +2313,7 @@ SUBCHAPTER XIV—DOMESTIC NUCLEAR DETECTION OFFICE  </td>
 
   <tr>
 
-    <td> 592.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs592" data-uslm-ref="/us/usc/t6/s592">592.</a>  </td>
 
     <td> Mission of Office.  </td>
 
@@ -2321,7 +2321,7 @@ SUBCHAPTER XIV—DOMESTIC NUCLEAR DETECTION OFFICE  </td>
 
   <tr>
 
-    <td> 592a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs592a" data-uslm-ref="/us/usc/t6/s592a">592a.</a>  </td>
 
     <td> Technology research and development investment strategy for nuclear and radiological detection.  </td>
 
@@ -2329,7 +2329,7 @@ SUBCHAPTER XIV—DOMESTIC NUCLEAR DETECTION OFFICE  </td>
 
   <tr>
 
-    <td> 593.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs593" data-uslm-ref="/us/usc/t6/s593">593.</a>  </td>
 
     <td> Hiring authority.  </td>
 
@@ -2337,7 +2337,7 @@ SUBCHAPTER XIV—DOMESTIC NUCLEAR DETECTION OFFICE  </td>
 
   <tr>
 
-    <td> 594.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs594" data-uslm-ref="/us/usc/t6/s594">594.</a>  </td>
 
     <td> Testing authority.  </td>
 
@@ -2345,7 +2345,7 @@ SUBCHAPTER XIV—DOMESTIC NUCLEAR DETECTION OFFICE  </td>
 
   <tr>
 
-    <td> 595.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs595" data-uslm-ref="/us/usc/t6/s595">595.</a>  </td>
 
     <td> Relationship to other Department entities and Federal agencies.  </td>
 
@@ -2353,7 +2353,7 @@ SUBCHAPTER XIV—DOMESTIC NUCLEAR DETECTION OFFICE  </td>
 
   <tr>
 
-    <td> 596.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs596" data-uslm-ref="/us/usc/t6/s596">596.</a>  </td>
 
     <td> Contracting and grant making authorities.  </td>
 
@@ -2361,7 +2361,7 @@ SUBCHAPTER XIV—DOMESTIC NUCLEAR DETECTION OFFICE  </td>
 
   <tr>
 
-    <td> 596a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs596a" data-uslm-ref="/us/usc/t6/s596a">596a.</a>  </td>
 
     <td> Joint annual interagency review of global nuclear detection architecture.  </td>
 
@@ -2377,7 +2377,7 @@ SUBCHAPTER XV—HOMELAND SECURITY GRANTS  </td>
 
   <tr>
 
-    <td> 601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs601" data-uslm-ref="/us/usc/t6/s601">601.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -2393,7 +2393,7 @@ Part A—Grants to States and High-Risk Urban Areas  </td>
 
   <tr>
 
-    <td> 603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs603" data-uslm-ref="/us/usc/t6/s603">603.</a>  </td>
 
     <td> Homeland security grant programs.  </td>
 
@@ -2401,7 +2401,7 @@ Part A—Grants to States and High-Risk Urban Areas  </td>
 
   <tr>
 
-    <td> 604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs604" data-uslm-ref="/us/usc/t6/s604">604.</a>  </td>
 
     <td> Urban Area Security Initiative.  </td>
 
@@ -2409,7 +2409,7 @@ Part A—Grants to States and High-Risk Urban Areas  </td>
 
   <tr>
 
-    <td> 605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs605" data-uslm-ref="/us/usc/t6/s605">605.</a>  </td>
 
     <td> State Homeland Security Grant Program.  </td>
 
@@ -2417,7 +2417,7 @@ Part A—Grants to States and High-Risk Urban Areas  </td>
 
   <tr>
 
-    <td> 606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs606" data-uslm-ref="/us/usc/t6/s606">606.</a>  </td>
 
     <td> Grants to directly eligible tribes.  </td>
 
@@ -2425,7 +2425,7 @@ Part A—Grants to States and High-Risk Urban Areas  </td>
 
   <tr>
 
-    <td> 607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs607" data-uslm-ref="/us/usc/t6/s607">607.</a>  </td>
 
     <td> Terrorism prevention.  </td>
 
@@ -2433,7 +2433,7 @@ Part A—Grants to States and High-Risk Urban Areas  </td>
 
   <tr>
 
-    <td> 608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs608" data-uslm-ref="/us/usc/t6/s608">608.</a>  </td>
 
     <td> Prioritization.  </td>
 
@@ -2441,7 +2441,7 @@ Part A—Grants to States and High-Risk Urban Areas  </td>
 
   <tr>
 
-    <td> 609.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs609" data-uslm-ref="/us/usc/t6/s609">609.</a>  </td>
 
     <td> Use of funds.  </td>
 
@@ -2457,7 +2457,7 @@ Part B—Grants Administration  </td>
 
   <tr>
 
-    <td> 611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs611" data-uslm-ref="/us/usc/t6/s611">611.</a>  </td>
 
     <td> Administration and coordination.  </td>
 
@@ -2465,7 +2465,7 @@ Part B—Grants Administration  </td>
 
   <tr>
 
-    <td> 612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs612" data-uslm-ref="/us/usc/t6/s612">612.</a>  </td>
 
     <td> Accountability.  </td>
 
@@ -2473,7 +2473,7 @@ Part B—Grants Administration  </td>
 
   <tr>
 
-    <td> 613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs613" data-uslm-ref="/us/usc/t6/s613">613.</a>  </td>
 
     <td> Identification of reporting redundancies and development of performance metrics.  </td>
 

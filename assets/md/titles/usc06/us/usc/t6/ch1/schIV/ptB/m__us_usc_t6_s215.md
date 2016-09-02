@@ -15,7 +15,7 @@
 
 ## § 215. Definition
 
-In this part, the term “customs revenue function” means the following:
+    In this part, the term “customs revenue function” means the following:
 
     (1) Assessing and collecting customs duties (including antidumping and countervailing duties and duties imposed under safeguard provisions), excise taxes, fees, and penalties due on imported merchandise, including classifying and valuing merchandise for purposes of such assessment.
 

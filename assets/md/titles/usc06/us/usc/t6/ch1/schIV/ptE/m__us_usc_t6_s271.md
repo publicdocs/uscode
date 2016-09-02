@@ -159,7 +159,7 @@
 
  __Amendment of Section__ 
 
-For termination of amendment by [section 4 of Pub. L. 110–382][/us/pl/110/382/s4], see Termination Date of 2008 Amendment note below.
+    For termination of amendment by [section 4 of Pub. L. 110–382][/us/pl/110/382/s4], see Termination Date of 2008 Amendment note below.
 
  __References in Text__ 
 

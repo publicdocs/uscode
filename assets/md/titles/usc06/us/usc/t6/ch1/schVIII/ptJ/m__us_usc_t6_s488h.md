@@ -15,7 +15,7 @@
 
 ## § 488h. Deadlines for regulations
 
-The Secretary—
+    The Secretary—
 
     (1) shall issue a proposed rule implementing this part not later than 6 months after December 26, 2007; and
 

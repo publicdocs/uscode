@@ -15,7 +15,7 @@
 
 ## § 963. Minimum requirements
 
-An applicant seeking to participate in C–TPAT shall—
+    An applicant seeking to participate in C–TPAT shall—
 
     (1) demonstrate a history of moving cargo in the international supply chain;
 

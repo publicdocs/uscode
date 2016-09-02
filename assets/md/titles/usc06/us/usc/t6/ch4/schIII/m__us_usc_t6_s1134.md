@@ -57,7 +57,7 @@
 
             (B) __Other agencies__ 
 
-                Provided that no public transportation agency that has not been designated high risk shall be required to develop a security plan, the Secretary may also establish a security program for public transportation agencies not designated high risk by the Secretary, to assist those public transportation agencies which request assistance, including—
+            Provided that no public transportation agency that has not been designated high risk shall be required to develop a security plan, the Secretary may also establish a security program for public transportation agencies not designated high risk by the Secretary, to assist those public transportation agencies which request assistance, including—
 
                 (i) guidance to assist such agencies in conducting security assessments and preparing and implementing security plans; and
 

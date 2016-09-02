@@ -15,7 +15,7 @@
 
 ## § 1132. Findings
 
-Congress finds that—
+    Congress finds that—
 
     (1) 182 public transportation systems throughout the world have been primary targets of terrorist attacks;
 

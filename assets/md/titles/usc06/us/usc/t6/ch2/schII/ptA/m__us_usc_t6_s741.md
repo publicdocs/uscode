@@ -15,7 +15,7 @@
 
 ## § 741. Definitions
 
-In this part:
+    In this part:
 
     (1) __Capability__ 
 

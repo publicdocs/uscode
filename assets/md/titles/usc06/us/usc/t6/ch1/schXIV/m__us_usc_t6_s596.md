@@ -15,7 +15,7 @@
 
 ## § 596. Contracting and grant making authorities
 
-The Secretary, acting through the Director for Domestic Nuclear Detection, in carrying out the responsibilities under paragraphs (6) and (7) of [section 592(a) of this title][/us/usc/t6/s592/a], shall—
+    The Secretary, acting through the Director for Domestic Nuclear Detection, in carrying out the responsibilities under paragraphs (6) and (7) of [section 592(a) of this title][/us/usc/t6/s592/a], shall—
 
     (1) operate extramural and intramural programs and distribute funds through grants, cooperative agreements, and other transactions and contracts;
 

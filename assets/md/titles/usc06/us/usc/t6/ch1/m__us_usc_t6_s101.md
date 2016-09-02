@@ -15,7 +15,7 @@
 
 ## § 101. Definitions
 
-In this chapter, the following definitions apply:
+    In this chapter, the following definitions apply:
 
     (1) Each of the terms “American homeland” and “homeland” means the United States.
 
@@ -353,7 +353,9 @@ In this chapter, the following definitions apply:
 
 >                 “(i) __In general.—__ 
 
->                 A subpoena may be issued under this subsection only—         “(I) by the agreement of the chairman and the vice chairman; or
+>                 A subpoena may be issued under this subsection only—
+
+>                          “(I) by the agreement of the chairman and the vice chairman; or
 
 >                          “(II) by the affirmative vote of 6 members of the Commission.
 

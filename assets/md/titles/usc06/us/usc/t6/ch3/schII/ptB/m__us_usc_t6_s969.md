@@ -15,7 +15,7 @@
 
 ## § 969. Revalidation
 
-The Secretary, acting through the Commissioner, shall develop and implement—
+    The Secretary, acting through the Commissioner, shall develop and implement—
 
     (1) a revalidation process for Tier 2 and Tier 3 participants;
 

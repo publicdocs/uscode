@@ -15,7 +15,7 @@
 
 ## § 488i. Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary—
+    There are authorized to be appropriated to the Secretary—
 
     (1) $2,000,000 for fiscal year 2008; and
 

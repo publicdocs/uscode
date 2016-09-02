@@ -15,7 +15,7 @@
 
 ## § 132. Designation of critical infrastructure protection program
 
-A critical infrastructure protection program may be designated as such by one of the following:
+    A critical infrastructure protection program may be designated as such by one of the following:
 
     (1) The President.
 

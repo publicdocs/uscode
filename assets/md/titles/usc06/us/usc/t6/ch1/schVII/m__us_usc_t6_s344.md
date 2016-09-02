@@ -15,7 +15,7 @@
 
 ## § 344. Chief Human Capital Officer
 
-The Chief Human Capital Officer shall report to the Secretary, or to another official of the Department, as the Secretary may direct and shall ensure that all employees of the Department are informed of their rights and remedies under chapters 12 and 23 of title 5 by—
+    The Chief Human Capital Officer shall report to the Secretary, or to another official of the Department, as the Secretary may direct and shall ensure that all employees of the Department are informed of their rights and remedies under chapters 12 and 23 of title 5 by—
 
     (1) participating in the 2302(c) Certification Program of the Office of Special Counsel;
 

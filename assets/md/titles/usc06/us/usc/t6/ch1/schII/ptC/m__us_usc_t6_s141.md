@@ -15,7 +15,7 @@
 
 ## § 141. Procedures for sharing information
 
-The Secretary shall establish procedures on the use of information shared under this subchapter that—
+    The Secretary shall establish procedures on the use of information shared under this subchapter that—
 
     (1) limit the redissemination of such information to ensure that it is not used for an unauthorized purpose;
 

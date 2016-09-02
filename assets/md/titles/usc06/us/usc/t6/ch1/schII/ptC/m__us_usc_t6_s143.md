@@ -15,7 +15,7 @@
 
 ## § 143. Enhancement of non-Federal cybersecurity
 
-In carrying out the responsibilities under [section 121 of this title][/us/usc/t6/s121], the Under Secretary for Intelligence and Analysis, in cooperation with the Assistant Secretary for Infrastructure Protection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  shall—
+    In carrying out the responsibilities under [section 121 of this title][/us/usc/t6/s121], the Under Secretary for Intelligence and Analysis, in cooperation with the Assistant Secretary for Infrastructure Protection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  shall—
 
     (1)
 

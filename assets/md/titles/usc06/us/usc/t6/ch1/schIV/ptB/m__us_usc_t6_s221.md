@@ -15,7 +15,7 @@
 
 ## § 221. Requirements with respect to administering polygraph examinations to law enforcement personnel of U.S. Customs and Border Protection
 
-The Secretary of Homeland Security shall ensure that—
+    The Secretary of Homeland Security shall ensure that—
 
     (1) by not later than 2 years after January 4, 2011, all applicants for law enforcement positions with U.S. Customs and Border Protection receive polygraph examinations before being hired for such a position; and
 
