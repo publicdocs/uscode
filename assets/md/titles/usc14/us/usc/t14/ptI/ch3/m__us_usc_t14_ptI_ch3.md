@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 41.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs41" data-uslm-ref="/us/usc/t14/s41">41.</a>  </td>
 
     <td> Grades and ratings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 41a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs41a" data-uslm-ref="/us/usc/t14/s41a">41a.</a>  </td>
 
     <td> Active duty promotion list.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 42.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs42" data-uslm-ref="/us/usc/t14/s42">42.</a>  </td>
 
     <td> Number and distribution of commissioned officers on active duty promotion list.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [43.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs43" data-uslm-ref="/us/usc/t14/s43">43.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 44.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs44" data-uslm-ref="/us/usc/t14/s44">44.</a>  </td>
 
     <td> Commandant; appointment.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [45.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs45" data-uslm-ref="/us/usc/t14/s45">45.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 46.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs46" data-uslm-ref="/us/usc/t14/s46">46.</a>  </td>
 
     <td> Retirement of Commandant.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 47.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs47" data-uslm-ref="/us/usc/t14/s47">47.</a>  </td>
 
     <td> Vice Commandant; appointment. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> [48, 49.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs48" data-uslm-ref="/us/usc/t14/s48">48</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs49" data-uslm-ref="/us/usc/t14/s49">49.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 50.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs50" data-uslm-ref="/us/usc/t14/s50">50.</a>  </td>
 
     <td> Vice admirals.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> [50a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs50a" data-uslm-ref="/us/usc/t14/s50a">50a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 51.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs51" data-uslm-ref="/us/usc/t14/s51">51.</a>  </td>
 
     <td> Retirement.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 52.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs52" data-uslm-ref="/us/usc/t14/s52">52.</a>  </td>
 
     <td> Vice admirals and admiral, continuity of grade.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 53.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs53" data-uslm-ref="/us/usc/t14/s53">53.</a>  </td>
 
     <td> Office of the Coast Guard Reserve; Director.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 54.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs54" data-uslm-ref="/us/usc/t14/s54">54.</a>  </td>
 
     <td> Chief of Staff to President: appointment.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> [55.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs55" data-uslm-ref="/us/usc/t14/s55">55.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 56.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs56" data-uslm-ref="/us/usc/t14/s56">56.</a>  </td>
 
     <td> Chief Acquisition Officer.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 57.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs57" data-uslm-ref="/us/usc/t14/s57">57.</a>  </td>
 
     <td> Prevention and response workforces.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 58.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs58" data-uslm-ref="/us/usc/t14/s58">58.</a>  </td>
 
     <td> Centers of expertise for Coast Guard prevention and response.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 59.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs59" data-uslm-ref="/us/usc/t14/s59">59.</a>  </td>
 
     <td> Marine industry training programs. <sup>[1]</sup>   </td>
 

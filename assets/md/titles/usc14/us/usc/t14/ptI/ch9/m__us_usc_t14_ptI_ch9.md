@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 181.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs181" data-uslm-ref="/us/usc/t14/s181">181.</a>  </td>
 
     <td> Administration of Academy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 181a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs181a" data-uslm-ref="/us/usc/t14/s181a">181a.</a>  </td>
 
     <td> Cadet applicants; preappointment travel to Academy.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 182.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs182" data-uslm-ref="/us/usc/t14/s182">182.</a>  </td>
 
     <td> Cadets; number, appointment, obligation to serve.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 183.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs183" data-uslm-ref="/us/usc/t14/s183">183.</a>  </td>
 
     <td> Cadets; initial clothing allowance.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 184.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs184" data-uslm-ref="/us/usc/t14/s184">184.</a>  </td>
 
     <td> Cadets; degree of bachelor of science.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 185.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs185" data-uslm-ref="/us/usc/t14/s185">185.</a>  </td>
 
     <td> Cadets; appointment as ensign.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 186.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs186" data-uslm-ref="/us/usc/t14/s186">186.</a>  </td>
 
     <td> Civilian teaching staff.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 187.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs187" data-uslm-ref="/us/usc/t14/s187">187.</a>  </td>
 
     <td> Permanent commissioned teaching staff; composition.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 188.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs188" data-uslm-ref="/us/usc/t14/s188">188.</a>  </td>
 
     <td> Appointment of permanent commissioned teaching staff.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 189.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs189" data-uslm-ref="/us/usc/t14/s189">189.</a>  </td>
 
     <td> Grade of permanent commissioned teaching staff.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 190.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs190" data-uslm-ref="/us/usc/t14/s190">190.</a>  </td>
 
     <td> Retirement of permanent commissioned teaching staff.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 191.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs191" data-uslm-ref="/us/usc/t14/s191">191.</a>  </td>
 
     <td> Credit for service as member of civilian teaching staff.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 192.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs192" data-uslm-ref="/us/usc/t14/s192">192.</a>  </td>
 
     <td> Assignment of personnel as instructors.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> [193.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs193" data-uslm-ref="/us/usc/t14/s193">193.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 194.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs194" data-uslm-ref="/us/usc/t14/s194">194.</a>  </td>
 
     <td> Annual Board of Visitors.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 195.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs195" data-uslm-ref="/us/usc/t14/s195">195.</a>  </td>
 
     <td> Admission of foreign nationals for instruction; restrictions; conditions.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 196.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs196" data-uslm-ref="/us/usc/t14/s196">196.</a>  </td>
 
     <td> Participation in Federal, State, or other educational research grants.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 197.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs197" data-uslm-ref="/us/usc/t14/s197">197.</a>  </td>
 
     <td> Cadets: charges and fees for attendance; limitation.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> [198.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs198" data-uslm-ref="/us/usc/t14/s198">198.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 199.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs199" data-uslm-ref="/us/usc/t14/s199">199.</a>  </td>
 
     <td> Marine Safety curriculum. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 200.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs200" data-uslm-ref="/us/usc/t14/s200">200.</a>  </td>
 
     <td> Policy on sexual harassment and sexual violence.  </td>
 

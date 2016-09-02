@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs1" data-uslm-ref="/us/usc/t14/s1">1.</a>  </td>
 
     <td> Establishment of Coast Guard.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs2" data-uslm-ref="/us/usc/t14/s2">2.</a>  </td>
 
     <td> Primary duties.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs3" data-uslm-ref="/us/usc/t14/s3">3.</a>  </td>
 
     <td> Department in which the Coast Guard operates.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs4" data-uslm-ref="/us/usc/t14/s4">4.</a>  </td>
 
     <td> Secretary defined.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [5.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs5" data-uslm-ref="/us/usc/t14/s5">5.</a>  </td>
 
     <td> Omitted.]  </td>
 

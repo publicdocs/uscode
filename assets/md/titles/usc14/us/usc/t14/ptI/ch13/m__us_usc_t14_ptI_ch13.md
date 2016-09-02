@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs461" data-uslm-ref="/us/usc/t14/s461">461.</a>  </td>
 
     <td> Remission of indebtedness of enlisted members upon discharge.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [462 to 466.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs462" data-uslm-ref="/us/usc/t14/s462">462</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs466" data-uslm-ref="/us/usc/t14/s466">466.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 467.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs467" data-uslm-ref="/us/usc/t14/s467">467.</a>  </td>
 
     <td> Computation of length of service.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 468.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs468" data-uslm-ref="/us/usc/t14/s468">468.</a>  </td>
 
     <td> Procurement of personnel.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 469.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs469" data-uslm-ref="/us/usc/t14/s469">469.</a>  </td>
 
     <td> Training.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 470.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs470" data-uslm-ref="/us/usc/t14/s470">470.</a>  </td>
 
     <td> Special instruction at universities.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs471" data-uslm-ref="/us/usc/t14/s471">471.</a>  </td>
 
     <td> Attendance at professional meetings.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> [471a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs471a" data-uslm-ref="/us/usc/t14/s471a">471a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs472" data-uslm-ref="/us/usc/t14/s472">472.</a>  </td>
 
     <td> Education loan repayment program.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [473, 474.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs473" data-uslm-ref="/us/usc/t14/s473">473</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs474" data-uslm-ref="/us/usc/t14/s474">474.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 475.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs475" data-uslm-ref="/us/usc/t14/s475">475.</a>  </td>
 
     <td> Leasing and hiring of quarters; rental of inadequate housing.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 476.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs476" data-uslm-ref="/us/usc/t14/s476">476.</a>  </td>
 
     <td> Contingent expenses.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 477.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs477" data-uslm-ref="/us/usc/t14/s477">477.</a>  </td>
 
     <td> Equipment to prevent accidents.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 478.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs478" data-uslm-ref="/us/usc/t14/s478">478.</a>  </td>
 
     <td> Rations or commutation therefor in money.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 479.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs479" data-uslm-ref="/us/usc/t14/s479">479.</a>  </td>
 
     <td> Sales of ration supplies to messes.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 480.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs480" data-uslm-ref="/us/usc/t14/s480">480.</a>  </td>
 
     <td> Flight rations.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs481" data-uslm-ref="/us/usc/t14/s481">481.</a>  </td>
 
     <td> Payments at time of discharge for good of service.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 482.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs482" data-uslm-ref="/us/usc/t14/s482">482.</a>  </td>
 
     <td> Clothing at time of discharge for good of service.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 483.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs483" data-uslm-ref="/us/usc/t14/s483">483.</a>  </td>
 
     <td> Right to wear uniform.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 484.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs484" data-uslm-ref="/us/usc/t14/s484">484.</a>  </td>
 
     <td> Protection of uniform.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 485.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs485" data-uslm-ref="/us/usc/t14/s485">485.</a>  </td>
 
     <td> Clothing for officers and enlisted personnel.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 486.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs486" data-uslm-ref="/us/usc/t14/s486">486.</a>  </td>
 
     <td> Clothing for destitute shipwrecked persons.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 487.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs487" data-uslm-ref="/us/usc/t14/s487">487.</a>  </td>
 
     <td> Procurement and sale of stores to members and civilian employees.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 488.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs488" data-uslm-ref="/us/usc/t14/s488">488.</a>  </td>
 
     <td> Advancement of public funds to personnel.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> [489, 490.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs489" data-uslm-ref="/us/usc/t14/s489">489</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs490" data-uslm-ref="/us/usc/t14/s490">490.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 491.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs491" data-uslm-ref="/us/usc/t14/s491">491.</a>  </td>
 
     <td> Medal of honor.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 491a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs491a" data-uslm-ref="/us/usc/t14/s491a">491a.</a>  </td>
 
     <td> Coast Guard cross.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 492.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs492" data-uslm-ref="/us/usc/t14/s492">492.</a>  </td>
 
     <td> Distinguished service medal.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 492a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs492a" data-uslm-ref="/us/usc/t14/s492a">492a.</a>  </td>
 
     <td> Silver star medal.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 492b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs492b" data-uslm-ref="/us/usc/t14/s492b">492b.</a>  </td>
 
     <td> Distinguished flying cross.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 493.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs493" data-uslm-ref="/us/usc/t14/s493">493.</a>  </td>
 
     <td> Coast Guard medal.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 494.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs494" data-uslm-ref="/us/usc/t14/s494">494.</a>  </td>
 
     <td> Insignia for additional awards.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> [495.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs495" data-uslm-ref="/us/usc/t14/s495">495.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 496.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs496" data-uslm-ref="/us/usc/t14/s496">496.</a>  </td>
 
     <td> Time limit on award; report concerning deed.  </td>
 
@@ -297,7 +297,7 @@
 
   <tr>
 
-    <td> 497.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs497" data-uslm-ref="/us/usc/t14/s497">497.</a>  </td>
 
     <td> Honorable subsequent service as condition to award.  </td>
 
@@ -305,7 +305,7 @@
 
   <tr>
 
-    <td> 498.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs498" data-uslm-ref="/us/usc/t14/s498">498.</a>  </td>
 
     <td> Posthumous awards.  </td>
 
@@ -313,7 +313,7 @@
 
   <tr>
 
-    <td> 499.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs499" data-uslm-ref="/us/usc/t14/s499">499.</a>  </td>
 
     <td> Delegation of powers to make awards; rules and regulations.  </td>
 
@@ -321,7 +321,7 @@
 
   <tr>
 
-    <td> 500.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs500" data-uslm-ref="/us/usc/t14/s500">500.</a>  </td>
 
     <td> Life-saving medals.  </td>
 
@@ -329,7 +329,7 @@
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs501" data-uslm-ref="/us/usc/t14/s501">501.</a>  </td>
 
     <td> Replacement of medals.  </td>
 
@@ -337,7 +337,7 @@
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs502" data-uslm-ref="/us/usc/t14/s502">502.</a>  </td>
 
     <td> Award of other medals.  </td>
 
@@ -345,7 +345,7 @@
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs503" data-uslm-ref="/us/usc/t14/s503">503.</a>  </td>
 
     <td> Awards and insignia for excellence in service or conduct.  </td>
 
@@ -353,7 +353,7 @@
 
   <tr>
 
-    <td> 504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs504" data-uslm-ref="/us/usc/t14/s504">504.</a>  </td>
 
     <td> Medal of honor: duplicate medal.  </td>
 
@@ -361,7 +361,7 @@
 
   <tr>
 
-    <td> 505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs505" data-uslm-ref="/us/usc/t14/s505">505.</a>  </td>
 
     <td> Medal of honor: presentation of Medal of Honor Flag.  </td>
 
@@ -369,7 +369,7 @@
 
   <tr>
 
-    <td> [506.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs506" data-uslm-ref="/us/usc/t14/s506">506.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -377,7 +377,7 @@
 
   <tr>
 
-    <td> 507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs507" data-uslm-ref="/us/usc/t14/s507">507.</a>  </td>
 
     <td> Disposition of effects of decedents.  </td>
 
@@ -385,7 +385,7 @@
 
   <tr>
 
-    <td> 508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs508" data-uslm-ref="/us/usc/t14/s508">508.</a>  </td>
 
     <td> Deserters; payment of expenses incident to apprehension and delivery; penalties.  </td>
 
@@ -393,7 +393,7 @@
 
   <tr>
 
-    <td> 509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs509" data-uslm-ref="/us/usc/t14/s509">509.</a>  </td>
 
     <td> Persons discharged as result of court-martial; allowances to.  </td>
 
@@ -401,7 +401,7 @@
 
   <tr>
 
-    <td> 510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs510" data-uslm-ref="/us/usc/t14/s510">510.</a>  </td>
 
     <td> Shore patrol duty; payment of expenses.  </td>
 
@@ -409,7 +409,7 @@
 
   <tr>
 
-    <td> 511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs511" data-uslm-ref="/us/usc/t14/s511">511.</a>  </td>
 
     <td> Compensatory absence from duty for military personnel at isolated duty stations.  </td>
 
@@ -417,7 +417,7 @@
 
   <tr>
 
-    <td> 512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs512" data-uslm-ref="/us/usc/t14/s512">512.</a>  </td>
 
     <td> Monetary allowance for transportation of household effects.  </td>
 
@@ -425,7 +425,7 @@
 
   <tr>
 
-    <td> 513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs513" data-uslm-ref="/us/usc/t14/s513">513.</a>  </td>
 
     <td> Retroactive payment of pay and allowances delayed by administrative error or oversight.  </td>
 
@@ -433,7 +433,7 @@
 
   <tr>
 
-    <td> 514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs514" data-uslm-ref="/us/usc/t14/s514">514.</a>  </td>
 
     <td> Reimbursement for adoption expenses.  </td>
 
@@ -441,7 +441,7 @@
 
   <tr>
 
-    <td> 515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs515" data-uslm-ref="/us/usc/t14/s515">515.</a>  </td>
 
     <td> Child development services.  </td>
 
@@ -449,7 +449,7 @@
 
   <tr>
 
-    <td> 516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs516" data-uslm-ref="/us/usc/t14/s516">516.</a>  </td>
 
     <td> Presentation of United States flag upon retirement.  </td>
 
@@ -457,7 +457,7 @@
 
   <tr>
 
-    <td> 517.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs517" data-uslm-ref="/us/usc/t14/s517">517.</a>  </td>
 
     <td> Travel card management.  </td>
 
@@ -465,7 +465,7 @@
 
   <tr>
 
-    <td> 518.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs518" data-uslm-ref="/us/usc/t14/s518">518.</a>  </td>
 
     <td> Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States.  </td>
 

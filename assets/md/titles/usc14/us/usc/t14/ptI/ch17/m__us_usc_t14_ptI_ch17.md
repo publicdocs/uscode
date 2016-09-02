@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs631" data-uslm-ref="/us/usc/t14/s631">631.</a>  </td>
 
     <td> Delegation of powers by the Secretary.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 632.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs632" data-uslm-ref="/us/usc/t14/s632">632.</a>  </td>
 
     <td> Functions and powers vested in the Commandant.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 633.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs633" data-uslm-ref="/us/usc/t14/s633">633.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 634.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs634" data-uslm-ref="/us/usc/t14/s634">634.</a>  </td>
 
     <td> Officers holding certain offices.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 635.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs635" data-uslm-ref="/us/usc/t14/s635">635.</a>  </td>
 
     <td> Oaths required for boards.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 636.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs636" data-uslm-ref="/us/usc/t14/s636">636.</a>  </td>
 
     <td> Administration of oaths.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 637.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs637" data-uslm-ref="/us/usc/t14/s637">637.</a>  </td>
 
     <td> Stopping vessels; indemnity for firing at or into vessel.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 638.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs638" data-uslm-ref="/us/usc/t14/s638">638.</a>  </td>
 
     <td> Coast Guard ensigns and pennants.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 639.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs639" data-uslm-ref="/us/usc/t14/s639">639.</a>  </td>
 
     <td> Penalty for unauthorized use of words “Coast Guard”.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 640.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs640" data-uslm-ref="/us/usc/t14/s640">640.</a>  </td>
 
     <td> Coast Guard band recordings for commercial sale.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 641.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs641" data-uslm-ref="/us/usc/t14/s641">641.</a>  </td>
 
     <td> Disposal of certain material.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 642.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs642" data-uslm-ref="/us/usc/t14/s642">642.</a>  </td>
 
     <td> Deposit of damage payments.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 643.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs643" data-uslm-ref="/us/usc/t14/s643">643.</a>  </td>
 
     <td> Rewards for apprehension of persons interfering with aids to navigation.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 644.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs644" data-uslm-ref="/us/usc/t14/s644">644.</a>  </td>
 
     <td> Payment for the apprehension of stragglers.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 645.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs645" data-uslm-ref="/us/usc/t14/s645">645.</a>  </td>
 
     <td> Confidentiality of medical quality assurance records; qualified immunity for participants.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 646.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs646" data-uslm-ref="/us/usc/t14/s646">646.</a>  </td>
 
     <td> Admiralty claims against the United States.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 647.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs647" data-uslm-ref="/us/usc/t14/s647">647.</a>  </td>
 
     <td> Claims for damage to property of the United States.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 648.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs648" data-uslm-ref="/us/usc/t14/s648">648.</a>  </td>
 
     <td> Accounting for industrial work.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 649.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs649" data-uslm-ref="/us/usc/t14/s649">649.</a>  </td>
 
     <td> Supplies and equipment from stock.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 650.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs650" data-uslm-ref="/us/usc/t14/s650">650.</a>  </td>
 
     <td> Coast Guard Supply Fund.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 651.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs651" data-uslm-ref="/us/usc/t14/s651">651.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 652.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs652" data-uslm-ref="/us/usc/t14/s652">652.</a>  </td>
 
     <td> Removing restrictions.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 653.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs653" data-uslm-ref="/us/usc/t14/s653">653.</a>  </td>
 
     <td> Employment of draftsmen and engineers.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 654.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs654" data-uslm-ref="/us/usc/t14/s654">654.</a>  </td>
 
     <td> Public and commercial vessels and other watercraft; sale of fuel, supplies, and services.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 655.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs655" data-uslm-ref="/us/usc/t14/s655">655.</a>  </td>
 
     <td> Arms and ammunition; immunity from taxation.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 656.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs656" data-uslm-ref="/us/usc/t14/s656">656.</a>  </td>
 
     <td> Use of certain appropriated funds.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 657.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs657" data-uslm-ref="/us/usc/t14/s657">657.</a>  </td>
 
     <td> Dependent school children.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 658.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs658" data-uslm-ref="/us/usc/t14/s658">658.</a>  </td>
 
     <td> Confidential investigative expenses.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 659.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs659" data-uslm-ref="/us/usc/t14/s659">659.</a>  </td>
 
     <td> Assistance to film producers.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 660.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs660" data-uslm-ref="/us/usc/t14/s660">660.</a>  </td>
 
     <td> Transportation to and from certain places of employment.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 661.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs661" data-uslm-ref="/us/usc/t14/s661">661.</a>  </td>
 
     <td> Authorization of personnel end strengths.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 662.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs662" data-uslm-ref="/us/usc/t14/s662">662.</a>  </td>
 
     <td> Requirement for prior authorization of appropriations.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 663.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs663" data-uslm-ref="/us/usc/t14/s663">663.</a>  </td>
 
     <td> Capital investment plan.  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 664.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs664" data-uslm-ref="/us/usc/t14/s664">664.</a>  </td>
 
     <td> User fees.  </td>
 
@@ -297,7 +297,7 @@
 
   <tr>
 
-    <td> 665.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs665" data-uslm-ref="/us/usc/t14/s665">665.</a>  </td>
 
     <td> Restriction on construction of vessels in foreign shipyards.  </td>
 
@@ -305,7 +305,7 @@
 
   <tr>
 
-    <td> 666.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs666" data-uslm-ref="/us/usc/t14/s666">666.</a>  </td>
 
     <td> Local hire.  </td>
 
@@ -313,7 +313,7 @@
 
   <tr>
 
-    <td> 667.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs667" data-uslm-ref="/us/usc/t14/s667">667.</a>  </td>
 
     <td> Vessel construction bonding requirements.  </td>
 
@@ -321,7 +321,7 @@
 
   <tr>
 
-    <td> 668.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs668" data-uslm-ref="/us/usc/t14/s668">668.</a>  </td>
 
     <td> Contracts for medical care for retirees, dependents, and survivors: alternative delivery of health care.  </td>
 
@@ -329,7 +329,7 @@
 
   <tr>
 
-    <td> 669.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs669" data-uslm-ref="/us/usc/t14/s669">669.</a>  </td>
 
     <td> Telephone installation and charges.  </td>
 
@@ -337,7 +337,7 @@
 
   <tr>
 
-    <td> 670.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs670" data-uslm-ref="/us/usc/t14/s670">670.</a>  </td>
 
     <td> Procurement authority for family housing.  </td>
 
@@ -345,7 +345,7 @@
 
   <tr>
 
-    <td> 671.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs671" data-uslm-ref="/us/usc/t14/s671">671.</a>  </td>
 
     <td> Air Station Cape Cod Improvements.  </td>
 
@@ -353,7 +353,7 @@
 
   <tr>
 
-    <td> 672.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs672" data-uslm-ref="/us/usc/t14/s672">672.</a>  </td>
 
     <td> Long-term lease of special purpose facilities.  </td>
 
@@ -361,7 +361,7 @@
 
   <tr>
 
-    <td> 672a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs672a" data-uslm-ref="/us/usc/t14/s672a">672a.</a>  </td>
 
     <td> Long-term lease authority for lighthouse property.  </td>
 
@@ -369,7 +369,7 @@
 
   <tr>
 
-    <td> 673.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs673" data-uslm-ref="/us/usc/t14/s673">673.</a>  </td>
 
     <td> Designation, powers, and accountability of deputy disbursing officials.  </td>
 
@@ -377,7 +377,7 @@
 
   <tr>
 
-    <td> 674.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs674" data-uslm-ref="/us/usc/t14/s674">674.</a>  </td>
 
     <td> Small boat station rescue capability.  </td>
 
@@ -385,7 +385,7 @@
 
   <tr>
 
-    <td> 675.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs675" data-uslm-ref="/us/usc/t14/s675">675.</a>  </td>
 
     <td> Small boat station closures.  </td>
 
@@ -393,7 +393,7 @@
 
   <tr>
 
-    <td> 676.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs676" data-uslm-ref="/us/usc/t14/s676">676.</a>  </td>
 
     <td> Search and rescue center standards.  </td>
 
@@ -401,7 +401,7 @@
 
   <tr>
 
-    <td> 677.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs677" data-uslm-ref="/us/usc/t14/s677">677.</a>  </td>
 
     <td> Turnkey selection procedures.  </td>
 
@@ -409,7 +409,7 @@
 
   <tr>
 
-    <td> 678.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs678" data-uslm-ref="/us/usc/t14/s678">678.</a>  </td>
 
     <td> Aircraft accident investigations.  </td>
 

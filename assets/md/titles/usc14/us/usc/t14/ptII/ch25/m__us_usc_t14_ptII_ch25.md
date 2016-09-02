@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 891.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs891" data-uslm-ref="/us/usc/t14/s891">891.</a>  </td>
 
     <td> Flags; pennants; uniforms and insignia.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 892.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs892" data-uslm-ref="/us/usc/t14/s892">892.</a>  </td>
 
     <td> Penalty.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 893.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs893" data-uslm-ref="/us/usc/t14/s893">893.</a>  </td>
 
     <td> Limitation on rights of members of the Auxiliary and temporary members of the Reserve.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 894.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs894" data-uslm-ref="/us/usc/t14/s894">894.</a>  </td>
 
     <td> Availability of facilities and appropriations.  </td>
 

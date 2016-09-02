@@ -41,7 +41,7 @@ general  </td>
 
   <tr>
 
-    <td> 701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs701" data-uslm-ref="/us/usc/t14/s701">701.</a>  </td>
 
     <td> Organization.  </td>
 
@@ -49,7 +49,7 @@ general  </td>
 
   <tr>
 
-    <td> 702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs702" data-uslm-ref="/us/usc/t14/s702">702.</a>  </td>
 
     <td> Authorized strength.  </td>
 
@@ -57,7 +57,7 @@ general  </td>
 
   <tr>
 
-    <td> 703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs703" data-uslm-ref="/us/usc/t14/s703">703.</a>  </td>
 
     <td> Coast Guard Reserve Boards.  </td>
 
@@ -65,7 +65,7 @@ general  </td>
 
   <tr>
 
-    <td> 704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs704" data-uslm-ref="/us/usc/t14/s704">704.</a>  </td>
 
     <td> Grades and ratings; military authority.  </td>
 
@@ -73,7 +73,7 @@ general  </td>
 
   <tr>
 
-    <td> 705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs705" data-uslm-ref="/us/usc/t14/s705">705.</a>  </td>
 
     <td> Benefits.  </td>
 
@@ -81,7 +81,7 @@ general  </td>
 
   <tr>
 
-    <td> 706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs706" data-uslm-ref="/us/usc/t14/s706">706.</a>  </td>
 
     <td> Temporary members of the Reserve; eligibility and compensation.  </td>
 
@@ -89,7 +89,7 @@ general  </td>
 
   <tr>
 
-    <td> 707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs707" data-uslm-ref="/us/usc/t14/s707">707.</a>  </td>
 
     <td> Temporary members of the Reserve; disability or death benefits.  </td>
 
@@ -97,7 +97,7 @@ general  </td>
 
   <tr>
 
-    <td> 708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs708" data-uslm-ref="/us/usc/t14/s708">708.</a>  </td>
 
     <td> Temporary members of the Reserve; certificate of honorable service.  </td>
 
@@ -105,7 +105,7 @@ general  </td>
 
   <tr>
 
-    <td> 709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs709" data-uslm-ref="/us/usc/t14/s709">709.</a>  </td>
 
     <td> Reserve student aviation pilots; reserve aviation pilots; appointments in commissioned grade. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -113,7 +113,7 @@ general  </td>
 
   <tr>
 
-    <td> 709a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs709a" data-uslm-ref="/us/usc/t14/s709a">709a.</a>  </td>
 
     <td> Reserve student pre-commissioning assistance program.  </td>
 
@@ -121,7 +121,7 @@ general  </td>
 
   <tr>
 
-    <td> 710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs710" data-uslm-ref="/us/usc/t14/s710">710.</a>  </td>
 
     <td> Appointment or wartime promotion; retention of grade upon release from active duty.  </td>
 
@@ -129,7 +129,7 @@ general  </td>
 
   <tr>
 
-    <td> 711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs711" data-uslm-ref="/us/usc/t14/s711">711.</a>  </td>
 
     <td> Exclusiveness of service.  </td>
 
@@ -137,7 +137,7 @@ general  </td>
 
   <tr>
 
-    <td> 712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs712" data-uslm-ref="/us/usc/t14/s712">712.</a>  </td>
 
     <td> Active duty for emergency augmentation of regular forces.  </td>
 
@@ -145,7 +145,7 @@ general  </td>
 
   <tr>
 
-    <td> 713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs713" data-uslm-ref="/us/usc/t14/s713">713.</a>  </td>
 
     <td> Enlistment of members engaged in schooling.  </td>
 
@@ -169,7 +169,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 720.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs720" data-uslm-ref="/us/usc/t14/s720">720.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -177,7 +177,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs721" data-uslm-ref="/us/usc/t14/s721">721.</a>  </td>
 
     <td> Applicability of this subchapter.  </td>
 
@@ -185,7 +185,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs722" data-uslm-ref="/us/usc/t14/s722">722.</a>  </td>
 
     <td> Suspension of this subchapter in time of war or national emergency.  </td>
 
@@ -193,7 +193,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 723.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs723" data-uslm-ref="/us/usc/t14/s723">723.</a>  </td>
 
     <td> Effect of this subchapter on retirement and retired pay.  </td>
 
@@ -201,7 +201,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 724.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs724" data-uslm-ref="/us/usc/t14/s724">724.</a>  </td>
 
     <td> Authorized number of officers.  </td>
 
@@ -209,7 +209,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 725.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs725" data-uslm-ref="/us/usc/t14/s725">725.</a>  </td>
 
     <td> Precedence.  </td>
 
@@ -217,7 +217,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 726.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs726" data-uslm-ref="/us/usc/t14/s726">726.</a>  </td>
 
     <td> Running mates.  </td>
 
@@ -225,7 +225,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 727.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs727" data-uslm-ref="/us/usc/t14/s727">727.</a>  </td>
 
     <td> Constructive credit upon initial appointment.  </td>
 
@@ -233,7 +233,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 728.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs728" data-uslm-ref="/us/usc/t14/s728">728.</a>  </td>
 
     <td> Promotion of Reserve officers on active duty.  </td>
 
@@ -241,7 +241,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 729.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs729" data-uslm-ref="/us/usc/t14/s729">729.</a>  </td>
 
     <td> Promotion; recommendations of selection boards.  </td>
 
@@ -249,7 +249,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 730.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs730" data-uslm-ref="/us/usc/t14/s730">730.</a>  </td>
 
     <td> Selection boards; appointment.  </td>
 
@@ -257,7 +257,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs731" data-uslm-ref="/us/usc/t14/s731">731.</a>  </td>
 
     <td> Establishment of promotion zones under running mate system.  </td>
 
@@ -265,7 +265,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 732.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs732" data-uslm-ref="/us/usc/t14/s732">732.</a>  </td>
 
     <td> Eligibility for promotion.  </td>
 
@@ -273,7 +273,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 733.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs733" data-uslm-ref="/us/usc/t14/s733">733.</a>  </td>
 
     <td> Recommendation for promotion of an officer previously removed from an active status.  </td>
 
@@ -281,7 +281,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 734.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs734" data-uslm-ref="/us/usc/t14/s734">734.</a>  </td>
 
     <td> Qualifications for promotion.  </td>
 
@@ -289,7 +289,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 735.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs735" data-uslm-ref="/us/usc/t14/s735">735.</a>  </td>
 
     <td> Promotion; acceptance; oath of office.  </td>
 
@@ -297,7 +297,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 736.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs736" data-uslm-ref="/us/usc/t14/s736">736.</a>  </td>
 
     <td> Date of rank upon promotion; entitlement to pay.  </td>
 
@@ -305,7 +305,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 737.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs737" data-uslm-ref="/us/usc/t14/s737">737.</a>  </td>
 
     <td> Type of promotion; temporary.  </td>
 
@@ -313,7 +313,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 738.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs738" data-uslm-ref="/us/usc/t14/s738">738.</a>  </td>
 
     <td> Effect of removal by the President or failure of consent of the Senate.  </td>
 
@@ -321,7 +321,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 739.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs739" data-uslm-ref="/us/usc/t14/s739">739.</a>  </td>
 
     <td> Failure of selection for promotion.  </td>
 
@@ -329,7 +329,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 740.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs740" data-uslm-ref="/us/usc/t14/s740">740.</a>  </td>
 
     <td> Failure of selection and removal from active status. <sup>[2]</sup>  <sup><sup> 2 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -337,7 +337,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 741.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs741" data-uslm-ref="/us/usc/t14/s741">741.</a>  </td>
 
     <td> Retention boards; removal from an active status to provide a flow of promotion.  </td>
 
@@ -345,7 +345,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 742.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs742" data-uslm-ref="/us/usc/t14/s742">742.</a>  </td>
 
     <td> Maximum ages for retention in an active status.  </td>
 
@@ -353,7 +353,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 743.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs743" data-uslm-ref="/us/usc/t14/s743">743.</a>  </td>
 
     <td> Rear admiral and rear admiral (lower half); maximum service in grade.  </td>
 
@@ -361,7 +361,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 744.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs744" data-uslm-ref="/us/usc/t14/s744">744.</a>  </td>
 
     <td> Appointment of a former Navy or Coast Guard officer.  </td>
 
@@ -369,7 +369,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 745.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs745" data-uslm-ref="/us/usc/t14/s745">745.</a>  </td>
 
     <td> Grade on entry upon active duty.  </td>
 
@@ -377,7 +377,7 @@ commissioned officers  </td>
 
   <tr>
 
-    <td> 746.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs746" data-uslm-ref="/us/usc/t14/s746">746.</a>  </td>
 
     <td> Recall of a retired officer; grade upon release.  </td>
 

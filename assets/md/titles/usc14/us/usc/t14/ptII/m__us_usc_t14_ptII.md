@@ -29,31 +29,31 @@
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2FptII%2Fch21" data-uslm-ref="/us/usc/t14/ptII/ch21">21.</a>  </td>
 
     <td> Coast Guard Reserve  </td>
 
-    <td> 701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs701" data-uslm-ref="/us/usc/t14/s701">701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2FptII%2Fch23" data-uslm-ref="/us/usc/t14/ptII/ch23">23.</a>  </td>
 
     <td> Coast Guard Auxiliary  </td>
 
-    <td> 821  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs821" data-uslm-ref="/us/usc/t14/s821">821</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 25.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2FptII%2Fch25" data-uslm-ref="/us/usc/t14/ptII/ch25">25.</a>  </td>
 
     <td> General Provisions for Coast Guard Reserve and Auxiliary  </td>
 
-    <td> 891  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs891" data-uslm-ref="/us/usc/t14/s891">891</a>  </td>
 
   </tr>
 

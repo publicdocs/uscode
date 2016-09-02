@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 690.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs690" data-uslm-ref="/us/usc/t14/s690">690.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 691.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs691" data-uslm-ref="/us/usc/t14/s691">691.</a>  </td>
 
     <td> Environmental Compliance and Restoration Program.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 692.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs692" data-uslm-ref="/us/usc/t14/s692">692.</a>  </td>
 
     <td> Environmental Compliance and Restoration Account.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 693.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs693" data-uslm-ref="/us/usc/t14/s693">693.</a>  </td>
 
     <td> Annual list of projects to Congress.  </td>
 

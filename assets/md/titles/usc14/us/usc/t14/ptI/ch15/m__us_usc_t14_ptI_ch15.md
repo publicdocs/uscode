@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 561.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs561" data-uslm-ref="/us/usc/t14/s561">561.</a>  </td>
 
     <td> Acquisition directorate.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 562.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs562" data-uslm-ref="/us/usc/t14/s562">562.</a>  </td>
 
     <td> Improvements in Coast Guard acquisition management.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 563.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs563" data-uslm-ref="/us/usc/t14/s563">563.</a>  </td>
 
     <td> Recognition of Coast Guard personnel for excellence in acquisition.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 564.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs564" data-uslm-ref="/us/usc/t14/s564">564.</a>  </td>
 
     <td> Prohibition on use of lead systems integrators.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 565.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs565" data-uslm-ref="/us/usc/t14/s565">565.</a>  </td>
 
     <td> Required contract terms.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 566.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs566" data-uslm-ref="/us/usc/t14/s566">566.</a>  </td>
 
     <td> Department of Defense consultation.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 567.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs567" data-uslm-ref="/us/usc/t14/s567">567.</a>  </td>
 
     <td> Undefinitized contractual actions.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 568.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs568" data-uslm-ref="/us/usc/t14/s568">568.</a>  </td>
 
     <td> Guidance on excessive pass-through charges.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 569.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs569" data-uslm-ref="/us/usc/t14/s569">569.</a>  </td>
 
     <td> Report on former Coast Guard officials employed by contractors to the agency.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 569a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs569a" data-uslm-ref="/us/usc/t14/s569a">569a.</a>  </td>
 
     <td> Major acquisitions.  </td>
 
@@ -127,7 +127,7 @@ SUBCHAPTER II—IMPROVED ACQUISITION PROCESS AND PROCEDURES  </td>
 
   <tr>
 
-    <td> 571.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs571" data-uslm-ref="/us/usc/t14/s571">571.</a>  </td>
 
     <td> Identification of major system acquisitions.  </td>
 
@@ -135,7 +135,7 @@ SUBCHAPTER II—IMPROVED ACQUISITION PROCESS AND PROCEDURES  </td>
 
   <tr>
 
-    <td> 572.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs572" data-uslm-ref="/us/usc/t14/s572">572.</a>  </td>
 
     <td> Acquisition.  </td>
 
@@ -143,7 +143,7 @@ SUBCHAPTER II—IMPROVED ACQUISITION PROCESS AND PROCEDURES  </td>
 
   <tr>
 
-    <td> 573.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs573" data-uslm-ref="/us/usc/t14/s573">573.</a>  </td>
 
     <td> Preliminary development and demonstration.  </td>
 
@@ -151,7 +151,7 @@ SUBCHAPTER II—IMPROVED ACQUISITION PROCESS AND PROCEDURES  </td>
 
   <tr>
 
-    <td> 574.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs574" data-uslm-ref="/us/usc/t14/s574">574.</a>  </td>
 
     <td> Acquisition, production, deployment, and support.  </td>
 
@@ -159,7 +159,7 @@ SUBCHAPTER II—IMPROVED ACQUISITION PROCESS AND PROCEDURES  </td>
 
   <tr>
 
-    <td> 575.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs575" data-uslm-ref="/us/usc/t14/s575">575.</a>  </td>
 
     <td> Acquisition program baseline breach.  </td>
 
@@ -167,7 +167,7 @@ SUBCHAPTER II—IMPROVED ACQUISITION PROCESS AND PROCEDURES  </td>
 
   <tr>
 
-    <td> 576.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs576" data-uslm-ref="/us/usc/t14/s576">576.</a>  </td>
 
     <td> Acquisition approval authority.  </td>
 
@@ -175,7 +175,7 @@ SUBCHAPTER II—IMPROVED ACQUISITION PROCESS AND PROCEDURES  </td>
 
   <tr>
 
-    <td> 577.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs577" data-uslm-ref="/us/usc/t14/s577">577.</a>  </td>
 
     <td> Advance procurement funding.  </td>
 
@@ -191,7 +191,7 @@ SUBCHAPTER III—DEFINITIONS  </td>
 
   <tr>
 
-    <td> 581.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs581" data-uslm-ref="/us/usc/t14/s581">581.</a>  </td>
 
     <td> Definitions.  </td>
 

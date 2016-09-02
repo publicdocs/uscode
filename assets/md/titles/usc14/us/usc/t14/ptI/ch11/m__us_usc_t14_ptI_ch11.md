@@ -41,7 +41,7 @@ a. appointments  </td>
 
   <tr>
 
-    <td> 211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs211" data-uslm-ref="/us/usc/t14/s211">211.</a>  </td>
 
     <td> Original appointment of permanent commissioned officers.  </td>
 
@@ -49,7 +49,7 @@ a. appointments  </td>
 
   <tr>
 
-    <td> [212, 213.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs212" data-uslm-ref="/us/usc/t14/s212">212</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs213" data-uslm-ref="/us/usc/t14/s213">213.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@ a. appointments  </td>
 
   <tr>
 
-    <td> 214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs214" data-uslm-ref="/us/usc/t14/s214">214.</a>  </td>
 
     <td> Appointment of temporary officers.  </td>
 
@@ -65,7 +65,7 @@ a. appointments  </td>
 
   <tr>
 
-    <td> 215.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs215" data-uslm-ref="/us/usc/t14/s215">215.</a>  </td>
 
     <td> Rank of warrant officers.  </td>
 
@@ -73,7 +73,9 @@ a. appointments  </td>
 
   <tr>
 
-    <td> [216 to 248. Repealed.]  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs216" data-uslm-ref="/us/usc/t14/s216">216</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs248" data-uslm-ref="/us/usc/t14/s248">248.</a>  </td>
+
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -87,7 +89,7 @@ b. selection for promotion  </td>
 
   <tr>
 
-    <td> 251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs251" data-uslm-ref="/us/usc/t14/s251">251.</a>  </td>
 
     <td> Selection boards; convening of boards.  </td>
 
@@ -95,7 +97,7 @@ b. selection for promotion  </td>
 
   <tr>
 
-    <td> 252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs252" data-uslm-ref="/us/usc/t14/s252">252.</a>  </td>
 
     <td> Selection boards; composition of boards.  </td>
 
@@ -103,7 +105,7 @@ b. selection for promotion  </td>
 
   <tr>
 
-    <td> 253.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs253" data-uslm-ref="/us/usc/t14/s253">253.</a>  </td>
 
     <td> Selection boards; notice of convening; communication with board.  </td>
 
@@ -111,7 +113,7 @@ b. selection for promotion  </td>
 
   <tr>
 
-    <td> 254.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs254" data-uslm-ref="/us/usc/t14/s254">254.</a>  </td>
 
     <td> Selection boards; oath of members.  </td>
 
@@ -119,7 +121,7 @@ b. selection for promotion  </td>
 
   <tr>
 
-    <td> 255.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs255" data-uslm-ref="/us/usc/t14/s255">255.</a>  </td>
 
     <td> Number of officers to be selected for promotion.  </td>
 
@@ -127,7 +129,7 @@ b. selection for promotion  </td>
 
   <tr>
 
-    <td> 256.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs256" data-uslm-ref="/us/usc/t14/s256">256.</a>  </td>
 
     <td> Promotion zones.  </td>
 
@@ -135,7 +137,7 @@ b. selection for promotion  </td>
 
   <tr>
 
-    <td> 256a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs256a" data-uslm-ref="/us/usc/t14/s256a">256a.</a>  </td>
 
     <td> Promotion year; defined.  </td>
 
@@ -143,7 +145,7 @@ b. selection for promotion  </td>
 
   <tr>
 
-    <td> 257.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs257" data-uslm-ref="/us/usc/t14/s257">257.</a>  </td>
 
     <td> Eligibility of officers for consideration for promotion.  </td>
 
@@ -151,7 +153,7 @@ b. selection for promotion  </td>
 
   <tr>
 
-    <td> 258.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs258" data-uslm-ref="/us/usc/t14/s258">258.</a>  </td>
 
     <td> Selection boards; information to be furnished boards.  </td>
 
@@ -159,7 +161,7 @@ b. selection for promotion  </td>
 
   <tr>
 
-    <td> 259.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs259" data-uslm-ref="/us/usc/t14/s259">259.</a>  </td>
 
     <td> Officers to be recommended for promotion.  </td>
 
@@ -167,7 +169,7 @@ b. selection for promotion  </td>
 
   <tr>
 
-    <td> 260.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs260" data-uslm-ref="/us/usc/t14/s260">260.</a>  </td>
 
     <td> Selection boards; reports.  </td>
 
@@ -175,7 +177,7 @@ b. selection for promotion  </td>
 
   <tr>
 
-    <td> 261.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs261" data-uslm-ref="/us/usc/t14/s261">261.</a>  </td>
 
     <td> Selection boards; submission of reports.  </td>
 
@@ -183,7 +185,7 @@ b. selection for promotion  </td>
 
   <tr>
 
-    <td> 262.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs262" data-uslm-ref="/us/usc/t14/s262">262.</a>  </td>
 
     <td> Failure of selection for promotion.  </td>
 
@@ -191,7 +193,7 @@ b. selection for promotion  </td>
 
   <tr>
 
-    <td> 263.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs263" data-uslm-ref="/us/usc/t14/s263">263.</a>  </td>
 
     <td> Special selection boards; correction of errors.  </td>
 
@@ -207,7 +209,7 @@ c. promotions  </td>
 
   <tr>
 
-    <td> 271.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs271" data-uslm-ref="/us/usc/t14/s271">271.</a>  </td>
 
     <td> Promotions; appointments.  </td>
 
@@ -215,7 +217,7 @@ c. promotions  </td>
 
   <tr>
 
-    <td> 272.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs272" data-uslm-ref="/us/usc/t14/s272">272.</a>  </td>
 
     <td> Removal of officer from list of selectees for promotion.  </td>
 
@@ -223,7 +225,7 @@ c. promotions  </td>
 
   <tr>
 
-    <td> 273.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs273" data-uslm-ref="/us/usc/t14/s273">273.</a>  </td>
 
     <td> Promotions; acceptance; oath of office.  </td>
 
@@ -231,7 +233,7 @@ c. promotions  </td>
 
   <tr>
 
-    <td> 274.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs274" data-uslm-ref="/us/usc/t14/s274">274.</a>  </td>
 
     <td> Promotions; pay and allowances.  </td>
 
@@ -239,7 +241,7 @@ c. promotions  </td>
 
   <tr>
 
-    <td> 275.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs275" data-uslm-ref="/us/usc/t14/s275">275.</a>  </td>
 
     <td> Wartime temporary service promotions.  </td>
 
@@ -247,7 +249,7 @@ c. promotions  </td>
 
   <tr>
 
-    <td> 276.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs276" data-uslm-ref="/us/usc/t14/s276">276.</a>  </td>
 
     <td> Promotion of officers not included on active duty promotion list.  </td>
 
@@ -255,7 +257,7 @@ c. promotions  </td>
 
   <tr>
 
-    <td> [277.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs277" data-uslm-ref="/us/usc/t14/s277">277.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -271,7 +273,7 @@ d. discharges; retirements; revocation of commissions  </td>
 
   <tr>
 
-    <td> 281.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs281" data-uslm-ref="/us/usc/t14/s281">281.</a>  </td>
 
     <td> Revocation of commissions during first five years of commissioned service.  </td>
 
@@ -279,7 +281,7 @@ d. discharges; retirements; revocation of commissions  </td>
 
   <tr>
 
-    <td> 282.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs282" data-uslm-ref="/us/usc/t14/s282">282.</a>  </td>
 
     <td> Regular lieutenants (junior grade); separation for failure of selection for promotion.  </td>
 
@@ -287,7 +289,7 @@ d. discharges; retirements; revocation of commissions  </td>
 
   <tr>
 
-    <td> 283.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs283" data-uslm-ref="/us/usc/t14/s283">283.</a>  </td>
 
     <td> Regular lieutenants; separation for failure of selection for promotion; continuation.  </td>
 
@@ -295,7 +297,7 @@ d. discharges; retirements; revocation of commissions  </td>
 
   <tr>
 
-    <td> 284.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs284" data-uslm-ref="/us/usc/t14/s284">284.</a>  </td>
 
     <td> Regular Coast Guard; officers serving under temporary appointments.  </td>
 
@@ -303,7 +305,7 @@ d. discharges; retirements; revocation of commissions  </td>
 
   <tr>
 
-    <td> 285.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs285" data-uslm-ref="/us/usc/t14/s285">285.</a>  </td>
 
     <td> Regular lieutenant commanders and commanders; retirement for failure of selection for promotion.  </td>
 
@@ -311,7 +313,7 @@ d. discharges; retirements; revocation of commissions  </td>
 
   <tr>
 
-    <td> 286.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs286" data-uslm-ref="/us/usc/t14/s286">286.</a>  </td>
 
     <td> Discharge in lieu of retirement; separation pay.  </td>
 
@@ -319,7 +321,7 @@ d. discharges; retirements; revocation of commissions  </td>
 
   <tr>
 
-    <td> 286a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs286a" data-uslm-ref="/us/usc/t14/s286a">286a.</a>  </td>
 
     <td> Regular warrant officers: separation pay.  </td>
 
@@ -327,7 +329,7 @@ d. discharges; retirements; revocation of commissions  </td>
 
   <tr>
 
-    <td> 287.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs287" data-uslm-ref="/us/usc/t14/s287">287.</a>  </td>
 
     <td> Separation for failure of selection for promotion or continuation; time of.  </td>
 
@@ -335,7 +337,7 @@ d. discharges; retirements; revocation of commissions  </td>
 
   <tr>
 
-    <td> 288.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs288" data-uslm-ref="/us/usc/t14/s288">288.</a>  </td>
 
     <td> Regular captains; retirement.  </td>
 
@@ -343,7 +345,7 @@ d. discharges; retirements; revocation of commissions  </td>
 
   <tr>
 
-    <td> 289.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs289" data-uslm-ref="/us/usc/t14/s289">289.</a>  </td>
 
     <td> Captains; continuation on active duty; involuntary retirement.  </td>
 
@@ -351,7 +353,7 @@ d. discharges; retirements; revocation of commissions  </td>
 
   <tr>
 
-    <td> 290.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs290" data-uslm-ref="/us/usc/t14/s290">290.</a>  </td>
 
     <td> Rear admirals and rear admirals (lower half); continuation on active duty; involuntary retirement.  </td>
 
@@ -359,7 +361,7 @@ d. discharges; retirements; revocation of commissions  </td>
 
   <tr>
 
-    <td> 291.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs291" data-uslm-ref="/us/usc/t14/s291">291.</a>  </td>
 
     <td> Voluntary retirement after twenty years’ service.  </td>
 
@@ -367,7 +369,7 @@ d. discharges; retirements; revocation of commissions  </td>
 
   <tr>
 
-    <td> 292.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs292" data-uslm-ref="/us/usc/t14/s292">292.</a>  </td>
 
     <td> Voluntary retirement after thirty years’ service.  </td>
 
@@ -375,7 +377,7 @@ d. discharges; retirements; revocation of commissions  </td>
 
   <tr>
 
-    <td> 293.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs293" data-uslm-ref="/us/usc/t14/s293">293.</a>  </td>
 
     <td> Compulsory retirement.  </td>
 
@@ -383,7 +385,7 @@ d. discharges; retirements; revocation of commissions  </td>
 
   <tr>
 
-    <td> 294.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs294" data-uslm-ref="/us/usc/t14/s294">294.</a>  </td>
 
     <td> Retirement for physical disability after selection for promotion; grade in which retired.  </td>
 
@@ -391,7 +393,7 @@ d. discharges; retirements; revocation of commissions  </td>
 
   <tr>
 
-    <td> 295.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs295" data-uslm-ref="/us/usc/t14/s295">295.</a>  </td>
 
     <td> Deferment of retirement or separation for medical reasons.  </td>
 
@@ -399,7 +401,9 @@ d. discharges; retirements; revocation of commissions  </td>
 
   <tr>
 
-    <td> [301 to 315. Repealed.]  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs301" data-uslm-ref="/us/usc/t14/s301">301</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs315" data-uslm-ref="/us/usc/t14/s315">315.</a>  </td>
+
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -413,7 +417,7 @@ e. separation for cause  </td>
 
   <tr>
 
-    <td> 321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs321" data-uslm-ref="/us/usc/t14/s321">321.</a>  </td>
 
     <td> Review of records of officers.  </td>
 
@@ -421,7 +425,7 @@ e. separation for cause  </td>
 
   <tr>
 
-    <td> 322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs322" data-uslm-ref="/us/usc/t14/s322">322.</a>  </td>
 
     <td> Boards of inquiry.  </td>
 
@@ -429,7 +433,7 @@ e. separation for cause  </td>
 
   <tr>
 
-    <td> 323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs323" data-uslm-ref="/us/usc/t14/s323">323.</a>  </td>
 
     <td> Boards of review.  </td>
 
@@ -437,7 +441,7 @@ e. separation for cause  </td>
 
   <tr>
 
-    <td> 324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs324" data-uslm-ref="/us/usc/t14/s324">324.</a>  </td>
 
     <td> Composition of boards.  </td>
 
@@ -445,7 +449,7 @@ e. separation for cause  </td>
 
   <tr>
 
-    <td> 325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs325" data-uslm-ref="/us/usc/t14/s325">325.</a>  </td>
 
     <td> Rights and procedures.  </td>
 
@@ -453,7 +457,7 @@ e. separation for cause  </td>
 
   <tr>
 
-    <td> 326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs326" data-uslm-ref="/us/usc/t14/s326">326.</a>  </td>
 
     <td> Removal of officer from active duty; action by Secretary.  </td>
 
@@ -461,7 +465,7 @@ e. separation for cause  </td>
 
   <tr>
 
-    <td> 327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs327" data-uslm-ref="/us/usc/t14/s327">327.</a>  </td>
 
     <td> Officers considered for removal; retirement or discharge; separation benefits.  </td>
 
@@ -477,7 +481,7 @@ f. miscellaneous provisions  </td>
 
   <tr>
 
-    <td> 331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs331" data-uslm-ref="/us/usc/t14/s331">331.</a>  </td>
 
     <td> Recall to active duty during war or national emergency.  </td>
 
@@ -485,7 +489,7 @@ f. miscellaneous provisions  </td>
 
   <tr>
 
-    <td> 332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs332" data-uslm-ref="/us/usc/t14/s332">332.</a>  </td>
 
     <td> Recall to active duty with consent of officer.  </td>
 
@@ -493,7 +497,7 @@ f. miscellaneous provisions  </td>
 
   <tr>
 
-    <td> 333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs333" data-uslm-ref="/us/usc/t14/s333">333.</a>  </td>
 
     <td> Relief of retired officer promoted while on active duty.  </td>
 
@@ -501,7 +505,7 @@ f. miscellaneous provisions  </td>
 
   <tr>
 
-    <td> 334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs334" data-uslm-ref="/us/usc/t14/s334">334.</a>  </td>
 
     <td> Grade on retirement.  </td>
 
@@ -509,7 +513,7 @@ f. miscellaneous provisions  </td>
 
   <tr>
 
-    <td> 335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs335" data-uslm-ref="/us/usc/t14/s335">335.</a>  </td>
 
     <td> Physical fitness of officers.  </td>
 
@@ -517,7 +521,7 @@ f. miscellaneous provisions  </td>
 
   <tr>
 
-    <td> 336.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs336" data-uslm-ref="/us/usc/t14/s336">336.</a>  </td>
 
     <td> United States Coast Guard Band; composition; director.  </td>
 
@@ -533,7 +537,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> 350.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs350" data-uslm-ref="/us/usc/t14/s350">350.</a>  </td>
 
     <td> Recruiting campaigns.  </td>
 
@@ -541,7 +545,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> 351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs351" data-uslm-ref="/us/usc/t14/s351">351.</a>  </td>
 
     <td> Enlistments; term, grade.  </td>
 
@@ -549,7 +553,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> 352.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs352" data-uslm-ref="/us/usc/t14/s352">352.</a>  </td>
 
     <td> Promotion.  </td>
 
@@ -557,7 +561,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> 353.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs353" data-uslm-ref="/us/usc/t14/s353">353.</a>  </td>
 
     <td> Compulsory retirement at age of sixty-two.  </td>
 
@@ -565,7 +569,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> 354.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs354" data-uslm-ref="/us/usc/t14/s354">354.</a>  </td>
 
     <td> Voluntary retirement after thirty years’ service.  </td>
 
@@ -573,7 +577,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> 355.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs355" data-uslm-ref="/us/usc/t14/s355">355.</a>  </td>
 
     <td> Voluntary retirement after twenty years’ service.  </td>
 
@@ -581,7 +585,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> [356.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs356" data-uslm-ref="/us/usc/t14/s356">356.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -589,7 +593,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> 357.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs357" data-uslm-ref="/us/usc/t14/s357">357.</a>  </td>
 
     <td> Involuntary retirement of enlisted members.  </td>
 
@@ -597,7 +601,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> [358.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs358" data-uslm-ref="/us/usc/t14/s358">358.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -605,7 +609,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> 359.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs359" data-uslm-ref="/us/usc/t14/s359">359.</a>  </td>
 
     <td> Recall to active duty during war or national emergency.  </td>
 
@@ -613,7 +617,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> 360.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs360" data-uslm-ref="/us/usc/t14/s360">360.</a>  </td>
 
     <td> Recall to active duty with consent of member.  </td>
 
@@ -621,7 +625,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> 361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs361" data-uslm-ref="/us/usc/t14/s361">361.</a>  </td>
 
     <td> Relief of retired enlisted member promoted while on active duty.  </td>
 
@@ -629,7 +633,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> 362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs362" data-uslm-ref="/us/usc/t14/s362">362.</a>  </td>
 
     <td> Retirement in cases where higher grade or rating has been held.  </td>
 
@@ -637,7 +641,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> [363, 364.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs363" data-uslm-ref="/us/usc/t14/s363">363</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs364" data-uslm-ref="/us/usc/t14/s364">364.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -645,7 +649,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> 365.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs365" data-uslm-ref="/us/usc/t14/s365">365.</a>  </td>
 
     <td> Extension of enlistments.  </td>
 
@@ -653,7 +657,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> 366.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs366" data-uslm-ref="/us/usc/t14/s366">366.</a>  </td>
 
     <td> Retention beyond term of enlistment in case of disability.  </td>
 
@@ -661,7 +665,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> 367.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs367" data-uslm-ref="/us/usc/t14/s367">367.</a>  </td>
 
     <td> Detention beyond term of enlistment.  </td>
 
@@ -669,7 +673,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> [368.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs368" data-uslm-ref="/us/usc/t14/s368">368.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -677,7 +681,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> 369.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs369" data-uslm-ref="/us/usc/t14/s369">369.</a>  </td>
 
     <td> Inclusion of certain conditions in enlistment contract.  </td>
 
@@ -685,7 +689,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> 370.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs370" data-uslm-ref="/us/usc/t14/s370">370.</a>  </td>
 
     <td> Discharge within three months before expiration of enlistment.  </td>
 
@@ -693,7 +697,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> 371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs371" data-uslm-ref="/us/usc/t14/s371">371.</a>  </td>
 
     <td> Aviation cadets; procurement; transfer.  </td>
 
@@ -701,7 +705,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> 372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs372" data-uslm-ref="/us/usc/t14/s372">372.</a>  </td>
 
     <td> Aviation cadets; benefits.  </td>
 
@@ -709,7 +713,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> 373.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs373" data-uslm-ref="/us/usc/t14/s373">373.</a>  </td>
 
     <td> Aviation cadets; appointment as Reserve officers.  </td>
 
@@ -717,7 +721,7 @@ ENLISTED MEMBERS  </td>
 
   <tr>
 
-    <td> 374.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs374" data-uslm-ref="/us/usc/t14/s374">374.</a>  </td>
 
     <td> Critical skill training bonus.  </td>
 
@@ -733,7 +737,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs421" data-uslm-ref="/us/usc/t14/s421">421.</a>  </td>
 
     <td> Retirement.  </td>
 
@@ -741,7 +745,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs422" data-uslm-ref="/us/usc/t14/s422">422.</a>  </td>
 
     <td> Status of recalled personnel.  </td>
 
@@ -749,7 +753,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs423" data-uslm-ref="/us/usc/t14/s423">423.</a>  </td>
 
     <td> Computation of retired pay.  </td>
 
@@ -757,7 +761,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs424" data-uslm-ref="/us/usc/t14/s424">424.</a>  </td>
 
     <td> Limitations on retirement and retired pay.  </td>
 
@@ -765,7 +769,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 424a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs424a" data-uslm-ref="/us/usc/t14/s424a">424a.</a>  </td>
 
     <td> Suspension of payment of retired pay of members who are absent from the United States to avoid prosecution.  </td>
 
@@ -773,7 +777,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs425" data-uslm-ref="/us/usc/t14/s425">425.</a>  </td>
 
     <td> Board for Correction of Military Records deadline.  </td>
 
@@ -781,7 +785,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 426.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs426" data-uslm-ref="/us/usc/t14/s426">426.</a>  </td>
 
     <td> Emergency leave retention authority.  </td>
 
@@ -789,7 +793,7 @@ GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 427.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs427" data-uslm-ref="/us/usc/t14/s427">427.</a>  </td>
 
     <td> Prohibition of certain involuntary administrative separations.  </td>
 
@@ -805,7 +809,7 @@ SPECIAL PROVISIONS  </td>
 
   <tr>
 
-    <td> [431.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs431" data-uslm-ref="/us/usc/t14/s431">431.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -813,7 +817,7 @@ SPECIAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs432" data-uslm-ref="/us/usc/t14/s432">432.</a>  </td>
 
     <td> Personnel of former Lighthouse Service.  </td>
 
@@ -821,7 +825,7 @@ SPECIAL PROVISIONS  </td>
 
   <tr>
 
-    <td> [433 to 440.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs433" data-uslm-ref="/us/usc/t14/s433">433</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs440" data-uslm-ref="/us/usc/t14/s440">440.</a>  </td>
 
     <td> Repealed.]  </td>
 

@@ -33,21 +33,21 @@ This title was enacted by [act Aug. 4, 1949, ch. 393, § 1][/us/act/1949-08-04
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2FptI" data-uslm-ref="/us/usc/t14/ptI">I.</a>  </td>
 
     <td> Regular Coast Guard  </td>
 
-    <td> 1  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs1" data-uslm-ref="/us/usc/t14/s1">1</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2FptII" data-uslm-ref="/us/usc/t14/ptII">II.</a>  </td>
 
     <td> Coast Guard Reserve and Auxiliary  </td>
 
-    <td> 701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs701" data-uslm-ref="/us/usc/t14/s701">701</a>  </td>
 
   </tr>
 

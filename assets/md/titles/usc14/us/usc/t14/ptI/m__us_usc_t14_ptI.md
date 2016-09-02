@@ -29,81 +29,81 @@
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch1" data-uslm-ref="/us/usc/t14/ptI/ch1">1.</a>  </td>
 
     <td> Establishment and Duties  </td>
 
-    <td> 1  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs1" data-uslm-ref="/us/usc/t14/s1">1</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch3" data-uslm-ref="/us/usc/t14/ptI/ch3">3.</a>  </td>
 
     <td> Composition and Organization  </td>
 
-    <td> 41  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs41" data-uslm-ref="/us/usc/t14/s41">41</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch5" data-uslm-ref="/us/usc/t14/ptI/ch5">5.</a>  </td>
 
     <td> Functions and Powers  </td>
 
-    <td> 81  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs81" data-uslm-ref="/us/usc/t14/s81">81</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch7" data-uslm-ref="/us/usc/t14/ptI/ch7">7.</a>  </td>
 
     <td> Cooperation With Other Agencies  </td>
 
-    <td> 141  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs141" data-uslm-ref="/us/usc/t14/s141">141</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch9" data-uslm-ref="/us/usc/t14/ptI/ch9">9.</a>  </td>
 
     <td> Coast Guard Academy  </td>
 
-    <td> 181  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs181" data-uslm-ref="/us/usc/t14/s181">181</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch11" data-uslm-ref="/us/usc/t14/ptI/ch11">11.</a>  </td>
 
     <td> Personnel  </td>
 
-    <td> 211  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs211" data-uslm-ref="/us/usc/t14/s211">211</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch13" data-uslm-ref="/us/usc/t14/ptI/ch13">13.</a>  </td>
 
     <td> Pay, Allowances, Awards, and Other Rights and Benefits  </td>
 
-    <td> 461  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs461" data-uslm-ref="/us/usc/t14/s461">461</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch15" data-uslm-ref="/us/usc/t14/ptI/ch15">15.</a>  </td>
 
     <td> Acquisitions  </td>
 
-    <td> 561  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs561" data-uslm-ref="/us/usc/t14/s561">561</a>  </td>
 
   </tr>
 
@@ -119,31 +119,31 @@
 
   <tr>
 
-    <td> 17.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch17" data-uslm-ref="/us/usc/t14/ptI/ch17">17.</a>  </td>
 
     <td> Administration  </td>
 
-    <td> 631  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs631" data-uslm-ref="/us/usc/t14/s631">631</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 18.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch18" data-uslm-ref="/us/usc/t14/ptI/ch18">18.</a>  </td>
 
     <td> Coast Guard Housing Authorities  </td>
 
-    <td> 680  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs680" data-uslm-ref="/us/usc/t14/s680">680</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 19.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2FptI%2Fch19" data-uslm-ref="/us/usc/t14/ptI/ch19">19.</a>  </td>
 
     <td> Coast Guard Environmental Compliance and Restoration Program  <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to chapter heading. </sup></sup>   </td>
 
-    <td> 690  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs690" data-uslm-ref="/us/usc/t14/s690">690</a>  </td>
 
   </tr>
 

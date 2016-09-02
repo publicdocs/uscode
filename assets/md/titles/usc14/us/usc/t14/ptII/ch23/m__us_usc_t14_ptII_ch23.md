@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 821.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs821" data-uslm-ref="/us/usc/t14/s821">821.</a>  </td>
 
     <td> Administration of the Coast Guard Auxiliary.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 822.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs822" data-uslm-ref="/us/usc/t14/s822">822.</a>  </td>
 
     <td> Purpose of the Coast Guard Auxiliary.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 823.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs823" data-uslm-ref="/us/usc/t14/s823">823.</a>  </td>
 
     <td> Eligibility; enrollments.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 823a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs823a" data-uslm-ref="/us/usc/t14/s823a">823a.</a>  </td>
 
     <td> Members of the Auxiliary; status.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 824.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs824" data-uslm-ref="/us/usc/t14/s824">824.</a>  </td>
 
     <td> Disenrollment.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 825.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs825" data-uslm-ref="/us/usc/t14/s825">825.</a>  </td>
 
     <td> Membership in other organizations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 826.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs826" data-uslm-ref="/us/usc/t14/s826">826.</a>  </td>
 
     <td> Use of member’s facilities.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 827.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs827" data-uslm-ref="/us/usc/t14/s827">827.</a>  </td>
 
     <td> Vessel deemed public vessel.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 828.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs828" data-uslm-ref="/us/usc/t14/s828">828.</a>  </td>
 
     <td> Aircraft deemed public aircraft.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 829.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs829" data-uslm-ref="/us/usc/t14/s829">829.</a>  </td>
 
     <td> Radio station deemed government station.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 830.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs830" data-uslm-ref="/us/usc/t14/s830">830.</a>  </td>
 
     <td> Availability of appropriations.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 831.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs831" data-uslm-ref="/us/usc/t14/s831">831.</a>  </td>
 
     <td> Assignment and performance of duties.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 832.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs832" data-uslm-ref="/us/usc/t14/s832">832.</a>  </td>
 
     <td> Injury or death in line of duty.  </td>
 

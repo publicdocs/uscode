@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 81.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs81" data-uslm-ref="/us/usc/t14/s81">81.</a>  </td>
 
     <td> Aids to navigation authorized.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [82.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs82" data-uslm-ref="/us/usc/t14/s82">82.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 83.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs83" data-uslm-ref="/us/usc/t14/s83">83.</a>  </td>
 
     <td> Unauthorized aids to maritime navigation; penalty.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 84.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs84" data-uslm-ref="/us/usc/t14/s84">84.</a>  </td>
 
     <td> Interference with aids to navigation; penalty.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 85.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs85" data-uslm-ref="/us/usc/t14/s85">85.</a>  </td>
 
     <td> Aids to maritime navigation; penalty.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 86.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs86" data-uslm-ref="/us/usc/t14/s86">86.</a>  </td>
 
     <td> Marking of obstructions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [87.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs87" data-uslm-ref="/us/usc/t14/s87">87.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 88.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs88" data-uslm-ref="/us/usc/t14/s88">88.</a>  </td>
 
     <td> Saving life and property.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 89.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs89" data-uslm-ref="/us/usc/t14/s89">89.</a>  </td>
 
     <td> Law enforcement.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [90.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs90" data-uslm-ref="/us/usc/t14/s90">90.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 91.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs91" data-uslm-ref="/us/usc/t14/s91">91.</a>  </td>
 
     <td> Safety of naval vessels.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 92.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs92" data-uslm-ref="/us/usc/t14/s92">92.</a>  </td>
 
     <td> Secretary; general powers.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 93.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs93" data-uslm-ref="/us/usc/t14/s93">93.</a>  </td>
 
     <td> Commandant; general powers.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 94.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs94" data-uslm-ref="/us/usc/t14/s94">94.</a>  </td>
 
     <td> Oceanographic research.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 95.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs95" data-uslm-ref="/us/usc/t14/s95">95.</a>  </td>
 
     <td> Special agents of the Coast Guard Investigative Service law enforcement authority.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 96.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs96" data-uslm-ref="/us/usc/t14/s96">96.</a>  </td>
 
     <td> Prohibition on overhaul, repair, and maintenance of Coast Guard vessels in foreign shipyards.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 97.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs97" data-uslm-ref="/us/usc/t14/s97">97.</a>  </td>
 
     <td> Procurement of buoy chain.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 98.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs98" data-uslm-ref="/us/usc/t14/s98">98.</a>  </td>
 
     <td> National Coast Guard Museum.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 99.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs99" data-uslm-ref="/us/usc/t14/s99">99.</a>  </td>
 
     <td> Enforcement authority.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 100.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs100" data-uslm-ref="/us/usc/t14/s100">100.</a>  </td>
 
     <td> Enforcement of coastwise trade laws.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs101" data-uslm-ref="/us/usc/t14/s101">101.</a>  </td>
 
     <td> Appeals and waivers.  </td>
 

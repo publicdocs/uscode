@@ -81,6 +81,18 @@
 
     Coast Guard transferred to Department of Transportation and all functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by [Pub. L. 89–670, § 6(b)(1)][/us/pl/89/670/s6/b/1], Oct. 15, 1966, [80 Stat. 931][/us/stat/80/931]. [Section 6(b)(2) of Pub. L. 89–670][/us/pl/89/670/s6/b/2], however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of this title][/us/usc/t14/s3]. See [section 108 of Title 49][/us/usc/t49/s108], Transportation.
 
+ __Designation of Coast Guard Headquarters Building__ 
+
+[Pub. L. 113–31][/us/pl/113/31], Aug. 9, 2013, [127 Stat. 511][/us/stat/127/511], provided that:
+
+> “SECTION 1. __DESIGNATION.__ 
+
+>     “The headquarters building of the Coast Guard on the campus located at 2701 Martin Luther King, Jr., Avenue Southeast in the District of Columbia shall be known and designated as the ‘Douglas A. Munro Coast Guard Headquarters Building’.
+
+> “SEC. 2. __REFERENCES.__ 
+
+>     “Any reference in a law, map, regulation, document, paper, or other record of the United States to the building referred to in section 1 shall be deemed to be a reference to the ‘Douglas A. Munro Coast Guard Headquarters Building’.”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t14/ptI/ch1/m__us_usc_t14_ptI_ch1.md) | [Next](./../../../../..//us/usc/t14/ptI/ch1/m__us_usc_t14_s2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs1)
@@ -130,5 +142,7 @@
 [/us/pl/89/670/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F2
 [/us/usc/t14/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs3
 [/us/usc/t49/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs108
+[/us/pl/113/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F31
+[/us/stat/127/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F511
 
 

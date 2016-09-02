@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs141" data-uslm-ref="/us/usc/t14/s141">141.</a>  </td>
 
     <td> Cooperation with other agencies, States, territories, and political subdivisions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs142" data-uslm-ref="/us/usc/t14/s142">142.</a>  </td>
 
     <td> State Department.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs143" data-uslm-ref="/us/usc/t14/s143">143.</a>  </td>
 
     <td> Treasury Department.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs144" data-uslm-ref="/us/usc/t14/s144">144.</a>  </td>
 
     <td> Department of the Army and Department of the Air Force.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs145" data-uslm-ref="/us/usc/t14/s145">145.</a>  </td>
 
     <td> Navy Department.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 146.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs146" data-uslm-ref="/us/usc/t14/s146">146.</a>  </td>
 
     <td> United States Postal Service.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 147.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs147" data-uslm-ref="/us/usc/t14/s147">147.</a>  </td>
 
     <td> Department of Commerce.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 147a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs147a" data-uslm-ref="/us/usc/t14/s147a">147a.</a>  </td>
 
     <td> Department of Health and Human Services.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 148.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs148" data-uslm-ref="/us/usc/t14/s148">148.</a>  </td>
 
     <td> Maritime instruction.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 149.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs149" data-uslm-ref="/us/usc/t14/s149">149.</a>  </td>
 
     <td> Assistance to foreign governments and maritime authorities.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 150.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs150" data-uslm-ref="/us/usc/t14/s150">150.</a>  </td>
 
     <td> Coast Guard officers as attachés to missions.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs151" data-uslm-ref="/us/usc/t14/s151">151.</a>  </td>
 
     <td> Contracts with Government-owned establishments for work and material.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs152" data-uslm-ref="/us/usc/t14/s152">152.</a>  </td>
 
     <td> Nonappropriated fund instrumentalities: contracts with other agencies and instrumentalities to provide or obtain goods and services.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs153" data-uslm-ref="/us/usc/t14/s153">153.</a>  </td>
 
     <td> Appointment of judges.  </td>
 

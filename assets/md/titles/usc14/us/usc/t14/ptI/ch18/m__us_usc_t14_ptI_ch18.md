@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 680.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs680" data-uslm-ref="/us/usc/t14/s680">680.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 681.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs681" data-uslm-ref="/us/usc/t14/s681">681.</a>  </td>
 
     <td> General authority.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [682 to 684.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs682" data-uslm-ref="/us/usc/t14/s682">682</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs684" data-uslm-ref="/us/usc/t14/s684">684.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 685.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs685" data-uslm-ref="/us/usc/t14/s685">685.</a>  </td>
 
     <td> Conveyance of real property.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [686.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs686" data-uslm-ref="/us/usc/t14/s686">686.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 687.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs687" data-uslm-ref="/us/usc/t14/s687">687.</a>  </td>
 
     <td> Coast Guard Housing Fund.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [687a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs687a" data-uslm-ref="/us/usc/t14/s687a">687a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 688.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs688" data-uslm-ref="/us/usc/t14/s688">688.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> [689.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft14%2Fs689" data-uslm-ref="/us/usc/t14/s689">689.</a>  </td>
 
     <td> Repealed.]  </td>
 
