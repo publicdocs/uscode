@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 20301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20301" data-uslm-ref="/us/usc/t36/s20301">20301.</a>  </td>
 
     <td> Organization.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 20302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20302" data-uslm-ref="/us/usc/t36/s20302">20302.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 20303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20303" data-uslm-ref="/us/usc/t36/s20303">20303.</a>  </td>
 
     <td> Membership.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 20304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20304" data-uslm-ref="/us/usc/t36/s20304">20304.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 20305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20305" data-uslm-ref="/us/usc/t36/s20305">20305.</a>  </td>
 
     <td> Annual meeting.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 20306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20306" data-uslm-ref="/us/usc/t36/s20306">20306.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 20307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20307" data-uslm-ref="/us/usc/t36/s20307">20307.</a>  </td>
 
     <td> Nonapplication of audit requirements.  </td>
 

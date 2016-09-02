@@ -15,7 +15,7 @@
 
 ## § 141. Thomas Jefferson’s birthday
 
-The President shall issue each year a proclamation—
+    The President shall issue each year a proclamation—
 
     (1) calling on officials of the United States Government to display the flag of the United States on all Government buildings on April 13; and
 

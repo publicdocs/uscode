@@ -15,7 +15,7 @@
 
 ## § 23102. Purposes
 
-The purposes of the corporation are—
+    The purposes of the corporation are—
 
     (1) to receive and maintain one or more funds and to use any part of the principal and income only for charitable, scientific, literary, or educational purposes, either directly or by contributing to organizations authorized to carry on similar activities;
 

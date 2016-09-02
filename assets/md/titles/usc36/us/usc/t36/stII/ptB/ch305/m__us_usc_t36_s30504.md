@@ -15,7 +15,7 @@
 
 ## § 30504. Membership
 
-An individual is eligible for membership in the corporation if—
+    An individual is eligible for membership in the corporation if—
 
     (1)
 

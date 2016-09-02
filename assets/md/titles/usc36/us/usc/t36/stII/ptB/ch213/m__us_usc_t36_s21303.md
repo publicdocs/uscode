@@ -15,7 +15,7 @@
 
 ## § 21303. Powers
 
-The corporation may—
+    The corporation may—
 
     (1) adopt a constitution and bylaws; and
 

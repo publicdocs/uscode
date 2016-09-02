@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 150301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs150301" data-uslm-ref="/us/usc/t36/s150301">150301.</a>  </td>
 
     <td> Federal charter.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 150302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs150302" data-uslm-ref="/us/usc/t36/s150302">150302.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 150303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs150303" data-uslm-ref="/us/usc/t36/s150303">150303.</a>  </td>
 
     <td> Services to United States Government.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 150304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs150304" data-uslm-ref="/us/usc/t36/s150304">150304.</a>  </td>
 
     <td> Annual meeting.  </td>
 

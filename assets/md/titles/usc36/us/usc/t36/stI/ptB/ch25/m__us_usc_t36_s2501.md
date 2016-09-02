@@ -15,7 +15,7 @@
 
 ## § 2501. Acceptance of voluntary services and money or property
 
-The President’s Committee on Employment of People With Disabilities—
+    The President’s Committee on Employment of People With Disabilities—
 
     (1) notwithstanding [section 1342 of title 31][/us/usc/t31/s1342], may accept voluntary and uncompensated services; and
 

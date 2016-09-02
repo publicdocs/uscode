@@ -15,7 +15,7 @@
 
 ## § 704. Activities
 
-In cooperation with appropriate State and local government authorities, each Federal land management agency shall plan for and carry out activities on Carl Garner Federal Lands Cleanup Day that—
+    In cooperation with appropriate State and local government authorities, each Federal land management agency shall plan for and carry out activities on Carl Garner Federal Lands Cleanup Day that—
 
     (1) encourage continuing public and private sector cooperation in preserving the beauty and safety of areas within the jurisdiction of the agency;
 

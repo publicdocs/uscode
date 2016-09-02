@@ -15,7 +15,7 @@
 
 ## § 22502. Purposes
 
-The purposes of the corporation are—
+    The purposes of the corporation are—
 
     (1) to keep alive and develop the spirit that promoted world service;
 

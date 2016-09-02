@@ -15,7 +15,7 @@
 
 ## § 501. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) “Inaugural Committee” means the committee appointed by the President-elect to be in charge of the Presidential inaugural ceremony and functions and activities connected with the ceremony; and
 

@@ -15,7 +15,7 @@
 
 ## § 21902. Purposes
 
-The purposes of the corporation include—
+    The purposes of the corporation include—
 
     (1) the presentation of theatrical productions of the highest type;
 

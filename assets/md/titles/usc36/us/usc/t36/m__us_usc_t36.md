@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t36/stI/m__us_usc_t36_stI.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36)
 
-# 
-
-Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS
+# Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS
 
 This title was enacted by [Pub. L. 105–225, § 1][/us/pl/105/225/s1], Aug. 12, 1998, [112 Stat. 1253][/us/stat/112/1253]
+
+Current through 113–44
 
 <table>
 
@@ -33,31 +33,31 @@ This title was enacted by [Pub. L. 105–225, § 1][/us/pl/105/225/s1], Aug. 1
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2FstI" data-uslm-ref="/us/usc/t36/stI">I.</a>  </td>
 
     <td> PATRIOTIC AND NATIONAL OBSERVANCES AND CEREMONIES  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs101" data-uslm-ref="/us/usc/t36/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2FstII" data-uslm-ref="/us/usc/t36/stII">II.</a>  </td>
 
     <td> PATRIOTIC AND NATIONAL ORGANIZATIONS  </td>
 
-    <td> 10101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs10101" data-uslm-ref="/us/usc/t36/s10101">10101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2FstIII" data-uslm-ref="/us/usc/t36/stIII">III.</a>  </td>
 
     <td> TREATY OBLIGATION ORGANIZATIONS  </td>
 
-    <td> 300101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs300101" data-uslm-ref="/us/usc/t36/s300101">300101</a>  </td>
 
   </tr>
 

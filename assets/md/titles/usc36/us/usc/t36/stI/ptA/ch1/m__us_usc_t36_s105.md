@@ -15,7 +15,7 @@
 
 ## § 105. Child Health Day
 
-The President is requested to issue each year a proclamation—
+    The President is requested to issue each year a proclamation—
 
     (1) designating the first Monday in October as Child Health Day; and
 

@@ -15,7 +15,7 @@
 
 ## § 70902. Purposes
 
-The purposes of the corporation are—
+    The purposes of the corporation are—
 
     (1) to create, foster, and assist subsidiary chapters composed of students and former students of vocational agriculture in public schools qualifying for Federal reimbursement under the Smith-Hughes Vocational Education Act ([20 U.S.C. 11–15][/us/usc/t20/s11–15], 16–28) and associations of those chapters in the States, territories, and possessions of the United States;
 

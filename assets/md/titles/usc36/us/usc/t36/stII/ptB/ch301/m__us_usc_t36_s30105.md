@@ -15,7 +15,7 @@
 
 ## § 30105. Powers
 
-The corporation may—
+    The corporation may—
 
     (1) adopt and amend a constitution and bylaws for the management of its property and the regulation of its affairs;
 

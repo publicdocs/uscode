@@ -15,7 +15,7 @@
 
 ## § 21103. Purposes
 
-The purposes of the corporation are as provided in the articles of incorporation and include a continuing commitment, on a national basis, to—
+    The purposes of the corporation are as provided in the articles of incorporation and include a continuing commitment, on a national basis, to—
 
     (1) keep alive and develop the spirit that promoted world services;
 

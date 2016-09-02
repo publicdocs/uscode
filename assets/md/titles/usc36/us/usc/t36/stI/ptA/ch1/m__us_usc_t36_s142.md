@@ -15,7 +15,7 @@
 
 ## § 142. White Cane Safety Day
 
-The President may issue each year a proclamation—
+    The President may issue each year a proclamation—
 
     (1) designating October 15 as White Cane Safety Day; and
 

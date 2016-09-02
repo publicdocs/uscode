@@ -15,7 +15,7 @@
 
 ## § 70705. Management of homestead and erection of monument
 
-After the corporation has acquired any part of the property occupied by the late Frederick Douglass as his homestead, commonly called Cedar Hill, in the village of Anacostia, District of Columbia, the corporation may—
+    After the corporation has acquired any part of the property occupied by the late Frederick Douglass as his homestead, commonly called Cedar Hill, in the village of Anacostia, District of Columbia, the corporation may—
 
     (1) manage, repair, and improve the property to carry out the purposes of the corporation; and
 

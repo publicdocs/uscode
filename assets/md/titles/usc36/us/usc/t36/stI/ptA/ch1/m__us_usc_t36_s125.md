@@ -15,7 +15,7 @@
 
 ## § 125. National Grandparents Day
 
-The President is requested to issue each year a proclamation—
+    The President is requested to issue each year a proclamation—
 
     (1) designating the first Sunday in September after Labor Day as National Grandparents Day; and
 

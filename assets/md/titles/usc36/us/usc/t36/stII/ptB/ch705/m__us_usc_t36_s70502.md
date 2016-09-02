@@ -15,7 +15,7 @@
 
 ## § 70502. Purposes
 
-The purposes of the corporation are—
+    The purposes of the corporation are—
 
     (1) to receive and hold property, including by gift, devise, or grant, and to invest, administer, and dispose of the property without restrictions applicable to trustees or trust funds;
 

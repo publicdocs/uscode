@@ -15,7 +15,7 @@
 
 ## § 80302. Purposes
 
-The purposes of the corporation are—
+    The purposes of the corporation are—
 
     (1) to promote the qualities of truth, loyalty, helpfulness, friendliness, courtesy, purity, kindness, obedience, cheerfulness, thriftiness, and kindred virtues among girls, as a preparation for their responsibilities in the home and for service to the community;
 

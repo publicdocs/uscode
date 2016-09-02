@@ -15,7 +15,7 @@
 
 ## § 701. Findings
 
-Congress finds that—
+    Congress finds that—
 
     (1) Federal lands, parks, recreation areas, and waterways provide recreational opportunities for millions of Americans each year;
 

@@ -15,7 +15,7 @@
 
 ## § 40703. Powers
 
-The corporation may—
+    The corporation may—
 
     (1) adopt, use, and alter a corporate seal, which shall be judicially noticed;
 

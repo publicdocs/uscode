@@ -15,7 +15,7 @@
 
 ## § 2301. Establishment of the United States Holocaust Memorial Museum; functions
 
-The United States Holocaust Memorial Museum (hereafter in this chapter referred to as the “Museum”) is an independent establishment of the United States Government. The Museum shall—
+    The United States Holocaust Memorial Museum (hereafter in this chapter referred to as the “Museum”) is an independent establishment of the United States Government. The Museum shall—
 
     (1) provide for appropriate ways for the Nation to commemorate the Days of Remembrance, as an annual, national, civic commemoration of the Holocaust, and encourage and sponsor appropriate observances of such Days of Remembrance throughout the United States;
 

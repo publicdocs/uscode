@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 140301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs140301" data-uslm-ref="/us/usc/t36/s140301">140301.</a>  </td>
 
     <td> Organization.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 140302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs140302" data-uslm-ref="/us/usc/t36/s140302">140302.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 140303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs140303" data-uslm-ref="/us/usc/t36/s140303">140303.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 140304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs140304" data-uslm-ref="/us/usc/t36/s140304">140304.</a>  </td>
 
     <td> Exclusive right to name.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 140305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs140305" data-uslm-ref="/us/usc/t36/s140305">140305.</a>  </td>
 
     <td> Annual report.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 30702. Purpose
 
-The purpose of the corporation is to foster the development of fundamental education through programs and projects such as—
+    The purpose of the corporation is to foster the development of fundamental education through programs and projects such as—
 
     (1) giving citizens (children, youth, and adults) an opportunity to acquire the understandings and skills necessary to relate the resources of the community to the needs and interests of the community;
 

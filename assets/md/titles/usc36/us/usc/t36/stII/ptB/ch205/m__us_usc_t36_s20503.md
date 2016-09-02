@@ -15,7 +15,7 @@
 
 ## § 20503. Powers
 
-The corporation may—
+    The corporation may—
 
     (1) adopt a constitution, bylaws, and regulations;
 

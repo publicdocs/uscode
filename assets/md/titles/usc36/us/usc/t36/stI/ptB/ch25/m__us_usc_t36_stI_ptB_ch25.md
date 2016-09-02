@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs2501" data-uslm-ref="/us/usc/t36/s2501">2501.</a>  </td>
 
     <td> Acceptance of voluntary services and money or property.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs2502" data-uslm-ref="/us/usc/t36/s2502">2502.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

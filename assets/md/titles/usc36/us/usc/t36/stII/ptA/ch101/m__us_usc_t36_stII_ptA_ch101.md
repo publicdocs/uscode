@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 10101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs10101" data-uslm-ref="/us/usc/t36/s10101">10101.</a>  </td>
 
     <td> Audits.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 10102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs10102" data-uslm-ref="/us/usc/t36/s10102">10102.</a>  </td>
 
     <td> Reservation of right to amend or repeal.  </td>
 

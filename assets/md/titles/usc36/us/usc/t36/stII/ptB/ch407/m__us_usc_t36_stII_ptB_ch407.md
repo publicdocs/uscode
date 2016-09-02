@@ -33,7 +33,7 @@ SUBCHAPTER I—CORPORATION  </td>
 
   <tr>
 
-    <td> 40701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs40701" data-uslm-ref="/us/usc/t36/s40701">40701.</a>  </td>
 
     <td> Organization.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—CORPORATION  </td>
 
   <tr>
 
-    <td> 40702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs40702" data-uslm-ref="/us/usc/t36/s40702">40702.</a>  </td>
 
     <td> Governing body.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—CORPORATION  </td>
 
   <tr>
 
-    <td> 40703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs40703" data-uslm-ref="/us/usc/t36/s40703">40703.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—CORPORATION  </td>
 
   <tr>
 
-    <td> 40704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs40704" data-uslm-ref="/us/usc/t36/s40704">40704.</a>  </td>
 
     <td> Restrictions.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—CORPORATION  </td>
 
   <tr>
 
-    <td> 40705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs40705" data-uslm-ref="/us/usc/t36/s40705">40705.</a>  </td>
 
     <td> Duty to maintain tax-exempt status.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—CORPORATION  </td>
 
   <tr>
 
-    <td> 40706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs40706" data-uslm-ref="/us/usc/t36/s40706">40706.</a>  </td>
 
     <td> Distribution of assets on dissolution.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—CORPORATION  </td>
 
   <tr>
 
-    <td> 40707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs40707" data-uslm-ref="/us/usc/t36/s40707">40707.</a>  </td>
 
     <td> Nonapplication of audit requirements.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—CIVILIAN MARKSMANSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 40721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs40721" data-uslm-ref="/us/usc/t36/s40721">40721.</a>  </td>
 
     <td> Responsibility of corporation.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—CIVILIAN MARKSMANSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 40722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs40722" data-uslm-ref="/us/usc/t36/s40722">40722.</a>  </td>
 
     <td> Functions.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—CIVILIAN MARKSMANSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 40723.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs40723" data-uslm-ref="/us/usc/t36/s40723">40723.</a>  </td>
 
     <td> Eligibility for participation.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—CIVILIAN MARKSMANSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 40724.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs40724" data-uslm-ref="/us/usc/t36/s40724">40724.</a>  </td>
 
     <td> Priority of youth participation.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—CIVILIAN MARKSMANSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 40725.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs40725" data-uslm-ref="/us/usc/t36/s40725">40725.</a>  </td>
 
     <td> National Matches and small-arms firing school.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—CIVILIAN MARKSMANSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 40726.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs40726" data-uslm-ref="/us/usc/t36/s40726">40726.</a>  </td>
 
     <td> Allowances for junior competitors.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—CIVILIAN MARKSMANSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 40727.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs40727" data-uslm-ref="/us/usc/t36/s40727">40727.</a>  </td>
 
     <td> Army support.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—CIVILIAN MARKSMANSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 40728.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs40728" data-uslm-ref="/us/usc/t36/s40728">40728.</a>  </td>
 
     <td> Transfer of firearms, ammunition, and parts.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—CIVILIAN MARKSMANSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 40728A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs40728A" data-uslm-ref="/us/usc/t36/s40728A">40728A.</a>  </td>
 
     <td> Recovery of excess firearms, ammunition, and parts granted to foreign countries and transfer to corporation.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—CIVILIAN MARKSMANSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 40729.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs40729" data-uslm-ref="/us/usc/t36/s40729">40729.</a>  </td>
 
     <td> Reservation of firearms, ammunition, and parts.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—CIVILIAN MARKSMANSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 40730.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs40730" data-uslm-ref="/us/usc/t36/s40730">40730.</a>  </td>
 
     <td> Surplus property.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—CIVILIAN MARKSMANSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 40731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs40731" data-uslm-ref="/us/usc/t36/s40731">40731.</a>  </td>
 
     <td> Issuance or loan of firearms and supplies.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—CIVILIAN MARKSMANSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 40732.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs40732" data-uslm-ref="/us/usc/t36/s40732">40732.</a>  </td>
 
     <td> Sale of firearms and supplies.  </td>
 
@@ -201,15 +201,21 @@ SUBCHAPTER II—CIVILIAN MARKSMANSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 40733.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs40733" data-uslm-ref="/us/usc/t36/s40733">40733.</a>  </td>
 
     <td> Applicability of other law.  </td>
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     2006—[Pub. L. 109–364, div. A, title III, § 354(b)][/us/pl/109/364/s354/b], Oct. 17, 2006, [120 Stat. 2162][/us/stat/120/2162], added item 40728A.
 

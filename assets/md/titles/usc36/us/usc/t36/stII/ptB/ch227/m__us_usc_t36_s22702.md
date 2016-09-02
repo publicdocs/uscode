@@ -15,7 +15,7 @@
 
 ## § 22702. Purposes
 
-The purposes of the corporation are—
+    The purposes of the corporation are—
 
     (1) to preserve for ourselves and our posterity the great and basic truths and enduring principles upon which this Nation was founded;
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 20501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20501" data-uslm-ref="/us/usc/t36/s20501">20501.</a>  </td>
 
     <td> Organization.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 20502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20502" data-uslm-ref="/us/usc/t36/s20502">20502.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 20503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20503" data-uslm-ref="/us/usc/t36/s20503">20503.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 20504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20504" data-uslm-ref="/us/usc/t36/s20504">20504.</a>  </td>
 
     <td> Cooperation with the military.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 20505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20505" data-uslm-ref="/us/usc/t36/s20505">20505.</a>  </td>
 
     <td> Annual meeting.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 20506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20506" data-uslm-ref="/us/usc/t36/s20506">20506.</a>  </td>
 
     <td> Annual report.  </td>
 

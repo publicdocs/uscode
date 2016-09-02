@@ -15,7 +15,7 @@
 
 ## § 122. National Flag Week
 
-The President is requested to issue each year a proclamation—
+    The President is requested to issue each year a proclamation—
 
     (1) designating the week in which June 14 falls as National Flag Week; and
 

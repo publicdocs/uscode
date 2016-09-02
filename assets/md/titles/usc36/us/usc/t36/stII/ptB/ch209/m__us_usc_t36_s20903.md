@@ -15,7 +15,7 @@
 
 ## § 20903. Purposes
 
-The purposes of the corporation are as provided in the articles of incorporation and include—
+    The purposes of the corporation are as provided in the articles of incorporation and include—
 
     (1) encouraging fraternity for the common good;
 

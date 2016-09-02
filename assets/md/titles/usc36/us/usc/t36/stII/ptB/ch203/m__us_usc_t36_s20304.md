@@ -15,7 +15,7 @@
 
 ## § 20304. Powers
 
-The corporation may—
+    The corporation may—
 
     (1) adopt bylaws and regulations;
 

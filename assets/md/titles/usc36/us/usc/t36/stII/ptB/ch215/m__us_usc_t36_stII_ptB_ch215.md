@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 21501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21501" data-uslm-ref="/us/usc/t36/s21501">21501.</a>  </td>
 
     <td> Organization.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 21502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21502" data-uslm-ref="/us/usc/t36/s21502">21502.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 21503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21503" data-uslm-ref="/us/usc/t36/s21503">21503.</a>  </td>
 
     <td> Governing body.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 21504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21504" data-uslm-ref="/us/usc/t36/s21504">21504.</a>  </td>
 
     <td> Acquisition and management of property.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 21505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21505" data-uslm-ref="/us/usc/t36/s21505">21505.</a>  </td>
 
     <td> Charges for medical services.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 21506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21506" data-uslm-ref="/us/usc/t36/s21506">21506.</a>  </td>
 
     <td> Principal office.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 21507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21507" data-uslm-ref="/us/usc/t36/s21507">21507.</a>  </td>
 
     <td> Nonapplication of audit requirements.  </td>
 

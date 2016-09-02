@@ -15,7 +15,7 @@
 
 ## § 118. National Aviation Day
 
-The President may issue each year a proclamation—
+    The President may issue each year a proclamation—
 
     (1) designating August 19 as National Aviation Day;
 

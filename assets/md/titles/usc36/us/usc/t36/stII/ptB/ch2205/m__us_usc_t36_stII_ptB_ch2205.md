@@ -33,7 +33,7 @@ SUBCHAPTER I—CORPORATION  </td>
 
   <tr>
 
-    <td> 220501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs220501" data-uslm-ref="/us/usc/t36/s220501">220501.</a>  </td>
 
     <td> Short title and definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—CORPORATION  </td>
 
   <tr>
 
-    <td> 220502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs220502" data-uslm-ref="/us/usc/t36/s220502">220502.</a>  </td>
 
     <td> Organization.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—CORPORATION  </td>
 
   <tr>
 
-    <td> 220503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs220503" data-uslm-ref="/us/usc/t36/s220503">220503.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—CORPORATION  </td>
 
   <tr>
 
-    <td> 220504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs220504" data-uslm-ref="/us/usc/t36/s220504">220504.</a>  </td>
 
     <td> Membership.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—CORPORATION  </td>
 
   <tr>
 
-    <td> 220505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs220505" data-uslm-ref="/us/usc/t36/s220505">220505.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—CORPORATION  </td>
 
   <tr>
 
-    <td> 220506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs220506" data-uslm-ref="/us/usc/t36/s220506">220506.</a>  </td>
 
     <td> Exclusive right to name, seals, emblems, and badges.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—CORPORATION  </td>
 
   <tr>
 
-    <td> 220507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs220507" data-uslm-ref="/us/usc/t36/s220507">220507.</a>  </td>
 
     <td> Restrictions.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—CORPORATION  </td>
 
   <tr>
 
-    <td> 220508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs220508" data-uslm-ref="/us/usc/t36/s220508">220508.</a>  </td>
 
     <td> Headquarters, principal office, and meetings.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—CORPORATION  </td>
 
   <tr>
 
-    <td> 220509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs220509" data-uslm-ref="/us/usc/t36/s220509">220509.</a>  </td>
 
     <td> Resolution of disputes.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—CORPORATION  </td>
 
   <tr>
 
-    <td> 220510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs220510" data-uslm-ref="/us/usc/t36/s220510">220510.</a>  </td>
 
     <td> Service of process.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—CORPORATION  </td>
 
   <tr>
 
-    <td> 220511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs220511" data-uslm-ref="/us/usc/t36/s220511">220511.</a>  </td>
 
     <td> Report.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—CORPORATION  </td>
 
   <tr>
 
-    <td> 220512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs220512" data-uslm-ref="/us/usc/t36/s220512">220512.</a>  </td>
 
     <td> Complete teams.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—NATIONAL GOVERNING BODIES  </td>
 
   <tr>
 
-    <td> 220521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs220521" data-uslm-ref="/us/usc/t36/s220521">220521.</a>  </td>
 
     <td> Recognition of amateur sports organizations as national governing bodies.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—NATIONAL GOVERNING BODIES  </td>
 
   <tr>
 
-    <td> 220522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs220522" data-uslm-ref="/us/usc/t36/s220522">220522.</a>  </td>
 
     <td> Eligibility requirements.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—NATIONAL GOVERNING BODIES  </td>
 
   <tr>
 
-    <td> 220523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs220523" data-uslm-ref="/us/usc/t36/s220523">220523.</a>  </td>
 
     <td> Authority of national governing bodies.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—NATIONAL GOVERNING BODIES  </td>
 
   <tr>
 
-    <td> 220524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs220524" data-uslm-ref="/us/usc/t36/s220524">220524.</a>  </td>
 
     <td> General duties of national governing bodies.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—NATIONAL GOVERNING BODIES  </td>
 
   <tr>
 
-    <td> 220525.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs220525" data-uslm-ref="/us/usc/t36/s220525">220525.</a>  </td>
 
     <td> Granting sanctions for amateur athletic competitions.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—NATIONAL GOVERNING BODIES  </td>
 
   <tr>
 
-    <td> 220526.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs220526" data-uslm-ref="/us/usc/t36/s220526">220526.</a>  </td>
 
     <td> Restricted amateur athletic competitions.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—NATIONAL GOVERNING BODIES  </td>
 
   <tr>
 
-    <td> 220527.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs220527" data-uslm-ref="/us/usc/t36/s220527">220527.</a>  </td>
 
     <td> Complaints against national governing bodies.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—NATIONAL GOVERNING BODIES  </td>
 
   <tr>
 
-    <td> 220528.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs220528" data-uslm-ref="/us/usc/t36/s220528">220528.</a>  </td>
 
     <td> Applications to replace an incumbent national governing body.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—NATIONAL GOVERNING BODIES  </td>
 
   <tr>
 
-    <td> 220529.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs220529" data-uslm-ref="/us/usc/t36/s220529">220529.</a>  </td>
 
     <td> Arbitration of corporation determinations.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 153101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs153101" data-uslm-ref="/us/usc/t36/s153101">153101.</a>  </td>
 
     <td> Organization.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 153102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs153102" data-uslm-ref="/us/usc/t36/s153102">153102.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 153103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs153103" data-uslm-ref="/us/usc/t36/s153103">153103.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 153104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs153104" data-uslm-ref="/us/usc/t36/s153104">153104.</a>  </td>
 
     <td> Exclusive right to name, seals, emblems, and badges.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 153105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs153105" data-uslm-ref="/us/usc/t36/s153105">153105.</a>  </td>
 
     <td> Principal office.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 153106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs153106" data-uslm-ref="/us/usc/t36/s153106">153106.</a>  </td>
 
     <td> Deposit of historical material in Smithsonian Institution.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 153107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs153107" data-uslm-ref="/us/usc/t36/s153107">153107.</a>  </td>
 
     <td> Annual report.  </td>
 

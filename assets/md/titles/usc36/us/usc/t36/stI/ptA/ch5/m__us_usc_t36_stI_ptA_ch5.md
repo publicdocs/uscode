@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs501" data-uslm-ref="/us/usc/t36/s501">501.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs502" data-uslm-ref="/us/usc/t36/s502">502.</a>  </td>
 
     <td> Regulations, licenses, and registration tags.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs503" data-uslm-ref="/us/usc/t36/s503">503.</a>  </td>
 
     <td> Use of reservations, grounds, and public spaces.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs504" data-uslm-ref="/us/usc/t36/s504">504.</a>  </td>
 
     <td> Installation and removal of electrical facilities.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs505" data-uslm-ref="/us/usc/t36/s505">505.</a>  </td>
 
     <td> Extension of wires along parade routes.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs506" data-uslm-ref="/us/usc/t36/s506">506.</a>  </td>
 
     <td> Duration of regulations and licenses and publication of regulations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs507" data-uslm-ref="/us/usc/t36/s507">507.</a>  </td>
 
     <td> Application to other property.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs508" data-uslm-ref="/us/usc/t36/s508">508.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs509" data-uslm-ref="/us/usc/t36/s509">509.</a>  </td>
 
     <td> Penalty.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs510" data-uslm-ref="/us/usc/t36/s510">510.</a>  </td>
 
     <td> Disclosure of and prohibition on certain donations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs511" data-uslm-ref="/us/usc/t36/s511">511.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

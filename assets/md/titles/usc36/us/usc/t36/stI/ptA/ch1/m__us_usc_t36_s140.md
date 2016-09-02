@@ -15,7 +15,7 @@
 
 ## § 140. Stephen Foster Memorial Day
 
-The President may issue each year a proclamation—
+    The President may issue each year a proclamation—
 
     (1) designating January 13 as Stephen Foster Memorial Day; and
 

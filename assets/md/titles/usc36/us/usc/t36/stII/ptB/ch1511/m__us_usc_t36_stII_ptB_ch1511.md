@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 151101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs151101" data-uslm-ref="/us/usc/t36/s151101">151101.</a>  </td>
 
     <td> Organization.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 151102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs151102" data-uslm-ref="/us/usc/t36/s151102">151102.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 151103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs151103" data-uslm-ref="/us/usc/t36/s151103">151103.</a>  </td>
 
     <td> Membership.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 151104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs151104" data-uslm-ref="/us/usc/t36/s151104">151104.</a>  </td>
 
     <td> Governing body.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 151105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs151105" data-uslm-ref="/us/usc/t36/s151105">151105.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 151106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs151106" data-uslm-ref="/us/usc/t36/s151106">151106.</a>  </td>
 
     <td> Tax exemption.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 151107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs151107" data-uslm-ref="/us/usc/t36/s151107">151107.</a>  </td>
 
     <td> Principal office.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 151108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs151108" data-uslm-ref="/us/usc/t36/s151108">151108.</a>  </td>
 
     <td> Nonapplication of audit requirements.  </td>
 

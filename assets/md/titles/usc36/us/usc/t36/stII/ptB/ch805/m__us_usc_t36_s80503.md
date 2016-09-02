@@ -15,7 +15,7 @@
 
 ## § 80503. Purposes
 
-The purposes of the corporation are—
+    The purposes of the corporation are—
 
     (1) to operate in the public interest, as a nonpartisan and nonprofit organization, solely for patriotic, charitable, literary, educational, scientific, or civic improvement purposes; and
 

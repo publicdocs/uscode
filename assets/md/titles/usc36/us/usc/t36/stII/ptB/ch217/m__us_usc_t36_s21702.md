@@ -15,7 +15,7 @@
 
 ## § 21702. Purposes
 
-The purposes of the corporation are—
+    The purposes of the corporation are—
 
     (1) to uphold and defend the Constitution of the United States;
 

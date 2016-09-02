@@ -557,7 +557,9 @@ May 11, 1950, ch. 182, 64 Stat. 158.  </td>
 
 >     “(c) __Compensation.—__ 
 
->     The Executive Director and White House Liaison may be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code, for each day (including travel time) during which the Executive Director and White House Liaison is engaged in the performance of the duties of the Commission.    “\[SEC. 11. Repealed. [Pub. L. 110–161, div. H, title I, § 1502(e)][/us/pl/110/161/s1502/e], Dec. 26, 2007, [121 Stat. 2250][/us/stat/121/2250].\]
+>     The Executive Director and White House Liaison may be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code, for each day (including travel time) during which the Executive Director and White House Liaison is engaged in the performance of the duties of the Commission.
+
+> “\[SEC. 11. Repealed. [Pub. L. 110–161, div. H, title I, § 1502(e)][/us/pl/110/161/s1502/e], Dec. 26, 2007, [121 Stat. 2250][/us/stat/121/2250].\]
 
 > “SEC. 12. __AUTHORIZATION OF APPROPRIATIONS.__ 
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 20701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20701" data-uslm-ref="/us/usc/t36/s20701">20701.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 20702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20702" data-uslm-ref="/us/usc/t36/s20702">20702.</a>  </td>
 
     <td> Organization.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 20703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20703" data-uslm-ref="/us/usc/t36/s20703">20703.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 20704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20704" data-uslm-ref="/us/usc/t36/s20704">20704.</a>  </td>
 
     <td> Membership.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 20705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20705" data-uslm-ref="/us/usc/t36/s20705">20705.</a>  </td>
 
     <td> Governing body.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 20706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20706" data-uslm-ref="/us/usc/t36/s20706">20706.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 20707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20707" data-uslm-ref="/us/usc/t36/s20707">20707.</a>  </td>
 
     <td> Restrictions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 20708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20708" data-uslm-ref="/us/usc/t36/s20708">20708.</a>  </td>
 
     <td> Duty to maintain tax-exempt status.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 20709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20709" data-uslm-ref="/us/usc/t36/s20709">20709.</a>  </td>
 
     <td> Records and inspection.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 20710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20710" data-uslm-ref="/us/usc/t36/s20710">20710.</a>  </td>
 
     <td> Service of process.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 20711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20711" data-uslm-ref="/us/usc/t36/s20711">20711.</a>  </td>
 
     <td> Liability for acts of officers and agents.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 20712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs20712" data-uslm-ref="/us/usc/t36/s20712">20712.</a>  </td>
 
     <td> Annual report.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 30102. Purposes
 
-The purposes of the corporation are—
+    The purposes of the corporation are—
 
     (1) to assist individuals throughout the United States in solving their social and economic problems and in their health and educational and character development;
 

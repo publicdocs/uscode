@@ -15,7 +15,7 @@
 
 ## § 70702. Purposes
 
-The purposes of the corporation are—
+    The purposes of the corporation are—
 
     (1) to preserve to posterity the memory of the life and character of the late Frederick Douglass; and
 

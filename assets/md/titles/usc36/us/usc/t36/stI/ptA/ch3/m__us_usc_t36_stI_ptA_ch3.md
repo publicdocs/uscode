@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t36/stI/ptA/ch1/m__us_usc_t36_s144.md) | [Next](./../../../../../..//us/usc/t36/stI/ptA/ch3/m__us_usc_t36_s301.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2FstI%2FptA%2Fch3)
 
-#### CHAPTER 3—NATIONAL ANTHEM, MOTTO, FLORAL EMBLEM 1 MARCH, AND TREE
+#### CHAPTER 3—NATIONAL ANTHEM, MOTTO, FLORAL EMBLEM  <sup>\[1\]</sup>  <sup><sup> 1 So in original. A comma probably should follow “EMBLEM”. </sup></sup>  MARCH, AND TREE
 
 <table>
 
@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs301" data-uslm-ref="/us/usc/t36/s301">301.</a>  </td>
 
     <td> National anthem.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs302" data-uslm-ref="/us/usc/t36/s302">302.</a>  </td>
 
     <td> National motto.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs303" data-uslm-ref="/us/usc/t36/s303">303.</a>  </td>
 
     <td> National floral emblem.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs304" data-uslm-ref="/us/usc/t36/s304">304.</a>  </td>
 
     <td> National march.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs305" data-uslm-ref="/us/usc/t36/s305">305.</a>  </td>
 
     <td> National tree.  </td>
 

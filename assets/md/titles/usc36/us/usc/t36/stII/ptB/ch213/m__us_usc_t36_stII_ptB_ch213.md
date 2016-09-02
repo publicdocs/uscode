@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 21301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21301" data-uslm-ref="/us/usc/t36/s21301">21301.</a>  </td>
 
     <td> Organization.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 21302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21302" data-uslm-ref="/us/usc/t36/s21302">21302.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 21303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21303" data-uslm-ref="/us/usc/t36/s21303">21303.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 21304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21304" data-uslm-ref="/us/usc/t36/s21304">21304.</a>  </td>
 
     <td> Annual meeting.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 21305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21305" data-uslm-ref="/us/usc/t36/s21305">21305.</a>  </td>
 
     <td> Principal office.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 21306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21306" data-uslm-ref="/us/usc/t36/s21306">21306.</a>  </td>
 
     <td> Historical collections.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 21307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21307" data-uslm-ref="/us/usc/t36/s21307">21307.</a>  </td>
 
     <td> Annual report.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 108. Constitution Week
 
-The President is requested to issue each year a proclamation—
+    The President is requested to issue each year a proclamation—
 
     (1) designating September 17 through September 23 as Constitution Week; and
 

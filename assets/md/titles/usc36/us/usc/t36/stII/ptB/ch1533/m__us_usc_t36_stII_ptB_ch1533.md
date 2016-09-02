@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 153301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs153301" data-uslm-ref="/us/usc/t36/s153301">153301.</a>  </td>
 
     <td> Organization.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 153302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs153302" data-uslm-ref="/us/usc/t36/s153302">153302.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 153303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs153303" data-uslm-ref="/us/usc/t36/s153303">153303.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 153304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs153304" data-uslm-ref="/us/usc/t36/s153304">153304.</a>  </td>
 
     <td> Trustees.  </td>
 

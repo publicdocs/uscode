@@ -15,7 +15,7 @@
 
 ## § 22302. Purposes
 
-The purposes of the corporation are—
+    The purposes of the corporation are—
 
     (1) to serve as a coordinating, research, and educational agency and clearinghouse for symphony orchestras to help strengthen the work in their local communities;
 

@@ -37,51 +37,51 @@ Part A—Observances and Ceremonies  </td>
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2FstI%2FptA%2Fch1" data-uslm-ref="/us/usc/t36/stI/ptA/ch1">1.</a>  </td>
 
     <td> Patriotic and National Observances  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs101" data-uslm-ref="/us/usc/t36/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2FstI%2FptA%2Fch3" data-uslm-ref="/us/usc/t36/stI/ptA/ch3">3.</a>  </td>
 
     <td> National Anthem, Motto, Floral Emblem March, and Tree  </td>
 
-    <td> 301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs301" data-uslm-ref="/us/usc/t36/s301">301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2FstI%2FptA%2Fch5" data-uslm-ref="/us/usc/t36/stI/ptA/ch5">5.</a>  </td>
 
     <td> Presidential Inaugural Ceremonies  </td>
 
-    <td> 501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs501" data-uslm-ref="/us/usc/t36/s501">501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2FstI%2FptA%2Fch7" data-uslm-ref="/us/usc/t36/stI/ptA/ch7">7.</a>  </td>
 
     <td> Federal Participation in Carl Garner Federal Lands Cleanup Day  </td>
 
-    <td> 701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs701" data-uslm-ref="/us/usc/t36/s701">701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2FstI%2FptA%2Fch9" data-uslm-ref="/us/usc/t36/stI/ptA/ch9">9.</a>  </td>
 
     <td> Miscellaneous  </td>
 
-    <td> 901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs901" data-uslm-ref="/us/usc/t36/s901">901</a>  </td>
 
   </tr>
 
@@ -95,31 +95,31 @@ Part B—United States Government Organizations Involved With Observances and Ce
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2FstI%2FptB%2Fch21" data-uslm-ref="/us/usc/t36/stI/ptB/ch21">21.</a>  </td>
 
     <td> American Battle Monuments Commission  </td>
 
-    <td> 2101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs2101" data-uslm-ref="/us/usc/t36/s2101">2101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2FstI%2FptB%2Fch23" data-uslm-ref="/us/usc/t36/stI/ptB/ch23">23.</a>  </td>
 
     <td> United States Holocaust Memorial Council  </td>
 
-    <td> 2301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs2301" data-uslm-ref="/us/usc/t36/s2301">2301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 25.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2FstI%2FptB%2Fch25" data-uslm-ref="/us/usc/t36/stI/ptB/ch25">25.</a>  </td>
 
     <td> President’s Committee on Employment of People With Disabilities  </td>
 
-    <td> 2501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs2501" data-uslm-ref="/us/usc/t36/s2501">2501</a>  </td>
 
   </tr>
 

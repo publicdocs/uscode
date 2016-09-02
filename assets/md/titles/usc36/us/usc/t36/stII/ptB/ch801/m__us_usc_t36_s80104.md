@@ -15,7 +15,7 @@
 
 ## § 80104. Property
 
-The corporation may—
+    The corporation may—
 
     (1) acquire, own, lease, encumber, and transfer property as necessary to carry out the purposes of the corporation; and
 

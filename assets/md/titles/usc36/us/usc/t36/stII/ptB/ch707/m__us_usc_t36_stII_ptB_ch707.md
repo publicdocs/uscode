@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 70701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs70701" data-uslm-ref="/us/usc/t36/s70701">70701.</a>  </td>
 
     <td> Organization.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 70702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs70702" data-uslm-ref="/us/usc/t36/s70702">70702.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 70703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs70703" data-uslm-ref="/us/usc/t36/s70703">70703.</a>  </td>
 
     <td> Governing body.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 70704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs70704" data-uslm-ref="/us/usc/t36/s70704">70704.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 70705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs70705" data-uslm-ref="/us/usc/t36/s70705">70705.</a>  </td>
 
     <td> Management of homestead and erection of monument.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 70706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs70706" data-uslm-ref="/us/usc/t36/s70706">70706.</a>  </td>
 
     <td> Property exempt from taxation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 70707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs70707" data-uslm-ref="/us/usc/t36/s70707">70707.</a>  </td>
 
     <td> Misnomer not to affect transfer of property.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 70708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs70708" data-uslm-ref="/us/usc/t36/s70708">70708.</a>  </td>
 
     <td> Nonapplication of audit requirements.  </td>
 

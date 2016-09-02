@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 300101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs300101" data-uslm-ref="/us/usc/t36/s300101">300101.</a>  </td>
 
     <td> Organization.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 300102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs300102" data-uslm-ref="/us/usc/t36/s300102">300102.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 300103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs300103" data-uslm-ref="/us/usc/t36/s300103">300103.</a>  </td>
 
     <td> Membership and chapters.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 300104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs300104" data-uslm-ref="/us/usc/t36/s300104">300104.</a>  </td>
 
     <td> Board of governors.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 300105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs300105" data-uslm-ref="/us/usc/t36/s300105">300105.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 300106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs300106" data-uslm-ref="/us/usc/t36/s300106">300106.</a>  </td>
 
     <td> Emblem, badge, and brassard.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 300107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs300107" data-uslm-ref="/us/usc/t36/s300107">300107.</a>  </td>
 
     <td> Annual meeting.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 300108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs300108" data-uslm-ref="/us/usc/t36/s300108">300108.</a>  </td>
 
     <td> Buildings.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 300109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs300109" data-uslm-ref="/us/usc/t36/s300109">300109.</a>  </td>
 
     <td> Endowment fund.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 300110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs300110" data-uslm-ref="/us/usc/t36/s300110">300110.</a>  </td>
 
     <td> Annual report and audit.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 300111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs300111" data-uslm-ref="/us/usc/t36/s300111">300111.</a>  </td>
 
     <td> Authority of the Comptroller General of the United States.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 300112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs300112" data-uslm-ref="/us/usc/t36/s300112">300112.</a>  </td>
 
     <td> Office of the Ombudsman.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 300113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs300113" data-uslm-ref="/us/usc/t36/s300113">300113.</a>  </td>
 
     <td> Reservation of right to amend or repeal.  </td>
 

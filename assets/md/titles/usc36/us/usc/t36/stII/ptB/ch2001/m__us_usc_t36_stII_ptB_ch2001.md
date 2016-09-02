@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 200101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs200101" data-uslm-ref="/us/usc/t36/s200101">200101.</a>  </td>
 
     <td> Organization.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 200102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs200102" data-uslm-ref="/us/usc/t36/s200102">200102.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 200103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs200103" data-uslm-ref="/us/usc/t36/s200103">200103.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 200104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs200104" data-uslm-ref="/us/usc/t36/s200104">200104.</a>  </td>
 
     <td> Restrictions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 200105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs200105" data-uslm-ref="/us/usc/t36/s200105">200105.</a>  </td>
 
     <td> Principal office.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 200106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs200106" data-uslm-ref="/us/usc/t36/s200106">200106.</a>  </td>
 
     <td> Nonapplication of audit requirements.  </td>
 

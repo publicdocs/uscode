@@ -15,7 +15,7 @@
 
 ## § 30302. Purposes
 
-The purposes of the corporation are—
+    The purposes of the corporation are—
 
     (1) to operate as a not-for-profit corporation exclusively for charitable, educational, patriotic, and civic improvement purposes;
 

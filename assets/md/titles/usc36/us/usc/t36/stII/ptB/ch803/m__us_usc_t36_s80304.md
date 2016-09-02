@@ -15,7 +15,7 @@
 
 ## § 80304. Powers
 
-The corporation may—
+    The corporation may—
 
     (1) adopt and amend a constitution, bylaws, and regulations, including regulations for the election of associates and successors;
 

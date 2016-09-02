@@ -15,7 +15,7 @@
 
 ## § 22903. Purposes
 
-The purposes of the corporation are as provided in its articles of incorporation and include—
+    The purposes of the corporation are as provided in its articles of incorporation and include—
 
     (1) holding true allegiance to the United States Government and fidelity to its Constitution, laws, and institutions;
 

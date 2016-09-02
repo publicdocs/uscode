@@ -15,7 +15,7 @@
 
 ## § 20703. Purposes
 
-The purposes of the corporation are as provided in the articles of incorporation and include—
+    The purposes of the corporation are as provided in the articles of incorporation and include—
 
     (1) the advancement of the humanistic studies in all fields of learning; and
 

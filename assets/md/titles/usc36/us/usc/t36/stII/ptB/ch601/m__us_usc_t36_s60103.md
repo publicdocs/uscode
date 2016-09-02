@@ -15,7 +15,7 @@
 
 ## § 60103. Purposes
 
-The purposes of the corporation are as provided in the articles of incorporation and include—
+    The purposes of the corporation are as provided in the articles of incorporation and include—
 
     (1) perpetuating the memory of members of the 82nd Airborne Division who fought and died for this country;
 

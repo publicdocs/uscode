@@ -15,7 +15,7 @@
 
 ## § 21302. Purposes
 
-The purposes of the corporation are—
+    The purposes of the corporation are—
 
     (1) to promote historical studies;
 

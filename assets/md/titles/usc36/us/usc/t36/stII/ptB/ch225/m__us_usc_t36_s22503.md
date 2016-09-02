@@ -15,7 +15,7 @@
 
 ## § 22503. Membership
 
-Eligibility for membership in the corporation is limited to women—
+    Eligibility for membership in the corporation is limited to women—
 
     (1) who are citizens of the United States; and
 

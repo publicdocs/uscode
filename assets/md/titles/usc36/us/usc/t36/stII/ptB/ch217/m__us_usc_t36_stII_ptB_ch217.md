@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 21701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21701" data-uslm-ref="/us/usc/t36/s21701">21701.</a>  </td>
 
     <td> Organization.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 21702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21702" data-uslm-ref="/us/usc/t36/s21702">21702.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 21703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21703" data-uslm-ref="/us/usc/t36/s21703">21703.</a>  </td>
 
     <td> Membership.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 21704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21704" data-uslm-ref="/us/usc/t36/s21704">21704.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 21705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21705" data-uslm-ref="/us/usc/t36/s21705">21705.</a>  </td>
 
     <td> Exclusive right to name, emblems, and badges.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 21706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21706" data-uslm-ref="/us/usc/t36/s21706">21706.</a>  </td>
 
     <td> Political activities.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 21707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21707" data-uslm-ref="/us/usc/t36/s21707">21707.</a>  </td>
 
     <td> Service of process.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 21708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs21708" data-uslm-ref="/us/usc/t36/s21708">21708.</a>  </td>
 
     <td> Annual report.  </td>
 

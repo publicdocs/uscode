@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs901" data-uslm-ref="/us/usc/t36/s901">901.</a>  </td>
 
     <td> Service flag and service lapel button.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs902" data-uslm-ref="/us/usc/t36/s902">902.</a>  </td>
 
     <td> National League of Families POW/MIA flag.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs903" data-uslm-ref="/us/usc/t36/s903">903.</a>  </td>
 
     <td> Designation of Medal of Honor Flag.  </td>
 

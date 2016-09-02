@@ -15,7 +15,7 @@
 
 ## § 21703. Membership
 
-An individual is eligible for membership in the corporation only if the individual—
+    An individual is eligible for membership in the corporation only if the individual—
 
     (1)
 

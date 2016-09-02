@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs2301" data-uslm-ref="/us/usc/t36/s2301">2301.</a>  </td>
 
     <td> Establishment of the United States Holocaust Memorial Museum; functions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs2302" data-uslm-ref="/us/usc/t36/s2302">2302.</a>  </td>
 
     <td> Functions of the Council; membership.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs2303" data-uslm-ref="/us/usc/t36/s2303">2303.</a>  </td>
 
     <td> Compensation; travel expenses; full-time officers or employees of United States or Members of Congress.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs2304" data-uslm-ref="/us/usc/t36/s2304">2304.</a>  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs2305" data-uslm-ref="/us/usc/t36/s2305">2305.</a>  </td>
 
     <td> Staff.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs2306" data-uslm-ref="/us/usc/t36/s2306">2306.</a>  </td>
 
     <td> Insurance for Museum.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs2307" data-uslm-ref="/us/usc/t36/s2307">2307.</a>  </td>
 
     <td> Gifts, bequests, and devises of property; tax treatment.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs2308" data-uslm-ref="/us/usc/t36/s2308">2308.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs2309" data-uslm-ref="/us/usc/t36/s2309">2309.</a>  </td>
 
     <td> Audit of financial transactions.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs2310" data-uslm-ref="/us/usc/t36/s2310">2310.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

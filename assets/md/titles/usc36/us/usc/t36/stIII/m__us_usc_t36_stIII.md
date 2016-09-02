@@ -29,11 +29,11 @@
 
   <tr>
 
-    <td> 3001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2FstIII%2Fch3001" data-uslm-ref="/us/usc/t36/stIII/ch3001">3001.</a>  </td>
 
     <td> The American National Red Cross  </td>
 
-    <td> 300101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft36%2Fs300101" data-uslm-ref="/us/usc/t36/s300101">300101</a>  </td>
 
   </tr>
 

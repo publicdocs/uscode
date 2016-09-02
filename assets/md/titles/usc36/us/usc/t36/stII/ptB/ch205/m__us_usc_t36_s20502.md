@@ -15,7 +15,7 @@
 
 ## § 20502. Purposes
 
-The purposes of the corporation are—
+    The purposes of the corporation are—
 
     (1) to encourage in the broadest and most liberal manner the advancement of chemistry in all its branches;
 

@@ -15,7 +15,7 @@
 
 ## § 40502. Purposes
 
-The purposes of the corporation are—
+    The purposes of the corporation are—
 
     (1) to form a bond of friendship and comradeship among all holders of the Medal of Honor as presented by Congress;
 

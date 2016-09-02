@@ -15,7 +15,7 @@
 
 ## § 40722. Functions
 
-The functions of the Civilian Marksmanship Program are—
+    The functions of the Civilian Marksmanship Program are—
 
     (1) to instruct citizens of the United States in marksmanship;
 

@@ -15,7 +15,7 @@
 
 ## § 40302. Purposes
 
-The purposes of the corporation are as follows:
+    The purposes of the corporation are as follows:
 
     (1)
 

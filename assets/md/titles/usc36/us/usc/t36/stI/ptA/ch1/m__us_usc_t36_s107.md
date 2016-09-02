@@ -15,7 +15,7 @@
 
 ## § 107. Columbus Day
 
-The President is requested to issue each year a proclamation—
+    The President is requested to issue each year a proclamation—
 
     (1) designating the second Monday in October as Columbus Day;
 

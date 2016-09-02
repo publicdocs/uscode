@@ -15,7 +15,7 @@
 
 ## § 30503. Purposes
 
-The purposes of the corporation are patriotic, educational, social, and for service, and include—
+    The purposes of the corporation are patriotic, educational, social, and for service, and include—
 
     (1) perpetuating the Blue Star Mothers of America, Inc., and the memory of all the men and women who have served our country as members of the Armed Forces;
 
