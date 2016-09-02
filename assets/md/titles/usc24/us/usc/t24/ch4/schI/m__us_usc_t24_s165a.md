@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 98–139, title II][/us/pl/98/139], Oct. 31, 1983, [97 Stat. 881][/us/stat/97/881], provided that superintendent of Saint Elizabeths Hospital may reside off premises of hospital, notwithstanding [section 165 of this title][/us/usc/t24/s165].
+    Section, [Pub. L. 98–139, title II][/us/pl/98/139], Oct. 31, 1983, [97 Stat. 881][/us/stat/97/881], which provided that during fiscal year 1984 and thereafter the superintendent of Saint Elizabeths Hospital could reside off the premises of the hospital, notwithstanding former [section 165 of this title][/us/usc/t24/s165], was omitted in light of the transfer of Saint Elizabeths Hospital to the District of Columbia on Oct. 1, 1987, by [Pub. L. 98–621][/us/pl/98/621], Nov. 8, 1984, [98 Stat. 3369][/us/stat/98/3369], which is classified principally to subchapter III (§ 225 et seq.) of this chapter.
 
 ----------
 
@@ -29,5 +29,7 @@
 [/us/pl/98/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F139
 [/us/stat/97/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F881
 [/us/usc/t24/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs165
+[/us/pl/98/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621
+[/us/stat/98/3369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3369
 
 

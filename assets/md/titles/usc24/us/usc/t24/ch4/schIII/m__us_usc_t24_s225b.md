@@ -119,7 +119,7 @@
 
 [Pub. L. 109–396, title I, § 102][/us/pl/109/396/s102], Dec. 15, 2006, [120 Stat. 2712][/us/stat/120/2712], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, the United States is not required to perform, or to reimburse the District of Columbia for the cost of performing, any of the following services:
 
@@ -129,7 +129,7 @@
 
 >         “(3) Mental health diagnostic and treatment services for referrals as described in section 9(b) of the Saint Elizabeths Hospital and District of Columbia Mental Health Services Act ([24 U.S.C. 225g(b)][/us/usc/t24/s225g/b]; sec. 44–908(b), D.C. Official Code), but only with respect to services provided on or before the date of the enactment of this Act \[Dec. 15, 2006\].
 
->     “(b) __Effect on Pending Claims.—__ 
+>     “(b)  __Effect on Pending Claims__  __.—__ 
 
 >     Any claim of the District of Columbia against the United States for the failure to perform, or to reimburse the District of Columbia for the cost of performing, any service described in subsection (a) which is pending as of the date of the enactment of this Act shall be extinguished and terminated.”
 
