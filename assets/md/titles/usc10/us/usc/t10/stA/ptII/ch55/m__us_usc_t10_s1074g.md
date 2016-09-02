@@ -67,7 +67,7 @@
 
                  With respect to each supply of a prescription covering not more than 30 days that is obtained by a covered beneficiary under the TRICARE retail pharmacy program—
 
-                    (I) in the case of generic agents, $8;
+                    (I) in the case of generic agents, $8;  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “and”. </sup></sup> 
 
                     (II) in the case of formulary agents, $20.
 
@@ -253,7 +253,7 @@
 
     Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
- __Pilot Program on Medication Therapy Management Under Tricare Program__ 
+ __Pilot Program on Medication Therapy Management Under TRICARE Program__ 
 
 [Pub. L. 113–291, div. A, title VII, § 726][/us/pl/113/291/s726], Dec. 19, 2014, [128 Stat. 3419][/us/stat/128/3419], provided that:
 

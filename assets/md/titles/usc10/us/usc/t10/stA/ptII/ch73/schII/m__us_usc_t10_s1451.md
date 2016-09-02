@@ -19,7 +19,7 @@
 
         (1)  __Standard annuity__  __.—__ 
 
-        In the case of a standard annuity provided to a beneficiary under [section 1450(a) of this title][/us/usc/t10/s1450/a] (other than under section 1450(a)(4)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> ), the monthly annuity payable to the beneficiary shall be determined as follows:
+        In the case of a standard annuity provided to a beneficiary under [section 1450(a) of this title][/us/usc/t10/s1450/a] (other than under section 1450(a)(4)), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the monthly annuity payable to the beneficiary shall be determined as follows:
 
             (A)  __Beneficiary under 62 years of age__  __.—__ 
 
@@ -47,7 +47,7 @@
 
         (2)  __Reserve-component annuity__  __.—__ 
 
-        In the case of a reserve-component annuity provided to a beneficiary under [section 1450(a) of this title][/us/usc/t10/s1450/a] (other than under section 1450(a)(4) 1), the monthly annuity payable to the beneficiary shall be determined as follows:
+        In the case of a reserve-component annuity provided to a beneficiary under [section 1450(a) of this title][/us/usc/t10/s1450/a] (other than under section 1450(a)(4)),1 the monthly annuity payable to the beneficiary shall be determined as follows:
 
             (A)  __Beneficiary under 62 years of age__  __.—__ 
 

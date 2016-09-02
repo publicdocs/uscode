@@ -169,7 +169,7 @@ July 26, 1947, ch. 343, § 203(a); added Aug. 10, 1949, ch. 412, § 6(a) (1s
 
 >     “(D) The Deputy Chief Management Officer shall perform the duties and have the authorities assigned by the Secretary under subparagraph (C) and perform such duties and have such authorities as are delegated by the Chief Management Officer.”
 
-    \[Reference to the Deputy Chief Management Officer of the Department of Defense deemed to refer to the Under Secretary of Defense for Business Management and Information, effective after Feb. 1, 2017, see [section 901(n)(1) of Pub. L. 113–291][/us/pl/113/291/s901/n/1], set out as a note under [section 131 of this title][/us/usc/t10/s131].\]
+    \[[Pub. L. 113–291, div. A, title IX, § 901(n)(1)][/us/pl/113/291/s901/n/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See [section 901(n)(1) of Pub. L. 113–291][/us/pl/113/291/s901/n/1], set out as a References note under [section 131 of this title][/us/usc/t10/s131].\]
 
  __Assignment of Management Duties and Designation of the Chief Management Officers of the Military Departments__ 
 
@@ -183,7 +183,7 @@ July 26, 1947, ch. 343, § 203(a); added Aug. 10, 1949, ch. 412, § 6(a) (1s
 
 >     “(4) The Chief Management Officer of each military department shall promptly provide such information relating to the business operations of such department to the Chief Management Officer and Deputy Chief Management Officer of the Department of Defense as is necessary to assist those officials in the performance of their duties.”
 
-    \[Reference to the Deputy Chief Management Officer of the Department of Defense deemed to refer to the Under Secretary of Defense for Business Management and Information, effective after Feb. 1, 2017, see [section 901(n)(1) of Pub. L. 113–291][/us/pl/113/291/s901/n/1], set out as a note under [section 131 of this title][/us/usc/t10/s131].\]
+    \[[Pub. L. 113–291, div. A, title IX, § 901(n)(1)][/us/pl/113/291/s901/n/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See [section 901(n)(1) of Pub. L. 113–291][/us/pl/113/291/s901/n/1], set out as a References note under [section 131 of this title][/us/usc/t10/s131].\]
 
 ----------
 
@@ -250,9 +250,13 @@ July 26, 1947, ch. 343, § 203(a); added Aug. 10, 1949, ch. 412, § 6(a) (1s
 [/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
 [/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
 [/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
+[/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
+[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
 [/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
 [/us/pl/110/181/s904/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs904%2Fb
 [/us/stat/122/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F274
+[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
+[/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
 [/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
 [/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
 [/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1

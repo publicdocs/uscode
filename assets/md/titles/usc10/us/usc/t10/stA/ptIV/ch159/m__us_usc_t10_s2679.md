@@ -17,7 +17,7 @@
 
     (a)  __In General__  __.—__ 
 
-        (1) Notwithstanding any other provision of law governing the award of Federal government contracts for goods and services, the Secretary concerned may enter into an intergovernmental support agreement with, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  on a sole source basis, with a State or local government to provide, receive, or share installation-support services if the Secretary determines that the agreement will serve the best interests of the department by enhancing mission effectiveness or creating efficiencies or economies of scale, including by reducing costs.
+        (1) Notwithstanding any other provision of law governing the award of Federal government  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  contracts for goods and services, the Secretary concerned may enter into an intergovernmental support agreement with, <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  on a sole source basis, with a State or local government to provide, receive, or share installation-support services if the Secretary determines that the agreement will serve the best interests of the department by enhancing mission effectiveness or creating efficiencies or economies of scale, including by reducing costs.
 
         (2)
 

@@ -65,7 +65,7 @@
 
     2001—Subsecs. (d) to (g). [Pub. L. 107–107][/us/pl/107/107] added subsecs. (d) to (g).
 
- __Improved Data Collection Related to Efforts to Reduce Underemployment of Spouses of Members of the Armed Forces and Close the Wage gap Between Military Spouses and Their Civilian Counterparts__ 
+ __Improved Data Collection Related to Efforts To Reduce Underemployment of Spouses of Members of the Armed Forces and Close the Wage Gap Between Military Spouses and Their Civilian Counterparts__ 
 
 [Pub. L. 113–291, div. A, title V, § 568][/us/pl/113/291/s568], Dec. 19, 2014, [128 Stat. 3386][/us/stat/128/3386], provided that:
 

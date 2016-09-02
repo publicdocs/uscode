@@ -107,7 +107,7 @@
 
     2014—Subsec. (a)(1)(B) to (D). [Pub. L. 113–291, § 701(b)(1)(A)][/us/pl/113/291/s701/b/1/A], added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
-    Subsec. (a)(2). [Pub. L. 113–291, § 1071(f)(13)][/us/pl/113/291/s1071/f/13], which directed substitution of “subparagraphs” for “subparagraph” in introductory provisions, could not be executed because of the prior amendment by [section 701(b)(2) of Pub. L. 113–291][/us/pl/113/291/s701/b/2]. See below.
+    Subsec. (a)(2). [Pub. L. 113–291, § 1071(f)(13)][/us/pl/113/291/s1071/f/13], which directed substitution of “subparagraphs” for “subparagraph” in introductory provisions, could not be executed because of the prior amendment by [Pub. L. 113–291, § 701(b)(2)][/us/pl/113/291/s701/b/2]. See below.
 
     [Pub. L. 113–291, § 701(b)(2)][/us/pl/113/291/s701/b/2], substituted “subparagraphs (C) and (D)” for “subparagraph (B) and (C)” in introductory provisions.
 

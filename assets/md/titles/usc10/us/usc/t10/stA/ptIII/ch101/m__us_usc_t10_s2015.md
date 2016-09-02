@@ -51,11 +51,11 @@
 
     In this section, the term “expenses” means expenses for class room instruction, hands-on training (and associated materials), manuals, study guides and materials, text books, processing fees, and test fees and related fees.
 
-(Added [Pub. L. 109–163, div. A, title V, § 538(a)][/us/pl/109/163/s538/a], Jan. 6, 2006, [119 Stat. 3250][/us/stat/119/3250];amended [Pub. L. 113–291, div. A, title V, § 551(a)][/us/pl/113/291/s551/a], Dec. 19, 2014, [128 Stat. 3376][/us/stat/128/3376].)
+(Added [Pub. L. 109–163, div. A, title V, § 538(a)][/us/pl/109/163/s538/a], Jan. 6, 2006, [119 Stat. 3250][/us/stat/119/3250]; amended [Pub. L. 113–291, div. A, title V, § 551(a)][/us/pl/113/291/s551/a], Dec. 19, 2014, [128 Stat. 3376][/us/stat/128/3376].)
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–291][/us/pl/113/291] amended section generally, substituting provision relating to program to assist members in obtaining professional credentials for provision which related to payment of expenses to obtain professional credentials.
+    2014—[Pub. L. 113–291][/us/pl/113/291] amended section generally. Prior to amendment, section related to payment of certain expenses to obtain professional credentials.
 
  __Enhancement of Mechanisms To Correlate Skills and Training for Military Occupational Specialties With Skills and Training Required for Civilian Certifications and Licenses__ 
 

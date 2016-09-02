@@ -223,7 +223,7 @@
 
  __Amendment of Section__ 
 
-    [Pub. L. 113–291, div. A, title IX, § 901(k)(3)][/us/pl/113/291/s901/k/3], Dec. 19, 2014, [128 Stat. 3468][/us/stat/128/3468], provided that, effective Feb. 1, 2017, [section 2222 of this title][/us/usc/t10/s2222] is amended—
+    [Pub. L. 113–291, div. A, title IX, § 901(k)(3)][/us/pl/113/291/s901/k/3], Dec. 19, 2014, [128 Stat. 3468][/us/stat/128/3468], provided that, effective Feb. 1, 2017, this section is amended—
 
     (1) in subsections (c)(2)(E), (f)(1)(D), (f)(1)(E), (f)(2)(E), and (g)(1), by striking “the Deputy Chief Management Officer of the Department of Defense” and inserting “the Under Secretary of Defense for Business Management and Information” wherever appearing; and
 
@@ -237,21 +237,21 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–291, § 901(d)(1)][/us/pl/113/291/s901/d/1], inserted “and” at end of par. (1), substituted period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “the certification of the investment review board under paragraph (2) has been approved by the Defense Business Systems Management Committee established by [section 186 of this title][/us/usc/t10/s186].”.
+    2014—Subsec. (a). [Pub. L. 113–291, § 901(d)(1)][/us/pl/113/291/s901/d/1], inserted “and” at end of par. (1), substituted period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “the certification of the investment review board under paragraph (2) has been approved by the Defense Business Systems Management Committee established by [section 186 of this title][/us/usc/t10/s186].”
 
     Subsec. (a)(1)(A). [Pub. L. 113–291, § 803(b)(1)][/us/pl/113/291/s803/b/1], inserted “, including business process mapping,” after “re-engineering efforts”.
 
     Subsec. (c)(1). [Pub. L. 113–291, § 901(d)(2)][/us/pl/113/291/s901/d/2], substituted “investment review board established under subsection (g)” for “Defense Business Systems Management Committee” in introductory provisions.
 
-    Subsec. (c)(2)(E). [Pub. L. 113–291, § 901(k)(3)(A)][/us/pl/113/291/s901/k/3/A], substituted “the Under Secretary of Defense for Business Management and Information” for “The Deputy Chief Management Officer of the Department of Defense”.
+    Subsec. (c)(2)(E). [Pub. L. 113–291, § 901(k)(3)(A)][/us/pl/113/291/s901/k/3/A], which directed substitution of “the Under Secretary of Defense for Business Management and Information” for “the Under Secretary of Defense for Business Management and Information”, was executed by substituting “The Under Secretary of Defense for Business Management and Information” for “The Deputy Chief Management Officer of the Department of Defense”, to reflect the probable intent of Congress.
 
-    Subsec. (f)(1)(D), (E). [Pub. L. 113–291, § 901(k)(3)(A)][/us/pl/113/291/s901/k/3/A], substituted “the Under Secretary of Defense for Business Management and Information” for “The Deputy Chief Management Officer of the Department of Defense”.
+    Subsec. (f)(1)(D), (E). [Pub. L. 113–291, § 901(k)(3)(A)][/us/pl/113/291/s901/k/3/A], substituted “the Under Secretary of Defense for Business Management and Information” for “the Deputy Chief Management Officer of the Department of Defense”.
 
-    Subsec. (f)(2)(E). [Pub. L. 113–291, § 901(k)(3)(A)][/us/pl/113/291/s901/k/3/A], substituted “the Under Secretary of Defense for Business Management and Information” for “The Deputy Chief Management Officer of the Department of Defense”.
+    Subsec. (f)(2)(E). [Pub. L. 113–291, § 901(k)(3)(A)][/us/pl/113/291/s901/k/3/A], which directed substitution of “the Under Secretary of Defense for Business Management and Information” for “the Under Secretary of Defense for Business Management and Information”, was executed by substituting “The Under Secretary of Defense for Business Management and Information” for “The Deputy Chief Management Officer of the Department of Defense”, to reflect the probable intent of Congress.
 
-    Subsec. (g)(1). [Pub. L. 113–291, § 901(k)(3)(A)][/us/pl/113/291/s901/k/3/A], substituted “the Under Secretary of Defense for Business Management and Information” for “The Deputy Chief Management Officer of the Department of Defense”.
+    Subsec. (g)(1). [Pub. L. 113–291, § 901(k)(3)(A)][/us/pl/113/291/s901/k/3/A], substituted “the Under Secretary of Defense for Business Management and Information” for “the Deputy Chief Management Officer of the Department of Defense”.
 
-    [Pub. L. 113–291, § 901(d)(3)(A)][/us/pl/113/291/s901/d/3/A], struck out “, not later than March 15, 2012,” after “Department of Defense”.
+    [Pub. L. 113–291, § 901(d)(3)(A)][/us/pl/113/291/s901/d/3/A], struck out “, not later than March 15, 2012,” before “to establish an investment review board”.
 
     Subsec. (g)(2)(C). [Pub. L. 113–291, § 901(d)(3)(B)][/us/pl/113/291/s901/d/3/B], substituted “the investment review” for “each investment review” in introductory provisions.
 
@@ -259,7 +259,7 @@
 
     Subsec. (g)(3). [Pub. L. 113–291, § 1071(f)(16)][/us/pl/113/291/s1071/f/16], struck out “(A)” after “(3)”.
 
-    [Pub. L. 113–291, § 901(k)(3)(B)][/us/pl/113/291/s901/k/3/B], which directed substitution of “Under Secretary of Defense for Business Management and Information” for “Deputy Chief Management Officer” first time appearing and “Under Secretary” for “Deputy Chief Management Officer” in three places in subsec. (g)(3)(A), was executed by making the substitution in subsec. (g)(3), to reflect the probable intent of Congress and the amendment by [section 1071(f)(16) of Pub. L. 113–291][/us/pl/113/291/s1071/f/16]. See above.
+    [Pub. L. 113–291, § 901(k)(3)(B)][/us/pl/113/291/s901/k/3/B], which directed substitution of “Under Secretary of Defense for Business Management and Information” for “Deputy Chief Management Officer” the first time appearing and “Under Secretary” for “Deputy Chief Management Officer” in the three other places appearing in subsec. (g)(3)(A) (effective Feb. 1, 2017), was executed by making the substitution in subsec. (g)(3), to reflect the probable intent of Congress and the amendment by [section 1071(f)(16) of Pub. L. 113–291][/us/pl/113/291/s1071/f/16] (effective Dec. 19, 2014). See above.
 
     Subsec. (j)(1). [Pub. L. 113–291, § 803(a)][/us/pl/113/291/s803/a], designated existing provisions as subpar. (A), struck out “, other than a national security system,” after “information system”, and added subpar. (B).
 
@@ -329,7 +329,7 @@
 
 >     The Deputy Chief Management Officer of the Department of Defense shall include a report on the results of the review under this section in the next update of the strategic management plan transmitted to the Committees on Armed Services of the Senate and the House of Representatives under section 904(d) of the National Defense Authorization Act for Fiscal Year 2008 ([Public Law 110–181][/us/pl/110/181]; [122 Stat. 275][/us/stat/122/275]; 10 U.S.C. note prec. 2201) after the completion of the review.”
 
-    \[Any reference to the “Deputy Chief Management Officer of the Department of Defense” deemed to refer to the “Under Secretary of Defense for Business Management and Information”, effective Feb. 1, 2017, see [section 901(n) of Pub. L. 113–291][/us/pl/113/291/s901/n], set out as a note under [section 131 of this title][/us/usc/t10/s131].\]
+    \[[Pub. L. 113–291, div. A, title IX, § 901(n)(1)][/us/pl/113/291/s901/n/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See [section 901(n)(1) of Pub. L. 113–291][/us/pl/113/291/s901/n/1], set out as a References note under [section 131 of this title][/us/usc/t10/s131].\]
 
  __Audit Readiness of Financial Statements of the Department of Defense__ 
 
@@ -397,7 +397,7 @@
 
 >             “(D) provide timeframes for implementation of such measures.”
 
-    \[Any reference to the “Deputy Chief Management Officer of the Department of Defense” deemed to refer to the “Under Secretary of Defense for Business Management and Information”, effective Feb. 1, 2017, see [section 901(n) of Pub. L. 113–291][/us/pl/113/291/s901/n], set out as a note under [section 131 of this title][/us/usc/t10/s131].\]
+    \[[Pub. L. 113–291, div. A, title IX, § 901(n)(1)][/us/pl/113/291/s901/n/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See [section 901(n)(1) of Pub. L. 113–291][/us/pl/113/291/s901/n/1], set out as a References note under [section 131 of this title][/us/usc/t10/s131].\]
 
 [Pub. L. 111–383, div. A, title VIII, § 881][/us/pl/111/383/s881], Jan. 7, 2011, [124 Stat. 4306][/us/stat/124/4306], as amended by [Pub. L. 113–291, div. A, title IX, § 901(n)(1)][/us/pl/113/291/s901/n/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that:
 
@@ -491,7 +491,7 @@
 
 >             “(B) a recommendation on whether such option should be adopted, a schedule for implementing the option if adoption is recommended, or a reason for not recommending the option if adoption is not recommended.”
 
-    \[Any reference to the “Deputy Chief Management Officer of the Department of Defense” deemed to refer to the “Under Secretary of Defense for Business Management and Information”, effective Feb. 1, 2017, see [section 901(n) of Pub. L. 113–291][/us/pl/113/291/s901/n], set out as a note under [section 131 of this title][/us/usc/t10/s131].\]
+    \[[Pub. L. 113–291, div. A, title IX, § 901(n)(1)][/us/pl/113/291/s901/n/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See [section 901(n)(1) of Pub. L. 113–291][/us/pl/113/291/s901/n/1], set out as a References note under [section 131 of this title][/us/usc/t10/s131].\]
 
 [Pub. L. 111–84, div. A, title X, § 1003][/us/pl/111/84/s1003], Oct. 28, 2009, [123 Stat. 2439][/us/stat/123/2439], as amended by [Pub. L. 112–239, div. A, title X, § 1005(a)][/us/pl/112/239/s1005/a], Jan. 2, 2013, [126 Stat. 1904][/us/stat/126/1904]; [Pub. L. 113–66, div. A, title X, § 1003(b)][/us/pl/113/66/s1003/b], Dec. 26, 2013, [127 Stat. 842][/us/stat/127/842], provided that:
 
@@ -834,7 +834,6 @@
 [/us/stat/128/3427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3427
 [/us/pl/113/291/s901/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fk%2F3
 [/us/stat/128/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3468
-[/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
 [/us/pl/105/85/s1008/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1008%2Fa%2F1
 [/us/stat/111/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1870
 [/us/pl/107/107/s1009/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1009%2Fb%2F1
@@ -889,7 +888,9 @@
 [/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/stat/122/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F275
-[/us/pl/113/291/s901/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn
+[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
+[/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
+[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
 [/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
 [/us/pl/112/239/s1005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1005%2Fb
 [/us/stat/126/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1904
@@ -912,7 +913,9 @@
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/stat/121/4306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F4306
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
-[/us/pl/113/291/s901/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn
+[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
+[/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
+[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
 [/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
 [/us/pl/111/383/s881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs881
 [/us/stat/124/4306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4306
@@ -936,7 +939,9 @@
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/stat/123/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2439
 [/us/usc/t10/s2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2222
-[/us/pl/113/291/s901/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn
+[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
+[/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
+[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
 [/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
 [/us/pl/111/84/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1003
 [/us/stat/123/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2439

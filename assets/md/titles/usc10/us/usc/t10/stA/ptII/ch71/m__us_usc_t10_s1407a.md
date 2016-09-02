@@ -19,7 +19,7 @@
 
     Except as otherwise provided in this section, in a case in which the determination under section 1406 or 1407 of this title of the retired pay base applicable to the computation of the retired pay of a covered general or flag officer involves a rate of basic pay payable to that officer for any period between October 1, 2006, and December 31, 2014, that was subject to a reduction under [section 203(a)(2) of title 37][/us/usc/t37/s203/a/2] for such period, such retired-pay-base determination shall be made using the rate of basic pay for such period provided by law, without regard to the reduction under [section 203(a)(2) of title 37][/us/usc/t37/s203/a/2].
 
-    (b) __Partial Preservation of Computation of Retired Pay Base Using Uncapped Rates of Basic Pay for Covered Officers Who First Became Members Before__  __September 8, 1980__  __, and Whose Retired Pay Commences After__  __December 31, 2014__  __.—__ 
+    (b)  __Partial Preservation of Computation of Retired Pay Base Using Uncapped Rates of Basic Pay for Covered Officers Who First Became Members Before September __  __8, 1980__  __, and Whose Retired Pay Commences After December __  __31, 2014.—__ 
 
         (1)  __Officers retiring after __  __december 31, 2014__  __.—__ 
 

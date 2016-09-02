@@ -169,7 +169,7 @@
 
 >                 “(i) to the extent practicable, differences between types of institutions of higher learning in such matters as tuition and fees, admission requirements, accreditation, transferability of credits, credit for qualifying military training, time required to complete a degree, and retention and job placement rates; and
 
->                 “(ii) how Federal educational assistance provided under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070][/us/usc/t20/s1070] et seq.; \[42 U.S. C. 2751 et seq.\]) may be used in conjunction with educational assistance provided under chapters 30 and 33 of title 38, United States Code.
+>                 “(ii) how Federal educational assistance provided under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070][/us/usc/t20/s1070] et seq.\[; [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\]) may be used in conjunction with educational assistance provided under chapters 30 and 33 of title 38, United States Code.
 
 >             “(B) Information about the Postsecondary Education Complaint System of the Department of Defense, the Department of Veterans Affairs, the Department of Education, and the Consumer Financial Protection Bureau.
 
@@ -203,7 +203,7 @@
 
 >             “(B) An educational institution described in subsection (b) or (c) of section 102 of such Act ([20 U.S.C. 1002][/us/usc/t20/s1002]).”
 
- __Procedures for Provision of Certain Information to State Veterans Agencies to Facilitate the Transition of Members of the Armed Forces From Military Service to Civilian Life__ 
+ __Procedures for Provision of Certain Information to State Veterans Agencies To Facilitate the Transition of Members of the Armed Forces From Military Service to Civilian Life__ 
 
 [Pub. L. 113–291, div. A, title V, § 558][/us/pl/113/291/s558], Dec. 19, 2014, [128 Stat. 3382][/us/stat/128/3382], provided that:
 
@@ -428,6 +428,7 @@
 [/us/pl/113/291/s557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs557
 [/us/stat/128/3381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3381
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
+[/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
 [/us/usc/t38/s3452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3452
 [/us/usc/t20/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fa
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002

@@ -47,7 +47,7 @@
 
  __References in Text__ 
 
-    The National Security Act of 1947, referred to in subsec. (c), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495]. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
+    The National Security Act of 1947, referred to in subsec. (c), is [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], [61 Stat. 495][/us/stat/61/495]. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 

@@ -109,7 +109,7 @@ Source (Statutes at Large)  </td>
 
 >     “(g)  __Report__  __.—__ 
 
->     The Secretary of Defense shall report to the congressional defense committees \[Committee on Armed Services and Subcommittee on Defense of the Committee on Appropriations of the Senate and the House of Representatives\] on an annual basis the efficacy of the ex gratia payment program including the number of types of cases considered, amounts offered, the response from ex gratia payment recipients, and any recommended modifications to the program.
+>     The Secretary of Defense shall report to the congressional defense committees \[Committees on Armed Services and Subcommittees on Defense of the Committees on Appropriations of the Senate and the House of Representatives\] on an annual basis the efficacy of the ex gratia payment program including the number of types of cases considered, amounts offered, the response from ex gratia payment recipients, and any recommended modifications to the program.
 
 >     “(h)  __Limitation__  __.—__ 
 

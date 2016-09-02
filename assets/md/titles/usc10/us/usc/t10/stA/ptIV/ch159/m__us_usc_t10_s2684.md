@@ -57,7 +57,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (d)(1). [Pub. L. 113–287][/us/pl/113/287], which directed the substitution of “section 2023.01 of title 54” for “section 101(a) of the National Historic Preservation Act ([16 U.S.C. 470a(a)][/us/usc/t16/s470a/a])” in subsec. (c)(1), was executed by making the substitution in subsec. (d)(1) to reflect the probable intent of Congress and the prior redesignation of subsec. (c) as (d) by [Pub. L. 110–181][/us/pl/110/181]. See 2008 Amendment note below.
+    2014—Subsec. (d)(1). [Pub. L. 113–287][/us/pl/113/287], which directed the substitution of “section 2023.01 of title 54” for “section 101(a) of the National Historic Preservation Act ([16 U.S.C. 470a(a)][/us/usc/t16/s470a/a])” in subsec. (c)(1), was executed by making the substitution in subsec. (d)(1) to reflect the probable intent of Congress and the prior redesignation of subsec. (c) as (d) by [Pub. L. 110–181, § 2824(a)(2)][/us/pl/110/181/s2824/a/2]. See 2008 Amendment note below.
 
     2008—Subsec. (a). [Pub. L. 110–181, § 2824(a)(1)][/us/pl/110/181/s2824/a/1], substituted “located on a site authorized by subsection (b)” for “on military installations”.
 
@@ -94,7 +94,7 @@
 [/us/usc/t10/s2826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2826
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s470a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470a%2Fa
-[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181/s2824/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2824%2Fa%2F2
 [/us/pl/110/181/s2824/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2824%2Fa%2F1
 [/us/pl/110/181/s2824/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2824%2Fa%2F2
 [/us/pl/110/181/s2824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2824%2Fb

@@ -1101,7 +1101,7 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
 >     Not later than March 1, 2010, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on actions taken pursuant to this section.”
 
-    \[After Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense deemed to refer to the Under Secretary of Defense for Business Management and Information, see [section 901(n) of Pub. L. 113–291][/us/pl/113/291/s901/n], set out as a note under [section 131 of this title][/us/usc/t10/s131].\]
+    \[[Pub. L. 113–291, div. A, title IX, § 901(n)(1)][/us/pl/113/291/s901/n/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See [section 901(n)(1) of Pub. L. 113–291][/us/pl/113/291/s901/n/1], set out as a References note under [section 131 of this title][/us/usc/t10/s131].\]
 
  __Requirement for Common Ground Stations and Payloads for Manned and Unmanned Aerial Vehicle Systems__ 
 
@@ -4743,7 +4743,9 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/123/2433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2433
 [/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
 [/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
-[/us/pl/113/291/s901/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn
+[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
+[/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
+[/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
 [/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4382

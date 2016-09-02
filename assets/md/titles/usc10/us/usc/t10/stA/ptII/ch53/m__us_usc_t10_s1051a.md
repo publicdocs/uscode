@@ -87,7 +87,9 @@
 
     Subsec. (c). [Pub. L. 113–291, § 1203(c)][/us/pl/113/291/s1203/c], substituted “The” for “To the extent that the Secretary determines appropriate, the” and inserted at end “The terms of reimbursement shall be specified in the appropriate agreement used to assign the liaison officer to a combatant command or to the Joint Staff.”
 
-    Subsecs. (d), (e). [Pub. L. 113–291, § 1203(d)(2)][/us/pl/113/291/s1203/d/2], (e), added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
+    Subsec. (d). [Pub. L. 113–291, § 1203(d)(2)][/us/pl/113/291/s1203/d/2], added subsec. (d). Former subsec. (d) redesignated (f).
+
+    Subsec. (e). [Pub. L. 113–291, § 1203(e)][/us/pl/113/291/s1203/e], added subsec. (e).
 
     Subsec. (f). [Pub. L. 113–291, § 1203(d)(1)][/us/pl/113/291/s1203/d/1], (f), redesignated subsec. (d) as (f) and inserted “training programs conducted to familiarize, orient, or certify liaison personnel regarding unique aspects of the assignments of the liaison personnel,” after “police protection,”.
 
@@ -147,6 +149,7 @@
 [/us/pl/113/291/s1203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1203%2Fb%2F2
 [/us/pl/113/291/s1203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1203%2Fc
 [/us/pl/113/291/s1203/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1203%2Fd%2F2
+[/us/pl/113/291/s1203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1203%2Fe
 [/us/pl/113/291/s1203/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1203%2Fd%2F1
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/181/s1203/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1203%2Fe%2F1

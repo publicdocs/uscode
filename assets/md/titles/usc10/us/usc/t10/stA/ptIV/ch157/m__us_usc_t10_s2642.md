@@ -49,7 +49,7 @@
 
     Subsec. (a)(3). [Pub. L. 113–291, § 1071(g)(4)][/us/pl/113/291/s1071/g/4], amended [Pub. L. 113–66, § 1073(a)(2)(B)][/us/pl/113/66/s1073/a/2/B]. See 2013 Amendment note below.
 
-    [Pub. L. 113–291, § 1071(f)(22)][/us/pl/113/291/s1071/f/22], which directed insertion “and” after “Department of Defense”, was executed prior to the amendment by [§ 1044(a)(2)(B) of Pub. L. 113–291][/us/pl/113/291/s1044/a/2/B], to reflect the probable intent of Congress. See below.
+    [Pub. L. 113–291, § 1071(f)(22)][/us/pl/113/291/s1071/f/22], inserted “and” before “military transportation services provided in support”. Amendment was executed prior to amendment by [Pub. L. 113–291, § 1044(a)(2)(B)][/us/pl/113/291/s1044/a/2/B], see below, pursuant to [section 1071(k) of Pub. L. 113–291][/us/pl/113/291/s1071/k], set out as a note under [section 101 of this title][/us/usc/t10/s101].
 
     [Pub. L. 113–291, § 1044(a)(2)(B)][/us/pl/113/291/s1044/a/2/B], substituted “Department of Defense” for “Department of Defense and military transportation services provided in support of foreign military sales”.
 
@@ -108,6 +108,8 @@
 [/us/pl/113/66/s1073/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1073%2Fa%2F2%2FB
 [/us/pl/113/291/s1071/f/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F22
 [/us/pl/113/291/s1044/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1044%2Fa%2F2%2FB
+[/us/pl/113/291/s1071/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fk
+[/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/pl/113/291/s1044/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1044%2Fa%2F2%2FB
 [/us/pl/113/291/s1044/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1044%2Fa%2F2%2FA
 [/us/pl/113/291/s1044/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1044%2Fa%2F3

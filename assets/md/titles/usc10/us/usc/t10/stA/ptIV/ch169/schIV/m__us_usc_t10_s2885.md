@@ -77,7 +77,7 @@
 
  __Change of Name__ 
 
-    “Assistant Secretary of Defense for Energy, Installations, and Environment” substituted for “Deputy Under Secretary of Defense (Installations and Environment)” in subsec. (a)(3) on authority of [section 901(n)(2) of Pub. L. 113–291][/us/pl/113/291/s901/n/2], set out as a note under [section 131 of this title][/us/usc/t10/s131].
+    “Assistant Secretary of Defense for Energy, Installations, and Environment” substituted for “Deputy Under Secretary of Defense (Installations and Environment)” in subsec. (a)(3) on authority of [section 901(n)(2) of Pub. L. 113–291][/us/pl/113/291/s901/n/2], set out as a References note under [section 131 of this title][/us/usc/t10/s131].
 
 ----------
 

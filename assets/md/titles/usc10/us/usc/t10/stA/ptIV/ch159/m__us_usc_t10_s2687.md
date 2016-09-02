@@ -2177,245 +2177,339 @@
 
 >         “(3) The term ‘nonappropriated fund instrumentality’ means an instrumentality of the United States under the jurisdiction of the Armed Forces (including the Army and Air Force Exchange Service, the Navy Resale and Services Support Office, and the Marine Corps exchanges) which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the Armed Forces.
 
->         “(4) The term ‘1988 BRAC law’ means title II of the Defense Authorization Amendments and Base Closure and Realignment Act ([Public Law 100–526][/us/pl/100/526]; [10 U.S.C. 2687][/us/usc/t10/s2687] note).”
+>         “(4) The term ‘1988 BRAC law’ means title II of the Defense Authorization Amendments and Base Closure and Realignment Act ([Public Law 100–526][/us/pl/100/526]; [10 U.S.C. 2687][/us/usc/t10/s2687] note).
 
-    “\[SEC. 2906A. Repealed. [Pub. L. 112–239, div. B, title XXVII, § 2711(a)][/us/pl/112/239/s2711/a], Jan. 2, 2013, [126 Stat. 2140][/us/stat/126/2140].\]
+> “\[SEC. 2906A. Repealed. [Pub. L. 112–239, div. B, title XXVII, § 2711(a)][/us/pl/112/239/s2711/a], Jan. 2, 2013, [126 Stat. 2140][/us/stat/126/2140].\]
 
-    “\[SEC. 2907. Repealed. [Pub. L. 112–239, div. B, title XXVII, § 2711(c)(2)][/us/pl/112/239/s2711/c/2], Jan. 2, 2013, [126 Stat. 2143][/us/stat/126/2143].\]
+> “\[SEC. 2907. Repealed. [Pub. L. 112–239, div. B, title XXVII, § 2711(c)(2)][/us/pl/112/239/s2711/c/2], Jan. 2, 2013, [126 Stat. 2143][/us/stat/126/2143].\]
 
-    “SEC. 2908. CONGRESSIONAL CONSIDERATION OF COMMISSION REPORT
+> “SEC. 2908. __CONGRESSIONAL CONSIDERATION OF COMMISSION REPORT__ 
 
-    “(a) Terms of the Resolution.—For purposes of section 2904(b), the term ‘joint resolution’ means only a joint resolution which is introduced within the 10-day period beginning on the date on which the President transmits the report to the Congress under section 2903(e), and—
+>     “(a)  __Terms of the Resolution__  __.—__ 
 
-    “(1) which does not have a preamble;
+>     For purposes of section 2904(b), the term ‘joint resolution’ means only a joint resolution which is introduced within the 10-day period beginning on the date on which the President transmits the report to the Congress under section 2903(e), and—
 
-    “(2) the matter after the resolving clause of which is as follows: ‘That Congress disapproves the recommendations of the Defense Base Closure and Realignment Commission as submitted by the President on ———’, the blank space being filled in with the appropriate date; and
+>         “(1) which does not have a preamble;
 
-    “(3) the title of which is as follows: ‘Joint resolution disapproving the recommendations of the Defense Base Closure and Realignment Commission.’.
+>         “(2) the matter after the resolving clause of which is as follows: ‘That Congress disapproves the recommendations of the Defense Base Closure and Realignment Commission as submitted by the President on ———’, the blank space being filled in with the appropriate date; and
 
-    “(b) Referral.—A resolution described in subsection (a) that is introduced in the House of Representatives shall be referred to the Committee on Armed Services of the House of Representatives. A resolution described in subsection (a) introduced in the Senate shall be referred to the Committee on Armed Services of the Senate.
+>         “(3) the title of which is as follows: ‘Joint resolution disapproving the recommendations of the Defense Base Closure and Realignment Commission.’.
 
-    “(c) Discharge.—If the committee to which a resolution described in subsection (a) is referred has not reported such resolution (or an identical resolution) by the end of the 20-day period beginning on the date on which the President transmits the report to the Congress under section 2903(e), such committee shall be, at the end of such period, discharged from further consideration of such resolution, and such resolution shall be placed on the appropriate calendar of the House involved.
+>     “(b)  __Referral__  __.—__ 
 
-    “(d) Consideration.—(1) On or after the third day after the date on which the committee to which such a resolution is referred has reported, or has been discharged (under subsection (c)) from further consideration of, such a resolution, it is in order (even though a previous motion to the same effect has been disagreed to) for any Member of the respective House to move to proceed to the consideration of the resolution. A Member may make the motion only on the day after the calendar day on which the Member announces to the House concerned the Member’s intention to make the motion, except that, in the case of the House of Representatives, the motion may be made without such prior announcement if the motion is made by direction of the committee to which the resolution was referred. All points of order against the resolution (and against consideration of the resolution) are waived. The motion is highly privileged in the House of Representatives and is privileged in the Senate and is not debatable. The motion is not subject to amendment, or to a motion to postpone, or to a motion to proceed to the consideration of other business. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the respective House shall immediately proceed to consideration of the joint resolution without intervening motion, order, or other business, and the resolution shall remain the unfinished business of the respective House until disposed of.
+>     A resolution described in subsection (a) that is introduced in the House of Representatives shall be referred to the Committee on Armed Services of the House of Representatives. A resolution described in subsection (a) introduced in the Senate shall be referred to the Committee on Armed Services of the Senate.
 
-    “(2) Debate on the resolution, and on all debatable motions and appeals in connection therewith, shall be limited to not more than 2 hours, which shall be divided equally between those favoring and those opposing the resolution. An amendment to the resolution is not in order. A motion further to limit debate is in order and not debatable. A motion to postpone, or a motion to proceed to the consideration of other business, or a motion to recommit the resolution is not in order. A motion to reconsider the vote by which the resolution is agreed to or disagreed to is not in order.
+>     “(c)  __Discharge__  __.—__ 
 
-    “(3) Immediately following the conclusion of the debate on a resolution described in subsection (a) and a single quorum call at the conclusion of the debate if requested in accordance with the rules of the appropriate House, the vote on final passage of the resolution shall occur.
+>     If the committee to which a resolution described in subsection (a) is referred has not reported such resolution (or an identical resolution) by the end of the 20-day period beginning on the date on which the President transmits the report to the Congress under section 2903(e), such committee shall be, at the end of such period, discharged from further consideration of such resolution, and such resolution shall be placed on the appropriate calendar of the House involved.
 
-    “(4) Appeals from the decisions of the Chair relating to the application of the rules of the Senate or the House of Representatives, as the case may be, to the procedure relating to a resolution described in subsection (a) shall be decided without debate.
+>     “(d)  __Consideration__  __.—__ 
 
-    “(e) Consideration by Other House.—(1) If, before the passage by one House of a resolution of that House described in subsection (a), that House receives from the other House a resolution described in subsection (a), then the following procedures shall apply:
+>         (1) On or after the third day after the date on which the committee to which such a resolution is referred has reported, or has been discharged (under subsection (c)) from further consideration of, such a resolution, it is in order (even though a previous motion to the same effect has been disagreed to) for any Member of the respective House to move to proceed to the consideration of the resolution. A Member may make the motion only on the day after the calendar day on which the Member announces to the House concerned the Member’s intention to make the motion, except that, in the case of the House of Representatives, the motion may be made without such prior announcement if the motion is made by direction of the committee to which the resolution was referred. All points of order against the resolution (and against consideration of the resolution) are waived. The motion is highly privileged in the House of Representatives and is privileged in the Senate and is not debatable. The motion is not subject to amendment, or to a motion to postpone, or to a motion to proceed to the consideration of other business. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the respective House shall immediately proceed to consideration of the joint resolution without intervening motion, order, or other business, and the resolution shall remain the unfinished business of the respective House until disposed of.
 
-    “(A) The resolution of the other House shall not be referred to a committee and may not be considered in the House receiving it except in the case of final passage as provided in subparagraph (B)(ii).
+>         “(2) Debate on the resolution, and on all debatable motions and appeals in connection therewith, shall be limited to not more than 2 hours, which shall be divided equally between those favoring and those opposing the resolution. An amendment to the resolution is not in order. A motion further to limit debate is in order and not debatable. A motion to postpone, or a motion to proceed to the consideration of other business, or a motion to recommit the resolution is not in order. A motion to reconsider the vote by which the resolution is agreed to or disagreed to is not in order.
 
-    “(B) With respect to a resolution described in subsection (a) of the House receiving the resolution—
+>         “(3) Immediately following the conclusion of the debate on a resolution described in subsection (a) and a single quorum call at the conclusion of the debate if requested in accordance with the rules of the appropriate House, the vote on final passage of the resolution shall occur.
 
-    “(i) the procedure in that House shall be the same as if no resolution had been received from the other House; but
+>         “(4) Appeals from the decisions of the Chair relating to the application of the rules of the Senate or the House of Representatives, as the case may be, to the procedure relating to a resolution described in subsection (a) shall be decided without debate.
 
-    “(ii) the vote on final passage shall be on the resolution of the other House.
+>     “(e)  __Consideration by Other House__  __.—__ 
 
-    “(2) Upon disposition of the resolution received from the other House, it shall no longer be in order to consider the resolution that originated in the receiving House.
+>         (1)
 
-    “(f) Rules of the Senate and House.—This section is enacted by Congress—
+>          If, before the passage by one House of a resolution of that House described in subsection (a), that House receives from the other House a resolution described in subsection (a), then the following procedures shall apply:
 
-    “(1) as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a resolution described in subsection (a), and it supersedes other rules only to the extent that it is inconsistent with such rules; and
+>             “(A) The resolution of the other House shall not be referred to a committee and may not be considered in the House receiving it except in the case of final passage as provided in subparagraph (B)(ii).
 
-    “(2) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
+>             “(B)
 
-    “SEC. 2909. RESTRICTION ON OTHER BASE CLOSURE AUTHORITY
+>              With respect to a resolution described in subsection (a) of the House receiving the resolution—
 
-    “(a) In General.—Except as provided in subsection (c), during the period beginning on November 5, 1990, and ending on April 15, 2006, this part shall be the exclusive authority for selecting for closure or realignment, or for carrying out any closure or realignment of, a military installation inside the United States.
+>                 “(i) the procedure in that House shall be the same as if no resolution had been received from the other House; but
 
-    “(b) Restriction.—Except as provided in subsection (c), none of the funds available to the Department of Defense may be used, other than under this part, during the period specified in subsection (a)—
+>                 “(ii) the vote on final passage shall be on the resolution of the other House.
 
-    “(1) to identify, through any transmittal to the Congress or through any other public announcement or notification, any military installation inside the United States as an installation to be closed or realigned or as an installation under consideration for closure or realignment; or
+>         “(2) Upon disposition of the resolution received from the other House, it shall no longer be in order to consider the resolution that originated in the receiving House.
 
-    “(2) to carry out any closure or realignment of a military installation inside the United States.
+>     “(f)  __Rules of the Senate and House__  __.—__ 
 
-    “(c) Exception.—Nothing in this part affects the authority of the Secretary to carry out—
+>     This section is enacted by Congress—
 
-    “(1) closures and realignments under title II of [Public Law 100–526][/us/pl/100/526] \[set out below\]; and
+>         “(1) as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a resolution described in subsection (a), and it supersedes other rules only to the extent that it is inconsistent with such rules; and
 
-    “(2) closures and realignments to which [section 2687 of title 10][/us/usc/t10/s2687], United States Code, is not applicable, including closures and realignments carried out for reasons of national security or a military emergency referred to in subsection (c) of such section.
+>         “(2) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
 
-    “SEC. 2910. DEFINITIONS
+> “SEC. 2909. __RESTRICTION ON OTHER BASE CLOSURE AUTHORITY__ 
 
-    “As used in this part:
+>     “(a)  __In General__  __.—__ 
 
-    “(1) The term ‘Account’ means the Department of Defense Base Closure Account established by section 2906(a).
+>     Except as provided in subsection (c), during the period beginning on November 5, 1990, and ending on April 15, 2006, this part shall be the exclusive authority for selecting for closure or realignment, or for carrying out any closure or realignment of, a military installation inside the United States.
 
-    “(2) The term ‘congressional defense committees’ means the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
+>     “(b)  __Restriction__  __.—__ 
 
-    “(3) The term ‘Commission’ means the Commission established by section 2902.
+>     Except as provided in subsection (c), none of the funds available to the Department of Defense may be used, other than under this part, during the period specified in subsection (a)—
 
-    “(4) The term ‘military installation’ means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility. Such term does not include any facility used primarily for civil works, rivers and harbors projects, flood control, or other projects not under the primary jurisdiction or control of the Department of Defense.
+>         “(1) to identify, through any transmittal to the Congress or through any other public announcement or notification, any military installation inside the United States as an installation to be closed or realigned or as an installation under consideration for closure or realignment; or
 
-    “(5) The term ‘realignment’ includes any action which both reduces and relocates functions and civilian personnel positions but does not include a reduction in force resulting from workload adjustments, reduced personnel or funding levels, or skill imbalances.
+>         “(2) to carry out any closure or realignment of a military installation inside the United States.
 
-    “(6) The term ‘Secretary’ means the Secretary of Defense.
+>     “(c)  __Exception__  __.—__ 
 
-    “(7) The term ‘United States’ means the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, and any other commonwealth, territory, or possession of the United States.
+>     Nothing in this part affects the authority of the Secretary to carry out—
 
-    “(8) The term ‘date of approval’, with respect to a closure or realignment of an installation, means the date on which the authority of Congress to disapprove a recommendation of closure or realignment, as the case may be, of such installation under this part expires.
+>         “(1) closures and realignments under title II of [Public Law 100–526][/us/pl/100/526] \[set out below\]; and
 
-    “(9)(A) The term ‘redevelopment authority’, in the case of an installation to be closed or realigned under this part, means any entity (including an entity established by a State or local government) recognized by the Secretary of Defense as the entity responsible for developing the redevelopment plan with respect to the installation or for directing the implementation of such plan.
+>         “(2) closures and realignments to which [section 2687 of title 10][/us/usc/t10/s2687], United States Code, is not applicable, including closures and realignments carried out for reasons of national security or a military emergency referred to in subsection (c) of such section.
 
-    “(B) If no redevelopment authority referred to in subparagraph (A) exists with respect to a military installation, the term shall include the following:
+> “SEC. 2910. __DEFINITIONS__ 
 
-    “(i) The local government in whose jurisdiction the military installation is wholly located.
+> “As used in this part:
 
-    “(ii) A local government agency or State government agency designated by the chief executive officer of the State in which the military installation is located under subparagraph (B) of section 2905(b)(3) for the purpose of the consultation required by subparagraph (A) of such section.
+>     “(1) The term ‘Account’ means the Department of Defense Base Closure Account established by section 2906(a).
 
-    “(10) The term ‘redevelopment plan’ in the case of an installation to be closed or realigned under this part, means a plan that—
+>     “(2) The term ‘congressional defense committees’ means the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
 
-    “(A) is agreed to by the local redevelopment authority with respect to the installation; and
+>     “(3) The term ‘Commission’ means the Commission established by section 2902.
 
-    “(B) provides for the reuse or redevelopment of the real property and personal property of the installation that is available for such reuse and redevelopment as a result of the closure or realignment of the installation.
+>     “(4) The term ‘military installation’ means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility. Such term does not include any facility used primarily for civil works, rivers and harbors projects, flood control, or other projects not under the primary jurisdiction or control of the Department of Defense.
 
-    “(11) The term ‘representative of the homeless’ has the meaning given such term in section 501(i)(4) of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11411(i)(4)][/us/usc/t42/s11411/i/4]).
+>     “(5) The term ‘realignment’ includes any action which both reduces and relocates functions and civilian personnel positions but does not include a reduction in force resulting from workload adjustments, reduced personnel or funding levels, or skill imbalances.
 
-    “SEC. 2911. CLARIFYING AMENDMENT
+>     “(6) The term ‘Secretary’ means the Secretary of Defense.
 
-    “\[Amended this section.\]
+>     “(7) The term ‘United States’ means the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, and any other commonwealth, territory, or possession of the United States.
 
-    “SEC. 2912. 2005 ROUND OF REALIGNMENTS AND CLOSURES OF MILITARY INSTALLATIONS.
+>     “(8) The term ‘date of approval’, with respect to a closure or realignment of an installation, means the date on which the authority of Congress to disapprove a recommendation of closure or realignment, as the case may be, of such installation under this part expires.
 
-    “(a) Force-Structure Plan and Infrastructure Inventory.—
+>     “(9)
 
-    “(1) Preparation and submission.—As part of the budget justification documents submitted to Congress in support of the budget for the Department of Defense for fiscal year 2005, the Secretary shall include the following:
+>         (A) The term ‘redevelopment authority’, in the case of an installation to be closed or realigned under this part, means any entity (including an entity established by a State or local government) recognized by the Secretary of Defense as the entity responsible for developing the redevelopment plan with respect to the installation or for directing the implementation of such plan.
 
-    “(A) A force-structure plan for the Armed Forces based on an assessment by the Secretary of the probable threats to the national security during the 20-year period beginning with fiscal year 2005, the probable end-strength levels and major military force units (including land force divisions, carrier and other major combatant vessels, air wings, and other comparable units) needed to meet these threats, and the anticipated levels of funding that will be available for national defense purposes during such period.
+>         “(B)
 
-    “(B) A comprehensive inventory of military installations world-wide for each military department, with specifications of the number and type of facilities in the active and reserve forces of each military department.
+>          If no redevelopment authority referred to in subparagraph (A) exists with respect to a military installation, the term shall include the following:
 
-    “(2) Relationship of plan and inventory.—Using the force-structure plan and infrastructure inventory prepared under paragraph (1), the Secretary shall prepare (and include as part of the submission of such plan and inventory) the following:
+>             “(i) The local government in whose jurisdiction the military installation is wholly located.
 
-    “(A) A description of the infrastructure necessary to support the force structure described in the force-structure plan.
+>             “(ii) A local government agency or State government agency designated by the chief executive officer of the State in which the military installation is located under subparagraph (B) of section 2905(b)(3) for the purpose of the consultation required by subparagraph (A) of such section.
 
-    “(B) A discussion of categories of excess infrastructure and infrastructure capacity.
+>     “(10)
 
-    “(C) An economic analysis of the effect of the closure or realignment of military installations to reduce excess infrastructure.
+>      The term ‘redevelopment plan’ in the case of an installation to be closed or realigned under this part, means a plan that—
 
-    “(3) Special considerations.—In determining the level of necessary versus excess infrastructure under paragraph (2), the Secretary shall consider the following:
+>         “(A) is agreed to by the local redevelopment authority with respect to the installation; and
 
-    “(A) The anticipated continuing need for and availability of military installations outside the United States, taking into account current restrictions on the use of military installations outside the United States and the potential for future prohibitions or restrictions on the use of such military installations.
+>         “(B) provides for the reuse or redevelopment of the real property and personal property of the installation that is available for such reuse and redevelopment as a result of the closure or realignment of the installation.
 
-    “(B) Any efficiencies that may be gained from joint tenancy by more than one branch of the Armed Forces at a military installation.
+>     “(11) The term ‘representative of the homeless’ has the meaning given such term in section 501(i)(4) of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11411(i)(4)][/us/usc/t42/s11411/i/4]).
 
-    “(4) Revision.—The Secretary may revise the force-structure plan and infrastructure inventory. If the Secretary makes such a revision, the Secretary shall submit the revised plan or inventory to Congress not later than March 15, 2005. For purposes of selecting military installations for closure or realignment under this part in 2005, no revision of the force-structure plan or infrastructure inventory is authorized after that date.
+> “SEC. 2911. __CLARIFYING AMENDMENT__ 
 
-    “(b) Certification of Need for Further Closures and Realignments.—
+>     “\[Amended this section.\]
 
-    “(1) Certification required.—On the basis of the force-structure plan and infrastructure inventory prepared under subsection (a) and the descriptions and economic analysis prepared under such subsection, the Secretary shall include as part of the submission of the plan and inventory—
+> “SEC. 2912. __2005 ROUND OF REALIGNMENTS AND CLOSURES OF MILITARY INSTALLATIONS.__ 
 
-    “(A) a certification regarding whether the need exists for the closure or realignment of additional military installations; and
+>     “(a) __Force-Structure Plan and Infrastructure Inventory.—__ 
 
-    “(B) if such need exists, a certification that the additional round of closures and realignments would result in annual net savings for each of the military departments beginning not later than fiscal year 2011.
+>         “(1)  __Preparation and submission__  __.—__ 
 
-    “(2) Effect of failure to certify.—If the Secretary does not include the certifications referred to in paragraph (1), the process by which military installations may be selected for closure or realignment under this part in 2005 shall be terminated.
+>         As part of the budget justification documents submitted to Congress in support of the budget for the Department of Defense for fiscal year 2005, the Secretary shall include the following:
 
-    “(c) Comptroller General Evaluation.—
+>             “(A) A force-structure plan for the Armed Forces based on an assessment by the Secretary of the probable threats to the national security during the 20-year period beginning with fiscal year 2005, the probable end-strength levels and major military force units (including land force divisions, carrier and other major combatant vessels, air wings, and other comparable units) needed to meet these threats, and the anticipated levels of funding that will be available for national defense purposes during such period.
 
-    “(1) Evaluation required.—If the certification is provided under subsection (b), the Comptroller General shall prepare an evaluation of the following:
+>             “(B) A comprehensive inventory of military installations world-wide for each military department, with specifications of the number and type of facilities in the active and reserve forces of each military department.
 
-    “(A) The force-structure plan and infrastructure inventory prepared under subsection (a) and the final selection criteria specified in section 2913, including an evaluation of the accuracy and analytical sufficiency of such plan, inventory, and criteria.
+>         “(2)  __Relationship of plan and inventory__  __.—__ 
 
-    “(B) The need for the closure or realignment of additional military installations.
+>         Using the force-structure plan and infrastructure inventory prepared under paragraph (1), the Secretary shall prepare (and include as part of the submission of such plan and inventory) the following:
 
-    “(2) Submission.—The Comptroller General shall submit the evaluation to Congress not later than 60 days after the date on which the force-structure plan and infrastructure inventory are submitted to Congress.
+>             “(A) A description of the infrastructure necessary to support the force structure described in the force-structure plan.
 
-    “(d) Authorization of Additional Round; Commission.—
+>             “(B) A discussion of categories of excess infrastructure and infrastructure capacity.
 
-    “(1) Appointment of commission.—Subject to the certifications required under subsection (b), the President may commence an additional round for the selection of military installations for closure and realignment under this part in 2005 by transmitting to the Senate, not later than March 15, 2005, nominations pursuant to section 2902(c) for the appointment of new members to the Defense Base Closure and Realignment Commission.
+>             “(C) An economic analysis of the effect of the closure or realignment of military installations to reduce excess infrastructure.
 
-    “(2) Effect of failure to nominate.—If the President does not transmit to the Senate the nominations for the Commission by March 15, 2005, the process by which military installations may be selected for closure or realignment under this part in 2005 shall be terminated.
+>         “(3)  __Special considerations__  __.—__ 
 
-    “(3) Members.—Notwithstanding section 2902(c)(1), the Commission appointed under the authority of this subsection shall consist of nine members.
+>         In determining the level of necessary versus excess infrastructure under paragraph (2), the Secretary shall consider the following:
 
-    “(4) Terms; meetings; termination.—Notwithstanding subsections (d), (e)(1), and (l) of section 2902, the Commission appointed under the authority of this subsection shall meet during calendar year 2005 and shall terminate on April 15, 2006.
+>             “(A) The anticipated continuing need for and availability of military installations outside the United States, taking into account current restrictions on the use of military installations outside the United States and the potential for future prohibitions or restrictions on the use of such military installations.
 
-    “(5) Funding.—If no funds are appropriated to the Commission by the end of the second session of the 108th Congress for the activities of the Commission in 2005, the Secretary may transfer to the Commission for purposes of its activities under this part in that year such funds as the Commission may require to carry out such activities. The Secretary may transfer funds under the preceding sentence from any funds available to the Secretary. Funds so transferred shall remain available to the Commission for such purposes until expended.
+>             “(B) Any efficiencies that may be gained from joint tenancy by more than one branch of the Armed Forces at a military installation.
 
-    “SEC. 2913. FINAL SELECTION CRITERIA FOR ADDITIONAL ROUND OF BASE CLOSURES AND REALIGNMENTS.
+>         “(4)  __Revision__  __.—__ 
 
-    “(a) Final Selection Criteria.—The final criteria to be used by the Secretary in making recommendations for the closure or realignment of military installations inside the United States under this part in 2005 shall be the military value and other criteria specified in subsections (b) and (c).
+>         The Secretary may revise the force-structure plan and infrastructure inventory. If the Secretary makes such a revision, the Secretary shall submit the revised plan or inventory to Congress not later than March 15, 2005. For purposes of selecting military installations for closure or realignment under this part in 2005, no revision of the force-structure plan or infrastructure inventory is authorized after that date.
 
-    “(b) Military Value Criteria.—The military value criteria are as follows:
+>     “(b) __Certification of Need for Further Closures and Realignments.—__ 
 
-    “(1) The current and future mission capabilities and the impact on operational readiness of the total force of the Department of Defense, including the impact on joint warfighting, training, and readiness.
+>         “(1)  __Certification required__  __.—__ 
 
-    “(2) The availability and condition of land, facilities, and associated airspace (including training areas suitable for maneuver by ground, naval, or air forces throughout a diversity of climate and terrain areas and staging areas for the use of the Armed Forces in homeland defense missions) at both existing and potential receiving locations.
+>         On the basis of the force-structure plan and infrastructure inventory prepared under subsection (a) and the descriptions and economic analysis prepared under such subsection, the Secretary shall include as part of the submission of the plan and inventory—
 
-    “(3) The ability to accommodate contingency, mobilization, surge, and future total force requirements at both existing and potential receiving locations to support operations and training.
+>             “(A) a certification regarding whether the need exists for the closure or realignment of additional military installations; and
 
-    “(4) The cost of operations and the manpower implications.
+>             “(B) if such need exists, a certification that the additional round of closures and realignments would result in annual net savings for each of the military departments beginning not later than fiscal year 2011.
 
-    “(c) Other Criteria.—The other criteria that the Secretary shall use in making recommendations for the closure or realignment of military installations inside the United States under this part in 2005 are as follows:
+>         “(2)  __Effect of failure to certify__  __.—__ 
 
-    “(1) The extent and timing of potential costs and savings, including the number of years, beginning with the date of completion of the closure or realignment, for the savings to exceed the costs.
+>         If the Secretary does not include the certifications referred to in paragraph (1), the process by which military installations may be selected for closure or realignment under this part in 2005 shall be terminated.
 
-    “(2) The economic impact on existing communities in the vicinity of military installations.
+>     “(c) __Comptroller General Evaluation.—__ 
 
-    “(3) The ability of the infrastructure of both the existing and potential receiving communities to support forces, missions, and personnel.
+>         “(1)  __Evaluation required__  __.—__ 
 
-    “(4) The environmental impact, including the impact of costs related to potential environmental restoration, waste management, and environmental compliance activities.
+>         If the certification is provided under subsection (b), the Comptroller General shall prepare an evaluation of the following:
 
-    “(d) Priority Given to Military Value.—The Secretary shall give priority consideration to the military value criteria specified in subsection (b) in the making of recommendations for the closure or realignment of military installations.
+>             “(A) The force-structure plan and infrastructure inventory prepared under subsection (a) and the final selection criteria specified in section 2913, including an evaluation of the accuracy and analytical sufficiency of such plan, inventory, and criteria.
 
-    “(e) Effect on Department and Other Agency Costs.—The selection criteria relating to the cost savings or return on investment from the proposed closure or realignment of military installations shall take into account the effect of the proposed closure or realignment on the costs of any other activity of the Department of Defense or any other Federal agency that may be required to assume responsibility for activities at the military installations.
+>             “(B) The need for the closure or realignment of additional military installations.
 
-    “(f) Relation to Other Materials.—The final selection criteria specified in this section shall be the only criteria to be used, along with the force-structure plan and infrastructure inventory referred to in section 2912, in making recommendations for the closure or realignment of military installations inside the United States under this part in 2005.
+>         “(2)  __Submission__  __.—__ 
 
-    “(g) Relation to Criteria for Earlier Rounds.—Section 2903(b), and the selection criteria prepared under such section, shall not apply with respect to the process of making recommendations for the closure or realignment of military installations in 2005.
+>         The Comptroller General shall submit the evaluation to Congress not later than 60 days after the date on which the force-structure plan and infrastructure inventory are submitted to Congress.
 
-    “SEC. 2914. SPECIAL PROCEDURES FOR MAKING RECOMMENDATIONS FOR REALIGNMENTS AND CLOSURES FOR 2005 ROUND; COMMISSION CONSIDERATION OF RECOMMENDATIONS.
+>     “(d) __Authorization of Additional Round; Commission.—__ 
 
-    “(a) Recommendations Regarding Closure or Realignment of Military Installations.—If the Secretary makes the certifications required under section 2912(b), the Secretary shall publish in the Federal Register and transmit to the congressional defense committees and the Commission, not later than May 16, 2005, a list of the military installations inside the United States that the Secretary recommends for closure or realignment on the basis of the force-structure plan and infrastructure inventory prepared by the Secretary under section 2912 and the final selection criteria specified in section 2913.
+>         “(1)  __Appointment of commission__  __.—__ 
 
-    “(b) Preparation of Recommendations.—
+>         Subject to the certifications required under subsection (b), the President may commence an additional round for the selection of military installations for closure and realignment under this part in 2005 by transmitting to the Senate, not later than March 15, 2005, nominations pursuant to section 2902(c) for the appointment of new members to the Defense Base Closure and Realignment Commission.
 
-    “(1) In general.—The Secretary shall comply with paragraphs (2) through (6) of section 2903(c) in preparing and transmitting the recommendations under this section. However, paragraph (6) of section 2903(c) relating to submission of information to Congress shall be deemed to require such submission within 48 hours.
+>         “(2)  __Effect of failure to nominate__  __.—__ 
 
-    “(2) Consideration of local government views.—(A) In making recommendations to the Commission in 2005, the Secretary shall consider any notice received from a local government in the vicinity of a military installation that the government would approve of the closure or realignment of the installation.
+>         If the President does not transmit to the Senate the nominations for the Commission by March 15, 2005, the process by which military installations may be selected for closure or realignment under this part in 2005 shall be terminated.
 
-    “(B) Notwithstanding the requirement in subparagraph (A), the Secretary shall make the recommendations referred to in that subparagraph based on the force-structure plan, infrastructure inventory, and final selection criteria otherwise applicable to such recommendations.
+>         “(3)  __Members__  __.—__ 
 
-    “(C) The recommendations shall include a statement of the result of the consideration of any notice described in subparagraph (A) that is received with respect to a military installation covered by such recommendations. The statement shall set forth the reasons for the result.
+>         Notwithstanding section 2902(c)(1), the Commission appointed under the authority of this subsection shall consist of nine members.
 
-    “\[(c) Repealed. [Pub. L. 108–375, div. B, title XXVIII, § 2833][/us/pl/108/375/s2833], Oct. 28, 2004, [118 Stat. 2134][/us/stat/118/2134].\]
+>         “(4)  __Terms; meetings; termination__  __.—__ 
 
-    “(d) Commission Review and Recommendations.—
+>         Notwithstanding subsections (d), (e)(1), and (l) of section 2902, the Commission appointed under the authority of this subsection shall meet during calendar year 2005 and shall terminate on April 15, 2006.
 
-    “(1) In general.—Except as provided in this subsection, section 2903(d) shall apply to the consideration by the Commission of the recommendations transmitted by the Secretary in 2005. The Commission’s report containing its findings and conclusions, based on a review and analysis of the Secretary’s recommendations, shall be transmitted to the President not later than September 8, 2005.
+>         “(5)  __Funding__  __.—__ 
 
-    “(2) Availability of recommendations to congress.—After September 8, 2005, the Commission shall promptly provide, upon request, to any Member of Congress information used by the Commission in making its recommendations.
+>         If no funds are appropriated to the Commission by the end of the second session of the 108th Congress for the activities of the Commission in 2005, the Secretary may transfer to the Commission for purposes of its activities under this part in that year such funds as the Commission may require to carry out such activities. The Secretary may transfer funds under the preceding sentence from any funds available to the Secretary. Funds so transferred shall remain available to the Commission for such purposes until expended.
 
-    “(3) Limitations on authority to consider additions to closure or realignment lists.—The Commission may not consider making a change in the recommendations of the Secretary that would add a military installation to the Secretary’s list of installations recommended for closure or realignment unless, in addition to the requirements of section 2903(d)(2)(C)—
+> “SEC. 2913. __FINAL SELECTION CRITERIA FOR ADDITIONAL ROUND OF BASE CLOSURES AND REALIGNMENTS.__ 
 
-    “(A) the Commission provides the Secretary with at least a 15-day period, before making the change, in which to submit an explanation of the reasons why the installation was not included on the closure or realignment list by the Secretary; and
+>     “(a)  __Final Selection Criteria__  __.—__ 
 
-    “(B) the decision to add the installation for Commission consideration is supported by at least seven members of the Commission.
+>     The final criteria to be used by the Secretary in making recommendations for the closure or realignment of military installations inside the United States under this part in 2005 shall be the military value and other criteria specified in subsections (b) and (c).
 
-    “(4) Testimony by secretary.—The Commission shall invite the Secretary to testify at a public hearing, or a closed hearing if classified information is involved, on any proposed change by the Commission to the Secretary’s recommendations.
+>     “(b)  __Military Value Criteria__  __.—__ 
 
-    “(5) Requirements to expand closure or realignment recommendations.—In the report required under section 2903(d)(2)(A) that is to be transmitted under paragraph (1), the Commission may not make a change in the recommendations of the Secretary that would close a military installation not recommended for closure by the Secretary, would realign a military installation not recommended for closure or realignment by the Secretary, or would expand the extent of the realignment of a military installation recommended for realignment by the Secretary unless—
+>     The military value criteria are as follows:
 
-    “(A) at least two members of the Commission visit the military installation before the date of the transmittal of the report; and
+>         “(1) The current and future mission capabilities and the impact on operational readiness of the total force of the Department of Defense, including the impact on joint warfighting, training, and readiness.
 
-    “(B) the decision of the Commission to make the change to recommend the closure of the military installation, the realignment of the installation, or the expanded realignment of the installation is supported by at least seven members of the Commission.
+>         “(2) The availability and condition of land, facilities, and associated airspace (including training areas suitable for maneuver by ground, naval, or air forces throughout a diversity of climate and terrain areas and staging areas for the use of the Armed Forces in homeland defense missions) at both existing and potential receiving locations.
 
-    “(6) Comptroller general report.—The Comptroller General report required by section 2903(d)(5)(B) analyzing the recommendations of the Secretary and the selection process in 2005 shall be transmitted to the congressional defense committees not later than July 1, 2005.
+>         “(3) The ability to accommodate contingency, mobilization, surge, and future total force requirements at both existing and potential receiving locations to support operations and training.
 
-    “(e) Review by the President.—
+>         “(4) The cost of operations and the manpower implications.
 
-    “(1) In general.—Except as provided in this subsection, section 2903(e) shall apply to the review by the President of the recommendations of the Commission under this section, and the actions, if any, of the Commission in response to such review, in 2005. The President shall review the recommendations of the Secretary and the recommendations contained in the report of the Commission under subsection (d) and prepare a report, not later than September 23, 2005, containing the President’s approval or disapproval of the Commission’s recommendations.
+>     “(c)  __Other Criteria__  __.—__ 
 
-    “(2) Commission reconsideration.—If the Commission prepares a revised list of recommendations under section 2903(e)(3) in 2005 in response to the review of the President in that year under paragraph (1), the Commission shall transmit the revised list to the President not later than October 20, 2005.
+>     The other criteria that the Secretary shall use in making recommendations for the closure or realignment of military installations inside the United States under this part in 2005 are as follows:
 
-    “(3) Effect of failure to transmit.—If the President does not transmit to Congress an approval and certification described in paragraph (2) or (4) of section 2903(e) by November 7, 2005, the process by which military installations may be selected for closure or realignment under this part in 2005 shall be terminated.
+>         “(1) The extent and timing of potential costs and savings, including the number of years, beginning with the date of completion of the closure or realignment, for the savings to exceed the costs.
 
-    “(4) Effect of transmittal.—A report of the President under this subsection containing the President’s approval of the Commission’s recommendations is deemed to be a report under section 2903(e) for purposes of sections 2904 and 2908.”
+>         “(2) The economic impact on existing communities in the vicinity of military installations.
+
+>         “(3) The ability of the infrastructure of both the existing and potential receiving communities to support forces, missions, and personnel.
+
+>         “(4) The environmental impact, including the impact of costs related to potential environmental restoration, waste management, and environmental compliance activities.
+
+>     “(d)  __Priority Given to Military Value__  __.—__ 
+
+>     The Secretary shall give priority consideration to the military value criteria specified in subsection (b) in the making of recommendations for the closure or realignment of military installations.
+
+>     “(e)  __Effect on Department and Other Agency Costs__  __.—__ 
+
+>     The selection criteria relating to the cost savings or return on investment from the proposed closure or realignment of military installations shall take into account the effect of the proposed closure or realignment on the costs of any other activity of the Department of Defense or any other Federal agency that may be required to assume responsibility for activities at the military installations.
+
+>     “(f)  __Relation to Other Materials__  __.—__ 
+
+>     The final selection criteria specified in this section shall be the only criteria to be used, along with the force-structure plan and infrastructure inventory referred to in section 2912, in making recommendations for the closure or realignment of military installations inside the United States under this part in 2005.
+
+>     “(g)  __Relation to Criteria for Earlier Rounds__  __.—__ 
+
+>     Section 2903(b), and the selection criteria prepared under such section, shall not apply with respect to the process of making recommendations for the closure or realignment of military installations in 2005.
+
+> “SEC. 2914. __SPECIAL PROCEDURES FOR MAKING RECOMMENDATIONS FOR REALIGNMENTS AND CLOSURES FOR 2005 ROUND; COMMISSION CONSIDERATION OF RECOMMENDATIONS.__ 
+
+>     “(a)  __Recommendations Regarding Closure or Realignment of Military Installations__  __.—__ 
+
+>     If the Secretary makes the certifications required under section 2912(b), the Secretary shall publish in the Federal Register and transmit to the congressional defense committees and the Commission, not later than May 16, 2005, a list of the military installations inside the United States that the Secretary recommends for closure or realignment on the basis of the force-structure plan and infrastructure inventory prepared by the Secretary under section 2912 and the final selection criteria specified in section 2913.
+
+>     “(b) __Preparation of Recommendations.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary shall comply with paragraphs (2) through (6) of section 2903(c) in preparing and transmitting the recommendations under this section. However, paragraph (6) of section 2903(c) relating to submission of information to Congress shall be deemed to require such submission within 48 hours.
+
+>         “(2)  __Consideration of local government views__  __.—__ 
+
+>             (A) In making recommendations to the Commission in 2005, the Secretary shall consider any notice received from a local government in the vicinity of a military installation that the government would approve of the closure or realignment of the installation.
+
+>             “(B) Notwithstanding the requirement in subparagraph (A), the Secretary shall make the recommendations referred to in that subparagraph based on the force-structure plan, infrastructure inventory, and final selection criteria otherwise applicable to such recommendations.
+
+>             “(C) The recommendations shall include a statement of the result of the consideration of any notice described in subparagraph (A) that is received with respect to a military installation covered by such recommendations. The statement shall set forth the reasons for the result.
+
+>     “\[(c) Repealed. [Pub. L. 108–375, div. B, title XXVIII, § 2833][/us/pl/108/375/s2833], Oct. 28, 2004, [118 Stat. 2134][/us/stat/118/2134].\]
+
+>     “(d) __Commission Review and Recommendations.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Except as provided in this subsection, section 2903(d) shall apply to the consideration by the Commission of the recommendations transmitted by the Secretary in 2005. The Commission’s report containing its findings and conclusions, based on a review and analysis of the Secretary’s recommendations, shall be transmitted to the President not later than September 8, 2005.
+
+>         “(2)  __Availability of recommendations to congress__  __.—__ 
+
+>         After September 8, 2005, the Commission shall promptly provide, upon request, to any Member of Congress information used by the Commission in making its recommendations.
+
+>         “(3)  __Limitations on authority to consider additions to closure or realignment lists__  __.—__ 
+
+>         The Commission may not consider making a change in the recommendations of the Secretary that would add a military installation to the Secretary’s list of installations recommended for closure or realignment unless, in addition to the requirements of section 2903(d)(2)(C)—
+
+>             “(A) the Commission provides the Secretary with at least a 15-day period, before making the change, in which to submit an explanation of the reasons why the installation was not included on the closure or realignment list by the Secretary; and
+
+>             “(B) the decision to add the installation for Commission consideration is supported by at least seven members of the Commission.
+
+>         “(4)  __Testimony by secretary__  __.—__ 
+
+>         The Commission shall invite the Secretary to testify at a public hearing, or a closed hearing if classified information is involved, on any proposed change by the Commission to the Secretary’s recommendations.
+
+>         “(5)  __Requirements to expand closure or realignment recommendations__  __.—__ 
+
+>         In the report required under section 2903(d)(2)(A) that is to be transmitted under paragraph (1), the Commission may not make a change in the recommendations of the Secretary that would close a military installation not recommended for closure by the Secretary, would realign a military installation not recommended for closure or realignment by the Secretary, or would expand the extent of the realignment of a military installation recommended for realignment by the Secretary unless—
+
+>             “(A) at least two members of the Commission visit the military installation before the date of the transmittal of the report; and
+
+>             “(B) the decision of the Commission to make the change to recommend the closure of the military installation, the realignment of the installation, or the expanded realignment of the installation is supported by at least seven members of the Commission.
+
+>         “(6)  __Comptroller general report__  __.—__ 
+
+>         The Comptroller General report required by section 2903(d)(5)(B) analyzing the recommendations of the Secretary and the selection process in 2005 shall be transmitted to the congressional defense committees not later than July 1, 2005.
+
+>     “(e) __Review by the President.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Except as provided in this subsection, section 2903(e) shall apply to the review by the President of the recommendations of the Commission under this section, and the actions, if any, of the Commission in response to such review, in 2005. The President shall review the recommendations of the Secretary and the recommendations contained in the report of the Commission under subsection (d) and prepare a report, not later than September 23, 2005, containing the President’s approval or disapproval of the Commission’s recommendations.
+
+>         “(2)  __Commission reconsideration__  __.—__ 
+
+>         If the Commission prepares a revised list of recommendations under section 2903(e)(3) in 2005 in response to the review of the President in that year under paragraph (1), the Commission shall transmit the revised list to the President not later than October 20, 2005.
+
+>         “(3)  __Effect of failure to transmit__  __.—__ 
+
+>         If the President does not transmit to Congress an approval and certification described in paragraph (2) or (4) of section 2903(e) by November 7, 2005, the process by which military installations may be selected for closure or realignment under this part in 2005 shall be terminated.
+
+>         “(4)  __Effect of transmittal__  __.—__ 
+
+>         A report of the President under this subsection containing the President’s approval of the Commission’s recommendations is deemed to be a report under section 2903(e) for purposes of sections 2904 and 2908.”
 
     \[For effective date of amendments by section 2711(a), (c)(2), (3)(A) of [Pub. L. 112–239][/us/pl/112/239] to sections 2906 to 2907 and 2910 of [Pub. L. 101–510][/us/pl/101/510], set out above, see [section 2711(d) of Pub. L. 112–239][/us/pl/112/239/s2711/d], set out as an Effective Date of 2013 Amendment note under [section 2701 of this title][/us/usc/t10/s2701].\]
 

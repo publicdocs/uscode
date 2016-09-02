@@ -101,11 +101,11 @@
 
 >     “(c)  __Comptroller General Report__  __.—__ 
 
->         “(1) __Initial report.—__ 
+>         “(1)  __Initial report__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act, the Comptroller General of the United States shall review the implementation plan submitted under subsection (b) and the prepositioning strategic policy required under [section 2229(a) of title 10][/us/usc/t10/s2229/a], United States Code, as amended by subsection (a), and submit to the congressional defense committees a report describing the findings of such review and including any additional information relating to the propositioning strategic policy and plan that the Comptroller General determines appropriate.
 
->         “(2) __Progress reports.—__ 
+>         “(2)  __Progress reports__  __.—__ 
 
 >         Not later than one year after submitting the report required under paragraph (1), and annually thereafter for two years, the Comptroller General shall submit to the congressional defense committees a report assessing the progress of the Department of Defense in implementing its strategic policy and plan for its prepositioned stocks and including any additional information related to the Department’s management of its prepositioned stocks that the Comptroller General determines appropriate.”
 

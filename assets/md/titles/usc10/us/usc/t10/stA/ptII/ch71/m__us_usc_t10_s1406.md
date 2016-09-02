@@ -493,7 +493,7 @@
 
     2014—Subsec. (i). [Pub. L. 113–291, § 603(d)(1)][/us/pl/113/291/s603/d/1], inserted “Chief of the National Guard Bureau,” after “Chiefs of Service,” in heading.
 
-    Subsec. (i)(1). [Pub. L. 113–291, § 603(d)(2)][/us/pl/113/291/s603/d/2], inserted “as Chief of the National Guard Bureau,” after “Chief of Service,” and “or the senior enlisted advisor to the Chairman of the Joint Chiefs of Staff or the Chief of the National Guard Bureau” after“of an armed force”.
+    Subsec. (i)(1). [Pub. L. 113–291, § 603(d)(2)][/us/pl/113/291/s603/d/2], inserted “as Chief of the National Guard Bureau,” after “Chief of Service,” and “or the senior enlisted advisor to the Chairman of the Joint Chiefs of Staff or the Chief of the National Guard Bureau” after “of an armed force”.
 
     Subsec. (i)(3)(B)(vi). [Pub. L. 113–291, § 603(d)(3)][/us/pl/113/291/s603/d/3], struck out cl. (vi) which read as follows: “Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.”
 
@@ -537,7 +537,7 @@
 
 [Pub. L. 113–291, div. A, title VI, § 603(e)][/us/pl/113/291/s603/e], Dec. 19, 2014, [128 Stat. 3398][/us/stat/128/3398], provided that: 
 
-> “This section \[amending this section and sections 210 and 414 of Title 37, Pay and Allowances of Uniformed Services, enacting provision set out as a note under [section 203 of Title 37][/us/usc/t37/s203], and amending provisions set out as a note under [section 205 of Title 37][/us/usc/t37/s205]\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Dec. 19, 2014\], and shall apply with respect to months of service that begin on or after that date.
+> “This section \[amending this section and sections 210 and 414 of Title 37, Pay and Allowances of the Uniformed Services, enacting provisions set out as a note under [section 203 of Title 37][/us/usc/t37/s203], and amending provisions set out as a note under [section 205 of Title 37][/us/usc/t37/s205]\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Dec. 19, 2014\], and shall apply with respect to months of service that begin on or after that date.”
 
  __Effective Date of 2003 Amendment__ 
 

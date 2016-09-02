@@ -75,7 +75,7 @@
 
     Amendment by [Pub. L. 103–337][/us/pl/103/337] applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see [section 542(e) of Pub. L. 103–337][/us/pl/103/337/s542/e], set out as a note under [section 1141 of this title][/us/usc/t10/s1141].
 
- __Pilot Program to Assist Members of the Armed Forces in Obtaining Post-Service Employment__ 
+ __Pilot Program To Assist Members of the Armed Forces in Obtaining Post-Service Employment__ 
 
 [Pub. L. 113–291, div. A, title V, § 555][/us/pl/113/291/s555], Dec. 19, 2014, [128 Stat. 3379][/us/stat/128/3379], provided that:
 

@@ -151,7 +151,7 @@ In subsection (c), the words “A contract under this section” are substituted
 
     Amendment by [Pub. L. 97–214][/us/pl/97/214] effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see [section 12(a) of Pub. L. 97–214][/us/pl/97/214/s12/a], set out as an Effective Date note under [section 2801 of this title][/us/usc/t10/s2801].
 
- __Notice of Purchase of Drop-in Fuel__ 
+ __Notice of Purchase of Drop-In Fuel__ 
 
 [Pub. L. 113–291, div. A, title III, § 316(c)][/us/pl/113/291/s316/c], (d), Dec. 19, 2014, [128 Stat. 3339][/us/stat/128/3339], 3340, provided that:
 

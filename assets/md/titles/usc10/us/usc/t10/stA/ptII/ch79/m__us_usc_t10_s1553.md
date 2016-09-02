@@ -57,7 +57,7 @@
 
     Section effective Jan. 1, 1959, see [section 2 of Pub. L. 85–857][/us/pl/85/857/s2], set out as a note preceding Part I of Title 38, Veterans’ Benefits.
 
- __Confidential Review of Characterization of Terms of Discharge of Members of the Armed Forces who are Victims of Sexual Offenses__ 
+ __Confidential Review of Characterization of Terms of Discharge of Members of the Armed Forces Who Are Victims of Sexual Offenses__ 
 
 [Pub. L. 113–291, div. A, title V, § 547][/us/pl/113/291/s547], Dec. 19, 2014, [128 Stat. 3375][/us/stat/128/3375], provided that:
 

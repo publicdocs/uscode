@@ -53,7 +53,7 @@
 
     The Secretary of Defense shall prescribe regulations to carry out this section.
 
-    \[(h) Repealed. [Pub. L. 113–291, div. A, title X, § 1071(f)(20)][/us/pl/113/291/s1071/f/20], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511]\]
+    \[(h) Repealed. [Pub. L. 113–291, div. A, title X, § 1071(f)(20)][/us/pl/113/291/s1071/f/20], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511].\]
 
     (i)  __Protection of Certain Information From Disclosure__  __.—__ 
 

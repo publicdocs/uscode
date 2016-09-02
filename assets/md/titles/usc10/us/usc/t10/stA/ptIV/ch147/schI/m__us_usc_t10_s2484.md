@@ -255,7 +255,7 @@
 
 [Pub. L. 113–235, div. C, title VIII, § 8073][/us/pl/113/235/s8073], Dec. 16, 2014, [128 Stat. 2271][/us/stat/128/2271], provided that: 
 
-> “The Secretary of Defense shall issue regulations to prohibit the sale of any tobacco or tobacco-related products in military resale outlets in the United States, its territories and possessions at a price below the most competitive price in the local community:  Provided, That such regulations shall direct that the prices of tobacco or tobacco-related products in overseas military retail outlets shall be within the range of prices established for military retail system stores located in the United States.”
+> “The Secretary of Defense shall issue regulations to prohibit the sale of any tobacco or tobacco-related products in military resale outlets in the United States, its territories and possessions at a price below the most competitive price in the local community: Provided, That such regulations shall direct that the prices of tobacco or tobacco-related products in overseas military retail outlets shall be within the range of prices established for military retail system stores located in the United States.”
 
  __Test Program of Sale of Certain Items in Commissary Stores__ 
 

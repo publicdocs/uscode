@@ -91,9 +91,7 @@
 
     2014—Subsec. (a). [Pub. L. 113–291, § 901(g)(1)(E)][/us/pl/113/291/s901/g/1/E], inserted “of Defense for Installations, Energy, and Environment” after “The Assistant Secretary” in introductory provisions.
 
-    [Pub. L. 113–291, § 901(g)(1)(C)(i)][/us/pl/113/291/s901/g/1/C/i], (ii), inserted heading and redesignated subpars. (A) to (E) of former subsec. (c)(3) of section 138c as pars. (1) to (5), respectively, of subsec. (a). See Codification note above.
-
-    [Pub. L. 113–291, § 901(g)(1)(B)][/us/pl/113/291/s901/g/1/B], transferred subsec. (c)(3) of [section 138c of this title][/us/usc/t10/s138c] to subsec. (a) of this section. See Codification note above.
+    [Pub. L. 113–291, § 901(g)(1)(B)][/us/pl/113/291/s901/g/1/B]–(C)(ii), transferred subsec. (c)(3) of [section 138c of this title][/us/usc/t10/s138c] to subsec. (a) of this section, inserted heading, and redesignated subpars. (A) to (E) as pars. (1) to (5), respectively. See Codification note above.
 
     Subsec. (a)(5). [Pub. L. 113–291, § 901(g)(1)(C)(iii)][/us/pl/113/291/s901/g/1/C/iii], substituted “subsection (c)(4)” for “subsection (e)(4)”.
 
@@ -138,7 +136,6 @@
 [/us/pl/113/66/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs311
 [/us/stat/127/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F728
 [/us/pl/113/291/s901/g/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fg%2F1%2FE
-[/us/pl/113/291/s901/g/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fg%2F1%2FC%2Fi
 [/us/pl/113/291/s901/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fg%2F1%2FB
 [/us/usc/t10/s138c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138c
 [/us/pl/113/291/s901/g/1/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fg%2F1%2FC%2Fiii

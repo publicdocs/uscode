@@ -143,7 +143,7 @@
 
     Subsec. (f). [Pub. L. 113–291, § 533(b)][/us/pl/113/291/s533/b], substituted “described in subsection (a)(2)” for “eligible for military legal assistance under [section 1044 of this title][/us/usc/t10/s1044]” in pars. (1) and (2).
 
- __Enhancement of Victims’ Rights in Connection With Prosecution of Certain Sex-related Offenses__ 
+ __Enhancement of Victims’ Rights in Connection With Prosecution of Certain Sex-Related Offenses__ 
 
 [Pub. L. 113–291, div. A, title V, § 534(b)][/us/pl/113/291/s534/b]–(e), Dec. 19, 2014, [128 Stat. 3367][/us/stat/128/3367], 3368, provided that:
 

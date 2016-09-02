@@ -81,7 +81,7 @@
 
     The Energy Independence and Security Act of 2007, referred to in subsec. (a)(1), (9), is [Pub. L. 110–140][/us/pl/110/140], Dec. 19, 2007, [121 Stat. 1492][/us/stat/121/1492], which enacted chapter 152 of Title 42, The Public Health and Welfare, and enacted and amended numerous other sections and notes in the Code. Section 433 of the Act amended sections 6832 and 6834 of Title 42 and enacted provisions set out as a note under [section 6834 of Title 42][/us/usc/t42/s6834]. For complete classification of this Act to the Code, see Short Title note set out under [section 17001 of Title 42][/us/usc/t42/s17001] and Tables.
 
-    [Section 138c of this title][/us/usc/t10/s138c], referred to in subsec. (b)(1), was repealed by [Pub. L. 113–291, div. A, title IX, § 901(g)(2)][/us/pl/113/291/s901/g/2], Dec. 19, 2014, [128 Stat. 3466][/us/stat/128/3466].
+    [Section 138c of this title][/us/usc/t10/s138c], referred to in subsec. (b)(1), was repealed by [Pub. L. 113–291, div. A, title IX, § 901(g)(2)][/us/pl/113/291/s901/g/2], Dec. 19, 2014, [128 Stat. 3466][/us/stat/128/3466]. See now [section 2926 of this title][/us/usc/t10/s2926], enacted by [Pub. L. 113–291][/us/pl/113/291], which relates to operational energy activities and is largely comprised of provisions transferred from former section 138c.
 
  __Amendments__ 
 
@@ -172,6 +172,8 @@
 [/us/usc/t10/s138c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138c
 [/us/pl/113/291/s901/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fg%2F2
 [/us/stat/128/3466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3466
+[/us/usc/t10/s2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2926
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239/s1076/d/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fd%2F6%2FA
 [/us/pl/112/239/s1076/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fc%2F3%2FA

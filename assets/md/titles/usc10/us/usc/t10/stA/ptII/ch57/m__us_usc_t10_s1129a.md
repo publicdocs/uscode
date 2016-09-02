@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1129.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch57/m__us_usc_t10_s1130.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1129a)
 
-## §§ 1129a. Purple Heart: members killed or wounded in attacks by foreign terrorist organizations
+## § 1129a. Purple Heart: members killed or wounded in attacks by foreign terrorist organizations
 
     (a)  __In General__  __.—__ 
 

@@ -887,7 +887,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         (1) After consultation with the other administering Secretaries, the Secretary of Defense shall negotiate and enter into an agreement with each designated provider under which the designated provider will provide health care services in or through managed care plans to covered beneficiaries who enroll with the designated provider.
 
->         “(2) The agreement shall be entered into on a sole source basis. The Federal Acquisition Regulation, except for those requirements regarding competition, issued pursuant to [section 1303(a) of title 41][/us/usc/t41/s1303/a], United States Code shall apply to the agreements as acquisitions of commercial items.
+>         “(2) The agreement shall be entered into on a sole source basis. The Federal Acquisition Regulation, except for those requirements regarding competition, issued pursuant to [section 1303(a) of title 41][/us/usc/t41/s1303/a], United States Code\[,\] shall apply to the agreements as acquisitions of commercial items.
 
 >         “(3) The implementation of an agreement is subject to availability of funds for such purpose.
 

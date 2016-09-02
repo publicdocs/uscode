@@ -175,7 +175,7 @@
 
     See 2014 Amendment note below.
 
-    [Pub. L. 113–291, div. A, title VI, § 623][/us/pl/113/291/s623], Dec. 19, 2014, [128 Stat. 3403][/us/stat/128/3403], provided that, effective Dec. 1, 2015, pursuant to [section 403(a) of Pub. L. 113–67][/us/pl/113/67/s403/a], as amended, subsection (b)(4)(G) of this section is amended by striking “January 1, 2014” and inserting “January 1, 2016”. See 2014 Amendment note below.
+    [Pub. L. 113–291, div. A, title VI, § 623][/us/pl/113/291/s623], Dec. 19, 2014, [128 Stat. 3403][/us/stat/128/3403], provided that subsection (b)(4)(G) of this section (see above), which takes effect Dec. 1, 2015, pursuant to [section 403(a) of Pub. L. 113–67][/us/pl/113/67/s403/a], as amended, is amended by striking “January 1, 2014” and inserting “January 1, 2016”. See 2014 Amendment note below.
 
  __References in Text__ 
 

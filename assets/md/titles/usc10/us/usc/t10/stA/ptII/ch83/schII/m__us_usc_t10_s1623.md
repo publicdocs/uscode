@@ -19,7 +19,7 @@
 
     (b) Any payments made by the Secretary to carry out the program required to be established by subsection (a) may be made in any fiscal year only to the extent that appropriated funds are available for that purpose.
 
-(Added [Pub. L. 101–193, title V, § 507(a)(1)][/us/pl/101/193/s507/a/1], Nov. 30, 1989, [103 Stat. 1709][/us/stat/103/1709], § 1608; renumbered § 1623, [Pub. L. 104–201, div. A, title XVI, § 1632(a)(2)][/us/pl/104/201/s1632/a/2], Sept. 23, 1996, [110 Stat. 2745][/us/stat/110/2745]; [Pub. L. 113–291, div. A, title X, § 1071(c)(9)][/us/pl/113/291/s1071/c/9], Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509].)
+(Added [Pub. L. 101–193, title V, § 507(a)(1)][/us/pl/101/193/s507/a/1], Nov. 30, 1989, [103 Stat. 1709][/us/stat/103/1709], § 1608; renumbered § 1623, [Pub. L. 104–201, div. A, title XVI, § 1632(a)(2)][/us/pl/104/201/s1632/a/2], Sept. 23, 1996, [110 Stat. 2745][/us/stat/110/2745]; amended [Pub. L. 113–291, div. A, title X, § 1071(c)(9)][/us/pl/113/291/s1071/c/9], Dec. 19, 2014, [128 Stat. 3509][/us/stat/128/3509].)
 
  __Prior Provisions__ 
 

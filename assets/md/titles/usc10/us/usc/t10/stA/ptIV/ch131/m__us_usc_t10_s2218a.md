@@ -33,7 +33,7 @@
 
     There shall be deposited in the Fund all funds appropriated to the Department of Defense for construction (including design of vessels), purchase, alteration, and conversion of national sea-based deterrence vessels.
 
-    (e)  __Expiration of Funds After 5 Years__  __.—__ 
+    (e)  __Expiration of Funds After __  __5__  __ Years__  __.—__ 
 
     No part of an appropriation that is deposited in the Fund pursuant to subsection (d) shall remain available for obligation more than five years after the end of fiscal year for which appropriated except to the extent specifically provided by law.
 

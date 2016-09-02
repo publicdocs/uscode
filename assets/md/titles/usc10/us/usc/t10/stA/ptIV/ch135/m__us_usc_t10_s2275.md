@@ -109,7 +109,7 @@
 
  __References in Text__ 
 
-    Such date of enactment, referred to in subsec. (d), probably means the date of the enactment of [Pub. L. 112–239][/us/pl/112/239], which was approved Jan. 2, 2013.
+    Such date of enactment, referred to in subsec. (d)(1), is a reference to the date of enactment of the National Defense Authorization Act for Fiscal Year 2013, [Pub. L. 112–239][/us/pl/112/239], which was approved Jan. 2, 2013. Such reference was struck out by [Pub. L. 113–291, § 1071(e)(3)(A)][/us/pl/113/291/s1071/e/3/A], see 2014 Amendment note below.
 
  __Prior Provisions__ 
 
@@ -119,7 +119,7 @@
 
     2014—Subsec. (d)(1). [Pub. L. 113–291, § 1071(e)(3)(A)][/us/pl/113/291/s1071/e/3/A], substituted “before January 2, 2013” for “before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013”.
 
-    Subsec. (d)(2). [Pub. L. 113–291, § 1071(e)(3)(B)][/us/pl/113/291/s1071/e/3/B], substituted “on or after January 2, 2013” for “on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013”
+    Subsec. (d)(2). [Pub. L. 113–291, § 1071(e)(3)(B)][/us/pl/113/291/s1071/e/3/B], substituted “on or after January 2, 2013” for “on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013”.
 
 ----------
 
@@ -136,6 +136,7 @@
 [/us/pl/113/291/s1071/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fe%2F3
 [/us/stat/128/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3509
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/291/s1071/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fe%2F3%2FA
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F126
 [/us/pl/103/160/s821/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs821%2Fa%2F1

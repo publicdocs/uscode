@@ -105,7 +105,7 @@
 
                 (ii) A detailed assessment by the Nuclear Weapons Council regarding how the Administrator for Nuclear Security implemented any agreements and decisions of the Council made during such prior fiscal year.
 
-                (iii) An assessment from each of the Chairman of the Joints Chiefs of Staff and the Commander of the United States Strategic Command regarding any effects to the military during such prior fiscal year that were caused by the delay or failure of the Administrator to implement any agreements or decisions described in clause (ii).
+                (iii) An assessment from each of the Chairman of the Joints  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  Chiefs of Staff and the Commander of the United States Strategic Command regarding any effects to the military during such prior fiscal year that were caused by the delay or failure of the Administrator to implement any agreements or decisions described in clause (ii).
 
             (C)
 

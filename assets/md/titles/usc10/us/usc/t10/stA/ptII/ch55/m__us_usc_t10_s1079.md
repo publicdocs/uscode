@@ -377,7 +377,7 @@ Provisions similar to those added to subsec. (h)(2) of this section by [section 
 
  __Amendments__ 
 
-    2014—Subsec. (a)(6) to (16). [Pub. L. 113–291, § 703(a)(1)][/us/pl/113/291/s703/a/1], redesignated pars. (7) to (17) as (6) to (16) respectively, and struck out former par. (6) which read as follows: “Inpatient mental health services may not (except as provided in subsection (i)) be provided to a patient in excess of—
+    2014—Subsec. (a)(6) to (16). [Pub. L. 113–291, § 703(a)(1)][/us/pl/113/291/s703/a/1], redesignated pars. (7) to (17) as (6) to (16), respectively, and struck out former par. (6) which read as follows: “Inpatient mental health services may not (except as provided in subsection (i)) be provided to a patient in excess of—
 
     “(A) 30 days in any year, in the case of a patient 19 years of age or older;
 
@@ -389,7 +389,7 @@ Provisions similar to those added to subsec. (h)(2) of this section by [section 
 
     Subsec. (e)(7). [Pub. L. 113–291, § 703(c)(1)][/us/pl/113/291/s703/c/1], substituted “subsection (a)(12)” for “subsection (a)(13)”.
 
-    Subsec. (i) to (q). [Pub. L. 113–291, § 703(a)(2)][/us/pl/113/291/s703/a/2], (3), redesignated subsecs. (j) to (q) as (i) to (p), respectively, and struck out former subsec. (i) which related to limitation in subsec. (a)(6) of this section as being inapplicable to inpatient mental health services in certain instances.
+    Subsecs. (i) to (q). [Pub. L. 113–291, § 703(a)(2)][/us/pl/113/291/s703/a/2], (3), redesignated subsecs. (j) to (q) as (i) to (p), respectively, and struck out former subsec. (i) which related to limitation in former subsec. (a)(6) of this section as being inapplicable to inpatient mental health services in certain instances.
 
     2009—Subsec. (f)(2)(B). [Pub. L. 111–84][/us/pl/111/84] struck out period after “year”.
 

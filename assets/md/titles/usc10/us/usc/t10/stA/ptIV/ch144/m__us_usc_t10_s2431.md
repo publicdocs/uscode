@@ -165,7 +165,7 @@
 
 >     In this section, the term ‘covered system’ means a new or substantially upgraded interceptor or weapon system of the ballistic missile defense system, other than the re-designed exo-atmospheric kill vehicle covered by the acquisition plan developed under section 1663 \[set out below\].”
 
- __Acquisition Plan for Re-designed Exo-Atmospheric Kill Vehicle__ 
+ __Acquisition Plan for Re-Designed Exo-Atmospheric Kill Vehicle__ 
 
 [Pub. L. 113–291, div. A, title XVI, § 1663][/us/pl/113/291/s1663], Dec. 19, 2014, [128 Stat. 3658][/us/stat/128/3658], provided that:
 

@@ -161,7 +161,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c)(1)(E). [Pub. L. 113–291][/us/pl/113/291] amended [Pub. L. 113–66, § 812(a)(3)(B)][/us/pl/113/66/s812/a/3/B]. See 2013 Amendment note below.
+    2014—Subsec. (c)(1)(E). [Pub. L. 113–291, § 1071(g)(2)][/us/pl/113/291/s1071/g/2], amended [Pub. L. 113–66, § 812(a)(3)(B)][/us/pl/113/66/s812/a/3/B]. See 2013 Amendment note below.
 
     2013—Subsec. (c)(1)(B) to (D). [Pub. L. 113–66, § 812(a)(2)][/us/pl/113/66/s812/a/2], added subpars. (B) to (D). Former subpars. (B) to (D) redesignated (E) to (G), respectively.
 
@@ -455,7 +455,7 @@
 [/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291/s1071/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fg%2F2
 [/us/pl/113/66/s812/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fa%2F3%2FB
 [/us/pl/113/66/s812/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fa%2F2
 [/us/pl/113/66/s812/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fa%2F3%2FB

@@ -553,7 +553,7 @@ Source (Statutes at Large)  </td>
 
 >         “(2)  __Extension of current authorities applicable to centcom__  __.—__ 
 
->         \[Amended [section 842(d)(1) of Pub. L. 112–81][/us/pl/112/81/s842/d/1], set out as a note under [section 2313 of this title][/us/usc/t10/s2313]\]
+>         \[Amended [section 842(d)(1) of Pub. L. 112–81][/us/pl/112/81/s842/d/1], set out as a note under [section 2313 of this title][/us/usc/t10/s2313].\]
 
 > “SEC. 843. __DEFINITIONS.__ 
 

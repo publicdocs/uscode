@@ -147,7 +147,7 @@
 
  __Prior Provisions__ 
 
-    A prior section, added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title I, § 131(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–28; amended [Pub. L. 108–136, div. A, title X, § 1031(a)(14)][/us/pl/108/136/s1031/a/14], Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597], related to annual report on the B–2 bomber aircraft, prior to repeal by [Pub. L. 112–81, div. A, title X, § 1061(13)(A)][/us/pl/112/81/s1061/13/A], Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583].
+    A prior section 2282, added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title I, § 131(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–28; amended [Pub. L. 108–136, div. A, title X, § 1031(a)(14)][/us/pl/108/136/s1031/a/14], Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597], related to annual report on the B–2 bomber aircraft, prior to repeal by [Pub. L. 112–81, div. A, title X, § 1061(13)(A)][/us/pl/112/81/s1061/13/A], Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583].
 
  __Training of Security Forces and Associated Security Ministries of Foreign Countries To Promote Respect for the Rule of Law and Human Rights__ 
 

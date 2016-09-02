@@ -79,7 +79,7 @@
 
  __Change of Name__ 
 
-    “Under Secretary of Defense for Business Management and Information” substituted for “Deputy Chief Management Officer of the Department of Defense” in subsec. (e)(2) after Feb. 1, 2017, on authority of [section 901(n)(1) of Pub. L. 113–291][/us/pl/113/291/s901/n/1], set out as a note under [section 131 of this title][/us/usc/t10/s131].
+    “Under Secretary of Defense for Business Management and Information” substituted for “Deputy Chief Management Officer of the Department of Defense” in subsec. (e)(2) after Feb. 1, 2017, on authority of [section 901(n)(1) of Pub. L. 113–291][/us/pl/113/291/s901/n/1], set out as a References note under [section 131 of this title][/us/usc/t10/s131].
 
  __First Review of Defense Agencies by Secretary of Defense__ 
 

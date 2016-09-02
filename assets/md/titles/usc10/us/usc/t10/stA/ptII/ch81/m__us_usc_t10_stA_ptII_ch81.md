@@ -457,7 +457,7 @@
 
 >         “(7)  __Consideration for senior management, functional, and technical workforce__  __.—__ 
 
->         Any participant in the program who, as determined by the Secretary, demonstrates outstanding performance shall be afforded priority in consideration for selection into the appropriate element of the senior management, functional, and technical workforce of the Department of Defense (as defined in [section 115b(f) of title 10][/us/usc/t10/s115b/f], United States Code) \[see [10 U.S.C. 115b(h)][/us/usc/t10/s115b/h]\].”
+>         Any participant in the program who, as determined by the Secretary, demonstrates outstanding performance shall be afforded priority in consideration for selection into the appropriate element of the senior management, functional, and technical workforce of the Department of Defense (as defined in [section 115b(f) of title 10][/us/usc/t10/s115b/f], United States Code) \[see now [10 U.S.C. 115b(h)][/us/usc/t10/s115b/h]\].”
 
  __Direct Hire Authority at Personnel Demonstration Laboratories for Certain Candidates__ 
 

@@ -139,7 +139,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–76][/us/pl/113/76] effective Dec. 1, 2015, immediately after the coming into effect of [section 403 of Pub. L. 113–67][/us/pl/113/67/s403] and the amendments made by that section, see [section 10001(c) of div. C of Pub. L. 113–76][/us/pl/113/76/s10001/c], set out as a note under [section 1401a of this title][/us/usc/t10/s1401a].
+    Amendment by [Pub. L. 113–76][/us/pl/113/76] effective Dec. 1, 2015, immediately after the coming into effect of [section 403 of Pub. L. 113–67][/us/pl/113/67/s403] and the amendments made by that section, see [section 10001(c) of Pub. L. 113–76][/us/pl/113/76/s10001/c], set out as a note under [section 1401a of this title][/us/usc/t10/s1401a].
 
  __Effective Date of 2013 Amendment__ 
 
