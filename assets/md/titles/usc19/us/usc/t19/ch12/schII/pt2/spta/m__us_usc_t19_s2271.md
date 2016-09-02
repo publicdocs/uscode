@@ -183,7 +183,7 @@
 
  __Termination Date__ 
 
-    No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see [section 285 of Pub. L. 93–618][/us/pl/93/618/s285], set out as a note preceding this section.
+    No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2014, except as otherwise provided, see [section 285 of Pub. L. 93–618][/us/pl/93/618/s285] and [section 233(a) of Pub. L. 112–40][/us/pl/112/40/s233/a], set out as notes preceding this section.
 
  __Applicability of Trade Adjustment Assistance Provisions__ 
 
@@ -389,6 +389,7 @@
 [/us/stat/107/2152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2152
 [/us/usc/t19/s2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2331
 [/us/pl/93/618/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs285
+[/us/pl/112/40/s233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233%2Fa
 [/us/pl/112/40/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs231
 [/us/stat/125/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F413
 [/us/usc/t19/s2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2272

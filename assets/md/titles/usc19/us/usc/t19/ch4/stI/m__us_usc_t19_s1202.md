@@ -17,7 +17,7 @@
 
  __Publication of Harmonized Tariff Schedule__ 
 
-    The Harmonized Tariff Schedule of the United States is not published in the Code. A current version of the Harmonized Tariff Schedule is maintained and published periodically by the United States International Trade Commission and is available at http://www.usitc.gov/tata/hts and for sale by the Superintendent of Documents, U.S. Government Printing Office, Washington, D.C. 20402.
+    The Harmonized Tariff Schedule of the United States is not published in the Code. A current version of the Harmonized Tariff Schedule is maintained and published periodically by the United States International Trade Commission and is available at http://www.usitc.gov/tata/hts/index.htm and for sale by the Superintendent of Documents, U.S. Government Publishing Office, Washington, D.C. 20402.
 
  __Reference to Tariff Schedules To Be Treated as Reference to Harmonized Tariff Schedule__ 
 

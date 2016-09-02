@@ -37,7 +37,7 @@
 
  __Termination Date__ 
 
-    Except as otherwise provided, technical assistance and grants may not be provided under this section after Dec. 31, 2013, see [section 285 of Pub. L. 93–618][/us/pl/93/618/s285], set out as a note preceding [section 2271 of this title][/us/usc/t19/s2271].
+    Except as otherwise provided, assistance may not be provided under this section after Dec. 31, 2015, see [section 285 of Pub. L. 93–618][/us/pl/93/618/s285] and [section 541(b) of Pub. L. 113–235][/us/pl/113/235/s541/b], set out as notes preceding [section 2271 of this title][/us/usc/t19/s2271].
 
 ----------
 
@@ -66,6 +66,7 @@
 [/us/pl/112/40/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
 [/us/pl/93/618/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs285
+[/us/pl/113/235/s541/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs541%2Fb
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
 
 

@@ -15,6 +15,26 @@
 
 #### Part 2—Adjustment Assistance for Workers
 
+ __Applicability of Provisions During Calendar Year 2015__ 
+
+[Pub. L. 113–235, div. B, title V, § 541][/us/pl/113/235/s541], Dec. 16, 2014, [128 Stat. 2217][/us/stat/128/2217], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     During the period beginning on January 1, 2015, and ending on December 31, 2015, the provisions of chapter 3 of title II of the Trade Act of 1974 ([19 U.S.C. 2341][/us/usc/t19/s2341] et seq.) \[part 3 of this subchapter\], as in effect on December 31, 2014, shall apply, except that in applying and administering such provisions, section 256(b) of that Act \[[19 U.S.C. 2346(b)][/us/usc/t19/s2346/b]\] shall be applied and administered by substituting ‘$16,000,000 for the period beginning on January 1, 2015, and ending December 31, 2015’ for ‘$16,000,000 for each of fiscal years 2003 through 2007, and $4,000,000 for the 3-month period beginning on October 1, 2007’.
+
+>     “(b)  __Termination__  __.—__ 
+
+>     During the period beginning on January 1, 2015, and ending on December 31, 2015, section 285 of the Trade Act of 1974 \[[Pub. L. 93–618][/us/pl/93/618]\] ([19 U.S.C. 2271][/us/usc/t19/s2271] note \[prec.\]) \[set out as a Termination Date note below\], as in effect on December 31, 2014, shall apply, except that in applying and administering that section, subsection (b) of that section shall be applied and administered as if paragraph (1) read as follows:    “ ‘(1) Assistance for firms.—
+
+>         “ ‘(A) In general.—Except as provided in subparagraph (B), assistance may not be provided under chapter 3 \[part 3 of this subchapter\] after December 31, 2015.
+
+>         “ ‘(B) Exception.—Notwithstanding subparagraph (A), any assistance approved under chapter 3 on or before December 31, 2015, may be provided—
+
+>         “ ‘(i) to the extent funds are available pursuant to such chapter for such purpose; and
+
+>         “ ‘(ii) to the extent the recipient of the assistance is otherwise eligible to receive such assistance.’.”
+
  __Effective and Termination Dates of 2011 Revival__ 
 
 [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], provided that:
@@ -211,6 +231,18 @@
 
 >                 “(ii) to the extent the recipient of the technical or financial assistance is otherwise eligible to receive such technical or financial assistance, as the case may be.”
 
+\[[Pub. L. 113–235, div. B, title V, § 541(b)][/us/pl/113/235/s541/b], Dec. 16, 2014, [128 Stat. 2217][/us/stat/128/2217], provided that, during the period beginning on Jan. 1, 2015, and ending on Dec. 31, 2015, [section 285 of Pub. L. 93–618][/us/pl/93/618/s285], set out above, as in effect on Dec. 31, 2014, shall apply, except that subsec. (b) of that section shall be applied and administered as if par. (1) read as follows:
+
+    \[“(1) Assistance for firms.—
+
+    \[“(A) In general.—Except as provided in subparagraph (B), assistance may not be provided under chapter 3 \[part 3 of this subchapter\] after December 31, 2015.
+
+    \[“(B) Exception.—Notwithstanding subparagraph (A), any assistance approved under chapter 3 on or before December 31, 2015, may be provided—
+
+    \[“(i) to the extent funds are available pursuant to such chapter for such purpose; and
+
+    \[“(ii) to the extent the recipient of the assistance is otherwise eligible to receive such assistance.”\]
+
     \[[Pub. L. 112–40, title II, § 233(a)][/us/pl/112/40/s233/a], Oct. 21, 2011, [125 Stat. 416][/us/stat/125/416], provided that, beginning Jan. 1, 2014, subject to section 233(b), set out as an Effective and Termination Dates of 2011 Revival note above, [section 285 of Pub. L. 93–618][/us/pl/93/618/s285], set out above, as in effect on Feb. 13, 2011, shall be applied and administered—
 
     \[(1) in subsec. (a), by substituting “2014” for “2007” wherever appearing; and
@@ -286,6 +318,12 @@
 ----------
 ----------
 
+[/us/pl/113/235/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs541
+[/us/stat/128/2217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2217
+[/us/usc/t19/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2341
+[/us/usc/t19/s2346/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2346%2Fb
+[/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
+[/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
 [/us/pl/112/40/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fb
 [/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
@@ -369,6 +407,9 @@
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
 [/us/usc/t19/s2341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2341
 [/us/usc/t19/s2401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2401a
+[/us/pl/113/235/s541/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs541%2Fb
+[/us/stat/128/2217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2217
+[/us/pl/93/618/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs285
 [/us/pl/112/40/s233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233%2Fa
 [/us/stat/125/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F416
 [/us/pl/93/618/s285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs285
