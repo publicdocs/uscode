@@ -19,6 +19,10 @@
 
 ([Pub. L. 103–236, title III, § 315(d)][/us/pl/103/236/s315/d], as added [Pub. L. 103–415, § 1][/us/pl/103/415/s1](ll), Oct. 25, 1994, [108 Stat. 4303][/us/stat/108/4303].)
 
+ __References in Text__ 
+
+    This chapter, referred to in text, was in the original “this title”, meaning title III of [Pub. L. 103–236][/us/pl/103/236], Apr. 30, 1994, [108 Stat. 432][/us/stat/108/432], known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title][/us/usc/t22/s6201] and Tables.
+
 ----------
 
 [Previous](./../../../..//us/usc/t22/ch71/m__us_usc_t22_s6213.md) | [Next](./../../../..//us/usc/t22/ch71/m__us_usc_t22_s6215.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6214)
@@ -29,5 +33,8 @@
 [/us/pl/103/236/s315/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs315%2Fd
 [/us/pl/103/415/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F415%2Fs1
 [/us/stat/108/4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4303
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/stat/108/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F432
+[/us/usc/t22/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6201
 
 

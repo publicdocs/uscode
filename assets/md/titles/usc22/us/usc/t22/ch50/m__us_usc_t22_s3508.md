@@ -37,6 +37,10 @@
 
 ([Pub. L. 96–53, title IV, § 408][/us/pl/96/53/s408], Aug. 14, 1979, [93 Stat. 375][/us/stat/93/375].)
 
+ __References in Text__ 
+
+    This chapter, referred to in subsec. (c), was in the original “this title”, meaning title IV of [Pub. L. 96–53][/us/pl/96/53], Aug. 14, 1979, [93 Stat. 371][/us/stat/93/371], which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
+
  __Abolition of Immigration and Naturalization Service and Transfer of Functions__ 
 
     For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8][/us/usc/t8/s1551], Aliens and Nationality.
@@ -56,6 +60,8 @@
 [/us/usc/t8/s1101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15
 [/us/pl/96/53/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs408
 [/us/stat/93/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F375
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
+[/us/stat/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F371
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

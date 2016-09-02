@@ -125,9 +125,9 @@
 
             (A)
 
-                (i) At any time during fiscal years 2009 through 2013, no United States contribution to the Global Fund may cause the total amount of United States Government contributions to the Global Fund to exceed 33 percent of the total amount of funds contributed to the Global Fund from all sources. Contributions to the Global Fund from the International Bank for Reconstruction and Development and the International Monetary Fund shall not be considered in determining compliance with this paragraph.
+                (i) At any time during fiscal years 2009 through 2018, no United States contribution to the Global Fund may cause the total amount of United States Government contributions to the Global Fund to exceed 33 percent of the total amount of funds contributed to the Global Fund from all sources. Contributions to the Global Fund from the International Bank for Reconstruction and Development and the International Monetary Fund shall not be considered in determining compliance with this paragraph.
 
-                (ii) If, at any time during any of the fiscal years 2009 through 2013, the President determines that the Global Fund has provided assistance to a country, the government of which the Secretary of State has determined, for purposes of [section 2405(j)(1) of title 50][/us/usc/t50/s2405/j/1], Appendix, has repeatedly provided support for acts of international terrorism, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the amount expended by the Fund to the government of each such country. The President may waive the application of this clause with respect to assistance for Sudan that is overseen by the Southern Country Coordinating Mechanism, including Southern Sudan, Southern Kordofan, Blue Nile State, and Abyei, if the President determines that the national interest or humanitarian reasons justify such a waiver. The President shall publish each waiver of this clause in the Federal Register and, not later than 15 days before the waiver takes effect, shall consult with the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives regarding the proposed waiver.
+                (ii) If, at any time during any of the fiscal years 2009 through 2018, the President determines that the Global Fund has provided assistance to a country, the government of which the Secretary of State has determined, for purposes of [section 2405(j)(1) of title 50][/us/usc/t50/s2405/j/1], Appendix, has repeatedly provided support for acts of international terrorism, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the amount expended by the Fund to the government of each such country.
 
                 (iii) If at any time the President determines that the expenses of the Governing, Administrative, and Advisory Bodies (including the Partnership Forum, the Foundation Board, the Secretariat, and the Technical Review Board) of the Global Fund exceed 10 percent of the total expenditures of the Fund for any 2-year period, the United States shall withhold from its contribution for the next fiscal year an amount equal the to the average annual amount expended by the Fund for such 2-year period for the expenses of the Governing, Administrative, and Advisory Bodies in excess of 10 percent of the total expenditures of the Fund.
 
@@ -135,17 +135,17 @@
 
                 (v) If, at any time during any of the fiscal years 2004 through 2008, the President determines that the salary of any individual employed by the Global Fund exceeds the salary of the Vice President of the United States (as determined under [section 104 of title 3][/us/usc/t3/s104]) for that fiscal year, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the aggregate amount by which the salary of each such individual exceeds the salary of the Vice President of the United States.
 
-                (vi) For the purposes of clause (i), “funds contributed to the Global Fund from all sources” means funds contributed to the Global Fund at any time during fiscal years 2009 through 2013 that are not contributed to fulfill a commitment made for a fiscal year before fiscal year 2009.
+                (vi) For the purposes of clause (i), “funds contributed to the Global Fund from all sources” means funds contributed to the Global Fund at any time during fiscal years 2009 through 2018 that are not contributed to fulfill a commitment made for a fiscal year before fiscal year 2009.
 
             (B)
 
-                (i) Any amount made available under this subsection that is withheld by reason of subparagraph (A)(i) shall be contributed to the Global Fund as soon as practicable, subject to subparagraph (A)(i), after additional contributions to the Global Fund are made from other sources.
+                (i) Any amount made available that is withheld by reason of subparagraph (A)(i) shall be contributed to the Global Fund as soon as practicable, subject to subparagraph (A)(i), after additional contributions to the Global Fund are made from other sources.
 
-                (ii) Any amount made available under this subsection that is withheld by reason of subparagraph (A)(iii) shall be transferred to the Activities to Combat HIV/AIDS Globally Fund and shall remain available under the same terms and conditions as funds appropriated pursuant to the authorization of appropriations under [section 7671 of this title][/us/usc/t22/s7671] for HIV/AIDS assistance.
+                (ii) Any amount made available that is withheld by reason of subparagraph (A)(iii) shall be transferred to the Activities to Combat HIV/AIDS Globally Fund and shall remain available under the same terms and conditions as funds appropriated to carry out [section 2151b–2 of this title][/us/usc/t22/s2151b–2] for HIV/AIDS assistance.
 
-                (iii) Any amount made available under this subsection that is withheld by reason of clause (ii) or (iii) of subparagraph (A) is authorized to be made available to carry out [section 2151b–2 of this title][/us/usc/t22/s2151b–2]. Amounts made available under the preceding sentence are in addition to amounts appropriated pursuant to the authorization of appropriations under [section 7671 of this title][/us/usc/t22/s7671] for HIV/AIDS assistance.
+                (iii) Any amount made available that is withheld by reason of clause (ii) or (iii) of subparagraph (A) is authorized to be made available to carry out [section 2151b–2 of this title][/us/usc/t22/s2151b–2]. Amounts made available under the preceding sentence are in addition to amounts appropriated pursuant to the authorization of appropriations under [section 7671 of this title][/us/usc/t22/s7671] for HIV/AIDS assistance.
 
-                (iv) Notwithstanding clause (i), after July 31 of each of the fiscal years 2009 through 2013, any amount made available under this subsection that is withheld by reason of subparagraph (A)(i) is authorized to be made available to carry out sections 2151b–2, 2151b–3, and 2151b–4 of this title.
+                (iv) Notwithstanding clause (i), after July 31 of each of the fiscal years 2009 through 2018, any amount made available that is withheld by reason of subparagraph (A)(i) is authorized to be made available to carry out sections 2151b–2, 2151b–3, and 2151b–4 of this title.
 
             (C)
 
@@ -161,7 +161,7 @@
 
         (5) __Withholding funds__ 
 
-        Notwithstanding any other provision of this chapter, 20 percent of the amounts appropriated pursuant to this chapter for a contribution to support the Global Fund for each of the fiscal years 2010 through 2013 shall be withheld from obligation to the Global Fund until the Secretary of State certifies to the appropriate congressional committees that the Global Fund—
+        Notwithstanding any other provision of this chapter, 20 percent of the amounts appropriated pursuant to this chapter for a contribution to support the Global Fund for each of the fiscal years 2010 through 2018 shall be withheld from obligation to the Global Fund until the Secretary of State certifies to the appropriate congressional committees that the Global Fund—
 
             (A) has established an evaluation framework for the performance of Local Fund Agents (referred to in this paragraph as “LFAs”);
 
@@ -169,7 +169,7 @@
 
             (C)
 
-             has adopted, and is implementing, a policy to publish on a publicly available Web site—
+             has adopted, and is implementing, a policy to publish on a publicly available Web site in an open, machine readable format—
 
                 (i) grant performance reviews;
 
@@ -179,7 +179,7 @@
 
                 (iv) reports from Board committees to the Board; and
 
-                (v) a regular collection and analysis of performance data and funding of grants of the Global Fund, which shall cover all principal recipients and all subrecipients;
+                (v) a regular collection, analysis, and reporting of performance data and funding of grants of the Global Fund, which covers all principal recipients and all subrecipients on the fiscal cycle of each grant, and includes the distribution of resources, by grant and principal recipient and subrecipient, for prevention, care, treatment, drugs, and commodities purchase, and other purposes as practicable;
 
             (D)
 
@@ -187,19 +187,41 @@
 
                 (i) reports directly to the Board of the Global Fund; and
 
-                (ii) compiles regular, publicly published audits of financial, programmatic, and reporting aspects of the Global Fund, its grantees, and LFAs;
+                (ii) compiles regular, publicly published audits, in an open, machine readable format, of financial, programmatic, and reporting aspects of the Global Fund, its grantees, and LFAs;
 
-            (E) has established, and is reporting publicly on, standard indicators for all program areas;
+            (E) has established, and is reporting publicly, in an open, machine readable format, on, standard indicators for all program areas;
 
             (F)
 
              has established a methodology to track and is publicly reporting on—
 
-                (i) all subrecipients and the amount of funds disbursed to each subrecipient on the grant’s fiscal cycle; and
+                (i) all subrecipients and the amount of funds disbursed to each subrecipient on the grant’s fiscal cycle;
 
-                (ii) the distribution of resources, by grant and principal recipient, for prevention, care, treatment, drugs and commodities purchase, and other purposes;
+                (ii) all principal recipients and subrecipients and the amount of funds disbursed to each principal recipient and subrecipient on the fiscal cycle of the grant;
 
-            (G) has established a policy on tariffs imposed by national governments on all goods and services financed by the Global Fund;
+                (iii)
+
+                 expenditure data—
+
+                    (I) tracked by principal recipients and subrecipients by program area, where practicable, prevention, care, and treatment and reported in a format that allows comparison with other funding streams in each country; or
+
+                    (II) if such expenditure data is not available, outlay or disbursement data, and an explanation of progress made toward providing such expenditure data; and
+
+                (iv) high-quality grant performance evaluations measuring inputs, outputs, and outcomes, as appropriate, with the goal of achieving outcome reporting;
+
+            (G)
+
+             has published an annual report on a publicly available Web site in an open, machine readable format, that includes—
+
+                (i) a list of all countries imposing import duties and internal taxes on any goods or services financed by the Global Fund;
+
+                (ii) a description of the types of goods or services on which the import duties and internal taxes are levied;
+
+                (iii) the total cost of the import duties and internal taxes;
+
+                (iv) recovered import duties or internal taxes; and
+
+                (v) the status of country status-agreements;
 
             (H) through its Secretariat, has taken meaningful steps to prevent national authorities in recipient countries from imposing taxes or tariffs on goods or services provided by the Fund;
 
@@ -289,7 +311,7 @@
 
             (B) making public service announcements on radio and television.
 
-([Pub. L. 108–25, title II, § 202][/us/pl/108/25/s202], May 27, 2003, [117 Stat. 724][/us/stat/117/724]; [Pub. L. 108–199, div. D, title V, § 595(1)][/us/pl/108/199/s595/1], (2), Jan. 23, 2004, [118 Stat. 209][/us/stat/118/209]; [Pub. L. 110–293, title II, § 202][/us/pl/110/293/s202], July 30, 2008, [122 Stat. 2936][/us/stat/122/2936].)
+([Pub. L. 108–25, title II, § 202][/us/pl/108/25/s202], May 27, 2003, [117 Stat. 724][/us/stat/117/724]; [Pub. L. 108–199, div. D, title V, § 595(1)][/us/pl/108/199/s595/1], (2), Jan. 23, 2004, [118 Stat. 209][/us/stat/118/209]; [Pub. L. 110–293, title II, § 202][/us/pl/110/293/s202], July 30, 2008, [122 Stat. 2936][/us/stat/122/2936]; [Pub. L. 113–56, § 4][/us/pl/113/56/s4], Dec. 2, 2013, [127 Stat. 649][/us/stat/127/649].)
 
  __References in Text__ 
 
@@ -298,6 +320,32 @@
     This chapter, referred to in subsecs. (a)(1)(B)(ii), (d)(5), and (e)(2)(B), was in the original a reference to this Act, meaning [Pub. L. 108–25][/us/pl/108/25], May 27, 2003, [117 Stat. 711][/us/stat/117/711], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7601 of this title][/us/usc/t22/s7601] and Tables.
 
  __Amendments__ 
+
+    2013—Subsec. (d)(4)(A)(i). [Pub. L. 113–56, § 4(a)(1)(A)][/us/pl/113/56/s4/a/1/A], substituted “2018” for “2013”.
+
+    Subsec. (d)(4)(A)(ii). [Pub. L. 113–56, § 4(a)(1)(B)][/us/pl/113/56/s4/a/1/B], substituted “2018” for “2013” and struck out at end “The President may waive the application of this clause with respect to assistance for Sudan that is overseen by the Southern Country Coordinating Mechanism, including Southern Sudan, Southern Kordofan, Blue Nile State, and Abyei, if the President determines that the national interest or humanitarian reasons justify such a waiver. The President shall publish each waiver of this clause in the Federal Register and, not later than 15 days before the waiver takes effect, shall consult with the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives regarding the proposed waiver.”
+
+    Subsec. (d)(4)(A)(vi). [Pub. L. 113–56, § 4(a)(1)(C)][/us/pl/113/56/s4/a/1/C], substituted “2018” for “2013”.
+
+    Subsec. (d)(4)(B). [Pub. L. 113–56, § 4(a)(2)(A)][/us/pl/113/56/s4/a/2/A], struck out “under this subsection” after “amount made available” in cls. (i) to (iv).
+
+    Subsec. (d)(4)(B)(ii). [Pub. L. 113–56, § 4(a)(2)(B)][/us/pl/113/56/s4/a/2/B], substituted “to carry out [section 2151b–2 of this title][/us/usc/t22/s2151b–2]” for “pursuant to the authorization of appropriations under [section 7671 of this title][/us/usc/t22/s7671]”.
+
+    Subsec. (d)(4)(B)(iv). [Pub. L. 113–56, § 4(a)(2)(C)][/us/pl/113/56/s4/a/2/C], substituted “2018” for “2013”.
+
+    Subsec. (d)(5). [Pub. L. 113–56, § 4(b)(1)(A)][/us/pl/113/56/s4/b/1/A], substituted “2018” for “2013” in introductory provisions.
+
+    Subsec. (d)(5)(C). [Pub. L. 113–56, § 4(b)(1)(B)(i)][/us/pl/113/56/s4/b/1/B/i], inserted “in an open, machine readable format” after “site” in introductory provisions.
+
+    Subsec. (d)(5)(C)(v). [Pub. L. 113–56, § 4(b)(1)(B)(ii)][/us/pl/113/56/s4/b/1/B/ii], amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “a regular collection and analysis of performance data and funding of grants of the Global Fund, which shall cover all principal recipients and all subrecipients;”.
+
+    Subsec. (d)(5)(D)(ii). [Pub. L. 113–56, § 4(b)(1)(C)][/us/pl/113/56/s4/b/1/C], inserted “, in an open, machine readable format,” after “audits”.
+
+    Subsec. (d)(5)(E). [Pub. L. 113–56, § 4(b)(1)(D)][/us/pl/113/56/s4/b/1/D], inserted “, in an open, machine readable format,” after “publicly”.
+
+    Subsec. (d)(5)(F)(ii) to (iv). [Pub. L. 113–56, § 4(b)(1)(E)][/us/pl/113/56/s4/b/1/E], added cls. (ii) to (iv) and struck out former cl. (ii) which read as follows: “the distribution of resources, by grant and principal recipient, for prevention, care, treatment, drugs and commodities purchase, and other purposes;”.
+
+    Subsec. (d)(5)(G). [Pub. L. 113–56, § 4(b)(1)(F)][/us/pl/113/56/s4/b/1/F], amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “has established a policy on tariffs imposed by national governments on all goods and services financed by the Global Fund;”.
 
     2008—Subsec. (a). [Pub. L. 110–293, § 202(a)][/us/pl/110/293/s202/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) stated findings of Congress.
 
@@ -339,7 +387,7 @@
 [/us/usc/t22/s6841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6841
 [/us/usc/t50/s2405/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405%2Fj%2F1
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
-[/us/usc/t22/s7671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7671
+[/us/usc/t22/s2151b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932
 [/us/usc/t22/s2151b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932
 [/us/usc/t22/s7671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7671
 [/us/usc/t22/s2651a/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a%2Ff%2F1
@@ -349,12 +397,29 @@
 [/us/stat/118/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F209
 [/us/pl/110/293/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs202
 [/us/stat/122/2936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2936
+[/us/pl/113/56/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4
+[/us/stat/127/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F649
 [/us/pl/106/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F264
 [/us/stat/114/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F748
 [/us/usc/t22/s6801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6801
 [/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/stat/117/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F711
 [/us/usc/t22/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7601
+[/us/pl/113/56/s4/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fa%2F1%2FA
+[/us/pl/113/56/s4/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fa%2F1%2FB
+[/us/pl/113/56/s4/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fa%2F1%2FC
+[/us/pl/113/56/s4/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fa%2F2%2FA
+[/us/pl/113/56/s4/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fa%2F2%2FB
+[/us/usc/t22/s2151b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932
+[/us/usc/t22/s7671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7671
+[/us/pl/113/56/s4/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fa%2F2%2FC
+[/us/pl/113/56/s4/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fb%2F1%2FA
+[/us/pl/113/56/s4/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fb%2F1%2FB%2Fi
+[/us/pl/113/56/s4/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fb%2F1%2FB%2Fii
+[/us/pl/113/56/s4/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fb%2F1%2FC
+[/us/pl/113/56/s4/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fb%2F1%2FD
+[/us/pl/113/56/s4/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fb%2F1%2FE
+[/us/pl/113/56/s4/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs4%2Fb%2F1%2FF
 [/us/pl/110/293/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs202%2Fa
 [/us/pl/110/293/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs202%2Fb
 [/us/pl/110/293/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs202%2Fc%2F1

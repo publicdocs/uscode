@@ -425,7 +425,7 @@
 
             (A) __Development__ 
 
-                The Inspectors General of the Department of State and Broadcasting Board of Governors, the Department of Health and Human Services, and the United States Agency for International Development shall jointly develop 5 coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2013, with regard to the programs authorized under this chapter and sections 2151b–2, 2151b–3, and 2151b–4 of this title.
+                The Inspectors General of the Department of State and Broadcasting Board of Governors, the Department of Health and Human Services, and the United States Agency for International Development shall jointly develop coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2018, with regard to the programs authorized under this chapter and sections 2151b–2, 2151b–3, and 2151b–4 of this title.
 
             (B) __Contents__ 
 
@@ -441,9 +441,17 @@
 
                     (II) 60 days after July 30, 2008.
 
-                (ii) __Subsequent plans__ 
+                (ii) __2010 through 2013 plans__ 
 
-                    Each of the last four plans developed under subparagraph (A) shall be completed not later than 30 days before each of the fiscal years 2010 through 2013, respectively.
+                    Each of the plans for fiscal years 2010 through 2013 developed under subparagraph (A) shall be completed not later than 30 days before each of the fiscal years 2010 through 2013, respectively.
+
+                (iii) __2014 plan__ 
+
+                    The plan developed under subparagraph (A) for fiscal year 2014 shall be completed not later than 60 days after December 2, 2013.
+
+                (iv) __Subsequent plans__ 
+
+                    Each of the last four plans developed under subparagraph (A) shall be completed not later than 30 days before each of the fiscal years 2015 through 2018, respectively.
 
         (2) __Coordination__ 
 
@@ -461,7 +469,7 @@
 
         (1) __In general__ 
 
-        Not later than September 30, 2009, and annually thereafter through September 30, 2013, the Global AIDS Coordinator shall complete a study of treatment providers that—
+        Not later than September 30, 2009, and annually thereafter through September 30, 2019, the Global AIDS Coordinator shall complete a study of treatment providers that—
 
             (A) represents a range of countries and service environments;
 
@@ -477,9 +485,27 @@
 
                 (iii) other subcategories, as appropriate.
 
-        (2) __Publication__ 
+        (2) __2013 through 2018 studies__ 
+
+        The studies required to be submitted by September 30, 2014, and annually thereafter through September 30, 2018, shall include, in addition to the elements set forth under paragraph (1), the following elements:
+
+            (A) A plan for conducting cost studies of United States assistance under [section 2151b–2 of this title][/us/usc/t22/s2151b–2] in partner countries, taking into account the goal for more systematic collection of data, as well as the demands of such analysis on available human and fiscal resources.
+
+            (B)
+
+             A comprehensive and harmonized expenditure analysis by partner country, including—
+
+                (i) an analysis of Global Fund and national partner spending and comparable data across United States, Global Fund, and national partner spending; or
+
+                (ii) where providing such comparable data is not currently practicable, an explanation of why it is not currently practicable, and when it will be practicable.
+
+        (3) __Publication__ 
 
             Not later than 90 days after the completion of each study under paragraph (1), the Global AIDS Coordinator shall make the results of such study available on a publicly accessible Web site.
+
+        (4) __Partner country defined__ 
+
+            In this subsection, the term “partner country” means a country with a minimum United States Government investment of HIV/AIDS assistance of at least $5,000,000 in the prior fiscal year.
 
     (h) __Message__ 
 
@@ -489,13 +515,25 @@
 
         (2) enhances awareness by program recipients that the program is an effort on behalf of the citizens of the United States.
 
-([Pub. L. 108–25, title I, § 101][/us/pl/108/25/s101], May 27, 2003, [117 Stat. 718][/us/stat/117/718]; [Pub. L. 110–293, title I, § 101][/us/pl/110/293/s101], July 30, 2008, [122 Stat. 2923][/us/stat/122/2923].)
+([Pub. L. 108–25, title I, § 101][/us/pl/108/25/s101], May 27, 2003, [117 Stat. 718][/us/stat/117/718]; [Pub. L. 110–293, title I, § 101][/us/pl/110/293/s101], July 30, 2008, [122 Stat. 2923][/us/stat/122/2923]; [Pub. L. 113–56][/us/pl/113/56], §§ 2, 3, Dec. 2, 2013, [127 Stat. 648][/us/stat/127/648].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (c)(2)(B)(vi), (vii), (f)(1)(A), (g)(1)(B), and (h), was in the original “this Act”, meaning [Pub. L. 108–25][/us/pl/108/25], May 27, 2003, [117 Stat. 711][/us/stat/117/711], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7601 of this title][/us/usc/t22/s7601] and Tables.
 
  __Amendments__ 
+
+    2013—Subsec. (f)(1)(A). [Pub. L. 113–56, § 2(1)][/us/pl/113/56/s2/1], substituted “coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2018” for “5 coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2013”.
+
+    Subsec. (f)(1)(C)(ii). [Pub. L. 113–56, § 2(2)(A)][/us/pl/113/56/s2/2/A], substituted “2010 through 2013 plans” for “Subsequent plans” in heading and “the plans for fiscal years 2010 through 2013” for “the last four plans” in text.
+
+    Subsec. (f)(1)(C)(iii), (iv). [Pub. L. 113–56, § 2(2)(B)][/us/pl/113/56/s2/2/B], added cls. (iii) and (iv).
+
+    Subsec. (g)(1). [Pub. L. 113–56, § 3(a)(1)][/us/pl/113/56/s3/a/1], substituted “through September 30, 2019” for “through September 30, 2013” in introductory provisions.
+
+    Subsec. (g)(2), (3). [Pub. L. 113–56, § 3(a)(2)][/us/pl/113/56/s3/a/2], (3), added par. (2) and redesignated former par. (2) as (3).
+
+    Subsec. (g)(4). [Pub. L. 113–56, § 3(a)(4)][/us/pl/113/56/s3/a/4], added par. (4).
 
     2008—Subsec. (a). [Pub. L. 110–293, § 101(a)][/us/pl/110/293/s101/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) required the President to establish a comprehensive, integrated, five-year strategy to combat global HIV/AIDS that strengthened the capacity of the United States to be an effective leader of the international campaign against HIV/AIDS and set out standards in pars. (1) to (10) for this strategy.
 
@@ -530,13 +568,22 @@
 
 [/us/usc/t22/s7672/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7672%2Fa%2F3
 [/us/usc/t22/s7673/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7673%2Fd
+[/us/usc/t22/s2151b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932
 [/us/pl/108/25/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs101
 [/us/stat/117/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F718
 [/us/pl/110/293/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs101
 [/us/stat/122/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2923
+[/us/pl/113/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56
+[/us/stat/127/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F648
 [/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/stat/117/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F711
 [/us/usc/t22/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7601
+[/us/pl/113/56/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs2%2F1
+[/us/pl/113/56/s2/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs2%2F2%2FA
+[/us/pl/113/56/s2/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs2%2F2%2FB
+[/us/pl/113/56/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs3%2Fa%2F1
+[/us/pl/113/56/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs3%2Fa%2F2
+[/us/pl/113/56/s3/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs3%2Fa%2F4
 [/us/pl/110/293/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs101%2Fa
 [/us/pl/110/293/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs101%2Fb
 [/us/pl/110/293/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs101%2Fc

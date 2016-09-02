@@ -19,6 +19,10 @@
 
 ([Pub. L. 96–53, title IV, § 410][/us/pl/96/53/s410], Aug. 14, 1979, [93 Stat. 376][/us/stat/93/376]; amended [Pub. L. 96–533, title III, § 312][/us/pl/96/533/s312], Dec. 16, 1980, [94 Stat. 3148][/us/stat/94/3148].)
 
+ __References in Text__ 
+
+    This chapter, referred to in text, was in the original “this title”, meaning title IV of [Pub. L. 96–53][/us/pl/96/53], Aug. 14, 1979, [93 Stat. 371][/us/stat/93/371], which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
+
  __Amendments__ 
 
     1980—[Pub. L. 96–533][/us/pl/96/533] substituted appropriations authorization of $12,000,000 for fiscal year 1981 for such authorization of $23,750,000 for fiscal year 1980.
@@ -34,6 +38,8 @@
 [/us/stat/93/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F376
 [/us/pl/96/533/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533%2Fs312
 [/us/stat/94/3148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3148
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
+[/us/stat/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F371
 [/us/pl/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F533
 
 

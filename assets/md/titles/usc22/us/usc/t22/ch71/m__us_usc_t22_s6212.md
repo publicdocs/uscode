@@ -37,6 +37,10 @@
 
 ([Pub. L. 103–236, title III, § 313][/us/pl/103/236/s313], Apr. 30, 1994, [108 Stat. 444][/us/stat/108/444]; [Pub. L. 107–228, div. A, title V, § 507(2)][/us/pl/107/228/s507/2], Sept. 30, 2002, [116 Stat. 1394][/us/stat/116/1394].)
 
+ __References in Text__ 
+
+    This chapter, referred to in subsec. (c)(2), was in the original “this title”, meaning title III of [Pub. L. 103–236][/us/pl/103/236], Apr. 30, 1994, [108 Stat. 432][/us/stat/108/432], known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title][/us/usc/t22/s6201] and Tables.
+
  __Amendments__ 
 
     2002—Subsec. (a). [Pub. L. 107–228][/us/pl/107/228] struck out “the direction and” after “broadcasting subject to” in introductory provisions.
@@ -58,6 +62,9 @@
 [/us/stat/108/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F444
 [/us/pl/107/228/s507/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs507%2F2
 [/us/stat/116/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1394
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/stat/108/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F432
+[/us/usc/t22/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6201
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/103/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317
 [/us/stat/108/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1771

@@ -29,6 +29,10 @@
 
 ([Pub. L. 96–53, title IV, § 409][/us/pl/96/53/s409], Aug. 14, 1979, [93 Stat. 376][/us/stat/93/376].)
 
+ __References in Text__ 
+
+    This chapter, referred to in par. (3), was in the original “this title”, meaning title IV of [Pub. L. 96–53][/us/pl/96/53], Aug. 14, 1979, [93 Stat. 371][/us/stat/93/371], which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
+
 ----------
 
 [Previous](./../../../..//us/usc/t22/ch50/m__us_usc_t22_s3508.md) | [Next](./../../../..//us/usc/t22/ch50/m__us_usc_t22_s3510.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3509)
@@ -38,5 +42,7 @@
 
 [/us/pl/96/53/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53%2Fs409
 [/us/stat/93/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F376
+[/us/pl/96/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F53
+[/us/stat/93/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F371
 
 

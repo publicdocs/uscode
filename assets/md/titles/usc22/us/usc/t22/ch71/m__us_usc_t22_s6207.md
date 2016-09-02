@@ -95,6 +95,8 @@
 
  __References in Text__ 
 
+    This chapter, referred to in subsecs. (a)(2) and (e), was in the original “this title”, meaning title III of [Pub. L. 103–236][/us/pl/103/236], Apr. 30, 1994, [108 Stat. 432][/us/stat/108/432], known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title][/us/usc/t22/s6201] and Tables.
+
     The foreign relations laws of the United States, referred to in subsec. (h)(1)(A), are classified generally to this title.
 
     The Board for International Broadcasting Act, referred to in subsecs. (f) and (j)(3), is [Pub. L. 93–129][/us/pl/93/129], Oct. 19, 1973, [87 Stat. 456][/us/stat/87/456], as amended, which was classified generally to chapter 43 (§ 2871 et seq.) of this title prior to repeal by [Pub. L. 103–236, title III, § 310(e)][/us/pl/103/236/s310/e], Apr. 30, 1994, [108 Stat. 442][/us/stat/108/442]. See [section 6209(e) of this title][/us/usc/t22/s6209/e].
@@ -153,6 +155,9 @@
 [/us/stat/116/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1392
 [/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/stat/108/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F432
+[/us/usc/t22/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6201
 [/us/pl/93/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F129
 [/us/stat/87/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F456
 [/us/pl/103/236/s310/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs310%2Fe

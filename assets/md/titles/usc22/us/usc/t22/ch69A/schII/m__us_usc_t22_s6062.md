@@ -133,7 +133,7 @@
 
     The Food for Peace Act, referred to in subsec. (b)(2)(B)(ii), is [act July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], [68 Stat. 454][/us/stat/68/454], which is classified generally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1691 of Title 7][/us/usc/t7/s1691] and Tables.
 
-    This chapter, referred to in subsec. (e)(1), was in the original “this Act”, meaning [Pub. L. 104–114][/us/pl/104/114], Mar. 12, 1996, [110 Stat. 785][/us/stat/110/785], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6021 of this title][/us/usc/t22/s6021] and Tables.
+    This chapter, referred to in subsec. (e)(1), was in the original “this Act”, meaning [Pub. L. 104–114][/us/pl/104/114], Mar. 12, 1996, [110 Stat. 785][/us/stat/110/785], known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6021 of this title][/us/usc/t22/s6021] and Tables.
 
     The Trade Act of 1974, referred to in subsec. (h)(1)(B)(ii), is [Pub. L. 93–618][/us/pl/93/618], Jan. 3, 1975, [88 Stat. 1978][/us/stat/88/1978], as amended. Title V of the Act is classified generally to subchapter V (§ 2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see [section 2101 of Title 19][/us/usc/t19/s2101] and Tables.
 

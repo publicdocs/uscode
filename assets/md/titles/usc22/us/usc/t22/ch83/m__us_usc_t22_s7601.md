@@ -215,6 +215,12 @@
 
     2008—Pars. (29) to (41). [Pub. L. 110–293][/us/pl/110/293] added pars. (29) to (41).
 
+ __Short Title of 2013 Amendment__ 
+
+[Pub. L. 113–56, § 1][/us/pl/113/56/s1], Dec. 2, 2013, [127 Stat. 648][/us/stat/127/648], provided that: 
+
+> “This Act \[amending sections 2151b–2, 7611, 7622, and 7673 of this title\] may be cited as the ‘PEPFAR Stewardship and Oversight Act of 2013’.”
+
  __Short Title of 2008 Amendment__ 
 
 [Pub. L. 110–293, § 1(a)][/us/pl/110/293/s1/a], July 30, 2008, [122 Stat. 2918][/us/stat/122/2918], provided that: 
@@ -245,6 +251,8 @@
 [/us/pl/108/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25
 [/us/stat/117/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F711
 [/us/pl/110/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293
+[/us/pl/113/56/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F56%2Fs1
+[/us/stat/127/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F648
 [/us/pl/110/293/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs1%2Fa
 [/us/stat/122/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2918
 [/us/pl/108/25/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs1%2Fa

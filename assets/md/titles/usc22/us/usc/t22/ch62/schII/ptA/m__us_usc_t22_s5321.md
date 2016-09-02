@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 3101–3123) of title III of [Pub. L. 100–418][/us/pl/100/418], which enacted this subchapter and amended [section 3912 of Title 12][/us/usc/t12/s3912], Banks and Banking. For complete classification of subtitle B to the Code, see Tables.
+    This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 3101–3123) of title III of [Pub. L. 100–418][/us/pl/100/418], Aug. 23, 1988, [102 Stat. 1375][/us/stat/102/1375], which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
 
 ----------
 
@@ -33,6 +33,6 @@
 [/us/pl/100/418/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3101
 [/us/stat/102/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1375
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/usc/t12/s3912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3912
+[/us/stat/102/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1375
 
 

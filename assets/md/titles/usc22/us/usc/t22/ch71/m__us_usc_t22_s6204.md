@@ -81,6 +81,8 @@
 
  __References in Text__ 
 
+    This chapter, referred to in subsecs. (a)(1), (9), (17), (18) and (c), was in the original “this title”, meaning title III of [Pub. L. 103–236][/us/pl/103/236], Apr. 30, 1994, [108 Stat. 432][/us/stat/108/432], known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title][/us/usc/t22/s6201] and Tables.
+
     The Radio Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (c), is [Pub. L. 98–111][/us/pl/98/111], Oct. 4, 1983, [97 Stat. 749][/us/stat/97/749], as amended, which is classified generally to subchapter V–A (§ 1465 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1465 of this title][/us/usc/t22/s1465] and Tables.
 
     The Television Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (b)(1), is part D of title II of [Pub. L. 101–246][/us/pl/101/246], Feb. 16, 1990, [104 Stat. 58][/us/stat/104/58], as amended, which is classified principally to subchapter V–B (§ 1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1465aa of this title][/us/usc/t22/s1465aa] and Tables.
@@ -269,6 +271,9 @@
 [/us/stat/116/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1394
 [/us/pl/109/140/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F140%2Fs8
 [/us/stat/119/2652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2652
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/stat/108/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F432
+[/us/usc/t22/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6201
 [/us/pl/98/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F111
 [/us/stat/97/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F749
 [/us/usc/t22/s1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1465

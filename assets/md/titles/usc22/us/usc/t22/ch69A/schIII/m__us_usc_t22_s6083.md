@@ -45,7 +45,7 @@
 
     The International Claims Settlement Act of 1949, referred to in subsecs. (a)(1), (2) and (c)(2), is [act Mar. 10, 1950, ch. 54][/us/act/1950-03-10/ch54], [64 Stat. 12][/us/stat/64/12], as amended. Title V of the Act is classified generally to subchapter V (§ 1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1621 of this title][/us/usc/t22/s1621] and Tables.
 
-    This chapter, referred to in subsec. (c), was in the original “this Act”, meaning [Pub. L. 104–114][/us/pl/104/114], Mar. 12, 1996, [110 Stat. 785][/us/stat/110/785], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6021 of this title][/us/usc/t22/s6021] and Tables.
+    This chapter, referred to in subsec. (c), was in the original “this Act”, meaning [Pub. L. 104–114][/us/pl/104/114], Mar. 12, 1996, [110 Stat. 785][/us/stat/110/785], known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6021 of this title][/us/usc/t22/s6021] and Tables.
 
  __Codification__ 
 

@@ -143,6 +143,8 @@
 
  __References in Text__ 
 
+    This chapter, referred to in introductory provisions, was in the original “this Act”, meaning [Pub. L. 104–114][/us/pl/104/114], Mar. 12, 1996, [110 Stat. 785][/us/stat/110/785], known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6021 of this title][/us/usc/t22/s6021] and Tables.
+
     Subchapters I and III of this chapter, referred to in pars. (4), (12)(B), and (13)(A), were in the original references to titles I and III, meaning titles I and III of [Pub. L. 104–114][/us/pl/104/114], Mar. 12, 1996, [110 Stat. 791][/us/stat/110/791], 814. Title I of [Pub. L. 104–114][/us/pl/104/114] enacted subchapter I (§ 6031 et seq.) of this chapter, amended sections 2295a, 2295b, 6003, and 6004 of this title and [section 16 of Title 50][/us/usc/t50/s16], Appendix, War and National Defense, and repealed subchapters V–A (§ 1465 et seq.) and V–B (1465aa et seq.) of chapter 18 of this title. Title III of [Pub. L. 104–114][/us/pl/104/114] enacted subchapter III (§ 6081 et seq.) of this chapter and sections 1643l and 1643m of this title and amended [section 1611 of Title 28][/us/usc/t28/s1611], Judiciary and Judicial Procedure. For complete classification of titles I and III to the Code, see Tables.
 
     The Cuban Democracy Act of 1992, referred to in par. (7)(A), is title XVII of div. A of [Pub. L. 102–484][/us/pl/102/484], Oct. 23, 1992, [106 Stat. 2575][/us/stat/106/2575], which is classified principally to chapter 69 (§ 6001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6001 of this title][/us/usc/t22/s6001] and Tables.
@@ -173,6 +175,9 @@
 [/us/usc/t22/s6065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6065
 [/us/pl/104/114/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114%2Fs4
 [/us/stat/110/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F789
+[/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
+[/us/stat/110/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F785
+[/us/usc/t22/s6021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6021
 [/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114
 [/us/stat/110/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F791
 [/us/pl/104/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F114

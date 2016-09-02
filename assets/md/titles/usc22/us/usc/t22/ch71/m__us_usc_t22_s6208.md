@@ -81,6 +81,10 @@
 
 ([Pub. L. 103–236, title III, § 309][/us/pl/103/236/s309], Apr. 30, 1994, [108 Stat. 439][/us/stat/108/439]; [Pub. L. 103–415, § 1(s)(2)][/us/pl/103/415/s1/s/2], Oct. 25, 1994, [108 Stat. 4302][/us/stat/108/4302]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title V, § 501\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–450; [Pub. L. 110–321, § 4][/us/pl/110/321/s4], Sept. 19, 2008, [122 Stat. 3535][/us/stat/122/3535]; [Pub. L. 111–71, § 1][/us/pl/111/71/s1], Oct. 9, 2009, [123 Stat. 2058][/us/stat/123/2058]; [Pub. L. 111–202, § 3][/us/pl/111/202/s3], July 13, 2010, [124 Stat. 1374][/us/stat/124/1374].)
 
+ __References in Text__ 
+
+    This chapter, referred to in subsecs. (e)(2) and (g), was in the original “this title”, meaning title III of [Pub. L. 103–236][/us/pl/103/236], Apr. 30, 1994, [108 Stat. 432][/us/stat/108/432], known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title][/us/usc/t22/s6201] and Tables.
+
  __Amendments__ 
 
     2010—Subsec. (c)(2). [Pub. L. 111–202, § 3(1)][/us/pl/111/202/s3/1], struck out “, and shall further specify that funds to carry out the activities of Radio Free Asia may not be available after September 30, 2010” after “Government”.
@@ -187,6 +191,9 @@
 [/us/stat/123/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2058
 [/us/pl/111/202/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F202%2Fs3
 [/us/stat/124/1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1374
+[/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236
+[/us/stat/108/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F432
+[/us/usc/t22/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6201
 [/us/pl/111/202/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F202%2Fs3%2F1
 [/us/pl/111/202/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F202%2Fs3%2F2
 [/us/pl/111/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F71

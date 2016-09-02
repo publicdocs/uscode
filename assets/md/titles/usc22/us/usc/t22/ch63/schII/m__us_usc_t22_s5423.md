@@ -53,6 +53,8 @@
 
     The Foreign Assistance Act of 1961, referred to in subsecs. (c) and (d), is [Pub. L. 87–195][/us/pl/87/195], Sept. 4, 1961, [75 Stat. 424][/us/stat/75/424]. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. Chapter 1 of part I of the Foreign Assistance Act of 1961 is classified generally to part I (§ 2151 et seq.) of subchapter I of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see [section 202(b) of Pub. L. 92–226][/us/pl/92/226/s202/b], set out as a note under [section 2346 of this title][/us/usc/t22/s2346], and sections 2348c and 2349aa–5 of this title. For provisions deeming references to part I of subchapter I to include a reference to [section 2293 of this title][/us/usc/t22/s2293], see [section 2293(d)(1) of this title][/us/usc/t22/s2293/d/1]. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title][/us/usc/t22/s2151] and Tables.
 
+    This chapter, referred to in subsec. (e), was in the original “this Act”, meaning [Pub. L. 101–179][/us/pl/101/179], Nov. 28, 1989, [103 Stat. 1298][/us/stat/103/1298], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5401 of this title][/us/usc/t22/s5401] and Tables.
+
     Section 1107 of the Food Security Act of 1985, referred to in subsec. (e), is [section 1107 of Pub. L. 99–198][/us/pl/99/198/s1107], which is set out as a note under [section 1736 of Title 7][/us/usc/t7/s1736], Agriculture.
 
  __Amendments__ 
@@ -85,6 +87,9 @@
 [/us/usc/t22/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293
 [/us/usc/t22/s2293/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293%2Fd%2F1
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
+[/us/pl/101/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179
+[/us/stat/103/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1298
+[/us/usc/t22/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5401
 [/us/pl/99/198/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1107
 [/us/usc/t7/s1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

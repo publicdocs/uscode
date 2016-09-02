@@ -25,6 +25,10 @@
 
 ([Pub. L. 100–418, title III, § 3103][/us/pl/100/418/s3103], Aug. 23, 1988, [102 Stat. 1376][/us/stat/102/1376].)
 
+ __References in Text__ 
+
+    This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 3101–3123) of title III of [Pub. L. 100–418][/us/pl/100/418], Aug. 23, 1988, [102 Stat. 1375][/us/stat/102/1375], which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t22/ch62/schII/ptA/m__us_usc_t22_s5322.md) | [Next](./../../../../../..//us/usc/t22/ch62/schII/ptA/m__us_usc_t22_s5324.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5323)
@@ -34,5 +38,7 @@
 
 [/us/pl/100/418/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs3103
 [/us/stat/102/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1376
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/stat/102/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1375
 
 
