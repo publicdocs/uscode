@@ -23,15 +23,17 @@
 
          Each evaluation conducted under paragraph (1) shall—
 
-            (A) use metrics that are common among and useful for practitioners in the field of mental health care and suicide prevention;
+            (A) use metrics that are common among and useful for practitioners in the field of mental health care and suicide prevention, including metrics applicable specifically to women;
 
             (B) identify the most effective mental health care and suicide prevention programs conducted by the Secretary, including such programs conducted at a Center of Excellence;
 
             (C) identify the cost-effectiveness of each program identified under subparagraph (B);
 
-            (D) measure the satisfaction of patients with respect to the care provided under each such program; and
+            (D) measure the satisfaction of patients with respect to the care provided under each such program;
 
-            (E) propose best practices for caring for individuals who suffer from mental health disorders or are at risk of suicide, including such practices conducted or suggested by other departments or agencies of the Federal Government, including the Substance Abuse and Mental Health Services Administration of the Department of Health and Human Services.
+            (E) propose best practices for caring for individuals who suffer from mental health disorders or are at risk of suicide, including such practices conducted or suggested by other departments or agencies of the Federal Government, including the Substance Abuse and Mental Health Services Administration of the Department of Health and Human Services; and
+
+            (F) identify the mental health care and suicide prevention programs conducted by the Secretary that are most effective for women veterans and such programs with the highest satisfaction rates among women veterans.
 
         (3)
 
@@ -53,11 +55,17 @@
 
         (2) Any recommendations the Secretary considers appropriate.
 
-(Added [Pub. L. 114–2][/us/pl/114/2], § 2(a)(1), Feb. 12, 2015, [129 Stat. 30][/us/stat/129/30].)
+(Added [Pub. L. 114–2][/us/pl/114/2], § 2(a)(1), Feb. 12, 2015, [129 Stat. 30][/us/stat/129/30]; amended [Pub. L. 114–188][/us/pl/114/188], § 2, June 30, 2016, [130 Stat. 611][/us/stat/130/611].)
 
  __References in Text__ 
 
     The date of the enactment of this section, referred to in subsec. (a)(4), is the date of enactment of [Pub. L. 114–2][/us/pl/114/2], which was approved Feb. 12, 2015.
+
+ __Amendments__ 
+
+    2016—Subsec. (a)(2)(A). [Pub. L. 114–188][/us/pl/114/188], § 2(1), inserted before semicolon at end “, including metrics applicable specifically to women”.
+
+    Subsec. (a)(2)(F). [Pub. L. 114–188][/us/pl/114/188], § 2(2)–(4), added subpar. (F).
 
 ----------
 
@@ -68,6 +76,10 @@
 
 [/us/pl/114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2
 [/us/stat/129/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F30
+[/us/pl/114/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F188
+[/us/stat/130/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F611
 [/us/pl/114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2
+[/us/pl/114/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F188
+[/us/pl/114/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F188
 
 

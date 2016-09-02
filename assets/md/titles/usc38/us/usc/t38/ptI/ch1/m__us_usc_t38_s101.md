@@ -435,6 +435,12 @@
 
     Amendment by [Pub. L. 89–311][/us/pl/89/311] effective first day of second calendar month following Oct. 31, 1965, see [section 9 of Pub. L. 89–311][/us/pl/89/311/s9], set out as a note under [section 1114 of this title][/us/usc/t38/s1114].
 
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–188][/us/pl/114/188], § 1, June 30, 2016, [130 Stat. 611][/us/stat/130/611], provided that: 
+
+> “This Act \[amending [section 1709B of this title][/us/usc/t38/s1709B]\] may be cited as the ‘Female Veteran Suicide Prevention Act’.”
+
  __Short Title of 2015 Amendment__ 
 
 [Pub. L. 114–58][/us/pl/114/58], § 1(a), Sept. 30, 2015, [129 Stat. 530][/us/stat/129/530], provided that: 
@@ -1572,6 +1578,9 @@
 [/us/pl/89/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311
 [/us/pl/89/311/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311%2Fs9
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
+[/us/pl/114/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F188
+[/us/stat/130/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F611
+[/us/usc/t38/s1709B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1709B
 [/us/pl/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58
 [/us/stat/129/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F530
 [/us/pl/114/41/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2FtIV
