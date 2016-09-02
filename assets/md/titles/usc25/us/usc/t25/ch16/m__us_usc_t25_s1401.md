@@ -51,6 +51,12 @@
 
     Amendment by [Pub. L. 97–164][/us/pl/97/164] effective Oct. 1, 1982, see [section 402 of Pub. L. 97–164][/us/pl/97/164/s402], set out as a note under [section 171 of Title 28][/us/usc/t28/s171], Judiciary and Judicial Procedure.
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–290, § 1][/us/pl/113/290/s1], Dec. 19, 2014, [128 Stat. 3291][/us/stat/128/3291], provided that: 
+
+> “This Act \[amending [section 1407 of this title][/us/usc/t25/s1407]\] may be cited as the ‘Grand Portage Band Per Capita Adjustment Act’.”
+
 ----------
 
 [Previous](./../../../..//us/usc/t25/ch16/m__us_usc_t25_ch16.md) | [Next](./../../../..//us/usc/t25/ch16/m__us_usc_t25_s1402.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1401)
@@ -76,5 +82,8 @@
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/97/164/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs402
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171
+[/us/pl/113/290/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F290%2Fs1
+[/us/stat/128/3291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3291
+[/us/usc/t25/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1407
 
 
