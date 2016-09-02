@@ -45,7 +45,7 @@
 
  __Amendments__ 
 
-    2014—Pars. (8), (9). [Pub. L. 113–288, § 2(3)][/us/pl/113/288/s2/3], added pars. (8) and (9).
+    2014—Pars. (8), (9). [Pub. L. 113–288][/us/pl/113/288] added pars. (8) and (9).
 
 ----------
 
@@ -66,6 +66,6 @@
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F427
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
-[/us/pl/113/288/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F288%2Fs2%2F3
+[/us/pl/113/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F288
 
 

@@ -21,7 +21,7 @@
 
             The Secretary shall establish within the Institute a program to be known as the “Network for Manufacturing Innovation Program” (referred to in this section as the “Program”).
 
-        (2) __Purposes of program__ 
+        (2) __Purposes of Program__ 
 
         The purposes of the Program are—
 
@@ -63,7 +63,7 @@
 
             The network established under paragraph (1) shall be known as the “Network for Manufacturing Innovation” (referred to in this section as the “Network”).
 
-    (c) __Centers for Manufacturing Innovation__ 
+    (c) __Centers for manufacturing innovation__ 
 
         (1) __In general__ 
 
@@ -109,7 +109,7 @@
 
                 A manufacturing center that is substantially similar to those established under this subsection but that does not receive financial assistance under subsection (d) may, upon request of the center, be recognized as a center for manufacturing innovation by the Secretary for purposes of participation in the Network.
 
-    (d) __Financial Assistance to Establish and Support Centers for Manufacturing Innovation__ 
+    (d) __Financial assistance to establish and support centers for manufacturing innovation__ 
 
         (1) __In general__ 
 
@@ -243,11 +243,11 @@
 
             In developing and updating the strategic plan under paragraph (2)(C), the Secretary shall solicit recommendations and advice from a wide range of stakeholders, including industry, small and medium-sized manufacturing enterprises, research universities, community colleges, and other relevant organizations and institutions on an ongoing basis.
 
-        (4) __Report to congress__ 
+        (4) __Report to Congress__ 
 
             Upon completion, the Secretary shall transmit the strategic plan required under paragraph (2)(C) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
 
-        (5) __Hollings manufacturing extension partnership__ 
+        (5) __Hollings Manufacturing Extension Partnership__ 
 
             The Secretary shall ensure that the National Program Office incorporates the Hollings Manufacturing Extension Partnership into Program planning to ensure that the results of the Program reach small and medium-sized entities.
 
@@ -255,9 +255,9 @@
 
             Any Federal Government employee may be detailed to the National Program Office without reimbursement. Such detail shall be without interruption or loss of civil service status or privilege.
 
-    (g) __Reporting and Auditing__ 
+    (g) __Reporting and auditing__ 
 
-        (1) __Annual reports to the secretary__ 
+        (1) __Annual reports to the Secretary__ 
 
             (A) __In general__ 
 
@@ -277,7 +277,7 @@
 
                     (II) how the center for manufacturing innovation has furthered the purposes described in subsection (a)(2).
 
-        (2) __Annual reports to congress__ 
+        (2) __Annual reports to Congress__ 
 
             (A) __In general__ 
 
@@ -295,7 +295,7 @@
 
                 (iv) an assessment of the Program with respect to meeting the purposes described in subsection (a)(2).
 
-        (3) __Assessments by gao__ 
+        (3) __Assessments by GAO__ 
 
             (A) __Assessments__ 
 
@@ -317,7 +317,7 @@
 
                 (iv) an assessment as to whether any prior recommendations for improvement made by the Comptroller General have been implemented or adopted.
 
-    (h) __Additional Authorities__ 
+    (h) __Additional authorities__ 
 
         (1) __Appointment of personnel and contracts__ 
 
@@ -351,7 +351,7 @@
 
  __References in Text__ 
 
-    The Revitalize American Manufacturing and Innovation Act of 2014, referred to in subsec.(e)(1), is title VII of div. B. of [Pub. L. 113–235][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2220][/us/stat/128/2220]. For complete classification of this Act to the Code, see Short Title note under [section 271 of this title][/us/usc/t15/s271] and Tables.
+    The Revitalize American Manufacturing and Innovation Act of 2014, referred to in subsec. (e)(1), is title VII of div. B. of [Pub. L. 113–235][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2220][/us/stat/128/2220]. For complete classification of this Act to the Code, see Short Title note under [section 271 of this title][/us/usc/t15/s271] and Tables.
 
  __Prior Provisions__ 
 

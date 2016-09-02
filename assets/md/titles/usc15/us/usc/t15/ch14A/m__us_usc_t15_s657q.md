@@ -19,7 +19,7 @@
 
     In this section—
 
-        (1) the term “Chief Acquisition Officer” means the employee of a Federal agency appointed or designated as the Chief Acquisition Officer for the Federal agency under section [section 1702(a) of title 41][/us/usc/t41/s1702/a];
+        (1) the term “Chief Acquisition Officer” means the employee of a Federal agency appointed or designated as the Chief Acquisition Officer for the Federal agency under [section 1702(a) of title 41][/us/usc/t41/s1702/a];
 
         (2)
 

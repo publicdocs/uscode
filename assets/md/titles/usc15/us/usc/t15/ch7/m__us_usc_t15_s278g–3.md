@@ -137,7 +137,7 @@
 
  __References in Text__ 
 
-    Section 3552(b)(5) of such title, referred to in subsec. (e)(5), probably should be [section 3552(b)(6) of title 44][/us/usc/t44/s3552/b/6].
+    Section 3552(b)(5) of such title, referred to in subsec. (f)(5), probably should be [section 3552(b)(6) of title 44][/us/usc/t44/s3552/b/6].
 
  __Codification__ 
 

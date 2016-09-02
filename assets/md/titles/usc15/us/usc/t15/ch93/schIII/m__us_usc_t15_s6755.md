@@ -13,103 +13,57 @@
 
 [Previous](./../../../../..//us/usc/t15/ch93/schIII/m__us_usc_t15_s6754.md) | [Next](./../../../../..//us/usc/t15/ch93/schIII/m__us_usc_t15_s6756.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6755)
 
-## § 6755. Membership
+## § 6755. Bylaws, standards, and disciplinary actions
 
-    (a) __Eligibility__ 
+    (a) __Adoption and amendment of bylaws and standards__ 
 
-        (1) __In general__ 
+        (1) __Procedures__ 
 
-            Any State-licensed insurance producer shall be eligible to become a member in the Association.
+            The Association shall adopt procedures for the adoption of bylaws and standards that are similar to procedures under subchapter II of chapter 5 of title 5 (commonly known as the “Administrative Procedure Act”).
 
-        (2) __Ineligibility for suspension or revocation of license__ 
+        (2) __Copy required to be filed__ 
 
-            Notwithstanding paragraph (1), a State-licensed insurance producer shall not be eligible to become a member if a State insurance regulator has suspended or revoked such producer’s license in that State during the 3-year period preceding the date on which such producer applies for membership.
+            The Board shall submit to the President, through the Department of the Treasury, and the States (including State insurance regulators), and shall publish on the website of the Association, all proposed bylaws and standards of the Association, or any proposed amendment to the bylaws or standards of the Association, accompanied by a concise general statement of the basis and purpose of such proposal.
 
-        (3) __Resumption of eligibility__ 
+        (3) __Effective date__ 
 
-        Paragraph (2) shall cease to apply to any insurance producer if—
+            Any proposed bylaw or standard of the Association, and any proposed amendment to the bylaws or standards of the Association, shall take effect, after notice under paragraph (2) and opportunity for public comment, on such date as the Association may designate, unless suspended under [section 6759(c) of this title][/us/usc/t15/s6759/c].
 
-            (A) the State insurance regulator renews the license of such producer in the State in which the license was suspended or revoked; or
+        (4) __Rule of construction__ 
 
-            (B) the suspension or revocation is subsequently overturned.
+            Nothing in this section shall be construed to subject the Board or the Association to the requirements of subchapter II of chapter 5 of title 5 (commonly known as the “Administrative Procedure Act”).
 
-    (b) __Authority to establish membership criteria__ 
+    (b) __Disciplinary action by the Association__ 
 
-    The Association shall have the authority to establish membership criteria that—
+        (1) __Specification of charges__ 
 
-        (1) bear a reasonable relationship to the purposes for which the Association was established; and
+            In any proceeding to determine whether membership shall be denied, suspended, revoked, or not renewed, or to determine whether a member of the Association should be placed on probation (referred to in this section as a “disciplinary action”) or whether to assess fines or monetary penalties, the Association shall bring specific charges, notify the member of the charges, give the member an opportunity to defend against the charges, and keep a record.
 
-        (2) do not unfairly limit the access of smaller agencies to the Association membership.
+        (2) __Supporting statement__ 
 
-    (c) __Establishment of classes and categories__ 
+        A determination to take disciplinary action shall be supported by a statement setting forth—
 
-        (1) __Classes of membership__ 
+            (A) any act or practice in which the member has been found to have been engaged;
 
-            The Association may establish separate classes of membership, with separate criteria, if the Association reasonably determines that performance of different duties requires different levels of education, training, or experience.
+            (B) the specific provision of this subchapter or standard of the Association that any such act or practice is deemed to violate; and
 
-        (2) __Categories__ 
+            (C) the sanction imposed and the reason for the sanction.
 
-            The Association may establish separate categories of membership for individuals and for other persons. The establishment of any such categories of membership shall be based either on the types of licensing categories that exist under State laws or on the aggregate amount of business handled by an insurance producer. No special categories of membership, and no distinct membership criteria, shall be established for members which are depository institutions or for their employees, agents, or affiliates.
+        (3) __Ineligibility of private sector representatives__ 
 
-    (d) __Membership criteria__ 
+        Board members appointed pursuant to [section 6754(c)(3) of this title][/us/usc/t15/s6754/c/3] may not—
 
-        (1) __In general__ 
+            (A) participate in any disciplinary action or be counted toward establishing a quorum during a disciplinary action; and
 
-            The Association may establish criteria for membership which shall include standards for integrity, personal qualifications, education, training, and experience.
+            (B) have access to confidential information concerning any disciplinary action.
 
-        (2) __Minimum standard__ 
+([Pub. L. 106–102, title III, § 325][/us/pl/106/102/s325], as added [Pub. L. 114–1, title II, § 202(a)][/us/pl/114/1/s202/a], Jan. 12, 2015, [129 Stat. 23][/us/stat/129/23].)
 
-            In establishing criteria under paragraph (1), the Association shall consider the highest levels of insurance producer qualifications established under the licensing laws of the States.
+ __Prior Provisions__ 
 
-    (e) __Effect of membership__ 
+    Provisions similar to this section were contained in [section 6758 of this title][/us/usc/t15/s6758], prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1].
 
-        Membership in the Association shall entitle the member to licensure in each State for which the member pays the requisite fees, including licensing fees and, where applicable, bonding requirements, set by such State.
-
-    (f) __Annual renewal__ 
-
-        Membership in the Association shall be renewed on an annual basis.
-
-    (g) __Continuing education__ 
-
-        The Association shall establish, as a condition of membership, continuing education requirements which shall be comparable to or greater than the continuing education requirements under the licensing laws of a majority of the States.
-
-    (h) __Suspension and revocation__ 
-
-    The Association may—
-
-        (1) inspect and examine the records and offices of the members of the Association to determine compliance with the criteria for membership established by the Association; and
-
-        (2)
-
-         suspend or revoke the membership of an insurance producer if—
-
-            (A) the producer fails to meet the applicable membership criteria of the Association; or
-
-            (B) the producer has been subject to disciplinary action pursuant to a final adjudicatory proceeding under the jurisdiction of a State insurance regulator, and the Association concludes that retention of membership in the Association would not be in the public interest.
-
-    (i) __Office of consumer complaints__ 
-
-        (1) __In general__ 
-
-        The Association shall establish an office of consumer complaints that shall—
-
-            (A) receive and investigate complaints from both consumers and State insurance regulators related to members of the Association; and
-
-            (B) recommend to the Association any disciplinary actions that the office considers appropriate, to the extent that any such recommendation is not inconsistent with State law.
-
-        (2) __Records and referrals__ 
-
-        The office of consumer complaints of the Association shall—
-
-            (A) maintain records of all complaints received in accordance with paragraph (1) and make such records available to the NAIC and to each State insurance regulator for the State of residence of the consumer who filed the complaint; and
-
-            (B) refer, when appropriate, any such complaint to any appropriate State insurance regulator.
-
-        (3) __Telephone and other access__ 
-
-            The office of consumer complaints shall maintain a toll-free telephone number for the purpose of this subsection and, as practicable, other alternative means of communication with consumers, such as an Internet home page.
-
-([Pub. L. 106–102, title III, § 325][/us/pl/106/102/s325], Nov. 12, 1999, [113 Stat. 1424][/us/stat/113/1424].)
+    A prior section 6755, [Pub. L. 106–102, title III, § 325][/us/pl/106/102/s325], Nov. 12, 1999, [113 Stat. 1424][/us/stat/113/1424], related to membership in the Association, prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1]. See [section 6753 of this title][/us/usc/t15/s6753].
 
 ----------
 
@@ -118,7 +72,16 @@
 ----------
 ----------
 
+[/us/usc/t15/s6759/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6759%2Fc
+[/us/usc/t15/s6754/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6754%2Fc%2F3
+[/us/pl/106/102/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs325
+[/us/pl/114/1/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs202%2Fa
+[/us/stat/129/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F23
+[/us/usc/t15/s6758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6758
+[/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
 [/us/pl/106/102/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs325
 [/us/stat/113/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1424
+[/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
+[/us/usc/t15/s6753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6753
 
 

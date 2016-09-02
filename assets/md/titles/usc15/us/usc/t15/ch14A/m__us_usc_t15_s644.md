@@ -155,7 +155,7 @@
 
                 (ii) A procurement employee or program manager described in this clause is a senior procurement executive, senior program manager, or Director of Small and Disadvantaged Business Utilization of a Federal agency having contracting authority.
 
-        (3) First tier subcontracts that are awarded by Management and Operating contractors sponsored by the Department of Energy to small business concerns, small businesses concerns owned and controlled by service disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women, shall be considered toward the annually established agency and Government-wide goals for procurement contracts awarded.
+        (3) First tier subcontracts that are awarded by Management and Operating contractors sponsored by the Department of Energy to small business concerns, small businesses  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “business”. </sup></sup>  concerns owned and controlled by service disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women, shall be considered toward the annually established agency and Government-wide goals for procurement contracts awarded.
 
     (h) __Reporting on goals for procurement contracts awarded to small business concerns__ 
 
@@ -299,7 +299,7 @@
 
                     (IV) through competitions restricted using the authority under [section 637(m)(2) of this title][/us/usc/t15/s637/m/2] and in which the waiver authority under [section 637(m)(3) of this title][/us/usc/t15/s637/m/3] was used;
 
-                    (V) through sole source contracts awarded using the authority under subsection <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  637(m)(7) of this title;
+                    (V) through sole source contracts awarded using the authority under subsection  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “section”. </sup></sup>  637(m)(7) of this title;
 
                     (VI) through sole source contracts awarded using the authority under [section 637(m)(8) of this title][/us/usc/t15/s637/m/8];
 
@@ -329,7 +329,7 @@
 
         (2) In carrying out paragraph (1), a contracting officer shall consider a responsive offer timely received from an eligible small business offeror.
 
-        (3) Nothing in paragraph (1) shall be construed as precluding an award of a contract with a value not greater than $100,000 under the authority of subsection (a) of [section 637 of this title][/us/usc/t15/s637], [section 2323 of title 10][/us/usc/t10/s2323], section 712  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of the Business Opportunity Development Reform Act of 1988 ([Public Law 100–656][/us/pl/100/656]; [15 U.S.C. 644][/us/usc/t15/s644] note), or section 7102 of the Federal Acquisition Streamlining Act of 1994.
+        (3) Nothing in paragraph (1) shall be construed as precluding an award of a contract with a value not greater than $100,000 under the authority of subsection (a) of [section 637 of this title][/us/usc/t15/s637], [section 2323 of title 10][/us/usc/t10/s2323], section 712  <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note below. </sup></sup>  of the Business Opportunity Development Reform Act of 1988 ([Public Law 100–656][/us/pl/100/656]; [15 U.S.C. 644][/us/usc/t15/s644] note), or section 7102 of the Federal Acquisition Streamlining Act of 1994.
 
     (k) __Office of Small and Disadvantaged Business Utilization; Director__ 
 
@@ -345,7 +345,7 @@
 
         (5) shall identify proposed solicitations that involve significant bundling of contract requirements, and work with the agency acquisition officials and the Administration to revise the procurement strategies for such proposed solicitations where appropriate to increase the probability of participation by small businesses as prime contractors, or to facilitate small business participation as subcontractors and suppliers, if a solicitation for a bundled contract is to be issued;
 
-        (6) shall assist small business concerns to obtain payments, required late payment interest penalties, or information regarding payments due to such concerns from an executive agency or a contractor, in conformity with chapter 39 of title 31 or any other protection for contractors or subcontractors (including suppliers) that is included in the Federal Acquisition Regulation or any individual agency supplement to such Government-wide regulation,  <sup>\[3\]</sup>  <sup><sup> 3 So in original. The comma probably should be a semicolon. </sup></sup> 
+        (6) shall assist small business concerns to obtain payments, required late payment interest penalties, or information regarding payments due to such concerns from an executive agency or a contractor, in conformity with chapter 39 of title 31 or any other protection for contractors or subcontractors (including suppliers) that is included in the Federal Acquisition Regulation or any individual agency supplement to such Government-wide regulation,  <sup>\[4\]</sup>  <sup><sup> 4 So in original. The comma probably should be a semicolon. </sup></sup> 
 
         (7) shall have supervisory authority over personnel of such agency to the extent that the functions and duties of such personnel relate to functions and duties under this section and [section 637 of this title][/us/usc/t15/s637];
 
@@ -355,7 +355,7 @@
 
             (A) who shall be a full-time employee of the procuring activity and shall be well qualified, technically trained and familiar with the supplies or services purchased at the activity; and
 
-            (B) whose principal duty shall be to assist the Administration procurement center representative in his duties and functions relating to this section and [section 637 of this title][/us/usc/t15/s637],3
+            (B) whose principal duty shall be to assist the Administration procurement center representative in his duties and functions relating to this section and [section 637 of this title][/us/usc/t15/s637],4
 
         (9) shall cooperate, and consult on a regular basis, with the Administration with respect to carrying out the functions and duties described in paragraph (4) of this subsection;
 
@@ -405,7 +405,7 @@
 
             (F) receive unsolicited proposals from small business concerns and transmit such proposals to personnel of the activity responsible for reviewing such proposals, who shall furnish the procurement center representative with information regarding the disposition of any such proposal;
 
-            (G) consult with the Director the Office of Small and Disadvantaged Business Utilization of that agency and the agency personnel described in paragraph  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “paragraphs”. </sup></sup>  (7) and (8) of subsection (k) with regard to agency insourcing decisions covered by subsection (k)(11);
+            (G) consult with the Director the Office of Small and Disadvantaged Business Utilization of that agency and the agency personnel described in paragraph  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “paragraphs”. </sup></sup>  (7) and (8) of subsection (k) with regard to agency insourcing decisions covered by subsection (k)(11);
 
             (H) be an advocate for the maximum practicable utilization of small business concerns in Federal contracting, including by advocating against the consolidation or bundling of contract requirements when not justified; and
 
@@ -441,7 +441,7 @@
 
             (A)  __Authorization__  __.—__ 
 
-            At such times as the Administrator deems appropriate, the breakout procurement center representative  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “the procurement center representative”. </sup></sup>  shall conduct familiarization sessions for contracting officers and other appropriate personnel of the procurement center to which such representative is assigned. Such sessions shall acquaint the participants with the provisions of this subsection and shall instruct them in methods designed to further the purposes of such subsection.
+            At such times as the Administrator deems appropriate, the breakout procurement center representative  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be “the procurement center representative”. </sup></sup>  shall conduct familiarization sessions for contracting officers and other appropriate personnel of the procurement center to which such representative is assigned. Such sessions shall acquaint the participants with the provisions of this subsection and shall instruct them in methods designed to further the purposes of such subsection.
 
             (B)  __Limitation__  __.—__ 
 
@@ -457,7 +457,7 @@
 
          Each agency subject to the requirements of [section 2323 of title 10][/us/usc/t10/s2323] shall, when implementing such requirements—
 
-            (A) establish policies and procedures that insure that there will be no reduction in the number of  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be “or”. </sup></sup>  dollar value of contracts awarded pursuant to this section and [section 637(a) of this title][/us/usc/t15/s637/a] in order to achieve any goal or other program objective; and
+            (A) establish policies and procedures that insure that there will be no reduction in the number of  <sup>\[7\]</sup>  <sup><sup> 7 So in original. Probably should be “or”. </sup></sup>  dollar value of contracts awarded pursuant to this section and [section 637(a) of this title][/us/usc/t15/s637/a] in order to achieve any goal or other program objective; and
 
             (B) assure that such requirements will not alter or change the procurement process used to implement this section or [section 637(a) of this title][/us/usc/t15/s637/a].
 
@@ -487,7 +487,7 @@
 
         (2) __Database__ 
 
-            (A)  __ <sup>\[__  __7__  __\]</sup> __  __ <sup><sup> __  __7__  __ So in original. No subpar. (B) has been enacted.__  __ </sup></sup> __  __In general__ 
+            (A)  __ <sup>\[__  __8__  __\]</sup> __  __ <sup><sup> __  __8__  __ So in original. No subpar. (B) has been enacted.__  __ </sup></sup> __  __In general__ 
 
             Not later than 180 days after December 21, 2000, the Administrator of the Small Business Administration shall develop and shall thereafter maintain a database containing data and information regarding—
 
@@ -641,7 +641,7 @@
 
     In subsec. (c)(2)(B), “[section 8503 of title 41][/us/usc/t41/s8503]” substituted for “section 2 of the Act entitled ‘An Act to create a Committee on Purchases of Blind-made Products, and for other purposes’, approved June 25, 1938 ([41 U.S.C. 47][/us/usc/t41/s47])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (q)(2)(A), “[section 1302(a) of title 41][/us/usc/t41/s1302/a]” substituted for “section 25(a) of the Office of Federal Procurement Policy Act ([41 U.S.C. 4219(a)][/us/usc/t41/s4219/a])” and “[section 1303(a) of title 41][/us/usc/t41/s1303/a]” substituted for “section 25 of such Act” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (q)(2)(A), “[section 1302(a) of title 41][/us/usc/t41/s1302/a]” substituted for “section 25(a) of the Office of Federal Procurement Policy Act ([41 U.S.C. 4219(a)][/us/usc/t41/s4219/a] \[421(a)\])” and “[section 1303(a) of title 41][/us/usc/t41/s1303/a]” substituted for “section 25 of such Act” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
     In subsec. (r)(2), “[section 4106(c) of title 41][/us/usc/t41/s4106/c]” substituted for “section 303J(b) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253j(b)][/us/usc/t41/s253j/b])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 

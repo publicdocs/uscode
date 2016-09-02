@@ -27,7 +27,7 @@
 
  __References in Text__ 
 
-    The Trademark Act of 1946, referred to in subsec. (b), is [act July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], [60 Stat. 427][/us/stat/60/427], also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1051 of this title][/us/usc/t15/s1051] and Tables. See also [section 2106(9) of this title][/us/usc/t15/s2106/9].
+    The Trademark Act of 1946, referred to in subsec. (b), is [act July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], [60 Stat. 427][/us/stat/60/427], also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1051 of this title][/us/usc/t15/s1051] and Tables.
 
  __Amendments__ 
 
@@ -51,7 +51,6 @@
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F427
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
-[/us/usc/t15/s2106/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2106%2F9
 [/us/pl/113/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F288
 [/us/usc/t28/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1391
 

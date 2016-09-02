@@ -117,11 +117,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1)(A)(i). [Pub. L. 113–76, § 501(2)(A)(i)][/us/pl/113/76/s501/2/A/i], inserted “and” after semicolon.
+    2014—Subsec. (a)(1)(A). [Pub. L. 113–76, § 501(2)(A)][/us/pl/113/76/s501/2/A], inserted “and” at end of cl. (i), redesignated cl. (iii) as (ii) and inserted “and” at end, and struck out former cl. (ii) and cls. (iv) and (v) which read as follows:
 
-    Subsec. (a)(1)(A)(ii), (iii). [Pub. L. 113–76, § 501(2)(A)(ii)][/us/pl/113/76/s501/2/A/ii], (iii), redesignated cl. (iii) as (ii), inserted “and” at end, and struck out former cl. (ii) which read as follows: “that all pools and spas be equipped with devices and systems designed to prevent entrapment by pool or spa drains;”.
-
-    Subsec. (a)(1)(A)(iv), (v). [Pub. L. 113–76, § 501(2)(A)(ii)][/us/pl/113/76/s501/2/A/ii], struck out cls. (iv) and (v) which read as follows:
+    “(ii) that all pools and spas be equipped with devices and systems designed to prevent entrapment by pool or spa drains;
 
     “(iv) every swimming pool and spa that has a main drain, other than an unblockable drain, be equipped with a drain cover that meets the consumer product safety standard established by [section 8003 of this title][/us/usc/t15/s8003]; and
 
@@ -142,9 +140,7 @@
 [/us/stat/121/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1797
 [/us/pl/113/76/s501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs501%2F2
 [/us/stat/128/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F209
-[/us/pl/113/76/s501/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs501%2F2%2FA%2Fi
-[/us/pl/113/76/s501/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs501%2F2%2FA%2Fii
-[/us/pl/113/76/s501/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs501%2F2%2FA%2Fii
+[/us/pl/113/76/s501/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs501%2F2%2FA
 [/us/usc/t15/s8003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8003
 [/us/pl/113/76/s501/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs501%2F2%2FB
 

@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    This Act, and the amendments made by this Act, referred to in text, is [Pub. L. 113–274][/us/pl/113/274], Dec. 18, 2014, [128 Stat. 2971][/us/stat/128/2971], which is enacted this chapter and amended sections 272, 278g–3, 7403, and 7406 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7421 of this title][/us/usc/t15/s7421] and Tables.
+    This Act, and the amendments made by this Act, referred to in text, is [Pub. L. 113–274][/us/pl/113/274], Dec. 18, 2014, [128 Stat. 2971][/us/stat/128/2971], which enacted this chapter and amended sections 272, 278g–3, 7403, and 7406 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7421 of this title][/us/usc/t15/s7421] and Tables.
 
 ----------
 

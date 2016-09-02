@@ -21,7 +21,7 @@
 
         (1)
 
-         support competitions and challenges under [section 3719 of this title][/us/usc/t15/s3719] or any other provision of law, as appropriate—
+         support competitions and challenges under [section 3719 of this title][/us/usc/t15/s3719] (as amended by section 105 of the America COMPETES Reauthorization Act of 2010 ([124 Stat. 3989][/us/stat/124/3989])) or any other provision of law, as appropriate—
 
             (A) to identify, develop, and recruit talented individuals to perform duties relating to the security of information technology in Federal, State, local, and tribal government agencies, and the private sector; or
 
@@ -91,6 +91,10 @@
 
 ([Pub. L. 113–274, title III, § 301][/us/pl/113/274/s301], Dec. 18, 2014, [128 Stat. 2981][/us/stat/128/2981].)
 
+ __References in Text__ 
+
+    [Section 3719 of this title][/us/usc/t15/s3719] (as amended by section 105 of the America COMPETES Reauthorization Act of 2010 ([124 Stat. 3989][/us/stat/124/3989])), referred to in subsec. (a)(1), probably means [section 3719 of this title][/us/usc/t15/s3719] as enacted by [section 105(a) of Pub. L. 111–358][/us/pl/111/358/s105/a].
+
 ----------
 
 [Previous](./../../../../..//us/usc/t15/ch100A/schII/m__us_usc_t15_ch100A_schII.md) | [Next](./../../../../..//us/usc/t15/ch100A/schII/m__us_usc_t15_s7442.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7441)
@@ -99,7 +103,12 @@
 ----------
 
 [/us/usc/t15/s3719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3719
+[/us/stat/124/3989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3989
 [/us/pl/113/274/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs301
 [/us/stat/128/2981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2981
+[/us/usc/t15/s3719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3719
+[/us/stat/124/3989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3989
+[/us/usc/t15/s3719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3719
+[/us/pl/111/358/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs105%2Fa
 
 
