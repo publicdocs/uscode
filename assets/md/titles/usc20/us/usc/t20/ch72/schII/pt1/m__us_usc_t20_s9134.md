@@ -265,11 +265,11 @@
 
 [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1721(g)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–350, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Notwithstanding any other provision of law, funds available under section 3134 \[former [20 U.S.C. 6844][/us/usc/t20/s6844]\] or part A of title VI of the Elementary and Secondary Education Act of 1965 \[former [20 U.S.C. 7311][/us/usc/t20/s7311] et seq.\], or under section 231 of the Library Services and Technology Act \[[20 U.S.C. 9141][/us/usc/t20/s9141]\], may be used for the purchase or acquisition of technology protection measures that are necessary to meet the requirements of this title \[see Short Title of 2000 Amendments note set out under [section 6301 of this title][/us/usc/t20/s6301]\] and the amendments made by this title. No other sources of funds for the purchase or acquisition of such measures are authorized by this title, or the amendments made by this title.
 
->     “(2) __Technology protection measure defined.—__ 
+>     “(2)  __Technology protection measure defined__  __.—__ 
 
 >     In this section, the term ‘technology protection measure’ has the meaning given that term in section 1703 \[set out as a note under [section 902 of Title 47][/us/usc/t47/s902], Telecommunications\].”
 

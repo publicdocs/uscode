@@ -121,15 +121,15 @@
 
 > “SEC. 3. __AUTHORITY TO ESTABLISH MEMORIAL.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The National Museum of the American Indian (established by the National Museum of the American Indian Act ([20 U.S.C. 80q][/us/usc/t20/s80q] et seq.)), in close consultation with the National Congress of American Indians and other Native American groups, is authorized to construct and maintain a National Native American Veterans’ Memorial (hereafter in this Act referred to as the ‘memorial’).
 
->     “(b) __Location.—__ 
+>     “(b)  __Location__  __.—__ 
 
 >     The memorial shall be located at a site determined to be suitable by the Museum within the interior structure of the facility provided for by section 7(a) of such Act ([20 U.S.C. 80q–5(a)][/us/usc/t20/s80q–5/a]) (relating to housing the portion of the Museum to be located in the District of Columbia).
 
->     “(c) __Design and Plans.—__ 
+>     “(c)  __Design and Plans__  __.—__ 
 
 >         (1) The National Congress of American Indians, in consultation with the Museum, is authorized to hold a competition to select the design of the Memorial. Any design so selected shall be compatible with both the purpose of the Museum, as set forth in section 3(b) of the National Museum of the American Indian Act ([20 U.S.C. 80q–1][/us/usc/t20/s80q–1] \[(b)\]), and with any existing design plans for the Museum’s structure and its surroundings.
 
@@ -137,11 +137,11 @@
 
 > “SEC. 4. __PAYMENT OF EXPENSES AND USE OF NAME.__ 
 
->     “(a) __Responsibility of National Congress of American Indians.—__ 
+>     “(a)  __Responsibility of National Congress of American Indians__  __.—__ 
 
 >     The National Congress of American Indians shall be solely responsible for acceptance of contributions for, and payment of the expenses of, the establishment of the memorial. No Federal funds may be used to pay any expense of the establishment of the memorial.
 
->     “(b) __Use of Name.—__ 
+>     “(b)  __Use of Name__  __.—__ 
 
 >     Use of the name of the Smithsonian Institution or the National Museum of the American Indian in any material regarding the memorial produced by the National Congress of American Indians, other than in a manner simply describing the location of the memorial, shall be subject to consultation with, and the approval of, the Board of Regents of the Smithsonian Institution.”
 

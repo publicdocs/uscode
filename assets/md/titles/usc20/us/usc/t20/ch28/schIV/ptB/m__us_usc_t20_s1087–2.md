@@ -299,17 +299,17 @@
 
             (D) __Annual assessment.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 For each fiscal year beginning on or after October 1, 1996, the Secretary of the Treasury may establish and collect from the Association an assessment (or assessments) in amounts sufficient to provide for reasonable costs and expenses of carrying out the duties of the Secretary of the Treasury under this section and [section 1087–3 of this title][/us/usc/t20/s1087–3] during such fiscal year. In no event may the total amount so assessed exceed, for any fiscal year, $800,000, adjusted for each fiscal year ending after September 30, 1997, by the ratio of the Consumer Price Index for All Urban Consumers (issued by the Bureau of Labor Statistics) for the final month of the fiscal year preceding the fiscal year for which the assessment is made to the Consumer Price Index for All Urban Consumers for September 1997.
 
-                (ii) __Deposit.—__ 
+                (ii)  __Deposit__  __.—__ 
 
                 Amounts collected from assessments under this subparagraph shall be deposited in an account within the Treasury of the United States as designated by the Secretary of the Treasury for that purpose. The Secretary of the Treasury is authorized and directed to pay out of any funds available in such account the reasonable costs and expenses of carrying out the duties of the Secretary of the Treasury under this section and [section 1087–3 of this title][/us/usc/t20/s1087–3]. None of the funds deposited into such account shall be available for any purpose other than making payments for such costs and expenses.
 
             (E) __Obligation to obtain, maintain, and report information.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The Association shall obtain such information and make and keep such records as the Secretary of the Treasury may from time to time prescribe concerning—
 
@@ -317,27 +317,27 @@
 
                     (II) the Association’s policies, procedures, and systems for monitoring and controlling any such financial risk.
 
-                (ii) __Summary reports.—__ 
+                (ii)  __Summary reports__  __.—__ 
 
                 The Secretary of the Treasury may require summary reports of such information to be filed no more frequently than quarterly. If, as a result of adverse market conditions or based on reports provided pursuant to this subparagraph or other available information, the Secretary of the Treasury has concerns regarding the financial or operational condition of the Association, the Secretary of the Treasury may, notwithstanding the preceding sentence and clause (i), require the Association to make reports concerning the activities of any associated person, whose business activities are reasonably likely to have a material impact on the financial or operational condition of the Association.
 
-                (iii) __Definition.—__ 
+                (iii)  __Definition__  __.—__ 
 
                 For purposes of this subparagraph, the term “associated person” means any person, other than a natural person, directly or indirectly controlling, controlled by, or under common control with the Association.
 
             (F) __Compensation of auditors and examiners.—__ 
 
-                (i) __Rates of pay.—__ 
+                (i)  __Rates of pay__  __.—__ 
 
                 Rates of basic pay for all auditors and examiners appointed pursuant to subparagraph (A) may be set and adjusted by the Secretary of the Treasury without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5.
 
                 (ii) __Comparability.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Subject to [section 5373 of title 5][/us/usc/t5/s5373], the Secretary of the Treasury may provide additional compensation and benefits to auditors and examiners appointed pursuant to subparagraph (A) if the same type of compensation or benefits are then being provided by any agency referred to in [section 1833b of title 12][/us/usc/t12/s1833b] or, if not then being provided, could be provided by such an agency under applicable provisions of law, rule, or regulation.
 
-                    (II) __Consultation.—__ 
+                    (II)  __Consultation__  __.—__ 
 
                     In setting and adjusting the total amount of compensation and benefits for auditors and examiners appointed pursuant to subparagraph (A), the Secretary of the Treasury shall consult with, and seek to maintain comparability with, the agencies referred to in [section 1833b of title 12][/us/usc/t12/s1833b].
 
@@ -695,11 +695,11 @@
 
 [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VI, § 602(e), (f)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–289, 3009–290, provided that:
 
->     “(e) __Association Names.—__ 
+>     “(e)  __Association Names__  __.—__ 
 
 >     Upon dissolution in accordance with section 439(s) of the Higher Education Act of 1965 ([20 U.S.C. 1087–2][/us/usc/t20/s1087–2]\[(s)\]), the names ‘Student Loan Marketing Association’, ‘Sallie Mae’, and any variations thereof may not be used by any entity engaged in any business similar to the business conducted pursuant to section 439 of such Act (as such section was in effect on the date of enactment of this Act \[Sept. 30, 1996\]) without the approval of the Secretary of the Treasury.
 
->     “(f) __Right to Enforce.—__ 
+>     “(f)  __Right to Enforce__  __.—__ 
 
 >     The Secretary of Education or the Secretary of the Treasury, as appropriate, may request that the Attorney General bring an action in the United States District Court for the District of Columbia for the enforcement of any provision of subsection (e), or may, under the direction or control of the Attorney General, bring such an action. Such court shall have jurisdiction and power to order and require compliance with subsection (e).”
 

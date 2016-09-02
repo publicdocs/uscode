@@ -495,11 +495,11 @@
 
  __Highly Qualified Teacher__ 
 
-[Pub. L. 111–242, § 163][/us/pl/111/242/s163], as added by [Pub. L. 111–322, title I, § 1(a)(2)][/us/pl/111/322/s1/a/2], Dec. 22, 2010, [124 Stat. 3521][/us/stat/124/3521]; amended by [Pub. L. 112–175, § 145][/us/pl/112/175/s145], Sept. 28, 2012, [126 Stat. 1322][/us/stat/126/1322], provided that:
+[Pub. L. 111–242, § 163][/us/pl/111/242/s163], as added by [Pub. L. 111–322, title I, § 1(a)(2)][/us/pl/111/322/s1/a/2], Dec. 22, 2010, [124 Stat. 3521][/us/stat/124/3521]; amended by [Pub. L. 112–175, § 145][/us/pl/112/175/s145], Sept. 28, 2012, [126 Stat. 1322][/us/stat/126/1322]; [Pub. L. 113–46, div. A, § 144][/us/pl/113/46/s144], Oct. 17, 2013, [127 Stat. 565][/us/stat/127/565], provided that:
 
 >     “(a) A ‘highly qualified teacher’ includes a teacher who meets the requirements in 34 CFR 200.56(a)(2)(ii), as published in the Federal Register on December 2, 2002.
 
->     “(b) This provision is effective on the date of enactment of this provision \[Dec. 22, 2010\] through the end of the 2013–2014 academic year.
+>     “(b) This provision is effective on the date of enactment of this provision \[Dec. 22, 2010\] through the end of the 2015–2016 academic year.
 
 >     “(c)
 
@@ -549,6 +549,8 @@
 [/us/stat/124/3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3521
 [/us/pl/112/175/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F175%2Fs145
 [/us/stat/126/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1322
+[/us/pl/113/46/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F46%2Fs144
+[/us/stat/127/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F565
 [/us/pl/107/110/s1111/h/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1111%2Fh%2F6%2FA
 [/us/pl/89/10/s1111/h/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1111%2Fh%2F6%2FA
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110

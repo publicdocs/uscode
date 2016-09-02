@@ -117,11 +117,11 @@
 
 [Pub. L. 100–297, title VI, § 6303][/us/pl/100/297/s6303], Apr. 28, 1988, [102 Stat. 431][/us/stat/102/431], as amended by [Pub. L. 100–351][/us/pl/100/351], June 27, 1988, [102 Stat. 661][/us/stat/102/661]; [Pub. L. 106–400, § 2][/us/pl/106/400/s2], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as otherwise provided, this Act and the amendments made by this Act \[see Tables for classification\] shall take effect July 1, 1988.
 
->     “(b) __Special Rules.—__ 
+>     “(b)  __Special Rules__  __.—__ 
 
 >         (1) Any provision of this Act or any amendment made by this Act which authorizes appropriations for fiscal year 1988 shall take effect on the date of the enactment of this Act \[Apr. 28, 1988\].
 
@@ -155,7 +155,7 @@
 
 [Pub. L. 99–498, title IV, § 402(b)][/us/pl/99/498/s402/b]–(d), Oct. 17, 1986, [100 Stat. 1428][/us/stat/100/1428], 1429, as amended by [Pub. L. 100–50, § 22(b)][/us/pl/100/50/s22/b], June 3, 1987, [101 Stat. 361][/us/stat/101/361], provided that:
 
->     “(b) __Effective Dates.—__ 
+>     “(b)  __Effective Dates__  __.—__ 
 
 >     The changes made in part B of title IV of the Act \[[20 U.S.C. 1071][/us/usc/t20/s1071] et seq.\] by the amendment made by subsection (a) of this section shall take effect on the date of enactment of this Act \[Oct. 17, 1986\], except—
 
@@ -173,11 +173,11 @@
 
 >         “(7) the changes made in section 438(b) \[[20 U.S.C. 1087–1(b)][/us/usc/t20/s1087–1/b]\] shall take effect with respect to loans disbursed on or after 30 days after the date of enactment of this Act \[Oct. 17, 1986\] or made to cover the costs of instruction for periods of enrollment beginning on or after 30 days after the date of enactment of this Act.
 
->     “(c) __Changes Effective Without Regard to Regulations; Republication of Regulations.—__ 
+>     “(c)  __Changes Effective Without Regard to Regulations; Republication of Regulations__  __.—__ 
 
 >     The changes made in part B of title IV of the Act \[[20 U.S.C. 1071][/us/usc/t20/s1071] et seq.\] by the amendment made by subsection (a) of this section shall be effective in accordance with subsection (b) of this section without regard to whether such changes are reflected in the regulations prescribed by the Secretary of Education for the purpose of such part.
 
->     “(d) __New Borrowers.—__ 
+>     “(d)  __New Borrowers__  __.—__ 
 
 >     For the purpose of this section, the term ‘new borrower’ means, with respect to any date, an individual who on that date has no outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under part B of title IV of the Act \[[20 U.S.C. 1071][/us/usc/t20/s1071] et seq.\].”
 

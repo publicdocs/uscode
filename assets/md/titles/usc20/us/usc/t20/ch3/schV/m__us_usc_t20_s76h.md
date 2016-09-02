@@ -101,11 +101,11 @@
 
 [Pub. L. 103–279, § 2(b)(2)][/us/pl/103/279/s2/b/2], July 21, 1994, [108 Stat. 1410][/us/stat/108/1410], provided that:
 
->     “(A) __Superintendent of schools of the district of columbia.—__ 
+>     “(A)  __Superintendent of schools of the district of columbia__  __.—__ 
 
 >     The amendment made by paragraph (1)(C)(i) \[amending this section\] shall take effect on the date of expiration of the term of the Chairman of the District of Columbia Recreation Board serving as a trustee of the John F. Kennedy Center for the Performing Arts on the date of enactment of this Act \[July 21, 1994\].
 
->     “(B) __Members of congress.—__ 
+>     “(B)  __Members of congress__  __.—__ 
 
 >     The amendment made by paragraph (1)(C)(ii) \[amending this section\] shall take effect on the date of enactment of this Act.”
 

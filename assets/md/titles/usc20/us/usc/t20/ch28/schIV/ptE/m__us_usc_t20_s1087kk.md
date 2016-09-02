@@ -35,11 +35,11 @@
 
 [Pub. L. 105–244, title IV, § 480A][/us/pl/105/244/s480A], Oct. 7, 1998, [112 Stat. 1732][/us/stat/112/1732], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), the amendments made by this part \[part F (§§ 471–480A) of title IV of [Pub. L. 105–244][/us/pl/105/244], amending this section and sections 1087ll to 1087tt and 1087vv of this title\] are effective on the date of enactment of this Act \[Oct. 7, 1998\].
 
->     “(b) __Provisions Effective for Academic Year 2000–2001, and Thereafter.—__ 
+>     “(b)  __Provisions Effective for Academic Year__  __2000–2001,__  __and Thereafter__  __.—__ 
 
 >     The amendments made by sections 472, 473, 474, and 475 \[amending sections 1087nn to 1087qq of this title\] shall apply with respect to determinations of need under part F of title IV of the Higher Education Act of 1965 \[this part\] for academic years beginning on or after July 1, 2000.”
 
@@ -73,11 +73,11 @@
 
 [Pub. L. 108–199, div. E, title III, § 305][/us/pl/108/199/s305], Jan. 23, 2004, [118 Stat. 263][/us/stat/118/263], provided that:
 
->     “(a) __Study Required.—__ 
+>     “(a)  __Study Required__  __.—__ 
 
 >     The Advisory Committee on Student Financial Assistance established by section 491 of the Higher Education Act of 1965 ([20 U.S.C. 1098][/us/usc/t20/s1098]), hereafter in this section referred to as ‘the Advisory Committee’, shall conduct a thorough study of the feasibility of simplifying the need analysis methodology for all Federal student financial assistance programs and the process of applying for such assistance.
 
->     “(b) __Required Subjects of Study.—__ 
+>     “(b)  __Required Subjects of Study__  __.—__ 
 
 >     In performing the study, the Advisory Committee shall, at a minimum, examine the following:
 
@@ -99,43 +99,43 @@
 
 >         “(9) whether any proposed changes to data elements collected, in addition to those used to calculate expected family contribution, or any proposed changes to the form’s design or the process of applying for aid, may have adverse effects on program costs, integrity, delivery, or distribution of awards, as well as, application development or application processing.
 
->     “(c) __Additional Considerations.—__ 
+>     “(c)  __Additional Considerations__  __.—__ 
 
 >     In conducting the feasibility study, the Advisory Committee’s primary objective under this subsection shall be simplifying the financial aid application forms and process and obtaining a substantial reduction in the number of required data items. In carrying out that objective, the Advisory Committee shall pay special attention to the needs of low-income and moderate-income students and families.
 
 >     “(d) __Consultation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Advisory Committee shall consult with a broad range of interested parties in higher education, including parents and students, high school guidance counselors, financial aid and other campus administrators, appropriate State administrators, administrators of intervention and outreach programs, and appropriate officials from the Department of Education.
 
->         “(2) __Forms design expert.—__ 
+>         “(2)  __Forms design expert__  __.—__ 
 
 >         With the goal of making significant changes to the form to make the questions more easily understandable, the Advisory Committee shall consult a forms design expert to ensure that its recommendations for revision of the application form would assist in making the form easily readable and understood by parents, students, and other members of the public.
 
->         “(3) __Congressional consultation.—__ 
+>         “(3)  __Congressional consultation__  __.—__ 
 
 >         The Advisory Committee shall consult on a regular basis with the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate in carrying out the feasibility study required by this subsection.
 
->         “(4) __Departmental consultation.—__ 
+>         “(4)  __Departmental consultation__  __.—__ 
 
 >         The Secretary of Education shall provide such assistance to the Advisory Committee as is requested and practicable in conducting the study required by this subsection.
 
 >     “(e) __Reports.—__ 
 
->         “(1) __Interim report.—__ 
+>         “(1)  __Interim report__  __.—__ 
 
 >         The Advisory Committee shall, not later than 6 months after the date of enactment of this Act \[Jan. 23, 2004\], prepare and submit an interim report containing any such legislative changes as the Advisory Committee recommends to reform and simplify the needs analysis under part F of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1087kk][/us/usc/t20/s1087kk] et seq.) and forms and other requirements under such title to the Committee on Education and the Workforce of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Secretary of Education.
 
->         “(2) __Final report.—__ 
+>         “(2)  __Final report__  __.—__ 
 
 >         The Advisory Committee shall, not later than 1 year after the date of enactment of this Act, prepare and submit a full final report on the study, including recommendations for regulatory and administrative changes required by this section, to the Committee on Education and the Workforce of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Secretary of Education.
 
->     “(f) __Implementation.—__ 
+>     “(f)  __Implementation__  __.—__ 
 
 >     The Secretary of Education shall consult with the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate and shall subsequently initiate a redesign of the form required by section 483 of the Higher Education Act of 1965 ([20 U.S.C. 1090][/us/usc/t20/s1090]). Such redesign shall include the testing of alternative simplified versions of the free Federal form. The Secretary shall keep the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate fully and currently informed on the progress of these efforts.
 
->     “(g) __Postponement of Tax Table Update Pending Report and Implementation.—__ 
+>     “(g)  __Postponement of Tax Table Update Pending Report and Implementation__  __.—__ 
 
 >     The Secretary of Education shall not implement or enforce for the award year 2004–2005 the annual update to the allowances for State and other taxes in the tables used in the Federal needs analysis methodology, as prescribed by the Secretary on May 30, 2003 (68 Fed. Reg. 32473).”
 

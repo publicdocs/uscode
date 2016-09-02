@@ -109,7 +109,7 @@
 
             (G) __Loans disbursed between__  __july 1, 1998__  __, and__  __october 1, 1998__  __.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Subject to paragraph (4) and clauses (ii), (iii), and (iv) of this subparagraph, and except as provided in subparagraph (B), the special allowance paid pursuant to this subsection on loans for which the first disbursement is made on or after July 1, 1998, and before October 1, 1998, shall be computed—
 
@@ -121,25 +121,25 @@
 
                     (IV) by dividing the resultant percent by 4.
 
-                (ii) __In school and grace period.—__ 
+                (ii)  __In school and grace period__  __.—__ 
 
                 In the case of any loan for which the first disbursement is made on or after July 1, 1998, and before October 1, 1998, and for which the applicable rate of interest is described in [section 1077a(j)(2) of this title][/us/usc/t20/s1077a/j/2], clause (i)(III) of this subparagraph shall be applied by substituting “2.2 percent” for “2.8 percent”.
 
-                (iii) __PLUS loans.—__ 
+                (iii)  __PLUS loans__  __.—__ 
 
                 In the case of any loan for which the first disbursement is made on or after July 1, 1998, and before October 1, 1998, and for which the applicable rate of interest is described in [section 1077a(j)(3) of this title][/us/usc/t20/s1077a/j/3], clause (i)(III) of this subparagraph shall be applied by substituting “3.1 percent” for “2.8 percent”, subject to clause (v) of this subparagraph.
 
-                (iv) __Consolidation loans.—__ 
+                (iv)  __Consolidation loans__  __.—__ 
 
                 This subparagraph shall not apply in the case of any consolidation loan.
 
-                (v) __Limitation on special allowances for PLUS loans.—__ 
+                (v)  __Limitation on special allowances for PLUS loans__  __.—__ 
 
                 In the case of PLUS loans made under [section 1078–2 of this title][/us/usc/t20/s1078–2] and disbursed on or after July 1, 1998, and before October 1, 1998, for which the interest rate is determined under 1077a(j)(3) of this title, a special allowance shall not be paid for such loan for such  <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  unless the rate determined under subparagraph (A) of such section (without regard to subparagraph (B) of such section) exceeds 9.0 percent.
 
             (H) __Loans disbursed on or after__  __october 1, 1998__  __, and before__  __january 1, 2000__  __.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Subject to paragraph (4) and clauses (ii), (iii), and (iv) of this subparagraph, and except as provided in subparagraph (B), the special allowance paid pursuant to this subsection on loans for which the first disbursement is made on or after October 1, 1998, and before January 1, 2000, shall be computed—
 
@@ -151,19 +151,19 @@
 
                     (IV) by dividing the resultant percent by 4.
 
-                (ii) __In school and grace period.—__ 
+                (ii)  __In school and grace period__  __.—__ 
 
                 In the case of any loan for which the first disbursement is made on or after October 1, 1998, and before January 1, 2000, and for which the applicable rate of interest is described in [section 1077a(k)(2) of this title][/us/usc/t20/s1077a/k/2], clause (i)(III) of this subparagraph shall be applied by substituting “2.2 percent” for “2.8 percent”.
 
-                (iii) __PLUS loans.—__ 
+                (iii)  __PLUS loans__  __.—__ 
 
                 In the case of any loan for which the first disbursement is made on or after October 1, 1998, and before January 1, 2000, and for which the applicable rate of interest is described in [section 1077a(k)(3) of this title][/us/usc/t20/s1077a/k/3], clause (i)(III) of this subparagraph shall be applied by substituting “3.1 percent” for “2.8 percent”, subject to clause (v) of this subparagraph.
 
-                (iv) __Consolidation loans.—__ 
+                (iv)  __Consolidation loans__  __.—__ 
 
                 In the case of any consolidation loan for which the application is received by an eligible lender on or after October 1, 1998, and before January 1, 2000, and for which the applicable interest rate is determined under [section 1077a(k)(4) of this title][/us/usc/t20/s1077a/k/4], clause (i)(III) of this subparagraph shall be applied by substituting “3.1 percent” for “2.8 percent”, subject to clause (vi) of this subparagraph.
 
-                (v) __Limitation on special allowances for plus loans.—__ 
+                (v)  __Limitation on special allowances for plus loans__  __.—__ 
 
                 In the case of PLUS loans made under [section 1078–2 of this title][/us/usc/t20/s1078–2] and first disbursed on or after October 1, 1998, and before January 1, 2000, for which the interest rate is determined under [section 1077a(k)(3) of this title][/us/usc/t20/s1077a/k/3], a special allowance shall not be paid for such loan during any 12-month period beginning on July 1 and ending on June 30 unless, on the June 1 preceding such July 1—
 
@@ -173,7 +173,7 @@
 
                     exceeds 9.0 percent.
 
-                (vi) __Limitation on special allowances for consolidation loans.—__ 
+                (vi)  __Limitation on special allowances for consolidation loans__  __.—__ 
 
                 In the case of consolidation loans made under [section 1078–3 of this title][/us/usc/t20/s1078–3] and for which the application is received on or after October 1, 1998, and before January 1, 2000, for which the interest rate is determined under [section 1077a(k)(4) of this title][/us/usc/t20/s1077a/k/4], a special allowance shall not be paid for such loan during any 3-month period ending March 31, June 30, September 30, or December 31 unless—
 
@@ -185,7 +185,7 @@
 
             (I) __Loans disbursed on or after__  __january 1, 2000__  __, and before__  __july 1, 2010__  __.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Notwithstanding subparagraphs (G) and (H), but subject to paragraph (4) and the following clauses of this subparagraph, and except as provided in subparagraph (B), the special allowance paid pursuant to this subsection on loans for which the first disbursement is made on or after January 1, 2000, and before July 1, 2010, shall be computed—
 
@@ -197,7 +197,7 @@
 
                     (IV) by dividing the resultant percent by 4.
 
-                (ii) __In school and grace period.—__ 
+                (ii)  __In school and grace period__  __.—__ 
 
                 In the case of any loan—
 
@@ -207,21 +207,21 @@
 
                     clause (i)(III) of this subparagraph shall be applied by substituting “1.74 percent” for “2.34 percent”.
 
-                (iii) __PLUS loans.—__ 
+                (iii)  __PLUS loans__  __.—__ 
 
                 In the case of any loan for which the first disbursement is made on or after January 1, 2000, and before July 1, 2010, and for which the applicable rate of interest is described in section 1077a(k)(3) or (l)(2) of this title, clause (i)(III) of this subparagraph shall be applied by substituting “2.64 percent” for “2.34 percent”.
 
-                (iv) __Consolidation loans.—__ 
+                (iv)  __Consolidation loans__  __.—__ 
 
                 In the case of any consolidation loan for which the application is received by an eligible lender on or after January 1, 2000, and that is disbursed before July 1, 2010, and for which the applicable interest rate is determined under section 1077a(k)(4) or (l)(3) of this title, clause (i)(III) of this subparagraph shall be applied by substituting “2.64 percent” for “2.34 percent”.
 
                 (v) __Recapture of excess interest.—__ 
 
-                    (I) __Excess credited.—__ 
+                    (I)  __Excess credited__  __.—__ 
 
                     With respect to a loan on which the applicable interest rate is determined under subsection (k) or (l) of [section 1077a of this title][/us/usc/t20/s1077a] and for which the first disbursement of principal is made on or after April 1, 2006, and before July 1, 2010, if the applicable interest rate for any 3-month period exceeds the special allowance support level applicable to such loan under this subparagraph for such period, then an adjustment shall be made by calculating the excess interest in the amount computed under subclause (II) of this clause, and by crediting the excess interest to the Government not less often than annually.
 
-                    (II) __Calculation of excess.—__ 
+                    (II)  __Calculation of excess__  __.—__ 
 
                     The amount of any adjustment of interest on a loan to be made under this subsection for any quarter shall be equal to—
 
@@ -231,11 +231,11 @@
 
                         (cc) four.
 
-                    (III) __Special allowance support level.—__ 
+                    (III)  __Special allowance support level__  __.—__ 
 
                     For purposes of this clause, the term “special allowance support level” means, for any loan, a number expressed as a percentage equal to the sum of the rates determined under subclauses (I) and (III) of clause (i), and applying any substitution rules applicable to such loan under clauses (ii), (iii), (iv), (vi), and (vii) in determining such sum.
 
-                (vi) __Reduction for loans disbursed on or after__  __october 1, 2007__  __, and before__  __july 1, 2010__  __.—__ 
+                (vi)  __Reduction for loans disbursed on or after __  __october 1, 2007__  __, and before __  __july 1, 2010__  __.—__ 
 
                 With respect to a loan on which the applicable interest rate is determined under section 1077a(l) of this title and for which the first disbursement of principal is made on or after October 1, 2007, and before July 1, 2010, the special allowance payment computed pursuant to this subparagraph shall be computed—
 
@@ -265,17 +265,17 @@
 
                 (vii) __Revised calculation rule to reflect financial market conditions.—__ 
 
-                    (I) __Calculation based on LIBOR.—__ 
+                    (I)  __Calculation based on LIBOR__  __.—__ 
 
                     For the calendar quarter beginning on April 1, 2012  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by a comma. </sup></sup>  and each subsequent calendar quarter, in computing the special allowance paid pursuant to this subsection with respect to loans described in subclause (II), clause (i)(I) of this subparagraph shall be applied by substituting “of the 1-month London Inter Bank Offered Rate (LIBOR) for United States dollars in effect for each of the days in such quarter as compiled and released by the British Bankers Association” for “of the quotes of the 3-month commercial paper (financial) rates in effect for each of the days in such quarter as reported by the Federal Reserve in Publication H–15 (or its successor) for such 3-month period”.
 
-                    (II) __Loans eligible for LIBOR-based calculation.—__ 
+                    (II)  __Loans eligible for LIBOR-based calculation__  __.—__ 
 
                     The special allowance paid pursuant to this subsection shall be calculated as described in subclause (I) with respect to special allowance payments for the 3-month period ending June 30, 2012, and each succeeding 3-month period, on loans for which the first disbursement is made on or after January 1, 2000, and before July 1, 2010, if, not later than April 1, 2012, the holder of the loan (or, if the holder acts as eligible lender trustee for the beneficial owner of the loan, the beneficial owner of the loan), affirmatively and permanently waives all contractual, statutory, or other legal rights to a special allowance paid pursuant to this subsection that is calculated using the formula in effect at the time the loans were first disbursed.
 
                     (III) __Terms of waiver.—__ 
 
-                        (aa) __In general.—__ 
+                        (aa)  __In general__  __.—__ 
 
                         A waiver pursuant to subclause (II) shall be in a form (printed or electronic) prescribed by the Secretary, and shall be applicable to—
 
@@ -285,7 +285,7 @@
 
                             (CC) all future calculations of the special allowance on loans that, on the date of such waiver, are loans described in subitem (AA) or (BB), or that, after such date, become loans described in subitem (AA) or (BB).
 
-                        (bb) __Exceptions.—__ 
+                        (bb)  __Exceptions__  __.—__ 
 
                         Any waiver pursuant to subclause (II) that is elected for loans described in subitem (AA) or (BB) of item (aa) shall not apply to any loan described in such subitem for which the lender or beneficial owner of the loan demonstrates to the satisfaction of the Secretary that—
 
@@ -649,11 +649,11 @@
 
 [Pub. L. 109–150, § 2(d)][/us/pl/109/150/s2/d], Dec. 30, 2005, [119 Stat. 2884][/us/stat/119/2884], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and provisions set out as notes under sections 1001 and 1078–10 of this title\] are effective upon enactment \[Dec. 30, 2005\].
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendment made by subsection (c)(1) \[amending provisions set out as a note under [section 1078–10 of this title][/us/usc/t20/s1078–10]\] shall take effect as if enacted on October 1, 2005.”
 

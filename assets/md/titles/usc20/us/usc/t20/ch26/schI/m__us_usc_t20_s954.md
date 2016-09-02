@@ -451,7 +451,7 @@
 
 [Pub. L. 101–512, title III, § 318][/us/pl/101/512/s318] \[title I, § 111\], Nov. 5, 1990, [104 Stat. 1960][/us/stat/104/1960], 1974, provided that:
 
->     “(a) __Study Required.—__ 
+>     “(a)  __Study Required__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study—
 
@@ -461,7 +461,7 @@
 
 >         “(3) the existing capacity of the States to receive increased allocations under section 5 of such Act and the ability of the States to manage such increased allocations effectively.
 
->     “(b) __Report Required.—__ 
+>     “(b)  __Report Required__  __.—__ 
 
 >     Not later than October 1, 1992, the Comptroller General shall submit, to the Speaker of the House of Representatives and the President pro tempore of the Senate, a report summarizing the results of the study conducted under subsection (a).”
 

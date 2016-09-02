@@ -31,7 +31,7 @@
 
         (2) providing technical assistance and support to community technology centers.
 
-        (3) __Service of Americorps participants.—__ 
+        (3)  __Service of Americorps participants__  __.—__ 
 
         The Secretary may collaborate with the Chief Executive Officer of the Corporation for National and Community Service on the use in community technology centers of participants in National Service programs carried out under subtitle C of title I of the National and Community Service Act of 1990 ([42 U.S.C. 12571][/us/usc/t42/s12571] et seq.).
 

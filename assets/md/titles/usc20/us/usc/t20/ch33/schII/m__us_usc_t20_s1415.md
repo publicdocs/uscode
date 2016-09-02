@@ -227,7 +227,7 @@
 
                 (iii) is conducted by a qualified and impartial mediator who is trained in effective mediation techniques.
 
-            (B) __Opportunity to meet with a disinterested party.—__ 
+            (B)  __Opportunity to meet with a disinterested party__  __.—__ 
 
             A local educational agency or a State agency may establish procedures to offer to parents and schools that choose not to use the mediation process, an opportunity to meet, at a time and location convenient to the parents, with a disinterested party who is under contract with—
 
@@ -237,19 +237,19 @@
 
                 to encourage the use, and explain the benefits, of the mediation process to the parents.
 
-            (C) __List of qualified mediators.—__ 
+            (C)  __List of qualified mediators__  __.—__ 
 
             The State shall maintain a list of individuals who are qualified mediators and knowledgeable in laws and regulations relating to the provision of special education and related services.
 
-            (D) __Costs.—__ 
+            (D)  __Costs__  __.—__ 
 
             The State shall bear the cost of the mediation process, including the costs of meetings described in subparagraph (B).
 
-            (E) __Scheduling and location.—__ 
+            (E)  __Scheduling and location__  __.—__ 
 
             Each session in the mediation process shall be scheduled in a timely manner and shall be held in a location that is convenient to the parties to the dispute.
 
-            (F) __Written agreement.—__ 
+            (F)  __Written agreement__  __.—__ 
 
             In the case that a resolution is reached to resolve the complaint through the mediation process, the parties shall execute a legally binding agreement that sets forth such resolution and that—
 
@@ -259,7 +259,7 @@
 
                 (iii) is enforceable in any State court of competent jurisdiction or in a district court of the United States.
 
-            (G) __Mediation discussions.—__ 
+            (G)  __Mediation discussions__  __.—__ 
 
             Discussions that occur during the mediation process shall be confidential and may not be used as evidence in any subsequent due process hearing or civil proceeding.
 

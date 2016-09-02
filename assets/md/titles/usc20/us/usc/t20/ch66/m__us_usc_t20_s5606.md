@@ -21,7 +21,7 @@
 
     (b) __Investment of Trust Fund assets__ 
 
-        (1)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No par. (2) has been enacted.__  __ </sup></sup> __  __In general.—__ 
+        (1)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No par. (2) has been enacted.__  __ </sup></sup> __   __In general__  __.—__ 
 
         It shall be the duty of the Secretary of the Treasury to invest, at the direction of the Foundation Board, in full the amounts appropriated to the Trust Fund. Such investments shall be in public debt securities with maturities suitable to the needs of the Trust Fund. Investments in public debt securities shall bear interest “at rates determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States” of comparable maturity.
 

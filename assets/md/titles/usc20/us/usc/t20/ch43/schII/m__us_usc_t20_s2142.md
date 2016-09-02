@@ -39,7 +39,7 @@
 
 [Pub. L. 112–239, div. A, title V, § 594][/us/pl/112/239/s594], Jan. 2, 2013, [126 Stat. 1771][/us/stat/126/1771], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Director of the American Folklife Center at the Library of Congress shall carry out a national public awareness and participation campaign for the program required by section 3(a) of the Veterans’ Oral History Project Act ([20 U.S.C. 2142(a)][/us/usc/t20/s2142/a]). Such campaign shall provide for the following:
 
@@ -51,11 +51,11 @@
 
 >         “(4) Complementing the efforts supporting the readjustment and successful reintegration of veterans into civilian life after service in the Armed Forces.
 
->     “(b) __Coordination and Cooperation.—__ 
+>     “(b)  __Coordination and Cooperation__  __.—__ 
 
 >     To the degree practicable, the Director shall, in carrying out the campaign required by subsection (a), coordinate and cooperate with veterans service organizations.
 
->     “(c) __Veterans Service Organization Defined.—__ 
+>     “(c)  __Veterans Service Organization Defined__  __.—__ 
 
 >     In this section, the term ‘veterans service organization’ means any organization recognized by the Secretary of Veterans Affairs for the representation of veterans under [section 5902 of title 38][/us/usc/t38/s5902], United States Code.”
 

@@ -79,41 +79,41 @@
 
 [Pub. L. 103–208, § 5][/us/pl/103/208/s5], Dec. 20, 1993, [107 Stat. 2488][/us/stat/107/2488], provided that:
 
->     “(a) __In general.—__ 
+>     “(a)  __In general__  __.—__ 
 
 >     Except as otherwise provided therein or in subsection (b) of this section, the amendments made by section 2 of this Act \[see Tables for classification\] shall be effective as if such amendments were included in the Higher Education Amendments of 1992 ([Public Law 102–325][/us/pl/102/325]), except that section 492 of the Act \[[section 1098a of this title][/us/usc/t20/s1098a]\] shall not apply to the amendments made by this Act \[see Tables for classification\].
 
 >     “(b) __Exceptions.—__ 
 
->         “(1) __Effective on__  __October 1, 1993__  __.—__ 
+>         “(1)  __Effective on October__  __1, 1993.—__ 
 
 >         The amendments made by the following subsections of section 2 of this Act shall be effective on and after October 1, 1993: (b)(29), (j)(28), (j)(36), and (j)(40) \[amending sections 1070d–34, 1134e, 1134j, and 1134q of this title\].
 
->         “(2) __Effective on date of enactment.—__ 
+>         “(2)  __Effective on date of enactment__  __.—__ 
 
 >         The amendments made by the following subsections of section 2 of this Act shall be effective on and after the date of enactment of this Act \[Dec. 20, 1993\]: (b)(2), (b)(7), (b)(28), (c)(3), (c)(5), (c)(13)(B), (c)(13)(C), (c)(18), (c)(30), (c)(62) \[amending sections 1070a, 1070a–11, 1070d–33, 1075, 1077a, 1078, 1078–1, and 1085 of this title\].
 
->         “(3) __Effective 30 days after enactment.—__ 
+>         “(3)  __Effective__  __30__  __days after enactment__  __.—__ 
 
 >         The amendments made by the following subsections of section 2 of this Act shall be effective on and after 30 days after the date of enactment of this Act \[Dec. 20, 1993\]: (c)(19), (c)(20), (c)(21), (c)(59) \[amending sections 1078 and 1085 of this title\].
 
->         “(4) __Effective 60 days after enactment.—__ 
+>         “(4)  __Effective__  __60__  __days after enactment__  __.—__ 
 
 >         The amendments made by the following subsections of section 2 of this Act shall be effective on and after 60 days after the date of enactment of this Act \[Dec. 20, 1993\]: (c)(31) and (c)(53) \[amending sections 1078–1 and 1083 of this title\].
 
->         “(5) __Effective on__  __April 1, 1994__  __.—__ 
+>         “(5)  __Effective on April__  __1, 1994.—__ 
 
 >         The amendments made by section 2(c)(43)(B) of this Act \[amending [section 1078–8 of this title][/us/usc/t20/s1078–8]\] shall be effective on and after April 1, 1994.
 
->         “(6) __Effective on__  __July 1, 1994__  __.—__ 
+>         “(6)  __Effective on July__  __1, 1994.—__ 
 
 >         The amendments made by the following subsection\[s\] of section 2 of this Act shall be effective on and after July 1, 1994: (b)(25), (c)(2), (c)(13)(A), (c)(29) \[amending sections 1070b–2, 1075, 1078, and 1078–1 of this title\].
 
->         “(7) __Cohort default data examinations.—__ 
+>         “(7)  __Cohort default data examinations__  __.—__ 
 
 >         The amendment made by section 2(c)(60)(A) \[amending [section 1085 of this title][/us/usc/t20/s1085]\] shall be effective on and after October 1, 1994.
 
->         “(8) __Cohort default rate determinations.—__ 
+>         “(8)  __Cohort default rate determinations__  __.—__ 
 
 >         The amendments made to subsection\[s\] (a)(3) and (m)(1)(B) of section 435 of this \[the\] Act \[section 1085(a)(3) and (m)(1)(B) of this title\] shall apply with respect to the determination (and appeals from determinations) of cohort default rates for fiscal year 1989 and any succeeding fiscal year.”
 

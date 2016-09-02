@@ -159,17 +159,17 @@
 
 [Pub. L. 108–446, title III, § 302(a)][/us/pl/108/446/s302/a], (b), Dec. 3, 2004, [118 Stat. 2803][/us/stat/118/2803], provided that:
 
->     “(a) __Parts A, B, and C, and subpart 1 of part D.—__ 
+>     “(a)  __Parts A, B, and C, and subpart__  __1 of part D.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), parts A, B, and C, and subpart 1 of part D, of the Individuals with Disabilities Education Act \[subchapters I, II, and III and part A of subchapter IV of this chapter\], as amended by title I, shall take effect on July 1, 2005.
 
->         “(2) __Highly qualified definition.—__ 
+>         “(2)  __Highly qualified definition__  __.—__ 
 
 >         Subparagraph (A), and subparagraphs (C) through (F), of section 602(10) of the Individuals with Disabilities Education Act \[[20 U.S.C. 1401(10)][/us/usc/t20/s1401/10]\], as amended by title I, shall take effect on the date of enactment of this Act \[Dec. 3, 2004\] for purposes of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6301][/us/usc/t20/s6301] et seq.\].
 
->     “(b) __Subparts 2, 3, and 4 of part D.—__ 
+>     “(b)  __Subparts__  __2, 3,__  __and__  __4__  __of part__  __D.—__ 
 
 >     Subparts 2, 3, and 4 of part D of the Individuals with Disabilities Education Act \[parts B, C, and D of subchapter IV of this chapter\], as amended by title I, shall take effect on the date of enactment of this Act \[Dec. 3, 2004\].”
 
@@ -281,19 +281,19 @@
 
 >     “(a) __Orderly Transition.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Education (in this section referred to as ‘the Secretary’) shall take such steps as are necessary to provide for the orderly transition from the Individuals with Disabilities Education Act \[this chapter\], as such Act was in effect on the day preceding the date of enactment of this Act \[Dec. 3, 2004\], to the Individuals with Disabilities Education Act \[this chapter\] and part E of the Education Sciences Reform Act of 2002 \[[20 U.S.C. 9567][/us/usc/t20/s9567] et seq.\], as amended by this Act.
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         The Secretary’s authority in paragraph (1) shall terminate 1 year after the date of enactment of this Act.
 
->     “(b) __Multi-year Awards.—__ 
+>     “(b)  __Multi-year Awards__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Secretary may use funds appropriated under part D of the Individuals with Disabilities Education Act \[subchapter IV of this chapter\] to make continuation awards for projects that were funded under section 618 \[[20 U.S.C. 1418][/us/usc/t20/s1418]\], and part D, of the Individuals with Disabilities Education Act (as such section and part were in effect on September 30, 2004), in accordance with the terms of the original awards.
 
->     “(c) __Research.—__ 
+>     “(c)  __Research__  __.—__ 
 
 >     Notwithstanding section 302(b) \[set out as a note above\] or any other provision of law, the Secretary may award funds that are appropriated under the Department of Education Appropriations Act, 2005 \[[Pub. L. 108–447, div. F, title III][/us/pl/108/447], [118 Stat. 3142][/us/stat/118/3142], see Tables for classification\] for special education research under either of the headings ‘Special Education’ or ‘Institute of Education Sciences’ in accordance with sections 672 and 674 of the Individuals with Disabilities Education Act \[[20 U.S.C. 1472][/us/usc/t20/s1472], 1474\], as such sections were in effect on October 1, 2004.”
 

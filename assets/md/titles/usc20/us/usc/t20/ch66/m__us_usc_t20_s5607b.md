@@ -83,7 +83,7 @@
 
         (1) Non-Federal entities, including state  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  and local governments, Native American tribal governments, nongovernmental organizations and persons, as defined in [section 1 of title 1][/us/usc/t1/s1], may use the Foundation and the Institute to provide assessment, mediation, or other related services in connection with a dispute or conflict involving the Federal government  <sup>\[1\]</sup>  related to the environment, public lands, or natural resources.
 
-        (2) __Payment into the environmental dispute resolution fund.—__ 
+        (2)  __Payment into the environmental dispute resolution fund__  __.—__ 
 
         Entities utilizing services pursuant to this subsection shall reimburse the Institute for the costs of services provided. Such amounts shall be deposited into the Environmental Dispute Resolution Fund established under [section 5607a of this title][/us/usc/t20/s5607a].
 

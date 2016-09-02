@@ -137,7 +137,7 @@
 
 [Pub. L. 109–364, div. A, title V, § 574][/us/pl/109/364/s574], Oct. 17, 2006, [120 Stat. 2226][/us/stat/120/2226], as amended by [Pub. L. 110–181, div. A, title V, § 573][/us/pl/110/181/s573], Jan. 28, 2008, [122 Stat. 120][/us/stat/122/120]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 553, Oct. 14, 2008, [122 Stat. 4469][/us/stat/122/4469]; [Pub. L. 112–81, div. A, title V, § 573][/us/pl/112/81/s573], Dec. 31, 2011, [125 Stat. 1427][/us/stat/125/1427], provided that:
 
->     “(a) __Plan Required.—__ 
+>     “(a)  __Plan Required__  __.—__ 
 
 >     Not later than January 1, 2007, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth a plan to provide assistance to local educational agencies that experience growth in the enrollment of military dependent students as a result of any of the following events:
 
@@ -147,7 +147,7 @@
 
 >         “(3) The closure or realignment of military installations pursuant to defense base closure and realignment under the base closure laws.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     The report required by subsection (a), and each updated report required by subsection (c), shall include the following:
 
@@ -165,11 +165,11 @@
 
 >         “(3) A plan for outreach to be conducted to affected local educational agencies, commanders of military installations, and members of the Armed Forces and civilian personnel of the Department of Defense regarding information on the assistance to be provided under the plan under subsection (a).
 
->     “(c) __Updated Reports.—__ 
+>     “(c)  __Updated Reports__  __.—__ 
 
 >     Not later than March 1, 2008, and annually thereafter to coincide with the submission of the budget of the President for a fiscal year under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an update of the report required by subsection (a).
 
->     “(d) __Transition of Military Dependents Among Local Educational Agencies.—__ 
+>     “(d)  __Transition of Military Dependents Among Local Educational Agencies__  __.—__ 
 
 >         (1) The Secretary of Defense shall work collaboratively with the Secretary of Education in any efforts to ease the transitions of military dependent students from Department of Defense dependent schools to other schools and among schools of local educational agencies.
 
@@ -197,7 +197,7 @@
 
 >         “(3) The authority provided by this subsection expires September 30, 2016.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 

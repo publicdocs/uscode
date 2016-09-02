@@ -53,7 +53,7 @@
 
 > “SEC. 2. __PRESIDENTIAL ACADEMIES FOR TEACHING OF AMERICAN HISTORY AND CIVICS; CONGRESSIONAL ACADEMIES FOR STUDENTS OF AMERICAN HISTORY AND CIVICS.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary of Education (referred to in this Act as the ‘Secretary’) may award not more than 12 grants, on a competitive basis—
 
@@ -61,15 +61,15 @@
 
 >         “(2) to entities to establish Congressional Academies for Students of American History and Civics.
 
->     “(b) __Application.—__ 
+>     “(b)  __Application__  __.—__ 
 
 >     An entity that desires to receive a grant under subsection (a) shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
->     “(c) __Demonstrated Expertise.—__ 
+>     “(c)  __Demonstrated Expertise__  __.—__ 
 
 >     The Secretary shall require that each entity, to be eligible to receive a grant under this section, demonstrate expertise in historical methodology or the teaching of history.
 
->     “(d) __Available Funds.—__ 
+>     “(d)  __Available Funds__  __.—__ 
 
 >     To carry out this section, the Secretary may use any funds appropriated for fiscal year 2005 or any subsequent fiscal year to carry out part D of title V of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7241][/us/usc/t20/s7241] et seq.).
 

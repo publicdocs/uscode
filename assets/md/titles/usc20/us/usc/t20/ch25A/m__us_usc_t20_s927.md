@@ -75,15 +75,15 @@
 
 [Pub. L. 102–119, § 27][/us/pl/102/119/s27], Oct. 7, 1991, [105 Stat. 608][/us/stat/105/608], provided that:
 
->     “(a) __Sections 8, 9, and 10.—__ 
+>     “(a)  __Sections__  __8, 9,__  __and__  __10.—__ 
 
 >     The amendments made by sections 8, 9, and 10 \[amending sections 1423, 1431, 1434, and 1435 of this title\] shall take effect on October 1, 1991, or on the date of enactment of this Act \[Oct. 7, 1991\], whichever is later.
 
->     “(b) __Sections 5, 12, 13, 14, 15, 17, and 18.—__ 
+>     “(b)  __Sections__  __5, 12, 13, 14, 15, 17,__  __and__  __18.—__ 
 
 >     The amendments made by sections 5, 12, 13, 14, 15, 17, and 18 \[amending sections 1413, 1472, 1476, 1477, 1478, 1480, and 1482 of this title\] shall take effect July 1, 1992, except that each State shall have the option to have any of the amendments apply earlier than such date.
 
->     “(c) __Remaining Provisions.—__ 
+>     “(c)  __Remaining Provisions__  __.—__ 
 
 >     The remaining sections of this Act \[enacting [section 1484a of this title][/us/usc/t20/s1484a], amending this section, sections 241, 1087ee, 1400 to 1402, 1404, 1405, 1407, 1411 to 1417, 1419, 1421 to 1425, 1431 to 1433, 1435, 1442, 1443, 1451, 1452, 1461, 1471 to 1473, and 1475 to 1485 of this title, sections 2503 and 2504 of Title 25, Indians, sections 721, 774, 777a, 795m, and 796d of Title 29, Labor, and sections 1396b, 1396n, 6022, 6024, 9835, 9855d, 9862, and 9886 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 1400 and 1484 of this title\] and the amendments made by such sections shall take effect on the date of the enactment of this Act \[Oct. 7, 1991\].”
 

@@ -279,11 +279,11 @@
 
 [Pub. L. 110–315, title IV, § 434(b)][/us/pl/110/315/s434/b], Aug. 14, 2008, [122 Stat. 3252][/us/stat/122/3252], provided that:
 
->     “(1) __Regular disclosure requirements and disclosure requirements to borrowers having difficulty making payments.—__ 
+>     “(1)  __Regular disclosure requirements and disclosure requirements to borrowers having difficulty making payments__  __.—__ 
 
 >     Paragraphs (1) and (2) of section 433(e) of the Higher Education Act of 1965 \[[20 U.S.C. 1083(e)(1)][/us/usc/t20/s1083/e/1], (2)\], as amended by subsection (a), shall apply with respect to loans for which the first payment is due on or after July 1, 2009.
 
->     “(2) __Disclosure requirements for borrowers with delinquent loans.—__ 
+>     “(2)  __Disclosure requirements for borrowers with delinquent loans__  __.—__ 
 
 >     Section 433(e)(3) of the Higher Education Act of 1965 \[[20 U.S.C. 1083(e)(3)][/us/usc/t20/s1083/e/3]\], as amended by subsection (a), shall apply with respect to loans that become delinquent on or after July 1, 2009.”
 

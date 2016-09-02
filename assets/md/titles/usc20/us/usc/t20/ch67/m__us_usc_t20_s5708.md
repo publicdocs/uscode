@@ -39,7 +39,7 @@
 
         (10) to make other necessary expenditures.
 
-    (b) __Annual Report.—__ 
+    (b)  __Annual Report__  __.—__ 
 
     The Foundation shall submit to the President and to the Congress an annual report of its operations under this chapter.
 

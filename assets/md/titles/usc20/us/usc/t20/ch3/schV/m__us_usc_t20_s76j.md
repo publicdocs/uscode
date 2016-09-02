@@ -135,19 +135,19 @@
 
 [Pub. L. 105–178, title I, § 1214(a)][/us/pl/105/178/s1214/a], June 9, 1998, [112 Stat. 204][/us/stat/112/204], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Secretary \[of Transportation\], in cooperation with the District of Columbia, the John F. Kennedy Center for the Performing Arts, and the Department of the Interior and in consultation with other interested persons, shall conduct a study of methods to improve pedestrian and vehicular access to the John F. Kennedy Center for the Performing Arts.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than September 30, 1999, the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report containing the results of the study with an assessment of the impacts (including environmental, aesthetic, economic, and historical impacts) associated with the implementation of each of the methods examined under the study.
 
->     “(3) __Authorization of appropriations.—__ 
+>     “(3)  __Authorization of appropriations__  __.—__ 
 
 >     There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) to carry out this subsection $500,000 for fiscal year 1998.
 
->     “(4) __Applicability of title 23, united states code.—__ 
+>     “(4)  __Applicability of title 23, united states code__  __.—__ 
 
 >     Funds authorized by this subsection shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that the Federal share of the cost of activities conducted using such funds shall be 100 percent and such funds shall remain available until expended.”
 

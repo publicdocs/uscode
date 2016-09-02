@@ -121,11 +121,11 @@
 
 [Pub. L. 108–446, title III, § 302(c)][/us/pl/108/446/s302/c], Dec. 3, 2004, [118 Stat. 2803][/us/stat/118/2803], provided that:
 
->     “(1) __National center for special education research.—__ 
+>     “(1)  __National center for special education research__  __.—__ 
 
 >     Sections 175, 176, and 177 \[[20 U.S.C. 9567][/us/usc/t20/s9567], 9567a, 9567b\] (other than section 177(c) \[[20 U.S.C. 9567b(c)][/us/usc/t20/s9567b/c]\]) of the Education Sciences Reform Act of 2002, as enacted by section 201(a)(2) of this Act, shall take effect on the date of enactment of this Act \[Dec. 3, 2004\].
 
->     “(2) __Plan.—__ 
+>     “(2)  __Plan__  __.—__ 
 
 >     Section 177(c) of the Education Sciences Reform Act of 2002, as enacted by section 201(a)(2) of this Act, shall take effect on October 1, 2005.”
 

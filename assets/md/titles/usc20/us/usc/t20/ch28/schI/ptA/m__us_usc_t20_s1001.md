@@ -423,11 +423,11 @@
 
 > “SEC. 2. __EXTENSION OF PROGRAMS.__ 
 
->     “(a) __Extension of Duration.—__ 
+>     “(a)  __Extension of Duration__  __.—__ 
 
 >     The authorization of appropriations for, and the duration of, each program authorized under the Higher Education Act of 1965 ([20 U.S.C. 1001][/us/usc/t20/s1001] et seq.) \[and [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\] shall be extended through August 15, 2008.
 
->     “(b) __Performance of Required and Authorized Functions.—__ 
+>     “(b)  __Performance of Required and Authorized Functions__  __.—__ 
 
 >     If the Secretary of Education, a State, an institution of higher education, a guaranty agency, a lender, or another person or entity—
 
@@ -435,19 +435,19 @@
 
 >         “(2) is permitted or authorized, in or for fiscal year 2004, to carry out certain acts or make certain determinations or payments under a program under the Higher Education Act of 1965, such acts, determinations, or payments are permitted or authorized to be carried out, made, or continued during the period of the extension under this section.
 
->     “(c) __Extension at Current Levels.—__ 
+>     “(c)  __Extension at Current Levels__  __.—__ 
 
 >     The amount authorized to be appropriated for a program described in subsection (a) during the period of extension under this section shall be the amount authorized to be appropriated for such program for fiscal year 2004, or the amount appropriated for such program for such fiscal year, whichever is greater. Except as provided in any amendment to the Higher Education Act of 1965 enacted during fiscal year 2005 or 2006, the amount of any payment required or authorized under subsection (b) in or for the period of the extension under this section shall be determined in the same manner as the amount of the corresponding payment required or authorized in or for fiscal year 2004.
 
->     “(d) __Advisory Committees and Other Entities Continued.—__ 
+>     “(d)  __Advisory Committees and Other Entities Continued__  __.—__ 
 
 >     Any advisory committee, interagency organization, or other entity that was, during fiscal year 2004, authorized or required to perform any function under the Higher Education Act of 1965 ([20 U.S.C. 1001][/us/usc/t20/s1001] et seq.) \[and [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\], or in relation to programs under that Act, shall continue to exist and is authorized or required, respectively, to perform such function for the period of the extension under this section.
 
->     “(e) __Additional Extension not Permitted.—__ 
+>     “(e)  __Additional Extension not Permitted__  __.—__ 
 
 >     Section 422 of the General Education Provisions Act ([20 U.S.C. 1226a][/us/usc/t20/s1226a]) shall not apply to further extend the authorization of appropriations for any program described in subsection (a) on the basis of the extension of such program under this section.
 
->     “(f) __Exception.—__ 
+>     “(f)  __Exception__  __.—__ 
 
 >     The programs described in subsection (a) for which the authorization of appropriations, or the duration of which, is extended by this section include provisions applicable to institutions in, and students in or from, the Freely Associated States, except that those provisions shall be applicable with respect to institutions in, and students in or from, the Federated States of Micronesia and the Republic of the Marshall Islands only to the extent specified in [Public Law 108–188][/us/pl/108/188] \[[48 U.S.C. 1921][/us/usc/t48/s1921] et seq.\].”
 

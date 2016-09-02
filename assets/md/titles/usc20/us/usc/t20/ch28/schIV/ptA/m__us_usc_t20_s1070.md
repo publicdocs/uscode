@@ -77,31 +77,31 @@
 
 >     “(a) __Scholarships Authorized.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Education is authorized to provide financial assistance to the United States Olympic Education Center or the United States Olympic Training Center to enable such centers to provide financial assistance to athletes who are training at such centers and are pursuing postsecondary education at institutions of higher education (as such term is defined in section 481(a) of the Higher Education Act of 1965 \[[20 U.S.C. 1088(a)][/us/usc/t20/s1088/a]\]).
 
->         “(2) __Award determination.—__ 
+>         “(2)  __Award determination__  __.—__ 
 
 >         The amount of the financial assistance provided to an athlete described in paragraph (1) shall be determined in accordance with criteria, and in amounts, specified in the application of the center under subsection (c). Such assistance shall not exceed the athlete’s cost of attendance as determined under section 472 of the Higher Education Act of 1965 ([20 U.S.C. 1087][/us/usc/t20/s1087]ll).
 
->         “(3) __Information on distribution of assistance.—__ 
+>         “(3)  __Information on distribution of assistance__  __.—__ 
 
 >         Each center providing such assistance shall annually report to the Secretary such information as the Secretary may reasonably require on the distribution of such assistance among athletes and institutions of higher education. The Secretary shall compile such reports and submit them to the Committees on Education and the Workforce and Appropriations of the House of Representatives and the Committees on Health, Education, Labor, and Pensions and Appropriations of the Senate.
 
->     “(b) __Eligibility.—__ 
+>     “(b)  __Eligibility__  __.—__ 
 
 >     The Secretary of Education shall ensure that financial assistance provided under this part \[part E (§ 1543) of [Pub. L. 102–325][/us/pl/102/325]\] is available to both full-time and part-time students who are athletes at centers described in subsection (a).
 
->     “(c) __Application.—__ 
+>     “(c)  __Application__  __.—__ 
 
 >     Each center desiring financial assistance under this section shall submit an application to the Secretary of Education at such time, in such manner and accompanied by such information as the Secretary may reasonably require.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated $5,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years to carry out this section.
 
->     “(e) __Designation.—__ 
+>     “(e)  __Designation__  __.—__ 
 
 >     Scholarships awarded under this section shall be known as ‘B.J. Stupak Olympic Scholarships’.”
 
@@ -117,7 +117,7 @@
 
 > “SEC. 4. __OPERATION DESERT SHIELD/DESERT STORM WAIVER AUTHORITY.__ 
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     It is the purpose of this section to ensure that—
 
@@ -127,7 +127,7 @@
 
 >         “(3) the future eligibility of such an individual for Pell Grants is not reduced by the amount of such assistance awarded for a period of instruction that such individual was unable to complete, or for which the individual did not receive academic credit, because he or she was called up for such service.
 
->     “(b) __Waiver Requirement.—__ 
+>     “(b)  __Waiver Requirement__  __.—__ 
 
 >     Notwithstanding any other provision of law, unless enacted with specific reference to this section, the Secretary of Education shall waive or modify any statutory or regulatory provision applicable to the student financial aid programs under title IV of the Act that the Secretary deems necessary to achieve the purposes stated in subsection (a), including—
 
@@ -143,11 +143,11 @@
 
 >         “(6) the modification of the terms ‘annual adjusted family income’ and ‘available income,’ as used in the determination of need for student financial assistance under title IV of the Act for such individual (and the determination of such need for his or her spouse and dependents, if applicable), to mean the sums received in the first calendar year of the award year for which such determination is made, in order to reflect more accurately the financial condition of such individual and his or her family.
 
->     “(c) __Notice of Waiver.—__ 
+>     “(c)  __Notice of Waiver__  __.—__ 
 
 >     Notwithstanding section 431 \[now 437\] of the General Education Provisions Act ([20 U.S.C. 1232][/us/usc/t20/s1232]) and [section 553 of title 5][/us/usc/t5/s553], United States Code, the Secretary shall, by notice in the Federal Register, publish the waivers or modifications of statutory and regulatory provisions the Secretary deems necessary to achieve the purposes of this section. Such notice shall include the terms and conditions to be applied in lieu of such statutory and regulatory provisions. The Secretary is not required to exercise the waiver or modification authority under this section on a case-by-case basis.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     For purposes of this Act \[probably should be “section”\]—
 
@@ -163,11 +163,11 @@
 
 > “SEC. 5. __TUITION REFUNDS OR CREDITS.__ 
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of the Congress that all institutions offering postsecondary education should provide a full refund to any member or Reserve of an Armed Force on active duty service in connection with Operation Desert Shield or Operation Desert Storm for that portion of a period of instruction such individual was unable to complete, or for which such individual did not receive academic credit, because he or she was called up for such service. For purposes of this section, a full refund includes a refund of required tuition and fees, or a credit in a comparable amount against future tuition and fees.
 
->     “(b) __Encouragement and Report.—__ 
+>     “(b)  __Encouragement and Report__  __.—__ 
 
 >     The Secretary of Education shall encourage institutions to provide such refunds or credits, and shall report to the appropriate committees of Congress on the actions taken in accordance with this subsection as well as information he receives regarding any institutions that are not providing such refunds or credits.
 

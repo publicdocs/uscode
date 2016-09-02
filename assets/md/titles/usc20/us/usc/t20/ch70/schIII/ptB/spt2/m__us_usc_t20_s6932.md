@@ -59,11 +59,11 @@
 
 [Pub. L. 100–297, title VI, § 6211][/us/pl/100/297/s6211], Apr. 28, 1988, [102 Stat. 429][/us/stat/102/429], provided that:
 
->     “(a) __Research and Development.—__ 
+>     “(a)  __Research and Development__  __.—__ 
 
 >     The Secretary shall, through competitive contracts under this section, provide financial assistance for research and development proposals submitted by institutions of higher education, private for-profit and nonprofit organizations, State and local educational agencies, and individuals.
 
->     “(b) __Authorized Activities.—__ 
+>     “(b)  __Authorized Activities__  __.—__ 
 
 >     Research activities authorized to be assisted under this section shall include—
 
@@ -87,15 +87,15 @@
 
 >         “(10) studies to determine effective and reliable methods for identifying gifted and talented students who have language proficiencies other than English.
 
->     “(c) __Consultation and Delegation of Authority.—__ 
+>     “(c)  __Consultation and Delegation of Authority__  __.—__ 
 
 >     In carrying out the responsibilities of this section, the Secretary may delegate authority to the Director, and in any event, shall consult with the Director, representatives of State and local educational agencies, appropriate groups and organizations involved in bilingual education, the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives.
 
->     “(d) __Publication of Proposals.—__ 
+>     “(d)  __Publication of Proposals__  __.—__ 
 
 >     The Secretary shall publish and disseminate all requests for proposals in research and development assisted under such title.
 
->     “(e) __Limitation of Authority.—__ 
+>     “(e)  __Limitation of Authority__  __.—__ 
 
 >     Nothing in this section shall be construed as authorizing the Secretary to conduct or support studies or analyses of the content of educational textbooks.”
 

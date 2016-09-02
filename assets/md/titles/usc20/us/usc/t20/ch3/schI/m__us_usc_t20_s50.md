@@ -27,11 +27,11 @@
 
 [Pub. L. 111–11, title XV, § 15102][/us/pl/111/11/s15102], Mar. 30, 2009, [123 Stat. 1456][/us/stat/123/1456], provided that:
 
->     “(a) __Authority To Construct.—__ 
+>     “(a)  __Authority To Construct__  __.—__ 
 
 >     The Board of Regents of the Smithsonian Institution is authorized to construct laboratory space to accommodate the terrestrial research program of the Smithsonian tropical research institute in Gamboa, Panama.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this section a total of $14,000,000 for fiscal years 2009 and 2010. Such sums shall remain available until expended.”
 
@@ -51,11 +51,11 @@
 
 [Pub. L. 107–117, div. B, § 701][/us/pl/107/117/s701], Jan. 10, 2002, [115 Stat. 2311][/us/stat/115/2311], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Smithsonian Institution shall collect and preserve in the National Museum of American History artifacts relating to the September 11th attacks on the World Trade Center and the Pentagon.
 
->     “(b) __Types of Artifacts.—__ 
+>     “(b)  __Types of Artifacts__  __.—__ 
 
 >     In carrying out subsection (a), the Secretary of the Smithsonian Institution shall consider collecting and preserving—
 
@@ -67,7 +67,7 @@
 
 >         “(4) other artifacts, recordings, and testimonials that the Secretary of the Smithsonian Institution determines have lasting historical significance.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the Smithsonian Institution $5,000,000 to carry out this section.”
 
@@ -87,11 +87,11 @@
 
 [Pub. L. 105–178, title I, § 1214(b)][/us/pl/105/178/s1214/b], June 9, 1998, [112 Stat. 204][/us/stat/112/204], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall allocate amounts made available by this subsection for obligation at the discretion of the Secretary of the Smithsonian Institution, in consultation with the Secretary, to carry out projects and activities described in paragraph (2).
 
->     “(2) __Eligible uses.—__ 
+>     “(2)  __Eligible uses__  __.—__ 
 
 >     Amounts allocated under paragraph (1) may be obligated only—
 
@@ -103,11 +103,11 @@
 
 >         “(D) to support research programs within the Smithsonian Institution that document the history and evolution of transportation, in cooperation with other museums in the United States.
 
->     “(3) __Authorization of appropriations.—__ 
+>     “(3)  __Authorization of appropriations__  __.—__ 
 
 >     There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) $1,000,000 for each of fiscal years 1998 through 2003 to carry out this subsection.
 
->     “(4) __Applicability of title 23.—__ 
+>     “(4)  __Applicability of title 23__  __.—__ 
 
 >     Funds authorized by this subsection shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that the Federal share of the cost of any project or activity under this subsection shall be 100 percent and such funds shall remain available until expended.”
 
@@ -149,29 +149,29 @@
 
 [Pub. L. 111–11, title XV, § 15101][/us/pl/111/11/s15101], Mar. 30, 2009, [123 Stat. 1456][/us/stat/123/1456], provided that:
 
->     “(a) __Authority To Design and Construct.—__ 
+>     “(a)  __Authority To Design and Construct__  __.—__ 
 
 >     The Board of Regents of the Smithsonian Institution is authorized to design and construct laboratory and support space to accommodate the Mathias Laboratory at the Smithsonian Environmental Research Center in Edgewater, Maryland.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this section a total of $41,000,000 for fiscal years 2009 through 2011. Such sums shall remain available until expended.”
 
 [Pub. L. 99–617, § 1][/us/pl/99/617/s1], Nov. 6, 1986, [100 Stat. 3488][/us/stat/100/3488], provided that:
 
->     “(a) __Construction Authorization.—__ 
+>     “(a)  __Construction Authorization__  __.—__ 
 
 >     The Board of Regents of the Smithsonian Institution is authorized to construct the Charles McC. Mathias, Jr. Laboratory for Environmental Research.
 
->     “(b) __Location.—__ 
+>     “(b)  __Location__  __.—__ 
 
 >     The Charles McC. Mathias, Jr. Laboratory for Environmental Research shall be located at the Smithsonian Environmental Research Center, a bureau of the Smithsonian Institution, located at Edgewater, Maryland.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     Effective October 1, 1986, there is authorized to be appropriated to the Board of Regents of the Smithsonian Institution $1,000,000 to carry out the purposes of this section.
 
->     “(d) __Transfer of Funds.—__ 
+>     “(d)  __Transfer of Funds__  __.—__ 
 
 >     Any portion of the sums appropriated to carry out the purposes of this section may be transferred to the General Services Administration which, in consultation with the Smithsonian Institution, is authorized to enter into contracts and take such other action, to the extent of the sums so transferred to it, as may be necessary to carry out such purposes.”
 
@@ -223,11 +223,11 @@
 
 [Pub. L. 111–11, title XV, § 15103][/us/pl/111/11/s15103], Mar. 30, 2009, [123 Stat. 1456][/us/stat/123/1456], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Board of Regents of the Smithsonian Institution is authorized to construct a greenhouse facility at its museum support facility in Suitland, Maryland, to maintain the horticultural operations of, and preserve the orchid collection held in trust by, the Smithsonian Institution.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated $12,000,000 to carry out this section. Such sums shall remain available until expended.”
 
@@ -243,11 +243,11 @@
 
 >  Additional space and resources for national collections held by the Smithsonian Institution.
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Board of Regents of the Smithsonian Institution may plan, design, construct, and equip additional special use storage and laboratory space at the museum support facility of the Smithsonian Institution in Suitland, Maryland, to accommodate the care, preservation, conservation, deposit, and study of national collections held in trust by the Institution.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section—
 

@@ -225,7 +225,7 @@
 
         (2) __Application and approval__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             An application under paragraph (1) shall certify that there are specific and articulable facts giving reason to believe that the education records are likely to contain information described in paragraph (1)(A).
 

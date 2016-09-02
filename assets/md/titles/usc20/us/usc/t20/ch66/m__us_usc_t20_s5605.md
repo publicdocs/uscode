@@ -27,7 +27,7 @@
 
             (D) __Institute for Environmental Conflict Resolution.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The Foundation shall—
 
@@ -35,7 +35,7 @@
 
                     (II) identify and conduct such programs, activities, and services as the Foundation determines appropriate to permit the Foundation to provide assessment, mediation, training, and other related services to resolve environmental disputes.
 
-                (ii) __Geographic proximity of conflict resolution provision.—__ 
+                (ii)  __Geographic proximity of conflict resolution provision__  __.—__ 
 
                 In providing assessment, mediation, training, and other related services under clause (i)(II) to resolve environmental disputes, the Foundation shall consider, to the maximum extent practicable, conflict resolution providers within the geographic proximity of the conflict.
 

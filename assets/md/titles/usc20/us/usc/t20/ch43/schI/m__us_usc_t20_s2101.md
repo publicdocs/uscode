@@ -49,7 +49,7 @@
 
 [Pub. L. 105–275, title III, § 312(a)][/us/pl/105/275/s312/a], Oct. 21, 1998, [112 Stat. 2457][/us/stat/112/2457], provided that:
 
->     “(1) __Findings.—__ 
+>     “(1)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -77,7 +77,7 @@
 
 >         “(E) The American Folklife Center is the only unit in the Library of Congress which is not permanently authorized. Since its establishment in 1976, the Center’s collections and activities have been fully and successfully integrated into the Library of Congress. It is useful to statutorily conform the American Folklife Center with the rest of the Library of Congress.
 
->     “(2) __Purpose.—__ 
+>     “(2)  __Purpose__  __.—__ 
 
 >     It is the purpose of this section \[amending sections 2103, 2106, and 2107 of this title and enacting provisions set out as a note under [section 2103 of this title][/us/usc/t20/s2103]\] to authorize permanently the American Folklife Center in the Library of Congress to preserve and present American Folklife.”
 

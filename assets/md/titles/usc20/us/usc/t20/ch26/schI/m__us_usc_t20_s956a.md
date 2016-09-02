@@ -53,11 +53,11 @@
 
 [Pub. L. 108–81, title V, § 502][/us/pl/108/81/s502], Sept. 25, 2003, [117 Stat. 1003][/us/stat/117/1003], provided that:
 
->     “(a) __Designation.—__ 
+>     “(a)  __Designation__  __.—__ 
 
 >     The Capital Children’s Museum located at 800 Third Street, NE, Washington, D.C. (or any successor location), organized under the laws of the District of Columbia, is designated as the ‘National Children’s Museum’.
 
->     “(b) __References.—__ 
+>     “(b)  __References__  __.—__ 
 
 >     Any reference in a law, map, regulation, document, paper, or other record of the United States to the Capital Children’s Museum referred to in subsection (a) shall be deemed to be a reference to the ‘National Children’s Museum’.”
 

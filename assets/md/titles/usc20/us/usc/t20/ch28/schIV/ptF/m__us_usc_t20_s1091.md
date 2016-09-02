@@ -677,11 +677,11 @@
 
 [Pub. L. 100–369, § 13][/us/pl/100/369/s13], July 18, 1988, [102 Stat. 838][/us/stat/102/838], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as otherwise provided, the amendments made by this Act to title IV of the Higher Education Act of 1965 \[amending this section and [section 1078–1 of this title][/us/usc/t20/s1078–1]\] shall be effective for any loan for which the eligibility of the borrower is certified by the institution 30 days after the date of enactment of this Act \[July 18, 1988\].
 
->     “(b) __Special Rules.—__ 
+>     “(b)  __Special Rules__  __.—__ 
 
 >         (1) The amendments made by section 5 \[amending this section and sections 1077 and 1078 of this title\] shall be effective with respect to loans made on or after October 1, 1988.
 

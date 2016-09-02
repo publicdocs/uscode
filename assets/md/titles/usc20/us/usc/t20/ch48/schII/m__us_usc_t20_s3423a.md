@@ -85,11 +85,11 @@
 
 [Pub. L. 101–392, title VII, § 702][/us/pl/101/392/s702], Sept. 25, 1990, [104 Stat. 843][/us/stat/104/843], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), the amendments made by this Act \[enacting subchapter II of chapter 44 of this title, this section, sections 2311a, 2327, 2328, 2394 to 2394e, 2395 to 2395e, 2396 to 2396m, 2411 to 2420a, 2424, 2466b to 2466e, 2468, 2468b to 2468e, and 3423a of this title, and subchapter III of chapter 20 of Title 25, Indians, amending sections 2301, 2311 to 2313, 2321 to 2324, 2352, 2361 to 2363, 2382, 2391, 2392, 2401 to 2404, 2421 to 2423, 2451, 2463, and 2471 of this title, [section 1812 of Title 25][/us/usc/t25/s1812], and sections 49f, 1533, 1604, and 1661c of Title 29, Labor, repealing sections 1131, 2371 to 2373, 2376 to 2378, 2431, 2462, 2464, 2465, and 3423 of this title, and amending provisions set out as a note under [section 2301 of this title][/us/usc/t20/s2301]\] shall take effect on July 1, 1991.
 
->     “(b) __Special Rule.—__ 
+>     “(b)  __Special Rule__  __.—__ 
 
 >     Sections 3, 115, 116, 504, and 512 and part H of title III of the Carl D. Perkins Vocational and Applied Technology Education Act \[former sections 2302, 2325, 2326, 2466a, and 2468a of this title and former part H (§ 2397 et seq.) of subchapter III of chapter 44 of this title\] (as amended by this Act) shall take effect upon the enactment of this Act \[Sept. 25, 1990\].”
 

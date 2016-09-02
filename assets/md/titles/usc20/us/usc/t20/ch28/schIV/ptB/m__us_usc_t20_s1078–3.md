@@ -583,11 +583,11 @@
 
 [Pub. L. 110–84, title II, § 203(c)][/us/pl/110/84/s203/c], Sept. 27, 2007, [121 Stat. 795][/us/stat/121/795], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting [section 1098e of this title][/us/usc/t20/s1098e] and amending this section and [section 1087e of this title][/us/usc/t20/s1087e]\] shall be effective on July 1, 2009.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendments made by subsection (b)(1) \[amending this section\] shall be effective on July 1, 2008.”
 

@@ -49,7 +49,7 @@
 
                 (iv) Devising additional approaches to providing the assistance described in paragraph (1), such as providing assistance through institutions of higher education and educational service agencies or other local consortia, and private providers of scientifically based technical assistance.
 
-            (B) __Priority.—__ 
+            (B)  __Priority__  __.—__ 
 
             The State educational agency shall give priority to the approach described in clause (i) of subparagraph (A).
 

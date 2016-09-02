@@ -309,11 +309,11 @@
 
 [Pub. L. 109–171, title VIII, § 8018(b)][/us/pl/109/171/s8018/b], Feb. 8, 2006, [120 Stat. 175][/us/stat/120/175], provided that:
 
->     “(1) __Eligibility guidelines.—__ 
+>     “(1)  __Eligibility guidelines__  __.—__ 
 
 >     The Secretary of Education shall regularly evaluate the impact of the eligibility guidelines in subsections (b)(1)(A)(i), (b)(1)(B)(i), (c)(1)(A), and (c)(2)(A) of section 479 of the Higher Education Act of 1965 ([20 U.S.C. 1087ss(b)(1)(A)(i)][/us/usc/t20/s1087ss/b/1/A/i], (b)(1)(B)(i), (c)(1)(A), and (c)(2)(A)).
 
->     “(2) __Means-tested federal benefit program.—__ 
+>     “(2)  __Means-tested federal benefit program__  __.—__ 
 
 >     For each 3-year period, the Secretary of Education shall evaluate the impact of including the receipt of benefits by a student or parent under a means-tested Federal benefit program (as defined in section 479(d) of the Higher Education Act of 1965 ([20 U.S.C. 1087ss(d)][/us/usc/t20/s1087ss/d])\[)\] as a factor in determining eligibility under subsections (b) and (c) of section 479 of the Higher Education Act of 1965 ([20 U.S.C. 1087ss(b)][/us/usc/t20/s1087ss/b] and (c)).”
 

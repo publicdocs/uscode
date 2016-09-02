@@ -63,11 +63,11 @@
 
 [Pub. L. 101–512, title III, § 318][/us/pl/101/512/s318] \[title IV, § 403\], Nov. 5, 1990, [104 Stat. 1960][/us/stat/104/1960], 1977, provided that:
 
->     “(a) __General Effective Date.—__ 
+>     “(a)  __General Effective Date__  __.—__ 
 
 >     Except as provided in subsection (b), this Act \[probably means section, see Short Title of 1990 Amendment note below\] and the amendments made by this Act shall take effect on October 1, 1990.
 
->     “(b) __Special Effective Date.—__ 
+>     “(b)  __Special Effective Date__  __.—__ 
 
 >     The amendments made by sections 110, 204, and 301 \[amending sections 960, 967, and 974 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\] or October 1, 1990, whichever is earlier.”
 

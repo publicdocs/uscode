@@ -43,11 +43,11 @@
 
 [Pub. L. 111–340, title IV, § 401(b)][/us/pl/111/340/s401/b], (c), Dec. 22, 2010, [124 Stat. 3604][/us/stat/124/3604], provided that:
 
->     “(b) __Transfer of Functions.—__ 
+>     “(b)  __Transfer of Functions__  __.—__ 
 
 >     The functions that the National Commission on Libraries and Information Science exercised before the date of enactment of this Act \[Dec. 22, 2010\] shall be transferred to the Institute of Museum and Library Services established under section 203 of the Museum and Library Services Act ([20 U.S.C. 9102][/us/usc/t20/s9102]).
 
->     “(c) __Transfer and Allocation of Appropriations and Personnel.—__ 
+>     “(c)  __Transfer and Allocation of Appropriations and Personnel__  __.—__ 
 
 >     The personnel and the assets, contracts, property, records, and unexpended balance of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available to, or to be made available for the functions and activities vested by law in the National Commission on Libraries and Information Science shall be transferred to the Institute of Museum and Library Services upon the date of enactment of this Act \[Dec. 22, 2010\].”
 

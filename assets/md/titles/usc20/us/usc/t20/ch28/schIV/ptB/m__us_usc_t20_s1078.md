@@ -1851,7 +1851,7 @@
 
 [Pub. L. 102–325, title IV, § 432][/us/pl/102/325/s432], July 23, 1992, [106 Stat. 562][/us/stat/106/562], as amended by [Pub. L. 103–208, § 2(k)(5)][/us/pl/103/208/s2/k/5], Dec. 20, 1993, [107 Stat. 2486][/us/stat/107/2486], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The changes made in part B of title IV of the Act \[[20 U.S.C. 1071][/us/usc/t20/s1071] et seq.\] by the amendments made by this part \[part B (§§ 411–432) of title IV of [Pub. L. 102–325][/us/pl/102/325], see Tables for classification\] shall take effect on the date of enactment of this Act \[July 23, 1992\], except—
 
@@ -1891,7 +1891,7 @@
 
 >         “(15) that the changes in the designation or names of loans or programs under part B is \[sic\] effective with respect to applications or other documents (used in making such loans) that are printed after the date of enactment of this Act.
 
->     “(b) __New Borrowers.—__ 
+>     “(b)  __New Borrowers__  __.—__ 
 
 >     For purposes of the section, the term ‘new borrower’ means, with respect to any date, an individual who on that date has no outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under part B of title IV of the Act \[[20 U.S.C. 1071][/us/usc/t20/s1071] et seq.\].”
 

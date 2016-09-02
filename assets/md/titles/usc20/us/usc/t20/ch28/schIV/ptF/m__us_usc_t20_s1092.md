@@ -1193,11 +1193,11 @@
 
 [Pub. L. 105–18, title VI, § 60001(b)][/us/pl/105/18/s60001/b], June 12, 1997, [111 Stat. 214][/us/stat/111/214], provided that:
 
->     “(1) __In General.—__ 
+>     “(1)  __In General__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] are effective upon enactment \[June 12, 1997\].
 
->     “(2) __Information dissemination.—__ 
+>     “(2)  __Information dissemination__  __.—__ 
 
 >     No institution shall be required to comply with the amendment made by subsection (a)(1) \[amending this section\] before July 1, 1998.”
 
@@ -1251,7 +1251,7 @@
 
 [Pub. L. 110–315, title IV, § 484][/us/pl/110/315/s484], Aug. 14, 2008, [122 Stat. 3286][/us/stat/122/3286], provided that:
 
->     “(a) __Model Format.—__ 
+>     “(a)  __Model Format__  __.—__ 
 
 >     The Secretary of Education shall—
 
@@ -1273,7 +1273,7 @@
 
 >             “(B) make the recommendations and model format widely available.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The recommendations developed under subsection (a) for model financial aid offer forms shall include, in a consumer-friendly manner that is simple and understandable, the following:
 

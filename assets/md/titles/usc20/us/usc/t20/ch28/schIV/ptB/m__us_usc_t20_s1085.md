@@ -773,11 +773,11 @@
 
 [Pub. L. 110–315, title IV, § 436(e)(2)][/us/pl/110/315/s436/e/2], Aug. 14, 2008, [122 Stat. 3257][/us/stat/122/3257], provided that:
 
->     “(A) __Effective date.—__ 
+>     “(A)  __Effective date__  __.—__ 
 
 >     The amendments made by paragraph (1) \[amending this section\] shall take effect for purposes of calculating cohort default rates for fiscal year 2009 and succeeding fiscal years.
 
->     “(B) __Transition.—__ 
+>     “(B)  __Transition__  __.—__ 
 
 >     Notwithstanding subparagraph (A), the method of calculating cohort default rates under section 435(m) of the Higher Education Act of 1965 \[[20 U.S.C. 1085(m)][/us/usc/t20/s1085/m]\] as in effect on the day before the date of enactment of this Act \[Aug. 14, 2008\] shall continue in effect, and the rates so calculated shall be the basis for any sanctions imposed on institutions of higher education because of their cohort default rates, until three consecutive years of cohort default rates calculated in accordance with the amendments made by paragraph (1) are available.”
 

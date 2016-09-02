@@ -333,17 +333,17 @@ Section was enacted as part of the Education Flexibility Partnership Act of 1999
 
 [Pub. L. 109–211, § 1][/us/pl/109/211/s1], Mar. 24, 2006, [120 Stat. 320][/us/stat/120/320], provided that:
 
->     “(a) __Extension Authority.—__ 
+>     “(a)  __Extension Authority__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Secretary of Education is authorized to carry out the educational flexibility program under section 4 of the Education Flexibility Partnership Act of 1999 ([20 U.S.C. 5891b][/us/usc/t20/s5891b]), until the date of enactment of an Act that reauthorizes programs under part A of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6311][/us/usc/t20/s6311] et seq.), for any State that was an Ed-Flex Partnership State on September 30, 2004.
 
 >     “(b) __Designation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any designation of a State as an Ed-Flex Partnership State that was in effect on September 30, 2004, shall be extended until the date of enactment of an Act that reauthorizes programs under part A of title I of the Elementary and Secondary Education Act of 1965, if the Secretary of Education makes the determination described in paragraph (2).
 
->         “(2) __Determination.—__ 
+>         “(2)  __Determination__  __.—__ 
 
 >         The determination referred to in paragraph (1) is a determination that the performance of the State educational agency, in carrying out the programs for which the State has received a waiver under the educational flexibility program, justifies the extension of the designation.”
 

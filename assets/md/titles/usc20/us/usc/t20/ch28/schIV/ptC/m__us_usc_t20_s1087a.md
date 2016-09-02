@@ -53,11 +53,11 @@
 
 [Pub. L. 102–325, title IV, § 452][/us/pl/102/325/s452], July 23, 1992, [106 Stat. 575][/us/stat/106/575], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     After September 30, 1992, and not later than March 31, 1992, the capital balance of the student loan fund established under part D of title IV of the Higher Education Act of 1965 \[[20 U.S.C. 1087a][/us/usc/t20/s1087a] et seq.\] (as such Act was in effect on the date of enactment of this Act \[July 23, 1992\]) shall be distributed by allowing institutions to transfer any remaining funds, including future collections and all other funds at the institution’s discretion, to such institution’s part E \[[20 U.S.C. 1087aa][/us/usc/t20/s1087aa] et seq.\] account, part C \[[42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\] fund, or subpart 3 of part A \[[20 U.S.C. 1070b][/us/usc/t20/s1070b] et seq.\] fund under the terms and conditions of the appropriate program.
 
->     “(b) __Conversion of Existing Loans.—__ 
+>     “(b)  __Conversion of Existing Loans__  __.—__ 
 
 >     Institutions may, after July 1, 1992, convert all outstanding loans made under part D of title IV of the Higher Education Act of 1965 \[[20 U.S.C. 1087a][/us/usc/t20/s1087a] et seq.\] (as such Act was in effect on such date) to part E \[[20 U.S.C. 1087aa][/us/usc/t20/s1087aa] et seq.\] loans, provided that such institution—
 

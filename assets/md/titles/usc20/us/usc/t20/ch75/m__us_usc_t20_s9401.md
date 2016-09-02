@@ -33,11 +33,11 @@
 
 [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title VIII, § 801\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–79, provided that:
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This title \[enacting this chapter\] may be cited as the ‘Early Learning Opportunities Act’.
 
->     “(b) __Findings.—__ 
+>     “(b)  __Findings__  __.—__ 
 
 >     Congress finds that—
 

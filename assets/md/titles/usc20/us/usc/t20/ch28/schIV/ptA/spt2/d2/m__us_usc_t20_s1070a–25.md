@@ -127,11 +127,11 @@
 
 [Pub. L. 110–315, title IV, § 404(i)][/us/pl/110/315/s404/i], as added by [Pub. L. 111–39, title IV, § 401(c)][/us/pl/111/39/s401/c], July 1, 2009, [123 Stat. 1940][/us/stat/123/1940], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsection (e) \[amending this section\] shall apply to grants made under chapter 2 of subpart 2 of part A of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070a–21][/us/usc/t20/s1070a–21] et seq.) on or after the date of enactment of this Act \[Aug. 14, 2008\], except that a recipient of a grant under such chapter that is made prior to such date may elect to apply the requirements contained in the amendments made by subsection (e) to that grant if the grant recipient informs the Secretary of the election.
 
->     “(2) __Special rule.—__ 
+>     “(2)  __Special rule__  __.—__ 
 
 >     A grant recipient may make the election described in paragraph (1) only if the election does not decrease the amount of the scholarship promised to an individual student under the grant.”
 

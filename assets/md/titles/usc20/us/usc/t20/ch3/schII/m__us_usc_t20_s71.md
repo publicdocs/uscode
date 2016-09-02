@@ -25,11 +25,11 @@
 
 > “SECTION 1. __RENAMING OF NATIONAL MUSEUM OF AMERICAN ART.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The National Museum of American Art, as designated under [section 1 of Public Law 96–441][/us/pl/96/441/s1] ([20 U.S.C. 71][/us/usc/t20/s71] note), shall be known as the ‘Smithsonian American Art Museum’.
 
->     “(b) __References in Law.—__ 
+>     “(b)  __References in Law__  __.—__ 
 
 >     Any reference in any law, regulation, document, or paper to the National Museum of American Art shall be considered to be a reference to the Smithsonian American Art Museum.
 

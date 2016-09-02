@@ -173,11 +173,11 @@
 
 [Pub. L. 102–103, title II, § 203][/us/pl/102/103/s203], Aug. 17, 1991, [105 Stat. 499][/us/stat/105/499], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     This Act \[probably should be “this title”, meaning title II of [Pub. L. 102–103][/us/pl/102/103], amending this section and [section 5314 of Title 5][/us/usc/t5/s5314], Government Organization and Employees\] shall take effect on the first day of the first Department of Education pay period that begins on or after the date of enactment of this Act \[Aug. 17, 1991\].
 
->     “(b) __Special Rule.—__ 
+>     “(b)  __Special Rule__  __.—__ 
 
 >     An incumbent in a position within the Department of Education on the day preceding the day that this Act takes effect who has been appointed by the President to a position within the Department of Education with the advice and consent of the Senate may serve as the Under Secretary at the pleasure of the President after the day preceding the day that this Act takes effect.”
 

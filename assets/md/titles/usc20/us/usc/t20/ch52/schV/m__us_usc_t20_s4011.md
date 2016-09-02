@@ -75,7 +75,7 @@ SPub. L. 98–377, title V, § 501, Aug. 11, 1984, [98 Stat. 1287][/us/stat/98
 
 [Pub. L. 101–637, § 2][/us/pl/101/637/s2], Nov. 28, 1990, [104 Stat. 4589][/us/stat/104/4589], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds the following:
 
@@ -91,7 +91,7 @@ SPub. L. 98–377, title V, § 501, Aug. 11, 1984, [98 Stat. 1287][/us/stat/98
 
 >         “(6) The effective regulation of interstate commerce for the protection of human health and the environment requires the continuation of programs to mitigate hazards of asbestos fibers and materials emitting such fibers.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act \[see Short Title of 1990 Amendment note above\] are the following:
 

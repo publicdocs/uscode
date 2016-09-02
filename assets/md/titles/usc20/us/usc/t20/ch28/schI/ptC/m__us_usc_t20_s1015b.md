@@ -177,15 +177,15 @@
 
 [Pub. L. 110–315, title VIII, § 803][/us/pl/110/315/s803], Aug. 14, 2008, [122 Stat. 3449][/us/stat/122/3449], provided that:
 
->     “(a) __Pilot Grant Program.—__ 
+>     “(a)  __Pilot Grant Program__  __.—__ 
 
 >     From the amounts appropriated pursuant to subsection (e), the Secretary of Education (referred to in this section as the ‘Secretary’) shall make grants on a competitive basis to not more than ten institutions of higher education to support pilot programs that expand the services of bookstores to provide the option for students to rent course materials in order to achieve savings for students.
 
->     “(b) __Application.—__ 
+>     “(b)  __Application__  __.—__ 
 
 >     An institution of higher education that desires to obtain a grant under this section shall submit an application to the Secretary at such time, in such form, and containing or accompanied by such information, agreements, and assurances as the Secretary may reasonably require.
 
->     “(c) __Use of Funds.—__ 
+>     “(c)  __Use of Funds__  __.—__ 
 
 >     The funds made available by a grant under this section may be used for—
 
@@ -199,15 +199,15 @@
 
 >     “(d) __Evaluation and Report.—__ 
 
->         “(1) __Evaluations by recipients.—__ 
+>         “(1)  __Evaluations by recipients__  __.—__ 
 
 >         After a period of time to be determined by the Secretary, each institution of higher education that receives a grant under this section shall submit a report to the Secretary on the effectiveness of their rental programs in reducing textbook costs for students.
 
->         “(2) __Report to congress.—__ 
+>         “(2)  __Report to congress__  __.—__ 
 
 >         Not later than September 30, 2010, the Secretary shall submit a report to Congress on the effectiveness of the textbook rental pilot programs under this section, and identify the best practices developed in such pilot programs. Such report shall contain an estimate by the Secretary of the savings achieved by students who participate in such pilot programs.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years 2009 and 2010.”
 

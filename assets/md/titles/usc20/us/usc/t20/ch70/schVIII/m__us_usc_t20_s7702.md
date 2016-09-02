@@ -371,19 +371,19 @@
 
 [Pub. L. 112–239, div. A, title V, § 563(c)][/us/pl/112/239/s563/c], Jan. 2, 2013, [126 Stat. 1748][/us/stat/126/1748], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending this section and sections 7703 and 7710 of this title\] shall be effective for a 2-year period beginning on the date of enactment of this Act \[Jan. 2, 2013\].
 
->     “(2) __Effective date.—__ 
+>     “(2)  __Effective date__  __.—__ 
 
 >     Notwithstanding section 8005(d) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7705(d)][/us/usc/t20/s7705/d]), subsection (b)(1) \[amending this section\], and the amendments made by subsection (b)(1), shall take effect with respect to applications submitted under section 8002 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7702][/us/usc/t20/s7702]) for fiscal year 2010.
 
->     “(3) __Implementation.—__ 
+>     “(3)  __Implementation__  __.—__ 
 
 >     The Secretary of Education shall carry out the amendments made by this section without regard to the rulemaking procedures under [section 553 of title 5][/us/usc/t5/s553], United States Code.
 
->     “(4) __Repeal.—__ 
+>     “(4)  __Repeal__  __.—__ 
 
 >     The amendments made by subsection (b) shall be repealed on the day after the 2-year period described in paragraph (1) and title VIII of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7701][/us/usc/t20/s7701] et seq.) shall be applied as if such subsection and the amendments made by such subsection had never been enacted.”
 

@@ -31,15 +31,15 @@
 
 >     “(a) __Authorization of Use of Funds.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Board of Regents of the Smithsonian Institution may plan, design, and construct improvements to the interior and exterior of the Patent Office Building (including the construction of a roof covering for the courtyard), using funds available to the Institution from nonappropriated sources.
 
->         “(2) __Definition.—__ 
+>         “(2)  __Definition__  __.—__ 
 
 >         In this section, the term ‘Patent Office Building’ means the building transferred to the Smithsonian Institution pursuant to [Public Law 85–357][/us/pl/85/357] \[[72 Stat. 68][/us/stat/72/68]\].
 
->     “(b) __Design and Specifications.—__ 
+>     “(b)  __Design and Specifications__  __.—__ 
 
 >     The design and specifications for any exterior alterations authorized by subsection (a) shall be—
 
@@ -49,7 +49,7 @@
 
 >     “(c) __Authority of Historic Preservation Agencies.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall—
 
@@ -57,7 +57,7 @@
 
 >             “(B) provide the Advisory Council on Historic Preservation a reasonable opportunity to comment with regard to such improvements.
 
->         “(2) __Status of smithsonian.—__ 
+>         “(2)  __Status of smithsonian__  __.—__ 
 
 >         In carrying out this subsection, and in carrying out other projects in the District of Columbia which are subject to the review and approval of the National Capital Planning Commission in accordance with [section 16 of the Act of June 20, 1938][/us/act/1938-06-20/s16] (sec. 6–641.15, D.C. Official Code), the Smithsonian Institution shall be deemed to be an agency for purposes of compliance with regulations promulgated by the Advisory Council on Historic Preservation pursuant to section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f]).”
 

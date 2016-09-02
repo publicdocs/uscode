@@ -55,19 +55,19 @@
 
 [Pub. L. 107–110, § 5][/us/pl/107/110/s5], Jan. 8, 2002, [115 Stat. 1427][/us/stat/115/1427], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as otherwise provided in this Act \[see Tables for classification\], this Act, and the amendments made by this Act, shall be effective upon the date of enactment of this Act \[Jan. 8, 2002\].
 
->     “(b) __Noncompetitive Programs.—__ 
+>     “(b)  __Noncompetitive Programs__  __.—__ 
 
 >     With respect to noncompetitive programs under which any funds are allotted by the Secretary of Education to recipients on the basis of a formula, this Act, and the amendments made by this Act, shall take effect on July 1, 2002.
 
->     “(c) __Competitive Programs.—__ 
+>     “(c)  __Competitive Programs__  __.—__ 
 
 >     With respect to programs that are conducted by the Secretary on a competitive basis, this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under those programs for fiscal year 2002.
 
->     “(d) __Impact Aid.—__ 
+>     “(d)  __Impact Aid__  __.—__ 
 
 >     With respect to title VIII (Impact Aid) \[probably means title VIII of [Pub. L. 89–10][/us/pl/89/10], [20 U.S.C. 7701][/us/usc/t20/s7701] et seq.\], this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under that title for fiscal year 2002.”
 
@@ -219,11 +219,11 @@
 
 [Pub. L. 107–110, title V, § 502][/us/pl/107/110/s502], Jan. 8, 2002, [115 Stat. 1873][/us/stat/115/1873], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of this Act \[see Tables for classification\] or the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301][/us/usc/t20/s6301] et seq.), in the case of any agency or consortium that was awarded a grant under section 5111 of the Elementary and Secondary Education Act of 1965 (\[formerly\] [20 U.S.C. 7211][/us/usc/t20/s7211]) or any person or agency that was awarded a contract or grant under part B, D, or E of title X of the Elementary and Secondary Education Act of 1965 (\[formerly\] [20 U.S.C. 8031][/us/usc/t20/s8031] et seq., 8091 et seq., 8131 et seq.), prior to the date of enactment of this Act \[Jan. 8, 2002\], the Secretary of Education shall continue to provide funds in accordance with the terms of such award until the date on which the award period terminates under such terms.
 
->     “(b) __Special Rule.—__ 
+>     “(b)  __Special Rule__  __.—__ 
 
 >     Notwithstanding any other provision of this Act, any person or agency that was awarded or entered into a grant, contract, or cooperative agreement under part B of title V of the Elementary and Secondary Education Act of 1965 (\[formerly\] [20 U.S.C. 7231][/us/usc/t20/s7231] et seq.), prior to the date of enactment of this Act \[Jan. 8, 2002\] shall continue to receive funds in accordance with the terms of such grant, contract, or agreement until the date on which the grant, contract, or agreement period terminates under such terms.”
 
@@ -235,15 +235,15 @@
 
 [Pub. L. 107–110, § 4][/us/pl/107/110/s4], Jan. 8, 2002, [115 Stat. 1426][/us/stat/115/1426], provided that:
 
->     “(a) __Multi-Year Awards.—__ 
+>     “(a)  __Multi-Year Awards__  __.—__ 
 
 >     Except as otherwise provided in this Act \[see Tables for classification\], the recipient of a multi-year award under the Elementary and Secondary Education Act of 1965 \[[Pub. L. 89–10][/us/pl/89/10], [20 U.S.C. 6301][/us/usc/t20/s6301] et seq., prior to general amendment by [Pub. L. 107–110][/us/pl/107/110]\], as that Act was in effect prior to the date of enactment of this Act \[Jan. 8, 2002\], shall continue to receive funds in accordance with the terms of that award, except that no additional funds may be awarded after September 30, 2002.
 
->     “(b) __Planning and Transition.—__ 
+>     “(b)  __Planning and Transition__  __.—__ 
 
 >     Notwithstanding any other provision of law, a recipient of funds under the Elementary and Secondary Education Act of 1965, as that Act was in effect prior to the date of enactment of this Act, may use funds available to the recipient under that predecessor authority to carry out necessary and reasonable planning and transition activities in order to ensure an orderly implementation of programs authorized by this Act, and the amendments made by this Act.
 
->     “(c) __Orderly Transition.—__ 
+>     “(c)  __Orderly Transition__  __.—__ 
 
 >     The Secretary shall take such steps as are necessary to provide for the orderly transition to, and implementation of, programs authorized by this Act, and by the amendments made by this Act, from programs authorized by the Elementary and Secondary Education Act of 1965, as that Act was in effect prior to the date of enactment of this Act.”
 

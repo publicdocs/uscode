@@ -89,11 +89,11 @@
 
 [Pub. L. 110–181, div. B, title XXVIII, § 2879][/us/pl/110/181/s2879], Jan. 28, 2008, [122 Stat. 564][/us/stat/122/564], provided that:
 
->     “(a) __Report Required.—__ 
+>     “(a)  __Report Required__  __.—__ 
 
 >     Not later than March 1, 2008, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the conditions of schools under the jurisdiction of the Department of Defense Education Activity.
 
->     “(b) __Content.—__ 
+>     “(b)  __Content__  __.—__ 
 
 >     The report required under subsection (a) shall include the following:
 
@@ -107,7 +107,7 @@
 
 >         “(5) A description of requirements for new schools to be constructed over the next 10 years as a result of changes to the population of military personnel.
 
->     “(c) __Use of Report as Master Plan for Repair, Upgrade, and Construction of Schools.—__ 
+>     “(c)  __Use of Report as Master Plan for Repair, Upgrade, and Construction of Schools__  __.—__ 
 
 >     The Secretary shall use the report required under subsection (a) as a master plan for the repair, upgrade, and construction of schools in the Department of Defense system that support dependents of members of the Armed Forces and civilian employees of the Department of Defense.”
 
@@ -115,15 +115,15 @@
 
 [Pub. L. 104–106, div. A, title III, § 355][/us/pl/104/106/s355], Feb. 10, 1996, [110 Stat. 269][/us/stat/110/269], provided that:
 
->     “(a) __Pilot Program.—__ 
+>     “(a)  __Pilot Program__  __.—__ 
 
 >     The Secretary of Defense may conduct a pilot program to evaluate the feasibility of using private contractors to operate schools of the defense dependents’ education system established under section 1402(a) of the Defense Dependents’ Education Act of 1978 ([20 U.S.C. 921(a)][/us/usc/t20/s921/a]).
 
->     “(b) __Selection of School for Program.—__ 
+>     “(b)  __Selection of School for Program__  __.—__ 
 
 >     If the Secretary conducts the pilot program, the Secretary shall select one school of the defense dependents’ education system for participation in the program and provide for the operation of the school by a private contractor for not less than one complete school year.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 30 days after the end of the first school year in which the pilot program is conducted, the Secretary shall submit to Congress a report on the results of the program. The report shall include the recommendation of the Secretary with respect to the extent to which other schools of the defense dependents’ education system should be operated by private contractors.”
 

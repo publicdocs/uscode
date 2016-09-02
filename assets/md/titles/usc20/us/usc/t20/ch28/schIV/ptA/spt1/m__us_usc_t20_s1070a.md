@@ -51,7 +51,7 @@
 
         (7) __Additional funds.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             There are authorized to be appropriated, and there are appropriated (in addition to any other amounts appropriated to carry out this section and out of any money in the Treasury not otherwise appropriated) the following amounts—
 
@@ -87,7 +87,7 @@
 
                     (XI) $1,145,000,000 for fiscal year 2021 and each succeeding fiscal year.
 
-            (B) __Increase in federal pell grants.—__ 
+            (B)  __Increase in federal pell grants__  __.—__ 
 
             The amounts made available pursuant to clauses (i) through (iii) of subparagraph (A) of this paragraph shall be used to increase the amount of the maximum Federal Pell Grant for which a student shall be eligible during an award year, as specified in the last enacted appropriation Act applicable to that award year, by—
 
@@ -99,7 +99,7 @@
 
             (C) __Adjustment amounts.—__ 
 
-                (i) __Award year 2013–2014.—__ 
+                (i)  __Award year 2013–2014__  __.—__ 
 
                 For award year 2013–2014, the amount determined under this subparagraph for purposes of subparagraph (B)(iii) shall be equal to—
 
@@ -109,7 +109,7 @@
 
                     (III) rounded to the nearest $5.
 
-                (ii) __Award years 2014–2015 through 2017–2018.—__ 
+                (ii)  __Award years 2014–2015 through 2017–2018__  __.—__ 
 
                 For each of the award years 2014–2015 through 2017–2018, the amount determined under this subparagraph for purposes of subparagraph (B)(iii) shall be equal to—
 
@@ -119,11 +119,11 @@
 
                     (III) rounded to the nearest $5.
 
-                (iii) __Subsequent award years.—__ 
+                (iii)  __Subsequent award years__  __.—__ 
 
                 For award year 2018–2019 and each subsequent award year, the amount determined under this subparagraph for purposes of subparagraph (B)(iii) shall be equal to the amount determined under clause (ii) for award year 2017–2018.
 
-                (iv) __Definitions.—__ 
+                (iv)  __Definitions__  __.—__ 
 
                 For purposes of this subparagraph—
 
@@ -137,15 +137,15 @@
 
                         (bb) the amount of the increase in the maximum Federal Pell Grant required by this paragraph for that preceding award year.
 
-            (D) __Program requirements and operations otherwise unaffected.—__ 
+            (D)  __Program requirements and operations otherwise unaffected__  __.—__ 
 
             Except as provided in subparagraphs (B) and (C), nothing in this paragraph shall be construed to alter the requirements and operations of the Federal Pell Grant Program as authorized under this section, or authorize the imposition of additional requirements or operations for the determination and allocation of Federal Pell Grants under this section.
 
-            (E) __Ratable increases and decreases.—__ 
+            (E)  __Ratable increases and decreases__  __.—__ 
 
             The amounts specified in subparagraph (B) shall be ratably increased or decreased to the extent that funds available under subparagraph (A) exceed or are less than (respectively) the amount required to provide the amounts specified in subparagraph (B).
 
-            (F) __Availability of funds.—__ 
+            (F)  __Availability of funds__  __.—__ 
 
             The amounts made available by subparagraph (A) for any fiscal year shall be available beginning on October 1 of that fiscal year, and shall remain available through September 30 of the succeeding fiscal year.
 
@@ -501,11 +501,11 @@
 
 [Pub. L. 110–315, title IV, § 401(a)(2)][/us/pl/110/315/s401/a/2], Aug. 14, 2008, [122 Stat. 3189][/us/stat/122/3189], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendments made by paragraph (1) \[amending this section\] shall take effect on July 1, 2009.
 
->     “(B) __Special rule.—__ 
+>     “(B)  __Special rule__  __.—__ 
 
 >     The amendments made by subparagraph (F) of paragraph (1) \[amending this section\] shall take effect on the date of enactment of this Act \[Aug 14, 2008\].”
 

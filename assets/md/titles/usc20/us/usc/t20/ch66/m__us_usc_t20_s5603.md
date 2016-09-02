@@ -45,7 +45,7 @@
 
     (c) __Term of office__ 
 
-        (1)  __ <sup>\[__  __2__  __\]</sup> __  __ <sup><sup> __  __2__  __ So in original. No par. (2) has been enacted.__  __ </sup></sup> __  __In general.—__ 
+        (1)  __ <sup>\[__  __2__  __\]</sup> __  __ <sup><sup> __  __2__  __ So in original. No par. (2) has been enacted.__  __ </sup></sup> __   __In general__  __.—__ 
 
         The term of office of each member of the Board shall be six years, except that—
 
