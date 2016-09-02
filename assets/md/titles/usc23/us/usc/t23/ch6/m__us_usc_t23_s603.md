@@ -15,9 +15,9 @@
 
 ## § 603. Secured loans
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
-        (1) __Agreements.—__ 
+        (1)  __Agreements__  __.—__ 
 
         Subject to paragraphs (2) and (3), the Secretary may enter into agreements with 1 or more obligors to make secured loans, the proceeds of which shall be used—
 
@@ -35,25 +35,25 @@
 
                 (ii) otherwise meets the requirements of section 602.
 
-        (2) __Limitation on refinancing of interim construction financing.—__ 
+        (2)  __Limitation on refinancing of interim construction financing__  __.—__ 
 
         A loan under paragraph (1) shall not refinance interim construction financing under paragraph (1)(B) later than 1 year after the date of substantial completion of the project.
 
-        (3) __Risk assessment.—__ 
+        (3)  __Risk assessment__  __.—__ 
 
         Before entering into an agreement under this subsection, the Secretary, in consultation with the Director of the Office of Management and Budget, shall determine an appropriate capital reserve subsidy amount for each secured loan, taking into account each rating letter provided by an agency under section 602(b)(3)(B).
 
-    (b) __Terms and Limitations.—__ 
+    (b)  __Terms and Limitations__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A secured loan under this section with respect to a project shall be on such terms and conditions and contain such covenants, representations, warranties, and requirements (including requirements for audits) as the Secretary determines to be appropriate.
 
-        (2) __Maximum amount.—__ 
+        (2)  __Maximum amount__  __.—__ 
 
         The amount of a secured loan under this section shall not exceed the lesser of 49 percent of the reasonably anticipated eligible project costs or if the secured loan does not receive an investment grade rating, the amount of the senior project obligations.
 
-        (3) __Payment.—__ 
+        (3)  __Payment__  __.—__ 
 
         A secured loan under this section—
 
@@ -77,23 +77,23 @@
 
             (B) may have a lien on revenues described in subparagraph (A), subject to any lien securing project obligations.
 
-        (4) __Interest rate.—__ 
+        (4)  __Interest rate__  __.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraphs (B) and (C), the interest rate on a secured loan under this section shall be not less than the yield on United States Treasury securities of a similar maturity to the maturity of the secured loan on the date of execution of the loan agreement.
 
-            (B) __Rural infrastructure projects.—__ 
+            (B)  __Rural infrastructure projects__  __.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The interest rate of a loan offered to a rural infrastructure project under this chapter shall be at ½ of the Treasury Rate in effect on the date of execution of the loan agreement.
 
-                (ii) __Application.—__ 
+                (ii)  __Application__  __.—__ 
 
                 The rate described in clause (i) shall only apply to any portion of a loan the subsidy cost of which is funded by amounts set aside for rural infrastructure projects under section 608(a)(3)(A).
 
-            (C) __Limited buydowns.—__ 
+            (C)  __Limited buydowns__  __.—__ 
 
             The interest rate of a secured loan under this section may not be lowered by more than the lower of—
 
@@ -101,7 +101,7 @@
 
                 (ii) the amount of the increase in the interest rate.
 
-        (5) __Maturity date.—__ 
+        (5)  __Maturity date__  __.—__ 
 
         The final maturity date of the secured loan shall be the lesser of—
 
@@ -109,15 +109,15 @@
 
             (B) if the useful life of the capital asset being financed is of a lesser period, the useful life of the asset.
 
-        (6) __Nonsubordination.—__ 
+        (6)  __Nonsubordination__  __.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), the secured loan shall not be subordinated to the claims of any holder of project obligations in the event of bankruptcy, insolvency, or liquidation of the obligor.
 
-            (B) __Preexisting indenture.—__ 
+            (B)  __Preexisting indenture__  __.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The Secretary shall waive the requirement under subparagraph (A) for a public agency borrower that is financing ongoing capital programs and has outstanding senior bonds under a preexisting indenture, if—
 
@@ -127,7 +127,7 @@
 
                     (III) the TIFIA program share of eligible project costs is 33 percent or less.
 
-                (ii) __Limitation.—__ 
+                (ii)  __Limitation__  __.—__ 
 
                 If the Secretary waives the nonsubordination requirement under this subparagraph—
 
@@ -135,21 +135,21 @@
 
                     (II) the obligor shall be responsible for paying the remainder of the subsidy cost, if any.
 
-        (7) __Fees.—__ 
+        (7)  __Fees__  __.—__ 
 
         The Secretary may establish fees at a level sufficient to cover all or a portion of the costs to the Federal Government of making a secured loan under this section.
 
-        (8) __Non-federal share.—__ 
+        (8)  __Non-federal share__  __.—__ 
 
         The proceeds of a secured loan under this chapter may be used for any non-Federal share of project costs required under this title or chapter 53 of title 49, if the loan is repayable from non-Federal funds.
 
-        (9) __Maximum federal involvement.—__ 
+        (9)  __Maximum federal involvement__  __.—__ 
 
         The total Federal assistance provided on a project receiving a loan under this chapter shall not exceed 80 percent of the total project cost.
 
-    (c) __Repayment.—__ 
+    (c)  __Repayment__  __.—__ 
 
-        (1) __Schedule.—__ 
+        (1)  __Schedule__  __.—__ 
 
         The Secretary shall establish a repayment schedule for each secured loan under this section based on—
 
@@ -157,17 +157,17 @@
 
             (B) the useful life of the project.
 
-        (2) __Commencement.—__ 
+        (2)  __Commencement__  __.—__ 
 
         Scheduled loan repayments of principal or interest on a secured loan under this section shall commence not later than 5 years after the date of substantial completion of the project.
 
-        (3) __Deferred payments.—__ 
+        (3)  __Deferred payments__  __.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             If, at any time after the date of substantial completion of the project, the project is unable to generate sufficient revenues to pay the scheduled loan repayments of principal and interest on the secured loan, the Secretary may, subject to subparagraph (C), allow the obligor to add unpaid principal and interest to the outstanding balance of the secured loan.
 
-            (B) __Interest.—__ 
+            (B)  __Interest__  __.—__ 
 
             Any payment deferred under subparagraph (A) shall—
 
@@ -175,43 +175,43 @@
 
                 (ii) be scheduled to be amortized over the remaining term of the loan.
 
-            (C) __Criteria.—__ 
+            (C)  __Criteria__  __.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Any payment deferral under subparagraph (A) shall be contingent on the project meeting criteria established by the Secretary.
 
-                (ii) __Repayment standards.—__ 
+                (ii)  __Repayment standards__  __.—__ 
 
                 The criteria established pursuant to clause (i) shall include standards for reasonable assurance of repayment.
 
-        (4) __Prepayment.—__ 
+        (4)  __Prepayment__  __.—__ 
 
-            (A) __Use of excess revenues.—__ 
+            (A)  __Use of excess revenues__  __.—__ 
 
             Any excess revenues that remain after satisfying scheduled debt service requirements on the project obligations and secured loan and all deposit requirements under the terms of any trust agreement, bond resolution, or similar agreement securing project obligations may be applied annually to prepay the secured loan without penalty.
 
-            (B) __Use of proceeds of refinancing.—__ 
+            (B)  __Use of proceeds of refinancing__  __.—__ 
 
             The secured loan may be prepaid at any time without penalty from the proceeds of refinancing from non-Federal funding sources.
 
-    (d) __Sale of Secured Loans.—__ 
+    (d)  __Sale of Secured Loans__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (2), as soon as practicable after substantial completion of a project and after notifying the obligor, the Secretary may sell to another entity or reoffer into the capital markets a secured loan for the project if the Secretary determines that the sale or reoffering can be made on favorable terms.
 
-        (2) __Consent of obligor.—__ 
+        (2)  __Consent of obligor__  __.—__ 
 
         In making a sale or reoffering under paragraph (1), the Secretary may not change the original terms and conditions of the secured loan without the written consent of the obligor.
 
-    (e) __Loan Guarantees.—__ 
+    (e)  __Loan Guarantees__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary may provide a loan guarantee to a lender in lieu of making a secured loan under this section if the Secretary determines that the budgetary cost of the loan guarantee is substantially the same as that of a secured loan.
 
-        (2) __Terms.—__ 
+        (2)  __Terms__  __.—__ 
 
         The terms of a loan guarantee under paragraph (1) shall be consistent with the terms required under this section for a secured loan, except that the rate on the guaranteed loan and any prepayment features shall be negotiated between the obligor and the lender, with the consent of the Secretary.
 

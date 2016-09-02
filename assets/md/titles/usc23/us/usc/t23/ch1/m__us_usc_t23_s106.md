@@ -17,57 +17,57 @@
 
     (a) __In General.—__ 
 
-        (1) __Submission of plans, specifications, and estimates.—__ 
+        (1)  __Submission of plans, specifications, and estimates__  __.—__ 
 
         Except as otherwise provided in this section, each State transportation department shall submit to the Secretary for approval such plans, specifications, and estimates for each proposed project as the Secretary may require.
 
-        (2) __Project agreement.—__ 
+        (2)  __Project agreement__  __.—__ 
 
         The Secretary shall act on the plans, specifications, and estimates as soon as practicable after the date of their submission and shall enter into a formal project agreement with the State transportation department recipient formalizing the conditions of the project approval.
 
-        (3) __Contractual obligation.—__ 
+        (3)  __Contractual obligation__  __.—__ 
 
         The execution of the project agreement shall be deemed a contractual obligation of the Federal Government for the payment of the Federal share of the cost of the project.
 
-        (4) __Guidance.—__ 
+        (4)  __Guidance__  __.—__ 
 
         In taking action under this subsection, the Secretary shall be guided by section 109.
 
     (b) __Project Agreement.—__ 
 
-        (1) __Provision of state funds.—__ 
+        (1)  __Provision of state funds__  __.—__ 
 
         The project agreement shall make provision for State funds required to pay the State’s non-Federal share of the cost of construction of the project and to pay for maintenance of the project after completion of construction.
 
-        (2) __Representations of state.—__ 
+        (2)  __Representations of state__  __.—__ 
 
         If a part of the project is to be constructed at the expense of, or in cooperation with, political subdivisions of the State, the Secretary may rely on representations made by the State transportation department with respect to the arrangements or agreements made by the State transportation department and appropriate local officials for ensuring that the non-Federal contribution will be provided under paragraph (1).
 
     (c) __Assumption by States of Responsibilities of the Secretary.—__ 
 
-        (1) __nhs projects.—__ 
+        (1)  __NHS projects__  __.—__ 
 
         For projects under this title that are on the National Highway System, including projects on the Interstate System, the State may assume the responsibilities of the Secretary under this title for design, plans, specifications, estimates, contract awards, and inspections with respect to the projects unless the Secretary determines that the assumption is not appropriate.
 
-        (2) __Non-nhs projects.—__ 
+        (2)  __Non-nhs projects__  __.—__ 
 
         For projects under this title that are not on the National Highway System, the State shall assume the responsibilities of the Secretary under this title for design, plans, specifications, estimates, contract awards, and inspection of projects, unless the State determines that such assumption is not appropriate.
 
-        (3) __Agreement.—__ 
+        (3)  __Agreement__  __.—__ 
 
         The Secretary and the State shall enter into an agreement relating to the extent to which the State assumes the responsibilities of the Secretary under this subsection.
 
         (4) __Limitation on interstate projects.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall not assign any responsibilities to a State for projects the Secretary determines to be in a high risk category, as defined under subparagraph (B).
 
-            (B) __High risk categories.—__ 
+            (B)  __High risk categories__  __.—__ 
 
             The Secretary may define the high risk categories under this subparagraph on a national basis, a State-by-State basis, or a national and State-by-State basis, as determined to be appropriate by the Secretary.
 
-    (d) __Responsibilities of the Secretary.—__ 
+    (d)  __Responsibilities of the Secretary__  __.—__ 
 
     Nothing in this section, section 133, or section 149 shall affect or discharge any responsibility or obligation of the Secretary under—
 
@@ -79,7 +79,7 @@
 
         (1) __Definition of value engineering analysis.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             In this subsection, the term “value engineering analysis” means a systematic process of review and analysis of a project, during the planning and design phases, by a multidisciplinary team of persons not involved in the project, that is conducted to provide recommendations such as those described in subparagraph (B) for—
 
@@ -89,7 +89,7 @@
 
                 (iii) reducing the time to complete the project.
 
-            (B) __Inclusions.—__ 
+            (B)  __Inclusions__  __.—__ 
 
             The recommendations referred to in subparagraph (A) include, with respect to a project—
 
@@ -97,7 +97,7 @@
 
                 (ii) completely redesigning the project using different technologies, materials, or methods so as to accomplish the original purpose of the project.
 
-        (2) __Analysis.—__ 
+        (2)  __Analysis__  __.—__ 
 
         The State shall provide a value engineering analysis for—
 
@@ -107,13 +107,13 @@
 
             (C) any other project the Secretary determines to be appropriate.
 
-        (3) __Major projects.—__ 
+        (3)  __Major projects__  __.—__ 
 
         The Secretary may require more than 1 analysis described in paragraph (2) for a major project described in subsection (h).
 
-        (4) __Requirements.—__ 
+        (4)  __Requirements__  __.—__ 
 
-            (A) __Value engineering program.—__ 
+            (A)  __Value engineering program__  __.—__ 
 
             The State shall develop and carry out a value engineering program that—
 
@@ -125,7 +125,7 @@
 
                 (iv) monitors, evaluates, and annually submits to the Secretary a report that describes the results of the value analyses that are conducted and the recommendations implemented for each of the projects described in paragraph (2) that are completed in the State.
 
-            (B) __Bridge projects.—__ 
+            (B)  __Bridge projects__  __.—__ 
 
             The value engineering analysis for a bridge project under paragraph (2) shall—
 
@@ -139,17 +139,17 @@
 
                     (II) using an analysis of lifecycle costs and duration of project construction.
 
-        (5) __Design-build projects.—__ 
+        (5)  __Design-build projects__  __.—__ 
 
         A requirement to provide a value engineering analysis under this subsection shall not apply to a project delivered using the design-build method of construction.
 
     (f) __Life-Cycle Cost Analysis.—__ 
 
-        (1) __Use of life-cycle cost analysis.—__ 
+        (1)  __Use of life-cycle cost analysis__  __.—__ 
 
         The Secretary shall develop recommendations for the States to conduct life-cycle cost analyses. The recommendations shall be based on the principles contained in section 2 of Executive Order No. 12893 and shall be developed in consultation with the American Association of State Highway and Transportation Officials. The Secretary shall not require a State to conduct a life-cycle cost analysis for any project as a result of the recommendations required under this subsection.
 
-        (2) __Life-cycle cost analysis defined.—__ 
+        (2)  __Life-cycle cost analysis defined__  __.—__ 
 
         In this subsection, the term “life-cycle cost analysis” means a process for evaluating the total economic worth of a usable project segment by analyzing initial costs and discounted future costs, such as maintenance, user costs, reconstruction, rehabilitation, restoring, and resurfacing costs, over the life of the project segment.
 
@@ -157,31 +157,31 @@
 
         (1) __Establishment.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall establish an oversight program to monitor the effective and efficient use of funds authorized to carry out this title.
 
-            (B) __Minimum requirement.—__ 
+            (B)  __Minimum requirement__  __.—__ 
 
             At a minimum, the program shall be responsive to all areas relating to financial integrity and project delivery.
 
         (2) __Financial integrity.—__ 
 
-            (A) __Financial management systems.—__ 
+            (A)  __Financial management systems__  __.—__ 
 
             The Secretary shall perform annual reviews that address elements of the State transportation departments’ financial management systems that affect projects approved under subsection (a).
 
-            (B) __Project costs.—__ 
+            (B)  __Project costs__  __.—__ 
 
             The Secretary shall develop minimum standards for estimating project costs and shall periodically evaluate the practices of States for estimating project costs, awarding contracts, and reducing project costs.
 
-        (3) __Project delivery.—__ 
+        (3)  __Project delivery__  __.—__ 
 
         The Secretary shall perform annual reviews that address elements of the project delivery system of a State, which elements include one or more activities that are involved in the life cycle of a project from conception to completion of the project.
 
         (4) __Responsibility of the states.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The States shall be responsible for determining that subrecipients of Federal funds under this title have—
 
@@ -189,23 +189,23 @@
 
                 (ii) sufficient accounting controls to properly manage such Federal funds.
 
-            (B) __Periodic review.—__ 
+            (B)  __Periodic review__  __.—__ 
 
             The Secretary shall periodically review the monitoring of subrecipients by the States.
 
         (5) __Specific oversight responsibilities.—__ 
 
-            (A) __Effect of section.—__ 
+            (A)  __Effect of section__  __.—__ 
 
             Nothing in this section shall affect or discharge any oversight responsibility of the Secretary specifically provided for under this title or other Federal law.
 
-            (B) __Appalachian development highways.—__ 
+            (B)  __Appalachian development highways__  __.—__ 
 
             The Secretary shall retain full oversight responsibilities for the design and construction of all Appalachian development highways under [section 14501 of title 40][/us/usc/t40/s14501].
 
     (h) __Major Projects.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Notwithstanding any other provision of this section, a recipient of Federal financial assistance for a project under this title with an estimated total cost of $500,000,000 or more, and recipients for such other projects as may be identified by the Secretary, shall submit to the Secretary for each project—
 
@@ -213,7 +213,7 @@
 
             (B) an annual financial plan, including a phasing plan when applicable.
 
-        (2) __Project management plan.—__ 
+        (2)  __Project management plan__  __.—__ 
 
         A project management plan shall document—
 
@@ -221,7 +221,7 @@
 
             (B) the role of the agency leadership and management team in the delivery of the project.
 
-        (3) __Financial plan.—__ 
+        (3)  __Financial plan__  __.—__ 
 
         A financial plan—
 
@@ -233,13 +233,13 @@
 
             (D) shall assess the appropriateness of a public-private partnership to deliver the project.
 
-    (i) __Other Projects.—__ 
+    (i)  __Other Projects__  __.—__ 
 
     A recipient of Federal financial assistance for a project under this title with an estimated total cost of $100,000,000 or more that is not covered by subsection (h) shall prepare an annual financial plan. Annual financial plans prepared under this subsection shall be made available to the Secretary for review upon the request of the Secretary.
 
     (j) __Use of Advanced Modeling Technologies.—__ 
 
-        (1) __Definition of advanced modeling technology.—__ 
+        (1)  __Definition of advanced modeling technology__  __.—__ 
 
         In this subsection, the term “advanced modeling technology” means an available or developing technology, including 3-dimensional digital modeling, that can—
 
@@ -255,11 +255,11 @@
 
             (F) otherwise expedite project delivery with respect to transportation projects that receive Federal funding.
 
-        (2) __Program.—__ 
+        (2)  __Program__  __.—__ 
 
         With respect to transportation projects that receive Federal funding, the Secretary shall encourage the use of advanced modeling technologies during environmental, planning, financial management, design, simulation, and construction processes of the projects.
 
-        (3) __Activities.—__ 
+        (3)  __Activities__  __.—__ 
 
         In carrying out paragraph (2), the Secretary shall—
 
@@ -269,7 +269,7 @@
 
             (C) promote the use of advanced modeling technologies.
 
-        (4) __Comprehensive plan.—__ 
+        (4)  __Comprehensive plan__  __.—__ 
 
         The Secretary shall develop and publish on the public website of the Department of Transportation a detailed and comprehensive plan for the implementation of paragraph (2).
 
@@ -283,7 +283,9 @@
 
     2012—Subsec. (a)(2). [Pub. L. 112–141, § 1503(a)(1)][/us/pl/112/141/s1503/a/1], inserted “recipient” before “formalizing”.
 
-    Subsec. (c)(1). [Pub. L. 112–141, § 1503(a)(2)(A)][/us/pl/112/141/s1503/a/2/A], struck out “Non-interstate ” before “nhs” in heading and, in text, substituted “, including projects on the Interstate System” for “but not on the Interstate System” and “with respect to the projects unless the Secretary determines that the assumption is not appropriate.” for “of projects unless the State or the Secretary determines that such assumption is not appropriate.”
+    Subsec. (c)(1). [Pub. L. 112–141, § 1503(a)(2)(A)(ii)][/us/pl/112/141/s1503/a/2/A/ii], (iii), substituted “, including projects on the Interstate System” for “but not on the Interstate System” and “with respect to the projects unless the Secretary determines that the assumption is not appropriate.” for “of projects unless the State or the Secretary determines that such assumption is not appropriate.”
+
+    [Pub. L. 112–141, § 1503(a)(2)(A)(i)][/us/pl/112/141/s1503/a/2/A/i], struck out “Non-interstate” before “nhs” in heading. Resulting initial word was editorially changed to “NHS” to conform to style of paragraph headings.
 
     Subsec. (c)(4). [Pub. L. 112–141, § 1503(a)(2)(B)][/us/pl/112/141/s1503/a/2/B], added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The Secretary may not assume any greater responsibility than the Secretary is permitted under this title on September 30, 1997, except upon agreement by the Secretary and the State.”
 
@@ -371,7 +373,7 @@
 
 [Pub. L. 112–141, div. A, title I, § 1527][/us/pl/112/141/s1527], July 6, 2012, [126 Stat. 581][/us/stat/126/581], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section, the term ‘recipient’ means—
 
@@ -395,33 +397,33 @@
 
 >     “(b) __Consolidation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A recipient that receives multiple grant awards from the Department \[of Transportation\] to support 1 multimodal project may request that the Secretary \[of Transportation\] designate 1 modal administration in the Department to be the lead administering authority for the overall project.
 
->         “(2) __New starts.—__ 
+>         “(2)  __New starts__  __.—__ 
 
 >         Any project that includes funds awarded under [section 5309 of title 49][/us/usc/t49/s5309], United States Code, shall be exempt from consolidation under this section unless the grant recipient requests the Federal Transit Administration to be the lead administering authority.
 
 >         “(3) __Review.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 30 days after the date on which a request under paragraph (1) is made, the Secretary shall review the request and approve or deny the designation of a single modal administration as the lead administering authority and point of contact for the Department.
 
 >             “(B) __Notification.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 The Secretary shall notify the requestor of the decision of the Secretary under subparagraph (A) in such form and at such time as the Secretary and the requestor agree.
 
->                 “(ii) __Denial.—__ 
+>                 “(ii)  __Denial__  __.—__ 
 
 >                 If a request is denied, the Secretary shall provide the requestor with a detailed explanation of the reasoning of the Secretary with the notification under clause (i).
 
 >     “(c) __Duties.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A modal administration designated as a lead administering authority under this section shall—
 
@@ -431,27 +433,27 @@
 
 >         “(2) __Administration.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary \[of Transportation\] shall transfer all amounts that have been awarded for the multimodal project to the modal administration designated as the lead administering authority.
 
 >             “(B) __Option.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Participation under this section shall be optional for recipients, and no recipient shall be required to participate.
 
->                 “(ii) __Secretarial duties.—__ 
+>                 “(ii)  __Secretarial duties__  __.—__ 
 
 >                 The Secretary is not required to identify every recipient that may be eligible to participate under this section.
 
 >     “(d) __Cooperation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary \[of Transportation\] and modal administrations with relevant jurisdiction over a multimodal project should cooperate on project review and delivery activities at the earliest practicable time.
 
->         “(2) __Purposes.—__ 
+>         “(2)  __Purposes__  __.—__ 
 
 >         The purposes of the cooperation under paragraph (1) are—
 
@@ -461,7 +463,7 @@
 
 >             “(C) to ensure that planning and project development decisions are made in a streamlined manner and consistent with applicable law.
 
->     “(e) __Applicability.—__ 
+>     “(e)  __Applicability__  __.—__ 
 
 >     Nothing in this section shall—
 
@@ -473,11 +475,11 @@
 
 [Pub. L. 102–240, title I, § 1091][/us/pl/102/240/s1091], Dec. 18, 1991, [105 Stat. 2024][/us/stat/105/2024], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary shall study the effectiveness and benefits of value engineering review programs applied to Federal-aid highway projects. Such study shall include an analysis of and the results of specialized techniques utilized in all facets of highway construction for the purpose of reduction of costs and improvement of the overall quality of Federal-aid highway projects.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary shall report to Congress on the results of the study under subsection (a), including recommendations on how value engineering could be utilized and improved in Federal-aid highway projects.”
 
@@ -516,7 +518,8 @@
 [/us/stat/126/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F561
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501
 [/us/pl/112/141/s1503/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1503%2Fa%2F1
-[/us/pl/112/141/s1503/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1503%2Fa%2F2%2FA
+[/us/pl/112/141/s1503/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1503%2Fa%2F2%2FA%2Fii
+[/us/pl/112/141/s1503/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1503%2Fa%2F2%2FA%2Fi
 [/us/pl/112/141/s1503/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1503%2Fa%2F2%2FB
 [/us/pl/112/141/s1503/a/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1503%2Fa%2F3%2FA%2Fi
 [/us/pl/112/141/s1503/a/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1503%2Fa%2F3%2FA%2Fii

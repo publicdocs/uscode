@@ -15,7 +15,7 @@
 
 ## § 518. Vehicle-to-vehicle and vehicle-to-infrastructure communications systems deployment
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Not later than 3 years after the date of enactment of this section, the Secretary shall submit to the Committees on Commerce, Science, and Transportation and Environment and Public Works of the Senate and the Committees on Transportation and Infrastructure, Energy and Commerce, and Science, Space, and Technology of the House of Representatives that—
 
@@ -35,7 +35,7 @@
 
         (5) ensures competition by not preferencing the use of any particular frequency for vehicle to infrastructure operations.
 
-    (b) __Report Review.—__ 
+    (b)  __Report Review__  __.—__ 
 
     The Secretary shall enter into agreements with the National Research Council and an independent third party with subject matter expertise for the review of the report described in subsection (a).
 

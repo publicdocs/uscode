@@ -15,31 +15,31 @@
 
 ## § 143. Highway use tax evasion projects
 
-    (a) __State Defined.—__ 
+    (a)  __State Defined__  __.—__ 
 
     In this section, the term “State” means the 50 States and the District of Columbia.
 
     (b) __Projects.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall carry out highway use tax evasion projects in accordance with this subsection.
 
         (2) __Funding.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             From administrative funds made available under section 104(a), the Secretary shall deduct such sums as are necessary, not to exceed $10,000,000 for each of fiscal years 2013 and 2014, to carry out this section.
 
-            (B) __Allocation of funds.—__ 
+            (B)  __Allocation of funds__  __.—__ 
 
             Funds made available to carry out this section may be allocated to the Internal Revenue Service and the States at the discretion of the Secretary, except that of funds so made available for each fiscal year, $2,000,000 shall be available only to carry out intergovernmental enforcement efforts, including research and training.
 
-        (3) __Conditions on funds allocated to internal revenue service.—__ 
+        (3)  __Conditions on funds allocated to internal revenue service__  __.—__ 
 
         Except as otherwise provided in this section, the Secretary shall not impose any condition on the use of funds allocated to the Internal Revenue Service under this subsection.
 
-        (4) __Limitation on use of funds.—__ 
+        (4)  __Limitation on use of funds__  __.—__ 
 
         Funds made available to carry out this section shall be used only—
 
@@ -61,29 +61,29 @@
 
             (I) to analyze and implement programs to reduce tax evasion associated with foreign imported fuel.
 
-        (5) __Maintenance of effort.—__ 
+        (5)  __Maintenance of effort__  __.—__ 
 
         The Secretary may not make an allocation to a State under this subsection for a fiscal year unless the State certifies that the aggregate expenditure of funds of the State, exclusive of Federal funds, for motor fuel tax enforcement activities will be maintained at a level that does not fall below the average level of such expenditure for the preceding 2 fiscal years of the State.
 
-        (6) __Federal share.—__ 
+        (6)  __Federal share__  __.—__ 
 
         The Federal share of the cost of a project carried out under this subsection shall be 100 percent.
 
-        (7) __Period of availability.—__ 
+        (7)  __Period of availability__  __.—__ 
 
         Funds authorized to carry out this section shall remain available for obligation for a period of 3 years after the last day of the fiscal year for which the funds are authorized.
 
-        (8) __Use of surface transportation program funding.—__ 
+        (8)  __Use of surface transportation program funding__  __.—__ 
 
         In addition to funds made available to carry out this section, a State may expend up to ¼ of 1 percent of the funds apportioned to the State for a fiscal year under section 104(b)(2) on initiatives to halt the evasion of payment of motor fuel taxes.
 
-        (9) __Reports.—__ 
+        (9)  __Reports__  __.—__ 
 
         The Commissioner of the Internal Revenue Service and each State shall submit to the Secretary an annual report that describes the projects, examinations, and criminal investigations funded by and carried out under this section. Such report shall specify the estimated annual yield from such projects, examinations, and criminal investigations.
 
     (c) __Excise Tax Fuel Reporting.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 90 days after the date of enactment of the SAFETEA–LU, the Secretary shall enter into a memorandum of understanding with the Commissioner of the Internal Revenue Service for the purposes of—
 
@@ -97,7 +97,7 @@
 
             (E) the development, completion, operation, and maintenance of an electronic claims filing system and database and an electronic database of heavy vehicle highway use payments.
 
-        (2) __Elements of memorandum of understanding.—__ 
+        (2)  __Elements of memorandum of understanding__  __.—__ 
 
         The memorandum of understanding shall provide that—
 
@@ -107,11 +107,11 @@
 
             (C) any system under paragraph (1) shall be made available for use by appropriate State and Federal revenue, tax, and law enforcement authorities, subject to section 6103 of the Internal Revenue Code of 1986.
 
-        (3) __Funding.—__ 
+        (3)  __Funding__  __.—__ 
 
         Of the amounts made available to carry out this section for each fiscal year, the Secretary shall make available to the Internal Revenue Service such funds as may be necessary to complete, operate, and maintain the systems under paragraph (1) in accordance with this subsection.
 
-        (4) __Reports.—__ 
+        (4)  __Reports__  __.—__ 
 
         Not later than September 30 of each year, the Commissioner of the Internal Revenue Service shall provide reports to the Secretary on the status of the Internal Revenue Service projects funded under this subsection.
 
@@ -175,7 +175,7 @@ The SAFETEA–LU, referred to in subsec. (c)(1), is [Pub. L. 109–59][/us/pl/10
 
 [Pub. L. 102–240, title VIII, § 8002(g)][/us/pl/102/240/s8002/g], (h), Dec. 18, 1991, [105 Stat. 2204][/us/stat/105/2204], 2205, as amended by [Pub. L. 105–178, title I, § 1114(b)(3)][/us/pl/105/178/s1114/b/3], June 9, 1998, [112 Stat. 154][/us/stat/112/154], provided that:
 
->     “(g) __Use of Revenues for Enforcement of Highway Trust Fund Taxes.—__ 
+>     “(g)  __Use of Revenues for Enforcement of Highway Trust Fund Taxes__  __.—__ 
 
 >     The Secretary of Transportation shall not impose any condition on the use of funds transferred under [section 143 of title 23][/us/usc/t23/s143], United States Code, to the Internal Revenue Service. The Secretary of the Treasury shall, at least 60 days before the beginning of each fiscal year (after fiscal year 1992) for which such funds are to be transferred, submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate detailing the increased enforcement activities to be financed with such funds with respect to taxes referred to in section 9503(b)(1) of the Internal Revenue Code of 1986 \[[26 U.S.C. 9503(b)(1)][/us/usc/t26/s9503/b/1]\].
 

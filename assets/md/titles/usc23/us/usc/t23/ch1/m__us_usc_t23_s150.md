@@ -15,49 +15,49 @@
 
 ## § 150. National goals and performance management measures
 
-    (a) __Declaration of Policy.—__ 
+    (a)  __Declaration of Policy__  __.—__ 
 
     Performance management will transform the Federal-aid highway program and provide a means to the most efficient investment of Federal transportation funds by refocusing on national transportation goals, increasing the accountability and transparency of the Federal-aid highway program, and improving project decisionmaking through performance-based planning and programming.
 
-    (b) __National Goals.—__ 
+    (b)  __National Goals__  __.—__ 
 
     It is in the interest of the United States to focus the Federal-aid highway program on the following national goals:
 
-        (1) __Safety.—__ 
+        (1)  __Safety__  __.—__ 
 
         To achieve a significant reduction in traffic fatalities and serious injuries on all public roads.
 
-        (2) __Infrastructure condition.—__ 
+        (2)  __Infrastructure condition__  __.—__ 
 
         To maintain the highway infrastructure asset system in a state of good repair.
 
-        (3) __Congestion reduction.—__ 
+        (3)  __Congestion reduction__  __.—__ 
 
         To achieve a significant reduction in congestion on the National Highway System.
 
-        (4) __System reliability.—__ 
+        (4)  __System reliability__  __.—__ 
 
         To improve the efficiency of the surface transportation system.
 
-        (5) __Freight movement and economic vitality.—__ 
+        (5)  __Freight movement and economic vitality__  __.—__ 
 
         To improve the national freight network, strengthen the ability of rural communities to access national and international trade markets, and support regional economic development.
 
-        (6) __Environmental sustainability.—__ 
+        (6)  __Environmental sustainability__  __.—__ 
 
         To enhance the performance of the transportation system while protecting and enhancing the natural environment.
 
-        (7) __Reduced project delivery delays.—__ 
+        (7)  __Reduced project delivery delays__  __.—__ 
 
         To reduce project costs, promote jobs and the economy, and expedite the movement of people and goods by accelerating project completion through eliminating delays in the project development and delivery process, including reducing regulatory burdens and improving agencies’ work practices.
 
     (c) __Establishment of Performance Measures.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 18 months after the date of enactment of the MAP–21, the Secretary, in consultation with State departments of transportation, metropolitan planning organizations, and other stakeholders, shall promulgate a rulemaking that establishes performance measures and standards.
 
-        (2) __Administration.—__ 
+        (2)  __Administration__  __.—__ 
 
         In carrying out paragraph (1), the Secretary shall—
 
@@ -69,7 +69,7 @@
 
         (3) __National highway performance program.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraph (B), for the purpose of carrying out section 119, the Secretary shall establish—
 
@@ -93,11 +93,11 @@
 
                 (iv) the data elements that are necessary to collect and maintain standardized data to carry out a performance-based approach.
 
-            (B) __Regions.—__ 
+            (B)  __Regions__  __.—__ 
 
             In establishing minimum condition levels under subparagraph (A)(iii), if the Secretary determines that various geographic regions of the United States experience disparate factors contributing to the condition of pavement on the Interstate System in those regions, the Secretary may establish different minimum levels for each region;
 
-        (4) __Highway safety improvement program.—__ 
+        (4)  __Highway safety improvement program__  __.—__ 
 
         For the purpose of carrying out section 148, the Secretary shall establish measures for States to use to assess—
 
@@ -105,7 +105,7 @@
 
             (B) the number of serious injuries and fatalities.
 
-        (5) __Congestion mitigation and air quality program.—__ 
+        (5)  __Congestion mitigation and air quality program__  __.—__ 
 
         For the purpose of carrying out section 149, the Secretary shall establish measures for States to use to assess—
 
@@ -113,21 +113,21 @@
 
             (B) on-road mobile source emissions.
 
-        (6) __National freight movement.—__ 
+        (6)  __National freight movement__  __.—__ 
 
         The Secretary shall establish measures for States to use to assess freight movement on the Interstate System.
 
     (d) __Establishment of Performance Targets.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than 1 year after the Secretary has promulgated the final rulemaking under subsection (c), each State shall set performance targets that reflect the measures identified in paragraphs (3), (4), (5), and (6) of subsection (c).
 
-        (2) __Different approaches for urban and rural areas.—__ 
+        (2)  __Different approaches for urban and rural areas__  __.—__ 
 
         In the development and implementation of any performance target, a State may, as appropriate, provide for different performance targets for urbanized and rural areas.
 
-    (e) __Reporting on Performance Targets.—__ 
+    (e)  __Reporting on Performance Targets__  __.—__ 
 
     Not later than 4 years after the date of enactment of the MAP–21 and biennially thereafter, a State shall submit to the Secretary a report that describes—
 

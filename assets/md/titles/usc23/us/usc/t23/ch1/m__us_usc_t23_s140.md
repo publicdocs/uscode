@@ -21,7 +21,7 @@
 
     (c) The Secretary, in cooperation with any other department or agency of the Government, State agency, authority, association, institution, Indian tribal government, corporation (profit or nonprofit), or any other organization or person, is authorized to develop, conduct, and administer training programs and assistance programs in connection with any program under this title in order that minority businesses may achieve proficiency to compete, on an equal basis, for contracts and subcontracts. From administrative funds made available under section 104(a), the Secretary shall deduct such sums as necessary, not to exceed $10,000,000 per fiscal year, for the administration of this subsection. The provisions of section 6101(b) to (d) of title 41 shall not be applicable to contracts and agreements made under the authority herein granted to the Secretary notwithstanding the provisions of [section 3106 of title 41][/us/usc/t41/s3106].
 
-    (d) __Indian Employment.—__ 
+    (d)  __Indian Employment__  __.—__ 
 
     Consistent with section 703(i) of the Civil Rights Act of 1964 ([42 U.S.C. 2000e–2(i)][/us/usc/t42/s2000e–2/i]), nothing in this section shall preclude the preferential employment of Indians living on or near a reservation on projects and contracts on Indian reservation roads. States may implement a preference for employment of Indians on projects carried out under this title near Indian reservations. The Secretary shall cooperate with Indian tribal governments and the States to implement this subsection.
 

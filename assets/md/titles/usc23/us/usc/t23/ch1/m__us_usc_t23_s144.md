@@ -17,7 +17,7 @@
 
     (a) __Findings and Declarations.—__ 
 
-        (1) __Findings.—__ 
+        (1)  __Findings__  __.—__ 
 
         Congress finds that—
 
@@ -25,7 +25,7 @@
 
             (B) the systematic preventative maintenance of bridges, and replacement and rehabilitation of deficient bridges, should be undertaken through an overall asset management approach to transportation investment.
 
-        (2) __Declarations.—__ 
+        (2)  __Declarations__  __.—__ 
 
         Congress declares that it is in the vital interest of the United States—
 
@@ -39,7 +39,7 @@
 
             (E) to ensure connectivity and access for residents of rural areas of the United States through strategic investments in National Highway System bridges and bridges on all public roads.
 
-    (b) __National Bridge and Tunnel Inventories.—__ 
+    (b)  __National Bridge and Tunnel Inventories__  __.—__ 
 
     The Secretary, in consultation with the States and Federal agencies with jurisdiction over highway bridges and tunnels, shall—
 
@@ -55,11 +55,11 @@
 
     (c) __General Bridge Authority.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraph (2) and notwithstanding any other provision of law, the General Bridge Act of 1946 ([33 U.S.C. 525][/us/usc/t33/s525] et seq.) shall apply to bridges authorized to be replaced, in whole or in part, by this title.
 
-        (2) __Exception.—__ 
+        (2)  __Exception__  __.—__ 
 
         Section 502(b) of the General Bridge Act of 1946 ([33 U.S.C. 525(b)][/us/usc/t33/s525/b]) and [section 9 of the Act of March 3, 1899][/us/act/1899-03-03/s9] ([33 U.S.C. 401][/us/usc/t33/s401]), shall not apply to any bridge constructed, reconstructed, rehabilitated, or replaced with assistance under this title, if the bridge is over waters that—
 
@@ -75,7 +75,7 @@
 
     (d) __Inventory Updates and Reports.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall—
 
@@ -83,15 +83,15 @@
 
             (B) submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the inventories.
 
-        (2) __Inspection report.—__ 
+        (2)  __Inspection report__  __.—__ 
 
         Not later than 2 years after the date of enactment of the MAP–21, each State and appropriate Federal agency shall report element level data to the Secretary, as each bridge is inspected pursuant to this section, for all highway bridges on the National Highway System.
 
-        (3) __Guidance.—__ 
+        (3)  __Guidance__  __.—__ 
 
         The Secretary shall provide guidance to States and Federal agencies for implementation of this subsection, while respecting the existing inspection schedule of each State.
 
-        (4) __Bridges not on national highway system.—__ 
+        (4)  __Bridges not on national highway system__  __.—__ 
 
         The Secretary shall—
 
@@ -101,21 +101,21 @@
 
     (e) __Bridges Without Taxing Powers.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Notwithstanding any other provision of law, any bridge that is owned and operated by an agency that does not have taxing powers and whose functions include operating a federally assisted public transit system subsidized by toll revenues shall be eligible for assistance under this title, but the amount of such assistance shall in no event exceed the cumulative amount which such agency has expended for capital and operating costs to subsidize such transit system.
 
-        (2) __Insufficient assets.—__ 
+        (2)  __Insufficient assets__  __.—__ 
 
         Before authorizing an expenditure of funds under this subsection, the Secretary shall determine that the applicant agency has insufficient reserves, surpluses, and projected revenues (over and above those required for bridge and transit capital and operating costs) to fund the bridge project or activity eligible for assistance under this title.
 
-        (3) __Crediting of non-federal funds.—__ 
+        (3)  __Crediting of non-federal funds__  __.—__ 
 
         Any non-Federal funds expended for the seismic retrofit of the bridge may be credited toward the non-Federal share required as a condition of receipt of any Federal funds for seismic retrofit of the bridge made available after the date of the expenditure.
 
     (f) __Replacement of Destroyed Bridges and Ferry Boat Service.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Notwithstanding any other provision of law, a State may use the funds apportioned under section 104(b)(2) to construct any bridge that replaces—
 
@@ -127,35 +127,35 @@
 
             (D) any road bridge that is rendered obsolete as a result of a Corps of Engineers flood control or channelization project and is not rebuilt with funds from the Corps of Engineers.
 
-        (2) __Federal share.—__ 
+        (2)  __Federal share__  __.—__ 
 
         The Federal share payable on any bridge construction carried out under paragraph (1) shall be 80 percent of the cost of the construction.
 
     (g) __Historic Bridges.—__ 
 
-        (1) __Definition of historic bridge.—__ 
+        (1)  __Definition of historic bridge__  __.—__ 
 
         In this subsection, the term “historic bridge” means any bridge that is listed on, or eligible for listing on, the National Register of Historic Places.
 
-        (2) __Coordination.—__ 
+        (2)  __Coordination__  __.—__ 
 
         The Secretary shall, in cooperation with the States, encourage the retention, rehabilitation, adaptive reuse, and future study of historic bridges.
 
-        (3) __State inventory.—__ 
+        (3)  __State inventory__  __.—__ 
 
         The Secretary shall require each State to complete an inventory of all bridges on and off Federal-aid highways to determine the historic significance of the bridges.
 
         (4) __Eligibility.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraph (B), reasonable costs associated with actions to preserve, or reduce the impact of a project under this chapter on, the historic integrity of a historic bridge shall be eligible as reimbursable project costs under section 133 if the load capacity and safety features of the historic bridge are adequate to serve the intended use for the life of the historic bridge.
 
-            (B) __Bridges not used for vehicle traffic.—__ 
+            (B)  __Bridges not used for vehicle traffic__  __.—__ 
 
             In the case of a historic bridge that is no longer used for motorized vehicular traffic, the costs eligible as reimbursable project costs pursuant to this chapter shall not exceed the estimated cost of demolition of the historic bridge.
 
-        (5) __Preservation.—__ 
+        (5)  __Preservation__  __.—__ 
 
         Any State that proposes to demolish a historic bridge for a replacement project with funds made available to carry out this section shall first make the historic bridge available for donation to a State, locality, or responsible private entity if the State, locality, or responsible entity enters into an agreement—
 
@@ -165,11 +165,11 @@
 
         (6) __Costs incurred.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Costs incurred by the State to preserve a historic bridge (including funds made available to the State, locality, or private entity to enable it to accept the bridge) shall be eligible as reimbursable project costs under this chapter in an amount not to exceed the cost of demolition.
 
-            (B) __Additional funding.—__ 
+            (B)  __Additional funding__  __.—__ 
 
             Any bridge preserved pursuant to this paragraph shall not be eligible for any other funds authorized pursuant to this title.
 
@@ -177,15 +177,15 @@
 
         (1) __Requirement.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall establish and maintain inspection standards for the proper inspection and evaluation of all highway bridges and tunnels for safety and serviceability.
 
-            (B) __Uniformity.—__ 
+            (B)  __Uniformity__  __.—__ 
 
             The standards under this subsection shall be designed to ensure uniformity of the inspections and evaluations.
 
-        (2) __Minimum requirements of inspection standards.—__ 
+        (2)  __Minimum requirements of inspection standards__  __.—__ 
 
         The standards established under paragraph (1) shall, at a minimum—
 
@@ -205,7 +205,7 @@
 
             (E) establish a procedure for national certification of highway bridge inspectors and tunnel inspectors.
 
-        (3) __State compliance with inspection standards.—__ 
+        (3)  __State compliance with inspection standards__  __.—__ 
 
         The Secretary shall, at a minimum—
 
@@ -227,11 +227,11 @@
 
         (4) __Reviews of state compliance.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall annually review State compliance with the standards established under this section.
 
-            (B) __Noncompliance.—__ 
+            (B)  __Noncompliance__  __.—__ 
 
             If an annual review in accordance with subparagraph (A) identifies noncompliance by a State, the Secretary shall—
 
@@ -247,11 +247,11 @@
 
         (5) __Penalty for noncompliance.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             If a State fails to satisfy the requirements of paragraph (4)(B) by August 1 of the calendar year following the year of a finding of noncompliance, the Secretary shall, on October 1 of that year, and each year thereafter as may be necessary, require the State to dedicate funds apportioned to the State under sections 119 and 133 after the date of enactment of the MAP–21 to correct the noncompliance with the minimum inspection standards established under this subsection.
 
-            (B) __Amount.—__ 
+            (B)  __Amount__  __.—__ 
 
             The amount of the funds to be directed to correcting noncompliance in accordance with subparagraph (A) shall—
 
@@ -259,7 +259,7 @@
 
                 (ii) require approval by the Secretary.
 
-        (6) __Update of standards.—__ 
+        (6)  __Update of standards__  __.—__ 
 
         Not later than 3 years after the date of enactment of the MAP–21, the Secretary shall update inspection standards to cover—
 
@@ -267,21 +267,21 @@
 
             (B) the frequency of inspection.
 
-        (7) __Risk-based approach.—__ 
+        (7)  __Risk-based approach__  __.—__ 
 
         In carrying out the revisions required by paragraph (6), the Secretary shall consider a risk-based approach to determining the frequency of bridge inspections.
 
     (i) __Training Program for Bridge and Tunnel Inspectors.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary, in cooperation with the State transportation departments, shall maintain a program designed to train appropriate personnel to carry out highway bridge and tunnel inspections.
 
-        (2) __Revisions.—__ 
+        (2)  __Revisions__  __.—__ 
 
         The training program shall be revised from time to time to take into account new and improved techniques.
 
-    (j) __Availability of Funds.—__ 
+    (j)  __Availability of Funds__  __.—__ 
 
     In carrying out this section—
 
@@ -525,11 +525,11 @@
 
 [Pub. L. 109–59, title I, § 1805][/us/pl/109/59/s1805], Aug. 10, 2005, [119 Stat. 1459][/us/stat/119/1459], as amended by [Pub. L. 112–141, div. A, title I, § 1523][/us/pl/112/141/s1523], July 6, 2012, [126 Stat. 580][/us/stat/126/580], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Any State that demolishes a bridge or an overpass that is eligible for Federal assistance under the national highway performance program under [section 119 of title 23][/us/usc/t23/s119], United States Code, is directed to first make the debris from the demolition of such bridge or overpass available for beneficial use by a Federal, State, or local government, unless such use obstructs navigation.
 
->     “(b) __Recipient Responsibilities.—__ 
+>     “(b)  __Recipient Responsibilities__  __.—__ 
 
 >     A recipient of the debris described in subsection (a) shall—
 
@@ -539,7 +539,7 @@
 
 >         “(3) assume all future legal responsibility arising from the placement of the debris, which may include entering into an agreement to hold the owner of the demolished bridge or overpass harmless in any liability action.
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     In this section, the term ‘beneficial use’ means the application of the debris for purposes of shore erosion control or stabilization, ecosystem restoration, and marine habitat creation.”
 

@@ -15,11 +15,11 @@
 
 ## § 133. Surface transportation program
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Secretary shall establish a surface transportation program in accordance with this section.
 
-    (b) __Eligible Projects.—__ 
+    (b)  __Eligible Projects__  __.—__ 
 
     A State may obligate funds apportioned to it under section 104(b)(2) for the surface transportation program only for the following:
 
@@ -97,7 +97,7 @@
 
             (C) the construction or improvements are more cost-effective, as determined by a benefit-cost analysis, than an improvement to the Federal-aid highway described in subparagraph (A).
 
-    (c) __Location of Projects.—__ 
+    (c)  __Location of Projects__  __.—__ 
 
     Surface transportation program projects may not be undertaken on roads functionally classified as local or rural minor collectors unless the roads were on a Federal-aid highway system on January 1, 1991, except—
 
@@ -109,7 +109,7 @@
 
     (d) __Allocations of Apportioned Funds to Areas Based on Population.—__ 
 
-        (1) __Calculation.—__ 
+        (1)  __Calculation__  __.—__ 
 
         Of the funds apportioned to a State under section 104(b)(2)—
 
@@ -125,31 +125,31 @@
 
             (B) 50 percent may be obligated in any area of the State.
 
-        (2) __Metropolitan areas.—__ 
+        (2)  __Metropolitan areas__  __.—__ 
 
         Funds attributed to an urbanized area under paragraph (1)(A)(i) may be obligated in the metropolitan area established under section 134 that encompasses the urbanized area.
 
-        (3) __Consultation with regional transportation planning organizations.—__ 
+        (3)  __Consultation with regional transportation planning organizations__  __.—__ 
 
         For purposes of paragraph (1)(A)(ii), before obligating funding attributed to an area with a population greater than 5,000 and less than 200,000, a State shall consult with the regional transportation planning organizations that represent the area, if any.
 
         (4) __Distribution among urbanized areas of over 200,000 population.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), the amount of funds that a State is required to obligate under paragraph (1)(A)(i) shall be obligated in urbanized areas described in paragraph (1)(A)(i) based on the relative population of the areas.
 
-            (B) __Other factors.—__ 
+            (B)  __Other factors__  __.—__ 
 
             The State may obligate the funds described in subparagraph (A) based on other factors if the State and the relevant metropolitan planning organizations jointly apply to the Secretary for the permission to base the obligation on other factors and the Secretary grants the request.
 
-        (5) __Applicability of planning requirements.—__ 
+        (5)  __Applicability of planning requirements__  __.—__ 
 
         Programming and expenditure of funds for projects under this section shall be consistent with sections 134 and 135.
 
     (e) __Administration.—__ 
 
-        (1) __Submission of project agreement.—__ 
+        (1)  __Submission of project agreement__  __.—__ 
 
         For each fiscal year, each State shall submit a project agreement that—
 
@@ -157,17 +157,17 @@
 
             (B) notifies the Secretary of the amount of obligations needed to carry out the program under this section.
 
-        (2) __Request for adjustments of amounts.—__ 
+        (2)  __Request for adjustments of amounts__  __.—__ 
 
         Each State shall request from the Secretary such adjustments to the amount of obligations referred to in paragraph (1)(B) as the State determines to be necessary.
 
-        (3) __Effect of approval by the secretary.—__ 
+        (3)  __Effect of approval by the secretary__  __.—__ 
 
         Approval by the Secretary of a project agreement under paragraph (1) shall be deemed a contractual obligation of the United States to pay surface transportation program funds made available under this title.
 
     (f) __Obligation Authority.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A State that is required to obligate in an urbanized area with an urbanized area population of over 200,000 individuals under subsection (d) funds apportioned to the State under section 104(b)(3)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  shall make available during the period of fiscal years 2011 through 2014 an amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction programs for use in the area that is equal to the amount obtained by multiplying—
 
@@ -181,27 +181,27 @@
 
                 (ii) the total of the sums apportioned to the State for Federal-aid highways and highway safety construction programs (excluding sums not subject to an obligation limitation) during the period.
 
-        (2) __Joint responsibility.—__ 
+        (2)  __Joint responsibility__  __.—__ 
 
         Each State, each affected metropolitan planning organization, and the Secretary shall jointly ensure compliance with paragraph (1).
 
     (g) __Bridges Not on Federal-aid Highways.—__ 
 
-        (1) __Definition of off-system bridge.—__ 
+        (1)  __Definition of off-system bridge__  __.—__ 
 
         In this subsection, the term “off-system bridge” means a highway bridge located on a public road, other than a bridge on a Federal-aid highway.
 
         (2) __Special rule.—__ 
 
-            (A) __Set-aside.—__ 
+            (A)  __Set-aside__  __.—__ 
 
             Of the amounts apportioned to a State for fiscal year 2013 and each fiscal year thereafter under this section, the State shall obligate for activities described in subsection (b)(2) for off-system bridges an amount that is not less than 15 percent of the amount of funds apportioned to the State for the highway bridge program for fiscal year 2009, except that amounts allocated under subsection (d) shall not be obligated to carry out this subsection.
 
-            (B) __Reduction of expenditures.—__ 
+            (B)  __Reduction of expenditures__  __.—__ 
 
             The Secretary, after consultation with State and local officials, may reduce the requirement for expenditures for off-system bridges under subparagraph (A) with respect to the State if the Secretary determines that the State has inadequate needs to justify the expenditure.
 
-        (3) __Credit for bridges not on federal-aid highways.—__ 
+        (3)  __Credit for bridges not on federal-aid highways__  __.—__ 
 
         Notwithstanding any other provision of law, with respect to any project not on a Federal-aid highway for the replacement of a bridge or rehabilitation of a bridge that is wholly funded from State and local sources, is eligible for Federal funds under this section, is noncontroversial, is certified by the State to have been carried out in accordance with all standards applicable to such projects under this section, and is determined by the Secretary upon completion to be no longer a deficient bridge—
 
@@ -209,13 +209,13 @@
 
             (B) that crediting shall be conducted in accordance with procedures established by the Secretary.
 
-    (h) __Special Rule for Areas of Less Than 5,000 Population.—__ 
+    (h)  __Special Rule for Areas of Less Than__  __5,000 Population.—__ 
 
-        (1) __Special rule.—__ 
+        (1)  __Special rule__  __.—__ 
 
         Notwithstanding subsection (c), and except as provided in paragraph (2), up to 15 percent of the amounts required to be obligated by a State under subsection (d)(1)(A)(iii) for each of fiscal years 2013 through 2014 may be obligated on roads functionally classified as minor collectors.
 
-        (2) __Suspension.—__ 
+        (2)  __Suspension__  __.—__ 
 
         The Secretary may suspend the application of paragraph (1) with respect to a State if the Secretary determines that the authority provided under paragraph (1) is being used excessively by the State.
 
@@ -361,11 +361,11 @@
 
 [Pub. L. 105–178, title I, § 1108(f)][/us/pl/105/178/s1108/f], June 9, 1998, [112 Stat. 141][/us/stat/112/141], as amended by [Pub. L. 110–244, title I, § 113(a)][/us/pl/110/244/s113/a], June 6, 2008, [122 Stat. 1606][/us/stat/122/1606], provided that:
 
->     “(1) __Special rule.—__ 
+>     “(1)  __Special rule__  __.—__ 
 
 >     Notwithstanding [section 133(c) of title 23][/us/usc/t23/s133/c], United States Code, and except as provided in paragraph (2), up to 15 percent of the amounts required to be obligated under \[former\] section 133(d)(3)(B) of such title for each of fiscal years 1998 through 2009 may be obligated on roads functionally classified as minor collectors.
 
->     “(2) __Suspension.—__ 
+>     “(2)  __Suspension__  __.—__ 
 
 >     The Secretary may suspend the application of paragraph (1) if the Secretary determines that paragraph (1) is being used excessively.”
 

@@ -15,19 +15,19 @@
 
 ## § 154. Open container requirements
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Alcoholic beverage.—__ 
+        (1)  __Alcoholic beverage__  __.—__ 
 
         The term “alcoholic beverage” has the meaning given the term in section 158(c).
 
-        (2) __Motor vehicle.—__ 
+        (2)  __Motor vehicle__  __.—__ 
 
         The term “motor vehicle” means a vehicle driven or drawn by mechanical power and manufactured primarily for use on public highways, but does not include a vehicle operated exclusively on a rail or rails.
 
-        (3) __Open alcoholic beverage container.—__ 
+        (3)  __Open alcoholic beverage container__  __.—__ 
 
         The term “open alcoholic beverage container” means any bottle, can, or other receptacle—
 
@@ -39,17 +39,17 @@
 
                 (ii) the contents of which are partially removed.
 
-        (4) __Passenger area.—__ 
+        (4)  __Passenger area__  __.—__ 
 
         The term “passenger area” shall have the meaning given the term by the Secretary by regulation.
 
     (b) __Open Container Laws.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         For the purposes of this section, each State shall have in effect a law that prohibits the possession of any open alcoholic beverage container, or the consumption of any alcoholic beverage, in the passenger area of any motor vehicle (including possession or consumption by the driver of the vehicle) located on a public highway, or the right-of-way of a public highway, in the State.
 
-        (2) __Motor vehicles designed to transport many passengers.—__ 
+        (2)  __Motor vehicles designed to transport many passengers__  __.—__ 
 
         For the purposes of this section, if a State has in effect a law that makes unlawful the possession of any open alcoholic beverage container by the driver (but not by a passenger)—
 
@@ -61,7 +61,7 @@
 
     (c) __Transfer of Funds.—__ 
 
-        (1) __Fiscal years 2001 and 2002.—__ 
+        (1)  __Fiscal years 2001 and 2002__  __.—__ 
 
         On October 1, 2000, and October 1, 2001, if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall transfer an amount equal to 1½ percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  to the apportionment of the State under section 402—
 
@@ -69,13 +69,13 @@
 
             (B) to be directed to State and local law enforcement agencies for enforcement of laws prohibiting driving while intoxicated or driving under the influence and other related laws (including regulations), including the purchase of equipment, the training of officers, and the use of additional personnel for specific alcohol-impaired driving countermeasures, dedicated to enforcement of the laws (including regulations).
 
-        (2) __Fiscal year 2012 and thereafter.—__ 
+        (2)  __Fiscal year 2012 and thereafter__  __.—__ 
 
-            (A) __Reservation of funds.—__ 
+            (A)  __Reservation of funds__  __.—__ 
 
             On October 1, 2011, and each October 1 thereafter, if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall reserve an amount equal to 2.5 percent of the funds to be apportioned to the State on that date under each of paragraphs (1) and (2) of section 104(b) until the State certifies to the Secretary the means by which the State will use those reserved funds in accordance with subparagraphs (A) and (B) of paragraph (1) and paragraph (3).
 
-            (B) __Transfer of funds.—__ 
+            (B)  __Transfer of funds__  __.—__ 
 
             As soon as practicable after the date of receipt of a certification from a State under subparagraph (A), the Secretary shall—
 
@@ -83,21 +83,21 @@
 
                 (ii) release the reserved funds identified by the State as described in paragraph (3).
 
-        (3) __Use for highway safety improvement program.—__ 
+        (3)  __Use for highway safety improvement program__  __.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             A State may elect to use all or a portion of the funds transferred under paragraph (2) for activities eligible under section 148.
 
-            (B) __State departments of transportation.—__ 
+            (B)  __State departments of transportation__  __.—__ 
 
             If the State makes an election under subparagraph (A), the funds shall be transferred to the department of transportation of the State, which shall be responsible for the administration of the funds.
 
-        (4) __Federal share.—__ 
+        (4)  __Federal share__  __.—__ 
 
         The Federal share of the cost of a project carried out with funds transferred under paragraph (1) or (2), or used under paragraph (3), shall be 100 percent.
 
-        (5) __Derivation of amount to be transferred.—__ 
+        (5)  __Derivation of amount to be transferred__  __.—__ 
 
         The amount to be transferred under paragraph (2) may be derived from the following:
 
@@ -107,11 +107,11 @@
 
         (6) __Transfer of obligation authority.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             If the Secretary transfers under this subsection any funds to the apportionment of a State under section 402 for a fiscal year, the Secretary shall transfer an amount, determined under subparagraph (B), of obligation authority distributed for the fiscal year to the State for Federal-aid highways and highway safety construction programs for carrying out projects under section 402.
 
-            (B) __Amount.—__ 
+            (B)  __Amount__  __.—__ 
 
             The amount of obligation authority referred to in subparagraph (A) shall be determined by multiplying—
 
@@ -125,7 +125,7 @@
 
                     (II) the total of the sums apportioned to the State for Federal-aid highways and highway safety construction programs (excluding sums not subject to any obligation limitation) for the fiscal year.
 
-        (7) __Limitation on applicability of obligation limitation.—__ 
+        (7)  __Limitation on applicability of obligation limitation__  __.—__ 
 
         Notwithstanding any other provision of law, no limitation on the total of obligations for highway safety programs under section 402 shall apply to funds transferred under this subsection to the apportionment of a State under such section.
 

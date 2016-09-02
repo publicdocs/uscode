@@ -17,17 +17,17 @@
 
     (a) __Establishment.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall carry out a surface transportation project delivery program (referred to in this section as the “program”).
 
         (2) __Assumption of responsibility.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to the other provisions of this section, with the written agreement of the Secretary and a State, which may be in the form of a memorandum of understanding, the Secretary may assign, and the State may assume, the responsibilities of the Secretary with respect to one or more highway projects within the State under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.).
 
-            (B) __Additional responsibility.—__ 
+            (B)  __Additional responsibility__  __.—__ 
 
             If a State assumes responsibility under subparagraph (A)—
 
@@ -45,33 +45,33 @@
 
                     (II) responsibility for any conformity determination required under section 176 of the Clean Air Act ([42 U.S.C. 7506][/us/usc/t42/s7506]).
 
-            (C) __Procedural and substantive requirements.—__ 
+            (C)  __Procedural and substantive requirements__  __.—__ 
 
             A State shall assume responsibility under this section subject to the same procedural and substantive requirements as would apply if that responsibility were carried out by the Secretary.
 
-            (D) __Federal responsibility.—__ 
+            (D)  __Federal responsibility__  __.—__ 
 
             Any responsibility of the Secretary not explicitly assumed by the State by written agreement under this section shall remain the responsibility of the Secretary.
 
-            (E) __No effect on authority.—__ 
+            (E)  __No effect on authority__  __.—__ 
 
             Nothing in this section preempts or interferes with any power, jurisdiction, responsibility, or authority of an agency, other than the Department of Transportation, under applicable law (including regulations) with respect to a project.
 
-            (F) __Preservation of flexibility.—__ 
+            (F)  __Preservation of flexibility__  __.—__ 
 
             The Secretary may not require a State, as a condition of participation in the program, to forego project delivery methods that are otherwise permissible for projects.
 
-            (G) __Legal fees.—__ 
+            (G)  __Legal fees__  __.—__ 
 
             A State assuming the responsibilities of the Secretary under this section for a specific project may use funds apportioned to the State under section 104(b)(2) for attorneys’ fees directly attributable to eligible activities associated with the project.
 
     (b) __State Participation.—__ 
 
-        (1) __Participating states.—__ 
+        (1)  __Participating states__  __.—__ 
 
         All States are eligible to participate in the program.
 
-        (2) __Application.—__ 
+        (2)  __Application__  __.—__ 
 
         Not later than 270 days after the date on which amendments to this section by the MAP-21 take effect, the Secretary shall amend, as appropriate, regulations that establish requirements relating to information required to be contained in any application of a State to participate in the program, including, at a minimum—
 
@@ -83,15 +83,15 @@
 
         (3) __Public notice.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Each State that submits an application under this subsection shall give notice of the intent of the State to participate in the program not later than 30 days before the date of submission of the application.
 
-            (B) __Method of notice and solicitation.—__ 
+            (B)  __Method of notice and solicitation__  __.—__ 
 
             The State shall provide notice and solicit public comment under this paragraph by publishing the complete application of the State in accordance with the appropriate public notice law of the State.
 
-        (4) __Selection criteria.—__ 
+        (4)  __Selection criteria__  __.—__ 
 
         The Secretary may approve the application of a State under this section only if—
 
@@ -101,11 +101,11 @@
 
             (C) the head of the State agency having primary jurisdiction over highway matters enters into a written agreement with the Secretary described in subsection (c).
 
-        (5) __Other federal agency views.—__ 
+        (5)  __Other federal agency views__  __.—__ 
 
         If a State applies to assume a responsibility of the Secretary that would have required the Secretary to consult with another Federal agency, the Secretary shall solicit the views of the Federal agency before approving the application.
 
-    (c) __Written Agreement.—__ 
+    (c)  __Written Agreement__  __.—__ 
 
     A written agreement under this section shall—
 
@@ -139,29 +139,29 @@
 
     (d) __Jurisdiction.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The United States district courts shall have exclusive jurisdiction over any civil action against a State for failure to carry out any responsibility of the State under this section.
 
-        (2) __Legal standards and requirements.—__ 
+        (2)  __Legal standards and requirements__  __.—__ 
 
         A civil action under paragraph (1) shall be governed by the legal standards and requirements that would apply in such a civil action against the Secretary had the Secretary taken the actions in question.
 
-        (3) __Intervention.—__ 
+        (3)  __Intervention__  __.—__ 
 
         The Secretary shall have the right to intervene in any action described in paragraph (1).
 
-    (e) __Effect of Assumption of Responsibility.—__ 
+    (e)  __Effect of Assumption of Responsibility__  __.—__ 
 
     A State that assumes responsibility under subsection (a)(2) shall be solely responsible and solely liable for carrying out, in lieu of the Secretary, the responsibilities assumed under subsection (a)(2), until the program is terminated as provided in subsection (j).
 
-    (f) __Limitations on Agreements.—__ 
+    (f)  __Limitations on Agreements__  __.—__ 
 
     Nothing in this section permits a State to assume any rulemaking authority of the Secretary under any Federal law.
 
     (g) __Audits.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         To ensure compliance by a State with any agreement of the State under subsection (c) (including compliance by the State with all Federal laws for which responsibility is assumed under subsection (a)(2)), for each State participating in the program under this section, the Secretary shall conduct—
 
@@ -171,25 +171,25 @@
 
         (2) __Public availability and comment.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             An audit conducted under paragraph (1) shall be provided to the public for comment.
 
-            (B) __Response.—__ 
+            (B)  __Response__  __.—__ 
 
             Not later than 60 days after the date on which the period for public comment ends, the Secretary shall respond to public comments received under subparagraph (A).
 
-    (h) __Monitoring.—__ 
+    (h)  __Monitoring__  __.—__ 
 
     After the fourth year of the participation of a State in the program, the Secretary shall monitor compliance by the State with the written agreement, including the provision by the State of financial resources to carry out the written agreement.
 
-    (i) __Report to Congress.—__ 
+    (i)  __Report to Congress__  __.—__ 
 
     The Secretary shall submit to Congress an annual report that describes the administration of the program.
 
-    (j) __Termination.—__ 
+    (j)  __Termination__  __.—__ 
 
-        (1) __Termination by the secretary.—__ 
+        (1)  __Termination by the secretary__  __.—__ 
 
         The Secretary may terminate the participation of any State in the program if—
 
@@ -205,7 +205,7 @@
 
             (C) the State, after the notification and period provided under subparagraph (B), fails to take satisfactory corrective action, as determined by the Secretary.
 
-        (2) __Termination by the state.—__ 
+        (2)  __Termination by the state__  __.—__ 
 
         The State may terminate the participation of the State in the program at any time by providing to the Secretary a notice by not later than the date that is 90 days before the date of termination, and subject to such terms and conditions as the Secretary may provide.
 

@@ -15,41 +15,41 @@
 
 ## § 217. Bicycle transportation and pedestrian walkways
 
-    (a) __Use of STP and Congestion Mitigation Program Funds.—__ 
+    (a)  __Use of STP and Congestion Mitigation Program Funds__  __.—__ 
 
     Subject to project approval by the Secretary, a State may obligate funds apportioned to it under sections 104(b)(2) and 104(b)(3)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title for construction of pedestrian walkways and bicycle transportation facilities and for carrying out nonconstruction projects related to safe bicycle use.
 
-    (b) __Use of National Highway Performance Program Funds.—__ 
+    (b)  __Use of National Highway Performance Program Funds__  __.—__ 
 
     Subject to project approval by the Secretary, a State may obligate funds apportioned to it under section 104(b)(1) 1 of this title for construction of pedestrian walkways and bicycle transportation facilities on land adjacent to any highway on the National Highway System.
 
-    (c) __Use of Federal Lands Highway Funds.—__ 
+    (c)  __Use of Federal Lands Highway Funds__  __.—__ 
 
     Funds authorized for forest highways, forest development roads and trails, public lands development roads and trails, park roads, parkways, Indian reservation roads, and public lands highways shall be available, at the discretion of the department charged with the administration of such funds, for the construction of pedestrian walkways and bicycle transportation facilities.
 
-    (d) __State Bicycle and Pedestrian Coordinators.—__ 
+    (d)  __State Bicycle and Pedestrian Coordinators__  __.—__ 
 
     Each State receiving an apportionment under sections 104(b)(2) and 104(b)(3) 1 of this title shall use such amount of the apportionment as may be necessary to fund in the State department of transportation a position of bicycle and pedestrian coordinator for promoting and facilitating the increased use of nonmotorized modes of transportation, including developing facilities for the use of pedestrians and bicyclists and public education, promotional, and safety programs for using such facilities.
 
-    (e) __Bridges.—__ 
+    (e)  __Bridges__  __.—__ 
 
     In any case where a highway bridge deck being replaced or rehabilitated with Federal financial participation is located on a highway on which bicycles are permitted to operate at each end of such bridge, and the Secretary determines that the safe accommodation of bicycles can be provided at reasonable cost as part of such replacement or rehabilitation, then such bridge shall be so replaced or rehabilitated as to provide such safe accommodations.
 
-    (f) __Federal Share.—__ 
+    (f)  __Federal Share__  __.—__ 
 
     For all purposes of this title, construction of a pedestrian walkway and a bicycle transportation facility shall be deemed to be a highway project and the Federal share payable on account of such construction shall be determined in accordance with section 120(b).
 
     (g) __Planning and Design.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Bicyclists and pedestrians shall be given due consideration in the comprehensive transportation plans developed by each metropolitan planning organization and State in accordance with sections 134 and 135, respectively. Bicycle transportation facilities and pedestrian walkways shall be considered, where appropriate, in conjunction with all new construction and reconstruction of transportation facilities, except where bicycle and pedestrian use are not permitted.
 
-        (2) __Safety considerations.—__ 
+        (2)  __Safety considerations__  __.—__ 
 
         Transportation plans and projects shall provide due consideration for safety and contiguous routes for bicyclists and pedestrians. Safety considerations shall include the installation, where appropriate, and maintenance of audible traffic signals and audible signs at street crossings.
 
-    (h) __Use of Motorized Vehicles.—__ 
+    (h)  __Use of Motorized Vehicles__  __.—__ 
 
     Motorized vehicles may not be permitted on trails and pedestrian walkways under this section, except for—
 
@@ -63,27 +63,27 @@
 
         (5) such other circumstances as the Secretary deems appropriate.
 
-    (i) __Transportation Purpose.—__ 
+    (i)  __Transportation Purpose__  __.—__ 
 
     No bicycle project may be carried out under this section unless the Secretary has determined that such bicycle project will be principally for transportation, rather than recreation, purposes.
 
-    (j) __Definitions.—__ 
+    (j)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Bicycle transportation facility.—__ 
+        (1)  __Bicycle transportation facility__  __.—__ 
 
         The term “bicycle transportation facility” means a new or improved lane, path, or shoulder for use by bicyclists and a traffic control device, shelter, or parking facility for bicycles.
 
-        (2) __Electric bicycle.—__ 
+        (2)  __Electric bicycle__  __.—__ 
 
         The term “electric bicycle” means any bicycle or tricycle with a low-powered electric motor weighing under 100 pounds, with a top motor-powered speed not in excess of 20 miles per hour.
 
-        (3) __Pedestrian.—__ 
+        (3)  __Pedestrian__  __.—__ 
 
         The term “pedestrian” means any person traveling by foot and any mobility-impaired person using a wheelchair.
 
-        (4) __Wheelchair.—__ 
+        (4)  __Wheelchair__  __.—__ 
 
         The term “wheelchair” means a mobility aid, usable indoors, and designed for and used by individuals with mobility impairments, whether operated manually or motorized.
 
@@ -151,7 +151,7 @@
 
 [Pub. L. 109–59, title I, § 1807][/us/pl/109/59/s1807], Aug. 10, 2005, [119 Stat. 1460][/us/stat/119/1460], as amended by [Pub. L. 110–244, title I, § 106][/us/pl/110/244/s106], June 6, 2008, [122 Stat. 1602][/us/stat/122/1602], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall establish and carry out a nonmotorized transportation pilot program to construct, in the following 4 communities selected by the Secretary, a network of nonmotorized transportation infrastructure facilities, including sidewalks, bicycle lanes, and pedestrian and bicycle trails, that connect directly with transit stations, schools, residences, businesses, recreation areas, and other community activity centers:
 
@@ -163,33 +163,33 @@
 
 >         “(4) Sheboygan County, Wisconsin.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of the program shall be to demonstrate the extent to which bicycling and walking can carry a significant part of the transportation load, and represent a major portion of the transportation solution, within selected communities.
 
->     “(c) __Grants.—__ 
+>     “(c)  __Grants__  __.—__ 
 
 >     In carrying out the program, the Secretary \[of Transportation\] may make a grant of $6,250,000 per fiscal year for each of the communities set forth in subsection (a) to State, local, and regional agencies that the Secretary determines are suitably equipped and organized to carry out the objectives and requirements of this section. An agency that receives a grant under this section may suballocate grant funds to a nonprofit organization to carry out the program under this section.
 
->     “(d) __Statistical Information.—__ 
+>     “(d)  __Statistical Information__  __.—__ 
 
 >     In carrying out the program, the Secretary \[of Transportation\] shall develop statistical information on changes in motor vehicle, nonmotorized transportation, and public transportation usage in communities participating in the program and assess how such changes decrease congestion and energy usage, increase the frequency of bicycling and walking, and promote better health and a cleaner environment.
 
->     “(e) __Reports.—__ 
+>     “(e)  __Reports__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall submit to Congress an interim report not later than September 30, 2007, and a final report not later than September 30, 2010, on the results of the program.
 
 >     “(f) __Funding.—__ 
 
->         “(1) __Authorization of appropriations.—__ 
+>         “(1)  __Authorization of appropriations__  __.—__ 
 
 >         There is authorized to be appropriated to carry out this section, out of the Highway Trust Fund (other than the Mass Transit Account), $25,000,000 for each of fiscal years 2006 through 2009.
 
->         “(2) __Contract authority.—__ 
+>         “(2)  __Contract authority__  __.—__ 
 
 >         Funds authorized to be appropriated by this section shall be available for obligation in the same manner and to the same extent as if the funds were apportioned under chapter 1 of title 23, United States Code; except that the Federal share of the cost of the project shall be 100 percent, and the funds shall remain available until expended and shall not be transferable.
 
->     “(g) __Treatment of Projects.—__ 
+>     “(g)  __Treatment of Projects__  __.—__ 
 
 >     Notwithstanding any other provision of law, projects assisted under this subsection shall be treated as projects on a Federal-aid system under chapter 1 of title 23, United States Code.”
 
@@ -197,19 +197,19 @@
 
 [Pub. L. 105–178, title I, § 1202(b)][/us/pl/105/178/s1202/b], June 9, 1998, [112 Stat. 169][/us/stat/112/169], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     In implementing [section 217(g) of title 23][/us/usc/t23/s217/g], United States Code, the Secretary, in cooperation with the American Association of State Highway and Transportation Officials, the Institute of Transportation Engineers, and other interested organizations, shall develop guidance on the various approaches to accommodating bicycles and pedestrian travel.
 
->     “(2) __Issues to be addressed.—__ 
+>     “(2)  __Issues to be addressed__  __.—__ 
 
 >     The guidance shall address issues such as the level and nature of the demand, volume, and speed of motor vehicle traffic, safety, terrain, cost, and sight distance.
 
->     “(3) __Recommendations.—__ 
+>     “(3)  __Recommendations__  __.—__ 
 
 >     The guidance shall include recommendations on amending and updating the policies of the American Association of State Highway and Transportation Officials relating to highway and street design standards to accommodate bicyclists and pedestrians.
 
->     “(4) __Time period for development.—__ 
+>     “(4)  __Time period for development__  __.—__ 
 
 >     The guidance shall be developed within 18 months after the date of enactment of this Act \[June 9, 1998\].”
 

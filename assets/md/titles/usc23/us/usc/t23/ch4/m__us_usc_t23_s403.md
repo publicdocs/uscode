@@ -15,7 +15,7 @@
 
 ## § 403. Highway safety research and development
 
-    (a) __Defined Term.—__ 
+    (a)  __Defined Term__  __.—__ 
 
     In this section, the term “Federal laboratory” includes—
 
@@ -23,9 +23,9 @@
 
         (2) a government-owned, contractor-operated laboratory.
 
-    (b) __General Authority.—__ 
+    (b)  __General Authority__  __.—__ 
 
-        (1) __Research and development activities.—__ 
+        (1)  __Research and development activities__  __.—__ 
 
         The Secretary may conduct research and development activities, including demonstration projects and the collection and analysis of highway and motor vehicle safety data and related information needed to carry out this section, with respect to—
 
@@ -59,7 +59,7 @@
 
             (F) the effect of State laws on any aspects, activities, or programs described in subparagraphs (A) through (E).
 
-        (2) __Cooperation, grants, and contracts.—__ 
+        (2)  __Cooperation, grants, and contracts__  __.—__ 
 
         The Secretary may carry out this section—
 
@@ -71,9 +71,9 @@
 
             (D) by making grants to the National Academy of Sciences, any Federal laboratory, State or local agency, authority, association, institution, or person (as defined in chapter 1 of title 1).
 
-    (c) __Collaborative Research and Development.—__ 
+    (c)  __Collaborative Research and Development__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         To encourage innovative solutions to highway safety problems, stimulate voluntary improvements in highway safety, and stimulate the marketing of new highway safety related technology by private industry, the Secretary is authorized to carry out, on a cost-shared basis, collaborative research and development with—
 
@@ -81,29 +81,29 @@
 
             (B) Federal laboratories.
 
-        (2) __Agreements.—__ 
+        (2)  __Agreements__  __.—__ 
 
         In carrying out this subsection, the Secretary may enter into cooperative research and development agreements (as defined in section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a][/us/usc/t15/s3710a])) in which the Secretary provides not more than 50 percent of the cost of any research or development project under this subsection.
 
-        (3) __Use of technology.—__ 
+        (3)  __Use of technology__  __.—__ 
 
         The research, development, or use of any technology pursuant to an agreement under this subsection, including the terms under which technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3701][/us/usc/t15/s3701] et seq.).
 
-    (d) __Title to Equipment.—__ 
+    (d)  __Title to Equipment__  __.—__ 
 
     In furtherance of the purposes set forth in section 402, the Secretary may vest title to equipment purchased for demonstration projects with funds authorized under this section to State or local agencies on such terms and conditions as the Secretary determines to be appropriate.
 
-    (e) __Prohibition on Certain Disclosures.—__ 
+    (e)  __Prohibition on Certain Disclosures__  __.—__ 
 
     Any report of the National Highway Traffic Safety Administration, or of any officer, employee, or contractor of the National Highway Traffic Safety Administration, relating to any highway traffic accident or the investigation of such accident conducted pursuant to this chapter or chapter 301 may only be made available to the public in a manner that does not identify individuals.
 
-    (f) __Cooperative Research and Evaluation.—__ 
+    (f)  __Cooperative Research and Evaluation__  __.—__ 
 
-        (1) __Establishment and funding.—__ 
+        (1)  __Establishment and funding__  __.—__ 
 
-        Notwithstanding the apportionment formula set forth in section 402(c)(2), $2,500,000 of the total amount available for apportionment to the States for highway safety programs under subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  402(c) in each fiscal year shall be available for expenditure by the Secretary, acting through the Administrator of the National Highway Traffic Safety Administration, for a cooperative research and evaluation program to research and evaluate priority highway safety countermeasures.
+        Notwithstanding the apportionment formula set forth in section 402(c)(2), $2,500,000 of the total amount available for apportionment to the States for highway safety programs under subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  402(c) in each fiscal year ending before October 1, 2014, and $1,664,384 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available for expenditure by the Secretary, acting through the Administrator of the National Highway Traffic Safety Administration, for a cooperative research and evaluation program to research and evaluate priority highway safety countermeasures.
 
-        (2) __Administration.—__ 
+        (2)  __Administration__  __.—__ 
 
         The program established under paragraph (1)—
 
@@ -111,25 +111,25 @@
 
             (B) shall be jointly managed by the Governors Highway Safety Association and the National Highway Traffic Safety Administration.
 
-    (g) __International Cooperation.—__ 
+    (g)  __International Cooperation__  __.—__ 
 
     The Administrator of the National Highway Traffic Safety Administration may participate and cooperate in international activities to enhance highway safety.
 
-    (h) __In-vehicle Alcohol Detection Device Research.—__ 
+    (h)  __In-vehicle Alcohol Detection Device Research__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator of the National Highway Traffic Safety Administration may carry out a collaborative research effort under chapter 301 of title 49 on in-vehicle technology to prevent alcohol-impaired driving.
 
-        (2) __Funding.—__ 
+        (2)  __Funding__  __.—__ 
 
         Funds provided under section 405 may be made to be used by the Secretary to conduct the research described in paragraph (1).
 
-        (3) __Privacy protection.—__ 
+        (3)  __Privacy protection__  __.—__ 
 
         If the Administrator utilizes the authority under paragraph (1), the Administrator shall not develop requirements for any device or means of technology to be installed in an automobile intended for retail sale that records a driver’s blood alcohol concentration.
 
-        (4) __Reports.—__ 
+        (4)  __Reports__  __.—__ 
 
         If the Administrator conducts the research authorized under paragraph (1), the Administrator shall submit an annual report to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and Committee on Science, Space, and Technology of the House of Representatives that—
 
@@ -137,25 +137,27 @@
 
             (B) includes an accounting for the use of Federal funds obligated or expended in carrying out that effort.
 
-        (5) __Definitions.—__ 
+        (5)  __Definitions__  __.—__ 
 
         In this subsection:
 
-            (A) __Alcohol-impaired driving.—__ 
+            (A)  __Alcohol-impaired driving__  __.—__ 
 
             The term “alcohol-impaired driving” means the operation of a motor vehicle (as defined in [section 30102(a)(6) of title 49][/us/usc/t49/s30102/a/6]) by an individual whose blood alcohol content is at or above the legal limit.
 
-            (B) __Legal limit.—__ 
+            (B)  __Legal limit__  __.—__ 
 
             The term “legal limit” means a blood alcohol concentration of 0.08 percent or greater (as set forth in section 163(a)) or such other percentage limitation as may be established by applicable Federal, State, or local law.
 
-(Added [Pub. L. 89–564, title I, § 101][/us/pl/89/564/s101], Sept. 9, 1966, [80 Stat. 733][/us/stat/80/733]; amended [Pub. L. 93–87, title II][/us/pl/93/87], §§ 208(a), 220–222, 226(a), Aug. 13, 1973, [87 Stat. 286][/us/stat/87/286], 291, 292; [Pub. L. 102–240, title II, § 2003][/us/pl/102/240/s2003], Dec. 18, 1991, [105 Stat. 2071][/us/stat/105/2071]; [Pub. L. 105–178, title II, § 2002(a)][/us/pl/105/178/s2002/a], (b)(1), June 9, 1998, [112 Stat. 325][/us/stat/112/325]; [Pub. L. 109–59, title II][/us/pl/109/59], §§ 2003(a), (b), 2013(e), Aug. 10, 2005, [119 Stat. 1522][/us/stat/119/1522], 1540; [Pub. L. 112–141, div. C, title I, § 31103][/us/pl/112/141/s31103], July 6, 2012, [126 Stat. 739][/us/stat/126/739].)
+(Added [Pub. L. 89–564, title I, § 101][/us/pl/89/564/s101], Sept. 9, 1966, [80 Stat. 733][/us/stat/80/733]; amended [Pub. L. 93–87, title II][/us/pl/93/87], §§ 208(a), 220–222, 226(a), Aug. 13, 1973, [87 Stat. 286][/us/stat/87/286], 291, 292; [Pub. L. 102–240, title II, § 2003][/us/pl/102/240/s2003], Dec. 18, 1991, [105 Stat. 2071][/us/stat/105/2071]; [Pub. L. 105–178, title II, § 2002(a)][/us/pl/105/178/s2002/a], (b)(1), June 9, 1998, [112 Stat. 325][/us/stat/112/325]; [Pub. L. 109–59, title II][/us/pl/109/59], §§ 2003(a), (b), 2013(e), Aug. 10, 2005, [119 Stat. 1522][/us/stat/119/1522], 1540; [Pub. L. 112–141, div. C, title I, § 31103][/us/pl/112/141/s31103], July 6, 2012, [126 Stat. 739][/us/stat/126/739]; [Pub. L. 113–159, title I, § 1101(b)][/us/pl/113/159/s1101/b], Aug. 8, 2014, [128 Stat. 1843][/us/stat/128/1843].)
 
  __References in Text__ 
 
     The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(3), is [Pub. L. 96–480][/us/pl/96/480], Oct. 21, 1980, [94 Stat. 2311][/us/stat/94/2311], which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15][/us/usc/t15/s3701] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (f)(1). [Pub. L. 113–159][/us/pl/113/159] inserted “ending before October 1, 2014, and $1,664,384 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on May 31, 2015,” after “each fiscal year”.
 
     2012—Subsecs. (a) to (f). [Pub. L. 112–141, § 31103(1)][/us/pl/112/141/s31103/1], added subsecs. (a) to (f) and struck out former subsecs. (a) to (f) which related to authority of the Secretary generally, drugs and driver behavior, authority of Secretary to conduct research through grants and contracts with public and private agencies, institutions, and individuals, authority of Secretary to vest title to equipment purchased for demonstration projects in State and local agencies, authority of Secretary relating to projects to demonstrate the administrative adjudication of traffic infractions, and collaborative research and development, respectively.
 
@@ -219,19 +221,19 @@
 
 [Pub. L. 105–178, title II, § 2007][/us/pl/105/178/s2007], June 9, 1998, [112 Stat. 336][/us/stat/112/336], provided that:
 
->     “(a) __Blowout Resistant Tires Study.—__ 
+>     “(a)  __Blowout Resistant Tires Study__  __.—__ 
 
 >     The Secretary shall conduct a study on the benefit to public safety of the use of blowout resistant tires on commercial motor vehicles and the potential to decrease the incidence of accidents and fatalities from accidents occurring as a result of blown out tires.
 
->     “(b) __School Bus Occupant Safety Study.—__ 
+>     “(b)  __School Bus Occupant Safety Study__  __.—__ 
 
 >     The Secretary shall conduct a study to assess occupant safety in school buses. The study shall examine available information about occupant safety and analyze options for improving occupant safety.
 
->     “(c) __Reports.—__ 
+>     “(c)  __Reports__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the results of each study conducted under this section.
 
->     “(d) __Limitation on Funding.—__ 
+>     “(d)  __Limitation on Funding__  __.—__ 
 
 >     The Secretary may not expend more than $200,000 from funds made available by [section 403 of title 23][/us/usc/t23/s403], United States Code, for conducting each study under this section.”
 
@@ -239,11 +241,11 @@
 
 [Pub. L. 105–178, title IV, § 4030][/us/pl/105/178/s4030], June 9, 1998, [112 Stat. 418][/us/stat/112/418], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     Not later than 3 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall offer to enter into an agreement with the Transportation Research Board of the National Academy of Sciences to conduct, subject to the availability of appropriations, a study of the safety issues attendant to the transportation of school children to and from school and school-related activities by various transportation modes.
 
->     “(b) __Terms of Agreement.—__ 
+>     “(b)  __Terms of Agreement__  __.—__ 
 
 >     The agreement under subsection (a) shall provide that—
 
@@ -281,11 +283,11 @@
 
 >             “(C) other interested parties.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 12 months after the Secretary enters into an agreement under subsection (a), the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that contains the results of the study.
 
->     “(d) __Authorization.—__ 
+>     “(d)  __Authorization__  __.—__ 
 
 >     There are authorized to be appropriated to the Department of Transportation to carry out this section $200,000 for fiscal year 2000 and $200,000 for fiscal year 2001. Such sums shall remain available until expended.”
 
@@ -293,19 +295,19 @@
 
 [Pub. L. 102–240, title II, § 2006][/us/pl/102/240/s2006], Dec. 18, 1991, [105 Stat. 2079][/us/stat/105/2079], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary, acting through the National Highway Traffic Safety Administration, shall establish a regional program for implementation of drug recognition programs and for training law enforcement officers (including enforcement officials under the motor carrier safety assistance program) to recognize and identify individuals who are operating a motor vehicle while under the influence of alcohol or one or more controlled substances or other drugs.
 
->     “(b) __Advisory Committee.—__ 
+>     “(b)  __Advisory Committee__  __.—__ 
 
 >     The Secretary shall establish a citizens advisory committee that shall report to Congress annually on the progress of the implementation of subsection (a). Members of the committee shall include 1 member of each of the following: Mothers Against Drunk Driving; a narcotics control organization; American Medical Association; American Bar Association; and such other organizations as the Secretary deems appropriate. The committee shall be subject to the provisions of the \[Federal\] Advisory Committee Act \[5 U.S.C. App.\] and shall terminate 2 years after the date of the enactment of this Act \[Dec. 18, 1991\].
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $4,000,000 for each of fiscal years 1992 through 1997.
 
->     “(d) __Definition.—__ 
+>     “(d)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘controlled substance’ means any controlled substance, as defined under section 102(6) of the Controlled Substances Act ([21 U.S.C. 802(6)][/us/usc/t21/s802/6]), whose use the Secretary has determined poses a risk to transportation safety.”
 
@@ -313,15 +315,15 @@
 
 [Pub. L. 100–690, title IX, § 9004][/us/pl/100/690/s9004], Nov. 18, 1988, [102 Stat. 4525][/us/stat/102/4525], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary of Transportation, acting through the National Highway Traffic Safety Administration, shall establish a 3-year pilot, regional program for training law enforcement officers to recognize and identify individuals who are operating a motor vehicle while under the influence of alcohol or 1 or more controlled substances or other drugs.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 1 year after the completion of the pilot program under this section, the Secretary of Transportation shall transmit to Congress a report on the effectiveness of such pilot program together with any recommendations.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this section $5,000,000 for fiscal year 1989, $7,000,000 for fiscal year 1990, and $9,000,000 for fiscal year 1991. Such sums shall remain available until expended.”
 
@@ -329,15 +331,15 @@
 
 [Pub. L. 100–690, title IX, § 9005][/us/pl/100/690/s9005], Nov. 18, 1988, [102 Stat. 4526][/us/stat/102/4526], provided that:
 
->     “(a) __Establishment of Pilot Program.—__ 
+>     “(a)  __Establishment of Pilot Program__  __.—__ 
 
 >     The Secretary shall design, within 9 months after the date of the enactment of this Act \[Nov. 18, 1988\], and implement, within 15 months after the date of the enactment of this Act, a pilot State grant program for the purpose of testing individuals described in subsection (e)(1) to determine whether such individuals have used, without lawful authorization, a controlled substance.
 
->     “(b) __State Participation.—__ 
+>     “(b)  __State Participation__  __.—__ 
 
 >     The Secretary shall solicit the participation of States from those States interested in participating in such a program not more than 4 States to participate in the program.
 
->     “(c) __State Selection Process.—__ 
+>     “(c)  __State Selection Process__  __.—__ 
 
 >     The Secretary shall ensure that the selection made pursuant to this section is representative of varying geographical and population characteristics of the Nation, and takes into consideration the historical geographical incidence of motor vehicle accidents involving loss of human life. In selecting the States for participation, the Secretary shall attempt to solicit States which meet the following criteria:
 
@@ -349,13 +351,13 @@
 
 >         “(4) One of the remaining States should have less than average drug use according to reliable surveys.
 
->     “(d) __Length of Program.—__ 
+>     “(d)  __Length of Program__  __.—__ 
 
 >     The pilot program authorized by this section shall continue for a period of 1 year. The Secretary shall consider alternative methodologies for implementing a system of random testing of such individuals.
 
 >     “(e) __Requirements for State Participation.—__ 
 
->         “(1) __Persons to be tested.—__ 
+>         “(1)  __Persons to be tested__  __.—__ 
 
 >         Each State participating in the test program shall test for controlled substances in accordance with paragraph (2) individuals who—
 
@@ -363,7 +365,7 @@
 
 >             “(B) have never been issued a driver’s license by any State.
 
->         “(2) __Types of testing.—__ 
+>         “(2)  __Types of testing__  __.—__ 
 
 >         To deter drug use and promote highway safety, all individuals described in paragraph (1) shall be subject to random testing—
 
@@ -371,39 +373,39 @@
 
 >             “(B) during the first year following the date of issuance of such licenses.
 
->         “(3) __Denial of driving privileges.—__ 
+>         “(3)  __Denial of driving privileges__  __.—__ 
 
 >         Each State participating in the test program shall deny an individual driving privileges if drug testing required by paragraph (1) indicates that such individual has used illicit drugs, with such denial lasting for a period of at least 1 year following such test or subsequent confirmatory test.
 
->         “(4) __Reinstitution of driving privileges.—__ 
+>         “(4)  __Reinstitution of driving privileges__  __.—__ 
 
 >         The program described in paragraph (3) may allow for reinstitution of driving privileges after a period of 3 months if such reinstitution is accompanied by a requirement that the individual be available for a period of 9 months for drug testing on a regular basis. If any such test indicates that the individual has used illicit drugs, then driving privileges must be denied for 1 year following such test or confirmatory test.
 
->     “(f) __Regulations.—__ 
+>     “(f)  __Regulations__  __.—__ 
 
 >     The Secretary may issue regulations to assist States in implementing the programs described in subsection (e) and to grant temporary exceptions in appropriate circumstances.
 
->     “(g) __Report.—__ 
+>     “(g)  __Report__  __.—__ 
 
 >     Not later than 30 months after the date of the enactment of this Act \[Nov. 18, 1988\], the Secretary shall prepare and transmit to Congress a comprehensive report setting forth the results of the pilot program conducted under this section. Such report shall include any recommendations of the Secretary concerning the desirability and implementation of a system for random testing of such operators of motor vehicles.
 
->     “(h) __Authorization of Appropriations.—__ 
+>     “(h)  __Authorization of Appropriations__  __.—__ 
 
 >     For purposes of carrying out this test program, there is authorized to be appropriated $5,000,000 for fiscal year 1990.
 
->     “(i) __Definitions.—__ 
+>     “(i)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Controlled substance.—__ 
+>         “(1)  __Controlled substance__  __.—__ 
 
 >         The term ‘controlled substance’ means any controlled substance as defined under section 102(6) of the Controlled Substance Act ([21 U.S.C. 802(6)][/us/usc/t21/s802/6]) whose use the Secretary has determined poses a risk to transportation safety.
 
->         “(2) __Secretary.—__ 
+>         “(2)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of Transportation.
 
->         “(3) __State.—__ 
+>         “(3)  __State__  __.—__ 
 
 >         The term ‘State’ has the meaning such term has when used in chapter 1 of title 23, United States Code.”
 
@@ -461,9 +463,12 @@
 [/us/stat/119/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1522
 [/us/pl/112/141/s31103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31103
 [/us/stat/126/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F739
+[/us/pl/113/159/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs1101%2Fb
+[/us/stat/128/1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1843
 [/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2311
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
+[/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
 [/us/pl/112/141/s31103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31103%2F1
 [/us/pl/112/141/s31103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31103%2F2
 [/us/pl/109/59/s2003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs2003%2Fa

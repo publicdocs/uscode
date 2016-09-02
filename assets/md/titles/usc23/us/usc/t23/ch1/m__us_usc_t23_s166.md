@@ -17,37 +17,37 @@
 
     (a) __In General.—__ 
 
-        (1) __Authority of state agencies.—__ 
+        (1)  __Authority of state agencies__  __.—__ 
 
         A State agency that has jurisdiction over the operation of a HOV facility shall establish the occupancy requirements of vehicles operating on the facility.
 
-        (2) __Occupancy requirement.—__ 
+        (2)  __Occupancy requirement__  __.—__ 
 
         Except as otherwise provided by this section, no fewer than two occupants per vehicle may be required for use of a HOV facility.
 
     (b) __Exceptions.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Notwithstanding the occupancy requirement of subsection (a)(2), the exceptions in paragraphs (2) through (5) shall apply with respect to a State agency operating a HOV facility.
 
         (2) __Motorcycles and bicycles.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraph (B), the State agency shall allow motorcycles and bicycles to use the HOV facility.
 
-            (B) __Safety exception.—__ 
+            (B)  __Safety exception__  __.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 A State agency may restrict use of the HOV facility by motorcycles or bicycles (or both) if the agency certifies to the Secretary that such use would create a safety hazard and the Secretary accepts the certification.
 
-                (ii) __Acceptance of certification.—__ 
+                (ii)  __Acceptance of certification__  __.—__ 
 
                 The Secretary may accept a certification under this subparagraph only after the Secretary publishes notice of the certification in the Federal Register and provides an opportunity for public comment.
 
-        (3) __Public transportation vehicles.—__ 
+        (3)  __Public transportation vehicles__  __.—__ 
 
         The State agency may allow public transportation vehicles to use the HOV facility if the agency—
 
@@ -55,7 +55,7 @@
 
             (B) establishes procedures for enforcing the restrictions on the use of the facility by the vehicles.
 
-        (4) __High occupancy toll vehicles.—__ 
+        (4)  __High occupancy toll vehicles__  __.—__ 
 
         The State agency may allow vehicles not otherwise exempt pursuant to this subsection to use the HOV facility if the operators of the vehicles pay a toll charged by the agency for use of the facility and the agency—
 
@@ -73,11 +73,11 @@
 
         (5) __Low emission and energy-efficient vehicles.—__ 
 
-            (A) __Inherently low emission vehicle.—__ 
+            (A)  __Inherently low emission vehicle__  __.—__ 
 
             Before September 30, 2017, the State agency may allow vehicles that are certified as inherently low-emission vehicles pursuant to section 88.311–93 of title 40, Code of Federal Regulations (or successor regulations), and are labeled in accordance with section 88.312–93 of such title (or successor regulations), to use the HOV facility if the agency establishes procedures for enforcing the restrictions on the use of the facility by the vehicles.
 
-            (B) __Other low emission and energy-efficient vehicles.—__ 
+            (B)  __Other low emission and energy-efficient vehicles__  __.—__ 
 
             Before September 30, 2017, the State agency may allow vehicles certified as low emission and energy-efficient vehicles under subsection (e), and labeled in accordance with subsection (e), to use the HOV facility if the operators of the vehicles pay a toll charged by the agency for use of the facility and the agency—
 
@@ -85,27 +85,27 @@
 
                 (ii) establishes procedures for enforcing the restrictions on the use of the facility by the vehicles.
 
-            (C) __Amount of tolls.—__ 
+            (C)  __Amount of tolls__  __.—__ 
 
             Under this paragraph, a State agency may charge no toll or may charge a toll that is less than or equal to tolls charged under paragraph (4).
 
     (c) __Requirements Applicable to Tolls.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Tolls may be charged under paragraphs (4) and (5) of subsection (b) notwithstanding section 301 and, except as provided in paragraphs (2) and (3), subject to the requirements of section 129.
 
-        (2) __HOV facilities on the interstate system.—__ 
+        (2) __HOV__  __facilities on the interstate system__  __.—__ 
 
         Notwithstanding section 129, tolls may be charged under paragraphs (4) and (5) of subsection (b) on a HOV facility on the Interstate System.
 
-        (3) __Toll revenue.—__ 
+        (3)  __Toll revenue__  __.—__ 
 
         Toll revenue collected under this section is subject to the requirements of section 129(a)(3).
 
     (d) __HOV Facility Management, Operation, Monitoring, and Enforcement.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A State agency that allows vehicles to use a HOV facility under paragraph (4) or (5) of subsection (b) shall submit to the Secretary a report demonstrating that the facility is not already degraded, and that the presence of the vehicles will not cause the facility to become degraded, and certify to the Secretary that the agency will carry out the following responsibilities with respect to the facility:
 
@@ -115,7 +115,7 @@
 
             (C) Limiting or discontinuing the use of the facility by the vehicles whenever the operation of the facility is degraded.
 
-            (D) __Maintenance of operating performance.—__ 
+            (D)  __Maintenance of operating performance__  __.—__ 
 
             Not later than 180 days after the date on which a facility is degraded pursuant to the standard specified in paragraph (2), the State agency with jurisdiction over the facility shall bring the facility into compliance with the minimum average operating speed performance standard through changes to operation of the facility, including—
 
@@ -127,13 +127,13 @@
 
                 (iv) increasing the available capacity of the HOV facility.
 
-            (E) __Compliance.—__ 
+            (E)  __Compliance__  __.—__ 
 
             If the State fails to bring a facility into compliance under subparagraph (D), the Secretary shall subject the State to appropriate program sanctions under section 1.36 of title 23, Code of Federal Regulations (or successor regulations), until the performance is no longer degraded.
 
         (2) __Degraded facility.—__ 
 
-            (A) __Definition of minimum average operating speed.—__ 
+            (A)  __Definition of minimum average operating speed__  __.—__ 
 
             In this paragraph, the term “minimum average operating speed” means—
 
@@ -141,15 +141,15 @@
 
                 (ii) not more than 10 miles per hour below the speed limit, in the case of a HOV facility with a speed limit of less than 50 miles per hour.
 
-            (B) __Standard for determining degraded facility.—__ 
+            (B)  __Standard for determining degraded facility__  __.—__ 
 
             For purposes of paragraph (1), the operation of a HOV facility shall be considered to be degraded if vehicles operating on the facility are failing to maintain a minimum average operating speed 90 percent of the time over a consecutive 180-day period during morning or evening weekday peak hour periods (or both).
 
-            (C) __Management of low emission and energy-efficient vehicles.—__ 
+            (C)  __Management of low emission and energy-efficient vehicles__  __.—__ 
 
             In managing the use of HOV lanes by low emission and energy-efficient vehicles that do not meet applicable occupancy requirements, a State agency may increase the percentages described in subsection (f)(3)(B)(i).
 
-    (e) __Certification of Low Emission and Energy-Efficient Vehicles.—__ 
+    (e)  __Certification of Low Emission and Energy-Efficient Vehicles__  __.—__ 
 
     Not later than 180 days after the date of enactment of this section, the Administrator of the Environmental Protection Agency shall—
 
@@ -157,11 +157,11 @@
 
         (2) establish guidelines and procedures for making the vehicle comparisons and performance calculations described in subsection (f)(3)(B), in accordance with [section 32908(b) of title 49][/us/usc/t49/s32908/b].
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Alternative fuel vehicle.—__ 
+        (1)  __Alternative fuel vehicle__  __.—__ 
 
         The term “alternative fuel vehicle” means a vehicle that is operating on—
 
@@ -183,11 +183,11 @@
 
             (I) any other fuel that the Secretary prescribes by regulation that is not substantially petroleum and that would yield substantial energy security and environmental benefits, including fuels regulated under [section 490 of title 10][/us/usc/t10/s490], Code of Federal Regulations (or successor regulations).
 
-        (2) __HOV facility.—__ 
+        (2) __HOV__  __facility__  __.—__ 
 
         The term “HOV facility” means a high occupancy vehicle facility.
 
-        (3) __Low emission and energy-efficient vehicle.—__ 
+        (3)  __Low emission and energy-efficient vehicle__  __.—__ 
 
         The term “low emission and energy-efficient vehicle” means a vehicle that—
 
@@ -199,7 +199,7 @@
 
                 (ii) is an alternative fuel vehicle.
 
-        (4) __Public transportation vehicle.—__ 
+        (4)  __Public transportation vehicle__  __.—__ 
 
         The term “public transportation vehicle” means a vehicle that—
 
@@ -215,11 +215,11 @@
 
         (5) __State agency.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The term “State agency”, as used with respect to a HOV facility, means an agency of a State or local government having jurisdiction over the operation of the facility.
 
-            (B) __Inclusion.—__ 
+            (B)  __Inclusion__  __.—__ 
 
             The term “State agency” includes a State transportation department.
 

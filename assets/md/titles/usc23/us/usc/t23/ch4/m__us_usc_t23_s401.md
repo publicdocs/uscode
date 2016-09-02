@@ -91,17 +91,17 @@
 
 [Pub. L. 109–59, title I, § 1119(n)][/us/pl/109/59/s1119/n], Aug. 10, 2005, [119 Stat. 1190][/us/stat/119/1190], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall conduct a study of methods to reduce collisions between motor vehicles and wildlife (in this subsection referred to as ‘wildlife vehicle collisions’).
 
 >     “(2) __Contents.—__ 
 
->         “(A) __Areas of study.—__ 
+>         “(A)  __Areas of study__  __.—__ 
 
 >         The study shall include an assessment of the causes and impacts of wildlife vehicle collisions and solutions and best practices for reducing such collisions.
 
->         “(B) __Methods for conducting the study.—__ 
+>         “(B)  __Methods for conducting the study__  __.—__ 
 
 >         In carrying out the study, the Secretary shall—
 
@@ -109,17 +109,17 @@
 
 >             “(ii) survey current practices of the Department of Transportation.
 
->     “(3) __Consultation.—__ 
+>     “(3)  __Consultation__  __.—__ 
 
 >     In carrying out the study, the Secretary shall consult with appropriate experts in the field of wildlife vehicle collisions.
 
 >     “(4) __Report.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Not later than 2 years after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary shall submit to Congress a report on the results of the study.
 
->         “(B) __Contents.—__ 
+>         “(B)  __Contents__  __.—__ 
 
 >         The report shall include a description of each of the following:
 
@@ -131,15 +131,15 @@
 
 >     “(5) __Manual.—__ 
 
->         “(A) __Development.—__ 
+>         “(A)  __Development__  __.—__ 
 
 >         Based upon the results of the study, the Secretary shall develop a best practices manual to support State efforts to reduce wildlife vehicle collisions.
 
->         “(B) __Availability.—__ 
+>         “(B)  __Availability__  __.—__ 
 
 >         The manual shall be made available to States not later than 1 year after the date of transmission of the report under paragraph (4).
 
->         “(C) __Contents.—__ 
+>         “(C)  __Contents__  __.—__ 
 
 >         The manual shall include, at a minimum, the following:
 
@@ -151,7 +151,7 @@
 
 >             “(iv) Guidance for developing a State action plan to address wildlife vehicle collisions.
 
->     “(6) __Training.—__ 
+>     “(6)  __Training__  __.—__ 
 
 >     Based upon the manual developed under paragraph (5), the Secretary shall develop a training course on addressing wildlife vehicle collisions for transportation professionals.”
 
@@ -165,15 +165,15 @@
 
 [Pub. L. 109–59, title I, § 1405][/us/pl/109/59/s1405], Aug. 10, 2005, [119 Stat. 1230][/us/stat/119/1230], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall carry out a program to improve traffic signs and pavement markings in all States (as such term is defined in [section 101 of title 23][/us/usc/t23/s101], United States Code) in a manner consistent with the recommendations included in the publication of the Federal Highway Administration entitled ‘Guidelines and Recommendations to Accommodate Older Drivers and Pedestrians (FHWA–RD–01–103)’ and dated October 2001.
 
->     “(b) __Federal Share.—__ 
+>     “(b)  __Federal Share__  __.—__ 
 
 >     The Federal share of the cost of a project carried out under this section shall be determined in accordance with [section 120 of title 23][/us/usc/t23/s120], United States Code.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2005 through 2009.”
 
@@ -181,11 +181,11 @@
 
 [Pub. L. 109–59, title I, § 1409(a)][/us/pl/109/59/s1409/a]–(c), Aug. 10, 2005, [119 Stat. 1232][/us/stat/119/1232], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall establish and implement a work zone safety grant program under which the Secretary may make grants to nonprofit organizations and not-for-profit organizations to provide training to prevent or reduce highway work zone injuries and fatalities.
 
->     “(b) __Eligible Activities.—__ 
+>     “(b)  __Eligible Activities__  __.—__ 
 
 >     Grants may be made under the program for the following purposes:
 
@@ -197,11 +197,11 @@
 
 >     “(c) __Funding.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $5,000,000 for each of fiscal years 2006 through 2009.
 
->         “(2) __Contract authority.—__ 
+>         “(2)  __Contract authority__  __.—__ 
 
 >         Funds authorized by this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code; except that such funds shall not be transferable.”
 
@@ -223,11 +223,11 @@
 
 [Pub. L. 105–178, title I, § 1213(c)][/us/pl/105/178/s1213/c], June 9, 1998, [112 Stat. 200][/us/stat/112/200], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     In consultation with the States, State transportation departments, and law enforcement organizations, the Secretary shall conduct a study on the extent and effectiveness of use by States of uniformed police officers on Federal-aid highway construction projects.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall submit to Congress a report on the results of the study, including any legislative and administrative recommendations of the Secretary.”
 
@@ -235,11 +235,11 @@
 
 [Pub. L. 104–59, title III, § 358(c)][/us/pl/104/59/s358/c], Nov. 28, 1995, [109 Stat. 625][/us/stat/109/625], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Secretary, in consultation with the Federal Communications Commission and the National Telecommunications and Information Administration, shall conduct a study to develop and evaluate radio and microwave technology for a motor vehicle safety warning system in furtherance of safety in all types of motor vehicles.
 
->     “(2) __Equipment.—__ 
+>     “(2)  __Equipment__  __.—__ 
 
 >     Equipment developed under the study shall be directed toward, but not limited to, advance warning to operators of all types of motor vehicles of—
 
@@ -249,7 +249,7 @@
 
 >         “(C) movement of emergency vehicles.
 
->     “(3) __Safety applications.—__ 
+>     “(3)  __Safety applications__  __.—__ 
 
 >     In conducting the study, the Secretary shall determine whether the technology described in this subsection has other appropriate safety applications.”
 
@@ -257,15 +257,15 @@
 
 [Pub. L. 109–59, title I, § 1410][/us/pl/109/59/s1410], Aug. 10, 2005, [119 Stat. 1233][/us/stat/119/1233], provided that:
 
->     “(a) __Grants.—__ 
+>     “(a)  __Grants__  __.—__ 
 
 >     The Secretary \[of Transportation\] shall make grants for fiscal years 2006 through 2009 to a national nonprofit foundation for the operation of the National Work Zone Safety Information Clearinghouse, authorized by [section 358(b)(2) of Public Law 104–59][/us/pl/104/59/s358/b/2] \[set out below\], created for the purpose of assembling and disseminating, by electronic and other means, information relating to improvement of roadway work zone safety.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $1,000,000 for each of fiscal years 2006 through 2009.
 
->     “(c) __Contract Authority.—__ 
+>     “(c)  __Contract Authority__  __.—__ 
 
 >     Funds authorized by this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code, except the Federal share of the cost of activities carried out using such funds shall be 100 percent, and such funds shall remain available until expended and shall not be transferable.”
 
@@ -293,15 +293,15 @@
 
 [Pub. L. 104–59, title III, § 358(a)][/us/pl/104/59/s358/a], Nov. 28, 1995, [109 Stat. 625][/us/stat/109/625], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Secretary shall conduct a study of technologies and practices to improve the driving performance of older drivers and other special driver groups.
 
->     “(2) __Demonstration activities.—__ 
+>     “(2)  __Demonstration activities__  __.—__ 
 
 >     In conducting the study under paragraph (1), the Secretary shall undertake demonstration activities that incorporate and build upon gerontology research related to the study of the normal aging process. The Secretary shall initially implement such activities in those States that have the highest population of aging citizens for whom driving a motor vehicle is their primary mobility mode.
 
->     “(3) __Cooperative agreement.—__ 
+>     “(3)  __Cooperative agreement__  __.—__ 
 
 >     The Secretary shall conduct the study under paragraph (1) by entering into a cooperative agreement with an institution that has demonstrated competencies in gerontological research, population demographics, human factors related to transportation, and advanced technology applied to transportation.”
 
@@ -329,7 +329,7 @@
 
 >     “(c) There is authorized to be appropriated, out of the Highway Trust Fund, to carry out subsections (a) and (b) of this section, $6,000,000, to remain available until expended.
 
->     “(d) __National Highway Safety Campaign.—__ 
+>     “(d)  __National Highway Safety Campaign__  __.—__ 
 
 >     Utilizing those techniques, methods, and practices determined most effective under subsection (b), the Secretary of Transportation shall conduct a national highway safety campaign utilizing the local and national television and radio to educate and inform the public of techniques, methods, and practices to reduce the number and severity of highway accidents. Not later than the 180th day after the date of submission of the first report to Congress required by subsection (b) of this section, the Secretary shall commence the conduct of such campaign.
 

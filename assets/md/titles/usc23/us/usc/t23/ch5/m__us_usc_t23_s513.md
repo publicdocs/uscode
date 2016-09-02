@@ -15,15 +15,15 @@
 
 ## § 513. Use of funds for ITS activities
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Eligible entity.—__ 
+        (1)  __Eligible entity__  __.—__ 
 
         The term “eligible entity” means a State or local government, tribal government, transit agency, public toll authority, metropolitan planning organization, other political subdivision of a State or local government, or a multistate or multijurisdictional group applying through a single lead applicant.
 
-        (2) __Multijurisdictional group.—__ 
+        (2)  __Multijurisdictional group__  __.—__ 
 
         The term “multijurisdictional group” means a combination of State governments, local governments, metropolitan planning agencies, transit agencies, or other political subdivisions of a State that—
 
@@ -31,13 +31,13 @@
 
             (B) is comprised of at least 2 members, each of whom is an eligible entity.
 
-    (b) __Purpose.—__ 
+    (b)  __Purpose__  __.—__ 
 
     The purpose of this section is to develop, administer, communicate, and promote the use of products of research, technology, and technology transfer programs.
 
-    (c) __ITS Adoption.—__ 
+    (c)  __ITS Adoption__  __.—__ 
 
-        (1) __Innovative technologies and strategies.—__ 
+        (1)  __Innovative technologies and strategies__  __.—__ 
 
         The Secretary shall encourage the deployment of ITS technologies that will improve the performance of the National Highway System in such areas as traffic operations, emergency response, incident management, surface transportation network management, freight management, traffic flow information, and congestion management by accelerating the adoption of innovative technologies through the use of—
 
@@ -49,7 +49,7 @@
 
             (D) other tools, strategies, or methods that will result in the deployment of innovative ITS technologies.
 
-        (2) __Comprehensive plan.—__ 
+        (2)  __Comprehensive plan__  __.—__ 
 
         To carry out this section, the Secretary shall develop a detailed and comprehensive plan that addresses the manner in which incentives may be adopted, as appropriate, through the existing deployment activities carried out by surface transportation modal administrations.
 

@@ -15,13 +15,13 @@
 
 ## § 323. Donations and credits
 
-    (a) __Donations of Property Being Acquired.—__ 
+    (a)  __Donations of Property Being Acquired__  __.—__ 
 
     Nothing in this title, or in any other provision of law, shall be construed to prevent a person whose real property is being acquired in connection with a project under this title, after he has been fully informed of his right to receive just compensation for the acquisition of his property, from making a gift or donation of such property, or any part thereof, or of any of the compensation paid therefor, to a Federal agency, a State or a State agency, or a political subdivision of a State, as said person shall determine.
 
     (b) __Credit for Acquired Lands.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Notwithstanding any other provision of this title, the State share of the cost of a project with respect to which Federal assistance is provided from the Highway Trust Fund (other than the Mass Transit Account) may be credited in an amount equal to the fair market value of any land that—
 
@@ -41,7 +41,7 @@
 
                 (iii) the selection of a specific location.
 
-        (2) __Establishment of fair market value.—__ 
+        (2)  __Establishment of fair market value__  __.—__ 
 
         The fair market value of land incorporated into a project and credited under paragraph (1) shall be established in the manner determined by the Secretary, except that—
 
@@ -55,19 +55,19 @@
 
                 (ii) the date on which equitable title to the land vests in the State.
 
-        (3) __Limitation on applicability.—__ 
+        (3)  __Limitation on applicability__  __.—__ 
 
         This subsection shall not apply to donations made by an agency of the Federal Government.
 
-        (4) __Limitation on amount of credit.—__ 
+        (4)  __Limitation on amount of credit__  __.—__ 
 
         The credit received by a State pursuant to this subsection may not exceed the State’s matching share for the project.
 
-    (c) __Credit for Donations of Funds, Materials, or Services.—__ 
+    (c)  __Credit for Donations of Funds, Materials, or Services__  __.—__ 
 
     Nothing in this title or any other law shall prevent a person from offering to donate funds, materials, or services, or a local government from offering to donate funds, materials, or services performed by local government employees, in connection with a project eligible for assistance under this title. In the case of such a project with respect to which the Federal Government and the State share in paying the cost, any donated funds, or the fair market value of any donated materials or services, that are accepted and incorporated into the project by the State transportation department shall be credited against the State share.
 
-    (d) __Procedures.—__ 
+    (d)  __Procedures__  __.—__ 
 
     A gift or donation in accordance with subsection (a) may be made at any time during the development of a project. Any document executed as part of such donation prior to the approval of an environmental document prepared pursuant to the National Environmental Policy Act of 1969 shall clearly indicate that—
 

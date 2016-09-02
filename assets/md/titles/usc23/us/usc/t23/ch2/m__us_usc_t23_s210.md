@@ -65,11 +65,11 @@
 
 [Pub. L. 112–81, div. B, title XXVIII, § 2816(b)][/us/pl/112/81/s2816/b], Dec. 31, 2011, [125 Stat. 1689][/us/stat/125/1689], provided that:
 
->     “(1) __Convening of committee.—__ 
+>     “(1)  __Convening of committee__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense, as the chairperson of the Economic Adjustment Committee established in Executive Order No. 127887 \[12788\] ([10 U.S.C. 2391][/us/usc/t10/s2391] note), shall convene the Economic Adjustment Committee to consider additional sources of funding for the defense access roads program under [section 210 of title 23][/us/usc/t23/s210], United States Code.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to Congress a report describing the results of the Economic Adjustment Committee deliberations and containing an implementation plan to expand funding sources for the mitigation of significant transportation impacts to access to military reservations pursuant to subsection (b) of [section 210 of title 23][/us/usc/t23/s210], United States Code, as amended by subsection (a).”
 
