@@ -43,7 +43,7 @@
 
     (4) __National park__ 
 
-        The term “national park” means lands and waters included in the National Park System (as defined in [section 1c(a) of this title][/us/usc/t16/s1c/a]).
+        The term “national park” means lands and waters included in the National Park System (as defined in [section 100501 of title 54][/us/usc/t54/s100501]).
 
     (5) __Public lands__ 
 
@@ -75,6 +75,10 @@
 
 ([Pub. L. 103–322, title XXXII, § 320808][/us/pl/103/322/s320808], Sept. 13, 1994, [108 Stat. 2122][/us/stat/108/2122].)
 
+ __Codification__ 
+
+    In par. (4), “[section 100501 of title 54][/us/usc/t54/s100501]” substituted for “section 2(a) of the Act entitled ‘An Act to facilitate the management of the National Park System and miscellaneous areas administered in connection with that system, and for other purposes’, approved August 8, 1953 ([16 U.S.C. 1c(a)][/us/usc/t16/s1c/a])” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+
 ----------
 
 [Previous](./../../../..//us/usc/t16/ch72/m__us_usc_t16_s5206.md) | [Next](./../../../..//us/usc/t16/ch73/m__us_usc_t16_ch73.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5207)
@@ -83,10 +87,14 @@
 ----------
 
 [/us/usc/t16/s1609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1609%2Fa
-[/us/usc/t16/s1c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1c%2Fa
+[/us/usc/t54/s100501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100501
 [/us/usc/t43/s1702/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1702%2Fe
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
 [/us/pl/103/322/s320808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320808
 [/us/stat/108/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2122
+[/us/usc/t54/s100501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100501
+[/us/usc/t16/s1c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1c%2Fa
+[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 
 

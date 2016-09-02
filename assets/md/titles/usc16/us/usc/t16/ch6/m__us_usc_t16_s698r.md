@@ -19,9 +19,9 @@
 
     The Preserve shall be administered by the Secretary in accordance with sections 698q to 698t of this title and in accordance with the laws generally applicable to units of the National Park System, including—
 
-        (1) sections 1, 2, 3, and 4 of this title; and
+        (1) sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title; and
 
-        (2) sections 461 to 467 of this title.
+        (2) sections 461 to 467 1 of this title.
 
     (b) __Hunting and fishing__ 
 
@@ -79,6 +79,12 @@
 
 ([Pub. L. 102–427, § 3][/us/pl/102/427/s3], Oct. 21, 1992, [106 Stat. 2179][/us/stat/106/2179].)
 
+ __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a)(1), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+
+    Sections 461 to 467 of this title, referred to in subsec. (a)(2), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
+
 ----------
 
 [Previous](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s698q.md) | [Next](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s698s.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698r)
@@ -89,5 +95,11 @@
 [/us/usc/t16/s1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1278
 [/us/pl/102/427/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F427%2Fs3
 [/us/stat/106/2179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2179
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 
 

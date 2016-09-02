@@ -25,6 +25,10 @@
 
     1988—Subsec. (b). [Pub. L. 100–668][/us/pl/100/668] added subsec. (b).
 
+ __Boundary Adjustments for Road__ 
+
+    [Pub. L. 100–668, title II, § 207][/us/pl/100/668/s207], as added by [Pub. L. 113–291, div. B, title XXX, § 3040][/us/pl/113/291/s3040], Dec. 19, 2014, [128 Stat. 3788][/us/stat/128/3788], authorized Secretary to adjust boundaries of North Cascades National Park and Stephen Mather Wilderness in order to provide a 100-foot-wide corridor along which the Stehekin Valley Road could be rebuilt and directed that such adjustment be made so that equal acreage amounts would be exchanged, resulting in no net loss of acreage to either the Park or the Wilderness.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t16/ch1/schX/m__us_usc_t16_s90a–1.md) | [Next](./../../../../..//us/usc/t16/ch1/schX/m__us_usc_t16_s90b–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs90b)
@@ -37,5 +41,8 @@
 [/us/pl/100/668/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2Fs203
 [/us/stat/102/3963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3963
 [/us/pl/100/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668
+[/us/pl/100/668/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2Fs207
+[/us/pl/113/291/s3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3040
+[/us/stat/128/3788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3788
 
 

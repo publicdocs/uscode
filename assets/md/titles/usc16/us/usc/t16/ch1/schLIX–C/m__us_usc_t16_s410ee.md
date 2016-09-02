@@ -13,11 +13,35 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schLIX–C/m__us_usc_t16_ch1_schLIX–C.md) | [Next](./../../../../..//us/usc/t16/ch1/schLIX–D/m__us_usc_t16_ch1_schLIX–D.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ee)
 
-## § 410ee. Establishment
+## § 410ee. San Antonio Missions National Historical Park
 
-    (a) __Composition; boundary revisions__ 
+    (a) __Establishment__ 
 
-        In order to provide for the preservation, restoration, and interpretation of the Spanish Missions of San Antonio, Texas, for the benefit and enjoyment of present and future generations of Americans, there is hereby established the San Antonio Missions National Historical Park (hereafter in this section referred to as the “park”) consisting of Concepcion, San Jose, San Juan, and Espada Missions, together with areas and features historically associated therewith, as generally depicted on the drawing entitled “Boundary Map, San Antonio Missions National Historical Park”, numbered 930–80,022–C and dated May 1978, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, and in the offices of the Superintendent of the park. The park shall also consist of the lands and interests therein within the area bounded by the line depicted as “Proposed Boundary Extension” on the maps entitled “San Antonio Missions National Historical Park”, numbered 472–80,075, 472–80,076, 472–80,077, 472–80,078, 472–80,079, 472–80,080, and 472–80,081 and dated June 7, 1990, which shall be on file and available for public inspection in the same manner as is such drawing. After advising the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives, in writing, the Secretary of the Interior (hereinafter referred to as the “Secretary”) may make minor revisions of the boundaries of the park when necessary by publication of a revised drawing or other boundary description in the Federal Register.
+        (1) __In general__ 
+
+            In order to provide for the preservation, restoration, and interpretation of the Spanish Missions of San Antonio, Texas, for the benefit and enjoyment of present and future generations of Americans, there is hereby established the San Antonio Missions National Historical Park (hereafter in this section referred to as the “park”) consisting of Concepcion, San Jose, San Juan, and Espada Missions, together with areas and features historically associated therewith, as generally depicted on the drawing entitled “Boundary Map, San Antonio Missions National Historical Park”, numbered 930–80,022–C and dated May 1978, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, and in the offices of the Superintendent of the park.
+
+        (2) __Additional land__ 
+
+            The park shall also consist of the lands and interests therein within the area bounded by the line depicted as “Proposed Boundary Extension” on the maps entitled “San Antonio Missions National Historical Park”, numbered 472–80,075, 472–80,076, 472–80,077, 472–80,078, 472–80,079, 472–80,080, and 472–80,081 and dated June 7, 1990, which shall be on file and available for public inspection in the same manner as is such drawing.
+
+        (3) __Boundary modification__ 
+
+            (A) __In general__ 
+
+                The boundary of the park is modified to include approximately 137 acres, as depicted on the map entitled “San Antonio Missions National Historical Park Proposed Boundary Addition”, numbered 472/113,006A, and dated June 2012.
+
+            (B) __Availability of map__ 
+
+                The map described in subparagraph (A) shall be on file and available for inspection in the appropriate offices of the National Park Service.
+
+            (C) __Acquisition of land__ 
+
+                The Secretary of the Interior may acquire the land or any interest in the land described in subparagraph (A) only by donation or exchange.
+
+        (4) __Revisions__ 
+
+            After advising the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives, in writing, the Secretary of the Interior (hereinafter referred to as the “Secretary”) may make minor revisions of the boundaries of the park when necessary by publication of a revised drawing or other boundary description in the Federal Register.
 
     (b) __Acquisition of lands and interests; cooperative agreements; submittal to Department of Justice__ 
 
@@ -57,7 +81,7 @@
 
     (d) __Protection and preservation of historical and architectural values; administration__ 
 
-        The Secretary is authorized and directed to take prompt and appropriate action in accordance with the provisions of this section and any cooperative agreement hereunder to assure the protection and preservation of the historical and architectural values of the missions and the areas and features historically associated therewith within the boundaries of the park. The park shall be administered by the Secretary in accordance with this section and provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+        The Secretary is authorized and directed to take prompt and appropriate action in accordance with the provisions of this section and any cooperative agreement hereunder to assure the protection and preservation of the historical and architectural values of the missions and the areas and features historically associated therewith within the boundaries of the park. The park shall be administered by the Secretary in accordance with this section and provisions of law generally applicable to units of the National Park System, including the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1][/us/usc/t16/s1] et seq.)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461–467][/us/usc/t16/s461–467]). <sup>\[2\]</sup> 
 
     (e) __San Antonio Missions Advisory Commission; membership; Chairman; vacancies; compensation and expenses; meeting and consultation between Secretary and Advisory Commission; termination__ 
 
@@ -91,9 +115,19 @@
 
         (2) For the development of essential public facilities there are authorized to be appropriated not more than $15,000,000.
 
-([Pub. L. 95–629, title II, § 201][/us/pl/95/629/s201], Nov. 10, 1978, [92 Stat. 3636][/us/stat/92/3636]; [Pub. L. 96–344, § 13][/us/pl/96/344/s13], Sept. 8, 1980, [94 Stat. 1136][/us/stat/94/1136]; [Pub. L. 101–628, title V, § 501][/us/pl/101/628/s501], Nov. 28, 1990, [104 Stat. 4492][/us/stat/104/4492]; [Pub. L. 103–437, § 6(j)][/us/pl/103/437/s6/j], Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585].)
+([Pub. L. 95–629, title II, § 201][/us/pl/95/629/s201], Nov. 10, 1978, [92 Stat. 3636][/us/stat/92/3636]; [Pub. L. 96–344, § 13][/us/pl/96/344/s13], Sept. 8, 1980, [94 Stat. 1136][/us/stat/94/1136]; [Pub. L. 101–628, title V, § 501][/us/pl/101/628/s501], Nov. 28, 1990, [104 Stat. 4492][/us/stat/104/4492]; [Pub. L. 103–437, § 6(j)][/us/pl/103/437/s6/j], Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585]; [Pub. L. 113–291, div. B, title XXX, § 3042][/us/pl/113/291/s3042], Dec. 19, 2014, [128 Stat. 3792][/us/stat/128/3792].)
+
+ __References in Text__ 
+
+    The Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1][/us/usc/t16/s1] et seq.), referred to in subsec. (d), is [act Aug. 25, 1916, ch. 408][/us/act/1916-08-25/ch408], [39 Stat. 535][/us/stat/39/535], known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and [section 1457 of Title 43][/us/usc/t43/s1457], Public Lands, and enacted provisions set out as a note under [section 1 of this title][/us/usc/t16/s1]. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18][/us/usc/t18/s1865/a], Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 4(a)(1), 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3260, 3272. For complete classification of this Act to the Code, see Short Title of 1916 Act note set out under [section 100101 of Title 54][/us/usc/t54/s100101] and Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
+
+    The Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461–467][/us/usc/t16/s461–467]), referred to in subsec. (d), is [act Aug. 21, 1935, ch. 593][/us/act/1935-08-21/ch593], [49 Stat. 666][/us/stat/49/666], known as the “Historic Sites, Buildings and Antiquities Act”, which enacted sections 461 to 467 of this title. The Act was repealed and restated as sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, and [section 1866(a) of Title 18][/us/usc/t18/s1866/a], Crimes and Criminal Procedure, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 4(a)(1), 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–291, § 3042(1)][/us/pl/113/291/s3042/1], inserted section catchline.
+
+    Subsec. (a). [Pub. L. 113–291][/us/pl/113/291] inserted subsec. heading, designated first, second, and third sentences as pars. (1), (2), and (4), respectively, inserted par. headings, and added par. (3).
 
     1994—Subsec. (a). [Pub. L. 103–437, § 6(j)(1)][/us/pl/103/437/s6/j/1], substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
@@ -112,6 +146,10 @@
 ----------
 ----------
 
+[/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
+[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
+[/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
+[/us/usc/t16/s461–467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461%E2%80%93467
 [/us/pl/95/629/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F629%2Fs201
 [/us/stat/92/3636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3636
 [/us/pl/96/344/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F344%2Fs13
@@ -120,6 +158,29 @@
 [/us/stat/104/4492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4492
 [/us/pl/103/437/s6/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fj
 [/us/stat/108/4585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4585
+[/us/pl/113/291/s3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3042
+[/us/stat/128/3792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3792
+[/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
+[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
+[/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
+[/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
+[/us/usc/t43/s1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1457
+[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
+[/us/usc/t18/s1865/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1865%2Fa
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
+[/us/usc/t16/s461–467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461%E2%80%93467
+[/us/act/1935-08-21/ch593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch593
+[/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
+[/us/usc/t18/s1866/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1866%2Fa
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/pl/113/291/s3042/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3042%2F1
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/103/437/s6/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fj%2F1
 [/us/pl/103/437/s6/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fj%2F2
 [/us/pl/101/628/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2Fs501%2Fa

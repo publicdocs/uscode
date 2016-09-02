@@ -15,9 +15,15 @@
 
 ## § 450jj–5. Administration of Memorial; cooperation with State and local governments and private sector
 
-    Lands and interests in lands acquired pursuant to [section 450jj–3 of this title][/us/usc/t16/s450jj–3] shall, upon acquisition, be a part of the Memorial. The Secretary of the Interior shall administer the Memorial in accordance with sections 450jj to 450jj–9 of this title and the provisions of law generally applicable to units of the national park system, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title. In the development, management, and operation of that portion of the Memorial which is added to the Memorial under [section 450jj–3 of this title][/us/usc/t16/s450jj–3], the Secretary shall, to the maximum extent feasible, utilize the assistance of State and local government agencies and the private sector. For such purposes, the Secretary may, consistent with the management plan for the area, enter into cooperative agreements with the State, with any political subdivision of the State, or with any person. Any such cooperative agreement shall, at a minimum, establish procedures for providing notice to the Secretary of any action proposed by the State, such political subdivision, or such person, which may affect the area.
+    Lands and interests in lands acquired pursuant to [section 450jj–3 of this title][/us/usc/t16/s450jj–3] shall, upon acquisition, be a part of the Memorial. The Secretary of the Interior shall administer the Memorial in accordance with sections 450jj to 450jj–9 of this title and the provisions of law generally applicable to units of the national park system, including sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title and sections 461 to 467  <sup>\[1\]</sup>  of this title. In the development, management, and operation of that portion of the Memorial which is added to the Memorial under [section 450jj–3 of this title][/us/usc/t16/s450jj–3], the Secretary shall, to the maximum extent feasible, utilize the assistance of State and local government agencies and the private sector. For such purposes, the Secretary may, consistent with the management plan for the area, enter into cooperative agreements with the State, with any political subdivision of the State, or with any person. Any such cooperative agreement shall, at a minimum, establish procedures for providing notice to the Secretary of any action proposed by the State, such political subdivision, or such person, which may affect the area.
 
 ([May 17, 1954, ch. 204, § 6][/us/act/1954-05-17/ch204/s6], as added [Pub. L. 98–398, title II, § 201(a)][/us/pl/98/398/s201/a], Aug. 24, 1984, [98 Stat. 1468][/us/stat/98/1468].)
+
+ __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+
+    Sections 461 to 467 of this title, referred to in text, were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
 
 ----------
 
@@ -31,5 +37,11 @@
 [/us/act/1954-05-17/ch204/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-17%2Fch204%2Fs6
 [/us/pl/98/398/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F398%2Fs201%2Fa
 [/us/stat/98/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1468
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 
 

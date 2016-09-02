@@ -27,7 +27,7 @@
 
 [Pub. L. 106–510, § 3(a)(2)][/us/pl/106/510/s3/a/2], Nov. 13, 2000, [114 Stat. 2363][/us/stat/114/2363], provided that: 
 
-> “Any reference in any law (other than this Act \[see Short Title of 2000 Amendments note set out under [section 1 of this title][/us/usc/t16/s1]\]), regulation, document, record, map, or other paper of the United States to ‘Hawaii Volcanoes National Park’ shall be considered a reference to ‘Hawaiʻi Volcanoes National Park’.”
+> “Any reference in any law (other than this Act \[see Short Title of 2000 Act note set out under [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs\]), regulation, document, record, map, or other paper of the United States to ‘Hawaii Volcanoes National Park’ shall be considered a reference to ‘Hawaiʻi Volcanoes National Park’.”
 
 ----------
 
@@ -43,6 +43,6 @@
 [/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
 [/us/pl/106/510/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510%2Fs3%2Fa%2F2
 [/us/stat/114/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2363
-[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 
 

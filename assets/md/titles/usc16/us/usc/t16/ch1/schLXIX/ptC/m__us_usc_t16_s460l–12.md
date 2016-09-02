@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    This part, referred to in text, was in the original “this Act”, meaning [Pub. L. 89–72][/us/pl/89/72], which enacted sections 460l–12 to 460l–21 of this title and amended sections 460l–5(a) and 662(d) of this title.
+    This part, referred to in text, was in the original “this Act”, meaning [Pub. L. 89–72][/us/pl/89/72], which enacted sections 460l–12 to 460l–21 of this title and amended former section 460l–5(a) and [section 662(d) of this title][/us/usc/t16/s662/d].
 
  __Short Title__ 
 
@@ -39,6 +39,7 @@
 [/us/pl/89/72/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72%2Fs1
 [/us/stat/79/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F213
 [/us/pl/89/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72
+[/us/usc/t16/s662/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs662%2Fd
 [/us/pl/89/72/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72%2Fs12
 [/us/stat/79/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F218
 

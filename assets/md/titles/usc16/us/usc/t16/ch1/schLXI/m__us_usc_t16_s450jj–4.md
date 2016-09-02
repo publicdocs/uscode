@@ -15,7 +15,7 @@
 
 ## § 450jj–4. Transfer of land
 
-    Where appropriate in the discretion of the Secretary of the Interior, he may transfer by lease or otherwise, to any appropriate person or governmental entity, land owned by the United States (or any interest therein) which has been acquired by the Secretary under [section 450jj–3 of this title][/us/usc/t16/s450jj–3]. Any such transfer shall be consistent with the management plan for the area and with the requirements of section 460l–22 of this title and shall be subject to such conditions and restrictions as the Secretary deems necessary to carry out the purposes of sections 450jj to 450jj–9 of this title, including terms and conditions which provide for—
+    Where appropriate in the discretion of the Secretary of the Interior, he may transfer by lease or otherwise, to any appropriate person or governmental entity, land owned by the United States (or any interest therein) which has been acquired by the Secretary under [section 450jj–3 of this title][/us/usc/t16/s450jj–3]. Any such transfer shall be consistent with the management plan for the area and with the requirements of sections 100903 and 102901 of title 54 and shall be subject to such conditions and restrictions as the Secretary deems necessary to carry out the purposes of sections 450jj to 450jj–9 of this title, including terms and conditions which provide for—
 
     (1) the continuation of existing uses of the land which are compatible with the Memorial,
 
@@ -30,6 +30,10 @@
  __References in Text__ 
 
     [Section 450jj–6 of this title][/us/usc/t16/s450jj–6], referred to in text, was in the original “section 8”, meaning section 8 of [act May 17, 1954, ch. 204][/us/act/1954-05-17/ch204], and was translated as reading “section 7” of such act, to reflect the probable intent of Congress, because section 7 related to the establishment of the Jefferson National Expansion Memorial Commission.
+
+ __Codification__ 
+
+    In introductory provisions, “sections 100903 and 102901 of title 54” substituted for “[section 5 of the Act of July 15, 1968][/us/act/1968-07-15/s5] ([82 Stat. 356][/us/stat/82/356]; [16 U.S.C. 460][/us/usc/t16/s460]l–22)” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Prior Provisions__ 
 
@@ -49,6 +53,11 @@
 [/us/stat/98/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1468
 [/us/usc/t16/s450jj–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450jj%E2%80%936
 [/us/act/1954-05-17/ch204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-17%2Fch204
+[/us/act/1968-07-15/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1968-07-15%2Fs5
+[/us/stat/82/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F356
+[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/usc/t16/s450jj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450jj
 [/us/pl/85/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F936
 [/us/stat/72/1794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1794

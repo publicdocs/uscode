@@ -19,9 +19,13 @@
 
     (b) Any lands described in [section 430uu–1 of this title][/us/usc/t16/s430uu–1] that are a part of the Beaverhead National Forest on May 17, 1963, are hereby excluded from the forest and added to the Big Hole National Battlefield.
 
-    (c) Lands included in the Big Hole National Battlefield pursuant to sections 430uu to 430uu–4 of this title shall be administered in accordance with the provisions of sections 1, 2, 3, and 4 of this title.
+    (c) Lands included in the Big Hole National Battlefield pursuant to sections 430uu to 430uu–4 of this title shall be administered in accordance with the provisions of sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
 ([Pub. L. 88–24, § 3][/us/pl/88/24/s3], May 17, 1963, [77 Stat. 19][/us/stat/77/19].)
+
+ __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
 ----------
 
@@ -34,5 +38,8 @@
 [/us/usc/t16/s430uu–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430uu%E2%80%931
 [/us/pl/88/24/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F24%2Fs3
 [/us/stat/77/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F19
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 
 

@@ -15,11 +15,13 @@
 
 ## § 391b–1. Laws applicable to added lands
 
-    The provisions of sections 1, 2, 3, 4, 391, 392, 393, and 394 of this title and all Acts supplementary to and amendatory of said sections are made applicable to and extended over the lands hereby added to the park: Provided, That the provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] shall not apply to or extend over such lands.
+    The provisions of sections 1, 2, 3, 4, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  391, 392, 393, and 394 of this title and all Acts supplementary to and amendatory of said sections are made applicable to and extended over the lands hereby added to the park: Provided, That the provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] shall not apply to or extend over such lands.
 
 ([June 20, 1938, ch. 530, § 4][/us/act/1938-06-20/ch530/s4], [52 Stat. 785][/us/stat/52/785].)
 
  __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
     Hereby, referred to in text, means act June 20, 1938, which is classified to sections 391b, 391b–1, 392b, 392c, 396, and 396a of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -39,6 +41,9 @@
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1938-06-20/ch530/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-20%2Fch530%2Fs4
 [/us/stat/52/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F785
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063

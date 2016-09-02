@@ -25,9 +25,9 @@
 
          all laws generally applicable to units of the National Park System, including—
 
-            (A) sections 1, 2, 3, and 4 of this title; and
+            (A) sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title; and
 
-            (B) sections 461 to 467 of this title.
+            (B) sections 461 to 467 1 of this title.
 
     (b) __Grazing__ 
 
@@ -99,6 +99,10 @@
 
  __References in Text__ 
 
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a)(2)(A), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+
+    Sections 461 to 467 of this title, referred to in subsec. (a)(2)(B), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
+
     The Reclamation Project Authorization Act of 1972, referred to in subsec. (d)(2), is [Pub. L. 92–514][/us/pl/92/514], Oct. 20, 1972, [86 Stat. 964][/us/stat/86/964]. Title I of the Act was classified generally to subchapter XXXI (§ 615aaa et seq.) of chapter 12 of Title 43, Public Lands, prior to its omission from the Code. See Codification notes under sections 615aaa to 615iii of Title 43.
 
     The Wilderness Act, referred to in subsec. (f)(2), is [Pub. L. 88–577][/us/pl/88/577], Sept. 3, 1964, [78 Stat. 890][/us/stat/78/890], as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title][/us/usc/t16/s1131] and Tables.
@@ -118,6 +122,12 @@
 [/us/usc/t16/s539i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539i
 [/us/pl/106/530/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530%2Fs7
 [/us/stat/114/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2530
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/92/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F514
 [/us/stat/86/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F964
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577

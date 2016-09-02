@@ -81,7 +81,7 @@
 
 >         “(3)  __Authority__  __.—__ 
 
->         Except as otherwise provided by this section, a lease shall be in accordance with subsection (k) of [section 3 of Public Law 91–383][/us/pl/91/383/s3] ([16 U.S.C. 1a–2(k)][/us/usc/t16/s1a–2/k]), notwithstanding paragraph (2) of that subsection.
+>         Except as otherwise provided by this section, a lease shall be in accordance with subsection (k) of [section 3 of Public Law 91–383][/us/pl/91/383/s3] (\[former\] [16 U.S.C. 1a–2(k)][/us/usc/t16/s1a–2/k]) \[see [54 U.S.C. 102102][/us/usc/t54/s102102]\], notwithstanding paragraph (2) of that subsection.
 
 >         “(4)  __Terms and conditions__  __.—__ 
 
@@ -107,7 +107,7 @@
 
 >         “(5)  __Rental amounts__  __.—__ 
 
->         In determining the fair market value rental of the lease required under [section 3(k)(4) of Public Law 91–383][/us/pl/91/383/s3/k/4] ([16 U.S.C. 1a–2(k)(4)][/us/usc/t16/s1a–2/k/4]), the Secretary shall take into consideration—
+>         In determining the fair market value rental of the lease required under [section 3(k)(4) of Public Law 91–383][/us/pl/91/383/s3/k/4] (\[former\] [16 U.S.C. 1a–2(k)(4)][/us/usc/t16/s1a–2/k/4]) \[see [54 U.S.C. 102102][/us/usc/t54/s102102]\], the Secretary shall take into consideration—
 
 >             “(A) the value of any associated property conveyed to the United States; and
 
@@ -127,7 +127,7 @@
 
 >         “(9)  __Termination__  __.—__ 
 
->         Upon the termination of a lease entered into under this section, if the Secretary determines the continuation of commercial services at the resort to be appropriate, the services shall be provided in accordance with the National Park Service Concessions Management Improvement Act of 1998 ([16 U.S.C. 5951][/us/usc/t16/s5951] et seq.).
+>         Upon the termination of a lease entered into under this section, if the Secretary determines the continuation of commercial services at the resort to be appropriate, the services shall be provided in accordance with the National Park Service Concessions Management Improvement Act of 1998 (\[former\] [16 U.S.C. 5951][/us/usc/t16/s5951] et seq.) \[now [54 U.S.C. 101911][/us/usc/t54/s101911] et seq.\].
 
 >     “(c) __Retained Use Estate.—__ 
 
@@ -165,8 +165,11 @@
 [/us/stat/124/2777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2777
 [/us/pl/91/383/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F383%2Fs3
 [/us/usc/t16/s1a–2/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%932%2Fk
+[/us/usc/t54/s102102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs102102
 [/us/pl/91/383/s3/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F383%2Fs3%2Fk%2F4
 [/us/usc/t16/s1a–2/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%932%2Fk%2F4
+[/us/usc/t54/s102102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs102102
 [/us/usc/t16/s5951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5951
+[/us/usc/t54/s101911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs101911
 
 

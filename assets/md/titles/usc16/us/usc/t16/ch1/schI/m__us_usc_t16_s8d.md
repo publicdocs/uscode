@@ -13,11 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s8c.md) | [Next](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s8e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs8d)
 
-## § 8d. National-monument approach roads
+## § 8d. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Approach roads to national monuments shall be included within the provisions of sections 8 and 8a to 8c of this title under the same conditions as approach roads to national parks, and the limitation therein on the amount of annual allocation of funds to national park approach roads shall be inclusive of such national monument approaches.
-
-([Mar. 4, 1931, ch. 522][/us/act/1931-03-04/ch522], title I, [46 Stat. 1570][/us/stat/46/1570].)
+    Section, [act Mar. 4, 1931, ch. 522][/us/act/1931-03-04/ch522], title I, [46 Stat. 1570][/us/stat/46/1570], related to national-monument approach roads.
 
 ----------
 
@@ -26,6 +24,8 @@
 ----------
 ----------
 
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/act/1931-03-04/ch522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-04%2Fch522
 [/us/stat/46/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1570
 

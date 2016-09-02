@@ -19,7 +19,7 @@
 
     Information concerning the nature and location of any archaeological resource for which the excavation or removal requires a permit or other permission under this chapter or under any other provision of Federal law may not be made available to the public under subchapter II of chapter 5 of title 5 or under any other provision of law unless the Federal land manager concerned determines that such disclosure would—
 
-        (1) further the purposes of this chapter or the Act of June 27, 1960 ([16 U.S.C. 469–469c][/us/usc/t16/s469–469c]) \[[16 U.S.C. 469–469c][/us/usc/t16/s469–469c]–1\], and
+        (1) further the purposes of this chapter or chapter 3125 of title 54, and
 
         (2) not create a risk of harm to such resources or to the site at which such resources are located.
 
@@ -35,11 +35,11 @@
 
         the Federal land manager concerned shall provide to the Governor information concerning the nature and location of archaeological resources within the State of the requesting Governor.
 
-([Pub. L. 96–95, § 9][/us/pl/96/95/s9], Oct. 31, 1979, [93 Stat. 727][/us/stat/93/727].)
+([Pub. L. 96–95, § 9][/us/pl/96/95/s9], Oct. 31, 1979, [93 Stat. 727][/us/stat/93/727]; [Pub. L. 113–287, § 5(d)(8)][/us/pl/113/287/s5/d/8], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265].)
 
- __References in Text__ 
+ __Amendments__ 
 
-    Act of June 27, 1960 ([16 U.S.C. 469–469c][/us/usc/t16/s469–469c]), referred to in subsec. (a)(1), is act June 27, 1960, [Pub. L. 86–523][/us/pl/86/523], [74 Stat. 220][/us/stat/74/220], as amended, which is classified generally to sections 469 to 469c–1 of this title. For complete classification of this Act to the Code, see Tables.
+    2014—Subsec. (a)(1). [Pub. L. 113–287][/us/pl/113/287] Sec. 5(d)(8), which directed substitution of “chapter 3125 of title 54” for “the Act of June 27, 1960 ([16 U.S.C. 469–469c][/us/usc/t16/s469–469c])” in subsec. (a)(2), was executed by making the substitution in subsec. (a)(1), to reflect the probable intent of Congress.
 
 ----------
 
@@ -48,12 +48,11 @@
 ----------
 ----------
 
-[/us/usc/t16/s469–469c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs469%E2%80%93469c
-[/us/usc/t16/s469–469c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs469%E2%80%93469c
 [/us/pl/96/95/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95%2Fs9
 [/us/stat/93/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F727
+[/us/pl/113/287/s5/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F8
+[/us/stat/128/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3265
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s469–469c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs469%E2%80%93469c
-[/us/pl/86/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F523
-[/us/stat/74/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F220
 
 

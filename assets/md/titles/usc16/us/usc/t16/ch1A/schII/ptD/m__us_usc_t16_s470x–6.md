@@ -13,11 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t16/ch1A/schII/ptD/m__us_usc_t16_s470x–5.md) | [Next](./../../../../../..//us/usc/t16/ch1B/m__us_usc_t16_ch1B.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470x%E2%80%936)
 
-## § 470x–6. National Park Service preservation
+## § 470x–6. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    In order to improve the use of existing National Park Service resources, the Secretary shall fully utilize and further develop the National Park Service preservation (including conservation) centers and regional offices. The Secretary shall improve the coordination of such centers and offices within the National Park Service, and shall, where appropriate, coordinate their activities with the Center and with other appropriate parties.
-
-([Pub. L. 89–665, title IV, § 407][/us/pl/89/665/s407], as added [Pub. L. 102–575, title XL, § 4022][/us/pl/102/575/s4022], Oct. 30, 1992, [106 Stat. 4768][/us/stat/106/4768].)
+    Section, [Pub. L. 89–665, title IV, § 407][/us/pl/89/665/s407], as added [Pub. L. 102–575, title XL, § 4022][/us/pl/102/575/s4022], Oct. 30, 1992, [106 Stat. 4768][/us/stat/106/4768], related to National Park Service preservation. See [section 305306 of Title 54][/us/usc/t54/s305306], National Park Service and Related Programs.
 
 ----------
 
@@ -26,8 +24,11 @@
 ----------
 ----------
 
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/89/665/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665%2Fs407
 [/us/pl/102/575/s4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs4022
 [/us/stat/106/4768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4768
+[/us/usc/t54/s305306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs305306
 
 

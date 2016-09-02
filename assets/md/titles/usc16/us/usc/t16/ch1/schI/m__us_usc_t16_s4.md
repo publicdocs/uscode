@@ -13,15 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s3b.md) | [Next](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s5.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4)
 
-## § 4. Rights-of-way through public lands
+## § 4. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    The provisions of sections 1, 2, and 3 of this title shall not affect or modify the provisions of [section 79 of this title][/us/usc/t16/s79].
-
-([Aug. 25, 1916, ch. 408, § 4][/us/act/1916-08-25/ch408/s4], [39 Stat. 536][/us/stat/39/536].)
-
- __References in Text__ 
-
-    [Section 79 of this title][/us/usc/t16/s79], referred to in text, was in the original a reference to [act Feb. 15, 1901, ch. 372][/us/act/1901-02-15/ch372], [31 Stat. 790][/us/stat/31/790]. For further details, see Codification note set out under [section 79 of this title][/us/usc/t16/s79].
+    Section, [act Aug. 25, 1916, ch. 408, § 4][/us/act/1916-08-25/ch408/s4], [39 Stat. 536][/us/stat/39/536], related to rights-of-way through public lands. See [section 100303 of Title 54][/us/usc/t54/s100303], National Park Service and Related Programs.
 
 ----------
 
@@ -30,12 +24,10 @@
 ----------
 ----------
 
-[/us/usc/t16/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/act/1916-08-25/ch408/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408%2Fs4
 [/us/stat/39/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F536
-[/us/usc/t16/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79
-[/us/act/1901-02-15/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-02-15%2Fch372
-[/us/stat/31/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F790
-[/us/usc/t16/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79
+[/us/usc/t54/s100303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100303
 
 

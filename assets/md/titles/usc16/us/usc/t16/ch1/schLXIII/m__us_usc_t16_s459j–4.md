@@ -17,7 +17,7 @@
 
     (a) __Conservation and management of natural resources__ 
 
-        The seashore shall be administered, protected, and developed in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented, except that any other statutory authority available to the Secretary for the conservation management of natural resources may be utilized to the extent he finds such authority will further the purposes of sections 459j to 459j–8 of this title.
+        The seashore shall be administered, protected, and developed in accordance with the provisions of sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, as amended and supplemented, except that any other statutory authority available to the Secretary for the conservation management of natural resources may be utilized to the extent he finds such authority will further the purposes of sections 459j to 459j–8 of this title.
 
     (b) __Administration of lands in Merritt Island National Wildlife Refuge__ 
 
@@ -34,6 +34,8 @@
 ([Pub. L. 93–626, § 5][/us/pl/93/626/s5], Jan. 3, 1975, [88 Stat. 2123][/us/stat/88/2123].)
 
  __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
     The National Wildlife Refuge System Administration Act, as amended, referred to in subsec. (b), consists of sections 4 and 5 of [Pub. L. 89–669][/us/pl/89/669], Oct. 15, 1966, [80 Stat. 927][/us/stat/80/927], as amended, and is classified to sections 668dd, 668ee of this title. For further details, see Short Title note set out under [section 668dd of this title][/us/usc/t16/s668dd].
 
@@ -69,6 +71,9 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t16/s459j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459j
 [/us/pl/93/626/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F626%2Fs5
 [/us/stat/88/2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2123
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/89/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669
 [/us/stat/80/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F927
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd

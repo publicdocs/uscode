@@ -45,7 +45,7 @@
 
  __Laws Applicable__ 
 
-    The provisions of sections 1, 2, 3, and 4 of this title were made applicable to the above added lands by [act June 26, 1936, ch. 842][/us/act/1936-06-26/ch842], title II, § 2, [49 Stat. 1979][/us/stat/49/1979].
+    The provisions of former sections 1, 2, 3, and 4 of this title were made applicable to the above added lands by [act June 26, 1936, ch. 842][/us/act/1936-06-26/ch842], title II, § 2, [49 Stat. 1979][/us/stat/49/1979]. For disposition of sections 1, 2, 3, and 4, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
 ----------
 
@@ -64,5 +64,6 @@
 [/us/stat/49/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1979
 [/us/act/1936-06-26/ch842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch842
 [/us/stat/49/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1979
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 
 

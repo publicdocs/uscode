@@ -17,7 +17,7 @@
 
     In order to permit the establishment of the Petrified Forest National Monument, Arizona, and other lands as provided for herein, as the Petrified Forest National Park, such national park shall be established (a) after title to all of the lands described in [section 119a of this title][/us/usc/t16/s119a] shall have been vested in the United States, with the exception of such easements and rights-of-way for railroad, public utilities, and highway purposes as may be acceptable to the Secretary of the Interior, and (b) when notification of the effective date of such establishment of the park, as determined by the said Secretary, is published in the Federal Register. Disestablishment of the Petrified Forest National Monument shall be effected concurrently with the establishment of the park.
 
-    The Petrified Forest National Park shall be preserved and administered in its natural condition by the Secretary of the Interior for the public benefit in accordance with the general laws governing areas of the National Park System and in accordance with the basic policies relating thereto as prescribed by sections 1, 2, 3, and 4 of this title.
+    The Petrified Forest National Park shall be preserved and administered in its natural condition by the Secretary of the Interior for the public benefit in accordance with the general laws governing areas of the National Park System and in accordance with the basic policies relating thereto as prescribed by sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
     The exchange authority prescribed for the Petrified Forest National Monument in sections 444 and 444a of this title, is hereby extended to all the lands within the Petrified Forest National Park as herein authorized.
 
@@ -26,6 +26,10 @@
     Upon establishment of the Petrified Forest National Park, as authorized by this section and [section 119a of this title][/us/usc/t16/s119a], any remaining balance of funds that may be available for purposes of the Petrified Forest National Monument shall thereafter be available for expenditure for purposes of the Petrified Forest National Park.
 
 ([Pub. L. 85–358, § 1][/us/pl/85/358/s1], Mar. 28, 1958, [72 Stat. 69][/us/stat/72/69].)
+
+ __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
  __Petrified Forest National Park Expansion__ 
 
@@ -149,6 +153,9 @@
 [/us/usc/t16/s119a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs119a
 [/us/pl/85/358/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F358%2Fs1
 [/us/stat/72/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F69
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/108/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F430
 [/us/stat/118/2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2606
 [/us/pl/111/11/s7116/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7116%2Fd

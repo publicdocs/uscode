@@ -15,11 +15,13 @@
 
 ## § 410hh–2. Administration; hunting and subsistence uses; admission fees
 
-    Subject to valid existing rights, the Secretary shall administer the lands, waters, and interests therein added to existing areas or established by the foregoing sections of this subchapter as new areas of the National Park System, pursuant to the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented, and, as appropriate, under [section 3201 of this title][/us/usc/t16/s3201] and the other applicable provisions of this Act: Provided, however, That hunting shall be permitted in areas designated as national preserves under the provisions of this Act. Subsistence uses by local residents shall be allowed in national preserves and, where specifically permitted by this Act, in national monuments and parks. Lands, waters, and interests therein withdrawn or reserved for the former Katmai and Glacier Bay National Monuments are hereby incorporated within and made a part of Katmai National Park or Glacier Bay National Park, as appropriate. Any funds available for the purposes of such monuments are hereby made available for the purposes of Katmai National Park and Preserve or Glacier Bay National Park and Preserve, as appropriate. Notwithstanding any other provision of law, no fees shall be charged for entrance or admission to any unit of the National Park System located in Alaska.
+    Subject to valid existing rights, the Secretary shall administer the lands, waters, and interests therein added to existing areas or established by the foregoing sections of this subchapter as new areas of the National Park System, pursuant to the provisions of sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, as amended and supplemented, and, as appropriate, under [section 3201 of this title][/us/usc/t16/s3201] and the other applicable provisions of this Act: Provided, however, That hunting shall be permitted in areas designated as national preserves under the provisions of this Act. Subsistence uses by local residents shall be allowed in national preserves and, where specifically permitted by this Act, in national monuments and parks. Lands, waters, and interests therein withdrawn or reserved for the former Katmai and Glacier Bay National Monuments are hereby incorporated within and made a part of Katmai National Park or Glacier Bay National Park, as appropriate. Any funds available for the purposes of such monuments are hereby made available for the purposes of Katmai National Park and Preserve or Glacier Bay National Park and Preserve, as appropriate. Notwithstanding any other provision of law, no fees shall be charged for entrance or admission to any unit of the National Park System located in Alaska.
 
 ([Pub. L. 96–487, title II, § 203][/us/pl/96/487/s203], Dec. 2, 1980, [94 Stat. 2383][/us/stat/94/2383].)
 
  __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
     This Act, referred to in text, is [Pub. L. 96–487][/us/pl/96/487], Dec. 2, 1980, [94 Stat. 2371][/us/stat/94/2371], as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t16/s3101] and Tables.
 
@@ -39,6 +41,9 @@
 [/us/usc/t16/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3201
 [/us/pl/96/487/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs203
 [/us/stat/94/2383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2383
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371
 [/us/usc/t16/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3101

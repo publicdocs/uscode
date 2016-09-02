@@ -15,9 +15,13 @@
 
 ## § 441c. Administration, protection, and promotion; franchises for hotel and lodge accommodations
 
-    The administration, protection, and promotion of said Badlands National Park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 of this title: Provided, That in advance of the fulfillment of the conditions herein the Secretary of the Interior may grant franchises for hotel and for lodge accommodations under the provisions of this section.
+    The administration, protection, and promotion of said Badlands National Park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title: Provided, That in advance of the fulfillment of the conditions herein the Secretary of the Interior may grant franchises for hotel and for lodge accommodations under the provisions of this section.
 
 ([Mar. 4, 1929, ch. 693, § 4][/us/act/1929-03-04/ch693/s4], [45 Stat. 1555][/us/stat/45/1555]; [Pub. L. 95–625, title VI, § 611][/us/pl/95/625/s611], Nov. 10, 1978, [92 Stat. 3521][/us/stat/92/3521].)
+
+ __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
  __Change of Name__ 
 
@@ -38,6 +42,9 @@
 [/us/stat/45/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1555
 [/us/pl/95/625/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs611
 [/us/stat/92/3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3521
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/95/625/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs611
 [/us/usc/t16/s441e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs441e%E2%80%931
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262

@@ -153,9 +153,9 @@
 
     Section 1206(a)(2), referred to in par. (1)(A), is [section 1206(a)(2) of Pub. L. 111–11][/us/pl/111/11/s1206/a/2], title I, Mar. 30, 2009, [123 Stat. 1018][/us/stat/123/1018], which is not classified to the Code.
 
-    Section 1202, referred to in par. (1)(B), is [section 1202 of Pub. L. 111–11][/us/pl/111/11/s1202], which enacted provisions listed in a table of National Memorials set out under [section 431 of this title][/us/usc/t16/s431] and enacted and amended provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132].
+    Section 1202, referred to in par. (1)(B), is [section 1202 of Pub. L. 111–11][/us/pl/111/11/s1202], which enacted provisions listed in a table of National Memorials set out under [section 320301 of Title 54][/us/usc/t54/s320301], National Park Service and Related Programs, and enacted and amended provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132].
 
-    This subtitle, referred to in par. (3)(B), is subtitle C (§§ 1201–1207) of title I of [Pub. L. 111–11][/us/pl/111/11], Mar. 30, 2009, [123 Stat. 1007][/us/stat/123/1007], which enacted this section and subchapter CXXXII of chapter 1 of this title, amended sections 544k and 1274 of this title, enacted provisions set out as notes under sections 460uuu and 1274 of this title, enacted provisions listed in a table of National Memorials set out under [section 431 of this title][/us/usc/t16/s431], and enacted and amended provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132]. For complete classification of subtitle C to the Code, see Tables.
+    This subtitle, referred to in par. (3)(B), is subtitle C (§§ 1201–1207) of title I of [Pub. L. 111–11][/us/pl/111/11], Mar. 30, 2009, [123 Stat. 1007][/us/stat/123/1007], which enacted this section and subchapter CXXXII of chapter 1 of this title, amended sections 544k and 1274 of this title, enacted provisions set out as notes under sections 460uuu and 1274 of this title, enacted provisions listed in a table of National Memorials set out under [section 320301 of Title 54][/us/usc/t54/s320301], National Park Service and Related Programs, and enacted and amended provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132]. For complete classification of subtitle C to the Code, see Tables.
 
  __Definitions__ 
 
@@ -173,11 +173,11 @@
 [/us/pl/111/11/s1206/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1206%2Fa%2F2
 [/us/stat/123/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1018
 [/us/pl/111/11/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1202
-[/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
+[/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/stat/123/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1007
-[/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
+[/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 [/us/pl/111/11/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1201
 [/us/usc/t16/s460uuu]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460uuu

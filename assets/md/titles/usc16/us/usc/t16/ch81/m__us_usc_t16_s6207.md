@@ -59,6 +59,10 @@
 
 ([Pub. L. 106–291, title VI, § 608][/us/pl/106/291/s608], Oct. 11, 2000, [114 Stat. 1019][/us/stat/114/1019]; [Pub. L. 108–7, div. F, title III, § 324][/us/pl/108/7/s324], Feb. 20, 2003, [117 Stat. 275][/us/stat/117/275].)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 113–291, div. B, title XXX, § 3024(k)][/us/pl/113/291/s3024/k], Dec. 19, 2014, [128 Stat. 3766][/us/stat/128/3766], provided that, effective on the date of the assessment of annual permit fees in accordance with [section 6214(f) of this title][/us/usc/t16/s6214/f] (as certified to Congress by the Secretary of Agriculture), this section is repealed.
+
  __Amendments__ 
 
     2003—Subsec. (b)(2). [Pub. L. 108–7][/us/pl/108/7] substituted “criteria” for “value influences” and “section 6205(b)(2)” for “section 6205(b)(3)”.
@@ -79,6 +83,9 @@
 [/us/stat/114/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1019
 [/us/pl/108/7/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs324
 [/us/stat/117/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F275
+[/us/pl/113/291/s3024/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3024%2Fk
+[/us/stat/128/3766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3766
+[/us/usc/t16/s6214/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6214%2Ff
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 
 

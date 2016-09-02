@@ -25,9 +25,9 @@
 
     (b) __Availability of funds for acquisition of lands, waters, etc.__ 
 
-        Funds made available pursuant to the Land and Water Conservation Fund Act of 1965, as amended \[[16 U.S.C. 460][/us/usc/t16/s460]l–4 et seq.\], may be used for the purpose of acquiring lands, waters, or interests therein under subsection (a) of this section.
+        Funds made available pursuant to chapter 2003 of title 54, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Comma probably should not appear. </sup></sup>  may be used for the purpose of acquiring lands, waters, or interests therein under subsection (a) of this section.
 
-([Pub. L. 93–205, § 5][/us/pl/93/205/s5], Dec. 28, 1973, [87 Stat. 889][/us/stat/87/889]; [Pub. L. 95–632, § 12][/us/pl/95/632/s12], Nov. 10, 1978, [92 Stat. 3766][/us/stat/92/3766].)
+([Pub. L. 93–205, § 5][/us/pl/93/205/s5], Dec. 28, 1973, [87 Stat. 889][/us/stat/87/889]; [Pub. L. 95–632, § 12][/us/pl/95/632/s12], Nov. 10, 1978, [92 Stat. 3766][/us/stat/92/3766]; [Pub. L. 113–287, § 5(d)(32)][/us/pl/113/287/s5/d/32], Dec. 19, 2014, [128 Stat. 3267][/us/stat/128/3267].)
 
  __References in Text__ 
 
@@ -37,9 +37,9 @@
 
     The Migratory Bird Conservation Act, referred to in subsec. (a)(1), is [act Feb. 18, 1929, ch. 257][/us/act/1929-02-18/ch257], [45 Stat. 1222][/us/stat/45/1222], as amended, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 715 of this title][/us/usc/t16/s715] and Tables.
 
-    The Land and Water Conservation Fund Act of 1965, as amended, referred to in subsec. (b), is [Pub. L. 88–578][/us/pl/88/578], Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], as amended, which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
-
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–287][/us/pl/113/287] substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965, as amended”.
 
     1978—Subsec. (a). [Pub. L. 95–632][/us/pl/95/632], among other changes in text preceding par. (1), inserted reference to the Secretary of Agriculture with respect to the National Forest System and substituted the establishment and implementation of a plan to conserve plants for the establishment and implementation of a plan to conserve plants which were concluded in Appendices to the Convention.
 
@@ -54,11 +54,12 @@
 [/us/usc/t16/s742a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742a
 [/us/usc/t16/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs661
 [/us/usc/t16/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715
-[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
 [/us/pl/93/205/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs5
 [/us/stat/87/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F889
 [/us/pl/95/632/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632%2Fs12
 [/us/stat/92/3766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3766
+[/us/pl/113/287/s5/d/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F32
+[/us/stat/128/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3267
 [/us/act/1956-08-08/ch1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036
 [/us/stat/70/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F119
 [/us/usc/t16/s742a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742a
@@ -68,8 +69,7 @@
 [/us/act/1929-02-18/ch257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-18%2Fch257
 [/us/stat/45/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1222
 [/us/usc/t16/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715
-[/us/pl/88/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578
-[/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/pl/95/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632
 
 

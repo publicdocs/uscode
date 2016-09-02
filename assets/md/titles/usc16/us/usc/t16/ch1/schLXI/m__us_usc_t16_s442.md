@@ -15,9 +15,13 @@
 
 ## § 442. George Washington Birthplace National Monument
 
-    The land owned by the United States at Wakefield, Westmoreland County, Virginia, and all structures thereon shall constitute the George Washington Birthplace National Monument at Wakefield, Virginia, which is established and set apart for the preservation of the historical associations connected therewith, for the benefit and enjoyment of the people, and the said national monument shall be after January 23, 1930, administered by the National Park Service under the direction of the Secretary of the Interior subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended.
+    The land owned by the United States at Wakefield, Westmoreland County, Virginia, and all structures thereon shall constitute the George Washington Birthplace National Monument at Wakefield, Virginia, which is established and set apart for the preservation of the historical associations connected therewith, for the benefit and enjoyment of the people, and the said national monument shall be after January 23, 1930, administered by the National Park Service under the direction of the Secretary of the Interior subject to the provisions of sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, as amended.
 
 ([Jan. 23, 1930, ch. 24][/us/act/1930-01-23/ch24], §§ 1, 2, [46 Stat. 58][/us/stat/46/58].)
+
+ __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
  __Transfer of Functions__ 
 
@@ -102,6 +106,9 @@
 
 [/us/act/1930-01-23/ch24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-01-23%2Fch24
 [/us/stat/46/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F58
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/pl/105/355/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F355%2Fs509
 [/us/stat/112/3264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3264

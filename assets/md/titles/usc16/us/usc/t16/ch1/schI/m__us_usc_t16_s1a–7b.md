@@ -13,31 +13,23 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s1a–7a.md) | [Next](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s1a–8.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937b)
 
-## § 1a–7b. Protecting Americans from violent crime
+## § 1a–7b. Protection of right of individuals to bear arms
 
-    (a) __Congressional findings__ 
+    (a)  __Congressional Findings__  __.—__ 
 
     Congress finds the following:
 
-        (1) The Second Amendment to the Constitution provides that “the right of the people to keep and bear Arms, shall not be infringed”.
+        (1) The 2d amendment to the Constitution provides that “the right of the people to keep and bear Arms, shall not be infringed”.
 
-        (2) Section 2.4(a)(1) of title 36, Code of Federal Regulations, provides that “except as otherwise provided in this section and parts 7 (special regulations) and 13 (Alaska regulations), the following are prohibited: (i) Possessing a weapon, trap or net (ii) Carrying a weapon, trap or net (iii) Using a weapon, trap or net”.
+        (2) Section 27.42 of title 50, Code of Federal Regulations, provides that, except in special circumstances, citizens of the United States may not “possess, use, or transport firearms on national wildlife refuges” of the United States Fish and Wildlife Service.
 
-        (3) Section 27.42 of title 50, Code of Federal Regulations, provides that, except in special circumstances, citizens of the United States may not “possess, use, or transport firearms on national wildlife refuges” of the United States Fish and Wildlife Service.
+        (3) The regulations described in paragraph (2) prevent individuals complying with Federal and State laws from exercising the 2d amendment rights of the individuals while at units of the National Wildlife Refuge System.
 
-        (4)
+        (4) The existence of different laws relating to the transportation and possession of firearms at different units of the National Wildlife Refuge System entrapped law-abiding gun owners while at units of the National Wildlife Refuge System.
 
-         The regulations described in paragraphs (2) and (3) prevent individuals complying with Federal and State laws from exercising the second amendment rights of the individuals while at units of—
+        (5)
 
-            (A) the National Park System; and
-
-            (B) the National Wildlife Refuge System.
-
-        (5) The existence of different laws relating to the transportation and possession of firearms at different units of the National Park System and the National Wildlife Refuge System entrapped law-abiding gun owners while at units of the National Park System and the National Wildlife Refuge System.
-
-        (6)
-
-         Although the Bush administration issued new regulations relating to the Second Amendment rights of law-abiding citizens in units of the National Park System and National Wildlife Refuge System that went into effect on January 9, 2009—
+         Although the Bush administration issued new regulations relating to the 2d amendment rights of law-abiding citizens in units of the National Wildlife Refuge System that went into effect on January 9, 2009—
 
             (A) on March 19, 2009, the United States District Court for the District of Columbia granted a preliminary injunction with respect to the implementation and enforcement of the new regulations; and
 
@@ -45,23 +37,29 @@
 
              the new regulations—
 
-                (i) are under review by the administration; and
+                (i) are under review by the Obama administration; and
 
                 (ii) may be altered.
 
-        (7) Congress needs to weigh in on the new regulations to ensure that unelected bureaucrats and judges cannot again override the Second Amendment rights of law-abiding citizens on 83,600,000 acres of National Park System land and 90,790,000 acres of land under the jurisdiction of the United States Fish and Wildlife Service.
+        (6) Congress needs to weigh in on the new regulations to ensure that unelected bureaucrats and judges cannot again override the 2d amendment rights of law-abiding citizens on 90,790,000 acres of land under the jurisdiction of the United States Fish and Wildlife Service.
 
-        (8) The Federal laws should make it clear that the second amendment rights of an individual at a unit of the National Park System or the National Wildlife Refuge System should not be infringed.
+        (7) Federal laws should make it clear that the 2d amendment rights of an individual at a unit of the National Wildlife Refuge System should not be infringed.
 
-    (b) __Protecting the right of individuals to bear arms in units of the National Park System and the National Wildlife Refuge System__ 
+    (b)  __Protection of Right of Individuals To Bear arms in Units of the National Wildlife Refuge System__  __.—__ 
 
-    The Secretary of the Interior shall not promulgate or enforce any regulation that prohibits an individual from possessing a firearm including an assembled or functional firearm in any unit of the National Park System or the National Wildlife Refuge System if—
+    The Secretary shall not promulgate or enforce any regulation that prohibits an individual from possessing a firearm, including an assembled or functional firearm, in any unit of the National Wildlife Refuge System if—
 
         (1) the individual is not otherwise prohibited by law from possessing the firearm; and
 
-        (2) the possession of the firearm is in compliance with the law of the State in which the unit of the National Park System or the National Wildlife Refuge System is located.
+        (2) the possession of the firearm is in compliance with the law of the State in which the unit of the National Wildlife Refuge System is located.
 
-([Pub. L. 111–24, title V, § 512][/us/pl/111/24/s512], May 22, 2009, [123 Stat. 1764][/us/stat/123/1764].)
+([Pub. L. 111–24, title V, § 512][/us/pl/111/24/s512], May 22, 2009, [123 Stat. 1764][/us/stat/123/1764]; [Pub. L. 113–287][/us/pl/113/287], §§ 4(d), 7, Dec. 19, 2014, [128 Stat. 3263][/us/stat/128/3263], 3272.)
+
+ __Amendments__ 
+
+    2014—[Pub. L. 113–287, § 7][/us/pl/113/287/s7], which directed repeal of this section insofar as it related to the National Park System, could not be executed in light of the general amendment by [Pub. L. 113–287, § 4(d)][/us/pl/113/287/s4/d]. See below.
+
+    [Pub. L. 113–287, § 4(d)][/us/pl/113/287/s4/d], amended section generally. Prior to amendment, section related to the right of Americans to exercise their Second Amendment rights in the National Park System and the National Wildlife Refuge System.
 
  __Effective Date__ 
 
@@ -76,6 +74,11 @@
 
 [/us/pl/111/24/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs512
 [/us/stat/123/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1764
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/128/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3263
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/pl/113/287/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs4%2Fd
+[/us/pl/113/287/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs4%2Fd
 [/us/pl/111/24/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs3
 [/us/usc/t15/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602
 

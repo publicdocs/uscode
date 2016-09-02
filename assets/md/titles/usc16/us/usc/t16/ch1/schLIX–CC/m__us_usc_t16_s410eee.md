@@ -19,9 +19,9 @@
 
     Congress finds that—
 
-        (1) in 1946, Secretary of the Interior J.A. Krug, by means of the authority granted the Secretary of the Interior under [section 462 of this title][/us/usc/t16/s462], established the Adams Mansion National Historic Site, located in Quincy, Massachusetts;
+        (1) in 1946, Secretary of the Interior J.A. Krug, by means of the authority granted the Secretary of the Interior under [section 1866(a) of title 18][/us/usc/t18/s1866/a] and [section 320102 of title 54][/us/usc/t54/s320102], established the Adams Mansion National Historic Site, located in Quincy, Massachusetts;
 
-        (2) in 1952, Acting Secretary of the Interior Vernon D. Northrup enlarged the site and renamed it the Adams National Historic Site, using the Secretary’s authority as provided in sections 461 to 467 of this title;
+        (2) in 1952, Acting Secretary of the Interior Vernon D. Northrup enlarged the site and renamed it the Adams National Historic Site, using the Secretary’s authority as provided in sections 461 to 467  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title;
 
         (3) in 1972, Congress, through [Public Law 92–272][/us/pl/92/272], authorized the Secretary of the Interior to add approximately 3.68 acres at Adams National Historic Site;
 
@@ -31,7 +31,7 @@
 
         (6) the actions taken by past Secretaries of the Interior and past Congresses to preserve for the benefit, education and inspiration of present and future generations of Americans the home, property, birthplaces and burial site of John Adams, John Quincy Adams, and Abigail Adams, have resulted in a multi-site unit of the National Park System with no overarching enabling or authorizing legislation; and
 
-        (7) that  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “that” probably should not appear. </sup></sup>  the sites and resources associated with John Adams, second President of the United States, his wife Abigail Adams, and John Quincy Adams, sixth President of the United States, require recognition as a national historical park in the National Park System.
+        (7) that  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The word “that” probably should not appear. </sup></sup>  the sites and resources associated with John Adams, second President of the United States, his wife Abigail Adams, and John Quincy Adams, sixth President of the United States, require recognition as a national historical park in the National Park System.
 
     (b) __Purpose__ 
 
@@ -41,11 +41,17 @@
 
  __References in Text__ 
 
+    Sections 461 to 467 of this title, referred to in subsec. (a)(2), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+
     [Public Law 92–272][/us/pl/92/272], referred to in subsec. (a)(3), is [Pub. L. 92–272][/us/pl/92/272], Apr. 11, 1972, [86 Stat. 120][/us/stat/86/120]. Provisions of [Pub. L. 92–272][/us/pl/92/272] relating to Adams National Historic Site appear at [86 Stat. 121][/us/stat/86/121] and are not classified to the Code.
 
     [Public Law 95–625][/us/pl/95/625], referred to in subsec. (a)(4), is [Pub. L. 95–625][/us/pl/95/625], Nov. 10, 1978, [92 Stat. 3467][/us/stat/92/3467], as amended. Provisions of [Pub. L. 95–625][/us/pl/95/625] relating to Adams National Historic Site appear at [92 Stat. 3479][/us/stat/92/3479] and are not classified to the Code.
 
     [Public Law 96–435][/us/pl/96/435], referred to in subsec. (a)(5), is [Pub. L. 96–435][/us/pl/96/435], Oct. 10, 1980, [94 Stat. 1861][/us/stat/94/1861], which is not classified to the Code.
+
+ __Codification__ 
+
+    In subsec. (a)(1), “[section 1866(a) of title 18][/us/usc/t18/s1866/a] and [section 320102 of title 54][/us/usc/t54/s320102]” substituted for “section 2 of the Historic Sites Act of August 21, 1935” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Short Title__ 
 
@@ -60,12 +66,16 @@
 ----------
 ----------
 
-[/us/usc/t16/s462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs462
+[/us/usc/t18/s1866/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1866%2Fa
+[/us/usc/t54/s320102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320102
 [/us/pl/92/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F272
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 [/us/pl/96/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F435
 [/us/pl/105/342/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F342%2Fs2
 [/us/stat/112/3200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3200
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/92/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F272
 [/us/pl/92/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F272
 [/us/stat/86/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F120
@@ -79,6 +89,10 @@
 [/us/pl/96/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F435
 [/us/pl/96/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F435
 [/us/stat/94/1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1861
+[/us/usc/t18/s1866/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1866%2Fa
+[/us/usc/t54/s320102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320102
+[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/105/342/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F342%2Fs1
 [/us/stat/112/3200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3200
 

@@ -33,81 +33,9 @@ SUBCHAPTER I—NATIONAL PARK SERVICE  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1" data-uslm-ref="/us/usc/t16/s1">1.</a>  </td>
-
-    <td> Service created; director; other employees.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1a" data-uslm-ref="/us/usc/t16/s1a">1a.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1" data-uslm-ref="/us/usc/t16/s1">1</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937a" data-uslm-ref="/us/usc/t16/s1a–7a">1a–7a.</a>  </td>
 
     <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%931" data-uslm-ref="/us/usc/t16/s1a–1">1a–1.</a>  </td>
-
-    <td> National Park System: administration; declaration of findings and purpose.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%932" data-uslm-ref="/us/usc/t16/s1a–2">1a–2.</a>  </td>
-
-    <td> Secretary of the Interior’s authorization of activities.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%933" data-uslm-ref="/us/usc/t16/s1a–3">1a–3.</a>  </td>
-
-    <td> Legislative jurisdiction; relinquishment by Secretary; submittal of proposed agreement to Congressional committees; concurrent legislative jurisdiction.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%934" data-uslm-ref="/us/usc/t16/s1a–4">1a–4.</a>  </td>
-
-    <td> Uniform allowance.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%935" data-uslm-ref="/us/usc/t16/s1a–5">1a–5.</a>  </td>
-
-    <td> Additional areas for National Park System.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%936" data-uslm-ref="/us/usc/t16/s1a–6">1a–6.</a>  </td>
-
-    <td> Law enforcement personnel within National Park System.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937" data-uslm-ref="/us/usc/t16/s1a–7">1a–7.</a>  </td>
-
-    <td> National Park System development program.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937a" data-uslm-ref="/us/usc/t16/s1a–7a">1a–7a.</a>  </td>
-
-    <td> National Park System crime prevention assistance.  </td>
 
   </tr>
 
@@ -121,57 +49,9 @@ SUBCHAPTER I—NATIONAL PARK SERVICE  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%938" data-uslm-ref="/us/usc/t16/s1a–8">1a–8.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%938" data-uslm-ref="/us/usc/t16/s1a–8">1a–8</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%9314" data-uslm-ref="/us/usc/t16/s1a–14">1a–14.</a>  </td>
 
-    <td> Maintenance management system.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%939" data-uslm-ref="/us/usc/t16/s1a–9">1a–9.</a>  </td>
-
-    <td> Periodic review of National Park System.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%9310" data-uslm-ref="/us/usc/t16/s1a–10">1a–10.</a>  </td>
-
-    <td> Consultation with affected agencies and organizations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%9311" data-uslm-ref="/us/usc/t16/s1a–11">1a–11.</a>  </td>
-
-    <td> Contents of report.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%9312" data-uslm-ref="/us/usc/t16/s1a–12">1a–12.</a>  </td>
-
-    <td> Evaluation of proposed boundary changes.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%9313" data-uslm-ref="/us/usc/t16/s1a–13">1a–13.</a>  </td>
-
-    <td> Proposals for boundary changes.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%9314" data-uslm-ref="/us/usc/t16/s1a–14">1a–14.</a>  </td>
-
-    <td> National Park System advisory committees.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -179,111 +59,15 @@ SUBCHAPTER I—NATIONAL PARK SERVICE  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1b" data-uslm-ref="/us/usc/t16/s1b">1b.</a>  </td>
 
-    <td> Secretary of the Interior’s authorization of additional activities; administration of National Park System.  </td>
+    <td> Repealed or Transferred.  </td>
 
   </tr>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1c" data-uslm-ref="/us/usc/t16/s1c">1c.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1c" data-uslm-ref="/us/usc/t16/s1c">1c</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs4" data-uslm-ref="/us/usc/t16/s4">4.</a>  </td>
 
-    <td> General administration provisions; system defined; particular areas.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1d" data-uslm-ref="/us/usc/t16/s1d">1d.</a>  </td>
-
-    <td> Appropriations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1e" data-uslm-ref="/us/usc/t16/s1e">1e.</a>  </td>
-
-    <td> National Capital region arts and cultural affairs; grant program.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1f" data-uslm-ref="/us/usc/t16/s1f">1f.</a>  </td>
-
-    <td> Challenge cost-share agreement authority.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1g" data-uslm-ref="/us/usc/t16/s1g">1g.</a>  </td>
-
-    <td> Cooperative agreements.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1h" data-uslm-ref="/us/usc/t16/s1h">1h.</a>  </td>
-
-    <td> Sums provided by private entities for utility services.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1i" data-uslm-ref="/us/usc/t16/s1i">1i.</a>  </td>
-
-    <td> Reimbursable agreements.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1j" data-uslm-ref="/us/usc/t16/s1j">1j.</a>  </td>
-
-    <td> Cooperative agreements for national park natural resource protection.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2" data-uslm-ref="/us/usc/t16/s2">2.</a>  </td>
-
-    <td> National parks, reservations, and monuments; supervision.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3" data-uslm-ref="/us/usc/t16/s3">3.</a>  </td>
-
-    <td> Rules and regulations of national parks, reservations, and monuments; timber; leases.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3a" data-uslm-ref="/us/usc/t16/s3a">3a.</a>  </td>
-
-    <td> Recovery of costs associated with special use permits.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs3b" data-uslm-ref="/us/usc/t16/s3b">3b.</a>  </td>
-
-    <td> Maintenance and repair of Government improvements under concession contracts.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs4" data-uslm-ref="/us/usc/t16/s4">4.</a>  </td>
-
-    <td> Rights-of-way through public lands.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -291,343 +75,15 @@ SUBCHAPTER I—NATIONAL PARK SERVICE  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5" data-uslm-ref="/us/usc/t16/s5">5.</a>  </td>
 
-    <td> Rights-of-way through parks or reservations for power and communications facilities.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs6" data-uslm-ref="/us/usc/t16/s6">6.</a>  </td>
-
-    <td> Donations of lands within national parks and monuments and moneys.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs6a" data-uslm-ref="/us/usc/t16/s6a">6a</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs7" data-uslm-ref="/us/usc/t16/s7">7.</a>  </td>
-
-    <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs7a" data-uslm-ref="/us/usc/t16/s7a">7a.</a>  </td>
-
-    <td> Airports in national parks, monuments and recreation areas; construction, etc.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs7b" data-uslm-ref="/us/usc/t16/s7b">7b.</a>  </td>
-
-    <td> Acquisition of lands for airport use; contracts for operation and maintenance.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs7c" data-uslm-ref="/us/usc/t16/s7c">7c.</a>  </td>
-
-    <td> Authorization to sponsor airport projects; use of funds.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs7d" data-uslm-ref="/us/usc/t16/s7d">7d.</a>  </td>
-
-    <td> Jurisdiction over airports; public operation.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs7e" data-uslm-ref="/us/usc/t16/s7e">7e.</a>  </td>
-
-    <td> Definitions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs8" data-uslm-ref="/us/usc/t16/s8">8.</a>  </td>
-
-    <td> Roads and trails in national parks and monuments; construction, etc.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs8%E2%80%931" data-uslm-ref="/us/usc/t16/s8–1">8–1.</a>  </td>
-
-    <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs8a" data-uslm-ref="/us/usc/t16/s8a">8a.</a>  </td>
-
-    <td> National-park approach roads; designation.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs8b" data-uslm-ref="/us/usc/t16/s8b">8b.</a>  </td>
-
-    <td> National-park approach roads and roads and trails within national parks and national monuments; construction, improvement, and maintenance; appropriation.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs8c" data-uslm-ref="/us/usc/t16/s8c">8c.</a>  </td>
-
-    <td> National-park approach roads across or within national forests; approval of Secretary of Agriculture.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs8d" data-uslm-ref="/us/usc/t16/s8d">8d.</a>  </td>
-
-    <td> National-monument approach roads.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs8e" data-uslm-ref="/us/usc/t16/s8e">8e.</a>  </td>
-
-    <td> Conveyance to States of roads leading to certain historical areas; conditions; jurisdiction.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs8f" data-uslm-ref="/us/usc/t16/s8f">8f.</a>  </td>
-
-    <td> Roads leading to certain historical areas; “State” defined.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs9" data-uslm-ref="/us/usc/t16/s9">9.</a>  </td>
-
-    <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs9a" data-uslm-ref="/us/usc/t16/s9a">9a.</a>  </td>
-
-    <td> Government of parks, etc.; violation of regulations as misdemeanor.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs10" data-uslm-ref="/us/usc/t16/s10">10</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs10a" data-uslm-ref="/us/usc/t16/s10a">10a.</a>  </td>
-
-    <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs11" data-uslm-ref="/us/usc/t16/s11">11.</a>  </td>
-
-    <td> Medical attention for employees.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs12" data-uslm-ref="/us/usc/t16/s12">12.</a>  </td>
-
-    <td> Aid to visitors in emergencies.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs13" data-uslm-ref="/us/usc/t16/s13">13.</a>  </td>
-
-    <td> Medical attention to employees at isolated places; removal of bodies for burial.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs14" data-uslm-ref="/us/usc/t16/s14">14.</a>  </td>
-
-    <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs14a" data-uslm-ref="/us/usc/t16/s14a">14a.</a>  </td>
-
-    <td> Appropriations; availability for printing information and signs.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs14b" data-uslm-ref="/us/usc/t16/s14b">14b.</a>  </td>
-
-    <td> Credits of receipts for meals and quarters furnished Government employees in the field.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs14c" data-uslm-ref="/us/usc/t16/s14c">14c.</a>  </td>
-
-    <td> Availability for expense of recording donated lands.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs14d" data-uslm-ref="/us/usc/t16/s14d">14d.</a>  </td>
-
-    <td> Use of funds for law enforcement and emergencies.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs14e" data-uslm-ref="/us/usc/t16/s14e">14e.</a>  </td>
-
-    <td> Contribution for annuity benefits.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs15" data-uslm-ref="/us/usc/t16/s15">15.</a>  </td>
-
-    <td> Appropriations for purchase of equipment; waterproof footwear.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs16" data-uslm-ref="/us/usc/t16/s16">16.</a>  </td>
-
-    <td> Central warehouses at parks and monuments; maintenance; purchase of supplies and materials; distribution.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17" data-uslm-ref="/us/usc/t16/s17">17.</a>  </td>
-
-    <td> Personal equipment and supplies for employees; purchase by Secretary of the Interior; deductions from moneys due employees.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17a" data-uslm-ref="/us/usc/t16/s17a">17a.</a>  </td>
-
-    <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17b" data-uslm-ref="/us/usc/t16/s17b">17b.</a>  </td>
-
-    <td> Services or other accommodations for public; contracts; rates.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17b%E2%80%931" data-uslm-ref="/us/usc/t16/s17b–1">17b–1.</a>  </td>
-
-    <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17c" data-uslm-ref="/us/usc/t16/s17c">17c.</a>  </td>
-
-    <td> Procurement of supplies, materials, and special services to aid permittees and licensees in emergencies; authority of Secretary of the Interior.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17d" data-uslm-ref="/us/usc/t16/s17d">17d.</a>  </td>
-
     <td> Omitted.  </td>
 
   </tr>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17e" data-uslm-ref="/us/usc/t16/s17e">17e.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs6" data-uslm-ref="/us/usc/t16/s6">6</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17j%E2%80%931" data-uslm-ref="/us/usc/t16/s17j–1">17j–1.</a>  </td>
 
-    <td> Care and removal of indigents; disposition of dead persons.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17f" data-uslm-ref="/us/usc/t16/s17f">17f.</a>  </td>
-
-    <td> Property of employee lost, damaged, or destroyed while in use on official business; reimbursement of employee.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17g" data-uslm-ref="/us/usc/t16/s17g">17g.</a>  </td>
-
-    <td> Equipment required by field employees; by whom furnished and maintained.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17h" data-uslm-ref="/us/usc/t16/s17h">17h.</a>  </td>
-
-    <td> Hire, rental, and purchase of property of employees; when authorized.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17i" data-uslm-ref="/us/usc/t16/s17i">17i.</a>  </td>
-
-    <td> Hire of work animals, vehicles and equipment with or without personal services; rates.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17j" data-uslm-ref="/us/usc/t16/s17j">17j.</a>  </td>
-
-    <td> Traveling expenses of National Park System employees and dependents of deceased employees.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17j%E2%80%931" data-uslm-ref="/us/usc/t16/s17j–1">17j–1.</a>  </td>
-
-    <td> Omitted.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -635,93 +91,13 @@ SUBCHAPTER I—NATIONAL PARK SERVICE  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17j%E2%80%932" data-uslm-ref="/us/usc/t16/s17j–2">17j–2.</a>  </td>
 
-    <td> Authorization of appropriations for road maintenance and repair; administrative expenses; lectures, investigations, telephone service, etc.  </td>
+    <td> Authorization of appropriations for road maintenance and repair, etc.  </td>
 
   </tr>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17k" data-uslm-ref="/us/usc/t16/s17k">17k.</a>  </td>
-
-    <td> Park, parkway and recreational-area programs; study by National Park Service; consent of States; purpose; cooperation of government agencies.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17" data-uslm-ref="/us/usc/t16/s17">17</a>l.  </td>
-
-    <td> Coordination; planning by States with aid of National Park Service.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17m" data-uslm-ref="/us/usc/t16/s17m">17m.</a>  </td>
-
-    <td> Consent of Congress to agreements between States; when agreements effective.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17n" data-uslm-ref="/us/usc/t16/s17n">17n.</a>  </td>
-
-    <td> “State” defined.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17" data-uslm-ref="/us/usc/t16/s17">17</a>o.  </td>
-
-    <td> National Park Service housing improvement.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs18" data-uslm-ref="/us/usc/t16/s18">18.</a>  </td>
-
-    <td> Promotion of tourist travel.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs18a" data-uslm-ref="/us/usc/t16/s18a">18a.</a>  </td>
-
-    <td> Cooperation with travel agencies; publication of information.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs18b" data-uslm-ref="/us/usc/t16/s18b">18b.</a>  </td>
-
-    <td> Advisory committee for promotion of tourist travel; expenses.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs18c" data-uslm-ref="/us/usc/t16/s18c">18c.</a>  </td>
-
-    <td> Rules and regulations; employees.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs18d" data-uslm-ref="/us/usc/t16/s18d">18d.</a>  </td>
-
-    <td> Authorization of appropriations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs18e" data-uslm-ref="/us/usc/t16/s18e">18e.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17k" data-uslm-ref="/us/usc/t16/s17k">17k</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17n" data-uslm-ref="/us/usc/t16/s17n">17n.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -729,33 +105,17 @@ SUBCHAPTER I—NATIONAL PARK SERVICE  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs18f" data-uslm-ref="/us/usc/t16/s18f">18f.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs17" data-uslm-ref="/us/usc/t16/s17">17</a>o.  </td>
 
-    <td> Management of museum properties.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs18f%E2%80%931" data-uslm-ref="/us/usc/t16/s18f–1">18f–1.</a>  </td>
-
-    <td> Disposal of unnecessary or duplicate museum objects; use of proceeds.  </td>
+    <td> Repealed or Omitted.  </td>
 
   </tr>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs18f%E2%80%932" data-uslm-ref="/us/usc/t16/s18f–2">18f–2.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs18" data-uslm-ref="/us/usc/t16/s18">18</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs18f%E2%80%933" data-uslm-ref="/us/usc/t16/s18f–3">18f–3.</a>  </td>
 
-    <td> Additional functions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs18f%E2%80%933" data-uslm-ref="/us/usc/t16/s18f–3">18f–3.</a>  </td>
-
-    <td> Application and definitions.  </td>
+    <td> Repealed or Transferred.  </td>
 
   </tr>
 
@@ -769,33 +129,9 @@ SUBCHAPTER II—VOLUNTEERS IN PARKS PROGRAM  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs18g" data-uslm-ref="/us/usc/t16/s18g">18g.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs18g" data-uslm-ref="/us/usc/t16/s18g">18g</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs18j" data-uslm-ref="/us/usc/t16/s18j">18j.</a>  </td>
 
-    <td> Creation of program.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs18h" data-uslm-ref="/us/usc/t16/s18h">18h.</a>  </td>
-
-    <td> Incidental expenses.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs18i" data-uslm-ref="/us/usc/t16/s18i">18i.</a>  </td>
-
-    <td> Federal employee status for volunteers.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs18j" data-uslm-ref="/us/usc/t16/s18j">18j.</a>  </td>
-
-    <td> Authorization of appropriations.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -809,97 +145,9 @@ SUBCHAPTER III—NATIONAL PARK FOUNDATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19" data-uslm-ref="/us/usc/t16/s19">19</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19d" data-uslm-ref="/us/usc/t16/s19d">19d.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19" data-uslm-ref="/us/usc/t16/s19">19</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19" data-uslm-ref="/us/usc/t16/s19">19</a>o.  </td>
 
     <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19e" data-uslm-ref="/us/usc/t16/s19e">19e.</a>  </td>
-
-    <td> Congressional statement of purpose; establishment of Foundation.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19f" data-uslm-ref="/us/usc/t16/s19f">19f.</a>  </td>
-
-    <td> Board: membership, term of office, vacancies, Chairman, Secretary, non-Federal office, quorum, seal, meetings, compensation, traveling and subsistence expenses; Foundation as successor to right, title, and interest of National Park Trust Fund Board in property or funds; abolition and repeal of National Park Trust Fund and Board provisions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19g" data-uslm-ref="/us/usc/t16/s19g">19g.</a>  </td>
-
-    <td> Gifts, devises, or bequests; restriction; real property interests; property with encumbrances, restrictions, or subject to beneficial interests of private persons.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19h" data-uslm-ref="/us/usc/t16/s19h">19h.</a>  </td>
-
-    <td> Property and income dealings and transactions; prohibition of engagement in business; trust company type of investments; utilization of services and facilities of Federal agencies without reimbursement; transfer instrument requirements and investments.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19i" data-uslm-ref="/us/usc/t16/s19i">19i.</a>  </td>
-
-    <td> Corporate succession; powers and duties of trustee; suits; personal liability for malfeasance.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19j" data-uslm-ref="/us/usc/t16/s19j">19j.</a>  </td>
-
-    <td> Authority for execution of contracts, instruments, and necessary or appropriate acts.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19k" data-uslm-ref="/us/usc/t16/s19k">19k.</a>  </td>
-
-    <td> Bylaws, rules, and regulations; contracts for services.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19" data-uslm-ref="/us/usc/t16/s19">19</a>l.  </td>
-
-    <td> Tax exemptions; contributions toward costs of local government; contributions, gifts, or transfers to or for use of United States.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19m" data-uslm-ref="/us/usc/t16/s19m">19m.</a>  </td>
-
-    <td> Liability of United States.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19n" data-uslm-ref="/us/usc/t16/s19n">19n.</a>  </td>
-
-    <td> Omitted.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19" data-uslm-ref="/us/usc/t16/s19">19</a>o.  </td>
-
-    <td> Promotion of local fundraising support.  </td>
 
   </tr>
 
@@ -929,41 +177,9 @@ SUBCHAPTER III–B—PARK SYSTEM RESOURCE PROTECTION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19jj" data-uslm-ref="/us/usc/t16/s19jj">19jj.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19jj" data-uslm-ref="/us/usc/t16/s19jj">19jj</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19jj%E2%80%934" data-uslm-ref="/us/usc/t16/s19jj–4">19jj–4.</a>  </td>
 
-    <td> Definitions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19jj%E2%80%931" data-uslm-ref="/us/usc/t16/s19jj–1">19jj–1.</a>  </td>
-
-    <td> Liability.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19jj%E2%80%932" data-uslm-ref="/us/usc/t16/s19jj–2">19jj–2.</a>  </td>
-
-    <td> Actions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19jj%E2%80%933" data-uslm-ref="/us/usc/t16/s19jj–3">19jj–3.</a>  </td>
-
-    <td> Use of recovered amounts.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs19jj%E2%80%934" data-uslm-ref="/us/usc/t16/s19jj–4">19jj–4.</a>  </td>
-
-    <td> Donations.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -7499,7 +6715,7 @@ SUBCHAPTER LIX–C—SAN ANTONIO MISSIONS NATIONAL HISTORICAL PARK  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs410ee" data-uslm-ref="/us/usc/t16/s410ee">410ee.</a>  </td>
 
-    <td> Establishment.  </td>
+    <td> San Antonio Missions National Historical Park.  </td>
 
   </tr>
 
@@ -9923,79 +9139,127 @@ SUBCHAPTER LIX–MM—PINNACLES NATIONAL PARK  </td>
 
     <td> 
 
+SUBCHAPTER LIX–NN—BLACKSTONE VALLEY NATIONAL HISTORICAL PARK  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs410ppp" data-uslm-ref="/us/usc/t16/s410ppp">410ppp.</a>  </td>
+
+    <td> Blackstone River Valley National Historical Park.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+SUBCHAPTER LIX–OO—COLTSVILLE NATIONAL HISTORICAL PARK  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs410qqq" data-uslm-ref="/us/usc/t16/s410qqq">410qqq.</a>  </td>
+
+    <td> Coltsville National Historical Park.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+SUBCHAPTER LIX–PP—FIRST STATE NATIONAL HISTORICAL PARK  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs410rrr" data-uslm-ref="/us/usc/t16/s410rrr">410rrr.</a>  </td>
+
+    <td> First State National Historical Park.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+SUBCHAPTER LIX–QQ—HARRIET TUBMAN UNDERGROUND RAILROAD NATIONAL HISTORICAL PARK  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs410sss" data-uslm-ref="/us/usc/t16/s410sss">410sss.</a>  </td>
+
+    <td> Harriet Tubman Underground Railroad National Historical Park, Maryland.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+SUBCHAPTER LIX–RR—HARRIET TUBMAN NATIONAL HISTORICAL PARK  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs410ttt" data-uslm-ref="/us/usc/t16/s410ttt">410ttt.</a>  </td>
+
+    <td> Harriet Tubman National Historical Park, Auburn, New York.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+SUBCHAPTER LIX–SS—MANHATTAN PROJECT NATIONAL HISTORICAL PARK  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs410uuu" data-uslm-ref="/us/usc/t16/s410uuu">410uuu.</a>  </td>
+
+    <td> Manhattan Project National Historical Park.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+SUBCHAPTER LIX–TT—OREGON CAVES NATIONAL MONUMENT AND PRESERVE  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs410vvv" data-uslm-ref="/us/usc/t16/s410vvv">410vvv.</a>  </td>
+
+    <td> Oregon Caves National Monument and Preserve.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
 SUBCHAPTER LX—NATIONAL MILITARY PARKS  </td>
 
   </tr>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs411" data-uslm-ref="/us/usc/t16/s411">411.</a>  </td>
-
-    <td> Military maneuvers.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs412" data-uslm-ref="/us/usc/t16/s412">412.</a>  </td>
-
-    <td> Camps for military instruction; regulations for militia.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs413" data-uslm-ref="/us/usc/t16/s413">413.</a>  </td>
-
-    <td> Offenses relating to structures and vegetation.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs414" data-uslm-ref="/us/usc/t16/s414">414.</a>  </td>
-
-    <td> Trespassing for hunting, or shooting.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs415" data-uslm-ref="/us/usc/t16/s415">415.</a>  </td>
-
-    <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs416" data-uslm-ref="/us/usc/t16/s416">416.</a>  </td>
-
-    <td> Refusal to surrender leased land; recovery.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs417" data-uslm-ref="/us/usc/t16/s417">417</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs419" data-uslm-ref="/us/usc/t16/s419">419.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs411" data-uslm-ref="/us/usc/t16/s411">411</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs421" data-uslm-ref="/us/usc/t16/s421">421.</a>  </td>
 
     <td> Omitted, Repealed, or Transferred.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs420" data-uslm-ref="/us/usc/t16/s420">420.</a>  </td>
-
-    <td> Rights-of-way through military and other reservations for power and communications facilities.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs421" data-uslm-ref="/us/usc/t16/s421">421.</a>  </td>
-
-    <td> Vacancies occurring in commissions in charge of parks not to be filled.  </td>
 
   </tr>
 
@@ -11241,6 +10505,14 @@ SUBCHAPTER LX—NATIONAL MILITARY PARKS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs430h%E2%80%9314" data-uslm-ref="/us/usc/t16/s430h–14">430h–14.</a>  </td>
+
+    <td> Vicksburg National Military Park.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs430i" data-uslm-ref="/us/usc/t16/s430i">430i.</a>  </td>
 
     <td> Guilford Courthouse National Military Park.  </td>
@@ -11625,33 +10897,9 @@ SUBCHAPTER LXI—NATIONAL AND INTERNATIONAL MONUMENTS AND MEMORIALS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs431" data-uslm-ref="/us/usc/t16/s431">431.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs431" data-uslm-ref="/us/usc/t16/s431">431</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs433" data-uslm-ref="/us/usc/t16/s433">433.</a>  </td>
 
-    <td> National monuments; reservation of lands; relinquishment of private claims.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs431a" data-uslm-ref="/us/usc/t16/s431a">431a.</a>  </td>
-
-    <td> Limitation on further extension or establishment of national monuments in Wyoming.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs432" data-uslm-ref="/us/usc/t16/s432">432.</a>  </td>
-
-    <td> Permits to examine ruins, excavations, and gathering of objects; regulations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs433" data-uslm-ref="/us/usc/t16/s433">433.</a>  </td>
-
-    <td> American antiquities.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -12969,33 +12217,9 @@ SUBCHAPTER LXII—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs451" data-uslm-ref="/us/usc/t16/s451">451.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs451" data-uslm-ref="/us/usc/t16/s451">451</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs452a" data-uslm-ref="/us/usc/t16/s452a">452a.</a>  </td>
 
     <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs451a" data-uslm-ref="/us/usc/t16/s451a">451a.</a>  </td>
-
-    <td> Limitation on further extension or establishment of national parks in Wyoming.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs452" data-uslm-ref="/us/usc/t16/s452">452.</a>  </td>
-
-    <td> Revenues of national parks covered into Treasury; estimates for care of parks.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs452a" data-uslm-ref="/us/usc/t16/s452a">452a.</a>  </td>
-
-    <td> Acquisition of non-Federal land within existing boundaries of any National Park; donations; authorization of appropriations.  </td>
 
   </tr>
 
@@ -13009,81 +12233,9 @@ SUBCHAPTER LXII—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs454" data-uslm-ref="/us/usc/t16/s454">454.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs454" data-uslm-ref="/us/usc/t16/s454">454</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs458a" data-uslm-ref="/us/usc/t16/s458a">458a.</a>  </td>
 
     <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs455" data-uslm-ref="/us/usc/t16/s455">455.</a>  </td>
-
-    <td> Study of battlefields for commemorative purposes.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs455a" data-uslm-ref="/us/usc/t16/s455a">455a.</a>  </td>
-
-    <td> Report to Congress.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs455b" data-uslm-ref="/us/usc/t16/s455b">455b.</a>  </td>
-
-    <td> Inclusion of estimate of cost of projected surveys in appropriation estimates.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs455c" data-uslm-ref="/us/usc/t16/s455c">455c.</a>  </td>
-
-    <td> Purchase of real estate for military park.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs456" data-uslm-ref="/us/usc/t16/s456">456.</a>  </td>
-
-    <td> Expense of depositing money payable from appropriations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs456a" data-uslm-ref="/us/usc/t16/s456a">456a.</a>  </td>
-
-    <td> Collections and pay-roll deductions for meals and quarters.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs457" data-uslm-ref="/us/usc/t16/s457">457.</a>  </td>
-
-    <td> Action for death or personal injury within national park or other place under jurisdiction of United States; application of State laws.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs458" data-uslm-ref="/us/usc/t16/s458">458.</a>  </td>
-
-    <td> Travel expenses incident to study of battlefields; payment.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs458a" data-uslm-ref="/us/usc/t16/s458a">458a.</a>  </td>
-
-    <td> Mats for reproduction in magazines and newspapers of photographs of scenery.  </td>
 
   </tr>
 
@@ -14257,33 +13409,9 @@ Part A—Coordination of Programs  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l to 460l–3.  </td>
 
-    <td> Congressional findings and declaration of policy.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–1.  </td>
-
-    <td> Powers and duties of Secretary of the Interior.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–2.  </td>
-
-    <td> Consultations of Secretary of the Interior with administrative officers; execution of administrative responsibilities in conformity with nationwide plan.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–3.  </td>
-
-    <td> Definitions.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -14297,49 +13425,9 @@ Part B—Land and Water Conservation Fund  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–4 to 460l–6b.  </td>
 
-    <td> Land and water conservation provisions; statement of purposes.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–5.  </td>
-
-    <td> Land and water conservation fund; establishment; covering certain revenues and collections into fund.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–5a.  </td>
-
-    <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–6.  </td>
-
-    <td> Appropriations for expenditure of land and water conservation fund moneys; transfers to miscellaneous receipts of Treasury.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–6a.  </td>
-
-    <td> Admission and special recreation use fees.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–6b.  </td>
-
-    <td> Repealed.  </td>
+    <td> Repealed or Transferred.  </td>
 
   </tr>
 
@@ -14361,81 +13449,9 @@ Part B—Land and Water Conservation Fund  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–7 to 460l–11.  </td>
 
-    <td> Allocation of land and water conservation fund for State and Federal purposes.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–8.  </td>
-
-    <td> Financial assistance to States.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–9.  </td>
-
-    <td> Allocation of land and water conservation fund moneys for Federal purposes.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–10.  </td>
-
-    <td> Availability of land and water conservation fund for publicity purposes; standardized temporary signing; standards and guidelines.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–10a.  </td>
-
-    <td> Contracts for acquisition of lands and waters.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–10b.  </td>
-
-    <td> Contracts for options to acquire lands and waters in national park system.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–10c.  </td>
-
-    <td> Repeal of provisions prohibiting collection of recreation fees or user charges.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–10d.  </td>
-
-    <td> Review and report; submittal to Congressional committees; contents.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–10e.  </td>
-
-    <td> Advisory Commission on water-based recreation.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–11.  </td>
-
-    <td> Transfers to and from land and water conservation fund.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -14539,7 +13555,7 @@ Part D—Land Transfers  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–22.  </td>
 
-    <td> Conveyance of property and interests in property in national park system and miscellaneous areas.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -19588,6 +18604,22 @@ SUBCHAPTER CXXXVII—DOMINGUEZ-ESCALANTE NATIONAL CONSERVATION AREA  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460zzz%E2%80%937" data-uslm-ref="/us/usc/t16/s460zzz–7">460zzz–7.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+SUBCHAPTER CXXXVIII—NELLIS DUNES OFF-HIGHWAY VEHICLE RECREATION AREA  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460aaaa" data-uslm-ref="/us/usc/t16/s460aaaa">460aaaa.</a>  </td>
+
+    <td> Nellis Dunes Off-Highway Vehicle Recreation Area.  </td>
 
   </tr>
 

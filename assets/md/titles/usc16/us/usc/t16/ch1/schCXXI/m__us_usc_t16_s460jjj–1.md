@@ -25,7 +25,7 @@
 
     (c) __Cultural resources__ 
 
-        In administering the recreation area, the Secretary shall give particular emphasis to the preservation, stabilization, and protection of cultural resources located within the recreation area in furtherance of the Archaeological Resources Protection Act of 1979 \[[16 U.S.C. 470aa][/us/usc/t16/s470aa] et seq.\], the National Historic Preservation Act \[[16 U.S.C. 470][/us/usc/t16/s470] et seq.\], and the Act of August 11, 1978 \[[42 U.S.C. 1996][/us/usc/t42/s1996], 1996a\] (commonly referred to as the “American Indian Religious Freedom Act”).
+        In administering the recreation area, the Secretary shall give particular emphasis to the preservation, stabilization, and protection of cultural resources located within the recreation area in furtherance of the Archaeological Resources Protection Act of 1979 \[[16 U.S.C. 470aa][/us/usc/t16/s470aa] et seq.\], the National Historic Preservation Act, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and the Act of August 11, 1978 \[[42 U.S.C. 1996][/us/usc/t42/s1996], 1996a\] (commonly referred to as the “American Indian Religious Freedom Act”).
 
     (d) __Native Americans__ 
 
@@ -97,7 +97,7 @@
 
     The Archaeological Resources Protection Act of 1979, referred to in subsec. (c), is [Pub. L. 96–95][/us/pl/96/95], Oct. 31, 1979, [93 Stat. 721][/us/stat/93/721], which is classified generally to chapter 1B (§ 470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 470aa of this title][/us/usc/t16/s470aa] and Tables.
 
-    The National Historic Preservation Act, referred to in subsec. (c), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], as amended, which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see [section 470 of this title][/us/usc/t16/s470] and Tables.
+    The National Historic Preservation Act, referred to in subsec. (c), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title prior to the enactment of Title 54, National Park Service and Related Programs. See [54 U.S.C. 300101][/us/usc/t54/s300101] et seq.
 
     The American Indian Religious Freedom Act, referred to in subsecs. (c) and (d)(1), is [Pub. L. 95–341][/us/pl/95/341], Aug. 11, 1978, [92 Stat. 469][/us/stat/92/469], as amended, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1996 of Title 42][/us/usc/t42/s1996] and Tables.
 
@@ -112,7 +112,6 @@
 
 [/us/usc/t16/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1604
 [/us/usc/t16/s470aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470aa
-[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
 [/us/usc/t42/s1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1996
 [/us/usc/t42/s1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1996
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
@@ -123,7 +122,7 @@
 [/us/usc/t16/s470aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470aa
 [/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
 [/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
-[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
+[/us/usc/t54/s300101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs300101
 [/us/pl/95/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F341
 [/us/stat/92/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F469
 [/us/usc/t42/s1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1996

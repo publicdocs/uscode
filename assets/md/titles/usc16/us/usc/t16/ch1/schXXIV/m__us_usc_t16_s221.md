@@ -27,6 +27,26 @@
 
 > “This act \[enacting sections 228a to 228j of this title, amending [section 227 of this title][/us/usc/t16/s227], and repealing [section 223 of this title][/us/usc/t16/s223]\] may be cited as the ‘Grand Canyon National Park Enlargement Act’.”
 
+ __Study of Air Traffic Over Grand Canyon__ 
+
+[Pub. L. 102–581, title I, § 134][/us/pl/102/581/s134], Oct. 31, 1992, [106 Stat. 4887][/us/stat/106/4887], provided that:
+
+>     “(a)  __Study__  __.—__ 
+
+>     The Administrator of the Federal Aviation Administration, in consultation with the Director of the National Park Service, the State of Arizona, the State of Nevada, the Clark County Department of Aviation, affected Indian tribes, and the general public, shall conduct a study on increased air traffic over Grand Canyon National Park.
+
+>     “(b)  __Report__  __.—__ 
+
+>     The Administrator of the Federal Aviation Administration shall submit to Congress a report on the results of the study conducted under subsection (a). The report shall include the following:
+
+>         “(1) A report on the increase in air traffic over Grand Canyon National Park since 1987.
+
+>         “(2) A forecast of the increase in air traffic over Grand Canyon National Park through 2010.
+
+>         “(3) A report on the carrying capacity of the airspace over Grand Canyon National Park to ensure aviation safety and to meet the requirements established by [section 3 of the Act of August 18, 1987][/us/act/1987-08-18/s3] ([Public Law 100–91][/us/pl/100/91]; [101 Stat. 676][/us/stat/101/676]), including the substantial restoration of natural quiet at the Park.
+
+>         “(4) A plan of action to manage increased air traffic over Grand Canyon National Park to ensure aviation safety and to meet the requirements established by such [section 3 of the Act of August 18, 1987][/us/act/1987-08-18/s3], including any measures to encourage or require the use of quiet aircraft technology by commercial air tour operators.”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t16/ch1/schXXIV/m__us_usc_t16_ch1_schXXIV.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXIV/m__us_usc_t16_s221a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs221)
@@ -40,5 +60,11 @@
 [/us/stat/88/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2089
 [/us/usc/t16/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs227
 [/us/usc/t16/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs223
+[/us/pl/102/581/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581%2Fs134
+[/us/stat/106/4887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4887
+[/us/act/1987-08-18/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1987-08-18%2Fs3
+[/us/pl/100/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F91
+[/us/stat/101/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F676
+[/us/act/1987-08-18/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1987-08-18%2Fs3
 
 

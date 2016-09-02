@@ -13,11 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t16/ch1A/schII/ptA/m__us_usc_t16_s470d.md) | [Next](./../../../../../..//us/usc/t16/ch1A/schII/ptA/m__us_usc_t16_s470f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470e)
 
-## § 470e. Recordkeeping; recipients of assistance; audit
+## § 470e. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    The beneficiary of assistance under this subchapter shall keep such records as the Secretary shall prescribe, including records which fully disclose the disposition by the beneficiary of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount and nature of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
-
-([Pub. L. 89–665, title I, § 105][/us/pl/89/665/s105], Oct. 15, 1966, [80 Stat. 917][/us/stat/80/917].)
+    Section, [Pub. L. 89–665, title I, § 105][/us/pl/89/665/s105], Oct. 15, 1966, [80 Stat. 917][/us/stat/80/917], related to recordkeeping. See [section 302910 of Title 54][/us/usc/t54/s302910], National Park Service and Related Programs.
 
 ----------
 
@@ -26,7 +24,10 @@
 ----------
 ----------
 
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/89/665/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665%2Fs105
 [/us/stat/80/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F917
+[/us/usc/t54/s302910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs302910
 
 

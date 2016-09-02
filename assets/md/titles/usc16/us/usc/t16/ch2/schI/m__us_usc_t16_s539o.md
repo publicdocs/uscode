@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s539n.md) | [Next](./../../../../..//us/usc/t16/ch2/schII/m__us_usc_t16_ch2_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539o)
+[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s539n.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s539p.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539o)
 
 ## § 539o. Ancient Bristlecone Pine Forest
 
@@ -95,7 +95,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s539n.md) | [Next](./../../../../..//us/usc/t16/ch2/schII/m__us_usc_t16_ch2_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539o)
+[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s539n.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s539p.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539o)
 
 ----------
 ----------

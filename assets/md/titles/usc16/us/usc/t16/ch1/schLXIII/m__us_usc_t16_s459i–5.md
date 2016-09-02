@@ -17,11 +17,11 @@
 
     (a) __Applicability of provisions; utilization of statutory authorities__ 
 
-        The seashore shall be administered, protected, and developed in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented, except that any other statutory authority available to the Secretary for the conservation and management of natural resources may be utilized to the extent he finds such authority will further the purposes of sections 459i to 459i–9 of this title.
+        The seashore shall be administered, protected, and developed in accordance with the provisions of sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, as amended and supplemented, except that any other statutory authority available to the Secretary for the conservation and management of natural resources may be utilized to the extent he finds such authority will further the purposes of sections 459i to 459i–9 of this title.
 
     (b) __Preservation in primitive state; recreational activities exception__ 
 
-        Except for certain portions of the seashore deemed to be especially adaptable for recreational uses, particularly swimming, boating, fishing, hiking, horseback riding, and other recreational activities of similar nature, which shall be developed for such uses as needed, the seashore shall be permanently preserved in its primitive state, and, except as provided in subsection (c) of this section, no development of the project or plan for the convenience of visitors shall be undertaken which would be incompatible with the preservation of the unique flora and fauna or the physiographic conditions not  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “now”. </sup></sup>  prevailing, nor shall any road or causeway connecting Cumberland Island to the mainland be constructed.
+        Except for certain portions of the seashore deemed to be especially adaptable for recreational uses, particularly swimming, boating, fishing, hiking, horseback riding, and other recreational activities of similar nature, which shall be developed for such uses as needed, the seashore shall be permanently preserved in its primitive state, and, except as provided in subsection (c) of this section, no development of the project or plan for the convenience of visitors shall be undertaken which would be incompatible with the preservation of the unique flora and fauna or the physiographic conditions not  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “now”. </sup></sup>  prevailing, nor shall any road or causeway connecting Cumberland Island to the mainland be constructed.
 
     (c) __Tours of the seashore__ 
 
@@ -36,6 +36,8 @@
 ([Pub. L. 92–536, § 6][/us/pl/92/536/s6], Oct. 23, 1972, [86 Stat. 1068][/us/stat/86/1068]; [Pub. L. 108–447, div. E, title I, § 145(b)][/us/pl/108/447/s145/b], Dec. 8, 2004, [118 Stat. 3073][/us/stat/118/3073].)
 
  __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
     The Wilderness Act, referred to in subsec. (c)(2), is [Pub. L. 88–577][/us/pl/88/577], Sept. 3, 1964, [78 Stat. 890][/us/stat/78/890], as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title][/us/usc/t16/s1131] and Tables.
 
@@ -61,6 +63,9 @@
 [/us/stat/86/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1068
 [/us/pl/108/447/s145/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs145%2Fb
 [/us/stat/118/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3073
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s539o.md) | [Next](./../../../../..//us/usc/t16/ch2/schII/m__us_usc_t16_s541.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch2%2FschII)
+[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s539r.md) | [Next](./../../../../..//us/usc/t16/ch2/schII/m__us_usc_t16_s541.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch2%2FschII)
 
 ### SUBCHAPTER II—SCENIC AREAS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s539o.md) | [Next](./../../../../..//us/usc/t16/ch2/schII/m__us_usc_t16_s541.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch2%2FschII)
+[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s539r.md) | [Next](./../../../../..//us/usc/t16/ch2/schII/m__us_usc_t16_s541.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch2%2FschII)
 
 ----------
 ----------

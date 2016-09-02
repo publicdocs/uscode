@@ -49,7 +49,7 @@
 
  __Greer Spring Acquisition and Protection__ 
 
-[Pub. L. 102–220][/us/pl/102/220], §§ 1–3, 5, Dec. 11, 1991, [105 Stat. 1674][/us/stat/105/1674], 1675, provided that:
+[Pub. L. 102–220][/us/pl/102/220], §§ 1–3, 5, Dec. 11, 1991, [105 Stat. 1674][/us/stat/105/1674], 1675, as amended by [Pub. L. 113–287, § 5(d)(13)][/us/pl/113/287/s5/d/13], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -59,7 +59,7 @@
 
 >     “(a) The Secretary of Agriculture (hereinafter referred to as the ‘Secretary’) is hereby authorized and directed, subject to appropriations, to acquire all of the lands, waters, and interests therein, on a willing seller basis only, within the area generally depicted on a map entitled ‘Dennig Tract’, dated November 5, 1991 (hereinafter referred to as ‘the map’). The map, together with a legal description of such lands, shall be on file and available for public inspection in the offices of the Forest Service, Department of Agriculture. The boundaries of the Mark Twain National Forest are hereby modified to include the area denoted ‘Dennig Property Outside of National Forest Boundary’ on the map. Such map and legal description shall have the same force and effect as if included in this Act, except that the correction of clerical and typographical errors in such map and legal description may be made by the Secretary.
 
->     “(b) Such modified boundaries shall be considered as the boundaries in existence as of January 1, 1965, for the purposes of section 7 of the Land and Water Conservation Fund Act ([16 U.S.C. 460][/us/usc/t16/s460]l–9).
+>     “(b) Such modified boundaries shall be considered as the boundaries in existence as of January 1, 1965, for the purposes of [section 100506 of title 54][/us/usc/t54/s100506], United States Code.
 
 > “SEC. 3. __ELEVEN POINT WILD AND SCENIC RIVER.__ 
 
@@ -68,6 +68,8 @@
 > “SEC. 5. __APPROPRIATIONS.__ 
 
 >     “There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act.”
+
+    \[[Pub. L. 113–287, § 5(d)(13)][/us/pl/113/287/s5/d/13], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], which directed amendment of [section 2(b) of Pub. L. 102–220][/us/pl/102/220/s2/b], set out above, by substituting “[section 100506 of title 54][/us/usc/t54/s100506], United States Code” for “section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–9)”, was executed by making the substitution for “section 7 of the Land and Water Conservation Fund Act ([16 U.S.C. 460][/us/usc/t16/s460]l–9)” to reflect the probable intent of Congress.\]
 
 ----------
 
@@ -83,8 +85,16 @@
 [/us/pl/102/220/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F220%2Fs1
 [/us/pl/102/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F220
 [/us/stat/105/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1674
-[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/pl/113/287/s5/d/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F13
+[/us/stat/128/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3265
+[/us/usc/t54/s100506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506
 [/us/usc/t16/s1271–128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1271%E2%80%93128
 [/us/usc/t16/s1277/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1277%2Fa%2F1
+[/us/pl/113/287/s5/d/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F13
+[/us/stat/128/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3265
+[/us/pl/102/220/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F220%2Fs2%2Fb
+[/us/usc/t54/s100506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506
+[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
 
 

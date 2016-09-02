@@ -15,9 +15,13 @@
 
 ## § 291b. Administration, protection, development, and maintenance
 
-    The Secretary of the Interior shall administer, protect, develop, and maintain the George Rogers Clark National Historical Park in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented.
+    The Secretary of the Interior shall administer, protect, develop, and maintain the George Rogers Clark National Historical Park in accordance with the provisions of sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, as amended and supplemented.
 
 ([Pub. L. 89–517, § 3][/us/pl/89/517/s3], July 23, 1966, [80 Stat. 325][/us/stat/80/325].)
+
+ __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
 ----------
 
@@ -28,5 +32,8 @@
 
 [/us/pl/89/517/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F517%2Fs3
 [/us/stat/80/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F325
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 
 

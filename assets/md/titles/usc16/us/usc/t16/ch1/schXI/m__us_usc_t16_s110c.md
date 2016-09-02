@@ -37,7 +37,7 @@
 
         (1) Federal lands, and interests therein formerly within the boundary of the Mount Rainier National Park, which are excluded therefrom and are included within the boundaries of the Snoqualmie National Forest pursuant to this Act are, subject to valid existing rights, hereby transferred to the administrative jurisdiction of the Secretary of Agriculture for administration as part of the Forest, and shall be subject to all the laws and regulations applicable to the National Forest System.
 
-        (2) For the purposes of section 460l–9 of this title, the boundaries of the Snoqualmie National Forest and the Gifford Pinchot National Forest, as modified pursuant to this Act, shall be treated as if they were the boundaries of those national forests on January 1, 1965.
+        (2) For the purposes of sections 100506(c) and 200306 of title 54, the boundaries of the Snoqualmie National Forest and the Gifford Pinchot National Forest, as modified pursuant to this Act, shall be treated as if they were the boundaries of those national forests on January 1, 1965.
 
         (3) Effective upon acceptance thereof by the State of Washington, the jurisdiction which the United States acquired over those lands excluded from the boundaries of the Mount Rainier National Park by this Act is hereby retroceded to the State.
 
@@ -48,6 +48,10 @@
     Act of March 2, 1899 ([30 Stat. 993][/us/stat/30/993]), as amended, referred to in subsec. (a), is [act Mar. 2, 1899, ch. 377][/us/act/1899-03-02/ch377], [30 Stat. 993][/us/stat/30/993], which enacted sections 91, 92, and 93 of this title. For complete classification of this Act to the Code, see Tables.
 
     This Act, referred to in subsecs. (c) and (d), is [Pub. L. 100–668][/us/pl/100/668], Nov. 16, 1988, [102 Stat. 3961][/us/stat/102/3961], which enacted [section 110c of this title][/us/usc/t16/s110c], amended sections 90b, 90c–1, 90d–4, 251n, 256b, 256c, and 1274 of this title, and enacted provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132] and provisions set out as a note under sections 90 and 251n of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under [section 90 of this title][/us/usc/t16/s90] and Tables.
+
+ __Codification__ 
+
+    In subsec. (d)(2), “sections 100506(c) and 200306 of title 54” substituted for “section 7 of the Land and Water Conservation Fund Act of 1965 ([78 Stat. 903][/us/stat/78/903], as amended; [16 U.S.C. 460][/us/usc/t16/s460]l–9)” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
 ----------
 
@@ -68,5 +72,9 @@
 [/us/usc/t16/s110c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs110c
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 [/us/usc/t16/s90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs90
+[/us/stat/78/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F903
+[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 
 

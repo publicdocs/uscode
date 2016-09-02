@@ -29,7 +29,7 @@
 
     (c) __Administration; applicable provisions__ 
 
-        The Secretary shall administer the park in accordance with this section and the provisions of law generally applicable to units of the national park system, including sections 1, 2, 3, 4, and 461 to 467 of this title, and generally in accordance with the guidelines provided in the study report entitled “Kaloko-Honoko̅hau” prepared by the Honokohau Study Advisory Commission and the National Park Service, May 1974, GPO 690–514.
+        The Secretary shall administer the park in accordance with this section and the provisions of law generally applicable to units of the national park system, including sections 1, 2, 3, 4, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and 461 to 467 <sup>\[1\]</sup>  of this title, and generally in accordance with the guidelines provided in the study report entitled “Kaloko-Honoko̅hau” prepared by the Honokohau Study Advisory Commission and the National Park Service, May 1974, GPO 690–514.
 
     (d) __Activities and agreements; native accommodations; cooperative marine management agreement; fishing, shoreline food gathering and small boat harbor activities: regulation; land and water management agreements__ 
 
@@ -69,7 +69,9 @@
 
  __References in Text__ 
 
-    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c), was in the original a reference to the act “approved August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 461–467][/us/usc/t16/s461–467])”. Act Aug. 25, 1916, known as the “National Park Service Organic Act”, is classified to sections 1, 2, 3, and 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of this title][/us/usc/t16/s1] and Tables.
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c), was in the original a reference to the act “approved August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 461–467][/us/usc/t16/s461–467])”. [Act Aug. 25, 1916, ch. 408][/us/act/1916-08-25/ch408], [39 Stat. 535][/us/stat/39/535], known as the National Park Service Organic Act, enacted sections 1, 2, 3, and 4 of this title, which sections were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+
+    Sections 461 to 467 of this title, referred to in text, were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
 
  __Amendments__ 
 
@@ -105,7 +107,7 @@
 
  __“Secretary” Defined__ 
 
-    Secretary means the Secretary of the Interior, see [section 2 of Pub. L. 95–625][/us/pl/95/625/s2], set out as a note under [section 2503 of this title][/us/usc/t16/s2503].
+    Secretary means the Secretary of the Interior, see [section 2 of Pub. L. 95–625][/us/pl/95/625/s2], set out as a note under [section 45f of this title][/us/usc/t16/s45f].
 
 ----------
 
@@ -128,7 +130,14 @@
 [/us/stat/123/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1219
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s461–467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461%E2%80%93467
-[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
+[/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
+[/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/pl/108/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F142
 [/us/pl/106/510/s3/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510%2Fs3%2Fc%2F1%2FA
@@ -146,6 +155,6 @@
 [/us/pl/95/625/s505/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs505%2Ff%2F7
 [/us/usc/t16/s396d/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs396d%2Ff%2F7
 [/us/pl/95/625/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs2
-[/us/usc/t16/s2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2503
+[/us/usc/t16/s45f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs45f
 
 

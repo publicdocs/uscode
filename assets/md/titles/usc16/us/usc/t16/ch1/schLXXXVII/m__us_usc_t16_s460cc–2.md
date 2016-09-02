@@ -17,7 +17,7 @@
 
     (a) __Provisions applicable; utilization of authorities for conservation and management of wildlife and natural resources; Jamaica Bay Unit__ 
 
-        The Secretary shall administer the recreation area in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented. In the administration of the recreation area the Secretary may utilize such statutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter: Provided, That the Secretary shall administer and protect the islands and waters within the Jamaica Bay Unit with the primary aim of conserving the natural resources, fish, and wildlife located therein and shall permit no development or use of this area which is incompatible with this purpose.
+        The Secretary shall administer the recreation area in accordance with the provisions of sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, as amended and supplemented. In the administration of the recreation area the Secretary may utilize such statutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter: Provided, That the Secretary shall administer and protect the islands and waters within the Jamaica Bay Unit with the primary aim of conserving the natural resources, fish, and wildlife located therein and shall permit no development or use of this area which is incompatible with this purpose.
 
     (b) __William Fitts Ryan Visitor Center; designation__ 
 
@@ -55,6 +55,10 @@
 
 ([Pub. L. 92–592, § 3][/us/pl/92/592/s3], Oct. 27, 1972, [86 Stat. 1309][/us/stat/86/1309]; [Pub. L. 96–344, § 11(1)][/us/pl/96/344/s11/1], Sept. 8, 1980, [94 Stat. 1136][/us/stat/94/1136]; [Pub. L. 97–232, § 1][/us/pl/97/232/s1], Aug. 9, 1982, [96 Stat. 259][/us/stat/96/259]; [Pub. L. 106–132, § 1][/us/pl/106/132/s1], Dec. 7, 1999, [113 Stat. 1681][/us/stat/113/1681].)
 
+ __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+
  __Amendments__ 
 
     1999—Subsec. (b). [Pub. L. 106–132][/us/pl/106/132] designated existing provisions as par. (1) and added par. (2).
@@ -78,6 +82,9 @@
 [/us/stat/96/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F259
 [/us/pl/106/132/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F132%2Fs1
 [/us/stat/113/1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1681
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/106/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F132
 [/us/pl/97/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F232
 [/us/pl/96/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F344

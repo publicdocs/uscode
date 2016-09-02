@@ -69,7 +69,7 @@
 
 >     “(a) In order to preserve and commemorate for the benefit and enjoyment of present and future generations an area of unique historical significance as one of only two important battles of the Mexican War fought on American soil, the Secretary \[of the Interior\] is authorized to establish the Palo Alto Battlefield National Historic Site \[now Palo Alto Battlefield National Historical Park\] in the State of Texas.
 
->     “(b) For the purposes of this section, the Secretary is authorized to acquire by donation, purchase, or exchange, not to exceed fifty acres of lands and interests therein, comprising the initial unit, in the vicinity of the site of the battle of Palo Alto, at the junction of Farm Roads 1847 and 511, 6.3 miles north of Brownsville, Texas. The Secretary shall complete a study and recommend to the Congress such additions as are required to fully protect the historic integrity of the battlefield by June 30, 1979. The Secretary shall establish the historic site by publication of a notice to that effect in the Federal Register at such time as he determines that sufficient property to constitute an administrable unit has been acquired. Pending such establishment and thereafter, the Secretary shall administer the property acquired pursuant to this section in accordance with this section and provisions of law generally applicable to units of the National Park System, including the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]) \[[16 U.S.C. 1][/us/usc/t16/s1] et seq.\] and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]) \[[16 U.S.C. 461][/us/usc/t16/s461] et seq.\].
+>     “(b) For the purposes of this section, the Secretary is authorized to acquire by donation, purchase, or exchange, not to exceed fifty acres of lands and interests therein, comprising the initial unit, in the vicinity of the site of the battle of Palo Alto, at the junction of Farm Roads 1847 and 511, 6.3 miles north of Brownsville, Texas. The Secretary shall complete a study and recommend to the Congress such additions as are required to fully protect the historic integrity of the battlefield by June 30, 1979. The Secretary shall establish the historic site by publication of a notice to that effect in the Federal Register at such time as he determines that sufficient property to constitute an administrable unit has been acquired. Pending such establishment and thereafter, the Secretary shall administer the property acquired pursuant to this section in accordance with this section and provisions of law generally applicable to units of the National Park System, including the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]) \[see Short Title of 1916 Act note under [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs\] and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]) \[see [54 U.S.C. 320101][/us/usc/t54/s320101] et seq.\].
 
 >     “(c) There are authorized to be appropriated such sums as may be necessary for lands and interests in lands and $200,000 for development to carry out the provisions of this section.”
 
@@ -95,8 +95,8 @@
 [/us/pl/95/625/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs506
 [/us/stat/92/3500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3500
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
-[/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
+[/us/usc/t54/s320101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320101
 
 

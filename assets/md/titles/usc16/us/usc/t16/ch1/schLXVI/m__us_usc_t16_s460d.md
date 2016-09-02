@@ -41,7 +41,9 @@
 
  __Effective Date of 1964 Amendment__ 
 
-    Amendment by [Pub. L. 88–578][/us/pl/88/578] effective Jan. 1, 1965, see [section 1(a) of Pub. L. 88–578][/us/pl/88/578/s1/a], set out in part as an Effective Date note under section 460l–4 of this title.
+[Pub. L. 88–578, title I, § 1(a)][/us/pl/88/578/s1/a], Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], provided in part that: 
+
+> “This Act \[amending this section, repealing former [section 14 of this title][/us/usc/t16/s14], and amending provisions set out as a note under [section 120 of Title 23][/us/usc/t23/s120], Highways\] shall become effective on January 1, 1965.”
 
  __Recreation Policy__ 
 
@@ -133,8 +135,10 @@
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
-[/us/pl/88/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578
 [/us/pl/88/578/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578%2Fs1%2Fa
+[/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897
+[/us/usc/t16/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs14
+[/us/usc/t23/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120
 [/us/pl/104/303/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs208%2Fa
 [/us/stat/110/3680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3680
 [/us/pl/99/662/s1134/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1134%2Fa

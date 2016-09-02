@@ -21,7 +21,7 @@
 
     (b) __Area included__ 
 
-        (1) The park shall consist of three units as generally depicted on the following maps entitled “Boundary Map, National Park of American Samoa”: (A) map number NP–AS 80,000A, dated August 1988, (B) map number NP–AS 80,000B, dated August 1988, and (C) map number NP–AS 80,000C, dated August 1988. Before publication of the maps, the Secretary, after consultation with the Governor of American Samoa and other appropriate leaders, may adjust the boundaries of the park to correspond with the appropriate village boundaries and modify the maps accordingly. The maps shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The Secretary may at any time make revisions of the boundary of the park in accordance with section 460l–9(c) of this title, pursuant to agreement with the Governor of American Samoa, and contingent upon the lease to the Secretary of lands within the new boundaries.
+        (1) The park shall consist of three units as generally depicted on the following maps entitled “Boundary Map, National Park of American Samoa”: (A) map number NP–AS 80,000A, dated August 1988, (B) map number NP–AS 80,000B, dated August 1988, and (C) map number NP–AS 80,000C, dated August 1988. Before publication of the maps, the Secretary, after consultation with the Governor of American Samoa and other appropriate leaders, may adjust the boundaries of the park to correspond with the appropriate village boundaries and modify the maps accordingly. The maps shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The Secretary may at any time make revisions of the boundary of the park in accordance with [section 100506(c) of title 54][/us/usc/t54/s100506/c], pursuant to agreement with the Governor of American Samoa, and contingent upon the lease to the Secretary of lands within the new boundaries.
 
         (2) The Secretary may make adjustments to the boundary of the park to include within the park certain portions of the islands of Ofu and Olosega, as depicted on the map entitled “National Park of American Samoa, Proposed Boundary Adjustment”, numbered 82,035 and dated February 2002, pursuant to an agreement with the Governor of American Samoa and contingent upon the lease to the Secretary of the newly added lands. As soon as practicable after a boundary adjustment under this paragraph, the Secretary shall modify the maps referred to in paragraph (1) accordingly.
 
@@ -39,6 +39,10 @@
 
 ([Pub. L. 100–571, § 2][/us/pl/100/571/s2], Oct. 31, 1988, [102 Stat. 2879][/us/stat/102/2879]; [Pub. L. 107–336, § 1][/us/pl/107/336/s1], Dec. 16, 2002, [116 Stat. 2882][/us/stat/116/2882].)
 
+ __Codification__ 
+
+    In subsec. (b)(1), “[section 100506(c) of title 54][/us/usc/t54/s100506/c]” substituted for “section 7(c) of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–4 and following)” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+
  __Amendments__ 
 
     2002—Subsec. (b). [Pub. L. 107–336][/us/pl/107/336] designated existing provisions as par. (1), substituted “(A)”, “(B)”, and “(C)” for “(1)”, “(2)”, and “(3)”, respectively, and added par. (2).
@@ -51,11 +55,16 @@
 ----------
 
 [/us/usc/t16/s410qq/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410qq%2Fb
+[/us/usc/t54/s100506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506%2Fc
 [/us/usc/t16/s410qq–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410qq%E2%80%932%2Fa
 [/us/pl/100/571/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F571%2Fs2
 [/us/stat/102/2879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2879
 [/us/pl/107/336/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F336%2Fs1
 [/us/stat/116/2882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2882
+[/us/usc/t54/s100506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506%2Fc
+[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/107/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F336
 
 

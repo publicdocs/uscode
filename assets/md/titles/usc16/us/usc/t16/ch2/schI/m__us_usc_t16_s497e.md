@@ -21,7 +21,7 @@
 
     (b) __Deposit of fees__ 
 
-        Subject to subsections (a) and (f), each fiscal year, the Secretary of Agriculture shall deposit into a special account established in the Treasury all fees collected by the Secretary to recover the costs of processing applications for, and monitoring compliance with, authorizations to use and occupy National Forest System lands pursuant to section 185(l) of title 30, [section 1764(g) of title 43][/us/usc/t43/s1764/g], [section 9701 of title 31][/us/usc/t31/s9701], and [section 470h–2(g) of this title][/us/usc/t16/s470h–2/g].
+        Subject to subsections (a) and (f), each fiscal year, the Secretary of Agriculture shall deposit into a special account established in the Treasury all fees collected by the Secretary to recover the costs of processing applications for, and monitoring compliance with, authorizations to use and occupy National Forest System lands pursuant to section 185(l) of title 30, [section 1764(g) of title 43][/us/usc/t43/s1764/g], [section 9701 of title 31][/us/usc/t31/s9701], and [section 306109 of title 54][/us/usc/t54/s306109].
 
     (c) __Use of retained amounts__ 
 
@@ -44,6 +44,8 @@
  __Codification__ 
 
     Section was formerly set out as a note under [section 497 of this title][/us/usc/t16/s497].
+
+    In subsec. (b), “[section 306109 of title 54][/us/usc/t54/s306109]” substituted for “[section 470h–2(g) of this title][/us/usc/t16/s470h–2/g]” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Amendments__ 
 
@@ -72,7 +74,7 @@
 
 [/us/usc/t43/s1764/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1764%2Fg
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
-[/us/usc/t16/s470h–2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470h%E2%80%932%2Fg
+[/us/usc/t54/s306109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306109
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
@@ -85,6 +87,10 @@
 [/us/pl/113/76/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs425
 [/us/stat/128/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F344
 [/us/usc/t16/s497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs497
+[/us/usc/t54/s306109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306109
+[/us/usc/t16/s470h–2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470h%E2%80%932%2Fg
+[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/113/76/s425/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs425%2F1
 [/us/pl/113/76/s425/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs425%2F2
 [/us/pl/110/161/s416/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs416%2F1

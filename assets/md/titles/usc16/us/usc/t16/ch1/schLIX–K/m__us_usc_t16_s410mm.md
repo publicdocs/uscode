@@ -29,7 +29,7 @@
 
     (d) __Incorporation of Lehman Caves National Monument within park__ 
 
-        (1) The Lehman Caves National Monument, designated on January 24, 1922, by Presidential proclamation under the authority contained in the Act of June 8, 1906 ([34 Stat. 225][/us/stat/34/225]) \[[16 U.S.C. 431][/us/usc/t16/s431], 432, 433\] is hereby abolished and the lands incorporated within the Great Basin National Park. Any reference in any law, map, regulation, document, record, or other paper of the United States to such national monument shall be deemed to be a reference to Great Basin National Park.
+        (1) The Lehman Caves National Monument, designated on January 24, 1922, by Presidential proclamation under the authority contained in the Act of June 8, 1906 ([34 Stat. 225][/us/stat/34/225]) is hereby abolished and the lands incorporated within the Great Basin National Park. Any reference in any law, map, regulation, document, record, or other paper of the United States to such national monument shall be deemed to be a reference to Great Basin National Park.
 
         (2) Any funds available for purposes of the national monument shall be available for purposes of the park.
 
@@ -37,7 +37,7 @@
 
  __References in Text__ 
 
-    Act of June 8, 1906, referred to in subsec. (d)(1), is [act June 8, 1906, ch. 3060][/us/act/1906-06-08/ch3060], [34 Stat. 225][/us/stat/34/225], known as the Antiquities Act of 1906, which is classified generally to sections 431, 432, and 433 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 431 of this title][/us/usc/t16/s431] and Tables.
+    Act of June 8, 1906, referred to in subsec. (d)(1), is [act June 8, 1906, ch. 3060][/us/act/1906-06-08/ch3060], [34 Stat. 225][/us/stat/34/225], known as the Antiquities Act of 1906. For complete classification of this Act to the Code, see Short Title of 1906 Act note set out under [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs, and Tables.
 
  __Change of Name__ 
 
@@ -57,12 +57,11 @@
 ----------
 
 [/us/stat/34/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F225
-[/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
 [/us/pl/99/565/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F565%2Fs2
 [/us/stat/100/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3181
 [/us/act/1906-06-08/ch3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-08%2Fch3060
 [/us/stat/34/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F225
-[/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/99/565/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F565%2Fs1
 [/us/stat/100/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3181
 

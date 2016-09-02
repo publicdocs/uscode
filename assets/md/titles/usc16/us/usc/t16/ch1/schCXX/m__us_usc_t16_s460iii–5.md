@@ -19,7 +19,7 @@
 
         (1) Nothing in this subchapter shall be construed to supersede, limit, or otherwise affect administration and enforcement of the Endangered Species Act of 1973 ([16 U.S.C. 1531][/us/usc/t16/s1531] et seq.) or to limit the applicability of the National Trails System Act \[[16 U.S.C. 1241][/us/usc/t16/s1241] et seq.\] to any lands within the conservation area.
 
-        (2) Except as otherwise specifically provided in this subchapter, nothing in this subchapter shall be construed as limiting the applicability to lands in the conservation area of laws applicable to public lands generally, including but not limited to the National Historic Preservation Act \[[16 U.S.C. 470][/us/usc/t16/s470] et seq.\], the Archaeological Resources Protection Act of 1979 \[[16 U.S.C. 470aa][/us/usc/t16/s470aa] et seq.\], or the Native American Graves Protection and Repatriation Act \[[25 U.S.C. 3001][/us/usc/t25/s3001] et seq.\].
+        (2) Except as otherwise specifically provided in this subchapter, nothing in this subchapter shall be construed as limiting the applicability to lands in the conservation area of laws applicable to public lands generally, including but not limited to the National Historic Preservation Act, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Archaeological Resources Protection Act of 1979 \[[16 U.S.C. 470aa][/us/usc/t16/s470aa] et seq.\], or the Native American Graves Protection and Repatriation Act \[[25 U.S.C. 3001][/us/usc/t25/s3001] et seq.\].
 
         (3) Nothing in this subchapter shall be construed as by itself altering the status of any lands that on August 4, 1993, were not managed by the Bureau of Land Management.
 
@@ -51,7 +51,7 @@
 
     The National Trails System Act, referred to in subsec. (a)(1), is [Pub. L. 90–543][/us/pl/90/543], Oct. 2, 1968, [82 Stat. 919][/us/stat/82/919], as amended, which is classified generally to chapter 27 (§ 1241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1241 of this title][/us/usc/t16/s1241] and Tables.
 
-    The National Historic Preservation Act, referred to in subsec. (a)(2), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], as amended, which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see [section 470 of this title][/us/usc/t16/s470] and Tables.
+    The National Historic Preservation Act, referred to in subsec. (a)(2), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title prior to the enactment of Title 54, National Park Service and Related Programs. See [54 U.S.C. 300101][/us/usc/t54/s300101] et seq.
 
     The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(2), is [Pub. L. 96–95][/us/pl/96/95], Oct. 31, 1979, [93 Stat. 721][/us/stat/93/721], which is classified generally to chapter 1B (§ 470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 470aa of this title][/us/usc/t16/s470aa] and Tables.
 
@@ -66,7 +66,6 @@
 
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t16/s1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1241
-[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
 [/us/usc/t16/s470aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470aa
 [/us/usc/t25/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3001
 [/us/usc/t43/s1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1782
@@ -82,7 +81,7 @@
 [/us/usc/t16/s1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1241
 [/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
 [/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
-[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
+[/us/usc/t54/s300101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs300101
 [/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95
 [/us/stat/93/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F721
 [/us/usc/t16/s470aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470aa

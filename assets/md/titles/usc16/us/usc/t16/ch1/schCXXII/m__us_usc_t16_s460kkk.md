@@ -61,7 +61,7 @@
 
         (1) __In general__ 
 
-            The recreation area shall be administered in partnership by the Secretary, the Commonwealth of Massachusetts, City of Boston and its applicable subdivisions and others in accordance with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title as amended and supplemented and in accordance with the integrated management plan specified in subsection (f) of this section.
+            The recreation area shall be administered in partnership by the Secretary, the Commonwealth of Massachusetts, City of Boston and its applicable subdivisions and others in accordance with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title and sections 461 to 467  <sup>\[1\]</sup>  of this title as amended and supplemented and in accordance with the integrated management plan specified in subsection (f) of this section.
 
         (2) __State and local jurisdiction__ 
 
@@ -123,7 +123,7 @@
 
             (A) One individual, appointed by the Secretary, to represent the National Park Service.
 
-            (B) One individual, appointed by the Commandant of the Coast Guard..  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup> 
+            (B) One individual, appointed by the Commandant of the Coast Guard..  <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup> 
 
             (C) Two individuals, appointed by the Secretary, after consideration of recommendations by the Governor of Massachusetts, to represent the Department of Environmental Management and the Metropolitan District Commission.
 
@@ -295,6 +295,10 @@
 
  __References in Text__ 
 
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (d)(1), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+
+    Sections 461 to 467 of this title, referred to in subsec. (d)(1), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
+
     Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g)(4), is [section 14 of Pub. L. 92–463][/us/pl/92/463/s14], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
  __Amendments__ 
@@ -360,6 +364,12 @@
 [/us/stat/123/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1197
 [/us/pl/111/281/s903/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs903%2Fa%2F8
 [/us/stat/124/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3010
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
 [/us/pl/109/241/s902/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs902%2Fh%2F1

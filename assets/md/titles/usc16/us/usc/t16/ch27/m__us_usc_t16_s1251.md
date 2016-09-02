@@ -23,13 +23,13 @@
 
     (3) The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Northern Mariana Islands, and any other territory or possession of the United States.
 
-    (4) The term “without expense to the United States” means that no funds may be expended by Federal agencies for the development of trail related facilities or for the acquisition of lands or interests in lands outside the exterior boundaries of Federal areas. For the purposes of the preceding sentence, amounts made available to any State or political subdivision under the Land and Water Conservation Fund Act of 1965 \[[16 U.S.C. 460][/us/usc/t16/s460]l–4 et seq.\] or any other provision of law shall not be treated as an expense to the United States.
+    (4) The term “without expense to the United States” means that no funds may be expended by Federal agencies for the development of trail related facilities or for the acquisition of lands or interests in lands outside the exterior boundaries of Federal areas. For the purposes of the preceding sentence, amounts made available to any State or political subdivision under chapter 2003 of title 54 or any other provision of law shall not be treated as an expense to the United States.
 
-([Pub. L. 90–543, § 12][/us/pl/90/543/s12], as added [Pub. L. 98–11, title II, § 210][/us/pl/98/11/s210], Mar. 28, 1983, [97 Stat. 50][/us/stat/97/50].)
+([Pub. L. 90–543, § 12][/us/pl/90/543/s12], as added [Pub. L. 98–11, title II, § 210][/us/pl/98/11/s210], Mar. 28, 1983, [97 Stat. 50][/us/stat/97/50]; amended [Pub. L. 113–287, § 5(d)(28)][/us/pl/113/287/s5/d/28], Dec. 19, 2014, [128 Stat. 3267][/us/stat/128/3267].)
 
- __References in Text__ 
+ __Amendments__ 
 
-    The Land and Water Conservation Fund Act of 1965, referred to in par. (4), is [Pub. L. 88–578][/us/pl/88/578], Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], as amended, which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
+    2014—Par. (4). [Pub. L. 113–287][/us/pl/113/287] substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965”.
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -42,12 +42,12 @@
 ----------
 ----------
 
-[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
 [/us/pl/90/543/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F543%2Fs12
 [/us/pl/98/11/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs210
 [/us/stat/97/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F50
-[/us/pl/88/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578
-[/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897
+[/us/pl/113/287/s5/d/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F28
+[/us/stat/128/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3267
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 
 

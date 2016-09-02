@@ -21,6 +21,8 @@
 
  __Repeals__ 
 
+    Section repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], insofar as applicable to units of the National Park System. See [section 100902(a) of Title 54][/us/usc/t54/s100902/a], National Park Service and Related Programs.
+
     Section repealed by [Pub. L. 94–579, title VII, § 706(a)][/us/pl/94/579/s706/a], Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793], effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
 
  __References in Text__ 
@@ -50,6 +52,9 @@
 
 [/us/act/1901-02-15/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-02-15%2Fch372
 [/us/stat/31/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F790
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100902%2Fa
 [/us/pl/94/579/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs706%2Fa
 [/us/stat/90/2793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2793
 [/us/act/1947-07-16/ch256/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-16%2Fch256%2Fs1

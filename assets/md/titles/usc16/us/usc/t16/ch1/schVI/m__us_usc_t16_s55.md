@@ -29,8 +29,6 @@
 
     As enacted by act July 23, 1914, this section contained a provision, omitted for purposes of codification, continuing in effect all existing laws relating to the park and not in conflict with it.
 
-    [Section 1 of the act of June 12, 1917][/us/act/1917-06-12/s1], incorporated in [section 452 of this title][/us/usc/t16/s452], provides for the disposition of all revenue of National Parks and did not directly affect this section. It may have been considered as superseding similar provisions of the act of Oct. 1, 1890, § 2.
-
 ----------
 
 [Previous](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s54.md) | [Next](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s56.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs55)
@@ -44,7 +42,5 @@
 [/us/stat/38/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F554
 [/us/act/1917-06-12/ch27/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-12%2Fch27%2Fs1
 [/us/stat/40/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F153
-[/us/act/1917-06-12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-12%2Fs1
-[/us/usc/t16/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs452
 
 

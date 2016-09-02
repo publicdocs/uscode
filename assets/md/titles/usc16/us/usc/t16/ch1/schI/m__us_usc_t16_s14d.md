@@ -13,15 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s14c.md) | [Next](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s14e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs14d)
 
-## § 14d. Use of funds for law enforcement and emergencies
+## § 14d. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    On and after October 5, 1992, any funds, not to exceed $250,000 per incident, available to the National Park Service may be used, with the approval of the Secretary, to maintain law and order in emergency and other unforeseen law enforcement situations and conduct emergency search and rescue operations in the National Park System: Provided further, That any exercise of this authority must be replenished by a supplemental appropriation which must be requested as promptly as possible.
-
-([Pub. L. 102–381, title I][/us/pl/102/381], Oct. 5, 1992, [106 Stat. 1384][/us/stat/106/1384]; [Pub. L. 103–332, title I][/us/pl/103/332], Sept. 30, 1994, [108 Stat. 2507][/us/stat/108/2507].)
-
- __Amendments__ 
-
-    1994—[Pub. L. 103–332][/us/pl/103/332] inserted “, not to exceed $250,000 per incident,” after “funds” and “: Provided further, That any exercise of this authority must be replenished by a supplemental appropriation which must be requested as promptly as possible” after “System”.
+    Section, [Pub. L. 102–381, title I][/us/pl/102/381], Oct. 5, 1992, [106 Stat. 1384][/us/stat/106/1384]; [Pub. L. 103–332, title I][/us/pl/103/332], Sept. 30, 1994, [108 Stat. 2507][/us/stat/108/2507], related to use of funds for law enforcement and emergencies. See [section 103101(c) of Title 54][/us/usc/t54/s103101/c], National Park Service and Related Programs.
 
 ----------
 
@@ -30,10 +24,12 @@
 ----------
 ----------
 
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/102/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F381
 [/us/stat/106/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1384
 [/us/pl/103/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F332
 [/us/stat/108/2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2507
-[/us/pl/103/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F332
+[/us/usc/t54/s103101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs103101%2Fc
 
 

@@ -27,7 +27,7 @@
 
             (B) a proposal for administrative and public facilities to be developed, expanded, or improved for the conservation area including the Red Rock Canyon visitors center, to accommodate visitors to the conservation area;
 
-            (C) a cultural resources management plan for the conservation area prepared in consultation with the Nevada State Historic Preservation Officer, with emphasis on the preservation of the resources in the conservation area and the interpretive, educational, and long-term scientific uses of these resources, giving priority to the enforcement of the Archaeological Resources Protection Act of 1979 ([16 U.S.C. 470aa][/us/usc/t16/s470aa] et seq.) and the National Historic Preservation Act ([16 U.S.C. 470][/us/usc/t16/s470] et seq.) within the conservation area;
+            (C) a cultural resources management plan for the conservation area prepared in consultation with the Nevada State Historic Preservation Officer, with emphasis on the preservation of the resources in the conservation area and the interpretive, educational, and long-term scientific uses of these resources, giving priority to the enforcement of the Archaeological Resources Protection Act of 1979 ([16 U.S.C. 470aa][/us/usc/t16/s470aa] et seq.) and the National Historic Preservation Act  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  within the conservation area;
 
             (D) a wildlife resource management plan for the conservation area prepared in consultation with appropriate departments of the State of Nevada and using previous studies of the area; and
 
@@ -43,7 +43,7 @@
 
     The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(2)(C), is [Pub. L. 96–95][/us/pl/96/95], Oct. 31, 1979, [93 Stat. 721][/us/stat/93/721], which is classified generally to chapter 1B (§ 470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 470aa of this title][/us/usc/t16/s470aa] and Tables.
 
-    The National Historic Preservation Act, referred to in subsec. (a)(2)(C), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], as amended, which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see [section 470 of this title][/us/usc/t16/s470] and Tables.
+    The National Historic Preservation Act, referred to in subsec. (a)(2)(C), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title prior to the enactment of Title 54, National Park Service and Related Programs. See [54 U.S.C. 300101][/us/usc/t54/s300101] et seq.
 
     Section 5(a) of the National Forest and Public Lands of Nevada Enhancement Act of 1988, referred to in subsec. (b), is [section 5(a) of Pub. L. 100–550][/us/pl/100/550/s5/a], Oct. 28, 1988, [102 Stat. 2751][/us/stat/102/2751], which is not classified to the Code.
 
@@ -61,7 +61,6 @@
 ----------
 
 [/us/usc/t16/s470aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470aa
-[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
 [/us/usc/t16/s460ccc–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ccc%E2%80%935
 [/us/usc/t43/s1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1782
 [/us/stat/102/2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2751
@@ -76,7 +75,7 @@
 [/us/usc/t16/s470aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470aa
 [/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
 [/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
-[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
+[/us/usc/t54/s300101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs300101
 [/us/pl/100/550/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F550%2Fs5%2Fa
 [/us/stat/102/2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2751
 [/us/pl/103/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F450

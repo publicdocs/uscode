@@ -83,7 +83,7 @@
 
     (i) __Administration__ 
 
-        The Secretary shall administer the recreation area in accordance with this Act and provisions of laws generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title. In the administration of the recreation area, the Secretary may utilize such statutory authority available for the conservation and management of wildlife and natural resources as appropriate to carry out the purpose of this section. The fragile resource areas of the recreation area shall be administered on a low-intensity basis, as determined by the Secretary.
+        The Secretary shall administer the recreation area in accordance with this Act and provisions of laws generally applicable to units of the National Park System, including sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title. In the administration of the recreation area, the Secretary may utilize such statutory authority available for the conservation and management of wildlife and natural resources as appropriate to carry out the purpose of this section. The fragile resource areas of the recreation area shall be administered on a low-intensity basis, as determined by the Secretary.
 
     (j) __Cooperative agreements for rescue, fire prevention and firefighting, and law enforcement services__ 
 
@@ -211,7 +211,9 @@
 
  __References in Text__ 
 
-    This Act, referred to in subsecs. (i) and (q)(4), means [Pub. L. 95–625][/us/pl/95/625], Nov. 10, 1978, [92 Stat. 3467][/us/stat/92/3467], as amended, known as the National Parks and Recreation Act of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 1 of this title][/us/usc/t16/s1] and Tables.
+    This Act, referred to in subsecs. (i) and (q)(4), means [Pub. L. 95–625][/us/pl/95/625], Nov. 10, 1978, [92 Stat. 3467][/us/stat/92/3467], as amended, known as the National Parks and Recreation Act of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Act note set out under [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs, and Tables.
+
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (i), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
  __Amendments__ 
 
@@ -239,7 +241,7 @@
 
  __“Secretary” Defined__ 
 
-    Secretary means the Secretary of the Interior, see [section 2 of Pub. L. 95–625][/us/pl/95/625/s2], set out as a note under [section 2503 of this title][/us/usc/t16/s2503].
+    Secretary means the Secretary of the Interior, see [section 2 of Pub. L. 95–625][/us/pl/95/625/s2], set out as a note under [section 45f of this title][/us/usc/t16/s45f].
 
 ----------
 
@@ -263,7 +265,10 @@
 [/us/stat/116/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1483
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 [/us/stat/92/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3467
-[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/107/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F236
 [/us/pl/107/236/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F236%2Fs2%2F2
 [/us/pl/107/236/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F236%2Fs3%2F2
@@ -275,6 +280,6 @@
 [/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/pl/95/625/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs2
-[/us/usc/t16/s2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2503
+[/us/usc/t16/s45f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs45f
 
 

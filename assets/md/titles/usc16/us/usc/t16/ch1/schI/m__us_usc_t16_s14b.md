@@ -13,19 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s14a.md) | [Next](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s14c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs14b)
 
-## § 14b. Credits of receipts for meals and quarters furnished Government employees in the field
+## § 14b. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Cash collections and pay-roll deductions made for meals and quarters furnished by the National Park Service to employees of the Government in the field and to cooperating agencies may be credited as a reimbursement to the current appropriation for the administration of the park or monument in which the accommodations are furnished.
-
-([May 9, 1935, ch. 101, § 1][/us/act/1935-05-09/ch101/s1], [49 Stat. 209][/us/stat/49/209].)
-
- __Codification__ 
-
-    Section is also set out as [section 456a of this title][/us/usc/t16/s456a].
-
- __Transfer of Functions__ 
-
-    For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, [64 Stat. 1262][/us/stat/64/1262], set out in the Appendix to Title 5, Government Organization and Employees.
+    Section, [act May 9, 1935, ch. 101, § 1][/us/act/1935-05-09/ch101/s1], [49 Stat. 209][/us/stat/49/209], related to credits of receipts for meals and quarters furnished Government employees in the field. Provision was also set out as [section 456a of this title][/us/usc/t16/s456a]. See [section 103101(a) of Title 54][/us/usc/t54/s103101/a], National Park Service and Related Programs.
 
 ----------
 
@@ -34,9 +24,11 @@
 ----------
 ----------
 
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/act/1935-05-09/ch101/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-05-09%2Fch101%2Fs1
 [/us/stat/49/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F209
 [/us/usc/t16/s456a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs456a
-[/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
+[/us/usc/t54/s103101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs103101%2Fa
 
 

@@ -25,49 +25,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2301" data-uslm-ref="/us/usc/t16/s2301">2301.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2301" data-uslm-ref="/us/usc/t16/s2301">2301</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2306" data-uslm-ref="/us/usc/t16/s2306">2306.</a>  </td>
 
-    <td> Congressional statement of findings and purpose.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2302" data-uslm-ref="/us/usc/t16/s2302">2302.</a>  </td>
-
-    <td> Transportation service and facility programs.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2303" data-uslm-ref="/us/usc/t16/s2303">2303.</a>  </td>
-
-    <td> Transportation projects.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2304" data-uslm-ref="/us/usc/t16/s2304">2304.</a>  </td>
-
-    <td> Procedures applicable to formulation and implementation of transportation plans and projects developed pursuant to plans.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2305" data-uslm-ref="/us/usc/t16/s2305">2305.</a>  </td>
-
-    <td> Report to Congress; contents.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2306" data-uslm-ref="/us/usc/t16/s2306">2306.</a>  </td>
-
-    <td> Authorization of appropriations; availability of amounts.  </td>
+    <td> Repealed, Transferred, or Omitted.  </td>
 
   </tr>
 

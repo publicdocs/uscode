@@ -13,11 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s413.md) | [Next](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s415.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs414)
 
-## § 414. Trespassing for hunting, or shooting
+## § 414. Omitted
 
-    Every person who shall trespass upon any national military parks for the purpose of hunting or shooting, or who shall hunt any kind of game thereon with gun or dog, or shall set trap or net or other device whatsoever thereon for the purpose of hunting or catching game of any kind, shall be guilty of a misdemeanor, punishable by a fine of not more than $1,000 or by imprisonment for not less than five days or more than thirty days, or by both fine and imprisonment.
+ __Codification__ 
 
-([Mar. 3, 1897, ch. 372][/us/act/1897-03-03/ch372], §§ 2, 5, [29 Stat. 621][/us/stat/29/621], 622.)
+    Section, [act Mar. 3, 1897, ch. 372][/us/act/1897-03-03/ch372], §§ 2, 5, [29 Stat. 621][/us/stat/29/621], 622, related to trespassing for hunting, or shooting. See [section 1865(d) of Title 18][/us/usc/t18/s1865/d], Crimes and Criminal Procedure.
 
 ----------
 
@@ -28,5 +28,6 @@
 
 [/us/act/1897-03-03/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-03-03%2Fch372
 [/us/stat/29/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F621
+[/us/usc/t18/s1865/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1865%2Fd
 
 

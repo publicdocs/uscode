@@ -27,7 +27,7 @@
 
  __References in Text__ 
 
-    This Act, referred to in pars. (1) and (3), is [Pub. L. 96–487][/us/pl/96/487], Dec. 2, 1980, [94 Stat. 2371][/us/stat/94/2371], as amended, known as the Alaska National Interest Lands Conservation Act. Titles II through VII of this Act enacted sections 410hh to 410hh–5, 460mm to 460mm–3, 539 to 539e, and 1285b of this title, amended sections 1274, 1276, 1279, and 1280 of this title, and enacted provisions set out as notes under sections 431, 668dd, 1132, 1274, and 3145 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t16/s3101] and Tables.
+    This Act, referred to in pars. (1) and (3), is [Pub. L. 96–487][/us/pl/96/487], Dec. 2, 1980, [94 Stat. 2371][/us/stat/94/2371], as amended, known as the Alaska National Interest Lands Conservation Act. Titles II through VII of this Act enacted sections 410hh to 410hh–5, 460mm to 460mm–3, 539 to 539e, and 1285b of this title, amended sections 1274, 1276, 1279, and 1280 of this title, and enacted provisions set out as notes under sections 668dd, 1132, 1274, and 3145 of this title and [section 320301 of Title 54][/us/usc/t54/s320301], National Park Service and Related Programs. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t16/s3101] and Tables.
 
 ----------
 
@@ -40,6 +40,7 @@
 [/us/stat/94/2422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2422
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371
+[/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
 [/us/usc/t16/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3101
 
 

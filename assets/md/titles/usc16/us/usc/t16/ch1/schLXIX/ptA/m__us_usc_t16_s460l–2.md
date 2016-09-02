@@ -13,11 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t16/ch1/schLXIX/ptA/m__us_usc_t16_s460l–1.md) | [Next](./../../../../../..//us/usc/t16/ch1/schLXIX/ptA/m__us_usc_t16_s460l–3.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460l%E2%80%932)
 
-## § 460l–2. Consultations of Secretary of the Interior with administrative officers; execution of administrative responsibilities in conformity with nationwide plan
+## § 460l–2. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    In order further to carry out the policy declared in section 460l of this title, the heads of Federal departments and independent agencies having administrative responsibility over activities or resources the conduct or use of which is pertinent to fulfillment of that policy shall, either individually or as a group, (a) consult with and be consulted by the Secretary from time to time both with respect to their conduct of those activities and their use of those resources and with respect to the activities which the Secretary of the Interior carries on under authority of this part which are pertinent to their work, and (b) carry out such responsibilities in general conformance with the nationwide plan authorized under section 460l–1(c) of this title.
-
-([Pub. L. 88–29, § 3][/us/pl/88/29/s3], May 28, 1963, [77 Stat. 50][/us/stat/77/50].)
+    Section, [Pub. L. 88–29, § 3][/us/pl/88/29/s3], May 28, 1963, [77 Stat. 50][/us/stat/77/50], related to consultations of Secretary of the Interior with administrative officers. See [section 200104 of Title 54][/us/usc/t54/s200104], National Park Service and Related Programs.
 
 ----------
 
@@ -26,7 +24,10 @@
 ----------
 ----------
 
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/88/29/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F29%2Fs3
 [/us/stat/77/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F50
+[/us/usc/t54/s200104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200104
 
 

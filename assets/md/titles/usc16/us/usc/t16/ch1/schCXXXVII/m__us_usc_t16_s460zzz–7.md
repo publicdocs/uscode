@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schCXXXVII/m__us_usc_t16_s460zzz–6.md) | [Next](./../../../../..//us/usc/t16/ch1A/m__us_usc_t16_ch1A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460zzz%E2%80%937)
+[Previous](./../../../../..//us/usc/t16/ch1/schCXXXVII/m__us_usc_t16_s460zzz–6.md) | [Next](./../../../../..//us/usc/t16/ch1/schCXXXVIII/m__us_usc_t16_ch1_schCXXXVIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460zzz%E2%80%937)
 
 ## § 460zzz–7. Authorization of appropriations
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schCXXXVII/m__us_usc_t16_s460zzz–6.md) | [Next](./../../../../..//us/usc/t16/ch1A/m__us_usc_t16_ch1A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460zzz%E2%80%937)
+[Previous](./../../../../..//us/usc/t16/ch1/schCXXXVII/m__us_usc_t16_s460zzz–6.md) | [Next](./../../../../..//us/usc/t16/ch1/schCXXXVIII/m__us_usc_t16_ch1_schCXXXVIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460zzz%E2%80%937)
 
 ----------
 ----------

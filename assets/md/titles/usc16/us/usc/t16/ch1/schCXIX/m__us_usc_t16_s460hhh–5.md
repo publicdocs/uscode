@@ -25,9 +25,13 @@
 
     (c) __Land and Water Conservation Fund__ 
 
-        For purposes of section 460l–9 of this title, where such boundaries are established for units of the National Forest System, such established boundaries shall be treated as if they were the boundaries of the National Forests as of January 1, 1965. Money appropriated from the Land and Water Conservation Fund shall be available for the acquisition of lands and interests therein in furtherance of the purposes of this subchapter.
+        For purposes of [section 100506 of title 54][/us/usc/t54/s100506], where such boundaries are established for units of the National Forest System, such established boundaries shall be treated as if they were the boundaries of the National Forests as of January 1, 1965. Money appropriated from the Land and Water Conservation Fund shall be available for the acquisition of lands and interests therein in furtherance of the purposes of this subchapter.
 
-([Pub. L. 103–63, § 7][/us/pl/103/63/s7], Aug. 4, 1993, [107 Stat. 300][/us/stat/107/300].)
+([Pub. L. 103–63, § 7][/us/pl/103/63/s7], Aug. 4, 1993, [107 Stat. 300][/us/stat/107/300]; [Pub. L. 113–287, § 5(d)(3)][/us/pl/113/287/s5/d/3], Dec. 19, 2014, [128 Stat. 3264][/us/stat/128/3264].)
+
+ __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–287][/us/pl/113/287], which directed substitution of “[section 100506 of title 54][/us/usc/t54/s100506]” for “section 460l–9 of this title” in section 7 of the Springs Mountain National Recreation Area Act, was executed to this section, which is section 7 of the Spring Mountains National Recreation Area Act, to reflect the probable intent of Congress.
 
 ----------
 
@@ -36,7 +40,12 @@
 ----------
 ----------
 
+[/us/usc/t54/s100506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506
 [/us/pl/103/63/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F63%2Fs7
 [/us/stat/107/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F300
+[/us/pl/113/287/s5/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F3
+[/us/stat/128/3264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3264
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/usc/t54/s100506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506
 
 

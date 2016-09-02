@@ -15,7 +15,7 @@
 
 ## § 415. Repealed. [Pub. L. 91–383, § 10(a)(1)][/us/pl/91/383/s10/a/1], as added [Pub. L. 94–458, § 2][/us/pl/94/458/s2], Oct. 7, 1976, [90 Stat. 1941][/us/stat/90/1941]
 
-    Section, [act Mar. 3, 1897, ch. 372][/us/act/1897-03-03/ch372], §§ 3, 5, [29 Stat. 621][/us/stat/29/621], 622, authorized superintendent or any guardian of a national military park to arrest and prosecute anyone engaged or who may have been engaged in committing any misdemeanor named in sections 413 and 414 of this title.
+    Section, [act Mar. 3, 1897, ch. 372][/us/act/1897-03-03/ch372], §§ 3, 5, [29 Stat. 621][/us/stat/29/621], 622, authorized superintendent or any guardian of a national military park to arrest and prosecute anyone engaged or who may have been engaged in committing any misdemeanor named in former sections 413 and 414 of this title.
 
 ----------
 

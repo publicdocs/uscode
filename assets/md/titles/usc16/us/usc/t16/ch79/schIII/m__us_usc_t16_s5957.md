@@ -13,27 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch79/schIII/m__us_usc_t16_s5956.md) | [Next](./../../../../..//us/usc/t16/ch79/schIII/m__us_usc_t16_s5958.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5957)
 
-## § 5957. Transfer of concessions contracts
+## § 5957. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    (a) __Approval of Secretary__ 
-
-        No concessions contract or leasehold surrender interest may be transferred, assigned, sold, or otherwise conveyed or pledged by a concessioner without prior written notification to, and approval by, the Secretary.
-
-    (b) __Conditions__ 
-
-    The Secretary shall approve a transfer or conveyance described in subsection (a) of this section unless the Secretary finds that—
-
-        (1) the individual, corporation or entity seeking to acquire a concessions contract is not qualified or able to satisfy the terms and conditions of the concessions contract;
-
-        (2) such transfer or conveyance would have an adverse impact on (A) the protection, conservation, or preservation of the resources of the unit of the National Park System or (B) the provision of necessary and appropriate facilities and services to visitors at reasonable rates and charges; and
-
-        (3) the terms of such transfer or conveyance are likely, directly or indirectly, to reduce the concessioner’s opportunity for a reasonable profit over the remaining term of the contract, adversely affect the quality of facilities and services provided by the concessioner, or result in a need for increased rates and charges to the public to maintain the quality of such facilities and services.
-
-    (c) __Transfer terms__ 
-
-        The terms and conditions of any contract under this section shall not be subject to modification or open to renegotiation by the Secretary because of a transfer or conveyance described in subsection (a) of this section, unless such transfer or conveyance would have an adverse impact as described in paragraph (2) of subsection (b) of this section.
-
-([Pub. L. 105–391, title IV, § 408][/us/pl/105/391/s408], Nov. 13, 1998, [112 Stat. 3512][/us/stat/112/3512].)
+    Section, [Pub. L. 105–391, title IV, § 408][/us/pl/105/391/s408], Nov. 13, 1998, [112 Stat. 3512][/us/stat/112/3512], related to transfer of concessions contracts. See [section 101918 of Title 54][/us/usc/t54/s101918], National Park Service and Related Programs.
 
 ----------
 
@@ -42,7 +24,10 @@
 ----------
 ----------
 
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/105/391/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F391%2Fs408
 [/us/stat/112/3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3512
+[/us/usc/t54/s101918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs101918
 
 

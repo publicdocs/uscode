@@ -33,6 +33,82 @@
 
     2007—Subsec. (a). [Pub. L. 110–161][/us/pl/110/161], which directed the amendment of section 460ccc–4(a) of the Red Rock Canyon National Conservation Area Establishment Act authorization by striking out “with donated or appropriated funds” in par. (1), striking out par. (2), and redesignating pars. (3) and (4) as (2) and (3), respectively, was executed by making the amendments to subsec. (a) of this section, which is section 6 of the Red Rock Canyon National Conservation Area Establishment Act of 1990, to reflect the probable intent of Congress. Prior to amendment, “with donated or appropriated funds” appeared after “purchase” and par. (2) read as follows: “Lands or interests therein owned by the State of Nevada or a political subdivision thereof may be acquired by donation or exchange only.”
 
+ __Addition of Land to Red Rock Canyon National Conservation Area; Military Overflights__ 
+
+[Pub. L. 113–291, div. B, title XXX, § 3092(b)][/us/pl/113/291/s3092/b], (l), Dec. 19, 2014, [128 Stat. 3867][/us/stat/128/3867], 3879, provided that:
+
+>     “(b) __Addition of Land to Red Rock Canyon National Conservation Area.—__ 
+
+>         “(1)  __Definitions__  __.—__ 
+
+>         In this subsection:
+
+>             “(A)  __Conservation area__  __.—__ 
+
+>             The term ‘Conservation Area’ means the Red Rock Canyon National Conservation Area established by the Red Rock Canyon National Conservation Area Establishment Act of 1990 ([16 U.S.C. 460ccc][/us/usc/t16/s460ccc] et seq.).
+
+>             “(B)  __Map__  __.—__ 
+
+>             The term ‘Map’ means the map entitled ‘North Las Vegas Valley Overview’ and dated November 5, 2013.
+
+>             “(C)  __Secretary__  __.—__ 
+
+>             The term ‘Secretary’ means the Secretary of the Interior, acting through the Bureau of Land Management.
+
+>         “(2) __Addition of land to conservation area.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             The Conservation Area is expanded to include the land depicted on the Map as ‘Additions to Red Rock NCA’.
+
+>             “(B)  __Management plan__  __.—__ 
+
+>             Not later than 2 years after the date on which the land is acquired, the Secretary shall update the management plan for the Conservation Area to reflect the management requirements of the acquired land.
+
+>             “(C) __Map and legal description.—__ 
+
+>                 “(i)  __In general__  __.—__ 
+
+>                 As soon as practicable after the date of enactment of this section \[Dec. 19, 2014\], the Secretary shall finalize the legal description of the parcel to be conveyed under this subsection.
+
+>                 “(ii)  __Minor errors__  __.—__ 
+
+>                 The Secretary may correct any minor error in—
+
+>                          “(I) the Map; or
+
+>                          “(II) the legal description.
+
+>                 “(iii)  __Availability__  __.—__ 
+
+>                 The Map and legal description shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
+
+>     “(l) __Military Overflights.—__ 
+
+>         “(1)  __Findings__  __.—__ 
+
+>         Congress finds that military aircraft testing and training activities in the State of Nevada—
+
+>             “(A) are an important part of the national defense system of the United States; and
+
+>             “(B) are essential in order to secure an enduring and viable national defense system for the current and future generations of people of the United States.
+
+>         “(2)  __Overflights__  __.—__ 
+
+>         Nothing in this section \[enacting [section 460aaaa of this title][/us/usc/t16/s460aaaa], amending [section 460hhh–6 of this title][/us/usc/t16/s460hhh–6], and enacting provisions listed in a table of Miscellaneous National Monuments set out under [section 320301 of Title 54][/us/usc/t54/s320301], National Park Service and Related programs\] restricts or precludes any military overflight, including—
+
+>             “(A) low-level overflights of military aircraft over the Federal land;
+
+>             “(B) flight testing and evaluation; and
+
+>             “(C)
+
+>              the designation or creation of new units of special airspace, or the use or establishment of military flight training routes, over—
+
+>                 “(i) the Tule Springs Fossil Beds National Monument established by subsection (a)(2)(A) \[enacting provisions listed in a table of Miscellaneous National Monuments set out under [section 320301 of Title 54][/us/usc/t54/s320301]\]; or
+
+>                 “(ii) the Red Rock Canyon National Conservation Area established by the Red Rock Canyon National Conservation Area Establishment Act of 1990 ([16 U.S.C. 460ccc][/us/usc/t16/s460ccc] et seq.) (as modified by subsection (b)).”
+
  __Red Rock Canyon National Conservation Area Protection and Enhancement__ 
 
 [Pub. L. 107–282, title I][/us/pl/107/282], Nov. 6, 2002, [116 Stat. 1995][/us/stat/116/1995], provided that:
@@ -202,6 +278,14 @@
 [/us/pl/110/161/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs120
 [/us/stat/121/2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2121
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/113/291/s3092/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3092%2Fb
+[/us/stat/128/3867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3867
+[/us/usc/t16/s460ccc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ccc
+[/us/usc/t16/s460aaaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460aaaa
+[/us/usc/t16/s460hhh–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460hhh%E2%80%936
+[/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
+[/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
+[/us/usc/t16/s460ccc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ccc
 [/us/pl/107/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F282
 [/us/stat/116/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1995
 [/us/usc/t16/s460ccc–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ccc%E2%80%931

@@ -35,7 +35,7 @@
 
         (3) a proposal for minimal administrative and public facilities to be developed or improved at a level compatible with achieving the resource objectives for the Conservation Area and with the other proposed management activities to accommodate visitors to the Conservation Area;
 
-        (4) cultural resources management strategies for the Conservation Area, prepared in consultation with appropriate departments of the State of Arizona, with emphasis on the preservation of the resources of the Conservation Area and the interpretive, educational, and long-term scientific uses of these resources, giving priority to the enforcement of the Archaeological Resources Protection Act of 1979 ([16 U.S.C. 470aa][/us/usc/t16/s470aa] et seq.) and the National Historic Preservation Act ([16 U.S.C. 470][/us/usc/t16/s470] et seq.) within the Conservation Area;
+        (4) cultural resources management strategies for the Conservation Area, prepared in consultation with appropriate departments of the State of Arizona, with emphasis on the preservation of the resources of the Conservation Area and the interpretive, educational, and long-term scientific uses of these resources, giving priority to the enforcement of the Archaeological Resources Protection Act of 1979 ([16 U.S.C. 470aa][/us/usc/t16/s470aa] et seq.) and the National Historic Preservation Act  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  within the Conservation Area;
 
         (5) wildlife management strategies for the Conservation Area, prepared in consultation with appropriate departments of the State of Arizona and using previous studies of the Conservation Area;
 
@@ -63,7 +63,7 @@
 
     The Archaeological Resources Protection Act of 1979, referred to in subsec. (b)(4), is [Pub. L. 96–95][/us/pl/96/95], Oct. 31, 1979, [93 Stat. 721][/us/stat/93/721], as amended, which is classified generally to chapter 1B (§ 470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 470aa of this title][/us/usc/t16/s470aa] and Tables.
 
-    The National Historic Preservation Act, referred to in subsec. (b)(4), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], as amended, which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see [section 470(a) of this title][/us/usc/t16/s470/a] and Tables.
+    The National Historic Preservation Act, referred to in subsec. (b)(4), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title prior to the enactment of Title 54, National Park Service and Related Programs. See [54 U.S.C. 300101][/us/usc/t54/s300101] et seq.
 
     The Federal Cave Resources Protection Act of 1988, referred to in subsec. (b)(9), is [Pub. L. 100–691][/us/pl/100/691], Nov. 18, 1988, [102 Stat. 4546][/us/stat/102/4546], which is classified generally to chapter 63 (§ 4301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4301 of this title][/us/usc/t16/s4301] and Tables.
 
@@ -75,7 +75,6 @@
 ----------
 
 [/us/usc/t16/s470aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470aa
-[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
 [/us/usc/t16/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4301
 [/us/usc/t43/s1737/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1737%2Fb
 [/us/usc/t43/s1737/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1737%2Fa
@@ -86,7 +85,7 @@
 [/us/usc/t16/s470aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470aa
 [/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
 [/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
-[/us/usc/t16/s470/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470%2Fa
+[/us/usc/t54/s300101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs300101
 [/us/pl/100/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F691
 [/us/stat/102/4546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4546
 [/us/usc/t16/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4301

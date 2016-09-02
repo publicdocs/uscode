@@ -31,7 +31,7 @@
 
  __References in Text__ 
 
-    [Section 201 of the Act of June 28, 1980][/us/act/1980-06-28/s201] ([Public Law 96–287][/us/pl/96/287]), referred to in subsec. (a), appears in a table under the heading “National Monuments Established Under Presidential Proclamation”, set out as a note under [section 431 of this title][/us/usc/t16/s431].
+    [Section 201 of the Act of June 28, 1980][/us/act/1980-06-28/s201] ([Public Law 96–287][/us/pl/96/287]), referred to in subsec. (a), appears in a table under the heading “National Monuments Established Under Presidential Proclamation”, set out as a note under [section 320301 of Title 54][/us/usc/t54/s320301], National Park Service and Related Programs.
 
  __Transfer of Functions__ 
 
@@ -50,7 +50,7 @@
 [/us/stat/106/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3440
 [/us/act/1980-06-28/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1980-06-28%2Fs201
 [/us/pl/96/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F287
-[/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
+[/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

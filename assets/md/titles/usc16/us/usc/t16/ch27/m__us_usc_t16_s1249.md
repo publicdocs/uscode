@@ -17,13 +17,13 @@
 
     (a) __Appalachian and Pacific Crest National Scenic Trails__ 
 
-        (1) There are hereby authorized to be appropriated for the acquisition of lands or interests in lands not more than $5,000,000 for the Appalachian National Scenic Trail and not more than $500,000 for the Pacific Crest National Scenic Trail. From the appropriations authorized for fiscal year 1979 and succeeding fiscal years pursuant to the Land and Water Conservation Fund Act ([78 Stat. 897][/us/stat/78/897]), as amended \[[16 U.S.C. 460][/us/usc/t16/s460]l–4 et seq.\], not more than the following amounts may be expended for the acquisition of lands and interests in lands authorized to be acquired pursuant to the provisions of this chapter: for the Appalachian National Scenic Trail, not to exceed $30,000,000 for fiscal year 1979, $30,000,000 for fiscal year 1980, and $30,000,000 for fiscal year 1981, except that the difference between the foregoing amounts and the actual appropriations in any one fiscal year shall be available for appropriation in subsequent fiscal years.
+        (1) There are hereby authorized to be appropriated for the acquisition of lands or interests in lands not more than $5,000,000 for the Appalachian National Scenic Trail and not more than $500,000 for the Pacific Crest National Scenic Trail. From the appropriations authorized for fiscal year 1979 and succeeding fiscal years pursuant to chapter 2003 of title 54, not more than the following amounts may be expended for the acquisition of lands and interests in lands authorized to be acquired pursuant to the provisions of this chapter: for the Appalachian National Scenic Trail, not to exceed $30,000,000 for fiscal year 1979, $30,000,000 for fiscal year 1980, and $30,000,000 for fiscal year 1981, except that the difference between the foregoing amounts and the actual appropriations in any one fiscal year shall be available for appropriation in subsequent fiscal years.
 
         (2) It is the express intent of the Congress that the Secretary should substantially complete the land acquisition program necessary to insure the protection of the Appalachian Trail within three complete fiscal years following March 21, 1978.
 
     (b) __Land deemed to qualify for funding__ 
 
-        For the purposes of [Public Law 95–42][/us/pl/95/42] ([91 Stat. 211][/us/stat/91/211]), the lands and interests therein acquired pursuant to this section shall be deemed to qualify for funding under the provisions of section 1, clause 2, of said Act \[[16 U.S.C. 460][/us/usc/t16/s460]l–7\].
+        For the purposes of [Public Law 95–42][/us/pl/95/42] ([91 Stat. 211][/us/stat/91/211]), the lands and interests therein acquired pursuant to this section shall be deemed to qualify for funding under the provisions of section 1, clause 2, of said Act.
 
     (c) __Authorization of appropriations__ 
 
@@ -45,15 +45,15 @@
 
                 The administering agency for the trail shall encourage volunteer trail groups to participate in the development of the trail.
 
-([Pub. L. 90–543, § 10][/us/pl/90/543/s10], Oct. 2, 1968, [82 Stat. 926][/us/stat/82/926]; [Pub. L. 95–248, § 1(5)][/us/pl/95/248/s1/5], Mar. 21, 1978, [92 Stat. 160][/us/stat/92/160]; [Pub. L. 95–625, title V, § 551(23)][/us/pl/95/625/s551/23], Nov. 10, 1978, [92 Stat. 3517][/us/stat/92/3517]; [Pub. L. 96–199, title I, § 101(b)(4)][/us/pl/96/199/s101/b/4], Mar. 5, 1980, [94 Stat. 68][/us/stat/94/68]; [Pub. L. 96–370, § 1(b)][/us/pl/96/370/s1/b], Oct. 3, 1980, [94 Stat. 1360][/us/stat/94/1360]; [Pub. L. 98–11, title II, § 209][/us/pl/98/11/s209], Mar. 28, 1983, [97 Stat. 48][/us/stat/97/48]; [Pub. L. 100–35, § 1(b)][/us/pl/100/35/s1/b], May 8, 1987, [101 Stat. 302][/us/stat/101/302]; [Pub. L. 100–192, § 2][/us/pl/100/192/s2], Dec. 16, 1987, [101 Stat. 1309][/us/stat/101/1309]; [Pub. L. 101–365, § 2(b)][/us/pl/101/365/s2/b], Aug. 15, 1990, [104 Stat. 429][/us/stat/104/429]; [Pub. L. 103–437, § 6(d)(38)][/us/pl/103/437/s6/d/38], Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585]; [Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(J)][/us/pl/104/333/s814/d/1/J], Nov. 12, 1996, [110 Stat. 4196][/us/stat/110/4196]; [Pub. L. 108–352, § 14(2)][/us/pl/108/352/s14/2], Oct. 21, 2004, [118 Stat. 1397][/us/stat/118/1397]; [Pub. L. 111–11, title V, § 5301(b)][/us/pl/111/11/s5301/b], Mar. 30, 2009, [123 Stat. 1161][/us/stat/123/1161].)
+([Pub. L. 90–543, § 10][/us/pl/90/543/s10], Oct. 2, 1968, [82 Stat. 926][/us/stat/82/926]; [Pub. L. 95–248, § 1(5)][/us/pl/95/248/s1/5], Mar. 21, 1978, [92 Stat. 160][/us/stat/92/160]; [Pub. L. 95–625, title V, § 551(23)][/us/pl/95/625/s551/23], Nov. 10, 1978, [92 Stat. 3517][/us/stat/92/3517]; [Pub. L. 96–199, title I, § 101(b)(4)][/us/pl/96/199/s101/b/4], Mar. 5, 1980, [94 Stat. 68][/us/stat/94/68]; [Pub. L. 96–370, § 1(b)][/us/pl/96/370/s1/b], Oct. 3, 1980, [94 Stat. 1360][/us/stat/94/1360]; [Pub. L. 98–11, title II, § 209][/us/pl/98/11/s209], Mar. 28, 1983, [97 Stat. 48][/us/stat/97/48]; [Pub. L. 100–35, § 1(b)][/us/pl/100/35/s1/b], May 8, 1987, [101 Stat. 302][/us/stat/101/302]; [Pub. L. 100–192, § 2][/us/pl/100/192/s2], Dec. 16, 1987, [101 Stat. 1309][/us/stat/101/1309]; [Pub. L. 101–365, § 2(b)][/us/pl/101/365/s2/b], Aug. 15, 1990, [104 Stat. 429][/us/stat/104/429]; [Pub. L. 103–437, § 6(d)(38)][/us/pl/103/437/s6/d/38], Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585]; [Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(J)][/us/pl/104/333/s814/d/1/J], Nov. 12, 1996, [110 Stat. 4196][/us/stat/110/4196]; [Pub. L. 108–352, § 14(2)][/us/pl/108/352/s14/2], Oct. 21, 2004, [118 Stat. 1397][/us/stat/118/1397]; [Pub. L. 111–11, title V, § 5301(b)][/us/pl/111/11/s5301/b], Mar. 30, 2009, [123 Stat. 1161][/us/stat/123/1161]; [Pub. L. 113–287, § 5(d)(26)][/us/pl/113/287/s5/d/26], Dec. 19, 2014, [128 Stat. 3266][/us/stat/128/3266].)
 
  __References in Text__ 
 
-    The Land and Water Conservation Fund Act ([78 Stat. 897][/us/stat/78/897]), as amended, referred to in subsec. (a)(1), probably means the Land and Water Conservation Fund Act of 1965, [Pub. L. 88–578][/us/pl/88/578], Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], as amended, which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
-
-    [Public Law 95–42][/us/pl/95/42] ([91 Stat. 211][/us/stat/91/211]), referred to in subsec. (b), is [Pub. L. 95–42][/us/pl/95/42], June 10, 1977, [91 Stat. 210][/us/stat/91/210], which, to the extent classified to the Code, amended sections 460l–5, 460l–7, and 460l–9 of this title. Section 1, clause 2 of said Act amended section 460l–7 of this title. For complete classification of this Act to the Code, see Tables.
+    [Public Law 95–42][/us/pl/95/42] ([91 Stat. 211][/us/stat/91/211]), referred to in subsec. (b), is [Pub. L. 95–42][/us/pl/95/42], June 10, 1977, [91 Stat. 210][/us/stat/91/210], which, to the extent classified to the Code, amended former sections 460l–5, 460l–7, and 460l–9 of this title. Section 1, clause 2 of said Act amended former section 460l–7 of this title. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–287][/us/pl/113/287] substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act ([78 Stat. 897][/us/stat/78/897]), as amended”.
 
     2009—Subsec. (c). [Pub. L. 111–11][/us/pl/111/11] added subsec. (c) and struck out former subsec. (c) which appropriated such sums as necessary to implement the provisions of this chapter relating to the trails designated by [section 1244(a) of this title][/us/usc/t16/s1244/a].
 
@@ -110,11 +110,8 @@
 ----------
 ----------
 
-[/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897
-[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
 [/us/pl/95/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F42
 [/us/stat/91/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F211
-[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
 [/us/usc/t16/s1244/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244%2Fa
 [/us/usc/t16/s1244/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244%2Fa%2F12
 [/us/pl/90/543/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F543%2Fs10
@@ -143,13 +140,14 @@
 [/us/stat/118/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1397
 [/us/pl/111/11/s5301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs5301%2Fb
 [/us/stat/123/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1161
-[/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897
-[/us/pl/88/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578
-[/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897
+[/us/pl/113/287/s5/d/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F26
+[/us/stat/128/3266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3266
 [/us/pl/95/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F42
 [/us/stat/91/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F211
 [/us/pl/95/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F42
 [/us/stat/91/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F210
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/usc/t16/s1244/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244%2Fa
 [/us/pl/108/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352

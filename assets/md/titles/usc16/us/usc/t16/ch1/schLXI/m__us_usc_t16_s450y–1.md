@@ -15,9 +15,13 @@
 
 ## § 450y–1. Administration
 
-    The National Park Service, under the direction of the Secretary of the Interior, shall promote and regulate the use of the Coronado National Memorial for the benefit and enjoyment of the people of the United States. Insofar as applicable and not in conflict with sections 450y to 450y–4 of this title, sections 1, 2, 3, and 4 of this title, as amended and supplemented, providing for the establishment of a National Park Service, shall govern the promotion and regulation of the designated memorial area: Provided, That nothing in sections 450y to 450y–4 of this title shall be construed to authorize any recreational or other development by the National Park Service within the sixty-foot strip north of the international boundary between the United States and Mexico withdrawn by proclamation of the President dated May 27, 1907 (35 Stat., part II, p. 2136), unless such development has received the prior approval of the Secretary of State.
+    The National Park Service, under the direction of the Secretary of the Interior, shall promote and regulate the use of the Coronado National Memorial for the benefit and enjoyment of the people of the United States. Insofar as applicable and not in conflict with sections 450y to 450y–4 of this title, sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, as amended and supplemented, providing for the establishment of a National Park Service, shall govern the promotion and regulation of the designated memorial area: Provided, That nothing in sections 450y to 450y–4 of this title shall be construed to authorize any recreational or other development by the National Park Service within the sixty-foot strip north of the international boundary between the United States and Mexico withdrawn by proclamation of the President dated May 27, 1907 (35 Stat., part II, p. 2136), unless such development has received the prior approval of the Secretary of State.
 
 ([Aug. 18, 1941, ch. 365, § 2][/us/act/1941-08-18/ch365/s2], [55 Stat. 630][/us/stat/55/630]; [July 9, 1952, ch. 610, § 1][/us/act/1952-07-09/ch610/s1], [66 Stat. 510][/us/stat/66/510].)
+
+ __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
  __Amendments__ 
 
@@ -38,6 +42,9 @@
 [/us/stat/55/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F630
 [/us/act/1952-07-09/ch610/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-09%2Fch610%2Fs1
 [/us/stat/66/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F510
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 
 

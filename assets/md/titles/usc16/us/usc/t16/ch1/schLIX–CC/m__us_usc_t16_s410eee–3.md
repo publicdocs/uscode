@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        The park shall be administered by the Secretary in accordance with this section and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, 4, and 461 to 467 of this title.
+        The park shall be administered by the Secretary in accordance with this section and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, 4, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and 461 to 467  <sup>\[1\]</sup>  of this title.
 
     (b) __Cooperative agreements__ 
 
@@ -37,6 +37,12 @@
 
 ([Pub. L. 105–342, § 5][/us/pl/105/342/s5], Nov. 2, 1998, [112 Stat. 3201][/us/stat/112/3201].)
 
+ __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+
+    Sections 461 to 467 of this title, referred to in subsec. (a), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
+
  __Codification__ 
 
     Section is comprised of [section 5 of Pub. L. 105–342][/us/pl/105/342/s5]. Subsec. (d) of [section 5 of Pub. L. 105–342][/us/pl/105/342/s5] amended [section 312 of Pub. L. 95–625][/us/pl/95/625/s312] and the first section of [Pub. L. 96–435][/us/pl/96/435], which are not classified to the Code.
@@ -50,6 +56,12 @@
 
 [/us/pl/105/342/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F342%2Fs5
 [/us/stat/112/3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3201
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/105/342/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F342%2Fs5
 [/us/pl/105/342/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F342%2Fs5
 [/us/pl/95/625/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs312

@@ -21,7 +21,7 @@
 
     (b) __Prioritization of grants__ 
 
-        Within the historic district, the Secretary shall give priority in making grants under section 101(d), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and in providing technical assistance, information, and advice under section 101(h), <sup>\[1\]</sup>  of the National Historic Preservation Act ([16 U.S.C. 470a(d)][/us/usc/t16/s470a/d], (h)) to those programs and activities in the historic district that will assure development and use of natural and cultural resources in a manner that is consistent with the conservation and maintenance of the district’s historic character.
+        Within the historic district, the Secretary shall give priority in making grants under [section 302902 of title 54][/us/usc/t54/s302902], and in providing technical assistance, information, and advice under [section 303902 of title 54][/us/usc/t54/s303902], to those programs and activities in the historic district that will assure development and use of natural and cultural resources in a manner that is consistent with the conservation and maintenance of the district’s historic character.
 
     (c) __Provision of technical assistance__ 
 
@@ -37,7 +37,7 @@
 
     (f) __Federal consistency__ 
 
-        (1) Any Federal or federally assisted activity or undertaking in the historic district, shall be consistent to the maximum extent possible with the purposes of the preservation of the historic district, including its rural, agricultural, and town elements, and shall also comply with the National Historic Preservation Act \[[16 U.S.C. 470][/us/usc/t16/s470] et seq.\] and other applicable laws.
+        (1) Any Federal or federally assisted activity or undertaking in the historic district, shall be consistent to the maximum extent possible with the purposes of the preservation of the historic district, including its rural, agricultural, and town elements, and shall also comply with the National Historic Preservation Act  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and other applicable laws.
 
         (2) The head of any Federal agency (hereafter in this subsection referred to as the “agency”) having direct or indirect jurisdiction over a proposed Federal or federally assisted undertaking in the historic district, and the head of any Federal agency having authority to license or permit any undertaking in such area, shall at the earliest feasible date prepare a detailed analysis of any proposed action and submit it to the Secretary.
 
@@ -47,9 +47,13 @@
 
  __References in Text__ 
 
-    Subsections (d) and (h) of section 101 of the National Historic Preservation Act, referred to in subsec. (b), were redesignated as subsecs. (e) and (i), respectively, of that section by [Pub. L. 102–575, title XL, § 4006(a)(1)][/us/pl/102/575/s4006/a/1], Oct. 30, 1992, [106 Stat. 4755][/us/stat/106/4755], and are classified to subsecs. (e) and (i), respectively, of [section 470a of this title][/us/usc/t16/s470a].
+    The National Historic Preservation Act, referred to in subsec. (f)(1), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title prior to the enactment of Title 54, National Park Service and Related Programs. See [54 U.S.C. 300101][/us/usc/t54/s300101] et seq.
 
     The National Historic Preservation Act, referred to in subsec. (f)(1), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], as amended, which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see [section 470(a) of this title][/us/usc/t16/s470/a] and Tables.
+
+ __Codification__ 
+
+    In subsec. (b), “[section 302902 of title 54][/us/usc/t54/s302902]” substituted for “section 101(d)” and “[section 303902 of title 54][/us/usc/t54/s303902]” substituted for “section 101(h), of the National Historic Preservation Act ([16 U.S.C. 470a(d)][/us/usc/t16/s470a/d], (h))” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs, and [Pub. L. 102–575, title XL, § 4006(a)(1)][/us/pl/102/575/s4006/a/1], Oct. 30, 1992, [106 Stat. 4755][/us/stat/106/4755], which redesignated subsecs. (d) and (h) of section 101 of the National Historic Preservation Act as subsecs. (e) and (i), respectively, of that section.
 
 ----------
 
@@ -58,16 +62,23 @@
 ----------
 ----------
 
-[/us/usc/t16/s470a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470a%2Fd
+[/us/usc/t54/s302902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs302902
+[/us/usc/t54/s303902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs303902
 [/us/usc/t16/s430g–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430g%E2%80%938
-[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
 [/us/pl/101/377/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F377%2Fs4
 [/us/stat/104/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F465
-[/us/pl/102/575/s4006/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs4006%2Fa%2F1
-[/us/stat/106/4755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4755
-[/us/usc/t16/s470a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470a
+[/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
+[/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
+[/us/usc/t54/s300101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs300101
 [/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
 [/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
 [/us/usc/t16/s470/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470%2Fa
+[/us/usc/t54/s302902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs302902
+[/us/usc/t54/s303902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs303902
+[/us/usc/t16/s470a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470a%2Fd
+[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/pl/102/575/s4006/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs4006%2Fa%2F1
+[/us/stat/106/4755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4755
 
 

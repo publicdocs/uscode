@@ -17,7 +17,7 @@
 
 §§ 19 to 19c. __Repealed.__  __[__  __Pub. L. 90–209, § 2__  __][/us/pl/90/209/s2]__  __,__  __Dec. 18, 1967__  __,__  __[__  __81 Stat. 656__  __][/us/stat/81/656]__ 
 
-Sections, [act July 10, 1935, ch. 375][/us/act/1935-07-10/ch375], §§ 1–3, 5, [49 Stat. 477][/us/stat/49/477], 478, related to: creation of National Park Trust Fund Board, its composition, conduct of business, and compensation; authority to accept and administer gifts, disposition of income, and limitations thereof; succession, powers as trustee, and jurisdiction of suits; and exemption of gifts from taxation, respectively. See sections 19e to 19n of this title.
+Sections, [act July 10, 1935, ch. 375][/us/act/1935-07-10/ch375], §§ 1–3, 5, [49 Stat. 477][/us/stat/49/477], 478, related to: creation of National Park Trust Fund Board, its composition, conduct of business, and compensation; authority to accept and administer gifts, disposition of income, and limitations thereof; succession, powers as trustee, and jurisdiction of suits; and exemption of gifts from taxation, respectively.
 
 ----------
 

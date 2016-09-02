@@ -21,13 +21,17 @@
 
     (b) __Erection and maintenance of tablets and markers__ 
 
-        To facilitate the interpretation of the Nez Perce country the Secretary is authorized to erect and maintain tablets or markers in accordance with the provisions contained in sections 461 to 467 of this title.
+        To facilitate the interpretation of the Nez Perce country the Secretary is authorized to erect and maintain tablets or markers in accordance with the provisions contained in sections 461 to 467  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
     (c) __Consultation with Nez Perce Tribe officials__ 
 
         The Secretary shall consult with officials of the Nez Perce Tribe on the interpretation of the park and its history.
 
 ([Pub. L. 89–19, § 6][/us/pl/89/19/s6], May 15, 1965, [79 Stat. 111][/us/stat/79/111]; [Pub. L. 102–576, § 2(5)][/us/pl/102/576/s2/5], (6), Oct. 30, 1992, [106 Stat. 4771][/us/stat/106/4771].)
+
+ __References in Text__ 
+
+    Sections 461 to 467 of this title, referred to in text, were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
  __Amendments__ 
 
@@ -46,6 +50,9 @@
 [/us/stat/79/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F111
 [/us/pl/102/576/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576%2Fs2%2F5
 [/us/stat/106/4771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4771
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/102/576/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576%2Fs2%2F5
 [/us/pl/102/576/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576%2Fs2%2F6
 

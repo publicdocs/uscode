@@ -57,7 +57,7 @@
 
             Prior to conducting any such sale, the Secretary shall take appropriate steps to afford a unit of State or local government or any other entity an opportunity to seek to obtain such portion pursuant to paragraph (1) of this subsection.
 
-        (3) All proceeds from sales of such retained rights of way shall be deposited into the Treasury of the United States and credited to the Land and Water Conservation Fund as provided in section 460l–5 of this title.
+        (3) All proceeds from sales of such retained rights of way shall be deposited into the Treasury of the United States and credited to the Land and Water Conservation Fund as provided in [section 200302 of title 54][/us/usc/t54/s200302].
 
         (4) The Secretary of the Interior shall annually report to the Congress the total proceeds from sales under paragraph (2) during the preceding fiscal year. Such report shall be included in the President’s annual budget submitted to the Congress.
 
@@ -69,7 +69,7 @@
 
         (2) The term “public lands” has the same meaning given such term in the Federal Land Policy and Management Act of 1976 \[[43 U.S.C. 1701][/us/usc/t43/s1701] et seq.\].
 
-([Pub. L. 90–543, § 9][/us/pl/90/543/s9], Oct. 2, 1968, [82 Stat. 925][/us/stat/82/925]; [Pub. L. 95–91, title III, § 301(b)][/us/pl/95/91/s301/b], Aug. 4, 1977, [91 Stat. 578][/us/stat/91/578]; [Pub. L. 100–470, § 3][/us/pl/100/470/s3], Oct. 4, 1988, [102 Stat. 2281][/us/stat/102/2281]; [Pub. L. 104–88, title III, § 317(2)][/us/pl/104/88/s317/2], Dec. 29, 1995, [109 Stat. 949][/us/stat/109/949].)
+([Pub. L. 90–543, § 9][/us/pl/90/543/s9], Oct. 2, 1968, [82 Stat. 925][/us/stat/82/925]; [Pub. L. 95–91, title III, § 301(b)][/us/pl/95/91/s301/b], Aug. 4, 1977, [91 Stat. 578][/us/stat/91/578]; [Pub. L. 100–470, § 3][/us/pl/100/470/s3], Oct. 4, 1988, [102 Stat. 2281][/us/stat/102/2281]; [Pub. L. 104–88, title III, § 317(2)][/us/pl/104/88/s317/2], Dec. 29, 1995, [109 Stat. 949][/us/stat/109/949]; [Pub. L. 113–287, § 5(d)(25)][/us/pl/113/287/s5/d/25], Dec. 19, 2014, [128 Stat. 3266][/us/stat/128/3266].)
 
  __References in Text__ 
 
@@ -78,6 +78,8 @@
     The Alaska National Interest Lands Conservation Act, referred to in subsec. (f)(1), is [Pub. L. 96–487][/us/pl/96/487], Dec. 2, 1980, [94 Stat. 2371][/us/stat/94/2371], as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t16/s3101] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (e)(3). [Pub. L. 113–287][/us/pl/113/287] substituted “[section 200302 of title 54][/us/usc/t54/s200302]” for “section 460l–5 of this title”.
 
     1995—Subsec. (b). [Pub. L. 104–88][/us/pl/104/88] substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
 
@@ -125,6 +127,7 @@
 [/us/usc/t43/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs912
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 [/us/usc/t43/s1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1713
+[/us/usc/t54/s200302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200302
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
@@ -136,12 +139,16 @@
 [/us/stat/102/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2281
 [/us/pl/104/88/s317/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs317%2F2
 [/us/stat/109/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F949
+[/us/pl/113/287/s5/d/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F25
+[/us/stat/128/3266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3266
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371
 [/us/usc/t16/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3101
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/usc/t54/s200302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200302
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/100/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F470
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88

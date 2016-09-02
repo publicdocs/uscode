@@ -13,15 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schIII/m__us_usc_t16_s19g.md) | [Next](./../../../../..//us/usc/t16/ch1/schIII/m__us_usc_t16_s19i.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs19h)
 
-## § 19h. Property and income dealings and transactions; prohibition of engagement in business; trust company type of investments; utilization of services and facilities of Federal agencies without reimbursement; transfer instrument requirements and investments
+## § 19h. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Except as otherwise required by the instrument of transfer, the Foundation may sell, lease, invest, reinvest, retain, or otherwise dispose of or deal with any property or income thereof as the Board may from time to time determine. The Foundation shall not engage in any business, nor shall the Foundation make any investment that may not lawfully be made by a trust company in the District of Columbia, except that the Foundation may make any investment authorized by the instrument of transfer, and may retain any property accepted by the Foundation. The Foundation may utilize the services and facilities of the Department of the Interior and the Department of Justice, and such services and facilities may be made available on request to the extent practicable with or without reimbursement therefor. Monies reimbursed to either Department shall be returned by the Department to the account from which the funds for which the reimbursement is made were drawn and may, without further appropriation, be expended for any purpose for which such account is authorized.
-
-([Pub. L. 90–209, § 4][/us/pl/90/209/s4], Dec. 18, 1967, [81 Stat. 656][/us/stat/81/656]; [Pub. L. 106–176, title III, § 305][/us/pl/106/176/s305], Mar. 10, 2000, [114 Stat. 33][/us/stat/114/33].)
-
- __Amendments__ 
-
-    2000—[Pub. L. 106–176][/us/pl/106/176] inserted “with or” before “without” and inserted at end “Monies reimbursed to either Department shall be returned by the Department to the account from which the funds for which the reimbursement is made were drawn and may, without further appropriation, be expended for any purpose for which such account is authorized.”
+    Section, [Pub. L. 90–209, § 4][/us/pl/90/209/s4], Dec. 18, 1967, [81 Stat. 656][/us/stat/81/656]; [Pub. L. 106–176, title III, § 305][/us/pl/106/176/s305], Mar. 10, 2000, [114 Stat. 33][/us/stat/114/33], related to property and income dealings and transactions. See [section 101114 of Title 54][/us/usc/t54/s101114], National Park Service and Related Programs.
 
 ----------
 
@@ -30,10 +24,12 @@
 ----------
 ----------
 
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/90/209/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F209%2Fs4
 [/us/stat/81/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F656
 [/us/pl/106/176/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs305
 [/us/stat/114/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F33
-[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
+[/us/usc/t54/s101114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs101114
 
 

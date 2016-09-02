@@ -123,9 +123,9 @@
 
  __References in Text__ 
 
-    This subtitle, referred to in subsec. (c)(2), is subtitle C (§§ 1201–1207) of title I of [Pub. L. 111–11][/us/pl/111/11], Mar. 30, 2009, [123 Stat. 1007][/us/stat/123/1007], which enacted this subchapter and [section 539n of this title][/us/usc/t16/s539n], amended sections 544k and 1274 of this title, enacted provisions set out as a note under [section 1274 of this title][/us/usc/t16/s1274], enacted provisions listed in a table of National Memorials set out under [section 431 of this title][/us/usc/t16/s431], and enacted and amended provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132]. For complete classification of subtitle C to the Code, see Tables.
+    This subtitle, referred to in subsec. (c)(2), is subtitle C (§§ 1201–1207) of title I of [Pub. L. 111–11][/us/pl/111/11], Mar. 30, 2009, [123 Stat. 1007][/us/stat/123/1007], which enacted this subchapter and [section 539n of this title][/us/usc/t16/s539n], amended sections 544k and 1274 of this title, enacted provisions set out as a note under [section 1274 of this title][/us/usc/t16/s1274], enacted provisions listed in a table of National Memorials set out under [section 320301 of Title 54][/us/usc/t54/s320301], National Park Service and Related Programs, and enacted and amended provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132]. For complete classification of subtitle C to the Code, see Tables.
 
-    Section 1202, referred to in subsec. (d)(2), is [section 1202 of Pub. L. 111–11][/us/pl/111/11/s1202], which enacted provisions listed in a table of National Memorials set out under [section 431 of this title][/us/usc/t16/s431] and enacted and amended provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132].
+    Section 1202, referred to in subsec. (d)(2), is [section 1202 of Pub. L. 111–11][/us/pl/111/11/s1202], which enacted provisions listed in a table of National Memorials set out under [section 320301 of Title 54][/us/usc/t54/s320301], National Park Service and Related Programs, and enacted and amended provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132].
 
     The Wilderness Act, referred to in subsec. (d)(2), is [Pub. L. 88–577][/us/pl/88/577], Sept. 3, 1964, [78 Stat. 890][/us/stat/78/890], which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title][/us/usc/t16/s1131] and Tables.
 
@@ -157,10 +157,10 @@
 [/us/stat/123/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1007
 [/us/usc/t16/s539n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539n
 [/us/usc/t16/s1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1274
-[/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
+[/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 [/us/pl/111/11/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1202
-[/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
+[/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

@@ -15,13 +15,17 @@
 
 ## § 407. Establishment; description of area
 
-    The tract of land known prior to May 14, 1930, as the Carlsbad Cave National Monument, in the State of New Mexico, established and designated as a national monument under [section 431 of this title][/us/usc/t16/s431], and by presidential proclamation of October 25, 1923, is declared to be a national park and dedicated as a public park for the benefit and enjoyment of the people under the name of the Carlsbad Caverns National Park, under which name the aforesaid national park shall be entitled to receive and to use all moneys heretofore or hereafter appropriated for the Carlsbad Cave National Monument.
+    The tract of land known prior to May 14, 1930, as the Carlsbad Cave National Monument, in the State of New Mexico, established and designated as a national monument under section 320301(a)–(c) of title 54, and by presidential proclamation of October 25, 1923, is declared to be a national park and dedicated as a public park for the benefit and enjoyment of the people under the name of the Carlsbad Caverns National Park, under which name the aforesaid national park shall be entitled to receive and to use all moneys heretofore or hereafter appropriated for the Carlsbad Cave National Monument.
 
 ([May 14, 1930, ch. 272, § 1][/us/act/1930-05-14/ch272/s1], [46 Stat. 279][/us/stat/46/279].)
 
  __References in Text__ 
 
     The presidential proclamation of October 25, 1923, referred to in text, is Proc. No. 1923, [43 Stat. 1929][/us/stat/43/1929].
+
+ __Codification__ 
+
+    In text, “section 320301(a)–(c) of title 54” substituted for “the Act of June 8, 1906, entitled ‘An Act for the preservation of American antiquities,’ ” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
 ----------
 
@@ -30,9 +34,10 @@
 ----------
 ----------
 
-[/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
 [/us/act/1930-05-14/ch272/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch272%2Fs1
 [/us/stat/46/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F279
 [/us/stat/43/1929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1929
+[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 
 

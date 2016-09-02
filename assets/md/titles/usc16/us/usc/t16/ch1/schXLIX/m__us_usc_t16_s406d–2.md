@@ -15,15 +15,21 @@
 
 ## § 406d–2. Rights-of-way; continuation of leases, permits, and licenses; renewal; grazing privileges
 
-    With respect to those lands that are included by this subchapter and sections 431a, 451a, 482m, 673b, and 673c of this title within the Grand Teton National Park—
+    With respect to those lands that are included by this subchapter and sections 431a, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  451a, <sup>\[1\]</sup>  482m, 673b, and 673c of this title within the Grand Teton National Park—
 
     (a) the Secretary of the Interior shall designate and open rights-of-way, including stock driveways, over and across Federal lands within the exterior boundary of the park for the movement of persons and property to or from State and private lands within the exterior boundary of the park and to or from national forest, State, and private lands adjacent to the park. The location and use of such rights-of-way shall be subject to such regulations as may be prescribed by the Secretary of the Interior;
 
     (b) all leases, permits, and licenses issued or authorized by any department, establishment, or agency of the United States with respect to the Federal lands within the exterior boundary of the park which are in effect on September 14, 1950, shall continue in effect, subject to compliance with the terms and conditions therein set forth, until terminated in accordance with the provisions thereof;
 
-    (c) where any Federal lands included within the park by this subchapter and sections 431a, 451a, 482m, 673b, and 673c of this title were legally occupied or utilized on September 14, 1950 for residence or grazing purposes, or for other purposes not inconsistent with sections 1, 2, 3, and 4 of this title, pursuant to a lease, permit, or license issued or authorized by any department, establishment, or agency of the United States, the person so occupying or utilizing such lands, and the heirs, successors, or assigns of such person, shall, upon the termination of such lease, permit, or license, be entitled to have the privileges so possessed or enjoyed by him renewed from time to time, subject to such terms and conditions as the Secretary of the Interior shall prescribe, for a period of twenty-five years from September 14, 1950 and thereafter during the lifetime of such person and the lifetime of his heirs, successors, or assigns but only if they were members of his immediate family on such date, as determined by the Secretary of the Interior: Provided, That grazing privileges appurtenant to privately owned lands located within the Grand Teton National Park established by this subchapter and said sections shall not be withdrawn until title to lands to which such privileges are appurtenant shall have vested in the United States, except for failure to comply with the regulations applicable thereto after reasonable notice of default: Provided further, That nothing in this subsection shall apply to any lease, permit, or license for mining purposes or for public accommodations and services or to any occupancy or utilization of lands for purely temporary purposes. Nothing contained in this subchapter and said sections shall be construed as creating any vested right, title, interest, or estate in or to any Federal lands.
+    (c) where any Federal lands included within the park by this subchapter and sections 431a,1 451a,1 482m, 673b, and 673c of this title were legally occupied or utilized on September 14, 1950 for residence or grazing purposes, or for other purposes not inconsistent with sections 1, 2, 3, and 4 1 of this title, pursuant to a lease, permit, or license issued or authorized by any department, establishment, or agency of the United States, the person so occupying or utilizing such lands, and the heirs, successors, or assigns of such person, shall, upon the termination of such lease, permit, or license, be entitled to have the privileges so possessed or enjoyed by him renewed from time to time, subject to such terms and conditions as the Secretary of the Interior shall prescribe, for a period of twenty-five years from September 14, 1950 and thereafter during the lifetime of such person and the lifetime of his heirs, successors, or assigns but only if they were members of his immediate family on such date, as determined by the Secretary of the Interior: Provided, That grazing privileges appurtenant to privately owned lands located within the Grand Teton National Park established by this subchapter and said sections shall not be withdrawn until title to lands to which such privileges are appurtenant shall have vested in the United States, except for failure to comply with the regulations applicable thereto after reasonable notice of default: Provided further, That nothing in this subsection shall apply to any lease, permit, or license for mining purposes or for public accommodations and services or to any occupancy or utilization of lands for purely temporary purposes. Nothing contained in this subchapter and said sections shall be construed as creating any vested right, title, interest, or estate in or to any Federal lands.
 
 ([Sept. 14, 1950, ch. 950, § 4][/us/act/1950-09-14/ch950/s4], [64 Stat. 850][/us/stat/64/850].)
+
+ __References in Text__ 
+
+    Sections 431a and 451a of this title, referred to in introductory provisions and subsec. (c), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. See sections 320301(d) and 104907, respectively, of Title 54, National Park Service and Related Programs.
+
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
  __Repeal of Inconsistent Laws__ 
 
@@ -102,6 +108,11 @@
 
 [/us/act/1950-09-14/ch950/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950%2Fs4
 [/us/stat/64/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F850
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/usc/t16/s406d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs406d%E2%80%931
 [/us/pl/105/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F81
 [/us/stat/111/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1537

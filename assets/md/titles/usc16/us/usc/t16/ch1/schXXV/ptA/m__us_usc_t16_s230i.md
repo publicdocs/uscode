@@ -25,7 +25,7 @@
 
  __“Secretary” Defined__ 
 
-    Secretary means the Secretary of the Interior, see [section 2 of Pub. L. 95–625][/us/pl/95/625/s2], set out as a note under [section 2503 of this title][/us/usc/t16/s2503].
+    Secretary means the Secretary of the Interior, see [section 2 of Pub. L. 95–625][/us/pl/95/625/s2], set out as a note under [section 45f of this title][/us/usc/t16/s45f].
 
 ----------
 
@@ -37,6 +37,6 @@
 [/us/pl/95/625/s910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs910
 [/us/stat/92/3538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3538
 [/us/pl/95/625/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs2
-[/us/usc/t16/s2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2503
+[/us/usc/t16/s45f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs45f
 
 

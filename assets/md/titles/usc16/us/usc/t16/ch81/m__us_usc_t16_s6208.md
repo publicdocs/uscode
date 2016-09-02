@@ -33,6 +33,10 @@
 
 ([Pub. L. 106–291, title VI, § 609][/us/pl/106/291/s609], Oct. 11, 2000, [114 Stat. 1020][/us/stat/114/1020].)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 113–291, div. B, title XXX, § 3024(k)][/us/pl/113/291/s3024/k], Dec. 19, 2014, [128 Stat. 3766][/us/stat/128/3766], provided that, effective on the date of the assessment of annual permit fees in accordance with [section 6214(f) of this title][/us/usc/t16/s6214/f] (as certified to Congress by the Secretary of Agriculture), this section is repealed.
+
 ----------
 
 [Previous](./../../../..//us/usc/t16/ch81/m__us_usc_t16_s6207.md) | [Next](./../../../..//us/usc/t16/ch81/m__us_usc_t16_s6209.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6208)
@@ -44,5 +48,8 @@
 [/us/usc/t16/s6206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6206
 [/us/pl/106/291/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs609
 [/us/stat/114/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1020
+[/us/pl/113/291/s3024/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3024%2Fk
+[/us/stat/128/3766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3766
+[/us/usc/t16/s6214/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6214%2Ff
 
 

@@ -209,7 +209,7 @@
 
                  in coordination with—
 
-                    (I) the Chesapeake Bay Gateways and Watertrails Network authorized under the Chesapeake Bay Initiative Act of 1998 ([16 U.S.C. 461][/us/usc/t16/s461] note; [112 Stat. 2961][/us/stat/112/2961]); and
+                    (I) the Chesapeake Bay Gateways and Watertrails Network authorized under the Chesapeake Bay Initiative Act of 1998 ([112 Stat. 2961][/us/stat/112/2961]); and
 
                     (II) the Chesapeake Bay Program authorized under [section 1267 of title 33][/us/usc/t33/s1267]; and
 
@@ -321,7 +321,7 @@
 
         (2) the areas adjacent to such trails, to be utilized for scenic, historic, natural, cultural, or developmental, purposes;
 
-        (3) the characteristics which, in the judgment of the appropriate Secretary, make the proposed trail worthy of designation as a national scenic or national historic trail; and in the case of national historic trails the report shall include the recommendation of the Secretary of the Interior’s National Park System Advisory Board as to the national historic significance based on the criteria developed under the Historic Sites Act of 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461][/us/usc/t16/s461]);
+        (3) the characteristics which, in the judgment of the appropriate Secretary, make the proposed trail worthy of designation as a national scenic or national historic trail; and in the case of national historic trails the report shall include the recommendation of the Secretary of the Interior’s National Park System Advisory Board as to the national historic significance based on the criteria developed under the Historic Sites Act of 1935 ([49 Stat. 666][/us/stat/49/666]);
 
         (4) the current status of land ownership and current and potential use along the designated route;
 
@@ -501,7 +501,7 @@
 
             (C)  __Coordination with other congressionally mandated activities__  __.—__ 
 
-            The study under this paragraph shall be undertaken in coordination with the study authorized under section 603 of the Omnibus Parks and Public Lands Management Act of 1996 ([16 U.S.C. 1a–5][/us/usc/t16/s1a–5] note; [110 Stat. 4172][/us/stat/110/4172]) and the Chesapeake Bay Gateways and Watertrails Network authorized under the Chesapeake Bay Initiative Act of 1998 ([16 U.S.C. 461][/us/usc/t16/s461] note; [112 Stat. 2961][/us/stat/112/2961]). Such coordination shall extend to any research needed to complete the studies and any findings and implementation actions that result from the studies and shall use available resources to the greatest extent possible to avoid unnecessary duplication of effort.
+            The study under this paragraph shall be undertaken in coordination with the study authorized under section 603 of the Omnibus Parks and Public Lands Management Act of 1996 ([110 Stat. 4172][/us/stat/110/4172]) and the Chesapeake Bay Gateways and Watertrails Network authorized under the Chesapeake Bay Initiative Act of 1998 ([112 Stat. 2961][/us/stat/112/2961]). Such coordination shall extend to any research needed to complete the studies and any findings and implementation actions that result from the studies and shall use available resources to the greatest extent possible to avoid unnecessary duplication of effort.
 
             (D)  __Deadline for study__  __.—__ 
 
@@ -521,7 +521,7 @@
 
              The study shall be conducted in consultation with Federal, State, regional, and local agencies and representatives of the private sector, including the entities responsible for administering—
 
-                (i) the Chesapeake Bay Gateways and Watertrails Network authorized under the Chesapeake Bay Initiative Act of 1998 ([16 U.S.C. 461][/us/usc/t16/s461] note; title V of [Public Law 105–312][/us/pl/105/312]); and
+                (i) the Chesapeake Bay Gateways and Watertrails Network authorized under the Chesapeake Bay Initiative Act of 1998 (title V of [Public Law 105–312][/us/pl/105/312]); and
 
                 (ii) the Chesapeake Bay Program authorized under [section 1267 of title 33][/us/usc/t33/s1267].
 
@@ -789,11 +789,11 @@
 
  __References in Text__ 
 
-    The Chesapeake Bay Initiative Act of 1998, referred to in subsecs. (a)(25)(C)(i)(I) and (c)(40)(C), (43)(B)(i), is title V of [Pub. L. 105–312][/us/pl/105/312], Oct. 30, 1998, [112 Stat. 2961][/us/stat/112/2961], which is classified as a note under [section 461 of this title][/us/usc/t16/s461]. For complete classification of this Act to the Code, see Tables.
+    The Chesapeake Bay Initiative Act of 1998, referred to in subsecs. (a)(25)(C)(i)(I) and (c)(40)(C), (43)(B)(i), is title V of [Pub. L. 105–312][/us/pl/105/312], Oct. 30, 1998, [112 Stat. 2961][/us/stat/112/2961], which is classified as a note under [section 320101 of Title 54][/us/usc/t54/s320101], National Park Service and Related Programs. For complete classification of this Act to the Code, see Tables.
 
-    The Historic Sites Act of 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461][/us/usc/t16/s461]), referred to in subsec. (b)(3), which is also known as the Historic Sites, Buildings, and Antiquities Act, is [act Aug. 21, 1935, ch. 593][/us/act/1935-08-21/ch593], [49 Stat. 666][/us/stat/49/666], as amended, which is classified to sections 461 to 467 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 461 of this title][/us/usc/t16/s461] and Tables.
+    The Historic Sites Act of 1935 ([49 Stat. 666][/us/stat/49/666]), referred to in subsec. (b)(3), which is also known as the Historic Sites, Buildings, and Antiquities Act, is [act Aug. 21, 1935, ch. 593][/us/act/1935-08-21/ch593], [49 Stat. 666][/us/stat/49/666]. For complete classification of this Act to the Code, see Tables.
 
-    Section 603 of the Omnibus Parks and Public Lands Management Act of 1996, referred to in subsec. (c)(40)(C), is [section 603 of Pub. L. 104–333][/us/pl/104/333/s603], which is classified as a note under [section 1a–5 of this title][/us/usc/t16/s1a–5].
+    Section 603 of the Omnibus Parks and Public Lands Management Act of 1996, referred to in subsec. (c)(40)(C), is [section 603 of Pub. L. 104–333][/us/pl/104/333/s603], div. I, title VI, Nov. 12, 1996, [110 Stat. 1384][/us/stat/110/1384], which was formerly set out as a note under [section 1a–5 of this title][/us/usc/t16/s1a–5].
 
  __Amendments__ 
 
@@ -1058,16 +1058,11 @@
 [/us/usc/t16/s1246/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1246%2Fc
 [/us/usc/t16/s1246/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1246%2Fh
 [/us/usc/t16/s1242/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1242%2Fa%2F3
-[/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
 [/us/stat/112/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2961
 [/us/usc/t33/s1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1267
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
-[/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
-[/us/usc/t16/s1a–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%935
 [/us/stat/110/4172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4172
-[/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
 [/us/stat/112/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2961
-[/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
 [/us/pl/105/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312
 [/us/usc/t33/s1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1267
 [/us/usc/t16/s1246/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1246%2Fc
@@ -1149,13 +1144,12 @@
 [/us/stat/123/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1154
 [/us/pl/105/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312
 [/us/stat/112/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2961
-[/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
+[/us/usc/t54/s320101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320101
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
-[/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
 [/us/act/1935-08-21/ch593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch593
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
-[/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
 [/us/pl/104/333/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs603
+[/us/stat/110/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1384
 [/us/usc/t16/s1a–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%935
 [/us/pl/111/11/s5301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs5301%2Fa%2F1
 [/us/pl/111/11/s5301/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs5301%2Fa%2F6

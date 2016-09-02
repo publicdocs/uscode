@@ -325,6 +325,12 @@
 
 >             “(E) retain and enhance opportunities for scientific research in undisturbed ecosystems.”
 
+ __Removal of Feral Burros and Horses From Death Valley National Monument__ 
+
+[Pub. L. 102–381, title I][/us/pl/102/381], Oct. 5, 1992, [106 Stat. 1384][/us/stat/106/1384], provided in part: 
+
+> “That in fiscal year 1993 and thereafter, the National Park Service may use helicopters and motorized equipment at Death Valley National Monument for removal of feral burros and horses”.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t16/ch1/schLIX–Y/ptA/m__us_usc_t16_ch1_schLIX–Y_ptA.md) | [Next](./../../../../../..//us/usc/t16/ch1/schLIX–Y/ptA/m__us_usc_t16_s410aaa–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410aaa)
@@ -362,5 +368,7 @@
 [/us/usc/t43/s1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1781
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
+[/us/pl/102/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F381
+[/us/stat/106/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1384
 
 

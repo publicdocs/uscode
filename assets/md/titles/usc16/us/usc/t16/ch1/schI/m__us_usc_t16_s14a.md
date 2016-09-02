@@ -13,15 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s14.md) | [Next](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s14b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs14a)
 
-## § 14a. Appropriations; availability for printing information and signs
+## § 14a. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Appropriations made for the National Park Service shall be available for the printing of information and directional signs made of cloth and required in the administration of areas under its jurisdiction.
-
-([May 10, 1939, ch. 119, § 1][/us/act/1939-05-10/ch119/s1], [53 Stat. 729][/us/stat/53/729].)
-
- __Transfer of Functions__ 
-
-    For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, [64 Stat. 1262][/us/stat/64/1262], set out in the Appendix to Title 5, Government Organization and Employees.
+    Section, [act May 10, 1939, ch. 119, § 1][/us/act/1939-05-10/ch119/s1], [53 Stat. 729][/us/stat/53/729], related to availability of appropriations for printing information and signs.
 
 ----------
 
@@ -30,8 +24,9 @@
 ----------
 ----------
 
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/act/1939-05-10/ch119/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-05-10%2Fch119%2Fs1
 [/us/stat/53/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F729
-[/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 
 

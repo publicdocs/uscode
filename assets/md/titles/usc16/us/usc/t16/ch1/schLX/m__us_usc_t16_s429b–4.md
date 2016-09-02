@@ -17,7 +17,7 @@
 
     (a) __Maximum amount usable for acquisition of property__ 
 
-        In addition to sums heretofore expended for the acquisition of property and interests therein for the park, from funds available for expenditure from the Land and Water Conservation Fund, as established under the Land and Water Conservation Fund Act of 1965 \[[16 U.S.C. 460][/us/usc/t16/s460]l–4 et seq.\], not more than a total of $8,700,000 may be expended for the acquisition of property and interests therein under sections 429b to 429b–5 of this title.
+        In addition to sums heretofore expended for the acquisition of property and interests therein for the park, from funds available for expenditure from the Land and Water Conservation Fund, as established under the Land and Water Conservation Fund Act of 1965, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  not more than a total of $8,700,000 may be expended for the acquisition of property and interests therein under sections 429b to 429b–5 of this title.
 
     (b) __Completion of acquisition in two years__ 
 
@@ -27,7 +27,7 @@
 
  __References in Text__ 
 
-    The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a), is [Pub. L. 88–578][/us/pl/88/578], Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], as amended, which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
+    The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a), is [Pub. L. 88–578][/us/pl/88/578], Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], which was classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of this chapter prior to the enactment of Title 54, National Park Service and Related Programs. See chapter 2003 of title 54.
 
 ----------
 
@@ -36,7 +36,6 @@
 ----------
 ----------
 
-[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
 [/us/usc/t16/s429b–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs429b%E2%80%931%2Fb
 [/us/act/1954-04-17/ch153/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-17%2Fch153%2Fs5
 [/us/pl/96/442/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F442%2Fs2

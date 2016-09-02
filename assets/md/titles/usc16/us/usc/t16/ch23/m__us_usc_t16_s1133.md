@@ -23,7 +23,7 @@
 
         (2) Nothing in this chapter shall modify the restrictions and provisions of the Shipstead-Nolan Act (Public Law 539, Seventy-first Congress, July 10, 1930; [46 Stat. 1020][/us/stat/46/1020]), the Thye-Blatnik Act (Public Law 733, Eightieth Congress, June 22, 1948; [62 Stat. 568][/us/stat/62/568]), and the Humphrey-Thye-Blatnik-Andresen Act (Public Law 607, Eighty-Fourth Congress, June 22, 1956; [70 Stat. 326][/us/stat/70/326]), as applying to the Superior National Forest or the regulations of the Secretary of Agriculture.
 
-        (3) Nothing in this chapter shall modify the statutory authority under which units of the national park system are created. Further, the designation of any area of any park, monument, or other unit of the national park system as a wilderness area pursuant to this chapter shall in no manner lower the standards evolved for the use and preservation of such park, monument, or other unit of the national park system in accordance with sections 1, 2, 3, and 4 of this title, the statutory authority under which the area was created, or any other Act of Congress which might pertain to or affect such area, including, but not limited to, the Act of June 8, 1906 ([34 Stat. 225][/us/stat/34/225]; [16 U.S.C. 432][/us/usc/t16/s432]  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “431”. </sup></sup>  et seq.); section 3(2) of the Federal Power Act ([16 U.S.C. 796(2)][/us/usc/t16/s796/2]); and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461][/us/usc/t16/s461] et seq.).
+        (3) Nothing in this chapter shall modify the statutory authority under which units of the national park system are created. Further, the designation of any area of any park, monument, or other unit of the national park system as a wilderness area pursuant to this chapter shall in no manner lower the standards evolved for the use and preservation of such park, monument, or other unit of the national park system in accordance with section 100101(b)(1), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54, the statutory authority under which the area was created, or any other Act of Congress which might pertain to or affect such area, including, but not limited to, [section 796(2) of this title][/us/usc/t16/s796/2]; and chapters 3201 and 3203 of title 54.
 
     (b) __Agency responsibility for preservation and administration to preserve wilderness character; public purposes of wilderness areas__ 
 
@@ -65,7 +65,7 @@
 
             Nothing in this chapter shall be construed as affecting the jurisdiction or responsibilities of the several States with respect to wildlife and fish in the national forests.
 
-([Pub. L. 88–577, § 4][/us/pl/88/577/s4], Sept. 3, 1964, [78 Stat. 893][/us/stat/78/893]; [Pub. L. 95–495, § 4(b)][/us/pl/95/495/s4/b], Oct. 21, 1978, [92 Stat. 1650][/us/stat/92/1650]; [Pub. L. 102–154, title I][/us/pl/102/154], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000]; [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
+([Pub. L. 88–577, § 4][/us/pl/88/577/s4], Sept. 3, 1964, [78 Stat. 893][/us/stat/78/893]; [Pub. L. 95–495, § 4(b)][/us/pl/95/495/s4/b], Oct. 21, 1978, [92 Stat. 1650][/us/stat/92/1650]; [Pub. L. 102–154, title I][/us/pl/102/154], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000]; [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172]; [Pub. L. 113–287, § 5(d)(21)][/us/pl/113/287/s5/d/21], Dec. 19, 2014, [128 Stat. 3266][/us/stat/128/3266].)
 
  __References in Text__ 
 
@@ -79,11 +79,9 @@
 
     The Humphrey-Thye-Blatnik-Andresen Act, referred to in subsec. (a)(2), is [act June 22, 1956, ch. 425][/us/act/1956-06-22/ch425], [70 Stat. 326][/us/stat/70/326], as amended, which is classified to sections 577d–1, 577g–1, and 577h of this title. For complete classification of this Act to the Code, see Tables.
 
-    Act of June 8, 1906, referred to in subsec. (a)(3), is [act June 8, 1906, ch. 3060][/us/act/1906-06-08/ch3060], [34 Stat. 225][/us/stat/34/225], as amended, known as the “Antiquities Act of 1906”, which is classified to sections 431, 432, and 433 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 431 of this title][/us/usc/t16/s431] and Tables.
-
-    Act of August 21, 1935, referred to in subsec. (a)(3), is [act Aug. 21, 1935, ch. 593][/us/act/1935-08-21/ch593], [49 Stat. 666][/us/stat/49/666], as amended, known as the “Historic Sites, Buildings and Antiquities Act”, which is classified to sections 461 to 467 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 461 of this title][/us/usc/t16/s461] and Tables.
-
  __Amendments__ 
+
+    2014—Subsec. (a)(3). [Pub. L. 113–287][/us/pl/113/287] substituted “section 100101(b)(1), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54” for “sections 1, 2, 3, and 4 of this title” and “[section 796(2) of this title][/us/usc/t16/s796/2]; and chapters 3201 and 3203 of title 54” for “the Act of June 8, 1906 ([34 Stat. 225][/us/stat/34/225]; [16 U.S.C. 432][/us/usc/t16/s432] et seq.); section 3(2) of the Federal Power Act ([16 U.S.C. 796(2)][/us/usc/t16/s796/2]); and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461][/us/usc/t16/s461] et seq.)”.
 
     1978—Subsec. (d)(5) to (8). [Pub. L. 95–495][/us/pl/95/495] redesignated pars. (6) to (8) as (5) to (7), respectively. Former par. (5), which related to the management of the Boundary Waters Canoe Area, Superior National Forest, Minnesota, was struck out.
 
@@ -116,11 +114,7 @@
 [/us/stat/46/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1020
 [/us/stat/62/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F568
 [/us/stat/70/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F326
-[/us/stat/34/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F225
-[/us/usc/t16/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs432
 [/us/usc/t16/s796/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796%2F2
-[/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
-[/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
 [/us/pl/88/577/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577%2Fs4
 [/us/stat/78/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F893
 [/us/pl/95/495/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F495%2Fs4%2Fb
@@ -129,6 +123,8 @@
 [/us/stat/105/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1000
 [/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
 [/us/stat/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F172
+[/us/pl/113/287/s5/d/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F21
+[/us/stat/128/3266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3266
 [/us/act/1897-06-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2
 [/us/stat/30/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F11
 [/us/pl/86/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F517
@@ -142,10 +138,11 @@
 [/us/usc/t16/s577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs577
 [/us/act/1956-06-22/ch425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-22%2Fch425
 [/us/stat/70/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F326
-[/us/act/1906-06-08/ch3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-08%2Fch3060
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/usc/t16/s796/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796%2F2
 [/us/stat/34/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F225
-[/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
-[/us/act/1935-08-21/ch593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch593
+[/us/usc/t16/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs432
+[/us/usc/t16/s796/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796%2F2
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
 [/us/pl/95/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F495

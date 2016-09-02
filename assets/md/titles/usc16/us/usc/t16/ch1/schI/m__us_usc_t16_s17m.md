@@ -13,11 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s17l.md) | [Next](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s17n.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs17m)
 
-## § 17m. Consent of Congress to agreements between States; when agreements effective
+## § 17m. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    The consent of Congress is given to any two or more States to negotiate and enter into compacts or agreements with one another with reference to planning, establishing, developing, improving, and maintaining any park, parkway, or recreational area. No such compact or agreement shall be effective until approved by the legislatures of the several States which are parties thereto and by the Congress of the United States.
-
-([June 23, 1936, ch. 735, § 3][/us/act/1936-06-23/ch735/s3], [49 Stat. 1895][/us/stat/49/1895].)
+    Section, [act June 23, 1936, ch. 735, § 3][/us/act/1936-06-23/ch735/s3], [49 Stat. 1895][/us/stat/49/1895], related to consent of Congress to agreements between States; when agreements effective. See [section 100504(b) of Title 54][/us/usc/t54/s100504/b], National Park Service and Related Programs.
 
 ----------
 
@@ -26,7 +24,10 @@
 ----------
 ----------
 
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/act/1936-06-23/ch735/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-23%2Fch735%2Fs3
 [/us/stat/49/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1895
+[/us/usc/t54/s100504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100504%2Fb
 
 

@@ -55,7 +55,7 @@
 
         (1) is identified in the report of the Lowell Historical Canal District Commission as a property which should be preserved, restored, managed, developed, or maintained in a manner consistent with the purpose of this subchapter;
 
-        (2) is listed in the National Register of Historic Places, as maintained by the Secretary pursuant to [section 470a(a) of this title][/us/usc/t16/s470a/a], and [section 462(b) of this title][/us/usc/t16/s462/b]; or
+        (2) is listed in the National Register of Historic Places, as maintained by the Secretary pursuant to [section 302101 of title 54][/us/usc/t54/s302101], and [section 320102(c) of title 54][/us/usc/t54/s320102/c]; or
 
         (3) is determined by the Secretary to be of national significance;
 
@@ -79,6 +79,10 @@
 
     [Section 410cc–11(a)(3) of this title][/us/usc/t16/s410cc–11/a/3], referred to in subsec. (a)(2)(G), was in the original “subsection (101)(a)(3)” and was translated as meaning [section 101(a)(3) of Pub. L. 95–290][/us/pl/95/290/s101/a/3], which is classified to [section 410cc–11(a)(3) of this title][/us/usc/t16/s410cc–11/a/3], to reflect the probable intent of Congress.
 
+ __Codification__ 
+
+    In subsec. (b)(2), “[section 302101 of title 54][/us/usc/t54/s302101], and [section 320102(c) of title 54][/us/usc/t54/s320102/c]” substituted for “[section 470a(a) of this title][/us/usc/t16/s470a/a], and [section 462(b) of this title][/us/usc/t16/s462/b]” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+
  __Amendments__ 
 
     2012—Subsec. (d). [Pub. L. 112–182][/us/pl/112/182] added subsec. (d).
@@ -92,8 +96,8 @@
 ----------
 ----------
 
-[/us/usc/t16/s470a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470a%2Fa
-[/us/usc/t16/s462/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs462%2Fb
+[/us/usc/t54/s302101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs302101
+[/us/usc/t54/s320102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320102%2Fc
 [/us/pl/95/290/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2Fs202
 [/us/stat/92/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F293
 [/us/pl/110/229/s312/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs312%2F2
@@ -103,6 +107,12 @@
 [/us/usc/t16/s410cc–11/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9311%2Fa%2F3
 [/us/pl/95/290/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2Fs101%2Fa%2F3
 [/us/usc/t16/s410cc–11/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9311%2Fa%2F3
+[/us/usc/t54/s302101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs302101
+[/us/usc/t54/s320102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320102%2Fc
+[/us/usc/t16/s470a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470a%2Fa
+[/us/usc/t16/s462/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs462%2Fb
+[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/112/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F182
 [/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
 

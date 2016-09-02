@@ -19,7 +19,7 @@
 
  __Effective Date of Repeal__ 
 
-    Repeal effective Jan. 1, 1965, see [section 1(a) of Pub. L. 88–578][/us/pl/88/578/s1/a], set out as an Effective Date note under section 460l–4 of this title.
+    Repeal effective Jan. 1, 1965, see [section 1(a) of Pub. L. 88–578][/us/pl/88/578/s1/a], set out in part as an Effective Date of 1964 Amendment note under [section 460d of this title][/us/usc/t16/s460d].
 
 ----------
 
@@ -35,5 +35,6 @@
 [/us/act/1929-03-04/ch705/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-04%2Fch705%2Fs1
 [/us/stat/45/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1602
 [/us/pl/88/578/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578%2Fs1%2Fa
+[/us/usc/t16/s460d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460d
 
 

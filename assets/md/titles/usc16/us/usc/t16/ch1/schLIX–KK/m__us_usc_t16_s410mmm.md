@@ -41,7 +41,7 @@
 
         (1) __In general__ 
 
-            The Secretary shall administer the Historical Park in accordance with this section and with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+            The Secretary shall administer the Historical Park in accordance with this section and with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title and sections 461 to 467  <sup>\[1\]</sup>  of this title.
 
         (2) __Acquisition of property__ 
 
@@ -69,9 +69,15 @@
 
 ([Pub. L. 111–11, title VII, § 7110][/us/pl/111/11/s7110], Mar. 30, 2009, [123 Stat. 1198][/us/stat/123/1198].)
 
+ __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c)(1), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+
+    Sections 461 to 467 of this title, referred to in subsec. (c)(1), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
+
  __Codification__ 
 
-    Section is comprised of [section 7110 of Pub. L. 111–11][/us/pl/111/11/s7110]. Subsec. (c)(4) of [section 7110 of Pub. L. 111–11][/us/pl/111/11/s7110] repealed [Pub. L. 87–628][/us/pl/87/628], which enacted provisions listed in a table of National Historic Sites set out under [section 461 of this title][/us/usc/t16/s461].
+    Section is comprised of [section 7110 of Pub. L. 111–11][/us/pl/111/11/s7110]. Subsec. (c)(4) of [section 7110 of Pub. L. 111–11][/us/pl/111/11/s7110] repealed [Pub. L. 87–628][/us/pl/87/628], which enacted provisions listed in a table of National Historic Sites set out under [section 320101 of Title 54][/us/usc/t54/s320101], National Park Service and Related Programs.
 
 ----------
 
@@ -82,9 +88,15 @@
 
 [/us/pl/111/11/s7110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7110
 [/us/stat/123/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1198
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/111/11/s7110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7110
 [/us/pl/111/11/s7110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7110
 [/us/pl/87/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F628
-[/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
+[/us/usc/t54/s320101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320101
 
 

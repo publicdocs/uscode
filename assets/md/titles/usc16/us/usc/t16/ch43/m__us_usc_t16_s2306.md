@@ -13,11 +13,9 @@
 
 [Previous](./../../../..//us/usc/t16/ch43/m__us_usc_t16_s2305.md) | [Next](./../../../..//us/usc/t16/ch44/m__us_usc_t16_ch44.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2306)
 
-## § 2306. Authorization of appropriations; availability of amounts
+## § 2306. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    In carrying out the purposes of this chapter, there is hereby authorized to be appropriated $1,000,000 for fiscal year 1979; $2,000,000 for fiscal year 1980; and $3,000,000 for fiscal year 1981, which shall remain available until expended. In a fiscal year when the amounts actually appropriated are less than the amounts listed above, the authorized but unappropriated amount shall continue to be available for appropriation in succeeding fiscal years.
-
-([Pub. L. 95–344, title III, § 306][/us/pl/95/344/s306], Aug. 15, 1978, [92 Stat. 480][/us/stat/92/480].)
+    Section, [Pub. L. 95–344, title III, § 306][/us/pl/95/344/s306], Aug. 15, 1978, [92 Stat. 480][/us/stat/92/480], related to authorization of appropriations; availability of amounts.
 
 ----------
 
@@ -26,6 +24,8 @@
 ----------
 ----------
 
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/95/344/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F344%2Fs306
 [/us/stat/92/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F480
 

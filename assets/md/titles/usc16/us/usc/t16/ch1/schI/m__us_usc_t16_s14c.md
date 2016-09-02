@@ -13,15 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s14b.md) | [Next](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s14d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs14c)
 
-## § 14c. Availability for expense of recording donated lands
+## § 14c. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Appropriations made for the National Park Service shall be available for any expenses incident to the preparation and recording of title evidence covering lands to be donated to the United States for administration by the National Park Service.
-
-([June 28, 1941, ch. 259, § 1][/us/act/1941-06-28/ch259/s1], [55 Stat. 350][/us/stat/55/350].)
-
- __Transfer of Functions__ 
-
-    For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, [64 Stat. 1262][/us/stat/64/1262], set out in the Appendix to Title 5, Government Organization and Employees.
+    Section, [act June 28, 1941, ch. 259, § 1][/us/act/1941-06-28/ch259/s1], [55 Stat. 350][/us/stat/55/350], related to availability of appropriations for expense of recording donated lands. See [section 103101(b) of Title 54][/us/usc/t54/s103101/b], National Park Service and Related Programs.
 
 ----------
 
@@ -30,8 +24,10 @@
 ----------
 ----------
 
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/act/1941-06-28/ch259/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch259%2Fs1
 [/us/stat/55/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F350
-[/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
+[/us/usc/t54/s103101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs103101%2Fb
 
 

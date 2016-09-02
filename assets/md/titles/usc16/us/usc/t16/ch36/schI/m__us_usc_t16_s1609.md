@@ -41,7 +41,7 @@
 
  __Land Conveyances Involving Joliet Army Ammunition Plant, Illinois__ 
 
-    [Pub. L. 104–106, div. B, title XXIX][/us/pl/104/106], Feb. 10, 1996, [110 Stat. 594][/us/stat/110/594], as amended by [Pub. L. 106–65, div. B, title XXVIII, § 2842][/us/pl/106/65/s2842], Oct. 5, 1999, [113 Stat. 863][/us/stat/113/863], provided that title XXIX could be cited as the “Illinois Land Conservation Act of 1995” and provided for conversion of Joliet Army Ammunition Plant to Midewin National Tallgrass Prairie, Illinois, to be managed by the Secretary of Agriculture as part of National Forest System, and for conveyance of certain real property at the Arsenal for a national cemetery, a Will County, Illinois, landfill, and industrial parks to replace all or a part of lost economic activity, with provisions prohibiting construction of title XXIX to restrict or lessen degree of cleanup required to be carried out under environmental laws, and provisions authorizing retention of real property used for environmental cleanup by Secretary of the Army until transfer occurs.
+    [Pub. L. 104–106, div. B, title XXIX][/us/pl/104/106], Feb. 10, 1996, [110 Stat. 594][/us/stat/110/594], as amended by [Pub. L. 106–65, div. B, title XXVIII, § 2842][/us/pl/106/65/s2842], Oct. 5, 1999, [113 Stat. 863][/us/stat/113/863]; [Pub. L. 113–291, div. B, title XXVIII, § 2838][/us/pl/113/291/s2838], Dec. 19, 2014, [128 Stat. 3710][/us/stat/128/3710], provided that title XXIX could be cited as the “Illinois Land Conservation Act of 1995” and provided for conversion of Joliet Army Ammunition Plant to Midewin National Tallgrass Prairie, Illinois, to be managed by the Secretary of Agriculture as part of National Forest System, and for conveyance of certain real property at the Arsenal for a national cemetery, a Will County, Illinois, landfill, and industrial parks to replace all or a part of lost economic activity, with provisions prohibiting construction of title XXIX to restrict or lessen degree of cleanup required to be carried out under environmental laws, and provisions authorizing retention of real property used for environmental cleanup by Secretary of the Army until transfer occurs.
 
 ----------
 
@@ -70,5 +70,7 @@
 [/us/stat/110/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F594
 [/us/pl/106/65/s2842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2842
 [/us/stat/113/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F863
+[/us/pl/113/291/s2838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2838
+[/us/stat/128/3710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3710
 
 

@@ -15,11 +15,13 @@
 
 ## § 158. Administration, protection, and development
 
-    The administration, protection, and development of the Big Bend National Park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended: Provided, That the provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] shall not apply to this park.
+    The administration, protection, and development of the Big Bend National Park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, as amended: Provided, That the provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] shall not apply to this park.
 
 ([June 20, 1935, ch. 283, § 3][/us/act/1935-06-20/ch283/s3], [49 Stat. 394][/us/stat/49/394].)
 
  __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
     The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, known as the Federal Water Power Act,” and was redesignated as the Federal Power Act by [section 791a of this title][/us/usc/t16/s791a]. The Federal Power Act is [act June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], [41 Stat. 1063][/us/stat/41/1063], as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title][/us/usc/t16/s791a] and Tables.
 
@@ -47,6 +49,9 @@
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1935-06-20/ch283/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-20%2Fch283%2Fs3
 [/us/stat/49/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F394
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063

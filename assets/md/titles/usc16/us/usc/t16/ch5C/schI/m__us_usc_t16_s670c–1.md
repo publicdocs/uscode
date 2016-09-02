@@ -25,15 +25,35 @@
 
     (b) __Multiyear agreements__ 
 
-        Funds appropriated to the Department of Defense for a fiscal year may be obligated to cover the cost of goods and services provided under a cooperative agreement or interagency agreement entered into under subsection (a) of this section or through an agency agreement under [section 1535 of title 31][/us/usc/t31/s1535] during any 18-month period beginning in that fiscal year, without regard to whether the agreement crosses fiscal years.
+        (1) Funds appropriated to the Department of Defense for a fiscal year may be obligated to cover the cost of goods and services provided under a cooperative agreement or interagency agreement entered into under subsection (a) of this section or through an agency agreement under [section 1535 of title 31][/us/usc/t31/s1535] during any 18-month period beginning in that fiscal year, without regard to whether the agreement crosses fiscal years.
 
-    (c) __Availability of funds; agreements under other laws__ 
+        (2)
 
-        Cooperative agreements and interagency agreements entered into under this section shall be subject to the availability of funds and shall not be considered, nor be treated as, cooperative agreements to which chapter 63 of title 31 applies.
+         In the case of a cooperative agreement under subsection (a)(2), such funds—
 
-([Pub. L. 86–797, title I, § 103a][/us/pl/86/797/s103a], as added [Pub. L. 101–189, div. B, title XXVIII, § 2845(a)][/us/pl/101/189/s2845/a], Nov. 29, 1989, [103 Stat. 1664][/us/stat/103/1664]; amended [Pub. L. 105–85, div. B, title XXIX, § 2908][/us/pl/105/85/s2908], Nov. 18, 1997, [111 Stat. 2021][/us/stat/111/2021]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 313, Oct. 14, 2008, [122 Stat. 4409][/us/stat/122/4409]; [Pub. L. 111–84, div. A, title III, § 313][/us/pl/111/84/s313], Oct. 28, 2009, [123 Stat. 2248][/us/stat/123/2248]; [Pub. L. 112–81, div. A, title III, § 312(a)(3)][/us/pl/112/81/s312/a/3], (b)(3), Dec. 31, 2011, [125 Stat. 1352][/us/stat/125/1352], 1353; [Pub. L. 112–239, div. A, title III, § 312(a)][/us/pl/112/239/s312/a], Jan. 2, 2013, [126 Stat. 1691][/us/stat/126/1691].)
+            (A) may be paid in a lump sum and include an amount intended to cover the future costs of the natural resource maintenance and improvement activities provided for under the agreement; and
+
+            (B) may be placed by the recipient in an interest-bearing or other investment account, and any interest or income shall be applied for the same purposes as the principal.
+
+        (3) If any funds are placed by a recipient in an interest-bearing or other investment account under paragraph (2)(B), the Secretary of Defense shall report biennially to the congressional defense committees on the disposition of such funds.
+
+    (c) __Availability of funds; agreement under other laws__ 
+
+        (1) Cooperative agreements and interagency agreements entered into under this section shall be subject to the availability of funds.
+
+        (2) Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the United States Government.
+
+([Pub. L. 86–797, title I, § 103a][/us/pl/86/797/s103a], as added [Pub. L. 101–189, div. B, title XXVIII, § 2845(a)][/us/pl/101/189/s2845/a], Nov. 29, 1989, [103 Stat. 1664][/us/stat/103/1664]; amended [Pub. L. 105–85, div. B, title XXIX, § 2908][/us/pl/105/85/s2908], Nov. 18, 1997, [111 Stat. 2021][/us/stat/111/2021]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 313, Oct. 14, 2008, [122 Stat. 4409][/us/stat/122/4409]; [Pub. L. 111–84, div. A, title III, § 313][/us/pl/111/84/s313], Oct. 28, 2009, [123 Stat. 2248][/us/stat/123/2248]; [Pub. L. 112–81, div. A, title III, § 312(a)(3)][/us/pl/112/81/s312/a/3], (b)(3), Dec. 31, 2011, [125 Stat. 1352][/us/stat/125/1352], 1353; [Pub. L. 112–239, div. A, title III, § 312(a)][/us/pl/112/239/s312/a], Jan. 2, 2013, [126 Stat. 1691][/us/stat/126/1691]; [Pub. L. 113–291, div. A, title III, § 312][/us/pl/113/291/s312], Dec. 19, 2014, [128 Stat. 3336][/us/stat/128/3336].)
+
+ __Codification__ 
+
+    [Pub. L. 113–291, § 312][/us/pl/113/291/s312], which directed amendment of section “103A” of the Sikes Act, was executed to this section, which is section 103a of that Act, to reflect the probable intent of Congress. See 2014 Amendment notes below.
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–291, § 312(a)][/us/pl/113/291/s312/a], designated existing provisions as par. (1) and added pars. (2) and (3). See Codification note above.
+
+    Subsec. (c). [Pub. L. 113–291, § 312(b)][/us/pl/113/291/s312/b], amended subsec. (c) generally. See Codification note above. Prior to amendment, text read as follows: “Cooperative agreements and interagency agreements entered into under this section shall be subject to the availability of funds and shall not be considered, nor be treated as, cooperative agreements to which chapter 63 of title 31 applies.”
 
     2013—Subsec. (a). [Pub. L. 112–239][/us/pl/112/239], which directed amendment of [section 103A of Pub. L. 86–797][/us/pl/86/797/s103A] by inserting “Indian tribes,” after “local governments,” in introductory provisions of subsec. (a), was executed to this section, which is [section 103a of Pub. L. 86–797][/us/pl/86/797/s103a], to reflect the probable intent of Congress.
 
@@ -86,6 +106,11 @@
 [/us/stat/125/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1352
 [/us/pl/112/239/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs312%2Fa
 [/us/stat/126/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1691
+[/us/pl/113/291/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs312
+[/us/stat/128/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3336
+[/us/pl/113/291/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs312
+[/us/pl/113/291/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs312%2Fa
+[/us/pl/113/291/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs312%2Fb
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/86/797/s103A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2Fs103A
 [/us/pl/86/797/s103a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2Fs103a

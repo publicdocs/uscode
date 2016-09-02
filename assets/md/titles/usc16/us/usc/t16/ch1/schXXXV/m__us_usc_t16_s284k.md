@@ -33,7 +33,7 @@
 
 [Pub. L. 107–219, § 1(b)][/us/pl/107/219/s1/b], Aug. 21, 2002, [116 Stat. 1330][/us/stat/116/1330], provided that: 
 
-> “Section 14(c) of the Wolf Trap Farm Park Act \[[16 U.S.C. 284k(c)][/us/usc/t16/s284k/c]\] (as added by subsection (a) of this section) shall not apply to this Act \[enacting this section and amending sections 1e, 284, 284a, 284c, and 284j of this title and provisions set out as notes under [section 284c of this title][/us/usc/t16/s284c]\].”
+> “Section 14(c) of the Wolf Trap Farm Park Act \[[16 U.S.C. 284k(c)][/us/usc/t16/s284k/c]\] (as added by subsection (a) of this section) shall not apply to this Act \[enacting this section and amending former section 1e and sections 284, 284a, 284c, and 284j of this title and provisions set out as notes under [section 284c of this title][/us/usc/t16/s284c]\].”
 
 ----------
 

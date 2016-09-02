@@ -881,17 +881,9 @@ SUBCHAPTER I—ESTABLISHMENT AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs522" data-uslm-ref="/us/usc/t16/s522">522.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs522" data-uslm-ref="/us/usc/t16/s522">522</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs523" data-uslm-ref="/us/usc/t16/s523">523.</a>  </td>
 
     <td> Omitted.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs523" data-uslm-ref="/us/usc/t16/s523">523.</a>  </td>
-
-    <td> Rights-of-way through national forests for power and communications facilities.  </td>
 
   </tr>
 
@@ -1284,6 +1276,30 @@ SUBCHAPTER I—ESTABLISHMENT AND ADMINISTRATION  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs539" data-uslm-ref="/us/usc/t16/s539">539</a>o.  </td>
 
     <td> Ancient Bristlecone Pine Forest.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs539p" data-uslm-ref="/us/usc/t16/s539p">539p.</a>  </td>
+
+    <td> Southeast Arizona land exchange and conservation.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs539q" data-uslm-ref="/us/usc/t16/s539q">539q.</a>  </td>
+
+    <td> Hermosa Creek watershed protection.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs539r" data-uslm-ref="/us/usc/t16/s539r">539r.</a>  </td>
+
+    <td> Rocky Mountain Front Conservation Management Area and wilderness additions.  </td>
 
   </tr>
 

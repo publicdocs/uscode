@@ -57,7 +57,7 @@
 
     The Federal Land Policy and Management Act of 1976, referred to in subsec. (b), is [Pub. L. 94–579][/us/pl/94/579], Oct. 21, 1976, [90 Stat. 2743][/us/stat/90/2743], as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43][/us/usc/t43/s1701] and Tables.
 
-    Act of September 5, 1962, referred to in subsec. (g)(3), is [Pub. L. 87–635][/us/pl/87/635], Sept. 5, 1962, [76 Stat. 436][/us/stat/76/436], which enacted provisions listed in the National Monuments Established Under Presidential Proclamation table set out under [section 431 of this title][/us/usc/t16/s431].
+    Act of September 5, 1962, referred to in subsec. (g)(3), is [Pub. L. 87–635][/us/pl/87/635], Sept. 5, 1962, [76 Stat. 436][/us/stat/76/436], which enacted provisions listed in the National Monuments Established Under Presidential Proclamation table set out under [section 320301 of Title 54][/us/usc/t54/s320301], National Park Service and Related Programs.
 
 ----------
 
@@ -77,6 +77,6 @@
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 [/us/pl/87/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F635
 [/us/stat/76/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F436
-[/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
+[/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
 
 

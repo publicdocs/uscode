@@ -35,13 +35,13 @@
 
         (4) __Deposit into Treasury account__ 
 
-            All fees collected under this subsection shall be deposited into the Treasury account for the Corps of Engineers established by section 460l–6a(i) of this title and, subject to the availability of appropriations, shall be used for the purposes specified in section 460l–6a(i)(3) 1 of this title at the water resources development project at which the fees were collected.
+            All fees collected under this subsection shall be deposited into the Treasury account for the Corps of Engineers established by section 460l–6a(i) 1 of this title and, subject to the availability of appropriations, shall be used for the purposes specified in section 460l–6a(i)(3) 1 of this title at the water resources development project at which the fees were collected.
 
 ([Pub. L. 90–483, title II, § 210][/us/pl/90/483/s210], Aug. 13, 1968, [82 Stat. 746][/us/stat/82/746]; [Pub. L. 103–66, title V, § 5001(a)][/us/pl/103/66/s5001/a], Aug. 10, 1993, [107 Stat. 378][/us/stat/107/378]; [Pub. L. 104–303, title II, § 208(b)(1)][/us/pl/104/303/s208/b/1], Oct. 12, 1996, [110 Stat. 3680][/us/stat/110/3680].)
 
  __References in Text__ 
 
-    Subsections (b) and (i)(3) of section 460l–6a of this title, referred to in subsec. (b)(1), (4), were repealed by [Pub. L. 108–447, div. J, title VIII, § 813(a)][/us/pl/108/447/s813/a], Dec. 8, 2004, [118 Stat. 3390][/us/stat/118/3390], as amended by [Pub. L. 109–54, title I, § 132(a)][/us/pl/109/54/s132/a], Aug. 2, 2005, [119 Stat. 526][/us/stat/119/526].
+    Subsections (b) and (i)(3) of section 460l–6a of this title, referred to in subsec. (b)(1), (4), were repealed by [Pub. L. 108–447, div. J, title VIII, § 813(a)][/us/pl/108/447/s813/a], Dec. 8, 2004, [118 Stat. 3390][/us/stat/118/3390], as amended by [Pub. L. 109–54, title I, § 132(a)][/us/pl/109/54/s132/a], Aug. 2, 2005, [119 Stat. 526][/us/stat/119/526]. Section 460l–6a of this title, including subsection (i) as referred to in subsec. (b)(4), was repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. With respect to subsection (i)(1)(C) of former section 460l–6a of this title, see [section 100904(a) of Title 54][/us/usc/t54/s100904/a], National Park Service and Related Programs.
 
  __Amendments__ 
 
@@ -86,6 +86,9 @@
 [/us/stat/118/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3390
 [/us/pl/109/54/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2Fs132%2Fa
 [/us/stat/119/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F526
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100904%2Fa
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/104/303/s208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs208%2Fc

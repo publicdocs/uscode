@@ -15,9 +15,13 @@
 
 ## § 450cc–1. Administration, protection, and development
 
-    The administration, protection, and development of the Castle Clinton National Monument shall be under the supervision of the Secretary of the Interior, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended.
+    The administration, protection, and development of the Castle Clinton National Monument shall be under the supervision of the Secretary of the Interior, subject to the provisions of sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, as amended.
 
 ([Aug. 12, 1946, ch. 954, § 2][/us/act/1946-08-12/ch954/s2], [60 Stat. 997][/us/stat/60/997].)
+
+ __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
  __Transfer of Functions__ 
 
@@ -32,6 +36,9 @@
 
 [/us/act/1946-08-12/ch954/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-12%2Fch954%2Fs2
 [/us/stat/60/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F997
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 
 

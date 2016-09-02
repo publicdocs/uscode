@@ -33,13 +33,13 @@
 
     Section 20g, [Pub. L. 89–249, § 9][/us/pl/89/249/s9], Oct. 9, 1965, [79 Stat. 971][/us/stat/79/971], related to recordkeeping, audit and examination, and access to books and records.
 
-    Sections 20 to 20g were popularly known as the National Park System Concessions Policy Act. For similar provisions, see section 5951 et seq. of this title.
+    Sections 20 to 20g were popularly known as the National Park System Concessions Policy Act.
 
  __Repeal of National Park Service Concessions Policy Act; Savings Provision__ 
 
 [Pub. L. 105–391, title IV, § 415(a)][/us/pl/105/391/s415/a], Nov. 13, 1998, [112 Stat. 3515][/us/stat/112/3515], provided that: 
 
-> “[Public Law 89–249][/us/pl/89/249] (commonly known as the National Park Service Concessions Policy Act; [16 U.S.C. 20][/us/usc/t16/s20] et seq.) is repealed. The repeal of such Act shall not affect the validity of any concessions contract or permit entered into under such Act, but the provisions of this title \[see Short Title note set out under [section 5901 of this title][/us/usc/t16/s5901]\] shall apply to any such contract or permit except to the extent such provisions are inconsistent with the terms and conditions of any such contract or permit. References in this title to concessions contracts awarded under authority of such Act also apply to concessions permits awarded under such authority.”
+> “[Public Law 89–249][/us/pl/89/249] (commonly known as the National Park Service Concessions Policy Act; [16 U.S.C. 20][/us/usc/t16/s20] et seq.) is repealed. The repeal of such Act shall not affect the validity of any concessions contract or permit entered into under such Act, but the provisions of this title \[see Tables for classification\] shall apply to any such contract or permit except to the extent such provisions are inconsistent with the terms and conditions of any such contract or permit. References in this title to concessions contracts awarded under authority of such Act also apply to concessions permits awarded under such authority.”
 
 ----------
 
@@ -70,6 +70,5 @@
 [/us/stat/112/3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3515
 [/us/pl/89/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F249
 [/us/usc/t16/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs20
-[/us/usc/t16/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5901
 
 

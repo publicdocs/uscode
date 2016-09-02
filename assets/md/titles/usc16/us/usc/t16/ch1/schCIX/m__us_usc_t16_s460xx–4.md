@@ -19,6 +19,10 @@
 
 ([Pub. L. 100–696, title I, § 105][/us/pl/100/696/s105], Nov. 18, 1988, [102 Stat. 4573][/us/stat/102/4573].)
 
+ __Land Exchange and Conservation in Arizona__ 
+
+    For provisions relating to land exchange and conservation in southeastern Arizona, see [section 539p of this title][/us/usc/t16/s539p].
+
 ----------
 
 [Previous](./../../../../..//us/usc/t16/ch1/schCIX/m__us_usc_t16_s460xx–3.md) | [Next](./../../../../..//us/usc/t16/ch1/schCIX/m__us_usc_t16_s460xx–5.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460xx%E2%80%934)
@@ -28,5 +32,6 @@
 
 [/us/pl/100/696/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs105
 [/us/stat/102/4573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4573
+[/us/usc/t16/s539p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539p
 
 

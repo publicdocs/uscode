@@ -21,7 +21,7 @@
 
     (b) __Additional grants__ 
 
-        In addition to grants made pursuant to the Land and Water Conservation Fund Act of 1965 \[[16 U.S.C. 460][/us/usc/t16/s460]l–4 et seq.\], the Secretary is authorized to make grants of not to exceed 25 per centum of the actual cost of each development project within the reserve in accordance with the comprehensive plan: Provided, That the maximum amount of such grants for all proj­ects shall not exceed $2,500,000.
+        In addition to grants made pursuant to the Land and Water Conservation Fund Act of 1965, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Secretary is authorized to make grants of not to exceed 25 per centum of the actual cost of each development project within the reserve in accordance with the comprehensive plan: Provided, That the maximum amount of such grants for all proj­ects shall not exceed $2,500,000.
 
     (c) __Costs of maintenance__ 
 
@@ -35,7 +35,7 @@
 
  __References in Text__ 
 
-    The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b), is [Pub. L. 88–578][/us/pl/88/578], Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], as amended, which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
+    The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b), is [Pub. L. 88–578][/us/pl/88/578], Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], which was classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of this title prior to the enactment of Title 54, National Park Service and Related Programs. See chapter 2003 of title 54.
 
  __Amendments__ 
 
@@ -50,7 +50,6 @@
 ----------
 ----------
 
-[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
 [/us/pl/88/655/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F655%2Fs5
 [/us/stat/78/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1088
 [/us/pl/91/483/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F483%2Fs1%2F3

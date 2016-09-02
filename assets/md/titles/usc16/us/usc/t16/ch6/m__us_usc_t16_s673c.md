@@ -27,7 +27,7 @@
 
  __References in Text__ 
 
-    This Act, referred to in subsecs. (a) and (b), is act Sept. 14, 1950, which is classified to sections 406d–1 to 406d–5, 531a, 451a, 482m, 673b, 673c of this title. For complete classification of this Act to the Code, see Tables.
+    This Act, referred to in subsecs. (a) and (b), is act Sept. 14, 1950, which is classified to sections 406d–1 to 406d–5, and 531a of this title, former [section 451a of this title][/us/usc/t16/s451a], and sections 482m, 673b, 673c of this title. For complete classification of this Act to the Code, see Tables.
 
  __Repeal of Inconsistent Laws__ 
 
@@ -42,6 +42,7 @@
 
 [/us/act/1950-09-14/ch950/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950%2Fs6
 [/us/stat/64/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F851
+[/us/usc/t16/s451a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs451a
 [/us/usc/t16/s406d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs406d%E2%80%931
 
 

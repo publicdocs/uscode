@@ -33,7 +33,7 @@
 
  __References in Text__ 
 
-    This Act, referred to in subsecs. (a) and (b), is [Pub. L. 101–628][/us/pl/101/628], Nov. 28, 1990, [104 Stat. 4469][/us/stat/104/4469], which enacted this subchapter, subchapters CXV (§ 460ddd) and CXVII (§ 460fff et seq.) of this chapter, chapter 65 (§ 4601 et seq.) of this title, and sections 1a–9 to 1a–13 of this title, amended sections 410ee, 463, 1274, and 1276 of this title, enacted provisions set out as notes under sections 1a–5, 1132, and 1271 of this title and [section 1522 of Title 43][/us/usc/t43/s1522], Public Lands, and enacted provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132]. For complete classification of this Act to the Code, see Tables.
+    This Act, referred to in subsecs. (a) and (b), is [Pub. L. 101–628][/us/pl/101/628], Nov. 28, 1990, [104 Stat. 4469][/us/stat/104/4469], which enacted this subchapter, subchapters CXV (§ 460ddd) and CXVII (§ 460fff et seq.) of this chapter, chapter 65 (§ 4601 et seq.) of this title, and former sections 1a–9 to 1a–13 of this title, amended section 410ee, former section 463, and sections 1274 and 1276 of this title, enacted provisions set out as notes under sections 1132 and 1271 of this title and [section 1522 of Title 43][/us/usc/t43/s1522], Public Lands, and formerly set out as a note under [section 1a–5 of this title][/us/usc/t16/s1a–5], and enacted provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132]. For complete classification of this Act to the Code, see Tables.
 
 ----------
 
@@ -47,6 +47,7 @@
 [/us/pl/101/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628
 [/us/stat/104/4469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4469
 [/us/usc/t43/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1522
+[/us/usc/t16/s1a–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%935
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 
 

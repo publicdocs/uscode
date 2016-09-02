@@ -15,7 +15,7 @@
 
 ## § 410nnn–5. Management plan
 
-    Within 3 years after June 23, 1992, the Secretary shall develop and transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the Senate, a general management plan for the historical park. The plan shall be consistent with [section 1a–7 of this title][/us/usc/t16/s1a–7] and with the purposes of this subchapter and shall include (but not be limited to) each of the following:
+    Within 3 years after June 23, 1992, the Secretary shall develop and transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the Senate, a general management plan for the historical park. The plan shall be consistent with [section 100502 of title 54][/us/usc/t54/s100502] and with the purposes of this subchapter and shall include (but not be limited to) each of the following:
 
     (1) A resource protection program including land acquisition needs.
 
@@ -28,6 +28,10 @@
     (5) Identification of appropriate cooperative agreements as identified in [section 410nnn–4 of this title][/us/usc/t16/s410nnn–4].
 
 ([Pub. L. 102–304, § 7][/us/pl/102/304/s7], June 23, 1992, [106 Stat. 257][/us/stat/106/257]; [Pub. L. 111–11, title VII, § 7113(a)(3)(C)][/us/pl/111/11/s7113/a/3/C], Mar. 30, 2009, [123 Stat. 1202][/us/stat/123/1202].)
+
+ __Codification__ 
+
+    In introductory provisions, “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “[section 12 of the Act of August 18, 1970][/us/act/1970-08-18/s12] ([16 U.S.C. 1a–7][/us/usc/t16/s1a–7])” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Amendments__ 
 
@@ -44,12 +48,17 @@
 ----------
 ----------
 
-[/us/usc/t16/s1a–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937
+[/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
 [/us/usc/t16/s410nnn–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410nnn%E2%80%934
 [/us/pl/102/304/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F304%2Fs7
 [/us/stat/106/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F257
 [/us/pl/111/11/s7113/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7113%2Fa%2F3%2FC
 [/us/stat/123/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1202
+[/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
+[/us/act/1970-08-18/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1970-08-18%2Fs12
+[/us/usc/t16/s1a–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937
+[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 
 

@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    This part, referred to in text, was in the original “this Act”, meaning [Pub. L. 89–72][/us/pl/89/72], which enacted sections 460l–12 to 460l–21 of this title and amended sections 460l–5(a) and 662(d) of this title.
+    This part, referred to in text, was in the original “this Act”, meaning [Pub. L. 89–72][/us/pl/89/72], which enacted sections 460l–12 to 460l–21 of this title and amended former section 460l–5(a) and [section 662(d) of this title][/us/usc/t16/s662/d].
 
     Rivers and Harbors or Flood Control Act, referred to in text, is classified principally to Title 33, Navigation and Navigable Waters.
 
@@ -35,5 +35,6 @@
 [/us/pl/89/72/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72%2Fs9
 [/us/stat/79/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F217
 [/us/pl/89/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72
+[/us/usc/t16/s662/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs662%2Fd
 
 

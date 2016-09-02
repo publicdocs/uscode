@@ -17,7 +17,7 @@
 
     (a) __Provisions applicable; utilization of authorities for conservation and management of wildlife and natural resources__ 
 
-        The Secretary shall administer the park in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented. In the administration of the park, the Secretary may utilize such statutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter.
+        The Secretary shall administer the park in accordance with the provisions of sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, as amended and supplemented. In the administration of the park, the Secretary may utilize such statutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter.
 
     (b) __Federal-State cooperative agreements for police and fire protection__ 
 
@@ -51,6 +51,10 @@
 
 ([Pub. L. 93–555, § 4][/us/pl/93/555/s4], Dec. 27, 1974, [88 Stat. 1787][/us/stat/88/1787]; [Pub. L. 95–625, title III, § 315(e)][/us/pl/95/625/s315/e], Nov. 10, 1978, [92 Stat. 3483][/us/stat/92/3483]; [Pub. L. 99–658, title I, § 104(j)(1)][/us/pl/99/658/s104/j/1], Nov. 14, 1986, [100 Stat. 3677][/us/stat/100/3677]; [Pub. L. 106–291, title I, § 149(c)(2)][/us/pl/106/291/s149/c/2], Oct. 11, 2000, [114 Stat. 956][/us/stat/114/956].)
 
+ __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+
  __Amendments__ 
 
     2000—[Pub. L. 106–291][/us/pl/106/291] substituted “park” for “recreation area” wherever appearing.
@@ -80,6 +84,9 @@
 [/us/stat/100/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3677
 [/us/pl/106/291/s149/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs149%2Fc%2F2
 [/us/stat/114/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F956
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/106/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291
 [/us/pl/99/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625

@@ -15,7 +15,7 @@
 
 ## § 162. Control; regulations; leases; sale and removal of timber
 
-    Glacier National Park shall be under the exclusive control of the Secretary of the Interior. In addition to the powers and duties enumerated in [section 3 of this title][/us/usc/t16/s3] not inconsistent with this section, he shall make and publish such rules and regulations not inconsistent with the laws of the United States as he may deem necessary or proper for the care, protection, management, and improvement of the same, which regulations shall provide for the preservation of the park in a state of nature so far as is consistent with the purposes of this section and [section 161 of this title][/us/usc/t16/s161], and for the care and protection of the fish and game within the boundaries thereof. He may, in his discretion, execute leases to parcels of ground not exceeding ten acres in extent at any one place to any one person or company, for not to exceed twenty years, when such ground is necessary for the erection of buildings for the accommodation of visitors, and to parcels of ground not exceeding one acre in extent and for not to exceed twenty years to persons who have heretofore erected or whom he may hereafter authorize to erect summer homes or cottages; he may also sell and permit the removal of such matured or dead or down timber as he may deem necessary or advisable for the protection or improvement of the park.
+    Glacier National Park shall be under the exclusive control of the Secretary of the Interior, whose duties it shall be, as soon as practicable, to make and publish such rules and regulations not inconsistent with the laws of the United States as he may deem necessary or proper for the care, protection, management, and improvement of the same, which regulations shall provide for the preservation of the park in a state of nature so far as is consistent with the purposes of this section and [section 161 of this title][/us/usc/t16/s161], and for the care and protection of the fish and game within the boundaries thereof. Said Secretary may, in his discretion, execute leases to parcels of ground not exceeding ten acres in extent at any one place to any one person or company, for not to exceed twenty years, when such ground is necessary for the erection of buildings for the accommodation of visitors, and to parcels of ground not exceeding one acre in extent and for not to exceed twenty years to persons who have heretofore erected or whom he may hereafter authorize to erect summer homes or cottages; he may also sell and permit the removal of such matured, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  or dead or down timber as he may deem necessary or advisable for the protection or improvement of the park.
 
 ([May 11, 1910, ch. 226, § 2][/us/act/1910-05-11/ch226/s2], [36 Stat. 354][/us/stat/36/354].)
 
@@ -26,7 +26,6 @@
 ----------
 ----------
 
-[/us/usc/t16/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3
 [/us/usc/t16/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs161
 [/us/act/1910-05-11/ch226/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-05-11%2Fch226%2Fs2
 [/us/stat/36/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F354

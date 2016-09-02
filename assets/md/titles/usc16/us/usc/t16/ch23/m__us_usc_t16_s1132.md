@@ -141,7 +141,7 @@ Allegheny Islands Wilderness, Allegheny National Forest, Pennsylvania.—Pub. L.
 
     <td> 
 
-Alpine Lakes Wilderness, Mount Baker-Snoqualmie and Wenatchee National Forests, Washington.—Pub. L. 94–357, July 12, 1976, 90 Stat. 905; Pub. L. 105–277, div. A, § 101(e) [title VI, § 604(d)], Oct. 21, 1998, 112 Stat. 2681–231, 2681–329.  </td>
+Alpine Lakes Wilderness, Mount Baker-Snoqualmie and Wenatchee National Forests, Washington.—Pub. L. 94–357, July 12, 1976, 90 Stat. 905; Pub. L. 105–277, div. A, § 101(e) [title VI, § 604(d)], Oct. 21, 1998, 112 Stat. 2681–231, 2681–329; Pub. L. 113–291, div. B, title XXX, § 3060(a), Dec. 19, 2014, 128 Stat. 3815.  </td>
 
   </tr>
 
@@ -661,7 +661,7 @@ Blue Range Wilderness, Apache and Gila National Forests, New Mexico.—Pub. L. 9
 
     <td> 
 
-Bob Marshall Wilderness, Flathead and Lewis and Clark National Forests, Montana.—Pub. L. 88–577, § 3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 95–546, Oct. 28, 1978, 92 Stat. 2062.  </td>
+Bob Marshall Wilderness, Flathead and Lewis and Clark National Forests, Montana.—Pub. L. 88–577, § 3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 95–546, Oct. 28, 1978, 92 Stat. 2062; Pub. L. 113–291, div. B, title XXX, § 3065(c)(1)(A), Dec. 19, 2014, 128 Stat. 3835.  </td>
 
   </tr>
 
@@ -1294,6 +1294,14 @@ Collegiate Peaks Wilderness, Gunnison, San Isabel, and White River National Fore
     <td> 
 
 Colonel Bob Wilderness, Olympic National Forest, Washington.—Pub. L. 98–339, § 3(4), July 3, 1984, 98 Stat. 300.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Columbine-Hondo Wilderness, Carson National Forest, New Mexico.—Pub. L. 113–291, div. B, title XXX, § 3061(b)(1)(A), Dec. 19, 2014, 128 Stat. 3816.  </td>
 
   </tr>
 
@@ -2350,6 +2358,14 @@ Henry M. Jackson Wilderness, Wenatchee and Mount Baker-Snoqualmie National Fores
     <td> 
 
 Hercules-Glades Wilderness, Mark Twain National Forest, Missouri.—Pub. L. 94–557, § 2(b)(2), Oct. 19, 1976, 90 Stat. 2635.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Hermosa Creek Wilderness, San Juan National Forest, Colorado.—Pub. L. 103–77, § 2(a)(22), as added Pub. L. 113–291, div. B, title XXX, § 3062(c)(1), Dec. 19, 2014, 128 Stat. 3823.  </td>
 
   </tr>
 
@@ -4245,6 +4261,14 @@ Pine Creek Wilderness, Cleveland National Forest, California.—Pub. L. 98–425
 
     <td> 
 
+Pine Forest Range Wilderness, Humboldt County, Nevada.—Pub. L. 113–291, div. B, title XXX, § 3064(b)(1), Dec. 19, 2014, 128 Stat. 3828.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
 Pine Mountain Wilderness, Prescott and Tonto National Forests, Arizona.—Pub. L. 92–230, Feb. 15, 1972, 86 Stat. 38.  </td>
 
   </tr>
@@ -4981,7 +5005,7 @@ Sawtooth Wilderness, Boise, Challis, and Sawtooth National Forests, Idaho.—Pub
 
     <td> 
 
-Scapegoat Wilderness, Helena, Lolo, and Lewis and Clark National Forests, Montana.—Pub. L. 92–395, Aug. 20, 1972, 86 Stat. 578.  </td>
+Scapegoat Wilderness, Helena, Lolo, and Lewis and Clark National Forests, Montana.—Pub. L. 92–395, Aug. 20, 1972, 86 Stat. 578; Pub. L. 113–291, div. B, title XXX, § 3065(c)(1)(B), Dec. 19, 2014, 128 Stat. 3836.  </td>
 
   </tr>
 
@@ -5365,7 +5389,7 @@ Steens Mountain Wilderness, Steens Mountain Cooperative Management and Protectio
 
     <td> 
 
-Stephen Mather Wilderness, North Cascades National Park, Ross Lake National Recreation Area, and Lake Chelan National Recreation Area, Washington.—Pub. L. 100–668, title II, § 201, Nov. 16, 1988, 102 Stat. 3963.  </td>
+Stephen Mather Wilderness, North Cascades National Park, Ross Lake National Recreation Area, and Lake Chelan National Recreation Area, Washington.—Pub. L. 100–668, title II, § 201, Nov. 16, 1988, 102 Stat. 3963; Pub. L. 113–291, div. B, title XXX, § 3040, Dec. 19, 2014, 128 Stat. 3788.  </td>
 
   </tr>
 
@@ -5941,7 +5965,7 @@ Wet Beaver Wilderness, Coconino National Forest, Arizona.—Pub. L. 98–406, ti
 
     <td> 
 
-Wheeler Peak Wilderness, Carson National Forest, New Mexico.—Pub. L. 88–577, § 3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 96–550, title I, § 102(a)(10), Dec. 19, 1980, 94 Stat. 3222; Pub. L. 104–333, div. I, title II, § 210, Nov. 12, 1996, 110 Stat. 4109.  </td>
+Wheeler Peak Wilderness, Carson National Forest, New Mexico.—Pub. L. 88–577, § 3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 96–550, title I, § 102(a)(10), Dec. 19, 1980, 94 Stat. 3222; Pub. L. 104–333, div. I, title II, § 210, Nov. 12, 1996, 110 Stat. 4109; Pub. L. 113–291, div. B, title XXX, § 3061(b)(2), Dec. 19, 2014, 128 Stat. 3818.  </td>
 
   </tr>
 
@@ -6102,6 +6126,14 @@ Woolsey Peak Wilderness, Maricopa County, Arizona.—Pub. L. 101–628, title I,
     <td> 
 
 Worthington Mountains Wilderness, of Bureau of Land Management, Nevada.–Pub. L. 108–424, title II, § 203(a)(6), Nov. 30, 2004, 118 Stat. 2407.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Wovoka Wilderness, Lyon County, Nevada.—Pub. L. 113–291, div. B, title XXX, § 3066(b)(1), Dec. 19, 2014, 128 Stat. 3838.  </td>
 
   </tr>
 

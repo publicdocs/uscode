@@ -33,7 +33,7 @@
 
     (d) __Administration__ 
 
-        The Secretary shall administer the park in accordance with sections 1, 2, 3, and 4 of this title, as amended and supplemented, and sections 461 to 467 of this title.
+        The Secretary shall administer the park in accordance with sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, as amended and supplemented, and sections 461 to 467  <sup>\[1\]</sup>  of this title.
 
     (e) __Omitted__ 
 
@@ -42,6 +42,12 @@
         There are authorized to be appropriated not to exceed $1,335,000 to carry out the purposes of this section.
 
 ([Pub. L. 94–578, title III, § 308][/us/pl/94/578/s308], Oct. 21, 1976, [90 Stat. 2735][/us/stat/90/2735]; [Pub. L. 102–541, § 3(a)][/us/pl/102/541/s3/a], Oct. 27, 1992, [106 Stat. 3565][/us/stat/106/3565].)
+
+ __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (d), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+
+    Sections 461 to 467 of this title, referred to in subsec. (d), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
 
  __Codification__ 
 
@@ -89,6 +95,12 @@
 [/us/stat/90/2735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2735
 [/us/pl/102/541/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F541%2Fs3%2Fa
 [/us/stat/106/3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3565
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/94/578/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs308
 [/us/pl/94/578/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs308
 [/us/pl/102/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F541

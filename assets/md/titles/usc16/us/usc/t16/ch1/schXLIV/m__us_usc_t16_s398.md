@@ -21,10 +21,6 @@
 
 ([Aug. 2, 1956, ch. 885, § 1][/us/act/1956-08-02/ch885/s1], [70 Stat. 940][/us/stat/70/940].)
 
- __References in Text__ 
-
-    The laws governing the administration of the national parks, referred to in the second par., are classified to section 1 et seq. of this title.
-
 ----------
 
 [Previous](./../../../../..//us/usc/t16/ch1/schXLIV/m__us_usc_t16_ch1_schXLIV.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLIV/m__us_usc_t16_s398a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs398)

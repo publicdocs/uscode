@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        (1) The Secretary shall administer the historical park in accordance with this subchapter and with provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title. The Secretary shall manage the historical park in such a manner as will preserve and perpetuate knowledge and understanding of the history of jazz and its continued evolution as a true American art form.
+        (1) The Secretary shall administer the historical park in accordance with this subchapter and with provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title and sections 461 to 467  <sup>\[1\]</sup>  of this title. The Secretary shall manage the historical park in such a manner as will preserve and perpetuate knowledge and understanding of the history of jazz and its continued evolution as a true American art form.
 
         (2) To minimize operational costs associated with the management and administration of the historical park and to avoid duplication of effort, the Secretary shall, to the maximum extent practicable, utilize the facilities, administrative staff and other services of the Jean Lafitte National Historical Park and Preserve.
 
@@ -49,6 +49,12 @@
 
 ([Pub. L. 103–433, title XII, § 1204][/us/pl/103/433/s1204], Oct. 31, 1994, [108 Stat. 4520][/us/stat/108/4520].)
 
+ __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a)(1), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+
+    Sections 461 to 467 of this title, referred to in subsec. (a)(1), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
+
 ----------
 
 [Previous](./../../../../..//us/usc/t16/ch1/schLIX–Z/m__us_usc_t16_s410bbb–1.md) | [Next](./../../../../..//us/usc/t16/ch1/schLIX–Z/m__us_usc_t16_s410bbb–3.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410bbb%E2%80%932)
@@ -61,5 +67,11 @@
 [/us/usc/t16/s410bbb–1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410bbb%E2%80%931%2Fb%2F3
 [/us/pl/103/433/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs1204
 [/us/stat/108/4520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4520
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 
 

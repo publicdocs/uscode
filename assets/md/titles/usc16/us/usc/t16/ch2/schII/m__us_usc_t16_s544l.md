@@ -95,7 +95,7 @@
 
                 (ii) The establishment, operation, and maintenance of air and water navigation aids and devices, and for access thereto.
 
-                (iii) Projects under the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–4 through 11) and the Coastal Zone Management Act of 1972 ([16 U.S.C. 1451][/us/usc/t16/s1451] et seq.).
+                (iii) Projects under chapter 2003 of title 54 and the Coastal Zone Management Act of 1972 ([16 U.S.C. 1451][/us/usc/t16/s1451] et seq.).
 
                 (iv) Scientific research, including but not limited to aeronautical, atmospheric, space, geologic, marine, fish and wildlife, and other research, development, and applications.
 
@@ -113,7 +113,7 @@
 
         Subject to valid existing rights, all public lands within the scenic area administered by the Secretary of the Interior through the Bureau of Land Management are hereby transferred without consideration to the jurisdiction of the Secretary to be managed as National Forest lands in accordance with the provisions of sections 544 to 544p of this title.
 
-([Pub. L. 99–663, § 14][/us/pl/99/663/s14], Nov. 17, 1986, [100 Stat. 4294][/us/stat/100/4294]; [Pub. L. 106–291, title III, § 346(e)][/us/pl/106/291/s346/e], Oct. 11, 2000, [114 Stat. 1000][/us/stat/114/1000].)
+([Pub. L. 99–663, § 14][/us/pl/99/663/s14], Nov. 17, 1986, [100 Stat. 4294][/us/stat/100/4294]; [Pub. L. 106–291, title III, § 346(e)][/us/pl/106/291/s346/e], Oct. 11, 2000, [114 Stat. 1000][/us/stat/114/1000]; [Pub. L. 113–287, § 5(d)(16)][/us/pl/113/287/s5/d/16], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265].)
 
  __References in Text__ 
 
@@ -122,8 +122,6 @@
     Act of June 9, 1916, referred to in subsec. (e)(2)(A)(ii), is [act June 9, 1916, ch. 137][/us/act/1916-06-09/ch137], [39 Stat. 218][/us/stat/39/218], which is not classified to the Code.
 
     Act of Feb. 26, 1919, referred to in subsec. (e)(2)(A)(ii), is [act Feb. 26, 1919, ch. 47][/us/act/1919-02-26/ch47], [40 Stat. 1179][/us/stat/40/1179], which is not classified to the Code.
-
-    The Land and Water Conservation Fund Act of 1965, referred to in subsec. (e)(3)(D)(iii), is [Pub. L. 88–578][/us/pl/88/578], Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], as amended, which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
 
     The Coastal Zone Management Act of 1972, referred to in subsec. (e)(3)(D)(iii), is title III of [Pub. L. 89–454][/us/pl/89/454] as added by [Pub. L. 92–583][/us/pl/92/583], Oct. 27, 1972, [86 Stat. 1280][/us/stat/86/1280], as amended, which is classified generally to chapter 33 (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of this title][/us/usc/t16/s1451] and Tables.
 
@@ -134,6 +132,8 @@
     The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (e)(4), is [Pub. L. 93–344][/us/pl/93/344], July 12, 1974, [88 Stat. 297][/us/stat/88/297], as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621], The Congress, and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (e)(3)(D)(iii). [Pub. L. 113–287][/us/pl/113/287] substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–4 through 11)”.
 
     2000—Subsec. (c)(3). [Pub. L. 106–291][/us/pl/106/291] inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Except as provided in subparagraph (B), no payment” for “No payment”, substituted “eighth full fiscal year” for “fifth full fiscal year”, and added subpar. (B).
 
@@ -156,7 +156,6 @@
 [/us/stat/39/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F218
 [/us/stat/40/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1179
 [/us/usc/t16/s544d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544d%2Fb
-[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
 [/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451
 [/us/usc/t42/s5145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5145
 [/us/usc/t42/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4103
@@ -164,6 +163,8 @@
 [/us/stat/100/4294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4294
 [/us/pl/106/291/s346/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs346%2Fe
 [/us/stat/114/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1000
+[/us/pl/113/287/s5/d/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F16
+[/us/stat/128/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3265
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
@@ -171,8 +172,6 @@
 [/us/stat/39/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F218
 [/us/act/1919-02-26/ch47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch47
 [/us/stat/40/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1179
-[/us/pl/88/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578
-[/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897
 [/us/pl/89/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454
 [/us/pl/92/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F583
 [/us/stat/86/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1280
@@ -191,6 +190,8 @@
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
 [/us/pl/106/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291
 
 

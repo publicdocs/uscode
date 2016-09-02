@@ -21,7 +21,7 @@
 
     (b) __Administration__ 
 
-        The Secretary shall administer the Glorieta Unit to preserve and interpret the Battle of Glorieta for the benefit and enjoyment of present and future generations, in accordance with the provisions of this section, applicable provisions of this subchapter, and provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+        The Secretary shall administer the Glorieta Unit to preserve and interpret the Battle of Glorieta for the benefit and enjoyment of present and future generations, in accordance with the provisions of this section, applicable provisions of this subchapter, and provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title and sections 461 to 467  <sup>\[1\]</sup>  of this title.
 
     (c) __Acquisition__ 
 
@@ -44,6 +44,10 @@
  __References in Text__ 
 
     This section, referred to in subsecs. (a), (b), (d), and (f), was in the original “this Act”, meaning [Pub. L. 101–536][/us/pl/101/536], Nov. 8, 1990, [104 Stat. 2368][/us/stat/104/2368], known as the Pecos National Historical Park Expansion Act of 1990, which enacted this section and provisions set out as notes under this section and [section 410rr of this title][/us/usc/t16/s410rr]. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under [section 410rr of this title][/us/usc/t16/s410rr] and Tables.
+
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (b), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+
+    Sections 461 to 467 of this title, referred to in subsec. (b), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
 
  __Codification__ 
 
@@ -80,6 +84,12 @@
 [/us/stat/104/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2368
 [/us/usc/t16/s410rr]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410rr
 [/us/usc/t16/s410rr]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410rr
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/101/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F313
 [/us/pl/101/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F536%2Fs2
 [/us/stat/104/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2368

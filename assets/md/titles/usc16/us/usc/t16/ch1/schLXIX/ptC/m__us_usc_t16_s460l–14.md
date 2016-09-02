@@ -49,7 +49,7 @@
 
  __References in Text__ 
 
-    This part, referred to in subsec. (c)(1), was in the original “this Act”, meaning [Pub. L. 89–72][/us/pl/89/72], which enacted sections 460l–12 to 460l–21 of this title and amended sections 460l–5(a) and 662(d) of this title.
+    This part, referred to in subsec. (c)(1), was in the original “this Act”, meaning [Pub. L. 89–72][/us/pl/89/72], which enacted sections 460l–12 to 460l–21 of this title and amended former section 460l–5(a) and [section 662(d) of this title][/us/usc/t16/s662/d].
 
  __Amendments__ 
 
@@ -77,6 +77,7 @@
 [/us/pl/102/575/s2804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs2804%2Fb
 [/us/stat/106/4691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4691
 [/us/pl/89/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72
+[/us/usc/t16/s662/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs662%2Fd
 [/us/pl/102/575/s2804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs2804%2Fb
 [/us/pl/102/575/s2804/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs2804%2Fd
 [/us/pl/93/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251

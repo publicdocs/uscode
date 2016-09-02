@@ -37,9 +37,13 @@
 
     (f) __Maintenance of historic integrity__ 
 
-        Nothing in this section may be construed to alter or waive the requirement that the Secretary maintain the historic integrity of units of the National Park System, including compliance with [section 470f of this title][/us/usc/t16/s470f].
+        Nothing in this section may be construed to alter or waive the requirement that the Secretary maintain the historic integrity of units of the National Park System, including compliance with [section 306108 of title 54][/us/usc/t54/s306108].
 
 ([Pub. L. 100–433, § 5][/us/pl/100/433/s5], Sept. 16, 1988, [102 Stat. 1641][/us/stat/102/1641].)
+
+ __Codification__ 
+
+    In subsec. (f), “[section 306108 of title 54][/us/usc/t54/s306108]” substituted for “[section 470f of this title][/us/usc/t16/s470f]” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
 ----------
 
@@ -48,8 +52,12 @@
 ----------
 ----------
 
-[/us/usc/t16/s470f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470f
+[/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
 [/us/pl/100/433/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F433%2Fs5
 [/us/stat/102/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1641
+[/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
+[/us/usc/t16/s470f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470f
+[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 
 

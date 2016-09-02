@@ -27,7 +27,7 @@
 
  __Pilot Program of Charges and Fees for Harvest of Forest Botanical Products__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 339\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–199, as amended by [Pub. L. 108–108, title III, § 335][/us/pl/108/108/s335], Nov. 10, 2003, [117 Stat. 1312][/us/stat/117/1312]; [Pub. L. 111–88, div. A, title IV, § 420][/us/pl/111/88/s420], Oct. 30, 2009, [123 Stat. 2960][/us/stat/123/2960]; [Pub. L. 113–76, div. G, title IV, § 432][/us/pl/113/76/s432], Jan. 17, 2014, [128 Stat. 345][/us/stat/128/345], provided that:
+[Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 339\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–199, as amended by [Pub. L. 108–108, title III, § 335][/us/pl/108/108/s335], Nov. 10, 2003, [117 Stat. 1312][/us/stat/117/1312]; [Pub. L. 111–88, div. A, title IV, § 420][/us/pl/111/88/s420], Oct. 30, 2009, [123 Stat. 2960][/us/stat/123/2960]; [Pub. L. 113–76, div. G, title IV, § 432][/us/pl/113/76/s432], Jan. 17, 2014, [128 Stat. 345][/us/stat/128/345]; [Pub. L. 113–287, § 5(d)(11)][/us/pl/113/287/s5/d/11], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], provided that:
 
 >     “(a)  __Definition of Forest Botanical Product__  __.—__ 
 
@@ -93,7 +93,7 @@
 
 >             “(G) [Section 401 of the Act of June 15, 1935][/us/act/1935-06-15/s401] ([16 U.S.C. 715s][/us/usc/t16/s715s]).
 
->             “(H) Section 4 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–6a).
+>             “(H) [Section 100904 of title 54][/us/usc/t54/s100904], United States Code.
 
 >             “(I) Any other provision of law relating to revenue allocation.
 
@@ -134,6 +134,8 @@
 [/us/stat/123/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2960
 [/us/pl/113/76/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs432
 [/us/stat/128/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F345
+[/us/pl/113/287/s5/d/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F11
+[/us/stat/128/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3265
 [/us/usc/t16/s528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs528
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
 [/us/act/1911-03-01/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fs13
@@ -145,7 +147,7 @@
 [/us/usc/t43/s869–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs869%E2%80%934
 [/us/act/1935-06-15/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-15%2Fs401
 [/us/usc/t16/s715s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715s
-[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/usc/t54/s100904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100904
 [/us/pl/108/108/s335/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs335%2F3
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113

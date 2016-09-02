@@ -17,11 +17,11 @@
 
     (a) __In general__ 
 
-        The recreation area shall be administered by the Secretary in accordance with this Act and with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title.
+        The recreation area shall be administered by the Secretary in accordance with this Act and with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
     (b) __Hunting and fishing; fish stocking__ 
 
-        The Secretary shall permit hunting, trapping and fishing on lands and waters within the recreation area in accordance with applicable Federal and State laws. The Secretary may, after consultation with the State of West Virginia Department of Natural Resources, designate zones where, and establish periods when, such activities will not be permitted for reasons of public safety, administration, fish and wildlife habitat or public use and enjoyment subject to such terms and conditions as he deems necessary in the furtherance of this Act. The Secretary shall permit the State of West Virginia to undertake or continue fish stocking activities carried out by the State in consultation with the Secretary on waters within the boundaries of the recreation area. Nothing in this Act shall be construed as affecting the jurisdiction or responsibilities of the State of West Virginia with respect to fish and wildlife  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup> 
+        The Secretary shall permit hunting, trapping and fishing on lands and waters within the recreation area in accordance with applicable Federal and State laws. The Secretary may, after consultation with the State of West Virginia Department of Natural Resources, designate zones where, and establish periods when, such activities will not be permitted for reasons of public safety, administration, fish and wildlife habitat or public use and enjoyment subject to such terms and conditions as he deems necessary in the furtherance of this Act. The Secretary shall permit the State of West Virginia to undertake or continue fish stocking activities carried out by the State in consultation with the Secretary on waters within the boundaries of the recreation area. Nothing in this Act shall be construed as affecting the jurisdiction or responsibilities of the State of West Virginia with respect to fish and wildlife  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a period. </sup></sup> 
 
     (c) __Cooperative agreements with State__ 
 
@@ -29,7 +29,7 @@
 
     (d) __Application of other provisions__ 
 
-        The provisions of [section 1278(a) of this title][/us/usc/t16/s1278/a], <sup>\[2\]</sup>  <sup><sup> 2 So in original. The comma probably should not appear. </sup></sup>  shall apply to the recreation area in the same manner and to the same extent as such provisions apply to river segments referred to in such provisions.
+        The provisions of [section 1278(a) of this title][/us/usc/t16/s1278/a], <sup>\[3\]</sup>  <sup><sup> 3 So in original. The comma probably should not appear. </sup></sup>  shall apply to the recreation area in the same manner and to the same extent as such provisions apply to river segments referred to in such provisions.
 
     (e) __Recreational access__ 
 
@@ -63,6 +63,8 @@
 
     This Act, referred to in subsecs. (a) and (b), is [Pub. L. 100–534][/us/pl/100/534], Oct. 26, 1988, [102 Stat. 2699][/us/stat/102/2699], known as the West Virginia National Interest River Conservation Act of 1987, which enacted this subchapter and sections 460m–26 to 460m–29 of this title, amended sections 460m–15 and 1274 of this title, and enacted provisions set out as notes under sections 460m–15 and 1274 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under [section 460m–15 of this title][/us/usc/t16/s460m–15] and Tables.
 
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+
  __Amendments__ 
 
     1996—Subsec. (e)(4). [Pub. L. 104–333][/us/pl/104/333] added par. (4).
@@ -83,6 +85,9 @@
 [/us/pl/100/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534
 [/us/stat/102/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2699
 [/us/usc/t16/s460m–15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460m%E2%80%9315
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333
 
 

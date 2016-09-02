@@ -1383,11 +1383,11 @@
 
         (163)  __White Clay Creek, Delaware and Pennsylvania__  __.—__ 
 
-        The 190 miles of river segments of White Clay Creek (including tributaries of White Clay Creek and all second order tributaries of the designated segments) in the States of Delaware and Pennsylvania, as depicted on the recommended designation and classification maps (dated June 2000), to be administered by the Secretary of the Interior, as follows:
+        The 199 miles of river segments of White Clay Creek (including tributaries of White Clay Creek and all second order tributaries of the designated segments) in the States of Delaware and Pennsylvania, as depicted on the map entitled “White Clay Creek Wild and Scenic River Designated Area Map” and dated July 2008, the map entitled “White Clay Creek Wild and Scenic River Classification Map” and dated July 2008, and the map entitled “White Clay Creek National Wild and Scenic River Proposed Additional Designated Segments-July 2008”, to be administered by the Secretary of the Interior, as follows:
 
             (A) 30.8 miles of the east branch, including Trout Run, beginning at the headwaters within West Marlborough township downstream to a point that is 500 feet north of the Borough of Avondale wastewater treatment facility, as a recreational river.
 
-            (B) 15.0 miles of the east branch beginning at the southern boundary line of the Borough of Avondale to a point where the East Branch enters New Garden Township at the Franklin Township boundary line, including Walnut Run and Broad Run outside the boundaries of the White Clay Creek Preserve, as a recreational river.
+            (B) 22.4 miles of the east branch beginning at the southern boundary line of the Borough of Avondale, including Walnut Run, Broad Run, and Egypt Run, outside the boundaries of the White Clay Creek Preserve, as a recreational river.
 
             (C) 4.0 miles of the east branch that flow through the boundaries of the White Clay Creek Preserve, Pennsylvania, beginning at the northern boundary line of London Britain township and downstream to the confluence of the middle and east branches, as a scenic river.
 
@@ -1399,7 +1399,7 @@
 
             (G) 17.2 miles of the west branch, beginning at the headwaters within Penn township downstream to the confluence with the middle branch, as a recreational river.
 
-            (H) 12.7 miles of the main stem, excluding Lamborn Run, that flow through the boundaries of the White Clay Creek Preserve, Pennsylvania and Delaware, and White Clay Creek State Park, Delaware, beginning at the confluence of the east and middle branches in London Britain township, Pennsylvania, downstream to the northern boundary line of the city of Newark, Delaware, as a scenic river.
+            (H) 14.3 miles of the main stem, including Lamborn Run, that flow through the boundaries of the White Clay Creek Preserve, Pennsylvania and Delaware, and White Clay Creek State Park, Delaware, beginning at the confluence of the east and middle branches in London Britain Township, Pennsylvania, downstream to the northern boundary line of the City of Newark, Delaware, as a scenic river.
 
             (I) 5.4 miles of the main stem (including all second order tributaries outside the boundaries of the White Clay Creek Preserve and White Clay Creek State Park), beginning at the confluence of the east and middle branches in London Britain township, Pennsylvania, downstream to the northern boundary of the city of Newark, Delaware, as a recreational river.
 
@@ -2021,6 +2021,44 @@
 
             (D) The 9-mile segment from Muddy Cove to the confluence with the Quequechan River at the Route 195 Bridge in the City of Fall River, as a recreational river.
 
+        (208)  __River styx, oregon__  __.—__ 
+
+        The subterranean segment of Cave Creek, known as the River Styx, to be administered by the Secretary of the Interior as a scenic river.
+
+        (209)  __Middle fork snoqualmie, washington__  __.—__ 
+
+        The 27.4-mile segment from the headwaters of the Middle Fork Snoqualmie River near La Bohn Gap in NE ¼ sec. 20, T. 24 N., R. 13 E., to the northern boundary of sec. 11, T. 23 N., R. 9 E., to be administered by the Secretary of Agriculture in the following classifications:
+
+            (A) The approximately 6.4-mile segment from the headwaters of the Middle Fork Snoqualmie River near La Bohn Gap in NE ¼ sec. 20, T. 24 N., R. 13 E., to the west section line of sec. 3, T. 23 N., R. 12 E., as a wild river.
+
+            (B) The approximately 21-mile segment from the west section line of sec. 3, T. 23 N., R. 12 E., to the northern boundary of sec. 11, T. 23 N., R. 9 E., as a scenic river.
+
+        (210)  __Pratt river, washington__  __.—__ 
+
+        The entirety of the Pratt River in the State of Washington, located in the Mount Baker-Snoqualmie National Forest, to be administered by the Secretary of Agriculture as a wild river.
+
+        (211) __Illabot creek, washington.—__ 
+
+            (A)
+
+             The 14.3-mile segment from the headwaters of Illabot Creek to the northern terminus as generally depicted on the map titled “Illabot Creek Proposed WSR–Northern Terminus”, dated September 15, 2009, to be administered by the Secretary of Agriculture as follows:
+
+                (i) The 4.3-mile segment from the headwaters of Illabot Creek to the boundary of Glacier Peak Wilderness Area as a wild river.
+
+                (ii) The 10-mile segment from the boundary of Glacier Peak Wilderness to the northern terminus as generally depicted on the map titled “Illabot Creek Proposed WSR–Northern Terminus”, dated September 15, 2009, as a recreational river.
+
+            (B) Action required to be taken under subsection (d)(1) for the river segments designated under this paragraph shall be completed through revision of the Skagit Wild and Scenic River comprehensive management plan.
+
+        (212)  __Missisquoi river and trout river, vermont__  __.—__ 
+
+        The following segments in the State of Vermont, to be administered by the Secretary of the Interior as a recreational river:
+
+            (A) The 20.5-mile segment of the Missisquoi River from the Lowell/Westfield town line to the Canadian border in North Troy, excluding the property and project boundary of the Troy and North Troy hydroelectric facilities.
+
+            (B) The 14.6-mile segment of the Missisquoi River from the Canadian border in Richford to the upstream project boundary of the Enosburg Falls hydroelectric facility in Sampsonville.
+
+            (C) The 11-mile segment of the Trout River from the confluence of the Jay and Wade Brooks in Montgomery to where the Trout River joins the Missisquoi River in East Berkshire.
+
     (b) __Establishment of boundaries; classification__ 
 
         The agency charged with the administration of each component of the national wild and scenic rivers system designated by subsection (a) of this section shall, within one year from the date of designation of such component under subsection (a) of this section (except where a different date if  <sup>\[14\]</sup>  <sup><sup> 14 So in original. Probably should be “is”. </sup></sup>  provided in subsection (a) of this section), establish detailed boundaries therefor (which boundaries shall include an average of not more than 320 acres of land per mile measured from the ordinary high water mark on both sides of the river); and determine which of the classes outlined in [section 1273(b) of this title][/us/usc/t16/s1273/b] best fit the river or its various segments.
@@ -2037,7 +2075,7 @@
 
         (2) For rivers designated before January 1, 1986, all boundaries, classifications, and plans shall be reviewed for conformity within the requirements of this subsection within 10 years through regular agency planning processes.
 
-([Pub. L. 90–542, § 3][/us/pl/90/542/s3], Oct. 2, 1968, [82 Stat. 907][/us/stat/82/907]; [Pub. L. 92–560, § 2][/us/pl/92/560/s2], Oct. 25, 1972, [86 Stat. 1174][/us/stat/86/1174]; [Pub. L. 93–279, § 1(a)][/us/pl/93/279/s1/a], May 10, 1974, [88 Stat. 122][/us/stat/88/122]; [Pub. L. 94–199, § 3(a)][/us/pl/94/199/s3/a], Dec. 31, 1975, [89 Stat. 1117][/us/stat/89/1117]; [Pub. L. 94–486, title I, § 101][/us/pl/94/486/s101], title II, § 201, title III, § 301, title VI, § 601, Oct. 12, 1976, [90 Stat. 2327][/us/stat/90/2327], 2329, 2330; [Pub. L. 95–625, title VII][/us/pl/95/625], §§ 701–704(a), 705–708, 755, 763(a), Nov. 10, 1978, [92 Stat. 3521–3523][/us/stat/92/3521-3523], 3527–3529, 3533; [Pub. L. 96–87, title IV, § 401(p)(1)][/us/pl/96/87/s401/p/1], Oct. 12, 1979, [93 Stat. 666][/us/stat/93/666]; [Pub. L. 96–312, § 9(a)][/us/pl/96/312/s9/a], July 23, 1980, [94 Stat. 952][/us/stat/94/952]; [Pub. L. 96–344, § 16][/us/pl/96/344/s16], Sept. 8, 1980, [94 Stat. 1137][/us/stat/94/1137]; [Pub. L. 96–487, title VI][/us/pl/96/487], §§ 601–603, Dec. 2, 1980, [94 Stat. 2412–2414][/us/stat/94/2412-2414]; [Pub. L. 96–580][/us/pl/96/580], Dec. 23, 1980, [94 Stat. 3370][/us/stat/94/3370]; [Pub. L. 98–231, § 1][/us/pl/98/231/s1], Mar. 14, 1984, [98 Stat. 60][/us/stat/98/60]; [Pub. L. 98–406, title I, § 104][/us/pl/98/406/s104], Aug. 28, 1984, [98 Stat. 1491][/us/stat/98/1491]; [Pub. L. 98–425, title II, § 201][/us/pl/98/425/s201], Sept. 28, 1984, [98 Stat. 1632][/us/stat/98/1632]; [Pub. L. 98–444][/us/pl/98/444], Oct. 4, 1984, [98 Stat. 1714][/us/stat/98/1714]; [Pub. L. 98–494, § 1][/us/pl/98/494/s1], Oct. 19, 1984, [98 Stat. 2274][/us/stat/98/2274]; [Pub. L. 99–530, § 1][/us/pl/99/530/s1], Oct. 27, 1986, [100 Stat. 3021][/us/stat/100/3021]; [Pub. L. 99–590, title I, § 101][/us/pl/99/590/s101], title IV, § 401, title V, § 501, title VI, § 601, Oct. 30, 1986, [100 Stat. 3330][/us/stat/100/3330], 3334, 3337; [Pub. L. 99–663, § 13(c)][/us/pl/99/663/s13/c], Nov. 17, 1986, [100 Stat. 4294][/us/stat/100/4294]; [Pub. L. 100–149, § 1][/us/pl/100/149/s1], Nov. 2, 1987, [101 Stat. 879][/us/stat/101/879]; [Pub. L. 100–150, § 1][/us/pl/100/150/s1], Nov. 3, 1987, [101 Stat. 881][/us/stat/101/881]; [Pub. L. 100–174][/us/pl/100/174], Nov. 24, 1987, [101 Stat. 924][/us/stat/101/924]; [Pub. L. 100–534, title III, § 301][/us/pl/100/534/s301], title V, § 501, Oct. 26, 1988, [102 Stat. 2706][/us/stat/102/2706], 2708; [Pub. L. 100–547, title I, § 101][/us/pl/100/547/s101], Oct. 28, 1988, [102 Stat. 2736][/us/stat/102/2736]; [Pub. L. 100–554, § 1][/us/pl/100/554/s1], Oct. 28, 1988, [102 Stat. 2776][/us/stat/102/2776]; [Pub. L. 100–557, title I, § 102][/us/pl/100/557/s102], Oct. 28, 1988, [102 Stat. 2782][/us/stat/102/2782]; [Pub. L. 100–633, § 1][/us/pl/100/633/s1], Nov. 7, 1988, [102 Stat. 3320][/us/stat/102/3320]; [Pub. L. 100–668, title V, § 501][/us/pl/100/668/s501], Nov. 16, 1988, [102 Stat. 3967][/us/stat/102/3967]; [Pub. L. 101–40, § 2(a)][/us/pl/101/40/s2/a], June 20, 1989, [103 Stat. 81][/us/stat/103/81]; [Pub. L. 101–306, § 2][/us/pl/101/306/s2], June 6, 1990, [104 Stat. 260][/us/stat/104/260]; [Pub. L. 101–612, § 10(b)][/us/pl/101/612/s10/b], Nov. 16, 1990, [104 Stat. 3215][/us/stat/104/3215]; [Pub. L. 101–628, title XIII, § 1302][/us/pl/101/628/s1302], Nov. 28, 1990, [104 Stat. 4509][/us/stat/104/4509]; [Pub. L. 102–50, § 2][/us/pl/102/50/s2], May 24, 1991, [105 Stat. 254][/us/stat/105/254]; [Pub. L. 102–249, § 3][/us/pl/102/249/s3], Mar. 3, 1992, [106 Stat. 45][/us/stat/106/45]; [Pub. L. 102–271, § 1][/us/pl/102/271/s1], Apr. 20, 1992, [106 Stat. 108][/us/stat/106/108]; [Pub. L. 102–275, § 2][/us/pl/102/275/s2], Apr. 22, 1992, [106 Stat. 123][/us/stat/106/123]; [Pub. L. 102–301, § 6][/us/pl/102/301/s6], June 19, 1992, [106 Stat. 245][/us/stat/106/245]; [Pub. L. 102–432, § 1][/us/pl/102/432/s1], Oct. 23, 1992, [106 Stat. 2212][/us/stat/106/2212]; [Pub. L. 102–536, § 1][/us/pl/102/536/s1], Oct. 27, 1992, [106 Stat. 3528][/us/stat/106/3528]; [Pub. L. 103–162, § 2][/us/pl/103/162/s2], Dec. 1, 1993, [107 Stat. 1969][/us/stat/107/1969]; [Pub. L. 103–170, § 3][/us/pl/103/170/s3], Dec. 2, 1993, [107 Stat. 1986][/us/stat/107/1986]; [Pub. L. 103–242, § 2][/us/pl/103/242/s2], May 4, 1994, [108 Stat. 611][/us/stat/108/611]; [Pub. L. 103–313, § 3][/us/pl/103/313/s3], Aug. 26, 1994, [108 Stat. 1700][/us/stat/108/1700]; [Pub. L. 103–437, § 6(d)(40)][/us/pl/103/437/s6/d/40], Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585]; [Pub. L. 104–208, div. B, title I, § 109][/us/pl/104/208/s109], Sept. 30, 1996, [110 Stat. 3009–531][/us/stat/110/3009-531]; [Pub. L. 104–314][/us/pl/104/314], Oct. 19, 1996, [110 Stat. 3823][/us/stat/110/3823]; [Pub. L. 104–333, div. I, title IV][/us/pl/104/333], §§ 405(a), 406(d), 407(a), title X, § 1023(h), Nov. 12, 1996, [110 Stat. 4149][/us/stat/110/4149], 4151, 4223; [Pub. L. 106–20, § 2(b)][/us/pl/106/20/s2/b], (g), Apr. 9, 1999, [113 Stat. 31][/us/stat/113/31], 33; [Pub. L. 106–176, title I, § 106(a)][/us/pl/106/176/s106/a], Mar. 10, 2000, [114 Stat. 25][/us/stat/114/25]; [Pub. L. 106–192, § 2(a)][/us/pl/106/192/s2/a], May 2, 2000, [114 Stat. 233][/us/stat/114/233]; [Pub. L. 106–261][/us/pl/106/261], Aug. 18, 2000, [114 Stat. 735][/us/stat/114/735]; [Pub. L. 106–299, § 3][/us/pl/106/299/s3], Oct. 13, 2000, [114 Stat. 1051][/us/stat/114/1051]; [Pub. L. 106–357, § 3][/us/pl/106/357/s3], Oct. 24, 2000, [114 Stat. 1393][/us/stat/114/1393]; [Pub. L. 106–399, title III, § 301(a)][/us/pl/106/399/s301/a], (b), Oct. 30, 2000, [114 Stat. 1667][/us/stat/114/1667], 1668; [Pub. L. 106–418, § 3][/us/pl/106/418/s3], Nov. 1, 2000, [114 Stat. 1817][/us/stat/114/1817]; [Pub. L. 107–365, § 2(b)][/us/pl/107/365/s2/b], Dec. 19, 2002, [116 Stat. 3027][/us/stat/116/3027]; [Pub. L. 108–352, § 5][/us/pl/108/352/s5], Oct. 21, 2004, [118 Stat. 1395][/us/stat/118/1395]; [Pub. L. 108–447, div. E, title III, § 340][/us/pl/108/447/s340], Dec. 8, 2004, [118 Stat. 3103][/us/stat/118/3103]; [Pub. L. 109–44, § 2][/us/pl/109/44/s2], Aug. 2, 2005, [119 Stat. 443][/us/stat/119/443]; [Pub. L. 109–362, § 7(a)][/us/pl/109/362/s7/a], Oct. 17, 2006, [120 Stat. 2070][/us/stat/120/2070]; [Pub. L. 109–452, § 4][/us/pl/109/452/s4], Dec. 22, 2006, [120 Stat. 3364][/us/stat/120/3364]; [Pub. L. 110–229, title III, § 344(b)][/us/pl/110/229/s344/b], May 8, 2008, [122 Stat. 798][/us/stat/122/798]; [Pub. L. 111–11, title I][/us/pl/111/11], §§ 1203(a)(1), 1302, 1504(a), 1805(a), 1852, 1976(a), title V, §§ 5001, 5002(d), 5003(a), Mar. 30, 2009, [123 Stat. 1011][/us/stat/123/1011], 1026, 1037, 1057, 1067, 1085, 1147, 1149, 1152; [Pub. L. 113–244, § 2][/us/pl/113/244/s2], Dec. 18, 2014, [128 Stat. 2864][/us/stat/128/2864].)
+([Pub. L. 90–542, § 3][/us/pl/90/542/s3], Oct. 2, 1968, [82 Stat. 907][/us/stat/82/907]; [Pub. L. 92–560, § 2][/us/pl/92/560/s2], Oct. 25, 1972, [86 Stat. 1174][/us/stat/86/1174]; [Pub. L. 93–279, § 1(a)][/us/pl/93/279/s1/a], May 10, 1974, [88 Stat. 122][/us/stat/88/122]; [Pub. L. 94–199, § 3(a)][/us/pl/94/199/s3/a], Dec. 31, 1975, [89 Stat. 1117][/us/stat/89/1117]; [Pub. L. 94–486, title I, § 101][/us/pl/94/486/s101], title II, § 201, title III, § 301, title VI, § 601, Oct. 12, 1976, [90 Stat. 2327][/us/stat/90/2327], 2329, 2330; [Pub. L. 95–625, title VII][/us/pl/95/625], §§ 701–704(a), 705–708, 755, 763(a), Nov. 10, 1978, [92 Stat. 3521–3523][/us/stat/92/3521-3523], 3527–3529, 3533; [Pub. L. 96–87, title IV, § 401(p)(1)][/us/pl/96/87/s401/p/1], Oct. 12, 1979, [93 Stat. 666][/us/stat/93/666]; [Pub. L. 96–312, § 9(a)][/us/pl/96/312/s9/a], July 23, 1980, [94 Stat. 952][/us/stat/94/952]; [Pub. L. 96–344, § 16][/us/pl/96/344/s16], Sept. 8, 1980, [94 Stat. 1137][/us/stat/94/1137]; [Pub. L. 96–487, title VI][/us/pl/96/487], §§ 601–603, Dec. 2, 1980, [94 Stat. 2412–2414][/us/stat/94/2412-2414]; [Pub. L. 96–580][/us/pl/96/580], Dec. 23, 1980, [94 Stat. 3370][/us/stat/94/3370]; [Pub. L. 98–231, § 1][/us/pl/98/231/s1], Mar. 14, 1984, [98 Stat. 60][/us/stat/98/60]; [Pub. L. 98–406, title I, § 104][/us/pl/98/406/s104], Aug. 28, 1984, [98 Stat. 1491][/us/stat/98/1491]; [Pub. L. 98–425, title II, § 201][/us/pl/98/425/s201], Sept. 28, 1984, [98 Stat. 1632][/us/stat/98/1632]; [Pub. L. 98–444][/us/pl/98/444], Oct. 4, 1984, [98 Stat. 1714][/us/stat/98/1714]; [Pub. L. 98–494, § 1][/us/pl/98/494/s1], Oct. 19, 1984, [98 Stat. 2274][/us/stat/98/2274]; [Pub. L. 99–530, § 1][/us/pl/99/530/s1], Oct. 27, 1986, [100 Stat. 3021][/us/stat/100/3021]; [Pub. L. 99–590, title I, § 101][/us/pl/99/590/s101], title IV, § 401, title V, § 501, title VI, § 601, Oct. 30, 1986, [100 Stat. 3330][/us/stat/100/3330], 3334, 3337; [Pub. L. 99–663, § 13(c)][/us/pl/99/663/s13/c], Nov. 17, 1986, [100 Stat. 4294][/us/stat/100/4294]; [Pub. L. 100–149, § 1][/us/pl/100/149/s1], Nov. 2, 1987, [101 Stat. 879][/us/stat/101/879]; [Pub. L. 100–150, § 1][/us/pl/100/150/s1], Nov. 3, 1987, [101 Stat. 881][/us/stat/101/881]; [Pub. L. 100–174][/us/pl/100/174], Nov. 24, 1987, [101 Stat. 924][/us/stat/101/924]; [Pub. L. 100–534, title III, § 301][/us/pl/100/534/s301], title V, § 501, Oct. 26, 1988, [102 Stat. 2706][/us/stat/102/2706], 2708; [Pub. L. 100–547, title I, § 101][/us/pl/100/547/s101], Oct. 28, 1988, [102 Stat. 2736][/us/stat/102/2736]; [Pub. L. 100–554, § 1][/us/pl/100/554/s1], Oct. 28, 1988, [102 Stat. 2776][/us/stat/102/2776]; [Pub. L. 100–557, title I, § 102][/us/pl/100/557/s102], Oct. 28, 1988, [102 Stat. 2782][/us/stat/102/2782]; [Pub. L. 100–633, § 1][/us/pl/100/633/s1], Nov. 7, 1988, [102 Stat. 3320][/us/stat/102/3320]; [Pub. L. 100–668, title V, § 501][/us/pl/100/668/s501], Nov. 16, 1988, [102 Stat. 3967][/us/stat/102/3967]; [Pub. L. 101–40, § 2(a)][/us/pl/101/40/s2/a], June 20, 1989, [103 Stat. 81][/us/stat/103/81]; [Pub. L. 101–306, § 2][/us/pl/101/306/s2], June 6, 1990, [104 Stat. 260][/us/stat/104/260]; [Pub. L. 101–612, § 10(b)][/us/pl/101/612/s10/b], Nov. 16, 1990, [104 Stat. 3215][/us/stat/104/3215]; [Pub. L. 101–628, title XIII, § 1302][/us/pl/101/628/s1302], Nov. 28, 1990, [104 Stat. 4509][/us/stat/104/4509]; [Pub. L. 102–50, § 2][/us/pl/102/50/s2], May 24, 1991, [105 Stat. 254][/us/stat/105/254]; [Pub. L. 102–249, § 3][/us/pl/102/249/s3], Mar. 3, 1992, [106 Stat. 45][/us/stat/106/45]; [Pub. L. 102–271, § 1][/us/pl/102/271/s1], Apr. 20, 1992, [106 Stat. 108][/us/stat/106/108]; [Pub. L. 102–275, § 2][/us/pl/102/275/s2], Apr. 22, 1992, [106 Stat. 123][/us/stat/106/123]; [Pub. L. 102–301, § 6][/us/pl/102/301/s6], June 19, 1992, [106 Stat. 245][/us/stat/106/245]; [Pub. L. 102–432, § 1][/us/pl/102/432/s1], Oct. 23, 1992, [106 Stat. 2212][/us/stat/106/2212]; [Pub. L. 102–536, § 1][/us/pl/102/536/s1], Oct. 27, 1992, [106 Stat. 3528][/us/stat/106/3528]; [Pub. L. 103–162, § 2][/us/pl/103/162/s2], Dec. 1, 1993, [107 Stat. 1969][/us/stat/107/1969]; [Pub. L. 103–170, § 3][/us/pl/103/170/s3], Dec. 2, 1993, [107 Stat. 1986][/us/stat/107/1986]; [Pub. L. 103–242, § 2][/us/pl/103/242/s2], May 4, 1994, [108 Stat. 611][/us/stat/108/611]; [Pub. L. 103–313, § 3][/us/pl/103/313/s3], Aug. 26, 1994, [108 Stat. 1700][/us/stat/108/1700]; [Pub. L. 103–437, § 6(d)(40)][/us/pl/103/437/s6/d/40], Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585]; [Pub. L. 104–208, div. B, title I, § 109][/us/pl/104/208/s109], Sept. 30, 1996, [110 Stat. 3009–531][/us/stat/110/3009-531]; [Pub. L. 104–314][/us/pl/104/314], Oct. 19, 1996, [110 Stat. 3823][/us/stat/110/3823]; [Pub. L. 104–333, div. I, title IV][/us/pl/104/333], §§ 405(a), 406(d), 407(a), title X, § 1023(h), Nov. 12, 1996, [110 Stat. 4149][/us/stat/110/4149], 4151, 4223; [Pub. L. 106–20, § 2(b)][/us/pl/106/20/s2/b], (g), Apr. 9, 1999, [113 Stat. 31][/us/stat/113/31], 33; [Pub. L. 106–176, title I, § 106(a)][/us/pl/106/176/s106/a], Mar. 10, 2000, [114 Stat. 25][/us/stat/114/25]; [Pub. L. 106–192, § 2(a)][/us/pl/106/192/s2/a], May 2, 2000, [114 Stat. 233][/us/stat/114/233]; [Pub. L. 106–261][/us/pl/106/261], Aug. 18, 2000, [114 Stat. 735][/us/stat/114/735]; [Pub. L. 106–299, § 3][/us/pl/106/299/s3], Oct. 13, 2000, [114 Stat. 1051][/us/stat/114/1051]; [Pub. L. 106–357, § 3][/us/pl/106/357/s3], Oct. 24, 2000, [114 Stat. 1393][/us/stat/114/1393]; [Pub. L. 106–399, title III, § 301(a)][/us/pl/106/399/s301/a], (b), Oct. 30, 2000, [114 Stat. 1667][/us/stat/114/1667], 1668; [Pub. L. 106–418, § 3][/us/pl/106/418/s3], Nov. 1, 2000, [114 Stat. 1817][/us/stat/114/1817]; [Pub. L. 107–365, § 2(b)][/us/pl/107/365/s2/b], Dec. 19, 2002, [116 Stat. 3027][/us/stat/116/3027]; [Pub. L. 108–352, § 5][/us/pl/108/352/s5], Oct. 21, 2004, [118 Stat. 1395][/us/stat/118/1395]; [Pub. L. 108–447, div. E, title III, § 340][/us/pl/108/447/s340], Dec. 8, 2004, [118 Stat. 3103][/us/stat/118/3103]; [Pub. L. 109–44, § 2][/us/pl/109/44/s2], Aug. 2, 2005, [119 Stat. 443][/us/stat/119/443]; [Pub. L. 109–362, § 7(a)][/us/pl/109/362/s7/a], Oct. 17, 2006, [120 Stat. 2070][/us/stat/120/2070]; [Pub. L. 109–452, § 4][/us/pl/109/452/s4], Dec. 22, 2006, [120 Stat. 3364][/us/stat/120/3364]; [Pub. L. 110–229, title III, § 344(b)][/us/pl/110/229/s344/b], May 8, 2008, [122 Stat. 798][/us/stat/122/798]; [Pub. L. 111–11, title I][/us/pl/111/11], §§ 1203(a)(1), 1302, 1504(a), 1805(a), 1852, 1976(a), title V, §§ 5001, 5002(d), 5003(a), Mar. 30, 2009, [123 Stat. 1011][/us/stat/123/1011], 1026, 1037, 1057, 1067, 1085, 1147, 1149, 1152; [Pub. L. 113–244, § 2][/us/pl/113/244/s2], Dec. 18, 2014, [128 Stat. 2864][/us/stat/128/2864]; [Pub. L. 113–291, div. B, title XXX][/us/pl/113/291], §§ 3041(e)(1), 3060(b)(1), 3071(a), 3072(a), 3073(a), Dec. 19, 2014, [128 Stat. 3791][/us/stat/128/3791], 3815, 3843, 3844, 3846.)
 
  __References in Text__ 
 
@@ -2062,6 +2100,20 @@
     “(A) The 7-mile segment from the National Grassland boundary to River Mile 8 south of Opal Spring as a recreational river; and
 
     “(B) the 8-mile segment from Bowman Dam to Dry Creek as a recreational river.”
+
+    Subsec. (a)(163). [Pub. L. 113–291, § 3073(a)(1)][/us/pl/113/291/s3073/a/1], in introductory provisions, substituted “199 miles” for “190 miles” and “the map entitled ‘White Clay Creek Wild and Scenic River Designated Area Map’ and dated July 2008, the map entitled ‘White Clay Creek Wild and Scenic River Classification Map’ and dated July 2008, and the map entitled ‘White Clay Creek National Wild and Scenic River Proposed Additional Designated Segments-July 2008’ ” for “the recommended designation and classification maps (dated June 2000)”.
+
+    Subsec. (a)(163)(B). [Pub. L. 113–291, § 3073(a)(2)][/us/pl/113/291/s3073/a/2], added subpar. (B) and struck out former subpar. (B) which read as follows: “15.0 miles of the east branch beginning at the southern boundary line of the Borough of Avondale to a point where the East Branch enters New Garden Township at the Franklin Township boundary line, including Walnut Run and Broad Run outside the boundaries of the White Clay Creek Preserve, as a recreational river.”
+
+    Subsec. (a)(163)(H). [Pub. L. 113–291, § 3073(a)(3)][/us/pl/113/291/s3073/a/3], added subpar. (H) and struck out former subpar. (H) which read as follows: “12.7 miles of the main stem, excluding Lamborn Run, that flow through the boundaries of the White Clay Creek Preserve, Pennsylvania and Delaware, and White Clay Creek State Park, Delaware, beginning at the confluence of the east and middle branches in London Britain township, Pennsylvania, downstream to the northern boundary line of the city of Newark, Delaware, as a scenic river.”
+
+    Subsec. (a)(208). [Pub. L. 113–291, § 3041(e)(1)][/us/pl/113/291/s3041/e/1], added par. (208).
+
+    Subsec. (a)(209), (210). [Pub. L. 113–291, § 3060(b)(1)][/us/pl/113/291/s3060/b/1], added pars. (209) and (210).
+
+    Subsec. (a)(211). [Pub. L. 113–291, § 3071(a)][/us/pl/113/291/s3071/a], added par. (211).
+
+    Subsec. (a)(212). [Pub. L. 113–291, § 3072(a)][/us/pl/113/291/s3072/a], added par. (212).
 
     2009—Subsec. (a)(76). [Pub. L. 111–11, § 1302][/us/pl/111/11/s1302], substituted “29-mile segment” for “19-mile segment” in introductory provisions, substituted period for “; and” in subpar. (A), added subpars. (B) and (C), and struck out former subpar. (B) which read as follows: “the 2-mile segment of the North Fork Elk from the falls to its confluence with the South Fork as a wild river.”
 
@@ -2337,6 +2389,8 @@
 
  __Delaware and Pennsylvania; Administration of Wild and Scenic River Segments of White Clay Creek__ 
 
+    [Pub. L. 113–291, div. B, title XXX, § 3073(b)][/us/pl/113/291/s3073/b]–(d), Dec. 19, 2014, [128 Stat. 3847][/us/stat/128/3847], provided for administration of additional Wild and Scenic River segments of White Clay Creek, prohibited acquisition of land or interest in land by condemnation within the boundary of the additional segments, and provided that an activity or use outside the designated boundary of the additional segments would not be precluded, notwithstanding the designation of the additional segments as a component of the national wild and scenic rivers system and the fact that the activity or use could be seen or heard within the boundary of the additional segments.
+
     [Pub. L. 106–357][/us/pl/106/357], §§ 4–8, Oct. 24, 2000, [114 Stat. 1395][/us/stat/114/1395], 1396, provided for administration of Wild and Scenic River segments of White Clay Creek, establishment of detailed boundaries, cooperative agreements with White Clay Creek Watershed Management Committee, representation of Secretary of the Interior by Director of the National Park Service in implementation of management plan, and authorization of the Secretary to provide assistance and funding for implementation of management plan; required that existing State and local zoning laws and ordinances be considered satisfactory under [section 1277(c) of this title][/us/usc/t16/s1277/c] with respect to White Clay Creek river segments; and prohibited Federal acquisition of lands or interests in lands along White Clay Creek river segments and inclusion in National Park System.
 
  __Florida; Administration of Wild and Scenic River Segments of Wekiva River__ 
@@ -2438,6 +2492,18 @@
 [Pub. L. 111–11, title I, § 1976(b)][/us/pl/111/11/s1976/b], Mar. 30, 2009, [123 Stat. 1088][/us/stat/123/1088], provided that: 
 
 > “If the United States acquires any non-Federal land within or adjacent to Zion National Park that includes a river segment that is contiguous to a river segment of the Virgin River designated as a wild, scenic, or recreational river by paragraph (204) of section 3(a) of the Wild and Scenic Rivers Act ([16 U.S.C. 1274(a)][/us/usc/t16/s1274/a]) (as added by subsection (a)), the acquired river segment shall be incorporated in, and be administered as part of, the applicable wild, scenic, or recreational river.”
+
+ __Vermont; Management of Missisquoi River and Trout River Segments__ 
+
+    [Pub. L. 113–291, div. B, title XXX, § 3072(b)][/us/pl/113/291/s3072/b], Dec. 19, 2014, [128 Stat. 3844][/us/stat/128/3844], set forth provisions relating to management within and adjacent to Missisquoi River and Trout River segments, directed coordination of management responsibility, authorized cooperative agreements between Secretary of the Interior and State and local authorities, and set forth provisions relating to effect of designation of segments on existing hydroelectric facilities and acquisitions and management of land for purposes of the segments.
+
+ __Washington; Illabot Creek Segment; Management Within and Without Boundary__ 
+
+    [Pub. L. 113–291, div. B, title XXX, § 3071(b)][/us/pl/113/291/s3071/b], (c), Dec. 19, 2014, [128 Stat. 3844][/us/stat/128/3844], prohibited acquisition of land or interest in land by condemnation within the boundary of the river segment and provided that an activity or use outside the boundary of the segment would not be precluded, notwithstanding the designation of the segment as a component of the national wild and scenic rivers system and the fact that the activity or use could be seen or heard within the boundary of the segment.
+
+ __Washington; Middle Fork Snoqualmie River Segment; Management Within and Without Boundary__ 
+
+    [Pub. L. 113–291, div. B, title XXX, § 3060(b)(2)][/us/pl/113/291/s3060/b/2], (3), Dec. 19, 2014, [128 Stat. 3816][/us/stat/128/3816], prohibited acquisition of land or interest in land by condemnation within the boundary of the river segment and provided that an activity or use outside the boundary of the segment would not be precluded, notwithstanding the designation of the segment as a component of the national wild and scenic rivers system and the fact that the activity or use could be seen or heard within the boundary of the segment.
 
  __West Virginia; Wild and Scenic River Segments of Bluestone and Meadow Rivers; Public Awareness Program__ 
 
@@ -2611,6 +2677,8 @@
 [/us/stat/123/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1011
 [/us/pl/113/244/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F244%2Fs2
 [/us/stat/128/2864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2864
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/stat/128/3791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3791
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 [/us/stat/92/3524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3524
 [/us/pl/89/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F158
@@ -2622,6 +2690,13 @@
 [/us/pl/85/500/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F500%2Fs203
 [/us/stat/72/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F305
 [/us/pl/113/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F244
+[/us/pl/113/291/s3073/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3073%2Fa%2F1
+[/us/pl/113/291/s3073/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3073%2Fa%2F2
+[/us/pl/113/291/s3073/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3073%2Fa%2F3
+[/us/pl/113/291/s3041/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3041%2Fe%2F1
+[/us/pl/113/291/s3060/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3060%2Fb%2F1
+[/us/pl/113/291/s3071/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3071%2Fa
+[/us/pl/113/291/s3072/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3072%2Fa
 [/us/pl/111/11/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1302
 [/us/pl/111/11/s1203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1203%2Fa%2F1
 [/us/pl/111/11/s1504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1504%2Fa
@@ -2771,6 +2846,8 @@
 [/us/pl/103/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F313
 [/us/stat/108/1700-1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1700-1702
 [/us/pl/103/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F313
+[/us/pl/113/291/s3073/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3073%2Fb
+[/us/stat/128/3847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3847
 [/us/pl/106/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F357
 [/us/stat/114/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1395
 [/us/usc/t16/s1277/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1277%2Fc
@@ -2861,6 +2938,12 @@
 [/us/pl/111/11/s1976/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1976%2Fb
 [/us/stat/123/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1088
 [/us/usc/t16/s1274/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1274%2Fa
+[/us/pl/113/291/s3072/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3072%2Fb
+[/us/stat/128/3844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3844
+[/us/pl/113/291/s3071/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3071%2Fb
+[/us/stat/128/3844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3844
+[/us/pl/113/291/s3060/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3060%2Fb%2F2
+[/us/stat/128/3816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3816
 [/us/pl/100/534/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534%2Fs403
 [/us/stat/102/2707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2707
 [/us/pl/111/11/s5002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs5002%2Fc

@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    This Act, referred to in text, is [Pub. L. 96–550][/us/pl/96/550], Dec. 19, 1980, [94 Stat. 3221][/us/stat/94/3221], which enacted sections 410ii to 410ii–7 and 542 to 542d of this title and enacted provisions set out as notes under sections 431 and 1132 of this title. For complete classification of this Act to the Code, see Tables.
+    This Act, referred to in text, is [Pub. L. 96–550][/us/pl/96/550], Dec. 19, 1980, [94 Stat. 3221][/us/stat/94/3221], which enacted sections 410ii to 410ii–7 and 542 to 542d of this title and enacted provisions set out as notes under [section 1132 of this title][/us/usc/t16/s1132] and [section 320301 of Title 54][/us/usc/t54/s320301], National Park Service and Related Programs. For complete classification of this Act to the Code, see Tables.
 
 ----------
 
@@ -34,5 +34,7 @@
 [/us/stat/94/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3225
 [/us/pl/96/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F550
 [/us/stat/94/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3221
+[/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
+[/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
 
 

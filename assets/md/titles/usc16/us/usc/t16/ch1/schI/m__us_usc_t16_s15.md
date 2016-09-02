@@ -13,11 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s14e.md) | [Next](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s16.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs15)
 
-## § 15. Appropriations for purchase of equipment; waterproof footwear
+## § 15. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Appropriations whenever made for the National Park Service, which are available for the purchase of equipment may be used for purchase of waterproof footwear which shall be regarded and listed as park equipment.
-
-([Mar. 7, 1928, ch. 137, § 1][/us/act/1928-03-07/ch137/s1], [45 Stat. 238][/us/stat/45/238].)
+    Section, [act Mar. 7, 1928, ch. 137, § 1][/us/act/1928-03-07/ch137/s1], [45 Stat. 238][/us/stat/45/238], related to appropriations for purchase of equipment; waterproof footwear. See [section 103101(e) of Title 54][/us/usc/t54/s103101/e], National Park Service and Related Programs.
 
 ----------
 
@@ -26,7 +24,10 @@
 ----------
 ----------
 
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/act/1928-03-07/ch137/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-07%2Fch137%2Fs1
 [/us/stat/45/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F238
+[/us/usc/t54/s103101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs103101%2Fe
 
 

@@ -23,7 +23,7 @@
 
         (2) proposals for public facilities to be developed for the conservation area or the monument, including a visitors center in the vicinity of Bandera Crater and a multiagency orientation center, to be located in or near Grants, New Mexico, and adjacent to Interstate 40, to accommodate visitors to western New Mexico;
 
-        (3) natural and cultural resources management plans for the monument and the conservation area, with a particular emphasis on the preservation and long-term scientific use of archeological resources, giving high priority to the enforcement of the provisions of the Archeological  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Archaeological”. </sup></sup>  Resources Protection Act of 1979 \[[16 U.S.C. 470aa][/us/usc/t16/s470aa] et seq.\] and the National Historic Preservation Act \[[16 U.S.C. 470][/us/usc/t16/s470] et seq.\] within the monument and the conservation area. The natural and cultural resources management plans shall be prepared in close consultation with the Advisory Council on Historic Preservation, the New Mexico State Historic Preservation Office, and the local Indian people and their traditional cultural and religious authorities; and such plans shall provide for long-term scientific use of archaeological resources in the monument and the conservation area, including the wilderness areas designated by this subchapter; and
+        (3) natural and cultural resources management plans for the monument and the conservation area, with a particular emphasis on the preservation and long-term scientific use of archeological resources, giving high priority to the enforcement of the provisions of the Archeological  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Archaeological”. </sup></sup>  Resources Protection Act of 1979 \[[16 U.S.C. 470aa][/us/usc/t16/s470aa] et seq.\] and the National Historic Preservation Act  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  within the monument and the conservation area. The natural and cultural resources management plans shall be prepared in close consultation with the Advisory Council on Historic Preservation, the New Mexico State Historic Preservation Office, and the local Indian people and their traditional cultural and religious authorities; and such plans shall provide for long-term scientific use of archaeological resources in the monument and the conservation area, including the wilderness areas designated by this subchapter; and
 
         (4) wildlife resources management plans for the monument and the conservation area prepared in close consultation with appropriate departments of the State of New Mexico and using previous studies of the area.
 
@@ -47,7 +47,7 @@
 
     The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(3), is [Pub. L. 96–95][/us/pl/96/95], Oct. 31, 1979, [93 Stat. 721][/us/stat/93/721], which is classified generally to chapter 1B (§ 470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 470aa of this title][/us/usc/t16/s470aa] and Tables.
 
-    The National Historic Preservation Act, referred to in subsec. (a)(3), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], as amended, which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see [section 470 of this title][/us/usc/t16/s470] and Tables.
+    The National Historic Preservation Act, referred to in subsec. (a)(3), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title prior to the enactment of Title 54, National Park Service and Related Programs. See [54 U.S.C. 300101][/us/usc/t54/s300101] et seq.
 
  __Change of Name__ 
 
@@ -61,7 +61,6 @@
 ----------
 
 [/us/usc/t16/s470aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470aa
-[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
 [/us/usc/t16/s460uu]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460uu
 [/us/usc/t16/s460uu]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460uu
 [/us/usc/t16/s460uu]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460uu
@@ -73,6 +72,6 @@
 [/us/usc/t16/s470aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470aa
 [/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
 [/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
-[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
+[/us/usc/t54/s300101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs300101
 
 

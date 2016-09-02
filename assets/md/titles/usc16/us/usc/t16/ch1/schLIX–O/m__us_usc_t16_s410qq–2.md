@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        The Secretary shall administer the park in accordance with this subchapter and with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title. In the administration of the park, the Secretary may utilize such statutory authority available to him for the conservation of wildlife and natural and cultural resources as he deems necessary to carry out the purposes of this subchapter, except that he may not acquire any lands or waters or interests therein for purposes of the park other than by lease.
+        The Secretary shall administer the park in accordance with this subchapter and with the provisions of law generally applicable to units of the National Park System, including the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1–4][/us/usc/t16/s1–4]). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  In the administration of the park, the Secretary may utilize such statutory authority available to him for the conservation of wildlife and natural and cultural resources as he deems necessary to carry out the purposes of this subchapter, except that he may not acquire any lands or waters or interests therein for purposes of the park other than by lease.
 
     (b) __Traditional subsistence uses__ 
 
@@ -43,7 +43,7 @@
 
     (f) __Management plan__ 
 
-        The Secretary, in cooperation with the Governor of American Samoa, shall prepare a general management plan for the park. The plan shall comply with [section 1a–7(b) of this title][/us/usc/t16/s1a–7/b] and shall contain specific measures for the protection and preservation of tropical forest resources and archaeological and cultural resources within the park, including, but not limited to, protection of flying foxes and measures to enhance visitation to the park from throughout the world, to the extent consistent with the protection and preservation of such resources.
+        The Secretary, in cooperation with the Governor of American Samoa, shall prepare a general management plan for the park. The plan shall comply with [section 100502 of title 54][/us/usc/t54/s100502] and shall contain specific measures for the protection and preservation of tropical forest resources and archaeological and cultural resources within the park, including, but not limited to, protection of flying foxes and measures to enhance visitation to the park from throughout the world, to the extent consistent with the protection and preservation of such resources.
 
     (g) __Advisory Board__ 
 
@@ -67,7 +67,13 @@
 
  __References in Text__ 
 
+    The Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1–4][/us/usc/t16/s1–4]), referred to in subsec. (a), is [act Aug. 25, 1916, ch. 408][/us/act/1916-08-25/ch408], [39 Stat. 535][/us/stat/39/535], known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and [section 1457 of Title 43][/us/usc/t43/s1457], Public Lands, and enacted provisions set out as a note under [section 1 of this title][/us/usc/t16/s1]. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18][/us/usc/t18/s1865/a], Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 4(a)(1), 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3260, 3272. For complete classification of this Act to the Code, see Short Title of 1916 Act note set out under [section 100101 of Title 54][/us/usc/t54/s100101] and Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
+
     Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (g)(4), is [section 14(b) of Pub. L. 92–463][/us/pl/92/463/s14/b], which is set out in the Appendix to Title 5.
+
+ __Codification__ 
+
+    In subsec. (f), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “[section 12(b) of the Act of August 18, 1970][/us/act/1970-08-18/s12/b] ([16 U.S.C. 1a–1][/us/usc/t16/s1a–1] through 1a–7)” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Termination of Advisory Boards__ 
 
@@ -80,11 +86,29 @@
 ----------
 ----------
 
-[/us/usc/t16/s1a–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937%2Fb
+[/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
+[/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934
+[/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
 [/us/pl/100/571/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F571%2Fs3
 [/us/stat/102/2881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2881
+[/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
+[/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934
+[/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
+[/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
+[/us/usc/t43/s1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1457
+[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
+[/us/usc/t18/s1865/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1865%2Fa
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/92/463/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14%2Fb
+[/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
+[/us/act/1970-08-18/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1970-08-18%2Fs12%2Fb
+[/us/usc/t16/s1a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%931
+[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 

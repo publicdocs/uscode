@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        The Secretary of the Interior (hereinafter in this subchapter referred to as the “Secretary”) shall administer the park in accordance with this subchapter, and laws generally applicable to units of the National Park System, including, but not limited to sections 1, 2, 3, and 4 of this title.
+        The Secretary of the Interior (hereinafter in this subchapter referred to as the “Secretary”) shall administer the park in accordance with this subchapter, and laws generally applicable to units of the National Park System, including, but not limited to sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
     (b) __Acquisition of lands__ 
 
@@ -39,6 +39,10 @@
 
 ([Pub. L. 102–350, § 4][/us/pl/102/350/s4], Aug. 26, 1992, [106 Stat. 934][/us/stat/106/934]; [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I, § 143\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–267.)
 
+ __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+
  __Amendments__ 
 
     1998—Subsec. (d)(1). [Pub. L. 105–277][/us/pl/105/277] substituted “Marsh-Billings-Rockefeller” for “Marsh-Billings”.
@@ -54,6 +58,9 @@
 [/us/stat/106/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F934
 [/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 
 

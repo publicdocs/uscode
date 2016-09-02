@@ -29,7 +29,7 @@
 
  __Codification__ 
 
-    This subchapter is comprised of [Pub. L. 102–304][/us/pl/102/304]. [Pub. L. 102–304][/us/pl/102/304] was formerly listed in a table of National Historic Sites set out under [section 461 of this title][/us/usc/t16/s461].
+    This subchapter is comprised of [Pub. L. 102–304][/us/pl/102/304]. [Pub. L. 102–304][/us/pl/102/304] was formerly listed in a table of National Historic Sites set out under [section 320101 of Title 54][/us/usc/t54/s320101], National Park Service and Related Programs.
 
  __Short Title__ 
 
@@ -63,7 +63,7 @@
 [/us/usc/t16/s410nnn–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410nnn%E2%80%931
 [/us/pl/102/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F304
 [/us/pl/102/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F304
-[/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
+[/us/usc/t54/s320101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320101
 [/us/pl/102/304/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F304%2Fs1
 [/us/stat/106/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F256
 [/us/pl/111/11/s7113/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7113%2Fa%2F3%2FA

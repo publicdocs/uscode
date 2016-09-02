@@ -21,9 +21,13 @@
 
     (b) __Boundary adjustments__ 
 
-        The Secretary may make minor adjustments in the boundaries of the battlefield park consistent with section 460l–9(c) of this title.
+        The Secretary may make minor adjustments in the boundaries of the battlefield park consistent with [section 100506(c) of title 54][/us/usc/t54/s100506/c].
 
 ([Pub. L. 106–511, title V, § 503][/us/pl/106/511/s503], Nov. 13, 2000, [114 Stat. 2374][/us/stat/114/2374].)
+
+ __Codification__ 
+
+    In subsec. (b), “[section 100506(c) of title 54][/us/usc/t54/s100506/c]” substituted for “section 7(c) of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–9(c))” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
 ----------
 
@@ -32,7 +36,12 @@
 ----------
 ----------
 
+[/us/usc/t54/s100506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506%2Fc
 [/us/pl/106/511/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F511%2Fs503
 [/us/stat/114/2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2374
+[/us/usc/t54/s100506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506%2Fc
+[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 
 

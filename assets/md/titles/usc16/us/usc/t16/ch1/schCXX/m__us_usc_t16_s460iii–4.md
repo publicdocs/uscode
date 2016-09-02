@@ -23,17 +23,17 @@
 
     (b) __Purchase of lands__ 
 
-        In addition to the authority in [section 1748(d) of title 43][/us/usc/t43/s1748/d] and notwithstanding section 460l–9(a)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, monies appropriated from the Land and Water Conservation Fund may be used as authorized in [section 1534(b) of this title][/us/usc/t16/s1534/b], for the purposes of acquiring lands or interests therein within the conservation area for administration as public lands as a part of the conservation area.
+        In addition to the authority in [section 1748(d) of title 43][/us/usc/t43/s1748/d] and notwithstanding [section 200306(a) of title 54][/us/usc/t54/s200306/a], monies appropriated from the Land and Water Conservation Fund may be used as authorized in [section 1534(b) of this title][/us/usc/t16/s1534/b], for the purposes of acquiring lands or interests therein within the conservation area for administration as public lands as a part of the conservation area.
 
     (c) __Land exchanges__ 
 
         The Secretary shall, within 4 years after August 4, 1993, study, identify, and initiate voluntary land exchanges which would resolve ownership related land use conflicts within the conservation area.
 
-([Pub. L. 103–64, § 5][/us/pl/103/64/s5], Aug. 4, 1993, [107 Stat. 308][/us/stat/107/308].)
+([Pub. L. 103–64, § 5][/us/pl/103/64/s5], Aug. 4, 1993, [107 Stat. 308][/us/stat/107/308]; [Pub. L. 113–287, § 5(d)(4)][/us/pl/113/287/s5/d/4], Dec. 19, 2014, [128 Stat. 3264][/us/stat/128/3264].)
 
- __References in Text__ 
+ __Amendments__ 
 
-    Section 460l–9(a) of this title, referred to in subsec. (b), was in the original “section 7(a) of the Land and Water Conservation Fund Act of 1964 ([16 U.S.C. 460][/us/usc/t16/s460]l–9(a)),” and was translated as reading section 7(a) of the Land and Water Conservation Fund Act of 1965, to reflect the probable intent of Congress.
+    2014—Subsec. (b). [Pub. L. 113–287][/us/pl/113/287] substituted “[section 200306(a) of title 54][/us/usc/t54/s200306/a]” for “section 460l–9(a) of this title”.
 
 ----------
 
@@ -43,9 +43,13 @@
 ----------
 
 [/us/usc/t43/s1748/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1748%2Fd
+[/us/usc/t54/s200306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200306%2Fa
 [/us/usc/t16/s1534/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1534%2Fb
 [/us/pl/103/64/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F64%2Fs5
 [/us/stat/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F308
-[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/pl/113/287/s5/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F4
+[/us/stat/128/3264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3264
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/usc/t54/s200306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200306%2Fa
 
 

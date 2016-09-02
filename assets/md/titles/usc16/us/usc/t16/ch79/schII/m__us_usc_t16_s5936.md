@@ -13,11 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch79/schII/m__us_usc_t16_s5935.md) | [Next](./../../../../..//us/usc/t16/ch79/schII/m__us_usc_t16_s5937.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5936)
 
-## § 5936. Integration of study results into management decisions
+## § 5936. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    The Secretary shall take such measures as are necessary to assure the full and proper utilization of the results of scientific study for park management decisions. In each case in which an action undertaken by the National Park Service may cause a significant adverse effect on a park resource, the administrative record shall reflect the manner in which unit resource studies have been considered. The trend in the condition of resources of the National Park System shall be a significant factor in the annual performance evaluation of each superintendent of a unit of the National Park System.
-
-([Pub. L. 105–391, title II, § 206][/us/pl/105/391/s206], Nov. 13, 1998, [112 Stat. 3500][/us/stat/112/3500].)
+    Section, [Pub. L. 105–391, title II, § 206][/us/pl/105/391/s206], Nov. 13, 1998, [112 Stat. 3500][/us/stat/112/3500], related to integration of study results into management decisions. See [section 100706 of Title 54][/us/usc/t54/s100706], National Park Service and Related Programs.
 
 ----------
 
@@ -26,7 +24,10 @@
 ----------
 ----------
 
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/105/391/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F391%2Fs206
 [/us/stat/112/3500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3500
+[/us/usc/t54/s100706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100706
 
 

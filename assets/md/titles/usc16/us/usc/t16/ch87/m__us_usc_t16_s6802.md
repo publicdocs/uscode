@@ -227,6 +227,12 @@
 
     The Alaska National Interest Lands Conservation Act, referred to in subsec. (d)(3)(H), is [Pub. L. 96–487][/us/pl/96/487], Dec. 2, 1980, [94 Stat. 2371][/us/stat/94/2371], as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t16/s3101] and Tables.
 
+ __Prohibition on Entrance Fee at Statue of Liberty National Monument__ 
+
+[Pub. L. 100–55][/us/pl/100/55], June 19, 1987, [101 Stat. 371][/us/stat/101/371], provided: 
+
+> “That, notwithstanding any other provision of law, after the date of enactment of this Act \[June 19, 1987\], the Secretary of the Interior shall not charge any entrance or admission fee at the Statue of Liberty National Monument, New Jersey and New York.”
+
 ----------
 
 [Previous](./../../../..//us/usc/t16/ch87/m__us_usc_t16_s6801.md) | [Next](./../../../..//us/usc/t16/ch87/m__us_usc_t16_s6803.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6802)
@@ -252,5 +258,7 @@
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371
 [/us/usc/t16/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3101
+[/us/pl/100/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F55
+[/us/stat/101/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F371
 
 

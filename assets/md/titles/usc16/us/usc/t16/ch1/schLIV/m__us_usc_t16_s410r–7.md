@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        The Secretary shall administer the areas within the addition in accordance with sections 410r–5 to 410r–8 of this title and other provisions of law applicable to the Everglades National Park, and with the provisions of law generally applicable to units of the national park system, including sections 1, 2, 3, and 4 of this title. In order to further preserve and protect Everglades National Park, the Secretary shall utilize such other statutory authority as may be available to him for the preservation of wildlife and natural resources as he deems necessary to carry out the purposes of sections 410r–5 to 410r–8 of this title.
+        The Secretary shall administer the areas within the addition in accordance with sections 410r–5 to 410r–8 of this title and other provisions of law applicable to the Everglades National Park, and with the provisions of law generally applicable to units of the national park system, including sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title. In order to further preserve and protect Everglades National Park, the Secretary shall utilize such other statutory authority as may be available to him for the preservation of wildlife and natural resources as he deems necessary to carry out the purposes of sections 410r–5 to 410r–8 of this title.
 
     (b) __Protection of ecosystem__ 
 
@@ -44,6 +44,10 @@
         On completion of construction of the main visitor center facility at the headquarters of Everglades National Park, the Secretary shall designate the visitor center facility as the “Ernest F. Coe Visitor Center”, to commemorate the vision and leadership shown by Mr. Coe in the establishment and protection of Everglades National Park.
 
 ([Pub. L. 101–229, title I, § 103][/us/pl/101/229/s103], Dec. 13, 1989, [103 Stat. 1948][/us/stat/103/1948]; [Pub. L. 105–82][/us/pl/105/82], §§ 4, 5, Nov. 13, 1997, [111 Stat. 1541][/us/stat/111/1541], 1542.)
+
+ __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
  __Amendments__ 
 
@@ -106,6 +110,9 @@
 [/us/stat/103/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1948
 [/us/pl/105/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F82
 [/us/stat/111/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1541
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/105/82/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F82%2Fs5%2F1
 [/us/pl/105/82/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F82%2Fs5%2F2
 [/us/pl/105/82/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F82%2Fs4

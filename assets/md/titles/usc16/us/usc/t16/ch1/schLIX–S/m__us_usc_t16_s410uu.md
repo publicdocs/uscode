@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    Proclamation No. 1653, [42 Stat. 2298][/us/stat/42/2298] and [section 701 of Public Law 96–607][/us/pl/96/607/s701], referred to in text, appear in a table under the heading “National Monuments Established Under Presidential Proclamation”, set out as a note under [section 431 of this title][/us/usc/t16/s431].
+    Proclamation No. 1653, [42 Stat. 2298][/us/stat/42/2298] and [section 701 of Public Law 96–607][/us/pl/96/607/s701], referred to in text, appear in a table under the heading “National Monuments Established Under Presidential Proclamation”, set out as a note under [section 320301 of Title 54][/us/usc/t54/s320301], National Park Service and Related Programs.
 
 ----------
 
@@ -37,6 +37,6 @@
 [/us/stat/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F185
 [/us/stat/42/2298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F2298
 [/us/pl/96/607/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2Fs701
-[/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
+[/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
 
 

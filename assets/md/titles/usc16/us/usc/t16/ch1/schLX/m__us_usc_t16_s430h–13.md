@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s430h–12.md) | [Next](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s430i.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430h%E2%80%9313)
+[Previous](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s430h–12.md) | [Next](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s430h–14.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430h%E2%80%9313)
 
 ## § 430h–13. Authorization of appropriations
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s430h–12.md) | [Next](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s430i.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430h%E2%80%9313)
+[Previous](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s430h–12.md) | [Next](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s430h–14.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430h%E2%80%9313)
 
 ----------
 ----------

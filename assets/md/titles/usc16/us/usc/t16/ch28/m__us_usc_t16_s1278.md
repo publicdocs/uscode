@@ -37,17 +37,17 @@
 
     (d) __Grants under Land and Water Conservation Fund Act of 1965__ 
 
-        Nothing in this section with respect to the making of a loan or grant shall apply to grants made under the Land and Water Conservation Fund Act of 1965 \[[16 U.S.C. 460][/us/usc/t16/s460]l–4 et seq.\].
+        Nothing in this section with respect to the making of a loan or grant shall apply to grants made under chapter 2003 of title 54.
 
-([Pub. L. 90–542, § 7][/us/pl/90/542/s7], Oct. 2, 1968, [82 Stat. 913][/us/stat/82/913]; [Pub. L. 93–279, § 1(b)(3)][/us/pl/93/279/s1/b/3], (4), May 10, 1974, [88 Stat. 123][/us/stat/88/123]; [Pub. L. 93–621, § 1(c)][/us/pl/93/621/s1/c], Jan. 3, 1975, [88 Stat. 2096][/us/stat/88/2096]; [Pub. L. 94–407, § 1(2)][/us/pl/94/407/s1/2], Sept. 11, 1976, [90 Stat. 1238][/us/stat/90/1238]; [Pub. L. 95–91, title IV, § 402(a)(1)(A)][/us/pl/95/91/s402/a/1/A], Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583]; [Pub. L. 99–590, title V, § 505][/us/pl/99/590/s505], Oct. 30, 1986, [100 Stat. 3336][/us/stat/100/3336]; [Pub. L. 103–437, § 6(a)(7)][/us/pl/103/437/s6/a/7], Nov. 2, 1994, [108 Stat. 4583][/us/stat/108/4583].)
+([Pub. L. 90–542, § 7][/us/pl/90/542/s7], Oct. 2, 1968, [82 Stat. 913][/us/stat/82/913]; [Pub. L. 93–279, § 1(b)(3)][/us/pl/93/279/s1/b/3], (4), May 10, 1974, [88 Stat. 123][/us/stat/88/123]; [Pub. L. 93–621, § 1(c)][/us/pl/93/621/s1/c], Jan. 3, 1975, [88 Stat. 2096][/us/stat/88/2096]; [Pub. L. 94–407, § 1(2)][/us/pl/94/407/s1/2], Sept. 11, 1976, [90 Stat. 1238][/us/stat/90/1238]; [Pub. L. 95–91, title IV, § 402(a)(1)(A)][/us/pl/95/91/s402/a/1/A], Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583]; [Pub. L. 99–590, title V, § 505][/us/pl/99/590/s505], Oct. 30, 1986, [100 Stat. 3336][/us/stat/100/3336]; [Pub. L. 103–437, § 6(a)(7)][/us/pl/103/437/s6/a/7], Nov. 2, 1994, [108 Stat. 4583][/us/stat/108/4583]; [Pub. L. 113–287, § 5(d)(30)][/us/pl/113/287/s5/d/30], Dec. 19, 2014, [128 Stat. 3267][/us/stat/128/3267].)
 
  __References in Text__ 
 
     The Federal Power Act, referred to in subsecs. (a) and (b), is [act June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], [41 Stat. 1063][/us/stat/41/1063], as amended, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title][/us/usc/t16/s791a] and Tables.
 
-    The Land and Water Conservation Fund Act of 1965, referred to in subsec. (d), is [Pub. L. 88–578][/us/pl/88/578], Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], as amended, which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
-
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–287][/us/pl/113/287] substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965”.
 
     1994—Subsec. (b)(i). [Pub. L. 103–437][/us/pl/103/437] substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States Congress”.
 
@@ -87,7 +87,6 @@
 [/us/usc/t16/s1273/a/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1273%2Fa%2Fii
 [/us/usc/t16/s1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1276
 [/us/usc/t16/s1276/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1276%2Fa
-[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
 [/us/pl/90/542/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542%2Fs7
 [/us/stat/82/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F913
 [/us/pl/93/279/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F279%2Fs1%2Fb%2F3
@@ -102,11 +101,12 @@
 [/us/stat/100/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3336
 [/us/pl/103/437/s6/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fa%2F7
 [/us/stat/108/4583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4583
+[/us/pl/113/287/s5/d/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F30
+[/us/stat/128/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3267
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/pl/88/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578
-[/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/99/590/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590%2Fs505%2Fa
 [/us/pl/99/590/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590%2Fs505%2Fb

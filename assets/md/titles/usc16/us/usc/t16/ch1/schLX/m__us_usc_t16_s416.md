@@ -13,11 +13,11 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s415.md) | [Next](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s417.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs416)
 
-## § 416. Refusal to surrender leased land; recovery
+## § 416. Omitted
 
-    Any person to whom land lying within any national military parks may have been leased, who refuses to give up possession of the same to the United States after the termination of said lease, and after possession has been demanded for the United States by any park commissioner or the park superintendent, or any person retaining possession of land lying within the boundary of said park which he or she may have sold to the United States for park purposes and have received payment therefor, after possession of the same has been demanded for the United States by any park commissioner or the park superintendent, shall be deemed guilty of trespass, and the United States may maintain an action for the recovery of the possession of the premises so withheld in the courts of the United States, according to the statutes or code of practice of the State in which the park may be situated.
+ __Codification__ 
 
-([Mar. 3, 1897, ch. 372][/us/act/1897-03-03/ch372], §§ 4, 5, [29 Stat. 622][/us/stat/29/622].)
+    Section, [act Mar. 3, 1897, ch. 372][/us/act/1897-03-03/ch372], §§ 4, 5, [29 Stat. 622][/us/stat/29/622], related to refusal to surrender leased land within national military parks. See [section 103304 of Title 54][/us/usc/t54/s103304], National Park Service and Related Programs.
 
 ----------
 
@@ -28,5 +28,6 @@
 
 [/us/act/1897-03-03/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-03-03%2Fch372
 [/us/stat/29/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F622
+[/us/usc/t54/s103304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs103304
 
 

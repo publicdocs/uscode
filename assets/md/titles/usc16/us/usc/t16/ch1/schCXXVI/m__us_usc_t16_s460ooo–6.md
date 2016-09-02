@@ -49,6 +49,10 @@
 
 ([Pub. L. 106–538, § 7][/us/pl/106/538/s7], Dec. 6, 2000, [114 Stat. 2567][/us/stat/114/2567].)
 
+ __Land Exchange and Conservation in Arizona__ 
+
+    For provisions relating to land exchange and conservation in southeastern Arizona, see [section 539p of this title][/us/usc/t16/s539p].
+
 ----------
 
 [Previous](./../../../../..//us/usc/t16/ch1/schCXXVI/m__us_usc_t16_s460ooo–5.md) | [Next](./../../../../..//us/usc/t16/ch1/schCXXVI/m__us_usc_t16_s460ooo–7.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ooo%E2%80%936)
@@ -58,5 +62,6 @@
 
 [/us/pl/106/538/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F538%2Fs7
 [/us/stat/114/2567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2567
+[/us/usc/t16/s539p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539p
 
 

@@ -13,25 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1A/schI/m__us_usc_t16_s469a.md) | [Next](./../../../../..//us/usc/t16/ch1A/schI/m__us_usc_t16_s469a–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs469a%E2%80%931)
 
-## § 469a–1. Threat of irreparable loss or destruction of significant scientific, prehistorical, historical, or archeological data by Federal construction projects; notice to Secretary of the Interior; survey; recovery, preservation, and protection of data
+## § 469a–1. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    (a) __Notification and request for preservation of data__ 
-
-        Whenever any Federal agency finds, or is notified, in writing, by an appropriate historical or archeological authority, that its activities in connection with any Federal construction project or federally licensed project, activity, or program may cause irreparable loss or destruction of significant scientific, prehistorical, historical, or archeological data, such agency shall notify the Secretary, in writing, and shall provide the Secretary with appropriate information concerning the project, program, or activity. Such agency may request the Secretary to undertake the recovery, protection, and preservation of such data (including preliminary survey, or other investigation as needed, and analysis and publication of the reports resulting from such investigation), or it may, with funds appropriated for such project, program, or activity, undertake such activities. Copies of reports of any investigations made pursuant to this section shall be submitted to the Secretary, who shall make them available to the public for inspection and review.
-
-    (b) __Survey of site; preservation of data; compensation__ 
-
-        Whenever any Federal agency provides financial assistance by loan, grant, or otherwise to any private person, association, or public entity, the Secretary, if he determines that significant scientific, prehistorical, historical, or archeological data might be irrevocably lost or destroyed, may with funds appropriated expressly for this purpose conduct, with the consent of all persons, associations, or public entities having a legal interest in the property involved, a survey of the affected site and undertake the recovery, protection, and preservation of such data (including analysis and publication). The Secretary shall, unless otherwise mutually agreed to in writing, compensate any person, association, or public entity damaged as a result of delays in construction or as a result of the temporary loss of the use of private or any nonfederally owned lands.
-
-([Pub. L. 86–523, § 3][/us/pl/86/523/s3], as added [Pub. L. 93–291, § 1(3)][/us/pl/93/291/s1/3], May 24, 1974, [88 Stat. 174][/us/stat/88/174].)
-
- __Prior Provisions__ 
-
-    A prior [section 3 of Pub. L. 86–523][/us/pl/86/523/s3] was renumbered section 6 and is classified to [section 469b of this title][/us/usc/t16/s469b].
-
- __Transfer of Functions__ 
-
-    For transfer of certain enforcement functions of Secretary or other official in Department of the Interior and Secretary or other official in Department of Agriculture to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 469a of this title][/us/usc/t16/s469a].
+    Section, [Pub. L. 86–523, § 3][/us/pl/86/523/s3], as added [Pub. L. 93–291, § 1(3)][/us/pl/93/291/s1/3], May 24, 1974, [88 Stat. 174][/us/stat/88/174], related to giving notice to Secretary of the Interior regarding the threat of irreparable loss or destruction of significant scientific, prehistorical, historical, or archeological data by Federal construction projects. See [section 312502 of Title 54][/us/usc/t54/s312502], National Park Service and Related Programs.
 
 ----------
 
@@ -40,11 +24,11 @@
 ----------
 ----------
 
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/86/523/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F523%2Fs3
 [/us/pl/93/291/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F291%2Fs1%2F3
 [/us/stat/88/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F174
-[/us/pl/86/523/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F523%2Fs3
-[/us/usc/t16/s469b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs469b
-[/us/usc/t16/s469a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs469a
+[/us/usc/t54/s312502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs312502
 
 

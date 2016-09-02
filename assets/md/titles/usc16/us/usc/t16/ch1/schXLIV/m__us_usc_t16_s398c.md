@@ -71,9 +71,13 @@ Hassel Island
 
     The area known as Hassel Island in Saint Thomas Harbor consisting of approximately 135 acres, together with such adjoining lands, submerged lands, and waters as the Secretary of the Interior deems appropriate, but the boundaries shall not, in any event, extend beyond 100 yards from the mean high water mark of the island.
 
-    Lands, submerged lands, and waters added to the Virgin Islands National Park pursuant to sections 398c to 398f of this title shall be subject to administration by the Secretary of the Interior in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented.
+    Lands, submerged lands, and waters added to the Virgin Islands National Park pursuant to sections 398c to 398f of this title shall be subject to administration by the Secretary of the Interior in accordance with the provisions of sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, as amended and supplemented.
 
 ([Pub. L. 87–750, § 1][/us/pl/87/750/s1], Oct. 5, 1962, [76 Stat. 746][/us/stat/76/746]; [Pub. L. 95–348, § 7(a)][/us/pl/95/348/s7/a], Aug. 18, 1978, [92 Stat. 493][/us/stat/92/493].)
+
+ __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
  __Amendments__ 
 
@@ -90,6 +94,9 @@ Hassel Island
 [/us/stat/76/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F746
 [/us/pl/95/348/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348%2Fs7%2Fa
 [/us/stat/92/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F493
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/95/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348
 
 

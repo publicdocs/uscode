@@ -13,15 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s7e.md) | [Next](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s8–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs8)
 
-## § 8. Roads and trails in national parks and monuments; construction, etc.
+## § 8. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    The Secretary of the Interior, in his administration of the National Park Service, is authorized to construct, reconstruct, and improve roads and trails, inclusive of necessary bridges, in the national parks and monuments under the jurisdiction of the Department of the Interior.
-
-([Apr. 9, 1924, ch. 86, § 1][/us/act/1924-04-09/ch86/s1], [43 Stat. 90][/us/stat/43/90].)
-
- __Transfer of Functions__ 
-
-    For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, [64 Stat. 1262][/us/stat/64/1262], set out in the Appendix to Title 5, Government Organization and Employees.
+    Section, [act Apr. 9, 1924, ch. 86, § 1][/us/act/1924-04-09/ch86/s1], [43 Stat. 90][/us/stat/43/90], related to roads and trails in national parks and monuments; construction, etc. See [section 101511(a) of Title 54][/us/usc/t54/s101511/a], National Park Service and Related Programs.
 
 ----------
 
@@ -30,8 +24,10 @@
 ----------
 ----------
 
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/act/1924-04-09/ch86/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-04-09%2Fch86%2Fs1
 [/us/stat/43/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F90
-[/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
+[/us/usc/t54/s101511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs101511%2Fa
 
 

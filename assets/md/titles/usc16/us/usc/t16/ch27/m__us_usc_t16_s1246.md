@@ -55,7 +55,7 @@
 
         (1)
 
-         The Secretary charged with the administration of a national recreation, national scenic, or national historic trail shall provide for the development and maintenance of such trails within federally administered areas and shall cooperate with and encourage the States to operate, develop, and maintain portions of such trails which are located outside the boundaries of federally administered areas. When deemed to be in the public interest, such Secretary may enter written cooperative agreements with the States or their political subdivisions, landowners, private organizations, or individuals to operate, develop, and maintain any portion of such a trail either within or outside a federally administered area. Such agreements may include provisions for limited financial assistance to encourage participation in the acquisition, protection, operation, development, or maintenance of such trails, provisions providing volunteer in the park or volunteer in the forest status (in accordance with the Volunteers in the Parks Act of 1969 \[[16 U.S.C. 18g][/us/usc/t16/s18g] et seq.\] and the Volunteers in the Forests Act of 1972 \[[16 U.S.C. 558a][/us/usc/t16/s558a] et seq.\]) to individuals, private organizations, or landowners participating in such activities, or provisions of both types. The appropriate Secretary shall also initiate consultations with affected States and their political subdivisions to encourage—
+         The Secretary charged with the administration of a national recreation, national scenic, or national historic trail shall provide for the development and maintenance of such trails within federally administered areas and shall cooperate with and encourage the States to operate, develop, and maintain portions of such trails which are located outside the boundaries of federally administered areas. When deemed to be in the public interest, such Secretary may enter written cooperative agreements with the States or their political subdivisions, landowners, private organizations, or individuals to operate, develop, and maintain any portion of such a trail either within or outside a federally administered area. Such agreements may include provisions for limited financial assistance to encourage participation in the acquisition, protection, operation, development, or maintenance of such trails, provisions providing volunteer in the park or volunteer in the forest status (in accordance with [section 102301 of title 54][/us/usc/t54/s102301] and the Volunteers in the Forests Act of 1972 \[[16 U.S.C. 558a][/us/usc/t16/s558a] et seq.\]) to individuals, private organizations, or landowners participating in such activities, or provisions of both types. The appropriate Secretary shall also initiate consultations with affected States and their political subdivisions to encourage—
 
             (A) the development and implementation by such entities of appropriate measures to protect private landowners from trespass resulting from trail use and from unreasonable personal liability and property damage caused by trail use, and
 
@@ -77,11 +77,9 @@
 
         For the conservation purpose of preserving or enhancing the recreational, scenic, natural, or historical values of components of the national trails system, and environs thereof as determined by the appropriate Secretary, landowners are authorized to donate or otherwise convey qualified real property interests to qualified organizations consistent with [section 170(h)(3) of title 26][/us/usc/t26/s170/h/3], including, but not limited to, right-of-way, open space, scenic, or conservation easements, without regard to any limitation on the nature of the estate or interest otherwise transferable within the jurisdiction where the land is located. The conveyance of any such interest in land in accordance with this subsection shall be deemed to further a Federal conservation policy and yield a significant public benefit for purposes of [section 6 of Public Law 96–541][/us/pl/96/541/s6].
 
-([Pub. L. 90–543, § 7][/us/pl/90/543/s7], Oct. 2, 1968, [82 Stat. 922][/us/stat/82/922]; [Pub. L. 95–248, § 1(3)][/us/pl/95/248/s1/3], (4), Mar. 21, 1978, [92 Stat. 160][/us/stat/92/160]; [Pub. L. 95–625, title V, § 551(17)][/us/pl/95/625/s551/17]–(21), Nov. 10, 1978, [92 Stat. 3515][/us/stat/92/3515], 3516; [Pub. L. 96–87, title IV, § 401(m)(2)][/us/pl/96/87/s401/m/2], (3), Oct. 12, 1979, [93 Stat. 666][/us/stat/93/666]; [Pub. L. 98–11, title II, § 207][/us/pl/98/11/s207], Mar. 28, 1983, [97 Stat. 45][/us/stat/97/45].)
+([Pub. L. 90–543, § 7][/us/pl/90/543/s7], Oct. 2, 1968, [82 Stat. 922][/us/stat/82/922]; [Pub. L. 95–248, § 1(3)][/us/pl/95/248/s1/3], (4), Mar. 21, 1978, [92 Stat. 160][/us/stat/92/160]; [Pub. L. 95–625, title V, § 551(17)][/us/pl/95/625/s551/17]–(21), Nov. 10, 1978, [92 Stat. 3515][/us/stat/92/3515], 3516; [Pub. L. 96–87, title IV, § 401(m)(2)][/us/pl/96/87/s401/m/2], (3), Oct. 12, 1979, [93 Stat. 666][/us/stat/93/666]; [Pub. L. 98–11, title II, § 207][/us/pl/98/11/s207], Mar. 28, 1983, [97 Stat. 45][/us/stat/97/45]; [Pub. L. 113–287, § 5(d)(23)][/us/pl/113/287/s5/d/23], Dec. 19, 2014, [128 Stat. 3266][/us/stat/128/3266].)
 
  __References in Text__ 
-
-    The Volunteers in the Parks Act of 1969, referred to in subsec. (h)(1), is [Pub. L. 91–357][/us/pl/91/357], July 29, 1970, [84 Stat. 472][/us/stat/84/472], which is classified generally to subchapter II (§ 18g et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 18g of this title][/us/usc/t16/s18g] and Tables.
 
     The Volunteers in the Forests Act of 1972, referred to in subsec. (h)(1), probably means the Volunteers in the National Forests Act of 1972, [Pub. L. 92–300][/us/pl/92/300], May 18, 1972, [86 Stat. 147][/us/stat/86/147], which is classified generally to section 558a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 558a of this title][/us/usc/t16/s558a] and Tables.
 
@@ -92,6 +90,8 @@
     In subsec. (g), “[section 303 of title 49][/us/usc/t49/s303]” substituted for “section 4(f) of the Department of Transportation Act ([49 U.S.C. 1653(f)][/us/usc/t49/s1653/f])” on authority of [Pub. L. 97–449, § 6(b)][/us/pl/97/449/s6/b], Jan. 12, 1983, [96 Stat. 2443][/us/stat/96/2443], the first section of which enacted subtitle I (§ 101 et seq.) of Title 49, Transportation.
 
  __Amendments__ 
+
+    2014—Subsec. (h)(1). [Pub. L. 113–287][/us/pl/113/287] substituted “[section 102301 of title 54][/us/usc/t54/s102301]” for “the Volunteers in the Parks Act of 1969” in introductory provisions.
 
     1983—Subsec. (a). [Pub. L. 98–11, § 207(a)][/us/pl/98/11/s207/a], designated existing provisions as par. (2), added par. (1), and in par. (2) substituted “shall publish notice of the availability of appropriate maps or descriptions in the Federal Register” for “shall publish notice thereof in the Federal Register, together with appropriate maps and descriptions”.
 
@@ -148,7 +148,7 @@
 [/us/usc/t16/s1244/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244%2Fa
 [/us/usc/t16/s1244/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244%2Fa
 [/us/usc/t49/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs303
-[/us/usc/t16/s18g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs18g
+[/us/usc/t54/s102301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs102301
 [/us/usc/t16/s558a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs558a
 [/us/usc/t26/s170/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170%2Fh%2F3
 [/us/pl/96/541/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F541%2Fs6
@@ -162,9 +162,8 @@
 [/us/stat/93/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F666
 [/us/pl/98/11/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs207
 [/us/stat/97/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F45
-[/us/pl/91/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F357
-[/us/stat/84/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F472
-[/us/usc/t16/s18g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs18g
+[/us/pl/113/287/s5/d/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F23
+[/us/stat/128/3266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3266
 [/us/pl/92/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F300
 [/us/stat/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F147
 [/us/usc/t16/s558a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs558a
@@ -177,6 +176,8 @@
 [/us/usc/t49/s1653/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1653%2Ff
 [/us/pl/97/449/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs6%2Fb
 [/us/stat/96/2443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2443
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/usc/t54/s102301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs102301
 [/us/pl/98/11/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs207%2Fa
 [/us/pl/98/11/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs207%2Fb
 [/us/pl/98/11/s207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs207%2Fc

@@ -13,15 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s17g.md) | [Next](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s17i.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs17h)
 
-## § 17h. Hire, rental, and purchase of property of employees; when authorized
+## § 17h. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    The Secretary of the Interior may, under such regulations as he may prescribe, authorize the hire, rental, or purchase of property from employees of the National Park Service whenever the public interest will be promoted thereby.
-
-([May 26, 1930, ch. 324, § 9][/us/act/1930-05-26/ch324/s9], [46 Stat. 383][/us/stat/46/383].)
-
- __Transfer of Functions__ 
-
-    For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, [64 Stat. 1262][/us/stat/64/1262], set out in the Appendix to Title 5, Government Organization and Employees.
+    Section, [act May 26, 1930, ch. 324, § 9][/us/act/1930-05-26/ch324/s9], [46 Stat. 383][/us/stat/46/383], related to hire, rental, and purchase of property of employees; when authorized. See [section 101304(d) of Title 54][/us/usc/t54/s101304/d], National Park Service and Related Programs.
 
 ----------
 
@@ -30,8 +24,10 @@
 ----------
 ----------
 
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/act/1930-05-26/ch324/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-26%2Fch324%2Fs9
 [/us/stat/46/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F383
-[/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
+[/us/usc/t54/s101304/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs101304%2Fd
 
 

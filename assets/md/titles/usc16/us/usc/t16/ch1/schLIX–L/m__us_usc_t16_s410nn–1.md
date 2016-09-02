@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        The Secretary shall administer the park in accordance with this subchapter and with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title, sections 461 to 467 of this title, and the National Historic Preservation Act \[[16 U.S.C. 470][/us/usc/t16/s470] et seq.\]. The Secretary shall manage the park in such manner as will preserve and perpetuate knowledge and understanding of American maritime history and to provide for public understanding and enjoyment of maritime history.
+        The Secretary shall administer the park in accordance with this subchapter and with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, sections 461 to 467  <sup>\[1\]</sup>  of this title, and the National Historic Preservation Act. <sup>\[1\]</sup>  The Secretary shall manage the park in such manner as will preserve and perpetuate knowledge and understanding of American maritime history and to provide for public understanding and enjoyment of maritime history.
 
     (b) __Donations__ 
 
@@ -41,7 +41,7 @@
 
         (3) plans for the location, preliminary design, and estimated cost of public facilities to be developed for the park, including a museum building, visitor parking, and public transit access; and
 
-        (4) Plans  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  for the interpretation of the historic vessels and park collections.
+        (4) Plans  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should not be capitalized. </sup></sup>  for the interpretation of the historic vessels and park collections.
 
 ([Pub. L. 100–348, § 3][/us/pl/100/348/s3], June 27, 1988, [102 Stat. 655][/us/stat/102/655].)
 
@@ -49,7 +49,11 @@
 
     This subchapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning [Pub. L. 100–348][/us/pl/100/348], June 27, 1988, [102 Stat. 654][/us/stat/102/654], known as the San Francisco Maritime National Historical Park Act of 1988, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 410nn of this title][/us/usc/t16/s410nn] and Tables.
 
-    The National Historic Preservation Act, referred to in subsec. (a), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], as amended, which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see [section 470(a) of this title][/us/usc/t16/s470/a] and Tables.
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+
+    Sections 461 to 467 of this title, referred to in subsec. (a), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
+
+    The National Historic Preservation Act, referred to in subsec. (a), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title prior to the enactment of Title 54. See [54 U.S.C. 300101][/us/usc/t54/s300101] et seq.
 
  __Change of Name__ 
 
@@ -62,7 +66,6 @@
 ----------
 ----------
 
-[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
 [/us/usc/t16/s460bb–3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bb%E2%80%933%2Ff
 [/us/usc/t16/s460bb–3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bb%E2%80%933%2Ff
 [/us/pl/100/348/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F348%2Fs3
@@ -70,8 +73,14 @@
 [/us/pl/100/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F348
 [/us/stat/102/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F654
 [/us/usc/t16/s410nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410nn
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
 [/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
-[/us/usc/t16/s470/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470%2Fa
+[/us/usc/t54/s300101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs300101
 
 

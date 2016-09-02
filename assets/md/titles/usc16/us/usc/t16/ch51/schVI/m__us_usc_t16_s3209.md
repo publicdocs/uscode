@@ -27,7 +27,7 @@
 
  __References in Text__ 
 
-    Proclamations No. 4611 through 4627, inclusive, of December 1, 1978, referred to in subsec. (a), are Procs. No. 4611 through 4627, Dec. 1, 1978, [93 Stat. 1446–1473][/us/stat/93/1446-1473], which are set out as notes under [section 431 of this title][/us/usc/t16/s431].
+    Proclamations No. 4611 through 4627, inclusive, of December 1, 1978, referred to in subsec. (a), are Procs. No. 4611 through 4627, Dec. 1, 1978, [93 Stat. 1446–1473][/us/stat/93/1446-1473], which are set out as notes under [section 320301 of Title 54][/us/usc/t54/s320301], National Park Service and Related Programs.
 
     This Act, referred to in text, is [Pub. L. 96–487][/us/pl/96/487], Dec. 2, 1980, [94 Stat. 2371][/us/stat/94/2371], as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t16/s3101] and Tables.
 
@@ -48,7 +48,7 @@
 [/us/pl/96/487/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1322
 [/us/stat/94/2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2487
 [/us/stat/93/1446-1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1446-1473
-[/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
+[/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371
 [/us/usc/t16/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3101

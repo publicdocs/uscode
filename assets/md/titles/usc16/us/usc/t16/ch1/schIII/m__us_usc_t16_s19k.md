@@ -13,11 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schIII/m__us_usc_t16_s19j.md) | [Next](./../../../../..//us/usc/t16/ch1/schIII/m__us_usc_t16_s19l.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs19k)
 
-## § 19k. Bylaws, rules, and regulations; contracts for services
+## § 19k. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    In carrying out the provisions of this subchapter, the Board may adopt bylaws, rules, and regulations necessary for the administration of its functions and contract for any necessary services.
-
-([Pub. L. 90–209, § 7][/us/pl/90/209/s7], Dec. 18, 1967, [81 Stat. 657][/us/stat/81/657].)
+    Section, [Pub. L. 90–209, § 7][/us/pl/90/209/s7], Dec. 18, 1967, [81 Stat. 657][/us/stat/81/657], related to bylaws, rules, and regulations and contracts for services. See [section 101117 of Title 54][/us/usc/t54/s101117], National Park Service and Related Programs.
 
 ----------
 
@@ -26,7 +24,10 @@
 ----------
 ----------
 
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/90/209/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F209%2Fs7
 [/us/stat/81/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F657
+[/us/usc/t54/s101117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs101117
 
 

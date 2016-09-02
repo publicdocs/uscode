@@ -13,11 +13,9 @@
 
 [Previous](./../../../..//us/usc/t16/ch74/m__us_usc_t16_s5406.md) | [Next](./../../../..//us/usc/t16/ch74/m__us_usc_t16_s5408.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5407)
 
-## § 5407. Regulations
+## § 5407. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    The Secretary, after consultation with the National Trust, the National Conference of State Historic Preservation Officers, and appropriate members of the maritime heritage community, shall promulgate appropriate guidelines, procedures, and regulations within 1 year after November 2, 1994, to carry out the chapter, including regulations establishing terms of office for the initial membership of the Committee, direct grant and subgrant priorities, the method of solicitation and review of direct grant and subgrant proposals, criteria for review of direct grant and subgrant proposals, administrative requirements, reporting and recordkeeping requirements, and any other requirements the Secretary considers appropriate.
-
-([Pub. L. 103–451, § 8][/us/pl/103/451/s8], Nov. 2, 1994, [108 Stat. 4778][/us/stat/108/4778].)
+    Section, [Pub. L. 103–451, § 8][/us/pl/103/451/s8], Nov. 2, 1994, [108 Stat. 4778][/us/stat/108/4778], related to regulations. See [section 308706 of Title 54][/us/usc/t54/s308706], National Park Service and Related Programs.
 
 ----------
 
@@ -26,7 +24,10 @@
 ----------
 ----------
 
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/103/451/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F451%2Fs8
 [/us/stat/108/4778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4778
+[/us/usc/t54/s308706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs308706
 
 

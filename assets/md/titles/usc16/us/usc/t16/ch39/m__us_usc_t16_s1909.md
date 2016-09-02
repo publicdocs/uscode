@@ -13,15 +13,9 @@
 
 [Previous](./../../../..//us/usc/t16/ch39/m__us_usc_t16_s1908.md) | [Next](./../../../..//us/usc/t16/ch39/m__us_usc_t16_s1910.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1909)
 
-## § 1909. Severability
+## § 1909. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    If any provision of this chapter is declared to be invalid, such declaration shall not affect the validity of any other provision herein.
-
-([Pub. L. 94–429, § 10][/us/pl/94/429/s10], Sept. 28, 1976, [90 Stat. 1344][/us/stat/90/1344].)
-
- __References in Text__ 
-
-    This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 94–429][/us/pl/94/429], which, in addition to enacting this chapter, amended sections 123 and 450y–2 of this title, and repealed sections 350, 350a, 447, and 450z of this title.
+    Section, [Pub. L. 94–429, § 10][/us/pl/94/429/s10], Sept. 28, 1976, [90 Stat. 1344][/us/stat/90/1344], related to severability.
 
 ----------
 
@@ -30,8 +24,9 @@
 ----------
 ----------
 
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/94/429/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F429%2Fs10
 [/us/stat/90/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1344
-[/us/pl/94/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F429
 
 

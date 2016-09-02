@@ -15,11 +15,13 @@
 
 ## § 108. Other laws extended to added lands
 
-    The provisions of sections 1, 2, 3, 4, 91, 92, 93, 95, 98 and 99 of this title, and all Acts supplementary to and amendatory of said sections are made applicable to and extended over the lands added to the park by [section 107 of this title][/us/usc/t16/s107]: Provided, That the provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\], shall not apply to or extend over such lands.
+    The provisions of sections 1, 2, 3, 4, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  91, 92, 93, 95, 98 and 99 of this title, and all Acts supplementary to and amendatory of said sections are made applicable to and extended over the lands added to the park by [section 107 of this title][/us/usc/t16/s107]: Provided, That the provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\], shall not apply to or extend over such lands.
 
 ([May 28, 1926, ch. 410, § 2][/us/act/1926-05-28/ch410/s2], [44 Stat. 669][/us/stat/44/669].)
 
  __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
     The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, entitled ‘an Act to create a Federal power commission; to provide for the improvement of navigation, the development of water power; the use of the public lands in relation thereto; and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes’ ”, and was redesignated the Federal Power Act by [section 791a of this title][/us/usc/t16/s791a]. The Federal Power Act is [act June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], [41 Stat. 1063][/us/stat/41/1063], as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title][/us/usc/t16/s791a] and Tables.
 
@@ -34,6 +36,9 @@
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1926-05-28/ch410/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-28%2Fch410%2Fs2
 [/us/stat/44/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F669
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063

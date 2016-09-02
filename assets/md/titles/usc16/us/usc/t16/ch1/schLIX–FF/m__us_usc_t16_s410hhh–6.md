@@ -45,9 +45,13 @@
 
             (A) Any lands acquired within the area depicted on the map as being located within Zone B shall be transferred to the Secretary of Agriculture and shall be added to and managed as part of the Rio Grande National Forest.
 
-            (B) For the purposes of section 460l–9 of this title, the boundaries of the Rio Grande National Forest, as revised by the transfer of land under paragraph (A), shall be considered to be the boundaries of the national forest.
+            (B) For the purposes of sections 100506(c) and 200306 of title 54, the boundaries of the Rio Grande National Forest, as revised by the transfer of land under paragraph (A), shall be considered to be the boundaries of the national forest.
 
 ([Pub. L. 106–530, § 8][/us/pl/106/530/s8], Nov. 22, 2000, [114 Stat. 2532][/us/stat/114/2532].)
+
+ __Codification__ 
+
+    In subsec. (c)(2)(B), “sections 100506(c) and 200306 of title 54” substituted for “section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–9)” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
 ----------
 
@@ -58,5 +62,8 @@
 
 [/us/pl/106/530/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530%2Fs8
 [/us/stat/114/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2532
+[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 
 

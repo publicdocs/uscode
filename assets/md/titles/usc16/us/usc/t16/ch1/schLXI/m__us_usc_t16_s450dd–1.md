@@ -15,9 +15,13 @@
 
 ## § 450dd–1. Administration
 
-    Upon a determination by the Secretary of the Interior that sufficient land has been acquired by the United States for the memorial, such property shall be established as the “De Soto National Memorial”, and shall be administered by the Secretary of the Interior, through the National Park Service, for the benefit of the people of the United States. An order of the Secretary of the Interior, constituting notice of such establishment, shall be published in the Federal Register. Insofar as applicable and not in conflict with this section and [section 450dd of this title][/us/usc/t16/s450dd], sections 1, 2, 3, and 4 of this title, providing for the establishment of a National Park Service, as amended and supplemented, shall govern the promotion and development of the national memorial.
+    Upon a determination by the Secretary of the Interior that sufficient land has been acquired by the United States for the memorial, such property shall be established as the “De Soto National Memorial”, and shall be administered by the Secretary of the Interior, through the National Park Service, for the benefit of the people of the United States. An order of the Secretary of the Interior, constituting notice of such establishment, shall be published in the Federal Register. Insofar as applicable and not in conflict with this section and [section 450dd of this title][/us/usc/t16/s450dd], sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, providing for the establishment of a National Park Service, as amended and supplemented, shall govern the promotion and development of the national memorial.
 
 ([Mar. 11, 1948, ch. 109, § 2][/us/act/1948-03-11/ch109/s2], [62 Stat. 78][/us/stat/62/78].)
+
+ __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
  __Transfer of Functions__ 
 
@@ -33,6 +37,9 @@
 [/us/usc/t16/s450dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450dd
 [/us/act/1948-03-11/ch109/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-11%2Fch109%2Fs2
 [/us/stat/62/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F78
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 
 

@@ -31,7 +31,7 @@
 
  __References in Text__ 
 
-    An Act entitled “An Act to provide for a plan for the preservation, interpretation development and use of the historic, cultural, and architectural resources of the Lowell Historic Canal District in Lowell, Massachusetts, and for other purposes”, approved January 4, 1975 ([88 Stat. 2330][/us/stat/88/2330]), referred to in par. (5), is [Pub. L. 93–645][/us/pl/93/645], Jan. 4, 1975, [88 Stat. 2330][/us/stat/88/2330], which is set out as a note under [section 461 of this title][/us/usc/t16/s461].
+    An Act entitled “An Act to provide for a plan for the preservation, interpretation development and use of the historic, cultural, and architectural resources of the Lowell Historic Canal District in Lowell, Massachusetts, and for other purposes”, approved January 4, 1975 ([88 Stat. 2330][/us/stat/88/2330]), referred to in par. (5), is [Pub. L. 93–645][/us/pl/93/645], Jan. 4, 1975, [88 Stat. 2330][/us/stat/88/2330].
 
 ----------
 
@@ -49,6 +49,5 @@
 [/us/stat/88/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2330
 [/us/pl/93/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F645
 [/us/stat/88/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2330
-[/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
 
 

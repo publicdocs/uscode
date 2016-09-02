@@ -15,11 +15,13 @@
 
 ## § 197. Applicability of other laws
 
-    The provisions of sections 1, 2, 3, 4, 191, and 193 to 195a of this title and all Acts supplementary to and amendatory of said sections are made applicable to and extended over the lands hereby added to the park: Provided, That the provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] shall not apply to or extend over such lands.
+    The provisions of sections 1, 2, 3, 4, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  191, and 193 to 195a of this title and all Acts supplementary to and amendatory of said sections are made applicable to and extended over the lands hereby added to the park: Provided, That the provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] shall not apply to or extend over such lands.
 
 ([June 9, 1926, ch. 515, § 3][/us/act/1926-06-09/ch515/s3], [44 Stat. 714][/us/stat/44/714].)
 
  __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
     Hereby, referred to in text, means by act June 9, 1926, which is classified to sections 192a, 196, and 197 of this title.
 
@@ -35,6 +37,9 @@
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1926-06-09/ch515/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-06-09%2Fch515%2Fs3
 [/us/stat/44/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F714
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063

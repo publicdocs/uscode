@@ -89,25 +89,29 @@
 
         (3) __Boundaries__ 
 
-        The Park shall include the following sites, as generally depicted on the Map:
+            (A)
 
-            (A) The upper, middle, and lower raceways.
+             The Park shall include the following sites, as generally depicted on the Map:
 
-            (B) Mary Ellen Kramer (Great Falls) Park and adjacent land owned by the City.
+                (i) The upper, middle, and lower raceways.
 
-            (C) A portion of Upper Raceway Park, including the Ivanhoe Wheelhouse and the Society for Establishing Useful Manufactures Gatehouse.
+                (ii) Mary Ellen Kramer (Great Falls) Park and adjacent land owned by the City.
 
-            (D) Overlook Park and adjacent land, including the Society for Establishing Useful Manufactures Hydroelectric Plant and Administration Building.
+                (iii) A portion of Upper Raceway Park, including the Ivanhoe Wheelhouse and the Society for Establishing Useful Manufactures Gatehouse.
 
-            (E) The Allied Textile Printing site, including the Colt Gun Mill ruins, Mallory Mill ruins, Waverly Mill ruins, and Todd Mill ruins.
+                (iv) Overlook Park and adjacent land, including the Society for Establishing Useful Manufactures Hydroelectric Plant and Administration Building.
 
-            (F) The Rogers Locomotive Company Erecting Shop, including the Paterson Museum.
+                (v) The Allied Textile Printing site, including the Colt Gun Mill ruins, Mallory Mill ruins, Waverly Mill ruins, and Todd Mill ruins.
 
-            (G) The Great Falls Visitor Center.
+                (vi) The Rogers Locomotive Company Erecting Shop, including the Paterson Museum.
+
+                (vii) The Great Falls Visitor Center.
+
+            (B) In addition to the lands described in subparagraph (A), the Park shall include the approximately 6 acres of land containing Hinchliffe Stadium and generally depicted as the “Boundary Modification Area” on the map entitled “Paterson Great Falls National Historical Park, Proposed Boundary Modification”, numbered T03/120,155, and dated April 2014, which shall be administered as part of the Park in accordance with subsection (c)(1) and section 3 of the Hinchliffe Stadium Heritage Act.
 
         (4) __Availability of map__ 
 
-            The Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+            The Map and the map referred to in paragraph (3)(B) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
         (5) __Publication of notice__ 
 
@@ -125,9 +129,9 @@
 
              the laws generally applicable to units of the National Park System, including—
 
-                (i) sections 1, 2, 3, and 4 of this title; and
+                (i) the National Park Service Organic Act ([16 U.S.C. 1][/us/usc/t16/s1] et seq.);  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and
 
-                (ii) sections 461 to 467 of this title.
+                (ii) the Act of August 21, 1935 ([16 U.S.C. 461][/us/usc/t16/s461] et seq.).1
 
         (2) __State and local jurisdiction__ 
 
@@ -177,11 +181,15 @@
 
             (A) __In general__ 
 
-                The Secretary may acquire land or interests in land within the boundary of the Park by donation, purchase from a willing seller with donated or appropriated funds, or exchange.
+                Except as provided in subparagraphs (B) and (C), the Secretary may acquire land or interests in land within the boundary of the Park by donation, purchase from a willing seller with donated or appropriated funds, or exchange.
 
             (B) __Donation of State owned land__ 
 
                 Land or interests in land owned by the State or any political subdivision of the State may only be acquired by donation.
+
+            (C) __Hinchliffe Stadium__ 
+
+                The Secretary may not acquire fee title to Hinchliffe Stadium, but may acquire a preservation easement in Hinchliffe Stadium if the Secretary determines that doing so will facilitate resource protection of the stadium.
 
         (5) __Technical assistance and public interpretation__ 
 
@@ -193,7 +201,7 @@
 
         Not later than 3 fiscal years after the date on which funds are made available to carry out this subsection, the Secretary, in consultation with the Commission, shall complete a management plan for the Park in accordance with—
 
-            (A) [section 1a–7(b) of this title][/us/usc/t16/s1a–7/b]; and
+            (A) [section 100502 of title 54][/us/usc/t54/s100502]; and
 
             (B) other applicable laws.
 
@@ -337,11 +345,49 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-([Pub. L. 111–11, title VII, § 7001][/us/pl/111/11/s7001], Mar. 30, 2009, [123 Stat. 1183][/us/stat/123/1183].)
+([Pub. L. 111–11, title VII, § 7001][/us/pl/111/11/s7001], Mar. 30, 2009, [123 Stat. 1183][/us/stat/123/1183]; [Pub. L. 113–291, div. B, title XXX, § 3037(a)][/us/pl/113/291/s3037/a], Dec. 19, 2014, [128 Stat. 3782][/us/stat/128/3782].)
 
  __References in Text__ 
 
+    Section 3 of the Hinchliffe Stadium Heritage Act, referred to in subsec. (b)(3)(B), is section 3 of H.R. 2430 of the 113th Congress, which was not enacted into law. Provisions similar to section 3 of H.R. 2430 were enacted as [section 3037(b) of Pub. L. 113–291][/us/pl/113/291/s3037/b], which is set out as a note below.
+
+    The National Park Service Organic Act ([16 U.S.C. 1][/us/usc/t16/s1] et seq.), referred to in subsec. (c)(1)(B)(i), is [act Aug. 25, 1916, ch. 408][/us/act/1916-08-25/ch408], [39 Stat. 535][/us/stat/39/535], which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and [section 1457 of Title 43][/us/usc/t43/s1457], Public Lands, and enacted provisions set out as a note under [section 1 of this title][/us/usc/t16/s1]. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18][/us/usc/t18/s1865/a], Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 4(a)(1), 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3260, 3272. For complete classification of this Act to the Code, see Short Title of 1916 Act note set out under [section 100101 of Title 54][/us/usc/t54/s100101] and Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
+
+    The Act of August 21, 1935 ([16 U.S.C. 461][/us/usc/t16/s461] et seq.), referred to in subsec. (c)(1)(B)(ii), is [act Aug. 21, 1935, ch. 593][/us/act/1935-08-21/ch593], [49 Stat. 666][/us/stat/49/666], known as the “Historic Sites, Buildings and Antiquities Act”, which enacted sections 461 to 467 of this title. The Act was repealed and restated as sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, and [section 1866(a) of Title 18][/us/usc/t18/s1866/a], Crimes and Criminal Procedure, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 4(a)(1), 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
+
     Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (e)(9), is [section 14(b) of Pub. L. 92–463][/us/pl/92/463/s14/b], which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+ __Codification__ 
+
+    In subsec. (d)(1)(A), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “[section 12(b) of Public Law 91–383][/us/pl/91/383/s12/b] (commonly known as the ‘National Park Service General Authorities Act’) ([16 U.S.C. 1a–7(b)][/us/usc/t16/s1a–7/b])”, meaning “[section 12(b) of Public Law 91–383][/us/pl/91/383/s12/b] (commonly known as the ‘National Park System General Authorities Act’) ([16 U.S.C. 1a–7(b)][/us/usc/t16/s1a–7/b])”, on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+
+ __Amendments__ 
+
+    2014—Subsec. (b)(3). [Pub. L. 113–291, § 3037(a)(1)][/us/pl/113/291/s3037/a/1], designated existing provisions as subpar. (A), redesignated former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A), and added subpar. (B).
+
+    Subsec. (b)(4). [Pub. L. 113–291, § 3037(a)(2)][/us/pl/113/291/s3037/a/2], substituted “The Map and the map referred to in paragraph (3)(B)” for “The Map”.
+
+    Subsec. (c)(4)(A). [Pub. L. 113–291, § 3037(a)(3)(A)][/us/pl/113/291/s3037/a/3/A], substituted “Except as provided in subparagraphs (B) and (C), the Secretary” for “The Secretary”.
+
+    Subsec. (c)(4)(C). [Pub. L. 113–291, § 3037(a)(3)(B)][/us/pl/113/291/s3037/a/3/B], added subpar. (C).
+
+ __Additional Considerations for Hinchliffe Stadium__ 
+
+[Pub. L. 113–291, div. B, title XXX, § 3037(b)][/us/pl/113/291/s3037/b], Dec. 19, 2014, [128 Stat. 3783][/us/stat/128/3783], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     In administering the approximately 6 acres of land containing Hinchliffe Stadium and generally depicted as the ‘Boundary Modification Area’ on the map entitled ‘Paterson Great Falls National Historical Park, Proposed Boundary Modification’, numbered T03/120,155, and dated April 2014, the Secretary of the Interior—
+
+>         “(A) may not include non-Federal property within the approximately 6 acres of land as part of Paterson Great Falls National Historical Park without the written consent of the owner;
+
+>         “(B) may not acquire by condemnation any land or interests in land within the approximately 6 acres of land; and
+
+>         “(C) shall not construe the inclusion of Hinchliffe Stadium made by this section to create buffer zones outside the boundaries of the Paterson Great Falls National Historical Park.
+
+>     “(2)  __Outside activities__  __.—__ 
+
+>     The fact that activities can be seen or head \[sic, probably should be “heard”\] from within the approximately 6 acres of land described in paragraph (1) shall not preclude such activities outside the boundary of the Paterson Great Falls National Historical Park.”
 
 ----------
 
@@ -350,9 +396,44 @@
 ----------
 ----------
 
-[/us/usc/t16/s1a–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937%2Fb
+[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
+[/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
+[/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
 [/us/pl/111/11/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7001
 [/us/stat/123/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1183
+[/us/pl/113/291/s3037/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3037%2Fa
+[/us/stat/128/3782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3782
+[/us/pl/113/291/s3037/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3037%2Fb
+[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
+[/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
+[/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
+[/us/usc/t43/s1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1457
+[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
+[/us/usc/t18/s1865/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1865%2Fa
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
+[/us/act/1935-08-21/ch593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch593
+[/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
+[/us/usc/t18/s1866/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1866%2Fa
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/92/463/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14%2Fb
+[/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
+[/us/pl/91/383/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F383%2Fs12%2Fb
+[/us/usc/t16/s1a–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937%2Fb
+[/us/pl/91/383/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F383%2Fs12%2Fb
+[/us/usc/t16/s1a–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937%2Fb
+[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/pl/113/291/s3037/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3037%2Fa%2F1
+[/us/pl/113/291/s3037/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3037%2Fa%2F2
+[/us/pl/113/291/s3037/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3037%2Fa%2F3%2FA
+[/us/pl/113/291/s3037/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3037%2Fa%2F3%2FB
+[/us/pl/113/291/s3037/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3037%2Fb
+[/us/stat/128/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3783
 
 

@@ -969,89 +969,17 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs698v" data-uslm-ref="/us/usc/t16/s698v">698v.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs698v" data-uslm-ref="/us/usc/t16/s698v">698v</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs698v%E2%80%9310" data-uslm-ref="/us/usc/t16/s698v–10">698v–10.</a>  </td>
 
-    <td> Findings and purposes.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs698v%E2%80%931" data-uslm-ref="/us/usc/t16/s698v–1">698v–1.</a>  </td>
-
-    <td> Definitions.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs698v%E2%80%932" data-uslm-ref="/us/usc/t16/s698v–2">698v–2.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs698v%E2%80%9311" data-uslm-ref="/us/usc/t16/s698v–11">698v–11.</a>  </td>
 
-    <td> Acquisition of lands.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs698v%E2%80%933" data-uslm-ref="/us/usc/t16/s698v–3">698v–3.</a>  </td>
-
-    <td> The Valles Caldera National Preserve.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs698v%E2%80%934" data-uslm-ref="/us/usc/t16/s698v–4">698v–4.</a>  </td>
-
-    <td> The Valles Caldera Trust.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs698v%E2%80%935" data-uslm-ref="/us/usc/t16/s698v–5">698v–5.</a>  </td>
-
-    <td> Board of Trustees.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs698v%E2%80%936" data-uslm-ref="/us/usc/t16/s698v–6">698v–6.</a>  </td>
-
-    <td> Resource management.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs698v%E2%80%937" data-uslm-ref="/us/usc/t16/s698v–7">698v–7.</a>  </td>
-
-    <td> Authorities of the Secretary.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs698v%E2%80%938" data-uslm-ref="/us/usc/t16/s698v–8">698v–8.</a>  </td>
-
-    <td> Termination of the Trust.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs698v%E2%80%939" data-uslm-ref="/us/usc/t16/s698v–9">698v–9.</a>  </td>
-
-    <td> Limitations on funding.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs698v%E2%80%9310" data-uslm-ref="/us/usc/t16/s698v–10">698v–10.</a>  </td>
-
-    <td> Government Accountability Office study.  </td>
+    <td> Valles Caldera National Preserve, New Mexico.  </td>
 
   </tr>
 

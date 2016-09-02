@@ -57,7 +57,7 @@
 
     (d) __Administration; statutory authorities applicable; leases or permits: renewals or extensions, review; termination__ 
 
-        (1) The area added to the park by this section shall be administered in accordance with this section and the provisions of law generally applicable to units of the National Park System including sections 1, 2, 3, 4, 41, and 43 of this title. Any other statutory authority available to the Secretary for the conservation and management of wildlife, wildlife habitat, and natural resources may be utilized to the extent he finds such authority will further the purposes of this section.
+        (1) The area added to the park by this section shall be administered in accordance with this section and the provisions of law generally applicable to units of the National Park System including sections 1, 2, 3, 4, 41, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and 43 of this title. Any other statutory authority available to the Secretary for the conservation and management of wildlife, wildlife habitat, and natural resources may be utilized to the extent he finds such authority will further the purposes of this section.
 
         (2)
 
@@ -97,6 +97,8 @@
 
     This section, referred to in text, other than as appearing with a reference to a subsection of this section, means [section 314 of Pub. L. 95–625][/us/pl/95/625/s314], which in addition to enacting this section, repealed sections 45a–3 and 688 of this title, enacted provisions set out as a note under [section 688 of this title][/us/usc/t16/s688], and amended provisions set out as a note under [section 45a–1 of this title][/us/usc/t16/s45a–1].
 
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (d)(1), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+
  __Codification__ 
 
     Section is comprised of [section 314 of Pub. L. 95–625][/us/pl/95/625/s314]. Subsec. (d)(3) of [section 314 of Pub. L. 95–625][/us/pl/95/625/s314] amended [Pub. L. 93–522][/us/pl/93/522], which is set out as a note under [section 45a–1 of this title][/us/usc/t16/s45a–1]. Subsec. (g) of [section 314 of Pub. L. 95–625][/us/pl/95/625/s314] repealed sections 45a–3 and 688 of this title and enacted provisions set out as notes under [section 688 of this title][/us/usc/t16/s688].
@@ -115,7 +117,9 @@
 
  __“Secretary” Defined__ 
 
-    Secretary means the Secretary of the Interior, see [section 2 of Pub. L. 95–625][/us/pl/95/625/s2], set out as a note under [section 2503 of this title][/us/usc/t16/s2503].
+[Pub. L. 95–625, § 2][/us/pl/95/625/s2], Nov. 10, 1978, [92 Stat. 3470][/us/stat/92/3470], provided that: 
+
+> “As used in this Act \[see Tables for classification\], except as otherwise specifically provided, the term ‘Secretary’ means the Secretary of the Interior.”
 
 ----------
 
@@ -133,6 +137,9 @@
 [/us/pl/95/625/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs314
 [/us/usc/t16/s688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs688
 [/us/usc/t16/s45a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs45a%E2%80%931
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/95/625/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs314
 [/us/pl/95/625/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs314
 [/us/pl/93/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F522
@@ -143,6 +150,6 @@
 [/us/pl/108/447/s139/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs139%2Fb%2F2
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/95/625/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs2
-[/us/usc/t16/s2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2503
+[/us/stat/92/3470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3470
 
 

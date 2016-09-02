@@ -29,7 +29,7 @@
 
 >     “(a)  __Exchange Required__  __.—__ 
 
->     In exchange for the private property described in subsection (b), the Secretary of the Interior shall convey to the Veterans Home of California—Barstow, Veterans of Foreign Wars Post #385E (in this section referred to as the ‘recipient’), all right, title, and interest of the United States in and to a parcel of real property consisting of approximately one acre in the Mojave National Preserve and designated (by section 8137 of the Department of Defense Appropriations Act, 2002 ([Public Law 107–117][/us/pl/107/117]; [115 Stat. 2278][/us/stat/115/2278]) \[[16 U.S.C. 431][/us/usc/t16/s431] note\]) as a national memorial commemorating United States participation in World War I and honoring the American veterans of that war. Notwithstanding the conveyance of the property under this subsection, the Secretary shall continue to carry out the responsibilities of the Secretary under such section 8137.
+>     In exchange for the private property described in subsection (b), the Secretary of the Interior shall convey to the Veterans Home of California—Barstow, Veterans of Foreign Wars Post #385E (in this section referred to as the ‘recipient’), all right, title, and interest of the United States in and to a parcel of real property consisting of approximately one acre in the Mojave National Preserve and designated (by section 8137 of the Department of Defense Appropriations Act, 2002 ([Public Law 107–117][/us/pl/107/117]; [115 Stat. 2278][/us/stat/115/2278]) \[[54 U.S.C. 320301][/us/usc/t54/s320301] note\]) as a national memorial commemorating United States participation in World War I and honoring the American veterans of that war. Notwithstanding the conveyance of the property under this subsection, the Secretary shall continue to carry out the responsibilities of the Secretary under such section 8137.
 
 >     “(b)  __Consideration__  __.—__ 
 
@@ -64,6 +64,6 @@
 [/us/stat/117/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1100
 [/us/pl/107/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117
 [/us/stat/115/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2278
-[/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
+[/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
 
 

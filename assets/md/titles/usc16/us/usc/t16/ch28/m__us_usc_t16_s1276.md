@@ -437,6 +437,62 @@
 
         The approximately 25-mile segment of the upper Missisquoi from its headwaters in Lowell to the Canadian border in North Troy, the approximately 25-mile segment from the Canadian border in East Richford to Enosburg Falls, and the approximately 20-mile segment of the Trout River from its headwaters to its confluence with the Missisquoi River.
 
+        (141) __Oregon caves national monument and preserve, oregon.—__ 
+
+            (A)  __Cave creek, oregon__  __.—__ 
+
+            The 2.6-mile segment of Cave Creek from the headwaters at the River Styx to the boundary of the Rogue River Siskiyou National Forest.
+
+            (B)  __Lake creek, oregon__  __.—__ 
+
+            The 3.6-mile segment of Lake Creek from the headwaters at Bigelow Lakes to the confluence with Cave Creek.
+
+            (C)  __No name creek, oregon__  __.—__ 
+
+            The 0.6-mile segment of No Name Creek from the headwaters to the confluence with Cave Creek.
+
+            (D)  __Panther creek__  __.—__ 
+
+            The 0.8-mile segment of Panther Creek from the headwaters to the confluence with Lake Creek.
+
+            (E)  __Upper cave creek__  __.—__ 
+
+            The segment of Upper Cave Creek from the headwaters to the confluence with River Styx.
+
+        (142)  __Beaver, chipuxet, queen, wood, and pawcatuck rivers, rhode island and connecticut__  __.—__ 
+
+        The following segments:
+
+            (A) The approximately 10-mile segment of the Beaver River from the headwaters in Exeter, Rhode Island, to the confluence with the Pawcatuck River.
+
+            (B) The approximately 5-mile segment of the Chipuxet River from Hundred Acre Pond to the outlet into Worden Pond.
+
+            (C) The approximately 10-mile segment of the upper Queen River from the headwaters to the Usquepaugh Dam in South Kingstown, Rhode Island, including all tributaries of the upper Queen River.
+
+            (D) The approximately 5-mile segment of the lower Queen (Usquepaugh) River from the Usquepaugh Dam to the confluence with the Pawcatuck River.
+
+            (E) The approximately 11-mile segment of the upper Wood River from the headwaters to Skunk Hill Road in Richmond and Hopkinton, Rhode Island, including all tributaries of the upper Wood River.
+
+            (F) The approximately 10-mile segment of the lower Wood River from Skunk Hill Road to the confluence with the Pawcatuck River.
+
+            (G) The approximately 28-mile segment of the Pawcatuck River from Worden Pond to Nooseneck Hill Road (Rhode Island Rte 3) in Hopkinton and Westerly, Rhode Island.
+
+            (H) The approximately 7-mile segment of the lower Pawcatuck River from Nooseneck Hill Road to Pawcatuck Rock, Stonington, Connecticut, and Westerly, Rhode Island.
+
+        (143)  __Nashua river, massachusetts__  __.—__ 
+
+        The following segments:
+
+            (A) The approximately 19-mile segment of the mainstem of the Nashua River from the confluence with the North and South Nashua Rivers in Lancaster, Massachusetts, north to the Massachusetts-New Hampshire State line, excluding the approximately 4.8-mile segment of the mainstem of the Nashua River from the Route 119 bridge in Groton, Massachusetts, downstream to the confluence with the Nissitissit River in Pepperell, Massachusetts.
+
+            (B) The 10-mile segment of the Squannacook River from the headwaters at Ash Swamp downstream to the confluence with the Nashua River in the towns of Shirley and Ayer, Massachusetts.
+
+            (C) The 3.5-mile segment of the Nissitissit River from the Massachusetts-New Hampshire State line downstream to the confluence with the Nashua River in Pepperell, Massachusetts.
+
+        (144)  __York river, maine__  __.—__ 
+
+        The segment of the York River that flows 11.25 miles from the headwaters of the York River at York Pond to the mouth of the river at York Harbor, and any associated tributaries.
+
     (b) __Studies and reports__ 
 
         (1) The studies of rivers named in subparagraphs (28) through (55) of subsection (a) of this section shall be completed and reports thereon submitted by not later than October 2, 1979: Provided, That with respect to the rivers named in subparagraphs (33), (50), and (51), the Secretaries shall not commence any studies until (i) the State legislature has acted with respect to such rivers or (ii) one year from January 3, 1975, whichever is earlier. Studies of the river  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “rivers”. </sup></sup>  named in paragraphs (38), (55), (83), and (87) shall be completed and the reports transmitted to the Congress not later than January 1, 1987.
@@ -507,6 +563,54 @@
 
             (B) submit a report describing the results of that study to the appropriate committees of Congress.
 
+        (20)  __Oregon caves national monument and preserve, oregon__  __.—__ 
+
+        Not later than 3 years after the date on which funds are made available to carry out this paragraph, the Secretary shall—
+
+            (A) complete the study of the Oregon Caves National Monument and Preserve segments described in subsection (a)(141); and
+
+            (B) submit to Congress a report containing the results of the study.
+
+        (21) __Beaver, chipuxet, queen, wood, and pawcatuck rivers, rhode island and connecticut; nashua river, massachusetts; york river, maine.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            Not later than 3 years after the date on which funds are made available to carry out this paragraph, the Secretary of the Interior shall—
+
+                (i) complete each of the studies  <sup>\[8\]</sup>  <sup><sup> 8 So in original. Probably should refer to the river segments described in those paragraphs. </sup></sup>  described in paragraphs (142), (143), and (144) of subsection (a); and
+
+                (ii) submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes the results of each of the studies.
+
+            (B)  __Report requirements__  __.—__ 
+
+            In assessing the potential additions to the wild and scenic river system, the report submitted under subparagraph (A)(ii) shall—
+
+                (i)
+
+                 determine the effect of the designation on—
+
+                    (I) existing commercial and recreational activities, such as hunting, fishing, trapping, recreational shooting, motor boat use, and bridge construction;
+
+                    (II) the authorization, construction, operation, maintenance, or improvement of energy production, transmission, or other infrastructure; and
+
+                    (III) the authority of State and local governments to manage the activities described in subclauses (I) and (II);
+
+                (ii)
+
+                 identify any authorities that, in a case in which an area studied under paragraph (142), (143), or (144) of subsection (a) is designated under this chapter—
+
+                    (I)
+
+                     would authorize or require the Secretary of the Interior—
+
+                        (aa) to influence local land use decisions, such as zoning; or
+
+                        (bb) to place restrictions on non-Federal land if designated under this chapter; and
+
+                    (II) the Secretary of the Interior may use to condemn property; and
+
+                (iii) identify any private property located in an area studied under paragraph (142), (143), or (144) of subsection (a).
+
     (c) __State participation__ 
 
         The study of any of said rivers shall be pursued in as close cooperation with appropriate agencies of the affected State and its political subdivisions as possible, shall be carried on jointly with such agencies if request for such joint study is made by the State and shall include a determination of the degree to which the State or its political subdivisions might participate in the preservation and administration of the river should it be proposed for inclusion in the national wild and scenic rivers system.
@@ -517,7 +621,7 @@
 
         (2) The Congress finds that the Secretary of the Interior, in preparing the Nationwide Rivers Inventory as a specific study for possible additions to the National Wild and Scenic Rivers System, identified the Upper Klamath River from below the John Boyle Dam to the Oregon-California State line. The Secretary, acting through the Bureau of Land Management, is authorized under this subsection to complete a study of the eligibility and suitability of such segment for potential addition to the National Wild and Scenic Rivers System. Such study shall be completed, and a report containing the results of the study shall be submitted to Congress by April 1, 1990. Nothing in this paragraph shall affect the authority or responsibilities of any other Federal agency with respect to activities or actions on this segment and its immediate environment.
 
-([Pub. L. 90–542, § 5][/us/pl/90/542/s5], Oct. 2, 1968, [82 Stat. 910][/us/stat/82/910]; [Pub. L. 93–279, § 1(b)(2)][/us/pl/93/279/s1/b/2], May 10, 1974, [88 Stat. 123][/us/stat/88/123]; [Pub. L. 93–621, § 1(a)][/us/pl/93/621/s1/a], (b), Jan. 3, 1975, [88 Stat. 2094][/us/stat/88/2094], 2095; [Pub. L. 94–199, § 5(a)][/us/pl/94/199/s5/a], Dec. 31, 1975, [89 Stat. 1118][/us/stat/89/1118]; [Pub. L. 94–486, title IV, § 401][/us/pl/94/486/s401], title VII, § 701, Oct. 12, 1976, [90 Stat. 2330][/us/stat/90/2330]; [Pub. L. 95–625, title VII][/us/pl/95/625], §§ 721–736, title XI, § 1108, Nov. 10, 1978, [92 Stat. 3530–3532][/us/stat/92/3530-3532], 3547; [Pub. L. 96–87, title IV, § 404][/us/pl/96/87/s404], Oct. 12, 1979, [93 Stat. 667][/us/stat/93/667]; [Pub. L. 96–199, title I, § 102][/us/pl/96/199/s102], Mar. 5, 1980, [94 Stat. 68][/us/stat/94/68]; [Pub. L. 96–487, title VI, § 604][/us/pl/96/487/s604], Dec. 2, 1980, [94 Stat. 2415][/us/stat/94/2415]; [Pub. L. 98–323, title II, § 201][/us/pl/98/323/s201], June 19, 1984, [98 Stat. 261][/us/stat/98/261]; [Pub. L. 98–484, § 5][/us/pl/98/484/s5], Oct. 17, 1984, [98 Stat. 2259][/us/stat/98/2259]; [Pub. L. 98–494, § 2][/us/pl/98/494/s2], Oct. 19, 1984, [98 Stat. 2274][/us/stat/98/2274]; [Pub. L. 99–590, title II, § 202(b)][/us/pl/99/590/s202/b], (c), title III, § 301, title V, § 503, Oct. 30, 1986, [100 Stat. 3332–3335][/us/stat/100/3332-3335]; [Pub. L. 99–663, § 13(d)][/us/pl/99/663/s13/d], Nov. 17, 1986, [100 Stat. 4294][/us/stat/100/4294]; [Pub. L. 100–33, § 1][/us/pl/100/33/s1], May 7, 1987, [101 Stat. 299][/us/stat/101/299]; [Pub. L. 100–149, § 2][/us/pl/100/149/s2], Nov. 2, 1987, [101 Stat. 879][/us/stat/101/879]; [Pub. L. 100–557, title I][/us/pl/100/557], §§ 103, 104, Oct. 28, 1988, [102 Stat. 2790][/us/stat/102/2790]; [Pub. L. 101–40, § 2(b)][/us/pl/101/40/s2/b], June 20, 1989, [103 Stat. 82][/us/stat/103/82]; [Pub. L. 101–356][/us/pl/101/356], §§ 2, 3, Aug. 10, 1990, [104 Stat. 417][/us/stat/104/417]; [Pub. L. 101–357][/us/pl/101/357], §§ 2, 3, Aug. 10, 1990, [104 Stat. 418][/us/stat/104/418]; [Pub. L. 101–364, § 1][/us/pl/101/364/s1], Aug. 15, 1990, [104 Stat. 428][/us/stat/104/428]; [Pub. L. 101–538, § 1][/us/pl/101/538/s1], Nov. 8, 1990, [104 Stat. 2376][/us/stat/104/2376]; [Pub. L. 101–628, title VII, § 703][/us/pl/101/628/s703], Nov. 28, 1990, [104 Stat. 4497][/us/stat/104/4497]; [Pub. L. 102–50, § 3(a)][/us/pl/102/50/s3/a], May 24, 1991, [105 Stat. 254][/us/stat/105/254]; [Pub. L. 102–214][/us/pl/102/214], §§ 2, 3, Dec. 11, 1991, [105 Stat. 1663][/us/stat/105/1663]; [Pub. L. 102–215][/us/pl/102/215], §§ 3, 4, Dec. 11, 1991, [105 Stat. 1664][/us/stat/105/1664]; [Pub. L. 102–249, § 4][/us/pl/102/249/s4], Mar. 3, 1992, [106 Stat. 48][/us/stat/106/48]; [Pub. L. 102–271, § 5(a)][/us/pl/102/271/s5/a], Apr. 20, 1992, [106 Stat. 110][/us/stat/106/110]; [Pub. L. 102–301, § 7(a)][/us/pl/102/301/s7/a], June 19, 1992, [106 Stat. 245][/us/stat/106/245]; [Pub. L. 102–432, § 2][/us/pl/102/432/s2], Oct. 23, 1992, [106 Stat. 2213][/us/stat/106/2213]; [Pub. L. 102–460, § 1(a)][/us/pl/102/460/s1/a], (b), Oct. 23, 1992, [106 Stat. 2270][/us/stat/106/2270]; [Pub. L. 102–525, title IV, § 401][/us/pl/102/525/s401], Oct. 26, 1992, [106 Stat. 3441][/us/stat/106/3441]; [Pub. L. 103–242, § 3][/us/pl/103/242/s3], May 4, 1994, [108 Stat. 611][/us/stat/108/611]; [Pub. L. 104–311][/us/pl/104/311], Oct. 19, 1996, [110 Stat. 3818][/us/stat/110/3818]; [Pub. L. 104–333, div. I, title IV, § 407(b)][/us/pl/104/333/s407/b], Nov. 12, 1996, [110 Stat. 4152][/us/stat/110/4152]; [Pub. L. 106–318][/us/pl/106/318], §§ 3, 4, Oct. 19, 2000, [114 Stat. 1278][/us/stat/114/1278]; [Pub. L. 107–65][/us/pl/107/65], §§ 3, 4, Nov. 6, 2001, [115 Stat. 484][/us/stat/115/484]; [Pub. L. 109–370, § 2(a)][/us/pl/109/370/s2/a], Nov. 27, 2006, [120 Stat. 2643][/us/stat/120/2643]; [Pub. L. 111–11, title V, § 5101(a)][/us/pl/111/11/s5101/a], (b), Mar. 30, 2009, [123 Stat. 1153][/us/stat/123/1153].)
+([Pub. L. 90–542, § 5][/us/pl/90/542/s5], Oct. 2, 1968, [82 Stat. 910][/us/stat/82/910]; [Pub. L. 93–279, § 1(b)(2)][/us/pl/93/279/s1/b/2], May 10, 1974, [88 Stat. 123][/us/stat/88/123]; [Pub. L. 93–621, § 1(a)][/us/pl/93/621/s1/a], (b), Jan. 3, 1975, [88 Stat. 2094][/us/stat/88/2094], 2095; [Pub. L. 94–199, § 5(a)][/us/pl/94/199/s5/a], Dec. 31, 1975, [89 Stat. 1118][/us/stat/89/1118]; [Pub. L. 94–486, title IV, § 401][/us/pl/94/486/s401], title VII, § 701, Oct. 12, 1976, [90 Stat. 2330][/us/stat/90/2330]; [Pub. L. 95–625, title VII][/us/pl/95/625], §§ 721–736, title XI, § 1108, Nov. 10, 1978, [92 Stat. 3530–3532][/us/stat/92/3530-3532], 3547; [Pub. L. 96–87, title IV, § 404][/us/pl/96/87/s404], Oct. 12, 1979, [93 Stat. 667][/us/stat/93/667]; [Pub. L. 96–199, title I, § 102][/us/pl/96/199/s102], Mar. 5, 1980, [94 Stat. 68][/us/stat/94/68]; [Pub. L. 96–487, title VI, § 604][/us/pl/96/487/s604], Dec. 2, 1980, [94 Stat. 2415][/us/stat/94/2415]; [Pub. L. 98–323, title II, § 201][/us/pl/98/323/s201], June 19, 1984, [98 Stat. 261][/us/stat/98/261]; [Pub. L. 98–484, § 5][/us/pl/98/484/s5], Oct. 17, 1984, [98 Stat. 2259][/us/stat/98/2259]; [Pub. L. 98–494, § 2][/us/pl/98/494/s2], Oct. 19, 1984, [98 Stat. 2274][/us/stat/98/2274]; [Pub. L. 99–590, title II, § 202(b)][/us/pl/99/590/s202/b], (c), title III, § 301, title V, § 503, Oct. 30, 1986, [100 Stat. 3332–3335][/us/stat/100/3332-3335]; [Pub. L. 99–663, § 13(d)][/us/pl/99/663/s13/d], Nov. 17, 1986, [100 Stat. 4294][/us/stat/100/4294]; [Pub. L. 100–33, § 1][/us/pl/100/33/s1], May 7, 1987, [101 Stat. 299][/us/stat/101/299]; [Pub. L. 100–149, § 2][/us/pl/100/149/s2], Nov. 2, 1987, [101 Stat. 879][/us/stat/101/879]; [Pub. L. 100–557, title I][/us/pl/100/557], §§ 103, 104, Oct. 28, 1988, [102 Stat. 2790][/us/stat/102/2790]; [Pub. L. 101–40, § 2(b)][/us/pl/101/40/s2/b], June 20, 1989, [103 Stat. 82][/us/stat/103/82]; [Pub. L. 101–356][/us/pl/101/356], §§ 2, 3, Aug. 10, 1990, [104 Stat. 417][/us/stat/104/417]; [Pub. L. 101–357][/us/pl/101/357], §§ 2, 3, Aug. 10, 1990, [104 Stat. 418][/us/stat/104/418]; [Pub. L. 101–364, § 1][/us/pl/101/364/s1], Aug. 15, 1990, [104 Stat. 428][/us/stat/104/428]; [Pub. L. 101–538, § 1][/us/pl/101/538/s1], Nov. 8, 1990, [104 Stat. 2376][/us/stat/104/2376]; [Pub. L. 101–628, title VII, § 703][/us/pl/101/628/s703], Nov. 28, 1990, [104 Stat. 4497][/us/stat/104/4497]; [Pub. L. 102–50, § 3(a)][/us/pl/102/50/s3/a], May 24, 1991, [105 Stat. 254][/us/stat/105/254]; [Pub. L. 102–214][/us/pl/102/214], §§ 2, 3, Dec. 11, 1991, [105 Stat. 1663][/us/stat/105/1663]; [Pub. L. 102–215][/us/pl/102/215], §§ 3, 4, Dec. 11, 1991, [105 Stat. 1664][/us/stat/105/1664]; [Pub. L. 102–249, § 4][/us/pl/102/249/s4], Mar. 3, 1992, [106 Stat. 48][/us/stat/106/48]; [Pub. L. 102–271, § 5(a)][/us/pl/102/271/s5/a], Apr. 20, 1992, [106 Stat. 110][/us/stat/106/110]; [Pub. L. 102–301, § 7(a)][/us/pl/102/301/s7/a], June 19, 1992, [106 Stat. 245][/us/stat/106/245]; [Pub. L. 102–432, § 2][/us/pl/102/432/s2], Oct. 23, 1992, [106 Stat. 2213][/us/stat/106/2213]; [Pub. L. 102–460, § 1(a)][/us/pl/102/460/s1/a], (b), Oct. 23, 1992, [106 Stat. 2270][/us/stat/106/2270]; [Pub. L. 102–525, title IV, § 401][/us/pl/102/525/s401], Oct. 26, 1992, [106 Stat. 3441][/us/stat/106/3441]; [Pub. L. 103–242, § 3][/us/pl/103/242/s3], May 4, 1994, [108 Stat. 611][/us/stat/108/611]; [Pub. L. 104–311][/us/pl/104/311], Oct. 19, 1996, [110 Stat. 3818][/us/stat/110/3818]; [Pub. L. 104–333, div. I, title IV, § 407(b)][/us/pl/104/333/s407/b], Nov. 12, 1996, [110 Stat. 4152][/us/stat/110/4152]; [Pub. L. 106–318][/us/pl/106/318], §§ 3, 4, Oct. 19, 2000, [114 Stat. 1278][/us/stat/114/1278]; [Pub. L. 107–65][/us/pl/107/65], §§ 3, 4, Nov. 6, 2001, [115 Stat. 484][/us/stat/115/484]; [Pub. L. 109–370, § 2(a)][/us/pl/109/370/s2/a], Nov. 27, 2006, [120 Stat. 2643][/us/stat/120/2643]; [Pub. L. 111–11, title V, § 5101(a)][/us/pl/111/11/s5101/a], (b), Mar. 30, 2009, [123 Stat. 1153][/us/stat/123/1153]; [Pub. L. 113–291, div. B, title XXX][/us/pl/113/291], §§ 3041(e)(2), 3074, Dec. 19, 2014, [128 Stat. 3791][/us/stat/128/3791], 3847.)
 
  __References in Text__ 
 
@@ -528,6 +632,14 @@
     [Section 3183 of this title][/us/usc/t16/s3183], referred to in subsec. (b)(6), was in the original “section 1204 of the Alaska National Interest Lands Conservation Act” and has been editorially translated as [section 3183 of this title][/us/usc/t16/s3183], which is section 1203 of that Act, as the probable intent of Congress, in view of that Act being enacted without a section 1204 and section 1203 of that Act relating to the Bristol Bay Cooperative Region Plan.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(141). [Pub. L. 113–291, § 3041(e)(2)(A)][/us/pl/113/291/s3041/e/2/A], added par. (141).
+
+    Subsec. (a)(142) to (144). [Pub. L. 113–291, § 3074(a)][/us/pl/113/291/s3074/a], added pars. (142) to (144).
+
+    Subsec. (b)(20). [Pub. L. 113–291, § 3041(e)(2)(B)][/us/pl/113/291/s3041/e/2/B], added par. (20).
+
+    Subsec. (b)(21). [Pub. L. 113–291, § 3074(b)][/us/pl/113/291/s3074/b], added par. (21).
 
     2009—Subsec. (a)(140). [Pub. L. 111–11, § 5101(a)][/us/pl/111/11/s5101/a], added par. (140).
 
@@ -796,10 +908,16 @@
 [/us/stat/120/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2643
 [/us/pl/111/11/s5101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs5101%2Fa
 [/us/stat/123/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1153
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/stat/128/3791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3791
 [/us/pl/102/249/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F249%2Fs5
 [/us/stat/106/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F50
 [/us/usc/t16/s3183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3183
 [/us/usc/t16/s3183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3183
+[/us/pl/113/291/s3041/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3041%2Fe%2F2%2FA
+[/us/pl/113/291/s3074/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3074%2Fa
+[/us/pl/113/291/s3041/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3041%2Fe%2F2%2FB
+[/us/pl/113/291/s3074/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3074%2Fb
 [/us/pl/111/11/s5101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs5101%2Fa
 [/us/pl/111/11/s5101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs5101%2Fb
 [/us/pl/109/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F370

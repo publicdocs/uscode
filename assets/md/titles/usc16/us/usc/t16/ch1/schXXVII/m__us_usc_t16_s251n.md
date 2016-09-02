@@ -39,7 +39,7 @@
 
  __Transfer of Administrative Jurisdiction of Exchanged Park and Forest Lands; Authorization of Appropriations__ 
 
-Sections 2 to 5 of [Pub. L. 99–635][/us/pl/99/635], as amended by [Pub. L. 100–668, title I, § 104(c)(4)][/us/pl/100/668/s104/c/4]–(6), Nov. 16, 1988, [102 Stat. 3962][/us/stat/102/3962], provided that:
+[Pub. L. 99–635][/us/pl/99/635], §§ 2–5, Nov. 7, 1986, [100 Stat. 3528][/us/stat/100/3528], 3529, as amended by [Pub. L. 100–668, title I, § 104(c)(4)][/us/pl/100/668/s104/c/4]–(6), Nov. 16, 1988, [102 Stat. 3962][/us/stat/102/3962], provided that:
 
 > “Sec. 2.
 
@@ -51,7 +51,7 @@ Sections 2 to 5 of [Pub. L. 99–635][/us/pl/99/635], as amended by [Pub. L. 100
 
 >      (a) The Secretary of the Interior is authorized to acquire by donation, purchase with donated or appropriated funds, exchange, bequest or otherwise any non-Federal lands, waters, and interests therein included within the boundary of Olympic National Park pursuant to section 1 of this Act \[[16 U.S.C. 251n][/us/usc/t16/s251n]\]: Provided: That any lands, waters, or interests therein owned by the State of Washington or any political subdivision thereof may be acquired only by donation or exchange.
 
->     “(b) For the purpose of section 7 of the Land and Water Conservation Fund Act of 1965 ([78 Stat. 903][/us/stat/78/903], as amended; [16 U.S.C. 460][/us/usc/t16/s460]l–9), the boundary of the Olympic National Forest, as modified pursuant to section 1 of this Act \[[16 U.S.C. 251n][/us/usc/t16/s251n]\], shall be treated as if it was the boundary of that national forest on January 1, 1965.
+>     “(b) For the purpose of section 7 of the Land and Water Conservation Fund Act of 1965 ([78 Stat. 903][/us/stat/78/903], as amended; [16 U.S.C. 460][/us/usc/t16/s460]l–9) \[now [54 U.S.C. 100506(c)][/us/usc/t54/s100506/c], 200306\], the boundary of the Olympic National Forest, as modified pursuant to section 1 of this Act \[[16 U.S.C. 251n][/us/usc/t16/s251n]\], shall be treated as if it was the boundary of that national forest on January 1, 1965.
 
 > “Sec. 4. Effective upon acceptance thereof by the State of Washington, the jurisdiction which the United States acquired over those lands excluded from the boundaries of Olympic National Park by this Act \[enacting this section and this note\] is hereby retroceded to the State.
 
@@ -71,6 +71,7 @@ Sections 2 to 5 of [Pub. L. 99–635][/us/pl/99/635], as amended by [Pub. L. 100
 [/us/pl/100/668/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2Fs104%2Fc%2F1
 [/us/pl/100/668/s104/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2Fs104%2Fc%2F3
 [/us/pl/99/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F635
+[/us/stat/100/3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3528
 [/us/pl/100/668/s104/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2Fs104%2Fc%2F4
 [/us/stat/102/3962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3962
 [/us/usc/t16/s251n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs251n
@@ -80,6 +81,7 @@ Sections 2 to 5 of [Pub. L. 99–635][/us/pl/99/635], as amended by [Pub. L. 100
 [/us/usc/t16/s251n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs251n
 [/us/stat/78/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F903
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/usc/t54/s100506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506%2Fc
 [/us/usc/t16/s251n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs251n
 
 

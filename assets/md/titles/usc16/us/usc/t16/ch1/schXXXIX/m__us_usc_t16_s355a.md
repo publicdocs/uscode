@@ -15,9 +15,13 @@
 
 ## § 355a. Laws applicable to added lands
 
-    The provisions of sections 1, 2, 3, and 4 of this title and this subchapter, together with all Acts supplementary to and amendatory of said sections and subchapter are made applicable to and extended over the lands added to the park by [section 355 of this title][/us/usc/t16/s355].
+    The provisions of sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title and this subchapter, together with all Acts supplementary to and amendatory of said sections and subchapter are made applicable to and extended over the lands added to the park by [section 355 of this title][/us/usc/t16/s355].
 
 ([Mar. 19, 1932, ch. 88, § 2][/us/act/1932-03-19/ch88/s2], [47 Stat. 69][/us/stat/47/69].)
+
+ __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
  __Codification__ 
 
@@ -33,6 +37,9 @@
 [/us/usc/t16/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs355
 [/us/act/1932-03-19/ch88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-19%2Fch88%2Fs2
 [/us/stat/47/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F69
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/act/1917-02-26/ch121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-02-26%2Fch121
 [/us/stat/39/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F938
 

@@ -23,15 +23,13 @@
 
     (3) authorizing a restriction on the taking of fish and wildlife for nonsubsistence uses on the public lands (other than national parks and park monuments) unless necessary for the conservation of healthy populations of fish and wildlife, for the reasons set forth in [section 3126 of this title][/us/usc/t16/s3126], to continue subsistence uses of such populations, or pursuant to other applicable law; or
 
-    (4) modifying or repealing the provisions of any Federal law governing the conservation or protection of fish and wildlife, including the National Wildlife Refuge System Administration Act of 1966 ([80 Stat. 927][/us/stat/80/927]; [16 U.S.C. 668dd][/us/usc/t16/s668dd]–jj), the National Park Service Organic Act ([39 Stat. 535][/us/stat/39/535], [16 U.S.C. 1][/us/usc/t16/s1], 2, 3, 4), the Fur Seal Act of 1966 ([80 Stat. 1091][/us/stat/80/1091]; [16 U.S.C. 1187][/us/usc/t16/s1187]) \[[16 U.S.C. 1151][/us/usc/t16/s1151] et seq.\], the Endangered Species Act of 1973 ([87 Stat. 884][/us/stat/87/884]; [16 U.S.C. 1531–154][/us/usc/t16/s1531–154]3), the Marine Mammal Protection Act of 1972 ([86 Stat. 1027][/us/stat/86/1027]; [16 U.S.C. 1361–140][/us/usc/t16/s1361–140]7), the Act entitled “An Act for the Protection of the Bald Eagle”, approved June 8, 1940 ([54 Stat. 250][/us/stat/54/250]; [16 U.S.C. 742a–754][/us/usc/t16/s742a–754]) \[[16 U.S.C. 668][/us/usc/t16/s668] et seq.\], the Migratory Bird Treaty Act ([40 Stat. 755][/us/stat/40/755]; [16 U.S.C. 703–711][/us/usc/t16/s703–711]), the Federal Aid in Wildlife Restoration Act ([50 Stat. 917][/us/stat/50/917]; [16 U.S.C. 669–669i][/us/usc/t16/s669–669i]), the Magnuson-Stevens Fishery Conservation and Management Act ([90 Stat. 331][/us/stat/90/331]; [16 U.S.C. 1801–188][/us/usc/t16/s1801–188]2), the Federal Aid in Fish Restoration Act ([64 Stat. 430][/us/stat/64/430]; [16 U.S.C. 777–777k][/us/usc/t16/s777–777k]), or any amendments to any one or more of such Acts.
+    (4) modifying or repealing the provisions of any Federal law governing the conservation or protection of fish and wildlife, including the National Wildlife Refuge System Administration Act of 1966 ([80 Stat. 927][/us/stat/80/927]; [16 U.S.C. 668dd][/us/usc/t16/s668dd]–jj), section 100101(b)(1), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54, the Fur Seal Act of 1966 ([80 Stat. 1091][/us/stat/80/1091]; [16 U.S.C. 1187][/us/usc/t16/s1187]) \[[16 U.S.C. 1151][/us/usc/t16/s1151] et seq.\], the Endangered Species Act of 1973 ([87 Stat. 884][/us/stat/87/884]; [16 U.S.C. 1531–154][/us/usc/t16/s1531–154]3), the Marine Mammal Protection Act of 1972 ([86 Stat. 1027][/us/stat/86/1027]; [16 U.S.C. 1361–140][/us/usc/t16/s1361–140]7), the Act entitled “An Act for the Protection of the Bald Eagle”, approved June 8, 1940 ([54 Stat. 250][/us/stat/54/250]; [16 U.S.C. 742a–754][/us/usc/t16/s742a–754]) \[[16 U.S.C. 668][/us/usc/t16/s668] et seq.\], the Migratory Bird Treaty Act ([40 Stat. 755][/us/stat/40/755]; [16 U.S.C. 703–711][/us/usc/t16/s703–711]), the Federal Aid in Wildlife Restoration Act ([50 Stat. 917][/us/stat/50/917]; [16 U.S.C. 669–669i][/us/usc/t16/s669–669i]), the Magnuson-Stevens Fishery Conservation and Management Act ([90 Stat. 331][/us/stat/90/331]; [16 U.S.C. 1801–188][/us/usc/t16/s1801–188]2), the Federal Aid in Fish Restoration Act ([64 Stat. 430][/us/stat/64/430]; [16 U.S.C. 777–777k][/us/usc/t16/s777–777k]), or any amendments to any one or more of such Acts or such title.
 
-([Pub. L. 96–487, title VIII, § 815][/us/pl/96/487/s815], Dec. 2, 1980, [94 Stat. 2429][/us/stat/94/2429]; [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41; [Pub. L. 105–83, title III, § 316(b)(9)][/us/pl/105/83/s316/b/9], (d), Nov. 14, 1997, [111 Stat. 1594][/us/stat/111/1594], 1595.)
+([Pub. L. 96–487, title VIII, § 815][/us/pl/96/487/s815], Dec. 2, 1980, [94 Stat. 2429][/us/stat/94/2429]; [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41; [Pub. L. 105–83, title III, § 316(b)(9)][/us/pl/105/83/s316/b/9], (d), Nov. 14, 1997, [111 Stat. 1594][/us/stat/111/1594], 1595; [Pub. L. 113–287, § 5(d)(33)][/us/pl/113/287/s5/d/33], Dec. 19, 2014, [128 Stat. 3267][/us/stat/128/3267].)
 
  __References in Text__ 
 
     The National Wildlife Refuge System Administration Act of 1966, referred to in par. (4), consists of sections 4 and 5 of [Pub. L. 89–669][/us/pl/89/669], Oct. 15, 1966, [80 Stat. 927][/us/stat/80/927], as amended, and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under [section 668dd of this title][/us/usc/t16/s668dd].
-
-    The National Park Service Organic Act, referred to in par. (4), is [act Aug. 25, 1916, ch. 408][/us/act/1916-08-25/ch408], [39 Stat. 535][/us/stat/39/535], as amended, which is classified generally to sections 1, 2, 3, and 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of this title][/us/usc/t16/s1] and Tables.
 
     The Fur Seal Act of 1966, referred to in par. (4), is [Pub. L. 89–702][/us/pl/89/702], Nov. 2 1966, [80 Stat. 1091][/us/stat/80/1091], as amended, which is classified principally to chapter 24 (§ 1151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1151 of this title][/us/usc/t16/s1151] and Tables.
 
@@ -50,6 +48,8 @@
     The Federal Aid in Fish Restoration Act, referred to in par. (4), is [act Aug. 9, 1950, ch. 658][/us/act/1950-08-09/ch658], [64 Stat. 430][/us/stat/64/430], as amended, also known as the Dingell-Johnson Sport Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 777 of this title][/us/usc/t16/s777] and Tables.
 
  __Amendments__ 
+
+    2014—Par. (4). [Pub. L. 113–287][/us/pl/113/287] substituted “section 100101(b)(1), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54” for “the National Park Service Organic Act ([39 Stat. 535][/us/stat/39/535], [16 U.S.C. 1][/us/usc/t16/s1], 2, 3, 4)” and inserted “or such title” after “such Acts”.
 
     1997—Par. (5). [Pub. L. 105–83, § 316(b)(9)][/us/pl/105/83/s316/b/9], which directed amendment of section by adding par. (5) reading as follows: “prohibiting the Secretary or the State from entering into co-management agreements with Alaska Native organizations or other local or regional entities when such organization or entity is managing fish and wildlife on public lands in Alaska for subsistence uses.”, was repealed by [Pub. L. 105–83, § 316(d)][/us/pl/105/83/s316/d]. See Effective and Termination Dates of 1997 Amendment note below.
 
@@ -79,8 +79,6 @@
 [/us/usc/t16/s3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3126
 [/us/stat/80/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F927
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
-[/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/stat/80/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1091
 [/us/usc/t16/s1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1187
 [/us/usc/t16/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1151
@@ -107,12 +105,11 @@
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/pl/105/83/s316/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fb%2F9
 [/us/stat/111/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1594
+[/us/pl/113/287/s5/d/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F33
+[/us/stat/128/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3267
 [/us/pl/89/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669
 [/us/stat/80/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F927
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
-[/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
-[/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/pl/89/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702
 [/us/stat/80/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1091
 [/us/usc/t16/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1151
@@ -136,6 +133,9 @@
 [/us/act/1950-08-09/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658
 [/us/stat/64/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F430
 [/us/usc/t16/s777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
+[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/pl/105/83/s316/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fb%2F9
 [/us/pl/105/83/s316/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fd
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208

@@ -21,7 +21,7 @@
 
      In addition to any amounts authorized to be appropriated under subsection (a) of this section, there are authorized to be appropriated for fiscal years beginning on or after October 1, 1979, for the acquisition of lands and interests in lands under this subchapter—
 
-        (1) from the Land and Water Conservation Fund (established under the Land and Water Conservation Fund Act of 1965 \[[16 U.S.C. 460][/us/usc/t16/s460]l–4 et seq.\]) not to exceed $5,000,000, and
+        (1) from the Land and Water Conservation Fund (established under the Land and Water Conservation Fund Act of 1965)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  not to exceed $5,000,000, and
 
         (2) from any other sources an amount not to exceed the sum of (A) $5,000,000, and (B) an amount equal to the amount deposited in the Treasury under [section 460y–4(3)(B) of this title][/us/usc/t16/s460y–4/3/B] after August 20, 1978,
 
@@ -31,7 +31,7 @@
 
  __References in Text__ 
 
-    The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b)(1), is [Pub. L. 88–578][/us/pl/88/578], Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], as amended, which is classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
+    The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b)(1), is [Pub. L. 88–578][/us/pl/88/578], Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], which was classified generally to part B (§ 460l–4 et seq.) of subchapter LXIX of this chapter prior to the enactment of Title 54, National Park Service and Related Programs. See chapter 2003 of title 54.
 
  __Amendments__ 
 
@@ -44,7 +44,6 @@
 ----------
 ----------
 
-[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
 [/us/usc/t16/s460y–4/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460y%E2%80%934%2F3%2FB
 [/us/pl/91/476/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F476%2Fs10
 [/us/stat/84/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1071

@@ -31,9 +31,9 @@
 
  __References in Text__ 
 
-    This subchapter, referred to in subsec. (a), was in the original “this title”, meaning title II of [Pub. L. 102–525][/us/pl/102/525], Oct. 26, 1992, [106 Stat. 3439][/us/stat/106/3439], which enacted this subchapter and amended provisions listed in a National Monuments Established Under Presidential Proclamation table set out under [section 431 of this title][/us/usc/t16/s431]. For complete classification of title II to the Code, see Tables.
+    This subchapter, referred to in subsec. (a), was in the original “this title”, meaning title II of [Pub. L. 102–525][/us/pl/102/525], Oct. 26, 1992, [106 Stat. 3439][/us/stat/106/3439], which enacted this subchapter and amended provisions listed in a National Monuments Established Under Presidential Proclamation table set out under [section 320301 of Title 54][/us/usc/t54/s320301], National Park Service and Related Programs. For complete classification of title II to the Code, see Tables.
 
-    [Section 201 of Public Law 96–287][/us/pl/96/287/s201], referred to in subsec. (b), appears in a table under the heading “National Monuments Established Under Presidential Proclamation”, set out as a note under [section 431 of this title][/us/usc/t16/s431].
+    [Section 201 of Public Law 96–287][/us/pl/96/287/s201], referred to in subsec. (b), appears in a table under the heading “National Monuments Established Under Presidential Proclamation”, set out as a note under [section 320301 of Title 54][/us/usc/t54/s320301], National Park Service and Related Programs.
 
 ----------
 
@@ -47,8 +47,8 @@
 [/us/stat/106/3439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3439
 [/us/pl/102/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F525
 [/us/stat/106/3439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3439
-[/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
+[/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
 [/us/pl/96/287/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F287%2Fs201
-[/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
+[/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
 
 

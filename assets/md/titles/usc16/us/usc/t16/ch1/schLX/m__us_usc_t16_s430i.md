@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s430h–13.md) | [Next](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s430j.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430i)
+[Previous](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s430h–14.md) | [Next](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s430j.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430i)
 
 ## § 430i. Guilford Courthouse National Military Park
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s430h–13.md) | [Next](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s430j.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430i)
+[Previous](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s430h–14.md) | [Next](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s430j.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430i)
 
 ----------
 ----------

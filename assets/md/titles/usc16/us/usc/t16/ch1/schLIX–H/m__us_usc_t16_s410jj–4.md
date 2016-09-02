@@ -17,7 +17,7 @@
 
     (a) __Laws governing__ 
 
-        The Secretary shall administer the park in accordance with the provisions of sections 1, 2, 3, and 4 of this title, and sections 461 to 467 of this title, and the provisions of this Act.
+        The Secretary shall administer the park in accordance with the provisions of sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, and sections 461 to 467  <sup>\[1\]</sup>  of this title, and the provisions of this Act.
 
     (b) __Emergency, temporary, and interim activities; cooperative agreements; expenditures; rehabilitation projects__ 
 
@@ -32,6 +32,10 @@
 ([Pub. L. 96–565, title I, § 105][/us/pl/96/565/s105], Dec. 22, 1980, [94 Stat. 3322][/us/stat/94/3322].)
 
  __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+
+    Sections 461 to 467 of this title, referred to in subsec. (a), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
 
     This Act, referred to in subsecs. (a) and (b)(3), is [Pub. L. 96–565][/us/pl/96/565], Dec. 22, 1980, [94 Stat. 3321][/us/stat/94/3321], which enacted this subchapter and provisions set out as a note under [section 2991a of Title 42][/us/usc/t42/s2991a], The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
@@ -70,6 +74,12 @@
 
 [/us/pl/96/565/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F565%2Fs105
 [/us/stat/94/3322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3322
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/96/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F565
 [/us/stat/94/3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3321
 [/us/usc/t42/s2991a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2991a

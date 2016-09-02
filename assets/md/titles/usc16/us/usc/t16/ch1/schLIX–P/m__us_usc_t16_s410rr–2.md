@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    This Act, referred to in text, is [Pub. L. 101–313][/us/pl/101/313], June 27, 1990, [104 Stat. 272][/us/stat/104/272], which enacted this subchapter, amended sections 410pp, 410pp–1, and 460uu–12 of this title, and enacted and repealed provisions listed in a Miscellaneous National Monuments table set out under [section 431 of this title][/us/usc/t16/s431]. For complete classification of this Act to the Code, see Tables.
+    This Act, referred to in text, is [Pub. L. 101–313][/us/pl/101/313], June 27, 1990, [104 Stat. 272][/us/stat/104/272], which enacted this subchapter, amended sections 410pp, 410pp–1, and 460uu–12 of this title, and enacted and repealed provisions listed in a Miscellaneous National Monuments table set out under [section 320301 of Title 54][/us/usc/t54/s320301], National Park Service and Related Programs. For complete classification of this Act to the Code, see Tables.
 
 ----------
 
@@ -34,6 +34,6 @@
 [/us/stat/104/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F279
 [/us/pl/101/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F313
 [/us/stat/104/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F272
-[/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
+[/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
 
 

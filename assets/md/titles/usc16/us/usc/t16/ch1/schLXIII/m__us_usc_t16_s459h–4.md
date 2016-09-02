@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        Except as otherwise provided in sections 459h to 459h–10 of this title, the Secretary shall administer the seashore in accordance with sections 1, 2, 3, and 4 of this title, as amended and supplemented. In the administration of the seashore the Secretary may utilize such statutory authorities available to him for the conservation and management of wildlife natural resources as he deems appropriate to carry out the purposes of sections 459h to 459h–10 of this title. With respect to Fort Redoubt, Fort San Carlos, Fort Barrancas at Pensacola Naval Air Station, Fort Pickens on Santa Rosa Island, and Fort McRee on Perdido Key, Florida, and Fort Massachusetts on Ship Island, Mississippi, together with such adjacent lands as the Secretary may designate, the Secretary shall administer such lands so as to recognize, preserve, and interpret their national historical significance in accordance with sections 461 to 467 of this title, and he may designate them as national historic sites.
+        Except as otherwise provided in sections 459h to 459h–10 of this title, the Secretary shall administer the seashore in accordance with sections 1, 2, 3, and 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, as amended and supplemented. In the administration of the seashore the Secretary may utilize such statutory authorities available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of sections 459h to 459h–10 of this title. With respect to Fort Redoubt, Fort San Carlos, Fort Barrancas at Pensacola Naval Air Station, Fort Pickens on Santa Rosa Island, and Fort McRee on Perdido Key, Florida, and Fort Massachusetts on Ship Island, Mississippi, together with such adjacent lands as the Secretary may designate, the Secretary shall administer such lands so as to recognize, preserve, and interpret their national historical significance in accordance with sections 461 to 467  <sup>\[1\]</sup>  of this title, and he may designate them as national historic sites.
 
     (b) __Agreements__ 
 
@@ -35,6 +35,16 @@
 
 ([Pub. L. 91–660, § 5][/us/pl/91/660/s5], Jan. 8, 1971, [84 Stat. 1968][/us/stat/84/1968]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 137(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–232.)
 
+ __References in Text__ 
+
+    Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+
+    Sections 461 to 467 of this title, referred to in subsec. (a), were repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. For disposition of sections, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
+
+ __Codification__ 
+
+    Subsec. (a) is comprised of the first, second, and third sentences of subsec. (a) of [section 5 of Pub. L. 91–660][/us/pl/91/660/s5]. The fourth sentence of subsec. (a) repealed sections 450gg to 450gg–3 of this title.
+
  __Amendments__ 
 
     2000—[Pub. L. 106–554][/us/pl/106/554] designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
@@ -50,6 +60,13 @@
 [/us/stat/84/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1968
 [/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
+[/us/pl/91/660/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660%2Fs5
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 
 
