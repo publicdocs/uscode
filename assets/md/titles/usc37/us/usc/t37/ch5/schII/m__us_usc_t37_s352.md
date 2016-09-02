@@ -15,7 +15,7 @@
 
 ## § 352. Assignment pay or special duty pay
 
-    (a)  __Assignment or Special Duty Pay Authorized__  __.—__ 
+    (a) __Assignment or Special Duty Pay Authorized.—__ 
 
     The Secretary concerned may pay assignment or special duty pay under this section to a member of a regular or reserve component of the uniformed services who—
 
@@ -25,15 +25,15 @@
 
     (b) __Maximum Amount and Method of Payment.—__ 
 
-        (1)  __Lump sum or installments__  __.—__ 
+        (1) __Lump sum or installments.—__ 
 
         Assignment or special duty pay under subsection (a) may be paid monthly, in a lump sum, or in periodic installments other than monthly, as determined by the Secretary concerned. If paid monthly, the Secretary concerned may prorate the monthly amount of the assignment or special duty pay for a member who does not satisfy the eligibility requirement for an entire month to reflect the duration of the member’s actual qualifying service during the month.
 
-        (2)  __Maximum monthly amount__  __.—__ 
+        (2) __Maximum monthly amount.—__ 
 
         The maximum monthly amount of assignment or special duty pay may not exceed $5,000.
 
-        (3)  __Maximum lump sum amount__  __.—__ 
+        (3) __Maximum lump sum amount.—__ 
 
         The amount of a lump sum payment of assignment or special duty pay payable to a member may not exceed the amount equal to the product of—
 
@@ -41,7 +41,7 @@
 
             (B) the number of continuous months in the period for which assignment or special duty pay will be paid pursuant to the agreement.
 
-        (4)  __Maximum installment amount__  __.—__ 
+        (4) __Maximum installment amount.—__ 
 
         The amount of each installment payment of assignment or special duty pay payable to a member on an installment basis may not exceed the amount equal to—
 
@@ -55,43 +55,41 @@
 
             (B) the number of installments over such period.
 
-        (5)  __Effect of extension__  __.—__ 
+        (5) __Effect of extension.—__ 
 
         If a member extends an assignment or performance of duty specified in an agreement with the Secretary concerned under subsection (c), assignment or special duty pay for the period of the extension may be paid on a monthly basis, in a lump sum, or in installments, consistent with this subsection.
 
     (c) __Written Agreement.—__ 
 
-        (1)  __Discretionary for monthly payments__  __.—__ 
+        (1) __Discretionary for monthly payments.—__ 
 
         The Secretary concerned may require a member to enter into a written agreement with the Secretary in order to qualify for the payment of assignment or special duty pay on a monthly basis. The written agreement shall specify the period for which the assignment or special duty pay will be paid to the member and the monthly rate of the assignment or special duty pay.
 
-        (2)  __Required for lump sum or installment payments__  __.—__ 
+        (2) __Required for lump sum or installment payments.—__ 
 
         The Secretary concerned shall require a member to enter into a written agreement with the Secretary in order to qualify for payment of assignment or special duty pay on a lump sum or installment basis. The written agreement shall specify the period for which the assignment or special duty pay will be paid to the member and the amount of the lump sum or each periodic installment.
 
-    (d)  __Reserve Component Members Performing Inactive Duty Training__  __.—__ 
+    (d) __Reserve Component Members Performing Inactive Duty Training.—__ 
 
     A member of a reserve component entitled to compensation under [section 206 of this title][/us/usc/t37/s206] who is authorized assignment or special duty pay under this section may be paid an amount of assignment or special duty pay that is proportionate to the compensation received by the member under [section 206 of this title][/us/usc/t37/s206] for inactive-duty training.
 
-    (e)  __Relationship to Other Pay and Allowances__  __.—__ 
+    (e) __Relationship to Other Pay and Allowances.—__ 
 
     Assignment or special duty pay paid to a member under this section is in addition to any other pay and allowances to which the member is entitled.
 
-    (f)  __Repayment__  __.—__ 
+    (f) __Repayment.—__ 
 
     A member who receives assignment or special duty pay under this section and who fails to fulfill the eligibility requirements under subsection (a) for receipt of such pay shall be subject to the repayment provisions of [section 373 of this title][/us/usc/t37/s373].
 
-    (g)  __Termination of Authority__  __.—__ 
+    (g) __Termination of Authority.—__ 
 
-    No agreement may be entered into under this section after December 31, 2014.
+    No agreement may be entered into under this section after December 31, 2013.
 
-(Added [Pub. L. 110–181, div. A, title VI, § 661(a)(2)][/us/pl/110/181/s661/a/2], Jan. 28, 2008, [122 Stat. 173][/us/stat/122/173]; amended [Pub. L. 111–84, div. A, title VI][/us/pl/111/84], §§ 614(7), 618(c), Oct. 28, 2009, [123 Stat. 2354][/us/stat/123/2354], 2356; [Pub. L. 111–383, div. A, title VI, § 614(7)][/us/pl/111/383/s614/7], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 614(7)][/us/pl/112/81/s614/7], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 614(7)][/us/pl/112/239/s614/7], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777]; [Pub. L. 113–66, div. A, title VI, § 614(7)][/us/pl/113/66/s614/7], Dec. 26, 2013, [127 Stat. 781][/us/stat/127/781].)
+(Added [Pub. L. 110–181, div. A, title VI, § 661(a)(2)][/us/pl/110/181/s661/a/2], Jan. 28, 2008, [122 Stat. 173][/us/stat/122/173]; amended [Pub. L. 111–84, div. A, title VI][/us/pl/111/84], §§ 614(7), 618(c), Oct. 28, 2009, [123 Stat. 2354][/us/stat/123/2354], 2356; [Pub. L. 111–383, div. A, title VI, § 614(7)][/us/pl/111/383/s614/7], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 614(7)][/us/pl/112/81/s614/7], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 614(7)][/us/pl/112/239/s614/7], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777].)
 
  __Amendments__ 
 
-    2013—Subsec. (g). [Pub. L. 113–66][/us/pl/113/66] substituted “December 31, 2014” for “December 31, 2013”.
-
-    [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
+    2013—Subsec. (g). [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
 
     2011—Subsec. (g). [Pub. L. 112–81][/us/pl/112/81] substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -105,11 +103,11 @@
 
 [Pub. L. 111–84, div. A, title VI, § 619][/us/pl/111/84/s619], Oct. 28, 2009, [123 Stat. 2357][/us/stat/123/2357], provided that:
 
->     “(a)  __Authority to Provide Additional Assignment Pay or Special Duty Pay__  __.—__ 
+>     “(a) __Authority to Provide Additional Assignment Pay or Special Duty Pay.—__ 
 
 >     The Secretary of Defense may provide assignment pay or special duty pay under [section 352 of title 37][/us/usc/t37/s352], United States Code, in excess of the maximum amount of monthly or lump sum assignment or special duty pay authorized under subsection (b) of such section, to members of the Armed Forces (particularly members who achieve language proficiency at levels and in languages specified by the Secretary of Defense) who agree to serve on active duty in Afghanistan for a minimum of three years. The assignment period required by the agreement shall provide for reasonable periods of leave.
 
->     “(b)  __Reporting Requirements__  __.—__ 
+>     “(b) __Reporting Requirements.—__ 
 
 >     The Secretary shall submit to Congress an annual report on the use of the authority provided under subsection (a) during the preceding year, including—
 
@@ -117,7 +115,7 @@
 
 >         “(2) an assessment of the impact of the use of such authority on the effectiveness and efficiency in achieving the United States mission in Afghanistan.
 
->     “(c)  __Duration of Authority__  __.—__ 
+>     “(c) __Duration of Authority.—__ 
 
 >     The authority provided by subsection (a) to offer additional assignment pay or special duty pay under [section 352 of title 37][/us/usc/t37/s352], United States Code, expires on December 31, 2012. The expiration of such authority shall not affect the terms or duration of any agreement entered into before that date to provide additional assignment pay or special duty pay under such section.”
 
@@ -143,9 +141,6 @@
 [/us/stat/125/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1450
 [/us/pl/112/239/s614/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs614%2F7
 [/us/stat/126/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1777
-[/us/pl/113/66/s614/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs614%2F7
-[/us/stat/127/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F781
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

@@ -15,19 +15,19 @@
 
 ## § 494. Subsistence reimbursement relating to escorts of foreign arms control inspection teams
 
-    (a)  __Reimbursement of Reasonable Subsistence Costs__  __.—__ 
+    (a) __Reimbursement of Reasonable Subsistence Costs.—__ 
 
     Under uniform regulations prescribed by the Secretaries concerned, a member of the armed forces may be reimbursed for the reasonable cost of subsistence incurred by the member while performing duties as an escort of an arms control inspection team of a foreign country, or any member of such a team, while the team or the team member, as the case may be, is engaged in activities related to the implementation of an arms control treaty or agreement.
 
-    (b)  __Period of Authority__  __.—__ 
+    (b) __Period of Authority.—__ 
 
     The authority under subsection (a) applies to the period during which the inspection team, pursuant to authority specifically provided in the applicable arms control treaty or agreement, is in the country where inspections and related activities are being conducted by the team pursuant to that treaty or agreement.
 
-    (c)  __Effect of Location of Member’s Permanent Duty Station__  __.—__ 
+    (c) __Effect of Location of Member’s Permanent Duty Station.—__ 
 
     The authority under subsection (a) applies to a member of the armed forces whether the duties referred to in that subsection are performed at, near, or away from the member’s permanent duty station.
 
-    (d)  __Termination__  __.—__ 
+    (d) __Termination.—__ 
 
     No reimbursement may be provided under this section for expenses incurred after the travel authorities transition expiration date.
 

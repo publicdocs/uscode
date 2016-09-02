@@ -35,7 +35,7 @@
 
     (d) The Secretary of Defense shall conduct a review every two years of the special pay for health professionals authorized by sections 301d, 302 through 302j, and 303 of this title.
 
-    (e)  __Repayment of Unearned Portion of Bonuses and Other Benefits When Conditions of Payment not Met; Termination of Entitlement to Unpaid Amounts__  __.—__ 
+    (e) __Repayment of Unearned Portion of Bonuses and Other Benefits When Conditions of Payment not Met; Termination of Entitlement to Unpaid Amounts.—__ 
 
         (1)
 

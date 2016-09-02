@@ -15,7 +15,7 @@
 
 ## § 474a. Travel and transportation allowances: temporary lodging expenses
 
-    (a)  __Payment or Reimbursement of Subsistence Expenses__  __.—__ 
+    (a) __Payment or Reimbursement of Subsistence Expenses.—__ 
 
         (1) Under regulations prescribed by the Secretaries concerned, a member of a uniformed service who is ordered to make a change of permanent station described in paragraph (2) shall be paid or reimbursed for subsistence expenses of the member and the member’s dependents for the period (subject to subsection (c)) for which the member and dependents occupy temporary quarters incident to that change of permanent station.
 
@@ -29,11 +29,11 @@
 
             (C) In the case of a member who is reporting to the member’s first permanent duty station, the change from the member’s home of record or initial technical school to that first permanent duty station.
 
-    (b)  __Payment in Advance__  __.—__ 
+    (b) __Payment in Advance.—__ 
 
     The Secretary concerned may make any payment for subsistence expenses to a member under this section in advance of the member actually incurring the expenses. The amount of an advance payment made to a member shall be computed on the basis of the Secretary’s determination of the average number of days that members and their dependents occupy temporary quarters under the circumstances applicable to the member and the member’s dependents.
 
-    (c)  __Maximum Payment Period__  __.—__ 
+    (c) __Maximum Payment Period.—__ 
 
         (1) In the case of a change of permanent station described in subparagraph (A) or (C) of subsection (a)(2), the period for which subsistence expenses are to be paid or reimbursed under this section may not exceed 10 days.
 
@@ -47,15 +47,15 @@
 
         (3) Whenever the conditions described in clause (i) or (ii) of subparagraph (A) of [section 403(b)(7) of this title][/us/usc/t37/s403/b/7] exist for a military housing area or portion thereof, the Secretary concerned may increase the period for which subsistence expenses are to be paid or reimbursed under this section in the case of a change of permanent station described in subparagraph (A) or (C) of subsection (a)(2) in the same military housing area or portion thereof to a maximum of 60 days.
 
-    (d)  __Daily Subsistence Rates__  __.—__ 
+    (d) __Daily Subsistence Rates.—__ 
 
     Regulations prescribed under subsection (a) shall prescribe average daily subsistence rates for purposes of this section for the member and for each dependent. Such rates may not exceed the maximum per diem rates prescribed under [section 474(d) of this title][/us/usc/t37/s474/d] for the area where the temporary quarters are located.
 
-    (e)  __Maximum Daily Payment__  __.—__ 
+    (e) __Maximum Daily Payment.—__ 
 
     A member may not be paid or reimbursed more than $290 a day under this section.
 
-    (f)  __Termination__  __.—__ 
+    (f) __Termination.—__ 
 
     No payment or reimbursement may be provided under this section with respect to a change of permanent station for which orders are issued after the travel authorities transition expiration date.
 

@@ -15,7 +15,7 @@
 
 ## § 427. Family separation allowance
 
-    (a)  __Entitlement to Allowance__  __.—__ 
+    (a) __Entitlement to Allowance.—__ 
 
         (1)
 
@@ -35,11 +35,11 @@
 
             (B) the first day the member ceased being entitled to a previous allowance under this subsection by reason of the end of duty prescribed in such subparagraphs, if the member ceased being entitled to the previous allowance within 30 days before the first day of that period.
 
-    (b)  __Entitlement When No Residence or Household Maintained for Dependents__  __.—__ 
+    (b) __Entitlement When No Residence or Household Maintained for Dependents.—__ 
 
     An allowance is payable under subsection (a) even though the member does not maintain for his primary dependents who would otherwise normally reside with him, a residence or household, subject to his management and control, which he is likely to share with them as a common household when his duty assignment permits.
 
-    (c)  __Effect of Election to Serve Unaccompanied Tour of Duty__  __.—__ 
+    (c) __Effect of Election to Serve Unaccompanied Tour of Duty.—__ 
 
         (1) Except as provided in paragraph (2) or (3), a member who elects to serve a tour of duty unaccompanied by his dependents at a permanent station to which the movement of his dependents is authorized at the expense of the United States under [section 476 of this title][/us/usc/t37/s476] is not entitled to an allowance under subsection (a)(1)(A).
 
@@ -47,7 +47,7 @@
 
         (3) The Secretary concerned may waive paragraph (1) in situations in which it would be inequitable to deny the allowance to the member because of unusual family or operational circumstances.
 
-    (d)  __Entitlement While Spouse Entitled to Basic Pay__  __.—__ 
+    (d) __Entitlement While Spouse Entitled to Basic Pay.—__ 
 
         (1) A member married to another member of the uniformed services becomes entitled, regardless of any other dependency status, to an allowance under subsection (a) by virtue of duty prescribed in subparagraph (A), (B), or (C) of paragraph (1) of such subsection if the members were residing together immediately before being separated by reasons of execution of military orders.
 
@@ -205,11 +205,11 @@
 
 [Pub. L. 102–25, title III, § 302][/us/pl/102/25/s302], Apr. 6, 1991, [105 Stat. 80][/us/stat/105/80], provided that:
 
->     “(a)  __Increased Rate__  __.—__ 
+>     “(a) __Increased Rate.—__ 
 
 >     In lieu of the family separation allowance specified in [section 427(b)(1) of title 37][/us/usc/t37/s427/b/1], United States Code, the family separation allowance payable under that section shall be $75 for each month during the period described in subsection (b).
 
->     “(b)  __Period of Applicability__  __.—__ 
+>     “(b) __Period of Applicability.—__ 
 
 >     Subsection (a) shall apply during the period beginning on January 15, 1991, and ending on the first day of the first month beginning on or after the date 180 days after the end of the Persian Gulf conflict.”
 

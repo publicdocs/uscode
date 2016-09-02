@@ -15,7 +15,7 @@
 
 ## § 321. Special pay: judge advocate continuation pay
 
-    (a)  __Eligible Judge Advocate Defined__  __.—__ 
+    (a) __Eligible Judge Advocate Defined.—__ 
 
     In this section, the term “eligible judge advocate” means an officer of the armed forces on full-time active duty who—
 
@@ -29,27 +29,27 @@
 
             (B) in the case of an officer detailed under [section 2004 of title 10][/us/usc/t10/s2004] or [section 470 of title 14][/us/usc/t14/s470], the active duty service obligation incurred as part of that detail.
 
-    (b)  __Special Pay Authorized__  __.—__ 
+    (b) __Special Pay Authorized.—__ 
 
     An eligible judge advocate who executes a written agreement to remain on active duty for a period of obligated service specified in the agreement may, upon the acceptance of the agreement by the Secretary concerned, be paid continuation pay under this section. The total amount paid to an officer under one or more agreements under this section may not exceed $60,000.
 
-    (c)  __Proration__  __.—__ 
+    (c) __Proration.—__ 
 
     The term of an agreement under subsection (b) and the amount payable under the agreement may be prorated.
 
-    (d)  __Payment Methods__  __.—__ 
+    (d) __Payment Methods.—__ 
 
     Upon acceptance of an agreement under subsection (b) by the Secretary concerned, the total amount payable pursuant to the agreement becomes fixed. The Secretary shall prepare an implementation plan specifying the amount of each installment payment under the agreement and the times for payment of the installments.
 
-    (e)  __Additional Pay__  __.—__ 
+    (e) __Additional Pay.—__ 
 
     Any amount paid to an officer under this section is in addition to any other pay and allowances to which the officer is entitled.
 
-    (f)  __Repayment__  __.—__ 
+    (f) __Repayment.—__ 
 
     An officer who has entered into a written agreement under subsection (b) and has received all or part of the amount payable under the agreement but who does not complete the total period of active duty specified in the agreement, shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-    (g)  __Regulations__  __.—__ 
+    (g) __Regulations.—__ 
 
     The Secretary concerned shall prescribe regulations to carry out this section.
 

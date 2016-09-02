@@ -15,7 +15,7 @@
 
 ## § 436. High-deployment allowance: lengthy or numerous deployments; frequent mobilizations
 
-    (a)  __Monthly Allowance__  __.—__ 
+    (a) __Monthly Allowance.—__ 
 
     The Secretary of the military department concerned may pay a high-deployment allowance to a member of the armed forces under the Secretary’s jurisdiction for each month during which the member—
 
@@ -37,31 +37,31 @@
 
                 (ii) for a period of more than 30 days under a provision of law referred to in [section 101(a)(13)(B) of title 10][/us/usc/t10/s101/a/13/B], if such period begins within one year after the date on which the member was released from previous service on active duty for a period of more than 30 days under a call or order issued under such a provision of law.
 
-    (b)  __Definition of Deployed__  __.—__ 
+    (b) __Definition of Deployed.—__ 
 
     In this section, the term “deployed”, with respect to a member, means that the member is deployed or in a deployment within the meaning of [section 991(b) of title 10][/us/usc/t10/s991/b] (including any definition of “deployment” prescribed under paragraph (4) of that section).
 
-    (c)  __Rate__  __.—__ 
+    (c) __Rate.—__ 
 
     The monthly rate of the allowance payable to a member under this section shall be determined by the Secretary concerned, not to exceed $1,000 per month.
 
-    (d)  __Payment of Claims__  __.—__ 
+    (d) __Payment of Claims.—__ 
 
     A claim of a member for payment of the high-deployment allowance that is not fully substantiated by the recordkeeping system applicable to the member under [section 991(c) of title 10][/us/usc/t10/s991/c] shall be paid if the member furnishes the Secretary concerned with other evidence determined by the Secretary as being sufficient to substantiate the claim.
 
-    (e)  __Relationship to Other Allowances__  __.—__ 
+    (e) __Relationship to Other Allowances.—__ 
 
     A high-deployment allowance payable to a member under this section is in addition to any other pay or allowance payable to the member under any other provision of law.
 
-    (f)  __National Security Waiver__  __.—__ 
+    (f) __National Security Waiver.—__ 
 
     No allowance may be paid under this section to a member for any month during which the applicability of [section 991 of title 10][/us/usc/t10/s991] to the member is suspended under subsection (d) of that section.
 
-    (g)  __Authority to Exclude Certain Duty Assignments__  __.—__ 
+    (g) __Authority to Exclude Certain Duty Assignments.—__ 
 
     The Secretary concerned may exclude members serving in specified duty assignments from eligibility for the high-deployment allowance while serving in those assignments. Any such specification of duty assignments may only be made with the approval of the Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness. Specification of a particular duty assignment for purposes of this subsection may not be implemented so as to apply to the member serving in that position at the time of such specification.
 
-    (h)  __Payment From Operation and Maintenance Funds__  __.—__ 
+    (h) __Payment From Operation and Maintenance Funds.—__ 
 
     The monthly allowance payable to a member under this section shall be paid from appropriations available for operation and maintenance for the armed force in which the member serves.
 

@@ -15,17 +15,17 @@
 
 ## § 433a. Allowance for participation in Ready Reserve screening
 
-    (a)  __Allowance Authorized__  __.—__ 
+    (a) __Allowance Authorized.—__ 
 
         (1) Under regulations prescribed by the Secretaries concerned, a member of the Individual Ready Reserve may be paid a stipend for participation in the screening performed pursuant to [section 10149 of title 10][/us/usc/t10/s10149], in lieu of muster duty performed under [section 12319 of title 10][/us/usc/t10/s12319], if such participation is conducted through electronic means.
 
         (2) The stipend paid a member under this section shall constitute the sole monetary allowance authorized for participation in the screening described in paragraph (1), and shall constitute payment in full to the member for participation in such screening, regardless of the grade or rank in which the member is serving.
 
-    (b)  __Maximum Payment__  __.—__ 
+    (b) __Maximum Payment.—__ 
 
     The aggregate amount of the stipend paid a member of the Individual Ready Reserve under this section in any calendar year may not exceed $50.
 
-    (c)  __Payment Requirements__  __.—__ 
+    (c) __Payment Requirements.—__ 
 
         (1) The stipend authorized by this section may not be disbursed in kind.
 

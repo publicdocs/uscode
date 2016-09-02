@@ -15,7 +15,7 @@
 
 ## § 402a. Supplemental subsistence allowance for low-income members with dependents
 
-    (a)  __Supplemental Allowance Required__  __.—__ 
+    (a) __Supplemental Allowance Required.—__ 
 
         (1) The Secretary concerned shall increase the basic allowance for subsistence to which a member of the armed forces described in subsection (b) is otherwise entitled under [section 402 of this title][/us/usc/t37/s402] by an amount (in this section referred to as the “supplemental subsistence allowance”) designed to remove the member’s household from eligibility for benefits under the supplemental nutrition assistance program.
 
@@ -29,7 +29,7 @@
 
             (B) $1,100.
 
-    (b)  __Members Entitled to Allowance__  __.—__ 
+    (b) __Members Entitled to Allowance.—__ 
 
         (1) Subject to subsection (d), a member of the armed forces with dependents is entitled to receive the supplemental subsistence allowance if the Secretary concerned determines that the member’s income, together with the income of the rest of the member’s household (if any), is within the highest income standard of eligibility, as then in effect under section 5(c) of the Food and Nutrition Act of 2008 ([7 U.S.C. 2014(c)][/us/usc/t7/s2014/c]) and without regard to paragraph (1) of such section, for participation in the supplemental nutrition assistance program.
 
@@ -45,11 +45,11 @@
 
             (C) the amount of any family separation allowance that is payable to the member under [section 427 of this title][/us/usc/t37/s427].
 
-    (c)  __Application for Allowance__  __.—__ 
+    (c) __Application for Allowance.—__ 
 
     To request the supplemental subsistence allowance, a member shall submit an application to the Secretary concerned in such form and containing such information as the Secretary concerned may prescribe. A member applying for the supplemental subsistence allowance shall furnish such evidence regarding the member’s satisfaction of the eligibility criteria under subsection (b) as the Secretary concerned may require.
 
-    (d)  __Effective Period__  __.—__ 
+    (d) __Effective Period.—__ 
 
     The entitlement of a member to receive the supplemental subsistence allowance terminates upon the occurrence of any of the following events, even though the member continues to meet the eligibility criteria described in subsection (b):
 
@@ -59,11 +59,11 @@
 
         (3) Transfer of the member in a permanent change of station.
 
-    (e)  __Reapplication__  __.—__ 
+    (e) __Reapplication.—__ 
 
     Upon the termination of the effective period of the supplemental subsistence allowance for a member, or in anticipation of the imminent termination of the allowance, a member may reapply for the allowance under subsection (c), and the Secretary concerned shall approve the application and resume payment of the allowance to the member, if the member continues to meet, or once again meets, the eligibility criteria described in subsection (b).
 
-    (f)  __Eligibility for Other Federal Assistance__  __.—__ 
+    (f) __Eligibility for Other Federal Assistance.—__ 
 
         (1) A child or spouse of a member of the armed forces receiving the supplemental subsistence allowance under this section who, except on account of the receipt of such allowance, would be eligible to receive a benefit described in paragraph (2) shall be considered to be eligible for that benefit notwithstanding the receipt of such allowance.
 
@@ -81,7 +81,7 @@
 
         (3) A household that includes a member of the armed forces receiving the supplemental subsistence allowance under this section and that, except on account of the receipt of such allowance, would be eligible to receive a benefit under the Low-Income Home Energy Assistance Act of 1981 ([42 U.S.C. 8621][/us/usc/t42/s8621] et seq.) shall be considered to be eligible for that benefit notwithstanding the receipt of such allowance.
 
-    (g)  __Definitions__  __.—__ 
+    (g) __Definitions.—__ 
 
     In this section:
 

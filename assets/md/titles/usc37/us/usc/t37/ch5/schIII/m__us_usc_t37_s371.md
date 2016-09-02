@@ -15,15 +15,15 @@
 
 ## § 371. Relationship to other incentives and pays
 
-    (a)  __Treatment__  __.—__ 
+    (a) __Treatment.—__ 
 
     A bonus or incentive pay paid to a member of the uniformed services under subchapter II is in addition to any other pay and allowance to which a member is entitled, unless otherwise provided under this chapter.
 
-    (b)  __Exception__  __.—__ 
+    (b) __Exception.—__ 
 
     A member may not receive a bonus or incentive pay under both subchapter I and subchapter II for the same activity, skill, or period of service.
 
-    (c)  __Relationship to Other Computations__  __.—__ 
+    (c) __Relationship to Other Computations.—__ 
 
     The amount of a bonus or incentive pay to which a member is entitled under subchapter II may not be included in computing the amount of—
 

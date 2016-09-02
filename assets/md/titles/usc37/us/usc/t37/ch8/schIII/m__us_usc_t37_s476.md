@@ -57,7 +57,7 @@
 
             (B)
 
-             Subject to uniform regulations prescribed by the Secretaries concerned, in the case of a permanent change of station in which the Secretary concerned has authorized transportation of a motor vehicle under section 2634  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 10 (except when such transportation is authorized from the old duty station to the new duty station), the member is entitled to a monetary allowance for transportation of that motor vehicle—
+             Subject to uniform regulations prescribed by the Secretaries concerned, in the case of a permanent change of station in which the Secretary concerned has authorized transportation of a motor vehicle under [section 2634 of title 10][/us/usc/t10/s2634] (except when such transportation is authorized from the old duty station to the new duty station), the member is entitled to a monetary allowance for transportation of that motor vehicle—
 
                 (i)
 
@@ -71,7 +71,7 @@
 
                 (ii) from the customary port of debarkation which has been designated by the Government as most cost-effective for the Government considering all operational, travel, and transportation requirements incident to such change of station to the new duty station.
 
-                Such monetary allowance shall be established at a rate per mile that does not exceed the rate established under [section 474(d)(1) of this title][/us/usc/t37/s474/d/1]. If clause (i)(I) applies to the transportation by the member of a motor vehicle from the old duty station, the monetary allowance under this subparagraph shall also cover return travel to the old duty station by the member or other person transporting the vehicle. In the case of transportation described in clause (ii), the monetary allowance shall also cover travel from the new duty station to the port of debarkation to pick up the vehicle. In the case of the transportation of a motor vehicle arranged by the member under section 2634(h) 1 of title 10, the Secretary concerned may pay the member, upon presentation of proof of shipment, a monetary allowance in lieu of transportation, as established under [section 474(d)(1) of this title][/us/usc/t37/s474/d/1].
+                Such monetary allowance shall be established at a rate per mile that does not exceed the rate established under [section 474(d)(1) of this title][/us/usc/t37/s474/d/1]. If clause (i)(I) applies to the transportation by the member of a motor vehicle from the old duty station, the monetary allowance under this subparagraph shall also cover return travel to the old duty station by the member or other person transporting the vehicle. In the case of transportation described in clause (ii), the monetary allowance shall also cover travel from the new duty station to the port of debarkation to pick up the vehicle. In the case of the transportation of a motor vehicle arranged by the member under [section 2634(h) of title 10][/us/usc/t10/s2634/h], the Secretary concerned may pay the member, upon presentation of proof of shipment, a monetary allowance in lieu of transportation, as established under [section 474(d)(1) of this title][/us/usc/t37/s474/d/1].
 
             (C) Under regulations prescribed by the Secretary of Defense, the weight allowance in pounds to which a member is entitled under subparagraph (A) is determined in accordance with the following table:
 
@@ -507,7 +507,7 @@
 
             (A) authorize the movement of the member’s dependents, baggage, and household effects at the station to an appropriate location in the United States or its possessions or, if the dependents are foreign nationals, to the country of the dependents’ origin and prescribe transportation in kind, reimbursement therefor, or a monetary allowance in place thereof, as the case may be, plus a per diem, as authorized under subsection (a) or (b); and
 
-            (B) in the case of a member described in paragraph (2)(A), authorize the transportation of one motor vehicle, which is owned or leased by the member (or a dependent of the member) and is for the personal use of a dependent of the member, to that location by means of transportation authorized under section 2634 1 of title 10 or authorize the storage of the motor vehicle pursuant to subsection (b) of such section.
+            (B) in the case of a member described in paragraph (2)(A), authorize the transportation of one motor vehicle, which is owned or leased by the member (or a dependent of the member) and is for the personal use of a dependent of the member, to that location by means of transportation authorized under [section 2634 of title 10][/us/usc/t10/s2634] or authorize the storage of the motor vehicle pursuant to subsection (b) of such section.
 
             If the member’s baggage and household effects are in nontemporary storage under subsection (d), the Secretary concerned may authorize their movement to the location concerned and prescribe transportation in kind or reimbursement therefor, as authorized under subsection (b). For the purposes of this section, a member’s unmarried child for whom the member received transportation in kind to his station outside the United States or in Hawaii or Alaska, reimbursement therefor, or a monetary allowance in place thereof and who, by reason of age or graduation from (or cessation of enrollment in) an institution of higher education, would otherwise cease to be a dependent of the member while the member was serving at that station shall still be considered as a dependent of the member.
 
@@ -764,10 +764,6 @@ Feb. 9, 1976, Pub. L. 94–212, § 747, 90 Stat. 176.  </td>
 </table>
 
     The words “to carry out subsection (b) of this section” are substituted for “for providing transportation of household effects of members of the armed forces pursuant to [section 406(b) of title 37][/us/usc/t37/s406/b], United States Code” to eliminate unnecessary words.
-
- __References in Text__ 
-
-    [Section 2634 of title 10][/us/usc/t10/s2634], referred to in subsecs. (b)(1)(B) and (h)(1)(B), was repealed by [Pub. L. 113–66, div. A, title VI, § 621(g)(1)][/us/pl/113/66/s621/g/1], Dec. 26, 2013, [127 Stat. 784][/us/stat/127/784].
 
  __Prior Provisions__ 
 
@@ -1053,7 +1049,7 @@ Act Aug. 1, 1953, cited as the source of subsec. (j) of this section in the Hist
 
  __Effective Date of 1998 Amendment__ 
 
-    For provisions relating to the applicability of amendment by [section 653(b) of Pub. L. 105–261][/us/pl/105/261/s653/b], see [section 653(e) of Pub. L. 105–261][/us/pl/105/261/s653/e], set out as a note under [section 475a of this title][/us/usc/t37/s475a].
+    For provisions relating to the applicability of amendment by [section 653(b) of Pub. L. 105–261][/us/pl/105/261/s653/b], see [section 653(e) of Pub. L. 105–261][/us/pl/105/261/s653/e], set out as a note under [section 2634 of Title 10][/us/usc/t10/s2634], Armed Forces.
 
  __Effective Date of 1997 Amendment__ 
 
@@ -1061,9 +1057,7 @@ Act Aug. 1, 1953, cited as the source of subsec. (j) of this section in the Hist
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–201, div. A, title III, § 368(c)][/us/pl/104/201/s368/c], Sept. 23, 1996, [110 Stat. 2498][/us/stat/110/2498], provided that: 
-
-> “The amendments made by this section \[amending this section and [section 2634 of Title 10][/us/usc/t10/s2634], Armed Forces\] shall take effect on April 1, 1997.”
+    Amendment by [section 368(b) of Pub. L. 104–201][/us/pl/104/201/s368/b] effective Apr. 1, 1997, see [section 368(c) of Pub. L. 104–201][/us/pl/104/201/s368/c], set out as a note under [section 2634 of Title 10][/us/usc/t10/s2634], Armed Forces.
 
 [Pub. L. 104–201, div. A, title VI, § 621(b)][/us/pl/104/201/s621/b], Sept. 23, 1996, [110 Stat. 2548][/us/stat/110/2548], provided that: 
 
@@ -1141,15 +1135,7 @@ Act Aug. 1, 1953, cited as the source of subsec. (j) of this section in the Hist
 
  __Effective Date of 1965 Amendment; Reimbursement of Expenses__ 
 
-[Pub. L. 89–101, § 3][/us/pl/89/101/s3], July 30, 1965, [79 Stat. 425][/us/stat/79/425], provided that: 
-
-> “This Act \[amending this section and [section 2634 of Title 10][/us/usc/t10/s2634], Armed Forces\] shall be effective May 1, 1965. Any member who—
-
->     “(1) transported a motor vehicle at his personal expense after April 30, 1965, and before the enactment of this Act \[July 30, 1965\]; and
-
->     “(2) would have been entitled to the transportation of such motor vehicle at Government expense under the provisions of this Act;
-
->     shall be reimbursed for the allowable transportation cost actually expended by him. Appropriations available for permanent change of station travel shall be available for the reimbursements authorized by this Act.”
+    Amendment by [Pub. L. 89–101][/us/pl/89/101] effective May 1, 1965, and personal expenses for transportation of motor vehicles transported after Apr. 30, 1965, and before July 30, 1965, reimbursable, see [section 3 of Pub. L. 89–101][/us/pl/89/101/s3], set out as a note under [section 2634 of Title 10][/us/usc/t10/s2634], Armed Forces.
 
  __Transfer of Functions__ 
 
@@ -1195,7 +1181,9 @@ Act Aug. 1, 1953, cited as the source of subsec. (j) of this section in the Hist
 [/us/usc/t37/s474/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs474%2Fd
 [/us/usc/t10/s1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1173
 [/us/usc/t10/s1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1141
+[/us/usc/t10/s2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2634
 [/us/usc/t37/s474/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs474%2Fd%2F1
+[/us/usc/t10/s2634/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2634%2Fh
 [/us/usc/t37/s474/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs474%2Fd%2F1
 [/us/usc/t37/s474/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs474%2Fc
 [/us/usc/t37/s474/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs474%2Fc
@@ -1203,6 +1191,7 @@ Act Aug. 1, 1953, cited as the source of subsec. (j) of this section in the Hist
 [/us/usc/t37/s474/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs474%2Fc
 [/us/usc/t37/s474/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs474%2Fc%2F2
 [/us/usc/t37/s474/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs474%2Fc
+[/us/usc/t10/s2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2634
 [/us/usc/t10/s1059/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1059%2Fc
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F473
@@ -1284,9 +1273,6 @@ Act Aug. 1, 1953, cited as the source of subsec. (j) of this section in the Hist
 [/us/act/1955-03-31/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-03-31%2Fs2%2F2
 [/us/usc/t37/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs404%2Fc
 [/us/usc/t37/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs406%2Fb
-[/us/usc/t10/s2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2634
-[/us/pl/113/66/s621/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs621%2Fg%2F1
-[/us/stat/127/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F784
 [/us/act/1952-07-10/ch630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-10%2Fch630
 [/us/stat/66/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F531
 [/us/act/1951-10-18/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-18%2Fch512
@@ -1458,12 +1444,12 @@ Act Aug. 1, 1953, cited as the source of subsec. (j) of this section in the Hist
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/105/261/s653/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs653%2Fb
 [/us/pl/105/261/s653/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs653%2Fe
-[/us/usc/t37/s475a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs475a
+[/us/usc/t10/s2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2634
 [/us/pl/105/85/s603/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs603%2Fd%2F1%2FB
 [/us/pl/105/85/s603/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs603%2Fe
 [/us/usc/t5/s5561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5561
+[/us/pl/104/201/s368/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs368%2Fb
 [/us/pl/104/201/s368/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs368%2Fc
-[/us/stat/110/2498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2498
 [/us/usc/t10/s2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2634
 [/us/pl/104/201/s621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs621%2Fb
 [/us/stat/110/2548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2548
@@ -1515,8 +1501,8 @@ Act Aug. 1, 1953, cited as the source of subsec. (j) of this section in the Hist
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/pl/90/623/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs6
 [/us/usc/t5/s5334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5334
+[/us/pl/89/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F101
 [/us/pl/89/101/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F101%2Fs3
-[/us/stat/79/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F425
 [/us/usc/t10/s2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2634
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/101/510/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs503%2Fc

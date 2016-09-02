@@ -15,11 +15,11 @@
 
 ## § 372. Continuation of pays during hospitalization and rehabilitation resulting from wounds, injury, or illness incurred while on duty in a hostile fire area or exposed to an event of hostile fire or other hostile action
 
-    (a)  __Continuation of Pays__  __.—__ 
+    (a) __Continuation of Pays.—__ 
 
     If a member of a regular or reserve component of a uniformed service incurs a wound, injury, or illness in the line of duty while serving in a combat operation or a combat zone, while serving in a hostile fire area, or while exposed to a hostile fire event, as described under [section 351 of this title][/us/usc/t37/s351], and is hospitalized for treatment of the wound, injury, or illness, the Secretary concerned may continue to pay to the member, notwithstanding any provision of this chapter to the contrary, all pay and allowances (including any bonus, incentive pay, or similar benefit) that were being paid to the member at the time the member incurred the wound, injury, or illness.
 
-    (b)  __Duration__  __.—__ 
+    (b) __Duration.—__ 
 
     The payment of pay and allowances to a member under subsection (a) may continue until the end of the first month beginning after the earliest of the following dates:
 
@@ -29,7 +29,7 @@
 
         (3) The date on which the member is discharged, separated, or retired (including temporary disability retirement) from the uniformed services.
 
-    (c)  __Bonus, Incentive Pay, or Similar Benefit Defined__  __.—__ 
+    (c) __Bonus, Incentive Pay, or Similar Benefit Defined.—__ 
 
     In this section, the term “bonus, incentive pay, or similar benefit” means a bonus, incentive pay, special pay, or similar payment paid to a member of the uniformed services under this title or title 10.
 

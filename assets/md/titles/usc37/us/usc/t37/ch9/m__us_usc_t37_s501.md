@@ -361,7 +361,7 @@ July 1, 1944, ch. 373, § 219(c) (last sentence), (d) (as applicable to (c) (l
 
 [Pub. L. 101–510, div. A, title XI, § 1115][/us/pl/101/510/s1115], Nov. 5, 1990, [104 Stat. 1636][/us/stat/104/1636], as amended by [Pub. L. 102–25, title III][/us/pl/102/25], §§ 309(b), 314(1), (3), Apr. 6, 1991, [105 Stat. 83][/us/stat/105/83], 86, provided that:
 
->     “(a)  __Inapplicability of Eligibility Limitation__  __.—__ 
+>     “(a) __Inapplicability of Eligibility Limitation.—__ 
 
 >     The limitation in the second sentence of subsection (b)(3) of [section 501 of title 37][/us/usc/t37/s501], United States Code, and in subsection (f) of that section does not apply with respect to the following leave:
 
@@ -373,7 +373,7 @@ July 1, 1944, ch. 373, § 219(c) (last sentence), (d) (as applicable to (c) (l
 
 >         “(4) Leave accrued by a member referred to in paragraph (1), (2), or (3) while serving on active duty (other than for training) in connection with the Persian Gulf conflict pursuant to an order to such active duty issued with the consent of the member during a period in which members of the Armed Forces are being ordered to active duty in connection with such operation pursuant to a provision of title 10, United States Code, referred to in such paragraph.
 
->     “(b)  __Saving Provision for Certain Accrued Leave__  __.—__ 
+>     “(b) __Saving Provision for Certain Accrued Leave.—__ 
 
 >         (1)
 
@@ -385,7 +385,7 @@ July 1, 1944, ch. 373, § 219(c) (last sentence), (d) (as applicable to (c) (l
 
 >         “(2) In no case may a member be permitted to accumulate leave under this section in excess of 90 days.
 
->     “(c)  __Regulations__  __.—__ 
+>     “(c) __Regulations.—__ 
 
 >     The Secretary of Defense shall prescribe regulations establishing standards and procedures for the administration of this section.”
 

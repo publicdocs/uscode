@@ -609,14 +609,6 @@ SUBCHAPTER II—CONSOLIDATION OF SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITI
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs336" data-uslm-ref="/us/usc/t37/s336">336.</a>  </td>
-
-    <td> Contracting bonus for cadets and midshipmen enrolled in the Senior Reserve Officers’ Training Corps.  </td>
-
-  </tr>
-
-  <tr>
-
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft37%2Fs351" data-uslm-ref="/us/usc/t37/s351">351.</a>  </td>
 
     <td> Hazardous duty pay.  </td>
@@ -698,8 +690,6 @@ SUBCHAPTER III—GENERAL PROVISIONS  </td>
 </table>
 
  __Amendments__ 
-
-    2013—[Pub. L. 113–66, div. A, title VI, § 617(b)][/us/pl/113/66/s617/b], Dec. 26, 2013, [127 Stat. 782][/us/stat/127/782], added item 336.
 
     2011—[Pub. L. 111–383, div. A, title X, § 1075(c)(2)][/us/pl/111/383/s1075/c/2], Jan. 7, 2011, [124 Stat. 4372][/us/stat/124/4372], added item 312 and struck out former item 312 “Special pay: nuclear-qualified officers extending period of active duty”.
 
@@ -788,8 +778,6 @@ SUBCHAPTER III—GENERAL PROVISIONS  </td>
 ----------
 ----------
 
-[/us/pl/113/66/s617/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs617%2Fb
-[/us/stat/127/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F782
 [/us/pl/111/383/s1075/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fc%2F2
 [/us/stat/124/4372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4372
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417

@@ -15,25 +15,25 @@
 
 ## § 305b. Special pay: service as member of Weapons of Mass Destruction Civil Support Team
 
-    (a)  __Special Pay Authorized__  __.—__ 
+    (a) __Special Pay Authorized.—__ 
 
     The Secretary of a military department may pay special pay under this subsection to members of an armed force under the jurisdiction of the Secretary who are entitled to basic pay under section 204 and are assigned by orders to duty as members of a Weapons of Mass Destruction Civil Support Team if the Secretary determines that the payment of such special pay is needed to address recruitment or retention concerns in that armed force.
 
-    (b)  __Monthly Rate__  __.—__ 
+    (b) __Monthly Rate.—__ 
 
     The monthly rate of special pay under subsection (a) may not exceed $150.
 
-    (c)  __Inclusion of Reserve Component Members Performing Inactive Duty Training__  __.—__ 
+    (c) __Inclusion of Reserve Component Members Performing Inactive Duty Training.—__ 
 
         (1) To the extent funds are made available to carry out this subsection, the Secretary of a military department may pay the special pay under subsection (a) to members of a reserve component of the armed forces who are entitled to compensation under [section 206 of this title][/us/usc/t37/s206] and who perform duty under orders as members of a Weapons of Mass Destruction Civil Support Team.
 
         (2) The amount of the special pay for a member referred to in paragraph (1) shall be equal to 1⁄30 of the monthly special pay rate in effect under subsection (b) for each day on which the member performs duty under orders as members of a Weapons of Mass Destruction Civil Support Team.
 
-    (d)  __Regulations__  __.—__ 
+    (d) __Regulations.—__ 
 
     Special pay under this section shall be provided in accordance with regulations prescribed by the Secretary of Defense.
 
-    (e)  __Definition__  __.—__ 
+    (e) __Definition.—__ 
 
     In this section, the term “Weapons of Mass Destruction Civil Support Team” means a team of members of the reserve components of the armed forces that is established under [section 12310(c) of title 10][/us/usc/t10/s12310/c] in support of emergency preparedness programs to prepare for or to respond to any emergency involving the use of a weapon of mass destruction.
 

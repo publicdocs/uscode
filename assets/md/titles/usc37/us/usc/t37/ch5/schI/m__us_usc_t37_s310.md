@@ -15,7 +15,7 @@
 
 ## § 310. Special pay: duty subject to hostile fire or imminent danger
 
-    (a)  __Eligibility__  __.—__ 
+    (a) __Eligibility.—__ 
 
     Under regulations prescribed by the Secretary of Defense, a member of a uniformed service may be paid special pay under subsection (b) for any day or portion of a day in which—
 
@@ -33,7 +33,7 @@
 
             (D) was on duty in a foreign area in which the member was subject to the threat of physical harm or imminent danger on the basis of civil insurrection, civil war, terrorism, or wartime conditions.
 
-    (b)  __Special Pay Amount__  __.—__ 
+    (b) __Special Pay Amount.—__ 
 
         (1) Except as provided in paragraph (2), the amount of special pay authorized by subsection (a) for qualifying service during a day or portion of a day shall be the amount equal to 1/30th of the maximum monthly amount of special pay payable to a member as specified in paragraph (3).
 
@@ -41,7 +41,7 @@
 
         (3) The maximum monthly amount of special pay payable to a member under this subsection for any month is $225.
 
-    (c)  __Continuation During Hospitalization__  __.—__ 
+    (c) __Continuation During Hospitalization.—__ 
 
         (1) A member described in paragraph (2) may be paid special pay under this section for any day (or portion of a day) of not more than three additional months during which the member is hospitalized as described in such paragraph.
 
@@ -53,13 +53,13 @@
 
             (B) while in the line of duty, incurs a wound, injury, or illness in a combat operation or combat zone designated by the Secretary of Defense and is hospitalized outside of the theater of the combat operation or the combat zone for the treatment of the wound, injury, or illness.
 
-    (d)  __Limitations and Administration__  __.—__ 
+    (d) __Limitations and Administration.—__ 
 
         (1) In the case of an area described in subparagraph (B) or (D) of subsection (a)(2), the Secretary of Defense shall be responsible for designating the period during which duty in the area will qualify members for special pay under this section. The effective date designated for the commencement of such a period may be a date occurring before, on, or after the actual date on which the Secretary makes the designation. If the commencement date for such a period is a date occurring before the date on which the Secretary makes the designation, the payment of special pay under this section for the period between the commencement date and the date on which the Secretary makes the designation shall be subject to the availability of appropriated funds for that purpose.
 
         (2) A member may not be paid more than one special pay under this section for any day. A member may be paid special pay under this section in addition to any other pay and allowances to which he may be entitled.
 
-    (e)  __Determinations of Fact__  __.—__ 
+    (e) __Determinations of Fact.—__ 
 
     Any determination of fact that is made in administering this section is conclusive. Such a determination may not be reviewed by any other officer or agency of the United States unless there has been fraud or gross negligence. However, the determination may be changed on the basis of new evidence or for other good cause.
 
@@ -195,11 +195,11 @@
 
 [Pub. L. 108–136, div. A, title VI, § 620][/us/pl/108/136/s620], Nov. 24, 2003, [117 Stat. 1504][/us/stat/117/1504], provided that:
 
->     “(a)  __Payment Authorized__  __.—__ 
+>     “(a) __Payment Authorized.—__ 
 
 >     The Secretary of Defense may authorize the payment of hostile fire or imminent danger pay under [section 310(a) of title 37][/us/usc/t37/s310/a], United States Code, to members of the Armed Forces who were assigned to duty, during the period beginning on March 19, 2003, and ending on April 11, 2003, in the area specified in subsection (b) in connection with Operation Iraqi Freedom at any time during that period.
 
->     “(b)  __Specified Area__  __.—__ 
+>     “(b) __Specified Area.—__ 
 
 >     The area referred to in subsection (a) is the Mediterranean Sea east of 30 degrees East Longitude (sea area only).”
 
@@ -213,11 +213,11 @@
 
 [Pub. L. 107–107, div. A, title VI, § 624][/us/pl/107/107/s624], Dec. 28, 2001, [115 Stat. 1143][/us/stat/115/1143], provided that:
 
->     “(a)  __Retroactive Authorization__  __.—__ 
+>     “(a) __Retroactive Authorization.—__ 
 
 >     The Secretary of Defense may provide for the payment of imminent danger pay under [section 310 of title 37][/us/usc/t37/s310], United States Code, to members of the Armed Forces assigned to duty in the areas specified in subsection (b) in connection with the contingency operation known as Operation Enduring Freedom with respect to periods of duty served in those areas during the period beginning on September 19, 2001, and ending October 31, 2001.
 
->     “(b)  __Specified Areas__  __.—__ 
+>     “(b) __Specified Areas.—__ 
 
 >     The areas referred to in subsection (a) are the following:
 
@@ -229,11 +229,11 @@
 
 [Pub. L. 102–25, title III, § 301][/us/pl/102/25/s301], Apr. 6, 1991, [105 Stat. 80][/us/stat/105/80], provided that:
 
->     “(a)  __Increased Rate__  __.—__ 
+>     “(a) __Increased Rate.—__ 
 
 >     In lieu of the rate of special pay specified in [section 310(a) of title 37][/us/usc/t37/s310/a], United States Code, the rate of special pay payable under that section shall be $150 for each month during the period described in subsection (b).
 
->     “(b)  __Period of Applicability__  __.—__ 
+>     “(b) __Period of Applicability.—__ 
 
 >     Subsection (a) shall apply during the period beginning on August 1, 1990, and ending on the first day of the first month beginning on or after the date 180 days after the end of the Persian Gulf conflict.”
 

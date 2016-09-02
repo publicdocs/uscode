@@ -15,11 +15,11 @@
 
 ## § 317. Special pay: officers in critical acquisition positions extending period of active duty
 
-    (a)  __Bonus Authorized__  __.—__ 
+    (a) __Bonus Authorized.—__ 
 
     An officer described in subsection (b) who executes a written agreement to remain on active duty in a critical acquisition position for at least one year may, upon the acceptance of the agreement by the Secretary concerned, be paid a retention bonus as provided in this section.
 
-    (b)  __Covered Officers__  __.—__ 
+    (b) __Covered Officers.—__ 
 
     An officer referred to in subsection (a) is an officer of the Army, Navy, Air Force, or Marine Corps who—
 
@@ -27,27 +27,27 @@
 
         (2) is eligible to retire, or is assigned to such position for a period that will extend beyond the date on which the officer will be eligible to retire, under any provision of law.
 
-    (c)  __Amount of Bonus__  __.—__ 
+    (c) __Amount of Bonus.—__ 
 
     The amount of a bonus paid under this section for each year a member agrees to remain on active duty may not be more than 15 percent of the annual rate of basic pay paid to the member at the time the member executes a written agreement under this section.
 
-    (d)  __Payment of Bonus__  __.—__ 
+    (d) __Payment of Bonus.—__ 
 
     Upon the acceptance of a written agreement under subsection (a) by the Secretary concerned, the total amount payable pursuant to the agreement becomes fixed and may be paid by the Secretary in either a lump sum or installments.
 
-    (e)  __Additional Pay__  __.—__ 
+    (e) __Additional Pay.—__ 
 
     A bonus paid under this section is in addition to other pay and allowances to which an officer is entitled.
 
-    (f)  __Repayment__  __.—__ 
+    (f) __Repayment.—__ 
 
     An officer who, having entered into a written agreement under subsection (a) and having received all or part of a bonus under this section, does not complete the period of active duty as specified in the agreement shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-    (g)  __Period of Commitment__  __.—__ 
+    (g) __Period of Commitment.—__ 
 
     The period of active duty agreed upon by an officer in a written agreement under this section is in addition to any other service commitment of the officer, except that any period of active duty agreed upon in a written agreement under subsection (a)(2) or (b)(2) of [section 1734 of title 10][/us/usc/t10/s1734] by the officer may be counted concurrently with the commitment under this section.
 
-    (h)  __Regulations__  __.—__ 
+    (h) __Regulations.—__ 
 
     The Secretaries concerned shall prescribe regulations to carry out this section. Regulations prescribed by the Secretary of a military department shall be subject to the approval of the Secretary of Defense.
 

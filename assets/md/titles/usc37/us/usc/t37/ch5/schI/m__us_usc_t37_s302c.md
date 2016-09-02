@@ -15,7 +15,7 @@
 
 ## § 302c. Special pay: psychologists and nonphysician health care providers
 
-    (a)  __Public Health Service Corps__  __.—__ 
+    (a) __Public Health Service Corps.—__ 
 
     A member who is—
 
@@ -25,7 +25,7 @@
 
         is entitled to special pay, as provided in subsection (b).
 
-    (b)  __Rate of Special Pay__  __.—__ 
+    (b) __Rate of Special Pay.—__ 
 
     The rate of special pay to which an officer is entitled pursuant to subsection (a) shall be—
 
@@ -39,7 +39,7 @@
 
         (5) $5,000 per year, if the officer has 18 or more years of creditable service.
 
-    (c)  __Army, Navy, and Air Force Psychologists__  __.—__ 
+    (c) __Army, Navy, and Air Force Psychologists.—__ 
 
     The Secretary of Defense may provide special pay at the rates specified in subsection (b) to an officer who—
 
@@ -49,7 +49,7 @@
 
         (3) has been awarded a diploma as a Diplomate in Psychology by the American Board of Professional Psychology.
 
-    (d)  __Nonphysician Health Care Providers__  __.—__ 
+    (d) __Nonphysician Health Care Providers.—__ 
 
     The Secretary concerned may authorize the payment of special pay at the rates specified in subsection (b) to an officer who—
 

@@ -15,11 +15,11 @@
 
 ## § 452. Allowable travel and transportation: general authorities
 
-    (a)  __In General__  __.—__ 
+    (a) __In General.—__ 
 
     Except as otherwise prohibited by law, a member of the uniformed services or other authorized traveler may be provided transportation-, lodging-, or meals-in-kind, or actual and necessary expenses of travel and transportation, for, or in connection with, official travel under circumstances as specified in regulations prescribed under [section 464 of this title][/us/usc/t37/s464].
 
-    (b)  __Specific Circumstances__  __.—__ 
+    (b) __Specific Circumstances.—__ 
 
     The authority under subsection (a) includes travel under or in connection with, but not limited to, the following circumstances, to the extent specified in regulations prescribed under [section 464 of this title][/us/usc/t37/s464]:
 
@@ -57,7 +57,7 @@
 
         (17) Attendance at or participation in international sports competitions described under [section 717 of title 10][/us/usc/t10/s717].
 
-    (c)  __Matters Included__  __.—__ 
+    (c) __Matters Included.—__ 
 
     Travel and transportation allowances which may be provided under subsection (a) include the following:
 
@@ -67,7 +67,7 @@
 
         (3) Other related miscellaneous expenses.
 
-    (d)  __Mode of Providing Travel and Transportation Allowances__  __.—__ 
+    (d) __Mode of Providing Travel and Transportation Allowances.—__ 
 
     Any authorized travel and transportation may be provided—
 
@@ -79,19 +79,19 @@
 
         (4) using a combination of the authorities under paragraphs (1), (2), and (3).
 
-    (e)  __Travel and Transportation Allowances When Travel Orders Are Modified, etc__  __.—__ 
+    (e) __Travel and Transportation Allowances When Travel Orders Are Modified, etc.—__ 
 
     An authorized traveler whose travel and transportation order or authorization is canceled, revoked, or modified may be allowed actual and necessary expenses or travel and transportation allowances in connection with travel performed pursuant to such order or authorization.
 
-    (f)  __Advance Payments__  __.—__ 
+    (f) __Advance Payments.—__ 
 
     An authorized traveler may be allowed advance payments for authorized travel and transportation allowances.
 
-    (g)  __Responsibility for Unauthorized Expenses__  __.—__ 
+    (g) __Responsibility for Unauthorized Expenses.—__ 
 
     Any unauthorized travel or transportation expense is not the responsibility of the United States.
 
-    (h)  __Relationship to Other Authorities__  __.—__ 
+    (h) __Relationship to Other Authorities.—__ 
 
     The administering Secretary may not provide payment under this section for an expense for which payment may be provided from any other appropriate Government or non-Government entity.
 

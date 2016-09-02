@@ -15,11 +15,11 @@
 
 ## § 478a. Travel and transportation allowances: inactive duty training outside of normal commuting distances
 
-    (a)  __Allowance Authorized__  __.—__ 
+    (a) __Allowance Authorized.—__ 
 
     The Secretary concerned may reimburse an eligible member of the Selected Reserve of the Ready Reserve for travel expenses for travel to an inactive duty training location to perform inactive duty training when the member is required to commute a distance from the member’s permanent residence to the inactive duty training location that is outside the normal commuting distance (as determined under the regulations prescribed under subsection (d)) for that commute.
 
-    (b)  __Eligible Members__  __.—__ 
+    (b) __Eligible Members.—__ 
 
     To be eligible for reimbursement under subsection (a), a member of the Selected Reserve of the Ready Reserve must be—
 
@@ -29,35 +29,29 @@
 
         (3) assigned to a unit or position that is disestablished or relocated as a result of defense base closure or realignment or another force structure reallocation.
 
-    (c)  __Maximum Reimbursement Amount__  __.—__ 
+    (c) __Maximum Reimbursement Amount.—__ 
 
     The amount of reimbursement provided a member under subsection (a) for each round trip to a training location may not exceed $300.
 
-    (d)  __Regulations__  __.—__ 
+    (d) __Regulations.—__ 
 
     The Secretary concerned shall prescribe regulations to carry out this section. Regulations prescribed by the Secretary of a military department shall be subject to the approval of the Secretary of Defense.
 
-    (e)  __Termination__  __.—__ 
+    (e) __Termination.—__ 
 
-    No reimbursement may be provided under this section for travel that occurs after December 31, 2014.
+    No reimbursement may be provided under this section for travel that occurs after December 31, 2013.
 
-(Added [Pub. L. 110–181, div. A, title VI, § 631(a)(1)][/us/pl/110/181/s631/a/1], Jan. 28, 2008, [122 Stat. 153][/us/stat/122/153], § 408a; amended [Pub. L. 111–383, div. A, title VI, § 621][/us/pl/111/383/s621], Jan. 7, 2011, [124 Stat. 4238][/us/stat/124/4238]; renumbered § 478a and amended [Pub. L. 112–81, div. A, title VI][/us/pl/112/81], §§ 621, 631(d)(2), Dec. 31, 2011, [125 Stat. 1452][/us/stat/125/1452], 1460; [Pub. L. 112–239, div. A, title VI, § 611(7)][/us/pl/112/239/s611/7], Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776]; [Pub. L. 113–66, div. A, title VI, § 611(7)][/us/pl/113/66/s611/7], title X, § 1091(b)(3), Dec. 26, 2013, [127 Stat. 780][/us/stat/127/780], 876.)
+(Added [Pub. L. 110–181, div. A, title VI, § 631(a)(1)][/us/pl/110/181/s631/a/1], Jan. 28, 2008, [122 Stat. 153][/us/stat/122/153], § 408a; amended [Pub. L. 111–383, div. A, title VI, § 621][/us/pl/111/383/s621], Jan. 7, 2011, [124 Stat. 4238][/us/stat/124/4238]; renumbered § 478a and amended [Pub. L. 112–81, div. A, title VI][/us/pl/112/81], §§ 621, 631(d)(2), Dec. 31, 2011, [125 Stat. 1452][/us/stat/125/1452], 1460; [Pub. L. 112–239, div. A, title VI, § 611(7)][/us/pl/112/239/s611/7], Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776].)
 
  __Amendments__ 
 
-    2013—Subsec. (e). [Pub. L. 113–66, § 611(7)][/us/pl/113/66/s611/7], substituted “December 31, 2014” for “December 31, 2013”.
-
-    [Pub. L. 112–239, § 611(7)][/us/pl/112/239/s611/7], as amended by [Pub. L. 113–66, § 1091(b)(3)][/us/pl/113/66/s1091/b/3], substituted “December 31, 2013” for “December 31, 2012”.
+    2013—Subsec. (e). [Pub. L. 112–239][/us/pl/112/239], which directed amendment of [section 408a(e) of this title][/us/usc/t37/s408a/e] by substituting “December 31, 2013” for “December 31, 2012”, was executed by making the substitution in this section to reflect the probable intent of Congress and the intervening amendment by [Pub. L. 112–81, § 631(d)(2)][/us/pl/112/81/s631/d/2], see 2011 Amendment note below.
 
     2011—[Pub. L. 112–81, § 631(d)(2)][/us/pl/112/81/s631/d/2], renumbered [section 408a of this title][/us/usc/t37/s408a] as this section.
 
     Subsec. (e). [Pub. L. 112–81, § 621][/us/pl/112/81/s621], substituted “December 31, 2012” for “December 31, 2011”.
 
     [Pub. L. 111–383][/us/pl/111/383] substituted “December 31, 2011” for “December 31, 2010”.
-
- __Effective Date of 2013 Amendment__ 
-
-    [Pub. L. 113–66, div. A, title X, § 1091(b)][/us/pl/113/66/s1091/b], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided in part that the amendment made by section 1091(b)(3) is effective as of Jan. 2, 2013, and as if included in [Pub. L. 112–239][/us/pl/112/239] as enacted.
 
  __Effective Date__ 
 
@@ -80,18 +74,13 @@
 [/us/stat/125/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1452
 [/us/pl/112/239/s611/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs611%2F7
 [/us/stat/126/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1776
-[/us/pl/113/66/s611/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs611%2F7
-[/us/stat/127/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F780
-[/us/pl/113/66/s611/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs611%2F7
-[/us/pl/112/239/s611/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs611%2F7
-[/us/pl/113/66/s1091/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb%2F3
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/usc/t37/s408a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs408a%2Fe
+[/us/pl/112/81/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fd%2F2
 [/us/pl/112/81/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fd%2F2
 [/us/usc/t37/s408a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs408a
 [/us/pl/112/81/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs621
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/113/66/s1091/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb
-[/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
-[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/110/181/s631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs631%2Fb
 [/us/stat/122/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F154
 [/us/pl/112/81/s631/f/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FB

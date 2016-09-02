@@ -15,15 +15,15 @@
 
 ## § 329. Incentive bonus: retired members and reserve component members volunteering for high-demand, low-density assignments
 
-    (a)  __Incentive Bonus Authorized__  __.—__ 
+    (a) __Incentive Bonus Authorized.—__ 
 
     The Secretary of Defense may pay a bonus under this section to a retired member or former member of the Army, Navy, Air Force, or Marine Corps or to a member of a reserve component of the Army, Navy, Air Force, or Marine Corps (who is not otherwise serving on active duty) who executes a written agreement to serve on active duty for a period specified in the agreement in an assignment intended to alleviate the need for members in a high-demand, low-density military capability or in any other specialty designated by the Secretary as critical to meet wartime or peacetime requirements.
 
-    (b)  __Maximum Amount of Bonus__  __.—__ 
+    (b) __Maximum Amount of Bonus.—__ 
 
     A bonus under subsection (a) and any incentive developed under subsection (d) may not exceed $50,000.
 
-    (c)  __Methods of Payment__  __.—__ 
+    (c) __Methods of Payment.—__ 
 
     At the election of the Secretary of Defense, a bonus under subsection (a) and any incentive developed under subsection (d) shall be paid or provided—
 
@@ -31,7 +31,7 @@
 
         (2) in annual installments in such amounts as may be determined by the Secretary.
 
-    (d)  __Development of Additional Incentives__  __.—__ 
+    (d) __Development of Additional Incentives.—__ 
 
         (1) The Secretary of Defense may develop and provide to members referred to in subsection (a) additional incentives to encourage such members to return to active duty in assignments intended to alleviate the need for members in a high-demand, low-density military capability or in other specialties designated by the Secretary as critical to meet wartime or peacetime requirements.
 
@@ -41,27 +41,27 @@
 
         (4) In this subsection, the term “congressional defense committees” has the meaning given that term in [section 101(a)(16) of title 10][/us/usc/t10/s101/a/16].
 
-    (e)  __Relationship to Other Pay and Allowances__  __.—__ 
+    (e) __Relationship to Other Pay and Allowances.—__ 
 
     A bonus or other incentive paid or provided to a member under this section is in addition to any other pay and allowances to which the member is entitled.
 
-    (f)  __Prohibition on Promotions__  __.—__ 
+    (f) __Prohibition on Promotions.—__ 
 
     The written agreement required by subsections (a) and (d) shall specify that a member who is paid or receives a bonus or other incentive under this section is not eligible for promotion while serving in the assignment for which the bonus or other incentive is provided.
 
-    (g)  __Repayment__  __.—__ 
+    (g) __Repayment.—__ 
 
     A member who does not complete the period of active duty specified in the agreement executed under subsection (a) or (d) shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-    (h)  __High-Demand, Low-Density Military Capability__  __.—__ 
+    (h) __High-Demand, Low-Density Military Capability.—__ 
 
     In this section, the term “high-demand, low-density military capability” means a combat, combat support or service support capability, unit, system, or occupational specialty that the Secretary of Defense determines has funding, equipment, or personnel levels that are substantially below the levels required to fully meet or sustain actual or expected operational requirements set by regional commanders.
 
-    (i)  __Regulations__  __.—__ 
+    (i) __Regulations.—__ 
 
     The Secretary of Defense may prescribe such regulations as the Secretary considers necessary to carry out this section.
 
-    (j)  __Termination of Authority__  __.—__ 
+    (j) __Termination of Authority.—__ 
 
     No agreement under subsection (a) or (d) may be entered into after December 31, 2010.
 

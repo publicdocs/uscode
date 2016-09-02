@@ -15,13 +15,13 @@
 
 ## § 301e. Multiyear retention bonus: dental officers of the armed forces
 
-    (a)  __Bonus Authorized__  __.—__ 
+    (a) __Bonus Authorized.—__ 
 
         (1) A dental officer described in subsection (b) who executes a written agreement to remain on active duty for two, three, or four years after completion of any other active-duty service commitment may, upon acceptance of the written agreement by the Secretary of the military department concerned, be paid a retention bonus as provided in this section.
 
         (2) The amount of a retention bonus under paragraph (1) may not exceed $50,000 for each year covered by a four-year agreement. The maximum yearly retention bonus for two-year and three-year agreements shall be reduced to reflect the shorter service commitment.
 
-    (b)  __Officers Automatically Eligible__  __.—__ 
+    (b) __Officers Automatically Eligible.—__ 
 
     Subsection (a) applies to an officer of the armed forces who—
 
@@ -35,11 +35,11 @@
 
         (5) has completed initial residency training (or will complete such training before September 30 of the fiscal year in which the officer enters into an agreement under subsection (a)).
 
-    (c)  __Extension of Bonus to Other Dental Officers__  __.—__ 
+    (c) __Extension of Bonus to Other Dental Officers.—__ 
 
     At the discretion of the Secretary of the military department concerned, the Secretary may enter into a written agreement described in subsection (a)(1) with a dental officer who does not have the dental specialty specified in subsection (b)(2), and pay a retention bonus to such an officer as provided in this section, if the officer otherwise satisfies the eligibility requirements specified in subsection (b). The Secretaries shall exercise the authority provided in this section in a manner consistent with regulations prescribed by the Secretary of Defense.
 
-    (d)  __Repayment__  __.—__ 
+    (d) __Repayment.—__ 
 
     An officer who does not complete the period of active duty specified in the agreement entered into under subsection (a) shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 

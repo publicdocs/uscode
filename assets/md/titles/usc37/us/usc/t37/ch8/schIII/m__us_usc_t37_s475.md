@@ -15,19 +15,19 @@
 
 ## § 475. Travel and transportation allowances: per diem while on duty outside the continental United States
 
-    (a)  __Per Diem Authorized__  __.—__ 
+    (a) __Per Diem Authorized.—__ 
 
     Without regard to the monetary limitation of this title, the Secretary concerned may pay a per diem to a member of the uniformed services who is on duty outside of the continental United States, whether or not the member is in a travel status. The Secretary may pay the per diem in advance of the accrual of the per diem.
 
-    (b)  __Determination of Per Diem__  __.—__ 
+    (b) __Determination of Per Diem.—__ 
 
     In determining the per diem to be paid under this section, the Secretary concerned shall consider all elements of the cost of living to members of the uniformed services under the Secretary’s jurisdiction and their dependents, including the cost of quarters, subsistence, and other necessary incidental expenses. However, dependents may not be considered in determining the per diem allowance for a member in a travel status.
 
-    (c)  __Treatment of Housing Cost and Allowance__  __.—__ 
+    (c) __Treatment of Housing Cost and Allowance.—__ 
 
     Housing cost and allowance may be disregarded in prescribing a station cost of living allowance under this section.
 
-    (d)  __Unusual or Extraordinary Expenses__  __.—__ 
+    (d) __Unusual or Extraordinary Expenses.—__ 
 
         (1)
 
@@ -41,11 +41,11 @@
 
         (2) Any reimbursement provided to a member under paragraph (1) is in addition to a per diem payable to that member under subsection (a) or (e).
 
-    (e)  __Payment of Allowance Based on Overseas Location of Dependents__  __.—__ 
+    (e) __Payment of Allowance Based on Overseas Location of Dependents.—__ 
 
     In the case of a member assigned to duty inside the continental United States whose dependents continue to reside outside the continental United States, the Secretary concerned may pay the member a per diem under this section based on the location of the dependents and provide reimbursement under subsection (d) for an unusual or extraordinary expense incurred by the dependents if the Secretary determines that such payment or reimbursement is in the best interest of the member or the member’s dependents and in the best interest of the United States.
 
-    (f)  __Termination__  __.—__ 
+    (f) __Termination.—__ 
 
     During and after the travel authorities expiration date, no per diem may be paid under this section for any period.
 

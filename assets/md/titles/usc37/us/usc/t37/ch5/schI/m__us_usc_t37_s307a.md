@@ -15,17 +15,17 @@
 
 ## § 307a. Special pay: assignment incentive pay
 
-    (a)  __Authority__  __.—__ 
+    (a) __Authority.—__ 
 
     The Secretary concerned may pay incentive pay under this section to a member of a uniformed service who performs service, while entitled to basic pay, in an assignment designated by the Secretary concerned. Incentive pay payable under this section may be paid on a monthly basis, in a lump sum, or in installments.
 
-    (b)  __Written Agreement__  __.—__ 
+    (b) __Written Agreement.—__ 
 
         (1) The Secretary concerned may require a member performing service in an assignment designated under subsection (a) to enter into a written agreement with the Secretary in order to qualify for the payment of incentive pay on a monthly basis under this section. The written agreement shall specify the period for which the incentive pay will be paid to the member and, subject to subsection (c), the monthly rate of the incentive pay.
 
         (2) The Secretary concerned shall require a member performing service in an assignment designated under subsection (a) to enter into a written agreement with the Secretary in order to qualify for the payment of incentive pay on a lump sum or installment basis under this section. The written agreement shall specify the period for which the incentive pay will be paid to the member and, subject to subsection (c), the amount of the lump sum, or each installment, of the incentive pay.
 
-    (c)  __Maximum Rate or Amount__  __.—__ 
+    (c) __Maximum Rate or Amount.—__ 
 
         (1) The maximum monthly rate of incentive pay payable to a member on a monthly basis under this section is $3,000.
 
@@ -47,15 +47,15 @@
 
         (4) If a member extends an assignment specified in an agreement with the Secretary under subsection (b), incentive pay for the period of the extension may be paid under this section on a monthly basis, in a lump sum, or in installments in accordance with this section.
 
-    (d)  __Repayment__  __.—__ 
+    (d) __Repayment.—__ 
 
     A member who enters into an agreement under this section and receives incentive pay under the agreement in a lump sum or installments, but who fails to complete the period of service covered by the payment, whether voluntarily or because of misconduct, shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-    (e)  __Relationship to Other Pay and Allowances__  __.—__ 
+    (e) __Relationship to Other Pay and Allowances.—__ 
 
     Incentive pay paid to a member under this section is in addition to any other pay and allowances to which the member is entitled.
 
-    (f)  __Status Not Affected by Temporary Duty or Leave__  __.—__ 
+    (f) __Status Not Affected by Temporary Duty or Leave.—__ 
 
     The service of a member in an assignment referred to in subsection (a) shall not be considered discontinued during any period that the member is not performing service in the assignment by reason of—
 
@@ -63,17 +63,15 @@
 
         (2) absence of the member for authorized leave, other than leave authorized for a period ending upon the discharge of the member or the release of the member from active duty.
 
-    (g)  __Termination of Authority__  __.—__ 
+    (g) __Termination of Authority.—__ 
 
-    No agreement under this section may be entered into after December 31, 2014.
+    No agreement under this section may be entered into after December 31, 2013.
 
-(Added [Pub. L. 107–314, div. A, title VI, § 616(a)(1)][/us/pl/107/314/s616/a/1], Dec. 2, 2002, [116 Stat. 2569][/us/stat/116/2569]; amended [Pub. L. 108–375, div. A, title VI][/us/pl/108/375], §§ 614(b), 617(a), (b), Oct. 28, 2004, [118 Stat. 1947][/us/stat/118/1947], 1948; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 624(b), 628, 687(b)(13), Jan. 6, 2006, [119 Stat. 3295][/us/stat/119/3295], 3296, 3329; [Pub. L. 109–364, div. A, title VI, § 614(b)][/us/pl/109/364/s614/b], Oct. 17, 2006, [120 Stat. 2248][/us/stat/120/2248]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 614(b), Oct. 14, 2008, [122 Stat. 4485][/us/stat/122/4485]; [Pub. L. 111–84, div. A, title VI, § 615(2)][/us/pl/111/84/s615/2], Oct. 28, 2009, [123 Stat. 2354][/us/stat/123/2354]; [Pub. L. 111–383, div. A, title VI, § 615(2)][/us/pl/111/383/s615/2], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 615(2)][/us/pl/112/81/s615/2], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 615(2)][/us/pl/112/239/s615/2], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777]; [Pub. L. 113–66, div. A, title VI, § 615(2)][/us/pl/113/66/s615/2], Dec. 26, 2013, [127 Stat. 781][/us/stat/127/781].)
+(Added [Pub. L. 107–314, div. A, title VI, § 616(a)(1)][/us/pl/107/314/s616/a/1], Dec. 2, 2002, [116 Stat. 2569][/us/stat/116/2569]; amended [Pub. L. 108–375, div. A, title VI][/us/pl/108/375], §§ 614(b), 617(a), (b), Oct. 28, 2004, [118 Stat. 1947][/us/stat/118/1947], 1948; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 624(b), 628, 687(b)(13), Jan. 6, 2006, [119 Stat. 3295][/us/stat/119/3295], 3296, 3329; [Pub. L. 109–364, div. A, title VI, § 614(b)][/us/pl/109/364/s614/b], Oct. 17, 2006, [120 Stat. 2248][/us/stat/120/2248]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 614(b), Oct. 14, 2008, [122 Stat. 4485][/us/stat/122/4485]; [Pub. L. 111–84, div. A, title VI, § 615(2)][/us/pl/111/84/s615/2], Oct. 28, 2009, [123 Stat. 2354][/us/stat/123/2354]; [Pub. L. 111–383, div. A, title VI, § 615(2)][/us/pl/111/383/s615/2], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 615(2)][/us/pl/112/81/s615/2], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 615(2)][/us/pl/112/239/s615/2], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777].)
 
  __Amendments__ 
 
-    2013—Subsec. (g). [Pub. L. 113–66][/us/pl/113/66] substituted “December 31, 2014” for “December 31, 2013”.
-
-    [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
+    2013—Subsec. (g). [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
 
     2011—Subsec. (g). [Pub. L. 112–81][/us/pl/112/81] substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -129,19 +127,19 @@
 
 [Pub. L. 110–181, div. A, title VI, § 624][/us/pl/110/181/s624], Jan. 28, 2008, [122 Stat. 153][/us/stat/122/153], as amended by [Pub. L. 111–383, div. A, title X, § 1075(f)(1)][/us/pl/111/383/s1075/f/1], Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375], provided that:
 
->     “(a)  __Payment__  __.—__ 
+>     “(a) __Payment.—__ 
 
 >     The Secretary of a military department may pay assignment incentive pay under [section 307a of title 37][/us/usc/t37/s307a], United States Code, to a member of a reserve component under the jurisdiction of the Secretary for each month during the eligibility period of the member determined under subsection (b) during which the member served for any portion of the month in a combat zone associated with Operation Enduring Freedom or Operation Iraqi Freedom in excess of 22 months of qualifying service.
 
->     “(b)  __Eligibility Period__  __.—__ 
+>     “(b) __Eligibility Period.—__ 
 
 >     The eligibility period for a member extends from January 1, 2005, through the end of the active duty service of the member in a combat zone associated with Operation Enduring Freedom or Operation Iraqi Freedom if the service on active duty during the member’s most recent period of mobilization to active duty began before January 19, 2007.
 
->     “(c)  __Amount of Payment__  __.—__ 
+>     “(c) __Amount of Payment.—__ 
 
 >     The monthly rate of incentive pay payable to a member under this section is $1,000.
 
->     “(d)  __Qualifying Service__  __.—__ 
+>     “(d) __Qualifying Service.—__ 
 
 >     For purposes of this section, qualifying service includes cumulative mobilized service on active duty under sections 12301(d), 12302, and 12304 of title 10, United States Code, during the period beginning on January 1, 2003, through the end of the member’s active duty service during the member’s most recent period of mobilization to active duty beginning before January 19, 2007.”
 
@@ -177,9 +175,6 @@
 [/us/stat/125/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1450
 [/us/pl/112/239/s615/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs615%2F2
 [/us/stat/126/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1777
-[/us/pl/113/66/s615/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs615%2F2
-[/us/stat/127/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F781
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

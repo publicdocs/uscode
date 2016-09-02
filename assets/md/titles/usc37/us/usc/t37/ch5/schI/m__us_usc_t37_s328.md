@@ -15,15 +15,15 @@
 
 ## § 328. Combat-related injury rehabilitation pay
 
-    (a)  __Special Pay Authorized__  __.—__ 
+    (a) __Special Pay Authorized.—__ 
 
     The Secretary concerned may pay monthly special pay under this section to a member of the armed forces who, while in the line of duty, incurs a wound, injury, or illness in a combat operation or combat zone designated by the Secretary of Defense and is evacuated from the theater of the combat operation or from the combat zone for medical treatment.
 
-    (b)  __Commencement of Payment__  __.—__ 
+    (b) __Commencement of Payment.—__ 
 
     Subject to subsection (c), the special pay authorized by subsection (a) may be paid to a member described in such subsection for any month beginning after the date on which the member was evacuated from the theater of the combat operation or the combat zone in which the member incurred the combat-related injury.
 
-    (c)  __Termination of Payments__  __.—__ 
+    (c) __Termination of Payments.—__ 
 
     The payment of special pay to a member under subsection (a) shall terminate at the end of the first month during which any of the following occurs:
 
@@ -33,11 +33,11 @@
 
         (3) The member is no longer hospitalized in a military treatment facility or a facility under the auspices of the military health care system.
 
-    (d)  __Amount of Special Pay__  __.—__ 
+    (d) __Amount of Special Pay.—__ 
 
     The monthly amount of special pay paid to a member under this section shall be equal to $430, less any payment received by the member for the same month under section 310(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-    (e)  __Relationship to Other Pay and Allowances__  __.—__ 
+    (e) __Relationship to Other Pay and Allowances.—__ 
 
     Special pay paid to a member under this section is in addition to any other pay and allowances to which the member is entitled or authorized to receive.
 

@@ -15,11 +15,11 @@
 
 ## § 463. Programs of compliance; electronic processing of travel claims
 
-    (a)  __Programs of Compliance__  __.—__ 
+    (a) __Programs of Compliance.—__ 
 
     The administering Secretaries shall provide for compliance with the requirements of this chapter through programs of compliance established and maintained for that purpose.
 
-    (b)  __Elements__  __.—__ 
+    (b) __Elements.—__ 
 
     The programs of compliance under subsection (a) shall—
 
@@ -27,7 +27,7 @@
 
         (2) ensure that benefits provided under this chapter do not exceed reasonable or actual and necessary expenses of travel claimed or reasonable allowances based on commercial travel rates.
 
-    (c)  __Electronic Processing of Travel Claims__  __.—__ 
+    (c) __Electronic Processing of Travel Claims.—__ 
 
         (1) By not later than the date that is five years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012, any travel claim under this chapter shall be processed electronically.
 

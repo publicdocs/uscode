@@ -15,17 +15,17 @@
 
 ## § 481l. Travel and transportation allowances: attendance of members and other persons at Yellow Ribbon Reintegration Program events
 
-    (a)  __Allowances Authorized__  __.—__ 
+    (a) __Allowances Authorized.—__ 
 
         (1) Under uniform regulations prescribed by the Secretaries concerned, a member of the uniformed services authorized to attend a Yellow Ribbon Reintegration Program event may be provided travel and transportation allowances in order that the member may attend a Yellow Ribbon Reintegration Program event.
 
         (2) Under uniform regulations prescribed by the Secretaries concerned, travel and transportation allowances may be provided for a person designated pursuant to subsection (b) in order for the person to accompany a member in attending a Yellow Ribbon Reintegration Program event if the Secretary concerned determines that the presence of the person at the event may contribute to the purposes of the event for the member.
 
-    (b)  __Designation of Persons Eligible for Allowance__  __.—__ 
+    (b) __Designation of Persons Eligible for Allowance.—__ 
 
     A member of the uniformed services who is eligible to attend a Yellow Ribbon Reintegration Program event may designate one or more persons, including another member of the uniformed services, for purposes of receiving travel and transportation allowances described in subsection (c) to attend a Yellow Ribbon Reintegration Program event. The designation of a person for purposes of this section shall be made in writing and may be changed at any time.
 
-    (c)  __Authorized Travel and Transportation__  __.—__ 
+    (c) __Authorized Travel and Transportation.—__ 
 
         (1) The transportation authorized by subsection (a) is round-trip transportation between the home or place of business of the authorized person and the location of the Yellow Ribbon Reintegration Program event.
 
@@ -45,11 +45,11 @@
 
         (5) Reimbursement payable under this subsection may not exceed the cost of Government-procured commercial round-trip air travel.
 
-    (d)  __Yellow Ribbon Reintegration Program Event Defined__  __.—__ 
+    (d) __Yellow Ribbon Reintegration Program Event Defined.—__ 
 
     In this section, the term “Yellow Ribbon Reintegration Program event” means an event authorized under section 582 of the National Defense Authorization Act for Fiscal Year 2008 ([Public Law 110–181][/us/pl/110/181]; [10 U.S.C. 10101][/us/usc/t10/s10101] note).
 
-    (e)  __Termination__  __.—__ 
+    (e) __Termination.—__ 
 
     No transportation, allowance, reimbursement, or per diem may be provided under this section for travel that begins after the travel authorities transition expiration date.
 

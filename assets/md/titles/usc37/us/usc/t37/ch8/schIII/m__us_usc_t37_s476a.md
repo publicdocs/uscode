@@ -15,7 +15,7 @@
 
 ## § 476a. Travel and transportation allowances: authorized for travel performed under orders that are canceled, revoked, or modified
 
-    (a)  __Authority__  __.—__ 
+    (a) __Authority.—__ 
 
     Under uniform regulations prescribed by the Secretaries concerned, a member of a uniformed service is entitled to travel and transportation allowances under [section 474 of this title][/us/usc/t37/s474], and to transportation of his dependents, baggage, and household effects under sections 476 and 479 of this title, if otherwise qualified, for travel performed before the effective date of orders that direct him to make a change of station and that are later—
 
@@ -23,7 +23,7 @@
 
         (2) modified to direct him to make a different change of station.
 
-    (b)  __Termination__  __.—__ 
+    (b) __Termination.—__ 
 
     No transportation or travel or transportation allowance may be provided under this section for travel that begins after the travel authorities transition expiration date.
 

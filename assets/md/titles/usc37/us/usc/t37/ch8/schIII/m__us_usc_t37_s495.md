@@ -15,17 +15,17 @@
 
 ## § 495. Funeral honors duty: allowance
 
-    (a)  __Allowance Authorized__  __.—__ 
+    (a) __Allowance Authorized.—__ 
 
         (1) The Secretary concerned may authorize payment of an allowance to a member of the Ready Reserve for any day on which the member performs at least two hours of funeral honors duty pursuant to [section 12503 of title 10][/us/usc/t10/s12503] or [section 115 of title 32][/us/usc/t32/s115].
 
         (2) The Secretary concerned may also authorize payment of that allowance to a member of the armed forces in a retired status for any day on which the member serves in a funeral honors detail under [section 1491 of title 10][/us/usc/t10/s1491], if the time required for service in such detail (including time for preparation) is not less than two hours. The amount of an allowance paid to a member under this paragraph shall be in addition to any other compensation to which the member may be entitled under this title or title 10 or 38.
 
-    (b)  __Amount__  __.—__ 
+    (b) __Amount.—__ 
 
     The daily rate of an allowance under this section is $50.
 
-    (c)  __Termination__  __.—__ 
+    (c) __Termination.—__ 
 
     No allowance may be paid under this section for any day after the travel authorities transition expiration date.
 

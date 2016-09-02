@@ -15,15 +15,15 @@
 
 ## § 305. Special pay: hardship duty pay
 
-    (a)  __Special Pay Authorized__  __.—__ 
+    (a) __Special Pay Authorized.—__ 
 
     A member of a uniformed service who is entitled to basic pay may be paid special pay under this section while the member is performing duty that is designated by the Secretary of Defense as hardship duty.
 
-    (b)  __Payment on Monthly or Lump Sum Basis__  __.—__ 
+    (b) __Payment on Monthly or Lump Sum Basis.—__ 
 
     Special pay payable under this section may be paid on a monthly basis or in a lump sum.
 
-    (c)  __Maximum Rate or Amount__  __.—__ 
+    (c) __Maximum Rate or Amount.—__ 
 
         (1) The monthly rate of special pay payable to a member under this section may not exceed $1,500.
 
@@ -35,15 +35,15 @@
 
             (B) the number of months during which the member will be performing the designated hardship duty.
 
-    (d)  __Relationship to Other Pay and Allowances__  __.—__ 
+    (d) __Relationship to Other Pay and Allowances.—__ 
 
     Special pay paid to a member under this section is in addition to any other pay and allowances to which the member is entitled.
 
-    (e)  __Repayment__  __.—__ 
+    (e) __Repayment.—__ 
 
     A member who is paid special pay in a lump sum under this section, but who fails to perform the designated hardship duty during the months included in the calculation of the amount of the lump sum under subsection (c)(2), shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-    (f)  __Regulations__  __.—__ 
+    (f) __Regulations.—__ 
 
     The Secretary of Defense shall prescribe regulations for the payment of hardship duty pay under this section, including the specific monthly rates at which the special pay will be available.
 

@@ -25,7 +25,7 @@
 
     (b)
 
-     Under regulations prescribed by the Secretary concerned, an officer of a uniformed service who—
+     Under regulations prescribed by the Secretary concerned, an officer of a  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “an”. </sup></sup>  uniformed service who—
 
         (1) is entitled to basic pay;
 

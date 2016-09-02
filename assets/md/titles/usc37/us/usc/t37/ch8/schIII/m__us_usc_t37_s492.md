@@ -23,6 +23,10 @@
 
 (Added [Pub. L. 99–661, div. A, title VI, § 615(a)(1)][/us/pl/99/661/s615/a/1], Nov. 14, 1986, [100 Stat. 3879][/us/stat/100/3879], § 431; renumbered § 432, [Pub. L. 100–26, § 8(b)(1)][/us/pl/100/26/s8/b/1], Apr. 21, 1987, [101 Stat. 285][/us/stat/101/285]; amended [Pub. L. 107–107, div. A, title IX, § 931(c)][/us/pl/107/107/s931/c], Dec. 28, 2001, [115 Stat. 1200][/us/stat/115/1200]; renumbered § 492 and amended [Pub. L. 112–81, div. A, title VI, § 631(d)(2)][/us/pl/112/81/s631/d/2], (e)(30), Dec. 31, 2011, [125 Stat. 1460][/us/stat/125/1460], 1464.)
 
+ __Prior Provisions__ 
+
+    Provisions similar to this section were contained in [section 192 of Title 10][/us/usc/t10/s192], Armed Forces, prior to enactment of this section by [Pub. L. 99–145][/us/pl/99/145].
+
  __Amendments__ 
 
     2011—[Pub. L. 112–81, § 631(d)(2)][/us/pl/112/81/s631/d/2], renumbered [section 432 of this title][/us/usc/t37/s432] as this section.
@@ -52,6 +56,8 @@
 [/us/stat/115/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1200
 [/us/pl/112/81/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fd%2F2
 [/us/stat/125/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1460
+[/us/usc/t10/s192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs192
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/112/81/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fd%2F2
 [/us/usc/t37/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs432
 [/us/pl/112/81/s631/e/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fe%2F30

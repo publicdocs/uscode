@@ -15,11 +15,11 @@
 
 ## § 481i. Travel and transportation allowances: parking expenses
 
-    (a)  __Reimbursement Authority__  __.—__ 
+    (a) __Reimbursement Authority.—__ 
 
     Under regulations prescribed by the Secretary of Defense, the Secretary of a military department may reimburse eligible Department of Defense personnel for expenses incurred after October 1, 2001, for parking a privately owned vehicle at a place of duty described in subsection (b).
 
-    (b)  __Eligibility__  __.—__ 
+    (b) __Eligibility.—__ 
 
     A member of the Army, Navy, Air Force, or Marine Corps or an employee of the Department of Defense may be reimbursed under subsection (a) for parking expenses while—
 
@@ -29,7 +29,7 @@
 
         (3) detailed for instructional and administrative duties at any institution where a unit of the Senior Reserve Officers’ Training Corps is maintained.
 
-    (c)  __Termination__  __.—__ 
+    (c) __Termination.—__ 
 
     No reimbursement may be provided under this section for expenses incurred after the travel authorities transition expiration date.
 

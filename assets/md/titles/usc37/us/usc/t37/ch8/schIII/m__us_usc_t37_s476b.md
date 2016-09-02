@@ -19,17 +19,13 @@
 
     (b) Transportation in kind, reimbursement for personally procured transportation, or a monetary allowance in place of the cost of transportation as provided in [section 474(d)(1) of this title][/us/usc/t37/s474/d/1] may be provided, in lieu of the member’s entitlement to transportation, for the member’s dependents from the location that was the home port of the ship before commencement of overhaul or inactivation to the port of overhaul or inactivation. The total reimbursement for transportation for the member’s dependents may not exceed the cost of Government-procured commercial round-trip travel.
 
-    (c) In any case in which a member of the uniformed services is assigned to permanent duty aboard a ship that undergoes a change of home port to the overhaul or inactivation port, the dependents of the member may be provided transportation allowances prescribed in subsections (a) and (b) in lieu of the transportation authorized by [section 476 of this title][/us/usc/t37/s476] and section 2634  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 10.
+    (c) In any case in which a member of the uniformed services is assigned to permanent duty aboard a ship that undergoes a change of home port to the overhaul or inactivation port, the dependents of the member may be provided transportation allowances prescribed in subsections (a) and (b) in lieu of the transportation authorized by [section 476 of this title][/us/usc/t37/s476] and [section 2634 of title 10][/us/usc/t10/s2634].
 
     (d) [Section 421 of this title][/us/usc/t37/s421] does not apply with respect to transportation or allowances provided under this section.
 
     (e) No transportation or allowance may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
 (Added [Pub. L. 91–210, § 1(1)][/us/pl/91/210/s1/1], Mar. 13, 1970, [84 Stat. 53][/us/stat/84/53], § 406b; amended [Pub. L. 93–170][/us/pl/93/170], Nov. 29, 1973, [87 Stat. 689][/us/stat/87/689]; [Pub. L. 96–513, title V, § 516(11)][/us/pl/96/513/s516/11], Dec. 12, 1980, [94 Stat. 2938][/us/stat/94/2938]; [Pub. L. 97–22, § 11(b)(3)(A)][/us/pl/97/22/s11/b/3/A], July 10, 1981, [95 Stat. 138][/us/stat/95/138]; [Pub. L. 99–145, title VI, § 616(a)][/us/pl/99/145/s616/a], (c)(1), Nov. 8, 1985, [99 Stat. 641][/us/stat/99/641]; [Pub. L. 100–26, § 8(d)(7)][/us/pl/100/26/s8/d/7], Apr. 21, 1987, [101 Stat. 285][/us/stat/101/285]; [Pub. L. 100–180, div. A, title XII, § 1233(a)(3)][/us/pl/100/180/s1233/a/3], Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161]; [Pub. L. 101–189, div. A, title VI, § 624(b)][/us/pl/101/189/s624/b], Nov. 29, 1989, [103 Stat. 1448][/us/stat/103/1448]; [Pub. L. 102–484, div. A, title X, § 1054(a)(5)][/us/pl/102/484/s1054/a/5], Oct. 23, 1992, [106 Stat. 2502][/us/stat/106/2502]; renumbered § 476b and amended [Pub. L. 112–81, div. A, title VI, § 631(d)(2)][/us/pl/112/81/s631/d/2], (e)(8), (f)(4)(A), Dec. 31, 2011, [125 Stat. 1460][/us/stat/125/1460], 1462, 1465; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948].)
-
- __References in Text__ 
-
-    [Section 2634 of title 10][/us/usc/t10/s2634], referred to in subsec. (c), was repealed by [Pub. L. 113–66, div. A, title VI, § 621(g)(1)][/us/pl/113/66/s621/g/1], Dec. 26, 2013, [127 Stat. 784][/us/stat/127/784].
 
  __Amendments__ 
 
@@ -85,6 +81,7 @@
 [/us/usc/t37/s474/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs474%2Fd%2F3
 [/us/usc/t37/s474/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs474%2Fd%2F1
 [/us/usc/t37/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs476
+[/us/usc/t10/s2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2634
 [/us/usc/t37/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs421
 [/us/pl/91/210/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F210%2Fs1%2F1
 [/us/stat/84/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F53
@@ -108,9 +105,6 @@
 [/us/stat/125/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1460
 [/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
-[/us/usc/t10/s2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2634
-[/us/pl/113/66/s621/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs621%2Fg%2F1
-[/us/stat/127/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F784
 [/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
 [/us/pl/112/81/s631/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FA
 [/us/pl/112/81/s631/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FA

@@ -15,7 +15,7 @@
 
 ## § 303. Special pay: veterinarians
 
-    (a)  __Monthly Special Pay__  __.—__ 
+    (a) __Monthly Special Pay.—__ 
 
     Each of the following officers is entitled to special pay at the rate of $100 a month for each month of active duty:
 
@@ -49,7 +49,7 @@
 
         (3) A general officer of the Army or the Air Force appointed, from any of the categories named in clause (1) or (2), in the Army, the Air Force, or the National Guard, as the case may be.
 
-    (b)  __Additional Special Pay for Board Certification__  __.—__ 
+    (b) __Additional Special Pay for Board Certification.—__ 
 
     A commissioned officer entitled to special pay under subsection (a) who has been certified as a Diplomate in a specialty recognized by the American Veterinarian Medical Association is entitled to special pay (in addition to the special pay under subsection (a)) at the same rate as is provided under [section 302c(b) of this title][/us/usc/t37/s302c/b] for an officer referred to in that section who has the same number of years of creditable service as the commissioned officer.
 

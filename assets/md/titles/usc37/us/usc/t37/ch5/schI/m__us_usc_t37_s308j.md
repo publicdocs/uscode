@@ -15,7 +15,7 @@
 
 ## § 308j. Special pay: affiliation bonus for officers in the Selected Reserve
 
-    (a)  __Affiliation Bonus__  __.—__ 
+    (a) __Affiliation Bonus.—__ 
 
         (1)
 
@@ -53,7 +53,7 @@
 
         (4) An affiliation bonus payable pursuant to an agreement under this section to an eligible officer accrues on the date on which the person is assigned to a unit or position in the Selected Reserve pursuant to such agreement.
 
-    (b)  __Accession Bonus__  __.—__ 
+    (b) __Accession Bonus.—__ 
 
         (1)
 
@@ -71,25 +71,25 @@
 
         (3) An accession bonus payable to a person pursuant to an agreement under this section accrues on the date on which that agreement is accepted by the Secretary concerned.
 
-    (c)  __Period of Obligated Service__  __.—__ 
+    (c) __Period of Obligated Service.—__ 
 
     An agreement entered into with the Secretary concerned under this section shall require the person entering into that agreement to serve in the Selected Reserve for a specified period. The period specified in the agreement shall be any period not less than three years that the Secretary concerned determines appropriate to meet the needs of the reserve component in which the service is to be performed.
 
-    (d)  __Amount__  __.—__ 
+    (d) __Amount.—__ 
 
     The amount of a bonus under this section may be any amount not in excess of $20,000 that the Secretary concerned determines appropriate.
 
-    (e)  __Payment__  __.—__ 
+    (e) __Payment.—__ 
 
         (1) Upon acceptance of a written agreement by the Secretary concerned under this section, the total amount of the bonus payable under the agreement becomes fixed. The agreement shall specify whether the bonus is to be paid in one lump sum or in installments.
 
         (2) A person entitled to a bonus under this section who is called or ordered to active duty shall be paid, during that period of active duty, any amount of the bonus that becomes payable to the member during that period of active duty.
 
-    (f)  __Relation to Other Accession Bonus Authority__  __.—__ 
+    (f) __Relation to Other Accession Bonus Authority.—__ 
 
     A person may not receive an affiliation bonus or accession bonus under this section and financial assistance under chapter 1608, 1609, or 1611 of title 10, or under [section 302g of this title][/us/usc/t37/s302g], for the same period of service.
 
-    (g)  __Repayment__  __.—__ 
+    (g) __Repayment.—__ 
 
     A person who enters into an agreement under this section and receives all or part of the bonus under the agreement, but who does not accept a commission or an appointment as an officer or does not commence to participate or does not satisfactorily participate in the Selected Reserve for the total period of service specified in the agreement, shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 

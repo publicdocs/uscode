@@ -15,7 +15,7 @@
 
 ## § 414. Personal money allowance
 
-    (a)  __Allowance for Officers Serving in Certain Ranks or Positions__  __.—__ 
+    (a) __Allowance for Officers Serving in Certain Ranks or Positions.—__ 
 
     In addition to other pay or allowances authorized by this title, an officer who is entitled to basic pay is entitled to a personal money allowance of—
 
@@ -29,7 +29,7 @@
 
         (5) $4,000 a year, in place of any other personal money allowance authorized by this section, while serving as Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, or Commandant of the Coast Guard.
 
-    (b)  __Allowance for Certain Naval Officers__  __.—__ 
+    (b) __Allowance for Certain Naval Officers.—__ 
 
     In addition to other pay or allowances authorized by law, an officer who is serving in one of the following positions is entitled to the amount set forth for that position, to be paid annually out of naval appropriations for pay, and to be spent in his discretion for the contingencies of his position—
 
@@ -43,7 +43,7 @@
 
         (5) Director of Naval Intelligence—$5,200.
 
-    (c)  __Allowance for Senior Enlisted Members__  __.—__ 
+    (c) __Allowance for Senior Enlisted Members.—__ 
 
     In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer of the Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, the Master Chief Petty Officer of the Coast Guard, or the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.
 

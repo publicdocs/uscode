@@ -15,13 +15,13 @@
 
 ## § 301d. Multiyear retention bonus: medical officers of the armed forces
 
-    (a)  __Bonus Authorized__  __.—__ 
+    (a) __Bonus Authorized.—__ 
 
         (1) A medical officer described in subsection (b) who executes a written agreement to remain on active duty for two, three, or four years after completion of any other active-duty service commitment may, upon acceptance of the written agreement by the Secretary of the military department concerned, be paid a retention bonus as provided in this section.
 
         (2) The amount of a retention bonus under paragraph (1) may not exceed $75,000 for each year covered by a four-year agreement. The maximum yearly retention bonus for two-year and three-year agreements shall be reduced to reflect the shorter service commitment.
 
-    (b)  __Eligible Officers__  __.—__ 
+    (b) __Eligible Officers.—__ 
 
     This section applies to an officer of the armed forces who—
 
@@ -33,7 +33,7 @@
 
         (4) has completed initial residency training (or will complete such training before September 30 of the fiscal year in which the officer enters into an agreement under subsection (a)).
 
-    (c)  __Repayment__  __.—__ 
+    (c) __Repayment.—__ 
 
     An officer who does not complete the period of active duty specified in the agreement entered into under subsection (a) shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
@@ -71,7 +71,7 @@
 
 [Pub. L. 102–190, div. A, title VI, § 615][/us/pl/102/190/s615], Dec. 5, 1991, [105 Stat. 1377][/us/stat/105/1377], provided that:
 
->     “(a)  __Reiterating Ineligibility__  __.—__ 
+>     “(a) __Reiterating Ineligibility.—__ 
 
 >     The restriction contained in subsection (b)(2) of [section 301d of title 37][/us/usc/t37/s301d], United States Code, on the eligibility of flag and general officers serving as full-time physicians to receive a multiyear retention bonus under that section shall not be construed as being limited, modified, or superseded by any provision of law, whether enacted before, on, or after the date of the enactment of this Act \[Dec. 5, 1991\], unless that provision of law—
 
@@ -79,7 +79,7 @@
 
 >         “(2) identifies the flag and general officers affected by that provision.
 
->     “(b)  __Savings Provision__  __.—__ 
+>     “(b) __Savings Provision.—__ 
 
 >         (1) A medical officer of the Armed Forces who is a flag or general officer and has received any payment of a bonus under [section 301d of title 37][/us/usc/t37/s301d], United States Code, before the date of the enactment of this Act \[Dec. 5, 1991\] may not be required to reimburse the United States for such payment by reason of the enactment of subsection (a).
 

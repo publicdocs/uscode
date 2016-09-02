@@ -15,11 +15,11 @@
 
 ## § 474b. Travel and transportation allowances: payment of lodging expenses at temporary duty location during authorized absence of member
 
-    (a)  __Payment or Reimbursement Authorized__  __.—__ 
+    (a) __Payment or Reimbursement Authorized.—__ 
 
     The Secretary concerned may pay or reimburse a member of the armed forces assigned to temporary duty as described in subsection (b) for lodging expenses incurred by the member at the temporary duty location during an authorized absence of the member from the temporary duty location.
 
-    (b)  __Covered Members__  __.—__ 
+    (b) __Covered Members.—__ 
 
     Subsection (a) applies with respect to a member assigned to temporary duty, for a period of more than 30 days, in support of a contingency operation or in other specific situations designated by the Secretary concerned if the member——
 
@@ -29,7 +29,7 @@
 
         (3) before the end of the authorized absence, returns to the duty location.
 
-    (c)  __Payment Limitation__  __.—__ 
+    (c) __Payment Limitation.—__ 
 
     The amount paid or reimbursed under subsection (a) for a member may not exceed the lesser of—
 
@@ -37,11 +37,11 @@
 
         (2) the lodging portion of the applicable daily per diem rate for the temporary duty location.
 
-    (d)  __Authorized Absence Defined__  __.—__ 
+    (d) __Authorized Absence Defined.—__ 
 
     In this section, the term “authorized absence”, with respect to a member, means that the member is in an authorized leave status or that the absence of the member is otherwise authorized under regulations prescribed by the Secretary concerned.
 
-    (e)  __Termination__  __.—__ 
+    (e) __Termination.—__ 
 
     No payment or reimbursement may be provided under this section with respect to an authorized absence that begins after the travel authorities transition expiration date.
 

@@ -265,11 +265,11 @@ Oct. 12, 1949, ch. 681, § 202 (less proviso of (d)), 63 Stat. 807; Apr. 30, 1
 
 [Pub. L. 109–163, div. A, title VI, § 685(a)][/us/pl/109/163/s685/a], Jan. 6, 2006, [119 Stat. 3325][/us/stat/119/3325], as amended by [Pub. L. 109–364, div. A, title X, § 1071(e)(5)][/us/pl/109/364/s1071/e/5], Oct. 17, 2006, [120 Stat. 2401][/us/stat/120/2401], provided that:
 
->     “(1)  __Equal treatment__  __.—__ 
+>     “(1) __Equal treatment.—__ 
 
 >     The rate of basic pay for an enlisted member in the grade E–9 while serving as Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff shall be the same as the rate of basic pay for an enlisted member in that grade while serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, or Master Chief Petty Officer of the Coast Guard, regardless of cumulative years of service computed under [section 205 of title 37][/us/usc/t37/s205], United States Code.
 
->     “(2)  __Effective date__  __.—__ 
+>     “(2) __Effective date.—__ 
 
 >     Paragraph (1) shall apply beginning on the date on which an enlisted member of the Armed Forces is first appointed to serve as Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.”
 

@@ -15,7 +15,7 @@
 
 ## § 320. Incentive pay: career enlisted flyers
 
-    (a)  __Eligible Career Enlisted Flyer Defined__  __.—__ 
+    (a) __Eligible Career Enlisted Flyer Defined.—__ 
 
     In this section, the term “eligible career enlisted flyer” means an enlisted member of the armed forces who—
 
@@ -27,13 +27,13 @@
 
         (4) satisfies the operational flying duty requirements applicable under subsection (c).
 
-    (b)  __Incentive Pay Authorized__  __.—__ 
+    (b) __Incentive Pay Authorized.—__ 
 
         (1) The Secretary concerned may pay monthly incentive pay to an eligible career enlisted flyer in an amount not to exceed the monthly maximum amounts specified in subsection (d). The incentive pay may be paid as continuous monthly incentive pay or on a month-to-month basis, dependent upon the operational flying duty performed by the eligible career enlisted flyer as prescribed in subsection (c).
 
         (2) Continuous monthly incentive pay may not be paid to an eligible career enlisted flyer after the member completes 25 years of aviation service. Thereafter, an eligible career enlisted flyer may still receive incentive pay on a month-to-month basis under subsection (c)(4) for the frequent and regular performance of operational flying duty.
 
-    (c)  __Operational Flying Duty Requirements__  __.—__ 
+    (c) __Operational Flying Duty Requirements.—__ 
 
         (1) An eligible career enlisted flyer must perform operational flying duties for 6 of the first 10, 9 of the first 15, and 14 of the first 20 years of aviation service, to be eligible for continuous monthly incentive pay under this section.
 
@@ -43,7 +43,7 @@
 
         (4) If the eligibility of an eligible career enlisted flyer to continuous monthly incentive pay ceases under subsection (b)(2) or paragraph (2), the member may still receive month-to-month incentive pay for subsequent frequent and regular performance of operational flying duty. The rate payable is the same rate authorized by the Secretary concerned under subsection (d) for a member of corresponding years of aviation service.
 
-    (d)  __Monthly Maximum Rates__  __.—__ 
+    (d) __Monthly Maximum Rates.—__ 
 
     The monthly rate of any career enlisted flyer incentive pay paid under this section to a member on active duty shall be prescribed by the Secretary concerned, but may not exceed the following:
 
@@ -111,23 +111,23 @@
 
     </table>
 
-    (e)  __Eligibility of Reserve Component Members When Performing Inactive Duty Training__  __.—__ 
+    (e) __Eligibility of Reserve Component Members When Performing Inactive Duty Training.—__ 
 
     Under regulations prescribed by the Secretary concerned, when a member of a reserve component or the National Guard, who is entitled to compensation under [section 206 of this title][/us/usc/t37/s206], meets the definition of eligible career enlisted flyer, the Secretary concerned may increase the member’s compensation by an amount equal to 1⁄30 of the monthly incentive pay authorized by the Secretary concerned under subsection (d) for a member of corresponding years of aviation service who is entitled to basic pay under [section 204 of this title][/us/usc/t37/s204]. The reserve component member may receive the increase for as long as the member is qualified for it, for each regular period of instruction or period of appropriate duty, at which the member is engaged for at least two hours, or for the performance of such other equivalent training, instruction, duty or appropriate duties, as the Secretary may prescribe under [section 206(a) of this title][/us/usc/t37/s206/a].
 
-    (f)  __Relation to Hazardous Duty Incentive Pay or Diving Duty Special Pay__  __.—__ 
+    (f) __Relation to Hazardous Duty Incentive Pay or Diving Duty Special Pay.—__ 
 
     A member receiving incentive pay under [section 301(a) of this title][/us/usc/t37/s301/a] or special pay under [section 304 of this title][/us/usc/t37/s304] may not be paid special pay under this section for the same period of service.
 
-    (g)  __Save Pay Provision__  __.—__ 
+    (g) __Save Pay Provision.—__ 
 
     If, immediately before a member receives incentive pay under this section, the member was entitled to incentive pay under [section 301(a) of this title][/us/usc/t37/s301/a], the rate at which the member is paid incentive pay under this section shall be equal to the higher of the monthly amount applicable under subsection (d) or the rate of incentive pay the member was receiving under subsection (b) or (c)(2)(A) of [section 301 of this title][/us/usc/t37/s301].
 
-    (h)  __Specialty Code of Dropsonde System Operators__  __.—__ 
+    (h) __Specialty Code of Dropsonde System Operators.—__ 
 
     Within the Air Force, the Secretary of the Air Force shall assign to members who are dropsonde system operators a specialty code that identifies such members as serving in a weather specialty.
 
-    (i)  __Definitions__  __.—__ 
+    (i) __Definitions.—__ 
 
     In this section:
 
