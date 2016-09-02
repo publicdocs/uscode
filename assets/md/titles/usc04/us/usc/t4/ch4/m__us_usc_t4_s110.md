@@ -15,7 +15,7 @@
 
 ## § 110. Same; definitions
 
-As used in sections 105–109 of this title—
+    As used in sections 105–109 of this title—
 
     (a) The term “person” shall have the meaning assigned to it in [section 3797 of title 26][/us/usc/t26/s3797].
 

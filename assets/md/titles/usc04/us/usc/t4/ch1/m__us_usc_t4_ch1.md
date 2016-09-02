@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs1" data-uslm-ref="/us/usc/t4/s1">1.</a>  </td>
 
     <td> Flag; stripes and stars on.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs2" data-uslm-ref="/us/usc/t4/s2">2.</a>  </td>
 
     <td> Same; additional stars.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs3" data-uslm-ref="/us/usc/t4/s3">3.</a>  </td>
 
     <td> Use of flag for advertising purposes; mutilation of flag.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs4" data-uslm-ref="/us/usc/t4/s4">4.</a>  </td>
 
     <td> Pledge of allegiance to the flag; manner of delivery.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs5" data-uslm-ref="/us/usc/t4/s5">5.</a>  </td>
 
     <td> Display and use of flag by civilians; codification of rules and customs; definition.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs6" data-uslm-ref="/us/usc/t4/s6">6.</a>  </td>
 
     <td> Time and occasions for display.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs7" data-uslm-ref="/us/usc/t4/s7">7.</a>  </td>
 
     <td> Position and manner of display.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs8" data-uslm-ref="/us/usc/t4/s8">8.</a>  </td>
 
     <td> Respect for flag.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs9" data-uslm-ref="/us/usc/t4/s9">9.</a>  </td>
 
     <td> Conduct during hoisting, lowering or passing of flag.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs10" data-uslm-ref="/us/usc/t4/s10">10.</a>  </td>
 
     <td> Modification of rules and customs by President.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 125. Nonseverability
 
-If a court of competent jurisdiction enters a final judgment on the merits that—
+    If a court of competent jurisdiction enters a final judgment on the merits that—
 
     (1) is based on Federal law;
 
@@ -23,7 +23,7 @@ If a court of competent jurisdiction enters a final judgment on the merits that�
 
     (3) substantially limits or impairs the essential elements of sections 116 through 126 of this title,
 
-        then sections 116 through 126 of this title are invalid and have no legal effect as of the date of entry of such judgment.
+    then sections 116 through 126 of this title are invalid and have no legal effect as of the date of entry of such judgment.
 
 (Added [Pub. L. 106–252, § 2(a)][/us/pl/106/252/s2/a], July 28, 2000, [114 Stat. 632][/us/stat/114/632].)
 

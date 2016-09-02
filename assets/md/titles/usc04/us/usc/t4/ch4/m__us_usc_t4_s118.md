@@ -15,7 +15,7 @@
 
 ## § 118. Limitations
 
-Sections 116 through 126 of this title do not—
+    Sections 116 through 126 of this title do not—
 
     (1) provide authority to a taxing jurisdiction to impose a tax, charge, or fee that the laws of such jurisdiction do not authorize such jurisdiction to impose; or
 

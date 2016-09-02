@@ -15,7 +15,7 @@
 
 ## § 124. Definitions
 
-In sections 116 through 126 of this title:
+    In sections 116 through 126 of this title:
 
     (1) __Charges for mobile telecommunications services.—__ 
 

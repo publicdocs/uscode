@@ -15,7 +15,7 @@
 
 ## § 7. Position and manner of display
 
-The flag, when carried in a procession with another flag or flags, should be either on the marching right; that is, the flag’s own right, or, if there is a line of other flags, in front of the center of that line.
+    The flag, when carried in a procession with another flag or flags, should be either on the marching right; that is, the flag’s own right, or, if there is a line of other flags, in front of the center of that line.
 
     (a) The flag should not be displayed on a float in a parade except from a staff, or as provided in subsection (i) of this section.
 

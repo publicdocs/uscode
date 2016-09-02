@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs101" data-uslm-ref="/us/usc/t4/s101">101.</a>  </td>
 
     <td> Oath by members of legislatures and officers.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs102" data-uslm-ref="/us/usc/t4/s102">102.</a>  </td>
 
     <td> Same; by whom administered.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs103" data-uslm-ref="/us/usc/t4/s103">103.</a>  </td>
 
     <td> Assent to purchase of lands for forts.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs104" data-uslm-ref="/us/usc/t4/s104">104.</a>  </td>
 
     <td> Tax on motor fuel sold on military or other reservation; reports to State taxing authority.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs105" data-uslm-ref="/us/usc/t4/s105">105.</a>  </td>
 
     <td> State, etc., taxation affecting Federal areas; sales or use tax. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs106" data-uslm-ref="/us/usc/t4/s106">106.</a>  </td>
 
     <td> Same; income tax.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs107" data-uslm-ref="/us/usc/t4/s107">107.</a>  </td>
 
     <td> Same; exception of United States, its instrumentalities, and authorized purchasers therefrom.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs108" data-uslm-ref="/us/usc/t4/s108">108.</a>  </td>
 
     <td> Same; jurisdiction of United States over Federal areas unaffected.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs109" data-uslm-ref="/us/usc/t4/s109">109.</a>  </td>
 
     <td> Same; exception of Indians.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs110" data-uslm-ref="/us/usc/t4/s110">110.</a>  </td>
 
     <td> Same; definitions.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs111" data-uslm-ref="/us/usc/t4/s111">111.</a>  </td>
 
     <td> Same; taxation affecting Federal employees; income tax.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs112" data-uslm-ref="/us/usc/t4/s112">112.</a>  </td>
 
     <td> Compacts between States for cooperation in prevention of crime; consent of Congress.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs113" data-uslm-ref="/us/usc/t4/s113">113.</a>  </td>
 
     <td> Residence of Members of Congress for State income tax laws.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs114" data-uslm-ref="/us/usc/t4/s114">114.</a>  </td>
 
     <td> Limitation on State income taxation of certain pension income  <sup>[2]</sup>  <sup><sup> 2 So in original. Probably should be followed by a period. </sup></sup>   </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs115" data-uslm-ref="/us/usc/t4/s115">115.</a>  </td>
 
     <td> Limitation on State authority to tax compensation paid to individuals performing services at Fort Campbell, Kentucky.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs116" data-uslm-ref="/us/usc/t4/s116">116.</a>  </td>
 
     <td> Rules for determining State and local government treatment of charges related to mobile telecommunications services.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs117" data-uslm-ref="/us/usc/t4/s117">117.</a>  </td>
 
     <td> Sourcing rules.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs118" data-uslm-ref="/us/usc/t4/s118">118.</a>  </td>
 
     <td> Limitations.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 119.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs119" data-uslm-ref="/us/usc/t4/s119">119.</a>  </td>
 
     <td> Electronic databases for nationwide standard numeric jurisdictional codes.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 120.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs120" data-uslm-ref="/us/usc/t4/s120">120.</a>  </td>
 
     <td> Procedure if no electronic database provided.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs121" data-uslm-ref="/us/usc/t4/s121">121.</a>  </td>
 
     <td> Correction of erroneous data for place of primary use.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs122" data-uslm-ref="/us/usc/t4/s122">122.</a>  </td>
 
     <td> Determination of place of primary use.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs123" data-uslm-ref="/us/usc/t4/s123">123.</a>  </td>
 
     <td> Scope; special rules.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs124" data-uslm-ref="/us/usc/t4/s124">124.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 125.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs125" data-uslm-ref="/us/usc/t4/s125">125.</a>  </td>
 
     <td> Nonseverability.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 126.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs126" data-uslm-ref="/us/usc/t4/s126">126.</a>  </td>
 
     <td> No inference.  </td>
 

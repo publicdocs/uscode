@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 41.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs41" data-uslm-ref="/us/usc/t4/s41">41.</a>  </td>
 
     <td> Seal of the United States.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 42.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs42" data-uslm-ref="/us/usc/t4/s42">42.</a>  </td>
 
     <td> Same; custody and use of.  </td>
 

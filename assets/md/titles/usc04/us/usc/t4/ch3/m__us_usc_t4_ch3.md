@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 71.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs71" data-uslm-ref="/us/usc/t4/s71">71.</a>  </td>
 
     <td> Permanent seat of Government.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 72.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs72" data-uslm-ref="/us/usc/t4/s72">72.</a>  </td>
 
     <td> Public offices; at seat of Government.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 73.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs73" data-uslm-ref="/us/usc/t4/s73">73.</a>  </td>
 
     <td> Same; removal from seat of Government.  </td>
 

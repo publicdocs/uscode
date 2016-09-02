@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs141" data-uslm-ref="/us/usc/t4/s141">141.</a>  </td>
 
     <td> Collection, preparation and publication.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs142" data-uslm-ref="/us/usc/t4/s142">142.</a>  </td>
 
     <td> Appointment of experts.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs143" data-uslm-ref="/us/usc/t4/s143">143.</a>  </td>
 
     <td> Employment and utilization of other personnel; cost of copy reading and indexing.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs144" data-uslm-ref="/us/usc/t4/s144">144.</a>  </td>
 
     <td> Cooperation of departments and agencies.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs145" data-uslm-ref="/us/usc/t4/s145">145.</a>  </td>
 
     <td> Printing and distribution.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 146.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs146" data-uslm-ref="/us/usc/t4/s146">146.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

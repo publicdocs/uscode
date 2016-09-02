@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t4/ch1/m__us_usc_t4_ch1.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft4)
 
-# 
-
-Title 4—FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
+# Title 4—FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
 
 This title was enacted by [act July 30, 1947, ch. 389, § 1][/us/act/1947-07-30/ch389/s1], [61 Stat. 641][/us/stat/61/641]
+
+Current through 113–44
 
 <table>
 
@@ -33,51 +33,51 @@ This title was enacted by [act July 30, 1947, ch. 389, § 1][/us/act/1947-07-3
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fch1" data-uslm-ref="/us/usc/t4/ch1">1.</a>  </td>
 
     <td> The Flag  </td>
 
-    <td> 1  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs1" data-uslm-ref="/us/usc/t4/s1">1</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fch2" data-uslm-ref="/us/usc/t4/ch2">2.</a>  </td>
 
     <td> The Seal  </td>
 
-    <td> 41  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs41" data-uslm-ref="/us/usc/t4/s41">41</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fch3" data-uslm-ref="/us/usc/t4/ch3">3.</a>  </td>
 
     <td> Seat of the Government  </td>
 
-    <td> 71  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs71" data-uslm-ref="/us/usc/t4/s71">71</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fch4" data-uslm-ref="/us/usc/t4/ch4">4.</a>  </td>
 
     <td> The States  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs101" data-uslm-ref="/us/usc/t4/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fch5" data-uslm-ref="/us/usc/t4/ch5">5.</a>  </td>
 
     <td> Official Territorial Papers  </td>
 
-    <td> 141  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft4%2Fs141" data-uslm-ref="/us/usc/t4/s141">141</a>  </td>
 
   </tr>
 

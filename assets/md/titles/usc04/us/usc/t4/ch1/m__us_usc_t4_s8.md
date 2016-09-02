@@ -15,7 +15,7 @@
 
 ## § 8. Respect for flag
 
-No disrespect should be shown to the flag of the United States of America; the flag should not be dipped to any person or thing. Regimental colors, State flags, and organization or institutional flags are to be dipped as a mark of honor.
+    No disrespect should be shown to the flag of the United States of America; the flag should not be dipped to any person or thing. Regimental colors, State flags, and organization or institutional flags are to be dipped as a mark of honor.
 
     (a) The flag should never be displayed with the union down, except as a signal of dire distress in instances of extreme danger to life or property.
 
