@@ -55,7 +55,7 @@
 
          The Department of Energy should provide local impact assistance to communities that are affected by the restructuring plan and coordinate the provision of such assistance with—
 
-            (A) programs carried out by the Secretary of Labor under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.);
+            (A) programs carried out by the Secretary of Labor under title I of the Workforce Innovation and Opportunity Act \[[29 U.S.C. 3111][/us/usc/t29/s3111] et seq.\];
 
             (B) programs carried out pursuant to the Defense Economic Adjustment, Diversification, Conversion, and Stabilization Act of 1990 (division D of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2391][/us/usc/t10/s2391] note); and
 
@@ -95,15 +95,11 @@
 
 ([Pub. L. 107–314, div. D, title XLVI, § 4604][/us/pl/107/314/s4604], formerly [Pub. L. 102–484, div. C, title XXXI, § 3161][/us/pl/102/484/s3161], Oct. 23, 1992, [106 Stat. 2644][/us/stat/106/2644]; [Pub. L. 103–337, div. A, title X, § 1070(c)(2)][/us/pl/103/337/s1070/c/2], Oct. 5, 1994, [108 Stat. 2857][/us/stat/108/2857]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–419, 2681–430; [Pub. L. 107–107, div. A, title X, § 1048(h)(1)][/us/pl/107/107/s1048/h/1], Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229]; renumbered [Pub. L. 107–314, div. D, title XLVI, § 4604][/us/pl/107/314/s4604], and amended [Pub. L. 108–136, div. C, title XXXI, § 3141(i)(5)][/us/pl/108/136/s3141/i/5], Nov. 24, 2003, [117 Stat. 1777][/us/stat/117/1777]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239], §§ 3131(q)(1), (bb)(1)(A), (C), 3134(b)(1), Jan. 2, 2013, [126 Stat. 2183][/us/stat/126/2183], 2185, 2193; [Pub. L. 113–66, div. C, title XXXI, § 3146(g)(4)][/us/pl/113/66/s3146/g/4], Dec. 26, 2013, [127 Stat. 1079][/us/stat/127/1079]; [Pub. L. 113–128, title V, § 512(d)][/us/pl/113/128/s512/d], July 22, 2014, [128 Stat. 1706][/us/stat/128/1706]; [Pub. L. 113–291, div. C, title XXXI, § 3142][/us/pl/113/291/s3142](o), Dec. 19, 2014, [128 Stat. 3901][/us/stat/128/3901].)
 
- __Amendment of Subsection (c)(6)(A)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(d), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1706, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(6)(A) of this section is amended by striking “programs carried out by the Secretary of Labor under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)” and inserting “programs carried out by the Secretary of Labor under title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
-
  __References in Text__ 
 
     Section 3152 of the National Defense Authorization Act for Fiscal Years 1990 and 1991, referred to in subsec. (c)(2), is [section 3152 of Pub. L. 101–189][/us/pl/101/189/s3152], div. C, title XXXI, Nov. 29, 1989, [103 Stat. 1682][/us/stat/103/1682], which is not classified to the Code.
 
-    The Workforce Investment Act of 1998, referred to in subsec. (c)(6)(A), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(6)(A), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
     The Public Works and Economic Development Act of 1965, referred to in subsec. (c)(6)(C), is [Pub. L. 89–136][/us/pl/89/136], Aug. 26, 1965, [79 Stat. 552][/us/stat/79/552], as amended. Title II of the Act is classified generally to subchapter II (§ 3141 et seq.) of chapter 38 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of Title 42][/us/usc/t42/s3121] and Tables.
 
@@ -163,7 +159,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -182,7 +178,7 @@
 
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/stat/103/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1682
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2391
 [/us/usc/t42/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3141
@@ -207,14 +203,11 @@
 [/us/stat/128/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1706
 [/us/pl/113/291/s3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3142
 [/us/stat/128/3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3901
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/101/189/s3152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3152
 [/us/stat/103/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1682
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/89/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136
 [/us/stat/79/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F552
 [/us/usc/t42/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3121

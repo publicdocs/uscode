@@ -4821,6 +4821,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 13396 were contained in the following:
 
+    Notice of President of the United States, dated Feb. 4, 2015, 80 F.R. 6647.
+
     Notice of President of the United States, dated Feb. 4, 2014, 79 F.R. 7047.
 
     Notice of President of the United States, dated Feb. 4, 2013, 78 F.R. 8955.
@@ -4842,6 +4844,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Ex. Ord. No. 12947, Jan. 23, 1995, 60 F.R. 5079, as amended by Ex. Ord. No. 13099, §§ 1, 2, Aug. 20, 1998, 63 F.R. 45167; Ex. Ord. No. 13372, § 2, Feb. 16, 2005, 70 F.R. 8499.
 
     Continuations of national emergency declared by Ex. Ord. No. 12947 were contained in the following:
+
+    Notice of President of the United States, dated Jan. 21, 2015, 80 F.R. 3461.
 
     Notice of President of the United States, dated Jan. 21, 2014, 79 F.R. 3721.
 
@@ -5201,6 +5205,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 12957 were contained in the following:
 
+    Notice of President of the United States, dated Mar. 11, 2015, 80 F.R. 13471.
+
     Notice of President of the United States, dated Mar. 12, 2014, 79 F.R. 14607.
 
     Notice of President of the United States, dated Mar. 12, 2013, 78 F.R. 16397.
@@ -5443,6 +5449,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 13566 were contained in the following:
 
+    Notice of President of the United States, dated Feb. 23, 2015, 80 F.R. 9983.
+
     Notice of President of the United States, dated Feb. 20, 2014, 79 F.R. 10329.
 
     Notice of President of the United States, dated Feb. 13, 2013, 78 F.R. 11549.
@@ -5487,6 +5495,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Ex. Ord. No. 13570, Apr. 18, 2011, 76 F.R. 22291.
 
+    Ex. Ord. No. 13687, Jan. 2, 2015, 80 F.R. 819.
+
  __Panama__ 
 
     Ex. Ord. No. 12635, Apr. 8, 1988, 53 F.R. 12134, revoked by Ex. Ord. No. 12710, Apr. 5, 1990, 55 F.R. 13099.
@@ -5496,6 +5506,10 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Notice of President of the United States, dated Apr. 6, 1989, 54 F.R. 14197.
 
     Ex. Ord. No. 12710, Apr. 5, 1990, 55 F.R. 13099.
+
+ __Persons Engaging in Significant Malicious Cyber-Enabled Activities__ 
+
+    Ex. Ord. No. 13694, Apr. 1, 2015, 80 F.R. 18077.
 
  __Russia__ 
 
@@ -5555,6 +5569,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Continuations of national emergency declared by Ex. Ord. No. 13536 were contained in the following:
 
+    Notice of President of the United States, dated Apr. 8, 2015, 80 F.R. 19193.
+
     Notice of President of the United States, dated Apr. 7, 2014, 79 F.R. 19803.
 
     Notice of President of the United States, dated Apr. 4, 2013, 78 F.R. 21013.
@@ -5576,6 +5592,10 @@ Provisions relating to the exercise of Presidential authorities to declare natio
  __South Sudan__ 
 
     Ex. Ord. No. 13664, Apr. 3, 2014, 79 F.R. 19283.
+
+    Continuation of national emergency declared by Ex. Ord. No. 13664 was contained in the following:
+
+    Notice of President of the United States, dated Mar. 31, 2015, 80 F.R. 18081.
 
  __Sudan__ 
 
@@ -5677,11 +5697,19 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 
     Ex. Ord. No. 13660, Mar. 6, 2014, 79 F.R. 13493.
 
+    Continuation of national emergency declared by Ex. Ord. No. 13660 was contained in the following:
+
+    Notice of President of the United States, dated Mar. 3, 2015, 80 F.R. 12067.
+
     Ex. Ord. No. 13661, Mar. 16, 2014, 79 F.R. 15535.
 
     Ex. Ord. No. 13662, Mar. 20, 2014, 79 F.R. 16169.
 
     Ex. Ord. No. 13685, Dec. 19, 2014, 79 F.R. 77357.
+
+ __Venezuela__ 
+
+    Ex. Ord. No. 13692, Mar. 8, 2015, 80 F.R. 12747.
 
  __Western Balkans__ 
 
@@ -5778,6 +5806,8 @@ Provisions relating to the exercise of Presidential authorities to declare natio
     Ex. Ord. No. 13288, Mar. 6, 2003, 68 F.R. 11457, as amended by Ex. Ord. No. 13391, Nov. 22, 2005, 70 F.R. 71201.
 
     Continuations of national emergency declared by Ex. Ord. No. 13288 were contained in the following:
+
+    Notice of President of the United States, dated Mar. 3, 2015, 80 F.R. 12069.
 
     Notice of President of the United States, dated Feb. 28, 2014, 79 F.R. 12031.
 
