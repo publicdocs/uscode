@@ -17,15 +17,23 @@
 
     (a)  __Agreement Requirements__  __.—__ 
 
-    A citizen of the United States appointed as a cadet at the United States Merchant Marine Academy must sign, as a condition of the appointment, an agreement to—
+    A citizen of the United States appointed as a cadet at the United States Merchant Marine Academy shall sign, as a condition of the appointment, an agreement to—
 
         (1) complete the course of instruction at the Academy;
 
-        (2) fulfill the requirements for a license as an officer in the merchant marine of the United States before graduation from the Academy;
+        (2) obtain a merchant mariner license, unlimited as to horsepower or tonnage, issued by the Coast Guard as an officer in the merchant marine of the United States, accompanied by the appropriate national and international endorsements and certifications required by the Coast Guard for service aboard vessels on domestic and international voyages, without limitation, before graduation from the Academy;
 
-        (3) maintain a valid license as an officer in the merchant marine of the United States for at least 6 years after graduation from the Academy, accompanied by the appropriate national and international endorsements and certification required by the Coast Guard for service aboard vessels on domestic and international voyages;
+        (3)
 
-        (4) apply for, and accept if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve), the Coast Guard Reserve, or any other reserve unit of an armed force of the United States, and, if tendered the appointment, to serve for at least 6 years after graduation from the Academy;
+         for at least 6 years after graduation from the Academy, maintain—
+
+            (A) a valid merchant mariner license, unlimited as to horsepower or tonnage, issued by the Coast Guard as an officer in the merchant marine of the United States, accompanied by the appropriate national and international endorsements and certifications required by the Coast Guard for service aboard vessels on domestic and international voyages, without limitation;
+
+            (B) a valid transportation worker identification credential; and
+
+            (C) a Coast Guard medical certificate;
+
+        (4) apply for, and accept if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Strategic Sealift Officer Program, Navy Reserve), the Coast Guard Reserve, or any other reserve component of an armed force of the United States, and, if tendered the appointment, to serve, meet the participation requirements, and maintain active status in good standing, as determined by the program manager of the appropriate military service, for at least 8 years after the date of commissioning;
 
         (5)
 
@@ -97,7 +105,7 @@
 
         Upon receipt of such a report or notice, such graduate may be considered to be in default of the graduate’s service obligations by the Secretary, and subject to all remedies the Secretary may have with respect to such a default.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1572][/us/stat/120/1572]; [Pub. L. 109–163, div. A, title V, § 515(g)(2)(A)][/us/pl/109/163/s515/g/2/A], Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236]; [Pub. L. 109–364, div. C, title XXXV][/us/pl/109/364], §§ 3505(a), 3506(a), Oct. 17, 2006, [120 Stat. 2516][/us/stat/120/2516], 2517; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181], §§ 3523(a)(1), (b), 3526(b)(1), (c)(1), (g), Jan. 28, 2008, [122 Stat. 598][/us/stat/122/598], 600–602.)
+([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1572][/us/stat/120/1572]; [Pub. L. 109–163, div. A, title V, § 515(g)(2)(A)][/us/pl/109/163/s515/g/2/A], Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236]; [Pub. L. 109–364, div. C, title XXXV][/us/pl/109/364], §§ 3505(a), 3506(a), Oct. 17, 2006, [120 Stat. 2516][/us/stat/120/2516], 2517; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181], §§ 3523(a)(1), (b), 3526(b)(1), (c)(1), (g), Jan. 28, 2008, [122 Stat. 598][/us/stat/122/598], 600–602; [Pub. L. 114–92, div. C, title XXXV, § 3506][/us/pl/114/92/s3506], Nov. 25, 2015, [129 Stat. 1220][/us/stat/129/1220].)
 
 <table>
 
@@ -193,6 +201,14 @@ June 29, 1936, ch. 858, title XIII, § 1303(e)(1)–(4), as added Pub. L. 96�
 
  __Amendments__ 
 
+    2015—Subsec. (a). [Pub. L. 114–92, § 3506(1)][/us/pl/114/92/s3506/1], substituted “shall sign” for “must sign” in introductory provisions.
+
+    Subsec. (a)(2). [Pub. L. 114–92, § 3506(2)][/us/pl/114/92/s3506/2], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “fulfill the requirements for a license as an officer in the merchant marine of the United States before graduation from the Academy;”.
+
+    Subsec. (a)(3). [Pub. L. 114–92, § 3506(3)][/us/pl/114/92/s3506/3], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “maintain a valid license as an officer in the merchant marine of the United States for at least 6 years after graduation from the Academy, accompanied by the appropriate national and international endorsements and certification required by the Coast Guard for service aboard vessels on domestic and international voyages;”.
+
+    Subsec. (a)(4). [Pub. L. 114–92, § 3506(4)][/us/pl/114/92/s3506/4], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “apply for, and accept if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve), the Coast Guard Reserve, or any other reserve unit of an armed force of the United States, and, if tendered the appointment, to serve for at least 6 years after graduation from the Academy;”.
+
     2008—[Pub. L. 110–181, § 3526(g)][/us/pl/110/181/s3526/g], repealed [Pub. L. 109–364][/us/pl/109/364], §§ 3505(a) and 3506(a). See 2006 Amendment note below.
 
     [Pub. L. 110–181, § 3523(b)][/us/pl/110/181/s3523/b], repealed [Pub. L. 109–163, § 515(g)(2)(A)][/us/pl/109/163/s515/g/2/A]. See 2006 Amendment note below.
@@ -237,6 +253,12 @@ June 29, 1936, ch. 858, title XIII, § 1303(e)(1)–(4), as added Pub. L. 96�
 [/us/stat/120/2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2516
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/stat/122/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F598
+[/us/pl/114/92/s3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3506
+[/us/stat/129/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1220
+[/us/pl/114/92/s3506/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3506%2F1
+[/us/pl/114/92/s3506/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3506%2F2
+[/us/pl/114/92/s3506/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3506%2F3
+[/us/pl/114/92/s3506/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3506%2F4
 [/us/pl/110/181/s3526/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3526%2Fg
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/110/181/s3523/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs3523%2Fb

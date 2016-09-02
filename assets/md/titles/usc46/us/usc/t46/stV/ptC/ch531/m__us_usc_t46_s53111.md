@@ -21,15 +21,17 @@
 
     (2) $174,000,000 for each of fiscal years 2009, 2010, and 2011;
 
-    (3) $186,000,000 for each of fiscal years 2012, 2013, 2014, 2015, 2016, 2017, and 2018;
+    (3) $186,000,000 for each of fiscal years 2012, 2013, 2014, 2015, 2017, and 2018;
 
     (4) $210,000,000 for each of fiscal years 2019, 2020, and 2021; and
 
     (5) $222,000,000 for each fiscal year thereafter through fiscal year 2025.
 
-(Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)][/us/pl/108/136/s3531/a], Nov. 24, 2003, [117 Stat. 1817][/us/stat/117/1817]; amended [Pub. L. 111–383, div. C, title XXXV, § 3502(3)][/us/pl/111/383/s3502/3], Jan. 7, 2011, [124 Stat. 4518][/us/stat/124/4518]; [Pub. L. 112–239, div. C, title XXXV, § 3508(i)][/us/pl/112/239/s3508/i], Jan. 2, 2013, [126 Stat. 2225][/us/stat/126/2225].)
+(Added [Pub. L. 108–136, div. C, title XXXV, § 3531(a)][/us/pl/108/136/s3531/a], Nov. 24, 2003, [117 Stat. 1817][/us/stat/117/1817]; amended [Pub. L. 111–383, div. C, title XXXV, § 3502(3)][/us/pl/111/383/s3502/3], Jan. 7, 2011, [124 Stat. 4518][/us/stat/124/4518]; [Pub. L. 112–239, div. C, title XXXV, § 3508(i)][/us/pl/112/239/s3508/i], Jan. 2, 2013, [126 Stat. 2225][/us/stat/126/2225]; [Pub. L. 114–92, div. C, title XXXV, § 3504(b)][/us/pl/114/92/s3504/b], Nov. 25, 2015, [129 Stat. 1219][/us/stat/129/1219].)
 
  __Amendments__ 
+
+    2015—Par. (3). [Pub. L. 114–92][/us/pl/114/92] struck out “2016,” after “2015,”.
 
     2013—Par. (2). [Pub. L. 112–239, § 3508(i)(1)][/us/pl/112/239/s3508/i/1], struck out “and” at end.
 
@@ -50,6 +52,9 @@
 [/us/stat/124/4518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4518
 [/us/pl/112/239/s3508/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fi
 [/us/stat/126/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2225
+[/us/pl/114/92/s3504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3504%2Fb
+[/us/stat/129/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1219
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/239/s3508/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fi%2F1
 [/us/pl/112/239/s3508/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs3508%2Fi%2F2
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

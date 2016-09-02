@@ -21,9 +21,13 @@
 
      that is—
 
-        (A) contained in intermodal cargo containers and loaded by crane on the vessel; or
+        (A) contained in intermodal cargo containers and loaded by crane on the vessel;
 
-        (B) loaded on the vessel by means of wheeled technology; and
+        (B) loaded on the vessel by means of wheeled technology;
+
+        (C) shipped in discrete units or packages that are handled individually, palletized, or unitized for purposes of transportation; or
+
+        (D) freight vehicles carried aboard commuter ferry boats; and
 
     (2)
 
@@ -33,9 +37,11 @@
 
         (B) loaded at a port in Canada located in the Great Lakes Saint Lawrence Seaway System and unloaded at a port in the United States.
 
-(Added [Pub. L. 110–140, title XI, § 1121(a)][/us/pl/110/140/s1121/a], Dec. 19, 2007, [121 Stat. 1761][/us/stat/121/1761]; amended [Pub. L. 112–213, title IV, § 405(b)][/us/pl/112/213/s405/b], Dec. 20, 2012, [126 Stat. 1571][/us/stat/126/1571].)
+(Added [Pub. L. 110–140, title XI, § 1121(a)][/us/pl/110/140/s1121/a], Dec. 19, 2007, [121 Stat. 1761][/us/stat/121/1761]; amended [Pub. L. 112–213, title IV, § 405(b)][/us/pl/112/213/s405/b], Dec. 20, 2012, [126 Stat. 1571][/us/stat/126/1571]; [Pub. L. 114–92, div. C, title XXXV, § 3508][/us/pl/114/92/s3508], Nov. 25, 2015, [129 Stat. 1223][/us/stat/129/1223].)
 
  __Amendments__ 
+
+    2015—Par. (1)(C), (D). [Pub. L. 114–92][/us/pl/114/92] added subpars. (C) and (D).
 
     2012—[Pub. L. 112–213][/us/pl/112/213], which directed amendment of section 55605, without specifying the title to be amended, by substituting “by a documented vessel” for “by vessel” in the matter preceding par. (1), was executed to this section, to reflect the probable intent of Congress.
 
@@ -50,6 +56,9 @@
 [/us/stat/121/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1761
 [/us/pl/112/213/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs405%2Fb
 [/us/stat/126/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1571
+[/us/pl/114/92/s3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3508
+[/us/stat/129/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1223
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213
 
 

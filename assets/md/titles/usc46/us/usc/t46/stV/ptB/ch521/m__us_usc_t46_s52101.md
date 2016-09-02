@@ -103,9 +103,9 @@ June 29, 1936, ch. 858, title III, § 302, as added Pub. L. 104–239, § 10
 
  __References in Text__ 
 
-    Section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744), referred to in subsec. (c)(1)(A)(i), is section 11 of [act Mar. 8, 1946, ch. 82][/us/act/1946-03-08/ch82], [60 Stat. 49][/us/stat/60/49], which was classified to section 1744 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as [section 4405 of Title 50][/us/usc/t50/s4405].
+    Section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744), referred to in subsec. (c)(1)(A)(i), is section 11 of [act Mar. 8, 1946, ch. 82][/us/act/1946-03-08/ch82], [60 Stat. 49][/us/stat/60/49], which was classified to section 1744 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 4405 of Title 50][/us/usc/t50/s4405].
 
-    Section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a)), referred to in subsec. (d), is section 9(a) of act [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 614][/us/stat/62/614], which was classified to section 459(a) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as [section 3808(a) of Title 50][/us/usc/t50/s3808/a].
+    Section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a)), referred to in subsec. (d), is section 9(a) of act [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 614][/us/stat/62/614], which was classified to section 459(a) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 3808(a) of Title 50][/us/usc/t50/s3808/a].
 
 ----------
 

@@ -107,7 +107,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs50111" data-uslm-ref="/us/usc/t46/s50111">50111.</a>  </td>
 
-    <td> Reports to Congress.  </td>
+    <td> Submission of annual MARAD authorization request.  </td>
 
   </tr>
 
@@ -129,6 +129,10 @@
 
 </table>
 
+ __Amendments__ 
+
+    2015—[Pub. L. 114–92, div. A, title X, § 1074(c)(2)][/us/pl/114/92/s1074/c/2], Nov. 25, 2015, [129 Stat. 997][/us/stat/129/997], substituted “Submission of annual MARAD authorization request” for “Reports to Congress” in item 50111.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t46/stV/ptA/m__us_usc_t46_stV_ptA.md) | [Next](./../../../../../..//us/usc/t46/stV/ptA/ch501/m__us_usc_t46_s50101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstV%2FptA%2Fch501)
@@ -136,5 +140,7 @@
 ----------
 ----------
 
+[/us/pl/114/92/s1074/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1074%2Fc%2F2
+[/us/stat/129/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F997
 
 

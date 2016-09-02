@@ -19,13 +19,23 @@
 
     If a State maritime academy has an agreement with the Secretary of Transportation under [section 51505 of this title][/us/usc/t46/s51505], the Secretary may make an agreement with a student at the academy who is a citizen of the United States to make student incentive payments to the individual. An agreement with a student may not be effective for more than 4 academic years. The Secretary shall allocate payments under this section among the various State maritime academies in an equitable manner.
 
-    (b)  __Payments__  __.—__ 
+    (b) __Payments.—__ 
 
-    Payments under an agreement under this section shall be equal to $8,000 each academic year and be paid in such installments as the Secretary shall determine while the individual is attending the academy, as prescribed by the Secretary. The payments shall be used for uniforms, tuition, books, and subsistence.
+        (1)  __In general__  __.—__ 
+
+        Except as provided in paragraph (2), payments under an agreement under this section shall be equal to $8,000 each academic year and be paid in such installments as the Secretary shall determine while the individual is attending the academy, as prescribed by the Secretary.
+
+        (2)  __Exception__  __.—__ 
+
+        The Secretary may modify the payments made to an individual under paragraph (1), but the total amount of payments to that individual may not exceed $32,000.
+
+        (3)  __Authorized uses__  __.—__ 
+
+        The payments shall be used for uniforms, tuition, books, and subsistence.
 
     (c)  __Enlisted Reserve Status__  __.—__ 
 
-    An agreement under this section shall require the student to accept enlisted reserve status in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve) or the Coast Guard Reserve before receiving any payments under the agreement.
+    An agreement under this section shall require the student to accept enlisted reserve status in the Navy Reserve (including the Strategic Sealift Officer Program, Navy Reserve) or the Coast Guard Reserve before receiving any payments under the agreement.
 
     (d)  __Agreement Requirements__  __.—__ 
 
@@ -33,11 +43,19 @@
 
         (1) complete the course of instruction at the academy the individual is attending;
 
-        (2) take the examination for a license as an officer in the merchant marine of the United States before graduation from the academy and fulfill the requirements for such a license within 3 months after graduation from the academy;
+        (2) obtain a merchant mariner license, without limitation as to tonnage or horsepower, from the Coast Guard as an officer in the merchant marine of the United States, accompanied by the appropriate national and international endorsements and certification required by the Coast Guard for service aboard vessels on domestic and international voyages, without limitation, within three months of completion of the course of instruction at the academy the individual is attending;
 
-        (3) maintain a valid license as an officer in the merchant marine of the United States for at least 6 years after graduation from the academy, accompanied by the appropriate national and international endorsements and certification required by the Coast Guard for service aboard vessels on domestic and international voyages;
+        (3)
 
-        (4) accept, if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve), the Coast Guard Reserve, or any other reserve unit of an armed force of the United States, and, if tendered the appointment, to serve for at least 6 years after graduation from the academy;
+         for at least 6 years after graduation from the academy, maintain—
+
+            (A) a valid merchant mariner license, unlimited as to horsepower or tonnage, issued by the Coast Guard as an officer in the merchant marine of the United States, accompanied by the appropriate national and international endorsements and certifications required by the Coast Guard for service aboard vessels on domestic and international voyages, without limitation;
+
+            (B) a valid transportation worker identification credential; and
+
+            (C) a Coast Guard medical certificate;
+
+        (4) apply for, and accept, if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Strategic Sealift Officer Program, Navy Reserve), the Coast Guard Reserve, or any other reserve component of an armed force of the United States, and, if tendered the appointment, to serve and meet the participation requirements and to maintain active status in good standing, as determined by the program manager of the appropriate military service, for at least 8 years after the date of commissioning;
 
         (5)
 
@@ -53,11 +71,33 @@
 
         (6) report to the Secretary on compliance with this subsection.
 
-    (e)  __Failure To Complete Course of Instruction__  __.—__ 
+    (e) __Failure To Complete Course of Instruction.—__ 
 
-        (1)  __Active duty__  __.—__ 
+        (1) __Active duty.—__ 
 
-        If the Secretary of Transportation determines that an individual who has accepted the payments described in subsection (b) for a minimum of 2 academic years has failed to fulfill the part of the agreement described in subsection (d)(1), the individual may be ordered by the Secretary of Defense to serve on active duty in the armed forces of the United States for a period of not more than 2 years. In cases of hardship as determined by the Secretary of Transportation, the Secretary of Transportation may waive this paragraph in whole or in part.
+            (A)  __In general__  __.—__ 
+
+            The Secretary of Defense may order an individual to serve on active duty in the armed forces of the United States for a period of not more than 2 years if—
+
+                (i) the individual has attended an academy under this section for more than 2 academic years, but less than 3 academic years;
+
+                (ii) the individual has accepted the payments described in subsection (b) in an amount totaling at least $8,000; and
+
+                (iii) the Secretary of Transportation has determined that the individual has failed to fulfill the part of the agreement described in subsection (d)(1).
+
+            (B) __3__  __ or more years__  __.—__ 
+
+            The Secretary of Defense may order an individual to serve on active duty in the armed forces of the United States for a period of not more than 3 years if—
+
+                (i) the individual has attended an academy under this section for 3 or more academic years;
+
+                (ii) the individual has accepted the payments described in subsection (b) in an amount totaling at least $16,000; and
+
+                (iii) the Secretary of Transportation has determined that the individual has failed to fulfill the part of the agreement described in subsection (d)(1).
+
+            (C)  __Hardship waiver__  __.—__ 
+
+            In cases of hardship as determined by the Secretary of Transportation, the Secretary of Transportation may waive this paragraph in whole or in part.
 
         (2)  __Recovery of cost__  __.—__ 
 
@@ -81,7 +121,17 @@
 
         (2) make use of the Federal debt collection procedures in chapter 176 of title 28 or other applicable administrative remedies.
 
-([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1579][/us/stat/120/1579]; [Pub. L. 109–163, div. A, title V, § 515(g)(2)(A)][/us/pl/109/163/s515/g/2/A], Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236]; [Pub. L. 109–364, div. C, title XXXV, § 3508][/us/pl/109/364/s3508], Oct. 17, 2006, [120 Stat. 2517][/us/stat/120/2517]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181], §§ 3523(a)(1), (b), 3526(d), (g), Jan. 28, 2008, [122 Stat. 598][/us/stat/122/598], 600, 602; [Pub. L. 110–417, div. C, title XXXV, § 3503][/us/pl/110/417/s3503], Oct. 14, 2008, [122 Stat. 4762][/us/stat/122/4762]; [Pub. L. 111–8, div. I, title I, § 177][/us/pl/111/8/s177], Mar. 11, 2009, [123 Stat. 944][/us/stat/123/944]; [Pub. L. 111–84, div. C, title XXXV, § 3507][/us/pl/111/84/s3507], Oct. 28, 2009, [123 Stat. 2721][/us/stat/123/2721].)
+    (h) __Alternative Service.—__ 
+
+        (1)  __Service as commissioned officer__  __.—__ 
+
+        An individual who, for the 5-year period following graduation from an academy, serves as a commissioned officer on active duty in an armed force of the United States or as a commissioned officer of the National Oceanic and Atmospheric Administration or the Public Health Service shall be excused from the requirements of paragraphs (3) through (5) of subsection (d).
+
+        (2)  __Modification or waiver__  __.—__ 
+
+        The Secretary may modify or waive any of the terms and conditions set forth in subsection (d) through the imposition of alternative service requirements.
+
+([Pub. L. 109–304, § 8(b)][/us/pl/109/304/s8/b], Oct. 6, 2006, [120 Stat. 1579][/us/stat/120/1579]; [Pub. L. 109–163, div. A, title V, § 515(g)(2)(A)][/us/pl/109/163/s515/g/2/A], Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236]; [Pub. L. 109–364, div. C, title XXXV, § 3508][/us/pl/109/364/s3508], Oct. 17, 2006, [120 Stat. 2517][/us/stat/120/2517]; [Pub. L. 110–181, div. C, title XXXV][/us/pl/110/181], §§ 3523(a)(1), (b), 3526(d), (g), Jan. 28, 2008, [122 Stat. 598][/us/stat/122/598], 600, 602; [Pub. L. 110–417, div. C, title XXXV, § 3503][/us/pl/110/417/s3503], Oct. 14, 2008, [122 Stat. 4762][/us/stat/122/4762]; [Pub. L. 111–8, div. I, title I, § 177][/us/pl/111/8/s177], Mar. 11, 2009, [123 Stat. 944][/us/stat/123/944]; [Pub. L. 111–84, div. C, title XXXV, § 3507][/us/pl/111/84/s3507], Oct. 28, 2009, [123 Stat. 2721][/us/stat/123/2721]; [Pub. L. 114–92, div. C, title XXXV, § 3507][/us/pl/114/92/s3507], Nov. 25, 2015, [129 Stat. 1221][/us/stat/129/1221].)
 
 <table>
 
@@ -219,6 +269,20 @@ June 29, 1936, ch. 858, title XIII, § 1304(g)(1)–(5), (8), as added Pub. L.
 
  __Amendments__ 
 
+    2015—Subsec. (b). [Pub. L. 114–92, § 3507(1)][/us/pl/114/92/s3507/1], designated first sentence as par. (1) and last sentence as par. (3), inserted headings, and realigned margins; in par. (1), substituted “Except as provided in paragraph (2), payments” for “Payments”; and added par. (2).
+
+    Subsec. (c). [Pub. L. 114–92, § 3507(2)][/us/pl/114/92/s3507/2], substituted “Strategic Sealift Officer Program” for “Merchant Marine Reserve”.
+
+    Subsec. (d)(2). [Pub. L. 114–92, § 3507(3)(A)][/us/pl/114/92/s3507/3/A], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “take the examination for a license as an officer in the merchant marine of the United States before graduation from the academy and fulfill the requirements for such a license within 3 months after graduation from the academy;”.
+
+    Subsec. (d)(3). [Pub. L. 114–92, § 3507(3)(B)][/us/pl/114/92/s3507/3/B], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “maintain a valid license as an officer in the merchant marine of the United States for at least 6 years after graduation from the academy, accompanied by the appropriate national and international endorsements and certification required by the Coast Guard for service aboard vessels on domestic and international voyages;”.
+
+    Subsec. (d)(4). [Pub. L. 114–92, § 3507(3)(C)][/us/pl/114/92/s3507/3/C], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “accept, if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve), the Coast Guard Reserve, or any other reserve unit of an armed force of the United States, and, if tendered the appointment, to serve for at least 6 years after graduation from the academy;”.
+
+    Subsec. (e)(1). [Pub. L. 114–92, § 3507(4)][/us/pl/114/92/s3507/4], amended par. (1) generally. Prior to amendment, text read as follows: “If the Secretary of Transportation determines that an individual who has accepted the payments described in subsection (b) for a minimum of 2 academic years has failed to fulfill the part of the agreement described in subsection (d)(1), the individual may be ordered by the Secretary of Defense to serve on active duty in the armed forces of the United States for a period of not more than 2 years. In cases of hardship as determined by the Secretary of Transportation, the Secretary of Transportation may waive this paragraph in whole or in part.”
+
+    Subsec. (h). [Pub. L. 114–92, § 3507(5)][/us/pl/114/92/s3507/5], added subsec. (h).
+
     2009—[Pub. L. 111–84, § 3507(a)][/us/pl/111/84/s3507/a], substituted “and be paid in such installments as the Secretary shall determine” for “and be paid before the start of each academic year, as prescribed by the Secretary,” and “academy, as prescribed by the Secretary.” for “academy.”.
 
     [Pub. L. 111–8, § 177][/us/pl/111/8/s177], which directed amendment identical to that made by [Pub. L. 110–417, § 3503(1)][/us/pl/110/417/s3503/1], (2), was repealed by [Pub. L. 111–84, § 3507(b)][/us/pl/111/84/s3507/b], with [Pub. L. 111–8, § 177][/us/pl/111/8/s177], to have no force or effect. See 2008 Amendment note below.
@@ -263,6 +327,15 @@ June 29, 1936, ch. 858, title XIII, § 1304(g)(1)–(5), (8), as added Pub. L.
 [/us/stat/123/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F944
 [/us/pl/111/84/s3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3507
 [/us/stat/123/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2721
+[/us/pl/114/92/s3507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3507
+[/us/stat/129/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1221
+[/us/pl/114/92/s3507/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3507%2F1
+[/us/pl/114/92/s3507/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3507%2F2
+[/us/pl/114/92/s3507/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3507%2F3%2FA
+[/us/pl/114/92/s3507/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3507%2F3%2FB
+[/us/pl/114/92/s3507/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3507%2F3%2FC
+[/us/pl/114/92/s3507/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3507%2F4
+[/us/pl/114/92/s3507/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3507%2F5
 [/us/pl/111/84/s3507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3507%2Fa
 [/us/pl/111/8/s177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs177
 [/us/pl/110/417/s3503/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs3503%2F1
