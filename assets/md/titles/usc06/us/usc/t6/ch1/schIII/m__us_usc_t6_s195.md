@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t6/ch1/schIII/m__us_usc_t6_s194.md) | [Next](./../../../../..//us/usc/t6/ch1/schIII/m__us_usc_t6_s195a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs195)
+[Previous](./../../../../..//us/usc/t6/ch1/schIII/m__us_usc_t6_s6.md) | [Next](./../../../../..//us/usc/t6/ch1/schIII/m__us_usc_t6_s195a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs195)
 
 ## § 195. Office for Interoperability and Compatibility
 
@@ -57,7 +57,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t6/ch1/schIII/m__us_usc_t6_s194.md) | [Next](./../../../../..//us/usc/t6/ch1/schIII/m__us_usc_t6_s195a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs195)
+[Previous](./../../../../..//us/usc/t6/ch1/schIII/m__us_usc_t6_s6.md) | [Next](./../../../../..//us/usc/t6/ch1/schIII/m__us_usc_t6_s195a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs195)
 
 ----------
 ----------

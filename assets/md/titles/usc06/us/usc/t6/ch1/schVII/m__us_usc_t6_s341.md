@@ -25,7 +25,7 @@
 
         (3) Human resources and personnel.
 
-        (4) Information technology and communications systems.
+        (4) Information technology and communications systems, including policies and directives to achieve and maintain interoperable communications among the components of the Department.
 
         (5) Facilities, property, equipment, and other material resources.
 
@@ -101,9 +101,17 @@
 
         (3) be subject to an annual performance evaluation by the Secretary, who shall determine as part of each such evaluation whether the Under Secretary for Management has made satisfactory progress toward achieving the goals set out in the performance agreement required under paragraph (2).
 
-([Pub. L. 107–296, title VII, § 701][/us/pl/107/296/s701], Nov. 25, 2002, [116 Stat. 2218][/us/stat/116/2218]; [Pub. L. 110–53, title XXIV, § 2405(a)][/us/pl/110/53/s2405/a], (b), Aug. 3, 2007, [121 Stat. 548][/us/stat/121/548].)
+    (d) __Interoperable communications defined__ 
+
+        In this section, the term “interoperable communications” has the meaning given that term in [section 194(g) of this title][/us/usc/t6/s194/g].
+
+([Pub. L. 107–296, title VII, § 701][/us/pl/107/296/s701], Nov. 25, 2002, [116 Stat. 2218][/us/stat/116/2218]; [Pub. L. 110–53, title XXIV, § 2405(a)][/us/pl/110/53/s2405/a], (b), Aug. 3, 2007, [121 Stat. 548][/us/stat/121/548]; [Pub. L. 114–29, § 3][/us/pl/114/29/s3], July 6, 2015, [129 Stat. 421][/us/stat/129/421].)
 
  __Amendments__ 
+
+    2015—Subsec. (a)(4). [Pub. L. 114–29, § 3(1)][/us/pl/114/29/s3/1], inserted before period at end “, including policies and directives to achieve and maintain interoperable communications among the components of the Department”.
+
+    Subsec. (d). [Pub. L. 114–29, § 3(2)][/us/pl/114/29/s3/2], added subsec. (d).
 
     2007—Subsec. (a). [Pub. L. 110–53, § 2405(a)(1)][/us/pl/110/53/s2405/a/1], inserted in introductory provisions “The Under Secretary for Management shall serve as the Chief Management Officer and principal advisor to the Secretary on matters related to the management of the Department, including management integration and transformation in support of homeland security operations and programs.”
 
@@ -137,10 +145,15 @@
 ----------
 
 [/us/usc/t6/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs251
+[/us/usc/t6/s194/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs194%2Fg
 [/us/pl/107/296/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs701
 [/us/stat/116/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2218
 [/us/pl/110/53/s2405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2405%2Fa
 [/us/stat/121/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F548
+[/us/pl/114/29/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F29%2Fs3
+[/us/stat/129/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F421
+[/us/pl/114/29/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F29%2Fs3%2F1
+[/us/pl/114/29/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F29%2Fs3%2F2
 [/us/pl/110/53/s2405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2405%2Fa%2F1
 [/us/pl/110/53/s2405/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2405%2Fa%2F2
 [/us/pl/110/53/s2405/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2405%2Fa%2F3
