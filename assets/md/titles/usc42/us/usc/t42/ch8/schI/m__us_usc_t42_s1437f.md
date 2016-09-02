@@ -295,19 +295,13 @@
 
                     (II) apply generally to tenants in the property who are not assisted under this section;
 
-            (C)
-
-             shall provide that during the term of the lease, the owner shall not terminate the tenancy except for serious or repeated violation of the terms and conditions of the lease, for violation of applicable Federal, State, or local law, or for other good cause, and in the case of an owner who is an immediate successor in interest pursuant to foreclosure during the term of the lease vacating the property prior to sale shall not constitute other good cause, except that the owner may terminate the tenancy effective on the date of transfer of the unit to the owner if the owner—
-
-                (i) will occupy the unit as a primary residence; and
-
-                (ii) has provided the tenant a notice to vacate at least 90 days before the effective date of such notice.;  <sup>\[3\]</sup>  <sup><sup> 3 So in original. The period probably should not appear. </sup></sup> 
+            (C) shall provide that during the term of the lease, the owner shall not terminate the tenancy except for serious or repeated violation of the terms and conditions of the lease, for violation of applicable Federal, State, or local law, or for other good cause,;  <sup>\[3\]</sup>  <sup><sup> 3 So in original. The comma probably should not appear. </sup></sup> 
 
             (D) shall provide that during the term of the lease, any criminal activity that threatens the health, safety, or right to peaceful enjoyment of the premises by other tenants, any criminal activity that threatens the health, safety, or right to peaceful enjoyment of their residences by persons residing in the immediate vicinity of the premises, or any violent or drug-related criminal activity on or near such premises, engaged in by a tenant of any unit, any member of the tenant’s household, or any guest or other person under the tenant’s control, shall be cause for termination of tenancy;
 
             (E) shall provide that any termination of tenancy under this subsection shall be preceded by the provision of written notice by the owner to the tenant specifying the grounds for that action, and any relief shall be consistent with applicable State and local law; and
 
-            (F) may include any addenda required by the Secretary to set forth the provisions of this subsection. In the case of any foreclosure on any federally-related mortgage loan (as that term is defined in [section 2602 of title 12][/us/usc/t12/s2602]) or on any residential real property in which a recipient of assistance under this subsection resides, the immediate successor in interest in such property pursuant to the foreclosure shall assume such interest subject to the lease between the prior owner and the tenant and to the housing assistance payments contract between the prior owner and the public housing agency for the occupied unit, except that this provision and the provisions related to foreclosure in subparagraph (C) shall not shall not  <sup>\[4\]</sup>  <sup><sup> 4 So in original. </sup></sup>  affect any State or local law that provides longer time periods or other additional protections for tenants.
+            (F) may include any addenda required by the Secretary to set forth the provisions of this subsection.
 
         (8) __Inspection of units by PHAs__ 
 
@@ -327,7 +321,7 @@
 
                     (I) meet or exceed housing quality standards, except that the Secretary may waive the requirement under this subclause to significantly increase access to affordable housing and to expand housing opportunities for families assisted under this subsection, except where such waiver could adversely affect the health or safety of families assisted under this subsection; and
 
-                    (II) do not severely restrict housing choice  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be followed by a period. </sup></sup> 
+                    (II) do not severely restrict housing choice  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be followed by a period. </sup></sup> 
 
             (C) __Inspection__ 
 
@@ -399,7 +393,7 @@
 
             (F) __Tax credit projects__ 
 
-            In the case of a dwelling unit receiving tax credits pursuant to [section 42 of title 26][/us/usc/t26/s42] or for which assistance is provided under subtitle A of title II of the Cranston Gonzalez  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be “Cranston-Gonzalez”. </sup></sup>  National Affordable Housing Act of 1990 \[[42 U.S.C. 12741][/us/usc/t42/s12741] et seq.\], for which a housing assistance contract not subject to paragraph (13) of this subsection is established, rent reasonableness shall be determined as otherwise provided by this paragraph, except that—
+            In the case of a dwelling unit receiving tax credits pursuant to [section 42 of title 26][/us/usc/t26/s42] or for which assistance is provided under subtitle A of title II of the Cranston Gonzalez  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “Cranston-Gonzalez”. </sup></sup>  National Affordable Housing Act of 1990 \[[42 U.S.C. 12741][/us/usc/t42/s12741] et seq.\], for which a housing assistance contract not subject to paragraph (13) of this subsection is established, rent reasonableness shall be determined as otherwise provided by this paragraph, except that—
 
                 (i) comparison with rent for units in the private, unassisted local market shall not be required if the rent is equal to or less than the rent for other comparable units receiving such tax credits or assistance in the project that are not occupied by families assisted with tenant-based assistance under this subsection; and
 
@@ -583,7 +577,7 @@
 
                 (iii) __Monthly assistance payment__ 
 
-                    The monthly assistance payment for a family assisted under this paragraph shall be determined in accordance with paragraph (2) (using the rent and payment standard for the dwelling unit as determined in accordance with this subsection), except that a family may be required at the time the family initially receives such assistance to pay rent in an amount exceeding 40 percent of the monthly adjusted income of the family by such an amount or percentage that is reasonable given the services and amenities provided and as the Secretary deems appropriate..4
+                    The monthly assistance payment for a family assisted under this paragraph shall be determined in accordance with paragraph (2) (using the rent and payment standard for the dwelling unit as determined in accordance with this subsection), except that a family may be required at the time the family initially receives such assistance to pay rent in an amount exceeding 40 percent of the monthly adjusted income of the family by such an amount or percentage that is reasonable given the services and amenities provided and as the Secretary deems appropriate.. <sup>\[6\]</sup>  <sup><sup> 6 So in original. </sup></sup> 
 
             (C) __Definition__ 
 
@@ -938,10 +932,6 @@
         Subject to amounts provided in appropriation Acts, starting in fiscal year 1999, the Secretary shall renew all expiring tenant-based annual contribution contracts under this section by applying an inflation factor based on local or regional factors to an allocation baseline. The allocation baseline shall be calculated by including, at a minimum, amounts sufficient to ensure continued assistance for the actual number of families assisted as of October 1, 1997, with appropriate upward adjustments for incremental assistance and additional families authorized subsequent to that date.
 
 ([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 8, as added [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 662][/us/stat/88/662]; amended [Pub. L. 94–375, § 2(d)][/us/pl/94/375/s2/d], (e), (g), Aug. 3, 1976, [90 Stat. 1068][/us/stat/90/1068]; [Pub. L. 95–24, title I, § 101(c)][/us/pl/95/24/s101/c], Apr. 30, 1977, [91 Stat. 55][/us/stat/91/55]; [Pub. L. 95–128, title II, § 201(c)][/us/pl/95/128/s201/c]–(e), Oct. 12, 1977, [91 Stat. 1128][/us/stat/91/1128]; [Pub. L. 95–557, title II, § 206(d)(1)][/us/pl/95/557/s206/d/1], (e), (f), Oct. 31, 1978, [92 Stat. 2091][/us/stat/92/2091], 2092; [Pub. L. 96–153, title II][/us/pl/96/153], §§ 202(b), 206(b), 210, 211(b), Dec. 21, 1979, [93 Stat. 1106][/us/stat/93/1106], 1108–1110; [Pub. L. 96–399, title II, § 203][/us/pl/96/399/s203], title III, § 308(c)(3), Oct. 8, 1980, [94 Stat. 1629][/us/stat/94/1629], 1641; [Pub. L. 97–35, title III][/us/pl/97/35], §§ 322(e), 324–326(a), (e)(1), 329H(a), Aug. 13, 1981, [95 Stat. 402][/us/stat/95/402], 405–407, 410; [Pub. L. 98–181, title I][/us/pl/98/181] \[title II, §§ 203(b)(1), (2), 207–209(a), 210, 211\], Nov. 30, 1983, [97 Stat. 1178][/us/stat/97/1178], 1181–1183; [Pub. L. 98–479, title I, § 102(b)(6)][/us/pl/98/479/s102/b/6]–(10), Oct. 17, 1984, [98 Stat. 2221][/us/stat/98/2221], 2222; [Pub. L. 100–242, title I][/us/pl/100/242], §§ 141–149, title II, § 262, Feb. 5, 1988, [101 Stat. 1849–1853][/us/stat/101/1849-1853], 1890; renumbered title I, [Pub. L. 100–358, § 5][/us/pl/100/358/s5], June 29, 1988, [102 Stat. 681][/us/stat/102/681]; [Pub. L. 100–628, title X][/us/pl/100/628], §§ 1004(a), 1005(b)(1), (c), 1006, 1014(b), (c), 1029, Nov. 7, 1988, [102 Stat. 3264][/us/stat/102/3264], 3265, 3269, 3272; [Pub. L. 101–235, title I, § 127][/us/pl/101/235/s127], title VIII, § 801(c), (g), Dec. 15, 1989, [103 Stat. 2025][/us/stat/103/2025], 2058, 2059; [Pub. L. 101–625, title II, § 289(b)][/us/pl/101/625/s289/b], title IV, § 413, title V, §§ 541–545(a), 545(2)\[(b)\], 546–549, 550(a), (c), 551–553, 572, title VI, §§ 603, 613(a), Nov. 28, 1990, [104 Stat. 4128][/us/stat/104/4128], 4160, 4216–4224, 4236, 4277, 4280; [Pub. L. 102–139, title II][/us/pl/102/139], Oct. 28, 1991, [105 Stat. 756][/us/stat/105/756]; [Pub. L. 102–550, title I][/us/pl/102/550], §§ 141–148, 185(a), title VI, §§ 623(b), 660, 674, 675, 682(b), title X, § 1012(g), Oct. 28, 1992, [106 Stat. 3713–3715][/us/stat/106/3713-3715], 3745, 3819, 3825, 3827, 3828, 3830, 3905; [Pub. L. 103–233, title I, § 101(c)(2)][/us/pl/103/233/s101/c/2], (3), (d), Apr. 11, 1994, [108 Stat. 357][/us/stat/108/357]; [Pub. L. 103–327, title II][/us/pl/103/327], Sept. 28, 1994, [108 Stat. 2315][/us/stat/108/2315]; [Pub. L. 104–19, title I, § 1003][/us/pl/104/19/s1003], July 27, 1995, [109 Stat. 236][/us/stat/109/236]; [Pub. L. 104–99, title IV][/us/pl/104/99], §§ 402(d)(2), (3), (6)(A)(iii), (iv), 405(c), Jan. 26, 1996, [110 Stat. 41][/us/stat/110/41], 42, 44; [Pub. L. 104–134, title I, § 101(e)][/us/pl/104/134/s101/e] \[title II, §§ 203(a)–(c), 208\], Apr. 26, 1996, [110 Stat. 1321–257][/us/stat/110/1321-257], 1321–281, 1321–284; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 104–193, title IX, § 903(a)(2)][/us/pl/104/193/s903/a/2], Aug. 22, 1996, [110 Stat. 2348][/us/stat/110/2348]; [Pub. L. 104–204, title II, § 201(g)][/us/pl/104/204/s201/g], Sept. 26, 1996, [110 Stat. 2893][/us/stat/110/2893]; [Pub. L. 105–18, title II, § 10002][/us/pl/105/18/s10002], June 12, 1997, [111 Stat. 201][/us/stat/111/201]; [Pub. L. 105–33, title II][/us/pl/105/33], §§ 2003, 2004, Aug. 5, 1997, [111 Stat. 257][/us/stat/111/257]; [Pub. L. 105–65, title II][/us/pl/105/65], §§ 201(c), 205, title V, § 523(a), (c), Oct. 27, 1997, [111 Stat. 1364][/us/stat/111/1364], 1365, 1406, 1407; [Pub. L. 105–276, title II, § 209(a)][/us/pl/105/276/s209/a], title V, §§ 514(b)(1), 545(a), (b), 547–549(a)(2), (b), 550(a), 552–555(a), 556(a), 565(c), Oct. 21, 1998, [112 Stat. 2485][/us/stat/112/2485], 2547, 2596–2607, 2609–2611, 2613, 2631; [Pub. L. 106–74, title II, § 223][/us/pl/106/74/s223], title V, §§ 523(a), 531(d), 535, 538(a), Oct. 20, 1999, [113 Stat. 1076][/us/stat/113/1076], 1104, 1116, 1121, 1122; [Pub. L. 106–246, div. B, title II, § 2801][/us/pl/106/246/s2801], July 13, 2000, [114 Stat. 569][/us/stat/114/569]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, §§ 205, 228, 232(a), 234\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–24, 1441A–30, 1441A–31, 1441A–35; [Pub. L. 106–569, title III, § 301(a)][/us/pl/106/569/s301/a], title IX, §§ 902(a), 903(a), Dec. 27, 2000, [114 Stat. 2952][/us/stat/114/2952], 3026; [Pub. L. 107–95, § 12][/us/pl/107/95/s12], Dec. 21, 2001, [115 Stat. 921][/us/stat/115/921]; [Pub. L. 107–116, title VI, § 632][/us/pl/107/116/s632], Jan. 10, 2002, [115 Stat. 2227][/us/stat/115/2227]; [Pub. L. 109–162, title VI, § 606][/us/pl/109/162/s606], Jan. 5, 2006, [119 Stat. 3041][/us/stat/119/3041]; [Pub. L. 109–271, § 5(d)][/us/pl/109/271/s5/d], (e), Aug. 12, 2006, [120 Stat. 759][/us/stat/120/759]; [Pub. L. 109–461, title VII, § 710][/us/pl/109/461/s710], Dec. 22, 2006, [120 Stat. 3441][/us/stat/120/3441]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(Y), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(Y), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859; [Pub. L. 110–289, div. B, title VIII, § 2835(a)][/us/pl/110/289/s2835/a], July 30, 2008, [122 Stat. 2871][/us/stat/122/2871]; [Pub. L. 111–22, div. A, title VII][/us/pl/111/22], §§ 703, 704, May 20, 2009, [123 Stat. 1661][/us/stat/123/1661], 1662; [Pub. L. 111–203, title XIV, § 1484(2)][/us/pl/111/203/s1484/2], July 21, 2010, [124 Stat. 2204][/us/stat/124/2204]; [Pub. L. 111–372, title III, § 302][/us/pl/111/372/s302], Jan. 4, 2011, [124 Stat. 4084][/us/stat/124/4084]; [Pub. L. 113–4, title VI, § 601(b)(2)][/us/pl/113/4/s601/b/2], Mar. 7, 2013, [127 Stat. 107][/us/stat/127/107]; [Pub. L. 113–76, div. L, title II][/us/pl/113/76], §§ 220(a), 242, Jan. 17, 2014, [128 Stat. 630][/us/stat/128/630], 636.)
-
- __Amendment of Section__ 
-
-    For termination of amendment by [section 704 of Pub. L. 111–22][/us/pl/111/22/s704], see Termination Date of 2009 Amendment note below.
 
  __References in Text__ 
 
@@ -1621,9 +1611,7 @@
 
  __Termination Date of 2009 Amendment__ 
 
-[Pub. L. 111–22, div. A, title VII, § 704][/us/pl/111/22/s704], May 20, 2009, [123 Stat. 1662][/us/stat/123/1662], as amended by [Pub. L. 111–203, title XIV, § 1484(2)][/us/pl/111/203/s1484/2], July 21, 2010, [124 Stat. 2204][/us/stat/124/2204], provided that: 
-
-> “This title \[amending this section and enacting provisions set out as notes under sections 5201 and 5220 of Title 12, Banks and Banking\], and any amendments made by this title are repealed, and the requirements under this title shall terminate, on December 31, 2014.”
+    [Pub. L. 111–22, div. A, title VII, § 704][/us/pl/111/22/s704], May 20, 2009, [123 Stat. 1662][/us/stat/123/1662], as amended by [Pub. L. 111–203, title XIV, § 1484(2)][/us/pl/111/203/s1484/2], July 21, 2010, [124 Stat. 2204][/us/stat/124/2204], provided that title VII of [Pub. L. 111–22][/us/pl/111/22] (amending this section and enacting provisions set out as notes under sections 5201 and 5220 of Title 12, Banks and Banking), and any amendments made by such title are repealed, and the requirements under such title shall terminate, on Dec. 31, 2014.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -4009,7 +3997,6 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 [/us/usc/t42/s3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3544
 [/us/usc/t18/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs16
 [/us/usc/t42/s1437c–1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931%2Ff
-[/us/usc/t12/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2602
 [/us/usc/t42/s1437c/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%2Fh
 [/us/usc/t42/s12721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12721
 [/us/usc/t26/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42
@@ -4135,7 +4122,6 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 [/us/stat/127/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F107
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/stat/128/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F630
-[/us/pl/111/22/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs704
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3672
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
@@ -4503,6 +4489,7 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 [/us/stat/123/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1662
 [/us/pl/111/203/s1484/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1484%2F2
 [/us/stat/124/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2204
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
