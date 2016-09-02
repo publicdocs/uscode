@@ -67,11 +67,11 @@
 
 >             “(B)  __Appropriations__  __.—__ 
 
->             For purposes of [section 1324(b)(2) of title 31][/us/usc/t31/s1324/b/2], United States Code, the credit allowed by subsection (a) shall be treated in the same manner \[as\] a refund from the credit allowed under section 36A of the Internal Revenue Code of 1986 (as added by this Act).
+>             For purposes of [section 1324(b)(2) of title 31][/us/usc/t31/s1324/b/2], United States Code, the credit allowed by subsection (a) shall be treated in the same manner \[as\] a refund from the credit allowed under \[former\] section 36A of the Internal Revenue Code of 1986 (as added by this Act).
 
 >         “(2)  __Deficiency rules__  __.—__ 
 
->         For purposes of section 6211(b)(4)(A) of the Internal Revenue Code of 1986, the credit allowable by subsection (a) shall be treated in the same manner as the credit allowable under section 36A of the Internal Revenue Code of 1986 (as added by this Act).
+>         For purposes of section 6211(b)(4)(A) of the Internal Revenue Code of 1986, the credit allowable by subsection (a) shall be treated in the same manner as the credit allowable under \[former\] section 36A of the Internal Revenue Code of 1986 (as added by this Act).
 
 >     “(d)  __Refunds Disregarded in the Administration of Federal Programs and Federally Assisted Programs__  __.—__ 
 

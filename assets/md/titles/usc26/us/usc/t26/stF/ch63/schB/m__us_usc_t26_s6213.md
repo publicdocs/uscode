@@ -293,7 +293,7 @@
 
     Amendment by [section 12(d) of Pub. L. 111–92][/us/pl/111/92/s12/d] applicable to returns for taxable years ending on or after Apr. 9, 2008, see [section 12(e) of Pub. L. 111–92][/us/pl/111/92/s12/e], set out as a note under [section 36 of this title][/us/usc/t26/s36].
 
-    Amendment by [Pub. L. 111–5][/us/pl/111/5] applicable to taxable years beginning after Dec. 31, 2008, see [section 1001(f) of Pub. L. 111–5][/us/pl/111/5/s1001/f], set out as an Effective Date note under [section 6211 of this title][/us/usc/t26/s6211].
+    Amendment by [Pub. L. 111–5][/us/pl/111/5] applicable to taxable years beginning after Dec. 31, 2008, see [section 1001(f) of Pub. L. 111–5][/us/pl/111/5/s1001/f], set out as a note under [section 6211 of this title][/us/usc/t26/s6211].
 
  __Effective Date of 2001 Amendment__ 
 

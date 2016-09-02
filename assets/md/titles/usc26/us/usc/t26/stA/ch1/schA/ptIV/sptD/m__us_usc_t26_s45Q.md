@@ -139,9 +139,11 @@
 
     Section applicable to carbon dioxide captured after Oct. 3, 2008, see [section 115(d) of Pub. L. 110–343][/us/pl/110/343/s115/d], set out as an Effective Date of 2008 Amendment note under [section 38 of this title][/us/usc/t26/s38].
 
- __Inflation Adjusted Items for Certain Tax Years__ 
+ __Inflation Adjusted Items for Certain Years__ 
 
-    Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
+    Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+    2014—Internal Revenue Notice 2014–40.
 
     2013—Internal Revenue Notice 2013–34.
 

@@ -493,6 +493,10 @@
 
 (Added and amended [Pub. L. 111–148, title I, § 1401(a)][/us/pl/111/148/s1401/a], title X, §§ 10105(a)–(c), 10108(h)(1), Mar. 23, 2010, [124 Stat. 213][/us/stat/124/213], 906, 914; [Pub. L. 111–152, title I][/us/pl/111/152], §§ 1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, [124 Stat. 1030][/us/stat/124/1030], 1034, 1035; [Pub. L. 111–309, title II, § 208(a)][/us/pl/111/309/s208/a], (b), Dec. 15, 2010, [124 Stat. 3291][/us/stat/124/3291], 3292; [Pub. L. 112–9, § 4(a)][/us/pl/112/9/s4/a], Apr. 14, 2011, [125 Stat. 36][/us/stat/125/36]; [Pub. L. 112–10, div. B, title VIII, § 1858(b)(1)][/us/pl/112/10/s1858/b/1], Apr. 15, 2011, [125 Stat. 168][/us/stat/125/168]; [Pub. L. 112–56, title IV, § 401(a)][/us/pl/112/56/s401/a], Nov. 21, 2011, [125 Stat. 734][/us/stat/125/734].)
 
+ __Inflation Adjusted Items for Certain Years__ 
+
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
+
  __References in Text__ 
 
     Sections 1251, 1301, 1302, 1311, 1321, 1402, and 1412 of the Patient Protection and Affordable Care Act, referred to in text, are classified to sections 18011, 18021, 18022, 18031, 18041, 18071, and 18082, respectively, of Title 42, The Public Health and Welfare.
@@ -611,6 +615,7 @@
 [/us/stat/125/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F168
 [/us/pl/112/56/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs401%2Fa
 [/us/stat/125/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F734
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/148/s1311/d/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1311%2Fd%2F2%2FB%2Fii
 [/us/usc/t42/s18031/d/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18031%2Fd%2F2%2FB%2Fii
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531

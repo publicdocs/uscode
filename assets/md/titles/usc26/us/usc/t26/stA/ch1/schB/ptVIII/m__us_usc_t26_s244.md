@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptVIII/m__us_usc_t26_s243.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptVIII/m__us_usc_t26_s245.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs244)
 
-## \[§ 244.Repealed. [Pub. L. 113–295, div. A, title II, § 221(a)(41)(A)][/us/pl/113/295/s221/a/41/A], Dec. 19, 2014, [128 Stat. 4043][/us/stat/128/4043]\]
+## \[§ 244. Repealed. [Pub. L. 113–295, div. A, title II, § 221(a)(41)(A)][/us/pl/113/295/s221/a/41/A], Dec. 19, 2014, [128 Stat. 4043][/us/stat/128/4043]\]
 
     Section, [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 73][/us/stat/68A/73]; [Pub. L. 88–272, title II, § 214(b)(1)][/us/pl/88/272/s214/b/1], Feb. 26, 1964, [78 Stat. 55][/us/stat/78/55]; [Pub. L. 95–600, title III, § 301(b)(3)][/us/pl/95/600/s301/b/3], Nov. 6, 1978, [92 Stat. 2820][/us/stat/92/2820]; [Pub. L. 99–514, title VI, § 611(a)(2)][/us/pl/99/514/s611/a/2], Oct. 22, 1986, [100 Stat. 2249][/us/stat/100/2249]; [Pub. L. 100–203, title X, § 10221(a)(2)][/us/pl/100/203/s10221/a/2], Dec. 22, 1987, [101 Stat. 1330–408][/us/stat/101/1330-408]; [Pub. L. 100–647, title II, § 2004(i)(2)][/us/pl/100/647/s2004/i/2], Nov. 10, 1988, [102 Stat. 3603][/us/stat/102/3603], allowed to corporations as a deduction a percentage of the amount received as dividends on the preferred stock of a public utility.
 

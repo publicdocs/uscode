@@ -243,13 +243,13 @@ The maximum tax a year.  </td>
 
  __Effective Date of 2012 Amendment__ 
 
-    Amendment by [Pub. L. 112–141][/us/pl/112/141] effective July 1, 2012, see [section 40102(f) of Pub. L. 112–141][/us/pl/112/141/s40102/f], set out as a note under section 460l–11 of Title 16, Conservation.
+    Amendment by [Pub. L. 112–141][/us/pl/112/141] effective July 1, 2012, see [section 40102(f) of Pub. L. 112–141][/us/pl/112/141/s40102/f], set out as a note under [section 4041 of this title][/us/usc/t26/s4041].
 
-    Amendment by [Pub. L. 112–102][/us/pl/112/102] effective Apr. 1, 2012, see [section 402(f) of Pub. L. 112–102][/us/pl/112/102/s402/f], set out as an Effective and Termination Dates of 2012 Amendment note under section 460l–11 of Title 16, Conservation.
+    Amendment by [Pub. L. 112–102][/us/pl/112/102] effective Apr. 1, 2012, see [section 402(f) of Pub. L. 112–102][/us/pl/112/102/s402/f], set out as an Effective and Termination Dates of 2012 Amendment note under [section 4041 of this title][/us/usc/t26/s4041].
 
  __Effective Date of 2011 Amendment__ 
 
-    Amendment by [Pub. L. 112–30][/us/pl/112/30] effective Oct. 1, 2011, see [section 142(f) of Pub. L. 112–30][/us/pl/112/30/s142/f], set out as a note under section 460l–11 of Title 16, Conservation.
+    Amendment by [Pub. L. 112–30][/us/pl/112/30] effective Oct. 1, 2011, see [section 142(f) of Pub. L. 112–30][/us/pl/112/30/s142/f], set out as a note under [section 4041 of this title][/us/usc/t26/s4041].
 
  __Effective Date of 2005 Amendment__ 
 
@@ -461,10 +461,13 @@ The maximum tax a year.  </td>
 [/us/pl/87/61/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2Fs203%2Fb%2F1
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s40102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40102%2Ff
+[/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041
 [/us/pl/112/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102
 [/us/pl/112/102/s402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102%2Fs402%2Ff
+[/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041
 [/us/pl/112/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30
 [/us/pl/112/30/s142/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs142%2Ff
+[/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041
 [/us/pl/109/14/s9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F14%2Fs9%2Fd
 [/us/stat/119/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F336
 [/us/pl/108/357/s867/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs867%2Fe

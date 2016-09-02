@@ -47,7 +47,7 @@
 
     1980—[Pub. L. 96–364, title II, § 202(a)][/us/pl/96/364/s202/a], Sept. 26, 1980, [94 Stat. 1271][/us/stat/94/1271], added subpart C heading “Special Rules for Multiemployer Plans” and items 418 to 418E.
 
-\[§§ 418 to 418D\]. __Repealed.__  __[__  __Pub. L. 113–235, div. O, title I, § 108(b)(1)__  __][/us/pl/113/235/s108/b/1]__  __,__  __Dec. 16, 2014__  __,__  __[__  __128 Stat. 2787__  __][/us/stat/128/2787]__  __\]__ 
+\[§§ 418 to 418D. __Repealed.__  __[__  __Pub. L. 113–235, div. O, title I, § 108(b)(1)__  __][/us/pl/113/235/s108/b/1]__  __,__  __Dec. 16, 2014__  __,__  __[__  __128 Stat. 2787__  __][/us/stat/128/2787]__  __\]__ 
 
     Section 418, added [Pub. L. 96–364, title II, § 202(a)][/us/pl/96/364/s202/a], Sept. 26, 1980, [94 Stat. 1271][/us/stat/94/1271], related to reorganization status.
 

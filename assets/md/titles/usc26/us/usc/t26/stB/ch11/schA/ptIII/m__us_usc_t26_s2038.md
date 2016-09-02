@@ -31,7 +31,7 @@
 
         For purposes of this section, the power to alter, amend, revoke, or terminate shall be considered to exist on the date of the decedent’s death even though the exercise of the power is subject to a precedent giving of notice or even though the alteration, amendment, revocation, or termination takes effect only on the expiration of a stated period after the exercise of the power, whether or not on or before the date of the decedent’s death notice has been given or the power has been exercised. In such cases proper adjustment shall be made representing the interests which would have been excluded from the power if the decedent had lived, and for such purpose, if the notice has not been given or the power has not been exercised on or before the date of his death, such notice shall be considered to have been given, or the power exercised, on the date of his death.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 383][/us/stat/68A/383]; [Pub. L. 86–141, § 1][/us/pl/86/141/s1], Aug. 7, 1959, [73 Stat. 288][/us/stat/73/288]; [Pub. L. 87–834, § 18(a)(2)(F)][/us/pl/87/834/s18/a/2/F], Oct. 16, 1962, [76 Stat. 1052][/us/stat/76/1052]; [Pub. L. 94–455, title XIX, § 1902][/us/pl/94/455/s1902] (a)(3), title XX, § 2001(c)(1)(K), Oct. 4, 1976, [90 Stat. 1804][/us/stat/90/1804], 1852.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 383][/us/stat/68A/383]; [Pub. L. 86–141, § 1][/us/pl/86/141/s1], Aug. 7, 1959, [73 Stat. 288][/us/stat/73/288]; [Pub. L. 87–834, § 18(a)(2)(F)][/us/pl/87/834/s18/a/2/F], Oct. 16, 1962, [76 Stat. 1052][/us/stat/76/1052]; [Pub. L. 94–455, title XIX, § 1902(a)(3)][/us/pl/94/455/s1902/a/3], title XX, § 2001(c)(1)(K), Oct. 4, 1976, [90 Stat. 1804][/us/stat/90/1804], 1852.)
 
  __Amendments__ 
 
@@ -74,7 +74,7 @@
 [/us/stat/73/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F288
 [/us/pl/87/834/s18/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs18%2Fa%2F2%2FF
 [/us/stat/76/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1052
-[/us/pl/94/455/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902
+[/us/pl/94/455/s1902/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F3
 [/us/stat/90/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1804
 [/us/pl/94/455/s2001/c/1/K/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fc%2F1%2FK%2Fi
 [/us/pl/94/455/s2001/c/1/K/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fc%2F1%2FK%2Fii

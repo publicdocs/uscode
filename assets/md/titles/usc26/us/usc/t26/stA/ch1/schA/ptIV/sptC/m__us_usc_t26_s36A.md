@@ -23,7 +23,7 @@
 
  __Treatment of Possessions__ 
 
-    [Pub. L. 111–5, div. B, title I, § 1001(b)][/us/pl/111/5/s1001/b], Feb. 17, 2009, [123 Stat. 310][/us/stat/123/310], with respect to taxable years beginning in 2009 and 2010, required the Secretary of the Treasury to pay each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the making work pay credit and to pay certain possessions without a mirror code tax system amounts estimated as being equal to aggregate benefits that would have been provided to its residents, and provided that, for purposes of [section 1324(b)(2) of title 31][/us/usc/t31/s1324/b/2], such payments to possessions would be treated in the same manner as a refund due from the credit formerly allowed under this section.
+    [Pub. L. 111–5, div. B, title I, § 1001(b)][/us/pl/111/5/s1001/b], Feb. 17, 2009, [123 Stat. 310][/us/stat/123/310], with respect to taxable years beginning in 2009 and 2010, required the Secretary of the Treasury to pay each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the making work pay credit and to pay certain possessions without a mirror code tax system amounts estimated as being equal to aggregate benefits that would have been provided to its residents, and provided that, for purposes of [section 1324(b)(2) of Title 31][/us/usc/t31/s1324/b/2], Money and Finance, such payments to possessions would be treated in the same manner as a refund due from the credit formerly allowed under this section.
 
 ----------
 

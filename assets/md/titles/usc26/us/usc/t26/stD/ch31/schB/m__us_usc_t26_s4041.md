@@ -747,17 +747,31 @@
 
  __Effective and Termination Dates of 2012 Amendment__ 
 
-    Amendment by [Pub. L. 112–141][/us/pl/112/141] effective July 1, 2012, see [section 40102(f) of Pub. L. 112–141][/us/pl/112/141/s40102/f], set out as a note under section 460l–11 of Title 16, Conservation.
+[Pub. L. 112–141, div. D, title I, § 40102(f)][/us/pl/112/141/s40102/f], July 6, 2012, [126 Stat. 845][/us/stat/126/845], provided that: 
+
+> “Except as otherwise provided in this section, the amendments made by this section \[amending this section, sections 4051, 4071, 4081, 4221, 4481 to 4483, 6412, and 9503 of this title, and former section 460l–11 of Title 16, Conservation\] shall take effect on July 1, 2012.”
 
     Amendment by [Pub. L. 112–140][/us/pl/112/140] to cease to be effective on July 6, 2012, with text as amended by [Pub. L. 112–140][/us/pl/112/140] to revert back to read as it did on the day before June 29, 2012, and amendments by [Pub. L. 112–141][/us/pl/112/141] to be executed as if [Pub. L. 112–140][/us/pl/112/140] had not been enacted, see [section 1(c) of Pub. L. 112–140][/us/pl/112/140/s1/c], set out as a note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
 
-    Amendment by [Pub. L. 112–140][/us/pl/112/140] effective July 1, 2012, see [section 402(f)(1) of Pub. L. 112–140][/us/pl/112/140/s402/f/1], set out as a note under section 460l–11 of Title 16, Conservation.
+[Pub. L. 112–140, title IV, § 402(f)][/us/pl/112/140/s402/f], June 29, 2012, [126 Stat. 403][/us/stat/126/403], provided that:
 
-    Amendment by [Pub. L. 112–102][/us/pl/112/102] effective Apr. 1, 2012, see [section 402(f) of Pub. L. 112–102][/us/pl/112/102/s402/f], set out as a note under section 460l–11 of Title 16, Conservation.
+>     “(1)  __In general__  __.—__ 
+
+>     Except as provided in paragraph (2), the amendments made by this section \[amending this section, sections 4051, 4071, 4081, 4221, 4482, 4483, 6412, and 9503 of this title, and former section 460l–11 of Title 16, Conservation\] shall take effect on July 1, 2012.
+
+>     “(2)  __Technical correction__  __.—__ 
+
+>     The amendment made by subsection (e) \[amending [section 4482 of this title][/us/usc/t26/s4482]\] shall take effect as if included in section 402 of the Surface Transportation Extension Act of 2012 \[[Pub. L. 112–102][/us/pl/112/102]\].”
+
+[Pub. L. 112–102, title IV, § 402(f)][/us/pl/112/102/s402/f], Mar. 30, 2012, [126 Stat. 283][/us/stat/126/283], provided that: 
+
+> “The amendments made by this section \[amending this section, sections 4051, 4071, 4081, 4221, 4481 to 4483, 6412, and 9503 of this title, and former section 460l–11 of Title 16, Conservation\] shall take effect on April 1, 2012.”
 
  __Effective Date of 2011 Amendment__ 
 
-    Amendment by [Pub. L. 112–30][/us/pl/112/30] effective Oct. 1, 2011, see [section 142(f) of Pub. L. 112–30][/us/pl/112/30/s142/f], set out as a note under section 460l–11 of Title 16, Conservation.
+[Pub. L. 112–30, title I, § 142(f)][/us/pl/112/30/s142/f], Sept. 16, 2011, [125 Stat. 357][/us/stat/125/357], provided that: 
+
+> “The amendments made by this section \[amending this section, sections 4051, 4071, 4081, 4221, 4481 to 4483, 6412, and 9503 of this title, and former section 460l–11 of Title 16, Conservation\] shall take effect on October 1, 2011.”
 
  __Effective Date of 2007 Amendment__ 
 
@@ -1382,20 +1396,22 @@
 [/us/pl/86/342/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F342%2Fs201%2Fb%2F2
 [/us/pl/86/342/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F342%2Fs201%2Fb%2F1
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s40102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40102%2Ff
+[/us/stat/126/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F845
 [/us/pl/112/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140
 [/us/pl/112/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140
 [/us/pl/112/140/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140%2Fs1%2Fc
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/112/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140
-[/us/pl/112/140/s402/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140%2Fs402%2Ff%2F1
+[/us/pl/112/140/s402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140%2Fs402%2Ff
+[/us/stat/126/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F403
+[/us/usc/t26/s4482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4482
 [/us/pl/112/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102
 [/us/pl/112/102/s402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102%2Fs402%2Ff
-[/us/pl/112/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30
+[/us/stat/126/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F283
 [/us/pl/112/30/s142/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs142%2Ff
+[/us/stat/125/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F357
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/110/172/s6/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs6%2Fd%2F3
