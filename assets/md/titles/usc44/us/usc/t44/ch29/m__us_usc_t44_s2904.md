@@ -17,11 +17,11 @@
 
     (a) The Archivist shall provide guidance and assistance to Federal agencies with respect to ensuring adequate and proper documentation of the policies and transactions of the Federal Government and ensuring proper records disposition.
 
-    (b) The Administrator shall provide guidance and assistance to Federal agencies to ensure economical and effective records management by such agencies.
+    (b) The Archivist shall provide guidance and assistance to Federal agencies to ensure economical and effective records management by such agencies.
 
     (c)
 
-     In carrying out their responsibilities under subsection (a) or (b), respectively, the Archivist and the Administrator shall each have the responsibility—
+     In carrying out the responsibilities under subsections (a) and (b), the Archivist shall have the responsibility—
 
         (1) to promulgate standards, procedures, and guidelines with respect to records management and the conduct of records management studies;
 
@@ -33,13 +33,13 @@
 
         (5) to direct the continuing attention of Federal agencies and the Congress on the need for adequate policies governing records management;
 
-        (6) to conduct records management studies and, in his discretion, designate the heads of executive agencies to conduct records management studies with respect to establishing systems and techniques designed to save time and effort in records management;
+        (6) to conduct records management studies and, in the Archivist’s discretion, designate the heads of executive agencies to conduct records management studies with respect to establishing systems and techniques designed to save time and effort in records management;
 
         (7) to conduct inspections or surveys of the records and the records management programs and practices within and between Federal agencies;
 
         (8)
 
-         to report to the appropriate oversight and appropriations committees of the Congress and to the Director of the Office of Management and Budget in January of each year and at such other times as the Archivist or the Administrator (as the case may be) deems desirable—
+         to report to the appropriate oversight and appropriations committees of the Congress and to the Director of the Office of Management and Budget in January of each year and at such other times as the Archivist deems desirable—
 
             (A) on the results of activities conducted pursuant to paragraphs (1) through (7) of this section,
 
@@ -47,9 +47,9 @@
 
             (C) to the extent practicable, estimates of costs to the Federal Government resulting from the failure of agencies to implement such recommendations.
 
-    (d) In addition, the Administrator, in carrying out subsection (b), shall have the responsibility to promote economy and efficiency in the selection and utilization of space, staff, equipment, and supplies for records management.
+    (d) The Archivist shall promulgate regulations requiring all Federal agencies to transfer all digital or electronic records to the National Archives of the United States in digital or electronic form to the greatest extent possible.
 
-(Added [Pub. L. 94–575, § 2(a)(2)][/us/pl/94/575/s2/a/2], Oct. 21, 1976, [90 Stat. 2725][/us/stat/90/2725]; amended [Pub. L. 96–511, § 2(c)(1)][/us/pl/96/511/s2/c/1], Dec. 11, 1980, [94 Stat. 2825][/us/stat/94/2825]; [Pub. L. 98–497, title I, § 107(b)(16)][/us/pl/98/497/s107/b/16], Oct. 19, 1984, [98 Stat. 2288][/us/stat/98/2288].)
+(Added [Pub. L. 94–575, § 2(a)(2)][/us/pl/94/575/s2/a/2], Oct. 21, 1976, [90 Stat. 2725][/us/stat/90/2725]; amended [Pub. L. 96–511, § 2(c)(1)][/us/pl/96/511/s2/c/1], Dec. 11, 1980, [94 Stat. 2825][/us/stat/94/2825]; [Pub. L. 98–497, title I, § 107(b)(16)][/us/pl/98/497/s107/b/16], Oct. 19, 1984, [98 Stat. 2288][/us/stat/98/2288]; [Pub. L. 113–187][/us/pl/113/187], §§ 8(7), 9(c), Nov. 26, 2014, [128 Stat. 2012][/us/stat/128/2012], 2013.)
 
  __Prior Provisions__ 
 
@@ -58,6 +58,16 @@
     Provisions similar to those comprising pars. (8) to (10) of this section were contained in section 2902, [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1296][/us/stat/82/1296], prior to repeal by [Pub. L. 94–575, § 2(a)(1)][/us/pl/94/575/s2/a/1].
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–187, § 9(c)(1)][/us/pl/113/187/s9/c/1], substituted “The Archivist” for “The Administrator”.
+
+    Subsec. (c). [Pub. L. 113–187, § 9(c)(2)(A)][/us/pl/113/187/s9/c/2/A], substituted “the responsibilities under subsections (a) and (b), the Archivist shall have” for “their responsibilities under subsection (a) or (b), respectively, the Archivist and the Administrator shall each have” in introductory provisions.
+
+    Subsec. (c)(6). [Pub. L. 113–187, § 8(7)][/us/pl/113/187/s8/7], substituted “the Archivist’s” for “his”.
+
+    Subsec. (c)(8). [Pub. L. 113–187, § 9(c)(2)(B)][/us/pl/113/187/s9/c/2/B], struck out “or the Administrator (as the case may be)” after “Archivist”.
+
+    Subsec. (d). [Pub. L. 113–187, § 9(c)(3)][/us/pl/113/187/s9/c/3], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In addition, the Administrator, in carrying out subsection (b), shall have the responsibility to promote economy and efficiency in the selection and utilization of space, staff, equipment, and supplies for records management.”
 
     1984—[Pub. L. 98–497][/us/pl/98/497] substituted “for records management” for “of Administrator” in section catchline.
 
@@ -116,12 +126,19 @@
 [/us/stat/94/2825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2825
 [/us/pl/98/497/s107/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F16
 [/us/stat/98/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2288
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/stat/128/2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2012
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1296
 [/us/pl/94/575/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs2%2Fa%2F2
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1296
 [/us/pl/94/575/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs2%2Fa%2F1
+[/us/pl/113/187/s9/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs9%2Fc%2F1
+[/us/pl/113/187/s9/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs9%2Fc%2F2%2FA
+[/us/pl/113/187/s8/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs8%2F7
+[/us/pl/113/187/s9/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs9%2Fc%2F2%2FB
+[/us/pl/113/187/s9/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs9%2Fc%2F3
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497

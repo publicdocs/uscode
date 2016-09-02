@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t44/ch22/m__us_usc_t44_s2207.md) | [Next](./../../../..//us/usc/t44/ch23/m__us_usc_t44_s2301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fch23)
+[Previous](./../../../..//us/usc/t44/ch22/m__us_usc_t44_s2209.md) | [Next](./../../../..//us/usc/t44/ch23/m__us_usc_t44_s2301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fch23)
 
 ## CHAPTER 23—NATIONAL ARCHIVES TRUST FUND BOARD
 
@@ -95,7 +95,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t44/ch22/m__us_usc_t44_s2207.md) | [Next](./../../../..//us/usc/t44/ch23/m__us_usc_t44_s2301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fch23)
+[Previous](./../../../..//us/usc/t44/ch22/m__us_usc_t44_s2209.md) | [Next](./../../../..//us/usc/t44/ch23/m__us_usc_t44_s2301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fch23)
 
 ----------
 ----------

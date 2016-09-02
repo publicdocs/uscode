@@ -15,17 +15,35 @@
 
 ## § 2107. Acceptance of records for historical preservation
 
-    When it appears to the Archivist to be in the public interest, he may—
+    (a)  __In General__  __.—__ 
 
-    (1) accept for deposit with the National Archives of the United States the records of a Federal agency, the Congress, the Architect of the Capitol, or the Supreme Court determined by the Archivist of the United States to have sufficient historical or other value to warrant their continued preservation by the United States Government;
+    When it appears to the Archivist to be in the public interest, the Archivist may—
 
-    (2) direct and effect the transfer to the National Archives of the United States of rec­ords of a Federal agency that have been in existence for more than thirty years and determined by the Archivist of the United States to have sufficient historical or other value to warrant their continued preservation by the United States Government, unless the head of the agency which has custody of them certified in writing to the Archivist that they must be retained in his custody for use in the conduct of the regular current business of the agency;
+        (1) accept for deposit with the National Archives of the United States the records of a Federal agency, the Congress, the Architect of the Capitol, or the Supreme Court determined by the Archivist to have sufficient historical or other value to warrant their continued preservation by the United States Government;
 
-    (3) direct and effect, with the approval of the head of the originating agency, or if the existence of the agency has been terminated, then with the approval of his successor in function, if any, the transfer of records, deposited or approved for deposit with the National Archives of the United States to public or educational institutions or associations; title to the records to remain vested in the United States unless otherwise authorized by Congress; and
+        (2) direct and effect the transfer of records of a Federal agency determined by the Archivist to have sufficient historical or other value to warrant their continued preservation by the United States Government to the National Archives of the United States, as soon as practicable, and at a time mutually agreed upon by the Archivist and the head of that Federal agency not later than thirty years after such records were created or received by that agency, unless the head of such agency has certified in writing to the Archivist that such records must be retained in the custody of such agency for use in the conduct of the regular business of the agency;
 
-    (4) transfer materials from private sources authorized to be received by the Archivist by [section 2111 of this title][/us/usc/t44/s2111].
+        (3) direct and effect, with the approval of the head of the originating Federal agency, or if the existence of the agency has been terminated, with the approval of the head of that agency’s successor in function, if any, the transfer of records, deposited or approved for deposit with the National Archives of the United States to public or educational institutions or associations; title to the records to remain vested in the United States unless otherwise authorized by Congress; and
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1287][/us/stat/82/1287], § 2103; [Pub. L. 94–575, § 4(a)][/us/pl/94/575/s4/a], Oct. 21, 1976, [90 Stat. 2727][/us/stat/90/2727]; [Pub. L. 95–416, § 1(a)][/us/pl/95/416/s1/a], Oct. 5, 1978, [92 Stat. 915][/us/stat/92/915]; renumbered § 2107 and amended [Pub. L. 98–497, title I][/us/pl/98/497], §§ 102(a)(1), 107(a)(1), Oct. 19, 1984, [98 Stat. 2280][/us/stat/98/2280], 2285.)
+        (4) transfer materials from private sources authorized to be received by the Archivist by [section 2111 of this title][/us/usc/t44/s2111].
+
+    (b)  __Early Transfer of Records__  __.—__ 
+
+    The Archivist—
+
+        (1) in consultation with the head of the originating Federal agency, is authorized to accept a copy of the records described in subsection (a)(2) that have been in existence for less than thirty years; and
+
+        (2)
+
+         may not disclose any such records until the expiration of—
+
+            (A) the thirty-year period described in paragraph (1);
+
+            (B) any longer period established by the Archivist by order; or
+
+            (C) any shorter period agreed to by the originating Federal agency.
+
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1287][/us/stat/82/1287], § 2103; [Pub. L. 94–575, § 4(a)][/us/pl/94/575/s4/a], Oct. 21, 1976, [90 Stat. 2727][/us/stat/90/2727]; [Pub. L. 95–416, § 1(a)][/us/pl/95/416/s1/a], Oct. 5, 1978, [92 Stat. 915][/us/stat/92/915]; renumbered § 2107 and amended [Pub. L. 98–497, title I][/us/pl/98/497], §§ 102(a)(1), 107(a)(1), Oct. 19, 1984, [98 Stat. 2280][/us/stat/98/2280], 2285; [Pub. L. 113–187, § 3(a)][/us/pl/113/187/s3/a], Nov. 26, 2014, [128 Stat. 2007][/us/stat/128/2007].)
 
  __Historical and Revision Notes__ 
 
@@ -36,6 +54,8 @@
     A prior section 2107 was renumbered [section 2111 of this title][/us/usc/t44/s2111].
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–187][/us/pl/113/187] amended section generally. Prior to amendment, section provided for the acceptance of records by and transfer of records to the National Archives for historical preservation.
 
     1984—[Pub. L. 98–497, § 107(a)(1)][/us/pl/98/497/s107/a/1], substituted “Archivist” for “Administrator of General Services” in provisions preceding par. (1), substituted “, the Congress, the Architect of the Capitol, or the Supreme Court” for “or of the Congress” in par. (1), substituted “Archivist” for “Administrator” in par. (2), and substituted “Archivist” for “Administrator” and “section 2111” for “section 2107” in par. (4).
 
@@ -773,6 +793,8 @@
 [/us/stat/92/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F915
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/stat/98/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2280
+[/us/pl/113/187/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs3%2Fa
+[/us/stat/128/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2007
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
 [/us/act/1950-09-05/ch849/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849%2Fs6%2Fd
 [/us/stat/64/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F583
@@ -787,6 +809,7 @@
 [/us/pl/85/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F51
 [/us/stat/71/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F69
 [/us/usc/t44/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2111
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/pl/98/497/s107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fa%2F1
 [/us/pl/95/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F416
 [/us/pl/94/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575

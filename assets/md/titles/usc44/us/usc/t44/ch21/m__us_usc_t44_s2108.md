@@ -45,6 +45,46 @@
 
     Amendment by [Pub. L. 98–497][/us/pl/98/497] effective Apr. 1, 1985, see [section 301 of Pub. L. 98–497][/us/pl/98/497/s301], set out as a note under [section 2102 of this title][/us/usc/t44/s2102].
 
+ __Procedures To Prevent Unauthorized Removal of Classified Records From National Archives__ 
+
+[Pub. L. 113–187, § 6][/us/pl/113/187/s6], Nov. 26, 2014, [128 Stat. 2010][/us/stat/128/2010], provided that:
+
+>     “(a)  __Classified Records__  __.—__ 
+
+>     Not later than 90 days after the date of the enactment of this Act \[Nov. 26, 2014\], the Archivist shall prescribe internal procedures to prevent the unauthorized removal of classified records from the National Archives and Records Administration or the destruction or damage of such records, including when such records are accessed or searched electronically. Such procedures shall include, at a minimum, the following prohibitions:
+
+>         “(1) An individual, other than covered personnel, may not view classified records in any room that is not secure, except in the presence of National Archives and Records Administration personnel or under video surveillance.
+
+>         “(2) An individual, other than covered personnel, may not be left alone with classified records, unless that individual is under video surveillance.
+
+>         “(3) An individual, other than covered personnel, may not review classified records while possessing any cellular phone, electronic personal communication device, or any other devices capable of photographing, recording, or transferring images or content.
+
+>         “(4) An individual seeking access to review classified records, as a precondition to such access, must consent to a search of their belongings upon conclusion of their records review.
+
+>         “(5) All notes and other writings prepared by an individual, other than covered personnel, during the course of a review of classified records shall be retained by the National Archives and Records Administration in a secure facility until such notes and other writings are determined to be unclassified, are declassified, or are securely transferred to another secure facility.
+
+>     “(b)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)  __Covered personnel__  __.—__ 
+
+>         The term ‘covered personnel’ means any individual—
+
+>             “(A) who has an appropriate and necessary reason for accessing classified records, as determined by the Archivist; and
+
+>             “(B)
+
+>              who is either—
+
+>                 “(i) an officer or employee of the United States Government with appropriate security clearances; or
+
+>                 “(ii) any personnel with appropriate security clearances of a Federal contractor authorized in writing to act for purposes of this section by an officer or employee of the United States Government.
+
+>         “(2)  __Records__  __.—__ 
+
+>         The term ‘records’ has the meaning given that term under [section 3301 of title 44][/us/usc/t44/s3301], United States Code.”
+
 ----------
 
 [Previous](./../../../..//us/usc/t44/ch21/m__us_usc_t44_s2107.md) | [Next](./../../../..//us/usc/t44/ch21/m__us_usc_t44_s2109.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2108)
@@ -71,5 +111,8 @@
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs301
 [/us/usc/t44/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2102
+[/us/pl/113/187/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs6
+[/us/stat/128/2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2010
+[/us/usc/t44/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3301
 
 

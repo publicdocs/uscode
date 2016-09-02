@@ -63,7 +63,7 @@
 
     (10) the term “unauthenticated copies” means exact copies or reproductions of records or other materials that are not certified as such under seal and that need not be legally accepted as evidence;
 
-    (11) the term “National Archives of the United States” means those official records which have been determined by the Archivist of the United States to have sufficient historical or other value to warrant their continued preservation by the Federal Government, and which have been accepted by the Archivist for deposit in his custody;
+    (11) the term “National Archives of the United States” means those official records which have been determined by the Archivist of the United States to have sufficient historical or other value to warrant their continued preservation by the Federal Government, and which have been accepted by the Archivist for deposit in the Archivist’s custody;
 
     (12) the term “Archivist” means the Archivist of the United States;
 
@@ -73,13 +73,15 @@
 
     (15) the term “Administrator” means the Administrator of General Services.
 
-(Added [Pub. L. 94–575, § 2(a)(1)][/us/pl/94/575/s2/a/1], Oct. 21, 1976, [90 Stat. 2723][/us/stat/90/2723]; amended [Pub. L. 98–497, title I, § 107(b)(13)][/us/pl/98/497/s107/b/13], Oct. 19, 1984, [98 Stat. 2287][/us/stat/98/2287]; [Pub. L. 107–217, § 3][/us/pl/107/217/s3](l)(2), Aug. 21, 2002, [116 Stat. 1301][/us/stat/116/1301].)
+(Added [Pub. L. 94–575, § 2(a)(1)][/us/pl/94/575/s2/a/1], Oct. 21, 1976, [90 Stat. 2723][/us/stat/90/2723]; amended [Pub. L. 98–497, title I, § 107(b)(13)][/us/pl/98/497/s107/b/13], Oct. 19, 1984, [98 Stat. 2287][/us/stat/98/2287]; [Pub. L. 107–217, § 3][/us/pl/107/217/s3](l)(2), Aug. 21, 2002, [116 Stat. 1301][/us/stat/116/1301]; [Pub. L. 113–187, § 8(6)][/us/pl/113/187/s8/6], Nov. 26, 2014, [128 Stat. 2012][/us/stat/128/2012].)
 
  __Prior Provisions__ 
 
     A prior section 2901, [Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1295][/us/stat/82/1295], related to definitions, prior to repeal by [Pub. L. 94–575, § 2(a)(1)][/us/pl/94/575/s2/a/1].
 
  __Amendments__ 
+
+    2014—Par. (11). [Pub. L. 113–187][/us/pl/113/187] substituted “the Archivist’s” for “his”.
 
     2002—Par. (13). [Pub. L. 107–217][/us/pl/107/217] substituted “[section 102 of title 40][/us/usc/t40/s102]” for “section 3(a) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 472(a)][/us/usc/t40/s472/a])”.
 
@@ -150,9 +152,12 @@
 [/us/stat/98/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2287
 [/us/pl/107/217/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs3
 [/us/stat/116/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1301
+[/us/pl/113/187/s8/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs8%2F6
+[/us/stat/128/2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2012
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1295
 [/us/pl/94/575/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F575%2Fs2%2Fa%2F1
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs102
 [/us/usc/t40/s472/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs472%2Fa

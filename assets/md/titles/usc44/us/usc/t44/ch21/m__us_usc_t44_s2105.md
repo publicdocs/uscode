@@ -19,7 +19,7 @@
 
         (1) The Archivist is authorized to select, appoint, employ, and fix the compensation of such officers and employees, pursuant to part III of title 5, as are necessary to perform the functions of the Archivist and the Administration.
 
-        (2) Notwithstanding paragraph (1), the Archivist is authorized to appoint, subject to the consultation requirements set forth in paragraph (f)(2) of [section 2203 of this title][/us/usc/t44/s2203], a director at each Presidential archival depository established under [section 2112 of this title][/us/usc/t44/s2112]. The Archivist may appoint a director without regard to subchapter I and subchapter VIII of chapter 33 of title 5, United States Code, governing appointments in the competitive service and the Senior Executive Service. A director so appointed shall be responsible for the care and preservation of the Presidential records and historical materials deposited in a Presidential archival depository, shall serve at the pleasure of the Archivist and shall perform such other functions as the Archivist may specify.
+        (2) Notwithstanding paragraph (1), the Archivist is authorized to appoint, subject to the consultation requirements set forth in paragraph (f)(2) of [section 2203 of this title][/us/usc/t44/s2203], <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  a director at each Presidential archival depository established under [section 2112 of this title][/us/usc/t44/s2112]. The Archivist may appoint a director without regard to subchapter I and subchapter VIII of chapter 33 of title 5, United States Code, governing appointments in the competitive service and the Senior Executive Service. A director so appointed shall be responsible for the care and preservation of the Presidential records and historical materials deposited in a Presidential archival depository, shall serve at the pleasure of the Archivist and shall perform such other functions as the Archivist may specify.
 
     (b) The Archivist is authorized to obtain the services of experts and consultants under [section 3109 of title 5][/us/usc/t5/s3109].
 
@@ -28,6 +28,10 @@
     (d) Notwithstanding [section 1342 of title 31][/us/usc/t31/s1342], United States Code, the Archivist is authorized to accept and utilize voluntary and uncompensated services.
 
 (Added [Pub. L. 98–497, title I, § 102(a)(2)][/us/pl/98/497/s102/a/2], Oct. 19, 1984, [98 Stat. 2281][/us/stat/98/2281]; amended [Pub. L. 107–67, title VI, § 649][/us/pl/107/67/s649], Nov. 12, 2001, [115 Stat. 556][/us/stat/115/556].)
+
+ __References in Text__ 
+
+    Paragraph (f)(2) of [section 2203 of this title][/us/usc/t44/s2203], referred to in subsec. (a)(2), was redesignated (g)(2) of [section 2203 of this title][/us/usc/t44/s2203] by [Pub. L. 113–187, § 2(c)(3)][/us/pl/113/187/s2/c/3], Nov. 26, 2014, [128 Stat. 2006][/us/stat/128/2006].
 
  __Prior Provisions__ 
 
@@ -57,6 +61,10 @@
 [/us/stat/98/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2281
 [/us/pl/107/67/s649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2Fs649
 [/us/stat/115/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F556
+[/us/usc/t44/s2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2203
+[/us/usc/t44/s2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2203
+[/us/pl/113/187/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs2%2Fc%2F3
+[/us/stat/128/2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2006
 [/us/usc/t44/s2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2109
 [/us/pl/107/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67
 [/us/pl/98/497/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs301

@@ -35,6 +35,12 @@
 
     Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–187, § 1(a)][/us/pl/113/187/s1/a], Nov. 26, 2014, [128 Stat. 2003][/us/stat/128/2003], provided that: 
+
+> “This Act \[enacting sections 2208, 2209, and 2911 of this title, amending sections 2107, 2111, 2114 to 2116, 2201, 2203 to 2205, 2207, 2901, 2902, 2904 to 2907, 3102 to 3106, 3301 to 3303a, and 3312 of this title, repealing sections 3315 to 3324 of this title, and enacting provisions set out as notes under sections 2108 and 2207 of this title\] may be cited as the ‘Presidential and Federal Records Act Amendments of 2014’.”
+
  __Short Title of 2008 Amendment__ 
 
 [Pub. L. 110–404, § 1][/us/pl/110/404/s1], Oct. 13, 2008, [122 Stat. 4281][/us/stat/122/4281], provided that: 
@@ -154,6 +160,8 @@
 [/us/stat/60/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F838
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/pl/97/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F4
+[/us/pl/113/187/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs1%2Fa
+[/us/stat/128/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2003
 [/us/pl/110/404/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F404%2Fs1
 [/us/stat/122/4281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4281
 [/us/usc/t44/s2120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2120

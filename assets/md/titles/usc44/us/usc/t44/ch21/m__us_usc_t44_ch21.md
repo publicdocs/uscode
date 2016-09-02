@@ -131,7 +131,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2114" data-uslm-ref="/us/usc/t44/s2114">2114.</a>  </td>
 
-    <td> Preservation of motion-picture films, still pictures, and sound recordings.  </td>
+    <td> Preservation of audio and visual records.  </td>
 
   </tr>
 
@@ -187,6 +187,8 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–187, § 3(c)(2)][/us/pl/113/187/s3/c/2], Nov. 26, 2014, [128 Stat. 2008][/us/stat/128/2008], substituted “Preservation of audio and visual records” for “Preservation of motion-picture films, still pictures, and sound recordings” in item 2114.
+
     2008—[Pub. L. 110–404, § 4(c)][/us/pl/110/404/s4/c], Oct. 13, 2008, [122 Stat. 4283][/us/stat/122/4283], added item 2120.
 
     2004—[Pub. L. 108–383, § 5(b)][/us/pl/108/383/s5/b], Oct. 30, 2004, [118 Stat. 2219][/us/stat/118/2219], added item 2119.
@@ -200,6 +202,8 @@
 ----------
 ----------
 
+[/us/pl/113/187/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs3%2Fc%2F2
+[/us/stat/128/2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2008
 [/us/pl/110/404/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F404%2Fs4%2Fc
 [/us/stat/122/4283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4283
 [/us/pl/108/383/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F383%2Fs5%2Fb

@@ -13,11 +13,11 @@
 
 [Previous](./../../../..//us/usc/t44/ch21/m__us_usc_t44_s2113.md) | [Next](./../../../..//us/usc/t44/ch21/m__us_usc_t44_s2115.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2114)
 
-## § 2114. Preservation of motion-picture films, still pictures, and sound recordings
+## § 2114. Preservation of audio and visual records
 
-    The Archivist may make and preserve motion-picture films, still pictures, and sound recordings pertaining to and illustrative of the historical development of the United States Government and its activities, and provide for preparing, editing, titling, scoring, processing, duplicating, reproducing, exhibiting, and releasing for non-profit educational purposes, motion-picture films, still pictures, and sound recordings in his custody.
+    The Archivist may make and preserve audio and visual records, including motion-picture films, still photographs, and sound recordings, in analog, digital, or any other form, pertaining to and illustrative of the historical development of the United States Government and its activities, and provide for preparing, editing, titling, scoring, processing, duplicating, reproducing, exhibiting, and releasing for non-profit educational purposes, motion-picture films, still photographs, and sound recordings in the Archivist’s custody.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1290][/us/stat/82/1290], § 2110; renumbered § 2114 and amended [Pub. L. 98–497, title I][/us/pl/98/497], §§ 102(a)(1), 107(a)(7), Oct. 19, 1984, [98 Stat. 2280][/us/stat/98/2280], 2286.)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1290][/us/stat/82/1290], § 2110; renumbered § 2114 and amended [Pub. L. 98–497, title I][/us/pl/98/497], §§ 102(a)(1), 107(a)(7), Oct. 19, 1984, [98 Stat. 2280][/us/stat/98/2280], 2286; [Pub. L. 113–187, § 3(c)(1)][/us/pl/113/187/s3/c/1], Nov. 26, 2014, [128 Stat. 2008][/us/stat/128/2008].)
 
  __Historical and Revision Notes__ 
 
@@ -28,6 +28,8 @@
     A prior section 2114 was renumbered [section 2118 of this title][/us/usc/t44/s2118].
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–187][/us/pl/113/187] amended section generally. Prior to amendment section related to preservation of motion-picture films, still pictures, and sound recordings.
 
     1984—[Pub. L. 98–497, § 107(a)(7)][/us/pl/98/497/s107/a/7], substituted “Archivist” for “Administrator of General Services”.
 
@@ -46,6 +48,8 @@
 [/us/stat/82/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1290
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/stat/98/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2280
+[/us/pl/113/187/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs3%2Fc%2F1
+[/us/stat/128/2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2008
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
 [/us/act/1950-09-05/ch849/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849%2Fs6%2Fd
 [/us/stat/64/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F583
@@ -62,6 +66,7 @@
 [/us/pl/85/341/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F341%2Fs1%2F1
 [/us/stat/72/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F34
 [/us/usc/t44/s2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2118
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/pl/98/497/s107/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fa%2F7
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs301

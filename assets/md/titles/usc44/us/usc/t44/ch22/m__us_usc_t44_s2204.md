@@ -17,7 +17,7 @@
 
     (a)
 
-     Prior to the conclusion of his term of office or last consecutive term of office, as the case may be, the President shall specify durations, not to exceed 12 years, for which access shall be restricted with respect to information, in a Presidential record, within one or more of the following categories:
+     Prior to the conclusion of a President’s term of office or last consecutive term of office, as the case may be, the President shall specify durations, not to exceed 12 years, for which access shall be restricted with respect to information, in a Presidential record, within one or more of the following categories:
 
         (1)
 
@@ -29,7 +29,7 @@
 
         (4) trade secrets and commercial or financial information obtained from a person and privileged or confidential;
 
-        (5) confidential communications requesting or submitting advice, between the President and his advisers, or between such advisers; or
+        (5) confidential communications requesting or submitting advice, between the President and the President’s advisers, or between such advisers; or
 
         (6) personnel and medical files and similar files the disclosure of which would constitute a clearly unwarranted invasion of personal privacy.
 
@@ -45,17 +45,17 @@
 
                 (ii) the expiration of the duration specified under subsection (a) for the category of information on the basis of which access to such record has been restricted; or
 
-            (B) upon a determination by the Archivist that such record or reasonably segregable portion thereof, or of any significant element or aspect of the information contained in such record or reasonably segregable portion thereof, has been placed in the public domain through publication by the former President, or his agents.
+            (B) upon a determination by the Archivist that such record or reasonably segregable portion thereof, or of any significant element or aspect of the information contained in such record or reasonably segregable portion thereof, has been placed in the public domain through publication by the former President, or the President’s agents.
 
         (2)
 
          Any such record which does not contain information within a category restricted by the President under subsection (a), or contains information within such a category for which the duration of restricted access has expired, shall be exempt from the provisions of subsection (c) until the earlier of—
 
-            (A) the date which is 5 years after the date on which the Archivist obtains custody of such record pursuant to section 2203(d)(1); or
+            (A) the date which is 5 years after the date on which the Archivist obtains custody of such record pursuant to section 2203(d)(1); <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “2203(g)(1);”. </sup></sup>  or
 
             (B) the date on which the Archivist completes the processing and organization of such records or integral file segment thereof.
 
-        (3) During the period of restricted access specified pursuant to subsection (b)(1), the determination whether access to a Presidential record or reasonably segregable portion thereof shall be restricted shall be made by the Archivist, in his discretion, after consultation with the former President, and, during such period, such determinations shall not be subject to judicial review, except as provided in subsection (e) of this section. The Archivist shall establish procedures whereby any person denied access to a Presidential record because such record is restricted pursuant to a determination made under this paragraph, may file an administrative appeal of such determination. Such procedures shall provide for a written determination by the Archivist or his designee, within 30 working days after receipt of such an appeal, setting forth the basis for such determination.
+        (3) During the period of restricted access specified pursuant to subsection (b)(1), the determination whether access to a Presidential record or reasonably segregable portion thereof shall be restricted shall be made by the Archivist, in the Archivist’s discretion, after consultation with the former President, and, during such period, such determinations shall not be subject to judicial review, except as provided in subsection (e) of this section. The Archivist shall establish procedures whereby any person denied access to a Presidential record because such record is restricted pursuant to a determination made under this paragraph, may file an administrative appeal of such determination. Such procedures shall provide for a written determination by the Archivist or the Archivist’s designee, within 30 working days after receipt of such an appeal, setting forth the basis for such determination.
 
     (c)
 
@@ -63,17 +63,31 @@
 
         (2) Nothing in this Act shall be construed to confirm, limit, or expand any constitutionally-based privilege which may be available to an incumbent or former President.
 
-    (d) Upon the death or disability of a President or former President, any discretion or authority the President or former President may have had under this chapter shall be exercised by the Archivist unless otherwise previously provided by the President or former President in a written notice to the Archivist.
+    (d) Upon the death or disability of a President or former President, any discretion or authority the President or former President may have had under this chapter, except section 2208, shall be exercised by the Archivist unless otherwise previously provided by the President or former President in a written notice to the Archivist.
 
     (e) The United States District Court for the District of Columbia shall have jurisdiction over any action initiated by the former President asserting that a determination made by the Archivist violates the former President’s rights or privileges.
 
-(Added [Pub. L. 95–591, § 2(a)][/us/pl/95/591/s2/a], Nov. 4, 1978, [92 Stat. 2525][/us/stat/92/2525]; amended [Pub. L. 98–497, title I, § 107(b)(7)][/us/pl/98/497/s107/b/7], Oct. 19, 1984, [98 Stat. 2287][/us/stat/98/2287].)
+    (f) The Archivist shall not make available any original Presidential records to any individual claiming access to any Presidential record as a designated representative under [section 2205(3) of this title][/us/usc/t44/s2205/3] if that individual has been convicted of a crime relating to the review, retention, removal, or destruction of records of the Archives.
+
+(Added [Pub. L. 95–591, § 2(a)][/us/pl/95/591/s2/a], Nov. 4, 1978, [92 Stat. 2525][/us/stat/92/2525]; amended [Pub. L. 98–497, title I, § 107(b)(7)][/us/pl/98/497/s107/b/7], Oct. 19, 1984, [98 Stat. 2287][/us/stat/98/2287]; [Pub. L. 113–187][/us/pl/113/187], §§ 2(a)(2)(A), (d), 8(4), Nov. 26, 2014, [128 Stat. 2005][/us/stat/128/2005], 2006, 2011.)
 
  __References in Text__ 
 
     This Act, referred to in subsec. (c)(2), probably means [Pub. L. 95–591][/us/pl/95/591], Nov. 4, 1978, [92 Stat. 2523][/us/stat/92/2523], known as the Presidential Records Act of 1978, which enacted this chapter, amended sections 2107 and 2108 of this title, and enacted provisions set out as notes under [section 2201 of this title][/us/usc/t44/s2201]. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 101 of this title][/us/usc/t44/s101] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–187, § 8(4)(A)(i)][/us/pl/113/187/s8/4/A/i], substituted “a President’s” for “his” in introductory provisions.
+
+    Subsec. (a)(5). [Pub. L. 113–187, § 8(4)(A)(ii)][/us/pl/113/187/s8/4/A/ii], substituted “the President’s” for “his”.
+
+    Subsec. (b)(1)(B). [Pub. L. 113–187, § 8(4)(B)(i)][/us/pl/113/187/s8/4/B/i], substituted “the President’s” for “his”.
+
+    Subsec. (b)(3). [Pub. L. 113–187, § 8(4)(B)(ii)][/us/pl/113/187/s8/4/B/ii], substituted “the Archivist’s discretion” for “his discretion” and “the Archivist’s designee” for “his designee”.
+
+    Subsec. (d). [Pub. L. 113–187, § 2(a)(2)(A)][/us/pl/113/187/s2/a/2/A], inserted “, except section 2208,” after “chapter”.
+
+    Subsec. (f). [Pub. L. 113–187, § 2(d)][/us/pl/113/187/s2/d], added subsec. (f).
 
     1984—Subsec. (c)(1). [Pub. L. 98–497][/us/pl/98/497] substituted “National Archives and Records Administration” for “National Archives and Records Service of the General Services Administration”.
 
@@ -151,14 +165,23 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
+[/us/usc/t44/s2205/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2205%2F3
 [/us/pl/95/591/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591%2Fs2%2Fa
 [/us/stat/92/2525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2525
 [/us/pl/98/497/s107/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F7
 [/us/stat/98/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2287
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/stat/128/2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2005
 [/us/pl/95/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591
 [/us/stat/92/2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2523
 [/us/usc/t44/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2201
 [/us/usc/t44/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs101
+[/us/pl/113/187/s8/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs8%2F4%2FA%2Fi
+[/us/pl/113/187/s8/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs8%2F4%2FA%2Fii
+[/us/pl/113/187/s8/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs8%2F4%2FB%2Fi
+[/us/pl/113/187/s8/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs8%2F4%2FB%2Fii
+[/us/pl/113/187/s2/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs2%2Fa%2F2%2FA
+[/us/pl/113/187/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs2%2Fd
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/pl/98/497/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs301

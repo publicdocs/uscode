@@ -13,7 +13,7 @@
 
 [Previous](./../../../..//us/usc/t44/ch27/m__us_usc_t44_s2706.md) | [Next](./../../../..//us/usc/t44/ch29/m__us_usc_t44_s2901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fch29)
 
-## CHAPTER 29—RECORDS MANAGEMENT BY THE ARCHIVIST OF THE UNITED STATES AND BY THE ADMINISTRATOR OF GENERAL SERVICES
+## CHAPTER 29—RECORDS MANAGEMENT BY THE ARCHIVIST OF THE UNITED STATES
 
 <table>
 
@@ -75,7 +75,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2907" data-uslm-ref="/us/usc/t44/s2907">2907.</a>  </td>
 
-    <td> Records centers and centralized microfilming services.  </td>
+    <td> Records centers and centralized microfilming or digitization services.  </td>
 
   </tr>
 
@@ -103,9 +103,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2911" data-uslm-ref="/us/usc/t44/s2911">2911.</a>  </td>
+
+    <td> Disclosure requirement for official business conducted using non-official electronic messaging accounts.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–187][/us/pl/113/187], §§ 9(b)(2), (f)(1), 10(b), Nov. 26, 2014, [128 Stat. 2013–2015][/us/stat/128/2013-2015], struck out “AND BY THE ADMINISTRATOR OF GENERAL SERVICES” after “UNITED STATES” in chapter heading, inserted “or digitization” after “microfilming” in item 2907, and added item 2911.
 
     2000—[Pub. L. 106–444, § 2(b)][/us/pl/106/444/s2/b], Nov. 6, 2000, [114 Stat. 1929][/us/stat/114/1929], added item 2910.
 
@@ -120,6 +130,8 @@
 ----------
 ----------
 
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/stat/128/2013-2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2013-2015
 [/us/pl/106/444/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F444%2Fs2%2Fb
 [/us/stat/114/1929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1929
 [/us/pl/98/497/s107/b/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F18%2FA

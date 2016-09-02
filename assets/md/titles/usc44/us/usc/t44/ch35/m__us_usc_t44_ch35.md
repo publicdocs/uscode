@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3324.md) | [Next](./../../../..//us/usc/t44/ch35/schI/m__us_usc_t44_ch35_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fch35)
+[Previous](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3314.md) | [Next](./../../../..//us/usc/t44/ch35/schI/m__us_usc_t44_ch35_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fch35)
 
 ## CHAPTER 35—COORDINATION OF FEDERAL INFORMATION POLICY
 
@@ -369,7 +369,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3324.md) | [Next](./../../../..//us/usc/t44/ch35/schI/m__us_usc_t44_ch35_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fch35)
+[Previous](./../../../..//us/usc/t44/ch33/m__us_usc_t44_s3314.md) | [Next](./../../../..//us/usc/t44/ch35/schI/m__us_usc_t44_ch35_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fch35)
 
 ----------
 ----------

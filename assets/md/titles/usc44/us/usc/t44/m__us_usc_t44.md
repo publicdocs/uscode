@@ -17,7 +17,7 @@
 
 This title was enacted by [Pub. L. 90–620, § 1][/us/pl/90/620/s1], Oct. 22, 1968, [82 Stat. 1238][/us/stat/82/1238]
 
-Current through 113-186
+Current through 113-201
 
 <table>
 
@@ -185,7 +185,7 @@ Current through 113-186
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fch29" data-uslm-ref="/us/usc/t44/ch29">29.</a>  </td>
 
-    <td> Records Management by the Archivist of the United States and by the Administrator of General Services  </td>
+    <td> Records Management by the Archivist of the United States  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs2901" data-uslm-ref="/us/usc/t44/s2901">2901</a>  </td>
 
@@ -264,6 +264,8 @@ Current through 113-186
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–187, § 9(f)(2)][/us/pl/113/187/s9/f/2], Nov. 26, 2014, [128 Stat. 2014][/us/stat/128/2014], struck out “and by the Administrator of General Services” after “United States” in item 29.
 
     2002—[Pub. L. 107–347, title I, § 101(b)][/us/pl/107/347/s101/b], Dec. 17, 2002, [116 Stat. 2910][/us/stat/116/2910], added item 36.
 
@@ -4424,6 +4426,8 @@ Rep.  </td>
 
 [/us/pl/90/620/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620%2Fs1
 [/us/stat/82/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1238
+[/us/pl/113/187/s9/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs9%2Ff%2F2
+[/us/stat/128/2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2014
 [/us/pl/107/347/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs101%2Fb
 [/us/stat/116/2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2910
 [/us/pl/103/40/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F40%2Fs2%2Fb

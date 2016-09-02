@@ -17,13 +17,13 @@
 
     As used in this chapter—
 
-    (1) The term “documentary material” means all books, correspondence, memorandums, documents, papers, pamphlets, works of art, models, pictures, photographs, plats, maps, films, and motion pictures, including, but not limited to, audio, audiovisual, or other electronic or mechanical recordations.
+    (1) The term “documentary material” means all books, correspondence, memoranda, documents, papers, pamphlets, works of art, models, pictures, photographs, plats, maps, films, and motion pictures, including, but not limited to, audio and visual records, or other electronic or mechanical recordations, whether in analog, digital, or any other form.
 
     (2)
 
-     The term “Presidential records” means documentary materials, or any reasonably seg­regable portion thereof, created or received by the President, his immediate staff, or a unit or individual of the Executive Office of the President whose function is to advise and assist the President, in the course of conducting activities which relate to or have an effect upon the carrying out of the constitutional, statutory, or other official or ceremonial duties of the President. Such term—
+     The term “Presidential records” means documentary materials, or any reasonably seg­regable portion thereof, created or received by the President, the President’s immediate staff, or a unit or individual of the Executive Office of the President whose function is to advise or assist the President, in the course of conducting activities which relate to or have an effect upon the carrying out of the constitutional, statutory, or other official or ceremonial duties of the President. Such term—
 
-        (A) includes any documentary materials relating to the political activities of the President or members of his staff, but only if such activities relate to or have a direct effect upon the carrying out of constitutional, statutory, or other official or ceremonial duties of the President; but
+        (A) includes any documentary materials relating to the political activities of the President or members of the President’s staff, but only if such activities relate to or have a direct effect upon the carrying out of constitutional, statutory, or other official or ceremonial duties of the President; but
 
         (B) does not include any documentary materials that are (i) official records of an agency (as defined in section 552(e)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 5, United States Code); (ii) personal records; (iii) stocks of publications and stationery; or (iv) extra copies of documents produced only for convenience of reference, when such copies are clearly so identified.
 
@@ -41,11 +41,19 @@
 
     (5) The term “former President”, when used with respect to Presidential records, means the former President during whose term or terms of office such Presidential rec­ords were created.
 
-(Added [Pub. L. 95–591, § 2(a)][/us/pl/95/591/s2/a], Nov. 4, 1978, [92 Stat. 2523][/us/stat/92/2523].)
+(Added [Pub. L. 95–591, § 2(a)][/us/pl/95/591/s2/a], Nov. 4, 1978, [92 Stat. 2523][/us/stat/92/2523]; amended [Pub. L. 113–187][/us/pl/113/187], §§ 2(b), 8(2), Nov. 26, 2014, [128 Stat. 2005][/us/stat/128/2005], 2011.)
 
  __References in Text__ 
 
     [Section 552(e) of title 5][/us/usc/t5/s552/e], referred to in par. (2)(B)(i), was redesignated [section 552(f) of title 5][/us/usc/t5/s552/f] by [section 1802(b) of Pub. L. 99–570][/us/pl/99/570/s1802/b].
+
+ __Amendments__ 
+
+    2014—Par. (1). [Pub. L. 113–187, § 2(b)(1)][/us/pl/113/187/s2/b/1], substituted “memoranda” for “memorandums” and “audio and visual records” for “audio, audiovisual” and inserted “, whether in analog, digital, or any other form” after “mechanical recordations”.
+
+    Par. (2). [Pub. L. 113–187, § 8(2)][/us/pl/113/187/s8/2], substituted “the President’s” for “his” in introductory provisions and in subpar. (A).
+
+    [Pub. L. 113–187, § 2(b)(2)][/us/pl/113/187/s2/b/2], substituted “advise or assist” for “advise and assist” in introductory provisions.
 
  __Effective Date__ 
 
@@ -72,9 +80,14 @@
 
 [/us/pl/95/591/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591%2Fs2%2Fa
 [/us/stat/92/2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2523
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
+[/us/stat/128/2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2005
 [/us/usc/t5/s552/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fe
 [/us/usc/t5/s552/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Ff
 [/us/pl/99/570/s1802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs1802%2Fb
+[/us/pl/113/187/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs2%2Fb%2F1
+[/us/pl/113/187/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs8%2F2
+[/us/pl/113/187/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs2%2Fb%2F2
 [/us/pl/95/591/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591%2Fs3
 [/us/stat/92/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2528
 [/us/usc/t44/s2201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2201%2F2

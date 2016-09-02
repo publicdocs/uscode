@@ -121,87 +121,17 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3315" data-uslm-ref="/us/usc/t44/s3315">3315.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3315" data-uslm-ref="/us/usc/t44/s3315">3315</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3324" data-uslm-ref="/us/usc/t44/s3324">3324.</a>  </td>
 
-    <td> Definitions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3316" data-uslm-ref="/us/usc/t44/s3316">3316.</a>  </td>
-
-    <td> Establishment of Commission.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3317" data-uslm-ref="/us/usc/t44/s3317">3317.</a>  </td>
-
-    <td> Duties of Commission.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3318" data-uslm-ref="/us/usc/t44/s3318">3318.</a>  </td>
-
-    <td> Membership.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3319" data-uslm-ref="/us/usc/t44/s3319">3319.</a>  </td>
-
-    <td> Director and staff; experts and consultants.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3320" data-uslm-ref="/us/usc/t44/s3320">3320.</a>  </td>
-
-    <td> Powers of Commission.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3321" data-uslm-ref="/us/usc/t44/s3321">3321.</a>  </td>
-
-    <td> Support services.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3322" data-uslm-ref="/us/usc/t44/s3322">3322.</a>  </td>
-
-    <td> Report.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3323" data-uslm-ref="/us/usc/t44/s3323">3323.</a>  </td>
-
-    <td> Termination.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft44%2Fs3324" data-uslm-ref="/us/usc/t44/s3324">3324.</a>  </td>
-
-    <td> Authorization of appropriations.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–187, § 7(b)][/us/pl/113/187/s7/b], Nov. 26, 2014, [128 Stat. 2011][/us/stat/128/2011], struck out items 3315 “Definitions”, 3316 “Establishment of Commission”, 3317 “Duties of Commission”, 3318 “Membership”, 3319 “Director and staff; experts and consultants”, 3320 “Powers of Commission”, 3321 “Support services”, 3322 “Report”, 3323 “Termination”, and 3324 “Authorization of appropriations”.
 
     2004—[Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], substituted “Government Accountability Office” for “General Accounting Office” in item 3309.
 
@@ -220,6 +150,8 @@
 ----------
 ----------
 
+[/us/pl/113/187/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs7%2Fb
+[/us/stat/128/2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2011
 [/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/98/497/s107/b/25/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fb%2F25%2FD

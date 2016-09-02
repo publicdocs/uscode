@@ -15,15 +15,19 @@
 
 ## § 2111. Material accepted for deposit
 
-    When the Archivist considers it to be in the public interest he may accept for deposit—
+    (a)  __In General__  __.—__ 
 
-    (1) the papers and other historical materials of a President or former President of the United States, or other official or former official of the Government, and other papers relating to and contemporary with a President or former President of the United States, subject to restrictions agreeable to the Archivist as to their use; and
+    When the Archivist considers it to be in the public interest the Archivist may accept for deposit—
 
-    (2) documents, including motion-picture films, still pictures, and sound recordings, from private sources that are appropriate for preservation by the Government as evidence of its organization, functions, policies, decisions, procedures, and transactions.
+        (1) the papers and other historical materials of a President or former President of the United States, or other official or former official of the Government, and other papers relating to and contemporary with a President or former President of the United States, subject to restrictions agreeable to the Archivist as to their use; and
+
+        (2) recorded information (as such term is defined in [section 3301(a)(2) of this title][/us/usc/t44/s3301/a/2]) from private sources that are appropriate for preservation by the Government as evidence of its organization, functions, policies, decisions, procedures, and transactions.
+
+    (b)  __Exception__  __.—__ 
 
     This section shall not apply in the case of any Presidential records which are subject to the provisions of chapter 22 of this title.
 
-([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1288][/us/stat/82/1288], § 2107; [Pub. L. 95–591, § 2(b)(2)][/us/pl/95/591/s2/b/2], Nov. 4, 1978, [92 Stat. 2528][/us/stat/92/2528]; renumbered § 2111 and amended [Pub. L. 98–497, title I][/us/pl/98/497], §§ 102(a)(1), 107(a)(5), Oct. 19, 1984, [98 Stat. 2280][/us/stat/98/2280], 2286.)
+([Pub. L. 90–620][/us/pl/90/620], Oct. 22, 1968, [82 Stat. 1288][/us/stat/82/1288], § 2107; [Pub. L. 95–591, § 2(b)(2)][/us/pl/95/591/s2/b/2], Nov. 4, 1978, [92 Stat. 2528][/us/stat/92/2528]; renumbered § 2111 and amended [Pub. L. 98–497, title I][/us/pl/98/497], §§ 102(a)(1), 107(a)(5), Oct. 19, 1984, [98 Stat. 2280][/us/stat/98/2280], 2286; [Pub. L. 113–187, § 3(b)][/us/pl/113/187/s3/b], Nov. 26, 2014, [128 Stat. 2008][/us/stat/128/2008].)
 
  __Historical and Revision Notes__ 
 
@@ -34,6 +38,8 @@
     A prior section 2111 was renumbered [section 2115 of this title][/us/usc/t44/s2115].
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–187][/us/pl/113/187] amended section generally, substituting subsecs. (a) and (b) for similar provisions contained in pars. (1) and (2) and concluding provisions.
 
     1984—[Pub. L. 98–497, § 107(a)(5)][/us/pl/98/497/s107/a/5], substituted “Archivist” for “Administrator of General Services” in provisions preceding par. (1), and substituted “Archivist” for “Administrator” in par. (1).
 
@@ -51,7 +57,7 @@
 
 [Pub. L. 93–526, title I][/us/pl/93/526], §§ 101–106, Dec. 19, 1974, [88 Stat. 1695–1698][/us/stat/88/1695-1698], as amended by [Pub. L. 98–497, title I, § 107(c)][/us/pl/98/497/s107/c], Oct. 19, 1984, [98 Stat. 2291][/us/stat/98/2291]; [Pub. L. 108–199, div. F, title V, § 543(a)][/us/pl/108/199/s543/a], Jan. 23, 2004, [118 Stat. 346][/us/stat/118/346], provided: 
 
-> “That this Act \[enacting this note, sections 3315 to 3324 of this title, and provisions set out as a note under [section 3315 of this title][/us/usc/t44/s3315]\] may be cited as the ‘Presidential Recordings and Materials Preservation Act’.
+> “That this Act \[enacting this note, former sections 3315 to 3324 of this title, and provisions set out as a note under former [section 3315 of this title][/us/usc/t44/s3315]\] may be cited as the ‘Presidential Recordings and Materials Preservation Act’.
 
 > “Title I— __Preservation of Presidential Recordings and Materials__ 
 
@@ -148,12 +154,15 @@
 ----------
 ----------
 
+[/us/usc/t44/s3301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3301%2Fa%2F2
 [/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1288
 [/us/pl/95/591/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591%2Fs2%2Fb%2F2
 [/us/stat/92/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2528
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
 [/us/stat/98/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2280
+[/us/pl/113/187/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187%2Fs3%2Fb
+[/us/stat/128/2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2008
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
 [/us/act/1950-09-05/ch849/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849%2Fs6%2Fd
 [/us/stat/64/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F583
@@ -164,6 +173,7 @@
 [/us/act/1955-08-12/ch859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-12%2Fch859
 [/us/stat/69/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F695
 [/us/usc/t44/s2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2115
+[/us/pl/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F187
 [/us/pl/98/497/s107/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497%2Fs107%2Fa%2F5
 [/us/pl/95/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F591
 [/us/pl/98/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F497
