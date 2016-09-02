@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7041.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7041" data-uslm-ref="/us/usc/t10/s7041">7041.</a>  </td>
 
     <td> Function.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7042.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7042" data-uslm-ref="/us/usc/t10/s7042">7042.</a>  </td>
 
     <td> President; assistants.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7043.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7043" data-uslm-ref="/us/usc/t10/s7043">7043.</a>  </td>
 
     <td> Provost and Academic Dean.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7044.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7044" data-uslm-ref="/us/usc/t10/s7044">7044.</a>  </td>
 
     <td> Civilian teachers: number; compensation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7045.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7045" data-uslm-ref="/us/usc/t10/s7045">7045.</a>  </td>
 
     <td> Officers of the other armed forces; enlisted members: admission.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7046.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7046" data-uslm-ref="/us/usc/t10/s7046">7046.</a>  </td>
 
     <td> Officers of foreign countries: admission.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7047.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7047" data-uslm-ref="/us/usc/t10/s7047">7047.</a>  </td>
 
     <td> Students at institutions of higher education: admission.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7048.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7048" data-uslm-ref="/us/usc/t10/s7048">7048.</a>  </td>
 
     <td> Degree granting authority for United States Naval Postgraduate School.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 7049.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7049" data-uslm-ref="/us/usc/t10/s7049">7049.</a>  </td>
 
     <td> Defense industry civilians: admission to defense product development program.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 7050.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7050" data-uslm-ref="/us/usc/t10/s7050">7050.</a>  </td>
 
     <td> Grants for faculty research for scientific, literary, and educational purposes: acceptance, authorized grantees.  </td>
 

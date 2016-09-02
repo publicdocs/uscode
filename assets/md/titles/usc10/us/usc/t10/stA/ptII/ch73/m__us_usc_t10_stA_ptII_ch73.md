@@ -29,27 +29,27 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch73%2FschI" data-uslm-ref="/us/usc/t10/stA/ptII/ch73/schI">I.</a>  </td>
 
     <td> Retired Serviceman’s Family Protection Plan  </td>
 
-    <td> 1431  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1431" data-uslm-ref="/us/usc/t10/s1431">1431</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch73%2FschII" data-uslm-ref="/us/usc/t10/stA/ptII/ch73/schII">II.</a>  </td>
 
     <td> Survivor Benefit Plan  </td>
 
-    <td> 1447  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1447" data-uslm-ref="/us/usc/t10/s1447">1447</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [III.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch73%2FschIII" data-uslm-ref="/us/usc/t10/stA/ptII/ch73/schIII">III.</a>  </td>
 
     <td> Repealed]  </td>
 

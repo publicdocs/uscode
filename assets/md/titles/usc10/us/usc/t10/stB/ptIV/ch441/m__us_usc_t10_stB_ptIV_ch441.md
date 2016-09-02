@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [4651.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4651" data-uslm-ref="/us/usc/t10/s4651">4651.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4652.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4652" data-uslm-ref="/us/usc/t10/s4652">4652.</a>  </td>
 
     <td> Rifles and ammunition for target practice: educational institutions having corps of cadets.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4653.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4653" data-uslm-ref="/us/usc/t10/s4653">4653.</a>  </td>
 
     <td> Ordnance and ordnance stores: District of Columbia high schools.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4654.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4654" data-uslm-ref="/us/usc/t10/s4654">4654.</a>  </td>
 
     <td> Quartermaster supplies: military instruction camps.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4655.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4655" data-uslm-ref="/us/usc/t10/s4655">4655.</a>  </td>
 
     <td> Arms and ammunition: agencies and departments of the United States.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4656.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4656" data-uslm-ref="/us/usc/t10/s4656">4656.</a>  </td>
 
     <td> Aircraft and equipment: civilian aviation schools.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4657.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4657" data-uslm-ref="/us/usc/t10/s4657">4657.</a>  </td>
 
     <td> Sale of ammunition for avalanche-control purposes.  </td>
 

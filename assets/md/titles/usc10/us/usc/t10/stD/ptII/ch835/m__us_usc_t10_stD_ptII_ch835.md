@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8281.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8281" data-uslm-ref="/us/usc/t10/s8281">8281.</a>  </td>
 
     <td> Commissioned officer grades.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [8284 to 8309.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8284" data-uslm-ref="/us/usc/t10/s8284">8284</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8309" data-uslm-ref="/us/usc/t10/s8309">8309.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8310" data-uslm-ref="/us/usc/t10/s8310">8310.</a>  </td>
 
     <td> Warrant officers: original appointment; qualifications.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [8312 to 8314.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8312" data-uslm-ref="/us/usc/t10/s8312">8312</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8314" data-uslm-ref="/us/usc/t10/s8314">8314.</a>  </td>
 
     <td> Repealed.]  </td>
 

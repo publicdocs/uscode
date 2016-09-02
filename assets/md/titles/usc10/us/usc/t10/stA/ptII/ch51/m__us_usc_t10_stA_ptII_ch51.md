@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1001" data-uslm-ref="/us/usc/t10/s1001">1001.</a>  </td>
 
     <td> Reference to chapter 1219.  </td>
 

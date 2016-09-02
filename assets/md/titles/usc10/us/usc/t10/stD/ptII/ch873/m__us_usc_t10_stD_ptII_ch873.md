@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9021.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9021" data-uslm-ref="/us/usc/t10/s9021">9021.</a>  </td>
 
     <td> Air University: civilian faculty members.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [9022, 9023.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9022" data-uslm-ref="/us/usc/t10/s9022">9022</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9023" data-uslm-ref="/us/usc/t10/s9023">9023.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9025.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9025" data-uslm-ref="/us/usc/t10/s9025">9025.</a>  </td>
 
     <td> Production of supplies and munitions: hours and pay of laborers and mechanics.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9027.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9027" data-uslm-ref="/us/usc/t10/s9027">9027.</a>  </td>
 
     <td> Civilian special agents of the Office of Special Investigations: authority to execute warrants and make arrests.  </td>
 

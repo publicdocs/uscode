@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1721" data-uslm-ref="/us/usc/t10/s1721">1721.</a>  </td>
 
     <td> Designation of acquisition positions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1722" data-uslm-ref="/us/usc/t10/s1722">1722.</a>  </td>
 
     <td> Career development.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1722a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1722a" data-uslm-ref="/us/usc/t10/s1722a">1722a.</a>  </td>
 
     <td> Special requirements for military personnel in the acquisition field.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1722b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1722b" data-uslm-ref="/us/usc/t10/s1722b">1722b.</a>  </td>
 
     <td> Special requirements for civilian employees in the acquisition field.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1723.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1723" data-uslm-ref="/us/usc/t10/s1723">1723.</a>  </td>
 
     <td> General education, training, and experience requirements.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1724.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1724" data-uslm-ref="/us/usc/t10/s1724">1724.</a>  </td>
 
     <td> Contracting positions: qualification requirements.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [1725.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1725" data-uslm-ref="/us/usc/t10/s1725">1725.</a>  </td>
 
     <td> Repealed.]  </td>
 

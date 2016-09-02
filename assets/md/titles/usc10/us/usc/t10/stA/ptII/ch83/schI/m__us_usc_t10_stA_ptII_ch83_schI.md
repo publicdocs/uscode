@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1601" data-uslm-ref="/us/usc/t10/s1601">1601.</a>  </td>
 
     <td> Civilian intelligence personnel: general authority to establish excepted positions, appoint personnel, and fix rates of pay.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1602" data-uslm-ref="/us/usc/t10/s1602">1602.</a>  </td>
 
     <td> Basic pay.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1603" data-uslm-ref="/us/usc/t10/s1603">1603.</a>  </td>
 
     <td> Additional compensation, incentives, and allowances.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [1604.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1604" data-uslm-ref="/us/usc/t10/s1604">1604.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1605" data-uslm-ref="/us/usc/t10/s1605">1605.</a>  </td>
 
     <td> Benefits for certain employees assigned outside the United States.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1606" data-uslm-ref="/us/usc/t10/s1606">1606.</a>  </td>
 
     <td> Defense Intelligence Senior Executive Service.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1607" data-uslm-ref="/us/usc/t10/s1607">1607.</a>  </td>
 
     <td> Intelligence Senior Level positions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1608" data-uslm-ref="/us/usc/t10/s1608">1608.</a>  </td>
 
     <td> Time-limited appointments.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1609.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1609" data-uslm-ref="/us/usc/t10/s1609">1609.</a>  </td>
 
     <td> Termination of defense intelligence employees.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1610.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1610" data-uslm-ref="/us/usc/t10/s1610">1610.</a>  </td>
 
     <td> Reductions and other adjustments in force.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1611" data-uslm-ref="/us/usc/t10/s1611">1611.</a>  </td>
 
     <td> Postemployment assistance: certain terminated intelligence employees.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1612" data-uslm-ref="/us/usc/t10/s1612">1612.</a>  </td>
 
     <td> Merit system principles and civil service protections: applicability.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1613" data-uslm-ref="/us/usc/t10/s1613">1613.</a>  </td>
 
     <td> Miscellaneous provisions.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1614.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1614" data-uslm-ref="/us/usc/t10/s1614">1614.</a>  </td>
 
     <td> Definitions.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2241" data-uslm-ref="/us/usc/t10/s2241">2241.</a>  </td>
 
     <td> Availability of appropriations for certain purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2241a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2241a" data-uslm-ref="/us/usc/t10/s2241a">2241a.</a>  </td>
 
     <td> Prohibition on use of funds for publicity or propaganda purposes within the United States.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2242.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2242" data-uslm-ref="/us/usc/t10/s2242">2242.</a>  </td>
 
     <td> Authority to use appropriated funds for certain investigations and security services.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2243.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2243" data-uslm-ref="/us/usc/t10/s2243">2243.</a>  </td>
 
     <td> Authority to use appropriated funds to support student meal programs in overseas dependents’ schools.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2244.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2244" data-uslm-ref="/us/usc/t10/s2244">2244.</a>  </td>
 
     <td> Security investigations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2244a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2244a" data-uslm-ref="/us/usc/t10/s2244a">2244a.</a>  </td>
 
     <td> Equipment scheduled for retirement or disposal: limitation on expenditures for modifications.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2245.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2245" data-uslm-ref="/us/usc/t10/s2245">2245.</a>  </td>
 
     <td> Use of aircraft for proficiency flying: limitation.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2245a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2245a" data-uslm-ref="/us/usc/t10/s2245a">2245a.</a>  </td>
 
     <td> Use of operation and maintenance funds for purchase of investment items: limitation.  </td>
 
@@ -89,15 +89,15 @@
 
   <tr>
 
-    <td> [2246 to 2248. Renumbered or   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2246" data-uslm-ref="/us/usc/t10/s2246">2246</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2248" data-uslm-ref="/us/usc/t10/s2248">2248.</a>  </td>
 
-    <td> Repealed.]  </td>
+    <td> Renumbered or Repealed.]  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2249.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2249" data-uslm-ref="/us/usc/t10/s2249">2249.</a>  </td>
 
     <td> Prohibition on use of funds for documenting economic or employment impact of certain acquisition programs.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2249a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2249a" data-uslm-ref="/us/usc/t10/s2249a">2249a.</a>  </td>
 
     <td> Prohibition on providing financial assistance to terrorist countries.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2249b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2249b" data-uslm-ref="/us/usc/t10/s2249b">2249b.</a>  </td>
 
     <td> Display of State, District of Columbia, commonwealth, and territorial flags by the armed forces.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2249c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2249c" data-uslm-ref="/us/usc/t10/s2249c">2249c.</a>  </td>
 
     <td> Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2249d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2249d" data-uslm-ref="/us/usc/t10/s2249d">2249d.</a>  </td>
 
     <td> Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces.  </td>
 

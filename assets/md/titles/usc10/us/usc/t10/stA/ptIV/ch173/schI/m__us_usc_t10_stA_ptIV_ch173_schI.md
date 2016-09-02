@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2911" data-uslm-ref="/us/usc/t10/s2911">2911.</a>  </td>
 
     <td> Energy performance goals and master plan for the Department of Defense.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2912" data-uslm-ref="/us/usc/t10/s2912">2912.</a>  </td>
 
     <td> Availability and use of energy cost savings.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2913.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2913" data-uslm-ref="/us/usc/t10/s2913">2913.</a>  </td>
 
     <td> Energy savings contracts and activities.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2914.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2914" data-uslm-ref="/us/usc/t10/s2914">2914.</a>  </td>
 
     <td> Energy conservation construction projects.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2915.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2915" data-uslm-ref="/us/usc/t10/s2915">2915.</a>  </td>
 
     <td> Facilities: use of renewable forms of energy and energy efficient products.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2916.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2916" data-uslm-ref="/us/usc/t10/s2916">2916.</a>  </td>
 
     <td> Sale of electricity from alternate energy and cogeneration production facilities.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2917.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2917" data-uslm-ref="/us/usc/t10/s2917">2917.</a>  </td>
 
     <td> Development of geothermal energy on military lands.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2918.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2918" data-uslm-ref="/us/usc/t10/s2918">2918.</a>  </td>
 
     <td> Fuel sources for heating systems; prohibition on converting certain heating facilities.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2919.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2919" data-uslm-ref="/us/usc/t10/s2919">2919.</a>  </td>
 
     <td> Department of Defense participation in programs for management of energy demand or reduction of energy usage during peak periods.  </td>
 

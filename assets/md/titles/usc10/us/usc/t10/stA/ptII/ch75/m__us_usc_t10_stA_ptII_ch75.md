@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch75%2FschI" data-uslm-ref="/us/usc/t10/stA/ptII/ch75/schI">I.</a>  </td>
 
     <td> Death Investigations  </td>
 
-    <td> 1471  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1471" data-uslm-ref="/us/usc/t10/s1471">1471</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch75%2FschII" data-uslm-ref="/us/usc/t10/stA/ptII/ch75/schII">II.</a>  </td>
 
     <td> Death Benefits  </td>
 
-    <td> 1475  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1475" data-uslm-ref="/us/usc/t10/s1475">1475</a>  </td>
 
   </tr>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7571.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7571" data-uslm-ref="/us/usc/t10/s7571">7571.</a>  </td>
 
     <td> Quarters or other accommodations: to whom furnished.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7572.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7572" data-uslm-ref="/us/usc/t10/s7572">7572.</a>  </td>
 
     <td> Quarters: accommodations in place for members on sea duty or assigned to duty in connection with commissioning or fitting out of a ship.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7573.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7573" data-uslm-ref="/us/usc/t10/s7573">7573.</a>  </td>
 
     <td> Quarters: temporary; transient members.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [7574, 7575.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7574" data-uslm-ref="/us/usc/t10/s7574">7574</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7575" data-uslm-ref="/us/usc/t10/s7575">7575.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7576.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7576" data-uslm-ref="/us/usc/t10/s7576">7576.</a>  </td>
 
     <td> Quarters: extension telephones.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7577.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7577" data-uslm-ref="/us/usc/t10/s7577">7577.</a>  </td>
 
     <td> Quarters: Nurse Corps officers; assignment in hospitals.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [7578.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7578" data-uslm-ref="/us/usc/t10/s7578">7578.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7579.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7579" data-uslm-ref="/us/usc/t10/s7579">7579.</a>  </td>
 
     <td> Officers’ messes and quarters: limitations on employment of enlisted members.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 7580.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7580" data-uslm-ref="/us/usc/t10/s7580">7580.</a>  </td>
 
     <td> Heat and light for Young Men’s Christian Association buildings.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 7581.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7581" data-uslm-ref="/us/usc/t10/s7581">7581.</a>  </td>
 
     <td> Marine Corps post laundries: disposition of receipts.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 7582.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7582" data-uslm-ref="/us/usc/t10/s7582">7582.</a>  </td>
 
     <td> Naval and Marine Corps Historical Centers: fee for providing historical information to the public.  </td>
 

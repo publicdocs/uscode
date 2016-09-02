@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [3531, 3532.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3531" data-uslm-ref="/us/usc/t10/s3531">3531</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3532" data-uslm-ref="/us/usc/t10/s3532">3532.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3533" data-uslm-ref="/us/usc/t10/s3533">3533.</a>  </td>
 
     <td> Corps of Engineers: assignment or transfer of officers to duties involving civil functions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3534.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3534" data-uslm-ref="/us/usc/t10/s3534">3534.</a>  </td>
 
     <td> Corps of Engineers: detail of officers to assist Mayor of District of Columbia.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [3535.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3535" data-uslm-ref="/us/usc/t10/s3535">3535.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3536.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3536" data-uslm-ref="/us/usc/t10/s3536">3536.</a>  </td>
 
     <td> Leader of Army Band: appointment.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [3538 to 3542.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3538" data-uslm-ref="/us/usc/t10/s3538">3538</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3542" data-uslm-ref="/us/usc/t10/s3542">3542.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3543" data-uslm-ref="/us/usc/t10/s3543">3543.</a>  </td>
 
     <td> Aides: detail; number authorized.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> [3544 to 3546.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3544" data-uslm-ref="/us/usc/t10/s3544">3544</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3546" data-uslm-ref="/us/usc/t10/s3546">3546.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3547.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3547" data-uslm-ref="/us/usc/t10/s3547">3547.</a>  </td>
 
     <td> Duties: chaplains; assistance required of commanding officers.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3548.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3548" data-uslm-ref="/us/usc/t10/s3548">3548.</a>  </td>
 
     <td> Duties: warrant officers; limitations.  </td>
 

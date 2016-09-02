@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5131" data-uslm-ref="/us/usc/t10/s5131">5131.</a>  </td>
 
     <td> Bureaus: names; location.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5132" data-uslm-ref="/us/usc/t10/s5132">5132.</a>  </td>
 
     <td> Bureaus: distribution of business; orders; rec­ords; expenses.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5133" data-uslm-ref="/us/usc/t10/s5133">5133.</a>  </td>
 
     <td> Bureau Chiefs: rank; pay and allowances; retirement.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [5134.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5134" data-uslm-ref="/us/usc/t10/s5134">5134.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5135.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5135" data-uslm-ref="/us/usc/t10/s5135">5135.</a>  </td>
 
     <td> Bureau Chiefs: succession to duties.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [5136.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5136" data-uslm-ref="/us/usc/t10/s5136">5136.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5137.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5137" data-uslm-ref="/us/usc/t10/s5137">5137.</a>  </td>
 
     <td> Bureau of Medicine and Surgery: Chief; Deputy Chief.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5138.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5138" data-uslm-ref="/us/usc/t10/s5138">5138.</a>  </td>
 
     <td> Bureau of Medicine and Surgery: Dental Corps; Chief; functions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5139.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5139" data-uslm-ref="/us/usc/t10/s5139">5139.</a>  </td>
 
     <td> Appointment of chiropractors in the Medical Service Corps.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [5140.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5140" data-uslm-ref="/us/usc/t10/s5140">5140.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 5141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5141" data-uslm-ref="/us/usc/t10/s5141">5141.</a>  </td>
 
     <td> Bureau of Naval Personnel: Chief of Naval Personnel; Deputy Chief of Naval Personnel.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 5142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5142" data-uslm-ref="/us/usc/t10/s5142">5142.</a>  </td>
 
     <td> Chaplain Corps and Chief of Chaplains.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 5142a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5142a" data-uslm-ref="/us/usc/t10/s5142a">5142a.</a>  </td>
 
     <td> Deputy Chief of Chaplains.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 5143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5143" data-uslm-ref="/us/usc/t10/s5143">5143.</a>  </td>
 
     <td> Office of Navy Reserve: appointment of Chief.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 5144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5144" data-uslm-ref="/us/usc/t10/s5144">5144.</a>  </td>
 
     <td> Office of Marine Forces Reserve: appointment of Commander.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> [5145 to 5147.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5145" data-uslm-ref="/us/usc/t10/s5145">5145</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5147" data-uslm-ref="/us/usc/t10/s5147">5147.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 5148.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5148" data-uslm-ref="/us/usc/t10/s5148">5148.</a>  </td>
 
     <td> Judge Advocate General’s Corps: Office of the Judge Advocate General; Judge Advocate General; appointment, term, emoluments, duties.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 5149.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5149" data-uslm-ref="/us/usc/t10/s5149">5149.</a>  </td>
 
     <td> Office of the Judge Advocate General: Deputy Judge Advocate General; Assistant Judge Advocates General.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 5150.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5150" data-uslm-ref="/us/usc/t10/s5150">5150.</a>  </td>
 
     <td> Staff Corps of the Navy.  </td>
 
@@ -177,15 +177,15 @@
 
   <tr>
 
-    <td> [5151 to 5153. Renumbered.]  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5151" data-uslm-ref="/us/usc/t10/s5151">5151</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5153" data-uslm-ref="/us/usc/t10/s5153">5153.</a>  </td>
 
-    <td>   </td>
+    <td> Renumbered.]  </td>
 
   </tr>
 
   <tr>
 
-    <td> [5154.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5154" data-uslm-ref="/us/usc/t10/s5154">5154.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> [5155.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5155" data-uslm-ref="/us/usc/t10/s5155">5155.</a>  </td>
 
     <td> Renumbered.]  </td>
 

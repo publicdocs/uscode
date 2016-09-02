@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td>   I.  </td>
+    <td>   <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch134%2FschI" data-uslm-ref="/us/usc/t10/stA/ptIV/ch134/schI">I.</a>  </td>
 
     <td> Miscellaneous Authorities, Prohibitions, and Limitations on the Use of Appropriated Funds  </td>
 
-    <td> 2241  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2241" data-uslm-ref="/us/usc/t10/s2241">2241</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td>   II.  </td>
+    <td>   <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch134%2FschII" data-uslm-ref="/us/usc/t10/stA/ptIV/ch134/schII">II.</a>  </td>
 
     <td> Miscellaneous Administrative Authority  </td>
 
-    <td> 2251  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2251" data-uslm-ref="/us/usc/t10/s2251">2251</a>  </td>
 
   </tr>
 

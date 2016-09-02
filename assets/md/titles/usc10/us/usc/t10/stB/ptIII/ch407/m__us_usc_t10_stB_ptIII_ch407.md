@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4411" data-uslm-ref="/us/usc/t10/s4411">4411.</a>  </td>
 
     <td> Establishment: purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4412" data-uslm-ref="/us/usc/t10/s4412">4412.</a>  </td>
 
     <td> Operation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4413" data-uslm-ref="/us/usc/t10/s4413">4413.</a>  </td>
 
     <td> Transportation and subsistence during travel.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4414" data-uslm-ref="/us/usc/t10/s4414">4414.</a>  </td>
 
     <td> Quartermaster and ordnance property: sales.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [4415.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4415" data-uslm-ref="/us/usc/t10/s4415">4415.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4416.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4416" data-uslm-ref="/us/usc/t10/s4416">4416.</a>  </td>
 
     <td> Academy of Health Sciences: admission of civilians in physician assistant training program.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4417.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4417" data-uslm-ref="/us/usc/t10/s4417">4417.</a>  </td>
 
     <td> United States Army War College: acceptance of grants for faculty research for scientific, literary, and educational purposes.  </td>
 

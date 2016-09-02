@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5441" data-uslm-ref="/us/usc/t10/s5441">5441.</a>  </td>
 
     <td> Prescribed number; vacancies.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [5442 to 5449.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5442" data-uslm-ref="/us/usc/t10/s5442">5442</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5449" data-uslm-ref="/us/usc/t10/s5449">5449.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5450.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5450" data-uslm-ref="/us/usc/t10/s5450">5450.</a>  </td>
 
     <td> Regular Navy: retired flag officers on active duty.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5451" data-uslm-ref="/us/usc/t10/s5451">5451.</a>  </td>
 
     <td> Suspension: preceding sections.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [5452 to 5458.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5452" data-uslm-ref="/us/usc/t10/s5452">5452</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5458" data-uslm-ref="/us/usc/t10/s5458">5458.</a>  </td>
 
     <td> Repealed.]  </td>
 

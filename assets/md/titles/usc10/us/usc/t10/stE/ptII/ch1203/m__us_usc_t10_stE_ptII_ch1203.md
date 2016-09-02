@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 12101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12101" data-uslm-ref="/us/usc/t10/s12101">12101.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 12102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12102" data-uslm-ref="/us/usc/t10/s12102">12102.</a>  </td>
 
     <td> Reserve components: qualifications.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 12103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12103" data-uslm-ref="/us/usc/t10/s12103">12103.</a>  </td>
 
     <td> Reserve components: terms.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 12104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12104" data-uslm-ref="/us/usc/t10/s12104">12104.</a>  </td>
 
     <td> Reserve components: transfers.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 12105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12105" data-uslm-ref="/us/usc/t10/s12105">12105.</a>  </td>
 
     <td> Army Reserve and Air Force Reserve: transfer from Guard components.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 12106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12106" data-uslm-ref="/us/usc/t10/s12106">12106.</a>  </td>
 
     <td> Army and Air Force Reserve: transfer to upon withdrawal as member of National Guard.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 12107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12107" data-uslm-ref="/us/usc/t10/s12107">12107.</a>  </td>
 
     <td> Army National Guard of United States; Air National Guard of the United States: enlistment in.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 12108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12108" data-uslm-ref="/us/usc/t10/s12108">12108.</a>  </td>
 
     <td> Enlisted members: discharge or retirement for years of service or for age.  </td>
 

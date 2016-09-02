@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs201" data-uslm-ref="/us/usc/t10/s201">201.</a>  </td>
 
     <td> Certain intelligence officials: consultation and concurrence regarding appointments; evaluation of performance.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [202.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs202" data-uslm-ref="/us/usc/t10/s202">202.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs203" data-uslm-ref="/us/usc/t10/s203">203.</a>  </td>
 
     <td> Director of Missile Defense Agency.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs204" data-uslm-ref="/us/usc/t10/s204">204.</a>  </td>
 
     <td> Small Business Ombudsman for defense audit agencies.  </td>
 

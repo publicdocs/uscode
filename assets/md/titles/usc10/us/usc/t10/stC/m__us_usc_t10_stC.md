@@ -37,57 +37,57 @@ PART I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch501" data-uslm-ref="/us/usc/t10/stC/ptI/ch501">501.</a>  </td>
 
     <td> Definitions  </td>
 
-    <td> 5001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5001" data-uslm-ref="/us/usc/t10/s5001">5001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch503" data-uslm-ref="/us/usc/t10/stC/ptI/ch503">503.</a>  </td>
 
     <td> Department of the Navy  </td>
 
-    <td> 5011  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5011" data-uslm-ref="/us/usc/t10/s5011">5011</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch505" data-uslm-ref="/us/usc/t10/stC/ptI/ch505">505.</a>  </td>
 
     <td> Office of the Chief of Naval Operations  </td>
 
-    <td> 5031  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5031" data-uslm-ref="/us/usc/t10/s5031">5031</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch506" data-uslm-ref="/us/usc/t10/stC/ptI/ch506">506.</a>  </td>
 
     <td> Headquarters, Marine Corps  </td>
 
-    <td> 5041  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5041" data-uslm-ref="/us/usc/t10/s5041">5041</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch507" data-uslm-ref="/us/usc/t10/stC/ptI/ch507">507.</a>  </td>
 
     <td> Composition of the Department of the Navy  </td>
 
-    <td> 5061  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5061" data-uslm-ref="/us/usc/t10/s5061">5061</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [509.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch509" data-uslm-ref="/us/usc/t10/stC/ptI/ch509">509.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -97,7 +97,7 @@ PART I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> [511.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch511" data-uslm-ref="/us/usc/t10/stC/ptI/ch511">511.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -107,17 +107,17 @@ PART I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch513" data-uslm-ref="/us/usc/t10/stC/ptI/ch513">513.</a>  </td>
 
     <td> Bureaus; Office of the Judge Advocate General  </td>
 
-    <td> 5131  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5131" data-uslm-ref="/us/usc/t10/s5131">5131</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [515.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch515" data-uslm-ref="/us/usc/t10/stC/ptI/ch515">515.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -127,7 +127,7 @@ PART I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> [516.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch516" data-uslm-ref="/us/usc/t10/stC/ptI/ch516">516.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -137,7 +137,7 @@ PART I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> [517.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch517" data-uslm-ref="/us/usc/t10/stC/ptI/ch517">517.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -147,7 +147,7 @@ PART I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> [519.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch519" data-uslm-ref="/us/usc/t10/stC/ptI/ch519">519.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -163,7 +163,7 @@ PART II—PERSONNEL  </td>
 
   <tr>
 
-    <td> [531.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch531" data-uslm-ref="/us/usc/t10/stC/ptII/ch531">531.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -173,47 +173,47 @@ PART II—PERSONNEL  </td>
 
   <tr>
 
-    <td> 533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch533" data-uslm-ref="/us/usc/t10/stC/ptII/ch533">533.</a>  </td>
 
     <td> Distribution in Grade  </td>
 
-    <td> 5441  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5441" data-uslm-ref="/us/usc/t10/s5441">5441</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 535.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch535" data-uslm-ref="/us/usc/t10/stC/ptII/ch535">535.</a>  </td>
 
     <td> Grade and Rank of Officers  </td>
 
-    <td> 5501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5501" data-uslm-ref="/us/usc/t10/s5501">5501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 537.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch537" data-uslm-ref="/us/usc/t10/stC/ptII/ch537">537.</a>  </td>
 
     <td> Enlistments  </td>
 
-    <td> 5531  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5531" data-uslm-ref="/us/usc/t10/s5531">5531</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 539.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch539" data-uslm-ref="/us/usc/t10/stC/ptII/ch539">539.</a>  </td>
 
     <td> Original Appointments  </td>
 
-    <td> 5571  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5571" data-uslm-ref="/us/usc/t10/s5571">5571</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [541.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch541" data-uslm-ref="/us/usc/t10/stC/ptII/ch541">541.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -223,7 +223,7 @@ PART II—PERSONNEL  </td>
 
   <tr>
 
-    <td> [543.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch543" data-uslm-ref="/us/usc/t10/stC/ptII/ch543">543.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -233,17 +233,17 @@ PART II—PERSONNEL  </td>
 
   <tr>
 
-    <td> 544.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch544" data-uslm-ref="/us/usc/t10/stC/ptII/ch544">544.</a>  </td>
 
     <td> Temporary Appointments  </td>
 
-    <td> 5721  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5721" data-uslm-ref="/us/usc/t10/s5721">5721</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [545.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch545" data-uslm-ref="/us/usc/t10/stC/ptII/ch545">545.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -253,7 +253,7 @@ PART II—PERSONNEL  </td>
 
   <tr>
 
-    <td> [547.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch547" data-uslm-ref="/us/usc/t10/stC/ptII/ch547">547.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -263,7 +263,7 @@ PART II—PERSONNEL  </td>
 
   <tr>
 
-    <td> [549.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch549" data-uslm-ref="/us/usc/t10/stC/ptII/ch549">549.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -273,141 +273,141 @@ PART II—PERSONNEL  </td>
 
   <tr>
 
-    <td> 551.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch551" data-uslm-ref="/us/usc/t10/stC/ptII/ch551">551.</a>  </td>
 
     <td> Officers in Command  </td>
 
-    <td> 5941  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5941" data-uslm-ref="/us/usc/t10/s5941">5941</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 553.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch553" data-uslm-ref="/us/usc/t10/stC/ptII/ch553">553.</a>  </td>
 
     <td> Special Assignments and Details  </td>
 
-    <td> 5981  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5981" data-uslm-ref="/us/usc/t10/s5981">5981</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 555.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch555" data-uslm-ref="/us/usc/t10/stC/ptII/ch555">555.</a>  </td>
 
     <td> Administration  </td>
 
-    <td> 6011  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6011" data-uslm-ref="/us/usc/t10/s6011">6011</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 557.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch557" data-uslm-ref="/us/usc/t10/stC/ptII/ch557">557.</a>  </td>
 
     <td> Rations  </td>
 
-    <td> 6081  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6081" data-uslm-ref="/us/usc/t10/s6081">6081</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 559.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch559" data-uslm-ref="/us/usc/t10/stC/ptII/ch559">559.</a>  </td>
 
     <td> Miscellaneous Prohibitions and Penalties  </td>
 
-    <td> 6111  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6111" data-uslm-ref="/us/usc/t10/s6111">6111</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 561.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch561" data-uslm-ref="/us/usc/t10/stC/ptII/ch561">561.</a>  </td>
 
     <td> Miscellaneous Rights and Benefits  </td>
 
-    <td> 6141  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6141" data-uslm-ref="/us/usc/t10/s6141">6141</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 563.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch563" data-uslm-ref="/us/usc/t10/stC/ptII/ch563">563.</a>  </td>
 
     <td> Hospitalization and Medical Care  </td>
 
-    <td> 6201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6201" data-uslm-ref="/us/usc/t10/s6201">6201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 565.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch565" data-uslm-ref="/us/usc/t10/stC/ptII/ch565">565.</a>  </td>
 
     <td> Bands  </td>
 
-    <td> 6221  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6221" data-uslm-ref="/us/usc/t10/s6221">6221</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 567.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch567" data-uslm-ref="/us/usc/t10/stC/ptII/ch567">567.</a>  </td>
 
     <td> Decorations and Awards  </td>
 
-    <td> 6241  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6241" data-uslm-ref="/us/usc/t10/s6241">6241</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 569.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch569" data-uslm-ref="/us/usc/t10/stC/ptII/ch569">569.</a>  </td>
 
     <td> Discharge of Enlisted Members  </td>
 
-    <td> 6291  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6291" data-uslm-ref="/us/usc/t10/s6291">6291</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 571.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch571" data-uslm-ref="/us/usc/t10/stC/ptII/ch571">571.</a>  </td>
 
     <td> Voluntary Retirement  </td>
 
-    <td> 6321  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6321" data-uslm-ref="/us/usc/t10/s6321">6321</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 573.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch573" data-uslm-ref="/us/usc/t10/stC/ptII/ch573">573.</a>  </td>
 
     <td> Involuntary Retirement, Separation, and Furlough  </td>
 
-    <td> 6371  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6371" data-uslm-ref="/us/usc/t10/s6371">6371</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 575.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch575" data-uslm-ref="/us/usc/t10/stC/ptII/ch575">575.</a>  </td>
 
     <td> Recall to Active Duty  </td>
 
-    <td> 6481  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6481" data-uslm-ref="/us/usc/t10/s6481">6481</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 577.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch577" data-uslm-ref="/us/usc/t10/stC/ptII/ch577">577.</a>  </td>
 
     <td> Death Benefits; Care of the Dead  </td>
 
-    <td> 6521  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6521" data-uslm-ref="/us/usc/t10/s6521">6521</a>  </td>
 
   </tr>
 
@@ -421,61 +421,61 @@ PART III—EDUCATION AND TRAINING  </td>
 
   <tr>
 
-    <td> 601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIII%2Fch601" data-uslm-ref="/us/usc/t10/stC/ptIII/ch601">601.</a>  </td>
 
     <td> Officer Procurement Programs  </td>
 
-    <td> 6901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6901" data-uslm-ref="/us/usc/t10/s6901">6901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIII%2Fch602" data-uslm-ref="/us/usc/t10/stC/ptIII/ch602">602.</a>  </td>
 
     <td> Training Generally  </td>
 
-    <td> 6931  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6931" data-uslm-ref="/us/usc/t10/s6931">6931</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIII%2Fch603" data-uslm-ref="/us/usc/t10/stC/ptIII/ch603">603.</a>  </td>
 
     <td> United States Naval Academy  </td>
 
-    <td> 6951  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6951" data-uslm-ref="/us/usc/t10/s6951">6951</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIII%2Fch605" data-uslm-ref="/us/usc/t10/stC/ptIII/ch605">605.</a>  </td>
 
     <td> United States Naval Postgraduate School  </td>
 
-    <td> 7041  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7041" data-uslm-ref="/us/usc/t10/s7041">7041</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIII%2Fch607" data-uslm-ref="/us/usc/t10/stC/ptIII/ch607">607.</a>  </td>
 
     <td> Retirement of Civilian Members of the Teaching Staffs of the United States Naval Academy and United States Naval Postgraduate School  </td>
 
-    <td> 7081  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7081" data-uslm-ref="/us/usc/t10/s7081">7081</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 609.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIII%2Fch609" data-uslm-ref="/us/usc/t10/stC/ptIII/ch609">609.</a>  </td>
 
     <td> Professional Military Education Schools  </td>
 
-    <td> 7101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7101" data-uslm-ref="/us/usc/t10/s7101">7101</a>  </td>
 
   </tr>
 
@@ -489,27 +489,27 @@ PART IV—GENERAL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch631" data-uslm-ref="/us/usc/t10/stC/ptIV/ch631">631.</a>  </td>
 
     <td> Secretary of the Navy: Miscellaneous Powers and Duties  </td>
 
-    <td> 7201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7201" data-uslm-ref="/us/usc/t10/s7201">7201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 633.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch633" data-uslm-ref="/us/usc/t10/stC/ptIV/ch633">633.</a>  </td>
 
     <td> Naval Vessels  </td>
 
-    <td> 7291  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7291" data-uslm-ref="/us/usc/t10/s7291">7291</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [635.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch635" data-uslm-ref="/us/usc/t10/stC/ptIV/ch635">635.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -519,171 +519,171 @@ PART IV—GENERAL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 637.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch637" data-uslm-ref="/us/usc/t10/stC/ptIV/ch637">637.</a>  </td>
 
     <td> Salvage Facilities  </td>
 
-    <td> 7361  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7361" data-uslm-ref="/us/usc/t10/s7361">7361</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 639.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch639" data-uslm-ref="/us/usc/t10/stC/ptIV/ch639">639.</a>  </td>
 
     <td> United States Naval Observatory  </td>
 
-    <td> 7395  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7395" data-uslm-ref="/us/usc/t10/s7395">7395</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 641.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch641" data-uslm-ref="/us/usc/t10/stC/ptIV/ch641">641.</a>  </td>
 
     <td> Naval Petroleum Reserves  </td>
 
-    <td> 7420  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7420" data-uslm-ref="/us/usc/t10/s7420">7420</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 643.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch643" data-uslm-ref="/us/usc/t10/stC/ptIV/ch643">643.</a>  </td>
 
     <td> Civilian Employees  </td>
 
-    <td> 7471  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7471" data-uslm-ref="/us/usc/t10/s7471">7471</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 645.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch645" data-uslm-ref="/us/usc/t10/stC/ptIV/ch645">645.</a>  </td>
 
     <td> Procurement of Supplies and Services  </td>
 
-    <td> 7521  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7521" data-uslm-ref="/us/usc/t10/s7521">7521</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 647.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch647" data-uslm-ref="/us/usc/t10/stC/ptIV/ch647">647.</a>  </td>
 
     <td> Disposal of Obsolete or Surplus Material  </td>
 
-    <td> 7541  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7541" data-uslm-ref="/us/usc/t10/s7541">7541</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 649.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch649" data-uslm-ref="/us/usc/t10/stC/ptIV/ch649">649.</a>  </td>
 
     <td> Quarters, Utilities, and Services  </td>
 
-    <td> 7571  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7571" data-uslm-ref="/us/usc/t10/s7571">7571</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 651.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch651" data-uslm-ref="/us/usc/t10/stC/ptIV/ch651">651.</a>  </td>
 
     <td> Ships’ Stores and Commissary Stores  </td>
 
-    <td> 7601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7601" data-uslm-ref="/us/usc/t10/s7601">7601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 653.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch653" data-uslm-ref="/us/usc/t10/stC/ptIV/ch653">653.</a>  </td>
 
     <td> Claims  </td>
 
-    <td> 7621  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7621" data-uslm-ref="/us/usc/t10/s7621">7621</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 655.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch655" data-uslm-ref="/us/usc/t10/stC/ptIV/ch655">655.</a>  </td>
 
     <td> Prize  </td>
 
-    <td> 7651  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7651" data-uslm-ref="/us/usc/t10/s7651">7651</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 657.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch657" data-uslm-ref="/us/usc/t10/stC/ptIV/ch657">657.</a>  </td>
 
     <td> Stay of Judicial Proceedings  </td>
 
-    <td> 7721  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7721" data-uslm-ref="/us/usc/t10/s7721">7721</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 659.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch659" data-uslm-ref="/us/usc/t10/stC/ptIV/ch659">659.</a>  </td>
 
     <td> Naval Militia  </td>
 
-    <td> 7851  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7851" data-uslm-ref="/us/usc/t10/s7851">7851</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 661.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch661" data-uslm-ref="/us/usc/t10/stC/ptIV/ch661">661.</a>  </td>
 
     <td> Accountability and Responsibility  </td>
 
-    <td> 7861  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7861" data-uslm-ref="/us/usc/t10/s7861">7861</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 663.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch663" data-uslm-ref="/us/usc/t10/stC/ptIV/ch663">663.</a>  </td>
 
     <td> Names and Insignia  </td>
 
-    <td> 7881  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7881" data-uslm-ref="/us/usc/t10/s7881">7881</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 665.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch665" data-uslm-ref="/us/usc/t10/stC/ptIV/ch665">665.</a>  </td>
 
     <td> National Oceanographic Partnership Program  </td>
 
-    <td> 7901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7901" data-uslm-ref="/us/usc/t10/s7901">7901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 667.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch667" data-uslm-ref="/us/usc/t10/stC/ptIV/ch667">667.</a>  </td>
 
     <td> Issue of Serviceable Material Other Than to Armed Forces  </td>
 
-    <td> 7911  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7911" data-uslm-ref="/us/usc/t10/s7911">7911</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 669.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIV%2Fch669" data-uslm-ref="/us/usc/t10/stC/ptIV/ch669">669.</a>  </td>
 
     <td> Maritime Safety of Forces  </td>
 
-    <td> 7921  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7921" data-uslm-ref="/us/usc/t10/s7921">7921</a>  </td>
 
   </tr>
 

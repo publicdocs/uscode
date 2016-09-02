@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2871.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2871" data-uslm-ref="/us/usc/t10/s2871">2871.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2872.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2872" data-uslm-ref="/us/usc/t10/s2872">2872.</a>  </td>
 
     <td> General authority.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2872a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2872a" data-uslm-ref="/us/usc/t10/s2872a">2872a.</a>  </td>
 
     <td> Utilities and services.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2873.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2873" data-uslm-ref="/us/usc/t10/s2873">2873.</a>  </td>
 
     <td> Direct loans and loan guarantees.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2874.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2874" data-uslm-ref="/us/usc/t10/s2874">2874.</a>  </td>
 
     <td> Leasing of housing.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2875.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2875" data-uslm-ref="/us/usc/t10/s2875">2875.</a>  </td>
 
     <td> Investments.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2876.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2876" data-uslm-ref="/us/usc/t10/s2876">2876.</a>  </td>
 
     <td> Rental guarantees.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2877.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2877" data-uslm-ref="/us/usc/t10/s2877">2877.</a>  </td>
 
     <td> Differential lease payments.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2878.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2878" data-uslm-ref="/us/usc/t10/s2878">2878.</a>  </td>
 
     <td> Conveyance or lease of existing property and facilities.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [2879.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2879" data-uslm-ref="/us/usc/t10/s2879">2879.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2880.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2880" data-uslm-ref="/us/usc/t10/s2880">2880.</a>  </td>
 
     <td> Unit size and type.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2881.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2881" data-uslm-ref="/us/usc/t10/s2881">2881.</a>  </td>
 
     <td> Ancillary supporting facilities.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2881a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2881a" data-uslm-ref="/us/usc/t10/s2881a">2881a.</a>  </td>
 
     <td> Pilot projects for acquisition or construction of military unaccompanied housing.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2882.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2882" data-uslm-ref="/us/usc/t10/s2882">2882.</a>  </td>
 
     <td> Effect of assignment of members to housing units acquired or constructed under alternative authority.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2883.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2883" data-uslm-ref="/us/usc/t10/s2883">2883.</a>  </td>
 
     <td> Department of Defense Housing Funds.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 2883a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2883a" data-uslm-ref="/us/usc/t10/s2883a">2883a.</a>  </td>
 
     <td> Funds for housing allowances of members of the armed forces assigned to certain military family housing units.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 2884.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2884" data-uslm-ref="/us/usc/t10/s2884">2884.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 2885.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2885" data-uslm-ref="/us/usc/t10/s2885">2885.</a>  </td>
 
     <td> Oversight and accountability for privatization projects.  </td>
 

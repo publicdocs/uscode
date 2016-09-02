@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [4531.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4531" data-uslm-ref="/us/usc/t10/s4531">4531.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4532" data-uslm-ref="/us/usc/t10/s4532">4532.</a>  </td>
 
     <td> Factories and arsenals: manufacture at; abolition of.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [4533 to 4535.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4533" data-uslm-ref="/us/usc/t10/s4533">4533</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4535" data-uslm-ref="/us/usc/t10/s4535">4535.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4536.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4536" data-uslm-ref="/us/usc/t10/s4536">4536.</a>  </td>
 
     <td> Equipment: post bakeries, schools, kitchens, and mess halls.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [4537 to 4539.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4537" data-uslm-ref="/us/usc/t10/s4537">4537</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4539" data-uslm-ref="/us/usc/t10/s4539">4539.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4540.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4540" data-uslm-ref="/us/usc/t10/s4540">4540.</a>  </td>
 
     <td> Architectural and engineering services.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4541" data-uslm-ref="/us/usc/t10/s4541">4541.</a>  </td>
 
     <td> Army arsenals: treatment of unutilized or underutilized plant-capacity costs.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4542" data-uslm-ref="/us/usc/t10/s4542">4542.</a>  </td>
 
     <td> Technical data packages for large-caliber cannon: prohibition on transfers to foreign countries; exception.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 4543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4543" data-uslm-ref="/us/usc/t10/s4543">4543.</a>  </td>
 
     <td> Army industrial facilities: sales of manufactured articles or services outside Department of Defense.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 4544.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4544" data-uslm-ref="/us/usc/t10/s4544">4544.</a>  </td>
 
     <td> Army industrial facilities: cooperative activities with non-Army entities.  </td>
 

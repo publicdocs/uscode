@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2501" data-uslm-ref="/us/usc/t10/s2501">2501.</a>  </td>
 
     <td> National security strategy for national technology and industrial base.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2502" data-uslm-ref="/us/usc/t10/s2502">2502.</a>  </td>
 
     <td> National Defense Technology and Industrial Base Council.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2503" data-uslm-ref="/us/usc/t10/s2503">2503.</a>  </td>
 
     <td> National defense program for analysis of the technology and industrial base.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2504" data-uslm-ref="/us/usc/t10/s2504">2504.</a>  </td>
 
     <td> Annual report to Congress.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2505" data-uslm-ref="/us/usc/t10/s2505">2505.</a>  </td>
 
     <td> National technology and industrial base: periodic defense capability assessments.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2506" data-uslm-ref="/us/usc/t10/s2506">2506.</a>  </td>
 
     <td> Department of Defense technology and industrial base policy guidance.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2507" data-uslm-ref="/us/usc/t10/s2507">2507.</a>  </td>
 
     <td> Data collection authority of President.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2508" data-uslm-ref="/us/usc/t10/s2508">2508.</a>  </td>
 
     <td> Industrial Base Fund  </td>
 

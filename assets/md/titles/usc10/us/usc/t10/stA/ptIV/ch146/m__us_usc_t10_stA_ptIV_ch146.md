@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2460.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2460" data-uslm-ref="/us/usc/t10/s2460">2460.</a>  </td>
 
     <td> Definition of depot-level maintenance and repair.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2461" data-uslm-ref="/us/usc/t10/s2461">2461.</a>  </td>
 
     <td> Public-private competition required before conversion to contractor performance.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2461a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2461a" data-uslm-ref="/us/usc/t10/s2461a">2461a.</a>  </td>
 
     <td> Development and implementation of system for monitoring cost saving resulting from public-private competitions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2462" data-uslm-ref="/us/usc/t10/s2462">2462.</a>  </td>
 
     <td> Reports on public-private competition.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2463.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2463" data-uslm-ref="/us/usc/t10/s2463">2463.</a>  </td>
 
     <td> Guidelines and procedures for use of civilian employees to perform Department of Defense functions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2464.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2464" data-uslm-ref="/us/usc/t10/s2464">2464.</a>  </td>
 
     <td> Core logistics capabilities.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2465.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2465" data-uslm-ref="/us/usc/t10/s2465">2465.</a>  </td>
 
     <td> Prohibition on contracts for performance of firefighting or security-guard functions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2466.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2466" data-uslm-ref="/us/usc/t10/s2466">2466.</a>  </td>
 
     <td> Limitations on the performance of depot-level maintenance of materiel.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> [2467, 2468.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2467" data-uslm-ref="/us/usc/t10/s2467">2467</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2468" data-uslm-ref="/us/usc/t10/s2468">2468.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2469.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2469" data-uslm-ref="/us/usc/t10/s2469">2469.</a>  </td>
 
     <td> Contracts to perform workloads previously performed by depot-level activities of the Department of Defense: requirement of competition.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> [2469a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2469a" data-uslm-ref="/us/usc/t10/s2469a">2469a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2470.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2470" data-uslm-ref="/us/usc/t10/s2470">2470.</a>  </td>
 
     <td> Depot-level activities of the Department of Defense: authority to compete for maintenance and repair workloads of other Federal agencies.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> [2471.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2471" data-uslm-ref="/us/usc/t10/s2471">2471.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2472" data-uslm-ref="/us/usc/t10/s2472">2472.</a>  </td>
 
     <td> Prohibition on management of depot employees by end strength.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> [2473.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2473" data-uslm-ref="/us/usc/t10/s2473">2473.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 2474.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2474" data-uslm-ref="/us/usc/t10/s2474">2474.</a>  </td>
 
     <td> Centers of Industrial and Technical Excellence: designation; public-private partnerships.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 2475.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2475" data-uslm-ref="/us/usc/t10/s2475">2475.</a>  </td>
 
     <td> Consolidation, restructuring, or reengineering of organizations, functions, or activities: notification requirements.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 2476.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2476" data-uslm-ref="/us/usc/t10/s2476">2476.</a>  </td>
 
     <td> Minimum capital investment for certain depots.  </td>
 

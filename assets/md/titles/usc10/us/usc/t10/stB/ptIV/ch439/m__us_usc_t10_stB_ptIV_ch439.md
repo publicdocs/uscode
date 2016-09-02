@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4621" data-uslm-ref="/us/usc/t10/s4621">4621.</a>  </td>
 
     <td> Quartermaster supplies: members of armed forces; veterans; executive or military departments and employees; prices.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4622" data-uslm-ref="/us/usc/t10/s4622">4622.</a>  </td>
 
     <td> Rations: commissioned officers in field.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [4623.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4623" data-uslm-ref="/us/usc/t10/s4623">4623.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4624.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4624" data-uslm-ref="/us/usc/t10/s4624">4624.</a>  </td>
 
     <td> Medical supplies: civilian employees of the Army; American National Red Cross; Armed Forces Retirement Home.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4625.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4625" data-uslm-ref="/us/usc/t10/s4625">4625.</a>  </td>
 
     <td> Ordnance property: officers of armed forces; civilian employees of Army; American National Red Cross; educational institutions; homes for veterans’ orphans.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4626.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4626" data-uslm-ref="/us/usc/t10/s4626">4626.</a>  </td>
 
     <td> Aircraft supplies and services: foreign military or air attaché.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4627.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4627" data-uslm-ref="/us/usc/t10/s4627">4627.</a>  </td>
 
     <td> Supplies: educational institutions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4628.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4628" data-uslm-ref="/us/usc/t10/s4628">4628.</a>  </td>
 
     <td> Airplane parts and accessories: civilian flying schools.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 4629.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4629" data-uslm-ref="/us/usc/t10/s4629">4629.</a>  </td>
 
     <td> Proceeds: disposition.  </td>
 

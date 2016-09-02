@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1071.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1071" data-uslm-ref="/us/usc/t10/s1071">1071.</a>  </td>
 
     <td> Purpose of this chapter.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1072.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1072" data-uslm-ref="/us/usc/t10/s1072">1072.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1073.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1073" data-uslm-ref="/us/usc/t10/s1073">1073.</a>  </td>
 
     <td> Administration of this chapter.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1073a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1073a" data-uslm-ref="/us/usc/t10/s1073a">1073a.</a>  </td>
 
     <td> Contracts for health care: best value contracting.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1073b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1073b" data-uslm-ref="/us/usc/t10/s1073b">1073b.</a>  </td>
 
     <td> Recurring reports.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1074.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1074" data-uslm-ref="/us/usc/t10/s1074">1074.</a>  </td>
 
     <td> Medical and dental care for members and certain former members.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1074a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1074a" data-uslm-ref="/us/usc/t10/s1074a">1074a.</a>  </td>
 
     <td> Medical and dental care: members on duty other than active duty for a period of more than 30 days.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1074b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1074b" data-uslm-ref="/us/usc/t10/s1074b">1074b.</a>  </td>
 
     <td> Medical and dental care: Academy cadets and midshipmen; members of, and designated applicants for membership in, Senior ROTC.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1074c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1074c" data-uslm-ref="/us/usc/t10/s1074c">1074c.</a>  </td>
 
     <td> Medical care: authority to provide a wig.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1074d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1074d" data-uslm-ref="/us/usc/t10/s1074d">1074d.</a>  </td>
 
     <td> Certain primary and preventive health care services.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1074e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1074e" data-uslm-ref="/us/usc/t10/s1074e">1074e.</a>  </td>
 
     <td> Medical care: certain Reserves who served in Southwest Asia during the Persian Gulf Conflict.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1074f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1074f" data-uslm-ref="/us/usc/t10/s1074f">1074f.</a>  </td>
 
     <td> Medical tracking system for members deployed overseas.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1074g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1074g" data-uslm-ref="/us/usc/t10/s1074g">1074g.</a>  </td>
 
     <td> Pharmacy benefits program.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1074h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1074h" data-uslm-ref="/us/usc/t10/s1074h">1074h.</a>  </td>
 
     <td> Medical and dental care: medal of honor recipients; dependents.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1074i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1074i" data-uslm-ref="/us/usc/t10/s1074i">1074i.</a>  </td>
 
     <td> Reimbursement for certain travel expenses.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1074j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1074j" data-uslm-ref="/us/usc/t10/s1074j">1074j.</a>  </td>
 
     <td> Sub-acute care program.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1074k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1074k" data-uslm-ref="/us/usc/t10/s1074k">1074k.</a>  </td>
 
     <td> Long-term care insurance.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1074l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1074" data-uslm-ref="/us/usc/t10/s1074">1074</a>l.  </td>
 
     <td> Notification to Congress of hospitalization of combat wounded members.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 1074m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1074m" data-uslm-ref="/us/usc/t10/s1074m">1074m.</a>  </td>
 
     <td> Mental health assessments for members of the armed forces deployed in support of a contingency operation.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> [1075.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1075" data-uslm-ref="/us/usc/t10/s1075">1075.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 1076.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1076" data-uslm-ref="/us/usc/t10/s1076">1076.</a>  </td>
 
     <td> Medical and dental care for dependents: general rule.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 1076a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1076a" data-uslm-ref="/us/usc/t10/s1076a">1076a.</a>  </td>
 
     <td> TRICARE dental program.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> [1076b.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1076b" data-uslm-ref="/us/usc/t10/s1076b">1076b.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 1076c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1076c" data-uslm-ref="/us/usc/t10/s1076c">1076c.</a>  </td>
 
     <td> Dental insurance plan: certain retirees and their surviving spouses and other dependents.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 1076d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1076d" data-uslm-ref="/us/usc/t10/s1076d">1076d.</a>  </td>
 
     <td> TRICARE program: TRICARE Standard coverage for members of the Selected Reserve.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 1076e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1076e" data-uslm-ref="/us/usc/t10/s1076e">1076e.</a>  </td>
 
     <td> TRICARE program: TRICARE Standard coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but are not yet age 60.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 1077.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1077" data-uslm-ref="/us/usc/t10/s1077">1077.</a>  </td>
 
     <td> Medical care for dependents: authorized care in facilities of uniformed services.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 1078.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1078" data-uslm-ref="/us/usc/t10/s1078">1078.</a>  </td>
 
     <td> Medical and dental care for dependents: charges.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 1078a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1078a" data-uslm-ref="/us/usc/t10/s1078a">1078a.</a>  </td>
 
     <td> Continued health benefits coverage.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 1078b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1078b" data-uslm-ref="/us/usc/t10/s1078b">1078b.</a>  </td>
 
     <td> Provision of food to certain members and dependents not receiving inpatient care in military medical treatment facilities.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 1079.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1079" data-uslm-ref="/us/usc/t10/s1079">1079.</a>  </td>
 
     <td> Contracts for medical care for spouses and children: plans.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 1079a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1079a" data-uslm-ref="/us/usc/t10/s1079a">1079a.</a>  </td>
 
     <td> CHAMPUS: treatment of refunds and other amounts collected.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 1079b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1079b" data-uslm-ref="/us/usc/t10/s1079b">1079b.</a>  </td>
 
     <td> Procedures for charging fees for care provided to civilians; retention and use of fees collected.  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 1080.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1080" data-uslm-ref="/us/usc/t10/s1080">1080.</a>  </td>
 
     <td> Contracts for medical care for spouses and children: election of facilities.  </td>
 
@@ -297,7 +297,7 @@
 
   <tr>
 
-    <td> 1081.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1081" data-uslm-ref="/us/usc/t10/s1081">1081.</a>  </td>
 
     <td> Contracts for medical care for spouses and children: review and adjustment of payments.  </td>
 
@@ -305,7 +305,7 @@
 
   <tr>
 
-    <td> 1082.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1082" data-uslm-ref="/us/usc/t10/s1082">1082.</a>  </td>
 
     <td> Contracts for health care: advisory committees.  </td>
 
@@ -313,7 +313,7 @@
 
   <tr>
 
-    <td> 1083.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1083" data-uslm-ref="/us/usc/t10/s1083">1083.</a>  </td>
 
     <td> Contracts for medical care for spouses and children: additional hospitalization.  </td>
 
@@ -321,7 +321,7 @@
 
   <tr>
 
-    <td> 1084.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1084" data-uslm-ref="/us/usc/t10/s1084">1084.</a>  </td>
 
     <td> Determinations of dependency.  </td>
 
@@ -329,7 +329,7 @@
 
   <tr>
 
-    <td> 1085.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1085" data-uslm-ref="/us/usc/t10/s1085">1085.</a>  </td>
 
     <td> Medical and dental care from another executive department: reimbursement.  </td>
 
@@ -337,7 +337,7 @@
 
   <tr>
 
-    <td> 1086.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1086" data-uslm-ref="/us/usc/t10/s1086">1086.</a>  </td>
 
     <td> Contracts for health benefits for certain members, former members, and their dependents.  </td>
 
@@ -345,7 +345,7 @@
 
   <tr>
 
-    <td> 1086a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1086a" data-uslm-ref="/us/usc/t10/s1086a">1086a.</a>  </td>
 
     <td> Certain former spouses: extension of period of eligibility for health benefits.  </td>
 
@@ -353,7 +353,7 @@
 
   <tr>
 
-    <td> 1086b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1086b" data-uslm-ref="/us/usc/t10/s1086b">1086b.</a>  </td>
 
     <td> Prohibition against requiring retired members to receive health care solely through the Department of Defense.  </td>
 
@@ -361,7 +361,7 @@
 
   <tr>
 
-    <td> 1087.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1087" data-uslm-ref="/us/usc/t10/s1087">1087.</a>  </td>
 
     <td> Programing facilities for certain members, former members, and their dependents in construction projects of the uniformed services.  </td>
 
@@ -369,7 +369,7 @@
 
   <tr>
 
-    <td> 1088.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1088" data-uslm-ref="/us/usc/t10/s1088">1088.</a>  </td>
 
     <td> Air evacuation patients: furnished subsistence.  </td>
 
@@ -377,7 +377,7 @@
 
   <tr>
 
-    <td> 1089.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1089" data-uslm-ref="/us/usc/t10/s1089">1089.</a>  </td>
 
     <td> Defense of certain suits arising out of medical malpractice.  </td>
 
@@ -385,7 +385,7 @@
 
   <tr>
 
-    <td> 1090.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1090" data-uslm-ref="/us/usc/t10/s1090">1090.</a>  </td>
 
     <td> Identifying and treating drug and alcohol dependence.  </td>
 
@@ -393,7 +393,7 @@
 
   <tr>
 
-    <td> 1090a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1090a" data-uslm-ref="/us/usc/t10/s1090a">1090a.</a>  </td>
 
     <td> Commanding officer and supervisor referrals of members for mental health evaluations.  </td>
 
@@ -401,7 +401,7 @@
 
   <tr>
 
-    <td> 1091.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1091" data-uslm-ref="/us/usc/t10/s1091">1091.</a>  </td>
 
     <td> Personal services contracts.  </td>
 
@@ -409,7 +409,7 @@
 
   <tr>
 
-    <td> 1092.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1092" data-uslm-ref="/us/usc/t10/s1092">1092.</a>  </td>
 
     <td> Studies and demonstration projects relating to delivery of health and medical care.  </td>
 
@@ -417,7 +417,7 @@
 
   <tr>
 
-    <td> 1092a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1092a" data-uslm-ref="/us/usc/t10/s1092a">1092a.</a>  </td>
 
     <td> Persons entering the armed forces: baseline health data.  </td>
 
@@ -425,7 +425,7 @@
 
   <tr>
 
-    <td> 1093.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1093" data-uslm-ref="/us/usc/t10/s1093">1093.</a>  </td>
 
     <td> Performance of abortions: restrictions.  </td>
 
@@ -433,7 +433,7 @@
 
   <tr>
 
-    <td> 1094.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1094" data-uslm-ref="/us/usc/t10/s1094">1094.</a>  </td>
 
     <td> Licensure requirement for health-care professionals.  </td>
 
@@ -441,7 +441,7 @@
 
   <tr>
 
-    <td> 1094a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1094a" data-uslm-ref="/us/usc/t10/s1094a">1094a.</a>  </td>
 
     <td> Continuing medical education requirements: system for monitoring physician compliance.  </td>
 
@@ -449,7 +449,7 @@
 
   <tr>
 
-    <td> 1095.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1095" data-uslm-ref="/us/usc/t10/s1095">1095.</a>  </td>
 
     <td> Health care services incurred on behalf of covered beneficiaries: collection from third-party payers.  </td>
 
@@ -457,7 +457,7 @@
 
   <tr>
 
-    <td> 1095a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1095a" data-uslm-ref="/us/usc/t10/s1095a">1095a.</a>  </td>
 
     <td> Medical care: members held as captives and their dependents.  </td>
 
@@ -465,7 +465,7 @@
 
   <tr>
 
-    <td> 1095b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1095b" data-uslm-ref="/us/usc/t10/s1095b">1095b.</a>  </td>
 
     <td> TRICARE program: contractor payment of certain claims.  </td>
 
@@ -473,7 +473,7 @@
 
   <tr>
 
-    <td> 1095c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1095c" data-uslm-ref="/us/usc/t10/s1095c">1095c.</a>  </td>
 
     <td> TRICARE program: facilitation of processing of claims.  </td>
 
@@ -481,7 +481,7 @@
 
   <tr>
 
-    <td> 1095d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1095d" data-uslm-ref="/us/usc/t10/s1095d">1095d.</a>  </td>
 
     <td> TRICARE program: waiver of certain deductibles.  </td>
 
@@ -489,7 +489,7 @@
 
   <tr>
 
-    <td> 1095e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1095e" data-uslm-ref="/us/usc/t10/s1095e">1095e.</a>  </td>
 
     <td> TRICARE program: beneficiary counseling and assistance coordinators.  </td>
 
@@ -497,7 +497,7 @@
 
   <tr>
 
-    <td> 1095f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1095f" data-uslm-ref="/us/usc/t10/s1095f">1095f.</a>  </td>
 
     <td> TRICARE program: referrals for specialty health care.  </td>
 
@@ -505,7 +505,7 @@
 
   <tr>
 
-    <td> 1096.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1096" data-uslm-ref="/us/usc/t10/s1096">1096.</a>  </td>
 
     <td> Military-civilian health services partnership program.  </td>
 
@@ -513,7 +513,7 @@
 
   <tr>
 
-    <td> 1097.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1097" data-uslm-ref="/us/usc/t10/s1097">1097.</a>  </td>
 
     <td> Contracts for medical care for retirees, dependents, and survivors: alternative delivery of health care.  </td>
 
@@ -521,7 +521,7 @@
 
   <tr>
 
-    <td> 1097a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1097a" data-uslm-ref="/us/usc/t10/s1097a">1097a.</a>  </td>
 
     <td> TRICARE Prime: automatic enrollments; payment options.  </td>
 
@@ -529,7 +529,7 @@
 
   <tr>
 
-    <td> 1097b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1097b" data-uslm-ref="/us/usc/t10/s1097b">1097b.</a>  </td>
 
     <td> TRICARE program: financial management.  </td>
 
@@ -537,7 +537,7 @@
 
   <tr>
 
-    <td> 1097c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1097c" data-uslm-ref="/us/usc/t10/s1097c">1097c.</a>  </td>
 
     <td> TRICARE program: relationship with employer-sponsored group health plans.  </td>
 
@@ -545,7 +545,7 @@
 
   <tr>
 
-    <td> 1098.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1098" data-uslm-ref="/us/usc/t10/s1098">1098.</a>  </td>
 
     <td> Incentives for participation in cost-effective health care plans.  </td>
 
@@ -553,7 +553,7 @@
 
   <tr>
 
-    <td> 1099.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1099" data-uslm-ref="/us/usc/t10/s1099">1099.</a>  </td>
 
     <td> Health care enrollment system.  </td>
 
@@ -561,7 +561,7 @@
 
   <tr>
 
-    <td> 1100.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1100" data-uslm-ref="/us/usc/t10/s1100">1100.</a>  </td>
 
     <td> Defense Health Program Account.  </td>
 
@@ -569,7 +569,7 @@
 
   <tr>
 
-    <td> 1101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1101" data-uslm-ref="/us/usc/t10/s1101">1101.</a>  </td>
 
     <td> Resource allocation methods: capitation or diagnosis-related groups.  </td>
 
@@ -577,7 +577,7 @@
 
   <tr>
 
-    <td> 1102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1102" data-uslm-ref="/us/usc/t10/s1102">1102.</a>  </td>
 
     <td> Confidentiality of medical quality assurance records: qualified immunity for participants.  </td>
 
@@ -585,7 +585,7 @@
 
   <tr>
 
-    <td> 1103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1103" data-uslm-ref="/us/usc/t10/s1103">1103.</a>  </td>
 
     <td> Contracts for medical and dental care: State and local preemption.  </td>
 
@@ -593,7 +593,7 @@
 
   <tr>
 
-    <td> 1104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1104" data-uslm-ref="/us/usc/t10/s1104">1104.</a>  </td>
 
     <td> Sharing of health-care resources with the Department of Veterans Affairs.  </td>
 
@@ -601,7 +601,7 @@
 
   <tr>
 
-    <td> 1105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1105" data-uslm-ref="/us/usc/t10/s1105">1105.</a>  </td>
 
     <td> Specialized treatment facility program.  </td>
 
@@ -609,7 +609,7 @@
 
   <tr>
 
-    <td> 1106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1106" data-uslm-ref="/us/usc/t10/s1106">1106.</a>  </td>
 
     <td> Submittal of claims: standard form; time limits.  </td>
 
@@ -617,7 +617,7 @@
 
   <tr>
 
-    <td> 1107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1107" data-uslm-ref="/us/usc/t10/s1107">1107.</a>  </td>
 
     <td> Notice of use of an investigational new drug or a drug unapproved for its applied use.  </td>
 
@@ -625,7 +625,7 @@
 
   <tr>
 
-    <td> 1107a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1107a" data-uslm-ref="/us/usc/t10/s1107a">1107a.</a>  </td>
 
     <td> Emergency use products.  </td>
 
@@ -633,7 +633,7 @@
 
   <tr>
 
-    <td> 1108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1108" data-uslm-ref="/us/usc/t10/s1108">1108.</a>  </td>
 
     <td> Health care coverage through Federal Employees Health Benefits program: demonstration project.  </td>
 
@@ -641,7 +641,7 @@
 
   <tr>
 
-    <td> 1109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1109" data-uslm-ref="/us/usc/t10/s1109">1109.</a>  </td>
 
     <td> Organ and tissue donor program.  </td>
 
@@ -649,7 +649,7 @@
 
   <tr>
 
-    <td> 1110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1110" data-uslm-ref="/us/usc/t10/s1110">1110.</a>  </td>
 
     <td> Anthrax vaccine immunization program; procedures for exemptions and monitoring reactions.  </td>
 
@@ -657,7 +657,7 @@
 
   <tr>
 
-    <td> 1110a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1110a" data-uslm-ref="/us/usc/t10/s1110a">1110a.</a>  </td>
 
     <td> Notification of certain individuals regarding options for enrollment under Medicare part B.  </td>
 
@@ -665,7 +665,7 @@
 
   <tr>
 
-    <td> 1110b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1110b" data-uslm-ref="/us/usc/t10/s1110b">1110b.</a>  </td>
 
     <td> TRICARE program: extension of dependent coverage.  </td>
 

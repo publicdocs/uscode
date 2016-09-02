@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2421" data-uslm-ref="/us/usc/t10/s2421">2421.</a>  </td>
 
     <td> Plantations and farms: operation, maintenance, and improvement.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2422" data-uslm-ref="/us/usc/t10/s2422">2422.</a>  </td>
 
     <td> Bakery and dairy products: procurement outside the United States.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2423" data-uslm-ref="/us/usc/t10/s2423">2423.</a>  </td>
 
     <td> Laundry and dry cleaning services: procurement from facilities operated by the Navy Resale and Services Support Office.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2424" data-uslm-ref="/us/usc/t10/s2424">2424.</a>  </td>
 
     <td> Procurement of supplies and services from exchange stores outside the United States.  </td>
 

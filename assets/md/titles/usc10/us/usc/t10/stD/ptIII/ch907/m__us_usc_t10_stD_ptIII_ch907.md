@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9411" data-uslm-ref="/us/usc/t10/s9411">9411.</a>  </td>
 
     <td> Establishment: purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9412" data-uslm-ref="/us/usc/t10/s9412">9412.</a>  </td>
 
     <td> Operation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9413" data-uslm-ref="/us/usc/t10/s9413">9413.</a>  </td>
 
     <td> Transportation and subsistence during travel.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9414" data-uslm-ref="/us/usc/t10/s9414">9414.</a>  </td>
 
     <td> Quartermaster and ordnance property: sales.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 9415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9415" data-uslm-ref="/us/usc/t10/s9415">9415.</a>  </td>
 
     <td> Inter-American Air Forces Academy.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 9417.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9417" data-uslm-ref="/us/usc/t10/s9417">9417.</a>  </td>
 
     <td> Air War College: acceptance of grants for faculty research for scientific, literary, and educational purposes.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2281.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2281" data-uslm-ref="/us/usc/t10/s2281">2281.</a>  </td>
 
     <td> Global Positioning System.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [2282.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2282" data-uslm-ref="/us/usc/t10/s2282">2282.</a>  </td>
 
     <td> Repealed.]  </td>
 

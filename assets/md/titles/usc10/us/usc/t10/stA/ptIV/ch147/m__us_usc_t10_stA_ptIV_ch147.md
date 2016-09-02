@@ -29,31 +29,31 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch147%2FschI" data-uslm-ref="/us/usc/t10/stA/ptIV/ch147/schI">I.</a>  </td>
 
     <td> Defense Commissary and Exchange Systems  </td>
 
-    <td> 2481  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2481" data-uslm-ref="/us/usc/t10/s2481">2481</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch147%2FschII" data-uslm-ref="/us/usc/t10/stA/ptIV/ch147/schII">II.</a>  </td>
 
     <td> Relationship, Continuation, and Common Policies of Defense Commissary and Exchange Systems  </td>
 
-    <td> 2487  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2487" data-uslm-ref="/us/usc/t10/s2487">2487</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch147%2FschIII" data-uslm-ref="/us/usc/t10/stA/ptIV/ch147/schIII">III.</a>  </td>
 
     <td> Morale, Welfare, and Recreation Programs and Nonappropriated Fund Instrumentalities  </td>
 
-    <td> 2491  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2491" data-uslm-ref="/us/usc/t10/s2491">2491</a>  </td>
 
   </tr>
 

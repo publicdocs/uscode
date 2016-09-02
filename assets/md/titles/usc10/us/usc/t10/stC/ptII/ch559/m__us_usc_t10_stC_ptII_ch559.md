@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [6111, 6112.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6111" data-uslm-ref="/us/usc/t10/s6111">6111</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6112" data-uslm-ref="/us/usc/t10/s6112">6112.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6113" data-uslm-ref="/us/usc/t10/s6113">6113.</a>  </td>
 
     <td> Loans: Supply Corps officers.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [6114 to 6116.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6114" data-uslm-ref="/us/usc/t10/s6114">6114</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6116" data-uslm-ref="/us/usc/t10/s6116">6116.</a>  </td>
 
     <td> Repealed.]  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs311" data-uslm-ref="/us/usc/t10/s311">311.</a>  </td>
 
     <td> Militia: composition and classes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs312" data-uslm-ref="/us/usc/t10/s312">312.</a>  </td>
 
     <td> Militia duty: exemptions.  </td>
 

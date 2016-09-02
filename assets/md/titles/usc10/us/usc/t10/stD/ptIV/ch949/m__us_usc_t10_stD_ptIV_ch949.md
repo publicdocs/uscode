@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9771.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9771" data-uslm-ref="/us/usc/t10/s9771">9771.</a>  </td>
 
     <td> Acceptance of donations: land for mobilization, training, supply base, or aviation field.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [9772.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9772" data-uslm-ref="/us/usc/t10/s9772">9772.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9773.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9773" data-uslm-ref="/us/usc/t10/s9773">9773.</a>  </td>
 
     <td> Acquisition and construction: air bases and depots.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [9774, 9775.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9774" data-uslm-ref="/us/usc/t10/s9774">9774</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9775" data-uslm-ref="/us/usc/t10/s9775">9775.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 9776.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9776" data-uslm-ref="/us/usc/t10/s9776">9776.</a>  </td>
 
     <td> Emergency construction: fortifications.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 9777.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9777" data-uslm-ref="/us/usc/t10/s9777">9777.</a>  </td>
 
     <td> Permits: military reservations; landing ferries, erecting bridges, driving livestock.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 9778.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9778" data-uslm-ref="/us/usc/t10/s9778">9778.</a>  </td>
 
     <td> Licenses: military reservations; erection and use of buildings; Young Men’s Christian Association.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 9779.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9779" data-uslm-ref="/us/usc/t10/s9779">9779.</a>  </td>
 
     <td> Use of public property.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 9780.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9780" data-uslm-ref="/us/usc/t10/s9780">9780.</a>  </td>
 
     <td> Acquisition of buildings in District of Columbia.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 9781.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9781" data-uslm-ref="/us/usc/t10/s9781">9781.</a>  </td>
 
     <td> Disposition of real property at missile sites.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 9782.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9782" data-uslm-ref="/us/usc/t10/s9782">9782.</a>  </td>
 
     <td> Maintenance and repair of real property.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 9783.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9783" data-uslm-ref="/us/usc/t10/s9783">9783.</a>  </td>
 
     <td> Johnston Atoll: reimbursement for support provided to civil air carriers.  </td>
 

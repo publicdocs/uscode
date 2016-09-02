@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4331" data-uslm-ref="/us/usc/t10/s4331">4331.</a>  </td>
 
     <td> Establishment; Superintendent; faculty.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4332" data-uslm-ref="/us/usc/t10/s4332">4332.</a>  </td>
 
     <td> Departments and professors: titles.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4333" data-uslm-ref="/us/usc/t10/s4333">4333.</a>  </td>
 
     <td> Superintendent; faculty: appointment and detail.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4333a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4333a" data-uslm-ref="/us/usc/t10/s4333a">4333a.</a>  </td>
 
     <td> Superintendent: condition for detail to position.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4334" data-uslm-ref="/us/usc/t10/s4334">4334.</a>  </td>
 
     <td> Command and supervision.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4335" data-uslm-ref="/us/usc/t10/s4335">4335.</a>  </td>
 
     <td> Dean of Academic Board.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4336.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4336" data-uslm-ref="/us/usc/t10/s4336">4336.</a>  </td>
 
     <td> Permanent professors; director of admissions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4337.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4337" data-uslm-ref="/us/usc/t10/s4337">4337.</a>  </td>
 
     <td> Chaplain.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 4338.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4338" data-uslm-ref="/us/usc/t10/s4338">4338.</a>  </td>
 
     <td> Civilian faculty: number; compensation.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [4339.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4339" data-uslm-ref="/us/usc/t10/s4339">4339.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 4340.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4340" data-uslm-ref="/us/usc/t10/s4340">4340.</a>  </td>
 
     <td> Quartermaster.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 4341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4341" data-uslm-ref="/us/usc/t10/s4341">4341.</a>  </td>
 
     <td> Faculty and other officers: leaves of absence.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 4341a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4341a" data-uslm-ref="/us/usc/t10/s4341a">4341a.</a>  </td>
 
     <td> Cadets: appointment by the President.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 4342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4342" data-uslm-ref="/us/usc/t10/s4342">4342.</a>  </td>
 
     <td> Cadets: appointment; numbers, territorial distribution.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 4343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4343" data-uslm-ref="/us/usc/t10/s4343">4343.</a>  </td>
 
     <td> Cadets: appointment; to bring Corps to full strength.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 4344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4344" data-uslm-ref="/us/usc/t10/s4344">4344.</a>  </td>
 
     <td> Selection of persons from foreign countries.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 4345.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4345" data-uslm-ref="/us/usc/t10/s4345">4345.</a>  </td>
 
     <td> Exchange program with foreign military academies.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 4345a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4345a" data-uslm-ref="/us/usc/t10/s4345a">4345a.</a>  </td>
 
     <td> Foreign and cultural exchange activities.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 4346.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4346" data-uslm-ref="/us/usc/t10/s4346">4346.</a>  </td>
 
     <td> Cadets: requirements for admission.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 4347.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4347" data-uslm-ref="/us/usc/t10/s4347">4347.</a>  </td>
 
     <td> Cadets; nominees: effect of redistricting of States.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 4348.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4348" data-uslm-ref="/us/usc/t10/s4348">4348.</a>  </td>
 
     <td> Cadets: agreement to serve as officer.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 4349.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4349" data-uslm-ref="/us/usc/t10/s4349">4349.</a>  </td>
 
     <td> Cadets: organization of Corps; service; instruction.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 4350.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4350" data-uslm-ref="/us/usc/t10/s4350">4350.</a>  </td>
 
     <td> Cadets: clothing and equipment.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 4351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4351" data-uslm-ref="/us/usc/t10/s4351">4351.</a>  </td>
 
     <td> Cadets: deficiencies in conduct or studies; effect of failure on successor.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 4352.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4352" data-uslm-ref="/us/usc/t10/s4352">4352.</a>  </td>
 
     <td> Cadets: hazing.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 4353.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4353" data-uslm-ref="/us/usc/t10/s4353">4353.</a>  </td>
 
     <td> Cadets: degree and commission on graduation.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 4354.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4354" data-uslm-ref="/us/usc/t10/s4354">4354.</a>  </td>
 
     <td> Buildings and grounds: memorial hall; buildings for religious worship.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 4355.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4355" data-uslm-ref="/us/usc/t10/s4355">4355.</a>  </td>
 
     <td> Board of Visitors.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 4356.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4356" data-uslm-ref="/us/usc/t10/s4356">4356.</a>  </td>
 
     <td> Use of certain gifts.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 4357.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4357" data-uslm-ref="/us/usc/t10/s4357">4357.</a>  </td>
 
     <td> Acceptance of guarantees with gifts for major projects.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 4358.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4358" data-uslm-ref="/us/usc/t10/s4358">4358.</a>  </td>
 
     <td> Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 4359.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4359" data-uslm-ref="/us/usc/t10/s4359">4359.</a>  </td>
 
     <td> Mixed-funded athletic and recreational extracurricular programs: authority to manage appropriated funds in same manner as nonappropriated funds.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 4360.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4360" data-uslm-ref="/us/usc/t10/s4360">4360.</a>  </td>
 
     <td> Cadets: charges and fees for attendance; limitation.  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 4361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4361" data-uslm-ref="/us/usc/t10/s4361">4361.</a>  </td>
 
     <td> Policy on sexual harassment and sexual violence.  </td>
 

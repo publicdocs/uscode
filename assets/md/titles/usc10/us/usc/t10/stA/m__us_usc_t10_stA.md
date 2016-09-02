@@ -37,191 +37,191 @@ PART I—ORGANIZATION AND GENERAL MILITARY POWERS  </td>
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch1" data-uslm-ref="/us/usc/t10/stA/ptI/ch1">1.</a>  </td>
 
     <td> Definitions  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs101" data-uslm-ref="/us/usc/t10/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch2" data-uslm-ref="/us/usc/t10/stA/ptI/ch2">2.</a>  </td>
 
     <td> Department of Defense  </td>
 
-    <td> 111  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs111" data-uslm-ref="/us/usc/t10/s111">111</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch3" data-uslm-ref="/us/usc/t10/stA/ptI/ch3">3.</a>  </td>
 
     <td> General Powers and Functions  </td>
 
-    <td> 121  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs121" data-uslm-ref="/us/usc/t10/s121">121</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch4" data-uslm-ref="/us/usc/t10/stA/ptI/ch4">4.</a>  </td>
 
     <td> Office of the Secretary of Defense  </td>
 
-    <td> 131  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs131" data-uslm-ref="/us/usc/t10/s131">131</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch5" data-uslm-ref="/us/usc/t10/stA/ptI/ch5">5.</a>  </td>
 
     <td> Joint Chiefs of Staff  </td>
 
-    <td> 151  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs151" data-uslm-ref="/us/usc/t10/s151">151</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch6" data-uslm-ref="/us/usc/t10/stA/ptI/ch6">6.</a>  </td>
 
     <td> Combatant Commands  </td>
 
-    <td> 161  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs161" data-uslm-ref="/us/usc/t10/s161">161</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch7" data-uslm-ref="/us/usc/t10/stA/ptI/ch7">7.</a>  </td>
 
     <td> Boards, Councils, and Committees  </td>
 
-    <td> 171  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs171" data-uslm-ref="/us/usc/t10/s171">171</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch8" data-uslm-ref="/us/usc/t10/stA/ptI/ch8">8.</a>  </td>
 
     <td> Defense Agencies and Department of Defense Field Activities  </td>
 
-    <td> 191  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs191" data-uslm-ref="/us/usc/t10/s191">191</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch9" data-uslm-ref="/us/usc/t10/stA/ptI/ch9">9.</a>  </td>
 
     <td> Defense Budget Matters  </td>
 
-    <td> 221  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs221" data-uslm-ref="/us/usc/t10/s221">221</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch11" data-uslm-ref="/us/usc/t10/stA/ptI/ch11">11.</a>  </td>
 
     <td> Reserve Components  </td>
 
-    <td> 261  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs261" data-uslm-ref="/us/usc/t10/s261">261</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch13" data-uslm-ref="/us/usc/t10/stA/ptI/ch13">13.</a>  </td>
 
     <td> The Militia  </td>
 
-    <td> 311  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs311" data-uslm-ref="/us/usc/t10/s311">311</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch15" data-uslm-ref="/us/usc/t10/stA/ptI/ch15">15.</a>  </td>
 
     <td> Insurrection  </td>
 
-    <td> 331  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs331" data-uslm-ref="/us/usc/t10/s331">331</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 17.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch17" data-uslm-ref="/us/usc/t10/stA/ptI/ch17">17.</a>  </td>
 
     <td> Arming of American Vessels  </td>
 
-    <td> 351  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs351" data-uslm-ref="/us/usc/t10/s351">351</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 18.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch18" data-uslm-ref="/us/usc/t10/stA/ptI/ch18">18.</a>  </td>
 
     <td> Military Support for Civilian Law Enforcement Agencies  </td>
 
-    <td> 371  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs371" data-uslm-ref="/us/usc/t10/s371">371</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 20.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch20" data-uslm-ref="/us/usc/t10/stA/ptI/ch20">20.</a>  </td>
 
     <td> Humanitarian and Other Assistance  </td>
 
-    <td> 401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs401" data-uslm-ref="/us/usc/t10/s401">401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch21" data-uslm-ref="/us/usc/t10/stA/ptI/ch21">21.</a>  </td>
 
     <td> Department of Defense Intelligence Matters  </td>
 
-    <td> 421  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs421" data-uslm-ref="/us/usc/t10/s421">421</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 22.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch22" data-uslm-ref="/us/usc/t10/stA/ptI/ch22">22.</a>  </td>
 
     <td> National Geospatial  -  Intelligence Agency  </td>
 
-    <td> 441  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs441" data-uslm-ref="/us/usc/t10/s441">441</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch23" data-uslm-ref="/us/usc/t10/stA/ptI/ch23">23.</a>  </td>
 
     <td> Miscellaneous Studies and Reports  </td>
 
-    <td> 480  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs480" data-uslm-ref="/us/usc/t10/s480">480</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 24.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch24" data-uslm-ref="/us/usc/t10/stA/ptI/ch24">24.</a>  </td>
 
     <td> Nuclear posture  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>   </td>
 
-    <td> 491  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs491" data-uslm-ref="/us/usc/t10/s491">491</a>  </td>
 
   </tr>
 
@@ -235,437 +235,437 @@ PART II—PERSONNEL  </td>
 
   <tr>
 
-    <td> 31.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch31" data-uslm-ref="/us/usc/t10/stA/ptII/ch31">31.</a>  </td>
 
     <td> Enlistments  </td>
 
-    <td> 501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs501" data-uslm-ref="/us/usc/t10/s501">501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 32.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch32" data-uslm-ref="/us/usc/t10/stA/ptII/ch32">32.</a>  </td>
 
     <td> Officer Strength and Distribution in Grade  </td>
 
-    <td> 521  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs521" data-uslm-ref="/us/usc/t10/s521">521</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 33.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch33" data-uslm-ref="/us/usc/t10/stA/ptII/ch33">33.</a>  </td>
 
     <td> Original Appointments of Regular Officers in Grades Above Warrant Officer Grades  </td>
 
-    <td> 531  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs531" data-uslm-ref="/us/usc/t10/s531">531</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 33A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch33A" data-uslm-ref="/us/usc/t10/stA/ptII/ch33A">33A.</a>  </td>
 
     <td> Appointment, Promotion, and Involuntary Separation and Retirement for Members on the Warrant Officer Active-Duty List  </td>
 
-    <td> 571  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs571" data-uslm-ref="/us/usc/t10/s571">571</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 34.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch34" data-uslm-ref="/us/usc/t10/stA/ptII/ch34">34.</a>  </td>
 
     <td> Appointments as Reserve Officers  </td>
 
-    <td> 591  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs591" data-uslm-ref="/us/usc/t10/s591">591</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 35.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch35" data-uslm-ref="/us/usc/t10/stA/ptII/ch35">35.</a>  </td>
 
     <td> Temporary Appointments in Officer Grades  </td>
 
-    <td> 601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs601" data-uslm-ref="/us/usc/t10/s601">601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 36.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch36" data-uslm-ref="/us/usc/t10/stA/ptII/ch36">36.</a>  </td>
 
     <td> Promotion, Separation, and Involuntary Retirement of Officers on the Active-Duty List  </td>
 
-    <td> 611  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs611" data-uslm-ref="/us/usc/t10/s611">611</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 37.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch37" data-uslm-ref="/us/usc/t10/stA/ptII/ch37">37.</a>  </td>
 
     <td> General Service Requirements  </td>
 
-    <td> 651  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs651" data-uslm-ref="/us/usc/t10/s651">651</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 38.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch38" data-uslm-ref="/us/usc/t10/stA/ptII/ch38">38.</a>  </td>
 
     <td> Joint Officer Management  </td>
 
-    <td> 661  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs661" data-uslm-ref="/us/usc/t10/s661">661</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 39.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch39" data-uslm-ref="/us/usc/t10/stA/ptII/ch39">39.</a>  </td>
 
     <td> Active Duty  </td>
 
-    <td> 671  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs671" data-uslm-ref="/us/usc/t10/s671">671</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 40.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch40" data-uslm-ref="/us/usc/t10/stA/ptII/ch40">40.</a>  </td>
 
     <td> Leave  </td>
 
-    <td> 701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs701" data-uslm-ref="/us/usc/t10/s701">701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 41.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch41" data-uslm-ref="/us/usc/t10/stA/ptII/ch41">41.</a>  </td>
 
     <td> Special Appointments, Assignments, Details, and Duties  </td>
 
-    <td> 711  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs711" data-uslm-ref="/us/usc/t10/s711">711</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 43.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch43" data-uslm-ref="/us/usc/t10/stA/ptII/ch43">43.</a>  </td>
 
     <td> Rank and Command  </td>
 
-    <td> 741  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs741" data-uslm-ref="/us/usc/t10/s741">741</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 45.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch45" data-uslm-ref="/us/usc/t10/stA/ptII/ch45">45.</a>  </td>
 
     <td> The Uniform  </td>
 
-    <td> 771  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs771" data-uslm-ref="/us/usc/t10/s771">771</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 47.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch47" data-uslm-ref="/us/usc/t10/stA/ptII/ch47">47.</a>  </td>
 
     <td> Uniform Code of Military Justice  </td>
 
-    <td> 801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs801" data-uslm-ref="/us/usc/t10/s801">801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 47A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch47A" data-uslm-ref="/us/usc/t10/stA/ptII/ch47A">47A.</a>  </td>
 
     <td> Military Commissions  </td>
 
-    <td> 948a  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs948a" data-uslm-ref="/us/usc/t10/s948a">948a</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 48.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch48" data-uslm-ref="/us/usc/t10/stA/ptII/ch48">48.</a>  </td>
 
     <td> Military Correctional Facilities  </td>
 
-    <td> 951  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs951" data-uslm-ref="/us/usc/t10/s951">951</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 49.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch49" data-uslm-ref="/us/usc/t10/stA/ptII/ch49">49.</a>  </td>
 
     <td> Miscellaneous Prohibitions and Penalties  </td>
 
-    <td> 971  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs971" data-uslm-ref="/us/usc/t10/s971">971</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 50.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch50" data-uslm-ref="/us/usc/t10/stA/ptII/ch50">50.</a>  </td>
 
     <td> Miscellaneous Command Responsibilities  </td>
 
-    <td> 991  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs991" data-uslm-ref="/us/usc/t10/s991">991</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 51.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch51" data-uslm-ref="/us/usc/t10/stA/ptII/ch51">51.</a>  </td>
 
     <td> Reserve Components: Standards and Procedures for Retention and Promotion  </td>
 
-    <td> 1001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1001" data-uslm-ref="/us/usc/t10/s1001">1001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 53.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch53" data-uslm-ref="/us/usc/t10/stA/ptII/ch53">53.</a>  </td>
 
     <td> Miscellaneous Rights and Benefits  </td>
 
-    <td> 1030  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1030" data-uslm-ref="/us/usc/t10/s1030">1030</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 54.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch54" data-uslm-ref="/us/usc/t10/stA/ptII/ch54">54.</a>  </td>
 
     <td> Commissary and Exchange Benefits  </td>
 
-    <td> 1061  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1061" data-uslm-ref="/us/usc/t10/s1061">1061</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 55.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch55" data-uslm-ref="/us/usc/t10/stA/ptII/ch55">55.</a>  </td>
 
     <td> Medical and Dental Care  </td>
 
-    <td> 1071  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1071" data-uslm-ref="/us/usc/t10/s1071">1071</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 56.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch56" data-uslm-ref="/us/usc/t10/stA/ptII/ch56">56.</a>  </td>
 
     <td> Department of Defense Medicare-Eligible Retiree Health Care Fund  </td>
 
-    <td> 1111  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1111" data-uslm-ref="/us/usc/t10/s1111">1111</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 57.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch57" data-uslm-ref="/us/usc/t10/stA/ptII/ch57">57.</a>  </td>
 
     <td> Decorations and Awards  </td>
 
-    <td> 1121  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1121" data-uslm-ref="/us/usc/t10/s1121">1121</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 58.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch58" data-uslm-ref="/us/usc/t10/stA/ptII/ch58">58.</a>  </td>
 
     <td> Benefits and Services for Members Being Separated or Recently Separated  </td>
 
-    <td> 1141  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1141" data-uslm-ref="/us/usc/t10/s1141">1141</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 59.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch59" data-uslm-ref="/us/usc/t10/stA/ptII/ch59">59.</a>  </td>
 
     <td> Separation  </td>
 
-    <td> 1161  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1161" data-uslm-ref="/us/usc/t10/s1161">1161</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 60.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch60" data-uslm-ref="/us/usc/t10/stA/ptII/ch60">60.</a>  </td>
 
     <td> Separation of Regular Officers for Substandard Performance of Duty or for Certain Other Reasons  </td>
 
-    <td> 1181  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1181" data-uslm-ref="/us/usc/t10/s1181">1181</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 61.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch61" data-uslm-ref="/us/usc/t10/stA/ptII/ch61">61.</a>  </td>
 
     <td> Retirement or Separation for Physical Disability  </td>
 
-    <td> 1201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1201" data-uslm-ref="/us/usc/t10/s1201">1201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 63.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch63" data-uslm-ref="/us/usc/t10/stA/ptII/ch63">63.</a>  </td>
 
     <td> Retirement for Age  </td>
 
-    <td> 1251  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1251" data-uslm-ref="/us/usc/t10/s1251">1251</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 65.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch65" data-uslm-ref="/us/usc/t10/stA/ptII/ch65">65.</a>  </td>
 
     <td> Retirement of Warrant Officers for Length of Service  </td>
 
-    <td> 1293  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1293" data-uslm-ref="/us/usc/t10/s1293">1293</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 67.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch67" data-uslm-ref="/us/usc/t10/stA/ptII/ch67">67.</a>  </td>
 
     <td> Retired Pay for Non-Regular Service  </td>
 
-    <td> 1331  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1331" data-uslm-ref="/us/usc/t10/s1331">1331</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 69.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch69" data-uslm-ref="/us/usc/t10/stA/ptII/ch69">69.</a>  </td>
 
     <td> Retired Grade  </td>
 
-    <td> 1370  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1370" data-uslm-ref="/us/usc/t10/s1370">1370</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 71.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch71" data-uslm-ref="/us/usc/t10/stA/ptII/ch71">71.</a>  </td>
 
     <td> Computation of Retired Pay  </td>
 
-    <td> 1401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1401" data-uslm-ref="/us/usc/t10/s1401">1401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 73.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch73" data-uslm-ref="/us/usc/t10/stA/ptII/ch73">73.</a>  </td>
 
     <td> Annuities Based on Retired or Retainer Pay  </td>
 
-    <td> 1431  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1431" data-uslm-ref="/us/usc/t10/s1431">1431</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 74.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch74" data-uslm-ref="/us/usc/t10/stA/ptII/ch74">74.</a>  </td>
 
     <td> Department of Defense Military Retirement Fund  </td>
 
-    <td> 1461  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1461" data-uslm-ref="/us/usc/t10/s1461">1461</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 75.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch75" data-uslm-ref="/us/usc/t10/stA/ptII/ch75">75.</a>  </td>
 
     <td> Deceased Personnel  </td>
 
-    <td> 1471  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1471" data-uslm-ref="/us/usc/t10/s1471">1471</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 76.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch76" data-uslm-ref="/us/usc/t10/stA/ptII/ch76">76.</a>  </td>
 
     <td> Missing Persons  </td>
 
-    <td> 1501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1501" data-uslm-ref="/us/usc/t10/s1501">1501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 77.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch77" data-uslm-ref="/us/usc/t10/stA/ptII/ch77">77.</a>  </td>
 
     <td> Posthumous Commissions and Warrants  </td>
 
-    <td> 1521  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1521" data-uslm-ref="/us/usc/t10/s1521">1521</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 79.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch79" data-uslm-ref="/us/usc/t10/stA/ptII/ch79">79.</a>  </td>
 
     <td> Correction of Military Records  </td>
 
-    <td> 1551  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1551" data-uslm-ref="/us/usc/t10/s1551">1551</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 80.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch80" data-uslm-ref="/us/usc/t10/stA/ptII/ch80">80.</a>  </td>
 
     <td> Miscellaneous Investigation Requirements and Other Duties  </td>
 
-    <td> 1561  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1561" data-uslm-ref="/us/usc/t10/s1561">1561</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 81.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch81" data-uslm-ref="/us/usc/t10/stA/ptII/ch81">81.</a>  </td>
 
     <td> Civilian Employees  </td>
 
-    <td> 1580  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1580" data-uslm-ref="/us/usc/t10/s1580">1580</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 83.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch83" data-uslm-ref="/us/usc/t10/stA/ptII/ch83">83.</a>  </td>
 
     <td> Civilian Defense Intelligence Employees  </td>
 
-    <td> 1601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1601" data-uslm-ref="/us/usc/t10/s1601">1601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [85.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch85" data-uslm-ref="/us/usc/t10/stA/ptII/ch85">85.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -675,27 +675,27 @@ PART II—PERSONNEL  </td>
 
   <tr>
 
-    <td> 87.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch87" data-uslm-ref="/us/usc/t10/stA/ptII/ch87">87.</a>  </td>
 
     <td> Defense Acquisition Workforce  </td>
 
-    <td> 1701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1701" data-uslm-ref="/us/usc/t10/s1701">1701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 88.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch88" data-uslm-ref="/us/usc/t10/stA/ptII/ch88">88.</a>  </td>
 
     <td> Military Family Programs and Military Child Care  </td>
 
-    <td> 1781  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1781" data-uslm-ref="/us/usc/t10/s1781">1781</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [89.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch89" data-uslm-ref="/us/usc/t10/stA/ptII/ch89">89.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -711,131 +711,131 @@ PART III—TRAINING AND EDUCATION  </td>
 
   <tr>
 
-    <td> 101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch101" data-uslm-ref="/us/usc/t10/stA/ptIII/ch101">101.</a>  </td>
 
     <td> Training Generally  </td>
 
-    <td> 2001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2001" data-uslm-ref="/us/usc/t10/s2001">2001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch102" data-uslm-ref="/us/usc/t10/stA/ptIII/ch102">102.</a>  </td>
 
     <td> Junior Reserve Officers’ Training Corps  </td>
 
-    <td> 2031  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2031" data-uslm-ref="/us/usc/t10/s2031">2031</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch103" data-uslm-ref="/us/usc/t10/stA/ptIII/ch103">103.</a>  </td>
 
     <td> Senior Reserve Officers’ Training Corps  </td>
 
-    <td> 2101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2101" data-uslm-ref="/us/usc/t10/s2101">2101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch104" data-uslm-ref="/us/usc/t10/stA/ptIII/ch104">104.</a>  </td>
 
     <td> Uniformed Services University of the Health Sciences  </td>
 
-    <td> 2112  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2112" data-uslm-ref="/us/usc/t10/s2112">2112</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch105" data-uslm-ref="/us/usc/t10/stA/ptIII/ch105">105.</a>  </td>
 
     <td> Armed Forces Health Professions Financial Assistance Programs  </td>
 
-    <td> 2120  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2120" data-uslm-ref="/us/usc/t10/s2120">2120</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch106" data-uslm-ref="/us/usc/t10/stA/ptIII/ch106">106.</a>  </td>
 
     <td> Educational Assistance for Members of the Selected Reserve  </td>
 
-    <td> 2131  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2131" data-uslm-ref="/us/usc/t10/s2131">2131</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 106A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch106A" data-uslm-ref="/us/usc/t10/stA/ptIII/ch106A">106A.</a>  </td>
 
     <td> Educational Assistance for Persons Enlisting for Active Duty  </td>
 
-    <td> 2141  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2141" data-uslm-ref="/us/usc/t10/s2141">2141</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch107" data-uslm-ref="/us/usc/t10/stA/ptIII/ch107">107.</a>  </td>
 
     <td> Professional Military Education  </td>
 
-    <td> 2151  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2151" data-uslm-ref="/us/usc/t10/s2151">2151</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch108" data-uslm-ref="/us/usc/t10/stA/ptIII/ch108">108.</a>  </td>
 
     <td> Department of Defense Schools  </td>
 
-    <td> 2161  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2161" data-uslm-ref="/us/usc/t10/s2161">2161</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch109" data-uslm-ref="/us/usc/t10/stA/ptIII/ch109">109.</a>  </td>
 
     <td> Educational Loan Repayment Programs  </td>
 
-    <td> 2171  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2171" data-uslm-ref="/us/usc/t10/s2171">2171</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch110" data-uslm-ref="/us/usc/t10/stA/ptIII/ch110">110.</a>  </td>
 
     <td> Educational Assistance for Members Held as Captives and Their Dependents  </td>
 
-    <td> 2181  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2181" data-uslm-ref="/us/usc/t10/s2181">2181</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch111" data-uslm-ref="/us/usc/t10/stA/ptIII/ch111">111.</a>  </td>
 
     <td> Support of Science, Mathematics, and Engineering Education  </td>
 
-    <td> 2191  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2191" data-uslm-ref="/us/usc/t10/s2191">2191</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch112" data-uslm-ref="/us/usc/t10/stA/ptIII/ch112">112.</a>  </td>
 
     <td> Information Security Scholarship Program  </td>
 
-    <td> 2200  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2200" data-uslm-ref="/us/usc/t10/s2200">2200</a>  </td>
 
   </tr>
 
@@ -849,197 +849,197 @@ PART IV—SERVICE, SUPPLY, AND PROCUREMENT  </td>
 
   <tr>
 
-    <td> 131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch131" data-uslm-ref="/us/usc/t10/stA/ptIV/ch131">131.</a>  </td>
 
     <td> Planning and Coordination  </td>
 
-    <td> 2201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2201" data-uslm-ref="/us/usc/t10/s2201">2201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch133" data-uslm-ref="/us/usc/t10/stA/ptIV/ch133">133.</a>  </td>
 
     <td> Facilities for Reserve Components  </td>
 
-    <td> 2231  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2231" data-uslm-ref="/us/usc/t10/s2231">2231</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 134.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch134" data-uslm-ref="/us/usc/t10/stA/ptIV/ch134">134.</a>  </td>
 
     <td> Miscellaneous Administrative Provisions  </td>
 
-    <td> 2241  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2241" data-uslm-ref="/us/usc/t10/s2241">2241</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 135.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch135" data-uslm-ref="/us/usc/t10/stA/ptIV/ch135">135.</a>  </td>
 
     <td> Space Programs  </td>
 
-    <td> 2271  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2271" data-uslm-ref="/us/usc/t10/s2271">2271</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 136.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch136" data-uslm-ref="/us/usc/t10/stA/ptIV/ch136">136.</a>  </td>
 
     <td> Provisions Relating to Specific Programs  </td>
 
-    <td> 2281  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2281" data-uslm-ref="/us/usc/t10/s2281">2281</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 137.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch137" data-uslm-ref="/us/usc/t10/stA/ptIV/ch137">137.</a>  </td>
 
     <td> Procurement Generally  </td>
 
-    <td> 2301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2301" data-uslm-ref="/us/usc/t10/s2301">2301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 138.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch138" data-uslm-ref="/us/usc/t10/stA/ptIV/ch138">138.</a>  </td>
 
     <td> Cooperative Agreements with NATO Allies and Other Countries  </td>
 
-    <td> 2341  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2341" data-uslm-ref="/us/usc/t10/s2341">2341</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 139.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch139" data-uslm-ref="/us/usc/t10/stA/ptIV/ch139">139.</a>  </td>
 
     <td> Research and Development  </td>
 
-    <td> 2351  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2351" data-uslm-ref="/us/usc/t10/s2351">2351</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 140.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch140" data-uslm-ref="/us/usc/t10/stA/ptIV/ch140">140.</a>  </td>
 
     <td> Procurement of Commercial Items  </td>
 
-    <td> 2375  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2375" data-uslm-ref="/us/usc/t10/s2375">2375</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch141" data-uslm-ref="/us/usc/t10/stA/ptIV/ch141">141.</a>  </td>
 
     <td> Miscellaneous Procurement Provisions  </td>
 
-    <td> 2381  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2381" data-uslm-ref="/us/usc/t10/s2381">2381</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch142" data-uslm-ref="/us/usc/t10/stA/ptIV/ch142">142.</a>  </td>
 
     <td> Procurement Technical Assistance Cooperative Agreement Program  </td>
 
-    <td> 2411  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2411" data-uslm-ref="/us/usc/t10/s2411">2411</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch143" data-uslm-ref="/us/usc/t10/stA/ptIV/ch143">143.</a>  </td>
 
     <td> Production by Military Agencies  </td>
 
-    <td> 2421  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2421" data-uslm-ref="/us/usc/t10/s2421">2421</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch144" data-uslm-ref="/us/usc/t10/stA/ptIV/ch144">144.</a>  </td>
 
     <td> Major Defense Acquisition Programs  </td>
 
-    <td> 2430  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2430" data-uslm-ref="/us/usc/t10/s2430">2430</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 144A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch144A" data-uslm-ref="/us/usc/t10/stA/ptIV/ch144A">144A.</a>  </td>
 
     <td> Major Automated Information System Programs  </td>
 
-    <td> 2445a  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2445a" data-uslm-ref="/us/usc/t10/s2445a">2445a</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch145" data-uslm-ref="/us/usc/t10/stA/ptIV/ch145">145.</a>  </td>
 
     <td> Cataloging and Standardization  </td>
 
-    <td> 2451  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2451" data-uslm-ref="/us/usc/t10/s2451">2451</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 146.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch146" data-uslm-ref="/us/usc/t10/stA/ptIV/ch146">146.</a>  </td>
 
     <td> Contracting for Performance of Civilian Commercial or Industrial Type Functions  </td>
 
-    <td> 2460  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2460" data-uslm-ref="/us/usc/t10/s2460">2460</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 147.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch147" data-uslm-ref="/us/usc/t10/stA/ptIV/ch147">147.</a>  </td>
 
     <td> Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities  </td>
 
-    <td> 2481  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2481" data-uslm-ref="/us/usc/t10/s2481">2481</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 148.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch148" data-uslm-ref="/us/usc/t10/stA/ptIV/ch148">148.</a>  </td>
 
     <td> National Defense Technology and Industrial Base, Defense Reinvestment, and Defense Conversion  </td>
 
-    <td> 2500  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2500" data-uslm-ref="/us/usc/t10/s2500">2500</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 149.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch149" data-uslm-ref="/us/usc/t10/stA/ptIV/ch149">149.</a>  </td>
 
     <td> Defense Acquisition System  </td>
 
-    <td> 2545  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2545" data-uslm-ref="/us/usc/t10/s2545">2545</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [150.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch150" data-uslm-ref="/us/usc/t10/stA/ptIV/ch150">150.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -1049,97 +1049,97 @@ PART IV—SERVICE, SUPPLY, AND PROCUREMENT  </td>
 
   <tr>
 
-    <td> 152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch152" data-uslm-ref="/us/usc/t10/stA/ptIV/ch152">152.</a>  </td>
 
     <td> Issue of Supplies, Services, and Facilities  </td>
 
-    <td> 2551  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2551" data-uslm-ref="/us/usc/t10/s2551">2551</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch153" data-uslm-ref="/us/usc/t10/stA/ptIV/ch153">153.</a>  </td>
 
     <td> Exchange of Material and Disposal of Obsolete, Surplus, or Unclaimed Property  </td>
 
-    <td> 2571  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2571" data-uslm-ref="/us/usc/t10/s2571">2571</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch155" data-uslm-ref="/us/usc/t10/stA/ptIV/ch155">155.</a>  </td>
 
     <td> Acceptance of Gifts and Services  </td>
 
-    <td> 2601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2601" data-uslm-ref="/us/usc/t10/s2601">2601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 157.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch157" data-uslm-ref="/us/usc/t10/stA/ptIV/ch157">157.</a>  </td>
 
     <td> Transportation  </td>
 
-    <td> 2631  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2631" data-uslm-ref="/us/usc/t10/s2631">2631</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 159.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch159" data-uslm-ref="/us/usc/t10/stA/ptIV/ch159">159.</a>  </td>
 
     <td> Real Property; Related Personal Property; and Lease of Non-Excess Property  </td>
 
-    <td> 2661  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2661" data-uslm-ref="/us/usc/t10/s2661">2661</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 160.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch160" data-uslm-ref="/us/usc/t10/stA/ptIV/ch160">160.</a>  </td>
 
     <td> Environmental Restoration  </td>
 
-    <td> 2700  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2700" data-uslm-ref="/us/usc/t10/s2700">2700</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch161" data-uslm-ref="/us/usc/t10/stA/ptIV/ch161">161.</a>  </td>
 
     <td> Property Records and Report of Theft or Loss of Certain Property  </td>
 
-    <td> 2721  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2721" data-uslm-ref="/us/usc/t10/s2721">2721</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 163.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch163" data-uslm-ref="/us/usc/t10/stA/ptIV/ch163">163.</a>  </td>
 
     <td> Military Claims  </td>
 
-    <td> 2731  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2731" data-uslm-ref="/us/usc/t10/s2731">2731</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 165.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch165" data-uslm-ref="/us/usc/t10/stA/ptIV/ch165">165.</a>  </td>
 
     <td> Accountability and Responsibility  </td>
 
-    <td> 2771  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2771" data-uslm-ref="/us/usc/t10/s2771">2771</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [167.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch167" data-uslm-ref="/us/usc/t10/stA/ptIV/ch167">167.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -1149,17 +1149,17 @@ PART IV—SERVICE, SUPPLY, AND PROCUREMENT  </td>
 
   <tr>
 
-    <td> 169.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch169" data-uslm-ref="/us/usc/t10/stA/ptIV/ch169">169.</a>  </td>
 
     <td> Military Construction and Military Family Housing  </td>
 
-    <td> 2801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2801" data-uslm-ref="/us/usc/t10/s2801">2801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [171.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch171" data-uslm-ref="/us/usc/t10/stA/ptIV/ch171">171.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -1169,21 +1169,21 @@ PART IV—SERVICE, SUPPLY, AND PROCUREMENT  </td>
 
   <tr>
 
-    <td> 172.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch172" data-uslm-ref="/us/usc/t10/stA/ptIV/ch172">172.</a>  </td>
 
     <td> Strategic Environmental Research and Development Program  </td>
 
-    <td> 2901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2901" data-uslm-ref="/us/usc/t10/s2901">2901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 173.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch173" data-uslm-ref="/us/usc/t10/stA/ptIV/ch173">173.</a>  </td>
 
     <td> Energy Security  </td>
 
-    <td> 2911  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2911" data-uslm-ref="/us/usc/t10/s2911">2911</a>  </td>
 
   </tr>
 

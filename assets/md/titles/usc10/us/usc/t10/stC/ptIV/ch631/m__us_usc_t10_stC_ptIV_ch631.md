@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [7201 to 7203.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7201" data-uslm-ref="/us/usc/t10/s7201">7201</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7203" data-uslm-ref="/us/usc/t10/s7203">7203.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7204" data-uslm-ref="/us/usc/t10/s7204">7204.</a>  </td>
 
     <td> Schools near naval activities: financial aid.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7205" data-uslm-ref="/us/usc/t10/s7205">7205.</a>  </td>
 
     <td> Promotion of health and prevention of accidents.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [7206.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7206" data-uslm-ref="/us/usc/t10/s7206">7206.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7207" data-uslm-ref="/us/usc/t10/s7207">7207.</a>  </td>
 
     <td> Administration of liberated and occupied areas.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [7208 to 7210.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7208" data-uslm-ref="/us/usc/t10/s7208">7208</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7210" data-uslm-ref="/us/usc/t10/s7210">7210.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7211" data-uslm-ref="/us/usc/t10/s7211">7211.</a>  </td>
 
     <td> Attendance at meetings of technical, professional, or scientific organizations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7212" data-uslm-ref="/us/usc/t10/s7212">7212.</a>  </td>
 
     <td> Employment of outside architects and engineers.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> [7213.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7213" data-uslm-ref="/us/usc/t10/s7213">7213.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 7214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7214" data-uslm-ref="/us/usc/t10/s7214">7214.</a>  </td>
 
     <td> Apprehension of deserters and prisoners; operation of shore patrols.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> [7215.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7215" data-uslm-ref="/us/usc/t10/s7215">7215.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 7216.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7216" data-uslm-ref="/us/usc/t10/s7216">7216.</a>  </td>
 
     <td> Collection, preservation, and display of captured flags.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> [7217, 7218.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7217" data-uslm-ref="/us/usc/t10/s7217">7217</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7218" data-uslm-ref="/us/usc/t10/s7218">7218.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 7219.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7219" data-uslm-ref="/us/usc/t10/s7219">7219.</a>  </td>
 
     <td> Leases of waterfront property from States or municipalities.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 7220.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7220" data-uslm-ref="/us/usc/t10/s7220">7220.</a>  </td>
 
     <td> Gifts for welfare of enlisted members.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 7221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7221" data-uslm-ref="/us/usc/t10/s7221">7221.</a>  </td>
 
     <td> Acceptance and care of gifts to vessels.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 7222.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7222" data-uslm-ref="/us/usc/t10/s7222">7222.</a>  </td>
 
     <td> Naval Historical Center Fund: references to Fund.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 7223.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7223" data-uslm-ref="/us/usc/t10/s7223">7223.</a>  </td>
 
     <td> Acquisition of land for radio stations and for other purposes.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 7224.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7224" data-uslm-ref="/us/usc/t10/s7224">7224.</a>  </td>
 
     <td> Transportation on naval vessels during wartime.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 7225.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7225" data-uslm-ref="/us/usc/t10/s7225">7225.</a>  </td>
 
     <td> Navy Reserve flag.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 7226.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7226" data-uslm-ref="/us/usc/t10/s7226">7226.</a>  </td>
 
     <td> Navy Reserve yacht pennant.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 7227.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7227" data-uslm-ref="/us/usc/t10/s7227">7227.</a>  </td>
 
     <td> Foreign naval vessels and aircraft: supplies and services.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 7228.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7228" data-uslm-ref="/us/usc/t10/s7228">7228.</a>  </td>
 
     <td> Merchant vessels: supplies.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 7229.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7229" data-uslm-ref="/us/usc/t10/s7229">7229.</a>  </td>
 
     <td> Purchase of fuel.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> [7230.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7230" data-uslm-ref="/us/usc/t10/s7230">7230.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 7231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7231" data-uslm-ref="/us/usc/t10/s7231">7231.</a>  </td>
 
     <td> Accounting for expenditures for obtaining information.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 7233.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7233" data-uslm-ref="/us/usc/t10/s7233">7233.</a>  </td>
 
     <td> Auxiliary vessels: extended lease authority.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 7234.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7234" data-uslm-ref="/us/usc/t10/s7234">7234.</a>  </td>
 
     <td> Submarine safety programs: participation of NATO naval personnel.  </td>
 

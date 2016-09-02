@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8681.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8681" data-uslm-ref="/us/usc/t10/s8681">8681.</a>  </td>
 
     <td> Presentation of United States flag upon retirement.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [8682, 8683.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8682" data-uslm-ref="/us/usc/t10/s8682">8682</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8683" data-uslm-ref="/us/usc/t10/s8683">8683.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8684.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8684" data-uslm-ref="/us/usc/t10/s8684">8684.</a>  </td>
 
     <td> Service credit: regular enlisted members; service as an officer to be counted as enlisted service.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [8685 to 8690.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8685" data-uslm-ref="/us/usc/t10/s8685">8685</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8690" data-uslm-ref="/us/usc/t10/s8690">8690.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8691.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8691" data-uslm-ref="/us/usc/t10/s8691">8691.</a>  </td>
 
     <td> Flying officer rating: qualifications.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [8692, 8693.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8692" data-uslm-ref="/us/usc/t10/s8692">8692</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8693" data-uslm-ref="/us/usc/t10/s8693">8693.</a>  </td>
 
     <td> Repealed.]  </td>
 

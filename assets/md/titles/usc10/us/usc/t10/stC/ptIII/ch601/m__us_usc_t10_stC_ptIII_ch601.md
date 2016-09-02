@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [6901 to 6910.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6901" data-uslm-ref="/us/usc/t10/s6901">6901</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6910" data-uslm-ref="/us/usc/t10/s6910">6910.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6911" data-uslm-ref="/us/usc/t10/s6911">6911.</a>  </td>
 
     <td> Aviation cadets: grade; procurement; transfer.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6912" data-uslm-ref="/us/usc/t10/s6912">6912.</a>  </td>
 
     <td> Aviation cadets: benefits.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6913.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6913" data-uslm-ref="/us/usc/t10/s6913">6913.</a>  </td>
 
     <td> Aviation cadets: appointment as reserve officers.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [6914.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6914" data-uslm-ref="/us/usc/t10/s6914">6914.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6915.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6915" data-uslm-ref="/us/usc/t10/s6915">6915.</a>  </td>
 
     <td> Reserve student aviation pilots; reserve aviation pilots: appointments in commissioned grade.  </td>
 

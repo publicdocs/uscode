@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1121" data-uslm-ref="/us/usc/t10/s1121">1121.</a>  </td>
 
     <td> Legion of Merit: award.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1122" data-uslm-ref="/us/usc/t10/s1122">1122.</a>  </td>
 
     <td> Medal for Merit: award.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1123" data-uslm-ref="/us/usc/t10/s1123">1123.</a>  </td>
 
     <td> Right to wear badges of military societies.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1124" data-uslm-ref="/us/usc/t10/s1124">1124.</a>  </td>
 
     <td> Cash awards for disclosures, suggestions, inventions, and scientific achievements.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1125.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1125" data-uslm-ref="/us/usc/t10/s1125">1125.</a>  </td>
 
     <td> Recognition for accomplishments: award of trophies.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1126.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1126" data-uslm-ref="/us/usc/t10/s1126">1126.</a>  </td>
 
     <td> Gold star lapel button: eligibility and distribution.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1127.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1127" data-uslm-ref="/us/usc/t10/s1127">1127.</a>  </td>
 
     <td> Precedence of the award of the Purple Heart.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1128.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1128" data-uslm-ref="/us/usc/t10/s1128">1128.</a>  </td>
 
     <td> Prisoner-of-war medal: issue.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1129.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1129" data-uslm-ref="/us/usc/t10/s1129">1129.</a>  </td>
 
     <td> Purple Heart: members killed or wounded in action by friendly fire.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1130.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1130" data-uslm-ref="/us/usc/t10/s1130">1130.</a>  </td>
 
     <td> Consideration of proposals for decorations not previously submitted in timely fashion: procedures for review.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1131" data-uslm-ref="/us/usc/t10/s1131">1131.</a>  </td>
 
     <td> Purple Heart: limitation to members of the armed forces.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1132" data-uslm-ref="/us/usc/t10/s1132">1132.</a>  </td>
 
     <td> Presentation of decorations: prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent felonies.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1133" data-uslm-ref="/us/usc/t10/s1133">1133.</a>  </td>
 
     <td> Bronze Star: limitation on persons eligible to receive.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1134.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1134" data-uslm-ref="/us/usc/t10/s1134">1134.</a>  </td>
 
     <td> Medal of honor: award to individual interred in Tomb of the Unknowns as representative of casualties of a war.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1135.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1135" data-uslm-ref="/us/usc/t10/s1135">1135.</a>  </td>
 
     <td> Replacement of military decorations.  </td>
 

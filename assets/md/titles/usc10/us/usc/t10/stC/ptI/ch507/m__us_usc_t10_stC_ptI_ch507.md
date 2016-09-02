@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5061.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5061" data-uslm-ref="/us/usc/t10/s5061">5061.</a>  </td>
 
     <td> Department of the Navy: composition.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5062.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5062" data-uslm-ref="/us/usc/t10/s5062">5062.</a>  </td>
 
     <td> United States Navy: composition; functions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5063.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5063" data-uslm-ref="/us/usc/t10/s5063">5063.</a>  </td>
 
     <td> United States Marine Corps: composition; functions.  </td>
 

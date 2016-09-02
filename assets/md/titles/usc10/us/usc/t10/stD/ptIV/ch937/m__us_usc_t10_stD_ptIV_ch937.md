@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9591.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9591" data-uslm-ref="/us/usc/t10/s9591">9591.</a>  </td>
 
     <td> Utilities: proceeds from overseas operations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9592.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9592" data-uslm-ref="/us/usc/t10/s9592">9592.</a>  </td>
 
     <td> Radiograms and telegrams: forwarding charges due connecting commercial facilities.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9593.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9593" data-uslm-ref="/us/usc/t10/s9593">9593.</a>  </td>
 
     <td> Quarters: heat and light.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9594.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9594" data-uslm-ref="/us/usc/t10/s9594">9594.</a>  </td>
 
     <td> Air Force Military History Institute: fee for providing historical information to the public.  </td>
 

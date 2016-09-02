@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7601" data-uslm-ref="/us/usc/t10/s7601">7601.</a>  </td>
 
     <td> Sales: members of the naval service and Coast Guard; widows and widowers; civilian employees and other persons.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7602" data-uslm-ref="/us/usc/t10/s7602">7602.</a>  </td>
 
     <td> Sales: members of Army and Air Force; prices.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7603" data-uslm-ref="/us/usc/t10/s7603">7603.</a>  </td>
 
     <td> Sales: veterans under treatment.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7604" data-uslm-ref="/us/usc/t10/s7604">7604.</a>  </td>
 
     <td> Ships’ stores: sale of goods and services.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7605" data-uslm-ref="/us/usc/t10/s7605">7605.</a>  </td>
 
     <td> Acceptance of Government checks outside the United States.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7606" data-uslm-ref="/us/usc/t10/s7606">7606.</a>  </td>
 
     <td> Subsistence and other supplies: members of armed forces; veterans; executive or military departments and employees; prices.  </td>
 

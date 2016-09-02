@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1521" data-uslm-ref="/us/usc/t10/s1521">1521.</a>  </td>
 
     <td> Posthumous commissions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1522" data-uslm-ref="/us/usc/t10/s1522">1522.</a>  </td>
 
     <td> Posthumous warrants.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1523" data-uslm-ref="/us/usc/t10/s1523">1523.</a>  </td>
 
     <td> Posthumous commissions and warrants: effect on pay and allowances.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1524" data-uslm-ref="/us/usc/t10/s1524">1524.</a>  </td>
 
     <td> Posthumous commissions and warrants: determination of date of death.  </td>
 

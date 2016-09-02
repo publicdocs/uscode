@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [8201 to 8209.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8201" data-uslm-ref="/us/usc/t10/s8201">8201</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8209" data-uslm-ref="/us/usc/t10/s8209">8209.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8210.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8210" data-uslm-ref="/us/usc/t10/s8210">8210.</a>  </td>
 
     <td> Regular Air Force: strength in grade; general officers.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [8211 to 8230.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8211" data-uslm-ref="/us/usc/t10/s8211">8211</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8230" data-uslm-ref="/us/usc/t10/s8230">8230.</a>  </td>
 
     <td> Repealed.]  </td>
 

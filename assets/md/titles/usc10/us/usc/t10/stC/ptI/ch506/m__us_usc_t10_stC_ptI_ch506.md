@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5041.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5041" data-uslm-ref="/us/usc/t10/s5041">5041.</a>  </td>
 
     <td> Headquarters, Marine Corps: function; composition.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5042.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5042" data-uslm-ref="/us/usc/t10/s5042">5042.</a>  </td>
 
     <td> Headquarters, Marine Corps: general duties.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5043.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5043" data-uslm-ref="/us/usc/t10/s5043">5043.</a>  </td>
 
     <td> Commandant of the Marine Corps.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5044.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5044" data-uslm-ref="/us/usc/t10/s5044">5044.</a>  </td>
 
     <td> Assistant Commandant of the Marine Corps.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5045.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5045" data-uslm-ref="/us/usc/t10/s5045">5045.</a>  </td>
 
     <td> Deputy Commandants.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5046.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5046" data-uslm-ref="/us/usc/t10/s5046">5046.</a>  </td>
 
     <td> Staff Judge Advocate to the Commandant of the Marine Corps.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5047.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5047" data-uslm-ref="/us/usc/t10/s5047">5047.</a>  </td>
 
     <td> Legislative Assistant to the Commandant.  </td>
 

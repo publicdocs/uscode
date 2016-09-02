@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 949p–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949p%E2%80%931" data-uslm-ref="/us/usc/t10/s949p–1">949p–1.</a>  </td>
 
     <td> Protection of classified information: applicability of subchapter.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 949p–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949p%E2%80%932" data-uslm-ref="/us/usc/t10/s949p–2">949p–2.</a>  </td>
 
     <td> Pretrial conference.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 949p–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949p%E2%80%933" data-uslm-ref="/us/usc/t10/s949p–3">949p–3.</a>  </td>
 
     <td> Protective orders.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 949p–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949p%E2%80%934" data-uslm-ref="/us/usc/t10/s949p–4">949p–4.</a>  </td>
 
     <td> Discovery of, and access to, classified information by the accused.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 949p–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949p%E2%80%935" data-uslm-ref="/us/usc/t10/s949p–5">949p–5.</a>  </td>
 
     <td> Notice by accused of intention to disclose classified information.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 949p–6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949p%E2%80%936" data-uslm-ref="/us/usc/t10/s949p–6">949p–6.</a>  </td>
 
     <td> Procedure for cases involving classified information.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 949p–7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949p%E2%80%937" data-uslm-ref="/us/usc/t10/s949p–7">949p–7.</a>  </td>
 
     <td> Introduction of classified information into evidence.  </td>
 

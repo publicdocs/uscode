@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6931.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6931" data-uslm-ref="/us/usc/t10/s6931">6931.</a>  </td>
 
     <td> Recruit basic training: separate housing for male and female recruits.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6932.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6932" data-uslm-ref="/us/usc/t10/s6932">6932.</a>  </td>
 
     <td> Recruit basic training: privacy.  </td>
 

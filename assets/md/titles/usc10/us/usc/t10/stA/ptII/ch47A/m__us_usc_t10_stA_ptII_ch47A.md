@@ -29,81 +29,81 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch47A%2FschI" data-uslm-ref="/us/usc/t10/stA/ptII/ch47A/schI">I.</a>  </td>
 
     <td> General Provisions  </td>
 
-    <td> 948a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs948a" data-uslm-ref="/us/usc/t10/s948a">948a.</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch47A%2FschII" data-uslm-ref="/us/usc/t10/stA/ptII/ch47A/schII">II.</a>  </td>
 
     <td> Composition of Military Commissions  </td>
 
-    <td> 948h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs948h" data-uslm-ref="/us/usc/t10/s948h">948h.</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch47A%2FschIII" data-uslm-ref="/us/usc/t10/stA/ptII/ch47A/schIII">III.</a>  </td>
 
     <td> Pre-Trial Procedure  </td>
 
-    <td> 948q.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs948q" data-uslm-ref="/us/usc/t10/s948q">948q.</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch47A%2FschIV" data-uslm-ref="/us/usc/t10/stA/ptII/ch47A/schIV">IV.</a>  </td>
 
     <td> Trial Procedure  </td>
 
-    <td> 949a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949a" data-uslm-ref="/us/usc/t10/s949a">949a.</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> V.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch47A%2FschV" data-uslm-ref="/us/usc/t10/stA/ptII/ch47A/schV">V.</a>  </td>
 
     <td> Classified Information Procedures  </td>
 
-    <td> 949p–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949p%E2%80%931" data-uslm-ref="/us/usc/t10/s949p–1">949p–1.</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> VI.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch47A%2FschVI" data-uslm-ref="/us/usc/t10/stA/ptII/ch47A/schVI">VI.</a>  </td>
 
     <td> Sentences  </td>
 
-    <td> 949s.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949s" data-uslm-ref="/us/usc/t10/s949s">949s.</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> VII.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch47A%2FschVII" data-uslm-ref="/us/usc/t10/stA/ptII/ch47A/schVII">VII.</a>  </td>
 
     <td> Post-Trial Procedures and Review of Military Commissions  <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to subchapter heading. </sup></sup>   </td>
 
-    <td> 950a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs950a" data-uslm-ref="/us/usc/t10/s950a">950a.</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> VIII.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch47A%2FschVIII" data-uslm-ref="/us/usc/t10/stA/ptII/ch47A/schVIII">VIII.</a>  </td>
 
     <td> Punitive Matters  </td>
 
-    <td> 950p.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs950p" data-uslm-ref="/us/usc/t10/s950p">950p.</a>  </td>
 
   </tr>
 

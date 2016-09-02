@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7361" data-uslm-ref="/us/usc/t10/s7361">7361.</a>  </td>
 
     <td> Authority to provide for necessary salvage facilities.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7362" data-uslm-ref="/us/usc/t10/s7362">7362.</a>  </td>
 
     <td> Acquisition and transfer of vessels and equipment.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7363" data-uslm-ref="/us/usc/t10/s7363">7363.</a>  </td>
 
     <td> Settlement of claims.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7364.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7364" data-uslm-ref="/us/usc/t10/s7364">7364.</a>  </td>
 
     <td> Disposition of receipts.  </td>
 

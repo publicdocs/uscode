@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 18231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs18231" data-uslm-ref="/us/usc/t10/s18231">18231.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 18232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs18232" data-uslm-ref="/us/usc/t10/s18232">18232.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 18233.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs18233" data-uslm-ref="/us/usc/t10/s18233">18233.</a>  </td>
 
     <td> Acquisition.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 18233a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs18233a" data-uslm-ref="/us/usc/t10/s18233a">18233a.</a>  </td>
 
     <td> Notice and wait requirements for certain projects.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 18233b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs18233b" data-uslm-ref="/us/usc/t10/s18233b">18233b.</a>  </td>
 
     <td> Authority to carry out small projects with operation and maintenance funds.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 18234.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs18234" data-uslm-ref="/us/usc/t10/s18234">18234.</a>  </td>
 
     <td> Location and use.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 18235.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs18235" data-uslm-ref="/us/usc/t10/s18235">18235.</a>  </td>
 
     <td> Administration; other use permitted by Secretary.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 18236.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs18236" data-uslm-ref="/us/usc/t10/s18236">18236.</a>  </td>
 
     <td> Contributions to States; other use permitted by States.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 18237.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs18237" data-uslm-ref="/us/usc/t10/s18237">18237.</a>  </td>
 
     <td> Supervision of construction: compliance with State law.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 18238.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs18238" data-uslm-ref="/us/usc/t10/s18238">18238.</a>  </td>
 
     <td> Army National Guard of United States; Air National Guard of United States: limitation on relocation of units.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 18239.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs18239" data-uslm-ref="/us/usc/t10/s18239">18239.</a>  </td>
 
     <td> Waiver of certain restrictions.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 18240.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs18240" data-uslm-ref="/us/usc/t10/s18240">18240.</a>  </td>
 
     <td> Acquisition of facilities by exchange.  </td>
 

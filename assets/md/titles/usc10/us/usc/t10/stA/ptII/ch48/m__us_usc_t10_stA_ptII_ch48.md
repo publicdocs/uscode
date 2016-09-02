@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 951.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs951" data-uslm-ref="/us/usc/t10/s951">951.</a>  </td>
 
     <td> Establishment; organization; administration.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 952.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs952" data-uslm-ref="/us/usc/t10/s952">952.</a>  </td>
 
     <td> Parole.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 953.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs953" data-uslm-ref="/us/usc/t10/s953">953.</a>  </td>
 
     <td> Remission or suspension of sentence; restoration to duty; reenlistment.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 954.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs954" data-uslm-ref="/us/usc/t10/s954">954.</a>  </td>
 
     <td> Voluntary extension; probation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 955.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs955" data-uslm-ref="/us/usc/t10/s955">955.</a>  </td>
 
     <td> Prisoners transferred to or from foreign countries.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 956.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs956" data-uslm-ref="/us/usc/t10/s956">956.</a>  </td>
 
     <td> Deserters, prisoners, members absent without leave: expenses and rewards.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3991.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3991" data-uslm-ref="/us/usc/t10/s3991">3991.</a>  </td>
 
     <td> Computation of retired pay.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3992.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3992" data-uslm-ref="/us/usc/t10/s3992">3992.</a>  </td>
 
     <td> Recomputation of retired pay to reflect advancement on retired list.  </td>
 

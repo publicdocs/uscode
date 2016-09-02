@@ -533,7 +533,9 @@
 
 >     The guidance issued under subsection (a) shall apply to each exceptional case exception or waiver that is granted on or after the date on which the guidance is issued.
 
->     “(d) __Annual Report on Both Commercial Item and Exceptional Case Exceptions and Waivers.—(1) The Secretary of Defense shall transmit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] promptly after the end of each fiscal year a report on commercial item exceptions, and exceptional case exceptions and waivers, described in paragraph (2) that were granted during that fiscal year.__ 
+>     “(d) __Annual Report on Both Commercial Item and Exceptional Case Exceptions and Waivers.—__ 
+
+>         (1) The Secretary of Defense shall transmit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] promptly after the end of each fiscal year a report on commercial item exceptions, and exceptional case exceptions and waivers, described in paragraph (2) that were granted during that fiscal year.
 
 >         “(2)
 

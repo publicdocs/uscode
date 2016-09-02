@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 627.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs627" data-uslm-ref="/us/usc/t10/s627">627.</a>  </td>
 
     <td> Failure of selection for promotion.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 628.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs628" data-uslm-ref="/us/usc/t10/s628">628.</a>  </td>
 
     <td> Special selection boards.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 629.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs629" data-uslm-ref="/us/usc/t10/s629">629.</a>  </td>
 
     <td> Removal from a list of officers recommended for promotion.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 630.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs630" data-uslm-ref="/us/usc/t10/s630">630.</a>  </td>
 
     <td> Discharge of commissioned officers with less than six years of active commissioned service or found not qualified for promotion for first lieutenant or lieutenant (junior grade).  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs631" data-uslm-ref="/us/usc/t10/s631">631.</a>  </td>
 
     <td> Effect of failure of selection for promotion: first lieutenants and lieutenants (junior grade).  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 632.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs632" data-uslm-ref="/us/usc/t10/s632">632.</a>  </td>
 
     <td> Effect of failure of selection for promotion: captains and majors of the Army, Air Force, and Marine Corps and lieutenants and lieutenant commanders of the Navy.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 633.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs633" data-uslm-ref="/us/usc/t10/s633">633.</a>  </td>
 
     <td> Retirement for years of service: regular lieutenant colonels and commanders.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 634.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs634" data-uslm-ref="/us/usc/t10/s634">634.</a>  </td>
 
     <td> Retirement for years of service: regular colonels and Navy captains.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 635.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs635" data-uslm-ref="/us/usc/t10/s635">635.</a>  </td>
 
     <td> Retirement for years of service: regular brigadier generals and rear admirals (lower half).  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 636.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs636" data-uslm-ref="/us/usc/t10/s636">636.</a>  </td>
 
     <td> Retirement for years of service: regular officers in grades above brigadier general and rear admiral (lower half).  </td>
 

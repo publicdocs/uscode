@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs421" data-uslm-ref="/us/usc/t10/s421">421.</a>  </td>
 
     <td> Funds for foreign cryptologic support.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs422" data-uslm-ref="/us/usc/t10/s422">422.</a>  </td>
 
     <td> Use of funds for certain incidental purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs423" data-uslm-ref="/us/usc/t10/s423">423.</a>  </td>
 
     <td> Authority to use proceeds from counterintelligence operations of the military departments or the Defense Intelligence Agency.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs424" data-uslm-ref="/us/usc/t10/s424">424.</a>  </td>
 
     <td> Disclosure of organizational and personnel information: exemption for specified intelligence agencies.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs425" data-uslm-ref="/us/usc/t10/s425">425.</a>  </td>
 
     <td> Prohibition of unauthorized use of name, initials, or seal: specified intelligence agencies.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 426.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs426" data-uslm-ref="/us/usc/t10/s426">426.</a>  </td>
 
     <td> Integration of Department of Defense intelligence, surveillance, and reconnaissance capabilities.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [427.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs427" data-uslm-ref="/us/usc/t10/s427">427.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 428.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs428" data-uslm-ref="/us/usc/t10/s428">428.</a>  </td>
 
     <td> Defense industrial security.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 429.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs429" data-uslm-ref="/us/usc/t10/s429">429.</a>  </td>
 
     <td> Appropriations for Defense intelligence elements: accounts for transfers; transfer authority.  </td>
 

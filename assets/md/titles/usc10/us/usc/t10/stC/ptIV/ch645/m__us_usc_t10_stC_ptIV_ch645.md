@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [7521.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7521" data-uslm-ref="/us/usc/t10/s7521">7521.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7522" data-uslm-ref="/us/usc/t10/s7522">7522.</a>  </td>
 
     <td> Contracts for research.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7523" data-uslm-ref="/us/usc/t10/s7523">7523.</a>  </td>
 
     <td> Tolls and fares: payment or reimbursement.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7524" data-uslm-ref="/us/usc/t10/s7524">7524.</a>  </td>
 
     <td> Marine mammals: use for national defense purposes.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 480.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs480" data-uslm-ref="/us/usc/t10/s480">480.</a>  </td>
 
     <td> Reports to Congress: submission in electronic form.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs481" data-uslm-ref="/us/usc/t10/s481">481.</a>  </td>
 
     <td> Racial and ethnic issues; gender issues: surveys.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 482.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs482" data-uslm-ref="/us/usc/t10/s482">482.</a>  </td>
 
     <td> Quarterly reports: personnel and unit readiness.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 483.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs483" data-uslm-ref="/us/usc/t10/s483">483.</a>  </td>
 
     <td> Reports on transfers from high-priority readiness appropriations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 484.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs484" data-uslm-ref="/us/usc/t10/s484">484.</a>  </td>
 
     <td> Quarterly cyber operations briefings.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [485 to 487.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs485" data-uslm-ref="/us/usc/t10/s485">485</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs487" data-uslm-ref="/us/usc/t10/s487">487.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 488.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs488" data-uslm-ref="/us/usc/t10/s488">488.</a>  </td>
 
     <td> Management of electromagnetic spectrum: biennial strategic plan.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 489.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs489" data-uslm-ref="/us/usc/t10/s489">489.</a>  </td>
 
     <td> Annual report on Department of Defense operation and financial support for military museums.  </td>
 
@@ -89,7 +89,9 @@
 
   <tr>
 
-    <td> [490 to 491. Repealed or Renumbered.]  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs490" data-uslm-ref="/us/usc/t10/s490">490</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs491" data-uslm-ref="/us/usc/t10/s491">491.</a>  </td>
+
+    <td> Repealed or Renumbered.]  </td>
 
   </tr>
 

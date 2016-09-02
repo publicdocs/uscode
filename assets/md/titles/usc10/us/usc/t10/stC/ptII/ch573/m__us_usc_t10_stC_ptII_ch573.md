@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6371" data-uslm-ref="/us/usc/t10/s6371">6371.</a>  </td>
 
     <td> Mandatory retirement: Superintendent of the United States Naval Academy; waiver authority.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [6372 to 6382.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6372" data-uslm-ref="/us/usc/t10/s6372">6372</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6382" data-uslm-ref="/us/usc/t10/s6382">6382.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6383.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6383" data-uslm-ref="/us/usc/t10/s6383">6383.</a>  </td>
 
     <td> Regular Navy and Regular Marine Corps; officers designated for limited duty: retirement for length of service or failures of selection for promotion; discharge for failures of selection for promotion; reversion to prior status; retired grade; retired pay.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [6384 to 6388.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6384" data-uslm-ref="/us/usc/t10/s6384">6384</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6388" data-uslm-ref="/us/usc/t10/s6388">6388.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6389.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6389" data-uslm-ref="/us/usc/t10/s6389">6389.</a>  </td>
 
     <td> Navy Reserve and Marine Corps Reserve; officers: elimination from active status; computation of total commissioned service.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [6390 to 6403.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6390" data-uslm-ref="/us/usc/t10/s6390">6390</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6403" data-uslm-ref="/us/usc/t10/s6403">6403.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6404" data-uslm-ref="/us/usc/t10/s6404">6404.</a>  </td>
 
     <td> Treatment of fractions of years of service in computing retired pay and separation pay.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> [6405 to 6407.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6405" data-uslm-ref="/us/usc/t10/s6405">6405</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6407" data-uslm-ref="/us/usc/t10/s6407">6407.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 6408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6408" data-uslm-ref="/us/usc/t10/s6408">6408.</a>  </td>
 
     <td> Navy and Marine Corps; warrant officers, W–1: limitation on dismissal.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [6409, 6410.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6409" data-uslm-ref="/us/usc/t10/s6409">6409</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6410" data-uslm-ref="/us/usc/t10/s6410">6410.</a>  </td>
 
     <td> Repealed.]  </td>
 

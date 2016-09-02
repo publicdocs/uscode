@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [8811 to 8816.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8811" data-uslm-ref="/us/usc/t10/s8811">8811</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8816" data-uslm-ref="/us/usc/t10/s8816">8816.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8817.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8817" data-uslm-ref="/us/usc/t10/s8817">8817.</a>  </td>
 
     <td> Aviation cadets: discharge.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [8818 to 8820.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8818" data-uslm-ref="/us/usc/t10/s8818">8818</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8820" data-uslm-ref="/us/usc/t10/s8820">8820.</a>  </td>
 
     <td> Repealed.]  </td>
 

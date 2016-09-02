@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2801" data-uslm-ref="/us/usc/t10/s2801">2801.</a>  </td>
 
     <td> Scope of chapter; definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2802" data-uslm-ref="/us/usc/t10/s2802">2802.</a>  </td>
 
     <td> Military construction projects.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2803" data-uslm-ref="/us/usc/t10/s2803">2803.</a>  </td>
 
     <td> Emergency construction.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2804" data-uslm-ref="/us/usc/t10/s2804">2804.</a>  </td>
 
     <td> Contingency construction.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2805" data-uslm-ref="/us/usc/t10/s2805">2805.</a>  </td>
 
     <td> Unspecified minor construction.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2806" data-uslm-ref="/us/usc/t10/s2806">2806.</a>  </td>
 
     <td> Contributions for North Atlantic Treaty Organizations Security Investment.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2807" data-uslm-ref="/us/usc/t10/s2807">2807.</a>  </td>
 
     <td> Architectural and engineering services and construction design.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2808.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2808" data-uslm-ref="/us/usc/t10/s2808">2808.</a>  </td>
 
     <td> Construction authority in the event of a declaration of war or national emergency.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2809.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2809" data-uslm-ref="/us/usc/t10/s2809">2809.</a>  </td>
 
     <td> Long-term facilities contracts for certain activities and services.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [2810.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2810" data-uslm-ref="/us/usc/t10/s2810">2810.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2811.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2811" data-uslm-ref="/us/usc/t10/s2811">2811.</a>  </td>
 
     <td> Repair of facilities.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2812.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2812" data-uslm-ref="/us/usc/t10/s2812">2812.</a>  </td>
 
     <td> Lease-purchase of facilities.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2813.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2813" data-uslm-ref="/us/usc/t10/s2813">2813.</a>  </td>
 
     <td> Acquisition of existing facilities in lieu of authorized construction.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2814.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2814" data-uslm-ref="/us/usc/t10/s2814">2814.</a>  </td>
 
     <td> Special authority for development of Ford Island, Hawaii.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> [2815.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2815" data-uslm-ref="/us/usc/t10/s2815">2815.</a>  </td>
 
     <td> Repealed.]  </td>
 

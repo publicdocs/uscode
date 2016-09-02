@@ -29,51 +29,51 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch36%2FschI" data-uslm-ref="/us/usc/t10/stA/ptII/ch36/schI">I.</a>  </td>
 
     <td> Selection Boards  </td>
 
-    <td> 611  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs611" data-uslm-ref="/us/usc/t10/s611">611</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch36%2FschII" data-uslm-ref="/us/usc/t10/stA/ptII/ch36/schII">II.</a>  </td>
 
     <td> Promotions  </td>
 
-    <td> 619  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs619" data-uslm-ref="/us/usc/t10/s619">619</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch36%2FschIII" data-uslm-ref="/us/usc/t10/stA/ptII/ch36/schIII">III.</a>  </td>
 
     <td> Failure of Selection for Promotion and Retirement for Years of Service  </td>
 
-    <td> 627  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs627" data-uslm-ref="/us/usc/t10/s627">627</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch36%2FschIV" data-uslm-ref="/us/usc/t10/stA/ptII/ch36/schIV">IV.</a>  </td>
 
     <td> Continuation on Active Duty and Selective Early Retirement  </td>
 
-    <td> 637  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs637" data-uslm-ref="/us/usc/t10/s637">637</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> V.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch36%2FschV" data-uslm-ref="/us/usc/t10/stA/ptII/ch36/schV">V.</a>  </td>
 
     <td> Additional Provisions Relating to Promotion, Separation, and Retirement  </td>
 
-    <td> 641  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs641" data-uslm-ref="/us/usc/t10/s641">641</a>  </td>
 
   </tr>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2141" data-uslm-ref="/us/usc/t10/s2141">2141.</a>  </td>
 
     <td> Educational assistance program: establishment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2142" data-uslm-ref="/us/usc/t10/s2142">2142.</a>  </td>
 
     <td> Educational assistance program: eligibility.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2143" data-uslm-ref="/us/usc/t10/s2143">2143.</a>  </td>
 
     <td> Educational assistance: amount.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2144" data-uslm-ref="/us/usc/t10/s2144">2144.</a>  </td>
 
     <td> Subsistence allowance.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2145" data-uslm-ref="/us/usc/t10/s2145">2145.</a>  </td>
 
     <td> Adjustments of amount of educational assistance and of subsistence allowance.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2146.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2146" data-uslm-ref="/us/usc/t10/s2146">2146.</a>  </td>
 
     <td> Right of member upon subsequent reenlistment to lump-sum payment in lieu of educational assistance.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2147.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2147" data-uslm-ref="/us/usc/t10/s2147">2147.</a>  </td>
 
     <td> Right of member after reenlisting to transfer entitlement to spouse or dependent children.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2148.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2148" data-uslm-ref="/us/usc/t10/s2148">2148.</a>  </td>
 
     <td> Duration of entitlement.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2149.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2149" data-uslm-ref="/us/usc/t10/s2149">2149.</a>  </td>
 
     <td> Applications for educational assistance.  </td>
 

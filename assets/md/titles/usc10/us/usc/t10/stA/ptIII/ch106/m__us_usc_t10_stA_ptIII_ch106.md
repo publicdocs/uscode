@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2131" data-uslm-ref="/us/usc/t10/s2131">2131.</a>  </td>
 
     <td> Reference to chapter 1606.  </td>
 
@@ -33,15 +33,15 @@
 
   <tr>
 
-    <td> [2132 to 2137. Renumbered.]  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2132" data-uslm-ref="/us/usc/t10/s2132">2132</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2137" data-uslm-ref="/us/usc/t10/s2137">2137.</a>  </td>
 
-    <td>   </td>
+    <td> Renumbered.]  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2138.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2138" data-uslm-ref="/us/usc/t10/s2138">2138.</a>  </td>
 
     <td> Savings provision.  </td>
 

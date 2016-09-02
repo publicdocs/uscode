@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 641.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs641" data-uslm-ref="/us/usc/t10/s641">641.</a>  </td>
 
     <td> Applicability of chapter.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 642.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs642" data-uslm-ref="/us/usc/t10/s642">642.</a>  </td>
 
     <td> Entitlement of officers discharged or retired under this chapter to separation pay or retired pay.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 643.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs643" data-uslm-ref="/us/usc/t10/s643">643.</a>  </td>
 
     <td> Chaplains: discharge or retirement upon loss of professional qualifications.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [644.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs644" data-uslm-ref="/us/usc/t10/s644">644.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 645.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs645" data-uslm-ref="/us/usc/t10/s645">645.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 646.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs646" data-uslm-ref="/us/usc/t10/s646">646.</a>  </td>
 
     <td> Consideration of performance as a member of the Joint Staff.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 647.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs647" data-uslm-ref="/us/usc/t10/s647">647.</a>  </td>
 
     <td> Force shaping authority.  </td>
 

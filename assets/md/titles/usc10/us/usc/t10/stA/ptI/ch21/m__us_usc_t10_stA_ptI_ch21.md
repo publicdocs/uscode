@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch21%2FschI" data-uslm-ref="/us/usc/t10/stA/ptI/ch21/schI">I.</a>  </td>
 
     <td> General Matters  </td>
 
-    <td> 421  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs421" data-uslm-ref="/us/usc/t10/s421">421</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch21%2FschII" data-uslm-ref="/us/usc/t10/stA/ptI/ch21/schII">II.</a>  </td>
 
     <td> Intelligence Commercial Activities  </td>
 
-    <td> 431  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs431" data-uslm-ref="/us/usc/t10/s431">431</a>  </td>
 
   </tr>
 

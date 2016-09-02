@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7541" data-uslm-ref="/us/usc/t10/s7541">7541.</a>  </td>
 
     <td> Obsolete and other material: gift or sale to Boy Scouts of America, Naval Sea Cadet Corps and Young Marines of the Marine Corps League.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7541a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7541a" data-uslm-ref="/us/usc/t10/s7541a">7541a.</a>  </td>
 
     <td> Uniform clothing: sale to Naval Sea Cadet Corps.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7541b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7541b" data-uslm-ref="/us/usc/t10/s7541b">7541b.</a>  </td>
 
     <td> Authority to make grants for purposes of Naval Sea Cadet Corps.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7542" data-uslm-ref="/us/usc/t10/s7542">7542.</a>  </td>
 
     <td> Excess clothing: sale for distribution to needy.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7543" data-uslm-ref="/us/usc/t10/s7543">7543.</a>  </td>
 
     <td> Useless ordnance material: disposition of proceeds on sale.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7544.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7544" data-uslm-ref="/us/usc/t10/s7544">7544.</a>  </td>
 
     <td> Devices and trophies: transfer to other agencies.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7545.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7545" data-uslm-ref="/us/usc/t10/s7545">7545.</a>  </td>
 
     <td> Obsolete material and articles of historical interest: loan or gift.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7546.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7546" data-uslm-ref="/us/usc/t10/s7546">7546.</a>  </td>
 
     <td> Loan or gift of articles to ships’ sponsors and donors.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 7547.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7547" data-uslm-ref="/us/usc/t10/s7547">7547.</a>  </td>
 
     <td> Equipment for instruction in seamanship: loan to military schools.  </td>
 

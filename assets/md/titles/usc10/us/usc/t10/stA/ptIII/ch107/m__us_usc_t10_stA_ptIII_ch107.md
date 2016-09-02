@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2151" data-uslm-ref="/us/usc/t10/s2151">2151.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2152" data-uslm-ref="/us/usc/t10/s2152">2152.</a>  </td>
 
     <td> Joint professional military education: general requirements.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2153" data-uslm-ref="/us/usc/t10/s2153">2153.</a>  </td>
 
     <td> Capstone course: newly selected general and flag officers.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2154" data-uslm-ref="/us/usc/t10/s2154">2154.</a>  </td>
 
     <td> Joint professional military education: three-phase approach.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2155" data-uslm-ref="/us/usc/t10/s2155">2155.</a>  </td>
 
     <td> Joint professional military education Phase II program of instruction.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2156.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2156" data-uslm-ref="/us/usc/t10/s2156">2156.</a>  </td>
 
     <td> Joint Forces Staff College: duration of principal course of instruction.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2157.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2157" data-uslm-ref="/us/usc/t10/s2157">2157.</a>  </td>
 
     <td> Annual report to Congress.  </td>
 

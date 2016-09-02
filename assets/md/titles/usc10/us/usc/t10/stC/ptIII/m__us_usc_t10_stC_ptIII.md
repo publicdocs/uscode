@@ -29,61 +29,61 @@
 
   <tr>
 
-    <td> 601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIII%2Fch601" data-uslm-ref="/us/usc/t10/stC/ptIII/ch601">601.</a>  </td>
 
     <td> Officer Procurement Programs  </td>
 
-    <td> 6901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6901" data-uslm-ref="/us/usc/t10/s6901">6901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIII%2Fch602" data-uslm-ref="/us/usc/t10/stC/ptIII/ch602">602.</a>  </td>
 
     <td> Training Generally  </td>
 
-    <td> 6931  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6931" data-uslm-ref="/us/usc/t10/s6931">6931</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIII%2Fch603" data-uslm-ref="/us/usc/t10/stC/ptIII/ch603">603.</a>  </td>
 
     <td> United States Naval Academy  </td>
 
-    <td> 6951  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6951" data-uslm-ref="/us/usc/t10/s6951">6951</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIII%2Fch605" data-uslm-ref="/us/usc/t10/stC/ptIII/ch605">605.</a>  </td>
 
     <td> United States Naval Postgraduate School  </td>
 
-    <td> 7041  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7041" data-uslm-ref="/us/usc/t10/s7041">7041</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIII%2Fch607" data-uslm-ref="/us/usc/t10/stC/ptIII/ch607">607.</a>  </td>
 
     <td> Retirement of Civilian Members of the Teaching Staffs of the United States Naval Academy and United States Naval Postgraduate School  </td>
 
-    <td> 7081  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7081" data-uslm-ref="/us/usc/t10/s7081">7081</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 609.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptIII%2Fch609" data-uslm-ref="/us/usc/t10/stC/ptIII/ch609">609.</a>  </td>
 
     <td> Professional Military Education Schools  </td>
 
-    <td> 7101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7101" data-uslm-ref="/us/usc/t10/s7101">7101</a>  </td>
 
   </tr>
 

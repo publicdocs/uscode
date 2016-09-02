@@ -29,7 +29,7 @@
 
   <tr>
 
-    <td> 801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD%2FptI%2Fch801" data-uslm-ref="/us/usc/t10/stD/ptI/ch801">801.</a>  </td>
 
     <td> Definitions. [No present sections.]  </td>
 
@@ -39,31 +39,31 @@
 
   <tr>
 
-    <td> 803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD%2FptI%2Fch803" data-uslm-ref="/us/usc/t10/stD/ptI/ch803">803.</a>  </td>
 
     <td> Department of the Air Force  </td>
 
-    <td> 8011  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8011" data-uslm-ref="/us/usc/t10/s8011">8011</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD%2FptI%2Fch805" data-uslm-ref="/us/usc/t10/stD/ptI/ch805">805.</a>  </td>
 
     <td> The Air Staff  </td>
 
-    <td> 8031  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8031" data-uslm-ref="/us/usc/t10/s8031">8031</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD%2FptI%2Fch807" data-uslm-ref="/us/usc/t10/stD/ptI/ch807">807.</a>  </td>
 
     <td> The Air Force  </td>
 
-    <td> 8061  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8061" data-uslm-ref="/us/usc/t10/s8061">8061</a>  </td>
 
   </tr>
 

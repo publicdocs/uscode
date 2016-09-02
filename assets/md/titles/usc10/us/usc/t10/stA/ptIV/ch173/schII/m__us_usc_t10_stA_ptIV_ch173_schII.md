@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2922.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2922" data-uslm-ref="/us/usc/t10/s2922">2922.</a>  </td>
 
     <td> Liquid fuels and natural gas: contracts for storage, handling, or distribution.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2922a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2922a" data-uslm-ref="/us/usc/t10/s2922a">2922a.</a>  </td>
 
     <td> Contracts for energy or fuel for military installations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2922b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2922b" data-uslm-ref="/us/usc/t10/s2922b">2922b.</a>  </td>
 
     <td> Procurement of energy systems using renewable forms of energy.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2922c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2922c" data-uslm-ref="/us/usc/t10/s2922c">2922c.</a>  </td>
 
     <td> Procurement of gasohol as motor vehicle fuel.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2922d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2922d" data-uslm-ref="/us/usc/t10/s2922d">2922d.</a>  </td>
 
     <td> Procurement of fuel derived from coal, oil shale, and tar sands.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2922e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2922e" data-uslm-ref="/us/usc/t10/s2922e">2922e.</a>  </td>
 
     <td> Acquisition of certain fuel sources: authority to waive contract procedures; acquisition by exchange; sales authority.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2922f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2922f" data-uslm-ref="/us/usc/t10/s2922f">2922f.</a>  </td>
 
     <td> Preference for energy efficient electric equipment.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2922g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2922g" data-uslm-ref="/us/usc/t10/s2922g">2922g.</a>  </td>
 
     <td> Preference for motor vehicles using electric or hybrid propulsion systems.  </td>
 

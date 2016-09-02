@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7081.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7081" data-uslm-ref="/us/usc/t10/s7081">7081.</a>  </td>
 
     <td> Civilian member: definition; exceptions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7082.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7082" data-uslm-ref="/us/usc/t10/s7082">7082.</a>  </td>
 
     <td> Deferred annuity policy required.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7083.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7083" data-uslm-ref="/us/usc/t10/s7083">7083.</a>  </td>
 
     <td> Annuity premium to be paid by monthly installments; government reimbursement.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7084.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7084" data-uslm-ref="/us/usc/t10/s7084">7084.</a>  </td>
 
     <td> Age of retirement.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7085.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7085" data-uslm-ref="/us/usc/t10/s7085">7085.</a>  </td>
 
     <td> Computation of life annuity.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7086.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7086" data-uslm-ref="/us/usc/t10/s7086">7086.</a>  </td>
 
     <td> Physical disability retirement.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7087.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7087" data-uslm-ref="/us/usc/t10/s7087">7087.</a>  </td>
 
     <td> Election of annuity for self and beneficiary.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7088.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7088" data-uslm-ref="/us/usc/t10/s7088">7088.</a>  </td>
 
     <td> Regulations.  </td>
 

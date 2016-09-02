@@ -29,41 +29,41 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch169%2FschI" data-uslm-ref="/us/usc/t10/stA/ptIV/ch169/schI">I.</a>  </td>
 
     <td> Military Construction  </td>
 
-    <td> 2801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2801" data-uslm-ref="/us/usc/t10/s2801">2801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch169%2FschII" data-uslm-ref="/us/usc/t10/stA/ptIV/ch169/schII">II.</a>  </td>
 
     <td> Military Family Housing  </td>
 
-    <td> 2821  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2821" data-uslm-ref="/us/usc/t10/s2821">2821</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch169%2FschIII" data-uslm-ref="/us/usc/t10/stA/ptIV/ch169/schIII">III.</a>  </td>
 
     <td> Administration of Military Construction and Military Family Housing.  </td>
 
-    <td> 2851  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2851" data-uslm-ref="/us/usc/t10/s2851">2851</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch169%2FschIV" data-uslm-ref="/us/usc/t10/stA/ptIV/ch169/schIV">IV.</a>  </td>
 
     <td> Alternative Authority for Acquisition and Improvement of Military Housing  </td>
 
-    <td> 2871  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2871" data-uslm-ref="/us/usc/t10/s2871">2871</a>  </td>
 
   </tr>
 

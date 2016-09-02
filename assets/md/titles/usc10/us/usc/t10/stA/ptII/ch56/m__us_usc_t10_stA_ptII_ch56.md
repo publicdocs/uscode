@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1111" data-uslm-ref="/us/usc/t10/s1111">1111.</a>  </td>
 
     <td> Establishment and purpose of Fund; definitions; authority to enter into agreements.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1112" data-uslm-ref="/us/usc/t10/s1112">1112.</a>  </td>
 
     <td> Assets of Fund.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1113" data-uslm-ref="/us/usc/t10/s1113">1113.</a>  </td>
 
     <td> Payments from the Fund.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1114" data-uslm-ref="/us/usc/t10/s1114">1114.</a>  </td>
 
     <td> Board of Actuaries.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1115" data-uslm-ref="/us/usc/t10/s1115">1115.</a>  </td>
 
     <td> Determination of contributions to the Fund.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1116" data-uslm-ref="/us/usc/t10/s1116">1116.</a>  </td>
 
     <td> Payments into the Fund.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1117" data-uslm-ref="/us/usc/t10/s1117">1117.</a>  </td>
 
     <td> Investment of assets of Fund.  </td>
 

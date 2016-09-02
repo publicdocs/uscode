@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [5531 to 5539.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5531" data-uslm-ref="/us/usc/t10/s5531">5531</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5539" data-uslm-ref="/us/usc/t10/s5539">5539.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5540.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5540" data-uslm-ref="/us/usc/t10/s5540">5540.</a>  </td>
 
     <td> Expiration: rights of member.  </td>
 

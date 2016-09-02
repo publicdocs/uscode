@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 16161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16161" data-uslm-ref="/us/usc/t10/s16161">16161.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 16162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16162" data-uslm-ref="/us/usc/t10/s16162">16162.</a>  </td>
 
     <td> Educational assistance program.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 16162a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16162a" data-uslm-ref="/us/usc/t10/s16162a">16162a.</a>  </td>
 
     <td> Accelerated payment of educational assistance.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 16163.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16163" data-uslm-ref="/us/usc/t10/s16163">16163.</a>  </td>
 
     <td> Eligibility for educational assistance.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 16163a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16163a" data-uslm-ref="/us/usc/t10/s16163a">16163a.</a>  </td>
 
     <td> Authority to transfer unused education benefits to family members.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 16164.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16164" data-uslm-ref="/us/usc/t10/s16164">16164.</a>  </td>
 
     <td> Time limitation for use of entitlement.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 16165.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16165" data-uslm-ref="/us/usc/t10/s16165">16165.</a>  </td>
 
     <td> Termination of assistance.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 16166.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16166" data-uslm-ref="/us/usc/t10/s16166">16166.</a>  </td>
 
     <td> Administration of program.  </td>
 

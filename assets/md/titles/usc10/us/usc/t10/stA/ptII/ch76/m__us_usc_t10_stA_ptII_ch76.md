@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1501" data-uslm-ref="/us/usc/t10/s1501">1501.</a>  </td>
 
     <td> System for accounting for missing persons.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1502" data-uslm-ref="/us/usc/t10/s1502">1502.</a>  </td>
 
     <td> Missing persons: initial report.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1503" data-uslm-ref="/us/usc/t10/s1503">1503.</a>  </td>
 
     <td> Actions of Secretary concerned; initial board inquiry.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1504" data-uslm-ref="/us/usc/t10/s1504">1504.</a>  </td>
 
     <td> Subsequent board of inquiry.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1505" data-uslm-ref="/us/usc/t10/s1505">1505.</a>  </td>
 
     <td> Further review.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1506" data-uslm-ref="/us/usc/t10/s1506">1506.</a>  </td>
 
     <td> Personnel files.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1507" data-uslm-ref="/us/usc/t10/s1507">1507.</a>  </td>
 
     <td> Recommendation of status of death.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1508" data-uslm-ref="/us/usc/t10/s1508">1508.</a>  </td>
 
     <td> Judicial review.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1509" data-uslm-ref="/us/usc/t10/s1509">1509.</a>  </td>
 
     <td> Program to resolve preenactment missing person cases.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1510" data-uslm-ref="/us/usc/t10/s1510">1510.</a>  </td>
 
     <td> Applicability to Coast Guard.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1511" data-uslm-ref="/us/usc/t10/s1511">1511.</a>  </td>
 
     <td> Return alive of person declared missing or dead.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1512" data-uslm-ref="/us/usc/t10/s1512">1512.</a>  </td>
 
     <td> Effect on State law.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1513" data-uslm-ref="/us/usc/t10/s1513">1513.</a>  </td>
 
     <td> Definitions.  </td>
 

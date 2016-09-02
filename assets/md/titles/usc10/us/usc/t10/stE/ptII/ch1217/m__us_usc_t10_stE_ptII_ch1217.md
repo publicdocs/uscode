@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 12601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12601" data-uslm-ref="/us/usc/t10/s12601">12601.</a>  </td>
 
     <td> Compensation: Reserve on active duty accepting from any person.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 12602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12602" data-uslm-ref="/us/usc/t10/s12602">12602.</a>  </td>
 
     <td> Members of Army National Guard of United States and Air National Guard of United States: credit for service as members of National Guard.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 12603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12603" data-uslm-ref="/us/usc/t10/s12603">12603.</a>  </td>
 
     <td> Attendance at inactive-duty training assemblies: commercial travel at Federal supply schedule rates.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 12604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12604" data-uslm-ref="/us/usc/t10/s12604">12604.</a>  </td>
 
     <td> Billeting in Department of Defense facilities: Reserves attending inactive-duty training.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 12605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12605" data-uslm-ref="/us/usc/t10/s12605">12605.</a>  </td>
 
     <td> Presentation of United States flag: members transferred from an active status or discharged after completion of eligibility for retired pay.  </td>
 

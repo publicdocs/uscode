@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6201" data-uslm-ref="/us/usc/t10/s6201">6201.</a>  </td>
 
     <td> Members of the naval service in other United States hospitals.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6202" data-uslm-ref="/us/usc/t10/s6202">6202.</a>  </td>
 
     <td> Insane members of the naval service.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6203" data-uslm-ref="/us/usc/t10/s6203">6203.</a>  </td>
 
     <td> Emergency medical treatment: reimbursement for expense.  </td>
 

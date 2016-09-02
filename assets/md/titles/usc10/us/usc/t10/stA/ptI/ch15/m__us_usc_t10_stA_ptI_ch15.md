@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs331" data-uslm-ref="/us/usc/t10/s331">331.</a>  </td>
 
     <td> Federal aid for State governments.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs332" data-uslm-ref="/us/usc/t10/s332">332.</a>  </td>
 
     <td> Use of militia and armed forces to enforce Federal authority.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs333" data-uslm-ref="/us/usc/t10/s333">333.</a>  </td>
 
     <td> Interference with State and Federal law.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs334" data-uslm-ref="/us/usc/t10/s334">334.</a>  </td>
 
     <td> Proclamation to disperse.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs335" data-uslm-ref="/us/usc/t10/s335">335.</a>  </td>
 
     <td> Guam and Virgin Islands included as “State”.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [336.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs336" data-uslm-ref="/us/usc/t10/s336">336.</a>  </td>
 
     <td> Repealed.]  </td>
 

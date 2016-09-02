@@ -29,121 +29,121 @@
 
   <tr>
 
-    <td> 931.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD%2FptIV%2Fch931" data-uslm-ref="/us/usc/t10/stD/ptIV/ch931">931.</a>  </td>
 
     <td> Civil Reserve Air Fleet  </td>
 
-    <td> 9511  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9511" data-uslm-ref="/us/usc/t10/s9511">9511</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 933.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD%2FptIV%2Fch933" data-uslm-ref="/us/usc/t10/stD/ptIV/ch933">933.</a>  </td>
 
     <td> Procurement  </td>
 
-    <td> 9531  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9531" data-uslm-ref="/us/usc/t10/s9531">9531</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 935.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD%2FptIV%2Fch935" data-uslm-ref="/us/usc/t10/stD/ptIV/ch935">935.</a>  </td>
 
     <td> Issue of Serviceable Material to Armed Forces  </td>
 
-    <td> 9561  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9561" data-uslm-ref="/us/usc/t10/s9561">9561</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 937.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD%2FptIV%2Fch937" data-uslm-ref="/us/usc/t10/stD/ptIV/ch937">937.</a>  </td>
 
     <td> Utilities and Services  </td>
 
-    <td> 9591  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9591" data-uslm-ref="/us/usc/t10/s9591">9591</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 939.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD%2FptIV%2Fch939" data-uslm-ref="/us/usc/t10/stD/ptIV/ch939">939.</a>  </td>
 
     <td> Sale of Serviceable Material  </td>
 
-    <td> 9621  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9621" data-uslm-ref="/us/usc/t10/s9621">9621</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 941.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD%2FptIV%2Fch941" data-uslm-ref="/us/usc/t10/stD/ptIV/ch941">941.</a>  </td>
 
     <td> Issue of Serviceable Material other than to Armed Forces  </td>
 
-    <td> 9651  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9651" data-uslm-ref="/us/usc/t10/s9651">9651</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 943.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD%2FptIV%2Fch943" data-uslm-ref="/us/usc/t10/stD/ptIV/ch943">943.</a>  </td>
 
     <td> Disposal of Obsolete or Surplus Material  </td>
 
-    <td> 9681  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9681" data-uslm-ref="/us/usc/t10/s9681">9681</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 945.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD%2FptIV%2Fch945" data-uslm-ref="/us/usc/t10/stD/ptIV/ch945">945.</a>  </td>
 
     <td> Disposition of Effects of Deceased Persons  </td>
 
-    <td> 9712  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9712" data-uslm-ref="/us/usc/t10/s9712">9712</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 947.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD%2FptIV%2Fch947" data-uslm-ref="/us/usc/t10/stD/ptIV/ch947">947.</a>  </td>
 
     <td> Transportation  </td>
 
-    <td> 9741  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9741" data-uslm-ref="/us/usc/t10/s9741">9741</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 949.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD%2FptIV%2Fch949" data-uslm-ref="/us/usc/t10/stD/ptIV/ch949">949.</a>  </td>
 
     <td> Real Property  </td>
 
-    <td> 9771  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9771" data-uslm-ref="/us/usc/t10/s9771">9771</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 951.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD%2FptIV%2Fch951" data-uslm-ref="/us/usc/t10/stD/ptIV/ch951">951.</a>  </td>
 
     <td> Military Claims  </td>
 
-    <td> 9801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9801" data-uslm-ref="/us/usc/t10/s9801">9801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 953.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD%2FptIV%2Fch953" data-uslm-ref="/us/usc/t10/stD/ptIV/ch953">953.</a>  </td>
 
     <td> Accountability and Responsibility  </td>
 
-    <td> 9831  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9831" data-uslm-ref="/us/usc/t10/s9831">9831</a>  </td>
 
   </tr>
 

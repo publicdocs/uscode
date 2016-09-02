@@ -15,7 +15,7 @@
 
 ## \[§ 2669. Repealed. [Pub. L. 109–364, div. B, title XXVIII, § 2822(c)][/us/pl/109/364/s2822/c], Oct. 17, 2006, [120 Stat. 2475][/us/stat/120/2475]\]
 
-    Section, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 151][/us/stat/70A/151]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. B, title XXVIII, § 2812(f)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–418; [Pub. L. 108–136, div. B, title XXVIII, § 2813(b)][/us/pl/108/136/s2813/b], Nov. 24, 2003, [117 Stat. 1725][/us/stat/117/1725]; [Pub. L. 109–163, div. A, title X, § 1057(a)(3)][/us/pl/109/163/s1057/a/3], Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440], related to easements for gas, water, and sewer pipe lines.
+    Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 151][/us/stat/70A/151]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. B, title XXVIII, § 2812(f)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–418; [Pub. L. 108–136, div. B, title XXVIII, § 2813(b)][/us/pl/108/136/s2813/b], Nov. 24, 2003, [117 Stat. 1725][/us/stat/117/1725]; [Pub. L. 109–163, div. A, title X, § 1057(a)(3)][/us/pl/109/163/s1057/a/3], Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440], related to easements for gas, water, and sewer pipe lines.
 
 ----------
 

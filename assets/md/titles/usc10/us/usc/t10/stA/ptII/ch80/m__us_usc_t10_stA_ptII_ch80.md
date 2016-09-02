@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1561.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1561" data-uslm-ref="/us/usc/t10/s1561">1561.</a>  </td>
 
     <td> Complaints of sexual harassment: investigation by commanding officers.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1561a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1561a" data-uslm-ref="/us/usc/t10/s1561a">1561a.</a>  </td>
 
     <td> Civilian orders of protection: force and effect on military installations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1562.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1562" data-uslm-ref="/us/usc/t10/s1562">1562.</a>  </td>
 
     <td> Database on domestic violence incidents.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1563.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1563" data-uslm-ref="/us/usc/t10/s1563">1563.</a>  </td>
 
     <td> Consideration of proposals for posthumous and honorary promotions and appointments: procedures for review.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1564.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1564" data-uslm-ref="/us/usc/t10/s1564">1564.</a>  </td>
 
     <td> Security clearance investigations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1564a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1564a" data-uslm-ref="/us/usc/t10/s1564a">1564a.</a>  </td>
 
     <td> Counterintelligence polygraph program.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1565.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1565" data-uslm-ref="/us/usc/t10/s1565">1565.</a>  </td>
 
     <td> DNA identification information: collection from certain offenders; use.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1565a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1565a" data-uslm-ref="/us/usc/t10/s1565a">1565a.</a>  </td>
 
     <td> DNA samples maintained for identification of human remains: use for law enforcement purposes.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1565b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1565b" data-uslm-ref="/us/usc/t10/s1565b">1565b.</a>  </td>
 
     <td> Victims of sexual assault: access to legal assistance and services of Sexual Assault Response Coordinators and Sexual Assault Victim Advocates.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1566.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1566" data-uslm-ref="/us/usc/t10/s1566">1566.</a>  </td>
 
     <td> Voting assistance: compliance assessments; assistance.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1566a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1566a" data-uslm-ref="/us/usc/t10/s1566a">1566a.</a>  </td>
 
     <td> Voting assistance: voter assistance offices.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1567.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1567" data-uslm-ref="/us/usc/t10/s1567">1567.</a>  </td>
 
     <td> Duration of military protective orders.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1567a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1567a" data-uslm-ref="/us/usc/t10/s1567a">1567a.</a>  </td>
 
     <td> Mandatory notification of issuance of military protective order to civilian law enforcement.  </td>
 

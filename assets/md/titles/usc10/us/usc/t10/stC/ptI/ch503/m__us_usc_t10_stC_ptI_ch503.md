@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5011" data-uslm-ref="/us/usc/t10/s5011">5011.</a>  </td>
 
     <td> Organization.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5012" data-uslm-ref="/us/usc/t10/s5012">5012.</a>  </td>
 
     <td> Department of the Navy: seal.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5013" data-uslm-ref="/us/usc/t10/s5013">5013.</a>  </td>
 
     <td> Secretary of the Navy.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5013a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5013a" data-uslm-ref="/us/usc/t10/s5013a">5013a.</a>  </td>
 
     <td> Secretary of the Navy: powers with respect to Coast Guard.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5014.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5014" data-uslm-ref="/us/usc/t10/s5014">5014.</a>  </td>
 
     <td> Office of the Secretary of the Navy.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5015.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5015" data-uslm-ref="/us/usc/t10/s5015">5015.</a>  </td>
 
     <td> Under Secretary of the Navy.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5016.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5016" data-uslm-ref="/us/usc/t10/s5016">5016.</a>  </td>
 
     <td> Assistant Secretaries of the Navy.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5017.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5017" data-uslm-ref="/us/usc/t10/s5017">5017.</a>  </td>
 
     <td> Secretary of the Navy: successors to duties.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5018.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5018" data-uslm-ref="/us/usc/t10/s5018">5018.</a>  </td>
 
     <td> Administrative Assistant.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 5019.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5019" data-uslm-ref="/us/usc/t10/s5019">5019.</a>  </td>
 
     <td> General Counsel.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 5020.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5020" data-uslm-ref="/us/usc/t10/s5020">5020.</a>  </td>
 
     <td> Naval Inspector General: detail; duties.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> [5021.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5021" data-uslm-ref="/us/usc/t10/s5021">5021.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 5022.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5022" data-uslm-ref="/us/usc/t10/s5022">5022.</a>  </td>
 
     <td> Office of Naval Research: duties.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 5023.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5023" data-uslm-ref="/us/usc/t10/s5023">5023.</a>  </td>
 
     <td> Office of Naval Research: appropriations; time limit.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 5024.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5024" data-uslm-ref="/us/usc/t10/s5024">5024.</a>  </td>
 
     <td> Naval Research Advisory Committee.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 5025.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5025" data-uslm-ref="/us/usc/t10/s5025">5025.</a>  </td>
 
     <td> Financial management.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 5026.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5026" data-uslm-ref="/us/usc/t10/s5026">5026.</a>  </td>
 
     <td> Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 5027.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5027" data-uslm-ref="/us/usc/t10/s5027">5027.</a>  </td>
 
     <td> Chief of Legislative Affairs.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 5028.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5028" data-uslm-ref="/us/usc/t10/s5028">5028.</a>  </td>
 
     <td> Director of Small Business Programs.  </td>
 

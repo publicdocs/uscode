@@ -29,71 +29,71 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch148%2FschI" data-uslm-ref="/us/usc/t10/stA/ptIV/ch148/schI">I.</a>  </td>
 
     <td> Definitions  </td>
 
-    <td> 2500  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2500" data-uslm-ref="/us/usc/t10/s2500">2500</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch148%2FschII" data-uslm-ref="/us/usc/t10/stA/ptIV/ch148/schII">II.</a>  </td>
 
     <td> Policies and Planning  </td>
 
-    <td> 2501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2501" data-uslm-ref="/us/usc/t10/s2501">2501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch148%2FschIII" data-uslm-ref="/us/usc/t10/stA/ptIV/ch148/schIII">III.</a>  </td>
 
     <td> Programs for Development, Application, and Support of Dual-Use Technologies  </td>
 
-    <td> 2511  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2511" data-uslm-ref="/us/usc/t10/s2511">2511</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch148%2FschIV" data-uslm-ref="/us/usc/t10/stA/ptIV/ch148/schIV">IV.</a>  </td>
 
     <td> Manufacturing Technology  </td>
 
-    <td> 2521  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2521" data-uslm-ref="/us/usc/t10/s2521">2521</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> V.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch148%2FschV" data-uslm-ref="/us/usc/t10/stA/ptIV/ch148/schV">V.</a>  </td>
 
     <td> Miscellaneous Technology Base Policies and Programs  </td>
 
-    <td> 2531  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2531" data-uslm-ref="/us/usc/t10/s2531">2531</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> VI.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch148%2FschVI" data-uslm-ref="/us/usc/t10/stA/ptIV/ch148/schVI">VI.</a>  </td>
 
     <td> Defense Export Loan Guarantees  </td>
 
-    <td> 2540  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2540" data-uslm-ref="/us/usc/t10/s2540">2540</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> VII.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch148%2FschVII" data-uslm-ref="/us/usc/t10/stA/ptIV/ch148/schVII">VII.</a>  </td>
 
     <td> Critical Infrastructure Protection Loan Guarantees  </td>
 
-    <td> 2541  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2541" data-uslm-ref="/us/usc/t10/s2541">2541</a>  </td>
 
   </tr>
 

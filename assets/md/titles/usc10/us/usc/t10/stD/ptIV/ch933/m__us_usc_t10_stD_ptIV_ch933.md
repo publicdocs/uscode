@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [9531.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9531" data-uslm-ref="/us/usc/t10/s9531">9531.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9532" data-uslm-ref="/us/usc/t10/s9532">9532.</a>  </td>
 
     <td> Factories, arsenals, and depots: manufacture at.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [9534, 9535.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9534" data-uslm-ref="/us/usc/t10/s9534">9534</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9535" data-uslm-ref="/us/usc/t10/s9535">9535.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9536.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9536" data-uslm-ref="/us/usc/t10/s9536">9536.</a>  </td>
 
     <td> Equipment: bakeries, schools, kitchens, and mess halls.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [9537, 9538.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9537" data-uslm-ref="/us/usc/t10/s9537">9537</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9538" data-uslm-ref="/us/usc/t10/s9538">9538.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 9540.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9540" data-uslm-ref="/us/usc/t10/s9540">9540.</a>  </td>
 
     <td> Architectural and engineering services.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [9541.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9541" data-uslm-ref="/us/usc/t10/s9541">9541.</a>  </td>
 
     <td> Repealed.]  </td>
 

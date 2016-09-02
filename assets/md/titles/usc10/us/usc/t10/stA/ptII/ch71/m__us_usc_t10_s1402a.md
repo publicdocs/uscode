@@ -161,15 +161,13 @@
 
     </table>
 
-    (e) __Alternative Recomputation to Subsection__ 
+    (e) __Alternative Recomputation to Subsection (a) Formula.—__ 
 
-        (a) __Formula.—__ 
+    Notwithstanding subsection (a), a member covered by that subsection may elect, upon his release from that active duty, to have his retired pay or retainer pay—
 
-        Notwithstanding subsection (a), a member covered by that subsection may elect, upon his release from that active duty, to have his retired pay or retainer pay—
+        (1) computed according to the formula set forth in subsection (a) but using the monthly retired pay base under which his retired pay or retainer pay was computed when he entered on that active duty; and
 
-    (1) computed according to the formula set forth in subsection (a) but using the monthly retired pay base under which his retired pay or retainer pay was computed when he entered on that active duty; and
-
-    (2) increased by any applicable adjustments in that pay under [section 1401a of this title][/us/usc/t10/s1401a] after he initially became entitled to that pay.
+        (2) increased by any applicable adjustments in that pay under [section 1401a of this title][/us/usc/t10/s1401a] after he initially became entitled to that pay.
 
     (f) __Additional 10 Percent for Certain Enlisted Members Credited With Extraordinary Heroism.—__ 
 

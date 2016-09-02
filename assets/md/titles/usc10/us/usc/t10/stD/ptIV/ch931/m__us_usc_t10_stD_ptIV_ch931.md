@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9511" data-uslm-ref="/us/usc/t10/s9511">9511.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9511a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9511a" data-uslm-ref="/us/usc/t10/s9511a">9511a.</a>  </td>
 
     <td> Civil Reserve Air Fleet contracts: payment rate.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9512" data-uslm-ref="/us/usc/t10/s9512">9512.</a>  </td>
 
     <td> Contracts for the inclusion or incorporation of defense features.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9513" data-uslm-ref="/us/usc/t10/s9513">9513.</a>  </td>
 
     <td> Use of military installations by Civil Reserve Air Fleet contractors.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 9514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9514" data-uslm-ref="/us/usc/t10/s9514">9514.</a>  </td>
 
     <td> Indemnification of Department of Transportation for losses covered by defense-related aviation insurance.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 9515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9515" data-uslm-ref="/us/usc/t10/s9515">9515.</a>  </td>
 
     <td> Charter air transportation services: minimum annual purchase amount for carriers participating in Civil Reserve Air Fleet.  </td>
 

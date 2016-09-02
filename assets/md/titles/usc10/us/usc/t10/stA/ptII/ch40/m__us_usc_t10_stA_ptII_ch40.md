@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs701" data-uslm-ref="/us/usc/t10/s701">701.</a>  </td>
 
     <td> Entitlement and accumulation.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs702" data-uslm-ref="/us/usc/t10/s702">702.</a>  </td>
 
     <td> Cadets and midshipmen.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs703" data-uslm-ref="/us/usc/t10/s703">703.</a>  </td>
 
     <td> Reenlistment leave.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs704" data-uslm-ref="/us/usc/t10/s704">704.</a>  </td>
 
     <td> Use of leave; regulations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs705" data-uslm-ref="/us/usc/t10/s705">705.</a>  </td>
 
     <td> Rest and recuperation absence: qualified members extending duty at designated locations overseas.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 705a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs705a" data-uslm-ref="/us/usc/t10/s705a">705a.</a>  </td>
 
     <td> Rest and recuperation absence: certain members undergoing extended deployment to a combat zone.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs706" data-uslm-ref="/us/usc/t10/s706">706.</a>  </td>
 
     <td> Administration of leave required to be taken.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs707" data-uslm-ref="/us/usc/t10/s707">707.</a>  </td>
 
     <td> Payment upon disapproval of certain court-martial sentences for excess leave required to be taken.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 707a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs707a" data-uslm-ref="/us/usc/t10/s707a">707a.</a>  </td>
 
     <td> Payment upon disapproval of certain board of inquiry recommendations for excess leave required to be taken.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs708" data-uslm-ref="/us/usc/t10/s708">708.</a>  </td>
 
     <td> Educational leave of absence.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs709" data-uslm-ref="/us/usc/t10/s709">709.</a>  </td>
 
     <td> Emergency leave of absence.  </td>
 

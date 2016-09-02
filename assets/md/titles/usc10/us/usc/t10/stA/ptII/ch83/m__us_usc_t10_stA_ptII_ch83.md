@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch83%2FschI" data-uslm-ref="/us/usc/t10/stA/ptII/ch83/schI">I.</a>  </td>
 
     <td> Defense-Wide Intelligence Personnel Policy  </td>
 
-    <td> 1601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1601" data-uslm-ref="/us/usc/t10/s1601">1601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch83%2FschII" data-uslm-ref="/us/usc/t10/stA/ptII/ch83/schII">II.</a>  </td>
 
     <td> Defense Intelligence Agency Personnel  </td>
 
-    <td> 1621  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1621" data-uslm-ref="/us/usc/t10/s1621">1621</a>  </td>
 
   </tr>
 

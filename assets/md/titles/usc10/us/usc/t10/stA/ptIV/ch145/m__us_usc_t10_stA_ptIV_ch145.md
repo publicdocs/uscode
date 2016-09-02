@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2451" data-uslm-ref="/us/usc/t10/s2451">2451.</a>  </td>
 
     <td> Defense supply management.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2452" data-uslm-ref="/us/usc/t10/s2452">2452.</a>  </td>
 
     <td> Duties of Secretary of Defense.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2453" data-uslm-ref="/us/usc/t10/s2453">2453.</a>  </td>
 
     <td> Supply catalog: distribution and use.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2454.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2454" data-uslm-ref="/us/usc/t10/s2454">2454.</a>  </td>
 
     <td> Supply catalog: new or obsolete items.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [2455.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2455" data-uslm-ref="/us/usc/t10/s2455">2455.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2456.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2456" data-uslm-ref="/us/usc/t10/s2456">2456.</a>  </td>
 
     <td> Coordination with General Services Administration.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2457.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2457" data-uslm-ref="/us/usc/t10/s2457">2457.</a>  </td>
 
     <td> Standardization of equipment with North Atlantic Treaty Organization members.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2458.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2458" data-uslm-ref="/us/usc/t10/s2458">2458.</a>  </td>
 
     <td> Inventory management policies.  </td>
 

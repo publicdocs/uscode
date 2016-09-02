@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5031.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5031" data-uslm-ref="/us/usc/t10/s5031">5031.</a>  </td>
 
     <td> Office of the Chief of Naval Operations: function; composition.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5032.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5032" data-uslm-ref="/us/usc/t10/s5032">5032.</a>  </td>
 
     <td> Office of the Chief of Naval Operations: general duties.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5033.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5033" data-uslm-ref="/us/usc/t10/s5033">5033.</a>  </td>
 
     <td> Chief of Naval Operations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [5034.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5034" data-uslm-ref="/us/usc/t10/s5034">5034.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5035.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5035" data-uslm-ref="/us/usc/t10/s5035">5035.</a>  </td>
 
     <td> Vice Chief of Naval Operations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5036.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5036" data-uslm-ref="/us/usc/t10/s5036">5036.</a>  </td>
 
     <td> Deputy Chiefs of Naval Operations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5037.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5037" data-uslm-ref="/us/usc/t10/s5037">5037.</a>  </td>
 
     <td> Assistant Chiefs of Naval Operations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5038.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5038" data-uslm-ref="/us/usc/t10/s5038">5038.</a>  </td>
 
     <td> Director for Expeditionary Warfare.  </td>
 

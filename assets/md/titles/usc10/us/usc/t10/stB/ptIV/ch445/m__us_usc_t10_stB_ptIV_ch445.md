@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [4711.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4711" data-uslm-ref="/us/usc/t10/s4711">4711.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4712" data-uslm-ref="/us/usc/t10/s4712">4712.</a>  </td>
 
     <td> Disposition of effects of deceased persons by summary court-martial.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [4713.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4713" data-uslm-ref="/us/usc/t10/s4713">4713.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4714" data-uslm-ref="/us/usc/t10/s4714">4714.</a>  </td>
 
     <td> Collection of captured flags, standards, and colors.  </td>
 

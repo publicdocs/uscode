@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2231" data-uslm-ref="/us/usc/t10/s2231">2231.</a>  </td>
 
     <td> Reference to chapter 1803.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8031.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8031" data-uslm-ref="/us/usc/t10/s8031">8031.</a>  </td>
 
     <td> The Air Staff: function; composition.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8032.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8032" data-uslm-ref="/us/usc/t10/s8032">8032.</a>  </td>
 
     <td> The Air Staff: general duties.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8033.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8033" data-uslm-ref="/us/usc/t10/s8033">8033.</a>  </td>
 
     <td> Chief of Staff.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8034.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8034" data-uslm-ref="/us/usc/t10/s8034">8034.</a>  </td>
 
     <td> Vice Chief of Staff.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8035.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8035" data-uslm-ref="/us/usc/t10/s8035">8035.</a>  </td>
 
     <td> Deputy Chiefs of Staff and Assistant Chiefs of Staff.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 8036.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8036" data-uslm-ref="/us/usc/t10/s8036">8036.</a>  </td>
 
     <td> Surgeon General: appointment; grade.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 8037.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8037" data-uslm-ref="/us/usc/t10/s8037">8037.</a>  </td>
 
     <td> Judge Advocate General, Deputy Judge Advocate General: appointment; duties.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 8038.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8038" data-uslm-ref="/us/usc/t10/s8038">8038.</a>  </td>
 
     <td> Office of Air Force Reserve: appointment of Chief.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 8039.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8039" data-uslm-ref="/us/usc/t10/s8039">8039.</a>  </td>
 
     <td> Chief of Chaplains: appointment; duties.  </td>
 

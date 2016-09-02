@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 949a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949a" data-uslm-ref="/us/usc/t10/s949a">949a.</a>  </td>
 
     <td> Rules.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 949b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949b" data-uslm-ref="/us/usc/t10/s949b">949b.</a>  </td>
 
     <td> Unlawfully influencing action of military commission and United States Court of Military Commission Review.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 949c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949c" data-uslm-ref="/us/usc/t10/s949c">949c.</a>  </td>
 
     <td> Duties of trial counsel and defense counsel.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 949d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949d" data-uslm-ref="/us/usc/t10/s949d">949d.</a>  </td>
 
     <td> Sessions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 949e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949e" data-uslm-ref="/us/usc/t10/s949e">949e.</a>  </td>
 
     <td> Continuances.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 949f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949f" data-uslm-ref="/us/usc/t10/s949f">949f.</a>  </td>
 
     <td> Challenges.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 949g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949g" data-uslm-ref="/us/usc/t10/s949g">949g.</a>  </td>
 
     <td> Oaths.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 949h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949h" data-uslm-ref="/us/usc/t10/s949h">949h.</a>  </td>
 
     <td> Former jeopardy.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 949i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949i" data-uslm-ref="/us/usc/t10/s949i">949i.</a>  </td>
 
     <td> Pleas of the accused.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 949j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949j" data-uslm-ref="/us/usc/t10/s949j">949j.</a>  </td>
 
     <td> Opportunity to obtain witnesses and other evidence.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 949k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949k" data-uslm-ref="/us/usc/t10/s949k">949k.</a>  </td>
 
     <td> Defense of lack of mental responsibility.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 949l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949" data-uslm-ref="/us/usc/t10/s949">949</a>l.  </td>
 
     <td> Voting and rulings.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 949m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949m" data-uslm-ref="/us/usc/t10/s949m">949m.</a>  </td>
 
     <td> Number of votes required.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 949n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949n" data-uslm-ref="/us/usc/t10/s949n">949n.</a>  </td>
 
     <td> Military commission to announce action.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 949o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949" data-uslm-ref="/us/usc/t10/s949">949</a>o.  </td>
 
     <td> Record of trial.  </td>
 

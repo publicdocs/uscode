@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [2301.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2301" data-uslm-ref="/us/usc/t10/s2301">2301.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2302" data-uslm-ref="/us/usc/t10/s2302">2302.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2302a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2302a" data-uslm-ref="/us/usc/t10/s2302a">2302a.</a>  </td>
 
     <td> Simplified acquisition threshold.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2302b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2302b" data-uslm-ref="/us/usc/t10/s2302b">2302b.</a>  </td>
 
     <td> Implementation of simplified acquisition procedures.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2302c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2302c" data-uslm-ref="/us/usc/t10/s2302c">2302c.</a>  </td>
 
     <td> Implementation of electronic commerce capability.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2302d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2302d" data-uslm-ref="/us/usc/t10/s2302d">2302d.</a>  </td>
 
     <td> Major system: definitional threshold amounts.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2303" data-uslm-ref="/us/usc/t10/s2303">2303.</a>  </td>
 
     <td> Applicability of chapter.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> [2303a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2303a" data-uslm-ref="/us/usc/t10/s2303a">2303a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2304" data-uslm-ref="/us/usc/t10/s2304">2304.</a>  </td>
 
     <td> Contracts: competition requirements.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2304a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2304a" data-uslm-ref="/us/usc/t10/s2304a">2304a.</a>  </td>
 
     <td> Task and delivery order contracts: general authority.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2304b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2304b" data-uslm-ref="/us/usc/t10/s2304b">2304b.</a>  </td>
 
     <td> Task order contracts: advisory and assistance services.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2304c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2304c" data-uslm-ref="/us/usc/t10/s2304c">2304c.</a>  </td>
 
     <td> Task and delivery order contracts: orders.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2304d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2304d" data-uslm-ref="/us/usc/t10/s2304d">2304d.</a>  </td>
 
     <td> Task and delivery order contracts: definitions.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2304e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2304e" data-uslm-ref="/us/usc/t10/s2304e">2304e.</a>  </td>
 
     <td> Contracts: prohibition on competition between Department of Defense and small businesses and certain other entities.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2305" data-uslm-ref="/us/usc/t10/s2305">2305.</a>  </td>
 
     <td> Contracts: planning, solicitation, evaluation, and award procedures.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 2305a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2305a" data-uslm-ref="/us/usc/t10/s2305a">2305a.</a>  </td>
 
     <td> Design-build selection procedures.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 2306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2306" data-uslm-ref="/us/usc/t10/s2306">2306.</a>  </td>
 
     <td> Kinds of contracts.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 2306a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2306a" data-uslm-ref="/us/usc/t10/s2306a">2306a.</a>  </td>
 
     <td> Cost or pricing data: truth in negotiations.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 2306b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2306b" data-uslm-ref="/us/usc/t10/s2306b">2306b.</a>  </td>
 
     <td> Multiyear contracts: acquisition of property.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 2306c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2306c" data-uslm-ref="/us/usc/t10/s2306c">2306c.</a>  </td>
 
     <td> Multiyear contracts: acquisition of services.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 2307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2307" data-uslm-ref="/us/usc/t10/s2307">2307.</a>  </td>
 
     <td> Contract financing.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 2308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2308" data-uslm-ref="/us/usc/t10/s2308">2308.</a>  </td>
 
     <td> Buy-to-budget acquisition: end items.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 2309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2309" data-uslm-ref="/us/usc/t10/s2309">2309.</a>  </td>
 
     <td> Allocation of appropriations.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 2310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2310" data-uslm-ref="/us/usc/t10/s2310">2310.</a>  </td>
 
     <td> Determinations and decisions.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 2311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2311" data-uslm-ref="/us/usc/t10/s2311">2311.</a>  </td>
 
     <td> Assignment and delegation of procurement functions and responsibilities.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 2312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2312" data-uslm-ref="/us/usc/t10/s2312">2312.</a>  </td>
 
     <td> Remission of liquidated damages.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 2313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2313" data-uslm-ref="/us/usc/t10/s2313">2313.</a>  </td>
 
     <td> Examination of records of contractor.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 2313a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2313a" data-uslm-ref="/us/usc/t10/s2313a">2313a.</a>  </td>
 
     <td> Defense Contract Audit Agency: annual report.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 2314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2314" data-uslm-ref="/us/usc/t10/s2314">2314.</a>  </td>
 
     <td> Laws inapplicable to agencies named in <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2303" data-uslm-ref="/us/usc/t10/s2303">section 2303 of this title</a>.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 2315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2315" data-uslm-ref="/us/usc/t10/s2315">2315.</a>  </td>
 
     <td> Law inapplicable to the procurement of automatic data processing equipment and services for certain defense purposes.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 2316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2316" data-uslm-ref="/us/usc/t10/s2316">2316.</a>  </td>
 
     <td> Disclosure of identity of contractor.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> [2317.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2317" data-uslm-ref="/us/usc/t10/s2317">2317.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 2318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2318" data-uslm-ref="/us/usc/t10/s2318">2318.</a>  </td>
 
     <td> Advocates for competition.  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 2319.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2319" data-uslm-ref="/us/usc/t10/s2319">2319.</a>  </td>
 
     <td> Encouragement of new competitors.  </td>
 
@@ -297,7 +297,7 @@
 
   <tr>
 
-    <td> 2320.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2320" data-uslm-ref="/us/usc/t10/s2320">2320.</a>  </td>
 
     <td> Rights in technical data.  </td>
 
@@ -305,7 +305,7 @@
 
   <tr>
 
-    <td> 2321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2321" data-uslm-ref="/us/usc/t10/s2321">2321.</a>  </td>
 
     <td> Validation of proprietary data restrictions.  </td>
 
@@ -313,7 +313,7 @@
 
   <tr>
 
-    <td> [2322.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2322" data-uslm-ref="/us/usc/t10/s2322">2322.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -321,7 +321,7 @@
 
   <tr>
 
-    <td> 2323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2323" data-uslm-ref="/us/usc/t10/s2323">2323.</a>  </td>
 
     <td> Contract goal for small disadvantaged businesses and certain institutions of higher education.  </td>
 
@@ -329,7 +329,7 @@
 
   <tr>
 
-    <td> 2323a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2323a" data-uslm-ref="/us/usc/t10/s2323a">2323a.</a>  </td>
 
     <td> Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses and certain institutions of higher education.  </td>
 
@@ -337,7 +337,7 @@
 
   <tr>
 
-    <td> 2324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2324" data-uslm-ref="/us/usc/t10/s2324">2324.</a>  </td>
 
     <td> Allowable costs under defense contracts.  </td>
 
@@ -345,7 +345,7 @@
 
   <tr>
 
-    <td> 2325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2325" data-uslm-ref="/us/usc/t10/s2325">2325.</a>  </td>
 
     <td> Restructuring costs.  </td>
 
@@ -353,7 +353,7 @@
 
   <tr>
 
-    <td> 2326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2326" data-uslm-ref="/us/usc/t10/s2326">2326.</a>  </td>
 
     <td> Undefinitized contractual actions: restrictions.  </td>
 
@@ -361,7 +361,7 @@
 
   <tr>
 
-    <td> 2327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2327" data-uslm-ref="/us/usc/t10/s2327">2327.</a>  </td>
 
     <td> Contracts: consideration of national security objectives.  </td>
 
@@ -369,7 +369,7 @@
 
   <tr>
 
-    <td> 2328.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2328" data-uslm-ref="/us/usc/t10/s2328">2328.</a>  </td>
 
     <td> Release of technical data under Freedom of Information Act: recovery of costs.  </td>
 
@@ -377,7 +377,7 @@
 
   <tr>
 
-    <td> [2329.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2329" data-uslm-ref="/us/usc/t10/s2329">2329.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -385,7 +385,7 @@
 
   <tr>
 
-    <td> 2330.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2330" data-uslm-ref="/us/usc/t10/s2330">2330.</a>  </td>
 
     <td> Procurement of contract services: management structure.  </td>
 
@@ -393,7 +393,7 @@
 
   <tr>
 
-    <td> 2330a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2330a" data-uslm-ref="/us/usc/t10/s2330a">2330a.</a>  </td>
 
     <td> Procurement of services: tracking of purchases.  </td>
 
@@ -401,7 +401,7 @@
 
   <tr>
 
-    <td> 2331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2331" data-uslm-ref="/us/usc/t10/s2331">2331.</a>  </td>
 
     <td> Procurement of services: contracts for professional and technical services.  </td>
 
@@ -409,7 +409,7 @@
 
   <tr>
 
-    <td> 2332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2332" data-uslm-ref="/us/usc/t10/s2332">2332.</a>  </td>
 
     <td> Share-in-savings contracts.  </td>
 
@@ -417,7 +417,7 @@
 
   <tr>
 
-    <td> 2333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2333" data-uslm-ref="/us/usc/t10/s2333">2333.</a>  </td>
 
     <td> Joint policies on requirements definition, contingency program management, and contingency contracting.  </td>
 
@@ -425,7 +425,7 @@
 
   <tr>
 
-    <td> 2334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2334" data-uslm-ref="/us/usc/t10/s2334">2334.</a>  </td>
 
     <td> Independent cost estimation and cost analysis.  </td>
 
@@ -433,7 +433,7 @@
 
   <tr>
 
-    <td> 2335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2335" data-uslm-ref="/us/usc/t10/s2335">2335.</a>  </td>
 
     <td> Prohibition on collection of political information.  </td>
 
@@ -441,7 +441,7 @@
 
   <tr>
 
-    <td> 2336.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2336" data-uslm-ref="/us/usc/t10/s2336">2336.</a>  </td>
 
     <td> Intergovernmental support agreements with State and local governments.  </td>
 
@@ -449,7 +449,7 @@
 
   <tr>
 
-    <td> 2337.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2337" data-uslm-ref="/us/usc/t10/s2337">2337.</a>  </td>
 
     <td> Life-cycle management and product support.  </td>
 

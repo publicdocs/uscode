@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 661.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs661" data-uslm-ref="/us/usc/t10/s661">661.</a>  </td>
 
     <td> Management policies for joint qualified officers.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 662.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs662" data-uslm-ref="/us/usc/t10/s662">662.</a>  </td>
 
     <td> Promotion policy objectives for joint officers.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 663.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs663" data-uslm-ref="/us/usc/t10/s663">663.</a>  </td>
 
     <td> Joint duty assignments after completion of joint professional military education.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 664.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs664" data-uslm-ref="/us/usc/t10/s664">664.</a>  </td>
 
     <td> Length of joint duty assignments.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 665.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs665" data-uslm-ref="/us/usc/t10/s665">665.</a>  </td>
 
     <td> Procedures for monitoring careers of joint qualified officers.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 666.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs666" data-uslm-ref="/us/usc/t10/s666">666.</a>  </td>
 
     <td> Reserve officers not on the active-duty list.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 667.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs667" data-uslm-ref="/us/usc/t10/s667">667.</a>  </td>
 
     <td> Annual report to Congress.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 668.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs668" data-uslm-ref="/us/usc/t10/s668">668.</a>  </td>
 
     <td> Definitions.  </td>
 

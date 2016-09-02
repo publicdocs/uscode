@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 948q.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs948q" data-uslm-ref="/us/usc/t10/s948q">948q.</a>  </td>
 
     <td> Charges and specifications.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 948r.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs948r" data-uslm-ref="/us/usc/t10/s948r">948r.</a>  </td>
 
     <td> Exclusion of statements obtained by torture or cruel, inhuman, or degrading treatment; prohibition of self-incrimination; admission of other statements of the accused.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 948s.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs948s" data-uslm-ref="/us/usc/t10/s948s">948s.</a>  </td>
 
     <td> Service of charges.  </td>
 

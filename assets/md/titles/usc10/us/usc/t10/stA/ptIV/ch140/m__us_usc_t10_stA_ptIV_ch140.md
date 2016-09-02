@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2375.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2375" data-uslm-ref="/us/usc/t10/s2375">2375.</a>  </td>
 
     <td> Relationship of commercial item provisions to other provisions of law.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2376.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2376" data-uslm-ref="/us/usc/t10/s2376">2376.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2377.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2377" data-uslm-ref="/us/usc/t10/s2377">2377.</a>  </td>
 
     <td> Preference for acquisition of commercial items.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2378.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2378" data-uslm-ref="/us/usc/t10/s2378">2378.</a>  </td>
 
     <td> Procurement of copier paper containing specified percentages of post-consumer recycled content.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2379.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2379" data-uslm-ref="/us/usc/t10/s2379">2379.</a>  </td>
 
     <td> Requirement for determination by Secretary of Defense and notification to Congress before procurement of major weapon systems as commercial items.  </td>
 

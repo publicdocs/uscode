@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs371" data-uslm-ref="/us/usc/t10/s371">371.</a>  </td>
 
     <td> Use of information collected during military operations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs372" data-uslm-ref="/us/usc/t10/s372">372.</a>  </td>
 
     <td> Use of military equipment and facilities.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 373.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs373" data-uslm-ref="/us/usc/t10/s373">373.</a>  </td>
 
     <td> Training and advising civilian law enforcement officials.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 374.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs374" data-uslm-ref="/us/usc/t10/s374">374.</a>  </td>
 
     <td> Maintenance and operation of equipment.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 375.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs375" data-uslm-ref="/us/usc/t10/s375">375.</a>  </td>
 
     <td> Restriction on direct participation by military personnel.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 376.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs376" data-uslm-ref="/us/usc/t10/s376">376.</a>  </td>
 
     <td> Support not to affect adversely military preparedness.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 377.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs377" data-uslm-ref="/us/usc/t10/s377">377.</a>  </td>
 
     <td> Reimbursement.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 378.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs378" data-uslm-ref="/us/usc/t10/s378">378.</a>  </td>
 
     <td> Nonpreemption of other law.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 379.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs379" data-uslm-ref="/us/usc/t10/s379">379.</a>  </td>
 
     <td> Assignment of Coast Guard personnel to naval vessels for law enforcement purposes.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 380.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs380" data-uslm-ref="/us/usc/t10/s380">380.</a>  </td>
 
     <td> Enhancement of cooperation with civilian law enforcement officials.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs381" data-uslm-ref="/us/usc/t10/s381">381.</a>  </td>
 
     <td> Procurement of equipment by State and local governments through the Department of Defense: equipment for counter-drug, homeland security, and emergency response activities.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 382.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs382" data-uslm-ref="/us/usc/t10/s382">382.</a>  </td>
 
     <td> Emergency situations involving weapons of mass destruction.  </td>
 

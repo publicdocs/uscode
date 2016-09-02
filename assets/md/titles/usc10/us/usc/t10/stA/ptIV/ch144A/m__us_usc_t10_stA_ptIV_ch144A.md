@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2445a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2445a" data-uslm-ref="/us/usc/t10/s2445a">2445a.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2445b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2445b" data-uslm-ref="/us/usc/t10/s2445b">2445b.</a>  </td>
 
     <td> Cost, schedule, and performance information.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2445c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2445c" data-uslm-ref="/us/usc/t10/s2445c">2445c.</a>  </td>
 
     <td> Reports: quarterly reports; reports on program changes.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2445d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2445d" data-uslm-ref="/us/usc/t10/s2445d">2445d.</a>  </td>
 
     <td> Construction with other reporting requirements.  </td>
 

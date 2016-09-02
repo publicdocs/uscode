@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 16301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16301" data-uslm-ref="/us/usc/t10/s16301">16301.</a>  </td>
 
     <td> Education loan repayment program: members of Selected Reserve.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 16302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16302" data-uslm-ref="/us/usc/t10/s16302">16302.</a>  </td>
 
     <td> Education loan repayment program: health professions officers serving in Selected Reserve with wartime critical medical skill shortages.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 16303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16303" data-uslm-ref="/us/usc/t10/s16303">16303.</a>  </td>
 
     <td> Loan repayment program: chaplains serving in the Selected Reserve.  </td>
 

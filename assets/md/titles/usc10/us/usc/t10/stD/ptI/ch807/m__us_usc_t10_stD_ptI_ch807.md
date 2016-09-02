@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8061.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8061" data-uslm-ref="/us/usc/t10/s8061">8061.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8062.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8062" data-uslm-ref="/us/usc/t10/s8062">8062.</a>  </td>
 
     <td> Policy; composition; aircraft authorization.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [8066.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8066" data-uslm-ref="/us/usc/t10/s8066">8066.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8067.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8067" data-uslm-ref="/us/usc/t10/s8067">8067.</a>  </td>
 
     <td> Designation: officers to perform certain professional functions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8069.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8069" data-uslm-ref="/us/usc/t10/s8069">8069.</a>  </td>
 
     <td> Air Force nurses: Chief and assistant chief; appointment; grade.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [8071.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8071" data-uslm-ref="/us/usc/t10/s8071">8071.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [8072.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8072" data-uslm-ref="/us/usc/t10/s8072">8072.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 8074.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8074" data-uslm-ref="/us/usc/t10/s8074">8074.</a>  </td>
 
     <td> Commands: territorial organization.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 8075.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8075" data-uslm-ref="/us/usc/t10/s8075">8075.</a>  </td>
 
     <td> Regular Air Force: composition.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [8076 to 8080.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8076" data-uslm-ref="/us/usc/t10/s8076">8076</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8080" data-uslm-ref="/us/usc/t10/s8080">8080.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 8081.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8081" data-uslm-ref="/us/usc/t10/s8081">8081.</a>  </td>
 
     <td> Assistant Surgeon General for Dental Services.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 8084.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8084" data-uslm-ref="/us/usc/t10/s8084">8084.</a>  </td>
 
     <td> Officer career field for space.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [9741 to 9748.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9741" data-uslm-ref="/us/usc/t10/s9741">9741</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9748" data-uslm-ref="/us/usc/t10/s9748">9748.</a>  </td>
 
     <td> Repealed.]  </td>
 

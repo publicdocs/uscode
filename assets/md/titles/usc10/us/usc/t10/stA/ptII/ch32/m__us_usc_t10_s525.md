@@ -25,7 +25,7 @@
 
             (A) 7 officers in the grade of general;
 
-            (B) 45 officers in a grade above the grade of major general; or
+            (B) 46 officers in a grade above the grade of major general; or
 
             (C) 90 officers in the grade of major general;
 
@@ -35,7 +35,7 @@
 
             (A) 9 officers in the grade of general;
 
-            (B) 43 officers in a grade above the grade of major general; or
+            (B) 44 officers in a grade above the grade of major general; or
 
             (C) 73 officers in the grade of major general;
 
@@ -45,7 +45,7 @@
 
             (A) 6 officers in the grade of admiral;
 
-            (B) 32 officers in a grade above the grade of rear admiral; or
+            (B) 33 officers in a grade above the grade of rear admiral; or
 
             (C) 50 officers in the grade of rear admiral;
 
@@ -57,7 +57,7 @@
 
             (B) 15 officers in a grade above the grade of major general; or
 
-            (C) 22 officers in the grade of major general.
+            (C) 23 officers in the grade of major general.
 
     (b)
 
@@ -107,23 +107,11 @@
 
 (Added [Pub. L. 96–513, title I, § 103][/us/pl/96/513/s103], Dec. 12, 1980, [94 Stat. 2844][/us/stat/94/2844]; amended [Pub. L. 97–86, title IV, § 405(b)(1)][/us/pl/97/86/s405/b/1], Dec. 1, 1981, [95 Stat. 1105][/us/stat/95/1105]; [Pub. L. 99–145, title V, § 514(b)(1)][/us/pl/99/145/s514/b/1], Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628]; [Pub. L. 99–433, title II, § 202(a)][/us/pl/99/433/s202/a], Oct. 1, 1986, [100 Stat. 1010][/us/stat/100/1010]; [Pub. L. 100–180, div. A, title V, § 511(a)][/us/pl/100/180/s511/a], Dec. 4, 1987, [101 Stat. 1088][/us/stat/101/1088]; [Pub. L. 101–510, div. A, title IV, § 405][/us/pl/101/510/s405], Nov. 5, 1990, [104 Stat. 1546][/us/stat/104/1546]; [Pub. L. 103–337, div. A, title IV, § 405(a)][/us/pl/103/337/s405/a], Oct. 5, 1994, [108 Stat. 2744][/us/stat/108/2744]; [Pub. L. 104–106, div. A, title IV, § 403(a)][/us/pl/104/106/s403/a], Feb. 10, 1996, [110 Stat. 286][/us/stat/110/286]; [Pub. L. 104–201, div. A, title IV, § 404(b)][/us/pl/104/201/s404/b], Sept. 23, 1996, [110 Stat. 2506][/us/stat/110/2506]; [Pub. L. 105–261, div. A, title IV][/us/pl/105/261], §§ 404, 406, Oct. 17, 1998, [112 Stat. 1996][/us/stat/112/1996]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65], §§ 509(b), (c), 532(b), Oct. 5, 1999, [113 Stat. 592][/us/stat/113/592], 604; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 507(g)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–105; [Pub. L. 107–314, div. A, title IV][/us/pl/107/314], §§ 404(a), (b), 405(b), Dec. 2, 2002, [116 Stat. 2525][/us/stat/116/2525], 2526; [Pub. L. 108–136, div. A, title V, § 504(b)][/us/pl/108/136/s504/b], Nov. 24, 2003, [117 Stat. 1456][/us/stat/117/1456]; [Pub. L. 109–163, div. A, title V, § 503(a)][/us/pl/109/163/s503/a], Jan. 6, 2006, [119 Stat. 3226][/us/stat/119/3226]; [Pub. L. 109–364, div. A, title V, § 507(b)][/us/pl/109/364/s507/b], Oct. 17, 2006, [120 Stat. 2180][/us/stat/120/2180]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181], §§ 501(b), 543(d), Jan. 28, 2008, [122 Stat. 94][/us/stat/122/94], 115; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, §§ 503(d), 504(b), Oct. 14, 2008, [122 Stat. 4433][/us/stat/122/4433], 4434; [Pub. L. 111–84, div. A, title V, § 502(b)][/us/pl/111/84/s502/b]–(d), Oct. 28, 2009, [123 Stat. 2273–2275][/us/stat/123/2273-2275]; [Pub. L. 111–383, div. A, title X, § 1075(b)(12)][/us/pl/111/383/s1075/b/12], (d)(2), Jan. 7, 2011, [124 Stat. 4369][/us/stat/124/4369], 4372; [Pub. L. 112–81, div. A, title V][/us/pl/112/81], §§ 502(a)(1), (b)(2), 511(a)(3), Dec. 31, 2011, [125 Stat. 1386][/us/stat/125/1386], 1387, 1391.)
 
- __Amendment of Subsection (a)__ 
-
-[Pub. L. 112–81, div. A, title V, § 502(b)(2)][/us/pl/112/81/s502/b/2], (3), Dec. 31, 2011, [125 Stat. 1387][/us/stat/125/1387], provided that, effective Oct. 1, 2013, subsection (a) of this section is amended:
-
-(1) in paragraph (1)(B), by striking “45” and inserting “46”;
-
-(2) in paragraph (2)(B), by striking “43” and inserting “44”;
-
-(3) in paragraph (3)(B), by striking “32” and inserting “33”; and
-
-(4) in paragraph (4)(C), by striking “22” and inserting “23”.
-
- See 2011 Amendment note below.
-
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 112–81, § 502(b)(2)][/us/pl/112/81/s502/b/2], substituted “46” for “45” in par. (1)(B), “44” for “43” in par. (2)(B), “33” for “32” in par. (3)(B), and “23” for “22” in par. (4)(C).
+    2011—Subsec. (a). [Pub. L. 112–81, § 502(b)(2)(A)][/us/pl/112/81/s502/b/2/A]–(C), substituted “46” for “45” in par. (1)(B), “44” for “43” in par. (2)(B), and “33” for “32” in par. (3)(B).
+
+    Subsec. (a)(4)(C). [Pub. L. 112–81, § 502(b)(2)(D)][/us/pl/112/81/s502/b/2/D], substituted “23” for “22”.
 
     Subsec. (b). [Pub. L. 112–81, § 502(a)(1)][/us/pl/112/81/s502/a/1], amended subsec. (b) generally. Prior to amendment, subsec. (b) related to exclusions from limitations on appointment of general officers on active duty in the Army, Air Force, and Marine Corps and flag officers on active duty in the Navy.
 
@@ -355,9 +343,8 @@ Temporary increases in the number of officers authorized in particular grades un
 [/us/stat/124/4369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4369
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/stat/125/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1386
-[/us/pl/112/81/s502/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs502%2Fb%2F2
-[/us/stat/125/1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1387
-[/us/pl/112/81/s502/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs502%2Fb%2F2
+[/us/pl/112/81/s502/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs502%2Fb%2F2%2FA
+[/us/pl/112/81/s502/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs502%2Fb%2F2%2FD
 [/us/pl/112/81/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs502%2Fa%2F1
 [/us/pl/112/81/s511/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs511%2Fa%2F3%2FA
 [/us/pl/111/383/s1075/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fd%2F2

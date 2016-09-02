@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs151" data-uslm-ref="/us/usc/t10/s151">151.</a>  </td>
 
     <td> Joint Chiefs of Staff: composition; functions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs152" data-uslm-ref="/us/usc/t10/s152">152.</a>  </td>
 
     <td> Chairman: appointment; grade and rank.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs153" data-uslm-ref="/us/usc/t10/s153">153.</a>  </td>
 
     <td> Chairman: functions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs154" data-uslm-ref="/us/usc/t10/s154">154.</a>  </td>
 
     <td> Vice Chairman.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs155" data-uslm-ref="/us/usc/t10/s155">155.</a>  </td>
 
     <td> Joint Staff.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 155a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs155a" data-uslm-ref="/us/usc/t10/s155a">155a.</a>  </td>
 
     <td> Assistants to the Chairman of the Joint Chiefs of Staff for National Guard matters and Reserve matters.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 156.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs156" data-uslm-ref="/us/usc/t10/s156">156.</a>  </td>
 
     <td> Legal Counsel to the Chairman of the Joint Chiefs of Staff.  </td>
 

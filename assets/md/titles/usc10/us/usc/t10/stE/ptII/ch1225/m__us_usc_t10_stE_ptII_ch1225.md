@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 12771.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12771" data-uslm-ref="/us/usc/t10/s12771">12771.</a>  </td>
 
     <td> Reserve officers: grade on transfer to Retired Reserve.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 12772.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12772" data-uslm-ref="/us/usc/t10/s12772">12772.</a>  </td>
 
     <td> Reserve commissioned officers who have served as Attending Physician to the Congress: grade on transfer to Retired Reserve.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 12773.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12773" data-uslm-ref="/us/usc/t10/s12773">12773.</a>  </td>
 
     <td> Limitation on accrual of increased pay or benefits.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 12774.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12774" data-uslm-ref="/us/usc/t10/s12774">12774.</a>  </td>
 
     <td> Retired lists.  </td>
 

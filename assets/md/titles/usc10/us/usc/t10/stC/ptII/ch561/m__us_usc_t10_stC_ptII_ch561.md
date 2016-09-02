@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6141" data-uslm-ref="/us/usc/t10/s6141">6141.</a>  </td>
 
     <td> Presentation of United States flag upon retirement.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [6142 to 6150.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6142" data-uslm-ref="/us/usc/t10/s6142">6142</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6150" data-uslm-ref="/us/usc/t10/s6150">6150.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6151" data-uslm-ref="/us/usc/t10/s6151">6151.</a>  </td>
 
     <td> Higher retired grade and pay for members who serve satisfactorily under temporary appointments.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6152" data-uslm-ref="/us/usc/t10/s6152">6152.</a>  </td>
 
     <td> Emergency shore duty: advance of funds.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6153" data-uslm-ref="/us/usc/t10/s6153">6153.</a>  </td>
 
     <td> Shore patrol duty: payment of expenses.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6154" data-uslm-ref="/us/usc/t10/s6154">6154.</a>  </td>
 
     <td> Mileage books: commutation tickets.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6155" data-uslm-ref="/us/usc/t10/s6155">6155.</a>  </td>
 
     <td> Uniforms, accouterments, and equipment: sale at cost.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6156.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6156" data-uslm-ref="/us/usc/t10/s6156">6156.</a>  </td>
 
     <td> Uniform: sale to former members of the naval service.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> [6157 to 6159.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6157" data-uslm-ref="/us/usc/t10/s6157">6157</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6159" data-uslm-ref="/us/usc/t10/s6159">6159.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 6160.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6160" data-uslm-ref="/us/usc/t10/s6160">6160.</a>  </td>
 
     <td> Pension to persons serving ten years.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 6161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6161" data-uslm-ref="/us/usc/t10/s6161">6161.</a>  </td>
 
     <td> Settlement of accounts: remission or cancellation of indebtedness of members.  </td>
 

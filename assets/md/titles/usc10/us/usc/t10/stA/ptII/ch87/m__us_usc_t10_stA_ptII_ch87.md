@@ -29,51 +29,51 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch87%2FschI" data-uslm-ref="/us/usc/t10/stA/ptII/ch87/schI">I.</a>  </td>
 
     <td> General Authorities and Responsibilities  </td>
 
-    <td> 1701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1701" data-uslm-ref="/us/usc/t10/s1701">1701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch87%2FschII" data-uslm-ref="/us/usc/t10/stA/ptII/ch87/schII">II.</a>  </td>
 
     <td> Defense Acquisition Positions  </td>
 
-    <td> 1721  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1721" data-uslm-ref="/us/usc/t10/s1721">1721</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch87%2FschIII" data-uslm-ref="/us/usc/t10/stA/ptII/ch87/schIII">III.</a>  </td>
 
     <td> Acquisition Corps  </td>
 
-    <td> 1731  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1731" data-uslm-ref="/us/usc/t10/s1731">1731</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch87%2FschIV" data-uslm-ref="/us/usc/t10/stA/ptII/ch87/schIV">IV.</a>  </td>
 
     <td> Education and Training  </td>
 
-    <td> 1741  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1741" data-uslm-ref="/us/usc/t10/s1741">1741</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> V.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch87%2FschV" data-uslm-ref="/us/usc/t10/stA/ptII/ch87/schV">V.</a>  </td>
 
     <td> General Management Provisions  </td>
 
-    <td> 1761  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1761" data-uslm-ref="/us/usc/t10/s1761">1761</a>  </td>
 
   </tr>
 

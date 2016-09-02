@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2201" data-uslm-ref="/us/usc/t10/s2201">2201.</a>  </td>
 
     <td> Apportionment of funds: authority for exemption; excepted expenses.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2202" data-uslm-ref="/us/usc/t10/s2202">2202.</a>  </td>
 
     <td> Regulations on procurement, production, warehousing, and supply distribution functions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2203" data-uslm-ref="/us/usc/t10/s2203">2203.</a>  </td>
 
     <td> Budget estimates.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2204" data-uslm-ref="/us/usc/t10/s2204">2204.</a>  </td>
 
     <td> Obligation of appropriations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2205" data-uslm-ref="/us/usc/t10/s2205">2205.</a>  </td>
 
     <td> Reimbursements.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2206" data-uslm-ref="/us/usc/t10/s2206">2206.</a>  </td>
 
     <td> Disbursement of funds of military department to cover obligation of another agency of Department of Defense.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2207" data-uslm-ref="/us/usc/t10/s2207">2207.</a>  </td>
 
     <td> Expenditure of appropriations: limitation.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2208.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2208" data-uslm-ref="/us/usc/t10/s2208">2208.</a>  </td>
 
     <td> Working-capital funds.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2209.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2209" data-uslm-ref="/us/usc/t10/s2209">2209.</a>  </td>
 
     <td> Management funds.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2210.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2210" data-uslm-ref="/us/usc/t10/s2210">2210.</a>  </td>
 
     <td> Proceeds of sales of supplies: credit to appropriations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2211" data-uslm-ref="/us/usc/t10/s2211">2211.</a>  </td>
 
     <td> Reimbursement for equipment, material, or services furnished members of the United Nations.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2212" data-uslm-ref="/us/usc/t10/s2212">2212.</a>  </td>
 
     <td> Obligations for contract services: reporting in budget object classes.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2213" data-uslm-ref="/us/usc/t10/s2213">2213.</a>  </td>
 
     <td> Limitation on acquisition of excess supplies.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2214" data-uslm-ref="/us/usc/t10/s2214">2214.</a>  </td>
 
     <td> Transfer of funds: procedure and limitations.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2215.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2215" data-uslm-ref="/us/usc/t10/s2215">2215.</a>  </td>
 
     <td> Transfer of funds to other departments and agencies: limitation.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 2216.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2216" data-uslm-ref="/us/usc/t10/s2216">2216.</a>  </td>
 
     <td> Defense Modernization Account.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 2216a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2216a" data-uslm-ref="/us/usc/t10/s2216a">2216a.</a>  </td>
 
     <td> Rapidly meeting urgent needs: Joint Urgent Operational Needs Fund.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 2217.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2217" data-uslm-ref="/us/usc/t10/s2217">2217.</a>  </td>
 
     <td> Comparable budgeting for common procurement weapon systems.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 2218.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2218" data-uslm-ref="/us/usc/t10/s2218">2218.</a>  </td>
 
     <td> National Defense Sealift Fund.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> [2219.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2219" data-uslm-ref="/us/usc/t10/s2219">2219.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 2220.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2220" data-uslm-ref="/us/usc/t10/s2220">2220.</a>  </td>
 
     <td> Performance based management: acquisition programs.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> [2221.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2221" data-uslm-ref="/us/usc/t10/s2221">2221.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 2222.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2222" data-uslm-ref="/us/usc/t10/s2222">2222.</a>  </td>
 
     <td> Defense business systems: architecture, accountability, and modernization.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 2223.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2223" data-uslm-ref="/us/usc/t10/s2223">2223.</a>  </td>
 
     <td> Information technology: additional responsibilities of Chief Information Officers.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 2223a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2223a" data-uslm-ref="/us/usc/t10/s2223a">2223a.</a>  </td>
 
     <td> Information technology acquisition planning and oversight requirements.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 2224.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2224" data-uslm-ref="/us/usc/t10/s2224">2224.</a>  </td>
 
     <td> Defense Information Assurance Program.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 2224a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2224a" data-uslm-ref="/us/usc/t10/s2224a">2224a.</a>  </td>
 
     <td> Information security: continued applicability of expiring Governmentwide requirements to the Department of Defense.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 2225.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2225" data-uslm-ref="/us/usc/t10/s2225">2225.</a>  </td>
 
     <td> Information technology purchases: tracking and management.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 2226.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2226" data-uslm-ref="/us/usc/t10/s2226">2226.</a>  </td>
 
     <td> Contracted property and services: prompt payment of vouchers.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 2227.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2227" data-uslm-ref="/us/usc/t10/s2227">2227.</a>  </td>
 
     <td> Electronic submission and processing of claims for contract payments.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 2228.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2228" data-uslm-ref="/us/usc/t10/s2228">2228.</a>  </td>
 
     <td> Office of Corrosion Policy and Oversight.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 2229.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2229" data-uslm-ref="/us/usc/t10/s2229">2229.</a>  </td>
 
     <td> Strategic policy on prepositioning of materiel and equipment.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 2229a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2229a" data-uslm-ref="/us/usc/t10/s2229a">2229a.</a>  </td>
 
     <td> Annual report on prepositioned materiel and equipment.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2191.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2191" data-uslm-ref="/us/usc/t10/s2191">2191.</a>  </td>
 
     <td> Graduate fellowships.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2192.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2192" data-uslm-ref="/us/usc/t10/s2192">2192.</a>  </td>
 
     <td> Improvement of education in technical fields: general authority regarding education in science, mathematics, and engineering.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2192a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2192a" data-uslm-ref="/us/usc/t10/s2192a">2192a.</a>  </td>
 
     <td> Science, Mathematics, and Research for Transformation (SMART) Defense Education Program.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2193.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2193" data-uslm-ref="/us/usc/t10/s2193">2193.</a>  </td>
 
     <td> Improvement of education in technical fields: grants for higher education in science and mathematics.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2193a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2193a" data-uslm-ref="/us/usc/t10/s2193a">2193a.</a>  </td>
 
     <td> Improvement of education in technical fields: general authority for support of elementary and secondary education in science and mathematics.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2193b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2193b" data-uslm-ref="/us/usc/t10/s2193b">2193b.</a>  </td>
 
     <td> Improvement of education in technical fields: program for support of elementary and secondary education in science, mathematics, and technology.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2194.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2194" data-uslm-ref="/us/usc/t10/s2194">2194.</a>  </td>
 
     <td> Education partnerships.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2195.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2195" data-uslm-ref="/us/usc/t10/s2195">2195.</a>  </td>
 
     <td> Department of Defense cooperative education programs.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2196.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2196" data-uslm-ref="/us/usc/t10/s2196">2196.</a>  </td>
 
     <td> Manufacturing engineering education: grant program.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2197.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2197" data-uslm-ref="/us/usc/t10/s2197">2197.</a>  </td>
 
     <td> Manufacturing experts in the classroom.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2198.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2198" data-uslm-ref="/us/usc/t10/s2198">2198.</a>  </td>
 
     <td> Management training program in Japanese language and culture.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2199.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2199" data-uslm-ref="/us/usc/t10/s2199">2199.</a>  </td>
 
     <td> Definitions.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8251" data-uslm-ref="/us/usc/t10/s8251">8251.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8252" data-uslm-ref="/us/usc/t10/s8252">8252.</a>  </td>
 
     <td> Regular Air Force: gender-free basis for acceptance of original enlistments.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [8253 to 8256.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8253" data-uslm-ref="/us/usc/t10/s8253">8253</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8256" data-uslm-ref="/us/usc/t10/s8256">8256.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8257.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8257" data-uslm-ref="/us/usc/t10/s8257">8257.</a>  </td>
 
     <td> Regular Air Force: aviation cadets; qualifications, grade, limitations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8258.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8258" data-uslm-ref="/us/usc/t10/s8258">8258.</a>  </td>
 
     <td> Regular Air Force: reenlistment after service as an officer.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [8259 to 8263.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8259" data-uslm-ref="/us/usc/t10/s8259">8259</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8263" data-uslm-ref="/us/usc/t10/s8263">8263.</a>  </td>
 
     <td> Repealed.]  </td>
 

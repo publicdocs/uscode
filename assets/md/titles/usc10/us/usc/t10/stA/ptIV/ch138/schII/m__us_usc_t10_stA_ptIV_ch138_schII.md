@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2350a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2350a" data-uslm-ref="/us/usc/t10/s2350a">2350a.</a>  </td>
 
     <td> Cooperative research and development agreements: NATO organizations; allied and friendly foreign countries.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2350b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2350b" data-uslm-ref="/us/usc/t10/s2350b">2350b.</a>  </td>
 
     <td> Cooperative projects under Arms Export Control Act: acquisition of defense equipment.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2350c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2350c" data-uslm-ref="/us/usc/t10/s2350c">2350c.</a>  </td>
 
     <td> Cooperative military airlift agreements: allied countries.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2350d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2350d" data-uslm-ref="/us/usc/t10/s2350d">2350d.</a>  </td>
 
     <td> Cooperative logistic support agreements: NATO countries.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2350e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2350e" data-uslm-ref="/us/usc/t10/s2350e">2350e.</a>  </td>
 
     <td> NATO Airborne Warning and Control System (AWACS) program: authority of Secretary of Defense.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2350f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2350f" data-uslm-ref="/us/usc/t10/s2350f">2350f.</a>  </td>
 
     <td> Procurement of communications support and related supplies and services.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2350g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2350g" data-uslm-ref="/us/usc/t10/s2350g">2350g.</a>  </td>
 
     <td> Authority to accept use of real property, services, and supplies from foreign countries in connection with mutual defense agreements and occupational arrangements.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2350h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2350h" data-uslm-ref="/us/usc/t10/s2350h">2350h.</a>  </td>
 
     <td> Memorandums of agreement: Department of Defense ombudsman for foreign signatories.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2350i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2350i" data-uslm-ref="/us/usc/t10/s2350i">2350i.</a>  </td>
 
     <td> Foreign contributions for cooperative projects.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2350j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2350j" data-uslm-ref="/us/usc/t10/s2350j">2350j.</a>  </td>
 
     <td> Burden sharing contributions by designated countries and regional organizations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2350k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2350k" data-uslm-ref="/us/usc/t10/s2350k">2350k.</a>  </td>
 
     <td> Relocation within host nation of elements of armed forces overseas.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2350l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2350" data-uslm-ref="/us/usc/t10/s2350">2350</a>l.  </td>
 
     <td> Cooperative agreements for reciprocal use of test facilities: foreign countries and international organizations.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2350m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2350m" data-uslm-ref="/us/usc/t10/s2350m">2350m.</a>  </td>
 
     <td> Participation in multinational military centers of excellence.  </td>
 

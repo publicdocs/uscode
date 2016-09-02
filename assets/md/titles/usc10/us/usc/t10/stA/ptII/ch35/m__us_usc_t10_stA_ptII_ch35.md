@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs601" data-uslm-ref="/us/usc/t10/s601">601.</a>  </td>
 
     <td> Positions of importance and responsibility: generals and lieutenant generals; admirals and vice admirals.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [602.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs602" data-uslm-ref="/us/usc/t10/s602">602.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs603" data-uslm-ref="/us/usc/t10/s603">603.</a>  </td>
 
     <td> Appointments in time of war or national emergency.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs604" data-uslm-ref="/us/usc/t10/s604">604.</a>  </td>
 
     <td> Senior joint officer positions: recommendations to the Secretary of Defense.  </td>
 

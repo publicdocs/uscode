@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 16401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16401" data-uslm-ref="/us/usc/t10/s16401">16401.</a>  </td>
 
     <td> Marine Corps Platoon Leaders Class: college tuition assistance program.  </td>
 

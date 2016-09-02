@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [7471.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7471" data-uslm-ref="/us/usc/t10/s7471">7471.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7472" data-uslm-ref="/us/usc/t10/s7472">7472.</a>  </td>
 
     <td>  Physical examination: employees engaged in hazardous occupations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7473.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7473" data-uslm-ref="/us/usc/t10/s7473">7473.</a>  </td>
 
     <td> Employment of aliens.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [7474, 7475.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7474" data-uslm-ref="/us/usc/t10/s7474">7474</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7475" data-uslm-ref="/us/usc/t10/s7475">7475.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7476.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7476" data-uslm-ref="/us/usc/t10/s7476">7476.</a>  </td>
 
     <td> Administration of oaths by clerks and employees.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7477.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7477" data-uslm-ref="/us/usc/t10/s7477">7477.</a>  </td>
 
     <td> Transportation of dependents and household effects of civilian personnel stationed outside the United States: payment in lieu of transportation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7478.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7478" data-uslm-ref="/us/usc/t10/s7478">7478.</a>  </td>
 
     <td> Naval War College and Marine Corps University: civilian faculty members.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7479.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7479" data-uslm-ref="/us/usc/t10/s7479">7479.</a>  </td>
 
     <td> Civil service mariners of Military Sealift Command: release of drug test results to Coast Guard.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 7480.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7480" data-uslm-ref="/us/usc/t10/s7480">7480.</a>  </td>
 
     <td> Special agents of the Naval Criminal Investigative Service: authority to execute warrants and make arrests.  </td>
 

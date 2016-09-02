@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 16201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16201" data-uslm-ref="/us/usc/t10/s16201">16201.</a>  </td>
 
     <td> Financial assistance: health-care professionals in reserve components.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 16202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16202" data-uslm-ref="/us/usc/t10/s16202">16202.</a>  </td>
 
     <td> Reserve service: required active duty for training.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 16203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16203" data-uslm-ref="/us/usc/t10/s16203">16203.</a>  </td>
 
     <td> Penalties and limitations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 16204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16204" data-uslm-ref="/us/usc/t10/s16204">16204.</a>  </td>
 
     <td> Regulations.  </td>
 

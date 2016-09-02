@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 191.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs191" data-uslm-ref="/us/usc/t10/s191">191.</a>  </td>
 
     <td> Secretary of Defense: authority to provide for common performance of supply or service activities.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 192.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs192" data-uslm-ref="/us/usc/t10/s192">192.</a>  </td>
 
     <td> Defense Agencies and Department of Defense Field Activities: oversight by the Secretary of Defense.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 193.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs193" data-uslm-ref="/us/usc/t10/s193">193.</a>  </td>
 
     <td> Combat support agencies: oversight.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 194.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs194" data-uslm-ref="/us/usc/t10/s194">194.</a>  </td>
 
     <td> Limitations on personnel.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 195.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs195" data-uslm-ref="/us/usc/t10/s195">195.</a>  </td>
 
     <td> Defense Automated Printing Service: applicability of Federal printing requirements.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 196.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs196" data-uslm-ref="/us/usc/t10/s196">196.</a>  </td>
 
     <td> Department of Defense Test Resource Management Center.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 197.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs197" data-uslm-ref="/us/usc/t10/s197">197.</a>  </td>
 
     <td> Defense Logistics Agency: fees charged for logistics information.  </td>
 

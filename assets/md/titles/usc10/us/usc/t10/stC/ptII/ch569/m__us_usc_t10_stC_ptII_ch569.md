@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [6291.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6291" data-uslm-ref="/us/usc/t10/s6291">6291.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6292.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6292" data-uslm-ref="/us/usc/t10/s6292">6292.</a>  </td>
 
     <td> Minors enlisted upon false statement of age.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [6293 to 6298.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6293" data-uslm-ref="/us/usc/t10/s6293">6293</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6298" data-uslm-ref="/us/usc/t10/s6298">6298.</a>  </td>
 
     <td> Repealed.]  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3061.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3061" data-uslm-ref="/us/usc/t10/s3061">3061.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3062.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3062" data-uslm-ref="/us/usc/t10/s3062">3062.</a>  </td>
 
     <td> Policy; composition; organized peace establishment.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3063.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3063" data-uslm-ref="/us/usc/t10/s3063">3063.</a>  </td>
 
     <td> Basic branches.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3064.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3064" data-uslm-ref="/us/usc/t10/s3064">3064.</a>  </td>
 
     <td> Special branches.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3065.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3065" data-uslm-ref="/us/usc/t10/s3065">3065.</a>  </td>
 
     <td> Assignment and detail: officers assigned or detailed to basic and special branches.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [3066.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3066" data-uslm-ref="/us/usc/t10/s3066">3066.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3067.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3067" data-uslm-ref="/us/usc/t10/s3067">3067.</a>  </td>
 
     <td> Army Medical Department.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3068.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3068" data-uslm-ref="/us/usc/t10/s3068">3068.</a>  </td>
 
     <td> Medical Service Corps: organization; Chief and assistant chiefs.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3069.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3069" data-uslm-ref="/us/usc/t10/s3069">3069.</a>  </td>
 
     <td> Army Nurse Corps: composition; Chief and assistant chief; appointment; grade.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3070.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3070" data-uslm-ref="/us/usc/t10/s3070">3070.</a>  </td>
 
     <td> Army Medical Specialist Corps: organization; Chief and assistant chiefs.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> [3071.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3071" data-uslm-ref="/us/usc/t10/s3071">3071.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3072.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3072" data-uslm-ref="/us/usc/t10/s3072">3072.</a>  </td>
 
     <td> Judge Advocate General’s Corps.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 3073.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3073" data-uslm-ref="/us/usc/t10/s3073">3073.</a>  </td>
 
     <td> Chaplains.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 3074.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3074" data-uslm-ref="/us/usc/t10/s3074">3074.</a>  </td>
 
     <td> Commands: territorial organization; engineer tactical units.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 3075.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3075" data-uslm-ref="/us/usc/t10/s3075">3075.</a>  </td>
 
     <td> Regular Army: composition.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> [3076 to 3080.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3076" data-uslm-ref="/us/usc/t10/s3076">3076</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3080" data-uslm-ref="/us/usc/t10/s3080">3080.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 3081.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3081" data-uslm-ref="/us/usc/t10/s3081">3081.</a>  </td>
 
     <td> Dental Corps: Chief, functions.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> [3082.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3082" data-uslm-ref="/us/usc/t10/s3082">3082.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 3083.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3083" data-uslm-ref="/us/usc/t10/s3083">3083.</a>  </td>
 
     <td> Public Affairs Specialty.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 3084.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3084" data-uslm-ref="/us/usc/t10/s3084">3084.</a>  </td>
 
     <td> Chief of Veterinary Corps: grade.  </td>
 

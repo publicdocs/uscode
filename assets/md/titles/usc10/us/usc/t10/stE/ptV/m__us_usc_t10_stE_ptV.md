@@ -29,7 +29,7 @@
 
   <tr>
 
-    <td> 1801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptV%2Fch1801" data-uslm-ref="/us/usc/t10/stE/ptV/ch1801">1801.</a>  </td>
 
     <td> Issue of Serviceable Material to Reserve Components. [No present sections]  </td>
 
@@ -39,21 +39,21 @@
 
   <tr>
 
-    <td> 1803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptV%2Fch1803" data-uslm-ref="/us/usc/t10/stE/ptV/ch1803">1803.</a>  </td>
 
     <td> Facilities for Reserve Components  </td>
 
-    <td> 18231  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs18231" data-uslm-ref="/us/usc/t10/s18231">18231</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptV%2Fch1805" data-uslm-ref="/us/usc/t10/stE/ptV/ch1805">1805.</a>  </td>
 
     <td> Miscellaneous Provisions  </td>
 
-    <td> 18501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs18501" data-uslm-ref="/us/usc/t10/s18501">18501</a>  </td>
 
   </tr>
 

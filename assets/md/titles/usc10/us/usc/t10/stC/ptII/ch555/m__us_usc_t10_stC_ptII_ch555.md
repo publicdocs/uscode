@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6011" data-uslm-ref="/us/usc/t10/s6011">6011.</a>  </td>
 
     <td> Navy Regulations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6012" data-uslm-ref="/us/usc/t10/s6012">6012.</a>  </td>
 
     <td> Additional regulations for Marine Corps.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6013" data-uslm-ref="/us/usc/t10/s6013">6013.</a>  </td>
 
     <td> Enlisted grades and ratings: authority to establish.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6014.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6014" data-uslm-ref="/us/usc/t10/s6014">6014.</a>  </td>
 
     <td> Enlisted members: authority for transfer between Marine Corps and Hospital Corps of the Navy.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [6015 to 6018.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6015" data-uslm-ref="/us/usc/t10/s6015">6015</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6018" data-uslm-ref="/us/usc/t10/s6018">6018.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6019.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6019" data-uslm-ref="/us/usc/t10/s6019">6019.</a>  </td>
 
     <td> Citizenship of officers of vessels.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [6020.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6020" data-uslm-ref="/us/usc/t10/s6020">6020.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6021.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6021" data-uslm-ref="/us/usc/t10/s6021">6021.</a>  </td>
 
     <td> Aviation duties: number of personnel assigned.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 6022.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6022" data-uslm-ref="/us/usc/t10/s6022">6022.</a>  </td>
 
     <td> Aviation training facilities.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [6023.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6023" data-uslm-ref="/us/usc/t10/s6023">6023.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 6024.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6024" data-uslm-ref="/us/usc/t10/s6024">6024.</a>  </td>
 
     <td> Aviation designations: naval flight officer.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> [6025, 6026.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6025" data-uslm-ref="/us/usc/t10/s6025">6025</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6026" data-uslm-ref="/us/usc/t10/s6026">6026.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 6027.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6027" data-uslm-ref="/us/usc/t10/s6027">6027.</a>  </td>
 
     <td> Medical Department: composition.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> [6028.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6028" data-uslm-ref="/us/usc/t10/s6028">6028.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 6029.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6029" data-uslm-ref="/us/usc/t10/s6029">6029.</a>  </td>
 
     <td> Dental services: responsibilities of senior dental officer.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> [6030.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6030" data-uslm-ref="/us/usc/t10/s6030">6030.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 6031.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6031" data-uslm-ref="/us/usc/t10/s6031">6031.</a>  </td>
 
     <td> Chaplains: divine services.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 6032.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6032" data-uslm-ref="/us/usc/t10/s6032">6032.</a>  </td>
 
     <td> Indebtedness to Marine Corps Exchanges: payment from appropriated funds in certain cases.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> [6033, 6034.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6033" data-uslm-ref="/us/usc/t10/s6033">6033</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6034" data-uslm-ref="/us/usc/t10/s6034">6034.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 6035.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6035" data-uslm-ref="/us/usc/t10/s6035">6035.</a>  </td>
 
     <td> Female members: congressional review period for assignment to duty on submarines or for reconfiguration of submarines.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 6036.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6036" data-uslm-ref="/us/usc/t10/s6036">6036.</a>  </td>
 
     <td> Fatality reviews.  </td>
 

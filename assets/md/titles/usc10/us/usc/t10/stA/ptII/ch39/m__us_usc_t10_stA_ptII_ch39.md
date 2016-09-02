@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 671.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs671" data-uslm-ref="/us/usc/t10/s671">671.</a>  </td>
 
     <td> Members not to be assigned outside United States before completing training.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 671a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs671a" data-uslm-ref="/us/usc/t10/s671a">671a.</a>  </td>
 
     <td> Members: service extension during war.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 671b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs671b" data-uslm-ref="/us/usc/t10/s671b">671b.</a>  </td>
 
     <td> Members: service extension when Congress is not in session.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 672.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs672" data-uslm-ref="/us/usc/t10/s672">672.</a>  </td>
 
     <td> Reference to chapter 1209.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 673.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs673" data-uslm-ref="/us/usc/t10/s673">673.</a>  </td>
 
     <td> Consideration of application for permanent change of station or unit transfer for members on active duty who are the victim of a sexual assault or related offense.  </td>
 
@@ -65,15 +65,15 @@
 
   <tr>
 
-    <td> [674 to 687. Renumbered.]  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs674" data-uslm-ref="/us/usc/t10/s674">674</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs687" data-uslm-ref="/us/usc/t10/s687">687.</a>  </td>
 
-    <td>   </td>
+    <td> Renumbered.]  </td>
 
   </tr>
 
   <tr>
 
-    <td> 688.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs688" data-uslm-ref="/us/usc/t10/s688">688.</a>  </td>
 
     <td> Retired members: authority to order to active duty; duties.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 688a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs688a" data-uslm-ref="/us/usc/t10/s688a">688a.</a>  </td>
 
     <td> Retired members: temporary authority to order to active duty in high-demand, low-density assignments.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 689.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs689" data-uslm-ref="/us/usc/t10/s689">689.</a>  </td>
 
     <td> Retired members: grade in which ordered to active duty and upon release from active duty.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 690.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs690" data-uslm-ref="/us/usc/t10/s690">690.</a>  </td>
 
     <td> Retired members ordered to active duty: limitation on number.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 691.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs691" data-uslm-ref="/us/usc/t10/s691">691.</a>  </td>
 
     <td> Permanent end strength levels to support two major regional contingencies.  </td>
 

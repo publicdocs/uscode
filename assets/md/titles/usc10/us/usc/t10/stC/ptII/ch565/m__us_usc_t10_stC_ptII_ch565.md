@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6221" data-uslm-ref="/us/usc/t10/s6221">6221.</a>  </td>
 
     <td> United States Navy Band; officer in charge.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6222.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6222" data-uslm-ref="/us/usc/t10/s6222">6222.</a>  </td>
 
     <td> United States Marine Band; United States Marine Drum and Bugle Corps: composition; appointment and promotion of members.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [6223, 6224.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6223" data-uslm-ref="/us/usc/t10/s6223">6223</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6224" data-uslm-ref="/us/usc/t10/s6224">6224.</a>  </td>
 
     <td> Repealed.]  </td>
 

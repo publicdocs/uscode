@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3251" data-uslm-ref="/us/usc/t10/s3251">3251.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3252" data-uslm-ref="/us/usc/t10/s3252">3252.</a>  </td>
 
     <td> Bonus to encourage Army personnel to refer persons for enlistment in the Army.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [3253 to 3256.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3253" data-uslm-ref="/us/usc/t10/s3253">3253</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3256" data-uslm-ref="/us/usc/t10/s3256">3256.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3258.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3258" data-uslm-ref="/us/usc/t10/s3258">3258.</a>  </td>
 
     <td> Regular Army: reenlistment after service as an officer.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [3259 to 3261.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3259" data-uslm-ref="/us/usc/t10/s3259">3259</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3261" data-uslm-ref="/us/usc/t10/s3261">3261.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3262.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3262" data-uslm-ref="/us/usc/t10/s3262">3262.</a>  </td>
 
     <td> Army: percentage of high-school graduates.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [3263, 3264.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3263" data-uslm-ref="/us/usc/t10/s3263">3263</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3264" data-uslm-ref="/us/usc/t10/s3264">3264.</a>  </td>
 
     <td> Repealed.]  </td>
 

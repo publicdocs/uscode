@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 10501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10501" data-uslm-ref="/us/usc/t10/s10501">10501.</a>  </td>
 
     <td> National Guard Bureau.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 10502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10502" data-uslm-ref="/us/usc/t10/s10502">10502.</a>  </td>
 
     <td> Chief of the National Guard Bureau: appointment; adviser on National Guard matters; grade; succession.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 10503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10503" data-uslm-ref="/us/usc/t10/s10503">10503.</a>  </td>
 
     <td> Functions of National Guard Bureau: charter.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 10504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10504" data-uslm-ref="/us/usc/t10/s10504">10504.</a>  </td>
 
     <td> Chief of National Guard Bureau: annual report.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 10505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10505" data-uslm-ref="/us/usc/t10/s10505">10505.</a>  </td>
 
     <td> Vice Chief of the National Guard Bureau.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 10506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10506" data-uslm-ref="/us/usc/t10/s10506">10506.</a>  </td>
 
     <td> Other senior National Guard Bureau officers.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 10507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10507" data-uslm-ref="/us/usc/t10/s10507">10507.</a>  </td>
 
     <td> National Guard Bureau: assignment of officers of regular or reserve components.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 10508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10508" data-uslm-ref="/us/usc/t10/s10508">10508.</a>  </td>
 
     <td> National Guard Bureau: general provisions.  </td>
 

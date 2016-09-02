@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 619.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs619" data-uslm-ref="/us/usc/t10/s619">619.</a>  </td>
 
     <td> Eligibility for consideration for promotion: time-in-grade and other requirements.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 619a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs619a" data-uslm-ref="/us/usc/t10/s619a">619a.</a>  </td>
 
     <td> Eligibility for consideration for promotion: designation as joint qualified officer required before promotion to general or flag grade; exceptions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 620.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs620" data-uslm-ref="/us/usc/t10/s620">620.</a>  </td>
 
     <td> Active-duty lists.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs621" data-uslm-ref="/us/usc/t10/s621">621.</a>  </td>
 
     <td> Competitive categories for promotion.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs622" data-uslm-ref="/us/usc/t10/s622">622.</a>  </td>
 
     <td> Numbers to be recommended for promotion.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 623.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs623" data-uslm-ref="/us/usc/t10/s623">623.</a>  </td>
 
     <td> Establishment of promotion zones.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 624.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs624" data-uslm-ref="/us/usc/t10/s624">624.</a>  </td>
 
     <td> Promotions: how made.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 625.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs625" data-uslm-ref="/us/usc/t10/s625">625.</a>  </td>
 
     <td> Authority to vacate promotions to grades of brigadier general and rear admiral (lower half).  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 626.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs626" data-uslm-ref="/us/usc/t10/s626">626.</a>  </td>
 
     <td> Acceptance of promotions; oath of office.  </td>
 

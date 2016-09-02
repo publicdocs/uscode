@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1761.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1761" data-uslm-ref="/us/usc/t10/s1761">1761.</a>  </td>
 
     <td> Management information system.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1762.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1762" data-uslm-ref="/us/usc/t10/s1762">1762.</a>  </td>
 
     <td> Demonstration project relating to certain acquisition personnel management policies and procedures.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [1763.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1763" data-uslm-ref="/us/usc/t10/s1763">1763.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1764.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1764" data-uslm-ref="/us/usc/t10/s1764">1764.</a>  </td>
 
     <td> Authority to establish different minimum requirements.  </td>
 

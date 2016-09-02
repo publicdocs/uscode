@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7881.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7881" data-uslm-ref="/us/usc/t10/s7881">7881.</a>  </td>
 
     <td> Unauthorized use of Marine Corps insignia.  </td>
 

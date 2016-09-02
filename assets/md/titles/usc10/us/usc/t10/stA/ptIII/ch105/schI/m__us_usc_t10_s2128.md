@@ -29,6 +29,10 @@
 
 (Added [Pub. L. 110–181, div. A, title VI, § 623(a)][/us/pl/110/181/s623/a], Jan. 28, 2008, [122 Stat. 152][/us/stat/122/152].)
 
+ __Prior Provisions__ 
+
+    Prior sections 2128 to 2130 were renumbered sections 16201 to 16203 of this title, respectively.
+
  __Effective Date__ 
 
 [Pub. L. 110–181, div. A, title VI, § 623(c)][/us/pl/110/181/s623/c], Jan. 28, 2008, [122 Stat. 152][/us/stat/122/152], provided that: 

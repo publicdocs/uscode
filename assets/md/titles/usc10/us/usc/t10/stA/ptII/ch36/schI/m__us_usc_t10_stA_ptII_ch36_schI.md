@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs611" data-uslm-ref="/us/usc/t10/s611">611.</a>  </td>
 
     <td> Convening of selection boards.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs612" data-uslm-ref="/us/usc/t10/s612">612.</a>  </td>
 
     <td> Composition of selection boards.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs613" data-uslm-ref="/us/usc/t10/s613">613.</a>  </td>
 
     <td> Oath of members of selection boards.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 613a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs613a" data-uslm-ref="/us/usc/t10/s613a">613a.</a>  </td>
 
     <td> Nondisclosure of board proceedings.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 614.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs614" data-uslm-ref="/us/usc/t10/s614">614.</a>  </td>
 
     <td> Notice of convening of selection boards.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 615.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs615" data-uslm-ref="/us/usc/t10/s615">615.</a>  </td>
 
     <td> Information furnished to selection boards.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 616.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs616" data-uslm-ref="/us/usc/t10/s616">616.</a>  </td>
 
     <td> Recommendations for promotion by selection boards.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 617.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs617" data-uslm-ref="/us/usc/t10/s617">617.</a>  </td>
 
     <td> Reports of selection boards.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 618.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs618" data-uslm-ref="/us/usc/t10/s618">618.</a>  </td>
 
     <td> Action on reports of selection boards.  </td>
 

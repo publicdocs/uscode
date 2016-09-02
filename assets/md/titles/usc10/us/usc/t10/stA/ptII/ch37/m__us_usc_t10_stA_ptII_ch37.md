@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 651.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs651" data-uslm-ref="/us/usc/t10/s651">651.</a>  </td>
 
     <td> Members: required service.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 652.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs652" data-uslm-ref="/us/usc/t10/s652">652.</a>  </td>
 
     <td> Notice to Congress of proposed changes in units, assignments, etc. to which female members may be assigned.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 653.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs653" data-uslm-ref="/us/usc/t10/s653">653.</a>  </td>
 
     <td> Minimum service requirement for certain flight crew positions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [654.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs654" data-uslm-ref="/us/usc/t10/s654">654.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 655.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs655" data-uslm-ref="/us/usc/t10/s655">655.</a>  </td>
 
     <td> Designation of persons having interest in status of a missing member.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 656.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs656" data-uslm-ref="/us/usc/t10/s656">656.</a>  </td>
 
     <td> Diversity in military leadership: plan.  </td>
 

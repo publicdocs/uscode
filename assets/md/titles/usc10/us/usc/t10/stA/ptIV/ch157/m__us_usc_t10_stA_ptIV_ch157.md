@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2631" data-uslm-ref="/us/usc/t10/s2631">2631.</a>  </td>
 
     <td> Supplies: preference to United States vessels.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2631a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2631a" data-uslm-ref="/us/usc/t10/s2631a">2631a.</a>  </td>
 
     <td> Contingency planning: sealift and related intermodal transportation requirements.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2632.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2632" data-uslm-ref="/us/usc/t10/s2632">2632.</a>  </td>
 
     <td> Transportation to and from certain places of employment and on military installations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2633.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2633" data-uslm-ref="/us/usc/t10/s2633">2633.</a>  </td>
 
     <td> Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2634.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2634" data-uslm-ref="/us/usc/t10/s2634">2634.</a>  </td>
 
     <td> Motor vehicles: transportation or storage for members on change of permanent station or extended deployment.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2635.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2635" data-uslm-ref="/us/usc/t10/s2635">2635.</a>  </td>
 
     <td> Medical emergency helicopter transportation assistance and limitation of individual liability.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2636.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2636" data-uslm-ref="/us/usc/t10/s2636">2636.</a>  </td>
 
     <td> Deductions from amounts due carriers.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2636a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2636a" data-uslm-ref="/us/usc/t10/s2636a">2636a.</a>  </td>
 
     <td> Loss or damage to personal property transported at Government expense: full replacement value; deduction from amounts due carriers.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2637.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2637" data-uslm-ref="/us/usc/t10/s2637">2637.</a>  </td>
 
     <td> Transportation in certain areas outside the United States.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2638.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2638" data-uslm-ref="/us/usc/t10/s2638">2638.</a>  </td>
 
     <td> Transportation of civilian clothing of enlisted members.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2639.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2639" data-uslm-ref="/us/usc/t10/s2639">2639.</a>  </td>
 
     <td> Transportation to and from school for certain minor dependents.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2640.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2640" data-uslm-ref="/us/usc/t10/s2640">2640.</a>  </td>
 
     <td> Charter air transportation of members of the armed forces.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2641.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2641" data-uslm-ref="/us/usc/t10/s2641">2641.</a>  </td>
 
     <td> Transportation of certain veterans on Department of Defense aeromedical evacuation aircraft.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2641a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2641a" data-uslm-ref="/us/usc/t10/s2641a">2641a.</a>  </td>
 
     <td> Transportation of American Samoa veterans on Department of Defense aircraft for certain medical care in Hawaii.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2641b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2641b" data-uslm-ref="/us/usc/t10/s2641b">2641b.</a>  </td>
 
     <td> Space-available travel on Department of Defense aircraft: program authorized and eligible recipients.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 2642.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2642" data-uslm-ref="/us/usc/t10/s2642">2642.</a>  </td>
 
     <td> Airlift services provided to certain other agencies: use of Department of Defense reimbursement rate.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 2643.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2643" data-uslm-ref="/us/usc/t10/s2643">2643.</a>  </td>
 
     <td> Commissary and exchange services: transportation overseas.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 2644.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2644" data-uslm-ref="/us/usc/t10/s2644">2644.</a>  </td>
 
     <td> Control of transportation systems in time of war.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 2645.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2645" data-uslm-ref="/us/usc/t10/s2645">2645.</a>  </td>
 
     <td> Indemnification of Department of Transportation for losses covered by vessel war risk insurance.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 2646.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2646" data-uslm-ref="/us/usc/t10/s2646">2646.</a>  </td>
 
     <td> Travel services: procurement for official and unofficial travel under one contract.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 2647.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2647" data-uslm-ref="/us/usc/t10/s2647">2647.</a>  </td>
 
     <td> Next-of-kin of persons unaccounted for from conflicts after World War II: transportation to annual meetings.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 2648.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2648" data-uslm-ref="/us/usc/t10/s2648">2648.</a>  </td>
 
     <td> Persons and supplies: sea, land, and air transportation.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 2649.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2649" data-uslm-ref="/us/usc/t10/s2649">2649.</a>  </td>
 
     <td> Civilian passengers and commercial cargoes: transportation on Department of Defense vessels, vehicles, and aircraft.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 2650.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2650" data-uslm-ref="/us/usc/t10/s2650">2650.</a>  </td>
 
     <td> Civilian personnel in Alaska.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 2651.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2651" data-uslm-ref="/us/usc/t10/s2651">2651.</a>  </td>
 
     <td> Passengers and merchandise to Guam: sea transport.  </td>
 

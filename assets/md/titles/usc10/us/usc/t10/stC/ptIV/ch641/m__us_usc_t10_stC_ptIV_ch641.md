@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7420.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7420" data-uslm-ref="/us/usc/t10/s7420">7420.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7421" data-uslm-ref="/us/usc/t10/s7421">7421.</a>  </td>
 
     <td> Jurisdiction and control.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7422" data-uslm-ref="/us/usc/t10/s7422">7422.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7423" data-uslm-ref="/us/usc/t10/s7423">7423.</a>  </td>
 
     <td> Periodic re-examination of production requirements.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7424" data-uslm-ref="/us/usc/t10/s7424">7424.</a>  </td>
 
     <td> Protection of oil reserves; contracts for conservation.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7425" data-uslm-ref="/us/usc/t10/s7425">7425.</a>  </td>
 
     <td> Acquisition by condemnation and purchase.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [7426.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7426" data-uslm-ref="/us/usc/t10/s7426">7426.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7427.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7427" data-uslm-ref="/us/usc/t10/s7427">7427.</a>  </td>
 
     <td> Cooperative or unit plans in the naval petroleum reserves.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 7428.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7428" data-uslm-ref="/us/usc/t10/s7428">7428.</a>  </td>
 
     <td> Agreements and leases: provision for change.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 7429.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7429" data-uslm-ref="/us/usc/t10/s7429">7429.</a>  </td>
 
     <td> Re-lease of certain lands: lessee’s preferential right.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 7430.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7430" data-uslm-ref="/us/usc/t10/s7430">7430.</a>  </td>
 
     <td> Disposition of products.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 7431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7431" data-uslm-ref="/us/usc/t10/s7431">7431.</a>  </td>
 
     <td> Requirements as to consultation and approval.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 7432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7432" data-uslm-ref="/us/usc/t10/s7432">7432.</a>  </td>
 
     <td> Authorizations of appropriations.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 7433.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7433" data-uslm-ref="/us/usc/t10/s7433">7433.</a>  </td>
 
     <td> Disposition of royalties.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> [7434.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7434" data-uslm-ref="/us/usc/t10/s7434">7434.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 7435.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7435" data-uslm-ref="/us/usc/t10/s7435">7435.</a>  </td>
 
     <td> Foreign interest.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 7436.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7436" data-uslm-ref="/us/usc/t10/s7436">7436.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 7437.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7437" data-uslm-ref="/us/usc/t10/s7437">7437.</a>  </td>
 
     <td> Violations by lessee.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 7438.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7438" data-uslm-ref="/us/usc/t10/s7438">7438.</a>  </td>
 
     <td> Rifle, Colorado, plant; possession, use, and transfer of.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 7439.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7439" data-uslm-ref="/us/usc/t10/s7439">7439.</a>  </td>
 
     <td> Certain oil shale reserves: transfer of jurisdiction and petroleum exploration, development, and production.  </td>
 

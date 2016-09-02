@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [12551.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12551" data-uslm-ref="/us/usc/t10/s12551">12551.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 12552.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12552" data-uslm-ref="/us/usc/t10/s12552">12552.</a>  </td>
 
     <td> Funeral honors functions at funerals for veterans.  </td>
 

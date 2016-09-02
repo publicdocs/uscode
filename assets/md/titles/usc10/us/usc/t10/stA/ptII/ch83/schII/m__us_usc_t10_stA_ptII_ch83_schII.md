@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1621" data-uslm-ref="/us/usc/t10/s1621">1621.</a>  </td>
 
     <td> Defense Intelligence Agency merit pay system.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1622" data-uslm-ref="/us/usc/t10/s1622">1622.</a>  </td>
 
     <td> Uniform allowance: civilian employees.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1623.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1623" data-uslm-ref="/us/usc/t10/s1623">1623.</a>  </td>
 
     <td> Financial assistance to certain employees in acquisition of critical skills.  </td>
 

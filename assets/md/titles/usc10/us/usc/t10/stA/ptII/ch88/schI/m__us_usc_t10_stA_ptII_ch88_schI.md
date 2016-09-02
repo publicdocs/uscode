@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1781.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1781" data-uslm-ref="/us/usc/t10/s1781">1781.</a>  </td>
 
     <td> Office of Family Policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1781a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1781a" data-uslm-ref="/us/usc/t10/s1781a">1781a.</a>  </td>
 
     <td> Department of Defense Military Family Readiness Council.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1781b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1781b" data-uslm-ref="/us/usc/t10/s1781b">1781b.</a>  </td>
 
     <td> Department of Defense policy and plans for military family readiness.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1781c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1781c" data-uslm-ref="/us/usc/t10/s1781c">1781c.</a>  </td>
 
     <td> Office of Community Support for Military Families With Special Needs.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1782.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1782" data-uslm-ref="/us/usc/t10/s1782">1782.</a>  </td>
 
     <td> Surveys of military families.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1783.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1783" data-uslm-ref="/us/usc/t10/s1783">1783.</a>  </td>
 
     <td> Family members serving on advisory committees.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1784.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1784" data-uslm-ref="/us/usc/t10/s1784">1784.</a>  </td>
 
     <td> Employment opportunities for military spouses.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1784a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1784a" data-uslm-ref="/us/usc/t10/s1784a">1784a.</a>  </td>
 
     <td> Education and training opportunities for military spouses to expand employment and portable career opportunities.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1785.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1785" data-uslm-ref="/us/usc/t10/s1785">1785.</a>  </td>
 
     <td> Youth sponsorship program.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1786.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1786" data-uslm-ref="/us/usc/t10/s1786">1786.</a>  </td>
 
     <td> Dependent student travel within the United States.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1787.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1787" data-uslm-ref="/us/usc/t10/s1787">1787.</a>  </td>
 
     <td> Reporting of child abuse.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1788.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1788" data-uslm-ref="/us/usc/t10/s1788">1788.</a>  </td>
 
     <td> Additional family assistance.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1789.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1789" data-uslm-ref="/us/usc/t10/s1789">1789.</a>  </td>
 
     <td> Chaplain-led programs: authorized support.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1790.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1790" data-uslm-ref="/us/usc/t10/s1790">1790.</a>  </td>
 
     <td> Military personnel citizenship processing.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8491.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8491" data-uslm-ref="/us/usc/t10/s8491">8491.</a>  </td>
 
     <td> Non-regular officers: status.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [8492 to 8502.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8492" data-uslm-ref="/us/usc/t10/s8492">8492</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8502" data-uslm-ref="/us/usc/t10/s8502">8502.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8503" data-uslm-ref="/us/usc/t10/s8503">8503.</a>  </td>
 
     <td> Retired commissioned officers: status.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [8504.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8504" data-uslm-ref="/us/usc/t10/s8504">8504.</a>  </td>
 
     <td> Repealed.]  </td>
 

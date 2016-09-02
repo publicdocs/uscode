@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 10171.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10171" data-uslm-ref="/us/usc/t10/s10171">10171.</a>  </td>
 
     <td> United States Army Reserve Command.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 10172.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10172" data-uslm-ref="/us/usc/t10/s10172">10172.</a>  </td>
 
     <td> Navy Reserve Force.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 10173.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10173" data-uslm-ref="/us/usc/t10/s10173">10173.</a>  </td>
 
     <td> Marine Forces Reserve.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 10174.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10174" data-uslm-ref="/us/usc/t10/s10174">10174.</a>  </td>
 
     <td> Air Force Reserve Command.  </td>
 

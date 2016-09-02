@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 771.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs771" data-uslm-ref="/us/usc/t10/s771">771.</a>  </td>
 
     <td> Unauthorized wearing prohibited.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 771a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs771a" data-uslm-ref="/us/usc/t10/s771a">771a.</a>  </td>
 
     <td> Disposition on discharge.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 772.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs772" data-uslm-ref="/us/usc/t10/s772">772.</a>  </td>
 
     <td> When wearing by persons not on active duty authorized.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 773.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs773" data-uslm-ref="/us/usc/t10/s773">773.</a>  </td>
 
     <td> When distinctive insignia required.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 774.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs774" data-uslm-ref="/us/usc/t10/s774">774.</a>  </td>
 
     <td> Religious apparel: wearing while in uniform.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 775.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs775" data-uslm-ref="/us/usc/t10/s775">775.</a>  </td>
 
     <td> Issue of uniform without charge.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 776.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs776" data-uslm-ref="/us/usc/t10/s776">776.</a>  </td>
 
     <td> Applicability of chapter.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 777.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs777" data-uslm-ref="/us/usc/t10/s777">777.</a>  </td>
 
     <td> Wearing of insignia of higher grade before promotion (frocking): authority; restrictions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 777a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs777a" data-uslm-ref="/us/usc/t10/s777a">777a.</a>  </td>
 
     <td> Wearing of insignia of higher grade before appointment to a grade above major general or rear admiral (frocking): authority; restrictions.  </td>
 

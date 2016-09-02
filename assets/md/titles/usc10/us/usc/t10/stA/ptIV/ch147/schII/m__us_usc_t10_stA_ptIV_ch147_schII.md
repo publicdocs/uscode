@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2487.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2487" data-uslm-ref="/us/usc/t10/s2487">2487.</a>  </td>
 
     <td> Relationship between defense commissary system and exchange stores system.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2488.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2488" data-uslm-ref="/us/usc/t10/s2488">2488.</a>  </td>
 
     <td> Combined exchange and commissary stores.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2489.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2489" data-uslm-ref="/us/usc/t10/s2489">2489.</a>  </td>
 
     <td> Overseas commissary and exchange stores: access and purchase restrictions.  </td>
 

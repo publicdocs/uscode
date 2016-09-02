@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2491.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2491" data-uslm-ref="/us/usc/t10/s2491">2491.</a>  </td>
 
     <td> Uniform funding and management of morale, welfare, and recreation programs.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2491a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2491a" data-uslm-ref="/us/usc/t10/s2491a">2491a.</a>  </td>
 
     <td> Department of Defense golf courses: limitation on use of appropriated funds.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2491b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2491b" data-uslm-ref="/us/usc/t10/s2491b">2491b.</a>  </td>
 
     <td> Use of appropriated funds for operation of Armed Forces Recreation Center, Europe: limitation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2491c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2491c" data-uslm-ref="/us/usc/t10/s2491c">2491c.</a>  </td>
 
     <td> Retention of morale, welfare, and recreation funds by military installations: limitation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2492.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2492" data-uslm-ref="/us/usc/t10/s2492">2492.</a>  </td>
 
     <td> Nonappropriated fund instrumentalities: contracts with other agencies and instrumentalities to provide and obtain goods and services.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2492a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2492a" data-uslm-ref="/us/usc/t10/s2492a">2492a.</a>  </td>
 
     <td> Limitation on Department of Defense entities competing with private sector in offering personal information services.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2493.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2493" data-uslm-ref="/us/usc/t10/s2493">2493.</a>  </td>
 
     <td> Fisher Houses: administration as nonappropriated fund instrumentality.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2494.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2494" data-uslm-ref="/us/usc/t10/s2494">2494.</a>  </td>
 
     <td> Nonappropriated fund instrumentalities: furnishing utility services for morale, welfare, and recreation purposes.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2495.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2495" data-uslm-ref="/us/usc/t10/s2495">2495.</a>  </td>
 
     <td> Nonappropriated fund instrumentalities: purchase of alcoholic beverages.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2495a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2495a" data-uslm-ref="/us/usc/t10/s2495a">2495a.</a>  </td>
 
     <td> Overseas package stores: treatment of United States wines.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2495b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2495b" data-uslm-ref="/us/usc/t10/s2495b">2495b.</a>  </td>
 
     <td> Sale or rental of sexually explicit material prohibited.  </td>
 

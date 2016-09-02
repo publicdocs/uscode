@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2541" data-uslm-ref="/us/usc/t10/s2541">2541.</a>  </td>
 
     <td> Establishment of loan guarantee program.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2541a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2541a" data-uslm-ref="/us/usc/t10/s2541a">2541a.</a>  </td>
 
     <td> Fees charged and collected.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2541b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2541b" data-uslm-ref="/us/usc/t10/s2541b">2541b.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2541c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2541c" data-uslm-ref="/us/usc/t10/s2541c">2541c.</a>  </td>
 
     <td> Transferability, additional limitations, and definition.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2541d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2541d" data-uslm-ref="/us/usc/t10/s2541d">2541d.</a>  </td>
 
     <td> Reports.  </td>
 

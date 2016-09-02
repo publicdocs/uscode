@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4771.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4771" data-uslm-ref="/us/usc/t10/s4771">4771.</a>  </td>
 
     <td> Acceptance of donations: land for mobilization, training, supply base, or aviation field.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4772.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4772" data-uslm-ref="/us/usc/t10/s4772">4772.</a>  </td>
 
     <td> Heritage Center for the National Museum of the United States Army: development and operation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [4774, 4775.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4774" data-uslm-ref="/us/usc/t10/s4774">4774</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4775" data-uslm-ref="/us/usc/t10/s4775">4775.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4776.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4776" data-uslm-ref="/us/usc/t10/s4776">4776.</a>  </td>
 
     <td> Emergency construction: fortifications.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4777.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4777" data-uslm-ref="/us/usc/t10/s4777">4777.</a>  </td>
 
     <td> Permits: military reservations; landing ferries, erecting bridges, driving livestock.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4778.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4778" data-uslm-ref="/us/usc/t10/s4778">4778.</a>  </td>
 
     <td> Licenses: military reservations; erection and use of buildings; Young Men’s Christian Association.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4779.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4779" data-uslm-ref="/us/usc/t10/s4779">4779.</a>  </td>
 
     <td> Use of public property.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4780.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4780" data-uslm-ref="/us/usc/t10/s4780">4780.</a>  </td>
 
     <td> Acquisition of buildings in District of Columbia.  </td>
 

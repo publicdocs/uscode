@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1431" data-uslm-ref="/us/usc/t10/s1431">1431.</a>  </td>
 
     <td> Election of annuity: members of armed forces.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1432" data-uslm-ref="/us/usc/t10/s1432">1432.</a>  </td>
 
     <td> Election of annuity: former members of armed forces.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1433.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1433" data-uslm-ref="/us/usc/t10/s1433">1433.</a>  </td>
 
     <td> Mental incompetency of member.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1434.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1434" data-uslm-ref="/us/usc/t10/s1434">1434.</a>  </td>
 
     <td> Kinds of annuities that may be elected.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1435.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1435" data-uslm-ref="/us/usc/t10/s1435">1435.</a>  </td>
 
     <td> Eligible beneficiaries.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1436.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1436" data-uslm-ref="/us/usc/t10/s1436">1436.</a>  </td>
 
     <td> Computation of reduction in retired pay; withdrawal for severe financial hardship.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1436a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1436a" data-uslm-ref="/us/usc/t10/s1436a">1436a.</a>  </td>
 
     <td> Coverage paid up at 30 years and age 70.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1437.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1437" data-uslm-ref="/us/usc/t10/s1437">1437.</a>  </td>
 
     <td> Payment of annuity.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1438.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1438" data-uslm-ref="/us/usc/t10/s1438">1438.</a>  </td>
 
     <td> Deposits for amounts not deducted.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1439.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1439" data-uslm-ref="/us/usc/t10/s1439">1439.</a>  </td>
 
     <td> Refund of amounts deducted from retired pay.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1440.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1440" data-uslm-ref="/us/usc/t10/s1440">1440.</a>  </td>
 
     <td> Annuities not subject to legal process.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1441" data-uslm-ref="/us/usc/t10/s1441">1441.</a>  </td>
 
     <td> Annuities in addition to other payments.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1442" data-uslm-ref="/us/usc/t10/s1442">1442.</a>  </td>
 
     <td> Recovery of annuity erroneously paid.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> [1443.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1443" data-uslm-ref="/us/usc/t10/s1443">1443.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1444.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1444" data-uslm-ref="/us/usc/t10/s1444">1444.</a>  </td>
 
     <td> Regulations; determinations.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1444a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1444a" data-uslm-ref="/us/usc/t10/s1444a">1444a.</a>  </td>
 
     <td> Regulations regarding payment of annuity to a representative payee.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1445.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1445" data-uslm-ref="/us/usc/t10/s1445">1445.</a>  </td>
 
     <td> Correction of administrative deficiencies.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1446.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1446" data-uslm-ref="/us/usc/t10/s1446">1446.</a>  </td>
 
     <td> Restriction on participation.  </td>
 

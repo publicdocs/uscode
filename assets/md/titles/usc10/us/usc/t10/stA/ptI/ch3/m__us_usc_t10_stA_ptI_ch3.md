@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs121" data-uslm-ref="/us/usc/t10/s121">121.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs122" data-uslm-ref="/us/usc/t10/s122">122.</a>  </td>
 
     <td> Official registers.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 122a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs122a" data-uslm-ref="/us/usc/t10/s122a">122a.</a>  </td>
 
     <td> Public availability of Department of Defense reports required by law.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs123" data-uslm-ref="/us/usc/t10/s123">123.</a>  </td>
 
     <td> Authority to suspend officer personnel laws during war or national emergency.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 123a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs123a" data-uslm-ref="/us/usc/t10/s123a">123a.</a>  </td>
 
     <td> Suspension of end-strength and other strength limitations in time of war or national emergency.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 123b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs123b" data-uslm-ref="/us/usc/t10/s123b">123b.</a>  </td>
 
     <td> Forces stationed abroad: limitation on number.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs124" data-uslm-ref="/us/usc/t10/s124">124.</a>  </td>
 
     <td> Detection and monitoring of aerial and maritime transit of illegal drugs: Department of Defense to be lead agency.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 125.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs125" data-uslm-ref="/us/usc/t10/s125">125.</a>  </td>
 
     <td> Functions, powers, and duties: transfer, reassignment, consolidation, or abolition.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 126.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs126" data-uslm-ref="/us/usc/t10/s126">126.</a>  </td>
 
     <td> Transfer of funds and employees.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 127.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs127" data-uslm-ref="/us/usc/t10/s127">127.</a>  </td>
 
     <td> Emergency and extraordinary expenses.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 127a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs127a" data-uslm-ref="/us/usc/t10/s127a">127a.</a>  </td>
 
     <td> Operations for which funds are not provided in advance: funding mechanisms.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 127b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs127b" data-uslm-ref="/us/usc/t10/s127b">127b.</a>  </td>
 
     <td> Assistance in combating terrorism: rewards.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 127c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs127c" data-uslm-ref="/us/usc/t10/s127c">127c.</a>  </td>
 
     <td> Purchase of weapons overseas: force protection.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 127d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs127d" data-uslm-ref="/us/usc/t10/s127d">127d.</a>  </td>
 
     <td> Allied forces participating in combined operations: authority to provide logistic support, supplies, and services.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 128.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs128" data-uslm-ref="/us/usc/t10/s128">128.</a>  </td>
 
     <td> Physical protection of special nuclear material: limitation on dissemination of unclassified information.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 129.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs129" data-uslm-ref="/us/usc/t10/s129">129.</a>  </td>
 
     <td> Prohibition of certain civilian personnel management constraints.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 129a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs129a" data-uslm-ref="/us/usc/t10/s129a">129a.</a>  </td>
 
     <td> General policy for total force management.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 129b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs129b" data-uslm-ref="/us/usc/t10/s129b">129b.</a>  </td>
 
     <td> Authority to procure personal services.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 129c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs129c" data-uslm-ref="/us/usc/t10/s129c">129c.</a>  </td>
 
     <td> Medical personnel: limitations on reductions.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 129d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs129d" data-uslm-ref="/us/usc/t10/s129d">129d.</a>  </td>
 
     <td> Disclosure to litigation support contractors.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 130.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs130" data-uslm-ref="/us/usc/t10/s130">130.</a>  </td>
 
     <td> Authority to withhold from public disclosure certain technical data.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> [130a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs130a" data-uslm-ref="/us/usc/t10/s130a">130a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 130b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs130b" data-uslm-ref="/us/usc/t10/s130b">130b.</a>  </td>
 
     <td> Personnel in overseas, sensitive, or routinely deployable units: nondisclosure of personally identifying information.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 130c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs130c" data-uslm-ref="/us/usc/t10/s130c">130c.</a>  </td>
 
     <td> Nondisclosure of information: certain sensitive information of foreign governments and international organizations.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 130d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs130d" data-uslm-ref="/us/usc/t10/s130d">130d.</a>  </td>
 
     <td> Treatment under Freedom of Information Act of certain confidential information shared with State and local personnel.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 130e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs130e" data-uslm-ref="/us/usc/t10/s130e">130e.</a>  </td>
 
     <td> Treatment under Freedom of Information Act of certain critical infrastructure security information. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 

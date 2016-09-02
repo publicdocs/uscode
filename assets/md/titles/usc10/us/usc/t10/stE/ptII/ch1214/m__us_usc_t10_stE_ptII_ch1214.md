@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 12521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12521" data-uslm-ref="/us/usc/t10/s12521">12521.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 12522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12522" data-uslm-ref="/us/usc/t10/s12522">12522.</a>  </td>
 
     <td> Establishment of insurance program.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 12523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12523" data-uslm-ref="/us/usc/t10/s12523">12523.</a>  </td>
 
     <td> Risk insured.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 12524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12524" data-uslm-ref="/us/usc/t10/s12524">12524.</a>  </td>
 
     <td> Enrollment and election of benefits.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 12525.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12525" data-uslm-ref="/us/usc/t10/s12525">12525.</a>  </td>
 
     <td> Benefit amounts.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 12526.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12526" data-uslm-ref="/us/usc/t10/s12526">12526.</a>  </td>
 
     <td> Premiums.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 12527.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12527" data-uslm-ref="/us/usc/t10/s12527">12527.</a>  </td>
 
     <td> Payment of premiums.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 12528.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12528" data-uslm-ref="/us/usc/t10/s12528">12528.</a>  </td>
 
     <td> Reserve Mobilization Income Insurance Fund.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 12529.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12529" data-uslm-ref="/us/usc/t10/s12529">12529.</a>  </td>
 
     <td> Board of Actuaries.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 12530.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12530" data-uslm-ref="/us/usc/t10/s12530">12530.</a>  </td>
 
     <td> Payment of benefits.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 12531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12531" data-uslm-ref="/us/usc/t10/s12531">12531.</a>  </td>
 
     <td> Purchase of insurance.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 12532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12532" data-uslm-ref="/us/usc/t10/s12532">12532.</a>  </td>
 
     <td> Termination for nonpayment of premiums; forfeiture.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 12533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12533" data-uslm-ref="/us/usc/t10/s12533">12533.</a>  </td>
 
     <td> Termination of program.  </td>
 

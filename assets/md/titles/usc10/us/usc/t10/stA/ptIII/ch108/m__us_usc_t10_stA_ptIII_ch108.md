@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2161" data-uslm-ref="/us/usc/t10/s2161">2161.</a>  </td>
 
     <td> Degree granting authority for National Intelligence University.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2162" data-uslm-ref="/us/usc/t10/s2162">2162.</a>  </td>
 
     <td> Preparation of budget requests for operation of professional military education schools.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2163.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2163" data-uslm-ref="/us/usc/t10/s2163">2163.</a>  </td>
 
     <td> Degree granting authority for National Defense University.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2164.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2164" data-uslm-ref="/us/usc/t10/s2164">2164.</a>  </td>
 
     <td> Department of Defense domestic dependent elementary and secondary schools.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2165.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2165" data-uslm-ref="/us/usc/t10/s2165">2165.</a>  </td>
 
     <td> National Defense University: component institutions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2166.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2166" data-uslm-ref="/us/usc/t10/s2166">2166.</a>  </td>
 
     <td> Western Hemisphere Institute for Security Cooperation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2167.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2167" data-uslm-ref="/us/usc/t10/s2167">2167.</a>  </td>
 
     <td> National Defense University: admission of private sector civilians to professional military education program.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2167a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2167a" data-uslm-ref="/us/usc/t10/s2167a">2167a.</a>  </td>
 
     <td> Defense Cyber Investigations Training Academy: admission of private sector civilians to receive instruction.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2168.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2168" data-uslm-ref="/us/usc/t10/s2168">2168.</a>  </td>
 
     <td> Defense Language Institute Foreign Language Center: degree of Associate of Arts in foreign language.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2169.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2169" data-uslm-ref="/us/usc/t10/s2169">2169.</a>  </td>
 
     <td> School of Nursing: establishment.  </td>
 

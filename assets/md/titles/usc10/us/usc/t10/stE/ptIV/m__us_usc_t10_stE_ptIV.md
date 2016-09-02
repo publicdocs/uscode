@@ -29,7 +29,7 @@
 
   <tr>
 
-    <td> 1601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptIV%2Fch1601" data-uslm-ref="/us/usc/t10/stE/ptIV/ch1601">1601.</a>  </td>
 
     <td> Training Generally. [No present sections]  </td>
 
@@ -39,51 +39,51 @@
 
   <tr>
 
-    <td> 1606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptIV%2Fch1606" data-uslm-ref="/us/usc/t10/stE/ptIV/ch1606">1606.</a>  </td>
 
     <td> Educational Assistance for Members of the Selected Reserve  </td>
 
-    <td> 16131  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16131" data-uslm-ref="/us/usc/t10/s16131">16131</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptIV%2Fch1607" data-uslm-ref="/us/usc/t10/stE/ptIV/ch1607">1607.</a>  </td>
 
     <td> Educational Assistance for Reserve Component Members Supporting Contingency Operations and Certain Other Operations  </td>
 
-    <td> 16161  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16161" data-uslm-ref="/us/usc/t10/s16161">16161</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptIV%2Fch1608" data-uslm-ref="/us/usc/t10/stE/ptIV/ch1608">1608.</a>  </td>
 
     <td> Health Professions Stipend Program  </td>
 
-    <td> 16201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16201" data-uslm-ref="/us/usc/t10/s16201">16201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1609.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptIV%2Fch1609" data-uslm-ref="/us/usc/t10/stE/ptIV/ch1609">1609.</a>  </td>
 
     <td> Education Loan Repayment Programs  </td>
 
-    <td> 16301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16301" data-uslm-ref="/us/usc/t10/s16301">16301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptIV%2Fch1611" data-uslm-ref="/us/usc/t10/stE/ptIV/ch1611">1611.</a>  </td>
 
     <td> Other Educational Assistance Programs  </td>
 
-    <td> 16401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16401" data-uslm-ref="/us/usc/t10/s16401">16401</a>  </td>
 
   </tr>
 

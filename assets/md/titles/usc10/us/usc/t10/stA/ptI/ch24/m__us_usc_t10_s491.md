@@ -69,6 +69,18 @@
 
     Subsec. (d). [Pub. L. 112–239, § 1032(b)][/us/pl/112/239/s1032/b], added subsec. (d).
 
+ __Delegation of Reporting Functions Specified in__  __[__  __Section 491 of Title 10__  __][/us/usc/t10/s491]__  __, United States Code__ 
+
+    Memorandum of President of the United States, June 19, 2013, 78 F.R. 37923, provided:
+
+    Memorandum for the Secretary of Defense
+
+    By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3][/us/usc/t3/s301] of the United States Code, I hereby delegate to you the reporting functions conferred upon the President by [section 491 of title 10][/us/usc/t10/s491], United States Code.
+
+    You are authorized and directed to publish this memorandum in the Federal Register.
+
+                              Barack Obama.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptI/ch24/m__us_usc_t10_stA_ptI_ch24.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch24/m__us_usc_t10_s492.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs491)
@@ -92,5 +104,8 @@
 [/us/pl/112/239/s1031/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fa%2F2%2FE
 [/us/pl/112/239/s1031/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fa%2F2%2FF
 [/us/pl/112/239/s1032/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1032%2Fb
+[/us/usc/t10/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs491
+[/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
+[/us/usc/t10/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs491
 
 

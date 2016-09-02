@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4021.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4021" data-uslm-ref="/us/usc/t10/s4021">4021.</a>  </td>
 
     <td> Army War College and United States Army Command and General Staff College: civilian faculty members.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [4022, 4023.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4022" data-uslm-ref="/us/usc/t10/s4022">4022</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4023" data-uslm-ref="/us/usc/t10/s4023">4023.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4024.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4024" data-uslm-ref="/us/usc/t10/s4024">4024.</a>  </td>
 
     <td> Expert accountant for Inspector General.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4025.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4025" data-uslm-ref="/us/usc/t10/s4025">4025.</a>  </td>
 
     <td> Production of supplies and munitions: hours and pay of laborers and mechanics.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4027.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4027" data-uslm-ref="/us/usc/t10/s4027">4027.</a>  </td>
 
     <td> Civilian special agents of the Criminal Investigation Command: authority to execute warrants and make arrests.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2821.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2821" data-uslm-ref="/us/usc/t10/s2821">2821.</a>  </td>
 
     <td> Requirement for authorization of appropriations for construction and acquisition of military family housing.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2822.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2822" data-uslm-ref="/us/usc/t10/s2822">2822.</a>  </td>
 
     <td> Requirement for authorization of number of family housing units.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [2823.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2823" data-uslm-ref="/us/usc/t10/s2823">2823.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2824.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2824" data-uslm-ref="/us/usc/t10/s2824">2824.</a>  </td>
 
     <td> Authorization for acquisition of existing family housing in lieu of construction.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2825.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2825" data-uslm-ref="/us/usc/t10/s2825">2825.</a>  </td>
 
     <td> Improvements to family housing units.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2826.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2826" data-uslm-ref="/us/usc/t10/s2826">2826.</a>  </td>
 
     <td> Military family housing: local comparability of room patterns and floor areas.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2827.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2827" data-uslm-ref="/us/usc/t10/s2827">2827.</a>  </td>
 
     <td> Relocation of military family housing units.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2828.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2828" data-uslm-ref="/us/usc/t10/s2828">2828.</a>  </td>
 
     <td> Leasing of military family housing.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2829.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2829" data-uslm-ref="/us/usc/t10/s2829">2829.</a>  </td>
 
     <td> Multi-year contracts for supplies and services.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2830.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2830" data-uslm-ref="/us/usc/t10/s2830">2830.</a>  </td>
 
     <td> Occupancy of substandard family housing units.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2831.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2831" data-uslm-ref="/us/usc/t10/s2831">2831.</a>  </td>
 
     <td> Military family housing management account.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2832.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2832" data-uslm-ref="/us/usc/t10/s2832">2832.</a>  </td>
 
     <td> Homeowners assistance program.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2833.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2833" data-uslm-ref="/us/usc/t10/s2833">2833.</a>  </td>
 
     <td> Family housing support.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2834.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2834" data-uslm-ref="/us/usc/t10/s2834">2834.</a>  </td>
 
     <td> Participation in Department of State housing pools.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2835.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2835" data-uslm-ref="/us/usc/t10/s2835">2835.</a>  </td>
 
     <td> Long-term leasing of military family housing to be constructed.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 2835a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2835a" data-uslm-ref="/us/usc/t10/s2835a">2835a.</a>  </td>
 
     <td> Use of military family housing constructed under build and lease authority to house other members.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 2836.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2836" data-uslm-ref="/us/usc/t10/s2836">2836.</a>  </td>
 
     <td> Military housing rental guarantee program.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 2837.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2837" data-uslm-ref="/us/usc/t10/s2837">2837.</a>  </td>
 
     <td> Limited partnerships with private developers of housing.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 2838.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2838" data-uslm-ref="/us/usc/t10/s2838">2838.</a>  </td>
 
     <td> Leasing of military family housing to Secretary of Defense.  </td>
 

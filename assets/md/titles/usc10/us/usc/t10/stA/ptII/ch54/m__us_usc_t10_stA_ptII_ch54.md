@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1061.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1061" data-uslm-ref="/us/usc/t10/s1061">1061.</a>  </td>
 
     <td> Survivors of certain Reserve and Guard members.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1062.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1062" data-uslm-ref="/us/usc/t10/s1062">1062.</a>  </td>
 
     <td> Certain former spouses.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1063.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1063" data-uslm-ref="/us/usc/t10/s1063">1063.</a>  </td>
 
     <td> Use of commissary stores and MWR retail facilities: members of reserve components and reserve retirees under age 60.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1064.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1064" data-uslm-ref="/us/usc/t10/s1064">1064.</a>  </td>
 
     <td> Use of commissary stores and MWR retail facilities: members of National Guard serving in federally declared disaster or national emergency.  </td>
 

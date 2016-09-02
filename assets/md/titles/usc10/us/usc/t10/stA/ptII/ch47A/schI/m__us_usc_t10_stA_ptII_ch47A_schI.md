@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 948a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs948a" data-uslm-ref="/us/usc/t10/s948a">948a.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 948b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs948b" data-uslm-ref="/us/usc/t10/s948b">948b.</a>  </td>
 
     <td> Military commissions generally.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 948c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs948c" data-uslm-ref="/us/usc/t10/s948c">948c.</a>  </td>
 
     <td> Persons subject to military commissions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 948d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs948d" data-uslm-ref="/us/usc/t10/s948d">948d.</a>  </td>
 
     <td> Jurisdiction of military commissions.  </td>
 

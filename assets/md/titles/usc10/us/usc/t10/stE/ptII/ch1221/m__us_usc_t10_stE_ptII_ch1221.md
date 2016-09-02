@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 12681.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12681" data-uslm-ref="/us/usc/t10/s12681">12681.</a>  </td>
 
     <td> Reserves: discharge authority.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 12682.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12682" data-uslm-ref="/us/usc/t10/s12682">12682.</a>  </td>
 
     <td> Reserves: discharge upon becoming ordained minister of religion.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 12683.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12683" data-uslm-ref="/us/usc/t10/s12683">12683.</a>  </td>
 
     <td> Reserve officers: limitation on involuntary separation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 12684.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12684" data-uslm-ref="/us/usc/t10/s12684">12684.</a>  </td>
 
     <td> Reserves: separation for absence without authority or sentence to imprisonment.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 12685.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12685" data-uslm-ref="/us/usc/t10/s12685">12685.</a>  </td>
 
     <td> Reserves separated for cause: character of discharge.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 12686.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12686" data-uslm-ref="/us/usc/t10/s12686">12686.</a>  </td>
 
     <td> Reserves on active duty within two years of retirement eligibility: limitation on release from active duty.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 12687.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12687" data-uslm-ref="/us/usc/t10/s12687">12687.</a>  </td>
 
     <td> Reserves under confinement by sentence of court-martial: separation after six months confinement.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1791.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1791" data-uslm-ref="/us/usc/t10/s1791">1791.</a>  </td>
 
     <td> Funding for military child care.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1792.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1792" data-uslm-ref="/us/usc/t10/s1792">1792.</a>  </td>
 
     <td> Child care employees.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1793.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1793" data-uslm-ref="/us/usc/t10/s1793">1793.</a>  </td>
 
     <td> Parent fees.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1794.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1794" data-uslm-ref="/us/usc/t10/s1794">1794.</a>  </td>
 
     <td> Child abuse prevention and safety at facilities.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1795.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1795" data-uslm-ref="/us/usc/t10/s1795">1795.</a>  </td>
 
     <td> Parent partnerships with child development centers.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1796.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1796" data-uslm-ref="/us/usc/t10/s1796">1796.</a>  </td>
 
     <td> Subsidies for family home day care.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1797.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1797" data-uslm-ref="/us/usc/t10/s1797">1797.</a>  </td>
 
     <td> Early childhood education program.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1798.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1798" data-uslm-ref="/us/usc/t10/s1798">1798.</a>  </td>
 
     <td> Child care services and youth program services for dependents: financial assistance for providers.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1799.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1799" data-uslm-ref="/us/usc/t10/s1799">1799.</a>  </td>
 
     <td> Child care services and youth program services for dependents: participation by children and youth otherwise ineligible.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1800.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1800" data-uslm-ref="/us/usc/t10/s1800">1800.</a>  </td>
 
     <td> Definitions.  </td>
 

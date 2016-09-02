@@ -85,7 +85,7 @@
 
     The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (a)(4), is [Pub. L. 99–410][/us/pl/99/410], Aug. 28, 1986, [100 Stat. 924][/us/stat/100/924], which is classified principally to subchapter I–G (§ 1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1971 of Title 42][/us/usc/t42/s1971] and Tables.
 
-     The National Voter Registration Act of 1993, referred to in subsec. (e), is [Pub. L. 103–31][/us/pl/103/31], May 20, 1993, [107 Stat. 77][/us/stat/107/77], which is classified principally to subchapter I–H (§ 1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1971 of Title 42][/us/usc/t42/s1971] and Tables.
+    The National Voter Registration Act of 1993, referred to in subsec. (e), is [Pub. L. 103–31][/us/pl/103/31], May 20, 1993, [107 Stat. 77][/us/stat/107/77], which is classified principally to subchapter I–H (§ 1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1971 of Title 42][/us/usc/t42/s1971] and Tables.
 
  __Amendments__ 
 

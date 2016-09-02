@@ -29,7 +29,7 @@
 
   <tr>
 
-    <td> [431.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIV%2Fch431" data-uslm-ref="/us/usc/t10/stB/ptIV/ch431">431.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -39,131 +39,131 @@
 
   <tr>
 
-    <td> 433.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIV%2Fch433" data-uslm-ref="/us/usc/t10/stB/ptIV/ch433">433.</a>  </td>
 
     <td> Procurement  </td>
 
-    <td> 4531  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4531" data-uslm-ref="/us/usc/t10/s4531">4531</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 434.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIV%2Fch434" data-uslm-ref="/us/usc/t10/stB/ptIV/ch434">434.</a>  </td>
 
     <td> Armaments Industrial Base  </td>
 
-    <td> 4551  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4551" data-uslm-ref="/us/usc/t10/s4551">4551</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 435.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIV%2Fch435" data-uslm-ref="/us/usc/t10/stB/ptIV/ch435">435.</a>  </td>
 
     <td> Issue of Serviceable Material to Armed Forces  </td>
 
-    <td> 4561  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4561" data-uslm-ref="/us/usc/t10/s4561">4561</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 437.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIV%2Fch437" data-uslm-ref="/us/usc/t10/stB/ptIV/ch437">437.</a>  </td>
 
     <td> Utilities and Services  </td>
 
-    <td> 4591  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4591" data-uslm-ref="/us/usc/t10/s4591">4591</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 439.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIV%2Fch439" data-uslm-ref="/us/usc/t10/stB/ptIV/ch439">439.</a>  </td>
 
     <td> Sale of Serviceable Material  </td>
 
-    <td> 4621  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4621" data-uslm-ref="/us/usc/t10/s4621">4621</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIV%2Fch441" data-uslm-ref="/us/usc/t10/stB/ptIV/ch441">441.</a>  </td>
 
     <td> Issue of Serviceable Material Other Than to Armed Forces  </td>
 
-    <td> 4651  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4651" data-uslm-ref="/us/usc/t10/s4651">4651</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 443.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIV%2Fch443" data-uslm-ref="/us/usc/t10/stB/ptIV/ch443">443.</a>  </td>
 
     <td> Disposal of Obsolete or Surplus Material  </td>
 
-    <td> 4681  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4681" data-uslm-ref="/us/usc/t10/s4681">4681</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 445.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIV%2Fch445" data-uslm-ref="/us/usc/t10/stB/ptIV/ch445">445.</a>  </td>
 
     <td> Disposition of Effects of Deceased Persons; Captured Flags  </td>
 
-    <td> 4712  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4712" data-uslm-ref="/us/usc/t10/s4712">4712</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 446.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIV%2Fch446" data-uslm-ref="/us/usc/t10/stB/ptIV/ch446">446.</a>  </td>
 
     <td> Army National Military Cemeteries  </td>
 
-    <td> 4721  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4721" data-uslm-ref="/us/usc/t10/s4721">4721</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 447.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIV%2Fch447" data-uslm-ref="/us/usc/t10/stB/ptIV/ch447">447.</a>  </td>
 
     <td> Transportation  </td>
 
-    <td> 4741  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4741" data-uslm-ref="/us/usc/t10/s4741">4741</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 449.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIV%2Fch449" data-uslm-ref="/us/usc/t10/stB/ptIV/ch449">449.</a>  </td>
 
     <td> Real Property  </td>
 
-    <td> 4771  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4771" data-uslm-ref="/us/usc/t10/s4771">4771</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIV%2Fch451" data-uslm-ref="/us/usc/t10/stB/ptIV/ch451">451.</a>  </td>
 
     <td> Military Claims  </td>
 
-    <td> 4801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4801" data-uslm-ref="/us/usc/t10/s4801">4801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIV%2Fch453" data-uslm-ref="/us/usc/t10/stB/ptIV/ch453">453.</a>  </td>
 
     <td> Accountability and Responsibility  </td>
 
-    <td> 4831  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4831" data-uslm-ref="/us/usc/t10/s4831">4831</a>  </td>
 
   </tr>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs501" data-uslm-ref="/us/usc/t10/s501">501.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs502" data-uslm-ref="/us/usc/t10/s502">502.</a>  </td>
 
     <td> Enlistment oath: who may administer.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs503" data-uslm-ref="/us/usc/t10/s503">503.</a>  </td>
 
     <td> Enlistments: recruiting campaigns; compilation of directory information.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs504" data-uslm-ref="/us/usc/t10/s504">504.</a>  </td>
 
     <td> Persons not qualified.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs505" data-uslm-ref="/us/usc/t10/s505">505.</a>  </td>
 
     <td> Regular components: qualifications, term, grade.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs506" data-uslm-ref="/us/usc/t10/s506">506.</a>  </td>
 
     <td> Regular components: extension of enlistments during war.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs507" data-uslm-ref="/us/usc/t10/s507">507.</a>  </td>
 
     <td> Extension of enlistment for members needing medical care or hospitalization.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs508" data-uslm-ref="/us/usc/t10/s508">508.</a>  </td>
 
     <td> Reenlistment: qualifications.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs509" data-uslm-ref="/us/usc/t10/s509">509.</a>  </td>
 
     <td> Voluntary extension of enlistments: periods and benefits.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs510" data-uslm-ref="/us/usc/t10/s510">510.</a>  </td>
 
     <td> Enlistment incentives for pursuit of skills to facilitate national service.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs511" data-uslm-ref="/us/usc/t10/s511">511.</a>  </td>
 
     <td> College First Program.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> [512.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs512" data-uslm-ref="/us/usc/t10/s512">512.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs513" data-uslm-ref="/us/usc/t10/s513">513.</a>  </td>
 
     <td> Enlistments: Delayed Entry Program.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs514" data-uslm-ref="/us/usc/t10/s514">514.</a>  </td>
 
     <td> Bounties prohibited; substitutes prohibited.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs515" data-uslm-ref="/us/usc/t10/s515">515.</a>  </td>
 
     <td> Reenlistment after discharge as warrant officer.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs516" data-uslm-ref="/us/usc/t10/s516">516.</a>  </td>
 
     <td> Effect upon enlisted status of acceptance of appointment as cadet or midshipman.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 517.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs517" data-uslm-ref="/us/usc/t10/s517">517.</a>  </td>
 
     <td> Authorized daily average: members in pay grades E–8 and E–9.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 518.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs518" data-uslm-ref="/us/usc/t10/s518">518.</a>  </td>
 
     <td> Temporary enlistments.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 519.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs519" data-uslm-ref="/us/usc/t10/s519">519.</a>  </td>
 
     <td> Temporary enlistments: during war or emergency.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 520.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs520" data-uslm-ref="/us/usc/t10/s520">520.</a>  </td>
 
     <td> Limitation on enlistment and induction of persons whose score on the Armed Forces Qualification Test is below a prescribed level.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> [520a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs520a" data-uslm-ref="/us/usc/t10/s520a">520a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 520b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs520b" data-uslm-ref="/us/usc/t10/s520b">520b.</a>  </td>
 
     <td> Applicants for enlistment: authority to use funds for the issue of authorized articles.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 520c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs520c" data-uslm-ref="/us/usc/t10/s520c">520c.</a>  </td>
 
     <td> Recruiting functions: provision of meals and refreshments.  </td>
 

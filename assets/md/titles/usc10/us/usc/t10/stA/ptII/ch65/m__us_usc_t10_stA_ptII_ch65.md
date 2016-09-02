@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1293.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1293" data-uslm-ref="/us/usc/t10/s1293">1293.</a>  </td>
 
     <td> Twenty years or more: warrant officers.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1305" data-uslm-ref="/us/usc/t10/s1305">1305.</a>  </td>
 
     <td> Thirty years or more: regular warrant officers.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1315" data-uslm-ref="/us/usc/t10/s1315">1315.</a>  </td>
 
     <td> Computation of retired pay: law applicable.  </td>
 

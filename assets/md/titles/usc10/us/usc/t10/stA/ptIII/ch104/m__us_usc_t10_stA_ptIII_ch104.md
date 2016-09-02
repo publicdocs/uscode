@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2112" data-uslm-ref="/us/usc/t10/s2112">2112.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2112a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2112a" data-uslm-ref="/us/usc/t10/s2112a">2112a.</a>  </td>
 
     <td> Continued operation of University.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2113" data-uslm-ref="/us/usc/t10/s2113">2113.</a>  </td>
 
     <td> Administration of University.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2113a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2113a" data-uslm-ref="/us/usc/t10/s2113a">2113a.</a>  </td>
 
     <td> Board of Regents.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2114" data-uslm-ref="/us/usc/t10/s2114">2114.</a>  </td>
 
     <td> Students: selection; status; obligation.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2115" data-uslm-ref="/us/usc/t10/s2115">2115.</a>  </td>
 
     <td> Graduates: limitation on number permitted to perform civilian Federal service.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2116" data-uslm-ref="/us/usc/t10/s2116">2116.</a>  </td>
 
     <td> Military nursing research.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> [2117.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2117" data-uslm-ref="/us/usc/t10/s2117">2117.</a>  </td>
 
     <td> Repealed.]  </td>
 

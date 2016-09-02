@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2661.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2661" data-uslm-ref="/us/usc/t10/s2661">2661.</a>  </td>
 
     <td> Miscellaneous administrative provisions relating to real property.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [2661a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2661a" data-uslm-ref="/us/usc/t10/s2661a">2661a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2662.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2662" data-uslm-ref="/us/usc/t10/s2662">2662.</a>  </td>
 
     <td> Real property transactions: reports to congressional committees.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2663.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2663" data-uslm-ref="/us/usc/t10/s2663">2663.</a>  </td>
 
     <td> Land acquisition authorities.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2664.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2664" data-uslm-ref="/us/usc/t10/s2664">2664.</a>  </td>
 
     <td> Limitations on real property acquisition.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2665.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2665" data-uslm-ref="/us/usc/t10/s2665">2665.</a>  </td>
 
     <td> Sale of certain interests in land; logs.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [2666.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2666" data-uslm-ref="/us/usc/t10/s2666">2666.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2667.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2667" data-uslm-ref="/us/usc/t10/s2667">2667.</a>  </td>
 
     <td> Leases: non-excess property of military departments and Defense Agencies.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> [2667a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2667a" data-uslm-ref="/us/usc/t10/s2667a">2667a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2668.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2668" data-uslm-ref="/us/usc/t10/s2668">2668.</a>  </td>
 
     <td> Easements for rights-of-way.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2668a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2668a" data-uslm-ref="/us/usc/t10/s2668a">2668a.</a>  </td>
 
     <td> Easements: granting restrictive easements in connection with land conveyances.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> [2669.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2669" data-uslm-ref="/us/usc/t10/s2669">2669.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2670.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2670" data-uslm-ref="/us/usc/t10/s2670">2670.</a>  </td>
 
     <td> Use of facilities by private organizations; use as polling places.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2671.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2671" data-uslm-ref="/us/usc/t10/s2671">2671.</a>  </td>
 
     <td> Military reservations and facilities: hunting, fishing, and trapping.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> [2672 to 2673.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2672" data-uslm-ref="/us/usc/t10/s2672">2672</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2673" data-uslm-ref="/us/usc/t10/s2673">2673.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 2674.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2674" data-uslm-ref="/us/usc/t10/s2674">2674.</a>  </td>
 
     <td> Operation and control of Pentagon Reservation and defense facilities in National Capital Region.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 2675.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2675" data-uslm-ref="/us/usc/t10/s2675">2675.</a>  </td>
 
     <td> Leases: foreign countries.  </td>
 
@@ -161,15 +161,15 @@
 
   <tr>
 
-    <td> [2676, 2677. Renumbered or   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2676" data-uslm-ref="/us/usc/t10/s2676">2676</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2677" data-uslm-ref="/us/usc/t10/s2677">2677.</a>  </td>
 
-    <td> Repealed.]  </td>
+    <td> Renumbered or Repealed.]  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2678.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2678" data-uslm-ref="/us/usc/t10/s2678">2678.</a>  </td>
 
     <td> Feral horses and burros: removal from military installations.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> [2679, 2680.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2679" data-uslm-ref="/us/usc/t10/s2679">2679</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2680" data-uslm-ref="/us/usc/t10/s2680">2680.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 2681.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2681" data-uslm-ref="/us/usc/t10/s2681">2681.</a>  </td>
 
     <td> Use of test and evaluation installations by commercial entities.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 2682.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2682" data-uslm-ref="/us/usc/t10/s2682">2682.</a>  </td>
 
     <td> Facilities for defense agencies.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 2683.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2683" data-uslm-ref="/us/usc/t10/s2683">2683.</a>  </td>
 
     <td> Relinquishment of legislative jurisdiction; minimum drinking age on military installations.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 2684.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2684" data-uslm-ref="/us/usc/t10/s2684">2684.</a>  </td>
 
     <td> Cooperative agreements for management of cultural resources.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 2684a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2684a" data-uslm-ref="/us/usc/t10/s2684a">2684a.</a>  </td>
 
     <td> Agreements to limit encroachments and other constraints on military training, testing, and operations.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 2685.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2685" data-uslm-ref="/us/usc/t10/s2685">2685.</a>  </td>
 
     <td> Adjustment of or surcharge on selling prices in commissary stores to provide funds for construction and improvement of commissary store facilities.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 2686.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2686" data-uslm-ref="/us/usc/t10/s2686">2686.</a>  </td>
 
     <td> Utilities and services: sale; expansion and extension of systems and facilities.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 2687.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2687" data-uslm-ref="/us/usc/t10/s2687">2687.</a>  </td>
 
     <td> Base closures and realignments.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 2687a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2687a" data-uslm-ref="/us/usc/t10/s2687a">2687a.</a>  </td>
 
     <td> Overseas base closures and realignments and basing master plans.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 2688.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2688" data-uslm-ref="/us/usc/t10/s2688">2688.</a>  </td>
 
     <td> Utility systems: conveyance authority.  </td>
 
@@ -265,15 +265,15 @@
 
   <tr>
 
-    <td> [2689, 2690. Renumbered.]  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2689" data-uslm-ref="/us/usc/t10/s2689">2689</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2690" data-uslm-ref="/us/usc/t10/s2690">2690.</a>  </td>
 
-    <td>   </td>
+    <td> Renumbered.]  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2691.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2691" data-uslm-ref="/us/usc/t10/s2691">2691.</a>  </td>
 
     <td> Restoration of land used by permit or lease.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 2692.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2692" data-uslm-ref="/us/usc/t10/s2692">2692.</a>  </td>
 
     <td> Storage, treatment, and disposal of nondefense toxic and hazardous materials.  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> [2693.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2693" data-uslm-ref="/us/usc/t10/s2693">2693.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -297,7 +297,7 @@
 
   <tr>
 
-    <td> 2694.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2694" data-uslm-ref="/us/usc/t10/s2694">2694.</a>  </td>
 
     <td> Conservation and cultural activities.  </td>
 
@@ -305,7 +305,7 @@
 
   <tr>
 
-    <td> 2694a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2694a" data-uslm-ref="/us/usc/t10/s2694a">2694a.</a>  </td>
 
     <td> Conveyance of surplus real property for natural resource conservation.  </td>
 
@@ -313,7 +313,7 @@
 
   <tr>
 
-    <td> 2694b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2694b" data-uslm-ref="/us/usc/t10/s2694b">2694b.</a>  </td>
 
     <td> Participation in wetland mitigation banks.  </td>
 
@@ -321,7 +321,7 @@
 
   <tr>
 
-    <td> 2694c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2694c" data-uslm-ref="/us/usc/t10/s2694c">2694c.</a>  </td>
 
     <td> Participation in conservation banking programs.  </td>
 
@@ -329,7 +329,7 @@
 
   <tr>
 
-    <td> 2695.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2695" data-uslm-ref="/us/usc/t10/s2695">2695.</a>  </td>
 
     <td> Acceptance of funds to cover administrative expenses relating to certain real property transactions.  </td>
 
@@ -337,7 +337,7 @@
 
   <tr>
 
-    <td> 2696.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2696" data-uslm-ref="/us/usc/t10/s2696">2696.</a>  </td>
 
     <td> Real property: transfer between armed forces and screening requirements for other Federal use.  </td>
 
@@ -345,7 +345,7 @@
 
   <tr>
 
-    <td> 2697.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2697" data-uslm-ref="/us/usc/t10/s2697">2697.</a>  </td>
 
     <td> Acceptance and use of landing fees charged for use of domestic military airfields by civil aircraft.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1161" data-uslm-ref="/us/usc/t10/s1161">1161.</a>  </td>
 
     <td> Commissioned officers: limitations on dismissal.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [1162, 1163.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1162" data-uslm-ref="/us/usc/t10/s1162">1162</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1163" data-uslm-ref="/us/usc/t10/s1163">1163.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1164.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1164" data-uslm-ref="/us/usc/t10/s1164">1164.</a>  </td>
 
     <td> Warrant officers: separation for age.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1165.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1165" data-uslm-ref="/us/usc/t10/s1165">1165.</a>  </td>
 
     <td> Regular warrant officers: separation during three-year probationary period.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1166.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1166" data-uslm-ref="/us/usc/t10/s1166">1166.</a>  </td>
 
     <td> Regular warrant officers: elimination for unfitness or unsatisfactory performance.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1167.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1167" data-uslm-ref="/us/usc/t10/s1167">1167.</a>  </td>
 
     <td> Members under confinement by sentence of court-martial: separation after six months confinement.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1168.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1168" data-uslm-ref="/us/usc/t10/s1168">1168.</a>  </td>
 
     <td> Discharge or release from active duty: limitations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1169.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1169" data-uslm-ref="/us/usc/t10/s1169">1169.</a>  </td>
 
     <td> Regular enlisted members: limitations on discharge.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1170.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1170" data-uslm-ref="/us/usc/t10/s1170">1170.</a>  </td>
 
     <td> Regular enlisted members: minority discharge.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1171.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1171" data-uslm-ref="/us/usc/t10/s1171">1171.</a>  </td>
 
     <td> Regular enlisted members: early discharge.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1172.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1172" data-uslm-ref="/us/usc/t10/s1172">1172.</a>  </td>
 
     <td> Enlisted members: during war or emergency; discharge.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1173.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1173" data-uslm-ref="/us/usc/t10/s1173">1173.</a>  </td>
 
     <td> Enlisted members: discharge for hardship.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1174.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1174" data-uslm-ref="/us/usc/t10/s1174">1174.</a>  </td>
 
     <td> Separation pay upon involuntary discharge or release from active duty.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1174a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1174a" data-uslm-ref="/us/usc/t10/s1174a">1174a.</a>  </td>
 
     <td> Special separation benefits programs.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1175.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1175" data-uslm-ref="/us/usc/t10/s1175">1175.</a>  </td>
 
     <td> Voluntary separation incentive.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1175a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1175a" data-uslm-ref="/us/usc/t10/s1175a">1175a.</a>  </td>
 
     <td> Voluntary separation pay and benefits.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1176.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1176" data-uslm-ref="/us/usc/t10/s1176">1176.</a>  </td>
 
     <td> Enlisted members: retention after completion of 18 or more, but less than 20, years of service.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1177.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1177" data-uslm-ref="/us/usc/t10/s1177">1177.</a>  </td>
 
     <td> Members diagnosed with or reasonably asserting post-traumatic stress disorder or traumatic brain injury: medical examination required before administrative separation.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 1178.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1178" data-uslm-ref="/us/usc/t10/s1178">1178.</a>  </td>
 
     <td> System and procedures for tracking separations resulting from refusal to participate in anthrax vaccine immunization program.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [9651.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9651" data-uslm-ref="/us/usc/t10/s9651">9651.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9652.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9652" data-uslm-ref="/us/usc/t10/s9652">9652.</a>  </td>
 
     <td> Rifles and ammunition for target practice: educational institutions having corps of cadets.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9653.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9653" data-uslm-ref="/us/usc/t10/s9653">9653.</a>  </td>
 
     <td> Ordnance and ordnance stores: District of Columbia high schools.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9654.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9654" data-uslm-ref="/us/usc/t10/s9654">9654.</a>  </td>
 
     <td> Supplies: military instruction camps.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 9655.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9655" data-uslm-ref="/us/usc/t10/s9655">9655.</a>  </td>
 
     <td> Arms and ammunition: agencies and departments of United States.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 9656.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9656" data-uslm-ref="/us/usc/t10/s9656">9656.</a>  </td>
 
     <td> Aircraft and equipment: civilian aviation schools.  </td>
 

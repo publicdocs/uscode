@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch8%2FschI" data-uslm-ref="/us/usc/t10/stA/ptI/ch8/schI">I.</a>  </td>
 
     <td> Common Supply and Service Activities  </td>
 
-    <td> 191  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs191" data-uslm-ref="/us/usc/t10/s191">191</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch8%2FschII" data-uslm-ref="/us/usc/t10/stA/ptI/ch8/schII">II.</a>  </td>
 
     <td> Miscellaneous Defense Agency Matters  </td>
 
-    <td> 201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs201" data-uslm-ref="/us/usc/t10/s201">201</a>  </td>
 
   </tr>
 

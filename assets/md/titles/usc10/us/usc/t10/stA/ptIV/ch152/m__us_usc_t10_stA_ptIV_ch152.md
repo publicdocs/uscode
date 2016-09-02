@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2551.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2551" data-uslm-ref="/us/usc/t10/s2551">2551.</a>  </td>
 
     <td> Equipment and barracks: national veterans’ organizations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2552.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2552" data-uslm-ref="/us/usc/t10/s2552">2552.</a>  </td>
 
     <td> Equipment for instruction and practice: American National Red Cross.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2553.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2553" data-uslm-ref="/us/usc/t10/s2553">2553.</a>  </td>
 
     <td> Equipment and services: Presidential inaugural ceremonies.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2554.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2554" data-uslm-ref="/us/usc/t10/s2554">2554.</a>  </td>
 
     <td> Equipment and other services: Boy Scout Jamborees.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2555.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2555" data-uslm-ref="/us/usc/t10/s2555">2555.</a>  </td>
 
     <td> Transportation services: international Girl Scout events.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2556.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2556" data-uslm-ref="/us/usc/t10/s2556">2556.</a>  </td>
 
     <td> Shelter for homeless; incidental services.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2557.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2557" data-uslm-ref="/us/usc/t10/s2557">2557.</a>  </td>
 
     <td> Excess nonlethal supplies: availability for humanitarian relief, domestic emergency assistance, and homeless veterans assistance.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2558.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2558" data-uslm-ref="/us/usc/t10/s2558">2558.</a>  </td>
 
     <td> National military associations: assistance at national conventions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2559.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2559" data-uslm-ref="/us/usc/t10/s2559">2559.</a>  </td>
 
     <td> Provision of medical care to foreign military and diplomatic personnel: reimbursement required; waiver for provision of reciprocal services.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2560.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2560" data-uslm-ref="/us/usc/t10/s2560">2560.</a>  </td>
 
     <td> Aircraft and vehicles: limitation on leasing to non-Federal agencies.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2561.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2561" data-uslm-ref="/us/usc/t10/s2561">2561.</a>  </td>
 
     <td> Humanitarian assistance.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2562.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2562" data-uslm-ref="/us/usc/t10/s2562">2562.</a>  </td>
 
     <td> Limitation on use of excess construction or fire equipment from Department of Defense stocks in foreign assistance or military sales programs.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2563.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2563" data-uslm-ref="/us/usc/t10/s2563">2563.</a>  </td>
 
     <td> Articles and services of industrial facilities: sale to persons outside the Department of Defense.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2564.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2564" data-uslm-ref="/us/usc/t10/s2564">2564.</a>  </td>
 
     <td> Provision of support for certain sporting events.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2564a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2564a" data-uslm-ref="/us/usc/t10/s2564a">2564a.</a>  </td>
 
     <td> Provision of assistance for adaptive sports programs for members of the armed forces.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 2565.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2565" data-uslm-ref="/us/usc/t10/s2565">2565.</a>  </td>
 
     <td> Nuclear test monitoring equipment: furnishing to foreign governments.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 2566.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2566" data-uslm-ref="/us/usc/t10/s2566">2566.</a>  </td>
 
     <td> Space and services: provision to military welfare societies.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> [2567.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2567" data-uslm-ref="/us/usc/t10/s2567">2567.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 2568.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2568" data-uslm-ref="/us/usc/t10/s2568">2568.</a>  </td>
 
     <td> Retention of combat uniforms by members deployed in support of contingency operations.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2171.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2171" data-uslm-ref="/us/usc/t10/s2171">2171.</a>  </td>
 
     <td> Education loan repayment program: enlisted members on active duty in specified military specialties.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [2172.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2172" data-uslm-ref="/us/usc/t10/s2172">2172.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2173.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2173" data-uslm-ref="/us/usc/t10/s2173">2173.</a>  </td>
 
     <td> Education loan repayment program: commissioned officers in specified health professions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2174.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2174" data-uslm-ref="/us/usc/t10/s2174">2174.</a>  </td>
 
     <td> Interest payment program: members on active duty.  </td>
 

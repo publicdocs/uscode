@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [6481, 6482.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6481" data-uslm-ref="/us/usc/t10/s6481">6481</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6482" data-uslm-ref="/us/usc/t10/s6482">6482.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6483.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6483" data-uslm-ref="/us/usc/t10/s6483">6483.</a>  </td>
 
     <td> Retired members: grade.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6484.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6484" data-uslm-ref="/us/usc/t10/s6484">6484.</a>  </td>
 
     <td> Promotion of retired members to higher enlisted grades: retention of grade upon release from active duty.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6485.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6485" data-uslm-ref="/us/usc/t10/s6485">6485.</a>  </td>
 
     <td> Members of the Fleet Reserve and Fleet Marine Corps Reserve: authority to recall.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6486.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6486" data-uslm-ref="/us/usc/t10/s6486">6486.</a>  </td>
 
     <td> Members of the Fleet Reserve and Fleet Marine Corps Reserve: release from active duty.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [6487, 6488.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6487" data-uslm-ref="/us/usc/t10/s6487">6487</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6488" data-uslm-ref="/us/usc/t10/s6488">6488.</a>  </td>
 
     <td> Repealed.]  </td>
 

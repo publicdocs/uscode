@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 12401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12401" data-uslm-ref="/us/usc/t10/s12401">12401.</a>  </td>
 
     <td> Army and Air National Guard of the United States: status.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 12402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12402" data-uslm-ref="/us/usc/t10/s12402">12402.</a>  </td>
 
     <td> Army and Air National Guard of the United States: commissioned officers; duty in National Guard Bureau.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 12403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12403" data-uslm-ref="/us/usc/t10/s12403">12403.</a>  </td>
 
     <td> Army and Air National Guard of the United States: members; status in which ordered into Federal service.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 12404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12404" data-uslm-ref="/us/usc/t10/s12404">12404.</a>  </td>
 
     <td> Army and Air National Guard of the United States: mobilization; maintenance of organization.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 12405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12405" data-uslm-ref="/us/usc/t10/s12405">12405.</a>  </td>
 
     <td> National Guard in Federal service: status.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 12406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12406" data-uslm-ref="/us/usc/t10/s12406">12406.</a>  </td>
 
     <td> National Guard in Federal service: call.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 12407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12407" data-uslm-ref="/us/usc/t10/s12407">12407.</a>  </td>
 
     <td> National Guard in Federal service: period of service; apportionment.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 12408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12408" data-uslm-ref="/us/usc/t10/s12408">12408.</a>  </td>
 
     <td> National Guard in Federal service: physical examination.  </td>
 

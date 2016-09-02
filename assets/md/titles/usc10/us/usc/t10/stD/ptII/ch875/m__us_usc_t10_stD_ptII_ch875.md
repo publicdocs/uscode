@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9061.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9061" data-uslm-ref="/us/usc/t10/s9061">9061.</a>  </td>
 
     <td> Fatality reviews.  </td>
 

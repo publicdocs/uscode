@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6951.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6951" data-uslm-ref="/us/usc/t10/s6951">6951.</a>  </td>
 
     <td> Location.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6951a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6951a" data-uslm-ref="/us/usc/t10/s6951a">6951a.</a>  </td>
 
     <td> Superintendent.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6952.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6952" data-uslm-ref="/us/usc/t10/s6952">6952.</a>  </td>
 
     <td> Civilian teachers: number; compensation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6953.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6953" data-uslm-ref="/us/usc/t10/s6953">6953.</a>  </td>
 
     <td> Midshipmen: appointment.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6954.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6954" data-uslm-ref="/us/usc/t10/s6954">6954.</a>  </td>
 
     <td> Midshipmen: number.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6955.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6955" data-uslm-ref="/us/usc/t10/s6955">6955.</a>  </td>
 
     <td> Midshipmen: allotment upon redistricting of Congressional Districts.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6956.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6956" data-uslm-ref="/us/usc/t10/s6956">6956.</a>  </td>
 
     <td> Midshipmen: nomination and selection to fill vacancies.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6957.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6957" data-uslm-ref="/us/usc/t10/s6957">6957.</a>  </td>
 
     <td> Selection of persons from foreign countries.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 6957a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6957a" data-uslm-ref="/us/usc/t10/s6957a">6957a.</a>  </td>
 
     <td> Exchange program with foreign military academies.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 6957b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6957b" data-uslm-ref="/us/usc/t10/s6957b">6957b.</a>  </td>
 
     <td> Foreign and cultural exchange activities.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 6958.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6958" data-uslm-ref="/us/usc/t10/s6958">6958.</a>  </td>
 
     <td> Midshipmen: qualifications for admission.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 6959.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6959" data-uslm-ref="/us/usc/t10/s6959">6959.</a>  </td>
 
     <td> Midshipmen: agreement for length of service.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 6960.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6960" data-uslm-ref="/us/usc/t10/s6960">6960.</a>  </td>
 
     <td> Midshipmen: clothing and equipment; uniform allowance.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 6961.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6961" data-uslm-ref="/us/usc/t10/s6961">6961.</a>  </td>
 
     <td> Midshipmen: dismissal for best interests of the service.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 6962.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6962" data-uslm-ref="/us/usc/t10/s6962">6962.</a>  </td>
 
     <td> Midshipmen: discharge for unsatisfactory conduct or inaptitude.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 6963.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6963" data-uslm-ref="/us/usc/t10/s6963">6963.</a>  </td>
 
     <td> Midshipmen: discharge for deficiency.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 6964.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6964" data-uslm-ref="/us/usc/t10/s6964">6964.</a>  </td>
 
     <td> Hazing: definition; prohibition.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 6965.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6965" data-uslm-ref="/us/usc/t10/s6965">6965.</a>  </td>
 
     <td> Failure to report violation: dismissal.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 6966.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6966" data-uslm-ref="/us/usc/t10/s6966">6966.</a>  </td>
 
     <td> Course of study.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 6967.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6967" data-uslm-ref="/us/usc/t10/s6967">6967.</a>  </td>
 
     <td> Degree on graduation.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 6968.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6968" data-uslm-ref="/us/usc/t10/s6968">6968.</a>  </td>
 
     <td> Board of Visitors.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 6969.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6969" data-uslm-ref="/us/usc/t10/s6969">6969.</a>  </td>
 
     <td> Band: composition.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 6970.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6970" data-uslm-ref="/us/usc/t10/s6970">6970.</a>  </td>
 
     <td> Permanent professors: promotion.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 6970a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6970a" data-uslm-ref="/us/usc/t10/s6970a">6970a.</a>  </td>
 
     <td> Permanent professors: retirement for years of service; authority for deferral.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 6971.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6971" data-uslm-ref="/us/usc/t10/s6971">6971.</a>  </td>
 
     <td> Midshipmen’s store, trade shops, dairy, and laundry: nonappropriated fund instrumentality and accounts.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 6972.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6972" data-uslm-ref="/us/usc/t10/s6972">6972.</a>  </td>
 
     <td> Chapel: crypt and window spaces.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 6973.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6973" data-uslm-ref="/us/usc/t10/s6973">6973.</a>  </td>
 
     <td> Gifts, bequests, and loans of property: acceptance for benefit and use of Naval Academy.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 6974.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6974" data-uslm-ref="/us/usc/t10/s6974">6974.</a>  </td>
 
     <td> United States Naval Academy Museum Fund: references to Fund.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 6975.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6975" data-uslm-ref="/us/usc/t10/s6975">6975.</a>  </td>
 
     <td> Acceptance of guarantees with gifts for major projects.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 6976.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6976" data-uslm-ref="/us/usc/t10/s6976">6976.</a>  </td>
 
     <td> Operation of Naval Academy dairy farm.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 6977.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6977" data-uslm-ref="/us/usc/t10/s6977">6977.</a>  </td>
 
     <td> Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 6978.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6978" data-uslm-ref="/us/usc/t10/s6978">6978.</a>  </td>
 
     <td> Mixed-funded athletic and recreational extracurricular programs: authority to manage appropriated funds in same manner as nonappropriated funds.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 6979.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6979" data-uslm-ref="/us/usc/t10/s6979">6979.</a>  </td>
 
     <td> Midshipmen: charges and fees for attendance; limitation.  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 6980.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6980" data-uslm-ref="/us/usc/t10/s6980">6980.</a>  </td>
 
     <td> Policy on sexual harassment and sexual violence.  </td>
 
@@ -297,7 +297,7 @@
 
   <tr>
 
-    <td> 6981.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6981" data-uslm-ref="/us/usc/t10/s6981">6981.</a>  </td>
 
     <td> Support of athletic and physical fitness programs.  </td>
 

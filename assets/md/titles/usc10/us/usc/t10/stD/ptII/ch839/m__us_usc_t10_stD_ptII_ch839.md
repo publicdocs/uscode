@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [8441 to 8445.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8441" data-uslm-ref="/us/usc/t10/s8441">8441</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8445" data-uslm-ref="/us/usc/t10/s8445">8445.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8446.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8446" data-uslm-ref="/us/usc/t10/s8446">8446.</a>  </td>
 
     <td> Retention on active duty.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [8447 to 8452.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8447" data-uslm-ref="/us/usc/t10/s8447">8447</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8452" data-uslm-ref="/us/usc/t10/s8452">8452.</a>  </td>
 
     <td> Repealed.]  </td>
 

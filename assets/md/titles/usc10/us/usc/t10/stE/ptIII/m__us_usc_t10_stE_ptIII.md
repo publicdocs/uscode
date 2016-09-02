@@ -29,61 +29,61 @@
 
   <tr>
 
-    <td> 1401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptIII%2Fch1401" data-uslm-ref="/us/usc/t10/stE/ptIII/ch1401">1401.</a>  </td>
 
     <td> Applicability and Reserve Active-Status Lists  </td>
 
-    <td> 14001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14001" data-uslm-ref="/us/usc/t10/s14001">14001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptIII%2Fch1403" data-uslm-ref="/us/usc/t10/stE/ptIII/ch1403">1403.</a>  </td>
 
     <td> Selection Boards  </td>
 
-    <td> 14101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14101" data-uslm-ref="/us/usc/t10/s14101">14101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptIII%2Fch1405" data-uslm-ref="/us/usc/t10/stE/ptIII/ch1405">1405.</a>  </td>
 
     <td> Promotions  </td>
 
-    <td> 14301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14301" data-uslm-ref="/us/usc/t10/s14301">14301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptIII%2Fch1407" data-uslm-ref="/us/usc/t10/stE/ptIII/ch1407">1407.</a>  </td>
 
     <td> Failure of Selection for Promotion and Involuntary Separation  </td>
 
-    <td> 14501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14501" data-uslm-ref="/us/usc/t10/s14501">14501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1409.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptIII%2Fch1409" data-uslm-ref="/us/usc/t10/stE/ptIII/ch1409">1409.</a>  </td>
 
     <td> Continuation of Officers on the Reserve Active-Status List and Selective Early Removal  </td>
 
-    <td> 14701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14701" data-uslm-ref="/us/usc/t10/s14701">14701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptIII%2Fch1411" data-uslm-ref="/us/usc/t10/stE/ptIII/ch1411">1411.</a>  </td>
 
     <td> Additional Provisions Relating to Involuntary Separation  </td>
 
-    <td> 14901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14901" data-uslm-ref="/us/usc/t10/s14901">14901</a>  </td>
 
   </tr>
 

@@ -29,57 +29,57 @@
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch501" data-uslm-ref="/us/usc/t10/stC/ptI/ch501">501.</a>  </td>
 
     <td> Definitions  </td>
 
-    <td> 5001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5001" data-uslm-ref="/us/usc/t10/s5001">5001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch503" data-uslm-ref="/us/usc/t10/stC/ptI/ch503">503.</a>  </td>
 
     <td> Department of the Navy  </td>
 
-    <td> 5011  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5011" data-uslm-ref="/us/usc/t10/s5011">5011</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch505" data-uslm-ref="/us/usc/t10/stC/ptI/ch505">505.</a>  </td>
 
     <td> Office of the Chief of Naval Operations  </td>
 
-    <td> 5031  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5031" data-uslm-ref="/us/usc/t10/s5031">5031</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch506" data-uslm-ref="/us/usc/t10/stC/ptI/ch506">506.</a>  </td>
 
     <td> Headquarters, Marine Corps  </td>
 
-    <td> 5041  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5041" data-uslm-ref="/us/usc/t10/s5041">5041</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch507" data-uslm-ref="/us/usc/t10/stC/ptI/ch507">507.</a>  </td>
 
     <td> Composition of the Department of the Navy  </td>
 
-    <td> 5061  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5061" data-uslm-ref="/us/usc/t10/s5061">5061</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [509.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch509" data-uslm-ref="/us/usc/t10/stC/ptI/ch509">509.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> [511.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch511" data-uslm-ref="/us/usc/t10/stC/ptI/ch511">511.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -99,17 +99,17 @@
 
   <tr>
 
-    <td> 513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch513" data-uslm-ref="/us/usc/t10/stC/ptI/ch513">513.</a>  </td>
 
     <td> Bureaus; Office of the Judge Advocate General  </td>
 
-    <td> 5131  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5131" data-uslm-ref="/us/usc/t10/s5131">5131</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [515.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch515" data-uslm-ref="/us/usc/t10/stC/ptI/ch515">515.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -119,7 +119,7 @@
 
   <tr>
 
-    <td> [516.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch516" data-uslm-ref="/us/usc/t10/stC/ptI/ch516">516.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> [517.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch517" data-uslm-ref="/us/usc/t10/stC/ptI/ch517">517.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -139,7 +139,7 @@
 
   <tr>
 
-    <td> [519.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch519" data-uslm-ref="/us/usc/t10/stC/ptI/ch519">519.</a>  </td>
 
     <td> Repealed.]  </td>
 

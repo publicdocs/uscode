@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs131" data-uslm-ref="/us/usc/t10/s131">131.</a>  </td>
 
     <td> Office of the Secretary of Defense.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs132" data-uslm-ref="/us/usc/t10/s132">132.</a>  </td>
 
     <td> Deputy Secretary of Defense.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 132a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs132a" data-uslm-ref="/us/usc/t10/s132a">132a.</a>  </td>
 
     <td> Deputy Chief Management Officer.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs133" data-uslm-ref="/us/usc/t10/s133">133.</a>  </td>
 
     <td> Under Secretary of Defense for Acquisition, Technology, and Logistics.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [133a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs133a" data-uslm-ref="/us/usc/t10/s133a">133a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [133b.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs133b" data-uslm-ref="/us/usc/t10/s133b">133b.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 134.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs134" data-uslm-ref="/us/usc/t10/s134">134.</a>  </td>
 
     <td> Under Secretary of Defense for Policy.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> [134a, 134b.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs134a" data-uslm-ref="/us/usc/t10/s134a">134a</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs134b" data-uslm-ref="/us/usc/t10/s134b">134b.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 135.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs135" data-uslm-ref="/us/usc/t10/s135">135.</a>  </td>
 
     <td> Under Secretary of Defense (Comptroller).  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 136.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs136" data-uslm-ref="/us/usc/t10/s136">136.</a>  </td>
 
     <td> Under Secretary of Defense for Personnel and Readiness.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> [136a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs136a" data-uslm-ref="/us/usc/t10/s136a">136a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 137.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs137" data-uslm-ref="/us/usc/t10/s137">137.</a>  </td>
 
     <td> Under Secretary of Defense for Intelligence.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 137a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs137a" data-uslm-ref="/us/usc/t10/s137a">137a.</a>  </td>
 
     <td> Principal Deputy Under Secretaries of Defense.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 138.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs138" data-uslm-ref="/us/usc/t10/s138">138.</a>  </td>
 
     <td> Assistant Secretaries of Defense.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 138a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs138a" data-uslm-ref="/us/usc/t10/s138a">138a.</a>  </td>
 
     <td> Assistant Secretary of Defense for Logistics and Materiel Readiness.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 138b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs138b" data-uslm-ref="/us/usc/t10/s138b">138b.</a>  </td>
 
     <td> Assistant Secretary of Defense for Research and Engineering.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 138c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs138c" data-uslm-ref="/us/usc/t10/s138c">138c.</a>  </td>
 
     <td> Assistant Secretary of Defense for Operational Energy Plans and Programs.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 138d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs138d" data-uslm-ref="/us/usc/t10/s138d">138d.</a>  </td>
 
     <td> Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 139.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs139" data-uslm-ref="/us/usc/t10/s139">139.</a>  </td>
 
     <td> Director of Operational Test and Evaluation.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 139a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs139a" data-uslm-ref="/us/usc/t10/s139a">139a.</a>  </td>
 
     <td> Director of Cost Assessment and Program Evaluation.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 139b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs139b" data-uslm-ref="/us/usc/t10/s139b">139b.</a>  </td>
 
     <td> Deputy Assistant Secretary of Defense for Developmental Test and Evaluation; Deputy Assistant Secretary of Defense for Systems Engineering: joint guidance.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 139c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs139c" data-uslm-ref="/us/usc/t10/s139c">139c.</a>  </td>
 
     <td> Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy.  </td>
 
@@ -201,15 +201,15 @@
 
   <tr>
 
-    <td> [139d, 139e. Renumbered.]  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs139d" data-uslm-ref="/us/usc/t10/s139d">139d</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs139e" data-uslm-ref="/us/usc/t10/s139e">139e.</a>  </td>
 
-    <td>   </td>
+    <td> Renumbered.]  </td>
 
   </tr>
 
   <tr>
 
-    <td> 140.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs140" data-uslm-ref="/us/usc/t10/s140">140.</a>  </td>
 
     <td> General Counsel.  </td>
 
@@ -217,15 +217,15 @@
 
   <tr>
 
-    <td> [140a to 140c. Renumbered.]  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs140a" data-uslm-ref="/us/usc/t10/s140a">140a</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs140c" data-uslm-ref="/us/usc/t10/s140c">140c.</a>  </td>
 
-    <td>   </td>
+    <td> Renumbered.]  </td>
 
   </tr>
 
   <tr>
 
-    <td> 141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs141" data-uslm-ref="/us/usc/t10/s141">141.</a>  </td>
 
     <td> Inspector General.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> [142.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs142" data-uslm-ref="/us/usc/t10/s142">142.</a>  </td>
 
     <td>  Renumbered.]  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs143" data-uslm-ref="/us/usc/t10/s143">143.</a>  </td>
 
     <td> Office of the Secretary of Defense personnel: limitation.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs144" data-uslm-ref="/us/usc/t10/s144">144.</a>  </td>
 
     <td> Director of Small Business Programs.  </td>
 

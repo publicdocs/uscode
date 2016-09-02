@@ -27,10 +27,6 @@
 
 (Added [Pub. L. 92–426, § 2(a)][/us/pl/92/426/s2/a], Sept. 21, 1972, [86 Stat. 718][/us/stat/86/718]; amended [Pub. L. 96–513, title V, § 511(67)][/us/pl/96/513/s511/67], Dec. 12, 1980, [94 Stat. 2926][/us/stat/94/2926]; [Pub. L. 97–258, § 3(b)(3)][/us/pl/97/258/s3/b/3], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 98–525, title XIV, § 1405(56)(A)][/us/pl/98/525/s1405/56/A], Oct. 19, 1984, [98 Stat. 2626][/us/stat/98/2626]; [Pub. L. 100–180, div. A, title VII, § 711(a)(2)][/us/pl/100/180/s711/a/2], Dec. 4, 1987, [101 Stat. 1108][/us/stat/101/1108]; [Pub. L. 101–189, div. A, title VII, § 725(d)(1)][/us/pl/101/189/s725/d/1], (2), Nov. 29, 1989, [103 Stat. 1479][/us/stat/103/1479]; [Pub. L. 109–364, div. A, title V, § 538(b)][/us/pl/109/364/s538/b], Oct. 17, 2006, [120 Stat. 2209][/us/stat/120/2209]; [Pub. L. 111–84, div. A, title X, § 1073(a)(19)][/us/pl/111/84/s1073/a/19], Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473].)
 
- __Prior Provisions__ 
-
-    Prior sections 2128 to 2130 were renumbered sections 16201 to 16203 of this title, respectively.
-
  __Amendments__ 
 
     2009—Subsec. (e). [Pub. L. 111–84][/us/pl/111/84] struck out “of” after “an annual grant”.

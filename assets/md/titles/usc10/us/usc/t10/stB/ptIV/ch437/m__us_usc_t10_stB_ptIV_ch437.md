@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4591.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4591" data-uslm-ref="/us/usc/t10/s4591">4591.</a>  </td>
 
     <td> Utilities: proceeds from overseas operations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4592.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4592" data-uslm-ref="/us/usc/t10/s4592">4592.</a>  </td>
 
     <td> Radiograms and telegrams: forwarding charges due connecting commercial facilities.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4593.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4593" data-uslm-ref="/us/usc/t10/s4593">4593.</a>  </td>
 
     <td> Quarters: heat and light.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4594.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4594" data-uslm-ref="/us/usc/t10/s4594">4594.</a>  </td>
 
     <td> Furnishing of heraldic services.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4595.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4595" data-uslm-ref="/us/usc/t10/s4595">4595.</a>  </td>
 
     <td> Army Military History Institute: fee for providing historical information to the public.  </td>
 

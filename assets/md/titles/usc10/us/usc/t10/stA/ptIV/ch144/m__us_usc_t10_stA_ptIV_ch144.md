@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2430.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2430" data-uslm-ref="/us/usc/t10/s2430">2430.</a>  </td>
 
     <td> Major defense acquisition program defined.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2430a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2430a" data-uslm-ref="/us/usc/t10/s2430a">2430a.</a>  </td>
 
     <td> Major subprograms.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2431" data-uslm-ref="/us/usc/t10/s2431">2431.</a>  </td>
 
     <td> Weapons development and procurement schedules.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2432" data-uslm-ref="/us/usc/t10/s2432">2432.</a>  </td>
 
     <td> Selected Acquisition Reports.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2433.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2433" data-uslm-ref="/us/usc/t10/s2433">2433.</a>  </td>
 
     <td> Unit cost reports.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2433a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2433a" data-uslm-ref="/us/usc/t10/s2433a">2433a.</a>  </td>
 
     <td> Critical cost growth in major defense acquisition programs.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2434.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2434" data-uslm-ref="/us/usc/t10/s2434">2434.</a>  </td>
 
     <td> Independent cost estimates; operational manpower requirements.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2435.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2435" data-uslm-ref="/us/usc/t10/s2435">2435.</a>  </td>
 
     <td> Baseline description.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2436.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2436" data-uslm-ref="/us/usc/t10/s2436">2436.</a>  </td>
 
     <td> Major defense acquisition programs: incentive program for contractors to purchase capital assets manufactured in United States.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2437.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2437" data-uslm-ref="/us/usc/t10/s2437">2437.</a>  </td>
 
     <td> Development of major defense acquisition programs: sustainment of system to be replaced.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2438.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2438" data-uslm-ref="/us/usc/t10/s2438">2438.</a>  </td>
 
     <td> Performance assessments and root cause analyses.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> [2439.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2439" data-uslm-ref="/us/usc/t10/s2439">2439.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2440.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2440" data-uslm-ref="/us/usc/t10/s2440">2440.</a>  </td>
 
     <td> Technology and industrial base plans.  </td>
 

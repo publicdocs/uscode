@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs111" data-uslm-ref="/us/usc/t10/s111">111.</a>  </td>
 
     <td> Executive department.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs112" data-uslm-ref="/us/usc/t10/s112">112.</a>  </td>
 
     <td> Department of Defense: seal.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs113" data-uslm-ref="/us/usc/t10/s113">113.</a>  </td>
 
     <td> Secretary of Defense.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 113a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs113a" data-uslm-ref="/us/usc/t10/s113a">113a.</a>  </td>
 
     <td> Transmission of annual defense authorization request.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs114" data-uslm-ref="/us/usc/t10/s114">114.</a>  </td>
 
     <td> Annual authorization of appropriations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [114a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs114a" data-uslm-ref="/us/usc/t10/s114a">114a.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs115" data-uslm-ref="/us/usc/t10/s115">115.</a>  </td>
 
     <td> Personnel strengths: requirement for annual authorization.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 115a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs115a" data-uslm-ref="/us/usc/t10/s115a">115a.</a>  </td>
 
     <td> Annual defense manpower requirements report.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 115b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs115b" data-uslm-ref="/us/usc/t10/s115b">115b.</a>  </td>
 
     <td> Biennial strategic workforce plan.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs116" data-uslm-ref="/us/usc/t10/s116">116.</a>  </td>
 
     <td> Annual operations and maintenance report.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs117" data-uslm-ref="/us/usc/t10/s117">117.</a>  </td>
 
     <td> Readiness reporting system: establishment; reporting to congressional committees.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs118" data-uslm-ref="/us/usc/t10/s118">118.</a>  </td>
 
     <td> Quadrennial defense review.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 118a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs118a" data-uslm-ref="/us/usc/t10/s118a">118a.</a>  </td>
 
     <td> Quadrennial quality of life review.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 118b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs118b" data-uslm-ref="/us/usc/t10/s118b">118b.</a>  </td>
 
     <td> Quadrennial roles and missions review.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 119.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs119" data-uslm-ref="/us/usc/t10/s119">119.</a>  </td>
 
     <td> Special access programs: congressional oversight.  </td>
 

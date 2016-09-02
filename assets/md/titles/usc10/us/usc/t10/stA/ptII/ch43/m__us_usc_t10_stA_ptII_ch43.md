@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 741.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs741" data-uslm-ref="/us/usc/t10/s741">741.</a>  </td>
 
     <td> Rank: commissioned officers of the armed forces.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 742.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs742" data-uslm-ref="/us/usc/t10/s742">742.</a>  </td>
 
     <td> Rank: warrant officers.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 743.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs743" data-uslm-ref="/us/usc/t10/s743">743.</a>  </td>
 
     <td> Rank: Chief of Staff of the Army; Chief of Naval Operations; Chief of Staff of the Air Force; Commandant of the Marine Corps.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 744.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs744" data-uslm-ref="/us/usc/t10/s744">744.</a>  </td>
 
     <td> Physician to White House: assignment; grade.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [745.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs745" data-uslm-ref="/us/usc/t10/s745">745.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 747.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs747" data-uslm-ref="/us/usc/t10/s747">747.</a>  </td>
 
     <td> Command: when different commands of Army, Navy, Air Force, Marine Corps, and Coast Guard join.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 749.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs749" data-uslm-ref="/us/usc/t10/s749">749.</a>  </td>
 
     <td> Command: commissioned officers in same grade or corresponding grades on duty at same place.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 750.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs750" data-uslm-ref="/us/usc/t10/s750">750.</a>  </td>
 
     <td> Command: retired officers.  </td>
 

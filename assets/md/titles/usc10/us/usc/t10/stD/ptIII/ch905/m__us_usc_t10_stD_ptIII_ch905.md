@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9381" data-uslm-ref="/us/usc/t10/s9381">9381.</a>  </td>
 
     <td> Establishment of program.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9382.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9382" data-uslm-ref="/us/usc/t10/s9382">9382.</a>  </td>
 
     <td> Supplies and clothing.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9383.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9383" data-uslm-ref="/us/usc/t10/s9383">9383.</a>  </td>
 
     <td> Allowances.  </td>
 

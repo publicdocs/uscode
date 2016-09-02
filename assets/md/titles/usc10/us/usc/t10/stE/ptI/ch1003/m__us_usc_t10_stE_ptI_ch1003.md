@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 10101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10101" data-uslm-ref="/us/usc/t10/s10101">10101.</a>  </td>
 
     <td> Reserve components named.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 10102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10102" data-uslm-ref="/us/usc/t10/s10102">10102.</a>  </td>
 
     <td> Purpose of reserve components.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 10103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10103" data-uslm-ref="/us/usc/t10/s10103">10103.</a>  </td>
 
     <td> Basic policy for order into Federal service.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 10104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10104" data-uslm-ref="/us/usc/t10/s10104">10104.</a>  </td>
 
     <td> Army Reserve: composition.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 10105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10105" data-uslm-ref="/us/usc/t10/s10105">10105.</a>  </td>
 
     <td> Army National Guard of the United States: composition.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 10106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10106" data-uslm-ref="/us/usc/t10/s10106">10106.</a>  </td>
 
     <td> Army National Guard: when a component of the Army.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 10107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10107" data-uslm-ref="/us/usc/t10/s10107">10107.</a>  </td>
 
     <td> Army National Guard of the United States: status when not in Federal service.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 10108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10108" data-uslm-ref="/us/usc/t10/s10108">10108.</a>  </td>
 
     <td> Navy Reserve: administration.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 10109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10109" data-uslm-ref="/us/usc/t10/s10109">10109.</a>  </td>
 
     <td> Marine Corps Reserve: administration.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 10110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10110" data-uslm-ref="/us/usc/t10/s10110">10110.</a>  </td>
 
     <td> Air Force Reserve: composition.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 10111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10111" data-uslm-ref="/us/usc/t10/s10111">10111.</a>  </td>
 
     <td> Air National Guard of the United States: composition.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 10112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10112" data-uslm-ref="/us/usc/t10/s10112">10112.</a>  </td>
 
     <td> Air National Guard: when a component of the Air Force.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 10113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10113" data-uslm-ref="/us/usc/t10/s10113">10113.</a>  </td>
 
     <td> Air National Guard of the United States: status when not in Federal service.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 10114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10114" data-uslm-ref="/us/usc/t10/s10114">10114.</a>  </td>
 
     <td> Coast Guard Reserve.  </td>
 

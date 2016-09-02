@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 10201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10201" data-uslm-ref="/us/usc/t10/s10201">10201.</a>  </td>
 
     <td> Assistant Secretary of Defense for Reserve Affairs.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 10202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10202" data-uslm-ref="/us/usc/t10/s10202">10202.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 10203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10203" data-uslm-ref="/us/usc/t10/s10203">10203.</a>  </td>
 
     <td> Reserve affairs: designation of general or flag officer of each armed force.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 10204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10204" data-uslm-ref="/us/usc/t10/s10204">10204.</a>  </td>
 
     <td> Personnel records.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 10205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10205" data-uslm-ref="/us/usc/t10/s10205">10205.</a>  </td>
 
     <td> Members of Ready Reserve: requirement of notification of change of status.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 10206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10206" data-uslm-ref="/us/usc/t10/s10206">10206.</a>  </td>
 
     <td> Members: physical examinations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 10207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10207" data-uslm-ref="/us/usc/t10/s10207">10207.</a>  </td>
 
     <td> Mobilization forces: maintenance.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 10208.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10208" data-uslm-ref="/us/usc/t10/s10208">10208.</a>  </td>
 
     <td> Annual mobilization exercise.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 10209.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10209" data-uslm-ref="/us/usc/t10/s10209">10209.</a>  </td>
 
     <td> Regular and reserve components: discrimination prohibited.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 10210.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10210" data-uslm-ref="/us/usc/t10/s10210">10210.</a>  </td>
 
     <td> Dissemination of information.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 10211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10211" data-uslm-ref="/us/usc/t10/s10211">10211.</a>  </td>
 
     <td> Policies and regulations: participation of Reserve officers in preparation and administration.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 10212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10212" data-uslm-ref="/us/usc/t10/s10212">10212.</a>  </td>
 
     <td> Gratuitous services of officers: authority to accept.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 10213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10213" data-uslm-ref="/us/usc/t10/s10213">10213.</a>  </td>
 
     <td> Reserve components: dual membership prohibited.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 10214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10214" data-uslm-ref="/us/usc/t10/s10214">10214.</a>  </td>
 
     <td> Adjutants general and assistant adjutants general: reference to other officers of National Guard.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 10215.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10215" data-uslm-ref="/us/usc/t10/s10215">10215.</a>  </td>
 
     <td> Officers of Army National Guard of the United States and Air National Guard of the United States: authority with respect to Federal status.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 10216.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10216" data-uslm-ref="/us/usc/t10/s10216">10216.</a>  </td>
 
     <td> Military technicians (dual status).  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 10217.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10217" data-uslm-ref="/us/usc/t10/s10217">10217.</a>  </td>
 
     <td> Non-dual status technicians.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 10218.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10218" data-uslm-ref="/us/usc/t10/s10218">10218.</a>  </td>
 
     <td> Army and Air Force Reserve technicians: conditions for retention; mandatory retirement under civil service laws.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 10219.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10219" data-uslm-ref="/us/usc/t10/s10219">10219.</a>  </td>
 
     <td> Suicide prevention and resilience program.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 10141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10141" data-uslm-ref="/us/usc/t10/s10141">10141.</a>  </td>
 
     <td> Ready Reserve; Standby Reserve; Retired Reserve: placement and status of members; training categories.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 10142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10142" data-uslm-ref="/us/usc/t10/s10142">10142.</a>  </td>
 
     <td> Ready Reserve.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 10143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10143" data-uslm-ref="/us/usc/t10/s10143">10143.</a>  </td>
 
     <td> Ready Reserve: Selected Reserve.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 10144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10144" data-uslm-ref="/us/usc/t10/s10144">10144.</a>  </td>
 
     <td> Ready Reserve: Individual Ready Reserve.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 10145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10145" data-uslm-ref="/us/usc/t10/s10145">10145.</a>  </td>
 
     <td> Ready Reserve: placement in.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 10146.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10146" data-uslm-ref="/us/usc/t10/s10146">10146.</a>  </td>
 
     <td> Ready Reserve: transfer from.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 10147.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10147" data-uslm-ref="/us/usc/t10/s10147">10147.</a>  </td>
 
     <td> Ready Reserve: training requirements.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 10148.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10148" data-uslm-ref="/us/usc/t10/s10148">10148.</a>  </td>
 
     <td> Ready Reserve: failure to satisfactorily perform prescribed training.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 10149.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10149" data-uslm-ref="/us/usc/t10/s10149">10149.</a>  </td>
 
     <td> Ready Reserve: continuous screening.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 10150.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10150" data-uslm-ref="/us/usc/t10/s10150">10150.</a>  </td>
 
     <td> Ready Reserve: transfer back from Standby Reserve.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 10151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10151" data-uslm-ref="/us/usc/t10/s10151">10151.</a>  </td>
 
     <td> Standby Reserve: composition.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 10152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10152" data-uslm-ref="/us/usc/t10/s10152">10152.</a>  </td>
 
     <td> Standby Reserve: inactive status list.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 10153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10153" data-uslm-ref="/us/usc/t10/s10153">10153.</a>  </td>
 
     <td> Standby Reserve: status of members.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 10154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10154" data-uslm-ref="/us/usc/t10/s10154">10154.</a>  </td>
 
     <td> Retired Reserve.  </td>
 

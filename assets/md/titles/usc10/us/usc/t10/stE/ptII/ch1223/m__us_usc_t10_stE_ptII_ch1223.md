@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 12731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12731" data-uslm-ref="/us/usc/t10/s12731">12731.</a>  </td>
 
     <td> Age and service requirements.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 12731a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12731a" data-uslm-ref="/us/usc/t10/s12731a">12731a.</a>  </td>
 
     <td> Temporary special retirement qualification authority.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 12731b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12731b" data-uslm-ref="/us/usc/t10/s12731b">12731b.</a>  </td>
 
     <td> Special rule for members with physical disabilities not incurred in line of duty.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 12732.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12732" data-uslm-ref="/us/usc/t10/s12732">12732.</a>  </td>
 
     <td> Entitlement to retired pay: computation of years of service.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 12733.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12733" data-uslm-ref="/us/usc/t10/s12733">12733.</a>  </td>
 
     <td> Computation of retired pay: computation of years of service.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 12734.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12734" data-uslm-ref="/us/usc/t10/s12734">12734.</a>  </td>
 
     <td> Time not creditable toward years of service.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 12735.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12735" data-uslm-ref="/us/usc/t10/s12735">12735.</a>  </td>
 
     <td> Inactive status list.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 12736.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12736" data-uslm-ref="/us/usc/t10/s12736">12736.</a>  </td>
 
     <td> Service credited for retired pay benefits not excluded for other benefits.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 12737.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12737" data-uslm-ref="/us/usc/t10/s12737">12737.</a>  </td>
 
     <td> Limitation on active duty.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 12738.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12738" data-uslm-ref="/us/usc/t10/s12738">12738.</a>  </td>
 
     <td> Limitations on revocation of retired pay.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 12739.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12739" data-uslm-ref="/us/usc/t10/s12739">12739.</a>  </td>
 
     <td> Computation of retired pay.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 12740.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12740" data-uslm-ref="/us/usc/t10/s12740">12740.</a>  </td>
 
     <td> Eligibility: denial upon certain punitive discharges or dismissals.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 12741.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12741" data-uslm-ref="/us/usc/t10/s12741">12741.</a>  </td>
 
     <td> Retirement for service in an active status performed in the Selected Reserve of the Ready Reserve after eligibility for regular retirement.  </td>
 

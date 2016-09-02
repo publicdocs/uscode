@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 14101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14101" data-uslm-ref="/us/usc/t10/s14101">14101.</a>  </td>
 
     <td> Convening of selection boards.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 14102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14102" data-uslm-ref="/us/usc/t10/s14102">14102.</a>  </td>
 
     <td> Selection boards: appointment and composition.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 14103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14103" data-uslm-ref="/us/usc/t10/s14103">14103.</a>  </td>
 
     <td> Oath of members.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 14104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14104" data-uslm-ref="/us/usc/t10/s14104">14104.</a>  </td>
 
     <td> Nondisclosure of board proceedings.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 14105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14105" data-uslm-ref="/us/usc/t10/s14105">14105.</a>  </td>
 
     <td> Notice of convening of promotion board.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 14106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14106" data-uslm-ref="/us/usc/t10/s14106">14106.</a>  </td>
 
     <td> Communication with board by officers under consideration.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 14107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14107" data-uslm-ref="/us/usc/t10/s14107">14107.</a>  </td>
 
     <td> Information furnished by the Secretary concerned to promotion boards.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 14108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14108" data-uslm-ref="/us/usc/t10/s14108">14108.</a>  </td>
 
     <td> Recommendations by promotion boards.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 14109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14109" data-uslm-ref="/us/usc/t10/s14109">14109.</a>  </td>
 
     <td> Reports of promotion boards: in general.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 14110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14110" data-uslm-ref="/us/usc/t10/s14110">14110.</a>  </td>
 
     <td> Reports of promotion boards: review by Secretary.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 14111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14111" data-uslm-ref="/us/usc/t10/s14111">14111.</a>  </td>
 
     <td> Reports of selection boards: transmittal to President.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 14112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14112" data-uslm-ref="/us/usc/t10/s14112">14112.</a>  </td>
 
     <td> Dissemination of names of officers selected.  </td>
 

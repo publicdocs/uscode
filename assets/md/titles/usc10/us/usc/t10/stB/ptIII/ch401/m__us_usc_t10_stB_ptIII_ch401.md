@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4301" data-uslm-ref="/us/usc/t10/s4301">4301.</a>  </td>
 
     <td> Members of Army: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4302" data-uslm-ref="/us/usc/t10/s4302">4302.</a>  </td>
 
     <td> Enlisted members of Army: schools.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4303" data-uslm-ref="/us/usc/t10/s4303">4303.</a>  </td>
 
     <td> Army Ranger training: instructor staffing; safety.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4306" data-uslm-ref="/us/usc/t10/s4306">4306.</a>  </td>
 
     <td> Service schools: leaves of absence for instructors.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [4307, 4308.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4307" data-uslm-ref="/us/usc/t10/s4307">4307</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4308" data-uslm-ref="/us/usc/t10/s4308">4308.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4309" data-uslm-ref="/us/usc/t10/s4309">4309.</a>  </td>
 
     <td> Rifle ranges: availability for use by members and civilians.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [4310 to 4313.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4310" data-uslm-ref="/us/usc/t10/s4310">4310</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4313" data-uslm-ref="/us/usc/t10/s4313">4313.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4314" data-uslm-ref="/us/usc/t10/s4314">4314.</a>  </td>
 
     <td> Degree granting authority for United States Army Command and General Staff College.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 4315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4315" data-uslm-ref="/us/usc/t10/s4315">4315.</a>  </td>
 
     <td> The Judge Advocate General’s School: master of laws in military law.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 4316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4316" data-uslm-ref="/us/usc/t10/s4316">4316.</a>  </td>
 
     <td> Reporting requirements.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 4317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4317" data-uslm-ref="/us/usc/t10/s4317">4317.</a>  </td>
 
     <td> Military history fellowships.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 4318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4318" data-uslm-ref="/us/usc/t10/s4318">4318.</a>  </td>
 
     <td> Drill sergeant trainees: human relations training.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 4319.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4319" data-uslm-ref="/us/usc/t10/s4319">4319.</a>  </td>
 
     <td> Recruit basic training: separate housing for male and female recruits.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 4320.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4320" data-uslm-ref="/us/usc/t10/s4320">4320.</a>  </td>
 
     <td> Recruit basic training: privacy.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 4321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4321" data-uslm-ref="/us/usc/t10/s4321">4321.</a>  </td>
 
     <td> Degree granting authority for United States Army War College.  </td>
 

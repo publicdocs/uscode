@@ -285,45 +285,33 @@ May 5, 1950, ch. 169, § 1 (Art. 120), 64 Stat. 140.  </td>
 
 > “Until the President otherwise provides pursuant to [section 856 of title 10][/us/usc/t10/s856], United States Code (article 56 of the Uniform Code of Military Justice), the punishment which a court-martial may direct for an offense under section 920 of such title (article 120 of the Uniform Code of Military Justice), as amended by subsection (a), may not exceed the following limits:
 
->     “(1) __Subsections__ 
+>     “(1) __Subsections (a) and (b).—__ 
 
->         (a) __and (b).—__ 
-
->         For an offense under subsection (a) (rape) or subsection (b) (rape of a child), death or such other punishment as a court-martial may direct.
+>     For an offense under subsection (a) (rape) or subsection (b) (rape of a child), death or such other punishment as a court-martial may direct.
 
 >     “(2) __Subsection (c).—__ 
 
 >     For an offense under subsection (c) (aggravated sexual assault), dishonorable discharge, forfeiture of all pay and allowances, and confinement for 30 years.
 
->     “(3) __Subsections__ 
+>     “(3) __Subsections (d) and (e).—__ 
 
->         (d) __and (e).—__ 
+>     For an offense under subsection (d) (aggravated sexual assault of a child) or subsection (e) (aggravated sexual contact), dishonorable discharge, forfeiture of all pay and allowances, and confinement for 20 years.
 
->         For an offense under subsection (d) (aggravated sexual assault of a child) or subsection (e) (aggravated sexual contact), dishonorable discharge, forfeiture of all pay and allowances, and confinement for 20 years.
+>     “(4) __Subsections (f) and (g).—__ 
 
->     “(4) __Subsections__ 
+>     For an offense under subsection (f) (aggravated sexual abuse of a child) or subsection (g) (aggravated sexual contact with a child), dishonorable discharge, forfeiture of all pay and allowances, and confinement for 15 years.
 
->         (f) __and (g).—__ 
+>     “(5) __Subsections (h) through (j).—__ 
 
->         For an offense under subsection (f) (aggravated sexual abuse of a child) or subsection (g) (aggravated sexual contact with a child), dishonorable discharge, forfeiture of all pay and allowances, and confinement for 15 years.
+>     For an offense under subsection (h) (abusive sexual contact), subsection (i) (abusive sexual contact with a child), or subsection (j) (indecent liberty with a child), dishonorable discharge, forfeiture of all pay and allowances, and confinement for 7 years.
 
->     “(5) __Subsections__ 
+>     “(6) __Subsections (k) and (__  __l__  __).—__ 
 
->         (h) __through (j).—__ 
+>     For an offense under subsection (k) (indecent act) or subsection (l) (forcible pandering), dishonorable discharge, forfeiture of all pay and allowances, and confinement for 5 years.
 
->         For an offense under subsection (h) (abusive sexual contact), subsection (i) (abusive sexual contact with a child), or subsection (j) (indecent liberty with a child), dishonorable discharge, forfeiture of all pay and allowances, and confinement for 7 years.
+>     “(7) __Subsections (m) and (n).—__ 
 
->     “(6) __Subsections__ 
-
->         (k) __and (__  __l__  __).—__ 
-
->         For an offense under subsection (k) (indecent act) or subsection (l) (forcible pandering), dishonorable discharge, forfeiture of all pay and allowances, and confinement for 5 years.
-
->     “(7) __Subsections__ 
-
->         (m) __and (n).—__ 
-
->         For an offense under subsection (m) (wrongful sexual contact) or subsection (n) (indecent exposure), dishonorable discharge, forfeiture of all pay and allowances, and confinement for one year.”
+>     For an offense under subsection (m) (wrongful sexual contact) or subsection (n) (indecent exposure), dishonorable discharge, forfeiture of all pay and allowances, and confinement for one year.”
 
     \[See 2011 Amendment notes above for extensive amendment of [section 920 of title 10][/us/usc/t10/s920] by [Pub. L. 112–81][/us/pl/112/81], effective 180 days after Dec. 31, 2011, and applicable with respect to offenses committed on or after such effective date.\]
 

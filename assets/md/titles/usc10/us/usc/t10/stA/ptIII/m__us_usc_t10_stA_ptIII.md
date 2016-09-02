@@ -29,131 +29,131 @@
 
   <tr>
 
-    <td> 101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch101" data-uslm-ref="/us/usc/t10/stA/ptIII/ch101">101.</a>  </td>
 
     <td> Training Generally  </td>
 
-    <td> 2001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2001" data-uslm-ref="/us/usc/t10/s2001">2001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch102" data-uslm-ref="/us/usc/t10/stA/ptIII/ch102">102.</a>  </td>
 
     <td> Junior Reserve Officers’ Training Corps  </td>
 
-    <td> 2031  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2031" data-uslm-ref="/us/usc/t10/s2031">2031</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch103" data-uslm-ref="/us/usc/t10/stA/ptIII/ch103">103.</a>  </td>
 
     <td> Senior Reserve Officers’ Training Corps  </td>
 
-    <td> 2101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2101" data-uslm-ref="/us/usc/t10/s2101">2101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch104" data-uslm-ref="/us/usc/t10/stA/ptIII/ch104">104.</a>  </td>
 
     <td> Uniformed Services University of the Health Sciences  </td>
 
-    <td> 2112  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2112" data-uslm-ref="/us/usc/t10/s2112">2112</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch105" data-uslm-ref="/us/usc/t10/stA/ptIII/ch105">105.</a>  </td>
 
     <td> Armed Forces Health Professions Financial Assistance Programs  </td>
 
-    <td> 2120  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2120" data-uslm-ref="/us/usc/t10/s2120">2120</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch106" data-uslm-ref="/us/usc/t10/stA/ptIII/ch106">106.</a>  </td>
 
     <td> Educational Assistance for Members of the Selected Reserve  </td>
 
-    <td> 2131  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2131" data-uslm-ref="/us/usc/t10/s2131">2131</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 106A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch106A" data-uslm-ref="/us/usc/t10/stA/ptIII/ch106A">106A.</a>  </td>
 
     <td> Educational Assistance for Persons Enlisting for Active Duty  </td>
 
-    <td> 2141  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2141" data-uslm-ref="/us/usc/t10/s2141">2141</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch107" data-uslm-ref="/us/usc/t10/stA/ptIII/ch107">107.</a>  </td>
 
     <td> Professional Military Education  </td>
 
-    <td> 2151  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2151" data-uslm-ref="/us/usc/t10/s2151">2151</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch108" data-uslm-ref="/us/usc/t10/stA/ptIII/ch108">108.</a>  </td>
 
     <td> Department of Defense Schools  </td>
 
-    <td> 2161  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2161" data-uslm-ref="/us/usc/t10/s2161">2161</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch109" data-uslm-ref="/us/usc/t10/stA/ptIII/ch109">109.</a>  </td>
 
     <td> Educational Loan Repayment Programs  </td>
 
-    <td> 2171  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2171" data-uslm-ref="/us/usc/t10/s2171">2171</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch110" data-uslm-ref="/us/usc/t10/stA/ptIII/ch110">110.</a>  </td>
 
     <td> Educational Assistance for Members Held as Captives and Their Dependents  </td>
 
-    <td> 2181  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2181" data-uslm-ref="/us/usc/t10/s2181">2181</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch111" data-uslm-ref="/us/usc/t10/stA/ptIII/ch111">111.</a>  </td>
 
     <td> Support of Science, Mathematics, and Engineering Education  </td>
 
-    <td> 2191  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2191" data-uslm-ref="/us/usc/t10/s2191">2191</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch112" data-uslm-ref="/us/usc/t10/stA/ptIII/ch112">112.</a>  </td>
 
     <td> Information Security Scholarship Program  </td>
 
-    <td> 2200  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2200" data-uslm-ref="/us/usc/t10/s2200">2200</a>  </td>
 
   </tr>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs521" data-uslm-ref="/us/usc/t10/s521">521.</a>  </td>
 
     <td> Authority to prescribe total strengths of officers on active duty and officer strengths in various categories.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [522.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs522" data-uslm-ref="/us/usc/t10/s522">522.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs523" data-uslm-ref="/us/usc/t10/s523">523.</a>  </td>
 
     <td> Authorized strengths: commissioned officers on active duty in grades of major, lieutenant colonel, and colonel and Navy grades of lieutenant commander, commander, and captain.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [524.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs524" data-uslm-ref="/us/usc/t10/s524">524.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 525.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs525" data-uslm-ref="/us/usc/t10/s525">525.</a>  </td>
 
     <td> Distribution of commissioned officers on active duty in general officer and flag officer grades.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 526.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs526" data-uslm-ref="/us/usc/t10/s526">526.</a>  </td>
 
     <td> Authorized strength: general and flag officers on active duty.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 527.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs527" data-uslm-ref="/us/usc/t10/s527">527.</a>  </td>
 
     <td> Authority to suspend sections 523, 525, and 526.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 528.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs528" data-uslm-ref="/us/usc/t10/s528">528.</a>  </td>
 
     <td> Officers serving in certain intelligence positions: military status; application of distribution and strength limitations; pay and allowances.  </td>
 

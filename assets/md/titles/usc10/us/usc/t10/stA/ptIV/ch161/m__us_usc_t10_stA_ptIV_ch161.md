@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2721" data-uslm-ref="/us/usc/t10/s2721">2721.</a>  </td>
 
     <td> Property records: maintenance on quantitative and monetary basis.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2722" data-uslm-ref="/us/usc/t10/s2722">2722.</a>  </td>
 
     <td> Theft or loss of ammunition, destructive devices, and explosives: report to Secretary of the Treasury.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2723.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2723" data-uslm-ref="/us/usc/t10/s2723">2723.</a>  </td>
 
     <td> Notice to congressional committees of certain security and counterintelligence failures within defense programs.  </td>
 

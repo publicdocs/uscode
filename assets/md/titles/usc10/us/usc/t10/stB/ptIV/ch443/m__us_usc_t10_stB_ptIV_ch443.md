@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4681.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4681" data-uslm-ref="/us/usc/t10/s4681">4681.</a>  </td>
 
     <td> Surplus war material: sale to States and foreign governments.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4682.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4682" data-uslm-ref="/us/usc/t10/s4682">4682.</a>  </td>
 
     <td> Obsolete or excess material: sale to National Council of Boy Scouts of America.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4683.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4683" data-uslm-ref="/us/usc/t10/s4683">4683.</a>  </td>
 
     <td> Excess non-automatic service rifles: loan or donation for funeral and other ceremonial purposes.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4684.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4684" data-uslm-ref="/us/usc/t10/s4684">4684.</a>  </td>
 
     <td> Surplus obsolete ordnance: sale to patriotic organizations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4685.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4685" data-uslm-ref="/us/usc/t10/s4685">4685.</a>  </td>
 
     <td> Obsolete ordnance: loan to educational institutions and State soldiers and sailors’ orphans’ homes.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4686.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4686" data-uslm-ref="/us/usc/t10/s4686">4686.</a>  </td>
 
     <td> Obsolete ordnance: gift to State homes for soldiers and sailors.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4687.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4687" data-uslm-ref="/us/usc/t10/s4687">4687.</a>  </td>
 
     <td> Sale of excess, obsolete, or unserviceable ammunition and ammunition components.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4688.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4688" data-uslm-ref="/us/usc/t10/s4688">4688.</a>  </td>
 
     <td> Armor-piercing ammunition and components: condition on disposal.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 4689.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4689" data-uslm-ref="/us/usc/t10/s4689">4689.</a>  </td>
 
     <td> Transfer of material and equipment to the Architect of the Capitol.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 4690.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4690" data-uslm-ref="/us/usc/t10/s4690">4690.</a>  </td>
 
     <td> Recyclable munitions materials: sale; use of proceeds.  </td>
 

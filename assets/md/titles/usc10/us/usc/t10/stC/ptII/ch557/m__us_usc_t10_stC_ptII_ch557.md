@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6081.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6081" data-uslm-ref="/us/usc/t10/s6081">6081.</a>  </td>
 
     <td> Navy ration: persons entitled to.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6082.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6082" data-uslm-ref="/us/usc/t10/s6082">6082.</a>  </td>
 
     <td> Rations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6083.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6083" data-uslm-ref="/us/usc/t10/s6083">6083.</a>  </td>
 
     <td> Fixing cost on certain vessels and stations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6084.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6084" data-uslm-ref="/us/usc/t10/s6084">6084.</a>  </td>
 
     <td> Enlisted members assigned to mess: basic allowance for subsistence paid to mess.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6085.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6085" data-uslm-ref="/us/usc/t10/s6085">6085.</a>  </td>
 
     <td> Flight rations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6086.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6086" data-uslm-ref="/us/usc/t10/s6086">6086.</a>  </td>
 
     <td> Subsistence in hospital messes: hospital ration.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6087.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6087" data-uslm-ref="/us/usc/t10/s6087">6087.</a>  </td>
 
     <td> Sale of meals by general messes.  </td>
 

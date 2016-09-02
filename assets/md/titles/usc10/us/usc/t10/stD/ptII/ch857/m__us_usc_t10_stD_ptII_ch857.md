@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8741.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8741" data-uslm-ref="/us/usc/t10/s8741">8741.</a>  </td>
 
     <td> Medal of honor: award.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8742.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8742" data-uslm-ref="/us/usc/t10/s8742">8742.</a>  </td>
 
     <td> Air Force cross: award.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8743.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8743" data-uslm-ref="/us/usc/t10/s8743">8743.</a>  </td>
 
     <td> Distinguished-service medal: award.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8744.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8744" data-uslm-ref="/us/usc/t10/s8744">8744.</a>  </td>
 
     <td> Medal of honor; Air Force cross; distinguished-service medal: limitations on award.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8745.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8745" data-uslm-ref="/us/usc/t10/s8745">8745.</a>  </td>
 
     <td> Medal of honor; Air Force cross; distinguished-service medal: delegation of power to award.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 8746.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8746" data-uslm-ref="/us/usc/t10/s8746">8746.</a>  </td>
 
     <td> Silver star: award.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 8747.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8747" data-uslm-ref="/us/usc/t10/s8747">8747.</a>  </td>
 
     <td> Medal of honor; Air Force cross; distinguished-service cross; distinguished-service medal; silver star: replacement.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 8748.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8748" data-uslm-ref="/us/usc/t10/s8748">8748.</a>  </td>
 
     <td> Medal of honor; Air Force cross; distinguished-service cross; distinguished-service medal; silver star: availability of appropriations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 8749.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8749" data-uslm-ref="/us/usc/t10/s8749">8749.</a>  </td>
 
     <td> Distinguished flying cross: award; limitations.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 8750.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8750" data-uslm-ref="/us/usc/t10/s8750">8750.</a>  </td>
 
     <td> Airman’s Medal: award; limitations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 8751.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8751" data-uslm-ref="/us/usc/t10/s8751">8751.</a>  </td>
 
     <td> Service medals: issue; replacement; availability of appropriations.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 8752.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8752" data-uslm-ref="/us/usc/t10/s8752">8752.</a>  </td>
 
     <td> Medals: posthumous award and presentation.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 8754.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8754" data-uslm-ref="/us/usc/t10/s8754">8754.</a>  </td>
 
     <td> Medal of honor: duplicate medal.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 8755.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8755" data-uslm-ref="/us/usc/t10/s8755">8755.</a>  </td>
 
     <td> Medal of honor: presentation of Medal of Honor Flag.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 8756.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8756" data-uslm-ref="/us/usc/t10/s8756">8756.</a>  </td>
 
     <td> Korea Defense Service Medal.  </td>
 

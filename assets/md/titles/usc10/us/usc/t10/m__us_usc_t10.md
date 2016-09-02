@@ -33,51 +33,51 @@ This title was enacted by [act Aug. 10, 1956, ch. 1041, § 1][/us/act/1956-08-
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA" data-uslm-ref="/us/usc/t10/stA">A.</a>  </td>
 
     <td> General Military Law  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs101" data-uslm-ref="/us/usc/t10/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB" data-uslm-ref="/us/usc/t10/stB">B.</a>  </td>
 
     <td> Army  </td>
 
-    <td> 3001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3001" data-uslm-ref="/us/usc/t10/s3001">3001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC" data-uslm-ref="/us/usc/t10/stC">C.</a>  </td>
 
     <td> Navy and Marine Corps  </td>
 
-    <td> 5001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5001" data-uslm-ref="/us/usc/t10/s5001">5001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD" data-uslm-ref="/us/usc/t10/stD">D.</a>  </td>
 
     <td> Air Force  </td>
 
-    <td> 8001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8001" data-uslm-ref="/us/usc/t10/s8001">8001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE" data-uslm-ref="/us/usc/t10/stE">E.</a>  </td>
 
     <td> Reserve Components  </td>
 
-    <td> 10001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10001" data-uslm-ref="/us/usc/t10/s10001">10001</a>  </td>
 
   </tr>
 

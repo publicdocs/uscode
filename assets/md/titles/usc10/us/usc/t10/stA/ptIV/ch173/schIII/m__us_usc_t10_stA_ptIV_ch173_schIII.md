@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2924.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2924" data-uslm-ref="/us/usc/t10/s2924">2924.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2925.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2925" data-uslm-ref="/us/usc/t10/s2925">2925.</a>  </td>
 
     <td> Annual Department of Defense energy management reports.  </td>
 

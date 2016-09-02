@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 14501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14501" data-uslm-ref="/us/usc/t10/s14501">14501.</a>  </td>
 
     <td> Failure of selection for promotion.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 14502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14502" data-uslm-ref="/us/usc/t10/s14502">14502.</a>  </td>
 
     <td> Special selection boards: correction of errors.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 14503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14503" data-uslm-ref="/us/usc/t10/s14503">14503.</a>  </td>
 
     <td> Discharge of officers with less than six years of commissioned service or found not qualified for promotion to first lieutenant or lieutenant (junior grade).  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 14504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14504" data-uslm-ref="/us/usc/t10/s14504">14504.</a>  </td>
 
     <td> Effect of failure of selection for promotion: reserve first lieutenants of the Army, Air Force, and Marine Corps and reserve lieutenants (junior grade) of the Navy.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 14505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14505" data-uslm-ref="/us/usc/t10/s14505">14505.</a>  </td>
 
     <td> Effect of failure of selection for promotion: reserve captains of the Army, Air Force, and Marine Corps and reserve lieutenants of the Navy.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 14506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14506" data-uslm-ref="/us/usc/t10/s14506">14506.</a>  </td>
 
     <td> Effect of failure of selection for promotion: reserve majors of the Army, Air Force, and Marine Corps and reserve lieutenant commanders of the Navy.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 14507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14507" data-uslm-ref="/us/usc/t10/s14507">14507.</a>  </td>
 
     <td> Removal from the reserve active-status list for years of service: reserve lieutenant colonels and colonels of the Army, Air Force, and Marine Corps and reserve commanders and captains of the Navy.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 14508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14508" data-uslm-ref="/us/usc/t10/s14508">14508.</a>  </td>
 
     <td> Removal from the reserve active-status list for years of service: reserve general and flag officers.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 14509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14509" data-uslm-ref="/us/usc/t10/s14509">14509.</a>  </td>
 
     <td> Separation at age 62: reserve officers in grades below brigadier general or rear admiral (lower half).  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 14510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14510" data-uslm-ref="/us/usc/t10/s14510">14510.</a>  </td>
 
     <td> Separation at age 62: brigadier generals and rear admirals (lower half).  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 14511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14511" data-uslm-ref="/us/usc/t10/s14511">14511.</a>  </td>
 
     <td> Separation at age 64: officers in grade of major general or rear admiral and above.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 14512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14512" data-uslm-ref="/us/usc/t10/s14512">14512.</a>  </td>
 
     <td> Separation at age 66: officers holding certain offices.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 14513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14513" data-uslm-ref="/us/usc/t10/s14513">14513.</a>  </td>
 
     <td> Failure of selection for promotion: transfer, retirement, or discharge.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 14514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14514" data-uslm-ref="/us/usc/t10/s14514">14514.</a>  </td>
 
     <td> Discharge or retirement for years of service or after selection for early removal.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 14515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14515" data-uslm-ref="/us/usc/t10/s14515">14515.</a>  </td>
 
     <td> Discharge or retirement for age.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 14516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14516" data-uslm-ref="/us/usc/t10/s14516">14516.</a>  </td>
 
     <td> Separation to be considered involuntary.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 14517.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14517" data-uslm-ref="/us/usc/t10/s14517">14517.</a>  </td>
 
     <td> Entitlement of officers discharged under this chapter to separation pay.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 14518.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14518" data-uslm-ref="/us/usc/t10/s14518">14518.</a>  </td>
 
     <td> Continuation of officers to complete disciplinary action.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 14519.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14519" data-uslm-ref="/us/usc/t10/s14519">14519.</a>  </td>
 
     <td> Deferment of retirement or separation for medical reasons.  </td>
 

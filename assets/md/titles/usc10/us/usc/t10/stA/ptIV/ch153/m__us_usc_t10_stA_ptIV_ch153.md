@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2571.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2571" data-uslm-ref="/us/usc/t10/s2571">2571.</a>  </td>
 
     <td> Interchange of supplies and services.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2572.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2572" data-uslm-ref="/us/usc/t10/s2572">2572.</a>  </td>
 
     <td> Documents, historical artifacts, and condemned or obsolete combat materiel: loan, gift, or exchange.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [2573.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2573" data-uslm-ref="/us/usc/t10/s2573">2573.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2574.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2574" data-uslm-ref="/us/usc/t10/s2574">2574.</a>  </td>
 
     <td> Armament: sale of individual pieces.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2575.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2575" data-uslm-ref="/us/usc/t10/s2575">2575.</a>  </td>
 
     <td> Disposition of unclaimed property.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2576.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2576" data-uslm-ref="/us/usc/t10/s2576">2576.</a>  </td>
 
     <td> Surplus military equipment: sale to State and local law enforcement, firefighting, homeland security, and emergency management agencies.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2576a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2576a" data-uslm-ref="/us/usc/t10/s2576a">2576a.</a>  </td>
 
     <td> Excess personal property: sale or donation for law enforcement activities.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2576b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2576b" data-uslm-ref="/us/usc/t10/s2576b">2576b.</a>  </td>
 
     <td> Excess personal property: sale or donation to assist firefighting agencies.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2577.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2577" data-uslm-ref="/us/usc/t10/s2577">2577.</a>  </td>
 
     <td> Disposal of recyclable materials.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2578.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2578" data-uslm-ref="/us/usc/t10/s2578">2578.</a>  </td>
 
     <td> Vessels: transfer between departments.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2579.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2579" data-uslm-ref="/us/usc/t10/s2579">2579.</a>  </td>
 
     <td> War booty: procedures for handling and retaining battlefield objects.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2580.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2580" data-uslm-ref="/us/usc/t10/s2580">2580.</a>  </td>
 
     <td> Donation of excess chapel property.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2581.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2581" data-uslm-ref="/us/usc/t10/s2581">2581.</a>  </td>
 
     <td> Excess UH–1 Huey and AH–1 Cobra helicopters: requirements for transfer to foreign countries.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> [2582.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2582" data-uslm-ref="/us/usc/t10/s2582">2582.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2583.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2583" data-uslm-ref="/us/usc/t10/s2583">2583.</a>  </td>
 
     <td> Military animals: transfer and adoption.  </td>
 

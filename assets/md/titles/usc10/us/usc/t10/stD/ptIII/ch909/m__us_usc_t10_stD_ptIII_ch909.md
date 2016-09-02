@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9441" data-uslm-ref="/us/usc/t10/s9441">9441.</a>  </td>
 
     <td> Status as federally chartered corporation; purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9442" data-uslm-ref="/us/usc/t10/s9442">9442.</a>  </td>
 
     <td> Status as volunteer civilian auxiliary of the Air Force.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9443.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9443" data-uslm-ref="/us/usc/t10/s9443">9443.</a>  </td>
 
     <td> Activities performed as federally chartered nonprofit corporation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9444.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9444" data-uslm-ref="/us/usc/t10/s9444">9444.</a>  </td>
 
     <td> Activities performed as auxiliary of the Air Force.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 9445.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9445" data-uslm-ref="/us/usc/t10/s9445">9445.</a>  </td>
 
     <td> Funds appropriated for the Civil Air Patrol.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 9446.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9446" data-uslm-ref="/us/usc/t10/s9446">9446.</a>  </td>
 
     <td> Miscellaneous personnel authorities.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 9447.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9447" data-uslm-ref="/us/usc/t10/s9447">9447.</a>  </td>
 
     <td> Board of Governors.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 9448.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9448" data-uslm-ref="/us/usc/t10/s9448">9448.</a>  </td>
 
     <td> Regulations.  </td>
 

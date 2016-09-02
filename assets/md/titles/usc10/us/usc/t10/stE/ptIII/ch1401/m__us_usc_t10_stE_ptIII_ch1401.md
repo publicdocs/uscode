@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 14001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14001" data-uslm-ref="/us/usc/t10/s14001">14001.</a>  </td>
 
     <td> Applicability of this part.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 14002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14002" data-uslm-ref="/us/usc/t10/s14002">14002.</a>  </td>
 
     <td> Reserve active-status lists: requirement for each armed force.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 14003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14003" data-uslm-ref="/us/usc/t10/s14003">14003.</a>  </td>
 
     <td> Reserve active-status lists: position of officers on the list.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 14004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14004" data-uslm-ref="/us/usc/t10/s14004">14004.</a>  </td>
 
     <td> Reserve active-status lists: eligibility for Reserve promotion.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 14005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14005" data-uslm-ref="/us/usc/t10/s14005">14005.</a>  </td>
 
     <td> Competitive categories.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 14006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14006" data-uslm-ref="/us/usc/t10/s14006">14006.</a>  </td>
 
     <td> Determination of years in grade.  </td>
 

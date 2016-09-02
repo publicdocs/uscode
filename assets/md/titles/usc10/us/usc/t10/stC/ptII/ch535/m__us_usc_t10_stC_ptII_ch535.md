@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5501" data-uslm-ref="/us/usc/t10/s5501">5501.</a>  </td>
 
     <td> Navy: grades above chief warrant officer, W–5.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5502" data-uslm-ref="/us/usc/t10/s5502">5502.</a>  </td>
 
     <td> Marine Corps: grades above chief warrant officer, W–5.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5503" data-uslm-ref="/us/usc/t10/s5503">5503.</a>  </td>
 
     <td> Navy and Marine Corps: warrant officer grades.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [5504 to 5507.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5504" data-uslm-ref="/us/usc/t10/s5504">5504</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5507" data-uslm-ref="/us/usc/t10/s5507">5507.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5508" data-uslm-ref="/us/usc/t10/s5508">5508.</a>  </td>
 
     <td> Rank of line and staff corps officers of the Navy and officers of the Marine Corps.  </td>
 

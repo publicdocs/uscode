@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5721" data-uslm-ref="/us/usc/t10/s5721">5721.</a>  </td>
 
     <td> Temporary promotions of certain Navy lieutenants.  </td>
 

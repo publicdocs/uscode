@@ -29,7 +29,7 @@
 
   <tr>
 
-    <td> [531.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch531" data-uslm-ref="/us/usc/t10/stC/ptII/ch531">531.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -39,47 +39,47 @@
 
   <tr>
 
-    <td> 533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch533" data-uslm-ref="/us/usc/t10/stC/ptII/ch533">533.</a>  </td>
 
     <td> Distribution in Grade  </td>
 
-    <td> 5441  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5441" data-uslm-ref="/us/usc/t10/s5441">5441</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 535.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch535" data-uslm-ref="/us/usc/t10/stC/ptII/ch535">535.</a>  </td>
 
     <td> Grade and Rank of Officers  </td>
 
-    <td> 5501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5501" data-uslm-ref="/us/usc/t10/s5501">5501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 537.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch537" data-uslm-ref="/us/usc/t10/stC/ptII/ch537">537.</a>  </td>
 
     <td> Enlistments  </td>
 
-    <td> 5531  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5531" data-uslm-ref="/us/usc/t10/s5531">5531</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 539.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch539" data-uslm-ref="/us/usc/t10/stC/ptII/ch539">539.</a>  </td>
 
     <td> Original Appointments  </td>
 
-    <td> 5571  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5571" data-uslm-ref="/us/usc/t10/s5571">5571</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [541.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch541" data-uslm-ref="/us/usc/t10/stC/ptII/ch541">541.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> [543.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch543" data-uslm-ref="/us/usc/t10/stC/ptII/ch543">543.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -99,17 +99,17 @@
 
   <tr>
 
-    <td> 544.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch544" data-uslm-ref="/us/usc/t10/stC/ptII/ch544">544.</a>  </td>
 
     <td> Temporary Appointments  </td>
 
-    <td> 5721  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5721" data-uslm-ref="/us/usc/t10/s5721">5721</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [545.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch545" data-uslm-ref="/us/usc/t10/stC/ptII/ch545">545.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -119,7 +119,7 @@
 
   <tr>
 
-    <td> [547.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch547" data-uslm-ref="/us/usc/t10/stC/ptII/ch547">547.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> [549.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch549" data-uslm-ref="/us/usc/t10/stC/ptII/ch549">549.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -139,141 +139,141 @@
 
   <tr>
 
-    <td> 551.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch551" data-uslm-ref="/us/usc/t10/stC/ptII/ch551">551.</a>  </td>
 
     <td> Officers in Command  </td>
 
-    <td> 5941  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5941" data-uslm-ref="/us/usc/t10/s5941">5941</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 553.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch553" data-uslm-ref="/us/usc/t10/stC/ptII/ch553">553.</a>  </td>
 
     <td> Special Assignments and Details  </td>
 
-    <td> 5981  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5981" data-uslm-ref="/us/usc/t10/s5981">5981</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 555.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch555" data-uslm-ref="/us/usc/t10/stC/ptII/ch555">555.</a>  </td>
 
     <td> Administration  </td>
 
-    <td> 6011  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6011" data-uslm-ref="/us/usc/t10/s6011">6011</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 557.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch557" data-uslm-ref="/us/usc/t10/stC/ptII/ch557">557.</a>  </td>
 
     <td> Rations  </td>
 
-    <td> 6081  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6081" data-uslm-ref="/us/usc/t10/s6081">6081</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 559.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch559" data-uslm-ref="/us/usc/t10/stC/ptII/ch559">559.</a>  </td>
 
     <td> Miscellaneous Prohibitions and Penalties  </td>
 
-    <td> 6111  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6111" data-uslm-ref="/us/usc/t10/s6111">6111</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 561.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch561" data-uslm-ref="/us/usc/t10/stC/ptII/ch561">561.</a>  </td>
 
     <td> Miscellaneous Rights and Benefits  </td>
 
-    <td> 6141  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6141" data-uslm-ref="/us/usc/t10/s6141">6141</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 563.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch563" data-uslm-ref="/us/usc/t10/stC/ptII/ch563">563.</a>  </td>
 
     <td> Hospitalization and Medical Care  </td>
 
-    <td> 6201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6201" data-uslm-ref="/us/usc/t10/s6201">6201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 565.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch565" data-uslm-ref="/us/usc/t10/stC/ptII/ch565">565.</a>  </td>
 
     <td> Bands  </td>
 
-    <td> 6221  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6221" data-uslm-ref="/us/usc/t10/s6221">6221</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 567.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch567" data-uslm-ref="/us/usc/t10/stC/ptII/ch567">567.</a>  </td>
 
     <td> Decorations and Awards  </td>
 
-    <td> 6241  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6241" data-uslm-ref="/us/usc/t10/s6241">6241</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 569.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch569" data-uslm-ref="/us/usc/t10/stC/ptII/ch569">569.</a>  </td>
 
     <td> Discharge of Enlisted Members  </td>
 
-    <td> 6291  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6291" data-uslm-ref="/us/usc/t10/s6291">6291</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 571.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch571" data-uslm-ref="/us/usc/t10/stC/ptII/ch571">571.</a>  </td>
 
     <td> Voluntary Retirement  </td>
 
-    <td> 6321  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6321" data-uslm-ref="/us/usc/t10/s6321">6321</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 573.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch573" data-uslm-ref="/us/usc/t10/stC/ptII/ch573">573.</a>  </td>
 
     <td> Involuntary Retirement, Separation, and Furlough  </td>
 
-    <td> 6371  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6371" data-uslm-ref="/us/usc/t10/s6371">6371</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 575.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch575" data-uslm-ref="/us/usc/t10/stC/ptII/ch575">575.</a>  </td>
 
     <td> Recall to Active Duty  </td>
 
-    <td> 6481  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6481" data-uslm-ref="/us/usc/t10/s6481">6481</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 577.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch577" data-uslm-ref="/us/usc/t10/stC/ptII/ch577">577.</a>  </td>
 
     <td> Death Benefits; Care of the Dead  </td>
 
-    <td> 6521  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6521" data-uslm-ref="/us/usc/t10/s6521">6521</a>  </td>
 
   </tr>
 

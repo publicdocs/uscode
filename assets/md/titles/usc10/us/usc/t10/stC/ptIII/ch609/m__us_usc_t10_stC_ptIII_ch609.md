@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7101" data-uslm-ref="/us/usc/t10/s7101">7101.</a>  </td>
 
     <td> Degree granting authority for Naval War College.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7102" data-uslm-ref="/us/usc/t10/s7102">7102.</a>  </td>
 
     <td> Degree granting authority for Marine Corps University.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7103" data-uslm-ref="/us/usc/t10/s7103">7103.</a>  </td>
 
     <td> Naval War College: acceptance of grants for faculty research for scientific, literary, and educational purposes.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7104" data-uslm-ref="/us/usc/t10/s7104">7104.</a>  </td>
 
     <td> Marine Corps University: acceptance of grants for faculty research for scientific, literary, and educational purposes.  </td>
 

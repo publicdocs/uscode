@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2481" data-uslm-ref="/us/usc/t10/s2481">2481.</a>  </td>
 
     <td> Defense commissary and exchange systems: existence and purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2482.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2482" data-uslm-ref="/us/usc/t10/s2482">2482.</a>  </td>
 
     <td> Commissary stores: criteria for establishment or closure; store size.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2483.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2483" data-uslm-ref="/us/usc/t10/s2483">2483.</a>  </td>
 
     <td> Commissary stores: use of appropriated funds to cover operating expenses.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2484.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2484" data-uslm-ref="/us/usc/t10/s2484">2484.</a>  </td>
 
     <td> Commissary stores: merchandise that may be sold; uniform surcharges and pricing.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2485.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2485" data-uslm-ref="/us/usc/t10/s2485">2485.</a>  </td>
 
     <td> Commissary stores: operation.  </td>
 

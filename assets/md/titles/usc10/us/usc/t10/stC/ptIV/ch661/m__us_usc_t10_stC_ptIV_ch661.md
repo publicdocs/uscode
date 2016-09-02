@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7861.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7861" data-uslm-ref="/us/usc/t10/s7861">7861.</a>  </td>
 
     <td> Custody of departmental records and property.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7862.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7862" data-uslm-ref="/us/usc/t10/s7862">7862.</a>  </td>
 
     <td> Accounts of paymasters of lost or captured naval vessels.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7863.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7863" data-uslm-ref="/us/usc/t10/s7863">7863.</a>  </td>
 
     <td> Disposal of public stores by order of commanding officer.  </td>
 

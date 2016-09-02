@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 18501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs18501" data-uslm-ref="/us/usc/t10/s18501">18501.</a>  </td>
 
     <td> Reserve components: personnel and logistic support by military departments.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 18502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs18502" data-uslm-ref="/us/usc/t10/s18502">18502.</a>  </td>
 
     <td> Reserve components: supplies, services, and facilities.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 18505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs18505" data-uslm-ref="/us/usc/t10/s18505">18505.</a>  </td>
 
     <td> Reserves traveling for inactive-duty training: space-required travel on military aircraft.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [18506.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs18506" data-uslm-ref="/us/usc/t10/s18506">18506.</a>  </td>
 
     <td> Repealed.]  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1475.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1475" data-uslm-ref="/us/usc/t10/s1475">1475.</a>  </td>
 
     <td> Death gratuity: death of members on active duty or inactive duty training and of certain other persons.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1476.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1476" data-uslm-ref="/us/usc/t10/s1476">1476.</a>  </td>
 
     <td> Death gratuity: death after discharge or release from duty or training.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1477.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1477" data-uslm-ref="/us/usc/t10/s1477">1477.</a>  </td>
 
     <td> Death gratuity: eligible survivors.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1478.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1478" data-uslm-ref="/us/usc/t10/s1478">1478.</a>  </td>
 
     <td> Death gratuity: amount.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1479.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1479" data-uslm-ref="/us/usc/t10/s1479">1479.</a>  </td>
 
     <td> Death gratuity: delegation of determinations, payments.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1480.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1480" data-uslm-ref="/us/usc/t10/s1480">1480.</a>  </td>
 
     <td> Death gratuity: miscellaneous provisions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1481" data-uslm-ref="/us/usc/t10/s1481">1481.</a>  </td>
 
     <td> Recovery, care, and disposition of remains: decedents covered.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1482.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1482" data-uslm-ref="/us/usc/t10/s1482">1482.</a>  </td>
 
     <td> Expenses incident to death.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1482a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1482a" data-uslm-ref="/us/usc/t10/s1482a">1482a.</a>  </td>
 
     <td> Expenses incident to death: civilian employees serving with an armed force.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1483.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1483" data-uslm-ref="/us/usc/t10/s1483">1483.</a>  </td>
 
     <td> Prisoners of war and interned enemy aliens.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1484.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1484" data-uslm-ref="/us/usc/t10/s1484">1484.</a>  </td>
 
     <td> Pensioners, indigent patients, and persons who die on military reservations.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1485.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1485" data-uslm-ref="/us/usc/t10/s1485">1485.</a>  </td>
 
     <td> Dependents of members of armed forces.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1486.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1486" data-uslm-ref="/us/usc/t10/s1486">1486.</a>  </td>
 
     <td> Other citizens of United States.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1487.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1487" data-uslm-ref="/us/usc/t10/s1487">1487.</a>  </td>
 
     <td> Temporary interment.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1488.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1488" data-uslm-ref="/us/usc/t10/s1488">1488.</a>  </td>
 
     <td> Removal of remains.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1489.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1489" data-uslm-ref="/us/usc/t10/s1489">1489.</a>  </td>
 
     <td> Death gratuity: members and employees dying outside the United States while assigned to intelligence duties.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1490.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1490" data-uslm-ref="/us/usc/t10/s1490">1490.</a>  </td>
 
     <td> Transportation of remains: certain retired members and dependents who die in military medical facilities.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1491.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1491" data-uslm-ref="/us/usc/t10/s1491">1491.</a>  </td>
 
     <td> Funeral honors functions at funerals for veterans.  </td>
 

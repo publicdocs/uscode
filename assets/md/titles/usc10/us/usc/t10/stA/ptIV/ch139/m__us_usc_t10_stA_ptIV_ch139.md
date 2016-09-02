@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2351" data-uslm-ref="/us/usc/t10/s2351">2351.</a>  </td>
 
     <td> Availability of appropriations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2352.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2352" data-uslm-ref="/us/usc/t10/s2352">2352.</a>  </td>
 
     <td> Defense Advanced Research Projects Agency: biennial strategic plan.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2353.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2353" data-uslm-ref="/us/usc/t10/s2353">2353.</a>  </td>
 
     <td> Contracts: acquisition, construction, or furnishing of test facilities and equipment.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2354.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2354" data-uslm-ref="/us/usc/t10/s2354">2354.</a>  </td>
 
     <td> Contracts: indemnification provisions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [2355 to 2357.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2355" data-uslm-ref="/us/usc/t10/s2355">2355</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2357" data-uslm-ref="/us/usc/t10/s2357">2357.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2358.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2358" data-uslm-ref="/us/usc/t10/s2358">2358.</a>  </td>
 
     <td> Research and development projects.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2359.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2359" data-uslm-ref="/us/usc/t10/s2359">2359.</a>  </td>
 
     <td> Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research, development, test, and evaluation.  </td>
 
@@ -81,15 +81,15 @@
 
   <tr>
 
-    <td> 2359a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2359a" data-uslm-ref="/us/usc/t10/s2359a">2359a.</a>  </td>
 
-    <td> Technology Transition Initiative.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2359b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2359b" data-uslm-ref="/us/usc/t10/s2359b">2359b.</a>  </td>
 
     <td> Defense Acquisition Challenge Program.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2360.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2360" data-uslm-ref="/us/usc/t10/s2360">2360.</a>  </td>
 
     <td> Research and development laboratories: contracts for services of university students.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2361" data-uslm-ref="/us/usc/t10/s2361">2361.</a>  </td>
 
     <td> Award of grants and contracts to colleges and universities: requirement of competition.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2362" data-uslm-ref="/us/usc/t10/s2362">2362.</a>  </td>
 
     <td> Research and educational programs and activities: historically black colleges and universities and minority-serving institutions of higher education.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> [2363.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2363" data-uslm-ref="/us/usc/t10/s2363">2363.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2364.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2364" data-uslm-ref="/us/usc/t10/s2364">2364.</a>  </td>
 
     <td> Coordination and communication of defense research activities.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2365.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2365" data-uslm-ref="/us/usc/t10/s2365">2365.</a>  </td>
 
     <td> Global Research Watch Program.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 2366.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2366" data-uslm-ref="/us/usc/t10/s2366">2366.</a>  </td>
 
     <td> Major systems and munitions programs: survivability testing and lethality testing required before full-scale production.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 2366a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2366a" data-uslm-ref="/us/usc/t10/s2366a">2366a.</a>  </td>
 
     <td> Major defense acquisition programs: certification required before Milestone A approval.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 2366b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2366b" data-uslm-ref="/us/usc/t10/s2366b">2366b.</a>  </td>
 
     <td> Major defense acquisition programs: certification required before Milestone B approval.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 2367.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2367" data-uslm-ref="/us/usc/t10/s2367">2367.</a>  </td>
 
     <td> Use of federally funded research and development centers.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> [2368 to 2370a.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2368" data-uslm-ref="/us/usc/t10/s2368">2368</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2370a" data-uslm-ref="/us/usc/t10/s2370a">2370a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 2371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2371" data-uslm-ref="/us/usc/t10/s2371">2371.</a>  </td>
 
     <td> Research projects: transactions other than contracts and grants.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 2371a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2371a" data-uslm-ref="/us/usc/t10/s2371a">2371a.</a>  </td>
 
     <td> Cooperative research and development agreements under Stevenson-Wydler Technology Innovation Act of 1980.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 2372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2372" data-uslm-ref="/us/usc/t10/s2372">2372.</a>  </td>
 
     <td> Independent research and development and bid and proposal costs: payments to contractors.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 2373.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2373" data-uslm-ref="/us/usc/t10/s2373">2373.</a>  </td>
 
     <td> Procurement for experimental purposes.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 2374.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2374" data-uslm-ref="/us/usc/t10/s2374">2374.</a>  </td>
 
     <td> Merit-based award of grants for research and development.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 2374a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2374a" data-uslm-ref="/us/usc/t10/s2374a">2374a.</a>  </td>
 
     <td> Prizes for advanced technology achievements.  </td>
 
@@ -233,17 +233,13 @@
 
   <tr>
 
-    <td> [2374b.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2374b" data-uslm-ref="/us/usc/t10/s2374b">2374b.</a>  </td>
 
     <td> Repealed.]  </td>
 
   </tr>
 
 </table>
-
- __Amendment of Analysis__ 
-
-[Pub. L. 112–81, div. A, title II, § 251(a)(2)][/us/pl/112/81/s251/a/2], (b), Dec. 31, 2011, [125 Stat. 1347][/us/stat/125/1347], provided that, effective Oct. 1, 2013, this analysis is amended by striking out item 2359a.
 
  __Amendments__ 
 
@@ -322,8 +318,6 @@
 ----------
 ----------
 
-[/us/pl/112/81/s251/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs251%2Fa%2F2
-[/us/stat/125/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1347
 [/us/pl/112/239/s1076/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fg%2F4
 [/us/stat/126/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1955
 [/us/pl/112/81/s801/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs801%2Fe%2F3

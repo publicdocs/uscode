@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 10541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10541" data-uslm-ref="/us/usc/t10/s10541">10541.</a>  </td>
 
     <td> National Guard and reserve component equipment: annual report to Congress.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 10542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10542" data-uslm-ref="/us/usc/t10/s10542">10542.</a>  </td>
 
     <td> Army National Guard combat readiness: annual report.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 10543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs10543" data-uslm-ref="/us/usc/t10/s10543">10543.</a>  </td>
 
     <td> National Guard and reserve component equipment procurement and military construction funding: inclusion in future-years defense program.  </td>
 

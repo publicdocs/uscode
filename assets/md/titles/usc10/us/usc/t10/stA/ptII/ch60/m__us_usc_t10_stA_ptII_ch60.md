@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1181.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1181" data-uslm-ref="/us/usc/t10/s1181">1181.</a>  </td>
 
     <td> Authority to establish procedures to consider the separation of officers for substandard performance of duty and for certain other reasons.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1182.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1182" data-uslm-ref="/us/usc/t10/s1182">1182.</a>  </td>
 
     <td> Boards of inquiry.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [1183.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1183" data-uslm-ref="/us/usc/t10/s1183">1183.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1184.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1184" data-uslm-ref="/us/usc/t10/s1184">1184.</a>  </td>
 
     <td> Removal of officer: action by Secretary upon recommendation of board of inquiry.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1185.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1185" data-uslm-ref="/us/usc/t10/s1185">1185.</a>  </td>
 
     <td> Rights and procedures.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1186.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1186" data-uslm-ref="/us/usc/t10/s1186">1186.</a>  </td>
 
     <td> Officer considered for removal: voluntary retirement or discharge.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1187.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1187" data-uslm-ref="/us/usc/t10/s1187">1187.</a>  </td>
 
     <td> Officers eligible to serve on boards.  </td>
 

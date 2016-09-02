@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4721" data-uslm-ref="/us/usc/t10/s4721">4721.</a>  </td>
 
     <td> Authority and responsibilities of the Secretary of the Army.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4722" data-uslm-ref="/us/usc/t10/s4722">4722.</a>  </td>
 
     <td> Interment and inurnment policy.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4723.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4723" data-uslm-ref="/us/usc/t10/s4723">4723.</a>  </td>
 
     <td> Advisory committee on Arlington National Cemetery.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4724.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4724" data-uslm-ref="/us/usc/t10/s4724">4724.</a>  </td>
 
     <td> Executive Director.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4725.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4725" data-uslm-ref="/us/usc/t10/s4725">4725.</a>  </td>
 
     <td> Superintendents.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4726.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4726" data-uslm-ref="/us/usc/t10/s4726">4726.</a>  </td>
 
     <td> Oversight and inspections.  </td>
 

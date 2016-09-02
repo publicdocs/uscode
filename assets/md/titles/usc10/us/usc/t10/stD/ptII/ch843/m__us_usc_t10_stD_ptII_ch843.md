@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [8531 to 8542.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8531" data-uslm-ref="/us/usc/t10/s8531">8531</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8542" data-uslm-ref="/us/usc/t10/s8542">8542.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8543" data-uslm-ref="/us/usc/t10/s8543">8543.</a>  </td>
 
     <td> Aides: detail; number authorized.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [8544 to 8546.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8544" data-uslm-ref="/us/usc/t10/s8544">8544</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8546" data-uslm-ref="/us/usc/t10/s8546">8546.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8547.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8547" data-uslm-ref="/us/usc/t10/s8547">8547.</a>  </td>
 
     <td> Duties: chaplains; assistance required of commanding officers.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8548.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8548" data-uslm-ref="/us/usc/t10/s8548">8548.</a>  </td>
 
     <td> Duties: warrant officers; limitations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [8549.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8549" data-uslm-ref="/us/usc/t10/s8549">8549.</a>  </td>
 
     <td> Repealed.]  </td>
 

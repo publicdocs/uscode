@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1141" data-uslm-ref="/us/usc/t10/s1141">1141.</a>  </td>
 
     <td> Involuntary separation defined.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1142" data-uslm-ref="/us/usc/t10/s1142">1142.</a>  </td>
 
     <td> Preseparation counseling; transmittal of medical records to Department of Veterans Affairs.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1143" data-uslm-ref="/us/usc/t10/s1143">1143.</a>  </td>
 
     <td> Employment assistance.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1143a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1143a" data-uslm-ref="/us/usc/t10/s1143a">1143a.</a>  </td>
 
     <td> Encouragement of postseparation public and community service.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1144" data-uslm-ref="/us/usc/t10/s1144">1144.</a>  </td>
 
     <td> Employment assistance, job training assistance, and other transitional services: Department of Labor.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1145" data-uslm-ref="/us/usc/t10/s1145">1145.</a>  </td>
 
     <td> Health benefits.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1146.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1146" data-uslm-ref="/us/usc/t10/s1146">1146.</a>  </td>
 
     <td> Commissary and exchange benefits.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1147.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1147" data-uslm-ref="/us/usc/t10/s1147">1147.</a>  </td>
 
     <td> Use of military family housing.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1148.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1148" data-uslm-ref="/us/usc/t10/s1148">1148.</a>  </td>
 
     <td> Relocation assistance for personnel overseas.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1149.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1149" data-uslm-ref="/us/usc/t10/s1149">1149.</a>  </td>
 
     <td> Excess leave and permissive temporary duty.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1150.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1150" data-uslm-ref="/us/usc/t10/s1150">1150.</a>  </td>
 
     <td> Affiliation with Guard and Reserve units: waiver of certain limitations.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1151" data-uslm-ref="/us/usc/t10/s1151">1151.</a>  </td>
 
     <td> Retention of assistive technology and services provided before separation.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1152" data-uslm-ref="/us/usc/t10/s1152">1152.</a>  </td>
 
     <td> Assistance to eligible members and former members to obtain employment with law enforcement agencies.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1153" data-uslm-ref="/us/usc/t10/s1153">1153.</a>  </td>
 
     <td> Assistance to separated members to obtain employment with health care providers.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1154" data-uslm-ref="/us/usc/t10/s1154">1154.</a>  </td>
 
     <td> Assistance to eligible members and former members to obtain employment as teachers: Troops-to-Teachers Program.  </td>
 

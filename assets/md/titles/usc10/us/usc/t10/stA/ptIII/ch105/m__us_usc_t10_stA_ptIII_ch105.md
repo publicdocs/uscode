@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch105%2FschI" data-uslm-ref="/us/usc/t10/stA/ptIII/ch105/schI">I.</a>  </td>
 
     <td> Health Professions Scholarship and Financial Assistance Program for Active Service  </td>
 
-    <td> 2120  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2120" data-uslm-ref="/us/usc/t10/s2120">2120</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII%2Fch105%2FschII" data-uslm-ref="/us/usc/t10/stA/ptIII/ch105/schII">II.</a>  </td>
 
     <td> Nurse Officer Candidate Accession Program  </td>
 
-    <td> 2130a  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2130a" data-uslm-ref="/us/usc/t10/s2130a">2130a</a>  </td>
 
   </tr>
 

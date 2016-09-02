@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs161" data-uslm-ref="/us/usc/t10/s161">161.</a>  </td>
 
     <td> Combatant commands: establishment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs162" data-uslm-ref="/us/usc/t10/s162">162.</a>  </td>
 
     <td> Combatant commands: assigned forces; chain of command.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 163.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs163" data-uslm-ref="/us/usc/t10/s163">163.</a>  </td>
 
     <td> Role of Chairman of Joint Chiefs of Staff.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 164.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs164" data-uslm-ref="/us/usc/t10/s164">164.</a>  </td>
 
     <td> Commanders of combatant commands: assignment; powers and duties.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 165.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs165" data-uslm-ref="/us/usc/t10/s165">165.</a>  </td>
 
     <td> Combatant commands: administration and support.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 166.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs166" data-uslm-ref="/us/usc/t10/s166">166.</a>  </td>
 
     <td> Combatant commands: budget proposals.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 166a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs166a" data-uslm-ref="/us/usc/t10/s166a">166a.</a>  </td>
 
     <td> Combatant commands: funding through the Chairman of Joint Chiefs of Staff.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 166b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs166b" data-uslm-ref="/us/usc/t10/s166b">166b.</a>  </td>
 
     <td> Combatant commands: funding for combating terrorism readiness initiatives.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 167.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs167" data-uslm-ref="/us/usc/t10/s167">167.</a>  </td>
 
     <td> Unified combatant command for special operations forces.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 167a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs167a" data-uslm-ref="/us/usc/t10/s167a">167a.</a>  </td>
 
     <td> Unified combatant command for joint warfighting experimentation: acquisition authority.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 168.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs168" data-uslm-ref="/us/usc/t10/s168">168.</a>  </td>
 
     <td> Military-to-military contacts and comparable activities.  </td>
 

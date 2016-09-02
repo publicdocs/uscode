@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7851.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7851" data-uslm-ref="/us/usc/t10/s7851">7851.</a>  </td>
 
     <td> Composition.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7852.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7852" data-uslm-ref="/us/usc/t10/s7852">7852.</a>  </td>
 
     <td> Appointment and enlistment in reserve components.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7853.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7853" data-uslm-ref="/us/usc/t10/s7853">7853.</a>  </td>
 
     <td> Release from Militia duty upon order to active duty in reserve components.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7854.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7854" data-uslm-ref="/us/usc/t10/s7854">7854.</a>  </td>
 
     <td> Availability of material for Naval Militia.  </td>
 

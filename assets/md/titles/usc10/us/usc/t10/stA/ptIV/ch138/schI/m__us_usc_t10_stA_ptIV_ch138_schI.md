@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2341" data-uslm-ref="/us/usc/t10/s2341">2341.</a>  </td>
 
     <td> Authority to acquire logistic support, supplies, and services for elements of the armed forces deployed outside the United States.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2342" data-uslm-ref="/us/usc/t10/s2342">2342.</a>  </td>
 
     <td> Cross-servicing agreements.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2343" data-uslm-ref="/us/usc/t10/s2343">2343.</a>  </td>
 
     <td> Waiver of applicability of certain laws.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2344" data-uslm-ref="/us/usc/t10/s2344">2344.</a>  </td>
 
     <td> Methods of payment for acquisitions and transfers by the United States.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2345.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2345" data-uslm-ref="/us/usc/t10/s2345">2345.</a>  </td>
 
     <td> Liquidation of accrued credits and liabilities.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2346.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2346" data-uslm-ref="/us/usc/t10/s2346">2346.</a>  </td>
 
     <td> Crediting of receipts.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2347.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2347" data-uslm-ref="/us/usc/t10/s2347">2347.</a>  </td>
 
     <td> Limitation on amounts that may be obligated or accrued by the United States.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2348.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2348" data-uslm-ref="/us/usc/t10/s2348">2348.</a>  </td>
 
     <td> Inventories of supplies not to be increased.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2349.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2349" data-uslm-ref="/us/usc/t10/s2349">2349.</a>  </td>
 
     <td> Overseas Workload Program.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [2349a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2349a" data-uslm-ref="/us/usc/t10/s2349a">2349a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2350.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2350" data-uslm-ref="/us/usc/t10/s2350">2350.</a>  </td>
 
     <td> Definitions.  </td>
 

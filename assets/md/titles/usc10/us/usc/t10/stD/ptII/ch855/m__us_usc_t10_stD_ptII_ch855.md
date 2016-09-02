@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [8721, 8722.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8721" data-uslm-ref="/us/usc/t10/s8721">8721</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8722" data-uslm-ref="/us/usc/t10/s8722">8722.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8723.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8723" data-uslm-ref="/us/usc/t10/s8723">8723.</a>  </td>
 
     <td> When Secretary may require.  </td>
 

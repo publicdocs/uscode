@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [5571 to 5581.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5571" data-uslm-ref="/us/usc/t10/s5571">5571</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5581" data-uslm-ref="/us/usc/t10/s5581">5581.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5582.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5582" data-uslm-ref="/us/usc/t10/s5582">5582.</a>  </td>
 
     <td> Regular Navy: transfers, line and staff corps.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [5583, 5584.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5583" data-uslm-ref="/us/usc/t10/s5583">5583</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5584" data-uslm-ref="/us/usc/t10/s5584">5584.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5585.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5585" data-uslm-ref="/us/usc/t10/s5585">5585.</a>  </td>
 
     <td> Regular Marine Corps: order of filling vacancies in grade of second lieutenant.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [5586.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5586" data-uslm-ref="/us/usc/t10/s5586">5586.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5587.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5587" data-uslm-ref="/us/usc/t10/s5587">5587.</a>  </td>
 
     <td> Regular Navy: officers designated for engineering duty, aeronautical engineering duty, and special duty.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5587a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5587a" data-uslm-ref="/us/usc/t10/s5587a">5587a.</a>  </td>
 
     <td> Regular Marine Corps: judge advocates.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> [5588.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5588" data-uslm-ref="/us/usc/t10/s5588">5588.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5589.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5589" data-uslm-ref="/us/usc/t10/s5589">5589.</a>  </td>
 
     <td> Regular Navy and Regular Marine Corps: officers designated for limited duty.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [5590 to 5595.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5590" data-uslm-ref="/us/usc/t10/s5590">5590</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5595" data-uslm-ref="/us/usc/t10/s5595">5595.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 5596.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5596" data-uslm-ref="/us/usc/t10/s5596">5596.</a>  </td>
 
     <td> Navy and Marine Corps: temporary appointments of officers designated for limited duty.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> [5597 to 5601.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5597" data-uslm-ref="/us/usc/t10/s5597">5597</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5601" data-uslm-ref="/us/usc/t10/s5601">5601.</a>  </td>
 
     <td> Repealed.]  </td>
 

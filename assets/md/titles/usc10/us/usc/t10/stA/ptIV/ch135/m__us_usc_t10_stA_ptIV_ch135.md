@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2271.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2271" data-uslm-ref="/us/usc/t10/s2271">2271.</a>  </td>
 
     <td> Management of space programs: joint program offices and officer management programs.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2272.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2272" data-uslm-ref="/us/usc/t10/s2272">2272.</a>  </td>
 
     <td> Space science and technology strategy: coordination.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2273.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2273" data-uslm-ref="/us/usc/t10/s2273">2273.</a>  </td>
 
     <td> Policy regarding assured access to space: national security payloads.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2273a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2273a" data-uslm-ref="/us/usc/t10/s2273a">2273a.</a>  </td>
 
     <td> Operationally Responsive Space Program Office.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2274.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2274" data-uslm-ref="/us/usc/t10/s2274">2274.</a>  </td>
 
     <td> Space situational awareness services and information: provision to non-United States Government entities.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2275.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2275" data-uslm-ref="/us/usc/t10/s2275">2275.</a>  </td>
 
     <td> Reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2276.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2276" data-uslm-ref="/us/usc/t10/s2276">2276.</a>  </td>
 
     <td> Commercial space launch cooperation.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2277.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2277" data-uslm-ref="/us/usc/t10/s2277">2277.</a>  </td>
 
     <td> Report on foreign counter-space programs.  </td>
 

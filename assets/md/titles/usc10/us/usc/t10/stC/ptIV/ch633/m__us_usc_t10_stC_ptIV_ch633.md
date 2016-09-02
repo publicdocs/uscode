@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7291.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7291" data-uslm-ref="/us/usc/t10/s7291">7291.</a>  </td>
 
     <td> Classification.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7292.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7292" data-uslm-ref="/us/usc/t10/s7292">7292.</a>  </td>
 
     <td> Naming.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7293.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7293" data-uslm-ref="/us/usc/t10/s7293">7293.</a>  </td>
 
     <td> Number in service in time of peace.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7294.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7294" data-uslm-ref="/us/usc/t10/s7294">7294.</a>  </td>
 
     <td> Suspension of construction in case of treaty.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7295.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7295" data-uslm-ref="/us/usc/t10/s7295">7295.</a>  </td>
 
     <td> Vessels: under-age.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [7296.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7296" data-uslm-ref="/us/usc/t10/s7296">7296.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7297.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7297" data-uslm-ref="/us/usc/t10/s7297">7297.</a>  </td>
 
     <td> Changing category or type: limitations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> [7298.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7298" data-uslm-ref="/us/usc/t10/s7298">7298.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 7299.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7299" data-uslm-ref="/us/usc/t10/s7299">7299.</a>  </td>
 
     <td> Contracts: applicability of chapter 65 of title 41.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 7299a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7299a" data-uslm-ref="/us/usc/t10/s7299a">7299a.</a>  </td>
 
     <td> Construction of combatant and escort vessels and assignment of vessel projects.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 7300.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7300" data-uslm-ref="/us/usc/t10/s7300">7300.</a>  </td>
 
     <td> Contracts for nuclear ships: sales of naval shipyard articles and services to private shipyards.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> [7301, 7302.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7301" data-uslm-ref="/us/usc/t10/s7301">7301</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7302" data-uslm-ref="/us/usc/t10/s7302">7302.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 7303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7303" data-uslm-ref="/us/usc/t10/s7303">7303.</a>  </td>
 
     <td> Model basin; investigation of hull designs.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 7304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7304" data-uslm-ref="/us/usc/t10/s7304">7304.</a>  </td>
 
     <td> Examination of vessels; striking of vessels from Naval Vessel Register.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 7305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7305" data-uslm-ref="/us/usc/t10/s7305">7305.</a>  </td>
 
     <td> Vessels stricken from Naval Vessel Register: sale.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 7305a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7305a" data-uslm-ref="/us/usc/t10/s7305a">7305a.</a>  </td>
 
     <td> Vessels stricken from Naval Vessel Register: contracts for dismantling on net-cost basis.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 7306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7306" data-uslm-ref="/us/usc/t10/s7306">7306.</a>  </td>
 
     <td> Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 7306a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7306a" data-uslm-ref="/us/usc/t10/s7306a">7306a.</a>  </td>
 
     <td> Vessels stricken from Naval Vessel Register: use for experimental purposes.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 7306b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7306b" data-uslm-ref="/us/usc/t10/s7306b">7306b.</a>  </td>
 
     <td> Vessels stricken from Naval Vessel Register: transfer by gift or otherwise for use as artificial reefs.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 7307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7307" data-uslm-ref="/us/usc/t10/s7307">7307.</a>  </td>
 
     <td> Disposals to foreign nations.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 7308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7308" data-uslm-ref="/us/usc/t10/s7308">7308.</a>  </td>
 
     <td> Chief of Naval Operations: certification required for disposal of combatant vessels.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 7309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7309" data-uslm-ref="/us/usc/t10/s7309">7309.</a>  </td>
 
     <td> Construction of vessels in foreign shipyards: prohibition.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 7310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7310" data-uslm-ref="/us/usc/t10/s7310">7310.</a>  </td>
 
     <td> Overhaul, repair, etc. of vessels in foreign shipyards: restrictions.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 7311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7311" data-uslm-ref="/us/usc/t10/s7311">7311.</a>  </td>
 
     <td> Repair or maintenance of naval vessels: handling of hazardous waste.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 7312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7312" data-uslm-ref="/us/usc/t10/s7312">7312.</a>  </td>
 
     <td> Service craft stricken from Naval Vessel Register; obsolete boats: use of proceeds from exchange or sale.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 7313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7313" data-uslm-ref="/us/usc/t10/s7313">7313.</a>  </td>
 
     <td> Ship overhaul work: availability of appropriations for unusual cost overruns and for changes in scope of work.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 7314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7314" data-uslm-ref="/us/usc/t10/s7314">7314.</a>  </td>
 
     <td> Overhaul of naval vessels: competition between public and private shipyards.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 7315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7315" data-uslm-ref="/us/usc/t10/s7315">7315.</a>  </td>
 
     <td> Preservation of Navy shipbuilding capability.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 7316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7316" data-uslm-ref="/us/usc/t10/s7316">7316.</a>  </td>
 
     <td> Support for transfers of decommissioned vessels and shipboard equipment.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 7317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7317" data-uslm-ref="/us/usc/t10/s7317">7317.</a>  </td>
 
     <td> Status of Government rights in the designs of vessels, boats, and craft, and components thereof.  </td>
 

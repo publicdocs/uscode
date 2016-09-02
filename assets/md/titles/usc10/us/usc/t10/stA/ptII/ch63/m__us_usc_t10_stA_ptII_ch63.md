@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1251" data-uslm-ref="/us/usc/t10/s1251">1251.</a>  </td>
 
     <td> Age 62: regular commissioned officers in grades below general and flag officer grades; exceptions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1252" data-uslm-ref="/us/usc/t10/s1252">1252.</a>  </td>
 
     <td> Age 64: permanent professors at academies.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1253.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1253" data-uslm-ref="/us/usc/t10/s1253">1253.</a>  </td>
 
     <td> Age 64: regular commissioned officers in general and flag officer grades; exception.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [1255.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1255" data-uslm-ref="/us/usc/t10/s1255">1255.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1263.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1263" data-uslm-ref="/us/usc/t10/s1263">1263.</a>  </td>
 
     <td> Age 62: warrant officers.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1275.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1275" data-uslm-ref="/us/usc/t10/s1275">1275.</a>  </td>
 
     <td> Computation of retired pay: law applicable.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3281.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3281" data-uslm-ref="/us/usc/t10/s3281">3281.</a>  </td>
 
     <td> Commissioned officer grades.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3282.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3282" data-uslm-ref="/us/usc/t10/s3282">3282.</a>  </td>
 
     <td> General officers: title of office.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3283.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3283" data-uslm-ref="/us/usc/t10/s3283">3283.</a>  </td>
 
     <td> Commissioned officers: appointment without specification of branch; transfer between branches.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [3284 to 3309.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3284" data-uslm-ref="/us/usc/t10/s3284">3284</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3309" data-uslm-ref="/us/usc/t10/s3309">3309.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3310" data-uslm-ref="/us/usc/t10/s3310">3310.</a>  </td>
 
     <td> Warrant officers: original appointment; qualifications.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [3311 to 3314.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3311" data-uslm-ref="/us/usc/t10/s3311">3311</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3314" data-uslm-ref="/us/usc/t10/s3314">3314.</a>  </td>
 
     <td> Repealed.]  </td>
 

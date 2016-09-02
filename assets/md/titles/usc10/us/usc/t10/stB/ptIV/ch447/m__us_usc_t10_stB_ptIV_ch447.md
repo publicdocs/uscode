@@ -25,15 +25,15 @@
 
   <tr>
 
-    <td> [4741 to 4748. Repealed or Renumbered.]  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4741" data-uslm-ref="/us/usc/t10/s4741">4741</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4748" data-uslm-ref="/us/usc/t10/s4748">4748.</a>  </td>
 
-    <td>   </td>
+    <td> Repealed or Renumbered.]  </td>
 
   </tr>
 
   <tr>
 
-    <td> 4749.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4749" data-uslm-ref="/us/usc/t10/s4749">4749.</a>  </td>
 
     <td> Property: for United States surveys.  </td>
 

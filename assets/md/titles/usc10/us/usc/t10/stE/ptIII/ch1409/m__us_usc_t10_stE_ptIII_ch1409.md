@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 14701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14701" data-uslm-ref="/us/usc/t10/s14701">14701.</a>  </td>
 
     <td> Selection of officers for continuation on the reserve active-status list.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 14702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14702" data-uslm-ref="/us/usc/t10/s14702">14702.</a>  </td>
 
     <td> Retention on reserve active-status list of certain officers in the grade of major, lieutenant colonel, colonel, or brigadier general.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 14703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14703" data-uslm-ref="/us/usc/t10/s14703">14703.</a>  </td>
 
     <td> Authority to retain chaplains and officers in medical specialties until specified age.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 14704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14704" data-uslm-ref="/us/usc/t10/s14704">14704.</a>  </td>
 
     <td> Selective early removal from the reserve active-status list.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 14705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14705" data-uslm-ref="/us/usc/t10/s14705">14705.</a>  </td>
 
     <td> Selective early retirement: reserve general and flag officers of the Navy and Marine Corps.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 14706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14706" data-uslm-ref="/us/usc/t10/s14706">14706.</a>  </td>
 
     <td> Computation of total years of service.  </td>
 

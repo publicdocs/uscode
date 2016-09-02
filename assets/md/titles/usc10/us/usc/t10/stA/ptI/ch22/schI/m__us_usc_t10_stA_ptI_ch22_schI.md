@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs441" data-uslm-ref="/us/usc/t10/s441">441.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs442" data-uslm-ref="/us/usc/t10/s442">442.</a>  </td>
 
     <td> Missions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 443.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs443" data-uslm-ref="/us/usc/t10/s443">443.</a>  </td>
 
     <td> Imagery intelligence and geospatial information: support for foreign countries, regional organizations, and security alliances.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 444.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs444" data-uslm-ref="/us/usc/t10/s444">444.</a>  </td>
 
     <td> Support from Central Intelligence Agency.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [445.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs445" data-uslm-ref="/us/usc/t10/s445">445.</a>  </td>
 
     <td> Repealed.]  </td>
 

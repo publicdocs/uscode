@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2101" data-uslm-ref="/us/usc/t10/s2101">2101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2102" data-uslm-ref="/us/usc/t10/s2102">2102.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2103" data-uslm-ref="/us/usc/t10/s2103">2103.</a>  </td>
 
     <td> Eligibility for membership.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2103a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2103a" data-uslm-ref="/us/usc/t10/s2103a">2103a.</a>  </td>
 
     <td> Students not eligible for advanced training: commitment to military service.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2104" data-uslm-ref="/us/usc/t10/s2104">2104.</a>  </td>
 
     <td> Advanced training; eligibility for.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2105" data-uslm-ref="/us/usc/t10/s2105">2105.</a>  </td>
 
     <td> Advanced training; failure to complete or to accept commission.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2106" data-uslm-ref="/us/usc/t10/s2106">2106.</a>  </td>
 
     <td> Advanced training; commission on completion.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2107" data-uslm-ref="/us/usc/t10/s2107">2107.</a>  </td>
 
     <td> Financial assistance program for specially selected members.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2107a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2107a" data-uslm-ref="/us/usc/t10/s2107a">2107a.</a>  </td>
 
     <td> Financial assistance program for specially selected members: Army Reserve and Army National Guard.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2108" data-uslm-ref="/us/usc/t10/s2108">2108.</a>  </td>
 
     <td> Advanced standing; interruption of training; delay in starting obligated service; release from program.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2109" data-uslm-ref="/us/usc/t10/s2109">2109.</a>  </td>
 
     <td> Practical military training.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2110" data-uslm-ref="/us/usc/t10/s2110">2110.</a>  </td>
 
     <td> Logistical support.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2111" data-uslm-ref="/us/usc/t10/s2111">2111.</a>  </td>
 
     <td> Personnel: administrators and instructors.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2111a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2111a" data-uslm-ref="/us/usc/t10/s2111a">2111a.</a>  </td>
 
     <td> Support for senior military colleges.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2111b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2111b" data-uslm-ref="/us/usc/t10/s2111b">2111b.</a>  </td>
 
     <td> Senior military colleges: Department of Defense international student program.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1401" data-uslm-ref="/us/usc/t10/s1401">1401.</a>  </td>
 
     <td> Computation of retired pay.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1401a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1401a" data-uslm-ref="/us/usc/t10/s1401a">1401a.</a>  </td>
 
     <td> Adjustment of retired pay and retainer pay to reflect changes in Consumer Price Index.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1402" data-uslm-ref="/us/usc/t10/s1402">1402.</a>  </td>
 
     <td> Recomputation of retired or retainer pay to reflect later active duty of members who first became members before September 8, 1980.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1402a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1402a" data-uslm-ref="/us/usc/t10/s1402a">1402a.</a>  </td>
 
     <td> Recomputation of retired or retainer pay to reflect later active duty of members who first became members after September 7, 1980.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1403" data-uslm-ref="/us/usc/t10/s1403">1403.</a>  </td>
 
     <td> Disability retired pay: treatment under Internal Revenue Code of 1986.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1404" data-uslm-ref="/us/usc/t10/s1404">1404.</a>  </td>
 
     <td> Applicability of <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs8301" data-uslm-ref="/us/usc/t5/s8301">section 8301 of title 5</a>.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1405" data-uslm-ref="/us/usc/t10/s1405">1405.</a>  </td>
 
     <td> Years of service.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1406" data-uslm-ref="/us/usc/t10/s1406">1406.</a>  </td>
 
     <td> Retired pay base for members who first became members before September 8, 1980: final basic pay.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1407" data-uslm-ref="/us/usc/t10/s1407">1407.</a>  </td>
 
     <td> Retired pay base for members who first became members after September 7, 1980: high-36 month average.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1407a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1407a" data-uslm-ref="/us/usc/t10/s1407a">1407a.</a>  </td>
 
     <td> Retired pay base: officers retired in general or flag officer grades.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1408" data-uslm-ref="/us/usc/t10/s1408">1408.</a>  </td>
 
     <td> Payment of retired or retainer pay in compliance with court orders.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1409.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1409" data-uslm-ref="/us/usc/t10/s1409">1409.</a>  </td>
 
     <td> Retired pay multiplier.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1410.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1410" data-uslm-ref="/us/usc/t10/s1410">1410.</a>  </td>
 
     <td> Restoral of full retirement amount at age 62 for certain members entering on or after August 1, 1986.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1411" data-uslm-ref="/us/usc/t10/s1411">1411.</a>  </td>
 
     <td> Rules of construction.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1412" data-uslm-ref="/us/usc/t10/s1412">1412.</a>  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> [1413.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1413" data-uslm-ref="/us/usc/t10/s1413">1413.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1413a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1413a" data-uslm-ref="/us/usc/t10/s1413a">1413a.</a>  </td>
 
     <td> Combat-related special compensation.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1414" data-uslm-ref="/us/usc/t10/s1414">1414.</a>  </td>
 
     <td> Members eligible for retired pay who are also eligible for veterans’ disability compensation for disabilities rated 50 percent or higher: concurrent payment of retired pay and veterans’ disability compensation.  </td>
 

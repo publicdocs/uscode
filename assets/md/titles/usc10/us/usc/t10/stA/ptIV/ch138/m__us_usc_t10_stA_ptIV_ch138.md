@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch138%2FschI" data-uslm-ref="/us/usc/t10/stA/ptIV/ch138/schI">I.</a>  </td>
 
     <td> Acquisition and Cross-Servicing Agreements  </td>
 
-    <td> 2341  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2341" data-uslm-ref="/us/usc/t10/s2341">2341</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch138%2FschII" data-uslm-ref="/us/usc/t10/stA/ptIV/ch138/schII">II.</a>  </td>
 
     <td> Other Cooperative Agreements  </td>
 
-    <td> 2350a  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2350a" data-uslm-ref="/us/usc/t10/s2350a">2350a</a>  </td>
 
   </tr>
 

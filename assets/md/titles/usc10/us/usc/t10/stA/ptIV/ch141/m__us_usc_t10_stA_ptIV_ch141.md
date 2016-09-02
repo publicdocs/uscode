@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2381" data-uslm-ref="/us/usc/t10/s2381">2381.</a>  </td>
 
     <td> Contracts: regulations for bids.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [2382.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2382" data-uslm-ref="/us/usc/t10/s2382">2382.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2383.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2383" data-uslm-ref="/us/usc/t10/s2383">2383.</a>  </td>
 
     <td> Contractor performance of acquisition functions closely associated with inherently governmental functions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2384.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2384" data-uslm-ref="/us/usc/t10/s2384">2384.</a>  </td>
 
     <td> Supplies: identification of supplier and sources.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2384a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2384a" data-uslm-ref="/us/usc/t10/s2384a">2384a.</a>  </td>
 
     <td> Supplies: economic order quantities.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2385.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2385" data-uslm-ref="/us/usc/t10/s2385">2385.</a>  </td>
 
     <td> Arms and ammunition: immunity from taxation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2386.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2386" data-uslm-ref="/us/usc/t10/s2386">2386.</a>  </td>
 
     <td> Copyrights, patents, designs, etc.; acquisition.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2387.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2387" data-uslm-ref="/us/usc/t10/s2387">2387.</a>  </td>
 
     <td> Procurement of table and kitchen equipment for officers’ quarters: limitation on.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> [2388.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2388" data-uslm-ref="/us/usc/t10/s2388">2388.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2389.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2389" data-uslm-ref="/us/usc/t10/s2389">2389.</a>  </td>
 
     <td> Ensuring safety regarding insensitive munitions.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2390.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2390" data-uslm-ref="/us/usc/t10/s2390">2390.</a>  </td>
 
     <td> Prohibition on the sale of certain defense articles from the stocks of the Department of Defense.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2391.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2391" data-uslm-ref="/us/usc/t10/s2391">2391.</a>  </td>
 
     <td> Military base reuse studies and community planning assistance.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2392.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2392" data-uslm-ref="/us/usc/t10/s2392">2392.</a>  </td>
 
     <td> Prohibition on use of funds to relieve economic dislocations.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2393.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2393" data-uslm-ref="/us/usc/t10/s2393">2393.</a>  </td>
 
     <td> Prohibition against doing business with certain offerors or contractors.  </td>
 
@@ -137,15 +137,15 @@
 
   <tr>
 
-    <td> [2394, 2394a. Renumbered.]  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2394" data-uslm-ref="/us/usc/t10/s2394">2394</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2394a" data-uslm-ref="/us/usc/t10/s2394a">2394a.</a>  </td>
 
-    <td>   </td>
+    <td> Renumbered.]  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2395.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2395" data-uslm-ref="/us/usc/t10/s2395">2395.</a>  </td>
 
     <td> Availability of appropriations for procurement of technical military equipment and supplies.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 2396.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2396" data-uslm-ref="/us/usc/t10/s2396">2396.</a>  </td>
 
     <td> Advances for payments for compliance with foreign laws, rent in foreign countries, tuition, public utility services, and pay and supplies of armed forces of friendly foreign countries.  </td>
 
@@ -161,15 +161,15 @@
 
   <tr>
 
-    <td> [2397 to 2398a. Repealed or Renumbered.]  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2397" data-uslm-ref="/us/usc/t10/s2397">2397</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2398a" data-uslm-ref="/us/usc/t10/s2398a">2398a.</a>  </td>
 
-    <td>   </td>
+    <td> Repealed or Renumbered.]  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2399.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2399" data-uslm-ref="/us/usc/t10/s2399">2399.</a>  </td>
 
     <td> Operational test and evaluation of defense acquisition programs.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 2400.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2400" data-uslm-ref="/us/usc/t10/s2400">2400.</a>  </td>
 
     <td> Low-rate initial production of new systems.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 2401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2401" data-uslm-ref="/us/usc/t10/s2401">2401.</a>  </td>
 
     <td> Requirement for authorization by law of certain contracts relating to vessels, aircraft, and combat vehicles.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 2401a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2401a" data-uslm-ref="/us/usc/t10/s2401a">2401a.</a>  </td>
 
     <td> Lease of vehicles, equipment, vessels, and aircraft.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 2402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2402" data-uslm-ref="/us/usc/t10/s2402">2402.</a>  </td>
 
     <td> Prohibition of contractors limiting subcontractor sales directly to the United States.  </td>
 
@@ -209,15 +209,15 @@
 
   <tr>
 
-    <td> [2403 to 2407. Repealed or Renumbered.]  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2403" data-uslm-ref="/us/usc/t10/s2403">2403</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2407" data-uslm-ref="/us/usc/t10/s2407">2407.</a>  </td>
 
-    <td>   </td>
+    <td> Repealed or Renumbered.]  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2408" data-uslm-ref="/us/usc/t10/s2408">2408.</a>  </td>
 
     <td> Prohibition on persons convicted of defense-contract related felonies and related criminal penalty on defense contractors.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 2409.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2409" data-uslm-ref="/us/usc/t10/s2409">2409.</a>  </td>
 
     <td> Contractor employees: protection from reprisal for disclosure of certain information.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> [2409a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2409a" data-uslm-ref="/us/usc/t10/s2409a">2409a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 2410.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2410" data-uslm-ref="/us/usc/t10/s2410">2410.</a>  </td>
 
     <td> Requests for equitable adjustment or other relief: certification.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 2410a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2410a" data-uslm-ref="/us/usc/t10/s2410a">2410a.</a>  </td>
 
     <td> Contracts for periods crossing fiscal years: severable service contracts; leases of real or personal property.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 2410b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2410b" data-uslm-ref="/us/usc/t10/s2410b">2410b.</a>  </td>
 
     <td> Contractor inventory accounting systems: standards.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> [2410c.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2410c" data-uslm-ref="/us/usc/t10/s2410c">2410c.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 2410d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2410d" data-uslm-ref="/us/usc/t10/s2410d">2410d.</a>  </td>
 
     <td> Subcontracting plans: credit for certain purchases.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> [2410e.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2410e" data-uslm-ref="/us/usc/t10/s2410e">2410e.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 2410f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2410f" data-uslm-ref="/us/usc/t10/s2410f">2410f.</a>  </td>
 
     <td> Debarment of persons convicted of fraudulent use of “Made in America” labels.  </td>
 
@@ -297,7 +297,7 @@
 
   <tr>
 
-    <td> 2410g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2410g" data-uslm-ref="/us/usc/t10/s2410g">2410g.</a>  </td>
 
     <td> Advance notification of contract performance outside the United States.  </td>
 
@@ -305,7 +305,7 @@
 
   <tr>
 
-    <td> [2410h.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2410h" data-uslm-ref="/us/usc/t10/s2410h">2410h.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -313,7 +313,7 @@
 
   <tr>
 
-    <td> 2410i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2410i" data-uslm-ref="/us/usc/t10/s2410i">2410i.</a>  </td>
 
     <td> Prohibition on contracting with entities that comply with the secondary Arab boycott of Israel.  </td>
 
@@ -321,7 +321,7 @@
 
   <tr>
 
-    <td> 2410j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2410j" data-uslm-ref="/us/usc/t10/s2410j">2410j.</a>  </td>
 
     <td> Displaced contractor employees: assistance to obtain certification and employment as teachers or employment as teachers’ aides.  </td>
 
@@ -329,7 +329,7 @@
 
   <tr>
 
-    <td> 2410k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2410k" data-uslm-ref="/us/usc/t10/s2410k">2410k.</a>  </td>
 
     <td> Defense contractors: listing of suitable employment openings with local employment service office.  </td>
 
@@ -337,7 +337,7 @@
 
   <tr>
 
-    <td> 2410l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2410" data-uslm-ref="/us/usc/t10/s2410">2410</a>l.  </td>
 
     <td> Contracts for advisory and assistance services: cost comparison studies.  </td>
 
@@ -345,7 +345,7 @@
 
   <tr>
 
-    <td> 2410m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2410m" data-uslm-ref="/us/usc/t10/s2410m">2410m.</a>  </td>
 
     <td> Retention of amounts collected from contractor during the pendency of contract dispute.  </td>
 
@@ -353,7 +353,7 @@
 
   <tr>
 
-    <td> 2410n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2410n" data-uslm-ref="/us/usc/t10/s2410n">2410n.</a>  </td>
 
     <td> Products of Federal Prison Industries: procedural requirements.  </td>
 
@@ -361,7 +361,7 @@
 
   <tr>
 
-    <td> 2410o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2410" data-uslm-ref="/us/usc/t10/s2410">2410</a>o.  </td>
 
     <td> Multiyear procurement authority: purchase of dinitrogen tetroxide, hydrazine, and hydrazine-related products.  </td>
 
@@ -369,7 +369,7 @@
 
   <tr>
 
-    <td> 2410p.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2410p" data-uslm-ref="/us/usc/t10/s2410p">2410p.</a>  </td>
 
     <td> Contracts: limitations on lead system integrators.  </td>
 
@@ -377,7 +377,7 @@
 
   <tr>
 
-    <td> 2410q.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2410q" data-uslm-ref="/us/usc/t10/s2410q">2410q.</a>  </td>
 
     <td> Multiyear contracts: purchase of electricity from renewable energy sources.  </td>
 

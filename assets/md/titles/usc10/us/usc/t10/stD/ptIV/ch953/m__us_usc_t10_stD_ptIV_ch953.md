@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9831.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9831" data-uslm-ref="/us/usc/t10/s9831">9831.</a>  </td>
 
     <td> Custody of departmental records and property.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [9832, 9833, 9835, 9836.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9832" data-uslm-ref="/us/usc/t10/s9832">9832</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9833" data-uslm-ref="/us/usc/t10/s9833">9833</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9835" data-uslm-ref="/us/usc/t10/s9835">9835</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9836" data-uslm-ref="/us/usc/t10/s9836">9836.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9837.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9837" data-uslm-ref="/us/usc/t10/s9837">9837.</a>  </td>
 
     <td> Settlement of accounts: remission or cancellation of indebtedness of members.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9838.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9838" data-uslm-ref="/us/usc/t10/s9838">9838.</a>  </td>
 
     <td> Settlement of accounts: affidavit of squadron commander.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 9839.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9839" data-uslm-ref="/us/usc/t10/s9839">9839.</a>  </td>
 
     <td> Settlement of accounts: oaths.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 9840.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9840" data-uslm-ref="/us/usc/t10/s9840">9840.</a>  </td>
 
     <td> Final settlement of officer’s accounts.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 9841.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9841" data-uslm-ref="/us/usc/t10/s9841">9841.</a>  </td>
 
     <td> Payment of small amounts to public creditors.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 9842.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9842" data-uslm-ref="/us/usc/t10/s9842">9842.</a>  </td>
 
     <td> Settlement of accounts of line officers.  </td>
 

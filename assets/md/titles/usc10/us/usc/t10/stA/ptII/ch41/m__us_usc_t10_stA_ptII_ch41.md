@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs711" data-uslm-ref="/us/usc/t10/s711">711.</a>  </td>
 
     <td> Senior members of Military Staff Committee of United Nations: appointment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 711a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs711a" data-uslm-ref="/us/usc/t10/s711a">711a.</a>  </td>
 
     <td> American National Red Cross: detail of commissioned officers.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs712" data-uslm-ref="/us/usc/t10/s712">712.</a>  </td>
 
     <td> Foreign governments: detail to assist.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs713" data-uslm-ref="/us/usc/t10/s713">713.</a>  </td>
 
     <td> State Department: assignment or detail as couriers and building inspectors.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [714, 715.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs714" data-uslm-ref="/us/usc/t10/s714">714</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs715" data-uslm-ref="/us/usc/t10/s715">715.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 716.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs716" data-uslm-ref="/us/usc/t10/s716">716.</a>  </td>
 
     <td> Commissioned officers: transfers among the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 717.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs717" data-uslm-ref="/us/usc/t10/s717">717.</a>  </td>
 
     <td> Members of the armed forces: participation in international sports.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> [718.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs718" data-uslm-ref="/us/usc/t10/s718">718.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 719.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs719" data-uslm-ref="/us/usc/t10/s719">719.</a>  </td>
 
     <td> Department of Commerce: assignment or detail of members of the armed forces to National Oceanic and Atmospheric Administration.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 720.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs720" data-uslm-ref="/us/usc/t10/s720">720.</a>  </td>
 
     <td> Chief of Staff to President: appointment.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> [721.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs721" data-uslm-ref="/us/usc/t10/s721">721.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs722" data-uslm-ref="/us/usc/t10/s722">722.</a>  </td>
 
     <td> Attending Physician to the Congress: grade.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [6521.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6521" data-uslm-ref="/us/usc/t10/s6521">6521.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6522" data-uslm-ref="/us/usc/t10/s6522">6522.</a>  </td>
 
     <td> Disposition of effects.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [8631 to 8638.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8631" data-uslm-ref="/us/usc/t10/s8631">8631</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8638" data-uslm-ref="/us/usc/t10/s8638">8638.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8639.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8639" data-uslm-ref="/us/usc/t10/s8639">8639.</a>  </td>
 
     <td> Enlisted members: officers not to use as servants.  </td>
 

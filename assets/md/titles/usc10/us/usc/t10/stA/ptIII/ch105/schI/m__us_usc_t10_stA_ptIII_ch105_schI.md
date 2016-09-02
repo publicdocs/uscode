@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2120.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2120" data-uslm-ref="/us/usc/t10/s2120">2120.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2121" data-uslm-ref="/us/usc/t10/s2121">2121.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2122" data-uslm-ref="/us/usc/t10/s2122">2122.</a>  </td>
 
     <td> Eligibility for participation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2123" data-uslm-ref="/us/usc/t10/s2123">2123.</a>  </td>
 
     <td> Members of the program: active duty obligation; failure to complete training; release from program.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2124" data-uslm-ref="/us/usc/t10/s2124">2124.</a>  </td>
 
     <td> Members of the program: numbers appointed.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2125.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2125" data-uslm-ref="/us/usc/t10/s2125">2125.</a>  </td>
 
     <td> Members of the program: exclusion from authorized strengths.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2126.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2126" data-uslm-ref="/us/usc/t10/s2126">2126.</a>  </td>
 
     <td> Members of the program: service credit.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2127.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2127" data-uslm-ref="/us/usc/t10/s2127">2127.</a>  </td>
 
     <td> Scholarships and financial assistance: payments.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2128.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2128" data-uslm-ref="/us/usc/t10/s2128">2128.</a>  </td>
 
     <td> Accession bonus for members of the program.  </td>
 

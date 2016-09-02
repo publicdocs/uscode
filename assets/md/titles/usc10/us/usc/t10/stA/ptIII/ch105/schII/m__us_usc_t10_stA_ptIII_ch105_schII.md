@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2130a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2130a" data-uslm-ref="/us/usc/t10/s2130a">2130a.</a>  </td>
 
     <td> Financial assistance: nurse officer candidates.  </td>
 

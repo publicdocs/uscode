@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1551.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1551" data-uslm-ref="/us/usc/t10/s1551">1551.</a>  </td>
 
     <td> Correction of name after separation from service under an assumed name.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1552.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1552" data-uslm-ref="/us/usc/t10/s1552">1552.</a>  </td>
 
     <td> Correction of military records: claims incident thereto.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1553.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1553" data-uslm-ref="/us/usc/t10/s1553">1553.</a>  </td>
 
     <td> Review of discharge or dismissal.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1554.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1554" data-uslm-ref="/us/usc/t10/s1554">1554.</a>  </td>
 
     <td> Review of retirement or separation without pay for physical disability.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1554a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1554a" data-uslm-ref="/us/usc/t10/s1554a">1554a.</a>  </td>
 
     <td> Review of separation with disability rating of 20 percent disabled or less.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1555.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1555" data-uslm-ref="/us/usc/t10/s1555">1555.</a>  </td>
 
     <td> Professional staff.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1556.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1556" data-uslm-ref="/us/usc/t10/s1556">1556.</a>  </td>
 
     <td> Ex parte communications prohibited.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1557.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1557" data-uslm-ref="/us/usc/t10/s1557">1557.</a>  </td>
 
     <td> Timeliness standards for disposition of applications before Corrections Boards.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1558.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1558" data-uslm-ref="/us/usc/t10/s1558">1558.</a>  </td>
 
     <td> Review of actions of selection boards: correction of military records by special boards; judicial review.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1559.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1559" data-uslm-ref="/us/usc/t10/s1559">1559.</a>  </td>
 
     <td> Personnel limitation.  </td>
 

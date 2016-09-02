@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4831.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4831" data-uslm-ref="/us/usc/t10/s4831">4831.</a>  </td>
 
     <td> Custody of departmental records and property.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [4832 to 4836.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4832" data-uslm-ref="/us/usc/t10/s4832">4832</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4836" data-uslm-ref="/us/usc/t10/s4836">4836.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4837.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4837" data-uslm-ref="/us/usc/t10/s4837">4837.</a>  </td>
 
     <td> Settlement of accounts: remission or cancellation of indebtedness of members.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4838.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4838" data-uslm-ref="/us/usc/t10/s4838">4838.</a>  </td>
 
     <td> Settlement of accounts: affidavit of company commander.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4839.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4839" data-uslm-ref="/us/usc/t10/s4839">4839.</a>  </td>
 
     <td> Settlement of accounts: oaths.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4840.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4840" data-uslm-ref="/us/usc/t10/s4840">4840.</a>  </td>
 
     <td> Final settlement of officer’s accounts.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4841.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4841" data-uslm-ref="/us/usc/t10/s4841">4841.</a>  </td>
 
     <td> Payment of small amounts to public creditors.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4842.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4842" data-uslm-ref="/us/usc/t10/s4842">4842.</a>  </td>
 
     <td> Settlement of accounts of line officers.  </td>
 

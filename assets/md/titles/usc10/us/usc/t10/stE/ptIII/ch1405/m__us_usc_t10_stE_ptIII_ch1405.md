@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 14301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14301" data-uslm-ref="/us/usc/t10/s14301">14301.</a>  </td>
 
     <td> Eligibility for consideration for promotion: general rules.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 14302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14302" data-uslm-ref="/us/usc/t10/s14302">14302.</a>  </td>
 
     <td> Promotion zones.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 14303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14303" data-uslm-ref="/us/usc/t10/s14303">14303.</a>  </td>
 
     <td> Eligibility for consideration for promotion: minimum years of service in grade.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 14304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14304" data-uslm-ref="/us/usc/t10/s14304">14304.</a>  </td>
 
     <td> Eligibility for consideration for promotion: maximum years of service in grade.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 14305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14305" data-uslm-ref="/us/usc/t10/s14305">14305.</a>  </td>
 
     <td> Establishment of promotion zones: mandatory consideration for promotion.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 14306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14306" data-uslm-ref="/us/usc/t10/s14306">14306.</a>  </td>
 
     <td> Establishment of promotion zones: Navy Reserve and Marine Corps Reserve running mate system.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 14307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14307" data-uslm-ref="/us/usc/t10/s14307">14307.</a>  </td>
 
     <td> Number of officers to be recommended for promotion.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 14308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14308" data-uslm-ref="/us/usc/t10/s14308">14308.</a>  </td>
 
     <td> Promotions: how made.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 14309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14309" data-uslm-ref="/us/usc/t10/s14309">14309.</a>  </td>
 
     <td> Acceptance of promotion; oath of office.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 14310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14310" data-uslm-ref="/us/usc/t10/s14310">14310.</a>  </td>
 
     <td> Removal of officers from a list of officers recommended for promotion.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 14311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14311" data-uslm-ref="/us/usc/t10/s14311">14311.</a>  </td>
 
     <td> Delay of promotion: involuntary.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 14312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14312" data-uslm-ref="/us/usc/t10/s14312">14312.</a>  </td>
 
     <td> Delay of promotion: voluntary.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 14313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14313" data-uslm-ref="/us/usc/t10/s14313">14313.</a>  </td>
 
     <td> Authority to vacate promotions to grade of brigadier general or rear admiral (lower half).  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 14314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14314" data-uslm-ref="/us/usc/t10/s14314">14314.</a>  </td>
 
     <td> Army and Air Force commissioned officers: generals ceasing to occupy positions commensurate with grade; State adjutants general.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 14315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14315" data-uslm-ref="/us/usc/t10/s14315">14315.</a>  </td>
 
     <td> Position vacancy promotions: Army and Air Force officers.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 14316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14316" data-uslm-ref="/us/usc/t10/s14316">14316.</a>  </td>
 
     <td> Army National Guard and Air National Guard: appointment to and Federal recognition in a higher reserve grade after selection for promotion.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 14317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs14317" data-uslm-ref="/us/usc/t10/s14317">14317.</a>  </td>
 
     <td> Officers in transition to and from the active-status list or active-duty list.  </td>
 

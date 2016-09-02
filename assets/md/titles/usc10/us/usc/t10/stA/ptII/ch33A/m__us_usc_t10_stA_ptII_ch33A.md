@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 571.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs571" data-uslm-ref="/us/usc/t10/s571">571.</a>  </td>
 
     <td> Warrant officers: grades.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 572.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs572" data-uslm-ref="/us/usc/t10/s572">572.</a>  </td>
 
     <td> Warrant officers: original appointment; service credit.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 573.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs573" data-uslm-ref="/us/usc/t10/s573">573.</a>  </td>
 
     <td> Convening of selection boards.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 574.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs574" data-uslm-ref="/us/usc/t10/s574">574.</a>  </td>
 
     <td> Warrant officer active-duty lists; competitive categories; number to be recommended for promotion; promotion zones.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 575.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs575" data-uslm-ref="/us/usc/t10/s575">575.</a>  </td>
 
     <td> Recommendations for promotion by selection boards.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 576.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs576" data-uslm-ref="/us/usc/t10/s576">576.</a>  </td>
 
     <td> Information to be furnished to selection boards; selection procedures.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 577.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs577" data-uslm-ref="/us/usc/t10/s577">577.</a>  </td>
 
     <td> Promotions: effect of failure of selection for.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 578.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs578" data-uslm-ref="/us/usc/t10/s578">578.</a>  </td>
 
     <td> Promotions: how made; effective date.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 579.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs579" data-uslm-ref="/us/usc/t10/s579">579.</a>  </td>
 
     <td> Removal from a promotion list.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 580.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs580" data-uslm-ref="/us/usc/t10/s580">580.</a>  </td>
 
     <td> Regular warrant officers twice failing of selection for promotion: involuntary retirement or separation.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 580a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs580a" data-uslm-ref="/us/usc/t10/s580a">580a.</a>  </td>
 
     <td> Enhanced authority for selective early discharges.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 581.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs581" data-uslm-ref="/us/usc/t10/s581">581.</a>  </td>
 
     <td> Selective retirement.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 582.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs582" data-uslm-ref="/us/usc/t10/s582">582.</a>  </td>
 
     <td> Warrant officer active-duty list: exclusions.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 583.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs583" data-uslm-ref="/us/usc/t10/s583">583.</a>  </td>
 
     <td> Definitions.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2531" data-uslm-ref="/us/usc/t10/s2531">2531.</a>  </td>
 
     <td> Defense memoranda of understanding and related agreements.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2532" data-uslm-ref="/us/usc/t10/s2532">2532.</a>  </td>
 
     <td> Offset policy; notification.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2533" data-uslm-ref="/us/usc/t10/s2533">2533.</a>  </td>
 
     <td> Determinations of public interest under chapter 83 of title 41.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2533a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2533a" data-uslm-ref="/us/usc/t10/s2533a">2533a.</a>  </td>
 
     <td> Requirement to buy certain articles from American sources; exceptions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2533b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2533b" data-uslm-ref="/us/usc/t10/s2533b">2533b.</a>  </td>
 
     <td> Requirement to buy strategic materials critical to national security from American sources; exceptions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2534.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2534" data-uslm-ref="/us/usc/t10/s2534">2534.</a>  </td>
 
     <td> Miscellaneous limitations on the procurement of goods other than United States goods.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2535.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2535" data-uslm-ref="/us/usc/t10/s2535">2535.</a>  </td>
 
     <td> Defense Industrial Reserve.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2536.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2536" data-uslm-ref="/us/usc/t10/s2536">2536.</a>  </td>
 
     <td> Award of certain contracts to entities controlled by a foreign government: prohibition.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2537.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2537" data-uslm-ref="/us/usc/t10/s2537">2537.</a>  </td>
 
     <td> Improved national defense control of technology diversions overseas.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2538.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2538" data-uslm-ref="/us/usc/t10/s2538">2538.</a>  </td>
 
     <td> Industrial mobilization: orders; priorities; possession of manufacturing plants; violations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2539.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2539" data-uslm-ref="/us/usc/t10/s2539">2539.</a>  </td>
 
     <td> Industrial mobilization: plants; lists.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2539a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2539a" data-uslm-ref="/us/usc/t10/s2539a">2539a.</a>  </td>
 
     <td> Industrial mobilization: Board on Mobilization of Industries Essential for Military Preparedness.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2539b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2539b" data-uslm-ref="/us/usc/t10/s2539b">2539b.</a>  </td>
 
     <td> Availability of samples, drawings, information, equipment, materials, and certain services.  </td>
 

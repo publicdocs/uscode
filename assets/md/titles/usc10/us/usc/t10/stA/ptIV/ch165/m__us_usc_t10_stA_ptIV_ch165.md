@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2771.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2771" data-uslm-ref="/us/usc/t10/s2771">2771.</a>  </td>
 
     <td> Final settlement of accounts: deceased members.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2772.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2772" data-uslm-ref="/us/usc/t10/s2772">2772.</a>  </td>
 
     <td> Share of fines and forfeitures to benefit Armed Forces Retirement Home.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2773.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2773" data-uslm-ref="/us/usc/t10/s2773">2773.</a>  </td>
 
     <td> Designation, powers, and accountability of deputy disbursing officials.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2773a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2773a" data-uslm-ref="/us/usc/t10/s2773a">2773a.</a>  </td>
 
     <td> Departmental accountable officials.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2773b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2773b" data-uslm-ref="/us/usc/t10/s2773b">2773b.</a>  </td>
 
     <td> Parking of funds: prohibition; penalties.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2774.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2774" data-uslm-ref="/us/usc/t10/s2774">2774.</a>  </td>
 
     <td> Claims for overpayment of pay and allowances and of travel and transportation allowances.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2775.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2775" data-uslm-ref="/us/usc/t10/s2775">2775.</a>  </td>
 
     <td> Liability of members assigned to military housing.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2776.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2776" data-uslm-ref="/us/usc/t10/s2776">2776.</a>  </td>
 
     <td> Use of receipts of public money for current expenditures.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2777.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2777" data-uslm-ref="/us/usc/t10/s2777">2777.</a>  </td>
 
     <td> Requisitions for advances and removal of charges outstanding in accounts of advances.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [2778.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2778" data-uslm-ref="/us/usc/t10/s2778">2778.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2779.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2779" data-uslm-ref="/us/usc/t10/s2779">2779.</a>  </td>
 
     <td> Use of funds because of fluctuations in currency exchange rates of foreign countries.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2780.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2780" data-uslm-ref="/us/usc/t10/s2780">2780.</a>  </td>
 
     <td> Debt collection.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2781.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2781" data-uslm-ref="/us/usc/t10/s2781">2781.</a>  </td>
 
     <td> Availability of appropriations: exchange fees; losses in accounts.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2782.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2782" data-uslm-ref="/us/usc/t10/s2782">2782.</a>  </td>
 
     <td> Damage to real property: disposition of amounts recovered.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2783.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2783" data-uslm-ref="/us/usc/t10/s2783">2783.</a>  </td>
 
     <td> Nonappropriated fund instrumentalities: financial management and use of nonappropriated funds.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 2784.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2784" data-uslm-ref="/us/usc/t10/s2784">2784.</a>  </td>
 
     <td> Management of purchase cards.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 2784a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2784a" data-uslm-ref="/us/usc/t10/s2784a">2784a.</a>  </td>
 
     <td> Management of travel cards.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 2785.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2785" data-uslm-ref="/us/usc/t10/s2785">2785.</a>  </td>
 
     <td> Remittance addresses: regulation of alterations.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 2786.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2786" data-uslm-ref="/us/usc/t10/s2786">2786.</a>  </td>
 
     <td> Department of Defense payments by electronic transfers of funds: exercise of authority for waivers.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 2787.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2787" data-uslm-ref="/us/usc/t10/s2787">2787.</a>  </td>
 
     <td> Reports of survey.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 2788.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2788" data-uslm-ref="/us/usc/t10/s2788">2788.</a>  </td>
 
     <td> Property accountability: regulations.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 2789.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2789" data-uslm-ref="/us/usc/t10/s2789">2789.</a>  </td>
 
     <td> Individual equipment: unauthorized disposition.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 2790.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2790" data-uslm-ref="/us/usc/t10/s2790">2790.</a>  </td>
 
     <td> Recovery of improperly disposed of Department of Defense property.  </td>
 

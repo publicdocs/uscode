@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2731" data-uslm-ref="/us/usc/t10/s2731">2731.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2732.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2732" data-uslm-ref="/us/usc/t10/s2732">2732.</a>  </td>
 
     <td> Payment of claims: availability of appropriations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2733.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2733" data-uslm-ref="/us/usc/t10/s2733">2733.</a>  </td>
 
     <td> Property loss; personal injury or death: incident to noncombat activities of Department of Army, Navy, or Air Force.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2734.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2734" data-uslm-ref="/us/usc/t10/s2734">2734.</a>  </td>
 
     <td> Property loss; personal injury or death: incident to noncombat activities of the armed forces; foreign countries.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2734a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2734a" data-uslm-ref="/us/usc/t10/s2734a">2734a.</a>  </td>
 
     <td> Property loss; personal injury or death: incident to noncombat activities of armed forces in foreign countries; international agreements.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2734b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2734b" data-uslm-ref="/us/usc/t10/s2734b">2734b.</a>  </td>
 
     <td> Property loss; personal injury or death: incident to activities of armed forces of foreign countries in United States; international agreements.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2735.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2735" data-uslm-ref="/us/usc/t10/s2735">2735.</a>  </td>
 
     <td> Settlement: final and conclusive.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2736.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2736" data-uslm-ref="/us/usc/t10/s2736">2736.</a>  </td>
 
     <td> Property loss; personal injury or death: advance payment.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2737.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2737" data-uslm-ref="/us/usc/t10/s2737">2737.</a>  </td>
 
     <td> Property loss; personal injury or death: incident to use of property of the United States and not cognizable under other law.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2738.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2738" data-uslm-ref="/us/usc/t10/s2738">2738.</a>  </td>
 
     <td> Property loss: reimbursement of members for certain losses of household effects caused by hostile action.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2739.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2739" data-uslm-ref="/us/usc/t10/s2739">2739.</a>  </td>
 
     <td> Amounts recovered from third parties for loss or damage to personal property shipped or stored at Government expense: crediting to appropriations.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2740.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2740" data-uslm-ref="/us/usc/t10/s2740">2740.</a>  </td>
 
     <td> Property loss: reimbursement of members and civilian employees for full replacement value of household effects when contractor reimbursement not available.  </td>
 

@@ -543,11 +543,9 @@
 
 >             “(A) makes a written determination that such a waiver is in the best interest of the Department of Defense; and
 
->             “(B)
+>             “(B) notifies the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of the waiver upon making such determination; and
 
->              notifies the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of the waiver upon making such determination; and
-
->                 “(4) provide such criteria as necessary to guide a determination made pursuant to paragraph (3)(A).
+>         “(4) provide such criteria as necessary to guide a determination made pursuant to paragraph (3)(A).
 
 >     “(b) __Definitions.—__ 
 

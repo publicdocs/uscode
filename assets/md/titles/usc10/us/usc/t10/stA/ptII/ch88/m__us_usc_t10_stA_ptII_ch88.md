@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch88%2FschI" data-uslm-ref="/us/usc/t10/stA/ptII/ch88/schI">I.</a>  </td>
 
     <td> Military Family Programs  </td>
 
-    <td> 1781  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1781" data-uslm-ref="/us/usc/t10/s1781">1781</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch88%2FschII" data-uslm-ref="/us/usc/t10/stA/ptII/ch88/schII">II.</a>  </td>
 
     <td> Military Child Care  </td>
 
-    <td> 1791  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1791" data-uslm-ref="/us/usc/t10/s1791">1791</a>  </td>
 
   </tr>
 

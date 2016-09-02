@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [8571.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8571" data-uslm-ref="/us/usc/t10/s8571">8571.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8572.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8572" data-uslm-ref="/us/usc/t10/s8572">8572.</a>  </td>
 
     <td> Rank: commissioned officers serving under temporary appointments.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [8573, 8574.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8573" data-uslm-ref="/us/usc/t10/s8573">8573</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8574" data-uslm-ref="/us/usc/t10/s8574">8574.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8575.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8575" data-uslm-ref="/us/usc/t10/s8575">8575.</a>  </td>
 
     <td> Rank: warrant officers.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [8576 to 8578.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8576" data-uslm-ref="/us/usc/t10/s8576">8576</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8578" data-uslm-ref="/us/usc/t10/s8578">8578.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 8579.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8579" data-uslm-ref="/us/usc/t10/s8579">8579.</a>  </td>
 
     <td> Command: commissioned officers in certain designated categories.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [8580.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8580" data-uslm-ref="/us/usc/t10/s8580">8580.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 8581.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8581" data-uslm-ref="/us/usc/t10/s8581">8581.</a>  </td>
 
     <td> Command: chaplains.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> [8582.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8582" data-uslm-ref="/us/usc/t10/s8582">8582.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 8583.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8583" data-uslm-ref="/us/usc/t10/s8583">8583.</a>  </td>
 
     <td> Requirement of exemplary conduct.  </td>
 

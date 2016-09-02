@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9301" data-uslm-ref="/us/usc/t10/s9301">9301.</a>  </td>
 
     <td> Members of Air Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9302" data-uslm-ref="/us/usc/t10/s9302">9302.</a>  </td>
 
     <td> Enlisted members of Air Force: schools.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9303" data-uslm-ref="/us/usc/t10/s9303">9303.</a>  </td>
 
     <td> Aviation cadets and aviation students: schools.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9304" data-uslm-ref="/us/usc/t10/s9304">9304.</a>  </td>
 
     <td> Aviation students: detail of enlisted members of Air Force.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 9305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9305" data-uslm-ref="/us/usc/t10/s9305">9305.</a>  </td>
 
     <td> Civilian flying school instructors: instruction at Air Force training commands.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 9306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9306" data-uslm-ref="/us/usc/t10/s9306">9306.</a>  </td>
 
     <td> Service schools: leaves of absence for instructors.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 9314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9314" data-uslm-ref="/us/usc/t10/s9314">9314.</a>  </td>
 
     <td> Degree granting authority for United States Air Force Institute of Technology.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 9314a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9314a" data-uslm-ref="/us/usc/t10/s9314a">9314a.</a>  </td>
 
     <td> United States Air Force Institute of Technology: admission of defense industry civilians.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 9314b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9314b" data-uslm-ref="/us/usc/t10/s9314b">9314b.</a>  </td>
 
     <td> United States Air Force Institute of Technology: administration.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 9315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9315" data-uslm-ref="/us/usc/t10/s9315">9315.</a>  </td>
 
     <td> Community College of the Air Force: associate degrees.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> [9316.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9316" data-uslm-ref="/us/usc/t10/s9316">9316.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 9317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9317" data-uslm-ref="/us/usc/t10/s9317">9317.</a>  </td>
 
     <td> Degree granting authority for Air University.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 9319.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9319" data-uslm-ref="/us/usc/t10/s9319">9319.</a>  </td>
 
     <td> Recruit basic training: separate housing for male and female recruits.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 9320.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9320" data-uslm-ref="/us/usc/t10/s9320">9320.</a>  </td>
 
     <td> Recruit basic training: privacy.  </td>
 

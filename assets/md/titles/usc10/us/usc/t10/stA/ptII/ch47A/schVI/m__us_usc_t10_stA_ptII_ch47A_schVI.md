@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 949s.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949s" data-uslm-ref="/us/usc/t10/s949s">949s.</a>  </td>
 
     <td> Cruel or unusual punishments prohibited.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 949t.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949t" data-uslm-ref="/us/usc/t10/s949t">949t.</a>  </td>
 
     <td> Maximum limits.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 949u.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs949u" data-uslm-ref="/us/usc/t10/s949u">949u.</a>  </td>
 
     <td> Execution of confinement.  </td>
 

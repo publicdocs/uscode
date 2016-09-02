@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [7911.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7911" data-uslm-ref="/us/usc/t10/s7911">7911.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7912" data-uslm-ref="/us/usc/t10/s7912">7912.</a>  </td>
 
     <td> Rifles and ammunition for target practice: educational institutions having corps of midshipmen.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7913.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7913" data-uslm-ref="/us/usc/t10/s7913">7913.</a>  </td>
 
     <td> Supplies: military instruction camps.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9561.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9561" data-uslm-ref="/us/usc/t10/s9561">9561.</a>  </td>
 
     <td> Rations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9562.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9562" data-uslm-ref="/us/usc/t10/s9562">9562.</a>  </td>
 
     <td> Clothing.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9563.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9563" data-uslm-ref="/us/usc/t10/s9563">9563.</a>  </td>
 
     <td> Clothing: replacement when destroyed to prevent contagion.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9564.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9564" data-uslm-ref="/us/usc/t10/s9564">9564.</a>  </td>
 
     <td> Navy and Marine Corps: camp equipment and transportation; when on shore duty with Air Force.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 9565.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9565" data-uslm-ref="/us/usc/t10/s9565">9565.</a>  </td>
 
     <td> Colors, standards, and guidons of demobilized organizations: disposition.  </td>
 

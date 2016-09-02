@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 948h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs948h" data-uslm-ref="/us/usc/t10/s948h">948h.</a>  </td>
 
     <td> Who may convene military commissions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 948i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs948i" data-uslm-ref="/us/usc/t10/s948i">948i.</a>  </td>
 
     <td> Who may serve on military commissions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 948j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs948j" data-uslm-ref="/us/usc/t10/s948j">948j.</a>  </td>
 
     <td> Military judge of a military commission.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 948k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs948k" data-uslm-ref="/us/usc/t10/s948k">948k.</a>  </td>
 
     <td> Detail of trial counsel and defense counsel.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 948l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs948" data-uslm-ref="/us/usc/t10/s948">948</a>l.  </td>
 
     <td> Detail or employment of reporters and interpreters.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 948m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs948m" data-uslm-ref="/us/usc/t10/s948m">948m.</a>  </td>
 
     <td> Number of members; excuse of members; absent and additional members.  </td>
 

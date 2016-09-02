@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8011" data-uslm-ref="/us/usc/t10/s8011">8011.</a>  </td>
 
     <td> Organization.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8012" data-uslm-ref="/us/usc/t10/s8012">8012.</a>  </td>
 
     <td> Department of the Air Force: seal.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8013" data-uslm-ref="/us/usc/t10/s8013">8013.</a>  </td>
 
     <td> Secretary of the Air Force.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8014.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8014" data-uslm-ref="/us/usc/t10/s8014">8014.</a>  </td>
 
     <td> Office of the Secretary of the Air Force.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8015.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8015" data-uslm-ref="/us/usc/t10/s8015">8015.</a>  </td>
 
     <td> Under Secretary of the Air Force.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 8016.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8016" data-uslm-ref="/us/usc/t10/s8016">8016.</a>  </td>
 
     <td> Assistant Secretaries of the Air Force.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 8017.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8017" data-uslm-ref="/us/usc/t10/s8017">8017.</a>  </td>
 
     <td> Secretary of the Air Force: successors to duties.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 8018.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8018" data-uslm-ref="/us/usc/t10/s8018">8018.</a>  </td>
 
     <td> Administrative Assistant.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 8019.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8019" data-uslm-ref="/us/usc/t10/s8019">8019.</a>  </td>
 
     <td> General Counsel.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 8020.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8020" data-uslm-ref="/us/usc/t10/s8020">8020.</a>  </td>
 
     <td> Inspector General.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 8021.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8021" data-uslm-ref="/us/usc/t10/s8021">8021.</a>  </td>
 
     <td> Air Force Reserve Forces Policy Committee.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 8022.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8022" data-uslm-ref="/us/usc/t10/s8022">8022.</a>  </td>
 
     <td> Financial management.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 8023.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8023" data-uslm-ref="/us/usc/t10/s8023">8023.</a>  </td>
 
     <td> Chief of Legislative Liaison.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 8024.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8024" data-uslm-ref="/us/usc/t10/s8024">8024.</a>  </td>
 
     <td> Director of Small Business Programs.  </td>
 

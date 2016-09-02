@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3911" data-uslm-ref="/us/usc/t10/s3911">3911.</a>  </td>
 
     <td> Twenty years or more: regular or reserve commissioned officers.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [3912, 3913.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3912" data-uslm-ref="/us/usc/t10/s3912">3912</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3913" data-uslm-ref="/us/usc/t10/s3913">3913.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3914.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3914" data-uslm-ref="/us/usc/t10/s3914">3914.</a>  </td>
 
     <td> Twenty to thirty years: enlisted members.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [3915, 3916.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3915" data-uslm-ref="/us/usc/t10/s3915">3915</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3916" data-uslm-ref="/us/usc/t10/s3916">3916.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3917.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3917" data-uslm-ref="/us/usc/t10/s3917">3917.</a>  </td>
 
     <td> Thirty years or more: regular enlisted members.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3918.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3918" data-uslm-ref="/us/usc/t10/s3918">3918.</a>  </td>
 
     <td> Thirty years or more: regular commissioned officers.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [3919.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3919" data-uslm-ref="/us/usc/t10/s3919">3919.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3920.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3920" data-uslm-ref="/us/usc/t10/s3920">3920.</a>  </td>
 
     <td> More than thirty years: permanent professors and the Director of Admissions of the United States Military Academy.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3921" data-uslm-ref="/us/usc/t10/s3921">3921.</a>  </td>
 
     <td> Mandatory retirement: Superintendent of the United States Military Academy; waiver authority.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [3922, 3923.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3922" data-uslm-ref="/us/usc/t10/s3922">3922</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3923" data-uslm-ref="/us/usc/t10/s3923">3923.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3924.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3924" data-uslm-ref="/us/usc/t10/s3924">3924.</a>  </td>
 
     <td> Forty years or more: Army officers.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3925.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3925" data-uslm-ref="/us/usc/t10/s3925">3925.</a>  </td>
 
     <td> Computation of years of service: voluntary retirement; enlisted members.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 3926.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3926" data-uslm-ref="/us/usc/t10/s3926">3926.</a>  </td>
 
     <td> Computation of years of service: voluntary retirement; regular and reserve commissioned officers.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> [3927, 3928.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3927" data-uslm-ref="/us/usc/t10/s3927">3927</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3928" data-uslm-ref="/us/usc/t10/s3928">3928.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 3929.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3929" data-uslm-ref="/us/usc/t10/s3929">3929.</a>  </td>
 
     <td> Computation of retired pay: law applicable.  </td>
 

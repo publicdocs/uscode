@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 991.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs991" data-uslm-ref="/us/usc/t10/s991">991.</a>  </td>
 
     <td> Management of deployments of members and measurement and data collection of unit operating and personnel tempo.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 992.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs992" data-uslm-ref="/us/usc/t10/s992">992.</a>  </td>
 
     <td> Consumer education: financial services.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 993.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs993" data-uslm-ref="/us/usc/t10/s993">993.</a>  </td>
 
     <td> Notification of permanent reduction of sizable numbers of members of the armed forces.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 994.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs994" data-uslm-ref="/us/usc/t10/s994">994.</a>  </td>
 
     <td> Military working dogs: veterinary care for retired military working dogs.  </td>
 

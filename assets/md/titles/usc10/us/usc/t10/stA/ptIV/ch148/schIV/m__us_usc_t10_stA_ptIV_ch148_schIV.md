@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2521" data-uslm-ref="/us/usc/t10/s2521">2521.</a>  </td>
 
     <td> Manufacturing Technology Program.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2522" data-uslm-ref="/us/usc/t10/s2522">2522.</a>  </td>
 
     <td> Armament retooling and manufacturing.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [2523, 2524.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2523" data-uslm-ref="/us/usc/t10/s2523">2523</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2524" data-uslm-ref="/us/usc/t10/s2524">2524.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [2525.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2525" data-uslm-ref="/us/usc/t10/s2525">2525.</a>  </td>
 
     <td> Renumbered.]  </td>
 

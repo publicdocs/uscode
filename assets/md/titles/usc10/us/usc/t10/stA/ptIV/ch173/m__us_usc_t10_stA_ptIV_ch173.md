@@ -29,31 +29,31 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch173%2FschI" data-uslm-ref="/us/usc/t10/stA/ptIV/ch173/schI">I.</a>  </td>
 
     <td> Energy Security Activities  </td>
 
-    <td> 2911  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2911" data-uslm-ref="/us/usc/t10/s2911">2911</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch173%2FschII" data-uslm-ref="/us/usc/t10/stA/ptIV/ch173/schII">II.</a>  </td>
 
     <td> Energy-Related Procurement  </td>
 
-    <td> 2922  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2922" data-uslm-ref="/us/usc/t10/s2922">2922</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch173%2FschIII" data-uslm-ref="/us/usc/t10/stA/ptIV/ch173/schIII">III.</a>  </td>
 
     <td> General Provisions  </td>
 
-    <td> 2924  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2924" data-uslm-ref="/us/usc/t10/s2924">2924</a>  </td>
 
   </tr>
 

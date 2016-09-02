@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [9711.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9711" data-uslm-ref="/us/usc/t10/s9711">9711.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9712" data-uslm-ref="/us/usc/t10/s9712">9712.</a>  </td>
 
     <td> Disposition of effects of deceased persons by summary court-martial.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [9713.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9713" data-uslm-ref="/us/usc/t10/s9713">9713.</a>  </td>
 
     <td> Repealed.]  </td>
 

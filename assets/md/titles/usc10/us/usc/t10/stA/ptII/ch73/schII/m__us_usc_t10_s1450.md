@@ -183,17 +183,13 @@
 
     (j) __Effective Date of Reserve-Component Annuities.—__ 
 
-        (1) __Persons making section 1448__ 
+        (1) __Persons making section 1448(e) designation.—__ 
 
-            (e) __designation.—__ 
+        A reserve-component annuity shall be effective in accordance with the designation made under [section 1448(e) of this title][/us/usc/t10/s1448/e] by the person providing the annuity.
 
-            A reserve-component annuity shall be effective in accordance with the designation made under [section 1448(e) of this title][/us/usc/t10/s1448/e] by the person providing the annuity.
+        (2) __Persons dying before making section 1448(e) designation.—__ 
 
-        (2) __Persons dying before making section 1448__ 
-
-            (e) __designation.—__ 
-
-            An annuity payable under [section 1448(f) of this title][/us/usc/t10/s1448/f] shall be effective on the day after the date of the death of the person upon whose service the right to the annuity is based.
+        An annuity payable under [section 1448(f) of this title][/us/usc/t10/s1448/f] shall be effective on the day after the date of the death of the person upon whose service the right to the annuity is based.
 
     (k) __Adjustment of Spouse or Former Spouse Annuity Upon Loss of Dependency and Indemnity Compensation.—__ 
 

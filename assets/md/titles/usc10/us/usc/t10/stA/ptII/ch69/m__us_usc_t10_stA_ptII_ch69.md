@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1370.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1370" data-uslm-ref="/us/usc/t10/s1370">1370.</a>  </td>
 
     <td> Commissioned officers: general rule; exceptions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1371" data-uslm-ref="/us/usc/t10/s1371">1371.</a>  </td>
 
     <td> Warrant officers: general rule.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1372" data-uslm-ref="/us/usc/t10/s1372">1372.</a>  </td>
 
     <td> Grade on retirement for physical disability: members of armed forces.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1373.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1373" data-uslm-ref="/us/usc/t10/s1373">1373.</a>  </td>
 
     <td> Higher grade for later physical disability: retired officers recalled to active duty.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [1374.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1374" data-uslm-ref="/us/usc/t10/s1374">1374.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1375.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1375" data-uslm-ref="/us/usc/t10/s1375">1375.</a>  </td>
 
     <td> Entitlement to commission: commissioned officers advanced on retired list.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1376.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1376" data-uslm-ref="/us/usc/t10/s1376">1376.</a>  </td>
 
     <td> Temporary disability retired lists.  </td>
 

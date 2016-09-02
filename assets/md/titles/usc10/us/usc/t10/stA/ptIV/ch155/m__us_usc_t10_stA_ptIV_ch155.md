@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2601" data-uslm-ref="/us/usc/t10/s2601">2601.</a>  </td>
 
     <td> General gift funds.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2601a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2601a" data-uslm-ref="/us/usc/t10/s2601a">2601a.</a>  </td>
 
     <td> Direct acceptance of gifts by members of the armed forces and Department of Defense and Coast Guard employees and their families.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2602" data-uslm-ref="/us/usc/t10/s2602">2602.</a>  </td>
 
     <td> American National Red Cross: cooperation and assistance.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2603" data-uslm-ref="/us/usc/t10/s2603">2603.</a>  </td>
 
     <td> Acceptance of fellowships, scholarships, or grants.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2604" data-uslm-ref="/us/usc/t10/s2604">2604.</a>  </td>
 
     <td> United Seamen’s Service: cooperation and assistance.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2605" data-uslm-ref="/us/usc/t10/s2605">2605.</a>  </td>
 
     <td> Acceptance of gifts for defense dependents’ schools.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2606" data-uslm-ref="/us/usc/t10/s2606">2606.</a>  </td>
 
     <td> Scouting: cooperation and assistance in foreign areas.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2607" data-uslm-ref="/us/usc/t10/s2607">2607.</a>  </td>
 
     <td> Acceptance of gifts for the Defense Intelligence College.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2608" data-uslm-ref="/us/usc/t10/s2608">2608.</a>  </td>
 
     <td> Acceptance of contributions for defense programs, projects, and activities; Defense Cooperation Account.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [2609.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2609" data-uslm-ref="/us/usc/t10/s2609">2609.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2610.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2610" data-uslm-ref="/us/usc/t10/s2610">2610.</a>  </td>
 
     <td> Competitions for excellence: acceptance of monetary awards.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2611" data-uslm-ref="/us/usc/t10/s2611">2611.</a>  </td>
 
     <td> Regional centers for security studies: acceptance of gifts and donations.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2612" data-uslm-ref="/us/usc/t10/s2612">2612.</a>  </td>
 
     <td> National Defense University: acceptance of gifts.  </td>
 
@@ -129,15 +129,15 @@
 
   <tr>
 
-    <td> 2613  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2613" data-uslm-ref="/us/usc/t10/s2613">2613.</a>  </td>
 
-    <td> . Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families.  </td>
+    <td> Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families.  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2614.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2614" data-uslm-ref="/us/usc/t10/s2614">2614.</a>  </td>
 
     <td> Emergency communications equipment: acceptance from local public safety agencies for temporary use related to disasters.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 2615.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2615" data-uslm-ref="/us/usc/t10/s2615">2615.</a>  </td>
 
     <td> Military museums and military education programs: cooperative agreement authority.  </td>
 

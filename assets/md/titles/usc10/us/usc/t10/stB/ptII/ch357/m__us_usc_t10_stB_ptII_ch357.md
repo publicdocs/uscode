@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3741.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3741" data-uslm-ref="/us/usc/t10/s3741">3741.</a>  </td>
 
     <td> Medal of honor: award.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3742.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3742" data-uslm-ref="/us/usc/t10/s3742">3742.</a>  </td>
 
     <td> Distinguished-service cross: award.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3743.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3743" data-uslm-ref="/us/usc/t10/s3743">3743.</a>  </td>
 
     <td> Distinguished-service medal: award.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3744.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3744" data-uslm-ref="/us/usc/t10/s3744">3744.</a>  </td>
 
     <td> Medal of honor; distinguished-service cross; distinguished-service medal: limitations on award.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3745.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3745" data-uslm-ref="/us/usc/t10/s3745">3745.</a>  </td>
 
     <td> Medal of honor; distinguished-service cross; distinguished-service medal: delegation of power to award.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3746.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3746" data-uslm-ref="/us/usc/t10/s3746">3746.</a>  </td>
 
     <td> Silver star: award.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3747.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3747" data-uslm-ref="/us/usc/t10/s3747">3747.</a>  </td>
 
     <td> Medal of honor; distinguished-service cross; distinguished-service medal; silver star: replacement.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3748.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3748" data-uslm-ref="/us/usc/t10/s3748">3748.</a>  </td>
 
     <td> Medal of honor; distinguished-service cross; distinguished-service medal; silver star: availability of appropriations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3749.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3749" data-uslm-ref="/us/usc/t10/s3749">3749.</a>  </td>
 
     <td> Distinguished flying cross: award; limitations.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3750.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3750" data-uslm-ref="/us/usc/t10/s3750">3750.</a>  </td>
 
     <td> Soldier’s Medal: award; limitations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3751.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3751" data-uslm-ref="/us/usc/t10/s3751">3751.</a>  </td>
 
     <td> Service medals: issue; replacement; availability of appropriations.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3752.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3752" data-uslm-ref="/us/usc/t10/s3752">3752.</a>  </td>
 
     <td> Medals: posthumous award and presentation.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 3753.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3753" data-uslm-ref="/us/usc/t10/s3753">3753.</a>  </td>
 
     <td> Civil War battle streamers.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 3754.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3754" data-uslm-ref="/us/usc/t10/s3754">3754.</a>  </td>
 
     <td> Medal of honor: duplicate medal.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 3755.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3755" data-uslm-ref="/us/usc/t10/s3755">3755.</a>  </td>
 
     <td> Medal of honor: presentation of Medal of Honor Flag.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 3756.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3756" data-uslm-ref="/us/usc/t10/s3756">3756.</a>  </td>
 
     <td> Korea Defense Service Medal.  </td>
 

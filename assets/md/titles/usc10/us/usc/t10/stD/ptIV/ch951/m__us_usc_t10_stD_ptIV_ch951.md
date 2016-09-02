@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9801" data-uslm-ref="/us/usc/t10/s9801">9801.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9802" data-uslm-ref="/us/usc/t10/s9802">9802.</a>  </td>
 
     <td> Admiralty claims against the United States.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9803" data-uslm-ref="/us/usc/t10/s9803">9803.</a>  </td>
 
     <td> Admiralty claims by United States.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9804" data-uslm-ref="/us/usc/t10/s9804">9804.</a>  </td>
 
     <td> Salvage claims by United States.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [9805.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9805" data-uslm-ref="/us/usc/t10/s9805">9805.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 9806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9806" data-uslm-ref="/us/usc/t10/s9806">9806.</a>  </td>
 
     <td> Settlement or compromise: final and conclusive.  </td>
 

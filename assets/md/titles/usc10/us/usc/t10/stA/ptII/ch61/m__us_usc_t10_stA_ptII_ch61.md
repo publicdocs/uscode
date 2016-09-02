@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1201" data-uslm-ref="/us/usc/t10/s1201">1201.</a>  </td>
 
     <td> Regulars and members on active duty for more than 30 days: retirement.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1202" data-uslm-ref="/us/usc/t10/s1202">1202.</a>  </td>
 
     <td> Regulars and members on active duty for more than 30 days: temporary disability retired list.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1203" data-uslm-ref="/us/usc/t10/s1203">1203.</a>  </td>
 
     <td> Regulars and members on active duty for more than 30 days: separation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1204" data-uslm-ref="/us/usc/t10/s1204">1204.</a>  </td>
 
     <td> Members on active duty for 30 days or less or on inactive-duty training: retirement.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1205" data-uslm-ref="/us/usc/t10/s1205">1205.</a>  </td>
 
     <td> Members on active duty for 30 days or less: temporary disability retired list.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1206" data-uslm-ref="/us/usc/t10/s1206">1206.</a>  </td>
 
     <td> Members on active duty for 30 days or less or on inactive-duty training: separation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1206a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1206a" data-uslm-ref="/us/usc/t10/s1206a">1206a.</a>  </td>
 
     <td> Reserve component members unable to perform duties when ordered to active duty: disability system processing.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1207" data-uslm-ref="/us/usc/t10/s1207">1207.</a>  </td>
 
     <td> Disability from intentional misconduct or willful neglect: separation.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1207a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1207a" data-uslm-ref="/us/usc/t10/s1207a">1207a.</a>  </td>
 
     <td> Members with over eight years of active service: eligibility for disability retirement for pre-existing conditions.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1208.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1208" data-uslm-ref="/us/usc/t10/s1208">1208.</a>  </td>
 
     <td> Computation of service.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1209.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1209" data-uslm-ref="/us/usc/t10/s1209">1209.</a>  </td>
 
     <td> Transfer to inactive status list instead of separation.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1210.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1210" data-uslm-ref="/us/usc/t10/s1210">1210.</a>  </td>
 
     <td> Members on temporary disability retired list: periodic physical examination; final determination of status.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1211" data-uslm-ref="/us/usc/t10/s1211">1211.</a>  </td>
 
     <td> Members on temporary disability retired list: return to active duty; promotion.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1212" data-uslm-ref="/us/usc/t10/s1212">1212.</a>  </td>
 
     <td> Disability severance pay.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1213" data-uslm-ref="/us/usc/t10/s1213">1213.</a>  </td>
 
     <td> Effect of separation on benefits and claims.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1214" data-uslm-ref="/us/usc/t10/s1214">1214.</a>  </td>
 
     <td> Right to full and fair hearing.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1214a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1214a" data-uslm-ref="/us/usc/t10/s1214a">1214a.</a>  </td>
 
     <td> Members determined fit for duty in Physical Evaluation Board: prohibition on involuntary administrative separation or denial of reenlistment due to unsuitability based on medical conditions considered in evaluation.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1215.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1215" data-uslm-ref="/us/usc/t10/s1215">1215.</a>  </td>
 
     <td> Members other than Regulars: applicability of laws.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 1216.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1216" data-uslm-ref="/us/usc/t10/s1216">1216.</a>  </td>
 
     <td> Secretaries: powers, functions, and duties.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 1216a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1216a" data-uslm-ref="/us/usc/t10/s1216a">1216a.</a>  </td>
 
     <td> Determinations of disability: requirements and limitations on determinations.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 1217.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1217" data-uslm-ref="/us/usc/t10/s1217">1217.</a>  </td>
 
     <td> Academy cadets and midshipmen: applicability of chapter.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 1218.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1218" data-uslm-ref="/us/usc/t10/s1218">1218.</a>  </td>
 
     <td> Discharge or release from active duty: claims for compensation, pension, or hospitalization.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 1218a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1218a" data-uslm-ref="/us/usc/t10/s1218a">1218a.</a>  </td>
 
     <td> Discharge or release from active duty: transition assistance for reserve component members injured while on active duty.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 1219.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1219" data-uslm-ref="/us/usc/t10/s1219">1219.</a>  </td>
 
     <td> Statement of origin of disease or injury: limitations.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> [1220.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1220" data-uslm-ref="/us/usc/t10/s1220">1220.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 1221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1221" data-uslm-ref="/us/usc/t10/s1221">1221.</a>  </td>
 
     <td> Effective date of retirement or placement of name on temporary disability retired list.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 1222.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1222" data-uslm-ref="/us/usc/t10/s1222">1222.</a>  </td>
 
     <td> Physical evaluation boards.  </td>
 

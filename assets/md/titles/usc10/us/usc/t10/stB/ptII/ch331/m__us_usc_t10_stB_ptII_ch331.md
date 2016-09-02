@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3201" data-uslm-ref="/us/usc/t10/s3201">3201.</a>  </td>
 
     <td> Officers on active duty: minimum strength based on requirements.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [3202 to 3207, 3209.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3202" data-uslm-ref="/us/usc/t10/s3202">3202</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3207" data-uslm-ref="/us/usc/t10/s3207">3207</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3209" data-uslm-ref="/us/usc/t10/s3209">3209.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3210.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3210" data-uslm-ref="/us/usc/t10/s3210">3210.</a>  </td>
 
     <td> Regular Army: strength in grade; general officers.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [3211 to 3225, 3230.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3211" data-uslm-ref="/us/usc/t10/s3211">3211</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3225" data-uslm-ref="/us/usc/t10/s3225">3225</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3230" data-uslm-ref="/us/usc/t10/s3230">3230.</a>  </td>
 
     <td> Repealed.]  </td>
 

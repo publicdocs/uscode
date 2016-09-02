@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2181.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2181" data-uslm-ref="/us/usc/t10/s2181">2181.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2182.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2182" data-uslm-ref="/us/usc/t10/s2182">2182.</a>  </td>
 
     <td> Educational assistance: dependents of captives.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2183.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2183" data-uslm-ref="/us/usc/t10/s2183">2183.</a>  </td>
 
     <td> Educational assistance: former captives.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2184.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2184" data-uslm-ref="/us/usc/t10/s2184">2184.</a>  </td>
 
     <td> Termination of assistance.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2185.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2185" data-uslm-ref="/us/usc/t10/s2185">2185.</a>  </td>
 
     <td> Programs to be consistent with programs administered by the Department of Veterans Affairs.  </td>
 

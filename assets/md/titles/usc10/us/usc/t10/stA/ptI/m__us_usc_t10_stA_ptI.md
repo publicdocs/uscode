@@ -29,191 +29,191 @@
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch1" data-uslm-ref="/us/usc/t10/stA/ptI/ch1">1.</a>  </td>
 
     <td> Definitions  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs101" data-uslm-ref="/us/usc/t10/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch2" data-uslm-ref="/us/usc/t10/stA/ptI/ch2">2.</a>  </td>
 
     <td> Department of Defense  </td>
 
-    <td> 111  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs111" data-uslm-ref="/us/usc/t10/s111">111</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch3" data-uslm-ref="/us/usc/t10/stA/ptI/ch3">3.</a>  </td>
 
     <td> General Powers and Functions  </td>
 
-    <td> 121  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs121" data-uslm-ref="/us/usc/t10/s121">121</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch4" data-uslm-ref="/us/usc/t10/stA/ptI/ch4">4.</a>  </td>
 
     <td> Office of the Secretary of Defense  </td>
 
-    <td> 131  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs131" data-uslm-ref="/us/usc/t10/s131">131</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch5" data-uslm-ref="/us/usc/t10/stA/ptI/ch5">5.</a>  </td>
 
     <td> Joint Chiefs of Staff  </td>
 
-    <td> 151  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs151" data-uslm-ref="/us/usc/t10/s151">151</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch6" data-uslm-ref="/us/usc/t10/stA/ptI/ch6">6.</a>  </td>
 
     <td> Combatant Commands  </td>
 
-    <td> 161  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs161" data-uslm-ref="/us/usc/t10/s161">161</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch7" data-uslm-ref="/us/usc/t10/stA/ptI/ch7">7.</a>  </td>
 
     <td> Boards, Councils, and Committees  </td>
 
-    <td> 171  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs171" data-uslm-ref="/us/usc/t10/s171">171</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch8" data-uslm-ref="/us/usc/t10/stA/ptI/ch8">8.</a>  </td>
 
     <td> Defense Agencies and Department of Defense Field Activities  </td>
 
-    <td> 191  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs191" data-uslm-ref="/us/usc/t10/s191">191</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch9" data-uslm-ref="/us/usc/t10/stA/ptI/ch9">9.</a>  </td>
 
     <td> Defense Budget Matters  </td>
 
-    <td> 221  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs221" data-uslm-ref="/us/usc/t10/s221">221</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch11" data-uslm-ref="/us/usc/t10/stA/ptI/ch11">11.</a>  </td>
 
     <td> Reserve Components  </td>
 
-    <td> 261  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs261" data-uslm-ref="/us/usc/t10/s261">261</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch13" data-uslm-ref="/us/usc/t10/stA/ptI/ch13">13.</a>  </td>
 
     <td> The Militia  </td>
 
-    <td> 311  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs311" data-uslm-ref="/us/usc/t10/s311">311</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch15" data-uslm-ref="/us/usc/t10/stA/ptI/ch15">15.</a>  </td>
 
     <td> Insurrection  </td>
 
-    <td> 331  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs331" data-uslm-ref="/us/usc/t10/s331">331</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 17.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch17" data-uslm-ref="/us/usc/t10/stA/ptI/ch17">17.</a>  </td>
 
     <td> Arming of American Vessels  </td>
 
-    <td> 351  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs351" data-uslm-ref="/us/usc/t10/s351">351</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 18.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch18" data-uslm-ref="/us/usc/t10/stA/ptI/ch18">18.</a>  </td>
 
     <td> Military Support for Civilian Law Enforcement Agencies  </td>
 
-    <td> 371  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs371" data-uslm-ref="/us/usc/t10/s371">371</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 20.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch20" data-uslm-ref="/us/usc/t10/stA/ptI/ch20">20.</a>  </td>
 
     <td> Humanitarian and Other Assistance  </td>
 
-    <td> 401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs401" data-uslm-ref="/us/usc/t10/s401">401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch21" data-uslm-ref="/us/usc/t10/stA/ptI/ch21">21.</a>  </td>
 
     <td> Department of Defense Intelligence Matters  </td>
 
-    <td> 421  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs421" data-uslm-ref="/us/usc/t10/s421">421</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 22.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch22" data-uslm-ref="/us/usc/t10/stA/ptI/ch22">22.</a>  </td>
 
     <td> National Geospatial  -  Intelligence Agency  </td>
 
-    <td> 441  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs441" data-uslm-ref="/us/usc/t10/s441">441</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch23" data-uslm-ref="/us/usc/t10/stA/ptI/ch23">23.</a>  </td>
 
     <td> Miscellaneous Studies and Reports  </td>
 
-    <td> 480  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs480" data-uslm-ref="/us/usc/t10/s480">480</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 24.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch24" data-uslm-ref="/us/usc/t10/stA/ptI/ch24">24.</a>  </td>
 
     <td> Nuclear posture  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>   </td>
 
-    <td> 491  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs491" data-uslm-ref="/us/usc/t10/s491">491</a>  </td>
 
   </tr>
 

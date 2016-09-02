@@ -29,27 +29,27 @@
 
   <tr>
 
-    <td> 401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIII%2Fch401" data-uslm-ref="/us/usc/t10/stB/ptIII/ch401">401.</a>  </td>
 
     <td> Training Generally  </td>
 
-    <td> 4301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4301" data-uslm-ref="/us/usc/t10/s4301">4301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIII%2Fch403" data-uslm-ref="/us/usc/t10/stB/ptIII/ch403">403.</a>  </td>
 
     <td> United States Military Academy  </td>
 
-    <td> 4331  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4331" data-uslm-ref="/us/usc/t10/s4331">4331</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [405.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIII%2Fch405" data-uslm-ref="/us/usc/t10/stB/ptIII/ch405">405.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -59,11 +59,11 @@
 
   <tr>
 
-    <td> 407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIII%2Fch407" data-uslm-ref="/us/usc/t10/stB/ptIII/ch407">407.</a>  </td>
 
     <td> Schools and Camps  </td>
 
-    <td> 4411  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4411" data-uslm-ref="/us/usc/t10/s4411">4411</a>  </td>
 
   </tr>
 

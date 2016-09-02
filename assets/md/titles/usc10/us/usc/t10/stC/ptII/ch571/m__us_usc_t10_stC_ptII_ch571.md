@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6321" data-uslm-ref="/us/usc/t10/s6321">6321.</a>  </td>
 
     <td> Officers: 40 years.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6322" data-uslm-ref="/us/usc/t10/s6322">6322.</a>  </td>
 
     <td> Officers: 30 years.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6323" data-uslm-ref="/us/usc/t10/s6323">6323.</a>  </td>
 
     <td> Officers: 20 years.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6324" data-uslm-ref="/us/usc/t10/s6324">6324.</a>  </td>
 
     <td> Officers: creditable service.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6325" data-uslm-ref="/us/usc/t10/s6325">6325.</a>  </td>
 
     <td> Officers: retired grade and pay.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6326" data-uslm-ref="/us/usc/t10/s6326">6326.</a>  </td>
 
     <td> Enlisted members: 30 years.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6327" data-uslm-ref="/us/usc/t10/s6327">6327.</a>  </td>
 
     <td> Officers and enlisted members of the Navy Reserve and Marine Corps Reserve: 30 years; 20 years; retired pay.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6328.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6328" data-uslm-ref="/us/usc/t10/s6328">6328.</a>  </td>
 
     <td> Computation of years of service: voluntary retirement.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 6329.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6329" data-uslm-ref="/us/usc/t10/s6329">6329.</a>  </td>
 
     <td> Officers not to be retired for misconduct.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 6330.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6330" data-uslm-ref="/us/usc/t10/s6330">6330.</a>  </td>
 
     <td> Enlisted members: transfer to Fleet Reserve and Fleet Marine Corps Reserve; retainer pay.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 6331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6331" data-uslm-ref="/us/usc/t10/s6331">6331.</a>  </td>
 
     <td> Members of the Fleet Reserve and Fleet Marine Corps Reserve: transfer to the retired list; retired pay.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 6332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6332" data-uslm-ref="/us/usc/t10/s6332">6332.</a>  </td>
 
     <td> Conclusiveness of transfers.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 6333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6333" data-uslm-ref="/us/usc/t10/s6333">6333.</a>  </td>
 
     <td> Computation of retired and retainer pay.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 6334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6334" data-uslm-ref="/us/usc/t10/s6334">6334.</a>  </td>
 
     <td> Higher grade after 30 years of service: warrant officers and enlisted members.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 6335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6335" data-uslm-ref="/us/usc/t10/s6335">6335.</a>  </td>
 
     <td> Restoration to former grade: warrant officers and enlisted members.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 6336.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6336" data-uslm-ref="/us/usc/t10/s6336">6336.</a>  </td>
 
     <td> Highest grade held satisfactorily: Reserve enlisted members reduced in grade not as a result of the member’s misconduct.  </td>
 

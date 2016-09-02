@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 12501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12501" data-uslm-ref="/us/usc/t10/s12501">12501.</a>  </td>
 
     <td> Reserve components: detail of members of regular and reserve components to assist.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 12502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12502" data-uslm-ref="/us/usc/t10/s12502">12502.</a>  </td>
 
     <td> Chief and assistant chief of staff of National Guard divisions and wings in Federal service: detail.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 12503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12503" data-uslm-ref="/us/usc/t10/s12503">12503.</a>  </td>
 
     <td> Ready Reserve: funeral honors duty.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [12505.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12505" data-uslm-ref="/us/usc/t10/s12505">12505.</a>  </td>
 
     <td> Repealed.]  </td>
 

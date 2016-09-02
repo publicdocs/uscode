@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 261.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs261" data-uslm-ref="/us/usc/t10/s261">261.</a>  </td>
 
     <td> Reference to chapters 1003, 1005, and 1007.  </td>
 

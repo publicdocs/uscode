@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 12301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12301" data-uslm-ref="/us/usc/t10/s12301">12301.</a>  </td>
 
     <td> Reserve components generally.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 12302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12302" data-uslm-ref="/us/usc/t10/s12302">12302.</a>  </td>
 
     <td> Ready Reserve.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 12303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12303" data-uslm-ref="/us/usc/t10/s12303">12303.</a>  </td>
 
     <td> Ready Reserve: members not assigned to, or participating satisfactorily in, units.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 12304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12304" data-uslm-ref="/us/usc/t10/s12304">12304.</a>  </td>
 
     <td> Selected Reserve and certain Individual Ready Reserve members; order to active duty other than during war or national emergency.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 12304a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12304a" data-uslm-ref="/us/usc/t10/s12304a">12304a.</a>  </td>
 
     <td> Army Reserve, Navy Reserve, Marine Corps Reserve, Air Force Reserve: order to active duty to provide assistance in response to a major disaster or emergency.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 12304b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12304b" data-uslm-ref="/us/usc/t10/s12304b">12304b.</a>  </td>
 
     <td> Selected Reserve: order to active duty for preplanned missions in support of the combatant commands.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 12305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12305" data-uslm-ref="/us/usc/t10/s12305">12305.</a>  </td>
 
     <td> Authority of President to suspend certain laws relating to promotion, retirement, and separation.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 12306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12306" data-uslm-ref="/us/usc/t10/s12306">12306.</a>  </td>
 
     <td> Standby Reserve.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 12307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12307" data-uslm-ref="/us/usc/t10/s12307">12307.</a>  </td>
 
     <td> Retired Reserve.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 12308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12308" data-uslm-ref="/us/usc/t10/s12308">12308.</a>  </td>
 
     <td> Retention after becoming qualified for retired pay.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 12309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12309" data-uslm-ref="/us/usc/t10/s12309">12309.</a>  </td>
 
     <td> Reserve officers: use of in expansion of armed forces.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 12310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12310" data-uslm-ref="/us/usc/t10/s12310">12310.</a>  </td>
 
     <td> Reserves: for organizing, administering, etc., reserve components.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 12311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12311" data-uslm-ref="/us/usc/t10/s12311">12311.</a>  </td>
 
     <td> Active duty agreements.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 12312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12312" data-uslm-ref="/us/usc/t10/s12312">12312.</a>  </td>
 
     <td> Active duty agreements: release from duty.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 12313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12313" data-uslm-ref="/us/usc/t10/s12313">12313.</a>  </td>
 
     <td> Reserves: release from active duty.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 12314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12314" data-uslm-ref="/us/usc/t10/s12314">12314.</a>  </td>
 
     <td> Reserves: kinds of duty.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 12315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12315" data-uslm-ref="/us/usc/t10/s12315">12315.</a>  </td>
 
     <td> Reserves: duty with or without pay.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 12316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12316" data-uslm-ref="/us/usc/t10/s12316">12316.</a>  </td>
 
     <td> Payment of certain Reserves while on duty.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 12317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12317" data-uslm-ref="/us/usc/t10/s12317">12317.</a>  </td>
 
     <td> Reserves: theological students; limitations.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 12318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12318" data-uslm-ref="/us/usc/t10/s12318">12318.</a>  </td>
 
     <td> Reserves on active duty: duties; funding.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 12319.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12319" data-uslm-ref="/us/usc/t10/s12319">12319.</a>  </td>
 
     <td> Ready Reserve: muster duty.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 12320.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12320" data-uslm-ref="/us/usc/t10/s12320">12320.</a>  </td>
 
     <td> Reserve officers: grade in which ordered to active duty.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 12321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12321" data-uslm-ref="/us/usc/t10/s12321">12321.</a>  </td>
 
     <td> Reserve Officer Training Corps units: limitation on number of Reserves assigned.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 12322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12322" data-uslm-ref="/us/usc/t10/s12322">12322.</a>  </td>
 
     <td> Active duty for health care.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 12323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12323" data-uslm-ref="/us/usc/t10/s12323">12323.</a>  </td>
 
     <td> Active duty pending line of duty determination required for response to sexual assault.  </td>
 

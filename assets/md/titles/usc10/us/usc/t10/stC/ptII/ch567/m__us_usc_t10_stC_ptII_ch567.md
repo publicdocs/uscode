@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6241" data-uslm-ref="/us/usc/t10/s6241">6241.</a>  </td>
 
     <td> Medal of honor.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6242.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6242" data-uslm-ref="/us/usc/t10/s6242">6242.</a>  </td>
 
     <td> Navy cross.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6243.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6243" data-uslm-ref="/us/usc/t10/s6243">6243.</a>  </td>
 
     <td> Distinguished-service medal.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6244.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6244" data-uslm-ref="/us/usc/t10/s6244">6244.</a>  </td>
 
     <td> Silver star medal.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6245.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6245" data-uslm-ref="/us/usc/t10/s6245">6245.</a>  </td>
 
     <td> Distinguished flying cross.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6246.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6246" data-uslm-ref="/us/usc/t10/s6246">6246.</a>  </td>
 
     <td> Navy and Marine Corps Medal.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6247.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6247" data-uslm-ref="/us/usc/t10/s6247">6247.</a>  </td>
 
     <td> Additional awards.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6248.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6248" data-uslm-ref="/us/usc/t10/s6248">6248.</a>  </td>
 
     <td> Limitations of time.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 6249.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6249" data-uslm-ref="/us/usc/t10/s6249">6249.</a>  </td>
 
     <td> Limitation of honorable service.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 6250.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6250" data-uslm-ref="/us/usc/t10/s6250">6250.</a>  </td>
 
     <td> Posthumous awards.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 6251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6251" data-uslm-ref="/us/usc/t10/s6251">6251.</a>  </td>
 
     <td> Delegation of power to award.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 6252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6252" data-uslm-ref="/us/usc/t10/s6252">6252.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 6253.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6253" data-uslm-ref="/us/usc/t10/s6253">6253.</a>  </td>
 
     <td> Replacement.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 6254.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6254" data-uslm-ref="/us/usc/t10/s6254">6254.</a>  </td>
 
     <td> Availability of appropriations.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 6255.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6255" data-uslm-ref="/us/usc/t10/s6255">6255.</a>  </td>
 
     <td> Commemorative or special medals: facsimiles and ribbons.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 6256.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6256" data-uslm-ref="/us/usc/t10/s6256">6256.</a>  </td>
 
     <td> Medal of honor: duplicate medal.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 6257.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6257" data-uslm-ref="/us/usc/t10/s6257">6257.</a>  </td>
 
     <td> Medal of honor: presentation of Medal of Honor Flag.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 6258.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs6258" data-uslm-ref="/us/usc/t10/s6258">6258.</a>  </td>
 
     <td> Korea Defense Service Medal.  </td>
 

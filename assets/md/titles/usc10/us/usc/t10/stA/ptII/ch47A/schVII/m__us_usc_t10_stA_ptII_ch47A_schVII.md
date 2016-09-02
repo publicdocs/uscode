@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 950a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs950a" data-uslm-ref="/us/usc/t10/s950a">950a.</a>  </td>
 
     <td> Error of law; lesser included offense.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 950b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs950b" data-uslm-ref="/us/usc/t10/s950b">950b.</a>  </td>
 
     <td> Review by the convening authority.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 950c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs950c" data-uslm-ref="/us/usc/t10/s950c">950c.</a>  </td>
 
     <td> Appellate referral; waiver or withdrawal of appeal.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 950d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs950d" data-uslm-ref="/us/usc/t10/s950d">950d.</a>  </td>
 
     <td> Interlocutory appeals by the United States.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 950e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs950e" data-uslm-ref="/us/usc/t10/s950e">950e.</a>  </td>
 
     <td> Rehearings.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 950f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs950f" data-uslm-ref="/us/usc/t10/s950f">950f.</a>  </td>
 
     <td> Review by United States Court of Military Commission Review.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 950g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs950g" data-uslm-ref="/us/usc/t10/s950g">950g.</a>  </td>
 
     <td> Review by United States Court of Court of Appeals for the District of Columbia Circuit; writ of certiorari to Supreme Court. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 950h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs950h" data-uslm-ref="/us/usc/t10/s950h">950h.</a>  </td>
 
     <td> Appellate counsel.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 950i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs950i" data-uslm-ref="/us/usc/t10/s950i">950i.</a>  </td>
 
     <td> Execution of sentence; suspension of sentence.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 950j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs950j" data-uslm-ref="/us/usc/t10/s950j">950j.</a>  </td>
 
     <td> Finality of proceedings, findings, and sentences.  </td>
 

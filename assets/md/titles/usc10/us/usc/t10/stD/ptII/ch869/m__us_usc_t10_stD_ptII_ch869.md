@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8961.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8961" data-uslm-ref="/us/usc/t10/s8961">8961.</a>  </td>
 
     <td> General rule.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8962.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8962" data-uslm-ref="/us/usc/t10/s8962">8962.</a>  </td>
 
     <td> Higher grade for service in special positions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8963.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8963" data-uslm-ref="/us/usc/t10/s8963">8963.</a>  </td>
 
     <td> Highest grade held satisfactorily: Reserve enlisted members reduced in grade not as a result of the member’s misconduct.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8964.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8964" data-uslm-ref="/us/usc/t10/s8964">8964.</a>  </td>
 
     <td> Higher grade after 30 years of service: warrant officers and enlisted members.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8965.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8965" data-uslm-ref="/us/usc/t10/s8965">8965.</a>  </td>
 
     <td> Restoration to former grade: retired warrant officers and enlisted members.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 8966.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs8966" data-uslm-ref="/us/usc/t10/s8966">8966.</a>  </td>
 
     <td> Retired lists.  </td>
 

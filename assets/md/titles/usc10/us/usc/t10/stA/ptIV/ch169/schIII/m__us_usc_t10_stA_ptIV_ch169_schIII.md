@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2851.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2851" data-uslm-ref="/us/usc/t10/s2851">2851.</a>  </td>
 
     <td> Supervision of military construction projects.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2852.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2852" data-uslm-ref="/us/usc/t10/s2852">2852.</a>  </td>
 
     <td> Military construction projects: waiver of certain restrictions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2853.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2853" data-uslm-ref="/us/usc/t10/s2853">2853.</a>  </td>
 
     <td> Authorized cost and scope of work variations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2854.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2854" data-uslm-ref="/us/usc/t10/s2854">2854.</a>  </td>
 
     <td> Restoration or replacement of damaged or destroyed facilities.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2854a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2854a" data-uslm-ref="/us/usc/t10/s2854a">2854a.</a>  </td>
 
     <td> Conveyance of damaged or deteriorated military family housing; use of proceeds.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2855.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2855" data-uslm-ref="/us/usc/t10/s2855">2855.</a>  </td>
 
     <td> Law applicable to contracts for architectural and engineering services and construction design.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2856.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2856" data-uslm-ref="/us/usc/t10/s2856">2856.</a>  </td>
 
     <td> Military unaccompanied housing: local comparability of floor areas.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> [2857.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2857" data-uslm-ref="/us/usc/t10/s2857">2857.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2858.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2858" data-uslm-ref="/us/usc/t10/s2858">2858.</a>  </td>
 
     <td> Limitation on the use of funds for expediting a construction project.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2859.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2859" data-uslm-ref="/us/usc/t10/s2859">2859.</a>  </td>
 
     <td> Construction requirements related to antiterrorism and force protection or urban-training operations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2860.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2860" data-uslm-ref="/us/usc/t10/s2860">2860.</a>  </td>
 
     <td> Availability of appropriations.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2861.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2861" data-uslm-ref="/us/usc/t10/s2861">2861.</a>  </td>
 
     <td> Military construction projects in connection with industrial facility investment program.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2862.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2862" data-uslm-ref="/us/usc/t10/s2862">2862.</a>  </td>
 
     <td> Turn-key selection procedures.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2863.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2863" data-uslm-ref="/us/usc/t10/s2863">2863.</a>  </td>
 
     <td> Payment of contractor claims.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2864.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2864" data-uslm-ref="/us/usc/t10/s2864">2864.</a>  </td>
 
     <td> Master plans for major military installations.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> [2865.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2865" data-uslm-ref="/us/usc/t10/s2865">2865.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 2866.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2866" data-uslm-ref="/us/usc/t10/s2866">2866.</a>  </td>
 
     <td> Water conservation at military installations.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 2867.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2867" data-uslm-ref="/us/usc/t10/s2867">2867.</a>  </td>
 
     <td> Energy monitoring and utility control system specification for military construction and military family housing activities.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 2868.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2868" data-uslm-ref="/us/usc/t10/s2868">2868.</a>  </td>
 
     <td> Utility services: furnishing for certain buildings.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 2869.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2869" data-uslm-ref="/us/usc/t10/s2869">2869.</a>  </td>
 
     <td> Exchange of property at military installations.  </td>
 

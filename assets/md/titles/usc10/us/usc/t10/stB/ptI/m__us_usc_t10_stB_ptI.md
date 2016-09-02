@@ -29,41 +29,41 @@
 
   <tr>
 
-    <td> 301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptI%2Fch301" data-uslm-ref="/us/usc/t10/stB/ptI/ch301">301.</a>  </td>
 
     <td> Definitions  </td>
 
-    <td> 3001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3001" data-uslm-ref="/us/usc/t10/s3001">3001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptI%2Fch303" data-uslm-ref="/us/usc/t10/stB/ptI/ch303">303.</a>  </td>
 
     <td> Department of the Army  </td>
 
-    <td> 3011  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3011" data-uslm-ref="/us/usc/t10/s3011">3011</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptI%2Fch305" data-uslm-ref="/us/usc/t10/stB/ptI/ch305">305.</a>  </td>
 
     <td> The Army Staff  </td>
 
-    <td> 3031  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3031" data-uslm-ref="/us/usc/t10/s3031">3031</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstB%2FptI%2Fch307" data-uslm-ref="/us/usc/t10/stB/ptI/ch307">307.</a>  </td>
 
     <td> The Army  </td>
 
-    <td> 3061  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3061" data-uslm-ref="/us/usc/t10/s3061">3061</a>  </td>
 
   </tr>
 

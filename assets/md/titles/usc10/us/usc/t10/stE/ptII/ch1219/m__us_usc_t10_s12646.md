@@ -201,7 +201,7 @@ Sept. 3, 1954, ch. 1257, §§ 102(1) (as applicable to § 205), 205, 307(c),
 
  __Effective Date of 1994 Amendment__ 
 
-    Amendment by sections 1662(h)(2) and 1675(d)(3)(A) of [Pub. L. 103–337][/us/pl/103/337] effective Dec. 1, 1994, except as otherwise provided, and amendment by section 1675(d)(3)(B), (C) of of [Pub. L. 103–337][/us/pl/103/337] effective Oct. 1, 1996, see [section 1691 of Pub. L. 103–337][/us/pl/103/337/s1691], set out as an Effective Date note under [section 10001 of this title][/us/usc/t10/s10001].
+    Amendment by sections 1662(h)(2) and 1675(d)(3)(A) of [Pub. L. 103–337][/us/pl/103/337] effective Dec. 1, 1994, except as otherwise provided, and amendment by section 1675(d)(3)(B), (C) of [Pub. L. 103–337][/us/pl/103/337] effective Oct. 1, 1996, see [section 1691 of Pub. L. 103–337][/us/pl/103/337/s1691], set out as an Effective Date note under [section 10001 of this title][/us/usc/t10/s10001].
 
  __Effective Date of 1980 Amendment__ 
 

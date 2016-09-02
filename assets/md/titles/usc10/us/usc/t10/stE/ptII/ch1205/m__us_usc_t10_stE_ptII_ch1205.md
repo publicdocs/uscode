@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 12201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12201" data-uslm-ref="/us/usc/t10/s12201">12201.</a>  </td>
 
     <td> Reserve officers: qualifications for appointment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 12202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12202" data-uslm-ref="/us/usc/t10/s12202">12202.</a>  </td>
 
     <td> Commissioned officer grades.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 12203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12203" data-uslm-ref="/us/usc/t10/s12203">12203.</a>  </td>
 
     <td> Commissioned officers: appointment, how made; term.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 12204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12204" data-uslm-ref="/us/usc/t10/s12204">12204.</a>  </td>
 
     <td> Commissioned officers: original appointment; limitation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 12205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12205" data-uslm-ref="/us/usc/t10/s12205">12205.</a>  </td>
 
     <td> Commissioned officers: appointment; educational requirement.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 12206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12206" data-uslm-ref="/us/usc/t10/s12206">12206.</a>  </td>
 
     <td> Commissioned officers: appointment of former commissioned officers.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 12207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12207" data-uslm-ref="/us/usc/t10/s12207">12207.</a>  </td>
 
     <td> Commissioned officers: service credit upon original appointment.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 12208.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12208" data-uslm-ref="/us/usc/t10/s12208">12208.</a>  </td>
 
     <td> Officers: appointment upon transfer.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 12209.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12209" data-uslm-ref="/us/usc/t10/s12209">12209.</a>  </td>
 
     <td> Officer candidates: enlisted Reserves.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 12210.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12210" data-uslm-ref="/us/usc/t10/s12210">12210.</a>  </td>
 
     <td> Attending Physician to the Congress: reserve grade.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 12211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12211" data-uslm-ref="/us/usc/t10/s12211">12211.</a>  </td>
 
     <td> Officers: Army National Guard of the United States.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 12212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12212" data-uslm-ref="/us/usc/t10/s12212">12212.</a>  </td>
 
     <td> Officers: Air National Guard of the United States.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 12213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12213" data-uslm-ref="/us/usc/t10/s12213">12213.</a>  </td>
 
     <td> Officers; Army Reserve: transfer from Army National Guard of the United States.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 12214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12214" data-uslm-ref="/us/usc/t10/s12214">12214.</a>  </td>
 
     <td> Officers; Air Force Reserve: transfer from Air National Guard of the United States.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 12215.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12215" data-uslm-ref="/us/usc/t10/s12215">12215.</a>  </td>
 
     <td> Commissioned officers: reserve grade of adjutants general and assistant adjutants general.  </td>
 

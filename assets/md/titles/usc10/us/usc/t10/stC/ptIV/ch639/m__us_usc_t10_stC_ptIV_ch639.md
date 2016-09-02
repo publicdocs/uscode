@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [7391 to 7394.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7391" data-uslm-ref="/us/usc/t10/s7391">7391</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7394" data-uslm-ref="/us/usc/t10/s7394">7394.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7395.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7395" data-uslm-ref="/us/usc/t10/s7395">7395.</a>  </td>
 
     <td> Naval Observatory: administration.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7396.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7396" data-uslm-ref="/us/usc/t10/s7396">7396.</a>  </td>
 
     <td> Naval Observatory: exchange of information with foreign offices.  </td>
 

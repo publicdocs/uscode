@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3031.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3031" data-uslm-ref="/us/usc/t10/s3031">3031.</a>  </td>
 
     <td> The Army Staff: function; composition.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3032.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3032" data-uslm-ref="/us/usc/t10/s3032">3032.</a>  </td>
 
     <td> The Army Staff: general duties.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3033.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3033" data-uslm-ref="/us/usc/t10/s3033">3033.</a>  </td>
 
     <td> Chief of Staff.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3034.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3034" data-uslm-ref="/us/usc/t10/s3034">3034.</a>  </td>
 
     <td> Vice Chief of Staff.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3035.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3035" data-uslm-ref="/us/usc/t10/s3035">3035.</a>  </td>
 
     <td> Deputy Chiefs of Staff and Assistant Chiefs of Staff.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3036.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3036" data-uslm-ref="/us/usc/t10/s3036">3036.</a>  </td>
 
     <td> Chiefs of branches: appointment; duties.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3037.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3037" data-uslm-ref="/us/usc/t10/s3037">3037.</a>  </td>
 
     <td> Judge Advocate General, Deputy Judge Advocate General, and general officers of Judge Advocate General’s Corps: appointment; duties.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3038.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3038" data-uslm-ref="/us/usc/t10/s3038">3038.</a>  </td>
 
     <td> Office of Army Reserve: appointment of Chief.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3039.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3039" data-uslm-ref="/us/usc/t10/s3039">3039.</a>  </td>
 
     <td> Deputy and assistant chiefs of branches.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [3040.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3040" data-uslm-ref="/us/usc/t10/s3040">3040.</a>  </td>
 
     <td> Repealed.]  </td>
 

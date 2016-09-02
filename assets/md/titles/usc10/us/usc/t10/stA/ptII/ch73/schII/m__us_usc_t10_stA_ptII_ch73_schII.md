@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1447.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1447" data-uslm-ref="/us/usc/t10/s1447">1447.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1448.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1448" data-uslm-ref="/us/usc/t10/s1448">1448.</a>  </td>
 
     <td> Application of Plan.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1448a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1448a" data-uslm-ref="/us/usc/t10/s1448a">1448a.</a>  </td>
 
     <td> Election to discontinue participation: one-year opportunity after second anniversary of commencement of payment of retired pay.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1449.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1449" data-uslm-ref="/us/usc/t10/s1449">1449.</a>  </td>
 
     <td> Mental incompetency of member.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1450.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1450" data-uslm-ref="/us/usc/t10/s1450">1450.</a>  </td>
 
     <td> Payment of annuity: beneficiaries.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1451" data-uslm-ref="/us/usc/t10/s1451">1451.</a>  </td>
 
     <td> Amount of annuity.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1452" data-uslm-ref="/us/usc/t10/s1452">1452.</a>  </td>
 
     <td> Reduction in retired pay.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1453" data-uslm-ref="/us/usc/t10/s1453">1453.</a>  </td>
 
     <td> Recovery of amounts erroneously paid.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1454.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1454" data-uslm-ref="/us/usc/t10/s1454">1454.</a>  </td>
 
     <td> Correction of administrative errors.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1455.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1455" data-uslm-ref="/us/usc/t10/s1455">1455.</a>  </td>
 
     <td> Regulations.  </td>
 

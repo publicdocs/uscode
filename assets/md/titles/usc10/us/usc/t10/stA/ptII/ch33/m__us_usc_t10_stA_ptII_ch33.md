@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs531" data-uslm-ref="/us/usc/t10/s531">531.</a>  </td>
 
     <td> Original appointments of commissioned officers.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs532" data-uslm-ref="/us/usc/t10/s532">532.</a>  </td>
 
     <td> Qualifications for original appointment as a commissioned officer.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs533" data-uslm-ref="/us/usc/t10/s533">533.</a>  </td>
 
     <td> Service credit upon original appointment as a commissioned officer.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs541" data-uslm-ref="/us/usc/t10/s541">541.</a>  </td>
 
     <td> Graduates of the United States Military, Naval, and Air Force Academies.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [555 to 565.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs555" data-uslm-ref="/us/usc/t10/s555">555</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs565" data-uslm-ref="/us/usc/t10/s565">565.</a>  </td>
 
     <td> Repealed.]  </td>
 

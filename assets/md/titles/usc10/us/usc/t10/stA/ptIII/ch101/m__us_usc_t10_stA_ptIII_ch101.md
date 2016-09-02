@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [2001.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2001" data-uslm-ref="/us/usc/t10/s2001">2001.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2002" data-uslm-ref="/us/usc/t10/s2002">2002.</a>  </td>
 
     <td> Dependents of members of armed forces: language training.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2003" data-uslm-ref="/us/usc/t10/s2003">2003.</a>  </td>
 
     <td> Aeronautical rating as pilot: qualifications.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2004" data-uslm-ref="/us/usc/t10/s2004">2004.</a>  </td>
 
     <td> Detail of commissioned officers as students at law schools.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2004a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2004a" data-uslm-ref="/us/usc/t10/s2004a">2004a.</a>  </td>
 
     <td> Detail of commissioned officers as students at medical schools.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2004b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2004b" data-uslm-ref="/us/usc/t10/s2004b">2004b.</a>  </td>
 
     <td> Detail of commissioned officers as students at schools of psychology.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2005" data-uslm-ref="/us/usc/t10/s2005">2005.</a>  </td>
 
     <td> Advanced education assistance: active duty agreement; reimbursement requirements.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2006" data-uslm-ref="/us/usc/t10/s2006">2006.</a>  </td>
 
     <td> Department of Defense Education Benefits Fund.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2007" data-uslm-ref="/us/usc/t10/s2007">2007.</a>  </td>
 
     <td> Payment of tuition for off-duty training or education.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2008.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2008" data-uslm-ref="/us/usc/t10/s2008">2008.</a>  </td>
 
     <td> Authority to use funds for certain educational purposes.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2009.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2009" data-uslm-ref="/us/usc/t10/s2009">2009.</a>  </td>
 
     <td> Military colleges: female students.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2010.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2010" data-uslm-ref="/us/usc/t10/s2010">2010.</a>  </td>
 
     <td> Participation of developing countries in combined exercises: payment of incremental expenses.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2011" data-uslm-ref="/us/usc/t10/s2011">2011.</a>  </td>
 
     <td> Special operations forces: training with friendly foreign forces.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2012" data-uslm-ref="/us/usc/t10/s2012">2012.</a>  </td>
 
     <td> Support and services for eligible organizations and activities outside Department of Defense.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2013" data-uslm-ref="/us/usc/t10/s2013">2013.</a>  </td>
 
     <td> Training at non-Government facilities.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 2014.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2014" data-uslm-ref="/us/usc/t10/s2014">2014.</a>  </td>
 
     <td> Administrative actions adversely affecting military training or other readiness activities.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 2015.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2015" data-uslm-ref="/us/usc/t10/s2015">2015.</a>  </td>
 
     <td> Payment of expenses to obtain professional credentials.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 2016.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2016" data-uslm-ref="/us/usc/t10/s2016">2016.</a>  </td>
 
     <td> Undergraduate nurse training program: establishment through agreement with academic institution.  </td>
 

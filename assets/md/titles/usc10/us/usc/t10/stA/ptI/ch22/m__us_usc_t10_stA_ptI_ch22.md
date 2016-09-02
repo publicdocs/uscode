@@ -29,41 +29,41 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch22%2FschI" data-uslm-ref="/us/usc/t10/stA/ptI/ch22/schI">I.</a>  </td>
 
     <td> Missions and Authority  </td>
 
-    <td> 441  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs441" data-uslm-ref="/us/usc/t10/s441">441</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch22%2FschII" data-uslm-ref="/us/usc/t10/stA/ptI/ch22/schII">II.</a>  </td>
 
     <td> Maps, Charts, and Geodetic Products  </td>
 
-    <td> 451  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs451" data-uslm-ref="/us/usc/t10/s451">451</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch22%2FschIII" data-uslm-ref="/us/usc/t10/stA/ptI/ch22/schIII">III.</a>  </td>
 
     <td> Personnel Management  </td>
 
-    <td> 461  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs461" data-uslm-ref="/us/usc/t10/s461">461</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch22%2FschIV" data-uslm-ref="/us/usc/t10/stA/ptI/ch22/schIV">IV.</a>  </td>
 
     <td> Definitions  </td>
 
-    <td> 467  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs467" data-uslm-ref="/us/usc/t10/s467">467</a>  </td>
 
   </tr>
 

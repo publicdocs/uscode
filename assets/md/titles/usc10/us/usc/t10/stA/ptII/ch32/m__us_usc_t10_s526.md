@@ -19,13 +19,13 @@
 
     The number of general officers on active duty in the Army, Air Force, and Marine Corps, and the number of flag officers on active duty in the Navy, may not exceed the number specified for the armed force concerned as follows:
 
-        (1) For the Army, 230.
+        (1) For the Army, 231.
 
         (2) For the Navy, 162.
 
-        (3) For the Air Force, 208.
+        (3) For the Air Force, 198.
 
-        (4) For the Marine Corps, 60.
+        (4) For the Marine Corps, 61.
 
     (b) __Limited Exclusion for Joint Duty Requirements.—__ 
 
@@ -39,7 +39,7 @@
 
             (B) For the Navy, 61.
 
-            (C) For the Air Force, 76.
+            (C) For the Air Force, 73.
 
             (D) For the Marine Corps, 21.
 
@@ -103,24 +103,6 @@
 
 (Added [Pub. L. 100–370, § 1(b)(1)(B)][/us/pl/100/370/s1/b/1/B], July 19, 1988, [102 Stat. 840][/us/stat/102/840]; amended [Pub. L. 101–510, div. A, title IV, § 403(a)][/us/pl/101/510/s403/a], Nov. 5, 1990, [104 Stat. 1545][/us/stat/104/1545]; [Pub. L. 102–484, div. A, title IV, § 403][/us/pl/102/484/s403], Oct. 23, 1992, [106 Stat. 2398][/us/stat/106/2398]; [Pub. L. 103–337, div. A, title IV, § 404][/us/pl/103/337/s404], title V, § 512, Oct. 5, 1994, [108 Stat. 2744][/us/stat/108/2744], 2752; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106], §§ 1502(a)(1), 1503(a)(3), Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502], 510; [Pub. L. 104–201, div. A, title IV, § 405][/us/pl/104/201/s405], Sept. 23, 1996, [110 Stat. 2506][/us/stat/110/2506]; [Pub. L. 105–261, div. A, title IV, § 405][/us/pl/105/261/s405], Oct. 17, 1998, [112 Stat. 1996][/us/stat/112/1996]; [Pub. L. 106–65, div. A, title V, § 553][/us/pl/106/65/s553], title X, § 1067(1), Oct. 5, 1999, [113 Stat. 615][/us/stat/113/615], 774; [Pub. L. 107–314, div. A, title IV, § 405(c)][/us/pl/107/314/s405/c], title X, § 1041(a)(3), Dec. 2, 2002, [116 Stat. 2526][/us/stat/116/2526], 2645; [Pub. L. 108–136, div. A, title V, § 504(c)][/us/pl/108/136/s504/c], Nov. 24, 2003, [117 Stat. 1457][/us/stat/117/1457]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163], §§ 503(b), 510, 515(b)(1)(C), Jan. 6, 2006, [119 Stat. 3226][/us/stat/119/3226], 3231, 3233; [Pub. L. 109–364, div. A, title V, § 507(c)][/us/pl/109/364/s507/c], Oct. 17, 2006, [120 Stat. 2180][/us/stat/120/2180]; [Pub. L. 110–181, div. A, title V, § 502][/us/pl/110/181/s502], title XVIII, § 1824(c), Jan. 28, 2008, [122 Stat. 95][/us/stat/122/95], 501; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, §§ 503(a)–(c), 525, Oct. 14, 2008, [122 Stat. 4433][/us/stat/122/4433], 4448; [Pub. L. 111–84, div. A, title V, § 502(e)][/us/pl/111/84/s502/e]–(g), Oct. 28, 2009, [123 Stat. 2275][/us/stat/123/2275], 2276; [Pub. L. 112–81, div. A, title V, § 502(b)(1)][/us/pl/112/81/s502/b/1], (c)(1), Dec. 31, 2011, [125 Stat. 1387][/us/stat/125/1387]; [Pub. L. 112–239, div. A, title V, § 501(a)][/us/pl/112/239/s501/a], Jan. 2, 2013, [126 Stat. 1714][/us/stat/126/1714].)
 
- __Amendment of Subsections (a) and (b)(2)(C)__ 
-
-[Pub. L. 112–81, div. A, title V, § 502(b)(1)][/us/pl/112/81/s502/b/1], (3), Dec. 31, 2011, [125 Stat. 1387][/us/stat/125/1387], provided that effective Oct. 1, 2013, this section is amended:
-
-(1) in subsection (a)—
-
-(A) in paragraph (1), by striking “230” and inserting “231”;
-
-(B) in paragraph (2), by striking “160” and inserting “161”;
-
-(C) in paragraph (3), by striking “208” and inserting “198”;
-
-(D) in paragraph (4), by striking “60” and inserting “61”; and
-
-(2) in subsection (b)(2)(C), by striking “76” and inserting “73”.
-
-See 2011 Amendment notes below.
-
  __Historical and Revision Notes__ 
 
     Section is based on [Pub. L. 95–79, title VIII, § 811(a)][/us/pl/95/79/s811/a], July 30, 1977, [91 Stat. 335][/us/stat/91/335], as amended by [Pub. L. 96–107, title VIII, § 817][/us/pl/96/107/s817], Nov. 9, 1979, [93 Stat. 818][/us/stat/93/818]; [Pub. L. 96–342, title X, § 1003][/us/pl/96/342/s1003], Sept. 8, 1980, [94 Stat. 1120][/us/stat/94/1120]; [Pub. L. 97–86, title VI, § 602][/us/pl/97/86/s602], Dec. 1, 1981, [95 Stat. 1110][/us/stat/95/1110].
@@ -135,7 +117,13 @@ See 2011 Amendment notes below.
 
     2013—Subsec. (a)(2). [Pub. L. 112–239][/us/pl/112/239] substituted “162” for “160”.
 
-    2011—Subsec. (a). [Pub. L. 112–81, § 502(b)(1)(A)][/us/pl/112/81/s502/b/1/A], substituted “231” for “230” in par. (1), “161” for “160” in par. (2), “198” for “208” in par. (3), and “61” for “60” in par. (4).
+    2011—Subsec. (a)(1). [Pub. L. 112–81, § 502(b)(1)(A)(i)][/us/pl/112/81/s502/b/1/A/i], substituted “231” for “230”.
+
+    Subsec. (a)(2). Pub. L. 112—81, § 502(b)(1)(A)(ii), which directed substitution of “161” for “160”, could not be executed because of the intervening amendment by Pub. L. 112—239. See 2013 Amendment note above.
+
+    Subsec. (a)(3). [Pub. L. 112–81, § 502(b)(1)(A)(iii)][/us/pl/112/81/s502/b/1/A/iii], substituted “198” for “208”.
+
+    Subsec. (a)(4). [Pub. L. 112–81, § 502(b)(1)(A)(iv)][/us/pl/112/81/s502/b/1/A/iv], substituted “61” for “60”.
 
     Subsec. (b)(1). [Pub. L. 112–81, § 502(c)(1)][/us/pl/112/81/s502/c/1], substituted “310” for “324”.
 
@@ -296,8 +284,6 @@ See 2011 Amendment notes below.
 [/us/stat/125/1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1387
 [/us/pl/112/239/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs501%2Fa
 [/us/stat/126/1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1714
-[/us/pl/112/81/s502/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs502%2Fb%2F1
-[/us/stat/125/1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1387
 [/us/pl/95/79/s811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2Fs811%2Fa
 [/us/stat/91/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F335
 [/us/pl/96/107/s817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs817
@@ -312,7 +298,9 @@ See 2011 Amendment notes below.
 [/us/usc/t10/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs527
 [/us/usc/t10/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs527
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/112/81/s502/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs502%2Fb%2F1%2FA
+[/us/pl/112/81/s502/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs502%2Fb%2F1%2FA%2Fi
+[/us/pl/112/81/s502/b/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs502%2Fb%2F1%2FA%2Fiii
+[/us/pl/112/81/s502/b/1/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs502%2Fb%2F1%2FA%2Fiv
 [/us/pl/112/81/s502/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs502%2Fc%2F1
 [/us/pl/112/81/s502/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs502%2Fb%2F1%2FB
 [/us/pl/111/84/s502/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs502%2Fe

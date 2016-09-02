@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2031.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2031" data-uslm-ref="/us/usc/t10/s2031">2031.</a>  </td>
 
     <td> Junior Reserve Officers’ Training Corps.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2032.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2032" data-uslm-ref="/us/usc/t10/s2032">2032.</a>  </td>
 
     <td> Responsibility of the Secretaries of the military departments to maximize enrollment and enhance efficiency.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2033.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2033" data-uslm-ref="/us/usc/t10/s2033">2033.</a>  </td>
 
     <td> Instructor qualifications.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2034.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2034" data-uslm-ref="/us/usc/t10/s2034">2034.</a>  </td>
 
     <td> Educational institutions not maintaining units of Junior Reserve Officers’ Training Corps: issuance of arms, tentage, and equipment.  </td>
 

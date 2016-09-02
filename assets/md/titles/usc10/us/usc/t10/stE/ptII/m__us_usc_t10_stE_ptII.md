@@ -29,141 +29,141 @@
 
   <tr>
 
-    <td> 1201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptII%2Fch1201" data-uslm-ref="/us/usc/t10/stE/ptII/ch1201">1201.</a>  </td>
 
     <td> Authorized Strengths and Distribution in Grade  </td>
 
-    <td> 12001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12001" data-uslm-ref="/us/usc/t10/s12001">12001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptII%2Fch1203" data-uslm-ref="/us/usc/t10/stE/ptII/ch1203">1203.</a>  </td>
 
     <td> Enlisted Members  </td>
 
-    <td> 12101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12101" data-uslm-ref="/us/usc/t10/s12101">12101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptII%2Fch1205" data-uslm-ref="/us/usc/t10/stE/ptII/ch1205">1205.</a>  </td>
 
     <td> Appointment of Reserve Officers  </td>
 
-    <td> 12201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12201" data-uslm-ref="/us/usc/t10/s12201">12201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptII%2Fch1207" data-uslm-ref="/us/usc/t10/stE/ptII/ch1207">1207.</a>  </td>
 
     <td> Warrant Officers  </td>
 
-    <td> 12241  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12241" data-uslm-ref="/us/usc/t10/s12241">12241</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1209.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptII%2Fch1209" data-uslm-ref="/us/usc/t10/stE/ptII/ch1209">1209.</a>  </td>
 
     <td> Active Duty  </td>
 
-    <td> 12301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12301" data-uslm-ref="/us/usc/t10/s12301">12301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptII%2Fch1211" data-uslm-ref="/us/usc/t10/stE/ptII/ch1211">1211.</a>  </td>
 
     <td> National Guard Members in Federal Service  </td>
 
-    <td> 12401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12401" data-uslm-ref="/us/usc/t10/s12401">12401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptII%2Fch1213" data-uslm-ref="/us/usc/t10/stE/ptII/ch1213">1213.</a>  </td>
 
     <td> Special Appointments, Assignments, Details, and Duties  </td>
 
-    <td> 12501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12501" data-uslm-ref="/us/usc/t10/s12501">12501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptII%2Fch1214" data-uslm-ref="/us/usc/t10/stE/ptII/ch1214">1214.</a>  </td>
 
     <td> Ready Reserve Mobilization Income Insurance  </td>
 
-    <td> 12521  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12521" data-uslm-ref="/us/usc/t10/s12521">12521</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1215.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptII%2Fch1215" data-uslm-ref="/us/usc/t10/stE/ptII/ch1215">1215.</a>  </td>
 
     <td> Miscellaneous Prohibitions and Penalties  </td>
 
-    <td> 12551  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12551" data-uslm-ref="/us/usc/t10/s12551">12551</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1217.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptII%2Fch1217" data-uslm-ref="/us/usc/t10/stE/ptII/ch1217">1217.</a>  </td>
 
     <td> Miscellaneous Rights and Benefits  </td>
 
-    <td> 12601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12601" data-uslm-ref="/us/usc/t10/s12601">12601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1219.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptII%2Fch1219" data-uslm-ref="/us/usc/t10/stE/ptII/ch1219">1219.</a>  </td>
 
     <td> Standards and Procedures for Retention and Promotion  </td>
 
-    <td> 12641  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12641" data-uslm-ref="/us/usc/t10/s12641">12641</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptII%2Fch1221" data-uslm-ref="/us/usc/t10/stE/ptII/ch1221">1221.</a>  </td>
 
     <td> Separation  </td>
 
-    <td> 12681  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12681" data-uslm-ref="/us/usc/t10/s12681">12681</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1223.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptII%2Fch1223" data-uslm-ref="/us/usc/t10/stE/ptII/ch1223">1223.</a>  </td>
 
     <td> Retired Pay for Non-Regular Service  </td>
 
-    <td> 12731  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12731" data-uslm-ref="/us/usc/t10/s12731">12731</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 1225.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstE%2FptII%2Fch1225" data-uslm-ref="/us/usc/t10/stE/ptII/ch1225">1225.</a>  </td>
 
     <td> Retired Grade  </td>
 
-    <td> 12771  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12771" data-uslm-ref="/us/usc/t10/s12771">12771</a>  </td>
 
   </tr>
 

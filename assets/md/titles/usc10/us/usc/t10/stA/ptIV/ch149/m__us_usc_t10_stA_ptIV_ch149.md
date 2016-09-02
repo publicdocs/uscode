@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2545.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2545" data-uslm-ref="/us/usc/t10/s2545">2545.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2546.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2546" data-uslm-ref="/us/usc/t10/s2546">2546.</a>  </td>
 
     <td> Civilian management of the defense acquisition system.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2547.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2547" data-uslm-ref="/us/usc/t10/s2547">2547.</a>  </td>
 
     <td> Acquisition-related functions of chiefs of the armed forces.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2548.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2548" data-uslm-ref="/us/usc/t10/s2548">2548.</a>  </td>
 
     <td> Performance assessments of the defense acquisition system.  </td>
 

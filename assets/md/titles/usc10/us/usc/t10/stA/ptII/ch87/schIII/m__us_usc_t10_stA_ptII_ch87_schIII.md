@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1731" data-uslm-ref="/us/usc/t10/s1731">1731.</a>  </td>
 
     <td> Acquisition Corps: in general.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1732.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1732" data-uslm-ref="/us/usc/t10/s1732">1732.</a>  </td>
 
     <td> Selection criteria and procedures.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1733.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1733" data-uslm-ref="/us/usc/t10/s1733">1733.</a>  </td>
 
     <td> Critical acquisition positions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1734.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1734" data-uslm-ref="/us/usc/t10/s1734">1734.</a>  </td>
 
     <td> Career development.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1735.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1735" data-uslm-ref="/us/usc/t10/s1735">1735.</a>  </td>
 
     <td> Education, training, and experience requirements for critical acquisition positions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [1736.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1736" data-uslm-ref="/us/usc/t10/s1736">1736.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1737.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1737" data-uslm-ref="/us/usc/t10/s1737">1737.</a>  </td>
 
     <td> Definitions and general provisions.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2700.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2700" data-uslm-ref="/us/usc/t10/s2700">2700.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2701" data-uslm-ref="/us/usc/t10/s2701">2701.</a>  </td>
 
     <td> Environmental restoration program.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2702" data-uslm-ref="/us/usc/t10/s2702">2702.</a>  </td>
 
     <td> Research, development, and demonstration program.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2703" data-uslm-ref="/us/usc/t10/s2703">2703.</a>  </td>
 
     <td> Environmental restoration accounts.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2704" data-uslm-ref="/us/usc/t10/s2704">2704.</a>  </td>
 
     <td> Commonly found unregulated hazardous substances.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2705" data-uslm-ref="/us/usc/t10/s2705">2705.</a>  </td>
 
     <td> Notice of environmental restoration activities.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [2706.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2706" data-uslm-ref="/us/usc/t10/s2706">2706.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2707" data-uslm-ref="/us/usc/t10/s2707">2707.</a>  </td>
 
     <td> Environmental restoration projects for environmental responses.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2708" data-uslm-ref="/us/usc/t10/s2708">2708.</a>  </td>
 
     <td> Contracts for handling hazardous waste from defense facilities.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2709" data-uslm-ref="/us/usc/t10/s2709">2709.</a>  </td>
 
     <td> Investment control process for environmental technologies.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2710" data-uslm-ref="/us/usc/t10/s2710">2710.</a>  </td>
 
     <td> Inventory of unexploded ordnance, discarded military munitions, and munitions constituents at defense sites (other than operational ranges).  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2711" data-uslm-ref="/us/usc/t10/s2711">2711.</a>  </td>
 
     <td> Annual report on defense environmental programs.  </td>
 

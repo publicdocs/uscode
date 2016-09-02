@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1701" data-uslm-ref="/us/usc/t10/s1701">1701.</a>  </td>
 
     <td> Management policies.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1701a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1701a" data-uslm-ref="/us/usc/t10/s1701a">1701a.</a>  </td>
 
     <td> Management for acquisition workforce excellence.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1702" data-uslm-ref="/us/usc/t10/s1702">1702.</a>  </td>
 
     <td> Under Secretary of Defense for Acquisition, Technology, and Logistics: authorities and responsibilities.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [1703.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1703" data-uslm-ref="/us/usc/t10/s1703">1703.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1704" data-uslm-ref="/us/usc/t10/s1704">1704.</a>  </td>
 
     <td> Service acquisition executives: authorities and responsibilities.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1705" data-uslm-ref="/us/usc/t10/s1705">1705.</a>  </td>
 
     <td> Department of Defense Acquisition Workforce Development Fund.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1706" data-uslm-ref="/us/usc/t10/s1706">1706.</a>  </td>
 
     <td> Government performance of certain acquisition functions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> [1707.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1707" data-uslm-ref="/us/usc/t10/s1707">1707.</a>  </td>
 
     <td> Repealed.]  </td>
 

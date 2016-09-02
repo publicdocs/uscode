@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 491.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs491" data-uslm-ref="/us/usc/t10/s491">491.</a>  </td>
 
     <td> Nuclear weapons employment strategy of the United States: reports on modification of strategy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 492.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs492" data-uslm-ref="/us/usc/t10/s492">492.</a>  </td>
 
     <td> Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command and control system.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 493.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs493" data-uslm-ref="/us/usc/t10/s493">493.</a>  </td>
 
     <td> Reports to Congress on the modification of the force structure for the strategic nuclear weapons delivery systems of the United States.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 494.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs494" data-uslm-ref="/us/usc/t10/s494">494.</a>  </td>
 
     <td> Nuclear force reductions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 495.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs495" data-uslm-ref="/us/usc/t10/s495">495.</a>  </td>
 
     <td> Strategic delivery systems.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 496.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs496" data-uslm-ref="/us/usc/t10/s496">496.</a>  </td>
 
     <td> Consideration of expansion of nuclear forces of other countries.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 497.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs497" data-uslm-ref="/us/usc/t10/s497">497.</a>  </td>
 
     <td> Notification required for reduction, consolidation, or withdrawal of nuclear forces based in Europe.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 498.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs498" data-uslm-ref="/us/usc/t10/s498">498.</a>  </td>
 
     <td> Unilateral change in nuclear weapons stockpile of the United States.  </td>
 

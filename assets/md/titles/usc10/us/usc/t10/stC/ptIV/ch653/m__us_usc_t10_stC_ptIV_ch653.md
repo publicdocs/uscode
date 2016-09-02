@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7621" data-uslm-ref="/us/usc/t10/s7621">7621.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7622" data-uslm-ref="/us/usc/t10/s7622">7622.</a>  </td>
 
     <td> Admiralty claims against the United States.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7623.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7623" data-uslm-ref="/us/usc/t10/s7623">7623.</a>  </td>
 
     <td> Admiralty claims by the United States.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [7624, 7625.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7624" data-uslm-ref="/us/usc/t10/s7624">7624</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7625" data-uslm-ref="/us/usc/t10/s7625">7625.</a>  </td>
 
     <td> Repealed.]  </td>
 

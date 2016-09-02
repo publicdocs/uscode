@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2411" data-uslm-ref="/us/usc/t10/s2411">2411.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2412" data-uslm-ref="/us/usc/t10/s2412">2412.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2413" data-uslm-ref="/us/usc/t10/s2413">2413.</a>  </td>
 
     <td> Cooperative agreements.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2414" data-uslm-ref="/us/usc/t10/s2414">2414.</a>  </td>
 
     <td> Limitation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2415" data-uslm-ref="/us/usc/t10/s2415">2415.</a>  </td>
 
     <td> Distribution.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2416.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2416" data-uslm-ref="/us/usc/t10/s2416">2416.</a>  </td>
 
     <td> Subcontractor information.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2417.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2417" data-uslm-ref="/us/usc/t10/s2417">2417.</a>  </td>
 
     <td> Administrative costs.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2418.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2418" data-uslm-ref="/us/usc/t10/s2418">2418.</a>  </td>
 
     <td> Authority to provide certain types of technical assistance.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2419.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2419" data-uslm-ref="/us/usc/t10/s2419">2419.</a>  </td>
 
     <td> Regulations.  </td>
 

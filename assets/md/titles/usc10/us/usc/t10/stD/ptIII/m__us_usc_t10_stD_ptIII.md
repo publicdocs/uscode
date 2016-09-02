@@ -29,51 +29,51 @@
 
   <tr>
 
-    <td> 901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD%2FptIII%2Fch901" data-uslm-ref="/us/usc/t10/stD/ptIII/ch901">901.</a>  </td>
 
     <td> Training Generally  </td>
 
-    <td> 9301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9301" data-uslm-ref="/us/usc/t10/s9301">9301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD%2FptIII%2Fch903" data-uslm-ref="/us/usc/t10/stD/ptIII/ch903">903.</a>  </td>
 
     <td> United States Air Force Academy  </td>
 
-    <td> 9331  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9331" data-uslm-ref="/us/usc/t10/s9331">9331</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD%2FptIII%2Fch905" data-uslm-ref="/us/usc/t10/stD/ptIII/ch905">905.</a>  </td>
 
     <td> Aviation Leadership Program  </td>
 
-    <td> 9381  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9381" data-uslm-ref="/us/usc/t10/s9381">9381</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD%2FptIII%2Fch907" data-uslm-ref="/us/usc/t10/stD/ptIII/ch907">907.</a>  </td>
 
     <td> Schools and Camps  </td>
 
-    <td> 9411  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9411" data-uslm-ref="/us/usc/t10/s9411">9411</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstD%2FptIII%2Fch909" data-uslm-ref="/us/usc/t10/stD/ptIII/ch909">909.</a>  </td>
 
     <td> Civil Air Patrol  </td>
 
-    <td> 9441  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9441" data-uslm-ref="/us/usc/t10/s9441">9441</a>  </td>
 
   </tr>
 

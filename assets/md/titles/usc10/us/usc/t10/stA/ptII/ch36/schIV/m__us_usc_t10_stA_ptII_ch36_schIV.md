@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 637.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs637" data-uslm-ref="/us/usc/t10/s637">637.</a>  </td>
 
     <td> Selection of regular officers for continuation on active duty.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 638.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs638" data-uslm-ref="/us/usc/t10/s638">638.</a>  </td>
 
     <td> Selective early retirement.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 638a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs638a" data-uslm-ref="/us/usc/t10/s638a">638a.</a>  </td>
 
     <td> Modification to rules for continuation on active duty; enhanced authority for selective early retirement and early discharges.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 638b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs638b" data-uslm-ref="/us/usc/t10/s638b">638b.</a>  </td>
 
     <td> Voluntary retirement incentive.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 639.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs639" data-uslm-ref="/us/usc/t10/s639">639.</a>  </td>
 
     <td> Continuation on active duty to complete disciplinary action.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 640.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs640" data-uslm-ref="/us/usc/t10/s640">640.</a>  </td>
 
     <td> Deferment of retirement or separation for medical reasons.  </td>
 

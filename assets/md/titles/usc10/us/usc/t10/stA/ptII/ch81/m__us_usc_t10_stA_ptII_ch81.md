@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1580.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1580" data-uslm-ref="/us/usc/t10/s1580">1580.</a>  </td>
 
     <td> Emergency essential employees: designation.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1580a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1580a" data-uslm-ref="/us/usc/t10/s1580a">1580a.</a>  </td>
 
     <td> Emergency essential employees: notification of required participation in anthrax vaccine immunization program.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1581.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1581" data-uslm-ref="/us/usc/t10/s1581">1581.</a>  </td>
 
     <td> Foreign National Employees Separation Pay Account.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1582.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1582" data-uslm-ref="/us/usc/t10/s1582">1582.</a>  </td>
 
     <td> Assistive technology, assistive technology devices, and assistive technology services.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1583.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1583" data-uslm-ref="/us/usc/t10/s1583">1583.</a>  </td>
 
     <td> Employment of certain persons without pay.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1584.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1584" data-uslm-ref="/us/usc/t10/s1584">1584.</a>  </td>
 
     <td> Employment of non-citizens.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1585.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1585" data-uslm-ref="/us/usc/t10/s1585">1585.</a>  </td>
 
     <td> Carrying of firearms.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1585a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1585a" data-uslm-ref="/us/usc/t10/s1585a">1585a.</a>  </td>
 
     <td> Special agents of the Defense Criminal Investigative Service: authority to execute warrants and make arrests.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1586.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1586" data-uslm-ref="/us/usc/t10/s1586">1586.</a>  </td>
 
     <td> Rotation of career-conditional and career employees assigned to duty outside the United States.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1587.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1587" data-uslm-ref="/us/usc/t10/s1587">1587.</a>  </td>
 
     <td> Employees of nonappropriated fund instrumentalities: reprisals.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1587a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1587a" data-uslm-ref="/us/usc/t10/s1587a">1587a.</a>  </td>
 
     <td> Employees of nonappropriated fund instrumentalities: senior executive pay levels.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1588.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1588" data-uslm-ref="/us/usc/t10/s1588">1588.</a>  </td>
 
     <td> Authority to accept certain voluntary services.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1589.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1589" data-uslm-ref="/us/usc/t10/s1589">1589.</a>  </td>
 
     <td> Participation in management of specified non-Federal entities: authorized activities.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> [1590.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1590" data-uslm-ref="/us/usc/t10/s1590">1590.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1591.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1591" data-uslm-ref="/us/usc/t10/s1591">1591.</a>  </td>
 
     <td> Reimbursement for travel and transportation expenses when accompanying Members of Congress.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1592.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1592" data-uslm-ref="/us/usc/t10/s1592">1592.</a>  </td>
 
     <td> Prohibition on payment of severance pay to foreign nationals in the event of certain overseas base closures.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1593.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1593" data-uslm-ref="/us/usc/t10/s1593">1593.</a>  </td>
 
     <td> Uniform allowance: civilian employees.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1594.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1594" data-uslm-ref="/us/usc/t10/s1594">1594.</a>  </td>
 
     <td> Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 1595.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1595" data-uslm-ref="/us/usc/t10/s1595">1595.</a>  </td>
 
     <td> Civilian faculty members at certain Department of Defense schools: employment and compensation.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 1596.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1596" data-uslm-ref="/us/usc/t10/s1596">1596.</a>  </td>
 
     <td> Foreign language proficiency: special pay for proficiency beneficial for intelligence interests.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 1596a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1596a" data-uslm-ref="/us/usc/t10/s1596a">1596a.</a>  </td>
 
     <td> Foreign language proficiency: special pay for proficiency beneficial for other national security interests.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 1596b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1596b" data-uslm-ref="/us/usc/t10/s1596b">1596b.</a>  </td>
 
     <td> Foreign language proficiency: National Foreign Language Skills Registry.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 1597.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1597" data-uslm-ref="/us/usc/t10/s1597">1597.</a>  </td>
 
     <td> Civilian positions: guidelines for reductions.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 1598.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1598" data-uslm-ref="/us/usc/t10/s1598">1598.</a>  </td>
 
     <td> Assistance to terminated employees to obtain certification and employment as teachers or employment as teachers’ aides.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> [1599.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1599" data-uslm-ref="/us/usc/t10/s1599">1599.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 1599a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1599a" data-uslm-ref="/us/usc/t10/s1599a">1599a.</a>  </td>
 
     <td> Financial assistance to certain employees in acquisition of critical skills.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 1599b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1599b" data-uslm-ref="/us/usc/t10/s1599b">1599b.</a>  </td>
 
     <td> Employees abroad: travel expenses; health care.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 1599c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1599c" data-uslm-ref="/us/usc/t10/s1599c">1599c.</a>  </td>
 
     <td> Health care professionals: enhanced appointment and compensation authority for personnel for care and treatment of wounded and injured members of the armed forces.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 1599d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1599d" data-uslm-ref="/us/usc/t10/s1599d">1599d.</a>  </td>
 
     <td> Financial management positions: authority to prescribe professional certification and credential standards.  </td>
 

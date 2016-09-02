@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [5981, 5982.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5981" data-uslm-ref="/us/usc/t10/s5981">5981</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5982" data-uslm-ref="/us/usc/t10/s5982">5982.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5983.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5983" data-uslm-ref="/us/usc/t10/s5983">5983.</a>  </td>
 
     <td> State Department: assignment of enlisted members as custodians of buildings in foreign countries.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [5984.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5984" data-uslm-ref="/us/usc/t10/s5984">5984.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5985.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5985" data-uslm-ref="/us/usc/t10/s5985">5985.</a>  </td>
 
     <td> Nautical Schools: detail of naval officers as superintendents or instructors.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5986.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5986" data-uslm-ref="/us/usc/t10/s5986">5986.</a>  </td>
 
     <td> Technical institutions: detail of naval officers to promote knowledge of naval engineering and naval architecture.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [5987.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5987" data-uslm-ref="/us/usc/t10/s5987">5987.</a>  </td>
 
     <td> Repealed.]  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1741.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1741" data-uslm-ref="/us/usc/t10/s1741">1741.</a>  </td>
 
     <td> Policies and programs: establishment and implementation.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1742.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1742" data-uslm-ref="/us/usc/t10/s1742">1742.</a>  </td>
 
     <td> Internship, cooperative education, and scholarship programs.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [1743, 1744.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1743" data-uslm-ref="/us/usc/t10/s1743">1743</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1744" data-uslm-ref="/us/usc/t10/s1744">1744.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1745.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1745" data-uslm-ref="/us/usc/t10/s1745">1745.</a>  </td>
 
     <td> Additional education and training programs available to acquisition personnel.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1746.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1746" data-uslm-ref="/us/usc/t10/s1746">1746.</a>  </td>
 
     <td> Defense Acquisition University.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1747.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1747" data-uslm-ref="/us/usc/t10/s1747">1747.</a>  </td>
 
     <td> Acquisition fellowship program.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1748.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1748" data-uslm-ref="/us/usc/t10/s1748">1748.</a>  </td>
 
     <td> Fulfillment standards for acquisition workforce training.  </td>
 

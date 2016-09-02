@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs401" data-uslm-ref="/us/usc/t10/s401">401.</a>  </td>
 
     <td> Humanitarian and civic assistance provided in conjunction with military operations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs402" data-uslm-ref="/us/usc/t10/s402">402.</a>  </td>
 
     <td> Transportation of humanitarian relief supplies to foreign countries.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [403.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs403" data-uslm-ref="/us/usc/t10/s403">403.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs404" data-uslm-ref="/us/usc/t10/s404">404.</a>  </td>
 
     <td> Foreign disaster assistance.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs405" data-uslm-ref="/us/usc/t10/s405">405.</a>  </td>
 
     <td> Use of Department of Defense funds for United States share of costs of United Nations peacekeeping activities: limitation.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [406.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs406" data-uslm-ref="/us/usc/t10/s406">406.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs407" data-uslm-ref="/us/usc/t10/s407">407.</a>  </td>
 
     <td> Humanitarian demining assistance and stockpiled conventional munitions assistance: authority; limitations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs408" data-uslm-ref="/us/usc/t10/s408">408.</a>  </td>
 
     <td> Equipment and training of foreign personnel to assist in Department of Defense accounting for missing United States Government personnel.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 409.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs409" data-uslm-ref="/us/usc/t10/s409">409.</a>  </td>
 
     <td> Center for Complex Operations.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [410.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs410" data-uslm-ref="/us/usc/t10/s410">410.</a>  </td>
 
     <td> Repealed.]  </td>
 

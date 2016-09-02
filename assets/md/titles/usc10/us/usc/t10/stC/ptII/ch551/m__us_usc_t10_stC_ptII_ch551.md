@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [5941.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5941" data-uslm-ref="/us/usc/t10/s5941">5941.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5942.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5942" data-uslm-ref="/us/usc/t10/s5942">5942.</a>  </td>
 
     <td> Aviation commands: eligibility.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5943.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5943" data-uslm-ref="/us/usc/t10/s5943">5943.</a>  </td>
 
     <td> Naval shipyards.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5944.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5944" data-uslm-ref="/us/usc/t10/s5944">5944.</a>  </td>
 
     <td> Marine Corps officers: limitation on power to command.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5945.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5945" data-uslm-ref="/us/usc/t10/s5945">5945.</a>  </td>
 
     <td> Staff corps officers: limitation on power to command.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5946.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5946" data-uslm-ref="/us/usc/t10/s5946">5946.</a>  </td>
 
     <td> Precedence accorded commanding officers.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5947.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5947" data-uslm-ref="/us/usc/t10/s5947">5947.</a>  </td>
 
     <td> Requirement of exemplary conduct.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5948.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5948" data-uslm-ref="/us/usc/t10/s5948">5948.</a>  </td>
 
     <td> Consular powers: senior officer present afloat.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5949.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5949" data-uslm-ref="/us/usc/t10/s5949">5949.</a>  </td>
 
     <td> Policy as to leave and liberty.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [5950.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5950" data-uslm-ref="/us/usc/t10/s5950">5950.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 5951.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5951" data-uslm-ref="/us/usc/t10/s5951">5951.</a>  </td>
 
     <td> Continuation of authority after loss of vessel or aircraft.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 5952.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5952" data-uslm-ref="/us/usc/t10/s5952">5952.</a>  </td>
 
     <td> Marine Corps organizations on vessels: authority of officers.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> [5953 to 5955.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5953" data-uslm-ref="/us/usc/t10/s5953">5953</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs5955" data-uslm-ref="/us/usc/t10/s5955">5955.</a>  </td>
 
     <td> Repealed.]  </td>
 

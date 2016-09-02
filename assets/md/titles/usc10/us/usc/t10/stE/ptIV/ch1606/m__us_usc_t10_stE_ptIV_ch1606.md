@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 16131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16131" data-uslm-ref="/us/usc/t10/s16131">16131.</a>  </td>
 
     <td> Educational assistance program: establishment; amount.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 16131a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16131a" data-uslm-ref="/us/usc/t10/s16131a">16131a.</a>  </td>
 
     <td> Accelerated payment of educational assistance.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 16132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16132" data-uslm-ref="/us/usc/t10/s16132">16132.</a>  </td>
 
     <td> Eligibility for educational assistance.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 16132a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16132a" data-uslm-ref="/us/usc/t10/s16132a">16132a.</a>  </td>
 
     <td> Authority to transfer unused education benefits to family members.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 16133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16133" data-uslm-ref="/us/usc/t10/s16133">16133.</a>  </td>
 
     <td> Time limitation for use of entitlement.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 16134.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16134" data-uslm-ref="/us/usc/t10/s16134">16134.</a>  </td>
 
     <td> Termination of assistance.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 16135.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16135" data-uslm-ref="/us/usc/t10/s16135">16135.</a>  </td>
 
     <td> Failure to participate satisfactorily; penalties.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 16136.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16136" data-uslm-ref="/us/usc/t10/s16136">16136.</a>  </td>
 
     <td> Administration of program.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> [16137.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs16137" data-uslm-ref="/us/usc/t10/s16137">16137.</a>  </td>
 
     <td> Repealed.]  </td>
 

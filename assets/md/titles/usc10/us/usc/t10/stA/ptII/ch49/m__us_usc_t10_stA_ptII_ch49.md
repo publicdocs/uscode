@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 971.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs971" data-uslm-ref="/us/usc/t10/s971">971.</a>  </td>
 
     <td> Service credit: officers may not count service performed while serving as cadet or midshipman.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 972.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs972" data-uslm-ref="/us/usc/t10/s972">972.</a>  </td>
 
     <td> Members: effect of time lost.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 973.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs973" data-uslm-ref="/us/usc/t10/s973">973.</a>  </td>
 
     <td> Duties: officers on active duty; performance of civil functions restricted.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 974.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs974" data-uslm-ref="/us/usc/t10/s974">974.</a>  </td>
 
     <td> Military musical units and musicians: performance policies; restriction on performance in competition with local civilian musicians.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [975.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs975" data-uslm-ref="/us/usc/t10/s975">975.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 976.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs976" data-uslm-ref="/us/usc/t10/s976">976.</a>  </td>
 
     <td> Membership in military unions, organizing of military unions, and recognition of military unions prohibited.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [977.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs977" data-uslm-ref="/us/usc/t10/s977">977.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 978.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs978" data-uslm-ref="/us/usc/t10/s978">978.</a>  </td>
 
     <td> Drug and alcohol abuse and dependency: testing of new entrants.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 979.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs979" data-uslm-ref="/us/usc/t10/s979">979.</a>  </td>
 
     <td> Prohibition on loan and grant assistance to persons convicted of certain crimes.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 980.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs980" data-uslm-ref="/us/usc/t10/s980">980.</a>  </td>
 
     <td> Limitation on use of humans as experimental subjects.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 981.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs981" data-uslm-ref="/us/usc/t10/s981">981.</a>  </td>
 
     <td> Limitation on number of enlisted aides.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 982.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs982" data-uslm-ref="/us/usc/t10/s982">982.</a>  </td>
 
     <td> Members: service on State and local juries.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 983.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs983" data-uslm-ref="/us/usc/t10/s983">983.</a>  </td>
 
     <td> Institutions of higher education that prevent ROTC access or military recruiting on campus: denial of grants and contracts from Department of Defense, Department of Education, and certain other departments and agencies.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 985.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs985" data-uslm-ref="/us/usc/t10/s985">985.</a>  </td>
 
     <td> Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> [986.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs986" data-uslm-ref="/us/usc/t10/s986">986.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 987.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs987" data-uslm-ref="/us/usc/t10/s987">987.</a>  </td>
 
     <td> Terms of consumer credit extended to members and dependents: limitations.  </td>
 

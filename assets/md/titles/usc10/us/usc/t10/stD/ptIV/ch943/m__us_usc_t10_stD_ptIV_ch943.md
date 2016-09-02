@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9681.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9681" data-uslm-ref="/us/usc/t10/s9681">9681.</a>  </td>
 
     <td> Surplus war material: sale to States and foreign governments.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9682.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9682" data-uslm-ref="/us/usc/t10/s9682">9682.</a>  </td>
 
     <td> Obsolete or excess material: sale to National Council of Boy Scouts of America.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9684.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9684" data-uslm-ref="/us/usc/t10/s9684">9684.</a>  </td>
 
     <td> Surplus obsolete ordnance: sale to patriotic organizations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9685.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9685" data-uslm-ref="/us/usc/t10/s9685">9685.</a>  </td>
 
     <td> Obsolete ordnance: loan to educational institutions and State soldiers’ and sailors’ orphans’ homes.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 9686.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs9686" data-uslm-ref="/us/usc/t10/s9686">9686.</a>  </td>
 
     <td> Obsolete ordnance: gift to State homes for soldiers and sailors.  </td>
 

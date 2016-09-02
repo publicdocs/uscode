@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 12241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12241" data-uslm-ref="/us/usc/t10/s12241">12241.</a>  </td>
 
     <td> Warrant officers: grades; appointment, how made; term.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 12242.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12242" data-uslm-ref="/us/usc/t10/s12242">12242.</a>  </td>
 
     <td> Warrant officers: promotion.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 12243.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12243" data-uslm-ref="/us/usc/t10/s12243">12243.</a>  </td>
 
     <td> Warrant officers: suspension of laws for promotion or mandatory retirement or separation during war or emergency.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 12244.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs12244" data-uslm-ref="/us/usc/t10/s12244">12244.</a>  </td>
 
     <td> Warrant officers: discharge or retirement for years of service or for age.  </td>
 
