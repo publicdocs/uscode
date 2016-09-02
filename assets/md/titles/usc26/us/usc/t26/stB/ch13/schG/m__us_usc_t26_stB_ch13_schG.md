@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2661.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2661" data-uslm-ref="/us/usc/t26/s2661">2661.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2662.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2662" data-uslm-ref="/us/usc/t26/s2662">2662.</a>  </td>
 
     <td> Return requirements.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2663.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2663" data-uslm-ref="/us/usc/t26/s2663">2663.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [2664.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2664" data-uslm-ref="/us/usc/t26/s2664">2664.</a>  </td>
 
     <td> Repealed.]  </td>
 

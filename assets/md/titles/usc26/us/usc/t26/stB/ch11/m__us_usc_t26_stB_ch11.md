@@ -29,31 +29,31 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch11%2FschA" data-uslm-ref="/us/usc/t26/stB/ch11/schA">A.</a>  </td>
 
     <td> Estates of citizens or residents  </td>
 
-    <td> 2001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2001" data-uslm-ref="/us/usc/t26/s2001">2001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch11%2FschB" data-uslm-ref="/us/usc/t26/stB/ch11/schB">B.</a>  </td>
 
     <td> Estates of nonresidents not citizens  </td>
 
-    <td> 2101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2101" data-uslm-ref="/us/usc/t26/s2101">2101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch11%2FschC" data-uslm-ref="/us/usc/t26/stB/ch11/schC">C.</a>  </td>
 
     <td> Miscellaneous  </td>
 
-    <td> 2201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2201" data-uslm-ref="/us/usc/t26/s2201">2201</a>  </td>
 
   </tr>
 

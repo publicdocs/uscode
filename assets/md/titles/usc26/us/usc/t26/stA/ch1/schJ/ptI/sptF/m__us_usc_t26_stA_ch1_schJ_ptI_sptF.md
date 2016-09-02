@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 681.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs681" data-uslm-ref="/us/usc/t26/s681">681.</a>  </td>
 
     <td> Limitation on charitable deduction.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 682.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs682" data-uslm-ref="/us/usc/t26/s682">682.</a>  </td>
 
     <td> Income of an estate or trust in case of divorce, etc.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 683.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs683" data-uslm-ref="/us/usc/t26/s683">683.</a>  </td>
 
     <td> Use of trust as an exchange fund.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 684.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs684" data-uslm-ref="/us/usc/t26/s684">684.</a>  </td>
 
     <td> Recognition of gain on certain transfers to certain foreign trusts and estates.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 685.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs685" data-uslm-ref="/us/usc/t26/s685">685.</a>  </td>
 
     <td> Treatment of funeral trusts.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 831.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs831" data-uslm-ref="/us/usc/t26/s831">831.</a>  </td>
 
     <td> Tax on insurance companies other than life insurance companies.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 832.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs832" data-uslm-ref="/us/usc/t26/s832">832.</a>  </td>
 
     <td> Insurance company taxable income.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 833.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs833" data-uslm-ref="/us/usc/t26/s833">833.</a>  </td>
 
     <td> Treatment of Blue Cross and Blue Shield organizations, etc.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 834.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs834" data-uslm-ref="/us/usc/t26/s834">834.</a>  </td>
 
     <td> Determination of taxable investment income.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 835.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs835" data-uslm-ref="/us/usc/t26/s835">835.</a>  </td>
 
     <td> Election by reciprocal.  </td>
 

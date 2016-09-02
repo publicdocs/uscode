@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs511" data-uslm-ref="/us/usc/t26/s511">511.</a>  </td>
 
     <td> Imposition of tax on unrelated business income of charitable organizations, etc. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs512" data-uslm-ref="/us/usc/t26/s512">512.</a>  </td>
 
     <td> Unrelated business taxable income.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs513" data-uslm-ref="/us/usc/t26/s513">513.</a>  </td>
 
     <td> Unrelated trade or business.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs514" data-uslm-ref="/us/usc/t26/s514">514.</a>  </td>
 
     <td> Unrelated debt-financed income.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs515" data-uslm-ref="/us/usc/t26/s515">515.</a>  </td>
 
     <td> Taxes of foreign countries and possessions of the United States.  </td>
 

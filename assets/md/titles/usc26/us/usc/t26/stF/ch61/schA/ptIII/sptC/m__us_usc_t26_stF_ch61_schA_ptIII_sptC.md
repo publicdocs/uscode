@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6051.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6051" data-uslm-ref="/us/usc/t26/s6051">6051.</a>  </td>
 
     <td> Receipts for employees.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6052.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6052" data-uslm-ref="/us/usc/t26/s6052">6052.</a>  </td>
 
     <td> Returns regarding payment of wages in the form of group-term life insurance.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6053.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6053" data-uslm-ref="/us/usc/t26/s6053">6053.</a>  </td>
 
     <td> Reporting of tips.  </td>
 

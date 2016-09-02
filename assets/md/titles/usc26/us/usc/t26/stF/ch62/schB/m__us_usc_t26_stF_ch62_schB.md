@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6161" data-uslm-ref="/us/usc/t26/s6161">6161.</a>  </td>
 
     <td> Extension of time for paying tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [6162.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6162" data-uslm-ref="/us/usc/t26/s6162">6162.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6163.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6163" data-uslm-ref="/us/usc/t26/s6163">6163.</a>  </td>
 
     <td> Extension of time for payment of estate tax on value of reversionary or remainder interest in property.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6164.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6164" data-uslm-ref="/us/usc/t26/s6164">6164.</a>  </td>
 
     <td> Extension of time for payment of taxes by corporations expecting carrybacks.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6165.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6165" data-uslm-ref="/us/usc/t26/s6165">6165.</a>  </td>
 
     <td> Bonds where time to pay tax or deficiency has been extended.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6166.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6166" data-uslm-ref="/us/usc/t26/s6166">6166.</a>  </td>
 
     <td> Extension of time for payment of estate tax where estate consists largely of interest in closely held business.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [6166A.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6166A" data-uslm-ref="/us/usc/t26/s6166A">6166A.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6167.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6167" data-uslm-ref="/us/usc/t26/s6167">6167.</a>  </td>
 
     <td> Extension of time for payment of tax attributable to recovery of foreign expropriation losses.  </td>
 

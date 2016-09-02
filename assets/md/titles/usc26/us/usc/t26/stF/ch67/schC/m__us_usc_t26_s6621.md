@@ -227,11 +227,9 @@
 
 [Pub. L. 97–34, title VII, § 711(d)][/us/pl/97/34/s711/d], Aug. 13, 1981, [95 Stat. 340][/us/stat/95/340], provided that:
 
->     “(1) __For subsections__ 
+>     “(1) __For subsections (a) and (b).—__ 
 
->         (a) __and (b).—__ 
-
->         The amendments made by subsections (a) and (b) \[amending this section\] shall apply to adjustments made after the date of the enactment of this Act \[Aug. 13, 1981\].
+>     The amendments made by subsections (a) and (b) \[amending this section\] shall apply to adjustments made after the date of the enactment of this Act \[Aug. 13, 1981\].
 
 >     “(2) __For subsection (c).—__ 
 

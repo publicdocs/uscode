@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6511" data-uslm-ref="/us/usc/t26/s6511">6511.</a>  </td>
 
     <td> Limitations on credit or refund.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6512" data-uslm-ref="/us/usc/t26/s6512">6512.</a>  </td>
 
     <td> Limitations in case of petition to Tax Court.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6513" data-uslm-ref="/us/usc/t26/s6513">6513.</a>  </td>
 
     <td> Time return deemed filed and tax considered paid.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6514" data-uslm-ref="/us/usc/t26/s6514">6514.</a>  </td>
 
     <td> Credits or refunds after period of limitation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6515" data-uslm-ref="/us/usc/t26/s6515">6515.</a>  </td>
 
     <td> Cross references.  </td>
 

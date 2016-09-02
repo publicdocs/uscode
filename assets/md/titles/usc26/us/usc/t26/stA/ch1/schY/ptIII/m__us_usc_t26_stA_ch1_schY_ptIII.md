@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1400U–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400U%E2%80%931" data-uslm-ref="/us/usc/t26/s1400U–1">1400U–1.</a>  </td>
 
     <td> Allocation of recovery zone bonds.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1400U–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400U%E2%80%932" data-uslm-ref="/us/usc/t26/s1400U–2">1400U–2.</a>  </td>
 
     <td> Recovery zone economic development bonds.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1400U–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400U%E2%80%933" data-uslm-ref="/us/usc/t26/s1400U–3">1400U–3.</a>  </td>
 
     <td> Recovery zone facility bonds.  </td>
 

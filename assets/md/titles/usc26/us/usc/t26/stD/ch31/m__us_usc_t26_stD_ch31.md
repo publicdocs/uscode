@@ -29,31 +29,31 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch31%2FschA" data-uslm-ref="/us/usc/t26/stD/ch31/schA">A.</a>  </td>
 
     <td> Luxury passenger vehicles  <sup>[2]</sup>  <sup><sup> 2 So in original. Does not conform to subchapter heading. </sup></sup>   </td>
 
-    <td> 4001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4001" data-uslm-ref="/us/usc/t26/s4001">4001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch31%2FschB" data-uslm-ref="/us/usc/t26/stD/ch31/schB">B.</a>  </td>
 
     <td> Special fuels  </td>
 
-    <td> 4041  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4041" data-uslm-ref="/us/usc/t26/s4041">4041</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch31%2FschC" data-uslm-ref="/us/usc/t26/stD/ch31/schC">C.</a>  </td>
 
     <td> Heavy trucks and trailers  </td>
 
-    <td> 4051  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4051" data-uslm-ref="/us/usc/t26/s4051">4051</a>  </td>
 
   </tr>
 

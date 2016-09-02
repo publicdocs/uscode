@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs461" data-uslm-ref="/us/usc/t26/s461">461.</a>  </td>
 
     <td> General rule for taxable year of deduction.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [462, 463.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs462" data-uslm-ref="/us/usc/t26/s462">462</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs463" data-uslm-ref="/us/usc/t26/s463">463.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 464.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs464" data-uslm-ref="/us/usc/t26/s464">464.</a>  </td>
 
     <td> Limitations on deductions for certain farming expenses. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 465.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs465" data-uslm-ref="/us/usc/t26/s465">465.</a>  </td>
 
     <td> Deductions limited to amount at risk.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [466.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs466" data-uslm-ref="/us/usc/t26/s466">466.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 467.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs467" data-uslm-ref="/us/usc/t26/s467">467.</a>  </td>
 
     <td> Certain payments for the use of property or services.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 468.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs468" data-uslm-ref="/us/usc/t26/s468">468.</a>  </td>
 
     <td> Special rules for mining and solid waste reclamation and closing costs.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 468A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs468A" data-uslm-ref="/us/usc/t26/s468A">468A.</a>  </td>
 
     <td> Special rules for nuclear decommissioning costs.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 468B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs468B" data-uslm-ref="/us/usc/t26/s468B">468B.</a>  </td>
 
     <td> Special rules for designated settlement funds.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 469.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs469" data-uslm-ref="/us/usc/t26/s469">469.</a>  </td>
 
     <td> Passive activity losses and credits limited.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 470.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs470" data-uslm-ref="/us/usc/t26/s470">470.</a>  </td>
 
     <td> Limitation on deductions allocable to property used by governments or other tax-exempt entities.  </td>
 

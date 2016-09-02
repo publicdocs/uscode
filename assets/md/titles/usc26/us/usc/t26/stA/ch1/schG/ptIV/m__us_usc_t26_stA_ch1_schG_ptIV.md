@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 561.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs561" data-uslm-ref="/us/usc/t26/s561">561.</a>  </td>
 
     <td> Definition of deduction for dividends paid.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 562.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs562" data-uslm-ref="/us/usc/t26/s562">562.</a>  </td>
 
     <td> Rules applicable in determining dividends eligible for dividends paid deduction.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 563.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs563" data-uslm-ref="/us/usc/t26/s563">563.</a>  </td>
 
     <td> Rules relating to dividends paid after close of taxable year.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 564.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs564" data-uslm-ref="/us/usc/t26/s564">564.</a>  </td>
 
     <td> Dividend carryover.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 565.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs565" data-uslm-ref="/us/usc/t26/s565">565.</a>  </td>
 
     <td> Consent dividends.  </td>
 

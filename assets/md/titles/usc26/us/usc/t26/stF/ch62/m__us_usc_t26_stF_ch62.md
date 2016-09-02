@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch62%2FschA" data-uslm-ref="/us/usc/t26/stF/ch62/schA">A.</a>  </td>
 
     <td> Place and due date for payment of tax  </td>
 
-    <td> 6151  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6151" data-uslm-ref="/us/usc/t26/s6151">6151</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch62%2FschB" data-uslm-ref="/us/usc/t26/stF/ch62/schB">B.</a>  </td>
 
     <td> Extensions of time for payment  </td>
 
-    <td> 6161  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6161" data-uslm-ref="/us/usc/t26/s6161">6161</a>  </td>
 
   </tr>
 

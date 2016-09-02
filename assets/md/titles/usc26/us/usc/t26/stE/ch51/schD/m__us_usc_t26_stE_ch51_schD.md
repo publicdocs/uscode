@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5271.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5271" data-uslm-ref="/us/usc/t26/s5271">5271.</a>  </td>
 
     <td> Permits.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5272.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5272" data-uslm-ref="/us/usc/t26/s5272">5272.</a>  </td>
 
     <td> Bonds.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5273.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5273" data-uslm-ref="/us/usc/t26/s5273">5273.</a>  </td>
 
     <td> Sale, use, and recovery of denatured distilled spirits.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5274.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5274" data-uslm-ref="/us/usc/t26/s5274">5274.</a>  </td>
 
     <td> Applicability of other laws.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5275.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5275" data-uslm-ref="/us/usc/t26/s5275">5275.</a>  </td>
 
     <td> Records and reports.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5276.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5276" data-uslm-ref="/us/usc/t26/s5276">5276.</a>  </td>
 
     <td> Occupational tax. <sup>[1]</sup>  <sup><sup> 1 Section repealed by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F109%2F59" data-uslm-ref="/us/pl/109/59">Pub. L. 109–59</a> without corresponding amendment of subchapter analysis. </sup></sup>   </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 436.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs436" data-uslm-ref="/us/usc/t26/s436">436.</a>  </td>
 
     <td> Funding-based limitation on shutdown benefits and other unpredictable contingent event benefits under single-employer plans. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 

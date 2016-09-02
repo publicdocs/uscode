@@ -117,11 +117,9 @@ There is hereby imposed on every employer (as defined in section 3306(a)) for ea
 
 [Pub. L. 97–248, title II, § 271(d)(1)][/us/pl/97/248/s271/d/1], (2), formerly § 271(b)(1), (2), Sept. 3, 1982, [96 Stat. 555][/us/stat/96/555], as redesignated by [Pub. L. 98–601, § 1(a)][/us/pl/98/601/s1/a], Oct. 30, 1984, [98 Stat. 3147][/us/stat/98/3147], provided that:
 
->     “(1) __Subsections__ 
+>     “(1) __Subsections (a) and (b).—__ 
 
->         (a) __and (b).—__ 
-
->         The amendments made by subsections (a) and (b) \[amending this section, sections 3306 and 6157 of this title, and sections 1101 and 1105 of Title 42, The Public Health and Welfare\] shall apply to remuneration paid after December 31, 1982.
+>     The amendments made by subsections (a) and (b) \[amending this section, sections 3306 and 6157 of this title, and sections 1101 and 1105 of Title 42, The Public Health and Welfare\] shall apply to remuneration paid after December 31, 1982.
 
 >     “(2) __Subsection (c).—__ 
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6018.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6018" data-uslm-ref="/us/usc/t26/s6018">6018.</a>  </td>
 
     <td> Estate tax returns.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6019.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6019" data-uslm-ref="/us/usc/t26/s6019">6019.</a>  </td>
 
     <td> Gift tax returns.  </td>
 

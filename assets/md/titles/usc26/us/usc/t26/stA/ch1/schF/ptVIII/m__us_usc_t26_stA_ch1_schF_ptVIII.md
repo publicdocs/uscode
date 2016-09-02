@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 529.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs529" data-uslm-ref="/us/usc/t26/s529">529.</a>  </td>
 
     <td> Qualified tuition programs.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 530.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs530" data-uslm-ref="/us/usc/t26/s530">530.</a>  </td>
 
     <td> Coverdell education savings accounts.  </td>
 

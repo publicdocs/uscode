@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5801" data-uslm-ref="/us/usc/t26/s5801">5801.</a>  </td>
 
     <td> Imposition of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5802" data-uslm-ref="/us/usc/t26/s5802">5802.</a>  </td>
 
     <td> Registration of importers, manufacturers, and dealers.  </td>
 

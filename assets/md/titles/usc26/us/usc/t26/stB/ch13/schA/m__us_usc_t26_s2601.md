@@ -71,11 +71,9 @@
 
 >                 “(iii) all of the income of the trust for periods after the grandchild has attained age 21 will be distributed to (or for the benefit of) such grandchild not less frequently than annually.
 
->             “(C) __Coordination with section 2653__ 
+>             “(C) __Coordination with section 2653(a) of the 1986 code.—__ 
 
->                 (a) __of the 1986 code.—__ 
-
->                 In the case of any transfer which would be a generation-skipping transfer but for subparagraph (A), the rules of section 2653(a) of the Internal Revenue Code of 1986 shall apply as if such transfer were a generation-skipping transfer.
+>             In the case of any transfer which would be a generation-skipping transfer but for subparagraph (A), the rules of section 2653(a) of the Internal Revenue Code of 1986 shall apply as if such transfer were a generation-skipping transfer.
 
 >             “(D) __Coordination with taxable terminations and taxable distributions.—__ 
 

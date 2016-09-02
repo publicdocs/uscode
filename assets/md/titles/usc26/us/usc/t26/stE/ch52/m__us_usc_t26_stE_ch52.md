@@ -29,71 +29,71 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch52%2FschA" data-uslm-ref="/us/usc/t26/stE/ch52/schA">A.</a>  </td>
 
     <td> Definitions; rate and payment of tax; exemption from tax; and refund and drawback of tax  </td>
 
-    <td> 5701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5701" data-uslm-ref="/us/usc/t26/s5701">5701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch52%2FschB" data-uslm-ref="/us/usc/t26/stE/ch52/schB">B.</a>  </td>
 
     <td> Qualification requirements for manufacturers and importers of tobacco products and cigarette papers and tubes, and export warehouse proprietors  </td>
 
-    <td> 5711  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5711" data-uslm-ref="/us/usc/t26/s5711">5711</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch52%2FschC" data-uslm-ref="/us/usc/t26/stE/ch52/schC">C.</a>  </td>
 
     <td> Operations by manufacturers and importers of tobacco products and cigarette papers and tubes and export warehouse proprietors  </td>
 
-    <td> 5721  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5721" data-uslm-ref="/us/usc/t26/s5721">5721</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch52%2FschD" data-uslm-ref="/us/usc/t26/stE/ch52/schD">D.</a>  </td>
 
     <td> Occupational tax  </td>
 
-    <td> 5731  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5731" data-uslm-ref="/us/usc/t26/s5731">5731</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch52%2FschE" data-uslm-ref="/us/usc/t26/stE/ch52/schE">E.</a>  </td>
 
     <td> Records of manufacturers and importers of tobacco products and cigarette papers and tubes, and export warehouse proprietors  </td>
 
-    <td> 5741  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5741" data-uslm-ref="/us/usc/t26/s5741">5741</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> F.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch52%2FschF" data-uslm-ref="/us/usc/t26/stE/ch52/schF">F.</a>  </td>
 
     <td> General provisions  </td>
 
-    <td> 5751  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5751" data-uslm-ref="/us/usc/t26/s5751">5751</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> G.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch52%2FschG" data-uslm-ref="/us/usc/t26/stE/ch52/schG">G.</a>  </td>
 
     <td> Penalties and forfeitures  </td>
 
-    <td> 5761  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5761" data-uslm-ref="/us/usc/t26/s5761">5761</a>  </td>
 
   </tr>
 

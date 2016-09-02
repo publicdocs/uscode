@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 951.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs951" data-uslm-ref="/us/usc/t26/s951">951.</a>  </td>
 
     <td> Amounts included in gross income of United States shareholders.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 952.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs952" data-uslm-ref="/us/usc/t26/s952">952.</a>  </td>
 
     <td> Subpart F income defined.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 953.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs953" data-uslm-ref="/us/usc/t26/s953">953.</a>  </td>
 
     <td> Insurance income.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 954.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs954" data-uslm-ref="/us/usc/t26/s954">954.</a>  </td>
 
     <td> Foreign base company income.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 955.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs955" data-uslm-ref="/us/usc/t26/s955">955.</a>  </td>
 
     <td> Withdrawal of previously excluded subpart F income from qualified investment.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 956.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs956" data-uslm-ref="/us/usc/t26/s956">956.</a>  </td>
 
     <td> Investment of earnings in United States property.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [956A.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs956A" data-uslm-ref="/us/usc/t26/s956A">956A.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 957.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs957" data-uslm-ref="/us/usc/t26/s957">957.</a>  </td>
 
     <td> Controlled foreign corporations; United States persons.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 958.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs958" data-uslm-ref="/us/usc/t26/s958">958.</a>  </td>
 
     <td> Rules for determining stock ownership.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 959.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs959" data-uslm-ref="/us/usc/t26/s959">959.</a>  </td>
 
     <td> Exclusion from gross income of previously taxed earnings and profits.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 960.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs960" data-uslm-ref="/us/usc/t26/s960">960.</a>  </td>
 
     <td> Special rules for foreign tax credit.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 961.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs961" data-uslm-ref="/us/usc/t26/s961">961.</a>  </td>
 
     <td> Adjustments to basis of stock in controlled foreign corporations and of other property.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 962.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs962" data-uslm-ref="/us/usc/t26/s962">962.</a>  </td>
 
     <td> Election by individuals to be subject to tax at corporate rates.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> [963.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs963" data-uslm-ref="/us/usc/t26/s963">963.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 964.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs964" data-uslm-ref="/us/usc/t26/s964">964.</a>  </td>
 
     <td> Miscellaneous provisions.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 965.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs965" data-uslm-ref="/us/usc/t26/s965">965.</a>  </td>
 
     <td> Temporary dividends received deduction.  </td>
 

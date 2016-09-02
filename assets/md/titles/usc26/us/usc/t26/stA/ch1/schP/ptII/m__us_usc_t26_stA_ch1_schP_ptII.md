@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1211" data-uslm-ref="/us/usc/t26/s1211">1211.</a>  </td>
 
     <td> Limitation on capital losses.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1212" data-uslm-ref="/us/usc/t26/s1212">1212.</a>  </td>
 
     <td> Capital loss carrybacks and carryovers.  </td>
 

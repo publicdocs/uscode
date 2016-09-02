@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 261.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs261" data-uslm-ref="/us/usc/t26/s261">261.</a>  </td>
 
     <td> General rule for disallowance of deductions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 262.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs262" data-uslm-ref="/us/usc/t26/s262">262.</a>  </td>
 
     <td> Personal, living, and family expenses.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 263.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs263" data-uslm-ref="/us/usc/t26/s263">263.</a>  </td>
 
     <td> Capital expenditures.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 263A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs263A" data-uslm-ref="/us/usc/t26/s263A">263A.</a>  </td>
 
     <td> Capitalization and inclusion in inventory costs of certain expenses.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 264.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs264" data-uslm-ref="/us/usc/t26/s264">264.</a>  </td>
 
     <td> Certain amounts paid in connection with insurance contracts.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 265.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs265" data-uslm-ref="/us/usc/t26/s265">265.</a>  </td>
 
     <td> Expenses and interest relating to tax-exempt income.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 266.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs266" data-uslm-ref="/us/usc/t26/s266">266.</a>  </td>
 
     <td> Carrying charges.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 267.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs267" data-uslm-ref="/us/usc/t26/s267">267.</a>  </td>
 
     <td> Losses, expenses, and interest with respect to transactions between related taxpayers.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 268.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs268" data-uslm-ref="/us/usc/t26/s268">268.</a>  </td>
 
     <td> Sale of land with unharvested crop.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 269.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs269" data-uslm-ref="/us/usc/t26/s269">269.</a>  </td>
 
     <td> Acquisitions made to evade or avoid income tax.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 269A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs269A" data-uslm-ref="/us/usc/t26/s269A">269A.</a>  </td>
 
     <td> Personal service corporations formed or availed of to avoid or evade income tax.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 269B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs269B" data-uslm-ref="/us/usc/t26/s269B">269B.</a>  </td>
 
     <td> Stapled entities.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> [270.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs270" data-uslm-ref="/us/usc/t26/s270">270.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 271.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs271" data-uslm-ref="/us/usc/t26/s271">271.</a>  </td>
 
     <td> Debts owed by political parties, etc.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 272.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs272" data-uslm-ref="/us/usc/t26/s272">272.</a>  </td>
 
     <td> Disposal of coal or domestic iron ore.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 273.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs273" data-uslm-ref="/us/usc/t26/s273">273.</a>  </td>
 
     <td> Holders of life or terminable interest.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 274.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs274" data-uslm-ref="/us/usc/t26/s274">274.</a>  </td>
 
     <td> Disallowance of certain entertainment, etc., expenses.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 275.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs275" data-uslm-ref="/us/usc/t26/s275">275.</a>  </td>
 
     <td> Certain taxes.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 276.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs276" data-uslm-ref="/us/usc/t26/s276">276.</a>  </td>
 
     <td> Certain indirect contributions to political parties.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 277.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs277" data-uslm-ref="/us/usc/t26/s277">277.</a>  </td>
 
     <td> Deductions incurred by certain membership organizations in transactions with members.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> [278.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs278" data-uslm-ref="/us/usc/t26/s278">278.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 279.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs279" data-uslm-ref="/us/usc/t26/s279">279.</a>  </td>
 
     <td> Interest on indebtedness incurred by corporation to acquire stock or assets of another corporation.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> [280.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs280" data-uslm-ref="/us/usc/t26/s280">280.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 280A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs280A" data-uslm-ref="/us/usc/t26/s280A">280A.</a>  </td>
 
     <td> Disallowance of certain expenses in connection with business use of home, rental of vacation homes, etc.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 280B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs280B" data-uslm-ref="/us/usc/t26/s280B">280B.</a>  </td>
 
     <td> Demolition of structures.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 280C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs280C" data-uslm-ref="/us/usc/t26/s280C">280C.</a>  </td>
 
     <td> Certain expenses for which credits are allowable.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> [280D.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs280D" data-uslm-ref="/us/usc/t26/s280D">280D.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 280E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs280E" data-uslm-ref="/us/usc/t26/s280E">280E.</a>  </td>
 
     <td> Expenditures in connection with the illegal sale of drugs.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 280F.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs280F" data-uslm-ref="/us/usc/t26/s280F">280F.</a>  </td>
 
     <td> Limitation on depreciation for luxury automobiles; limitation where certain property used for personal purposes.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 280G.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs280G" data-uslm-ref="/us/usc/t26/s280G">280G.</a>  </td>
 
     <td> Golden parachute payments.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 280H.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs280H" data-uslm-ref="/us/usc/t26/s280H">280H.</a>  </td>
 
     <td> Limitation on certain amounts paid to owner-employees by personal service corporations electing alternative taxable years. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 

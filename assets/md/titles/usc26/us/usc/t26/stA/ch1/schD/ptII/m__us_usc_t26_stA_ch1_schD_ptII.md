@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs421" data-uslm-ref="/us/usc/t26/s421">421.</a>  </td>
 
     <td> General rules.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs422" data-uslm-ref="/us/usc/t26/s422">422.</a>  </td>
 
     <td> Incentive stock options.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [422A.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs422A" data-uslm-ref="/us/usc/t26/s422A">422A.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs423" data-uslm-ref="/us/usc/t26/s423">423.</a>  </td>
 
     <td> Employee stock purchase plans.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs424" data-uslm-ref="/us/usc/t26/s424">424.</a>  </td>
 
     <td> Definitions and special rules.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [425.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs425" data-uslm-ref="/us/usc/t26/s425">425.</a>  </td>
 
     <td> Renumbered.]  </td>
 

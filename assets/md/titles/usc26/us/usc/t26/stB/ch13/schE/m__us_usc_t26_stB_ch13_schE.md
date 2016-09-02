@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2641.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2641" data-uslm-ref="/us/usc/t26/s2641">2641.</a>  </td>
 
     <td> Applicable rate.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2642.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2642" data-uslm-ref="/us/usc/t26/s2642">2642.</a>  </td>
 
     <td> Inclusion ratio.  </td>
 

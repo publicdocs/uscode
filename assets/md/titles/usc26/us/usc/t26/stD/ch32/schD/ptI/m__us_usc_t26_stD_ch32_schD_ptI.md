@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4161" data-uslm-ref="/us/usc/t26/s4161">4161.</a>  </td>
 
     <td> Imposition of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4162" data-uslm-ref="/us/usc/t26/s4162">4162.</a>  </td>
 
     <td> Definitions; treatment of certain resales.  </td>
 

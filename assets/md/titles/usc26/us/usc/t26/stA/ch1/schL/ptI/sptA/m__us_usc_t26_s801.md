@@ -219,11 +219,9 @@
 
 >                   Clause (ii) shall not apply to the computation of reserves on any contract issued if such computation employs the reserve practice used for purposes of the most recent annual statement filed before September 27, 1983, for the type of contract with respect to which such reserves are set up. For purposes of this subparagraph, if the reinsurer’s taxable year is not a calendar year, the first day of the reinsurer’s first taxable year beginning after December 31, 1983, shall be substituted for ‘January 1, 1984’ each place it appears.
 
->             “(B) __Treatment of reserve attributable to section 818__ 
+>             “(B) __Treatment of reserve attributable to section 818(c) election.—__ 
 
->                 (c) __election.—__ 
-
->                 In the case of any reserve described in subparagraph (A), for purposes of section 807(f) of the Internal Revenue Code of 1986, any change in the treatment of any contract to which an election under section 818(c) of such Code (as in effect on the day before the date of the enactment of this Act) applied shall be treated as a change in the basis for determining the amount of any reserve.
+>             In the case of any reserve described in subparagraph (A), for purposes of section 807(f) of the Internal Revenue Code of 1986, any change in the treatment of any contract to which an election under section 818(c) of such Code (as in effect on the day before the date of the enactment of this Act) applied shall be treated as a change in the basis for determining the amount of any reserve.
 
 >             “(C) __10-year spread inapplicable where no 10-year spread under prior law.—__ 
 
@@ -237,35 +235,33 @@
 
 >             No deduction shall be allowed under paragraph (5) or (6) of \[former\] section 809(d) of such Code (as in effect before the amendments made by this subtitle) with respect to any amount described in either such paragraph which is transferred in connection with the transfer of reserves described in subparagraph (A).
 
->         “(4) __Elections under section 818__ 
+>         “(4) __Elections under section 818(c) after september 27, 1983, not to take effect.—__ 
 
->             (c) __after september 27, 1983, not to take effect.—__ 
+>             “(A) __In general.—__ 
 
->         “(A) __In general.—__ 
+>             Except as provided in subparagraph (B), any election after September 27, 1983, under section 818(c) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act) shall not take effect.
 
->         Except as provided in subparagraph (B), any election after September 27, 1983, under section 818(c) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act) shall not take effect.
+>             “(B) __Exception for certain contracts issued under plan of insurance first filed after march 1, 1982, and before september 28, 1983.—__ 
 
->         “(B) __Exception for certain contracts issued under plan of insurance first filed after march 1, 1982, and before september 28, 1983.—__ 
+>             Paragraph (3) and subparagraph (A) of this paragraph shall not apply to any election under such section 818(c) if more than 95 percent of the reserves computed in accordance with such election are attributable to risks under life insurance contracts issued by the taxpayer under a plan of insurance first filed after March 1, 1982, and before September 28, 1983.
 
->         Paragraph (3) and subparagraph (A) of this paragraph shall not apply to any election under such section 818(c) if more than 95 percent of the reserves computed in accordance with such election are attributable to risks under life insurance contracts issued by the taxpayer under a plan of insurance first filed after March 1, 1982, and before September 28, 1983.
+>             “(C) __Section 818(c) elections made by certain acquired companies.—__ 
 
->         “(C) __Section 818(c) elections made by certain acquired companies.—__ 
+>                 “(i) __In general.—__ 
 
->             “(i) __In general.—__ 
+>                 If the case of any corporation—         “(I) which made an election under such section 818(c) before September 28, 1983, and
 
->             If the case of any corporation—         “(I) which made an election under such section 818(c) before September 28, 1983, and
+>                          “(II) which was acquired in a qualified stock purchase (as defined in section 338(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) before December 31, 1983,
 
->                      “(II) which was acquired in a qualified stock purchase (as defined in section 338(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) before December 31, 1983,
+>                   the fact that such corporation is treated as a new corporation under section 338 of such Code shall not result in the election described in subclause (I) not applying to such new corporation.
 
->               the fact that such corporation is treated as a new corporation under section 338 of such Code shall not result in the election described in subclause (I) not applying to such new corporation.
+>                 “(ii) __Time for making section 818(c) or 338 election.—__ 
 
->             “(ii) __Time for making section 818(c) or 338 election.—__ 
+>                 In the case of any corporation described in clause (i), the time for making an election under section 818(c) of such Code (with respect to the first taxable year of the corporation beginning in 1983 and ending after September 28, 1983), or making an election under section 338 of such Code with respect to the qualified stock purchase described in clause (i)(II), shall not expire before the close of the 60th day after the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986\].
 
->             In the case of any corporation described in clause (i), the time for making an election under section 818(c) of such Code (with respect to the first taxable year of the corporation beginning in 1983 and ending after September 28, 1983), or making an election under section 338 of such Code with respect to the qualified stock purchase described in clause (i)(II), shall not expire before the close of the 60th day after the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986\].
+>                 “(iii) __Statute of limitations.—__ 
 
->             “(iii) __Statute of limitations.—__ 
-
->             In the case of any such election under section 818(c) or 338 of such Code which would not have been timely made but for clause (ii), the period for assessing any deficiency attributable to such election (or for filing claim for credit or refund of any overpayment attributable to such election) shall not expire before the date 2 years after the date of the enactment of this Act \[July 18, 1984\].
+>                 In the case of any such election under section 818(c) or 338 of such Code which would not have been timely made but for clause (ii), the period for assessing any deficiency attributable to such election (or for filing claim for credit or refund of any overpayment attributable to such election) shall not expire before the date 2 years after the date of the enactment of this Act \[July 18, 1984\].
 
 >         “(5) __Recapture of reinsurance after december 31, 1983.—__ 
 

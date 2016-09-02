@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1461" data-uslm-ref="/us/usc/t26/s1461">1461.</a>  </td>
 
     <td> Liability for withheld tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1462" data-uslm-ref="/us/usc/t26/s1462">1462.</a>  </td>
 
     <td> Withheld tax as credit to recipient of income.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1463.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1463" data-uslm-ref="/us/usc/t26/s1463">1463.</a>  </td>
 
     <td> Tax paid by recipient of income.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1464.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1464" data-uslm-ref="/us/usc/t26/s1464">1464.</a>  </td>
 
     <td> Refunds and credits with respect to withheld tax.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [1465.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1465" data-uslm-ref="/us/usc/t26/s1465">1465.</a>  </td>
 
     <td> Repealed.]  </td>
 

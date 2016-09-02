@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 336.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs336" data-uslm-ref="/us/usc/t26/s336">336.</a>  </td>
 
     <td> Gain or loss recognized on property distributed in complete liquidation.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 337.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs337" data-uslm-ref="/us/usc/t26/s337">337.</a>  </td>
 
     <td> Nonrecognition for property distributed to parent in complete liquidation of subsidiary.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 338.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs338" data-uslm-ref="/us/usc/t26/s338">338.</a>  </td>
 
     <td> Certain stock purchases treated as asset acquisitions.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5041.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5041" data-uslm-ref="/us/usc/t26/s5041">5041.</a>  </td>
 
     <td> Imposition and rate of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5042.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5042" data-uslm-ref="/us/usc/t26/s5042">5042.</a>  </td>
 
     <td> Exemption from tax.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5043.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5043" data-uslm-ref="/us/usc/t26/s5043">5043.</a>  </td>
 
     <td> Collection of taxes on wines.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5044.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5044" data-uslm-ref="/us/usc/t26/s5044">5044.</a>  </td>
 
     <td> Refund of tax on wine.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5045.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5045" data-uslm-ref="/us/usc/t26/s5045">5045.</a>  </td>
 
     <td> Cross references.  </td>
 

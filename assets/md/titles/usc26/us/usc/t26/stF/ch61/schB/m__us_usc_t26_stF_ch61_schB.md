@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6101" data-uslm-ref="/us/usc/t26/s6101">6101.</a>  </td>
 
     <td> Period covered by returns or other documents.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6102" data-uslm-ref="/us/usc/t26/s6102">6102.</a>  </td>
 
     <td> Computations on returns or other documents.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6103" data-uslm-ref="/us/usc/t26/s6103">6103.</a>  </td>
 
     <td> Confidentiality and disclosure of returns and return information.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6104" data-uslm-ref="/us/usc/t26/s6104">6104.</a>  </td>
 
     <td> Publicity of information required from certain exempt organizations and certain trusts.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6105" data-uslm-ref="/us/usc/t26/s6105">6105.</a>  </td>
 
     <td> Confidentiality of information arising under treaty obligations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6106" data-uslm-ref="/us/usc/t26/s6106">6106.</a>  </td>
 
     <td> Publicity of unemployment tax returns. <sup>[1]</sup>  <sup><sup> 1 Section repealed by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F94%2F455" data-uslm-ref="/us/pl/94/455">Pub. L. 94–455</a> without corresponding amendment of subchapter analysis. </sup></sup>   </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6107" data-uslm-ref="/us/usc/t26/s6107">6107.</a>  </td>
 
     <td> Tax return preparer must furnish copy of return to taxpayer and must retain a copy or list.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6108" data-uslm-ref="/us/usc/t26/s6108">6108.</a>  </td>
 
     <td> Publication of statistics of income. <sup>[2]</sup>  <sup><sup> 2 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F94%2F455" data-uslm-ref="/us/pl/94/455">Pub. L. 94–455</a> without corresponding amendment of subchapter analysis. </sup></sup>   </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 6109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6109" data-uslm-ref="/us/usc/t26/s6109">6109.</a>  </td>
 
     <td> Identifying numbers.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 6110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6110" data-uslm-ref="/us/usc/t26/s6110">6110.</a>  </td>
 
     <td> Public inspection of written determinations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 6111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6111" data-uslm-ref="/us/usc/t26/s6111">6111.</a>  </td>
 
     <td> Disclosure of reportable transactions.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 6112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6112" data-uslm-ref="/us/usc/t26/s6112">6112.</a>  </td>
 
     <td> Material advisors of reportable transactions must keep lists of advisees, etc.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 6113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6113" data-uslm-ref="/us/usc/t26/s6113">6113.</a>  </td>
 
     <td> Disclosure of nondeductibility of contributions.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 6114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6114" data-uslm-ref="/us/usc/t26/s6114">6114.</a>  </td>
 
     <td> Treaty-based return positions.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 6115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6115" data-uslm-ref="/us/usc/t26/s6115">6115.</a>  </td>
 
     <td> Disclosure related to quid pro quo contributions.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 6116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6116" data-uslm-ref="/us/usc/t26/s6116">6116.</a>  </td>
 
     <td> Requirement for prisons located in United States to provide information for tax administration.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 6117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6117" data-uslm-ref="/us/usc/t26/s6117">6117.</a>  </td>
 
     <td> Cross reference.  </td>
 

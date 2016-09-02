@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4181.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4181" data-uslm-ref="/us/usc/t26/s4181">4181.</a>  </td>
 
     <td> Imposition of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4182.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4182" data-uslm-ref="/us/usc/t26/s4182">4182.</a>  </td>
 
     <td> Exemptions.  </td>
 

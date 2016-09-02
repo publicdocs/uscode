@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4971.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4971" data-uslm-ref="/us/usc/t26/s4971">4971.</a>  </td>
 
     <td> Taxes on failure to meet minimum funding standards.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4972.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4972" data-uslm-ref="/us/usc/t26/s4972">4972.</a>  </td>
 
     <td> Tax on nondeductible contributions to qualified employer plans.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4973.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4973" data-uslm-ref="/us/usc/t26/s4973">4973.</a>  </td>
 
     <td> Tax on excess contributions to certain tax-favored accounts and annuities.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4974.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4974" data-uslm-ref="/us/usc/t26/s4974">4974.</a>  </td>
 
     <td> Excise tax on certain accumulations in qualified retirement plans.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4975.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4975" data-uslm-ref="/us/usc/t26/s4975">4975.</a>  </td>
 
     <td> Tax on prohibited transactions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4976.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4976" data-uslm-ref="/us/usc/t26/s4976">4976.</a>  </td>
 
     <td> Taxes with respect to funded welfare benefit plans.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4977.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4977" data-uslm-ref="/us/usc/t26/s4977">4977.</a>  </td>
 
     <td> Tax on certain fringe benefits provided by an employer.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4978.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4978" data-uslm-ref="/us/usc/t26/s4978">4978.</a>  </td>
 
     <td> Tax on certain dispositions by employee stock ownership plans and certain cooperatives.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> [4978A, 4978B.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4978A" data-uslm-ref="/us/usc/t26/s4978A">4978A</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4978B" data-uslm-ref="/us/usc/t26/s4978B">4978B.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 4979.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4979" data-uslm-ref="/us/usc/t26/s4979">4979.</a>  </td>
 
     <td> Tax on certain excess contributions.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 4979A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4979A" data-uslm-ref="/us/usc/t26/s4979A">4979A.</a>  </td>
 
     <td> Tax on certain prohibited allocations of qualified securities.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 4980.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4980" data-uslm-ref="/us/usc/t26/s4980">4980.</a>  </td>
 
     <td> Tax on reversion of qualified plan assets to employer.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 4980A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4980A" data-uslm-ref="/us/usc/t26/s4980A">4980A.</a>  </td>
 
     <td> Tax on excess distributions from qualified retirement plans. <sup>[1]</sup>  <sup><sup> 1 Section repealed by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F105%2F34" data-uslm-ref="/us/pl/105/34">Pub. L. 105–34</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 4980B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4980B" data-uslm-ref="/us/usc/t26/s4980B">4980B.</a>  </td>
 
     <td> Failure to satisfy continuation coverage requirements of group health plans.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 4980C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4980C" data-uslm-ref="/us/usc/t26/s4980C">4980C.</a>  </td>
 
     <td> Requirements for issuers of qualified long-term care insurance contracts.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 4980D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4980D" data-uslm-ref="/us/usc/t26/s4980D">4980D.</a>  </td>
 
     <td> Failure to meet certain group health plan requirements.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 4980E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4980E" data-uslm-ref="/us/usc/t26/s4980E">4980E.</a>  </td>
 
     <td> Failure of employer to make comparable Archer MSA contributions.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 4980F.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4980F" data-uslm-ref="/us/usc/t26/s4980F">4980F.</a>  </td>
 
     <td> Failure of applicable plans reducing benefit accruals to satisfy notice requirements.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 4980G.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4980G" data-uslm-ref="/us/usc/t26/s4980G">4980G.</a>  </td>
 
     <td> Failure of employer to make comparable health savings account contributions.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 4980H.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4980H" data-uslm-ref="/us/usc/t26/s4980H">4980H.</a>  </td>
 
     <td> Shared responsibility for employers regarding health coverage.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 4980I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4980I" data-uslm-ref="/us/usc/t26/s4980I">4980I.</a>  </td>
 
     <td> Excise tax on high cost employer-sponsored health coverage.  </td>
 

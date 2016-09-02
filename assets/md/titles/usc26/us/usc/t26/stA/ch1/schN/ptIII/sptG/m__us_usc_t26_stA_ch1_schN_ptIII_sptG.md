@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 970.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs970" data-uslm-ref="/us/usc/t26/s970">970.</a>  </td>
 
     <td> Reduction of subpart F income of export trade corporations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 971.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs971" data-uslm-ref="/us/usc/t26/s971">971.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [972.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs972" data-uslm-ref="/us/usc/t26/s972">972.</a>  </td>
 
     <td> Repealed.]  </td>
 

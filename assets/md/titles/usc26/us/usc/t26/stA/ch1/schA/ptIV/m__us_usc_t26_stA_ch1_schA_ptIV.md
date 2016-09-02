@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptIV%2FsptA" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptIV/sptA">A.</a>  </td>
 
     <td> Nonrefundable personal credits.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptIV%2FsptB" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptIV/sptB">B.</a>  </td>
 
     <td> Other credits.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptIV%2FsptC" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptIV/sptC">C.</a>  </td>
 
     <td> Refundable credits.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptIV%2FsptD" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptIV/sptD">D.</a>  </td>
 
     <td> Business-related credits.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptIV%2FsptE" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptIV/sptE">E.</a>  </td>
 
     <td> Rules for computing investment credit.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> F.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptIV%2FsptF" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptIV/sptF">F.</a>  </td>
 
     <td> Rules for computing work opportunity credit.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> G.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptIV%2FsptG" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptIV/sptG">G.</a>  </td>
 
     <td> Credit against regular tax for prior year minimum tax liability. <sup>[1]</sup>  <sup><sup> 1 Editorially supplied. Subpart G of part IV added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F99%2F514" data-uslm-ref="/us/pl/99/514">Pub. L. 99–514</a> without corresponding amendment of part analysis. </sup></sup>   </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> H.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptIV%2FsptH" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptIV/sptH">H.</a>  </td>
 
     <td> Nonrefundable credit to holders of clean renewable energy bonds.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptIV%2FsptI" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptIV/sptI">I.</a>  </td>
 
     <td> Qualified tax credit bonds.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> J.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptIV%2FsptJ" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptIV/sptJ">J.</a>  </td>
 
     <td> Build America bonds.  </td>
 

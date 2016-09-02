@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5111" data-uslm-ref="/us/usc/t26/s5111">5111.</a>  </td>
 
     <td> Eligibility.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5112" data-uslm-ref="/us/usc/t26/s5112">5112.</a>  </td>
 
     <td> Registration and regulation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5113" data-uslm-ref="/us/usc/t26/s5113">5113.</a>  </td>
 
     <td> Investigation of claims.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5114" data-uslm-ref="/us/usc/t26/s5114">5114.</a>  </td>
 
     <td> Drawback.  </td>
 

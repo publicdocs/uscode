@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6501" data-uslm-ref="/us/usc/t26/s6501">6501.</a>  </td>
 
     <td> Limitations on assessment and collection.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6502" data-uslm-ref="/us/usc/t26/s6502">6502.</a>  </td>
 
     <td> Collection after assessment.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6503" data-uslm-ref="/us/usc/t26/s6503">6503.</a>  </td>
 
     <td> Suspension of running of period of limitation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6504" data-uslm-ref="/us/usc/t26/s6504">6504.</a>  </td>
 
     <td> Cross references.  </td>
 

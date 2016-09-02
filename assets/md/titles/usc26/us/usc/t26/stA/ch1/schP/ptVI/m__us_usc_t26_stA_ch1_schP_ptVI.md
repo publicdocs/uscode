@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschP%2FptVI%2FsptA" data-uslm-ref="/us/usc/t26/stA/ch1/schP/ptVI/sptA">A.</a>  </td>
 
     <td> Interest on tax deferral.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschP%2FptVI%2FsptB" data-uslm-ref="/us/usc/t26/stA/ch1/schP/ptVI/sptB">B.</a>  </td>
 
     <td> Treatment of qualified electing funds.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschP%2FptVI%2FsptC" data-uslm-ref="/us/usc/t26/stA/ch1/schP/ptVI/sptC">C.</a>  </td>
 
     <td> Election of mark to market for marketable stock.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschP%2FptVI%2FsptD" data-uslm-ref="/us/usc/t26/stA/ch1/schP/ptVI/sptD">D.</a>  </td>
 
     <td> General provisions.  </td>
 

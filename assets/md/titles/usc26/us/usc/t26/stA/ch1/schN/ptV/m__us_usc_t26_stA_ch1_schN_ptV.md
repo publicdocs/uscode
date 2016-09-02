@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 999.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs999" data-uslm-ref="/us/usc/t26/s999">999.</a>  </td>
 
     <td> Reports by taxpayers; determinations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [1000.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1000" data-uslm-ref="/us/usc/t26/s1000">1000.</a>  </td>
 
     <td> Reserved.]  </td>
 

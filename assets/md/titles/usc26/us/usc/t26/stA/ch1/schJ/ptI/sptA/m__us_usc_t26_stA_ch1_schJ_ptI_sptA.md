@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 641.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs641" data-uslm-ref="/us/usc/t26/s641">641.</a>  </td>
 
     <td> Imposition of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 642.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs642" data-uslm-ref="/us/usc/t26/s642">642.</a>  </td>
 
     <td> Special rules for credits and deductions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 643.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs643" data-uslm-ref="/us/usc/t26/s643">643.</a>  </td>
 
     <td> Definitions applicable to subparts A, B, C, and D.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 644.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs644" data-uslm-ref="/us/usc/t26/s644">644.</a>  </td>
 
     <td> Taxable year of trusts.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 645.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs645" data-uslm-ref="/us/usc/t26/s645">645.</a>  </td>
 
     <td> Certain revocable trusts treated as part of estate.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 646.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs646" data-uslm-ref="/us/usc/t26/s646">646.</a>  </td>
 
     <td> Tax treatment of electing Alaska Native Settlement Trusts.  </td>
 

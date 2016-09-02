@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6751.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6751" data-uslm-ref="/us/usc/t26/s6751">6751.</a>  </td>
 
     <td> Procedural requirements.  </td>
 

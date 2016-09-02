@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7121" data-uslm-ref="/us/usc/t26/s7121">7121.</a>  </td>
 
     <td> Closing agreements.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7122" data-uslm-ref="/us/usc/t26/s7122">7122.</a>  </td>
 
     <td> Compromises.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7123" data-uslm-ref="/us/usc/t26/s7123">7123.</a>  </td>
 
     <td> Appeals dispute resolution procedures.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7124" data-uslm-ref="/us/usc/t26/s7124">7124.</a>  </td>
 
     <td> Cross references.  </td>
 

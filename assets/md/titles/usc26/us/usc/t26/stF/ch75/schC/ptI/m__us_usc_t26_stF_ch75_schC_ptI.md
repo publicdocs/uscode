@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7301" data-uslm-ref="/us/usc/t26/s7301">7301.</a>  </td>
 
     <td> Property subject to tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7302" data-uslm-ref="/us/usc/t26/s7302">7302.</a>  </td>
 
     <td> Property used in violation of internal revenue laws.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7303" data-uslm-ref="/us/usc/t26/s7303">7303.</a>  </td>
 
     <td> Other property subject to forfeiture.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7304" data-uslm-ref="/us/usc/t26/s7304">7304.</a>  </td>
 
     <td> Penalty for fraudulently claiming drawback.  </td>
 

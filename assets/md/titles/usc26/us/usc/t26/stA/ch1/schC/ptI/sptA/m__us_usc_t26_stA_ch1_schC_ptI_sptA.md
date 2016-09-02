@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs301" data-uslm-ref="/us/usc/t26/s301">301.</a>  </td>
 
     <td> Distributions of property.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs302" data-uslm-ref="/us/usc/t26/s302">302.</a>  </td>
 
     <td> Distributions in redemption of stock.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs303" data-uslm-ref="/us/usc/t26/s303">303.</a>  </td>
 
     <td> Distributions in redemption of stock to pay death taxes.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs304" data-uslm-ref="/us/usc/t26/s304">304.</a>  </td>
 
     <td> Redemption through use of related corporations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs305" data-uslm-ref="/us/usc/t26/s305">305.</a>  </td>
 
     <td> Distributions of stock and stock rights.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs306" data-uslm-ref="/us/usc/t26/s306">306.</a>  </td>
 
     <td> Dispositions of certain stock.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs307" data-uslm-ref="/us/usc/t26/s307">307.</a>  </td>
 
     <td> Basis of stock and stock rights acquired in distributions.  </td>
 

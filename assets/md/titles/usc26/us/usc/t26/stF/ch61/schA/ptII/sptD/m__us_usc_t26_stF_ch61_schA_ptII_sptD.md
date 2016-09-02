@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6020.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6020" data-uslm-ref="/us/usc/t26/s6020">6020.</a>  </td>
 
     <td> Returns prepared for or executed by Secretary.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6021.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6021" data-uslm-ref="/us/usc/t26/s6021">6021.</a>  </td>
 
     <td> Listing by Secretary of taxable objects owned by nonresidents of internal revenue districts.  </td>
 

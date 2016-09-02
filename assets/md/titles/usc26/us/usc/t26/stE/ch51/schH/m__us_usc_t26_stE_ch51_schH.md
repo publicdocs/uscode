@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschH%2FptI" data-uslm-ref="/us/usc/t26/stE/ch51/schH/ptI">I.</a>  </td>
 
     <td> Vinegar plants.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschH%2FptII" data-uslm-ref="/us/usc/t26/stE/ch51/schH/ptII">II.</a>  </td>
 
     <td> Volatile fruit-flavor concentrate plants.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [III.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschH%2FptIII" data-uslm-ref="/us/usc/t26/stE/ch51/schH/ptIII">III.</a>  </td>
 
     <td> Repealed.]  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1011" data-uslm-ref="/us/usc/t26/s1011">1011.</a>  </td>
 
     <td> Adjusted basis for determining gain or loss.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1012" data-uslm-ref="/us/usc/t26/s1012">1012.</a>  </td>
 
     <td> Basis of property—cost.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1013" data-uslm-ref="/us/usc/t26/s1013">1013.</a>  </td>
 
     <td> Basis of property included in inventory.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1014.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1014" data-uslm-ref="/us/usc/t26/s1014">1014.</a>  </td>
 
     <td> Basis of property acquired from a decedent.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1015.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1015" data-uslm-ref="/us/usc/t26/s1015">1015.</a>  </td>
 
     <td> Basis of property acquired by gifts and transfers in trust.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1016.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1016" data-uslm-ref="/us/usc/t26/s1016">1016.</a>  </td>
 
     <td> Adjustments to basis.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1017.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1017" data-uslm-ref="/us/usc/t26/s1017">1017.</a>  </td>
 
     <td> Discharge of indebtedness.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> [1018.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1018" data-uslm-ref="/us/usc/t26/s1018">1018.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1019.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1019" data-uslm-ref="/us/usc/t26/s1019">1019.</a>  </td>
 
     <td> Property on which lessee has made improvements.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [1020.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1020" data-uslm-ref="/us/usc/t26/s1020">1020.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1021.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1021" data-uslm-ref="/us/usc/t26/s1021">1021.</a>  </td>
 
     <td> Sale of annuities.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> [1022.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1022" data-uslm-ref="/us/usc/t26/s1022">1022.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1023.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1023" data-uslm-ref="/us/usc/t26/s1023">1023.</a>  </td>
 
     <td> Cross references.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> [1024.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1024" data-uslm-ref="/us/usc/t26/s1024">1024.</a>  </td>
 
     <td> Renumbered.]  </td>
 

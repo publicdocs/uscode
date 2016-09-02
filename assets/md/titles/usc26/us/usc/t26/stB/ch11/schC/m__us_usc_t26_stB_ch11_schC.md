@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2201" data-uslm-ref="/us/usc/t26/s2201">2201.</a>  </td>
 
     <td> Combat zone-related deaths of members of the Armed Forces, deaths of astronauts, and deaths of victims of certain terrorist attacks.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [2202.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2202" data-uslm-ref="/us/usc/t26/s2202">2202.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2203" data-uslm-ref="/us/usc/t26/s2203">2203.</a>  </td>
 
     <td> Definition of executor.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2204" data-uslm-ref="/us/usc/t26/s2204">2204.</a>  </td>
 
     <td> Discharge of fiduciary from personal liability.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2205" data-uslm-ref="/us/usc/t26/s2205">2205.</a>  </td>
 
     <td> Reimbursement out of estate.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2206" data-uslm-ref="/us/usc/t26/s2206">2206.</a>  </td>
 
     <td> Liability of life insurance beneficiaries.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2207" data-uslm-ref="/us/usc/t26/s2207">2207.</a>  </td>
 
     <td> Liability of recipient of property over which decedent had power of appointment.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2207A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2207A" data-uslm-ref="/us/usc/t26/s2207A">2207A.</a>  </td>
 
     <td> Right of recovery in the case of certain marital deduction property.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2207B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2207B" data-uslm-ref="/us/usc/t26/s2207B">2207B.</a>  </td>
 
     <td> Right of recovery where decedent retained interest.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2208.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2208" data-uslm-ref="/us/usc/t26/s2208">2208.</a>  </td>
 
     <td> Certain residents of possessions considered citizens of the United States.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2209.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2209" data-uslm-ref="/us/usc/t26/s2209">2209.</a>  </td>
 
     <td> Certain residents of possessions considered nonresidents not citizens of the United States.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> [2210.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2210" data-uslm-ref="/us/usc/t26/s2210">2210.</a>  </td>
 
     <td> Repealed.]  </td>
 

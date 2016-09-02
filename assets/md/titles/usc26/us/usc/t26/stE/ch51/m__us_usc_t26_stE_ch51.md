@@ -29,101 +29,101 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschA" data-uslm-ref="/us/usc/t26/stE/ch51/schA">A.</a>  </td>
 
     <td> Gallonage and occupational taxes  </td>
 
-    <td> 5001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5001" data-uslm-ref="/us/usc/t26/s5001">5001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschB" data-uslm-ref="/us/usc/t26/stE/ch51/schB">B.</a>  </td>
 
     <td> Qualification requirements for distilled spirits plants  </td>
 
-    <td> 5171  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5171" data-uslm-ref="/us/usc/t26/s5171">5171</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschC" data-uslm-ref="/us/usc/t26/stE/ch51/schC">C.</a>  </td>
 
     <td> Operation of distilled spirits plants  </td>
 
-    <td> 5201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5201" data-uslm-ref="/us/usc/t26/s5201">5201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschD" data-uslm-ref="/us/usc/t26/stE/ch51/schD">D.</a>  </td>
 
     <td> Industrial use of distilled spirits  </td>
 
-    <td> 5271  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5271" data-uslm-ref="/us/usc/t26/s5271">5271</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschE" data-uslm-ref="/us/usc/t26/stE/ch51/schE">E.</a>  </td>
 
     <td> General provisions relating to distilled spirits  </td>
 
-    <td> 5291  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5291" data-uslm-ref="/us/usc/t26/s5291">5291</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> F.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschF" data-uslm-ref="/us/usc/t26/stE/ch51/schF">F.</a>  </td>
 
     <td> Bonded and taxpaid wine premises  </td>
 
-    <td> 5351  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5351" data-uslm-ref="/us/usc/t26/s5351">5351</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> G.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschG" data-uslm-ref="/us/usc/t26/stE/ch51/schG">G.</a>  </td>
 
     <td> Breweries  </td>
 
-    <td> 5401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5401" data-uslm-ref="/us/usc/t26/s5401">5401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> H.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschH" data-uslm-ref="/us/usc/t26/stE/ch51/schH">H.</a>  </td>
 
     <td> Miscellaneous plants and warehouses  </td>
 
-    <td> 5501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5501" data-uslm-ref="/us/usc/t26/s5501">5501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschI" data-uslm-ref="/us/usc/t26/stE/ch51/schI">I.</a>  </td>
 
     <td> Miscellaneous general provisions  </td>
 
-    <td> 5551  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5551" data-uslm-ref="/us/usc/t26/s5551">5551</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> J.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschJ" data-uslm-ref="/us/usc/t26/stE/ch51/schJ">J.</a>  </td>
 
     <td> Penalties, seizures, and forfeitures relating to liquors  </td>
 
-    <td> 5601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5601" data-uslm-ref="/us/usc/t26/s5601">5601</a>  </td>
 
   </tr>
 

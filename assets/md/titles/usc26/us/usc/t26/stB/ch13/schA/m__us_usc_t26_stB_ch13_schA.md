@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2601" data-uslm-ref="/us/usc/t26/s2601">2601.</a>  </td>
 
     <td> Tax imposed.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2602" data-uslm-ref="/us/usc/t26/s2602">2602.</a>  </td>
 
     <td> Amount of tax.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2603" data-uslm-ref="/us/usc/t26/s2603">2603.</a>  </td>
 
     <td> Liability for tax.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2604" data-uslm-ref="/us/usc/t26/s2604">2604.</a>  </td>
 
     <td> Credit for certain State taxes.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6251" data-uslm-ref="/us/usc/t26/s6251">6251.</a>  </td>
 
     <td> Administrative adjustment requests.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6252" data-uslm-ref="/us/usc/t26/s6252">6252.</a>  </td>
 
     <td> Judicial review where administrative adjustment request is not allowed in full.  </td>
 

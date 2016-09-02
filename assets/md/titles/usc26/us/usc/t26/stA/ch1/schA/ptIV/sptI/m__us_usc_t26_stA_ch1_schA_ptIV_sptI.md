@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 54A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs54A" data-uslm-ref="/us/usc/t26/s54A">54A.</a>  </td>
 
     <td> Credit to holders of qualified tax credit bonds.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 54B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs54B" data-uslm-ref="/us/usc/t26/s54B">54B.</a>  </td>
 
     <td> Qualified forestry conservation bonds.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 54C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs54C" data-uslm-ref="/us/usc/t26/s54C">54C.</a>  </td>
 
     <td> Qualified clean renewable energy bonds. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 54D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs54D" data-uslm-ref="/us/usc/t26/s54D">54D.</a>  </td>
 
     <td> Qualified energy conservation bonds.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 54E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs54E" data-uslm-ref="/us/usc/t26/s54E">54E.</a>  </td>
 
     <td> Qualified zone academy bonds.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 54F.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs54F" data-uslm-ref="/us/usc/t26/s54F">54F.</a>  </td>
 
     <td> Qualified school construction bonds.  </td>
 

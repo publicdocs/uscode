@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9801" data-uslm-ref="/us/usc/t26/s9801">9801.</a>  </td>
 
     <td> Increased portability through limitation on preexisting condition exclusions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9802" data-uslm-ref="/us/usc/t26/s9802">9802.</a>  </td>
 
     <td> Prohibiting discrimination against individual participants and beneficiaries based on health status.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9803" data-uslm-ref="/us/usc/t26/s9803">9803.</a>  </td>
 
     <td> Guaranteed renewability in multiemployer plans and certain multiple employer welfare arrangements.  </td>
 
@@ -49,7 +49,9 @@
 
   <tr>
 
-    <td> [9804–9806. Renumbered.]  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9804%E2%80%939806" data-uslm-ref="/us/usc/t26/s9804–9806">9804–9806.</a>  </td>
+
+    <td> Renumbered.]  </td>
 
   </tr>
 

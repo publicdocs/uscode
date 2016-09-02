@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs501" data-uslm-ref="/us/usc/t26/s501">501.</a>  </td>
 
     <td> Exemption from tax on corporations, certain trusts, etc.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs502" data-uslm-ref="/us/usc/t26/s502">502.</a>  </td>
 
     <td> Feeder organizations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs503" data-uslm-ref="/us/usc/t26/s503">503.</a>  </td>
 
     <td> Requirements for exemption.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs504" data-uslm-ref="/us/usc/t26/s504">504.</a>  </td>
 
     <td> Status after organization ceases to qualify for exemption under section 501(c)(3) because of substantial lobbying or because of political activities.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs505" data-uslm-ref="/us/usc/t26/s505">505.</a>  </td>
 
     <td> Additional requirements for organizations described in paragraph (9), (17), or (20) of section 501(c).  </td>
 

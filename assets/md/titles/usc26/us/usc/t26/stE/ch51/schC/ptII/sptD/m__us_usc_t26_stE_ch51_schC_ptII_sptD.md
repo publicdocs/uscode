@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5241" data-uslm-ref="/us/usc/t26/s5241">5241.</a>  </td>
 
     <td> Authority to denature.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5242.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5242" data-uslm-ref="/us/usc/t26/s5242">5242.</a>  </td>
 
     <td> Denaturing materials.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5243.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5243" data-uslm-ref="/us/usc/t26/s5243">5243.</a>  </td>
 
     <td> Sale of abandoned spirits for denaturation without collection of tax.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5244.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5244" data-uslm-ref="/us/usc/t26/s5244">5244.</a>  </td>
 
     <td> Cross references.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6031.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6031" data-uslm-ref="/us/usc/t26/s6031">6031.</a>  </td>
 
     <td> Return of partnership income.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6032.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6032" data-uslm-ref="/us/usc/t26/s6032">6032.</a>  </td>
 
     <td> Returns of banks with respect to common trust funds.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6033.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6033" data-uslm-ref="/us/usc/t26/s6033">6033.</a>  </td>
 
     <td> Returns by exempt organizations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6034.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6034" data-uslm-ref="/us/usc/t26/s6034">6034.</a>  </td>
 
     <td> Returns by certain trusts.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6034A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6034A" data-uslm-ref="/us/usc/t26/s6034A">6034A.</a>  </td>
 
     <td> Information to beneficiaries of estates and trusts.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [6035.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6035" data-uslm-ref="/us/usc/t26/s6035">6035.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6036.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6036" data-uslm-ref="/us/usc/t26/s6036">6036.</a>  </td>
 
     <td> Notice of qualification as executor or receiver.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6037.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6037" data-uslm-ref="/us/usc/t26/s6037">6037.</a>  </td>
 
     <td> Return of S corporation.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 6038.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6038" data-uslm-ref="/us/usc/t26/s6038">6038.</a>  </td>
 
     <td> Information reporting with respect to certain foreign corporations and partnerships.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 6038A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6038A" data-uslm-ref="/us/usc/t26/s6038A">6038A.</a>  </td>
 
     <td> Information with respect to certain foreign-owned corporations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 6038B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6038B" data-uslm-ref="/us/usc/t26/s6038B">6038B.</a>  </td>
 
     <td> Notice of certain transfers to foreign persons.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 6038C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6038C" data-uslm-ref="/us/usc/t26/s6038C">6038C.</a>  </td>
 
     <td> Information with respect to foreign corporations engaged in U.S. business.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 6038D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6038D" data-uslm-ref="/us/usc/t26/s6038D">6038D.</a>  </td>
 
     <td> Information with respect to foreign financial assets.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 6039.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6039" data-uslm-ref="/us/usc/t26/s6039">6039.</a>  </td>
 
     <td> Returns required in connection with certain options.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> [6039A, 6039B.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6039A" data-uslm-ref="/us/usc/t26/s6039A">6039A</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6039B" data-uslm-ref="/us/usc/t26/s6039B">6039B.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 6039C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6039C" data-uslm-ref="/us/usc/t26/s6039C">6039C.</a>  </td>
 
     <td> Returns with respect to foreign persons holding direct investments in United States real property interests.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 6039D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6039D" data-uslm-ref="/us/usc/t26/s6039D">6039D.</a>  </td>
 
     <td> Returns and records with respect to certain fringe benefit plans. <sup>[1]</sup>  <sup><sup> 1 So in original. <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F98%2F611" data-uslm-ref="/us/pl/98/611">Pub. L. 98–611</a> and <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F98%2F612" data-uslm-ref="/us/pl/98/612">Pub. L. 98–612</a> enacted identical items designated “6039D”. <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F99%2F514%2Fs1879%2Fd%2F2" data-uslm-ref="/us/pl/99/514/s1879/d/2">Pub. L. 99–514, § 1879(d)(2)</a>, repealed the section 6039D enacted by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F98%2F612" data-uslm-ref="/us/pl/98/612">Pub. L. 98–612</a> without corresponding amendment of subpart analysis. </sup></sup>   </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 6039D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6039D" data-uslm-ref="/us/usc/t26/s6039D">6039D.</a>  </td>
 
     <td> Returns and records with respect to certain fringe benefit plans. <sup>[1]</sup>   </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 6039E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6039E" data-uslm-ref="/us/usc/t26/s6039E">6039E.</a>  </td>
 
     <td> Information concerning resident status.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 6039F.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6039F" data-uslm-ref="/us/usc/t26/s6039F">6039F.</a>  </td>
 
     <td> Notice of large gifts received from foreign persons.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 6039G.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6039G" data-uslm-ref="/us/usc/t26/s6039G">6039G.</a>  </td>
 
     <td> Information on individuals losing United States citizenship.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 6039H.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6039H" data-uslm-ref="/us/usc/t26/s6039H">6039H.</a>  </td>
 
     <td> Information with respect to Alaska Native Settlement Trusts and sponsoring Native Corporations.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 6039I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6039I" data-uslm-ref="/us/usc/t26/s6039I">6039I.</a>  </td>
 
     <td> Returns and records with respect to employer-owned life insurance contracts.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 6039J.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6039J" data-uslm-ref="/us/usc/t26/s6039J">6039J.</a>  </td>
 
     <td> Information reporting with respect to Commodity Credit Corporation transactions.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 6040.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6040" data-uslm-ref="/us/usc/t26/s6040">6040.</a>  </td>
 
     <td> Cross references.  </td>
 

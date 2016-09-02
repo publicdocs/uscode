@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 891.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs891" data-uslm-ref="/us/usc/t26/s891">891.</a>  </td>
 
     <td> Doubling of rates of tax on citizens and corporations of certain foreign countries.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 892.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs892" data-uslm-ref="/us/usc/t26/s892">892.</a>  </td>
 
     <td> Income of foreign governments and of international organizations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 893.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs893" data-uslm-ref="/us/usc/t26/s893">893.</a>  </td>
 
     <td> Compensation of employees of foreign governments or international organizations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 894.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs894" data-uslm-ref="/us/usc/t26/s894">894.</a>  </td>
 
     <td> Income affected by treaty.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 895.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs895" data-uslm-ref="/us/usc/t26/s895">895.</a>  </td>
 
     <td> Income derived by a foreign central bank of issue from obligations of the United States or from bank deposits.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 896.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs896" data-uslm-ref="/us/usc/t26/s896">896.</a>  </td>
 
     <td> Adjustment of tax on nationals, residents, and corporations of certain foreign countries.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 897.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs897" data-uslm-ref="/us/usc/t26/s897">897.</a>  </td>
 
     <td> Disposition of investment in United States real property.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 898.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs898" data-uslm-ref="/us/usc/t26/s898">898.</a>  </td>
 
     <td> Taxable year of certain foreign corporations.  </td>
 

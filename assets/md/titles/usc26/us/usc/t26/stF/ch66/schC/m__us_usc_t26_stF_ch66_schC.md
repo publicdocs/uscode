@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6521" data-uslm-ref="/us/usc/t26/s6521">6521.</a>  </td>
 
     <td> Mitigation of effect of limitation in case of related taxes under different chapters.  </td>
 

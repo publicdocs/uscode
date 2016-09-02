@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3241" data-uslm-ref="/us/usc/t26/s3241">3241.</a>  </td>
 
     <td> Determination of tier 2 tax rate based on average account benefits ratio.  </td>
 

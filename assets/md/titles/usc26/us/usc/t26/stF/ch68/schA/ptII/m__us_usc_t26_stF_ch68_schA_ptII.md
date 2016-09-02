@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6662.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6662" data-uslm-ref="/us/usc/t26/s6662">6662.</a>  </td>
 
     <td> Imposition of accuracy-related penalty on underpayments.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6662A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6662A" data-uslm-ref="/us/usc/t26/s6662A">6662A.</a>  </td>
 
     <td> Imposition of accuracy-related penalty on understatements with respect to reportable transactions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6663.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6663" data-uslm-ref="/us/usc/t26/s6663">6663.</a>  </td>
 
     <td> Imposition of fraud penalty.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6664.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6664" data-uslm-ref="/us/usc/t26/s6664">6664.</a>  </td>
 
     <td> Definitions and special rules.  </td>
 

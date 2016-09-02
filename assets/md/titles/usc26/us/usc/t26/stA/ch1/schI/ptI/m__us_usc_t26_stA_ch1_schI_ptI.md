@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs611" data-uslm-ref="/us/usc/t26/s611">611.</a>  </td>
 
     <td> Allowance of deduction for depletion.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs612" data-uslm-ref="/us/usc/t26/s612">612.</a>  </td>
 
     <td> Basis for cost depletion.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs613" data-uslm-ref="/us/usc/t26/s613">613.</a>  </td>
 
     <td> Percentage depletion.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 613A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs613A" data-uslm-ref="/us/usc/t26/s613A">613A.</a>  </td>
 
     <td> Limitations on percentage depletion in case of oil and gas wells. <sup>[1]</sup>  <sup><sup> 1 Editorially supplied. Section 613A added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F94%2F12" data-uslm-ref="/us/pl/94/12">Pub. L. 94–12</a> without corresponding amendment of part analysis. </sup></sup>   </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 614.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs614" data-uslm-ref="/us/usc/t26/s614">614.</a>  </td>
 
     <td> Definition of property.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [615.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs615" data-uslm-ref="/us/usc/t26/s615">615.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 616.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs616" data-uslm-ref="/us/usc/t26/s616">616.</a>  </td>
 
     <td> Development expenditures.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 617.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs617" data-uslm-ref="/us/usc/t26/s617">617.</a>  </td>
 
     <td> Deduction and recapture of certain mining exploration expenditures.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6331" data-uslm-ref="/us/usc/t26/s6331">6331.</a>  </td>
 
     <td> Levy and distraint.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6332" data-uslm-ref="/us/usc/t26/s6332">6332.</a>  </td>
 
     <td> Surrender of property subject to levy.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6333" data-uslm-ref="/us/usc/t26/s6333">6333.</a>  </td>
 
     <td> Production of books.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6334" data-uslm-ref="/us/usc/t26/s6334">6334.</a>  </td>
 
     <td> Property exempt from levy.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6335" data-uslm-ref="/us/usc/t26/s6335">6335.</a>  </td>
 
     <td> Sale of seized property.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6336.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6336" data-uslm-ref="/us/usc/t26/s6336">6336.</a>  </td>
 
     <td> Sale of perishable goods.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6337.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6337" data-uslm-ref="/us/usc/t26/s6337">6337.</a>  </td>
 
     <td> Redemption of property.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6338.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6338" data-uslm-ref="/us/usc/t26/s6338">6338.</a>  </td>
 
     <td> Certificate of sale; deed of real property.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 6339.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6339" data-uslm-ref="/us/usc/t26/s6339">6339.</a>  </td>
 
     <td> Legal effect of certificate of sale of personal property and deed of real property.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 6340.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6340" data-uslm-ref="/us/usc/t26/s6340">6340.</a>  </td>
 
     <td> Records of sale.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 6341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6341" data-uslm-ref="/us/usc/t26/s6341">6341.</a>  </td>
 
     <td> Expense of levy and sale.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 6342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6342" data-uslm-ref="/us/usc/t26/s6342">6342.</a>  </td>
 
     <td> Application of proceeds of levy.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 6343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6343" data-uslm-ref="/us/usc/t26/s6343">6343.</a>  </td>
 
     <td> Authority to release levy and return prop­erty.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 6344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6344" data-uslm-ref="/us/usc/t26/s6344">6344.</a>  </td>
 
     <td> Cross references.  </td>
 

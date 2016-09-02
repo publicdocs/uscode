@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7481" data-uslm-ref="/us/usc/t26/s7481">7481.</a>  </td>
 
     <td> Date when Tax Court decision becomes final.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7482.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7482" data-uslm-ref="/us/usc/t26/s7482">7482.</a>  </td>
 
     <td> Courts of review.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7483.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7483" data-uslm-ref="/us/usc/t26/s7483">7483.</a>  </td>
 
     <td> Notice of appeal.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7484.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7484" data-uslm-ref="/us/usc/t26/s7484">7484.</a>  </td>
 
     <td> Change of incumbent in office.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7485.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7485" data-uslm-ref="/us/usc/t26/s7485">7485.</a>  </td>
 
     <td> Bond to stay assessment and collection.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7486.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7486" data-uslm-ref="/us/usc/t26/s7486">7486.</a>  </td>
 
     <td> Refund, credit, or abatement of amounts disallowed.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7487.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7487" data-uslm-ref="/us/usc/t26/s7487">7487.</a>  </td>
 
     <td> Cross references.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9601" data-uslm-ref="/us/usc/t26/s9601">9601.</a>  </td>
 
     <td> Transfer of amounts.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9602" data-uslm-ref="/us/usc/t26/s9602">9602.</a>  </td>
 
     <td> Management of Trust Funds.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschE%2FptI" data-uslm-ref="/us/usc/t26/stE/ch51/schE/ptI">I.</a>  </td>
 
     <td> Return of materials used in the manufacture or recovery of distilled spirits.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschE%2FptII" data-uslm-ref="/us/usc/t26/stE/ch51/schE/ptII">II.</a>  </td>
 
     <td> Regulation of traffic in containers of distilled spirits.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschE%2FptIII" data-uslm-ref="/us/usc/t26/stE/ch51/schE/ptIII">III.</a>  </td>
 
     <td> Miscellaneous provisions.  </td>
 

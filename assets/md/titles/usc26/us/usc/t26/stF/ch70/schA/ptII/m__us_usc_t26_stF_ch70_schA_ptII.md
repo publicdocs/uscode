@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6861.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6861" data-uslm-ref="/us/usc/t26/s6861">6861.</a>  </td>
 
     <td> Jeopardy assessments of income, estate, gift, and certain excise taxes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6862.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6862" data-uslm-ref="/us/usc/t26/s6862">6862.</a>  </td>
 
     <td> Jeopardy assessment of taxes other than income, estate, gift, and certain excise taxes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6863.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6863" data-uslm-ref="/us/usc/t26/s6863">6863.</a>  </td>
 
     <td> Stay of collection of jeopardy assessments.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6864.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6864" data-uslm-ref="/us/usc/t26/s6864">6864.</a>  </td>
 
     <td> Termination of extended period for payment in case of carryback.  </td>
 

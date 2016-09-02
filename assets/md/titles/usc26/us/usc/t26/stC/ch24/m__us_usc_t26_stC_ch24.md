@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3401" data-uslm-ref="/us/usc/t26/s3401">3401.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3402" data-uslm-ref="/us/usc/t26/s3402">3402.</a>  </td>
 
     <td> Income tax collected at source.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3403" data-uslm-ref="/us/usc/t26/s3403">3403.</a>  </td>
 
     <td> Liability for tax.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3404" data-uslm-ref="/us/usc/t26/s3404">3404.</a>  </td>
 
     <td> Return and payment by governmental employer.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3405" data-uslm-ref="/us/usc/t26/s3405">3405.</a>  </td>
 
     <td> Special rules for pensions, annuities, and certain other deferred income. <sup>[1]</sup>  <sup><sup> 1 Editorially supplied. Section 3405 added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F97%2F248" data-uslm-ref="/us/pl/97/248">Pub. L. 97–248</a> without corresponding amendment of analysis. </sup></sup>   </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3406" data-uslm-ref="/us/usc/t26/s3406">3406.</a>  </td>
 
     <td> Backup withholding.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [3451 to 3456.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3451" data-uslm-ref="/us/usc/t26/s3451">3451</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3456" data-uslm-ref="/us/usc/t26/s3456">3456.</a>  </td>
 
     <td> Repealed.]  </td>
 

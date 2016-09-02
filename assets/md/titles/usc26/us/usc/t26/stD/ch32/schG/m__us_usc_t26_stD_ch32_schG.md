@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4221" data-uslm-ref="/us/usc/t26/s4221">4221.</a>  </td>
 
     <td> Certain tax-free sales.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4222.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4222" data-uslm-ref="/us/usc/t26/s4222">4222.</a>  </td>
 
     <td> Registration.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4223.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4223" data-uslm-ref="/us/usc/t26/s4223">4223.</a>  </td>
 
     <td> Special rules relating to further manufacture.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [4224.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4224" data-uslm-ref="/us/usc/t26/s4224">4224.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4225.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4225" data-uslm-ref="/us/usc/t26/s4225">4225.</a>  </td>
 
     <td> Exemption of articles manufactured or produced by Indians.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [4226.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4226" data-uslm-ref="/us/usc/t26/s4226">4226.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4227.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4227" data-uslm-ref="/us/usc/t26/s4227">4227.</a>  </td>
 
     <td> Cross reference.  </td>
 

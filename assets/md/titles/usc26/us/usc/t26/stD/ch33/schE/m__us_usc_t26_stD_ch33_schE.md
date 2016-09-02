@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4291.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4291" data-uslm-ref="/us/usc/t26/s4291">4291.</a>  </td>
 
     <td> Cases where persons receiving payment must collect tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [4292.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4292" data-uslm-ref="/us/usc/t26/s4292">4292.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4293.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4293" data-uslm-ref="/us/usc/t26/s4293">4293.</a>  </td>
 
     <td> Exemption for United States and possessions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [4294, 4295.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4294" data-uslm-ref="/us/usc/t26/s4294">4294</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4295" data-uslm-ref="/us/usc/t26/s4295">4295.</a>  </td>
 
     <td> Repealed.]  </td>
 

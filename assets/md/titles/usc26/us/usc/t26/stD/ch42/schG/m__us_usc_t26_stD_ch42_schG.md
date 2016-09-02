@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4966.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4966" data-uslm-ref="/us/usc/t26/s4966">4966.</a>  </td>
 
     <td> Taxes on taxable distributions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4967.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4967" data-uslm-ref="/us/usc/t26/s4967">4967.</a>  </td>
 
     <td> Taxes on prohibited benefits.  </td>
 

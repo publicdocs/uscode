@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs8001" data-uslm-ref="/us/usc/t26/s8001">8001.</a>  </td>
 
     <td> Authorization.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs8002" data-uslm-ref="/us/usc/t26/s8002">8002.</a>  </td>
 
     <td> Membership.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs8003" data-uslm-ref="/us/usc/t26/s8003">8003.</a>  </td>
 
     <td> Election of chairman and vice chairman.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs8004" data-uslm-ref="/us/usc/t26/s8004">8004.</a>  </td>
 
     <td> Appointment and compensation of staff.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs8005" data-uslm-ref="/us/usc/t26/s8005">8005.</a>  </td>
 
     <td> Payment of expenses.  </td>
 

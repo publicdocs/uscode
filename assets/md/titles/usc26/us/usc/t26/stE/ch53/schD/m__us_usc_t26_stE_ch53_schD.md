@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5871.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5871" data-uslm-ref="/us/usc/t26/s5871">5871.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5872.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5872" data-uslm-ref="/us/usc/t26/s5872">5872.</a>  </td>
 
     <td> Forfeitures.  </td>
 

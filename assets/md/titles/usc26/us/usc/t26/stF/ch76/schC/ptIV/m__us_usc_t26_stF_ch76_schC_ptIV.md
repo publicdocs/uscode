@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7476.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7476" data-uslm-ref="/us/usc/t26/s7476">7476.</a>  </td>
 
     <td> Declaratory judgments relating to qualification of certain retirement plans.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7477.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7477" data-uslm-ref="/us/usc/t26/s7477">7477.</a>  </td>
 
     <td> Declaratory judgments relating to value of certain gifts.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7478.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7478" data-uslm-ref="/us/usc/t26/s7478">7478.</a>  </td>
 
     <td> Declaratory judgments relating to status of certain governmental obligations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7479.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7479" data-uslm-ref="/us/usc/t26/s7479">7479.</a>  </td>
 
     <td> Declaratory judgments relating to eligibility of estate with respect to installment payments under section 6166.  </td>
 

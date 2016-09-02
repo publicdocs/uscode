@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5501" data-uslm-ref="/us/usc/t26/s5501">5501.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5502" data-uslm-ref="/us/usc/t26/s5502">5502.</a>  </td>
 
     <td> Qualification.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5503" data-uslm-ref="/us/usc/t26/s5503">5503.</a>  </td>
 
     <td> Construction and equipment.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5504" data-uslm-ref="/us/usc/t26/s5504">5504.</a>  </td>
 
     <td> Operation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5505" data-uslm-ref="/us/usc/t26/s5505">5505.</a>  </td>
 
     <td> Applicability of provisions of this chapter.  </td>
 

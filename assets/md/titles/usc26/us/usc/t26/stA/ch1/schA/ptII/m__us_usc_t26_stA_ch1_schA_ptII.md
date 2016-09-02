@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs11" data-uslm-ref="/us/usc/t26/s11">11.</a>  </td>
 
     <td> Tax imposed.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs12" data-uslm-ref="/us/usc/t26/s12">12.</a>  </td>
 
     <td> Cross references relating to tax on corporations.  </td>
 

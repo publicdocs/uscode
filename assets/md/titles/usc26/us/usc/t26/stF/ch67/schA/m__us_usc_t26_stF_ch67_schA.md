@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6601" data-uslm-ref="/us/usc/t26/s6601">6601.</a>  </td>
 
     <td> Interest on underpayment, nonpayment, or extensions of time for payment, of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6602" data-uslm-ref="/us/usc/t26/s6602">6602.</a>  </td>
 
     <td> Interest on erroneous refund recoverable by suit.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6603" data-uslm-ref="/us/usc/t26/s6603">6603.</a>  </td>
 
     <td> Deposits made to suspend running of interest on potential underpayments, etc.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7501" data-uslm-ref="/us/usc/t26/s7501">7501.</a>  </td>
 
     <td> Liability for taxes withheld or collected.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7502" data-uslm-ref="/us/usc/t26/s7502">7502.</a>  </td>
 
     <td> Timely mailing treated as timely filing and paying.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7503" data-uslm-ref="/us/usc/t26/s7503">7503.</a>  </td>
 
     <td> Time for performance of acts where last day falls on Saturday, Sunday, or legal holiday.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7504" data-uslm-ref="/us/usc/t26/s7504">7504.</a>  </td>
 
     <td> Fractional parts of a dollar.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7505" data-uslm-ref="/us/usc/t26/s7505">7505.</a>  </td>
 
     <td> Sale of personal property acquired by the United States.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7506" data-uslm-ref="/us/usc/t26/s7506">7506.</a>  </td>
 
     <td> Administration of real estate acquired by the United States.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7507" data-uslm-ref="/us/usc/t26/s7507">7507.</a>  </td>
 
     <td> Exemption of insolvent banks from tax.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7508" data-uslm-ref="/us/usc/t26/s7508">7508.</a>  </td>
 
     <td> Time for performing certain acts postponed by reason of service in combat zone or contingency operation.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 7508A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7508A" data-uslm-ref="/us/usc/t26/s7508A">7508A.</a>  </td>
 
     <td> Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 7509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7509" data-uslm-ref="/us/usc/t26/s7509">7509.</a>  </td>
 
     <td> Expenditures incurred by the United States Postal Service.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 7510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7510" data-uslm-ref="/us/usc/t26/s7510">7510.</a>  </td>
 
     <td> Exemption from tax of domestic goods purchased for the United States.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> [7511.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7511" data-uslm-ref="/us/usc/t26/s7511">7511.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 7512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7512" data-uslm-ref="/us/usc/t26/s7512">7512.</a>  </td>
 
     <td> Separate accounting for certain collected taxes, etc.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 7513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7513" data-uslm-ref="/us/usc/t26/s7513">7513.</a>  </td>
 
     <td> Reproduction of returns and other documents.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 7514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7514" data-uslm-ref="/us/usc/t26/s7514">7514.</a>  </td>
 
     <td> Authority to prescribe or modify seals.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 7515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7515" data-uslm-ref="/us/usc/t26/s7515">7515.</a>  </td>
 
     <td> Special statistical studies and compilations and other services on request. <sup>[1]</sup>  <sup><sup> 1 Section repealed by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F94%2F455" data-uslm-ref="/us/pl/94/455">Pub. L. 94–455</a> without corresponding amendment of analysis. </sup></sup>   </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 7516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7516" data-uslm-ref="/us/usc/t26/s7516">7516.</a>  </td>
 
     <td> Supplying training and training aids on request.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 7517.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7517" data-uslm-ref="/us/usc/t26/s7517">7517.</a>  </td>
 
     <td> Furnishing on request of statement explaining estate or gift valuation.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 7518.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7518" data-uslm-ref="/us/usc/t26/s7518">7518.</a>  </td>
 
     <td> Tax incentives relating to merchant marine capital construction funds.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 7519.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7519" data-uslm-ref="/us/usc/t26/s7519">7519.</a>  </td>
 
     <td> Required payments for entities electing not to have required taxable year.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 7520.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7520" data-uslm-ref="/us/usc/t26/s7520">7520.</a>  </td>
 
     <td> Valuation tables.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 7521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7521" data-uslm-ref="/us/usc/t26/s7521">7521.</a>  </td>
 
     <td> Procedures involving taxpayer interviews.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 7522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7522" data-uslm-ref="/us/usc/t26/s7522">7522.</a>  </td>
 
     <td> Content of tax due, deficiency, and other notices.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 7523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7523" data-uslm-ref="/us/usc/t26/s7523">7523.</a>  </td>
 
     <td> Graphic presentation of major categories of Federal outlays and income.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 7524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7524" data-uslm-ref="/us/usc/t26/s7524">7524.</a>  </td>
 
     <td> Annual notice of tax delinquency.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 7525.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7525" data-uslm-ref="/us/usc/t26/s7525">7525.</a>  </td>
 
     <td> Confidentiality privileges relating to taxpayer communications.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 7526.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7526" data-uslm-ref="/us/usc/t26/s7526">7526.</a>  </td>
 
     <td> Low-income taxpayer clinics.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 7527.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7527" data-uslm-ref="/us/usc/t26/s7527">7527.</a>  </td>
 
     <td> Advance payment of credit for health insurance costs of eligible individuals.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 7528.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7528" data-uslm-ref="/us/usc/t26/s7528">7528.</a>  </td>
 
     <td> Internal Revenue Service user fees.  </td>
 

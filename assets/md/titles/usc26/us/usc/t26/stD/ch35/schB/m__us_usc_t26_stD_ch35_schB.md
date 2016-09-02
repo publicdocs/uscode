@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4411" data-uslm-ref="/us/usc/t26/s4411">4411.</a>  </td>
 
     <td> Imposition of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4412" data-uslm-ref="/us/usc/t26/s4412">4412.</a>  </td>
 
     <td> Registration.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4413" data-uslm-ref="/us/usc/t26/s4413">4413.</a>  </td>
 
     <td> Certain provisions made applicable.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4414" data-uslm-ref="/us/usc/t26/s4414">4414.</a>  </td>
 
     <td> Cross references.  </td>
 

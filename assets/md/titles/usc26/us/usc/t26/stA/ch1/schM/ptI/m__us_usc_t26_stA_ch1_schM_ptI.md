@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 851.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs851" data-uslm-ref="/us/usc/t26/s851">851.</a>  </td>
 
     <td> Definition of regulated investment company.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 852.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs852" data-uslm-ref="/us/usc/t26/s852">852.</a>  </td>
 
     <td> Taxation of regulated investment companies and their shareholders.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 853.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs853" data-uslm-ref="/us/usc/t26/s853">853.</a>  </td>
 
     <td> Foreign tax credit allowed to shareholders.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 853A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs853A" data-uslm-ref="/us/usc/t26/s853A">853A.</a>  </td>
 
     <td> Credits from tax credit bonds allowed to shareholders.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 854.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs854" data-uslm-ref="/us/usc/t26/s854">854.</a>  </td>
 
     <td> Limitations applicable to dividends received from regulated investment company.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 855.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs855" data-uslm-ref="/us/usc/t26/s855">855.</a>  </td>
 
     <td> Dividends paid by regulated investment company after close of taxable year.  </td>
 

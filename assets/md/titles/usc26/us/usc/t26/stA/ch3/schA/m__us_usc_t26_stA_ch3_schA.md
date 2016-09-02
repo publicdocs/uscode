@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1441" data-uslm-ref="/us/usc/t26/s1441">1441.</a>  </td>
 
     <td> Withholding of tax on nonresident aliens.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1442" data-uslm-ref="/us/usc/t26/s1442">1442.</a>  </td>
 
     <td> Withholding of tax on foreign corporations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1443.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1443" data-uslm-ref="/us/usc/t26/s1443">1443.</a>  </td>
 
     <td> Foreign tax-exempt organizations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1444.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1444" data-uslm-ref="/us/usc/t26/s1444">1444.</a>  </td>
 
     <td> Withholding on Virgin Islands source income.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1445.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1445" data-uslm-ref="/us/usc/t26/s1445">1445.</a>  </td>
 
     <td> Withholding of tax on dispositions of United States real property interests.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1446.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1446" data-uslm-ref="/us/usc/t26/s1446">1446.</a>  </td>
 
     <td> Withholding of tax on foreign partners’ share of effectively connected income.  </td>
 

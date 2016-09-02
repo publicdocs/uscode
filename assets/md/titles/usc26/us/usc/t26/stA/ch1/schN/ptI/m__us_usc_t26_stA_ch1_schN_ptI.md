@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 861.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs861" data-uslm-ref="/us/usc/t26/s861">861.</a>  </td>
 
     <td> Income from sources within the United States.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 862.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs862" data-uslm-ref="/us/usc/t26/s862">862.</a>  </td>
 
     <td> Income from sources without the United States.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 863.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs863" data-uslm-ref="/us/usc/t26/s863">863.</a>  </td>
 
     <td> Special rules for determining source.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 864.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs864" data-uslm-ref="/us/usc/t26/s864">864.</a>  </td>
 
     <td> Definitions and special rules.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 865.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs865" data-uslm-ref="/us/usc/t26/s865">865.</a>  </td>
 
     <td> Source rules for personal property sales.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschJ%2FptI%2FsptA" data-uslm-ref="/us/usc/t26/stA/ch1/schJ/ptI/sptA">A.</a>  </td>
 
     <td> General rules for taxation of estates and trusts.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschJ%2FptI%2FsptB" data-uslm-ref="/us/usc/t26/stA/ch1/schJ/ptI/sptB">B.</a>  </td>
 
     <td> Trusts which distribute current income only.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschJ%2FptI%2FsptC" data-uslm-ref="/us/usc/t26/stA/ch1/schJ/ptI/sptC">C.</a>  </td>
 
     <td> Estates and trusts which may accumulate income or which distribute corpus.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschJ%2FptI%2FsptD" data-uslm-ref="/us/usc/t26/stA/ch1/schJ/ptI/sptD">D.</a>  </td>
 
     <td> Treatment of excess distributions by trusts.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschJ%2FptI%2FsptE" data-uslm-ref="/us/usc/t26/stA/ch1/schJ/ptI/sptE">E.</a>  </td>
 
     <td> Grantors and others treated as substantial owners.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> F.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschJ%2FptI%2FsptF" data-uslm-ref="/us/usc/t26/stA/ch1/schJ/ptI/sptF">F.</a>  </td>
 
     <td> Miscellaneous.  </td>
 

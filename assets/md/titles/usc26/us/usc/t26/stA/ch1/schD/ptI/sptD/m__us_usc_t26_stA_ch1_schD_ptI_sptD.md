@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 419.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs419" data-uslm-ref="/us/usc/t26/s419">419.</a>  </td>
 
     <td> Treatment of funded welfare benefit plans.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 419A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs419A" data-uslm-ref="/us/usc/t26/s419A">419A.</a>  </td>
 
     <td> Qualified asset account; limitation on additions to account.  </td>
 

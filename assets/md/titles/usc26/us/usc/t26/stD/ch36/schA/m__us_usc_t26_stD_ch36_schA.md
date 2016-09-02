@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4461" data-uslm-ref="/us/usc/t26/s4461">4461.</a>  </td>
 
     <td> Imposition of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4462" data-uslm-ref="/us/usc/t26/s4462">4462.</a>  </td>
 
     <td> Definitions and special rules.  </td>
 

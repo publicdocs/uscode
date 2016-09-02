@@ -29,41 +29,41 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch63%2FschA" data-uslm-ref="/us/usc/t26/stF/ch63/schA">A.</a>  </td>
 
     <td> In general  </td>
 
-    <td> 6201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6201" data-uslm-ref="/us/usc/t26/s6201">6201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch63%2FschB" data-uslm-ref="/us/usc/t26/stF/ch63/schB">B.</a>  </td>
 
     <td> Deficiency procedures in the case of income, estate, gift, and certain excise taxes  </td>
 
-    <td> 6211  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6211" data-uslm-ref="/us/usc/t26/s6211">6211</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch63%2FschC" data-uslm-ref="/us/usc/t26/stF/ch63/schC">C.</a>  </td>
 
     <td> Tax treatment of partnership items  </td>
 
-    <td> 6221  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6221" data-uslm-ref="/us/usc/t26/s6221">6221</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch63%2FschD" data-uslm-ref="/us/usc/t26/stF/ch63/schD">D.</a>  </td>
 
     <td> Treatment of electing large partnerships  </td>
 
-    <td> 6240  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6240" data-uslm-ref="/us/usc/t26/s6240">6240</a>  </td>
 
   </tr>
 

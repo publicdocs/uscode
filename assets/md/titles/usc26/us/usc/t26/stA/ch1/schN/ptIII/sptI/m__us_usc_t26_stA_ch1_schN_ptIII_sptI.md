@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 982.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs982" data-uslm-ref="/us/usc/t26/s982">982.</a>  </td>
 
     <td> Admissibility of documentation maintained in foreign countries.  </td>
 

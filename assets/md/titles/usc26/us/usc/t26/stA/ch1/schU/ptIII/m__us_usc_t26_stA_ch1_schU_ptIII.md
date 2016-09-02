@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschU%2FptIII%2FsptA" data-uslm-ref="/us/usc/t26/stA/ch1/schU/ptIII/sptA">A.</a>  </td>
 
     <td> Empowerment zone employment credit.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschU%2FptIII%2FsptB" data-uslm-ref="/us/usc/t26/stA/ch1/schU/ptIII/sptB">B.</a>  </td>
 
     <td> Additional expensing.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschU%2FptIII%2FsptC" data-uslm-ref="/us/usc/t26/stA/ch1/schU/ptIII/sptC">C.</a>  </td>
 
     <td> Nonrecognition of gain on rollover of empowerment zone investments.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschU%2FptIII%2FsptD" data-uslm-ref="/us/usc/t26/stA/ch1/schU/ptIII/sptD">D.</a>  </td>
 
     <td> General provisions.  </td>
 

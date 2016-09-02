@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6320.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6320" data-uslm-ref="/us/usc/t26/s6320">6320.</a>  </td>
 
     <td> Notice and opportunity for hearing upon filing of notice of lien.  </td>
 

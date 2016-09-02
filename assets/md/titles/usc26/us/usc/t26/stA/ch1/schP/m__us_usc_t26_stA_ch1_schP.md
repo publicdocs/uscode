@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschP%2FptI" data-uslm-ref="/us/usc/t26/stA/ch1/schP/ptI">I.</a>  </td>
 
     <td> Treatment of capital gains.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschP%2FptII" data-uslm-ref="/us/usc/t26/stA/ch1/schP/ptII">II.</a>  </td>
 
     <td> Treatment of capital losses.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschP%2FptIII" data-uslm-ref="/us/usc/t26/stA/ch1/schP/ptIII">III.</a>  </td>
 
     <td> General rules for determining capital gains and losses.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschP%2FptIV" data-uslm-ref="/us/usc/t26/stA/ch1/schP/ptIV">IV.</a>  </td>
 
     <td> Special rules for determining capital gains and losses.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> V.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschP%2FptV" data-uslm-ref="/us/usc/t26/stA/ch1/schP/ptV">V.</a>  </td>
 
     <td> Special rules for bonds and other debt instruments.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> VI.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschP%2FptVI" data-uslm-ref="/us/usc/t26/stA/ch1/schP/ptVI">VI.</a>  </td>
 
     <td> Treatment of certain passive foreign investment companies.  </td>
 

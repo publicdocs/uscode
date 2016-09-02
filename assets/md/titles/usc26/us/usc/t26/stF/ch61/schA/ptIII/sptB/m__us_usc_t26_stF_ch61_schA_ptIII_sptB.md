@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6041.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6041" data-uslm-ref="/us/usc/t26/s6041">6041.</a>  </td>
 
     <td> Information at source.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6041A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6041A" data-uslm-ref="/us/usc/t26/s6041A">6041A.</a>  </td>
 
     <td> Returns regarding payments of remuneration for services and direct sales. <sup>[1]</sup>  <sup><sup> 1 Editorially supplied. Section 6041A added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F97%2F248" data-uslm-ref="/us/pl/97/248">Pub. L. 97–248</a> without corresponding amendment of subpart analysis. </sup></sup>   </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6042.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6042" data-uslm-ref="/us/usc/t26/s6042">6042.</a>  </td>
 
     <td> Returns regarding payments of dividends and corporate earnings and profits.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6043.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6043" data-uslm-ref="/us/usc/t26/s6043">6043.</a>  </td>
 
     <td> Liquidating, etc., transactions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6043A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6043A" data-uslm-ref="/us/usc/t26/s6043A">6043A.</a>  </td>
 
     <td> Returns relating to taxable mergers and acquisitions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6044.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6044" data-uslm-ref="/us/usc/t26/s6044">6044.</a>  </td>
 
     <td> Returns regarding payments of patronage dividends.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6045.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6045" data-uslm-ref="/us/usc/t26/s6045">6045.</a>  </td>
 
     <td> Returns of brokers.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6045A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6045A" data-uslm-ref="/us/usc/t26/s6045A">6045A.</a>  </td>
 
     <td> Information required in connection with transfers of covered securities to brokers.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 6045B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6045B" data-uslm-ref="/us/usc/t26/s6045B">6045B.</a>  </td>
 
     <td> Returns relating to actions affecting basis of specified securities.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 6046.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6046" data-uslm-ref="/us/usc/t26/s6046">6046.</a>  </td>
 
     <td> Returns as to organization or reorganization of foreign corporations and as to acquisitions of their stock.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 6046A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6046A" data-uslm-ref="/us/usc/t26/s6046A">6046A.</a>  </td>
 
     <td> Returns as to interests in foreign partnerships.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 6047.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6047" data-uslm-ref="/us/usc/t26/s6047">6047.</a>  </td>
 
     <td> Information relating to certain trusts and annuity plans.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 6048.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6048" data-uslm-ref="/us/usc/t26/s6048">6048.</a>  </td>
 
     <td> Information with respect to certain foreign trusts.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 6049.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6049" data-uslm-ref="/us/usc/t26/s6049">6049.</a>  </td>
 
     <td> Returns regarding payments of interest.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> [6050.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050" data-uslm-ref="/us/usc/t26/s6050">6050.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 6050A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050A" data-uslm-ref="/us/usc/t26/s6050A">6050A.</a>  </td>
 
     <td> Reporting requirements of certain fishing boat operators.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 6050B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050B" data-uslm-ref="/us/usc/t26/s6050B">6050B.</a>  </td>
 
     <td> Returns relating to unemployment compensation.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> [6050C.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050C" data-uslm-ref="/us/usc/t26/s6050C">6050C.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 6050D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050D" data-uslm-ref="/us/usc/t26/s6050D">6050D.</a>  </td>
 
     <td> Returns relating to energy grants and financing.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 6050E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050E" data-uslm-ref="/us/usc/t26/s6050E">6050E.</a>  </td>
 
     <td> State and local income tax refunds.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 6050F.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050F" data-uslm-ref="/us/usc/t26/s6050F">6050F.</a>  </td>
 
     <td> Returns relating to social security benefits.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 6050G.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050G" data-uslm-ref="/us/usc/t26/s6050G">6050G.</a>  </td>
 
     <td> Returns relating to certain railroad retirement benefits.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 6050H.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050H" data-uslm-ref="/us/usc/t26/s6050H">6050H.</a>  </td>
 
     <td> Returns relating to mortgage interest received in trade or business from individuals.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 6050I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050I" data-uslm-ref="/us/usc/t26/s6050I">6050I.</a>  </td>
 
     <td> Returns relating to cash received in trade or business, etc.. <sup>[2]</sup>  <sup><sup> 2 So in original. </sup></sup>   </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 6050J.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050J" data-uslm-ref="/us/usc/t26/s6050J">6050J.</a>  </td>
 
     <td> Returns relating to foreclosures and abandonments of security.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 6050K.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050K" data-uslm-ref="/us/usc/t26/s6050K">6050K.</a>  </td>
 
     <td> Returns relating to exchanges of certain partnership interests.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 6050L.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050L" data-uslm-ref="/us/usc/t26/s6050L">6050L.</a>  </td>
 
     <td> Returns relating to certain donated property.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 6050M.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050M" data-uslm-ref="/us/usc/t26/s6050M">6050M.</a>  </td>
 
     <td> Returns relating to persons receiving contracts from Federal executive agencies.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 6050N.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050N" data-uslm-ref="/us/usc/t26/s6050N">6050N.</a>  </td>
 
     <td> Returns regarding payments of royalties.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 6050P.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050P" data-uslm-ref="/us/usc/t26/s6050P">6050P.</a>  </td>
 
     <td> Returns relating to the cancellation of indebtedness by certain entities.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 6050Q.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050Q" data-uslm-ref="/us/usc/t26/s6050Q">6050Q.</a>  </td>
 
     <td> Certain long-term care benefits.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 6050R.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050R" data-uslm-ref="/us/usc/t26/s6050R">6050R.</a>  </td>
 
     <td> Returns relating to certain purchases of fish.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 6050S.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050S" data-uslm-ref="/us/usc/t26/s6050S">6050S.</a>  </td>
 
     <td> Returns relating to higher education tuition and related expenses.  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 6050T.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050T" data-uslm-ref="/us/usc/t26/s6050T">6050T.</a>  </td>
 
     <td> Returns relating to credit for health insurance costs of eligible individuals.  </td>
 
@@ -297,7 +297,7 @@
 
   <tr>
 
-    <td> 6050U.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050U" data-uslm-ref="/us/usc/t26/s6050U">6050U.</a>  </td>
 
     <td> Charges or payments for qualified long-term care insurance contracts under combined arrangements.  </td>
 
@@ -305,7 +305,7 @@
 
   <tr>
 
-    <td> 6050V.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050V" data-uslm-ref="/us/usc/t26/s6050V">6050V.</a>  </td>
 
     <td> Returns relating to applicable insurance contracts in which certain exempt organizations hold interests.  </td>
 
@@ -313,7 +313,7 @@
 
   <tr>
 
-    <td> 6050W.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6050W" data-uslm-ref="/us/usc/t26/s6050W">6050W.</a>  </td>
 
     <td> Returns relating to payments made in settlement of payment card transactions. <sup>[3]</sup>  <sup><sup> 3 So in original. Does not conform to section catchline. </sup></sup>   </td>
 

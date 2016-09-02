@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 661.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs661" data-uslm-ref="/us/usc/t26/s661">661.</a>  </td>
 
     <td> Deductions for estates and trusts accumulating income or distributing corpus. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 662.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs662" data-uslm-ref="/us/usc/t26/s662">662.</a>  </td>
 
     <td> Inclusion of amounts in gross income of beneficiaries of estates and trusts accumulating income or distributing corpus.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 663.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs663" data-uslm-ref="/us/usc/t26/s663">663.</a>  </td>
 
     <td> Special rules applicable to sections 661 and 662.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 664.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs664" data-uslm-ref="/us/usc/t26/s664">664.</a>  </td>
 
     <td> Charitable remainder trusts.  </td>
 

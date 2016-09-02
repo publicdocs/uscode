@@ -1291,17 +1291,13 @@
 
 [Pub. L. 108–357, title II, § 243(g)][/us/pl/108/357/s243/g], Oct. 22, 2004, [118 Stat. 1445][/us/stat/118/1445], as amended by [Pub. L. 109–135, title IV, § 403(d)(4)][/us/pl/109/135/s403/d/4], Dec. 21, 2005, [119 Stat. 2622][/us/stat/119/2622], provided that:
 
->     “(1) __Subsections__ 
+>     “(1) __Subsections (a) and (b).—__ 
 
->         (a) __and (b).—__ 
+>     The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after December 31, 2000.
 
->         The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after December 31, 2000.
+>     “(2) __Subsections (c) and (e).—__ 
 
->     “(2) __Subsections__ 
-
->         (c) __and (e).—__ 
-
->         The amendments made by subsections (c) and (e) \[amending [section 857 of this title][/us/usc/t26/s857]\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\].
+>     The amendments made by subsections (c) and (e) \[amending [section 857 of this title][/us/usc/t26/s857]\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\].
 
 >     “(3) __Subsection (d).—__ 
 

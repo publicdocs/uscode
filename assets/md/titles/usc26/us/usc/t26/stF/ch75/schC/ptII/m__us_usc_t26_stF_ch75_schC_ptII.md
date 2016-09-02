@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7321" data-uslm-ref="/us/usc/t26/s7321">7321.</a>  </td>
 
     <td> Authority to seize property subject to forfeiture.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7322" data-uslm-ref="/us/usc/t26/s7322">7322.</a>  </td>
 
     <td> Delivery of seized personal property to United States marshal.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7323" data-uslm-ref="/us/usc/t26/s7323">7323.</a>  </td>
 
     <td> Judicial action to enforce forfeiture.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7324" data-uslm-ref="/us/usc/t26/s7324">7324.</a>  </td>
 
     <td> Special disposition of perishable goods.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7325" data-uslm-ref="/us/usc/t26/s7325">7325.</a>  </td>
 
     <td> Personal property valued at $100,000 or less.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7326" data-uslm-ref="/us/usc/t26/s7326">7326.</a>  </td>
 
     <td> Disposal of forfeited or abandoned property in special cases.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7327" data-uslm-ref="/us/usc/t26/s7327">7327.</a>  </td>
 
     <td> Customs laws applicable.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7328.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7328" data-uslm-ref="/us/usc/t26/s7328">7328.</a>  </td>
 
     <td> Cross references.  </td>
 

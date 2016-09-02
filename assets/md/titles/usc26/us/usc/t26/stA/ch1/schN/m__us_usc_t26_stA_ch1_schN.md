@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptI" data-uslm-ref="/us/usc/t26/stA/ch1/schN/ptI">I.</a>  </td>
 
     <td> Source rules and other general rules relating to foreign income.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptII" data-uslm-ref="/us/usc/t26/stA/ch1/schN/ptII">II.</a>  </td>
 
     <td> Nonresident aliens and foreign corporations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII" data-uslm-ref="/us/usc/t26/stA/ch1/schN/ptIII">III.</a>  </td>
 
     <td> Income from sources without the United States.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIV" data-uslm-ref="/us/usc/t26/stA/ch1/schN/ptIV">IV.</a>  </td>
 
     <td> Domestic international sales corporations. <sup>[1]</sup>  <sup><sup> 1 Editorially supplied. Part IV added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F92%2F178" data-uslm-ref="/us/pl/92/178">Pub. L. 92–178</a> without corresponding amendment of subchapter analysis. </sup></sup>   </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> V.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptV" data-uslm-ref="/us/usc/t26/stA/ch1/schN/ptV">V.</a>  </td>
 
     <td> International boycott determinations.  </td>
 

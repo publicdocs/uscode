@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4261.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4261" data-uslm-ref="/us/usc/t26/s4261">4261.</a>  </td>
 
     <td> Imposition of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4262.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4262" data-uslm-ref="/us/usc/t26/s4262">4262.</a>  </td>
 
     <td> Definition of taxable transportation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4263.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4263" data-uslm-ref="/us/usc/t26/s4263">4263.</a>  </td>
 
     <td> Special rules.  </td>
 

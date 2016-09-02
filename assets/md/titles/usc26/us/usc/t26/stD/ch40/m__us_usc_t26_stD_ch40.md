@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4901" data-uslm-ref="/us/usc/t26/s4901">4901.</a>  </td>
 
     <td> Payment of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4902" data-uslm-ref="/us/usc/t26/s4902">4902.</a>  </td>
 
     <td> Liability of partners.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4903" data-uslm-ref="/us/usc/t26/s4903">4903.</a>  </td>
 
     <td> Liability in case of business in more than one location.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4904" data-uslm-ref="/us/usc/t26/s4904">4904.</a>  </td>
 
     <td> Liability in case of different businesses of same ownership and location.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4905" data-uslm-ref="/us/usc/t26/s4905">4905.</a>  </td>
 
     <td> Liability in case of death or change of location.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4906" data-uslm-ref="/us/usc/t26/s4906">4906.</a>  </td>
 
     <td> Application of State laws.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4907" data-uslm-ref="/us/usc/t26/s4907">4907.</a>  </td>
 
     <td> Federal agencies or instrumentalities.  </td>
 

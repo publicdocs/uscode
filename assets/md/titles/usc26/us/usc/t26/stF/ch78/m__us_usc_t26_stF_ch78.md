@@ -29,27 +29,27 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch78%2FschA" data-uslm-ref="/us/usc/t26/stF/ch78/schA">A.</a>  </td>
 
     <td> Examination and inspection  </td>
 
-    <td> 7601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7601" data-uslm-ref="/us/usc/t26/s7601">7601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch78%2FschB" data-uslm-ref="/us/usc/t26/stF/ch78/schB">B.</a>  </td>
 
     <td> General powers and duties  </td>
 
-    <td> 7621  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7621" data-uslm-ref="/us/usc/t26/s7621">7621</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [C.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch78%2FschC" data-uslm-ref="/us/usc/t26/stF/ch78/schC">C.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -59,11 +59,11 @@
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch78%2FschD" data-uslm-ref="/us/usc/t26/stF/ch78/schD">D.</a>  </td>
 
     <td> Possessions  </td>
 
-    <td> 7651  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7651" data-uslm-ref="/us/usc/t26/s7651">7651</a>  </td>
 
   </tr>
 

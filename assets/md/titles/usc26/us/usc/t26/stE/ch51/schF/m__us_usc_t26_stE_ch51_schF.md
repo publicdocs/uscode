@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschF%2FptI" data-uslm-ref="/us/usc/t26/stE/ch51/schF/ptI">I.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschF%2FptII" data-uslm-ref="/us/usc/t26/stE/ch51/schF/ptII">II.</a>  </td>
 
     <td> Operations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschF%2FptIII" data-uslm-ref="/us/usc/t26/stE/ch51/schF/ptIII">III.</a>  </td>
 
     <td> Cellar treatment and classification of wine.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschF%2FptIV" data-uslm-ref="/us/usc/t26/stE/ch51/schF/ptIV">IV.</a>  </td>
 
     <td> General.  </td>
 

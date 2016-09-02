@@ -29,51 +29,51 @@
 
   <tr>
 
-    <td> 51.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51" data-uslm-ref="/us/usc/t26/stE/ch51">51.</a>  </td>
 
     <td> Distilled spirits, wines, and beer  </td>
 
-    <td> 5001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5001" data-uslm-ref="/us/usc/t26/s5001">5001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 52.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch52" data-uslm-ref="/us/usc/t26/stE/ch52">52.</a>  </td>
 
     <td> Tobacco products and cigarette papers and tubes  </td>
 
-    <td> 5701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5701" data-uslm-ref="/us/usc/t26/s5701">5701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 53.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch53" data-uslm-ref="/us/usc/t26/stE/ch53">53.</a>  </td>
 
     <td> Machine guns and certain other firearms  <sup>[2]</sup>  <sup><sup> 2 Chapter heading amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F90%2F618" data-uslm-ref="/us/pl/90/618">Pub. L. 90–618</a> without corresponding amendment of analysis. </sup></sup>   </td>
 
-    <td> 5801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5801" data-uslm-ref="/us/usc/t26/s5801">5801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 54.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch54" data-uslm-ref="/us/usc/t26/stE/ch54">54.</a>  </td>
 
     <td> Greenmail  </td>
 
-    <td> 5881  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5881" data-uslm-ref="/us/usc/t26/s5881">5881</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 55.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch55" data-uslm-ref="/us/usc/t26/stE/ch55">55.</a>  </td>
 
     <td> Structured settlement factoring transactions  </td>
 
-    <td> 5891  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5891" data-uslm-ref="/us/usc/t26/s5891">5891</a>  </td>
 
   </tr>
 

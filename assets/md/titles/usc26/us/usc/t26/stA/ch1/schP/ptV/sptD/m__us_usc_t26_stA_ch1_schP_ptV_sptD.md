@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1286.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1286" data-uslm-ref="/us/usc/t26/s1286">1286.</a>  </td>
 
     <td> Tax treatment of stripped bonds.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1287.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1287" data-uslm-ref="/us/usc/t26/s1287">1287.</a>  </td>
 
     <td> Denial of capital gain treatment for gains on certain obligations not in registered form.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1288.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1288" data-uslm-ref="/us/usc/t26/s1288">1288.</a>  </td>
 
     <td> Treatment of original issue discount on tax-exempt obligations.  </td>
 

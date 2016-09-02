@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5101" data-uslm-ref="/us/usc/t26/s5101">5101.</a>  </td>
 
     <td> Notice of manufacture of still; notice of set up of still.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5102" data-uslm-ref="/us/usc/t26/s5102">5102.</a>  </td>
 
     <td> Definition of manufacturer of stills.  </td>
 

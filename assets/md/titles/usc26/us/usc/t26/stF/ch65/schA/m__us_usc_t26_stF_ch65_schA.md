@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6401" data-uslm-ref="/us/usc/t26/s6401">6401.</a>  </td>
 
     <td> Amounts treated as overpayments.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6402" data-uslm-ref="/us/usc/t26/s6402">6402.</a>  </td>
 
     <td> Authority to make credits or refunds.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6403" data-uslm-ref="/us/usc/t26/s6403">6403.</a>  </td>
 
     <td> Overpayment of installment.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6404" data-uslm-ref="/us/usc/t26/s6404">6404.</a>  </td>
 
     <td> Abatements.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6405" data-uslm-ref="/us/usc/t26/s6405">6405.</a>  </td>
 
     <td> Reports of refunds and credits.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6406" data-uslm-ref="/us/usc/t26/s6406">6406.</a>  </td>
 
     <td> Prohibition of administrative review of decisions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6407" data-uslm-ref="/us/usc/t26/s6407">6407.</a>  </td>
 
     <td> Date of allowance of refund or credit.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6408" data-uslm-ref="/us/usc/t26/s6408">6408.</a>  </td>
 
     <td> State escheat laws not to apply.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 6409.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6409" data-uslm-ref="/us/usc/t26/s6409">6409.</a>  </td>
 
     <td> Refunds disregarded in the administration of Federal programs and federally assisted programs.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1551.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1551" data-uslm-ref="/us/usc/t26/s1551">1551.</a>  </td>
 
     <td> Disallowance of the benefits of the graduated corporate rates and accumulated earnings credit.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1552.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1552" data-uslm-ref="/us/usc/t26/s1552">1552.</a>  </td>
 
     <td> Earnings and profits.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1391.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1391" data-uslm-ref="/us/usc/t26/s1391">1391.</a>  </td>
 
     <td> Designation procedure.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1392.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1392" data-uslm-ref="/us/usc/t26/s1392">1392.</a>  </td>
 
     <td> Eligibility criteria.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1393.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1393" data-uslm-ref="/us/usc/t26/s1393">1393.</a>  </td>
 
     <td> Definitions and special rules.  </td>
 

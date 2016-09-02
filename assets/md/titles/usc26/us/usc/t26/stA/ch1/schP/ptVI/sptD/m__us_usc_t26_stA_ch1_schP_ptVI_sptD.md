@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1297.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1297" data-uslm-ref="/us/usc/t26/s1297">1297.</a>  </td>
 
     <td> Passive foreign investment company.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1298.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1298" data-uslm-ref="/us/usc/t26/s1298">1298.</a>  </td>
 
     <td> Special rules.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2631" data-uslm-ref="/us/usc/t26/s2631">2631.</a>  </td>
 
     <td> GST exemption.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2632.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2632" data-uslm-ref="/us/usc/t26/s2632">2632.</a>  </td>
 
     <td> Special rules for allocation of GST exemption.  </td>
 

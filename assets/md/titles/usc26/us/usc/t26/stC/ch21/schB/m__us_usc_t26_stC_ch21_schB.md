@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3111" data-uslm-ref="/us/usc/t26/s3111">3111.</a>  </td>
 
     <td> Rate of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3112" data-uslm-ref="/us/usc/t26/s3112">3112.</a>  </td>
 
     <td> Instrumentalities of the United States.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [3113.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3113" data-uslm-ref="/us/usc/t26/s3113">3113.</a>  </td>
 
     <td> Repealed.]  </td>
 

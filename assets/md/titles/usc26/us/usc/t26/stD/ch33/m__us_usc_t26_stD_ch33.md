@@ -29,7 +29,7 @@
 
   <tr>
 
-    <td> [A.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch33%2FschA" data-uslm-ref="/us/usc/t26/stD/ch33/schA">A.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -39,27 +39,27 @@
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch33%2FschB" data-uslm-ref="/us/usc/t26/stD/ch33/schB">B.</a>  </td>
 
     <td> Communications  </td>
 
-    <td> 4251  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4251" data-uslm-ref="/us/usc/t26/s4251">4251</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch33%2FschC" data-uslm-ref="/us/usc/t26/stD/ch33/schC">C.</a>  </td>
 
     <td> Transportation by air  </td>
 
-    <td> 4261  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4261" data-uslm-ref="/us/usc/t26/s4261">4261</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [D.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch33%2FschD" data-uslm-ref="/us/usc/t26/stD/ch33/schD">D.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -69,11 +69,11 @@
 
   <tr>
 
-    <td> E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch33%2FschE" data-uslm-ref="/us/usc/t26/stD/ch33/schE">E.</a>  </td>
 
     <td> Special provisions applicable to services and facilities taxes  </td>
 
-    <td> 4291  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4291" data-uslm-ref="/us/usc/t26/s4291">4291</a>  </td>
 
   </tr>
 

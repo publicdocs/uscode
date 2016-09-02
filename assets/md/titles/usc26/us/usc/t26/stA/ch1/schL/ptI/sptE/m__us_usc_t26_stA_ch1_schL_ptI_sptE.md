@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 816.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs816" data-uslm-ref="/us/usc/t26/s816">816.</a>  </td>
 
     <td> Life insurance company defined.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 817.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs817" data-uslm-ref="/us/usc/t26/s817">817.</a>  </td>
 
     <td> Treatment of variable contracts.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 817A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs817A" data-uslm-ref="/us/usc/t26/s817A">817A.</a>  </td>
 
     <td> Special rules for modified guaranteed contracts.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 818.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs818" data-uslm-ref="/us/usc/t26/s818">818.</a>  </td>
 
     <td> Other definitions and special rules.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1400F.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400F" data-uslm-ref="/us/usc/t26/s1400F">1400F.</a>  </td>
 
     <td> Renewal community capital gain.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1400G.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400G" data-uslm-ref="/us/usc/t26/s1400G">1400G.</a>  </td>
 
     <td> Renewal community business defined.  </td>
 

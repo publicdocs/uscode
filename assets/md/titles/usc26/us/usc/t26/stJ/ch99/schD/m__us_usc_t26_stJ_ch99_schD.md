@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9721" data-uslm-ref="/us/usc/t26/s9721">9721.</a>  </td>
 
     <td> Civil enforcement.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9722" data-uslm-ref="/us/usc/t26/s9722">9722.</a>  </td>
 
     <td> Sham transactions.  </td>
 

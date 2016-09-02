@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschD%2FptI" data-uslm-ref="/us/usc/t26/stA/ch1/schD/ptI">I.</a>  </td>
 
     <td> Pension, profit-sharing, stock bonus plans, etc.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschD%2FptII" data-uslm-ref="/us/usc/t26/stA/ch1/schD/ptII">II.</a>  </td>
 
     <td> Certain stock options.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschD%2FptIII" data-uslm-ref="/us/usc/t26/stA/ch1/schD/ptIII">III</a>  </td>
 
     <td> Rules relating to minimum funding standards and benefit limitations. <sup>[1]</sup>  <sup><sup> 1 Period editorially supplied. </sup></sup>   </td>
 

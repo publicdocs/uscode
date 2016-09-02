@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6621" data-uslm-ref="/us/usc/t26/s6621">6621.</a>  </td>
 
     <td> Determination of rate of interest.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6622" data-uslm-ref="/us/usc/t26/s6622">6622.</a>  </td>
 
     <td> Interest compounded daily.  </td>
 

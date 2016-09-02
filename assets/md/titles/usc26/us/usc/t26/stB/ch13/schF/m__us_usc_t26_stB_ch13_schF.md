@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2651.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2651" data-uslm-ref="/us/usc/t26/s2651">2651.</a>  </td>
 
     <td> Generation assignment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2652.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2652" data-uslm-ref="/us/usc/t26/s2652">2652.</a>  </td>
 
     <td> Other definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2653.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2653" data-uslm-ref="/us/usc/t26/s2653">2653.</a>  </td>
 
     <td> Taxation of multiple skips.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2654.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2654" data-uslm-ref="/us/usc/t26/s2654">2654.</a>  </td>
 
     <td> Special rules.  </td>
 

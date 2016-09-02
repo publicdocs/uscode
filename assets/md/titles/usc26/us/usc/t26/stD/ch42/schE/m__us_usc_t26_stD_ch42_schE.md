@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4961.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4961" data-uslm-ref="/us/usc/t26/s4961">4961.</a>  </td>
 
     <td> Abatement of second tier taxes where there is correction.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4962.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4962" data-uslm-ref="/us/usc/t26/s4962">4962.</a>  </td>
 
     <td> Abatement of first tier taxes in certain cases.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4963.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4963" data-uslm-ref="/us/usc/t26/s4963">4963.</a>  </td>
 
     <td> Definitions.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6057.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6057" data-uslm-ref="/us/usc/t26/s6057">6057.</a>  </td>
 
     <td> Annual registration, etc.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6058.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6058" data-uslm-ref="/us/usc/t26/s6058">6058.</a>  </td>
 
     <td> Information required in connection with certain plans of deferred compensation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6059.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6059" data-uslm-ref="/us/usc/t26/s6059">6059.</a>  </td>
 
     <td> Periodic report by actuary. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 

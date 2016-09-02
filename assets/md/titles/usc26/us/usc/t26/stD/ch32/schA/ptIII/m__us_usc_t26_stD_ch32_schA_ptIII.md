@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch32%2FschA%2FptIII%2FsptA" data-uslm-ref="/us/usc/t26/stD/ch32/schA/ptIII/sptA">A.</a>  </td>
 
     <td> Motor and aviation fuels.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch32%2FschA%2FptIII%2FsptB" data-uslm-ref="/us/usc/t26/stD/ch32/schA/ptIII/sptB">B.</a>  </td>
 
     <td> Special provisions applicable to fuels tax.  </td>
 

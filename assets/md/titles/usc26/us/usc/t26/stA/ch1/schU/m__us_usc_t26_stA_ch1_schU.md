@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschU%2FptI" data-uslm-ref="/us/usc/t26/stA/ch1/schU/ptI">I.</a>  </td>
 
     <td> Designation.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschU%2FptII" data-uslm-ref="/us/usc/t26/stA/ch1/schU/ptII">II.</a>  </td>
 
     <td> Tax-exempt facility bonds for empowerment zones and enterprise communities.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschU%2FptIII" data-uslm-ref="/us/usc/t26/stA/ch1/schU/ptIII">III.</a>  </td>
 
     <td> Additional incentives for empowerment zones.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschU%2FptIV" data-uslm-ref="/us/usc/t26/stA/ch1/schU/ptIV">IV.</a>  </td>
 
     <td> Incentives for education zones.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> V.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschU%2FptV" data-uslm-ref="/us/usc/t26/stA/ch1/schU/ptV">V.</a>  </td>
 
     <td> Regulations.  </td>
 

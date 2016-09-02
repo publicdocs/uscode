@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs21" data-uslm-ref="/us/usc/t26/s21">21.</a>  </td>
 
     <td> Expenses for household and dependent care services necessary for gainful employment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 22.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs22" data-uslm-ref="/us/usc/t26/s22">22.</a>  </td>
 
     <td> Credit for the elderly and the permanently and totally disabled.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs23" data-uslm-ref="/us/usc/t26/s23">23.</a>  </td>
 
     <td> Adoption expenses.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 24.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs24" data-uslm-ref="/us/usc/t26/s24">24.</a>  </td>
 
     <td> Child tax credit.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 25.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs25" data-uslm-ref="/us/usc/t26/s25">25.</a>  </td>
 
     <td> Interest on certain home mortgages.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 25A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs25A" data-uslm-ref="/us/usc/t26/s25A">25A.</a>  </td>
 
     <td> Hope and Lifetime Learning credits.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 25B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs25B" data-uslm-ref="/us/usc/t26/s25B">25B.</a>  </td>
 
     <td> Elective deferrals and IRA contributions by certain individuals.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 25C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs25C" data-uslm-ref="/us/usc/t26/s25C">25C.</a>  </td>
 
     <td> Nonbusiness energy property.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 25D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs25D" data-uslm-ref="/us/usc/t26/s25D">25D.</a>  </td>
 
     <td> Residential energy efficient property.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 26.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs26" data-uslm-ref="/us/usc/t26/s26">26.</a>  </td>
 
     <td> Limitation based on tax liability; definition of tax liability.  </td>
 

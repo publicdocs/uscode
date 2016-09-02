@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6311" data-uslm-ref="/us/usc/t26/s6311">6311.</a>  </td>
 
     <td> Payment of tax by commercially acceptable means.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [6312.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6312" data-uslm-ref="/us/usc/t26/s6312">6312.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6313" data-uslm-ref="/us/usc/t26/s6313">6313.</a>  </td>
 
     <td> Fractional parts of a cent.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6314" data-uslm-ref="/us/usc/t26/s6314">6314.</a>  </td>
 
     <td> Receipt for taxes.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6315" data-uslm-ref="/us/usc/t26/s6315">6315.</a>  </td>
 
     <td> Payments of estimated income tax.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6316" data-uslm-ref="/us/usc/t26/s6316">6316.</a>  </td>
 
     <td> Payment by foreign currency.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6317" data-uslm-ref="/us/usc/t26/s6317">6317.</a>  </td>
 
     <td> Payments of Federal unemployment tax for calendar quarter.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6801" data-uslm-ref="/us/usc/t26/s6801">6801.</a>  </td>
 
     <td> Authority for establishment, alteration, and distribution.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6802" data-uslm-ref="/us/usc/t26/s6802">6802.</a>  </td>
 
     <td> Supply and distribution.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6803" data-uslm-ref="/us/usc/t26/s6803">6803.</a>  </td>
 
     <td> Accounting and safeguarding.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6804" data-uslm-ref="/us/usc/t26/s6804">6804.</a>  </td>
 
     <td> Attachment and cancellation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6805" data-uslm-ref="/us/usc/t26/s6805">6805.</a>  </td>
 
     <td> Redemption of stamps.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6806" data-uslm-ref="/us/usc/t26/s6806">6806.</a>  </td>
 
     <td> Posting occupational tax stamps. <sup>[1]</sup>  <sup><sup> 1 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F90%2F618" data-uslm-ref="/us/pl/90/618">Pub. L. 90–618</a> without corresponding amendment of analysis. </sup></sup>   </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6807" data-uslm-ref="/us/usc/t26/s6807">6807.</a>  </td>
 
     <td> Stamping, marking, and branding seized goods.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6808.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6808" data-uslm-ref="/us/usc/t26/s6808">6808.</a>  </td>
 
     <td> Special provisions relating to stamps.  </td>
 

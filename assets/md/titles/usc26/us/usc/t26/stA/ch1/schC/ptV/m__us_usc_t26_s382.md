@@ -889,33 +889,31 @@
 
 [Pub. L. 99–514, title VI, § 621(f)][/us/pl/99/514/s621/f], Oct. 22, 1986, [100 Stat. 2266][/us/stat/100/2266], as amended by [Pub. L. 100–647, title I, § 1006(d)(11)][/us/pl/100/647/s1006/d/11]–(16), title VI, § 6277(a), (b), Nov. 10, 1988, [102 Stat. 3397][/us/stat/102/3397], 3398, 3753, 3754, provided that:
 
->     “(1) __Amendments made by subsections__ 
+>     “(1) __Amendments made by subsections (a), (b), and (c).—__ 
 
->         (a), (b), and (c).—
+>         “(A) __In general.—__ 
 
->     “(A) __In general.—__ 
+>             “(i) __Changes after 1986.—__ 
 
->         “(i) __Changes after 1986.—__ 
+>             The amendments made by subsections (a), (b), and (c) \[amending this section and sections 318 and 383 of this title\] shall apply to any ownership change after December 31, 1986.
 
->         The amendments made by subsections (a), (b), and (c) \[amending this section and sections 318 and 383 of this title\] shall apply to any ownership change after December 31, 1986.
+>             “(ii) __Plans of reorganization adopted before 1987.—__ 
 
->         “(ii) __Plans of reorganization adopted before 1987.—__ 
+>             For purposes of clause (i), any equity structure shift pursuant to a plan of reorganization adopted before January 1, 1987, shall be treated as occurring when such plan was adopted.
 
->         For purposes of clause (i), any equity structure shift pursuant to a plan of reorganization adopted before January 1, 1987, shall be treated as occurring when such plan was adopted.
+>         “(B) __Termination of old section 382.—__ 
 
->     “(B) __Termination of old section 382.—__ 
+>         Except in a case described in any of the following paragraphs—
 
->     Except in a case described in any of the following paragraphs—
+>             “(i) section 382(a) of the Internal Revenue Code of 1954 (as in effect before the amendment made by subsection (a) and the amendments made by section 806 of the Tax Reform Act of 1976 \[[section 806 of Pub. L. 94–455][/us/pl/94/455/s806]\]) shall not apply to any increase in percentage points occurring after December 31, 1988, and
 
->         “(i) section 382(a) of the Internal Revenue Code of 1954 (as in effect before the amendment made by subsection (a) and the amendments made by section 806 of the Tax Reform Act of 1976 \[[section 806 of Pub. L. 94–455][/us/pl/94/455/s806]\]) shall not apply to any increase in percentage points occurring after December 31, 1988, and
+>             “(ii) section 382(b) of such Code (as so in effect) shall not apply to any reorganization occurring pursuant to a plan of reorganization adopted after December 31, 1986.
 
->         “(ii) section 382(b) of such Code (as so in effect) shall not apply to any reorganization occurring pursuant to a plan of reorganization adopted after December 31, 1986.
+>             In no event shall sections 382(a) and (b) of such Code (as so in effect) apply to any ownership change described in subparagraph (A).
 
->         In no event shall sections 382(a) and (b) of such Code (as so in effect) apply to any ownership change described in subparagraph (A).
+>         “(C) __Coordination with section 382(i).—__ 
 
->     “(C) __Coordination with section 382(i).—__ 
-
->     For purposes of section 382(i) of the Internal Revenue Code of 1986 (as added by this section), any equity structure shift pursuant to a plan of reorganization adopted before January 1, 1987, shall be treated as occurring when such plan was adopted.
+>         For purposes of section 382(i) of the Internal Revenue Code of 1986 (as added by this section), any equity structure shift pursuant to a plan of reorganization adopted before January 1, 1987, shall be treated as occurring when such plan was adopted.
 
 >     “(2) __For amendments to tax reform act of 1976.—__ 
 

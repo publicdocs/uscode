@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61%2FschA%2FptI" data-uslm-ref="/us/usc/t26/stF/ch61/schA/ptI">I.</a>  </td>
 
     <td> Records, statements, and special returns.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61%2FschA%2FptII" data-uslm-ref="/us/usc/t26/stF/ch61/schA/ptII">II.</a>  </td>
 
     <td> Tax returns or statements.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61%2FschA%2FptIII" data-uslm-ref="/us/usc/t26/stF/ch61/schA/ptIII">III.</a>  </td>
 
     <td> Information returns.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61%2FschA%2FptIV" data-uslm-ref="/us/usc/t26/stF/ch61/schA/ptIV">IV.</a>  </td>
 
     <td> Signing and verifying of returns and other documents.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> V.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61%2FschA%2FptV" data-uslm-ref="/us/usc/t26/stF/ch61/schA/ptV">V.</a>  </td>
 
     <td> Time for filing returns and other documents.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> VI.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61%2FschA%2FptVI" data-uslm-ref="/us/usc/t26/stF/ch61/schA/ptVI">VI.</a>  </td>
 
     <td> Extension of time for filing returns.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> VII.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61%2FschA%2FptVII" data-uslm-ref="/us/usc/t26/stF/ch61/schA/ptVII">VII.</a>  </td>
 
     <td> Place for filing returns or other documents.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> VIII.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61%2FschA%2FptVIII" data-uslm-ref="/us/usc/t26/stF/ch61/schA/ptVIII">VIII.</a>  </td>
 
     <td> Designation of income tax payments to Presidential Election Campaign Fund.  </td>
 

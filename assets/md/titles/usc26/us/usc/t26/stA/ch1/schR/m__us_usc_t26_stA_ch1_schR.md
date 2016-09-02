@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1352.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1352" data-uslm-ref="/us/usc/t26/s1352">1352.</a>  </td>
 
     <td> Alternative tax on qualifying shipping activities.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1353.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1353" data-uslm-ref="/us/usc/t26/s1353">1353.</a>  </td>
 
     <td> Notional shipping income.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1354.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1354" data-uslm-ref="/us/usc/t26/s1354">1354.</a>  </td>
 
     <td> Alternative tax election; revocation; termination.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1355.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1355" data-uslm-ref="/us/usc/t26/s1355">1355.</a>  </td>
 
     <td> Definitions and special rules.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1356.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1356" data-uslm-ref="/us/usc/t26/s1356">1356.</a>  </td>
 
     <td> Qualifying shipping activities.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1357.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1357" data-uslm-ref="/us/usc/t26/s1357">1357.</a>  </td>
 
     <td> Items not subject to regular tax; depreciation; interest.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1358.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1358" data-uslm-ref="/us/usc/t26/s1358">1358.</a>  </td>
 
     <td> Allocation of credits, income, and deductions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1359.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1359" data-uslm-ref="/us/usc/t26/s1359">1359.</a>  </td>
 
     <td> Disposition of qualifying vessels.  </td>
 

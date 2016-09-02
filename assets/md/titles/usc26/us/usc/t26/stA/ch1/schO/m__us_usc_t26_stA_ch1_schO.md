@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschO%2FptI" data-uslm-ref="/us/usc/t26/stA/ch1/schO/ptI">I.</a>  </td>
 
     <td> Determination of amount of and recognition of gain or loss.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschO%2FptII" data-uslm-ref="/us/usc/t26/stA/ch1/schO/ptII">II.</a>  </td>
 
     <td> Basis rules of general application.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschO%2FptIII" data-uslm-ref="/us/usc/t26/stA/ch1/schO/ptIII">III.</a>  </td>
 
     <td> Common nontaxable exchanges.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschO%2FptIV" data-uslm-ref="/us/usc/t26/stA/ch1/schO/ptIV">IV.</a>  </td>
 
     <td> Special rules.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [V.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschO%2FptV" data-uslm-ref="/us/usc/t26/stA/ch1/schO/ptV">V.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [VI.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschO%2FptVI" data-uslm-ref="/us/usc/t26/stA/ch1/schO/ptVI">VI.</a>  </td>
 
     <td> Repealed.]  <sup>[1]</sup>  <sup><sup> 1 Part repealed by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F109%2F135" data-uslm-ref="/us/pl/109/135">Pub. L. 109–135</a> without corresponding amendment of subchapter analysis. </sup></sup>   </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> VII.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschO%2FptVII" data-uslm-ref="/us/usc/t26/stA/ch1/schO/ptVII">VII.</a>  </td>
 
     <td> Wash sales; straddles.  </td>
 

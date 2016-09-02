@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6211" data-uslm-ref="/us/usc/t26/s6211">6211.</a>  </td>
 
     <td> Definition of a deficiency.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6212" data-uslm-ref="/us/usc/t26/s6212">6212.</a>  </td>
 
     <td> Notice of deficiency.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6213" data-uslm-ref="/us/usc/t26/s6213">6213.</a>  </td>
 
     <td> Restrictions applicable to deficiencies; petition to Tax Court.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6214" data-uslm-ref="/us/usc/t26/s6214">6214.</a>  </td>
 
     <td> Determinations by Tax Court.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6215.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6215" data-uslm-ref="/us/usc/t26/s6215">6215.</a>  </td>
 
     <td> Assessment of deficiency found by Tax Court.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6216.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6216" data-uslm-ref="/us/usc/t26/s6216">6216.</a>  </td>
 
     <td> Cross references.  </td>
 

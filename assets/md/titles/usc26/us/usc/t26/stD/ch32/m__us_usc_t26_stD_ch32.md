@@ -29,71 +29,71 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch32%2FschA" data-uslm-ref="/us/usc/t26/stD/ch32/schA">A.</a>  </td>
 
     <td> Automotive and related items  </td>
 
-    <td> 4061  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4061" data-uslm-ref="/us/usc/t26/s4061">4061</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch32%2FschB" data-uslm-ref="/us/usc/t26/stD/ch32/schB">B.</a>  </td>
 
     <td> Coal  </td>
 
-    <td> 4121  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4121" data-uslm-ref="/us/usc/t26/s4121">4121</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch32%2FschC" data-uslm-ref="/us/usc/t26/stD/ch32/schC">C.</a>  </td>
 
     <td> Certain vaccines  </td>
 
-    <td> 4131  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4131" data-uslm-ref="/us/usc/t26/s4131">4131</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch32%2FschD" data-uslm-ref="/us/usc/t26/stD/ch32/schD">D.</a>  </td>
 
     <td> Recreational equipment  </td>
 
-    <td> 4161  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4161" data-uslm-ref="/us/usc/t26/s4161">4161</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch32%2FschE" data-uslm-ref="/us/usc/t26/stD/ch32/schE">E.</a>  </td>
 
     <td> Medical devices  </td>
 
-    <td> 4191  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4191" data-uslm-ref="/us/usc/t26/s4191">4191</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> F.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch32%2FschF" data-uslm-ref="/us/usc/t26/stD/ch32/schF">F.</a>  </td>
 
     <td> Special provisions applicable to manufacturers tax  </td>
 
-    <td> 4216  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4216" data-uslm-ref="/us/usc/t26/s4216">4216</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> G.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch32%2FschG" data-uslm-ref="/us/usc/t26/stD/ch32/schG">G.</a>  </td>
 
     <td> Exemptions, registration, etc  </td>
 
-    <td> 4221  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4221" data-uslm-ref="/us/usc/t26/s4221">4221</a>  </td>
 
   </tr>
 

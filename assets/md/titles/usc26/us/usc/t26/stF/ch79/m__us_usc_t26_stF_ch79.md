@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7701" data-uslm-ref="/us/usc/t26/s7701">7701.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7702" data-uslm-ref="/us/usc/t26/s7702">7702.</a>  </td>
 
     <td> Life insurance contract defined.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7702A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7702A" data-uslm-ref="/us/usc/t26/s7702A">7702A.</a>  </td>
 
     <td> Modified endowment contract defined.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7702B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7702B" data-uslm-ref="/us/usc/t26/s7702B">7702B.</a>  </td>
 
     <td> Treatment of qualified long-term care insurance.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7703" data-uslm-ref="/us/usc/t26/s7703">7703.</a>  </td>
 
     <td> Determination of marital status.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7704" data-uslm-ref="/us/usc/t26/s7704">7704.</a>  </td>
 
     <td> Certain publicly traded partnerships treated as corporations.  </td>
 

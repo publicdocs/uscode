@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs361" data-uslm-ref="/us/usc/t26/s361">361.</a>  </td>
 
     <td> Nonrecognition of gain or loss to corporations; treatment of distributions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs362" data-uslm-ref="/us/usc/t26/s362">362.</a>  </td>
 
     <td> Basis to corporations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [363.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs363" data-uslm-ref="/us/usc/t26/s363">363.</a>  </td>
 
     <td> Repealed.]  </td>
 

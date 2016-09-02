@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 71.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs71" data-uslm-ref="/us/usc/t26/s71">71.</a>  </td>
 
     <td> Alimony and separate maintenance payments.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 72.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs72" data-uslm-ref="/us/usc/t26/s72">72.</a>  </td>
 
     <td> Annuities; certain proceeds of endowment and life insurance contracts.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 73.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs73" data-uslm-ref="/us/usc/t26/s73">73.</a>  </td>
 
     <td> Services of child.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 74.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs74" data-uslm-ref="/us/usc/t26/s74">74.</a>  </td>
 
     <td> Prizes and awards.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 75.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs75" data-uslm-ref="/us/usc/t26/s75">75.</a>  </td>
 
     <td> Dealers in tax-exempt securities.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [76.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs76" data-uslm-ref="/us/usc/t26/s76">76.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 77.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs77" data-uslm-ref="/us/usc/t26/s77">77.</a>  </td>
 
     <td> Commodity credit loans.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 78.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs78" data-uslm-ref="/us/usc/t26/s78">78.</a>  </td>
 
     <td> Dividends received from certain foreign corporations by domestic corporations choosing foreign tax credit.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 79.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs79" data-uslm-ref="/us/usc/t26/s79">79.</a>  </td>
 
     <td> Group-term life insurance purchased for employees.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 80.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs80" data-uslm-ref="/us/usc/t26/s80">80.</a>  </td>
 
     <td> Restoration of value of certain securities.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> [81.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs81" data-uslm-ref="/us/usc/t26/s81">81.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 82.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs82" data-uslm-ref="/us/usc/t26/s82">82.</a>  </td>
 
     <td> Reimbursement of moving expenses. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 83.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs83" data-uslm-ref="/us/usc/t26/s83">83.</a>  </td>
 
     <td> Property transferred in connection with performance of services.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 84.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs84" data-uslm-ref="/us/usc/t26/s84">84.</a>  </td>
 
     <td> Transfer of appreciated property to political organizations. <sup>[1]</sup>   </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 85.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs85" data-uslm-ref="/us/usc/t26/s85">85.</a>  </td>
 
     <td> Unemployment compensation.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 86.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs86" data-uslm-ref="/us/usc/t26/s86">86.</a>  </td>
 
     <td> Social security and tier 1 railroad retirement benefits.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 87.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs87" data-uslm-ref="/us/usc/t26/s87">87.</a>  </td>
 
     <td> Alcohol and biodiesel fuels credits.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 88.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs88" data-uslm-ref="/us/usc/t26/s88">88.</a>  </td>
 
     <td> Certain amounts with respect to nuclear decommissioning costs.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> [89.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs89" data-uslm-ref="/us/usc/t26/s89">89.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 90.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs90" data-uslm-ref="/us/usc/t26/s90">90.</a>  </td>
 
     <td> Illegal Federal irrigation subsidies.  </td>
 

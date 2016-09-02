@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4041.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4041" data-uslm-ref="/us/usc/t26/s4041">4041.</a>  </td>
 
     <td> Imposition of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4042.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4042" data-uslm-ref="/us/usc/t26/s4042">4042.</a>  </td>
 
     <td> Tax on fuel used in commercial transportation on inland waterways.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4043.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4043" data-uslm-ref="/us/usc/t26/s4043">4043.</a>  </td>
 
     <td> Surtax on fuel used in aircraft part of a fractional ownership program.  </td>
 

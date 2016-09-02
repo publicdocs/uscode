@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch72%2FschA" data-uslm-ref="/us/usc/t26/stF/ch72/schA">A.</a>  </td>
 
     <td> Licensing  </td>
 
-    <td> 7001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7001" data-uslm-ref="/us/usc/t26/s7001">7001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch72%2FschB" data-uslm-ref="/us/usc/t26/stF/ch72/schB">B.</a>  </td>
 
     <td> Registration  </td>
 
-    <td> 7011  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7011" data-uslm-ref="/us/usc/t26/s7011">7011</a>  </td>
 
   </tr>
 

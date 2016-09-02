@@ -617,11 +617,9 @@ For termination of subsection (b)(3) of this section by [section 221(c) of Pub. 
 
 >     Except as provided in this subsection, the amendments made by this section \[amending this section and [section 1082 of Title 29][/us/usc/t29/s1082], Labor\] shall apply with respect to plan years beginning after December 31, 1988.
 
->     “(2) __Subsections__ 
+>     “(2) __Subsections (c) and (d).—__ 
 
->         (c) __and (d).—__ 
-
->         The amendments made by subsections (c) \[set out below\] and (d) \[amending this section and [section 1082 of Title 29][/us/usc/t29/s1082]\] shall apply with respect to years beginning after December 31, 1987.
+>     The amendments made by subsections (c) \[set out below\] and (d) \[amending this section and [section 1082 of Title 29][/us/usc/t29/s1082]\] shall apply with respect to years beginning after December 31, 1987.
 
 >     “(3) __Special rule for steel companies.—__ 
 

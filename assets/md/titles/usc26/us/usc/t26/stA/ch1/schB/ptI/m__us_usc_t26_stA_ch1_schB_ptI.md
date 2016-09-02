@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 61.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs61" data-uslm-ref="/us/usc/t26/s61">61.</a>  </td>
 
     <td> Gross income defined.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 62.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs62" data-uslm-ref="/us/usc/t26/s62">62.</a>  </td>
 
     <td> Adjusted gross income defined.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 63.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs63" data-uslm-ref="/us/usc/t26/s63">63.</a>  </td>
 
     <td> Taxable income defined.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 64.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs64" data-uslm-ref="/us/usc/t26/s64">64.</a>  </td>
 
     <td> Ordinary income defined.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 65.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs65" data-uslm-ref="/us/usc/t26/s65">65.</a>  </td>
 
     <td> Ordinary loss defined.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 66.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs66" data-uslm-ref="/us/usc/t26/s66">66.</a>  </td>
 
     <td> Treatment of community income.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 67.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs67" data-uslm-ref="/us/usc/t26/s67">67.</a>  </td>
 
     <td> 2-percent floor on miscellaneous itemized deductions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 68.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs68" data-uslm-ref="/us/usc/t26/s68">68.</a>  </td>
 
     <td> Overall limitation on itemized deductions.  </td>
 

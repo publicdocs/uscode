@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5311" data-uslm-ref="/us/usc/t26/s5311">5311.</a>  </td>
 
     <td> Detention of containers.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5312" data-uslm-ref="/us/usc/t26/s5312">5312.</a>  </td>
 
     <td> Production and use of distilled spirits for experimental research.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5313" data-uslm-ref="/us/usc/t26/s5313">5313.</a>  </td>
 
     <td> Withdrawal of distilled spirits from customs custody free of tax for use of the United States.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5314" data-uslm-ref="/us/usc/t26/s5314">5314.</a>  </td>
 
     <td> Special applicability of certain provisions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [5315.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5315" data-uslm-ref="/us/usc/t26/s5315">5315.</a>  </td>
 
     <td> Repealed.]  </td>
 

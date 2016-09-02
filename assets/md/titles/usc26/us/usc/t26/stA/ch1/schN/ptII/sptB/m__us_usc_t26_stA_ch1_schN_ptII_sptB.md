@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 881.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs881" data-uslm-ref="/us/usc/t26/s881">881.</a>  </td>
 
     <td> Tax on income of foreign corporations not connected with United States business.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 882.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs882" data-uslm-ref="/us/usc/t26/s882">882.</a>  </td>
 
     <td> Tax on income of foreign corporations connected with United States business.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 883.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs883" data-uslm-ref="/us/usc/t26/s883">883.</a>  </td>
 
     <td> Exclusions from gross income.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 884.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs884" data-uslm-ref="/us/usc/t26/s884">884.</a>  </td>
 
     <td> Branch profits tax.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 885.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs885" data-uslm-ref="/us/usc/t26/s885">885.</a>  </td>
 
     <td> Cross references.  </td>
 

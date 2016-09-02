@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7201" data-uslm-ref="/us/usc/t26/s7201">7201.</a>  </td>
 
     <td> Attempt to evade or defeat tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7202" data-uslm-ref="/us/usc/t26/s7202">7202.</a>  </td>
 
     <td> Willful failure to collect or pay over tax.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7203" data-uslm-ref="/us/usc/t26/s7203">7203.</a>  </td>
 
     <td> Willful failure to file return, supply information, or pay tax.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7204" data-uslm-ref="/us/usc/t26/s7204">7204.</a>  </td>
 
     <td> Fraudulent statement or failure to make statement to employees.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7205" data-uslm-ref="/us/usc/t26/s7205">7205.</a>  </td>
 
     <td> Fraudulent withholding exemption certificate or failure to supply information.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7206" data-uslm-ref="/us/usc/t26/s7206">7206.</a>  </td>
 
     <td> Fraud and false statements.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7207" data-uslm-ref="/us/usc/t26/s7207">7207.</a>  </td>
 
     <td> Fraudulent returns, statements, or other documents.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7208.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7208" data-uslm-ref="/us/usc/t26/s7208">7208.</a>  </td>
 
     <td> Offenses relating to stamps.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 7209.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7209" data-uslm-ref="/us/usc/t26/s7209">7209.</a>  </td>
 
     <td> Unauthorized use or sale of stamps.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 7210.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7210" data-uslm-ref="/us/usc/t26/s7210">7210.</a>  </td>
 
     <td> Failure to obey summons.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 7211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7211" data-uslm-ref="/us/usc/t26/s7211">7211.</a>  </td>
 
     <td> False statements to purchasers or lessees relating to tax.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 7212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7212" data-uslm-ref="/us/usc/t26/s7212">7212.</a>  </td>
 
     <td> Attempts to interfere with administration of internal revenue laws.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 7213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7213" data-uslm-ref="/us/usc/t26/s7213">7213.</a>  </td>
 
     <td> Unauthorized disclosure of information.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 7213A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7213A" data-uslm-ref="/us/usc/t26/s7213A">7213A.</a>  </td>
 
     <td> Unauthorized inspection of returns or return information.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 7214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7214" data-uslm-ref="/us/usc/t26/s7214">7214.</a>  </td>
 
     <td> Offenses by officers and employees of the United States.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 7215.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7215" data-uslm-ref="/us/usc/t26/s7215">7215.</a>  </td>
 
     <td> Offenses with respect to collected taxes.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 7216.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7216" data-uslm-ref="/us/usc/t26/s7216">7216.</a>  </td>
 
     <td> Disclosure or use of information by preparers of returns.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 7217.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7217" data-uslm-ref="/us/usc/t26/s7217">7217.</a>  </td>
 
     <td> Prohibition on executive branch influence over taxpayer audits and other investigations.  </td>
 

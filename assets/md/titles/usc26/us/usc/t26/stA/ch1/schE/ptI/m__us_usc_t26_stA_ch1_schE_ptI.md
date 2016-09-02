@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs441" data-uslm-ref="/us/usc/t26/s441">441.</a>  </td>
 
     <td> Period for computation of taxable income.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs442" data-uslm-ref="/us/usc/t26/s442">442.</a>  </td>
 
     <td> Change of annual accounting period.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 443.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs443" data-uslm-ref="/us/usc/t26/s443">443.</a>  </td>
 
     <td> Returns for a period of less than 12 months.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 444.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs444" data-uslm-ref="/us/usc/t26/s444">444.</a>  </td>
 
     <td> Election of taxable year other than required taxable year.  </td>
 

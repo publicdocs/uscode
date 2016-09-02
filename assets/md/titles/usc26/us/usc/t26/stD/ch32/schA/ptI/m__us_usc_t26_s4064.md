@@ -295,11 +295,9 @@
 
 [Pub. L. 101–508, title XI, § 11216(e)][/us/pl/101/508/s11216/e], Nov. 5, 1990, [104 Stat. 1388–437][/us/stat/104/1388-437], provided that:
 
->     “(1) __Subsections__ 
+>     “(1) __Subsections (a) and (b).—__ 
 
->         (a) __and (b).—__ 
-
->         The amendments made by subsections (a) and (b) \[amending this section\] shall apply to sales after December 31, 1990.
+>     The amendments made by subsections (a) and (b) \[amending this section\] shall apply to sales after December 31, 1990.
 
 >     “(2) __Subsection (c).—__ 
 

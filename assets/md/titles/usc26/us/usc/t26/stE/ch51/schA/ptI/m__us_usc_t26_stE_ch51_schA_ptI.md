@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschA%2FptI%2FsptA" data-uslm-ref="/us/usc/t26/stE/ch51/schA/ptI/sptA">A.</a>  </td>
 
     <td> Distilled spirits.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [B.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschA%2FptI%2FsptB" data-uslm-ref="/us/usc/t26/stE/ch51/schA/ptI/sptB">B.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschA%2FptI%2FsptC" data-uslm-ref="/us/usc/t26/stE/ch51/schA/ptI/sptC">C.</a>  </td>
 
     <td> Wines.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschA%2FptI%2FsptD" data-uslm-ref="/us/usc/t26/stE/ch51/schA/ptI/sptD">D.</a>  </td>
 
     <td> Beer.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschA%2FptI%2FsptE" data-uslm-ref="/us/usc/t26/stE/ch51/schA/ptI/sptE">E.</a>  </td>
 
     <td> General provisions.  </td>
 

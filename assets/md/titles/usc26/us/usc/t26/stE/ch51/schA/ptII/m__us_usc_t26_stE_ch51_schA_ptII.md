@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschA%2FptII%2FsptA" data-uslm-ref="/us/usc/t26/stE/ch51/schA/ptII/sptA">A.</a>  </td>
 
     <td> Manufacturers of stills.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschA%2FptII%2FsptB" data-uslm-ref="/us/usc/t26/stE/ch51/schA/ptII/sptB">B.</a>  </td>
 
     <td> Nonbeverage domestic drawback claimants.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschA%2FptII%2FsptC" data-uslm-ref="/us/usc/t26/stE/ch51/schA/ptII/sptC">C.</a>  </td>
 
     <td> Recordkeeping by dealers. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to subpart heading. </sup></sup>   </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschA%2FptII%2FsptD" data-uslm-ref="/us/usc/t26/stE/ch51/schA/ptII/sptD">D.</a>  </td>
 
     <td> Other provisions.  </td>
 

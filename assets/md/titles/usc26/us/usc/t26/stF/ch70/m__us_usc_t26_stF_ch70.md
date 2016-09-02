@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch70%2FschA" data-uslm-ref="/us/usc/t26/stF/ch70/schA">A.</a>  </td>
 
     <td> Jeopardy  </td>
 
-    <td> 6851  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6851" data-uslm-ref="/us/usc/t26/s6851">6851</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch70%2FschB" data-uslm-ref="/us/usc/t26/stF/ch70/schB">B.</a>  </td>
 
     <td> Receiverships, etc  </td>
 
-    <td> 6871  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6871" data-uslm-ref="/us/usc/t26/s6871">6871</a>  </td>
 
   </tr>
 

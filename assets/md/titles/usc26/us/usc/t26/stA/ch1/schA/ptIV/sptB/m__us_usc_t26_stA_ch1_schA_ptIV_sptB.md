@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 27.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs27" data-uslm-ref="/us/usc/t26/s27">27.</a>  </td>
 
     <td> Taxes of foreign countries and possessions of the United States; possession tax credit.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [28, 29.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs28" data-uslm-ref="/us/usc/t26/s28">28</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs29" data-uslm-ref="/us/usc/t26/s29">29.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 30.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs30" data-uslm-ref="/us/usc/t26/s30">30.</a>  </td>
 
     <td> Certain plug-in electric vehicles.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 30A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs30A" data-uslm-ref="/us/usc/t26/s30A">30A.</a>  </td>
 
     <td> Puerto Rico economic activity credit.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 30B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs30B" data-uslm-ref="/us/usc/t26/s30B">30B.</a>  </td>
 
     <td> Alternative motor vehicle credit.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 30C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs30C" data-uslm-ref="/us/usc/t26/s30C">30C.</a>  </td>
 
     <td> Alternative fuel vehicle refueling property credit.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 30D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs30D" data-uslm-ref="/us/usc/t26/s30D">30D.</a>  </td>
 
     <td> New qualified plug-in electric drive motor vehicles.  </td>
 

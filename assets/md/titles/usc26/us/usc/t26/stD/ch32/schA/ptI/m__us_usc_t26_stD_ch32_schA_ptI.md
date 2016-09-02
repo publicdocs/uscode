@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [4061 to 4063.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4061" data-uslm-ref="/us/usc/t26/s4061">4061</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4063" data-uslm-ref="/us/usc/t26/s4063">4063.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4064.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4064" data-uslm-ref="/us/usc/t26/s4064">4064.</a>  </td>
 
     <td> Gas guzzler tax.  </td>
 

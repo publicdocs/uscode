@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch65%2FschA" data-uslm-ref="/us/usc/t26/stF/ch65/schA">A.</a>  </td>
 
     <td> Procedure in general  </td>
 
-    <td> 6401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6401" data-uslm-ref="/us/usc/t26/s6401">6401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch65%2FschB" data-uslm-ref="/us/usc/t26/stF/ch65/schB">B.</a>  </td>
 
     <td> Rules of special application  </td>
 
-    <td> 6411  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6411" data-uslm-ref="/us/usc/t26/s6411">6411</a>  </td>
 
   </tr>
 

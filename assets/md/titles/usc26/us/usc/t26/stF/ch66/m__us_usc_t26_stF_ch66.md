@@ -29,41 +29,41 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch66%2FschA" data-uslm-ref="/us/usc/t26/stF/ch66/schA">A.</a>  </td>
 
     <td> Limitations on assessment and collection  </td>
 
-    <td> 6501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6501" data-uslm-ref="/us/usc/t26/s6501">6501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch66%2FschB" data-uslm-ref="/us/usc/t26/stF/ch66/schB">B.</a>  </td>
 
     <td> Limitations on credit or refund  </td>
 
-    <td> 6511  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6511" data-uslm-ref="/us/usc/t26/s6511">6511</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch66%2FschC" data-uslm-ref="/us/usc/t26/stF/ch66/schC">C.</a>  </td>
 
     <td> Mitigation of effect of period of limitations  </td>
 
-    <td> 6521  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6521" data-uslm-ref="/us/usc/t26/s6521">6521</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch66%2FschD" data-uslm-ref="/us/usc/t26/stF/ch66/schD">D.</a>  </td>
 
     <td> Periods of limitation in judicial proceedings  </td>
 
-    <td> 6531  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6531" data-uslm-ref="/us/usc/t26/s6531">6531</a>  </td>
 
   </tr>
 

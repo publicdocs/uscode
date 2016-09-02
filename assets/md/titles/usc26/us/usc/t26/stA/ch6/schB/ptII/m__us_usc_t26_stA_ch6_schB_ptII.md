@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1561.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1561" data-uslm-ref="/us/usc/t26/s1561">1561.</a>  </td>
 
     <td> Limitations on certain multiple tax benefits in the case of certain controlled corporations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [1562.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1562" data-uslm-ref="/us/usc/t26/s1562">1562.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1563.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1563" data-uslm-ref="/us/usc/t26/s1563">1563.</a>  </td>
 
     <td> Definitions and special rules.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [1564.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1564" data-uslm-ref="/us/usc/t26/s1564">1564.</a>  </td>
 
     <td> Repealed.]  </td>
 

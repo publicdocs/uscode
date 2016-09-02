@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch63%2FschD%2FptI" data-uslm-ref="/us/usc/t26/stF/ch63/schD/ptI">I.</a>  </td>
 
     <td> Treatment of partnership items and adjustments.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch63%2FschD%2FptII" data-uslm-ref="/us/usc/t26/stF/ch63/schD/ptII">II.</a>  </td>
 
     <td> Partnership level adjustments.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch63%2FschD%2FptIII" data-uslm-ref="/us/usc/t26/stF/ch63/schD/ptIII">III.</a>  </td>
 
     <td> Definitions and special rules.  </td>
 

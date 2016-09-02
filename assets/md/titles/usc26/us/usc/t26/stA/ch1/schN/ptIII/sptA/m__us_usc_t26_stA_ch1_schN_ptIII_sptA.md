@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs901" data-uslm-ref="/us/usc/t26/s901">901.</a>  </td>
 
     <td> Taxes of foreign countries and of possessions of United States.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs902" data-uslm-ref="/us/usc/t26/s902">902.</a>  </td>
 
     <td> Deemed paid credit where domestic corporation owns 10 percent or more of voting stock of foreign corporation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs903" data-uslm-ref="/us/usc/t26/s903">903.</a>  </td>
 
     <td> Credit for taxes in lieu of income, etc., taxes.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs904" data-uslm-ref="/us/usc/t26/s904">904.</a>  </td>
 
     <td> Limitation on credit.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs905" data-uslm-ref="/us/usc/t26/s905">905.</a>  </td>
 
     <td> Applicable rules.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs906" data-uslm-ref="/us/usc/t26/s906">906.</a>  </td>
 
     <td> Nonresident alien individuals and foreign corporations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs907" data-uslm-ref="/us/usc/t26/s907">907.</a>  </td>
 
     <td> Special rules in case of foreign oil and gas income.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs908" data-uslm-ref="/us/usc/t26/s908">908.</a>  </td>
 
     <td> Reduction of credit for participation in or cooperation with an international boycott.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs909" data-uslm-ref="/us/usc/t26/s909">909.</a>  </td>
 
     <td> Suspension of taxes and credits until related income taken into account.  </td>
 

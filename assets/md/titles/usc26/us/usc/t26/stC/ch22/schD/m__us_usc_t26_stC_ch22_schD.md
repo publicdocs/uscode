@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3231" data-uslm-ref="/us/usc/t26/s3231">3231.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3232" data-uslm-ref="/us/usc/t26/s3232">3232.</a>  </td>
 
     <td> Court jurisdiction.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3233.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3233" data-uslm-ref="/us/usc/t26/s3233">3233.</a>  </td>
 
     <td> Short title.  </td>
 

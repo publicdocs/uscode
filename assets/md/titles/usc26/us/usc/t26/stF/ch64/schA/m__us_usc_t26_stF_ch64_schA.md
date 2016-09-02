@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6301" data-uslm-ref="/us/usc/t26/s6301">6301.</a>  </td>
 
     <td> Collection authority  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6302" data-uslm-ref="/us/usc/t26/s6302">6302.</a>  </td>
 
     <td> Mode or time of collection.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6303" data-uslm-ref="/us/usc/t26/s6303">6303.</a>  </td>
 
     <td> Notice and demand for tax.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6304" data-uslm-ref="/us/usc/t26/s6304">6304.</a>  </td>
 
     <td> Fair tax collection practices.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6305" data-uslm-ref="/us/usc/t26/s6305">6305.</a>  </td>
 
     <td> Collection of certain liability.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6306" data-uslm-ref="/us/usc/t26/s6306">6306.</a>  </td>
 
     <td> Qualified tax collection contracts.  </td>
 

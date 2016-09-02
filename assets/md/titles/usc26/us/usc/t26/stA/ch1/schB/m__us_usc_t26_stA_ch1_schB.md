@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschB%2FptI" data-uslm-ref="/us/usc/t26/stA/ch1/schB/ptI">I.</a>  </td>
 
     <td> Definition of gross income, adjusted gross income, taxable income, etc.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschB%2FptII" data-uslm-ref="/us/usc/t26/stA/ch1/schB/ptII">II.</a>  </td>
 
     <td> Items specifically included in gross income.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschB%2FptIII" data-uslm-ref="/us/usc/t26/stA/ch1/schB/ptIII">III.</a>  </td>
 
     <td> Items specifically excluded from gross income.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschB%2FptIV" data-uslm-ref="/us/usc/t26/stA/ch1/schB/ptIV">IV.</a>  </td>
 
     <td> Determination of marital status. <sup>[1]</sup>  <sup><sup> 1 Part heading amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F99%2F514" data-uslm-ref="/us/pl/99/514">Pub. L. 99–514</a> without corresponding amendment of analysis. </sup></sup>   </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> V.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschB%2FptV" data-uslm-ref="/us/usc/t26/stA/ch1/schB/ptV">V.</a>  </td>
 
     <td> Deductions for personal exemptions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> VI.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschB%2FptVI" data-uslm-ref="/us/usc/t26/stA/ch1/schB/ptVI">VI.</a>  </td>
 
     <td> Itemized deductions for individuals and corporations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> VII.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschB%2FptVII" data-uslm-ref="/us/usc/t26/stA/ch1/schB/ptVII">VII.</a>  </td>
 
     <td> Additional itemized deductions for individuals.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> VIII.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschB%2FptVIII" data-uslm-ref="/us/usc/t26/stA/ch1/schB/ptVIII">VIII.</a>  </td>
 
     <td> Special deductions for corporations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> IX.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschB%2FptIX" data-uslm-ref="/us/usc/t26/stA/ch1/schB/ptIX">IX.</a>  </td>
 
     <td> Items not deductible.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> X.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschB%2FptX" data-uslm-ref="/us/usc/t26/stA/ch1/schB/ptX">X.</a>  </td>
 
     <td> Terminal railroad corporations and their shareholders.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> XI.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschB%2FptXI" data-uslm-ref="/us/usc/t26/stA/ch1/schB/ptXI">XI.</a>  </td>
 
     <td> Special rules relating to corporate preference items.  </td>
 

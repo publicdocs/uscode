@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstI%2Fch98%2FschA" data-uslm-ref="/us/usc/t26/stI/ch98/schA">A.</a>  </td>
 
     <td> Establishment of Trust Funds  </td>
 
-    <td> 9501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9501" data-uslm-ref="/us/usc/t26/s9501">9501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstI%2Fch98%2FschB" data-uslm-ref="/us/usc/t26/stI/ch98/schB">B.</a>  </td>
 
     <td> General provisions  </td>
 
-    <td> 9601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9601" data-uslm-ref="/us/usc/t26/s9601">9601</a>  </td>
 
   </tr>
 

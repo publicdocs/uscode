@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschD%2FptIII%2FsptA" data-uslm-ref="/us/usc/t26/stA/ch1/schD/ptIII/sptA">A.</a>  </td>
 
     <td> Minimum funding standards for pension plans.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschD%2FptIII%2FsptB" data-uslm-ref="/us/usc/t26/stA/ch1/schD/ptIII/sptB">B.</a>  </td>
 
     <td> Benefit limitations under single-employer plans.  </td>
 

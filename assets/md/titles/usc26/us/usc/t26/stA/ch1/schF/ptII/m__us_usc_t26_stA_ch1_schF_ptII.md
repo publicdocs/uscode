@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs507" data-uslm-ref="/us/usc/t26/s507">507.</a>  </td>
 
     <td> Termination of private foundation status.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs508" data-uslm-ref="/us/usc/t26/s508">508.</a>  </td>
 
     <td> Special rules with respect to section 501(c)(3) organizations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs509" data-uslm-ref="/us/usc/t26/s509">509.</a>  </td>
 
     <td> Private foundation defined.  </td>
 

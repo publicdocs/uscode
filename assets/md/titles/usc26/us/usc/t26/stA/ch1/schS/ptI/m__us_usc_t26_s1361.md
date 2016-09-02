@@ -549,21 +549,17 @@
 
 >     Except as otherwise provided in this subsection, any amendment made by this section \[amending this section, sections 48, 108, 267, 318, 465, 1362, 1363, 1367, 1368, 1371, 1374, 1375, 1378, 1379, 6362, and 6659 and provisions set out as a note under this section\] shall take effect as if included in the Subchapter S Revision Act of 1982 \[[Pub. L. 97–354][/us/pl/97/354]\].
 
->     “(2) __Amendment made by subsection__ 
+>     “(2) __Amendment made by subsection (b)(2).—__ 
 
->         (b) __(2).—__ 
+>     Subparagraph (C) of section 108(d)(7) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (b)(2)) shall apply to contributions to capital after December 31, 1980, in taxable years ending after such date.
 
->         Subparagraph (C) of section 108(d)(7) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (b)(2)) shall apply to contributions to capital after December 31, 1980, in taxable years ending after such date.
+>     “(3) __Amendment made by subsection (g)(1).—__ 
 
->     “(3) __Amendment made by subsection__ 
+>     If—
 
->         (g) __(1).—__ 
+>         “(A) any portion of a qualified stock purchase is pursuant to a binding contract entered into on or after October 19, 1982, and before the date of the enactment of this Act \[July 18, 1984\], and
 
->         If—
-
->     “(A) any portion of a qualified stock purchase is pursuant to a binding contract entered into on or after October 19, 1982, and before the date of the enactment of this Act \[July 18, 1984\], and
-
->     “(B) the purchasing corporation establishes by clear and convincing evidence that such contract was negotiated on the contemplation that, with respect to the deemed sale under section 338 of the Internal Revenue Code of 1986, paragraph (2) of section 1362(e) of such Code would apply,
+>         “(B) the purchasing corporation establishes by clear and convincing evidence that such contract was negotiated on the contemplation that, with respect to the deemed sale under section 338 of the Internal Revenue Code of 1986, paragraph (2) of section 1362(e) of such Code would apply,
 
 >         then the amendment made by paragraph (1) of subsection (g) \[amending [section 1362 of this title][/us/usc/t26/s1362]\] shall not apply to such qualified stock purchase.
 

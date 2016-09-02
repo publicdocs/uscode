@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6012" data-uslm-ref="/us/usc/t26/s6012">6012.</a>  </td>
 
     <td> Persons required to make returns of income.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6013" data-uslm-ref="/us/usc/t26/s6013">6013.</a>  </td>
 
     <td> Joint returns of income tax by husband and wife.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6014.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6014" data-uslm-ref="/us/usc/t26/s6014">6014.</a>  </td>
 
     <td> Income tax return—tax not computed by taxpayer.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6015.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6015" data-uslm-ref="/us/usc/t26/s6015">6015.</a>  </td>
 
     <td> Relief from joint and several liability on joint return.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [6016.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6016" data-uslm-ref="/us/usc/t26/s6016">6016.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6017.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6017" data-uslm-ref="/us/usc/t26/s6017">6017.</a>  </td>
 
     <td> Self-employment tax returns.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [6017A.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6017A" data-uslm-ref="/us/usc/t26/s6017A">6017A.</a>  </td>
 
     <td> Repealed.]  </td>
 

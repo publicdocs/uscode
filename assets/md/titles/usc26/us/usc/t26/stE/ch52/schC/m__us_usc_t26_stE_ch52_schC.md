@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5721" data-uslm-ref="/us/usc/t26/s5721">5721.</a>  </td>
 
     <td> Inventories.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5722" data-uslm-ref="/us/usc/t26/s5722">5722.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5723.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5723" data-uslm-ref="/us/usc/t26/s5723">5723.</a>  </td>
 
     <td> Packages, marks, labels, and notices.  </td>
 

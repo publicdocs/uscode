@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs804" data-uslm-ref="/us/usc/t26/s804">804.</a>  </td>
 
     <td> Life insurance deductions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs805" data-uslm-ref="/us/usc/t26/s805">805.</a>  </td>
 
     <td> General deductions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs806" data-uslm-ref="/us/usc/t26/s806">806.</a>  </td>
 
     <td> Small life insurance company deduction.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs807" data-uslm-ref="/us/usc/t26/s807">807.</a>  </td>
 
     <td> Rules for certain reserves.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 808.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs808" data-uslm-ref="/us/usc/t26/s808">808.</a>  </td>
 
     <td> Policyholder dividends deduction.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [809.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs809" data-uslm-ref="/us/usc/t26/s809">809.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 810.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs810" data-uslm-ref="/us/usc/t26/s810">810.</a>  </td>
 
     <td> Operations loss deduction.  </td>
 

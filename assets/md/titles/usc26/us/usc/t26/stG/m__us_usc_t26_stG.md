@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> 91.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstG%2Fch91" data-uslm-ref="/us/usc/t26/stG/ch91">91.</a>  </td>
 
     <td> Organization and membership of the Joint Committee  </td>
 
-    <td> 8001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs8001" data-uslm-ref="/us/usc/t26/s8001">8001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 92.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstG%2Fch92" data-uslm-ref="/us/usc/t26/stG/ch92">92.</a>  </td>
 
     <td> Powers and duties of the Joint Committee  </td>
 
-    <td> 8021  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs8021" data-uslm-ref="/us/usc/t26/s8021">8021</a>  </td>
 
   </tr>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1001" data-uslm-ref="/us/usc/t26/s1001">1001.</a>  </td>
 
     <td> Determination of amount of and recognition of gain or loss.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [1002.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1002" data-uslm-ref="/us/usc/t26/s1002">1002.</a>  </td>
 
     <td> Repealed.]  </td>
 

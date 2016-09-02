@@ -29,37 +29,37 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch36%2FschA" data-uslm-ref="/us/usc/t26/stD/ch36/schA">A.</a>  </td>
 
     <td> Harbor maintenance tax  </td>
 
-    <td> 4461  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4461" data-uslm-ref="/us/usc/t26/s4461">4461</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch36%2FschB" data-uslm-ref="/us/usc/t26/stD/ch36/schB">B.</a>  </td>
 
     <td> Transportation by water  </td>
 
-    <td> 4471  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4471" data-uslm-ref="/us/usc/t26/s4471">4471</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch36%2FschB" data-uslm-ref="/us/usc/t26/stD/ch36/schB">B.</a>  </td>
 
     <td> Occupational tax on coin-operated devices  </td>
 
-    <td>  <sup>[2]</sup>  <sup><sup> 2 Subchapter repealed by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F95%2F600" data-uslm-ref="/us/pl/95/600">Pub. L. 95–600</a> without corresponding amendment of chapter analysis. </sup></sup>  4461  </td>
+    <td>  <sup>[2]</sup>  <sup><sup> 2 Subchapter repealed by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F95%2F600" data-uslm-ref="/us/pl/95/600">Pub. L. 95–600</a> without corresponding amendment of chapter analysis. </sup></sup>  <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4461" data-uslm-ref="/us/usc/t26/s4461">4461</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [C.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch36%2FschC" data-uslm-ref="/us/usc/t26/stD/ch36/schC">C.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -69,17 +69,17 @@
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch36%2FschD" data-uslm-ref="/us/usc/t26/stD/ch36/schD">D.</a>  </td>
 
     <td> Tax on use of certain vehicles  </td>
 
-    <td> 4481  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4481" data-uslm-ref="/us/usc/t26/s4481">4481</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [E, F.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch36%2FschE" data-uslm-ref="/us/usc/t26/stD/ch36/schE">E</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch36%2FschF" data-uslm-ref="/us/usc/t26/stD/ch36/schF">F.</a>  </td>
 
     <td> Repealed.]  </td>
 

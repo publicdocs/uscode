@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1091.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1091" data-uslm-ref="/us/usc/t26/s1091">1091.</a>  </td>
 
     <td> Loss from wash sales of stock or securities.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1092.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1092" data-uslm-ref="/us/usc/t26/s1092">1092.</a>  </td>
 
     <td> Straddles.  </td>
 

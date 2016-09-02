@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5211" data-uslm-ref="/us/usc/t26/s5211">5211.</a>  </td>
 
     <td> Production and entry of distilled spirits.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5212" data-uslm-ref="/us/usc/t26/s5212">5212.</a>  </td>
 
     <td> Transfer of distilled spirits between bonded premises.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5213" data-uslm-ref="/us/usc/t26/s5213">5213.</a>  </td>
 
     <td> Withdrawal of distilled spirits from bonded premises on determination of tax.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5214" data-uslm-ref="/us/usc/t26/s5214">5214.</a>  </td>
 
     <td> Withdrawal of distilled spirits from bonded premises free of tax or without payment of tax.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5215.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5215" data-uslm-ref="/us/usc/t26/s5215">5215.</a>  </td>
 
     <td> Return of tax determined distilled spirits to bonded premises.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5216.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5216" data-uslm-ref="/us/usc/t26/s5216">5216.</a>  </td>
 
     <td> Regulation of operations.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5681.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5681" data-uslm-ref="/us/usc/t26/s5681">5681.</a>  </td>
 
     <td> Penalty relating to signs.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5682.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5682" data-uslm-ref="/us/usc/t26/s5682">5682.</a>  </td>
 
     <td> Penalty for breaking locks or gaining access.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5683.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5683" data-uslm-ref="/us/usc/t26/s5683">5683.</a>  </td>
 
     <td> Penalty and forfeiture for removal of liquors under improper brands.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5684.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5684" data-uslm-ref="/us/usc/t26/s5684">5684.</a>  </td>
 
     <td> Penalties relating to the payment and collection of liquor taxes.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5685.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5685" data-uslm-ref="/us/usc/t26/s5685">5685.</a>  </td>
 
     <td> Penalty and forfeiture relating to possession of devices for emitting gas, smoke, etc., explosives and firearms, when violating liquor laws.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5686.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5686" data-uslm-ref="/us/usc/t26/s5686">5686.</a>  </td>
 
     <td> Penalty for having, possessing, or using liquor or property intended to be used in violating provisions of this chapter.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5687.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5687" data-uslm-ref="/us/usc/t26/s5687">5687.</a>  </td>
 
     <td> Penalty for offenses not specifically covered.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5688.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5688" data-uslm-ref="/us/usc/t26/s5688">5688.</a>  </td>
 
     <td> Disposition and release of seized property.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> [5689.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5689" data-uslm-ref="/us/usc/t26/s5689">5689.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 5690.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5690" data-uslm-ref="/us/usc/t26/s5690">5690.</a>  </td>
 
     <td> Definition of the term “person”.  </td>
 

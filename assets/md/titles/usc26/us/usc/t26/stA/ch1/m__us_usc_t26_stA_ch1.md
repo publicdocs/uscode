@@ -29,251 +29,251 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA" data-uslm-ref="/us/usc/t26/stA/ch1/schA">A.</a>  </td>
 
     <td> Determination of tax liability  </td>
 
-    <td> 1  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1" data-uslm-ref="/us/usc/t26/s1">1</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschB" data-uslm-ref="/us/usc/t26/stA/ch1/schB">B.</a>  </td>
 
     <td> Computation of taxable income  </td>
 
-    <td> 61  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs61" data-uslm-ref="/us/usc/t26/s61">61</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschC" data-uslm-ref="/us/usc/t26/stA/ch1/schC">C.</a>  </td>
 
     <td> Corporate distributions and adjustments  </td>
 
-    <td> 301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs301" data-uslm-ref="/us/usc/t26/s301">301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschD" data-uslm-ref="/us/usc/t26/stA/ch1/schD">D.</a>  </td>
 
     <td> Deferred compensation, etc.  </td>
 
-    <td> 401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs401" data-uslm-ref="/us/usc/t26/s401">401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschE" data-uslm-ref="/us/usc/t26/stA/ch1/schE">E.</a>  </td>
 
     <td> Accounting periods and methods of accounting  </td>
 
-    <td> 441  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs441" data-uslm-ref="/us/usc/t26/s441">441</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> F.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschF" data-uslm-ref="/us/usc/t26/stA/ch1/schF">F.</a>  </td>
 
     <td> Exempt organizations  </td>
 
-    <td> 501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs501" data-uslm-ref="/us/usc/t26/s501">501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> G.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschG" data-uslm-ref="/us/usc/t26/stA/ch1/schG">G.</a>  </td>
 
     <td> Corporations used to avoid income tax on shareholders  </td>
 
-    <td> 531  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs531" data-uslm-ref="/us/usc/t26/s531">531</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> H.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschH" data-uslm-ref="/us/usc/t26/stA/ch1/schH">H.</a>  </td>
 
     <td> Banking institutions  </td>
 
-    <td> 581  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs581" data-uslm-ref="/us/usc/t26/s581">581</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschI" data-uslm-ref="/us/usc/t26/stA/ch1/schI">I.</a>  </td>
 
     <td> Natural resources  </td>
 
-    <td> 611  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs611" data-uslm-ref="/us/usc/t26/s611">611</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> J.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschJ" data-uslm-ref="/us/usc/t26/stA/ch1/schJ">J.</a>  </td>
 
     <td> Estates, trusts, beneficiaries, and decedents  </td>
 
-    <td> 641  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs641" data-uslm-ref="/us/usc/t26/s641">641</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> K.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschK" data-uslm-ref="/us/usc/t26/stA/ch1/schK">K.</a>  </td>
 
     <td> Partners and partnerships  </td>
 
-    <td> 701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs701" data-uslm-ref="/us/usc/t26/s701">701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> L.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschL" data-uslm-ref="/us/usc/t26/stA/ch1/schL">L.</a>  </td>
 
     <td> Insurance companies  </td>
 
-    <td> 801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs801" data-uslm-ref="/us/usc/t26/s801">801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> M.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschM" data-uslm-ref="/us/usc/t26/stA/ch1/schM">M.</a>  </td>
 
     <td> Regulated investment companies and real estate investment trusts  </td>
 
-    <td> 851  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs851" data-uslm-ref="/us/usc/t26/s851">851</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> N.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN" data-uslm-ref="/us/usc/t26/stA/ch1/schN">N.</a>  </td>
 
     <td> Tax based on income from sources within or without the United States  </td>
 
-    <td> 861  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs861" data-uslm-ref="/us/usc/t26/s861">861</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> O.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschO" data-uslm-ref="/us/usc/t26/stA/ch1/schO">O.</a>  </td>
 
     <td> Gain or loss on disposition of property  </td>
 
-    <td> 1001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1001" data-uslm-ref="/us/usc/t26/s1001">1001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> P.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschP" data-uslm-ref="/us/usc/t26/stA/ch1/schP">P.</a>  </td>
 
     <td> Capital gains and losses  </td>
 
-    <td> 1201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1201" data-uslm-ref="/us/usc/t26/s1201">1201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> Q.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschQ" data-uslm-ref="/us/usc/t26/stA/ch1/schQ">Q.</a>  </td>
 
     <td> Readjustment of tax between years and special limitations  </td>
 
-    <td> 1301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1301" data-uslm-ref="/us/usc/t26/s1301">1301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> S.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschS" data-uslm-ref="/us/usc/t26/stA/ch1/schS">S.</a>  </td>
 
     <td> Tax treatment of S corporations and their shareholders  </td>
 
-    <td> 1361  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1361" data-uslm-ref="/us/usc/t26/s1361">1361</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> R. <sup>[2]</sup>  <sup><sup> 2 So in original. Probably should follow item for subchapter Q. </sup></sup>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschR" data-uslm-ref="/us/usc/t26/stA/ch1/schR">R.</a> <sup>[2]</sup>  <sup><sup> 2 So in original. Probably should follow item for subchapter Q. </sup></sup>   </td>
 
     <td> Election to determine corporate tax on certain international shipping activities using per ton rate  </td>
 
-    <td> 1352  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1352" data-uslm-ref="/us/usc/t26/s1352">1352</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> T.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschT" data-uslm-ref="/us/usc/t26/stA/ch1/schT">T.</a>  </td>
 
     <td> Cooperatives and their patrons  </td>
 
-    <td> 1381  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1381" data-uslm-ref="/us/usc/t26/s1381">1381</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> U.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschU" data-uslm-ref="/us/usc/t26/stA/ch1/schU">U.</a>  </td>
 
     <td> Designation and treatment of empowerment zones, enterprise communities, and rural development investment areas  </td>
 
-    <td> 1391  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1391" data-uslm-ref="/us/usc/t26/s1391">1391</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> V.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschV" data-uslm-ref="/us/usc/t26/stA/ch1/schV">V.</a>  </td>
 
     <td> Title 11 cases  </td>
 
-    <td> 1398  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1398" data-uslm-ref="/us/usc/t26/s1398">1398</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> W.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschW" data-uslm-ref="/us/usc/t26/stA/ch1/schW">W.</a>  </td>
 
     <td> District of Columbia Enterprise Zone  </td>
 
-    <td> 1400  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400" data-uslm-ref="/us/usc/t26/s1400">1400</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> X.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschX" data-uslm-ref="/us/usc/t26/stA/ch1/schX">X.</a>  </td>
 
     <td> Renewal Communities  </td>
 
-    <td> 1400E  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400E" data-uslm-ref="/us/usc/t26/s1400E">1400E</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> Y.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschY" data-uslm-ref="/us/usc/t26/stA/ch1/schY">Y.</a>  </td>
 
     <td> Short-Term Regional Benefits  </td>
 
-    <td> 1400L  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400L" data-uslm-ref="/us/usc/t26/s1400L">1400L</a>  </td>
 
   </tr>
 

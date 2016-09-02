@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 528.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs528" data-uslm-ref="/us/usc/t26/s528">528.</a>  </td>
 
     <td> Certain homeowners associations.  </td>
 

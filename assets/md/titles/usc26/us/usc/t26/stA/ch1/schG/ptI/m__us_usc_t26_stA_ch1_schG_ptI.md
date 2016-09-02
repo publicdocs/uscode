@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs531" data-uslm-ref="/us/usc/t26/s531">531.</a>  </td>
 
     <td> Imposition of accumulated earnings tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs532" data-uslm-ref="/us/usc/t26/s532">532.</a>  </td>
 
     <td> Corporations subject to accumulated earnings tax.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs533" data-uslm-ref="/us/usc/t26/s533">533.</a>  </td>
 
     <td> Evidence of purpose to avoid income tax.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 534.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs534" data-uslm-ref="/us/usc/t26/s534">534.</a>  </td>
 
     <td> Burden of proof.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 535.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs535" data-uslm-ref="/us/usc/t26/s535">535.</a>  </td>
 
     <td> Accumulated taxable income.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 536.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs536" data-uslm-ref="/us/usc/t26/s536">536.</a>  </td>
 
     <td> Income not placed on annual basis.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 537.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs537" data-uslm-ref="/us/usc/t26/s537">537.</a>  </td>
 
     <td> Reasonable needs of the business.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6321" data-uslm-ref="/us/usc/t26/s6321">6321.</a>  </td>
 
     <td> Lien for taxes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6322" data-uslm-ref="/us/usc/t26/s6322">6322.</a>  </td>
 
     <td> Period of lien.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6323" data-uslm-ref="/us/usc/t26/s6323">6323.</a>  </td>
 
     <td> Validity and priority against certain persons.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6324" data-uslm-ref="/us/usc/t26/s6324">6324.</a>  </td>
 
     <td> Special liens for estate and gift taxes.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6324A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6324A" data-uslm-ref="/us/usc/t26/s6324A">6324A.</a>  </td>
 
     <td> Special lien for estate tax deferred under section 6166.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6324B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6324B" data-uslm-ref="/us/usc/t26/s6324B">6324B.</a>  </td>
 
     <td> Special lien for additional estate tax attributable to farm, etc., valuation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6325" data-uslm-ref="/us/usc/t26/s6325">6325.</a>  </td>
 
     <td> Release of lien or discharge of property.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6326" data-uslm-ref="/us/usc/t26/s6326">6326.</a>  </td>
 
     <td> Administrative appeal of liens.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 6327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6327" data-uslm-ref="/us/usc/t26/s6327">6327.</a>  </td>
 
     <td> Cross references.  </td>
 

@@ -29,41 +29,41 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch67%2FschA" data-uslm-ref="/us/usc/t26/stF/ch67/schA">A.</a>  </td>
 
     <td> Interest on underpayments  </td>
 
-    <td> 6601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6601" data-uslm-ref="/us/usc/t26/s6601">6601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch67%2FschB" data-uslm-ref="/us/usc/t26/stF/ch67/schB">B.</a>  </td>
 
     <td> Interest on overpayments  </td>
 
-    <td> 6611  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6611" data-uslm-ref="/us/usc/t26/s6611">6611</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch67%2FschC" data-uslm-ref="/us/usc/t26/stF/ch67/schC">C.</a>  </td>
 
     <td> Determination of interest rate; compounding of interest  </td>
 
-    <td> 6621  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6621" data-uslm-ref="/us/usc/t26/s6621">6621</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch67%2FschD" data-uslm-ref="/us/usc/t26/stF/ch67/schD">D.</a>  </td>
 
     <td> Notice requirements  </td>
 
-    <td> 6631  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6631" data-uslm-ref="/us/usc/t26/s6631">6631</a>  </td>
 
   </tr>
 

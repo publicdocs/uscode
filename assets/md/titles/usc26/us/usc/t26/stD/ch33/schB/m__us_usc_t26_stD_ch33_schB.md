@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4251" data-uslm-ref="/us/usc/t26/s4251">4251.</a>  </td>
 
     <td> Imposition of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4252" data-uslm-ref="/us/usc/t26/s4252">4252.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4253.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4253" data-uslm-ref="/us/usc/t26/s4253">4253.</a>  </td>
 
     <td> Exemptions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4254.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4254" data-uslm-ref="/us/usc/t26/s4254">4254.</a>  </td>
 
     <td> Computation of tax.  </td>
 

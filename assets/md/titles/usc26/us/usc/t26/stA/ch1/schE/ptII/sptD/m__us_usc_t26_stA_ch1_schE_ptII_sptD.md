@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs471" data-uslm-ref="/us/usc/t26/s471">471.</a>  </td>
 
     <td> General rule for inventories.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs472" data-uslm-ref="/us/usc/t26/s472">472.</a>  </td>
 
     <td> Last-in, first-out inventories.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 473.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs473" data-uslm-ref="/us/usc/t26/s473">473.</a>  </td>
 
     <td> Qualified liquidations of LIFO inventories.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 474.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs474" data-uslm-ref="/us/usc/t26/s474">474.</a>  </td>
 
     <td> Simplified dollar-value LIFO method for certain small businesses.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 475.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs475" data-uslm-ref="/us/usc/t26/s475">475.</a>  </td>
 
     <td> Mark to market accounting method for dealers in securities.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 751.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs751" data-uslm-ref="/us/usc/t26/s751">751.</a>  </td>
 
     <td> Unrealized receivables and inventory items.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 752.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs752" data-uslm-ref="/us/usc/t26/s752">752.</a>  </td>
 
     <td> Treatment of certain liabilities.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 753.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs753" data-uslm-ref="/us/usc/t26/s753">753.</a>  </td>
 
     <td> Partner receiving income in respect of decedent.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 754.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs754" data-uslm-ref="/us/usc/t26/s754">754.</a>  </td>
 
     <td> Manner of electing optional adjustment to basis of partnership property.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 755.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs755" data-uslm-ref="/us/usc/t26/s755">755.</a>  </td>
 
     <td> Rules for allocation of basis.  </td>
 

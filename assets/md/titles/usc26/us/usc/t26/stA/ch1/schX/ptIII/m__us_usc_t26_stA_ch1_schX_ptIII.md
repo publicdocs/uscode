@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1400H.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400H" data-uslm-ref="/us/usc/t26/s1400H">1400H.</a>  </td>
 
     <td> Renewal community employment credit.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1400I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400I" data-uslm-ref="/us/usc/t26/s1400I">1400I.</a>  </td>
 
     <td> Commercial revitalization deduction.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1400J.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400J" data-uslm-ref="/us/usc/t26/s1400J">1400J.</a>  </td>
 
     <td> Increase in expensing under section 179.  </td>
 

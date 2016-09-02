@@ -365,45 +365,43 @@
 
 >         For purposes of paragraph (1)(A), the term ‘significant expenditures’ means expenditures greater than 10 percent of the reasonably anticipated cost of the construction, reconstruction, or rehabilitation of the facility involved.
 
->     “(b) __Certain Amendments To Apply to Bonds Under Subsection__ 
+>     “(b) __Certain Amendments To Apply to Bonds Under Subsection (a) Transitional Rule.—__ 
 
->         (a) __Transitional Rule.—__ 
+>         “(1) __In general.—__ 
 
->     “(1) __In general.—__ 
+>         In the case of a bond issued after August 15, 1986, and to which subsection (a) of this section applies, the requirements of the following provisions shall be treated as included in section 103 and section 103A (as appropriate) of the 1954 Code:
 
->     In the case of a bond issued after August 15, 1986, and to which subsection (a) of this section applies, the requirements of the following provisions shall be treated as included in section 103 and section 103A (as appropriate) of the 1954 Code:
+>             “(A) The requirement that 95 percent or more of the net proceeds of an issue are to be used for a purpose described in section 103(b)(4) or (5) of such Code in order for section 103(b)(4) or (5) of such Code to apply, including the application of section 142(b)(2) of the 1986 Code (relating to limitation on office space).
 
->         “(A) The requirement that 95 percent or more of the net proceeds of an issue are to be used for a purpose described in section 103(b)(4) or (5) of such Code in order for section 103(b)(4) or (5) of such Code to apply, including the application of section 142(b)(2) of the 1986 Code (relating to limitation on office space).
+>             “(B) The requirement that 95 percent or more of the net proceeds of an issue are to be used for a purpose described in section 103(b)(6)(A) of the 1954 Code in order for section 103(b)(6)(A) of such Code to apply.
 
->         “(B) The requirement that 95 percent or more of the net proceeds of an issue are to be used for a purpose described in section 103(b)(6)(A) of the 1954 Code in order for section 103(b)(6)(A) of such Code to apply.
+>             “(C) The requirements of section 143 of the 1986 Code (relating to qualified mortgage bonds and qualified veterans’ mortgage bonds) in order for section 103A(b)(2) of the 1954 Code to apply.
 
->         “(C) The requirements of section 143 of the 1986 Code (relating to qualified mortgage bonds and qualified veterans’ mortgage bonds) in order for section 103A(b)(2) of the 1954 Code to apply.
+>             “(D) The requirements of section 144(a)(11) of the 1986 Code (relating to limitation on acquisition of depreciable farm property) in order for section 103(b)(6)(A) of the 1954 Code to apply.
 
->         “(D) The requirements of section 144(a)(11) of the 1986 Code (relating to limitation on acquisition of depreciable farm property) in order for section 103(b)(6)(A) of the 1954 Code to apply.
+>             “(E) The requirements of section 147(b) of the 1986 Code (relating to maturity may not exceed 120 percent of economic life).
 
->         “(E) The requirements of section 147(b) of the 1986 Code (relating to maturity may not exceed 120 percent of economic life).
+>             “(F) The requirements of section 147(f) of the 1986 Code (relating to public approval required for private activity bonds).
 
->         “(F) The requirements of section 147(f) of the 1986 Code (relating to public approval required for private activity bonds).
+>             “(G) The requirements of section 147(g) of the 1986 Code (relating to restriction on issuance costs financed by issue).
 
->         “(G) The requirements of section 147(g) of the 1986 Code (relating to restriction on issuance costs financed by issue).
+>             “(H) The requirements of section 148 of the 1986 Code (relating to arbitrage).
 
->         “(H) The requirements of section 148 of the 1986 Code (relating to arbitrage).
+>             “(I) The requirements of section 149(e) of the 1986 Code (relating to information reporting).
 
->         “(I) The requirements of section 149(e) of the 1986 Code (relating to information reporting).
+>             “(J) The provisions of section 150(b) of the 1986 Code (relating to changes in use).
 
->         “(J) The provisions of section 150(b) of the 1986 Code (relating to changes in use).
+>         “(2) __Certain requirements apply only to bonds issued after december 31, 1986.—__ 
 
->     “(2) __Certain requirements apply only to bonds issued after december 31, 1986.—__ 
+>         In the case of subparagraphs (F) and (I) of paragraphs (1), paragraph (1) shall be applied by substituting ‘December 31, 1986’ for ‘August 15, 1986’.
 
->     In the case of subparagraphs (F) and (I) of paragraphs (1), paragraph (1) shall be applied by substituting ‘December 31, 1986’ for ‘August 15, 1986’.
+>         “(3) __Application of volume cap.—__ 
 
->     “(3) __Application of volume cap.—__ 
+>         Except as provided in section 1315, any bond to which this subsection applies shall be treated as a private activity bond for purposes of section 146 of the 1986 Code if such bond would have been taken into account under section 103(n) or 103A(g) of the 1954 Code (determined without regard to any carryforward election) were such bond issued before August 16, 1986.
 
->     Except as provided in section 1315, any bond to which this subsection applies shall be treated as a private activity bond for purposes of section 146 of the 1986 Code if such bond would have been taken into account under section 103(n) or 103A(g) of the 1954 Code (determined without regard to any carryforward election) were such bond issued before August 16, 1986.
+>         “(4) __Application of provisions.—__ 
 
->     “(4) __Application of provisions.—__ 
-
->     For purposes of applying the requirements referred to in any subparagraph of paragraph (1) or of subsection (a)(3) or (b)(3) of section 1313 to any bond, such bond shall be treated as described in the subparagraph of section 141(d)(1) of the 1986 Code to which the use of the proceeds of such bond most closely relates.
+>         For purposes of applying the requirements referred to in any subparagraph of paragraph (1) or of subsection (a)(3) or (b)(3) of section 1313 to any bond, such bond shall be treated as described in the subparagraph of section 141(d)(1) of the 1986 Code to which the use of the proceeds of such bond most closely relates.
 
 >     “(c) __Special Rules for Certain Government Bonds Issued After__  __August 15, 1986__  __.—__ 
 
@@ -2611,15 +2609,13 @@
 
 >     A bond shall be treated as an exempt facility bond within the meaning of section 142(a) of the 1986 Code if it is issued to fund residential, office, retail, light industrial, recreational and parking development known as Tobacco Row. Such bond shall be subject to section 146 of the 1986 Code. The aggregate face amount of bonds to which this paragraph applies shall not exceed $100,000,000.
 
->     “(39) __Certain bonds treated as qualified 501__ 
+>     “(39) __Certain bonds treated as qualified 501(c)(3) bonds.—__ 
 
->         (c) __(3) bonds.—__ 
+>     A bond issued as part of an issue shall be treated for purposes of part IV of subchapter B of chapter 1 of the 1986 Code as a qualified 501(c)(3) bond if—
 
->         A bond issued as part of an issue shall be treated for purposes of part IV of subchapter B of chapter 1 of the 1986 Code as a qualified 501(c)(3) bond if—
+>         “(A) such bond would not (if issued on August 15, 1986) be an industrial development bond (as defined in section 103(b)(2) of the 1954 Code), and
 
->     “(A) such bond would not (if issued on August 15, 1986) be an industrial development bond (as defined in section 103(b)(2) of the 1954 Code), and
-
->     “(B) such issue was approved by city voters on January 19, 1985, for construction or renovation of facilities for the cultural and performing arts.
+>         “(B) such issue was approved by city voters on January 19, 1985, for construction or renovation of facilities for the cultural and performing arts.
 
 >         The aggregate face amount of bonds to which this paragraph applies shall not exceed $5,000,000.
 

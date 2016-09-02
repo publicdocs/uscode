@@ -57,11 +57,9 @@
 
             (A) subject to a substantial risk of forfeiture, and
 
-            (B)
+            (B) not transferable.
 
-             not transferable.
-
-                (4) For purposes of determining an individual’s basis in property transferred in connection with the performance of services, rules similar to the rules of section 72(w) shall apply.
+        (4) For purposes of determining an individual’s basis in property transferred in connection with the performance of services, rules similar to the rules of section 72(w) shall apply.
 
     (d) __Certain restrictions which will never lapse__ 
 

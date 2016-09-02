@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschI%2FptI" data-uslm-ref="/us/usc/t26/stA/ch1/schI/ptI">I.</a>  </td>
 
     <td> Deductions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [II.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschI%2FptII" data-uslm-ref="/us/usc/t26/stA/ch1/schI/ptII">II.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschI%2FptIII" data-uslm-ref="/us/usc/t26/stA/ch1/schI/ptIII">III.</a>  </td>
 
     <td> Sales and exchanges.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschI%2FptIV" data-uslm-ref="/us/usc/t26/stA/ch1/schI/ptIV">IV.</a>  </td>
 
     <td> Mineral production payments.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> V.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschI%2FptV" data-uslm-ref="/us/usc/t26/stA/ch1/schI/ptV">V.</a>  </td>
 
     <td> Continental shelf areas.  </td>
 

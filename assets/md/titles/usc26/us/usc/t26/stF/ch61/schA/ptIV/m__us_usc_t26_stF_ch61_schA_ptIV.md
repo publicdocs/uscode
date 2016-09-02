@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6061.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6061" data-uslm-ref="/us/usc/t26/s6061">6061.</a>  </td>
 
     <td> Signing of returns and other documents.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6062.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6062" data-uslm-ref="/us/usc/t26/s6062">6062.</a>  </td>
 
     <td> Signing of corporation returns.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6063.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6063" data-uslm-ref="/us/usc/t26/s6063">6063.</a>  </td>
 
     <td> Signing of partnership returns.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6064.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6064" data-uslm-ref="/us/usc/t26/s6064">6064.</a>  </td>
 
     <td> Signature presumed authentic.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6065.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6065" data-uslm-ref="/us/usc/t26/s6065">6065.</a>  </td>
 
     <td> Verification of returns.  </td>
 

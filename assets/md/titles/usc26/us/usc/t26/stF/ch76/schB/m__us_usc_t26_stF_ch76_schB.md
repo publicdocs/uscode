@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7421" data-uslm-ref="/us/usc/t26/s7421">7421.</a>  </td>
 
     <td> Prohibition of suits to restrain assessment or collection.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7422" data-uslm-ref="/us/usc/t26/s7422">7422.</a>  </td>
 
     <td> Civil actions for refund.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7423" data-uslm-ref="/us/usc/t26/s7423">7423.</a>  </td>
 
     <td> Repayments to officers or employees.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7424" data-uslm-ref="/us/usc/t26/s7424">7424.</a>  </td>
 
     <td> Intervention.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7425" data-uslm-ref="/us/usc/t26/s7425">7425.</a>  </td>
 
     <td> Discharge of liens.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7426.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7426" data-uslm-ref="/us/usc/t26/s7426">7426.</a>  </td>
 
     <td> Civil actions by persons other than taxpayers.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7427.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7427" data-uslm-ref="/us/usc/t26/s7427">7427.</a>  </td>
 
     <td> Tax return preparers.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7428.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7428" data-uslm-ref="/us/usc/t26/s7428">7428.</a>  </td>
 
     <td> Declaratory judgments relating to status and classification of organizations under section 501(c)(3), etc.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 7429.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7429" data-uslm-ref="/us/usc/t26/s7429">7429.</a>  </td>
 
     <td> Review of jeopardy levy or assessment procedures.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 7430.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7430" data-uslm-ref="/us/usc/t26/s7430">7430.</a>  </td>
 
     <td> Awarding of costs and certain fees.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 7431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7431" data-uslm-ref="/us/usc/t26/s7431">7431.</a>  </td>
 
     <td> Civil damages for unauthorized inspection or disclosure of returns and return information.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 7432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7432" data-uslm-ref="/us/usc/t26/s7432">7432.</a>  </td>
 
     <td> Civil damages for failure to release lien.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 7433.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7433" data-uslm-ref="/us/usc/t26/s7433">7433.</a>  </td>
 
     <td> Civil damages for certain unauthorized collection actions.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 7433A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7433A" data-uslm-ref="/us/usc/t26/s7433A">7433A.</a>  </td>
 
     <td> Civil damages for certain unauthorized collection actions by persons performing services under qualified tax collection contracts.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 7434.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7434" data-uslm-ref="/us/usc/t26/s7434">7434.</a>  </td>
 
     <td> Civil damages for fraudulent filing of information returns.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 7435.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7435" data-uslm-ref="/us/usc/t26/s7435">7435.</a>  </td>
 
     <td> Civil damages for unauthorized enticement of information disclosure.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 7436.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7436" data-uslm-ref="/us/usc/t26/s7436">7436.</a>  </td>
 
     <td> Proceedings for determination of employment status.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 7437.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7437" data-uslm-ref="/us/usc/t26/s7437">7437.</a>  </td>
 
     <td> Cross references.  </td>
 

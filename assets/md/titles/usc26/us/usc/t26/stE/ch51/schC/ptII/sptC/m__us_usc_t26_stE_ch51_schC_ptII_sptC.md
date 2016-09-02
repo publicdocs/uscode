@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5231" data-uslm-ref="/us/usc/t26/s5231">5231.</a>  </td>
 
     <td> Entry for deposit.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5232" data-uslm-ref="/us/usc/t26/s5232">5232.</a>  </td>
 
     <td> Imported distilled spirits.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [5233, 5234.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5233" data-uslm-ref="/us/usc/t26/s5233">5233</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5234" data-uslm-ref="/us/usc/t26/s5234">5234.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5235.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5235" data-uslm-ref="/us/usc/t26/s5235">5235.</a>  </td>
 
     <td> Bottling of alcohol for industrial purposes.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5236.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5236" data-uslm-ref="/us/usc/t26/s5236">5236.</a>  </td>
 
     <td> Discontinuance of storage facilities and transfer of distilled spirits.  </td>
 

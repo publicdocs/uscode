@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2101" data-uslm-ref="/us/usc/t26/s2101">2101.</a>  </td>
 
     <td> Tax imposed.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2102" data-uslm-ref="/us/usc/t26/s2102">2102.</a>  </td>
 
     <td> Credits against tax.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2103" data-uslm-ref="/us/usc/t26/s2103">2103.</a>  </td>
 
     <td> Definition of gross estate.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2104" data-uslm-ref="/us/usc/t26/s2104">2104.</a>  </td>
 
     <td> Property within the United States.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2105" data-uslm-ref="/us/usc/t26/s2105">2105.</a>  </td>
 
     <td> Property without the United States.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2106" data-uslm-ref="/us/usc/t26/s2106">2106.</a>  </td>
 
     <td> Taxable estate.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2107" data-uslm-ref="/us/usc/t26/s2107">2107.</a>  </td>
 
     <td> Expatriation to avoid tax.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2108" data-uslm-ref="/us/usc/t26/s2108">2108.</a>  </td>
 
     <td> Application of pre-1967 estate tax provisions.  </td>
 

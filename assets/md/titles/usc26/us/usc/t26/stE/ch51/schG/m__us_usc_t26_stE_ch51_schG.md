@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschG%2FptI" data-uslm-ref="/us/usc/t26/stE/ch51/schG/ptI">I.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschG%2FptII" data-uslm-ref="/us/usc/t26/stE/ch51/schG/ptII">II.</a>  </td>
 
     <td> Operations.  </td>
 

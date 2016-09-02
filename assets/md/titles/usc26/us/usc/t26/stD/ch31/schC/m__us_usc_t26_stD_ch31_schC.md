@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4051.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4051" data-uslm-ref="/us/usc/t26/s4051">4051.</a>  </td>
 
     <td> Imposition of tax on heavy trucks and trailers sold at retail.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4052.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4052" data-uslm-ref="/us/usc/t26/s4052">4052.</a>  </td>
 
     <td> Definitions and special rules.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4053.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4053" data-uslm-ref="/us/usc/t26/s4053">4053.</a>  </td>
 
     <td> Exemptions.  </td>
 

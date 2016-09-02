@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch32%2FschD%2FptI" data-uslm-ref="/us/usc/t26/stD/ch32/schD/ptI">I.</a>  </td>
 
     <td> Sporting goods.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [II.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch32%2FschD%2FptII" data-uslm-ref="/us/usc/t26/stD/ch32/schD/ptII">II.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch32%2FschD%2FptIII" data-uslm-ref="/us/usc/t26/stD/ch32/schD/ptIII">III.</a>  </td>
 
     <td> Firearms.  </td>
 

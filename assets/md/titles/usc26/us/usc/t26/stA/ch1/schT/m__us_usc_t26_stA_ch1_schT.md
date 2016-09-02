@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschT%2FptI" data-uslm-ref="/us/usc/t26/stA/ch1/schT/ptI">I.</a>  </td>
 
     <td> Tax treatment of cooperatives.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschT%2FptII" data-uslm-ref="/us/usc/t26/stA/ch1/schT/ptII">II.</a>  </td>
 
     <td> Tax treatment by patrons of patronage dividends and per-unit retain allocations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschT%2FptIII" data-uslm-ref="/us/usc/t26/stA/ch1/schT/ptIII">III.</a>  </td>
 
     <td> Definitions; special rules.  </td>
 

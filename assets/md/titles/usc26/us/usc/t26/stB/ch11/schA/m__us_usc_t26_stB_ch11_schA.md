@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch11%2FschA%2FptI" data-uslm-ref="/us/usc/t26/stB/ch11/schA/ptI">I.</a>  </td>
 
     <td> Tax imposed.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch11%2FschA%2FptII" data-uslm-ref="/us/usc/t26/stB/ch11/schA/ptII">II.</a>  </td>
 
     <td> Credits against tax.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch11%2FschA%2FptIII" data-uslm-ref="/us/usc/t26/stB/ch11/schA/ptIII">III.</a>  </td>
 
     <td> Gross estate.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch11%2FschA%2FptIV" data-uslm-ref="/us/usc/t26/stB/ch11/schA/ptIV">IV.</a>  </td>
 
     <td> Taxable estate.  </td>
 

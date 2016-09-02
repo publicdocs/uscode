@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 367.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs367" data-uslm-ref="/us/usc/t26/s367">367.</a>  </td>
 
     <td> Foreign corporations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 368.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs368" data-uslm-ref="/us/usc/t26/s368">368.</a>  </td>
 
     <td> Definitions relating to corporate reorganizations.  </td>
 

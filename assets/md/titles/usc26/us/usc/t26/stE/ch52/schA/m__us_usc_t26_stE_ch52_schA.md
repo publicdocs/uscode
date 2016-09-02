@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5701" data-uslm-ref="/us/usc/t26/s5701">5701.</a>  </td>
 
     <td> Rate of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5702" data-uslm-ref="/us/usc/t26/s5702">5702.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5703" data-uslm-ref="/us/usc/t26/s5703">5703.</a>  </td>
 
     <td> Liability for tax and method of payment.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5704" data-uslm-ref="/us/usc/t26/s5704">5704.</a>  </td>
 
     <td> Exemption from tax.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5705" data-uslm-ref="/us/usc/t26/s5705">5705.</a>  </td>
 
     <td> Credit, refund, or allowance of tax.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5706" data-uslm-ref="/us/usc/t26/s5706">5706.</a>  </td>
 
     <td> Drawback of tax.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [5707.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5707" data-uslm-ref="/us/usc/t26/s5707">5707.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5708" data-uslm-ref="/us/usc/t26/s5708">5708.</a>  </td>
 
     <td> Losses caused by disaster.  </td>
 

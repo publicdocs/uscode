@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 38.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs38" data-uslm-ref="/us/usc/t26/s38">38.</a>  </td>
 
     <td> General business credit.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 39.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs39" data-uslm-ref="/us/usc/t26/s39">39.</a>  </td>
 
     <td> Carryback and carryforward of unused credits.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 40.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs40" data-uslm-ref="/us/usc/t26/s40">40.</a>  </td>
 
     <td> Alcohol, etc., used as fuel.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 40A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs40A" data-uslm-ref="/us/usc/t26/s40A">40A.</a>  </td>
 
     <td> Biodiesel and renewable diesel used as fuel.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 41.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs41" data-uslm-ref="/us/usc/t26/s41">41.</a>  </td>
 
     <td> Credit for increasing research activities.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 41. <sup>[1]</sup>  <sup><sup> 1 Section 41 repealed by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F99%2F514" data-uslm-ref="/us/pl/99/514">Pub. L. 99–514</a> without corresponding amendment of subpart analysis. </sup></sup>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs41" data-uslm-ref="/us/usc/t26/s41">41.</a> <sup>[1]</sup>  <sup><sup> 1 Section 41 repealed by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F99%2F514" data-uslm-ref="/us/pl/99/514">Pub. L. 99–514</a> without corresponding amendment of subpart analysis. </sup></sup>   </td>
 
     <td> Employee stock ownership credit.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 42.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs42" data-uslm-ref="/us/usc/t26/s42">42.</a>  </td>
 
     <td> Low-income housing credit.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 43.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs43" data-uslm-ref="/us/usc/t26/s43">43.</a>  </td>
 
     <td> Enhanced oil recovery credit.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 44.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs44" data-uslm-ref="/us/usc/t26/s44">44.</a>  </td>
 
     <td> Expenditures to provide access to disabled individuals.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [44A–H.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs44A%E2%80%93H" data-uslm-ref="/us/usc/t26/s44A–H">44A–H.</a>  </td>
 
     <td> Renumbered, Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 45.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs45" data-uslm-ref="/us/usc/t26/s45">45.</a>  </td>
 
     <td> Electricity produced from certain renewable resources, etc.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 45A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs45A" data-uslm-ref="/us/usc/t26/s45A">45A.</a>  </td>
 
     <td> Indian employment credit.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 45B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs45B" data-uslm-ref="/us/usc/t26/s45B">45B.</a>  </td>
 
     <td> Credit for portion of employer social security taxes paid with respect to employee cash tips.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 45C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs45C" data-uslm-ref="/us/usc/t26/s45C">45C.</a>  </td>
 
     <td> Clinical testing expenses for certain drugs for rare diseases or conditions.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 45D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs45D" data-uslm-ref="/us/usc/t26/s45D">45D.</a>  </td>
 
     <td> New markets tax credit.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 45E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs45E" data-uslm-ref="/us/usc/t26/s45E">45E.</a>  </td>
 
     <td> Small employer pension plan startup costs.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 45F.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs45F" data-uslm-ref="/us/usc/t26/s45F">45F.</a>  </td>
 
     <td> Employer-provided child care credit.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 45G.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs45G" data-uslm-ref="/us/usc/t26/s45G">45G.</a>  </td>
 
     <td> Railroad track maintenance credit.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 45H.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs45H" data-uslm-ref="/us/usc/t26/s45H">45H.</a>  </td>
 
     <td> Credit for production of low sulfur diesel fuel.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 45I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs45I" data-uslm-ref="/us/usc/t26/s45I">45I.</a>  </td>
 
     <td> Credit for producing oil and gas from marginal wells.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 45K. <sup>[2]</sup>  <sup><sup> 2 So in original. Probably should follow item 45J. </sup></sup>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs45K" data-uslm-ref="/us/usc/t26/s45K">45K.</a> <sup>[2]</sup>  <sup><sup> 2 So in original. Probably should follow item 45J. </sup></sup>   </td>
 
     <td> Credit for producing fuel from a nonconventional source.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 45J.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs45J" data-uslm-ref="/us/usc/t26/s45J">45J.</a>  </td>
 
     <td> Credit for production from advanced nuclear power facilities.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 45L.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs45L" data-uslm-ref="/us/usc/t26/s45L">45L.</a>  </td>
 
     <td> New energy efficient home credit.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 45M.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs45M" data-uslm-ref="/us/usc/t26/s45M">45M.</a>  </td>
 
     <td> Energy efficient appliance credit.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 45N.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs45N" data-uslm-ref="/us/usc/t26/s45N">45N.</a>  </td>
 
     <td> Mine rescue team training credit.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 45O.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs45O" data-uslm-ref="/us/usc/t26/s45O">45O.</a>  </td>
 
     <td> Agricultural chemicals security credit.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 45P.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs45P" data-uslm-ref="/us/usc/t26/s45P">45P.</a>  </td>
 
     <td> Employer wage credit for employees who are active duty members of the uniformed services.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 45Q.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs45Q" data-uslm-ref="/us/usc/t26/s45Q">45Q.</a>  </td>
 
     <td> Credit for carbon dioxide sequestration.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 45R.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs45R" data-uslm-ref="/us/usc/t26/s45R">45R.</a>  </td>
 
     <td> Employee health insurance expenses of small employers.  </td>
 

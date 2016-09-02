@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs481" data-uslm-ref="/us/usc/t26/s481">481.</a>  </td>
 
     <td> Adjustments required by changes in method of accounting.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 482.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs482" data-uslm-ref="/us/usc/t26/s482">482.</a>  </td>
 
     <td> Allocation of income and deductions among taxpayers.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 483.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs483" data-uslm-ref="/us/usc/t26/s483">483.</a>  </td>
 
     <td> Interest on certain deferred payments.  </td>
 

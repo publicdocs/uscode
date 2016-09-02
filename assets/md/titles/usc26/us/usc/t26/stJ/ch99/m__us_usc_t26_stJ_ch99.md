@@ -29,41 +29,41 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstJ%2Fch99%2FschA" data-uslm-ref="/us/usc/t26/stJ/ch99/schA">A.</a>  </td>
 
     <td> Definitions of general applicability  </td>
 
-    <td> 9701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9701" data-uslm-ref="/us/usc/t26/s9701">9701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstJ%2Fch99%2FschB" data-uslm-ref="/us/usc/t26/stJ/ch99/schB">B.</a>  </td>
 
     <td> Combined benefit fund  </td>
 
-    <td> 9702  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9702" data-uslm-ref="/us/usc/t26/s9702">9702</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstJ%2Fch99%2FschC" data-uslm-ref="/us/usc/t26/stJ/ch99/schC">C.</a>  </td>
 
     <td> Health benefits of certain miners  </td>
 
-    <td> 9711  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9711" data-uslm-ref="/us/usc/t26/s9711">9711</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstJ%2Fch99%2FschD" data-uslm-ref="/us/usc/t26/stJ/ch99/schD">D.</a>  </td>
 
     <td> Other provisions  </td>
 
-    <td> 9721  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9721" data-uslm-ref="/us/usc/t26/s9721">9721</a>  </td>
 
   </tr>
 

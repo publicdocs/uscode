@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 46.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs46" data-uslm-ref="/us/usc/t26/s46">46.</a>  </td>
 
     <td> Amount of credit.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 47.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs47" data-uslm-ref="/us/usc/t26/s47">47.</a>  </td>
 
     <td> Rehabilitation credit.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 48.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs48" data-uslm-ref="/us/usc/t26/s48">48.</a>  </td>
 
     <td> Energy credit.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 48A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs48A" data-uslm-ref="/us/usc/t26/s48A">48A.</a>  </td>
 
     <td> Qualifying advanced coal project credit.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 48B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs48B" data-uslm-ref="/us/usc/t26/s48B">48B.</a>  </td>
 
     <td> Qualifying gasification project credit.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 48C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs48C" data-uslm-ref="/us/usc/t26/s48C">48C.</a>  </td>
 
     <td> Qualifying advanced energy project credit.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 48D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs48D" data-uslm-ref="/us/usc/t26/s48D">48D.</a>  </td>
 
     <td> Qualifying therapeutic discovery project credit.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 49.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs49" data-uslm-ref="/us/usc/t26/s49">49.</a>  </td>
 
     <td> At-risk rules.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 50.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs50" data-uslm-ref="/us/usc/t26/s50">50.</a>  </td>
 
     <td> Other special rules.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [50A, 50B.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs50A" data-uslm-ref="/us/usc/t26/s50A">50A</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs50B" data-uslm-ref="/us/usc/t26/s50B">50B.</a>  </td>
 
     <td> Repealed.]  </td>
 

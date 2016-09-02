@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5731" data-uslm-ref="/us/usc/t26/s5731">5731.</a>  </td>
 
     <td> Imposition and rate of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5732.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5732" data-uslm-ref="/us/usc/t26/s5732">5732.</a>  </td>
 
     <td> Payment of tax.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5733.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5733" data-uslm-ref="/us/usc/t26/s5733">5733.</a>  </td>
 
     <td> Provisions relating to liability for occupational taxes.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5734.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5734" data-uslm-ref="/us/usc/t26/s5734">5734.</a>  </td>
 
     <td> Application of State laws.  </td>
 

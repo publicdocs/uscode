@@ -29,51 +29,51 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstC%2Fch22%2FschA" data-uslm-ref="/us/usc/t26/stC/ch22/schA">A.</a>  </td>
 
     <td> Tax on employees  </td>
 
-    <td> 3201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3201" data-uslm-ref="/us/usc/t26/s3201">3201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstC%2Fch22%2FschB" data-uslm-ref="/us/usc/t26/stC/ch22/schB">B.</a>  </td>
 
     <td> Tax on employee representatives  </td>
 
-    <td> 3211  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3211" data-uslm-ref="/us/usc/t26/s3211">3211</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstC%2Fch22%2FschC" data-uslm-ref="/us/usc/t26/stC/ch22/schC">C.</a>  </td>
 
     <td> Tax on employers  </td>
 
-    <td> 3221  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3221" data-uslm-ref="/us/usc/t26/s3221">3221</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstC%2Fch22%2FschD" data-uslm-ref="/us/usc/t26/stC/ch22/schD">D.</a>  </td>
 
     <td> General provisions  </td>
 
-    <td> 3231  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3231" data-uslm-ref="/us/usc/t26/s3231">3231</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstC%2Fch22%2FschE" data-uslm-ref="/us/usc/t26/stC/ch22/schE">E.</a>  </td>
 
     <td> Tier 2 tax rate determination.  </td>
 
-    <td> 3241  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3241" data-uslm-ref="/us/usc/t26/s3241">3241</a>  </td>
 
   </tr>
 

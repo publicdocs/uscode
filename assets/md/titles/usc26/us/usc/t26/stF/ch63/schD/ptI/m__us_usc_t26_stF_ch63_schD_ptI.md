@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6240.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6240" data-uslm-ref="/us/usc/t26/s6240">6240.</a>  </td>
 
     <td> Application of subchapter.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6241" data-uslm-ref="/us/usc/t26/s6241">6241.</a>  </td>
 
     <td> Partner’s return must be consistent with partnership return.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6242.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6242" data-uslm-ref="/us/usc/t26/s6242">6242.</a>  </td>
 
     <td> Procedures for taking partnership adjustments into account.  </td>
 

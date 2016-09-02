@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61%2FschA%2FptII%2FsptA" data-uslm-ref="/us/usc/t26/stF/ch61/schA/ptII/sptA">A.</a>  </td>
 
     <td> General requirement.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61%2FschA%2FptII%2FsptB" data-uslm-ref="/us/usc/t26/stF/ch61/schA/ptII/sptB">B.</a>  </td>
 
     <td> Income tax returns.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61%2FschA%2FptII%2FsptC" data-uslm-ref="/us/usc/t26/stF/ch61/schA/ptII/sptC">C.</a>  </td>
 
     <td> Estate and gift tax returns.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61%2FschA%2FptII%2FsptD" data-uslm-ref="/us/usc/t26/stF/ch61/schA/ptII/sptD">D.</a>  </td>
 
     <td> Miscellaneous provisions.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6871.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6871" data-uslm-ref="/us/usc/t26/s6871">6871.</a>  </td>
 
     <td> Claims for income, estate, gift, and certain excise taxes in receivership proceedings, etc.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6872.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6872" data-uslm-ref="/us/usc/t26/s6872">6872.</a>  </td>
 
     <td> Suspension of period on assessment.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6873.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6873" data-uslm-ref="/us/usc/t26/s6873">6873.</a>  </td>
 
     <td> Unpaid claims.  </td>
 

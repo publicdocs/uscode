@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5121" data-uslm-ref="/us/usc/t26/s5121">5121.</a>  </td>
 
     <td> Recordkeeping by wholesale dealers.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5122" data-uslm-ref="/us/usc/t26/s5122">5122.</a>  </td>
 
     <td> Recordkeeping by retail dealers.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5123" data-uslm-ref="/us/usc/t26/s5123">5123.</a>  </td>
 
     <td> Preservation and inspection of records, and entry of premises for inspection.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5124" data-uslm-ref="/us/usc/t26/s5124">5124.</a>  </td>
 
     <td> Registration by dealers.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6671.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6671" data-uslm-ref="/us/usc/t26/s6671">6671.</a>  </td>
 
     <td> Rules for application of assessable penalties.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6672.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6672" data-uslm-ref="/us/usc/t26/s6672">6672.</a>  </td>
 
     <td> Failure to collect and pay over tax, or attempt to evade or defeat tax.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6673.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6673" data-uslm-ref="/us/usc/t26/s6673">6673.</a>  </td>
 
     <td> Sanctions and costs awarded by courts.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6674.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6674" data-uslm-ref="/us/usc/t26/s6674">6674.</a>  </td>
 
     <td> Fraudulent statement or failure to furnish statement to employee.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6675.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6675" data-uslm-ref="/us/usc/t26/s6675">6675.</a>  </td>
 
     <td> Excessive claims with respect to the use of certain fuels.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6676.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6676" data-uslm-ref="/us/usc/t26/s6676">6676.</a>  </td>
 
     <td> Erroneous claim for refund or credit.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6677.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6677" data-uslm-ref="/us/usc/t26/s6677">6677.</a>  </td>
 
     <td> Failure to file information with respect to certain foreign trusts.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> [6678.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6678" data-uslm-ref="/us/usc/t26/s6678">6678.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 6679.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6679" data-uslm-ref="/us/usc/t26/s6679">6679.</a>  </td>
 
     <td> Failure to file returns, etc., with respect to foreign corporations or foreign partnerships.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [6680, 6681.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6680" data-uslm-ref="/us/usc/t26/s6680">6680</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6681" data-uslm-ref="/us/usc/t26/s6681">6681.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 6682.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6682" data-uslm-ref="/us/usc/t26/s6682">6682.</a>  </td>
 
     <td> False information with respect to withholding.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> [6683.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6683" data-uslm-ref="/us/usc/t26/s6683">6683.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 6684.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6684" data-uslm-ref="/us/usc/t26/s6684">6684.</a>  </td>
 
     <td> Repeated liability for tax under chapter 42. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 6685.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6685" data-uslm-ref="/us/usc/t26/s6685">6685.</a>  </td>
 
     <td> Assessable penalty with respect to public inspection requirements for certain tax-exempt organizations.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 6686.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6686" data-uslm-ref="/us/usc/t26/s6686">6686.</a>  </td>
 
     <td> Failure to file returns or supply information by DISC or FSC. <sup>[2]</sup>  <sup><sup> 2 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F110%2F172" data-uslm-ref="/us/pl/110/172">Pub. L. 110–172</a> without corresponding amendment of analysis. </sup></sup>   </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> [6687.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6687" data-uslm-ref="/us/usc/t26/s6687">6687.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 6688.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6688" data-uslm-ref="/us/usc/t26/s6688">6688.</a>  </td>
 
     <td> Assessable penalties with respect to information required to be furnished under section 7654.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 6689.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6689" data-uslm-ref="/us/usc/t26/s6689">6689.</a>  </td>
 
     <td> Failure to file notice of redetermination of foreign tax.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 6690.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6690" data-uslm-ref="/us/usc/t26/s6690">6690.</a>  </td>
 
     <td> Fraudulent statement or failure to furnish statement to plan participant.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> [6691.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6691" data-uslm-ref="/us/usc/t26/s6691">6691.</a>  </td>
 
     <td> Reserved.]  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 6692.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6692" data-uslm-ref="/us/usc/t26/s6692">6692.</a>  </td>
 
     <td> Failure to file actuarial report.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 6693.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6693" data-uslm-ref="/us/usc/t26/s6693">6693.</a>  </td>
 
     <td> Failure to provide reports on certain tax-favored accounts or annuities; penalties relating to designated nondeductible contributions.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 6694.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6694" data-uslm-ref="/us/usc/t26/s6694">6694.</a>  </td>
 
     <td> Understatement of taxpayer’s liability by tax return preparer.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 6695.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6695" data-uslm-ref="/us/usc/t26/s6695">6695.</a>  </td>
 
     <td> Other assessable penalties with respect to the preparation of tax returns for other persons.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 6695A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6695A" data-uslm-ref="/us/usc/t26/s6695A">6695A.</a>  </td>
 
     <td> Substantial and gross valuation misstatements attributable to incorrect appraisals.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 6696.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6696" data-uslm-ref="/us/usc/t26/s6696">6696.</a>  </td>
 
     <td> Rules applicable with respect to sections 6694, 6695, and 6695A.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> [6697.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6697" data-uslm-ref="/us/usc/t26/s6697">6697.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 6698.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6698" data-uslm-ref="/us/usc/t26/s6698">6698.</a>  </td>
 
     <td> Failure to file partnership return.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> [6698A.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6698A" data-uslm-ref="/us/usc/t26/s6698A">6698A.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 6699.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6699" data-uslm-ref="/us/usc/t26/s6699">6699.</a>  </td>
 
     <td> Failure to file S corporation return.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 6700.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6700" data-uslm-ref="/us/usc/t26/s6700">6700.</a>  </td>
 
     <td> Promoting abusive tax shelters, etc.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 6701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6701" data-uslm-ref="/us/usc/t26/s6701">6701.</a>  </td>
 
     <td> Penalties for aiding and abetting understatement of tax liability.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 6702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6702" data-uslm-ref="/us/usc/t26/s6702">6702.</a>  </td>
 
     <td> Frivolous tax submissions.  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 6703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6703" data-uslm-ref="/us/usc/t26/s6703">6703.</a>  </td>
 
     <td> Rules applicable to penalties under sections 6700, 6701, and 6702.  </td>
 
@@ -297,7 +297,7 @@
 
   <tr>
 
-    <td> 6704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6704" data-uslm-ref="/us/usc/t26/s6704">6704.</a>  </td>
 
     <td> Failure to keep records necessary to meet reporting requirements under section 6047(d).  </td>
 
@@ -305,7 +305,7 @@
 
   <tr>
 
-    <td> 6705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6705" data-uslm-ref="/us/usc/t26/s6705">6705.</a>  </td>
 
     <td> Failure by broker to provide notice to payors.  </td>
 
@@ -313,7 +313,7 @@
 
   <tr>
 
-    <td> 6706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6706" data-uslm-ref="/us/usc/t26/s6706">6706.</a>  </td>
 
     <td> Original issue discount information requirements.  </td>
 
@@ -321,7 +321,7 @@
 
   <tr>
 
-    <td> 6707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6707" data-uslm-ref="/us/usc/t26/s6707">6707.</a>  </td>
 
     <td> Failure to furnish information regarding reportable transactions.  </td>
 
@@ -329,7 +329,7 @@
 
   <tr>
 
-    <td> 6707A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6707A" data-uslm-ref="/us/usc/t26/s6707A">6707A.</a>  </td>
 
     <td> Penalty for failure to include reportable transaction information with return.  </td>
 
@@ -337,7 +337,7 @@
 
   <tr>
 
-    <td> 6708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6708" data-uslm-ref="/us/usc/t26/s6708">6708.</a>  </td>
 
     <td> Failure to maintain lists of advisees with respect to reportable transactions.  </td>
 
@@ -345,7 +345,7 @@
 
   <tr>
 
-    <td> 6709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6709" data-uslm-ref="/us/usc/t26/s6709">6709.</a>  </td>
 
     <td> Penalties with respect to mortgage credit certificates.  </td>
 
@@ -353,7 +353,7 @@
 
   <tr>
 
-    <td> 6710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6710" data-uslm-ref="/us/usc/t26/s6710">6710.</a>  </td>
 
     <td> Failure to disclose that contributions are nondeductible.  </td>
 
@@ -361,7 +361,7 @@
 
   <tr>
 
-    <td> 6711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6711" data-uslm-ref="/us/usc/t26/s6711">6711.</a>  </td>
 
     <td> Failure by tax-exempt organization to disclose that certain information or service available from Federal Government.  </td>
 
@@ -369,7 +369,7 @@
 
   <tr>
 
-    <td> 6712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6712" data-uslm-ref="/us/usc/t26/s6712">6712.</a>  </td>
 
     <td> Failure to disclose treaty-based return positions.  </td>
 
@@ -377,7 +377,7 @@
 
   <tr>
 
-    <td> 6713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6713" data-uslm-ref="/us/usc/t26/s6713">6713.</a>  </td>
 
     <td> Disclosure or use of information by preparers of returns.  </td>
 
@@ -385,7 +385,7 @@
 
   <tr>
 
-    <td> 6714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6714" data-uslm-ref="/us/usc/t26/s6714">6714.</a>  </td>
 
     <td> Failure to meet disclosure requirements applicable to quid pro quo contributions.  </td>
 
@@ -393,7 +393,7 @@
 
   <tr>
 
-    <td> 6715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6715" data-uslm-ref="/us/usc/t26/s6715">6715.</a>  </td>
 
     <td> Dyed fuel sold for use or used in taxable use, etc.  </td>
 
@@ -401,7 +401,7 @@
 
   <tr>
 
-    <td> 6715A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6715A" data-uslm-ref="/us/usc/t26/s6715A">6715A.</a>  </td>
 
     <td> Tampering with or failing to maintain security requirements for mechanical dye injection systems.  </td>
 
@@ -409,7 +409,7 @@
 
   <tr>
 
-    <td> [6716.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6716" data-uslm-ref="/us/usc/t26/s6716">6716.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -417,7 +417,7 @@
 
   <tr>
 
-    <td> 6717.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6717" data-uslm-ref="/us/usc/t26/s6717">6717.</a>  </td>
 
     <td> Refusal of entry.  </td>
 
@@ -425,7 +425,7 @@
 
   <tr>
 
-    <td> 6718.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6718" data-uslm-ref="/us/usc/t26/s6718">6718.</a>  </td>
 
     <td> Failure to display tax registration on vessels.  </td>
 
@@ -433,7 +433,7 @@
 
   <tr>
 
-    <td> 6719.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6719" data-uslm-ref="/us/usc/t26/s6719">6719.</a>  </td>
 
     <td> Failure to register or reregister.  </td>
 
@@ -441,7 +441,7 @@
 
   <tr>
 
-    <td> 6720.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6720" data-uslm-ref="/us/usc/t26/s6720">6720.</a>  </td>
 
     <td> Fraudulent acknowledgments with respect to donations of motor vehicles, boats, and airplanes.  </td>
 
@@ -449,7 +449,7 @@
 
   <tr>
 
-    <td> 6720A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6720A" data-uslm-ref="/us/usc/t26/s6720A">6720A.</a>  </td>
 
     <td> Penalty with respect to certain adulterated fuels.  </td>
 
@@ -457,7 +457,7 @@
 
   <tr>
 
-    <td> 6720B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6720B" data-uslm-ref="/us/usc/t26/s6720B">6720B.</a>  </td>
 
     <td> Fraudulent identification of exempt use property.  </td>
 
@@ -465,7 +465,7 @@
 
   <tr>
 
-    <td> 6720C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6720C" data-uslm-ref="/us/usc/t26/s6720C">6720C.</a>  </td>
 
     <td> Penalty for failure to notify health plan of cessation of eligibility for COBRA premium assistance.  </td>
 

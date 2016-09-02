@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [2521.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2521" data-uslm-ref="/us/usc/t26/s2521">2521.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2522" data-uslm-ref="/us/usc/t26/s2522">2522.</a>  </td>
 
     <td> Charitable and similar gifts.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2523" data-uslm-ref="/us/usc/t26/s2523">2523.</a>  </td>
 
     <td> Gift to spouse.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2524" data-uslm-ref="/us/usc/t26/s2524">2524.</a>  </td>
 
     <td> Extent of deductions.  </td>
 

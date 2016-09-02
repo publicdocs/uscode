@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3201" data-uslm-ref="/us/usc/t26/s3201">3201.</a>  </td>
 
     <td> Rate of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3202" data-uslm-ref="/us/usc/t26/s3202">3202.</a>  </td>
 
     <td> Deduction of tax from compensation.  </td>
 

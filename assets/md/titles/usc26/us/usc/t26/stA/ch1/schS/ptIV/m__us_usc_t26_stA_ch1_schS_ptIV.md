@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1377.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1377" data-uslm-ref="/us/usc/t26/s1377">1377.</a>  </td>
 
     <td> Definitions and special rule.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1378.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1378" data-uslm-ref="/us/usc/t26/s1378">1378.</a>  </td>
 
     <td> Taxable year of S corporation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1379.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1379" data-uslm-ref="/us/usc/t26/s1379">1379.</a>  </td>
 
     <td> Transitional rules on enactment.  </td>
 

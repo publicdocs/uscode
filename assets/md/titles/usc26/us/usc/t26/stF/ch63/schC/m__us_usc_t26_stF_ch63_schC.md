@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6221" data-uslm-ref="/us/usc/t26/s6221">6221.</a>  </td>
 
     <td> Tax treatment determined at partnership level.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6222.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6222" data-uslm-ref="/us/usc/t26/s6222">6222.</a>  </td>
 
     <td> Partner’s return must be consistent with partnership return or Secretary notified of inconsistency.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6223.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6223" data-uslm-ref="/us/usc/t26/s6223">6223.</a>  </td>
 
     <td> Notice to partners of proceedings.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6224.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6224" data-uslm-ref="/us/usc/t26/s6224">6224.</a>  </td>
 
     <td> Participation in administrative proceedings; waivers; agreements.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6225.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6225" data-uslm-ref="/us/usc/t26/s6225">6225.</a>  </td>
 
     <td> Assessments made only after partnership level proceedings are completed.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6226.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6226" data-uslm-ref="/us/usc/t26/s6226">6226.</a>  </td>
 
     <td> Judicial review of final partnership administrative adjustments.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6227.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6227" data-uslm-ref="/us/usc/t26/s6227">6227.</a>  </td>
 
     <td> Administrative adjustment requests.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6228.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6228" data-uslm-ref="/us/usc/t26/s6228">6228.</a>  </td>
 
     <td> Judicial review where administrative adjustment request is not allowed in full.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 6229.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6229" data-uslm-ref="/us/usc/t26/s6229">6229.</a>  </td>
 
     <td> Period of limitations for making assessments.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 6230.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6230" data-uslm-ref="/us/usc/t26/s6230">6230.</a>  </td>
 
     <td> Additional administrative provisions.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 6231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6231" data-uslm-ref="/us/usc/t26/s6231">6231.</a>  </td>
 
     <td> Definitions and special rules.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> [6232.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6232" data-uslm-ref="/us/usc/t26/s6232">6232.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 6233.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6233" data-uslm-ref="/us/usc/t26/s6233">6233.</a>  </td>
 
     <td> Extension to entities filing partnership returns, etc.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 6234.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6234" data-uslm-ref="/us/usc/t26/s6234">6234.</a>  </td>
 
     <td> Declaratory judgment relating to treatment of items other than partnership items with respect to an oversheltered return.  </td>
 

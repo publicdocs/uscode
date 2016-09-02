@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1400E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400E" data-uslm-ref="/us/usc/t26/s1400E">1400E.</a>  </td>
 
     <td> Designation of renewal communities.  </td>
 

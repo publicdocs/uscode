@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1351" data-uslm-ref="/us/usc/t26/s1351">1351.</a>  </td>
 
     <td> Treatment of recoveries of foreign expropriation losses.  </td>
 

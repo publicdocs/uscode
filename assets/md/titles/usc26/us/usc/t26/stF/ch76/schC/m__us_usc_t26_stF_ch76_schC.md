@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch76%2FschC%2FptI" data-uslm-ref="/us/usc/t26/stF/ch76/schC/ptI">I.</a>  </td>
 
     <td> Organization and jurisdiction.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch76%2FschC%2FptII" data-uslm-ref="/us/usc/t26/stF/ch76/schC/ptII">II.</a>  </td>
 
     <td> Procedure.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch76%2FschC%2FptIII" data-uslm-ref="/us/usc/t26/stF/ch76/schC/ptIII">III.</a>  </td>
 
     <td> Miscellaneous provisions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch76%2FschC%2FptIV" data-uslm-ref="/us/usc/t26/stF/ch76/schC/ptIV">IV.</a>  </td>
 
     <td> Declaratory judgments.  </td>
 

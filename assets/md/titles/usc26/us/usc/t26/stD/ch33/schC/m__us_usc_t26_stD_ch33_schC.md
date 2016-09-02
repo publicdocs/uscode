@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch33%2FschC%2FptI" data-uslm-ref="/us/usc/t26/stD/ch33/schC/ptI">I.</a>  </td>
 
     <td> Persons.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch33%2FschC%2FptII" data-uslm-ref="/us/usc/t26/stD/ch33/schC/ptII">II.</a>  </td>
 
     <td> Property.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch33%2FschC%2FptIII" data-uslm-ref="/us/usc/t26/stD/ch33/schC/ptIII">III.</a>  </td>
 
     <td> Special provisions relating to taxes on transportation by air. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to part heading. </sup></sup>   </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6651.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6651" data-uslm-ref="/us/usc/t26/s6651">6651.</a>  </td>
 
     <td> Failure to file tax return or pay tax. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6652.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6652" data-uslm-ref="/us/usc/t26/s6652">6652.</a>  </td>
 
     <td> Failure to file certain information returns, registration statements, etc.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6653.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6653" data-uslm-ref="/us/usc/t26/s6653">6653.</a>  </td>
 
     <td> Failure to pay stamp tax.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6654.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6654" data-uslm-ref="/us/usc/t26/s6654">6654.</a>  </td>
 
     <td> Failure by individual to pay estimated income tax.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6655.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6655" data-uslm-ref="/us/usc/t26/s6655">6655.</a>  </td>
 
     <td> Failure by corporation to pay estimated income tax.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6656.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6656" data-uslm-ref="/us/usc/t26/s6656">6656.</a>  </td>
 
     <td> Failure to make deposit of taxes.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6657.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6657" data-uslm-ref="/us/usc/t26/s6657">6657.</a>  </td>
 
     <td> Bad checks.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6658.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6658" data-uslm-ref="/us/usc/t26/s6658">6658.</a>  </td>
 
     <td> Coordination with title 11.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> [6659 to 6661.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6659" data-uslm-ref="/us/usc/t26/s6659">6659</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6661" data-uslm-ref="/us/usc/t26/s6661">6661.</a>  </td>
 
     <td> Repealed.]  </td>
 

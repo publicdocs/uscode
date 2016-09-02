@@ -975,9 +975,13 @@
 
 [Pub. L. 96–223, title II, § 222(j)][/us/pl/96/223/s222/j], Apr. 2, 1980, [94 Stat. 266][/us/stat/94/266], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and__  __[__  __section 46 of this title__  __][/us/usc/t26/s46]__  __\] shall apply to periods after__  __December 31, 1979__  __, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].__ 
+>     “(1) __In general.—__ 
 
->     “(2) __Alumina electrolytic cells.—The amendments made by subsection (d)(1) \[amending this section\] shall apply to periods after__  __September 30, 1978__  __, under rules similar to the rules of section 48(m) of such Code.”__ 
+>     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 46 of this title][/us/usc/t26/s46]\] shall apply to periods after December 31, 1979, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
+
+>     “(2) __Alumina electrolytic cells.—__ 
+
+>     The amendments made by subsection (d)(1) \[amending this section\] shall apply to periods after September 30, 1978, under rules similar to the rules of section 48(m) of such Code.”
 
 [Pub. L. 96–223, title II, § 223(a)(2)][/us/pl/96/223/s223/a/2], Apr. 2, 1980, [94 Stat. 266][/us/stat/94/266], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 

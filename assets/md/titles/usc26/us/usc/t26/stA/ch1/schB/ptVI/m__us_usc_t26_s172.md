@@ -1071,11 +1071,9 @@
 
 >         For purposes of the Internal Revenue Code of 1986, the distribution of preferred stock by the Federal Home Loan Mortgage Corporation during December of 1984, and the other distributions of such stock by Federal Home Loan Banks during January of 1985, shall be treated as if they were distributions of money equal to the fair market value of the stock on the date of the distribution by the Federal Home Loan Banks (and such stock shall be treated as if it were purchased with the money treated as so distributed). No deduction shall be allowed under section 243 of the Internal Revenue Code of 1986 with respect to any dividend paid by the Federal Home Loan Mortgage Corporation out of earnings and profits accumulated before January 1, 1985.
 
->         “(B) __Section 246__ 
+>         “(B) __Section 246(a) not to apply to distributions out of earnings and profits accumulated during 1985.—__ 
 
->             (a) __not to apply to distributions out of earnings and profits accumulated during 1985.—__ 
-
->             Subsection (a) of section 246 of the Internal Revenue Code of 1986 shall not apply to any dividend paid by the Federal Home Loan Mortgage Corporation during 1985 out of earnings and profits accumulated after December 31, 1984.
+>         Subsection (a) of section 246 of the Internal Revenue Code of 1986 shall not apply to any dividend paid by the Federal Home Loan Mortgage Corporation during 1985 out of earnings and profits accumulated after December 31, 1984.
 
 >     “(5) __Adjusted basis.—__ 
 

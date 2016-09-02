@@ -29,61 +29,61 @@
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstC%2Fch21" data-uslm-ref="/us/usc/t26/stC/ch21">21.</a>  </td>
 
     <td> Federal insurance contributions act  </td>
 
-    <td> 3101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3101" data-uslm-ref="/us/usc/t26/s3101">3101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 22.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstC%2Fch22" data-uslm-ref="/us/usc/t26/stC/ch22">22.</a>  </td>
 
     <td> Railroad retirement tax act  </td>
 
-    <td> 3201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3201" data-uslm-ref="/us/usc/t26/s3201">3201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstC%2Fch23" data-uslm-ref="/us/usc/t26/stC/ch23">23.</a>  </td>
 
     <td> Federal unemployment tax act  </td>
 
-    <td> 3301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3301" data-uslm-ref="/us/usc/t26/s3301">3301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 23A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstC%2Fch23A" data-uslm-ref="/us/usc/t26/stC/ch23A">23A.</a>  </td>
 
     <td> Railroad Unemployment Repayment Tax  </td>
 
-    <td> 3321  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3321" data-uslm-ref="/us/usc/t26/s3321">3321</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 24.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstC%2Fch24" data-uslm-ref="/us/usc/t26/stC/ch24">24.</a>  </td>
 
     <td> Collection of income tax at source on wages  </td>
 
-    <td> 3401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3401" data-uslm-ref="/us/usc/t26/s3401">3401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 25.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstC%2Fch25" data-uslm-ref="/us/usc/t26/stC/ch25">25.</a>  </td>
 
     <td> General provisions relating to employment taxes  </td>
 
-    <td> 3501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3501" data-uslm-ref="/us/usc/t26/s3501">3501</a>  </td>
 
   </tr>
 

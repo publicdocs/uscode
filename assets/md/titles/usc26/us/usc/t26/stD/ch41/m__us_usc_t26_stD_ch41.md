@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4911" data-uslm-ref="/us/usc/t26/s4911">4911.</a>  </td>
 
     <td> Tax on excess expenditures to influence legislation.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4912" data-uslm-ref="/us/usc/t26/s4912">4912.</a>  </td>
 
     <td> Tax on disqualifying lobbying expenditures of certain organizations.  </td>
 

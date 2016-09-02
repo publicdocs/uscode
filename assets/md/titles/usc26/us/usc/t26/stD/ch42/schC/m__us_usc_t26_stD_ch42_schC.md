@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4955.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4955" data-uslm-ref="/us/usc/t26/s4955">4955.</a>  </td>
 
     <td> Taxes on political expenditures of section 501(c)(3) organizations.  </td>
 

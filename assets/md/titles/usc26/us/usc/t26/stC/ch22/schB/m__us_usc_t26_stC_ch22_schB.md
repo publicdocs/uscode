@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3211" data-uslm-ref="/us/usc/t26/s3211">3211.</a>  </td>
 
     <td> Rate of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3212" data-uslm-ref="/us/usc/t26/s3212">3212.</a>  </td>
 
     <td> Determination of compensation.  </td>
 

@@ -73,55 +73,53 @@
 
     For purposes of this chapter—
 
-        (1)
+        (1) The term “compensation” means any form of money remuneration paid to an individual for services rendered as an employee to one or more employers. Such term does not include (i) the amount of any payment (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) made to, or on behalf of, an employee or any of his dependents under a plan or system established by an employer which makes provision for his employees generally (or for his employees generally and their dependents) or for a class or classes of his employees (or for a class or classes of his employees and their dependents), on account of sickness or accident disability or medical or hospitalization expenses in connection with sickness or accident disability or death, except that this clause does not apply to a payment for group-term life insurance to the extent that such payment is includible in the gross income of the employee, (ii) tips (except as is provided under paragraph (3)), (iii) an amount paid specifically—either as an advance, as reimbursement or allowance—for traveling or other bona fide and necessary expenses incurred or reasonably expected to be incurred in the business of the employer provided any such payment is identified by the employer either by a separate payment or by specifically indicating the separate amounts where both wages and expense reimbursement or allowance are combined in a single payment, or (iv) any remuneration which would not (if chapter 21 applied to such remuneration) be treated as wages (as defined in section 3121(a)) by reason of section 3121(a)(5). Such term does not include remuneration for service which is performed by a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended, and which is performed to carry out the purpose specified in subparagraph (F), (J), (M), or (Q), as the case may be. For the purpose of determining the amount of taxes under sections 3201 and 3221, compensation earned in the service of a local lodge or division of a railway-labor-organization employer shall be disregarded with respect to any calendar month if the amount thereof is less than $25. Compensation for service as a delegate to a national or international convention of a railway labor organization defined as an “employer” in subsection (a) of this section shall be disregarded for purposes of determining the amount of taxes due pursuant to this chapter if the individual rendering such service has not previously rendered service, other than as such a delegate, which may be included in his “years of service” for purposes of the Railroad Retirement Act. Nothing in the regulations prescribed for purposes of chapter 24 (relating to wage withholding) which provides an exclusion from “wages” as used in such chapter shall be construed to require a similar exclusion from “compensation” in regulations prescribed for purposes of this chapter.
 
-         The term “compensation” means any form of money remuneration paid to an individual for services rendered as an employee to one or more employers. Such term does not include (i) the amount of any payment (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) made to, or on behalf of, an employee or any of his dependents under a plan or system established by an employer which makes provision for his employees generally (or for his employees generally and their dependents) or for a class or classes of his employees (or for a class or classes of his employees and their dependents), on account of sickness or accident disability or medical or hospitalization expenses in connection with sickness or accident disability or death, except that this clause does not apply to a payment for group-term life insurance to the extent that such payment is includible in the gross income of the employee, (ii) tips (except as is provided under paragraph (3)), (iii) an amount paid specifically—either as an advance, as reimbursement or allowance—for traveling or other bona fide and necessary expenses incurred or reasonably expected to be incurred in the business of the employer provided any such payment is identified by the employer either by a separate payment or by specifically indicating the separate amounts where both wages and expense reimbursement or allowance are combined in a single payment, or (iv) any remuneration which would not (if chapter 21 applied to such remuneration) be treated as wages (as defined in section 3121(a)) by reason of section 3121(a)(5). Such term does not include remuneration for service which is performed by a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended, and which is performed to carry out the purpose specified in subparagraph (F), (J), (M), or (Q), as the case may be. For the purpose of determining the amount of taxes under sections 3201 and 3221, compensation earned in the service of a local lodge or division of a railway-labor-organization employer shall be disregarded with respect to any calendar month if the amount thereof is less than $25. Compensation for service as a delegate to a national or international convention of a railway labor organization defined as an “employer” in subsection (a) of this section shall be disregarded for purposes of determining the amount of taxes due pursuant to this chapter if the individual rendering such service has not previously rendered service, other than as such a delegate, which may be included in his “years of service” for purposes of the Railroad Retirement Act. Nothing in the regulations prescribed for purposes of chapter 24 (relating to wage withholding) which provides an exclusion from “wages” as used in such chapter shall be construed to require a similar exclusion from “compensation” in regulations prescribed for purposes of this chapter.
+        (2) __Application of contribution bases__ 
 
-            (2) __Application of contribution bases__ 
+            (A) __Compensation in excess of applicable base excluded__ 
 
-        (A) __Compensation in excess of applicable base excluded__ 
+                (i) __In general__ 
 
-            (i) __In general__ 
+                    The term “compensation” does not include that part of remuneration paid during any calendar year to an individual by an employer after remuneration equal to the applicable base has been paid during such calendar year to such individual by such employer for services rendered as an employee to such employer.
 
-                The term “compensation” does not include that part of remuneration paid during any calendar year to an individual by an employer after remuneration equal to the applicable base has been paid during such calendar year to such individual by such employer for services rendered as an employee to such employer.
+                (ii) __Remuneration not treated as compensation excluded__ 
 
-            (ii) __Remuneration not treated as compensation excluded__ 
+                    There shall not be taken into account under clause (i) remuneration which (without regard to clause (i)) is not treated as compensation under this subsection.
 
-                There shall not be taken into account under clause (i) remuneration which (without regard to clause (i)) is not treated as compensation under this subsection.
+                (iii) __Hospital insurance taxes__ 
 
-            (iii) __Hospital insurance taxes__ 
+                Clause (i) shall not apply to—
 
-            Clause (i) shall not apply to—
+                    (I) so much of the rate applicable under section 3201(a) or 3221(a) as does not exceed the rate of tax in effect under section 3101(b), and
 
-                (I) so much of the rate applicable under section 3201(a) or 3221(a) as does not exceed the rate of tax in effect under section 3101(b), and
+                    (II) so much of the rate applicable under section 3211(a) as does not exceed the rate of tax in effect under section 1401(b).
 
-                (II) so much of the rate applicable under section 3211(a) as does not exceed the rate of tax in effect under section 1401(b).
+            (B) __Applicable base__ 
 
-        (B) __Applicable base__ 
+                (i) __Tier 1 taxes__ 
 
-            (i) __Tier 1 taxes__ 
+                    Except as provided in clause (ii), the term “applicable base” means for any calendar year the contribution and benefit base determined under section 230 of the Social Security Act for such calendar year.
 
-                Except as provided in clause (ii), the term “applicable base” means for any calendar year the contribution and benefit base determined under section 230 of the Social Security Act for such calendar year.
+                (ii) __Tier 2 taxes, etc.__ 
 
-            (ii) __Tier 2 taxes, etc.__ 
+                For purposes of—
 
-            For purposes of—
+                    (I) the taxes imposed by sections 3201(b), 3211(b), and 3221(b), and
 
-                (I) the taxes imposed by sections 3201(b), 3211(b), and 3221(b), and
+                    (II) computing average monthly compensation under section 3(j) of the Railroad Retirement Act of 1974 (except with respect to annuity amounts determined under subsection (a) or (f)(3) of section 3 of such Act),
 
-                (II) computing average monthly compensation under section 3(j) of the Railroad Retirement Act of 1974 (except with respect to annuity amounts determined under subsection (a) or (f)(3) of section 3 of such Act),
+                 clause (2) of the first sentence, and the second sentence, of subsection (c) of section 230 of the Social Security Act shall be disregarded.
 
-             clause (2) of the first sentence, and the second sentence, of subsection (c) of section 230 of the Social Security Act shall be disregarded.
+            (C) __Successor employers__ 
 
-        (C) __Successor employers__ 
+            For purposes of this paragraph, the second sentence of section 3121(a)(1) (relating to successor employers) shall apply, except that—
 
-        For purposes of this paragraph, the second sentence of section 3121(a)(1) (relating to successor employers) shall apply, except that—
+                (i) the term “services” shall be substituted for “employment” each place it appears,
 
-            (i) the term “services” shall be substituted for “employment” each place it appears,
+                (ii) the term “compensation” shall be substituted for “remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection)” each place it appears, and
 
-            (ii) the term “compensation” shall be substituted for “remuneration (other than remuneration referred to in the succeeding paragraphs of this subsection)” each place it appears, and
-
-            (iii) the terms “employer”, “services”, and “compensation” shall have the meanings given such terms by this section.
+                (iii) the terms “employer”, “services”, and “compensation” shall have the meanings given such terms by this section.
 
         (3) Solely for purposes of the taxes imposed by section 3201 and other provisions of this chapter insofar as they relate to such taxes, the term “compensation” also includes cash tips received by an employee in any calendar month in the course of his employment by an employer unless the amount of such cash tips is less than $20.
 
@@ -145,39 +143,37 @@
 
         (6) The term “compensation” shall not include any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127.
 
-        (7)
+        (7) The term “compensation” shall not include any contribution, payment, or service provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans).
 
-         The term “compensation” shall not include any contribution, payment, or service provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans).
+        (8) __Treatment of certain deferred compensation and salary reduction arrangements__ 
 
-            (8) __Treatment of certain deferred compensation and salary reduction arrangements__ 
+            (A) __Certain employer contributions treated as compensation__ 
 
-        (A) __Certain employer contributions treated as compensation__ 
+                Nothing in any paragraph of this subsection (other than paragraph (2)) shall exclude from the term “compensation” any amount described in subparagraph (A) or (B) of section 3121(v)(1).
 
-            Nothing in any paragraph of this subsection (other than paragraph (2)) shall exclude from the term “compensation” any amount described in subparagraph (A) or (B) of section 3121(v)(1).
+            (B) __Treatment of certain nonqualified deferred compensation__ 
 
-        (B) __Treatment of certain nonqualified deferred compensation__ 
+                The rules of section 3121(v)(2) which apply for purposes of chapter 21 shall also apply for purposes of this chapter.
 
-        The rules of section 3121(v)(2) which apply for purposes of chapter 21 shall also apply for purposes of this chapter.
+        (9) __Meals and lodging__ 
 
-            (9) __Meals and lodging__ 
+            The term “compensation” shall not include the value of meals or lodging furnished by or on behalf of the employer if at the time of such furnishing it is reasonable to believe that the employee will be able to exclude such items from income under section 119.
 
-                The term “compensation” shall not include the value of meals or lodging furnished by or on behalf of the employer if at the time of such furnishing it is reasonable to believe that the employee will be able to exclude such items from income under section 119.
+        (10) __Archer MSA contributions__ 
 
-            (10) __Archer MSA contributions__ 
+            The term “compensation” shall not include any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(b).
 
-                The term “compensation” shall not include any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(b).
+        (11) __Health savings account contributions__ 
 
-            (11) __Health savings account contributions__ 
+            The term “compensation” shall not include any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(d).
 
-                The term “compensation” shall not include any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(d).
+        (12) __Qualified stock options__ 
 
-            (12) __Qualified stock options__ 
+        The term “compensation” shall not include any remuneration on account of—
 
-                The term “compensation” shall not include any remuneration on account of—
+            (A) a transfer of a share of stock to any individual pursuant to an exercise of an incentive stock option (as defined in section 422(b)) or under an employee stock purchase plan (as defined in section 423(b)), or
 
-        (A) a transfer of a share of stock to any individual pursuant to an exercise of an incentive stock option (as defined in section 422(b)) or under an employee stock purchase plan (as defined in section 423(b)), or
-
-        (B) any disposition by the individual of such stock.
+            (B) any disposition by the individual of such stock.
 
     (f) __Company__ 
 
@@ -405,15 +401,13 @@
 
 >     For purposes of applying the amendment made by subsection (b) to remuneration paid after December 31, 1989, which would have been taken into account before January 1, 1990, if such amendments had applied to periods before January 1, 1990, such remuneration shall be taken into account when paid (or, at the election of the payor, at the time which would be appropriate if such amendments had applied).
 
->     “(4) __Exception for certain 401__ 
+>     “(4) __Exception for certain 401(k) contributions.—__ 
 
->         (k) __contributions.—__ 
+>     The amendment made by subsection (b) shall not apply to employer contributions made during 1990 and attributable to services performed during 1989 under a qualified cash or deferred arrangement (as defined in section 401(k) of the Internal Revenue Code of 1986) if, under the terms of the arrangement as in effect on June 15, 1989—
 
->         The amendment made by subsection (b) shall not apply to employer contributions made during 1990 and attributable to services performed during 1989 under a qualified cash or deferred arrangement (as defined in section 401(k) of the Internal Revenue Code of 1986) if, under the terms of the arrangement as in effect on June 15, 1989—
+>         “(A) the employee makes an election with respect to such contributions before January 1, 1990, and
 
->     “(A) the employee makes an election with respect to such contributions before January 1, 1990, and
-
->     “(B) the employer identifies the amount of such contribution before January 1, 1990.
+>         “(B) the employer identifies the amount of such contribution before January 1, 1990.
 
 >     “(5) __Special rule with respect to nonqualified deferred compensation plans.—__ 
 

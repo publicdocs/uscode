@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschJ%2FptI" data-uslm-ref="/us/usc/t26/stA/ch1/schJ/ptI">I.</a>  </td>
 
     <td> Estates, trusts, and beneficiaries.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschJ%2FptII" data-uslm-ref="/us/usc/t26/stA/ch1/schJ/ptII">II.</a>  </td>
 
     <td> Income in respect of decedents.  </td>
 

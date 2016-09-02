@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6867.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6867" data-uslm-ref="/us/usc/t26/s6867">6867.</a>  </td>
 
     <td> Presumptions where owner of large amount of cash is not identified.  </td>
 

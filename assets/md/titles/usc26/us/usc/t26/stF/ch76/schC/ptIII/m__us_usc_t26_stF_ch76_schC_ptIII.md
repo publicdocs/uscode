@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7471" data-uslm-ref="/us/usc/t26/s7471">7471.</a>  </td>
 
     <td> Employees.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7472" data-uslm-ref="/us/usc/t26/s7472">7472.</a>  </td>
 
     <td> Expenditures.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7473.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7473" data-uslm-ref="/us/usc/t26/s7473">7473.</a>  </td>
 
     <td> Disposition of fees.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7474.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7474" data-uslm-ref="/us/usc/t26/s7474">7474.</a>  </td>
 
     <td> Fee for transcript of record.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7475.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7475" data-uslm-ref="/us/usc/t26/s7475">7475.</a>  </td>
 
     <td> Practice fee.  </td>
 

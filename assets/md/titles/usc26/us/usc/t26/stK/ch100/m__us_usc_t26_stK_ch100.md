@@ -29,31 +29,31 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstK%2Fch100%2FschA" data-uslm-ref="/us/usc/t26/stK/ch100/schA">A.</a>  </td>
 
     <td> Requirements relating to portability, access, and renewability  </td>
 
-    <td> 9801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9801" data-uslm-ref="/us/usc/t26/s9801">9801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstK%2Fch100%2FschB" data-uslm-ref="/us/usc/t26/stK/ch100/schB">B.</a>  </td>
 
     <td> Other requirements  </td>
 
-    <td> 9811  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9811" data-uslm-ref="/us/usc/t26/s9811">9811</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstK%2Fch100%2FschC" data-uslm-ref="/us/usc/t26/stK/ch100/schC">C.</a>  </td>
 
     <td> General provisions  </td>
 
-    <td> 9831  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9831" data-uslm-ref="/us/usc/t26/s9831">9831</a>  </td>
 
   </tr>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6055.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6055" data-uslm-ref="/us/usc/t26/s6055">6055.</a>  </td>
 
     <td> Reporting of health insurance coverage.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6056.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6056" data-uslm-ref="/us/usc/t26/s6056">6056.</a>  </td>
 
     <td> Certain employers required to report on health insurance coverage.  </td>
 

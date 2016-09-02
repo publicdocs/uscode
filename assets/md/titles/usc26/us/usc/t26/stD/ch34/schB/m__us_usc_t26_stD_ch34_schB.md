@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4375.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4375" data-uslm-ref="/us/usc/t26/s4375">4375.</a>  </td>
 
     <td> Health insurance.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4376.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4376" data-uslm-ref="/us/usc/t26/s4376">4376.</a>  </td>
 
     <td> Self-insured health plans.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4377.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4377" data-uslm-ref="/us/usc/t26/s4377">4377.</a>  </td>
 
     <td> Definitions and special rules.  </td>
 

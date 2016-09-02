@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6151" data-uslm-ref="/us/usc/t26/s6151">6151.</a>  </td>
 
     <td> Time and place for paying tax shown on returns.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [6152 to 6154.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6152" data-uslm-ref="/us/usc/t26/s6152">6152</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6154" data-uslm-ref="/us/usc/t26/s6154">6154.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6155" data-uslm-ref="/us/usc/t26/s6155">6155.</a>  </td>
 
     <td> Payment on notice and demand.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [6156.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6156" data-uslm-ref="/us/usc/t26/s6156">6156.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6157.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6157" data-uslm-ref="/us/usc/t26/s6157">6157.</a>  </td>
 
     <td> Payment of Federal unemployment tax on quarterly or other time period basis.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [6158.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6158" data-uslm-ref="/us/usc/t26/s6158">6158.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6159.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6159" data-uslm-ref="/us/usc/t26/s6159">6159.</a>  </td>
 
     <td> Agreements for payment of tax liability in installments.  </td>
 

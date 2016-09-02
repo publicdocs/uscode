@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5381" data-uslm-ref="/us/usc/t26/s5381">5381.</a>  </td>
 
     <td> Natural wine.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5382.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5382" data-uslm-ref="/us/usc/t26/s5382">5382.</a>  </td>
 
     <td> Cellar treatment of natural wine.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5383.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5383" data-uslm-ref="/us/usc/t26/s5383">5383.</a>  </td>
 
     <td> Amelioration and sweetening limitations for natural grape wines.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5384.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5384" data-uslm-ref="/us/usc/t26/s5384">5384.</a>  </td>
 
     <td> Amelioration and sweetening limitations for natural fruit and berry wines.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5385.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5385" data-uslm-ref="/us/usc/t26/s5385">5385.</a>  </td>
 
     <td> Specially sweetened natural wines.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5386.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5386" data-uslm-ref="/us/usc/t26/s5386">5386.</a>  </td>
 
     <td> Special natural wines.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5387.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5387" data-uslm-ref="/us/usc/t26/s5387">5387.</a>  </td>
 
     <td> Agricultural wines.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5388.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5388" data-uslm-ref="/us/usc/t26/s5388">5388.</a>  </td>
 
     <td> Designation of wines.  </td>
 

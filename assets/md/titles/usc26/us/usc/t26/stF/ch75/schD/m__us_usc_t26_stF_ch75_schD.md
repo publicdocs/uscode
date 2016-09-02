@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7341" data-uslm-ref="/us/usc/t26/s7341">7341.</a>  </td>
 
     <td> Penalty for sales to evade tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7342" data-uslm-ref="/us/usc/t26/s7342">7342.</a>  </td>
 
     <td> Penalty for refusal to permit entry or examination.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7343" data-uslm-ref="/us/usc/t26/s7343">7343.</a>  </td>
 
     <td> Definition of term “person”.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7344" data-uslm-ref="/us/usc/t26/s7344">7344.</a>  </td>
 
     <td> Extended application of penalties relating to officers of the Treasury Department.  </td>
 

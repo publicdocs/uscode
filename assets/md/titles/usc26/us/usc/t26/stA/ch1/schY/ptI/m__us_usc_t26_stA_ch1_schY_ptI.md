@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1400L.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400L" data-uslm-ref="/us/usc/t26/s1400L">1400L.</a>  </td>
 
     <td> Tax benefits for New York Liberty Zone.  </td>
 

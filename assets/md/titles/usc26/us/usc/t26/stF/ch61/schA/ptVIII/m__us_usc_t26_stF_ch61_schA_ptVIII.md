@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6096.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6096" data-uslm-ref="/us/usc/t26/s6096">6096.</a>  </td>
 
     <td> Designation by individuals.  </td>
 

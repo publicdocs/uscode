@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6531" data-uslm-ref="/us/usc/t26/s6531">6531.</a>  </td>
 
     <td> Periods of limitation on criminal prosecutions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6532" data-uslm-ref="/us/usc/t26/s6532">6532.</a>  </td>
 
     <td> Periods of limitation on suits.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6533" data-uslm-ref="/us/usc/t26/s6533">6533.</a>  </td>
 
     <td> Cross references.  </td>
 

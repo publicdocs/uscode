@@ -1209,11 +1209,9 @@
 
 >         Any obligation described in subsection (a) shall be treated as a private activity bond for purposes of section 103(n) of the Internal Revenue Code of 1986.
 
->         “(2) __Limitation on amount of obligations to which subsection__ 
+>         “(2) __Limitation on amount of obligations to which subsection (a)(1) applies—__ 
 
->             (a)
-
->         (1) applies—The aggregate amount of obligations to which subsection (a)(1) applies shall not exceed $911,000,000.
+>         The aggregate amount of obligations to which subsection (a)(1) applies shall not exceed $911,000,000.
 
 >         “(3) __Limitation on purposes.—__ 
 

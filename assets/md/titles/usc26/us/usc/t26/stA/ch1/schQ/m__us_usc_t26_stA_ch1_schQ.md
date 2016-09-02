@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschQ%2FptI" data-uslm-ref="/us/usc/t26/stA/ch1/schQ/ptI">I.</a>  </td>
 
     <td> Income averaging.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschQ%2FptII" data-uslm-ref="/us/usc/t26/stA/ch1/schQ/ptII">II.</a>  </td>
 
     <td> Mitigation of effect of limitations and other provisions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [III, IV.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschQ%2FptIII" data-uslm-ref="/us/usc/t26/stA/ch1/schQ/ptIII">III</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschQ%2FptIV" data-uslm-ref="/us/usc/t26/stA/ch1/schQ/ptIV">IV.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> V.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschQ%2FptV" data-uslm-ref="/us/usc/t26/stA/ch1/schQ/ptV">V.</a>  </td>
 
     <td> Claim of right.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [VI.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschQ%2FptVI" data-uslm-ref="/us/usc/t26/stA/ch1/schQ/ptVI">VI.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> VII.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschQ%2FptVII" data-uslm-ref="/us/usc/t26/stA/ch1/schQ/ptVII">VII.</a>  </td>
 
     <td> Recoveries of foreign expropriation losses.  </td>
 

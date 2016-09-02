@@ -287,9 +287,9 @@
 
 >         “(B) The amendments made by subsection (d) \[enacting [section 6056 of this title][/us/usc/t26/s6056], and amending sections 6033 and 6652 of this title\] and paragraphs (3), (15), (16), (20), (21), (30), (31), (32), (33), (34), (35), and (61) of subsection (j) \[amending sections 501, 542, 878, 884, 6033, 6034, and 6043 of this title and repealing [section 504 of this title][/us/usc/t26/s504]\].
 
->     “(3) __Sections 508__ 
+>     “(3) __Sections 508(a), (b), and (c).—__ 
 
->         (a), (b), and (c).—Sections 508 (a),(b), and (c) of the Internal Revenue Code of 1986 (as added by this section) shall take effect on October 9, 1969.”
+>     Sections 508 (a),(b), and (c) of the Internal Revenue Code of 1986 (as added by this section) shall take effect on October 9, 1969.”
 
  __Savings Provision__ 
 

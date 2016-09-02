@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9712" data-uslm-ref="/us/usc/t26/s9712">9712.</a>  </td>
 
     <td> Establishment and coverage of 1992 UMWA Benefit Plan.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7011" data-uslm-ref="/us/usc/t26/s7011">7011.</a>  </td>
 
     <td> Registration—persons paying a special tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7012" data-uslm-ref="/us/usc/t26/s7012">7012.</a>  </td>
 
     <td> Cross references.  </td>
 

@@ -147,11 +147,9 @@
 
 [Pub. L. 105–34, title XII, § 1233(d)][/us/pl/105/34/s1233/d], Aug. 5, 1997, [111 Stat. 1024][/us/stat/111/1024], provided that:
 
->     “(1) __Subsections__ 
+>     “(1) __Subsections (a) and (b).—__ 
 
->         (a) __and (b).—__ 
-
->         The amendments made by subsections (a) and (b) \[amending this section\] shall apply to partnership taxable years with respect to which the period under section 6229 of the Internal Revenue Code of 1986 \[[26 U.S.C. 6229][/us/usc/t26/s6229]\] for assessing tax has not expired on or before the date of the enactment of this Act \[Aug. 5, 1997\].
+>     The amendments made by subsections (a) and (b) \[amending this section\] shall apply to partnership taxable years with respect to which the period under section 6229 of the Internal Revenue Code of 1986 \[[26 U.S.C. 6229][/us/usc/t26/s6229]\] for assessing tax has not expired on or before the date of the enactment of this Act \[Aug. 5, 1997\].
 
 >     “(2) __Subsection (c).—__ 
 

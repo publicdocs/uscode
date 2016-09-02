@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3121" data-uslm-ref="/us/usc/t26/s3121">3121.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3122" data-uslm-ref="/us/usc/t26/s3122">3122.</a>  </td>
 
     <td> Federal service.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3123" data-uslm-ref="/us/usc/t26/s3123">3123.</a>  </td>
 
     <td> Deductions as constructive payments.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3124" data-uslm-ref="/us/usc/t26/s3124">3124.</a>  </td>
 
     <td> Estimate of revenue reduction.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3125.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3125" data-uslm-ref="/us/usc/t26/s3125">3125.</a>  </td>
 
     <td> Returns in the case of governmental employees in States, Guam, American Samoa, and the District of Columbia.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3126.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3126" data-uslm-ref="/us/usc/t26/s3126">3126.</a>  </td>
 
     <td> Return and payment by governmental employer.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3127.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3127" data-uslm-ref="/us/usc/t26/s3127">3127.</a>  </td>
 
     <td> Exemption for employers and their employees where both are members of religious faiths opposed to participation in Social Security Act programs.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3128.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3128" data-uslm-ref="/us/usc/t26/s3128">3128.</a>  </td>
 
     <td> Short title.  </td>
 

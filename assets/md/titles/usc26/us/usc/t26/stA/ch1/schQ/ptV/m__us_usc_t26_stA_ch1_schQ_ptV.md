@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1341" data-uslm-ref="/us/usc/t26/s1341">1341.</a>  </td>
 
     <td> Computation of tax where taxpayer restores substantial amount held under claim of right.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [1342.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1342" data-uslm-ref="/us/usc/t26/s1342">1342.</a>  </td>
 
     <td> Repealed.]  </td>
 

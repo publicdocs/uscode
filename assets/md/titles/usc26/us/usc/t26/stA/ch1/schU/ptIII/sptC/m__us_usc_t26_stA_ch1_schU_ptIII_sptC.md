@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1397B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1397B" data-uslm-ref="/us/usc/t26/s1397B">1397B.</a>  </td>
 
     <td> Nonrecognition of gain on rollover of empowerment zone investments.  </td>
 

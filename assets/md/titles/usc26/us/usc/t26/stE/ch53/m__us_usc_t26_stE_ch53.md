@@ -29,41 +29,41 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch53%2FschA" data-uslm-ref="/us/usc/t26/stE/ch53/schA">A.</a>  </td>
 
     <td> Taxes  </td>
 
-    <td> 5801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5801" data-uslm-ref="/us/usc/t26/s5801">5801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch53%2FschB" data-uslm-ref="/us/usc/t26/stE/ch53/schB">B.</a>  </td>
 
     <td> General provisions and exemptions  </td>
 
-    <td> 5841  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5841" data-uslm-ref="/us/usc/t26/s5841">5841</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch53%2FschC" data-uslm-ref="/us/usc/t26/stE/ch53/schC">C.</a>  </td>
 
     <td> Prohibited acts  </td>
 
-    <td> 5861  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5861" data-uslm-ref="/us/usc/t26/s5861">5861</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch53%2FschD" data-uslm-ref="/us/usc/t26/stE/ch53/schD">D.</a>  </td>
 
     <td> Penalties and forfeitures  </td>
 
-    <td> 5871  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5871" data-uslm-ref="/us/usc/t26/s5871">5871</a>  </td>
 
   </tr>
 

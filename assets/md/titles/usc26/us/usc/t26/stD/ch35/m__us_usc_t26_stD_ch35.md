@@ -29,31 +29,31 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch35%2FschA" data-uslm-ref="/us/usc/t26/stD/ch35/schA">A.</a>  </td>
 
     <td> Tax on wagers  </td>
 
-    <td> 4401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4401" data-uslm-ref="/us/usc/t26/s4401">4401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch35%2FschB" data-uslm-ref="/us/usc/t26/stD/ch35/schB">B.</a>  </td>
 
     <td> Occupational tax  </td>
 
-    <td> 4411  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4411" data-uslm-ref="/us/usc/t26/s4411">4411</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch35%2FschC" data-uslm-ref="/us/usc/t26/stD/ch35/schC">C.</a>  </td>
 
     <td> Miscellaneous provisions  </td>
 
-    <td> 4421  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4421" data-uslm-ref="/us/usc/t26/s4421">4421</a>  </td>
 
   </tr>
 

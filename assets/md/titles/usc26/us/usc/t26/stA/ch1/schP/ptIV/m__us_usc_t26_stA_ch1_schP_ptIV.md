@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1231" data-uslm-ref="/us/usc/t26/s1231">1231.</a>  </td>
 
     <td> Property used in the trade or business and involuntary conversions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [1232 to 1232B.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1232" data-uslm-ref="/us/usc/t26/s1232">1232</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1232B" data-uslm-ref="/us/usc/t26/s1232B">1232B.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1233.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1233" data-uslm-ref="/us/usc/t26/s1233">1233.</a>  </td>
 
     <td> Gains and losses from short sales.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1234.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1234" data-uslm-ref="/us/usc/t26/s1234">1234.</a>  </td>
 
     <td> Options to buy or sell.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1234A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1234A" data-uslm-ref="/us/usc/t26/s1234A">1234A.</a>  </td>
 
     <td> Gains or losses from certain terminations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1234B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1234B" data-uslm-ref="/us/usc/t26/s1234B">1234B.</a>  </td>
 
     <td> Gains or losses from securities futures contracts.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1235.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1235" data-uslm-ref="/us/usc/t26/s1235">1235.</a>  </td>
 
     <td> Sale or exchange of patents.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1236.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1236" data-uslm-ref="/us/usc/t26/s1236">1236.</a>  </td>
 
     <td> Dealers in securities.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1237.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1237" data-uslm-ref="/us/usc/t26/s1237">1237.</a>  </td>
 
     <td> Real property subdivided for sale.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [1238.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1238" data-uslm-ref="/us/usc/t26/s1238">1238.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1239.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1239" data-uslm-ref="/us/usc/t26/s1239">1239.</a>  </td>
 
     <td> Gain from sale of certain property between spouses or between an individual and a controlled corporation. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> [1240.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1240" data-uslm-ref="/us/usc/t26/s1240">1240.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1241" data-uslm-ref="/us/usc/t26/s1241">1241.</a>  </td>
 
     <td> Cancellation of lease or distributor’s agreement.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1242.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1242" data-uslm-ref="/us/usc/t26/s1242">1242.</a>  </td>
 
     <td> Losses on small business investment company stock.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1243.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1243" data-uslm-ref="/us/usc/t26/s1243">1243.</a>  </td>
 
     <td> Loss of small business investment company.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1244.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1244" data-uslm-ref="/us/usc/t26/s1244">1244.</a>  </td>
 
     <td> Losses on small business stock.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1245.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1245" data-uslm-ref="/us/usc/t26/s1245">1245.</a>  </td>
 
     <td> Gain from dispositions of certain depreciable property.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> [1246, 1247.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1246" data-uslm-ref="/us/usc/t26/s1246">1246</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1247" data-uslm-ref="/us/usc/t26/s1247">1247.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 1248.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1248" data-uslm-ref="/us/usc/t26/s1248">1248.</a>  </td>
 
     <td> Gain from certain sales or exchanges of stock in certain foreign corporations.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 1249.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1249" data-uslm-ref="/us/usc/t26/s1249">1249.</a>  </td>
 
     <td> Gain from certain sales or exchanges of patents, etc., to foreign corporations.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 1250.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1250" data-uslm-ref="/us/usc/t26/s1250">1250.</a>  </td>
 
     <td> Gain from dispositions of certain depreciable realty.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> [1251.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1251" data-uslm-ref="/us/usc/t26/s1251">1251.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 1252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1252" data-uslm-ref="/us/usc/t26/s1252">1252.</a>  </td>
 
     <td> Gain from the disposition of farm land. <sup>[1]</sup>   </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 1253.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1253" data-uslm-ref="/us/usc/t26/s1253">1253.</a>  </td>
 
     <td> Transfers of franchises, trademarks, and trade names.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 1254.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1254" data-uslm-ref="/us/usc/t26/s1254">1254.</a>  </td>
 
     <td> Gain from disposition of interest in oil, gas, geothermal, or other mineral properties.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 1255.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1255" data-uslm-ref="/us/usc/t26/s1255">1255.</a>  </td>
 
     <td> Gain from disposition of section 126 property.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 1256.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1256" data-uslm-ref="/us/usc/t26/s1256">1256.</a>  </td>
 
     <td> Section 1256 contracts marked to market.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 1257.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1257" data-uslm-ref="/us/usc/t26/s1257">1257.</a>  </td>
 
     <td> Disposition of converted wetlands or highly erodible croplands.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 1258.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1258" data-uslm-ref="/us/usc/t26/s1258">1258.</a>  </td>
 
     <td> Recharacterization of gain from certain financial transactions.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 1259.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1259" data-uslm-ref="/us/usc/t26/s1259">1259.</a>  </td>
 
     <td> Constructive sales treatment for appreciated financial positions.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 1260.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1260" data-uslm-ref="/us/usc/t26/s1260">1260.</a>  </td>
 
     <td> Gains from constructive ownership transactions.  </td>
 

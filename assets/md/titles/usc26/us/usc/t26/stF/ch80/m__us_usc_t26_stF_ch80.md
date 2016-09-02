@@ -29,31 +29,31 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch80%2FschA" data-uslm-ref="/us/usc/t26/stF/ch80/schA">A.</a>  </td>
 
     <td> Application of internal revenue laws  </td>
 
-    <td> 7801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7801" data-uslm-ref="/us/usc/t26/s7801">7801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch80%2FschB" data-uslm-ref="/us/usc/t26/stF/ch80/schB">B.</a>  </td>
 
     <td> Effective date and related provisions  </td>
 
-    <td> 7851  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7851" data-uslm-ref="/us/usc/t26/s7851">7851</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch80%2FschC" data-uslm-ref="/us/usc/t26/stF/ch80/schC">C.</a>  </td>
 
     <td> Provisions affecting more than one subtitle  </td>
 
-    <td> 7871  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7871" data-uslm-ref="/us/usc/t26/s7871">7871</a>  </td>
 
   </tr>
 

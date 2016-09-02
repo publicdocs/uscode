@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5841.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5841" data-uslm-ref="/us/usc/t26/s5841">5841.</a>  </td>
 
     <td> Registration of firearms.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5842.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5842" data-uslm-ref="/us/usc/t26/s5842">5842.</a>  </td>
 
     <td> Identification of firearms.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5843.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5843" data-uslm-ref="/us/usc/t26/s5843">5843.</a>  </td>
 
     <td> Records and returns.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5844.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5844" data-uslm-ref="/us/usc/t26/s5844">5844.</a>  </td>
 
     <td> Importation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5845.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5845" data-uslm-ref="/us/usc/t26/s5845">5845.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5846.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5846" data-uslm-ref="/us/usc/t26/s5846">5846.</a>  </td>
 
     <td> Other laws applicable.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5847.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5847" data-uslm-ref="/us/usc/t26/s5847">5847.</a>  </td>
 
     <td> Effect on other law. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5848.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5848" data-uslm-ref="/us/usc/t26/s5848">5848.</a>  </td>
 
     <td> Restrictive use of information.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5849.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5849" data-uslm-ref="/us/usc/t26/s5849">5849.</a>  </td>
 
     <td> Citation of chapter.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1398.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1398" data-uslm-ref="/us/usc/t26/s1398">1398.</a>  </td>
 
     <td> Rules relating to individuals’ title 11 cases.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1399.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1399" data-uslm-ref="/us/usc/t26/s1399">1399.</a>  </td>
 
     <td> No separate taxable entities for partnerships, corporations, etc.  </td>
 

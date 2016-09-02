@@ -77,11 +77,9 @@
 
 >     The amendment made by subsection (e) \[amending [section 704 of this title][/us/usc/t26/s704]\] shall apply to liabilities incurred after December 31, 1976.
 
->     “(3) __Section 709__ 
+>     “(3) __Section 709(b) of the code.—__ 
 
->         (b) __of the code.—__ 
-
->         Section 709(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by the amendment made by subsection (b)(1) of this section) shall apply in the case of amounts paid or incurred in taxable years beginning after December 31, 1976.”
+>     Section 709(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by the amendment made by subsection (b)(1) of this section) shall apply in the case of amounts paid or incurred in taxable years beginning after December 31, 1976.”
 
 ----------
 

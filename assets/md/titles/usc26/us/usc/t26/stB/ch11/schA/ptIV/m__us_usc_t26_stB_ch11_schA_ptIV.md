@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2051.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2051" data-uslm-ref="/us/usc/t26/s2051">2051.</a>  </td>
 
     <td> Definition of taxable estate.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [2052.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2052" data-uslm-ref="/us/usc/t26/s2052">2052.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2053.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2053" data-uslm-ref="/us/usc/t26/s2053">2053.</a>  </td>
 
     <td> Expenses, indebtedness, and taxes.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2054.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2054" data-uslm-ref="/us/usc/t26/s2054">2054.</a>  </td>
 
     <td> Losses.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2055.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2055" data-uslm-ref="/us/usc/t26/s2055">2055.</a>  </td>
 
     <td> Transfers for public, charitable, and religious uses.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2056.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2056" data-uslm-ref="/us/usc/t26/s2056">2056.</a>  </td>
 
     <td> Bequests, etc., to surviving spouse.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2056A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2056A" data-uslm-ref="/us/usc/t26/s2056A">2056A.</a>  </td>
 
     <td> Qualified domestic trust.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2057.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2057" data-uslm-ref="/us/usc/t26/s2057">2057.</a>  </td>
 
     <td> Family-owned business interests.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2058.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2058" data-uslm-ref="/us/usc/t26/s2058">2058.</a>  </td>
 
     <td> State death taxes.  </td>
 

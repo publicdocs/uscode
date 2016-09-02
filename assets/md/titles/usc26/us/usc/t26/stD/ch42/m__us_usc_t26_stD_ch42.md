@@ -29,71 +29,71 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch42%2FschA" data-uslm-ref="/us/usc/t26/stD/ch42/schA">A.</a>  </td>
 
     <td> Private foundations  </td>
 
-    <td> 4940  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4940" data-uslm-ref="/us/usc/t26/s4940">4940</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch42%2FschB" data-uslm-ref="/us/usc/t26/stD/ch42/schB">B.</a>  </td>
 
     <td> Black lung benefit trusts  </td>
 
-    <td> 4951  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4951" data-uslm-ref="/us/usc/t26/s4951">4951</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch42%2FschC" data-uslm-ref="/us/usc/t26/stD/ch42/schC">C.</a>  </td>
 
     <td> Political expenditures of section 501(c)(3) organizations  </td>
 
-    <td> 4955  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4955" data-uslm-ref="/us/usc/t26/s4955">4955</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch42%2FschD" data-uslm-ref="/us/usc/t26/stD/ch42/schD">D.</a>  </td>
 
     <td> Failure by certain charitable organizations to meet certain qualification requirements  </td>
 
-    <td> 4958  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4958" data-uslm-ref="/us/usc/t26/s4958">4958</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch42%2FschE" data-uslm-ref="/us/usc/t26/stD/ch42/schE">E.</a>  </td>
 
     <td> Abatement of first and second tier taxes in certain cases  </td>
 
-    <td> 4961  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4961" data-uslm-ref="/us/usc/t26/s4961">4961</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> F.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch42%2FschF" data-uslm-ref="/us/usc/t26/stD/ch42/schF">F.</a>  </td>
 
     <td> Tax shelter transactions  </td>
 
-    <td> 4965  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4965" data-uslm-ref="/us/usc/t26/s4965">4965</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> G.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch42%2FschG" data-uslm-ref="/us/usc/t26/stD/ch42/schG">G.</a>  </td>
 
     <td> Donor advised funds  </td>
 
-    <td> 4966  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4966" data-uslm-ref="/us/usc/t26/s4966">4966</a>  </td>
 
   </tr>
 

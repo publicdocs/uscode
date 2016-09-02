@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch3%2FschA" data-uslm-ref="/us/usc/t26/stA/ch3/schA">A.</a>  </td>
 
     <td> Nonresident aliens and foreign corporations  </td>
 
-    <td> 1441  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1441" data-uslm-ref="/us/usc/t26/s1441">1441</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch3%2FschB" data-uslm-ref="/us/usc/t26/stA/ch3/schB">B.</a>  </td>
 
     <td> Application of withholding provisions  </td>
 
-    <td> 1461  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1461" data-uslm-ref="/us/usc/t26/s1461">1461</a>  </td>
 
   </tr>
 

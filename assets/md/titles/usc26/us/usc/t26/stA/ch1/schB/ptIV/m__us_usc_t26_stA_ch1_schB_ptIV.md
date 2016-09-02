@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschB%2FptIV%2FsptA" data-uslm-ref="/us/usc/t26/stA/ch1/schB/ptIV/sptA">A.</a>  </td>
 
     <td> Private activity bonds.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschB%2FptIV%2FsptB" data-uslm-ref="/us/usc/t26/stA/ch1/schB/ptIV/sptB">B.</a>  </td>
 
     <td> Requirements applicable to all State and local bonds.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschB%2FptIV%2FsptC" data-uslm-ref="/us/usc/t26/stA/ch1/schB/ptIV/sptC">C.</a>  </td>
 
     <td> Definitions and special rules.  </td>
 

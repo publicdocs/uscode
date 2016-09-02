@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> 95.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstH%2Fch95" data-uslm-ref="/us/usc/t26/stH/ch95">95.</a>  </td>
 
     <td> Presidential election campaign fund  </td>
 
-    <td> 9001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9001" data-uslm-ref="/us/usc/t26/s9001">9001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 96.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstH%2Fch96" data-uslm-ref="/us/usc/t26/stH/ch96">96.</a>  </td>
 
     <td> Presidential primary matching payment account  </td>
 
-    <td> 9031  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9031" data-uslm-ref="/us/usc/t26/s9031">9031</a>  </td>
 
   </tr>
 

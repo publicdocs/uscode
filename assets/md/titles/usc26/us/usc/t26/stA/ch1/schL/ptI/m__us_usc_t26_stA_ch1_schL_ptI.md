@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschL%2FptI%2FsptA" data-uslm-ref="/us/usc/t26/stA/ch1/schL/ptI/sptA">A.</a>  </td>
 
     <td> Tax imposed.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschL%2FptI%2FsptB" data-uslm-ref="/us/usc/t26/stA/ch1/schL/ptI/sptB">B.</a>  </td>
 
     <td> Life insurance gross income.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschL%2FptI%2FsptC" data-uslm-ref="/us/usc/t26/stA/ch1/schL/ptI/sptC">C.</a>  </td>
 
     <td> Life insurance deductions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschL%2FptI%2FsptD" data-uslm-ref="/us/usc/t26/stA/ch1/schL/ptI/sptD">D.</a>  </td>
 
     <td> Accounting, allocation, and foreign provisions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschL%2FptI%2FsptE" data-uslm-ref="/us/usc/t26/stA/ch1/schL/ptI/sptE">E.</a>  </td>
 
     <td> Definitions and special rules.  </td>
 

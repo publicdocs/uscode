@@ -321,11 +321,9 @@
 
 [Pub. L. 97–248, title III, § 334(e)][/us/pl/97/248/s334/e], Sept. 3, 1982, [96 Stat. 627][/us/stat/96/627], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __Amendment made by subsections__ 
+>     “(1) __Amendment made by subsections (a) and (d).—__ 
 
->         (a) __and (d).—__ 
-
->         Except as provided in paragraph (4), the amendment made by subsections (a) \[enacting this section\] and (d) \[amending [section 3402 of this title][/us/usc/t26/s3402]\] shall apply to payments or other distributions made after December 31, 1982.
+>     Except as provided in paragraph (4), the amendment made by subsections (a) \[enacting this section\] and (d) \[amending [section 3402 of this title][/us/usc/t26/s3402]\] shall apply to payments or other distributions made after December 31, 1982.
 
 >     “(2) __Amendments made by subsection (b).—__ 
 

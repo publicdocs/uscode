@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5001" data-uslm-ref="/us/usc/t26/s5001">5001.</a>  </td>
 
     <td> Imposition, rate, and attachment of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5002" data-uslm-ref="/us/usc/t26/s5002">5002.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5003" data-uslm-ref="/us/usc/t26/s5003">5003.</a>  </td>
 
     <td> Cross references to exemptions, etc.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5004" data-uslm-ref="/us/usc/t26/s5004">5004.</a>  </td>
 
     <td> Lien for tax.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5005" data-uslm-ref="/us/usc/t26/s5005">5005.</a>  </td>
 
     <td> Persons liable for tax.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5006" data-uslm-ref="/us/usc/t26/s5006">5006.</a>  </td>
 
     <td> Determination of tax.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5007" data-uslm-ref="/us/usc/t26/s5007">5007.</a>  </td>
 
     <td> Collection of tax on distilled spirits.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5008.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5008" data-uslm-ref="/us/usc/t26/s5008">5008.</a>  </td>
 
     <td> Abatement, remission, refund, and allowance for loss or destruction of distilled spirits.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> [5009.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5009" data-uslm-ref="/us/usc/t26/s5009">5009.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 5010.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5010" data-uslm-ref="/us/usc/t26/s5010">5010.</a>  </td>
 
     <td> Credit for wine content and for flavors content.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 5011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5011" data-uslm-ref="/us/usc/t26/s5011">5011.</a>  </td>
 
     <td> Income tax credit for average cost of carrying excise tax.  </td>
 

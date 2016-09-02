@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5671.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5671" data-uslm-ref="/us/usc/t26/s5671">5671.</a>  </td>
 
     <td> Penalty and forfeiture for evasion of beer tax and fraudulent noncompliance with requirements.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5672.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5672" data-uslm-ref="/us/usc/t26/s5672">5672.</a>  </td>
 
     <td> Penalty for failure of brewer to comply with requirements and to keep records and file returns.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5673.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5673" data-uslm-ref="/us/usc/t26/s5673">5673.</a>  </td>
 
     <td> Forfeiture for flagrant and willful removal of beer without taxpayment.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5674.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5674" data-uslm-ref="/us/usc/t26/s5674">5674.</a>  </td>
 
     <td> Penalty for unlawful production or removal of beer.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5675.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5675" data-uslm-ref="/us/usc/t26/s5675">5675.</a>  </td>
 
     <td> Penalty for intentional removal or defacement of brewer’s marks and brands.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [5676.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5676" data-uslm-ref="/us/usc/t26/s5676">5676.</a>  </td>
 
     <td> Repealed.]  </td>
 

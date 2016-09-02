@@ -943,11 +943,9 @@
 
 >     The amendment made by subsection (d)(5) \[amending item 901.50 of the Tariff Schedules, which are not set out in the Code\] shall apply with respect to articles entered, or withdrawn from warehouse for consumption, after March 31, 1983.
 
->     “(3) __For subsection__ 
+>     “(3) __For subsection (e)(2).—__ 
 
->         (e) __(2).—__ 
-
->         The amendment made by subsection (e)(2) \[amending [section 6427 of this title][/us/usc/t26/s6427]\] shall take effect on January 1, 1983.
+>     The amendment made by subsection (e)(2) \[amending [section 6427 of this title][/us/usc/t26/s6427]\] shall take effect on January 1, 1983.
 
 >     “(4) __Shared transportation requirement.—__ 
 

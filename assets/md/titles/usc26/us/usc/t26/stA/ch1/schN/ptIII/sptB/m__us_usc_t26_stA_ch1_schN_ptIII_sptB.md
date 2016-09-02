@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs911" data-uslm-ref="/us/usc/t26/s911">911.</a>  </td>
 
     <td> Citizens or residents of the United States living abroad.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs912" data-uslm-ref="/us/usc/t26/s912">912.</a>  </td>
 
     <td> Exemption for certain allowances.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [913.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs913" data-uslm-ref="/us/usc/t26/s913">913.</a>  </td>
 
     <td> Repealed.]  </td>
 

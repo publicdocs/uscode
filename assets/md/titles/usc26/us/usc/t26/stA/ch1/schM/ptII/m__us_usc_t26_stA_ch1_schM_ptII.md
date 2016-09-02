@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 856.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs856" data-uslm-ref="/us/usc/t26/s856">856.</a>  </td>
 
     <td> Definition of real estate investment trust.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 857.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs857" data-uslm-ref="/us/usc/t26/s857">857.</a>  </td>
 
     <td> Taxation of real estate investment trusts and their beneficiaries.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 858.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs858" data-uslm-ref="/us/usc/t26/s858">858.</a>  </td>
 
     <td> Dividends paid by real estate investment trust after close of taxable year.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 859.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs859" data-uslm-ref="/us/usc/t26/s859">859.</a>  </td>
 
     <td> Adoption of annual accounting period.  </td>
 

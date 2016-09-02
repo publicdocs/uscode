@@ -321,19 +321,15 @@
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 904 of this title][/us/usc/t26/s904]\] shall apply to taxable years beginning after December 31, 1982.
 
->     “(2) __Retention of old sections 907__ 
+>     “(2) __Retention of old sections 907(b) and 904(f)(4) where taxpayer had separate basket foreign loss.—__ 
 
->         (b) __and 904__ 
+>         “(A) __In general.—If, after applying old sections 907(b) and 904(f)(4) to a taxable year beginning before__  __January 1, 1983__  __, the taxpayer had a separate basket foreign loss, such loss shall not be recaptured from income of a kind not taken into account in computing the amount of such separate basket foreign loss more rapidly than ratably over the 8-year period (or such shorter period as the taxpayer may select) beginning with the first taxable year beginning after__  __December 31, 1982__  __.__ 
 
->     (f)(4) where taxpayer had separate basket foreign loss.—
+>         “(B) __Definitions.—For purposes of this paragraph—__ 
 
->     “(A) __In general.—If, after applying old sections 907(b) and 904(f)(4) to a taxable year beginning before__  __January 1, 1983__  __, the taxpayer had a separate basket foreign loss, such loss shall not be recaptured from income of a kind not taken into account in computing the amount of such separate basket foreign loss more rapidly than ratably over the 8-year period (or such shorter period as the taxpayer may select) beginning with the first taxable year beginning after__  __December 31, 1982__  __.__ 
+>             “(i) The term ‘separate basket foreign loss’ means any foreign loss attributable to activities taken into account (or not taken into account) in determining foreign oil related income (as defined in old section 907(c)(2)).
 
->     “(B) __Definitions.—For purposes of this paragraph—__ 
-
->         “(i) The term ‘separate basket foreign loss’ means any foreign loss attributable to activities taken into account (or not taken into account) in determining foreign oil related income (as defined in old section 907(c)(2)).
-
->         “(ii) An ‘old’ section is such section as in effect on the day before the date of the enactment of this Act \[Sept. 3, 1982\].”
+>             “(ii) An ‘old’ section is such section as in effect on the day before the date of the enactment of this Act \[Sept. 3, 1982\].”
 
  __Effective Date of 1978 Amendment__ 
 

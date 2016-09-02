@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2611" data-uslm-ref="/us/usc/t26/s2611">2611.</a>  </td>
 
     <td> Generation-skipping transfer defined.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2612" data-uslm-ref="/us/usc/t26/s2612">2612.</a>  </td>
 
     <td> Taxable termination; taxable distribution; direct skip.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2613" data-uslm-ref="/us/usc/t26/s2613">2613.</a>  </td>
 
     <td> Skip person and non-skip person defined.  </td>
 

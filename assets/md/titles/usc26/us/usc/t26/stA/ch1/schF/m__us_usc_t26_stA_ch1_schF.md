@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschF%2FptI" data-uslm-ref="/us/usc/t26/stA/ch1/schF/ptI">I.</a>  </td>
 
     <td> General rule.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschF%2FptII" data-uslm-ref="/us/usc/t26/stA/ch1/schF/ptII">II.</a>  </td>
 
     <td> Private foundations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschF%2FptIII" data-uslm-ref="/us/usc/t26/stA/ch1/schF/ptIII">III.</a>  </td>
 
     <td> Taxation of business income of certain exempt organizations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschF%2FptIV" data-uslm-ref="/us/usc/t26/stA/ch1/schF/ptIV">IV.</a>  </td>
 
     <td> Farmers’ cooperatives.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> V.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschF%2FptV" data-uslm-ref="/us/usc/t26/stA/ch1/schF/ptV">V.</a>  </td>
 
     <td> Shipowners’ protection and indemnity associations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> VI.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschF%2FptVI" data-uslm-ref="/us/usc/t26/stA/ch1/schF/ptVI">VI.</a>  </td>
 
     <td> Political organizations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> VII.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschF%2FptVII" data-uslm-ref="/us/usc/t26/stA/ch1/schF/ptVII">VII.</a>  </td>
 
     <td> Certain homeowners associations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> VIII.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschF%2FptVIII" data-uslm-ref="/us/usc/t26/stA/ch1/schF/ptVIII">VIII.</a>  </td>
 
     <td> Higher education savings entities.  </td>
 

@@ -225,11 +225,9 @@
 
 >     The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1981.
 
->     “(2) __Subsections__ 
+>     “(2) __Subsections (b) and (c).—__ 
 
->         (b) __and (c).—__ 
-
->         The amendments made by subsections (b) and (c) \[amending this section\] shall apply to taxable years beginning after December 31, 1980.”
+>     The amendments made by subsections (b) and (c) \[amending this section\] shall apply to taxable years beginning after December 31, 1980.”
 
  __Effective Date of 1980 Amendment__ 
 

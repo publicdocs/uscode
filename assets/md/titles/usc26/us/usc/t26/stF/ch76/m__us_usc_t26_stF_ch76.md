@@ -29,51 +29,51 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch76%2FschA" data-uslm-ref="/us/usc/t26/stF/ch76/schA">A.</a>  </td>
 
     <td> Civil actions by the United States  </td>
 
-    <td> 7401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7401" data-uslm-ref="/us/usc/t26/s7401">7401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch76%2FschB" data-uslm-ref="/us/usc/t26/stF/ch76/schB">B.</a>  </td>
 
     <td> Proceedings by Taxpayers and Third Parties  </td>
 
-    <td> 7421  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7421" data-uslm-ref="/us/usc/t26/s7421">7421</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch76%2FschC" data-uslm-ref="/us/usc/t26/stF/ch76/schC">C.</a>  </td>
 
     <td> The Tax Court  </td>
 
-    <td> 7441  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7441" data-uslm-ref="/us/usc/t26/s7441">7441</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch76%2FschD" data-uslm-ref="/us/usc/t26/stF/ch76/schD">D.</a>  </td>
 
     <td> Court review of Tax Court decisions  </td>
 
-    <td> 7481  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7481" data-uslm-ref="/us/usc/t26/s7481">7481</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch76%2FschE" data-uslm-ref="/us/usc/t26/stF/ch76/schE">E.</a>  </td>
 
     <td> Burden of proof  </td>
 
-    <td> 7491  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7491" data-uslm-ref="/us/usc/t26/s7491">7491</a>  </td>
 
   </tr>
 

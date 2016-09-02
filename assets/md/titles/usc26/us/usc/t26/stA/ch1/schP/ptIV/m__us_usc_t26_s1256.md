@@ -505,11 +505,9 @@
 
 >         The term ‘stock option’ means any option to buy or sell stock.
 
->     “(j) __Coordination of Election Under Subsection__ 
+>     “(j) __Coordination of Election Under Subsection (d)(3) With Elections Under Subsections (g) and (h).—__ 
 
->         (d)
-
->     (3) With Elections Under Subsections (g) and (h).—The Secretary of the Treasury or his delegate shall prescribe such regulations as may be necessary to coordinate the election provided by subsection (d)(3) with the elections provided by subsections (g) and (h).”
+>     The Secretary of the Treasury or his delegate shall prescribe such regulations as may be necessary to coordinate the election provided by subsection (d)(3) with the elections provided by subsections (g) and (h).”
 
 [Pub. L. 98–369, div. A, title I, § 104(b)][/us/pl/98/369/s104/b], July 18, 1984, [98 Stat. 628][/us/stat/98/628], provided that: 
 
@@ -543,11 +541,9 @@
 
 >         Except as provided in subclause (IV), in the case of any taxpayer who makes an election under subclause (I), any election under section 508(c) or 509(a) of such Act or any revocation of such an election shall apply to all regulated futures contracts (including foreign currency contracts).
 
->         “(IV) __Section 509__ 
+>         “(IV) __Section 509(a)(3) and (4) not to apply to foreign currency contracts.—__ 
 
->             (a) __(3) and (4) not to apply to foreign currency contracts.—__ 
-
->             Paragraphs (3) and (4) of section 509(a) of such Act shall not apply to any foreign currency contract.
+>         Paragraphs (3) and (4) of section 509(a) of such Act shall not apply to any foreign currency contract.
 
 >         “(V) __Time for making election or revocation.—__ 
 

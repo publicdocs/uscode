@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 31.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs31" data-uslm-ref="/us/usc/t26/s31">31.</a>  </td>
 
     <td> Tax withheld on wages.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 32.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs32" data-uslm-ref="/us/usc/t26/s32">32.</a>  </td>
 
     <td> Earned income.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 33.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs33" data-uslm-ref="/us/usc/t26/s33">33.</a>  </td>
 
     <td> Tax withheld at source on nonresident aliens and foreign corporations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 34.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs34" data-uslm-ref="/us/usc/t26/s34">34.</a>  </td>
 
     <td> Certain uses of gasoline and special fuels.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 35.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs35" data-uslm-ref="/us/usc/t26/s35">35.</a>  </td>
 
     <td> Health insurance costs of eligible individuals.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 36.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs36" data-uslm-ref="/us/usc/t26/s36">36.</a>  </td>
 
     <td> First-time homebuyer credit.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 36A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs36A" data-uslm-ref="/us/usc/t26/s36A">36A.</a>  </td>
 
     <td> Making work pay credit.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 36B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs36B" data-uslm-ref="/us/usc/t26/s36B">36B.</a>  </td>
 
     <td> Refundable credit for coverage under a qualified health plan.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> [36C.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs36C" data-uslm-ref="/us/usc/t26/s36C">36C.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 37.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs37" data-uslm-ref="/us/usc/t26/s37">37.</a>  </td>
 
     <td> Overpayments of tax.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1276.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1276" data-uslm-ref="/us/usc/t26/s1276">1276.</a>  </td>
 
     <td> Disposition gain representing accrued market discount treated as ordinary income.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1277.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1277" data-uslm-ref="/us/usc/t26/s1277">1277.</a>  </td>
 
     <td> Deferral of interest deduction allocable to accrued market discount.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1278.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1278" data-uslm-ref="/us/usc/t26/s1278">1278.</a>  </td>
 
     <td> Definitions and special rules.  </td>
 

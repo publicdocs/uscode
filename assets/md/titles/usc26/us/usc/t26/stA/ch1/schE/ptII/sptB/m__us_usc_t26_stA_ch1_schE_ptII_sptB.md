@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs451" data-uslm-ref="/us/usc/t26/s451">451.</a>  </td>
 
     <td> General rule for taxable year of inclusion.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [452.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs452" data-uslm-ref="/us/usc/t26/s452">452.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs453" data-uslm-ref="/us/usc/t26/s453">453.</a>  </td>
 
     <td> Installment method.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 453A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs453A" data-uslm-ref="/us/usc/t26/s453A">453A.</a>  </td>
 
     <td> Special rules for nondealers.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 453B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs453B" data-uslm-ref="/us/usc/t26/s453B">453B.</a>  </td>
 
     <td> Gain or loss on disposition of installment obligations. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [453C.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs453C" data-uslm-ref="/us/usc/t26/s453C">453C.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 454.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs454" data-uslm-ref="/us/usc/t26/s454">454.</a>  </td>
 
     <td> Obligations issued at discount.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 455.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs455" data-uslm-ref="/us/usc/t26/s455">455.</a>  </td>
 
     <td> Prepaid subscription income.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 456.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs456" data-uslm-ref="/us/usc/t26/s456">456.</a>  </td>
 
     <td> Prepaid dues income of certain membership organizations.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 457.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs457" data-uslm-ref="/us/usc/t26/s457">457.</a>  </td>
 
     <td> Deferred compensation plans of State and local governments and tax-exempt organizations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 457A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs457A" data-uslm-ref="/us/usc/t26/s457A">457A.</a>  </td>
 
     <td> Nonqualified deferred compensation from certain tax indifferent parties.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 458.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs458" data-uslm-ref="/us/usc/t26/s458">458.</a>  </td>
 
     <td> Magazines, paperbacks, and records returned after the close of the taxable year.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 460.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs460" data-uslm-ref="/us/usc/t26/s460">460.</a>  </td>
 
     <td> Special rules for long-term contracts.  </td>
 

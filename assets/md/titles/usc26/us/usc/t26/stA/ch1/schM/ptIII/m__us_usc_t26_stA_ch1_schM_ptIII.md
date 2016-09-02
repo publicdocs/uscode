@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 860.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs860" data-uslm-ref="/us/usc/t26/s860">860.</a>  </td>
 
     <td> Deduction for deficiency dividends.  </td>
 

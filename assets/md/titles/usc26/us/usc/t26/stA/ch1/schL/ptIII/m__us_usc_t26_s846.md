@@ -279,21 +279,19 @@
 
 >         The earnings and profits of any insurance company for its 1st taxable year beginning after December 31, 1986, shall be increased by the amount of the difference determined under subparagraph (A) with respect to such company.
 
->     “(4) __Application of fresh start to companies which become subject to section 831__ 
+>     “(4) __Application of fresh start to companies which become subject to section 831(a) tax in later taxable year.—__ 
 
->         (a) __tax in later taxable year.—__ 
+>     If—
 
->         If—
+>         “(A)
 
->     “(A)
+>          an insurance company was not subject to tax under section 831(a) of the Internal Revenue Code of 1986 for its 1st taxable year beginning after December 31, 1986, by reason of being—
 
->      an insurance company was not subject to tax under section 831(a) of the Internal Revenue Code of 1986 for its 1st taxable year beginning after December 31, 1986, by reason of being—
+>             “(i) subject to tax under section 831(b) of such Code, or
 
->         “(i) subject to tax under section 831(b) of such Code, or
+>             “(ii) described in section 501(c) of such Code and exempt from tax under section 501(a) of such Code, and
 
->         “(ii) described in section 501(c) of such Code and exempt from tax under section 501(a) of such Code, and
-
->     “(B) such company becomes subject to tax under such section 831(a) for any later taxable year,
+>         “(B) such company becomes subject to tax under such section 831(a) for any later taxable year,
 
 >         paragraph (2) and subparagraphs (A) and (C) of paragraph (3) shall be applied by treating such later taxable year as its 1st taxable year beginning after December 31, 1986, and by treating the calendar year in which such later taxable year begins as 1987; and paragraph (3)(B) shall not apply.”
 

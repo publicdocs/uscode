@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7261.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7261" data-uslm-ref="/us/usc/t26/s7261">7261.</a>  </td>
 
     <td> Representation that retailers’ excise tax is excluded from price of article.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7262.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7262" data-uslm-ref="/us/usc/t26/s7262">7262.</a>  </td>
 
     <td> Violation of occupational tax laws relating to wagering—failure to pay special tax.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [7263 to 7267.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7263" data-uslm-ref="/us/usc/t26/s7263">7263</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7267" data-uslm-ref="/us/usc/t26/s7267">7267.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7268.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7268" data-uslm-ref="/us/usc/t26/s7268">7268.</a>  </td>
 
     <td> Possession with intent to sell in fraud of law or to evade tax.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7269.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7269" data-uslm-ref="/us/usc/t26/s7269">7269.</a>  </td>
 
     <td> Failure to produce records.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7270.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7270" data-uslm-ref="/us/usc/t26/s7270">7270.</a>  </td>
 
     <td> Insurance policies.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7271.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7271" data-uslm-ref="/us/usc/t26/s7271">7271.</a>  </td>
 
     <td> Penalties for offenses relating to stamps.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7272.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7272" data-uslm-ref="/us/usc/t26/s7272">7272.</a>  </td>
 
     <td> Penalty for failure to register or reregister.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 7273.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7273" data-uslm-ref="/us/usc/t26/s7273">7273.</a>  </td>
 
     <td> Penalties for offenses relating to special taxes.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [7274.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7274" data-uslm-ref="/us/usc/t26/s7274">7274.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 7275.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7275" data-uslm-ref="/us/usc/t26/s7275">7275.</a>  </td>
 
     <td> Penalty for offenses relating to certain airline tickets and advertising.  </td>
 

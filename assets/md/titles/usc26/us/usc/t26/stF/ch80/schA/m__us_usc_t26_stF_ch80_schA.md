@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7801" data-uslm-ref="/us/usc/t26/s7801">7801.</a>  </td>
 
     <td> Authority of Department of the Treasury.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7802" data-uslm-ref="/us/usc/t26/s7802">7802.</a>  </td>
 
     <td> Internal Revenue Service Oversight Board.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7803" data-uslm-ref="/us/usc/t26/s7803">7803.</a>  </td>
 
     <td> Commissioner of Internal Revenue; other officials.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7804" data-uslm-ref="/us/usc/t26/s7804">7804.</a>  </td>
 
     <td> Other personnel.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7805" data-uslm-ref="/us/usc/t26/s7805">7805.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7806" data-uslm-ref="/us/usc/t26/s7806">7806.</a>  </td>
 
     <td> Construction of title.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7807" data-uslm-ref="/us/usc/t26/s7807">7807.</a>  </td>
 
     <td> Rules in effect upon enactment of this title.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7808.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7808" data-uslm-ref="/us/usc/t26/s7808">7808.</a>  </td>
 
     <td> Depositaries for collections.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 7809.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7809" data-uslm-ref="/us/usc/t26/s7809">7809.</a>  </td>
 
     <td> Deposit of collections.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 7810.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7810" data-uslm-ref="/us/usc/t26/s7810">7810.</a>  </td>
 
     <td> Revolving fund for redemption of real property.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 7811.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7811" data-uslm-ref="/us/usc/t26/s7811">7811.</a>  </td>
 
     <td> Taxpayer Assistance Orders.  </td>
 

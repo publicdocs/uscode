@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 581.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs581" data-uslm-ref="/us/usc/t26/s581">581.</a>  </td>
 
     <td> Definition of bank.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 582.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs582" data-uslm-ref="/us/usc/t26/s582">582.</a>  </td>
 
     <td> Bad debts, losses, and gains with respect to securities held by financial institutions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [583.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs583" data-uslm-ref="/us/usc/t26/s583">583.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 584.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs584" data-uslm-ref="/us/usc/t26/s584">584.</a>  </td>
 
     <td> Common trust funds.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 585.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs585" data-uslm-ref="/us/usc/t26/s585">585.</a>  </td>
 
     <td> Reserves for losses on loans of banks.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [586.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs586" data-uslm-ref="/us/usc/t26/s586">586.</a>  </td>
 
     <td> Repealed.]  </td>
 

@@ -993,29 +993,17 @@
 
 >     “(d) __For Section 5 (Relating to Miscellaneous Corporate Amendments).—__ 
 
->         “(1) __For subsection__ 
+>         “(1) __For subsection (a) (relating to exemption from personal holding company tax).—The amendments made by subsection (a) of section 5 \[amending__  __[__  __section 542 of this title__  __][/us/usc/t26/s542]__  __\] shall apply to any bankruptcy case or similar judicial proceeding commenced after__  __December 31, 1980__  __.__ 
 
->             (a) __(relating to exemption from personal holding company tax).—The amendments made by subsection (a) of section 5 \[amending__  __[__  __section 542 of this title__  __][/us/usc/t26/s542]__  __\] shall apply to any bankruptcy case or similar judicial proceeding commenced after__  __December 31, 1980__  __.__ 
+>         “(2) __For subsection (b) (relating to repeal of special treatment for certain railroad redemptions).—The amendments made by subsection (b) of section 5 \[amending__  __[__  __section 302 of this title__  __][/us/usc/t26/s302]__  __\] shall apply to stock which is issued after__  __December 31, 1980__  __(other than stock issued pursuant to a plan of reorganization approved on or before that date).__ 
 
->         “(2) __For subsection__ 
+>         “(3) __For subsection (c) (relating to application of 12-month liquidation rule).—The amendment made by subsection (c) of section 5 \[amending__  __[__  __section 337 of this title__  __][/us/usc/t26/s337]__  __\] shall apply to any bankruptcy case or similar judicial proceeding commenced after__  __December 31, 1980__  __.__ 
 
->             (b) __(relating to repeal of special treatment for certain railroad redemptions).—The amendments made by subsection (b) of section 5 \[amending__  __[__  __section 302 of this title__  __][/us/usc/t26/s302]__  __\] shall apply to stock which is issued after__  __December 31, 1980__  __(other than stock issued pursuant to a plan of reorganization approved on or before that date).__ 
+>         “(4) __For subsection (d) (relating to permitting bankruptcy estate to be subchapter s shareholder).—The amendment made by subsection (d) of section 5 \[amending__  __[__  __section 1371 of this title__  __][/us/usc/t26/s1371]__  __\] shall apply to any bankruptcy case commenced on or after__  __October 1, 1979__  __.__ 
 
->         “(3) __For subsection__ 
+>         “(5) __For subsection (e) (relating to certain transfers to controlled corporations).—The amendments made by subsection (e) of section 5 \[amending__  __[__  __section 351 of this title__  __][/us/usc/t26/s351]__  __\] shall apply as provided in subsection (a) of this section.__ 
 
->             (c) __(relating to application of 12-month liquidation rule).—The amendment made by subsection (c) of section 5 \[amending__  __[__  __section 337 of this title__  __][/us/usc/t26/s337]__  __\] shall apply to any bankruptcy case or similar judicial proceeding commenced after__  __December 31, 1980__  __.__ 
-
->         “(4) __For subsection__ 
-
->             (d) __(relating to permitting bankruptcy estate to be subchapter s shareholder).—The amendment made by subsection (d) of section 5 \[amending__  __[__  __section 1371 of this title__  __][/us/usc/t26/s1371]__  __\] shall apply to any bankruptcy case commenced on or after__  __October 1, 1979__  __.__ 
-
->         “(5) __For subsection__ 
-
->             (e) __(relating to certain transfers to controlled corporations).—The amendments made by subsection (e) of section 5 \[amending__  __[__  __section 351 of this title__  __][/us/usc/t26/s351]__  __\] shall apply as provided in subsection (a) of this section.__ 
-
->         “(6) __For subsection__ 
-
->             (f) __(relating to effect of debt discharge on earnings and profits).—The amendment made by subsection (f) of section 5 \[amending__  __[__  __section 312 of this title__  __][/us/usc/t26/s312]__  __\] shall apply as provided in subsection (a) of this section.__ 
+>         “(6) __For subsection (f) (relating to effect of debt discharge on earnings and profits).—The amendment made by subsection (f) of section 5 \[amending__  __[__  __section 312 of this title__  __][/us/usc/t26/s312]__  __\] shall apply as provided in subsection (a) of this section.__ 
 
 >     “(e) __For Section 6 (Relating to Changes in Tax Procedures).—The amendments made by section 6 \[enacting sections 6658 and 7464 of this title, amending sections 128, 354, 422, 1023, 3302, 6012, 6036, 6155, 6161, 6212, 6213, 6216, 6326 \[now 6327\], 6404, 6503, 6512, 6532, 6871, 6872, 6873, 7430, and 7508 of this title, repealing__  __[__  __section 1018 of this title__  __][/us/usc/t26/s1018]__  __, and redesignating former__  __[__  __section 7464 of this title__  __][/us/usc/t26/s7464]__  __as 7465\] shall take effect on__  __October 1, 1979__  __, but shall not apply to any proceeding under the Bankruptcy Act \[Title 11\] commenced before__  __October 1, 1979__  __.__ 
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 811.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs811" data-uslm-ref="/us/usc/t26/s811">811.</a>  </td>
 
     <td> Accounting provisions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 812.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs812" data-uslm-ref="/us/usc/t26/s812">812.</a>  </td>
 
     <td> Definition of company’s share and policyholders’ share.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [813.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs813" data-uslm-ref="/us/usc/t26/s813">813.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 814.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs814" data-uslm-ref="/us/usc/t26/s814">814.</a>  </td>
 
     <td> Contiguous country branches of domestic life insurance companies.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 815.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs815" data-uslm-ref="/us/usc/t26/s815">815.</a>  </td>
 
     <td> Distributions to shareholders from pre-1984 policyholders surplus account.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5411" data-uslm-ref="/us/usc/t26/s5411">5411.</a>  </td>
 
     <td> Use of brewery.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5412" data-uslm-ref="/us/usc/t26/s5412">5412.</a>  </td>
 
     <td> Removal of beer in containers or by pipeline.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5413" data-uslm-ref="/us/usc/t26/s5413">5413.</a>  </td>
 
     <td> Brewers procuring beer from other brewers.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5414" data-uslm-ref="/us/usc/t26/s5414">5414.</a>  </td>
 
     <td> Removals from one brewery to another belonging to the same brewer.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5415" data-uslm-ref="/us/usc/t26/s5415">5415.</a>  </td>
 
     <td> Records and returns.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5416.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5416" data-uslm-ref="/us/usc/t26/s5416">5416.</a>  </td>
 
     <td> Definitions of package and packaging.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5417.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5417" data-uslm-ref="/us/usc/t26/s5417">5417.</a>  </td>
 
     <td> Pilot brewing plants.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5418.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5418" data-uslm-ref="/us/usc/t26/s5418">5418.</a>  </td>
 
     <td> Beer imported in bulk.  </td>
 

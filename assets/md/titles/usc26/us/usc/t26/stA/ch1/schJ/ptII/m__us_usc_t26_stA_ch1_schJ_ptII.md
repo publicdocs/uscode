@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 691.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs691" data-uslm-ref="/us/usc/t26/s691">691.</a>  </td>
 
     <td> Recipients of income in respect of decedents.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 692.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs692" data-uslm-ref="/us/usc/t26/s692">692.</a>  </td>
 
     <td> Income taxes of members of Armed Forces, astronauts, and victims of certain terrorist attacks on death.  </td>
 

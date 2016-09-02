@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1293.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1293" data-uslm-ref="/us/usc/t26/s1293">1293.</a>  </td>
 
     <td> Current taxation of income from qualified electing funds.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1294.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1294" data-uslm-ref="/us/usc/t26/s1294">1294.</a>  </td>
 
     <td> Election to extend time for payment of tax on undistributed earnings.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1295.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1295" data-uslm-ref="/us/usc/t26/s1295">1295.</a>  </td>
 
     <td> Qualified electing fund.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 741.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs741" data-uslm-ref="/us/usc/t26/s741">741.</a>  </td>
 
     <td> Recognition and character of gain or loss on sale or exchange.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 742.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs742" data-uslm-ref="/us/usc/t26/s742">742.</a>  </td>
 
     <td> Basis of transferee partner’s interest.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 743.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs743" data-uslm-ref="/us/usc/t26/s743">743.</a>  </td>
 
     <td> Special rules where section 754 election or substantial built-in loss.  </td>
 

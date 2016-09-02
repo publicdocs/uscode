@@ -333,9 +333,9 @@
 
 [Pub. L. 98–369, div. A, title X, § 1022(e)][/us/pl/98/369/s1022/e], July 18, 1984, [98 Stat. 1029][/us/stat/98/1029], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __Subsections__ 
+>     “(1) __Subsections (a), (b), and (c).—__ 
 
->         (a), (b), and (c).—The amendments made by subsections (a), (b), and (c) \[amending this section and sections 170 and 2522 of this title\] shall apply to reformations after December 31, 1978; except that such amendments shall not apply to any reformation to which section 2055(e)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect on the day before the date of the enactment of this Act \[July 18, 1984\]) applies. For purposes of applying clause (iii) of section 2055(e)(3)(C) of such Code (as amended by this section), the 90th day described in such clause shall be treated as not occurring before the 90th day after the date of the enactment of this Act.
+>     The amendments made by subsections (a), (b), and (c) \[amending this section and sections 170 and 2522 of this title\] shall apply to reformations after December 31, 1978; except that such amendments shall not apply to any reformation to which section 2055(e)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect on the day before the date of the enactment of this Act \[July 18, 1984\]) applies. For purposes of applying clause (iii) of section 2055(e)(3)(C) of such Code (as amended by this section), the 90th day described in such clause shall be treated as not occurring before the 90th day after the date of the enactment of this Act.
 
 >     “(2) __Subsection (d).—__ 
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 871.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs871" data-uslm-ref="/us/usc/t26/s871">871.</a>  </td>
 
     <td> Tax on nonresident alien individuals.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 872.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs872" data-uslm-ref="/us/usc/t26/s872">872.</a>  </td>
 
     <td> Gross income.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 873.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs873" data-uslm-ref="/us/usc/t26/s873">873.</a>  </td>
 
     <td> Deductions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 874.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs874" data-uslm-ref="/us/usc/t26/s874">874.</a>  </td>
 
     <td> Allowance of deductions and credits.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 875.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs875" data-uslm-ref="/us/usc/t26/s875">875.</a>  </td>
 
     <td> Partnerships; beneficiaries of estates and trusts.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 876.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs876" data-uslm-ref="/us/usc/t26/s876">876.</a>  </td>
 
     <td> Alien residents of Puerto Rico, Guam, American Samoa, or the Northern Mariana Islands.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 877.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs877" data-uslm-ref="/us/usc/t26/s877">877.</a>  </td>
 
     <td> Expatriation to avoid tax.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 877A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs877A" data-uslm-ref="/us/usc/t26/s877A">877A.</a>  </td>
 
     <td> Tax responsibilities of expatriation.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 878.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs878" data-uslm-ref="/us/usc/t26/s878">878.</a>  </td>
 
     <td> Foreign educational, charitable, and certain other exempt organizations.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 879.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs879" data-uslm-ref="/us/usc/t26/s879">879.</a>  </td>
 
     <td> Tax treatment of certain community income in the case of nonresident alien individuals.  </td>
 

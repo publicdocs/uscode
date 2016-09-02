@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs401" data-uslm-ref="/us/usc/t26/s401">401.</a>  </td>
 
     <td> Qualified pension, profit-sharing, and stock bonus plans.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs402" data-uslm-ref="/us/usc/t26/s402">402.</a>  </td>
 
     <td> Taxability of beneficiary of employees’ trust.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 402A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs402A" data-uslm-ref="/us/usc/t26/s402A">402A.</a>  </td>
 
     <td> Optional treatment of elective deferrals as Roth contributions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs403" data-uslm-ref="/us/usc/t26/s403">403.</a>  </td>
 
     <td> Taxation of employee annuities.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs404" data-uslm-ref="/us/usc/t26/s404">404.</a>  </td>
 
     <td> Deduction for contributions of an employer to an employees’ trust or annuity plan and compensation under a deferred-payment plan.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 404A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs404A" data-uslm-ref="/us/usc/t26/s404A">404A.</a>  </td>
 
     <td> Deduction for certain foreign deferred compensation plans.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [405.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs405" data-uslm-ref="/us/usc/t26/s405">405.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs406" data-uslm-ref="/us/usc/t26/s406">406.</a>  </td>
 
     <td> Employees of foreign affiliates covered by section 3121(l) agreements.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs407" data-uslm-ref="/us/usc/t26/s407">407.</a>  </td>
 
     <td> Certain employees of domestic subsidiaries engaged in business outside the United States.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs408" data-uslm-ref="/us/usc/t26/s408">408.</a>  </td>
 
     <td> Individual retirement accounts.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 408A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs408A" data-uslm-ref="/us/usc/t26/s408A">408A.</a>  </td>
 
     <td> Roth IRAs.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 409.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs409" data-uslm-ref="/us/usc/t26/s409">409.</a>  </td>
 
     <td> Qualifications for tax credit employee stock ownership plans.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 409A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs409A" data-uslm-ref="/us/usc/t26/s409A">409A.</a>  </td>
 
     <td> Inclusion in gross income of deferred compensation under nonqualified deferred compensation plans.  </td>
 

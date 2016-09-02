@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1501" data-uslm-ref="/us/usc/t26/s1501">1501.</a>  </td>
 
     <td> Privilege to file consolidated returns.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1502" data-uslm-ref="/us/usc/t26/s1502">1502.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1503" data-uslm-ref="/us/usc/t26/s1503">1503.</a>  </td>
 
     <td> Computation and payment of tax.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1504" data-uslm-ref="/us/usc/t26/s1504">1504.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1505" data-uslm-ref="/us/usc/t26/s1505">1505.</a>  </td>
 
     <td> Cross references.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2001" data-uslm-ref="/us/usc/t26/s2001">2001.</a>  </td>
 
     <td> Imposition and rate of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2002" data-uslm-ref="/us/usc/t26/s2002">2002.</a>  </td>
 
     <td> Liability for payment.  </td>
 

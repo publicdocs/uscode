@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 995.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs995" data-uslm-ref="/us/usc/t26/s995">995.</a>  </td>
 
     <td> Taxation of DISC income to shareholders.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 996.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs996" data-uslm-ref="/us/usc/t26/s996">996.</a>  </td>
 
     <td> Rules for allocation in the case of distributions and losses.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 997.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs997" data-uslm-ref="/us/usc/t26/s997">997.</a>  </td>
 
     <td> Special subchapter C rules.  </td>
 

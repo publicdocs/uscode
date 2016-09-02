@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5661.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5661" data-uslm-ref="/us/usc/t26/s5661">5661.</a>  </td>
 
     <td> Penalty and forfeiture for violation of laws and regulations relating to wine.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5662.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5662" data-uslm-ref="/us/usc/t26/s5662">5662.</a>  </td>
 
     <td> Penalty for alteration of wine labels.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5663.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5663" data-uslm-ref="/us/usc/t26/s5663">5663.</a>  </td>
 
     <td> Cross reference.  </td>
 

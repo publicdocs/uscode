@@ -29,47 +29,47 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch64%2FschA" data-uslm-ref="/us/usc/t26/stF/ch64/schA">A.</a>  </td>
 
     <td> General provisions  </td>
 
-    <td> 6301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6301" data-uslm-ref="/us/usc/t26/s6301">6301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch64%2FschB" data-uslm-ref="/us/usc/t26/stF/ch64/schB">B.</a>  </td>
 
     <td> Receipt of payment  </td>
 
-    <td> 6311  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6311" data-uslm-ref="/us/usc/t26/s6311">6311</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch64%2FschC" data-uslm-ref="/us/usc/t26/stF/ch64/schC">C.</a>  </td>
 
     <td> Lien for taxes  </td>
 
-    <td> 6321  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6321" data-uslm-ref="/us/usc/t26/s6321">6321</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch64%2FschD" data-uslm-ref="/us/usc/t26/stF/ch64/schD">D.</a>  </td>
 
     <td> Seizure of property for collection of taxes  </td>
 
-    <td> 6331  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6331" data-uslm-ref="/us/usc/t26/s6331">6331</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [E.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch64%2FschE" data-uslm-ref="/us/usc/t26/stF/ch64/schE">E.</a>  </td>
 
     <td> Repealed.]  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptII%2FsptA" data-uslm-ref="/us/usc/t26/stA/ch1/schN/ptII/sptA">A.</a>  </td>
 
     <td> Nonresident alien individuals.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptII%2FsptB" data-uslm-ref="/us/usc/t26/stA/ch1/schN/ptII/sptB">B.</a>  </td>
 
     <td> Foreign corporations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptII%2FsptC" data-uslm-ref="/us/usc/t26/stA/ch1/schN/ptII/sptC">C.</a>  </td>
 
     <td> Tax on gross transportation income.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptII%2FsptD" data-uslm-ref="/us/usc/t26/stA/ch1/schN/ptII/sptD">D.</a>  </td>
 
     <td> Miscellaneous provisions.  </td>
 

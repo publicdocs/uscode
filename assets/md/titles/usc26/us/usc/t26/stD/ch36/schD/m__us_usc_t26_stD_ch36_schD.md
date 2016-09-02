@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4481" data-uslm-ref="/us/usc/t26/s4481">4481.</a>  </td>
 
     <td> Imposition of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4482.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4482" data-uslm-ref="/us/usc/t26/s4482">4482.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4483.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4483" data-uslm-ref="/us/usc/t26/s4483">4483.</a>  </td>
 
     <td> Exemptions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4484.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4484" data-uslm-ref="/us/usc/t26/s4484">4484.</a>  </td>
 
     <td> Cross references.  </td>
 

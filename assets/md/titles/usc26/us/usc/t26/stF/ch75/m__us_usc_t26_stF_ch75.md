@@ -29,41 +29,41 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch75%2FschA" data-uslm-ref="/us/usc/t26/stF/ch75/schA">A.</a>  </td>
 
     <td> Crimes  </td>
 
-    <td> 7201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7201" data-uslm-ref="/us/usc/t26/s7201">7201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch75%2FschB" data-uslm-ref="/us/usc/t26/stF/ch75/schB">B.</a>  </td>
 
     <td> Other offenses  </td>
 
-    <td> 7261  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7261" data-uslm-ref="/us/usc/t26/s7261">7261</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch75%2FschC" data-uslm-ref="/us/usc/t26/stF/ch75/schC">C.</a>  </td>
 
     <td> Forfeitures  </td>
 
-    <td> 7301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7301" data-uslm-ref="/us/usc/t26/s7301">7301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch75%2FschD" data-uslm-ref="/us/usc/t26/stF/ch75/schD">D.</a>  </td>
 
     <td> Miscellaneous penalty and forfeiture provisions  </td>
 
-    <td> 7341  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7341" data-uslm-ref="/us/usc/t26/s7341">7341</a>  </td>
 
   </tr>
 

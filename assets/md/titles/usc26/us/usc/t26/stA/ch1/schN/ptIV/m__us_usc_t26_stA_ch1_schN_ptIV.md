@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIV%2FsptA" data-uslm-ref="/us/usc/t26/stA/ch1/schN/ptIV/sptA">A.</a>  </td>
 
     <td> Treatment of qualifying corporations  </td>
 
-    <td> 991  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs991" data-uslm-ref="/us/usc/t26/s991">991</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIV%2FsptB" data-uslm-ref="/us/usc/t26/stA/ch1/schN/ptIV/sptB">B.</a>  </td>
 
     <td> Treatment of distributions to shareholders  </td>
 
-    <td> 995  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs995" data-uslm-ref="/us/usc/t26/s995">995</a>  </td>
 
   </tr>
 

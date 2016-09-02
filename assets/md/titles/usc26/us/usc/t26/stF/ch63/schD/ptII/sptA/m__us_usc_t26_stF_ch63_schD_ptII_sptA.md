@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6245.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6245" data-uslm-ref="/us/usc/t26/s6245">6245.</a>  </td>
 
     <td> Secretarial authority.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6246.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6246" data-uslm-ref="/us/usc/t26/s6246">6246.</a>  </td>
 
     <td> Restrictions on partnership adjustments.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6247.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6247" data-uslm-ref="/us/usc/t26/s6247">6247.</a>  </td>
 
     <td> Judicial review of partnership adjustment.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6248.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6248" data-uslm-ref="/us/usc/t26/s6248">6248.</a>  </td>
 
     <td> Period of limitations for making adjustments.  </td>
 

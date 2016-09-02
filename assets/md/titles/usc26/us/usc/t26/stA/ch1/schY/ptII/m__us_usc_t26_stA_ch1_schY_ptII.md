@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1400M.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400M" data-uslm-ref="/us/usc/t26/s1400M">1400M.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1400N.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400N" data-uslm-ref="/us/usc/t26/s1400N">1400N.</a>  </td>
 
     <td> Tax benefits for Gulf Opportunity Zone.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1400O.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400O" data-uslm-ref="/us/usc/t26/s1400O">1400O.</a>  </td>
 
     <td> Education tax benefits.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1400P.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400P" data-uslm-ref="/us/usc/t26/s1400P">1400P.</a>  </td>
 
     <td> Housing tax benefits.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1400Q.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400Q" data-uslm-ref="/us/usc/t26/s1400Q">1400Q.</a>  </td>
 
     <td> Special rules for use of retirement funds.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1400R.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400R" data-uslm-ref="/us/usc/t26/s1400R">1400R.</a>  </td>
 
     <td> Employment relief.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1400S.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400S" data-uslm-ref="/us/usc/t26/s1400S">1400S.</a>  </td>
 
     <td> Additional tax relief provisions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1400T.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400T" data-uslm-ref="/us/usc/t26/s1400T">1400T.</a>  </td>
 
     <td> Special rules for mortgage revenue bonds.  </td>
 

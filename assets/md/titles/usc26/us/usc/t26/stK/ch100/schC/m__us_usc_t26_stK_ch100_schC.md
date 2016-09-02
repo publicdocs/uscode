@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9831.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9831" data-uslm-ref="/us/usc/t26/s9831">9831.</a>  </td>
 
     <td> General exceptions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9832.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9832" data-uslm-ref="/us/usc/t26/s9832">9832.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9833.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9833" data-uslm-ref="/us/usc/t26/s9833">9833.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9834.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9834" data-uslm-ref="/us/usc/t26/s9834">9834.</a>  </td>
 
     <td> Enforcement.  </td>
 

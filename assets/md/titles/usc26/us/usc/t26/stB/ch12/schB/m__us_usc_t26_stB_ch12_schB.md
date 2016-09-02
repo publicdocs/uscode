@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2511" data-uslm-ref="/us/usc/t26/s2511">2511.</a>  </td>
 
     <td> Transfers in general.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2512" data-uslm-ref="/us/usc/t26/s2512">2512.</a>  </td>
 
     <td> Valuation of gifts.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2513" data-uslm-ref="/us/usc/t26/s2513">2513.</a>  </td>
 
     <td> Gift by husband or wife to third party.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2514" data-uslm-ref="/us/usc/t26/s2514">2514.</a>  </td>
 
     <td> Powers of appointment.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2515" data-uslm-ref="/us/usc/t26/s2515">2515.</a>  </td>
 
     <td> Treatment of generation-skipping transfer tax.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [2515A.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2515A" data-uslm-ref="/us/usc/t26/s2515A">2515A.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2516" data-uslm-ref="/us/usc/t26/s2516">2516.</a>  </td>
 
     <td> Certain property settlements.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> [2517.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2517" data-uslm-ref="/us/usc/t26/s2517">2517.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2518.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2518" data-uslm-ref="/us/usc/t26/s2518">2518.</a>  </td>
 
     <td> Disclaimers.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2519.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2519" data-uslm-ref="/us/usc/t26/s2519">2519.</a>  </td>
 
     <td> Dispositions of certain life estates.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7231" data-uslm-ref="/us/usc/t26/s7231">7231.</a>  </td>
 
     <td> Failure to obtain license for collection of foreign items.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7232" data-uslm-ref="/us/usc/t26/s7232">7232.</a>  </td>
 
     <td> Failure to register or reregister under section 4101, false representations of registration status, etc.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [7233 to 7241.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7233" data-uslm-ref="/us/usc/t26/s7233">7233</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7241" data-uslm-ref="/us/usc/t26/s7241">7241.</a>  </td>
 
     <td> Repealed.]  </td>
 

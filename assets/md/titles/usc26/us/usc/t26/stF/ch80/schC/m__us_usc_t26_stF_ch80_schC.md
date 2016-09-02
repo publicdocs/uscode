@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7871.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7871" data-uslm-ref="/us/usc/t26/s7871">7871.</a>  </td>
 
     <td> Indian tribal governments treated as States for certain purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7872.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7872" data-uslm-ref="/us/usc/t26/s7872">7872.</a>  </td>
 
     <td> Treatment of loans with below-market interest rates.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7873.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7873" data-uslm-ref="/us/usc/t26/s7873">7873.</a>  </td>
 
     <td> Income derived by Indians from exercise of fishing rights.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7874.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7874" data-uslm-ref="/us/usc/t26/s7874">7874.</a>  </td>
 
     <td> Rules relating to expatriated entities and their foreign parents.  </td>
 

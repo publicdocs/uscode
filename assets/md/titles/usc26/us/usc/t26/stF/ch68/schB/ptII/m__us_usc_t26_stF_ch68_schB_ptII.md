@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6721" data-uslm-ref="/us/usc/t26/s6721">6721.</a>  </td>
 
     <td> Failure to file correct information returns.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6722" data-uslm-ref="/us/usc/t26/s6722">6722.</a>  </td>
 
     <td> Failure to furnish correct payee statements.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6723.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6723" data-uslm-ref="/us/usc/t26/s6723">6723.</a>  </td>
 
     <td> Failure to comply with other information reporting requirements.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6724.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6724" data-uslm-ref="/us/usc/t26/s6724">6724.</a>  </td>
 
     <td> Waiver; definitions and special rules.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6725.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6725" data-uslm-ref="/us/usc/t26/s6725">6725.</a>  </td>
 
     <td> Failure to report information under section 4101.  </td>
 

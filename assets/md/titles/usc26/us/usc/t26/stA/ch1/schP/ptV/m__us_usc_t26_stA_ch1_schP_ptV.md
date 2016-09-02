@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschP%2FptV%2FsptA" data-uslm-ref="/us/usc/t26/stA/ch1/schP/ptV/sptA">A.</a>  </td>
 
     <td> Original issue discount.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschP%2FptV%2FsptB" data-uslm-ref="/us/usc/t26/stA/ch1/schP/ptV/sptB">B.</a>  </td>
 
     <td> Market discount on bonds.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschP%2FptV%2FsptC" data-uslm-ref="/us/usc/t26/stA/ch1/schP/ptV/sptC">C.</a>  </td>
 
     <td> Discount on short-term obligations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschP%2FptV%2FsptD" data-uslm-ref="/us/usc/t26/stA/ch1/schP/ptV/sptD">D.</a>  </td>
 
     <td> Miscellaneous provisions.  </td>
 

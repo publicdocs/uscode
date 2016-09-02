@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5361" data-uslm-ref="/us/usc/t26/s5361">5361.</a>  </td>
 
     <td> Bonded wine cellar operations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5362" data-uslm-ref="/us/usc/t26/s5362">5362.</a>  </td>
 
     <td> Removals of wine from bonded wine cellars.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5363" data-uslm-ref="/us/usc/t26/s5363">5363.</a>  </td>
 
     <td> Taxpaid wine bottling house operations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5364.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5364" data-uslm-ref="/us/usc/t26/s5364">5364.</a>  </td>
 
     <td> Wine imported in bulk.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5365.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5365" data-uslm-ref="/us/usc/t26/s5365">5365.</a>  </td>
 
     <td> Segregation of operations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5366.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5366" data-uslm-ref="/us/usc/t26/s5366">5366.</a>  </td>
 
     <td> Supervision.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5367.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5367" data-uslm-ref="/us/usc/t26/s5367">5367.</a>  </td>
 
     <td> Records.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5368.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5368" data-uslm-ref="/us/usc/t26/s5368">5368.</a>  </td>
 
     <td> Gauging and marking.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5369.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5369" data-uslm-ref="/us/usc/t26/s5369">5369.</a>  </td>
 
     <td> Inventories.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 5370.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5370" data-uslm-ref="/us/usc/t26/s5370">5370.</a>  </td>
 
     <td> Losses.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 5371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5371" data-uslm-ref="/us/usc/t26/s5371">5371.</a>  </td>
 
     <td> Insurance coverage, etc.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 5372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5372" data-uslm-ref="/us/usc/t26/s5372">5372.</a>  </td>
 
     <td> Sampling.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 5373.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5373" data-uslm-ref="/us/usc/t26/s5373">5373.</a>  </td>
 
     <td> Wine spirits.  </td>
 

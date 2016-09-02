@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61%2FschA" data-uslm-ref="/us/usc/t26/stF/ch61/schA">A.</a>  </td>
 
     <td> Returns and records  </td>
 
-    <td> 6001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6001" data-uslm-ref="/us/usc/t26/s6001">6001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61%2FschB" data-uslm-ref="/us/usc/t26/stF/ch61/schB">B.</a>  </td>
 
     <td> Miscellaneous provisions  </td>
 
-    <td> 6101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6101" data-uslm-ref="/us/usc/t26/s6101">6101</a>  </td>
 
   </tr>
 

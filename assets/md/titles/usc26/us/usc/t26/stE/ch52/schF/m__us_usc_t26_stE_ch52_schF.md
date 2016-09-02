@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5751.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5751" data-uslm-ref="/us/usc/t26/s5751">5751.</a>  </td>
 
     <td> Purchase, receipt, possession, or sale of tobacco products and cigarette papers and tubes, after removal.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5752.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5752" data-uslm-ref="/us/usc/t26/s5752">5752.</a>  </td>
 
     <td> Restrictions relating to marks, labels, notices, and packages.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5753.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5753" data-uslm-ref="/us/usc/t26/s5753">5753.</a>  </td>
 
     <td> Disposal of forfeited, condemned, and abandoned tobacco products, and cigarette papers and tubes.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5754.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5754" data-uslm-ref="/us/usc/t26/s5754">5754.</a>  </td>
 
     <td> Restriction on importation of previously exported tobacco products.  </td>
 

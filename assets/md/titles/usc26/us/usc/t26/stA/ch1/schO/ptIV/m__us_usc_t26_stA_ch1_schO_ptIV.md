@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1051.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1051" data-uslm-ref="/us/usc/t26/s1051">1051.</a>  </td>
 
     <td> Property acquired during affiliation.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1052.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1052" data-uslm-ref="/us/usc/t26/s1052">1052.</a>  </td>
 
     <td> Basis established by the Revenue Act of 1932 or 1934 or by the Internal Revenue Code of 1939.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1053.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1053" data-uslm-ref="/us/usc/t26/s1053">1053.</a>  </td>
 
     <td> Property acquired before March 1, 1913.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1054.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1054" data-uslm-ref="/us/usc/t26/s1054">1054.</a>  </td>
 
     <td> Certain stock of Federal National Mortgage Association.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1055.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1055" data-uslm-ref="/us/usc/t26/s1055">1055.</a>  </td>
 
     <td> Redeemable ground rents.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [1056, 1057.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1056" data-uslm-ref="/us/usc/t26/s1056">1056</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1057" data-uslm-ref="/us/usc/t26/s1057">1057.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1058.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1058" data-uslm-ref="/us/usc/t26/s1058">1058.</a>  </td>
 
     <td> Transfers of securities under certain agreements.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1059.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1059" data-uslm-ref="/us/usc/t26/s1059">1059.</a>  </td>
 
     <td> Corporate shareholder’s basis in stock reduced by nontaxed portion of extraordinary dividends.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1059A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1059A" data-uslm-ref="/us/usc/t26/s1059A">1059A.</a>  </td>
 
     <td> Limitation on taxpayer’s basis or inventory cost in property imported from related persons.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1060.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1060" data-uslm-ref="/us/usc/t26/s1060">1060.</a>  </td>
 
     <td> Special allocation rules for certain asset acquisitions.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1061.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1061" data-uslm-ref="/us/usc/t26/s1061">1061.</a>  </td>
 
     <td> Cross references.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1361" data-uslm-ref="/us/usc/t26/s1361">1361.</a>  </td>
 
     <td> S corporation defined.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1362" data-uslm-ref="/us/usc/t26/s1362">1362.</a>  </td>
 
     <td> Election; revocation; termination.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1363" data-uslm-ref="/us/usc/t26/s1363">1363.</a>  </td>
 
     <td> Effect of election on corporation.  </td>
 

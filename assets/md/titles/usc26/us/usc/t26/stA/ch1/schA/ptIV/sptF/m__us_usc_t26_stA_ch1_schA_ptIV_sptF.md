@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 51.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs51" data-uslm-ref="/us/usc/t26/s51">51.</a>  </td>
 
     <td> Amount of credit.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [51A.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs51A" data-uslm-ref="/us/usc/t26/s51A">51A.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 52.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs52" data-uslm-ref="/us/usc/t26/s52">52.</a>  </td>
 
     <td> Special rules.  </td>
 

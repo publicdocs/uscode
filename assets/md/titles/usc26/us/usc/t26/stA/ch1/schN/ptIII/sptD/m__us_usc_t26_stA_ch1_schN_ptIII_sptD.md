@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 931.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs931" data-uslm-ref="/us/usc/t26/s931">931.</a>  </td>
 
     <td> Income from sources within Guam, American Samoa, or the Northern Mariana Islands.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 932.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs932" data-uslm-ref="/us/usc/t26/s932">932.</a>  </td>
 
     <td> Coordination of United States and Virgin Islands income taxes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 933.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs933" data-uslm-ref="/us/usc/t26/s933">933.</a>  </td>
 
     <td> Income from sources within Puerto Rico.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 934.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs934" data-uslm-ref="/us/usc/t26/s934">934.</a>  </td>
 
     <td> Limitation on reduction in income tax liability incurred to the Virgin Islands.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [934A, 935.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs934A" data-uslm-ref="/us/usc/t26/s934A">934A</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs935" data-uslm-ref="/us/usc/t26/s935">935.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 936.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs936" data-uslm-ref="/us/usc/t26/s936">936.</a>  </td>
 
     <td> Puerto Rico and possession tax credit. <sup>[1]</sup>  <sup><sup> 1 Editorially supplied. Section 936 added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F94%2F455" data-uslm-ref="/us/pl/94/455">Pub. L. 94–455</a> without corresponding amendment of subpart analysis. </sup></sup>   </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 937.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs937" data-uslm-ref="/us/usc/t26/s937">937.</a>  </td>
 
     <td> Residence and source rules involving possessions.  </td>
 

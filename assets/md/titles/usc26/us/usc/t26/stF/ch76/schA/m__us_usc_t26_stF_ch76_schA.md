@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7401" data-uslm-ref="/us/usc/t26/s7401">7401.</a>  </td>
 
     <td> Authorization.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7402" data-uslm-ref="/us/usc/t26/s7402">7402.</a>  </td>
 
     <td> Jurisdiction of district courts.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7403" data-uslm-ref="/us/usc/t26/s7403">7403.</a>  </td>
 
     <td> Action to enforce lien or to subject property to payment of tax.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7404" data-uslm-ref="/us/usc/t26/s7404">7404.</a>  </td>
 
     <td> Authority to bring civil action for estate taxes.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7405" data-uslm-ref="/us/usc/t26/s7405">7405.</a>  </td>
 
     <td> Action for recovery of erroneous refunds.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7406" data-uslm-ref="/us/usc/t26/s7406">7406.</a>  </td>
 
     <td> Disposition of judgments and moneys recovered.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7407" data-uslm-ref="/us/usc/t26/s7407">7407.</a>  </td>
 
     <td> Action to enjoin tax return preparers.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7408" data-uslm-ref="/us/usc/t26/s7408">7408.</a>  </td>
 
     <td> Actions to enjoin specified conduct related to tax shelters and reportable transactions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 7409.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7409" data-uslm-ref="/us/usc/t26/s7409">7409.</a>  </td>
 
     <td> Action to enjoin flagrant political expenditures of section 501(c)(3) organizations.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 7410.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7410" data-uslm-ref="/us/usc/t26/s7410">7410.</a>  </td>
 
     <td> Cross references.  </td>
 

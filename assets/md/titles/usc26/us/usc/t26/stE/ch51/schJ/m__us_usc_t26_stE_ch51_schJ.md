@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschJ%2FptI" data-uslm-ref="/us/usc/t26/stE/ch51/schJ/ptI">I.</a>  </td>
 
     <td> Penalty, seizure, and forfeiture provisions applicable to distilling, rectifying, and distilled and rectified products.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschJ%2FptII" data-uslm-ref="/us/usc/t26/stE/ch51/schJ/ptII">II.</a>  </td>
 
     <td> Penalty and forfeiture provisions applicable to wine and wine production.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschJ%2FptIII" data-uslm-ref="/us/usc/t26/stE/ch51/schJ/ptIII">III.</a>  </td>
 
     <td> Penalty, seizure, and forfeiture provisions applicable to beer and brewing.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschJ%2FptIV" data-uslm-ref="/us/usc/t26/stE/ch51/schJ/ptIV">IV.</a>  </td>
 
     <td> Penalty, seizure, and forfeiture provisions common to liquors.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [V.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschJ%2FptV" data-uslm-ref="/us/usc/t26/stE/ch51/schJ/ptV">V.</a>  </td>
 
     <td> Repealed.]  </td>
 

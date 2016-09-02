@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch6%2FschA" data-uslm-ref="/us/usc/t26/stA/ch6/schA">A.</a>  </td>
 
     <td> Returns and Payment of Tax  </td>
 
-    <td> 1501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1501" data-uslm-ref="/us/usc/t26/s1501">1501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch6%2FschB" data-uslm-ref="/us/usc/t26/stA/ch6/schB">B.</a>  </td>
 
     <td> Related Rules  </td>
 
-    <td> 1551  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1551" data-uslm-ref="/us/usc/t26/s1551">1551</a>  </td>
 
   </tr>
 

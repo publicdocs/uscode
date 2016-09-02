@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4421" data-uslm-ref="/us/usc/t26/s4421">4421.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4422" data-uslm-ref="/us/usc/t26/s4422">4422.</a>  </td>
 
     <td> Applicability of Federal and State laws.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4423" data-uslm-ref="/us/usc/t26/s4423">4423.</a>  </td>
 
     <td> Inspection of books.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4424" data-uslm-ref="/us/usc/t26/s4424">4424.</a>  </td>
 
     <td> Disclosure of wagering tax information.  </td>
 

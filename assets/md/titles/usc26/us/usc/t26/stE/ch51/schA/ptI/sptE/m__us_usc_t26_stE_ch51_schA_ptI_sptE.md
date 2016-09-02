@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5061.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5061" data-uslm-ref="/us/usc/t26/s5061">5061.</a>  </td>
 
     <td> Method of collecting tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5062.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5062" data-uslm-ref="/us/usc/t26/s5062">5062.</a>  </td>
 
     <td> Refund and drawback in case of exportation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [5063.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5063" data-uslm-ref="/us/usc/t26/s5063">5063.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5064.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5064" data-uslm-ref="/us/usc/t26/s5064">5064.</a>  </td>
 
     <td> Losses resulting from disaster, vandalism, or malicious mischief.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5065.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5065" data-uslm-ref="/us/usc/t26/s5065">5065.</a>  </td>
 
     <td> Territorial extent of law.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5066.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5066" data-uslm-ref="/us/usc/t26/s5066">5066.</a>  </td>
 
     <td> Distilled spirits for use of foreign embassies, legations, etc.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5067.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5067" data-uslm-ref="/us/usc/t26/s5067">5067.</a>  </td>
 
     <td> Cross reference.  </td>
 

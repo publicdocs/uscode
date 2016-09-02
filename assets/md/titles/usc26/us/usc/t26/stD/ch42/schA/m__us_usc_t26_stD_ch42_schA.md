@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4940.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4940" data-uslm-ref="/us/usc/t26/s4940">4940.</a>  </td>
 
     <td> Excise tax based on investment income.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4941.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4941" data-uslm-ref="/us/usc/t26/s4941">4941.</a>  </td>
 
     <td> Taxes on self-dealing.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4942.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4942" data-uslm-ref="/us/usc/t26/s4942">4942.</a>  </td>
 
     <td> Taxes on failure to distribute income.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4943.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4943" data-uslm-ref="/us/usc/t26/s4943">4943.</a>  </td>
 
     <td> Taxes on excess business holdings.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4944.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4944" data-uslm-ref="/us/usc/t26/s4944">4944.</a>  </td>
 
     <td> Taxes on investments which jeopardize charitable purpose.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4945.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4945" data-uslm-ref="/us/usc/t26/s4945">4945.</a>  </td>
 
     <td> Taxes on taxable expenditures.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4946.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4946" data-uslm-ref="/us/usc/t26/s4946">4946.</a>  </td>
 
     <td> Definitions and special rules.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4947.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4947" data-uslm-ref="/us/usc/t26/s4947">4947.</a>  </td>
 
     <td> Application of taxes to certain nonexempt trusts.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 4948.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4948" data-uslm-ref="/us/usc/t26/s4948">4948.</a>  </td>
 
     <td> Application of taxes and denial of exemption with respect to certain foreign organizations.  </td>
 

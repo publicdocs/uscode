@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9704" data-uslm-ref="/us/usc/t26/s9704">9704.</a>  </td>
 
     <td> Liability of assigned operators.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9705" data-uslm-ref="/us/usc/t26/s9705">9705.</a>  </td>
 
     <td> Transfers.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9706" data-uslm-ref="/us/usc/t26/s9706">9706.</a>  </td>
 
     <td> Assignment of eligible beneficiaries.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs316" data-uslm-ref="/us/usc/t26/s316">316.</a>  </td>
 
     <td> Dividend defined.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs317" data-uslm-ref="/us/usc/t26/s317">317.</a>  </td>
 
     <td> Other definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs318" data-uslm-ref="/us/usc/t26/s318">318.</a>  </td>
 
     <td> Constructive ownership of stock.  </td>
 

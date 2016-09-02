@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 354.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs354" data-uslm-ref="/us/usc/t26/s354">354.</a>  </td>
 
     <td> Exchanges of stock and securities in certain reorganizations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 355.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs355" data-uslm-ref="/us/usc/t26/s355">355.</a>  </td>
 
     <td> Distribution of stock and securities of a controlled corporation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 356.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs356" data-uslm-ref="/us/usc/t26/s356">356.</a>  </td>
 
     <td> Receipt of additional consideration.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 357.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs357" data-uslm-ref="/us/usc/t26/s357">357.</a>  </td>
 
     <td> Assumption of liability.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 358.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs358" data-uslm-ref="/us/usc/t26/s358">358.</a>  </td>
 
     <td> Basis to distributees.  </td>
 

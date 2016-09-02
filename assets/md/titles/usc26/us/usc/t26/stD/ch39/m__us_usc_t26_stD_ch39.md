@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4701" data-uslm-ref="/us/usc/t26/s4701">4701.</a>  </td>
 
     <td> Tax on issuer of registration-required obligation not in registered form.  </td>
 

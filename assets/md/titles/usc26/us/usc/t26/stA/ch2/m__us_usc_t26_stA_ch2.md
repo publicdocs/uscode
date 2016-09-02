@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1401" data-uslm-ref="/us/usc/t26/s1401">1401.</a>  </td>
 
     <td> Rate of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1402" data-uslm-ref="/us/usc/t26/s1402">1402.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1403" data-uslm-ref="/us/usc/t26/s1403">1403.</a>  </td>
 
     <td> Miscellaneous provisions.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4371" data-uslm-ref="/us/usc/t26/s4371">4371.</a>  </td>
 
     <td> Imposition of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4372" data-uslm-ref="/us/usc/t26/s4372">4372.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4373.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4373" data-uslm-ref="/us/usc/t26/s4373">4373.</a>  </td>
 
     <td> Exemptions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4374.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4374" data-uslm-ref="/us/usc/t26/s4374">4374.</a>  </td>
 
     <td> Liability for tax.  </td>
 

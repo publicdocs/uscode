@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1388.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1388" data-uslm-ref="/us/usc/t26/s1388">1388.</a>  </td>
 
     <td> Definitions; special rules.  </td>
 

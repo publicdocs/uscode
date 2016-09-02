@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch34%2FschA" data-uslm-ref="/us/usc/t26/stD/ch34/schA">A.</a>  </td>
 
     <td> Policies issued by foreign insurers  </td>
 
-    <td> 4371  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4371" data-uslm-ref="/us/usc/t26/s4371">4371</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch34%2FschB" data-uslm-ref="/us/usc/t26/stD/ch34/schB">B.</a>  </td>
 
     <td> Insured and self-insured health plans  </td>
 
-    <td> 4375  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4375" data-uslm-ref="/us/usc/t26/s4375">4375</a>  </td>
 
   </tr>
 

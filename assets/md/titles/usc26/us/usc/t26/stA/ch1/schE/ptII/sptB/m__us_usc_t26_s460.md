@@ -555,21 +555,19 @@
 
 [Pub. L. 100–647, title V, § 5041(e)][/us/pl/100/647/s5041/e], Nov. 10, 1988, [102 Stat. 3675][/us/stat/102/3675], as amended by [Pub. L. 101–239, title VII, § 7815(e)(3)][/us/pl/101/239/s7815/e/3], Dec. 19, 1989, [103 Stat. 2419][/us/stat/103/2419], provided that:
 
->     “(1) __Subsections__ 
+>     “(1) __Subsections (a), (b), and (c).—__ 
 
->         (a), (b), and (c).—
+>         “(A) __In general.—__ 
 
->     “(A) __In general.—__ 
+>         Except as otherwise provided in this paragraph, the amendments made by subsections (a), (b), and (c) \[amending this section and [section 56 of this title][/us/usc/t26/s56]\] shall apply to contracts entered into on or after June 21, 1988.
 
->     Except as otherwise provided in this paragraph, the amendments made by subsections (a), (b), and (c) \[amending this section and [section 56 of this title][/us/usc/t26/s56]\] shall apply to contracts entered into on or after June 21, 1988.
+>         “(B) __Binding bids.—__ 
 
->     “(B) __Binding bids.—__ 
+>         The amendments made by subsections (a), (b), and (c) shall not apply to any contract resulting from the acceptance of a bid made before June 21, 1988. The preceding sentence shall apply only if the bid could not have been revoked or altered at any time on or after June 21, 1988.
 
->     The amendments made by subsections (a), (b), and (c) shall not apply to any contract resulting from the acceptance of a bid made before June 21, 1988. The preceding sentence shall apply only if the bid could not have been revoked or altered at any time on or after June 21, 1988.
+>         “(C) __Special rule for certain ship contracts.—__ 
 
->     “(C) __Special rule for certain ship contracts.—__ 
-
->     The amendments made by subsections (a) and (b) \[amending this section and [section 56 of this title][/us/usc/t26/s56]\] shall not apply in the case of a qualified ship contract (as defined in section 10203(b)(2)(B) of the Revenue Act of 1987 \[[Pub. L. 100–203][/us/pl/100/203], set out below\]).
+>         The amendments made by subsections (a) and (b) \[amending this section and [section 56 of this title][/us/usc/t26/s56]\] shall not apply in the case of a qualified ship contract (as defined in section 10203(b)(2)(B) of the Revenue Act of 1987 \[[Pub. L. 100–203][/us/pl/100/203], set out below\]).
 
 >     “(2) __Subsection (d).—__ 
 

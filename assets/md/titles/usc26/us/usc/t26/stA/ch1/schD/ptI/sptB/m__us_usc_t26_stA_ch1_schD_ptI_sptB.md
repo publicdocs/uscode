@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 410.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs410" data-uslm-ref="/us/usc/t26/s410">410.</a>  </td>
 
     <td> Minimum participation standards.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs411" data-uslm-ref="/us/usc/t26/s411">411.</a>  </td>
 
     <td> Minimum vesting standards.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs412" data-uslm-ref="/us/usc/t26/s412">412.</a>  </td>
 
     <td> Minimum funding standards.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs413" data-uslm-ref="/us/usc/t26/s413">413.</a>  </td>
 
     <td> Collectively bargained plans. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs414" data-uslm-ref="/us/usc/t26/s414">414.</a>  </td>
 
     <td> Definitions and special rules.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs415" data-uslm-ref="/us/usc/t26/s415">415.</a>  </td>
 
     <td> Limitations on benefits and contribution under qualified plans.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 416.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs416" data-uslm-ref="/us/usc/t26/s416">416.</a>  </td>
 
     <td> Special rules for top-heavy plans.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 417.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs417" data-uslm-ref="/us/usc/t26/s417">417.</a>  </td>
 
     <td> Definitions and special rules for purposes of minimum survivor annuity requirements.  </td>
 

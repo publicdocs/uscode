@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1311" data-uslm-ref="/us/usc/t26/s1311">1311.</a>  </td>
 
     <td> Correction of error.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1312" data-uslm-ref="/us/usc/t26/s1312">1312.</a>  </td>
 
     <td> Circumstances of adjustment.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1313" data-uslm-ref="/us/usc/t26/s1313">1313.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1314" data-uslm-ref="/us/usc/t26/s1314">1314.</a>  </td>
 
     <td> Amount and method of adjustment.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [1315.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1315" data-uslm-ref="/us/usc/t26/s1315">1315.</a>  </td>
 
     <td> Repealed.]  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 671.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs671" data-uslm-ref="/us/usc/t26/s671">671.</a>  </td>
 
     <td> Trust income, deductions, and credits attributable to grantors and others as substantial owners.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 672.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs672" data-uslm-ref="/us/usc/t26/s672">672.</a>  </td>
 
     <td> Definitions and rules.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 673.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs673" data-uslm-ref="/us/usc/t26/s673">673.</a>  </td>
 
     <td> Reversionary interests.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 674.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs674" data-uslm-ref="/us/usc/t26/s674">674.</a>  </td>
 
     <td> Power to control beneficial enjoyment.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 675.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs675" data-uslm-ref="/us/usc/t26/s675">675.</a>  </td>
 
     <td> Administrative powers.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 676.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs676" data-uslm-ref="/us/usc/t26/s676">676.</a>  </td>
 
     <td> Power to revoke.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 677.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs677" data-uslm-ref="/us/usc/t26/s677">677.</a>  </td>
 
     <td> Income for benefit of grantor.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 678.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs678" data-uslm-ref="/us/usc/t26/s678">678.</a>  </td>
 
     <td> Person other than grantor treated as substantial owner.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 679.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs679" data-uslm-ref="/us/usc/t26/s679">679.</a>  </td>
 
     <td> Foreign trusts having one or more United States beneficiaries.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5000A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5000A" data-uslm-ref="/us/usc/t26/s5000A">5000A.</a>  </td>
 
     <td> Requirement to maintain minimum essential coverage.  </td>
 

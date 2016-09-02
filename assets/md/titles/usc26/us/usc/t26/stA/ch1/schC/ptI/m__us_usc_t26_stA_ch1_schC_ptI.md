@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschC%2FptI%2FsptA" data-uslm-ref="/us/usc/t26/stA/ch1/schC/ptI/sptA">A.</a>  </td>
 
     <td> Effects on recipients.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschC%2FptI%2FsptB" data-uslm-ref="/us/usc/t26/stA/ch1/schC/ptI/sptB">B.</a>  </td>
 
     <td> Effects on corporation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschC%2FptI%2FsptC" data-uslm-ref="/us/usc/t26/stA/ch1/schC/ptI/sptC">C.</a>  </td>
 
     <td> Definitions; constructive ownership of stock.  </td>
 

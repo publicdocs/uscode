@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs241" data-uslm-ref="/us/usc/t26/s241">241.</a>  </td>
 
     <td> Allowance of special deductions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [242.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs242" data-uslm-ref="/us/usc/t26/s242">242.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 243.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs243" data-uslm-ref="/us/usc/t26/s243">243.</a>  </td>
 
     <td> Dividends received by corporations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 244.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs244" data-uslm-ref="/us/usc/t26/s244">244.</a>  </td>
 
     <td> Dividends received on certain preferred stock.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 245.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs245" data-uslm-ref="/us/usc/t26/s245">245.</a>  </td>
 
     <td> Dividends received from certain foreign corporations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 246.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs246" data-uslm-ref="/us/usc/t26/s246">246.</a>  </td>
 
     <td> Rules applying to deductions for dividends received.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 246A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs246A" data-uslm-ref="/us/usc/t26/s246A">246A.</a>  </td>
 
     <td> Dividends received deduction reduced where portfolio stock is debt financed.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 247.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs247" data-uslm-ref="/us/usc/t26/s247">247.</a>  </td>
 
     <td> Dividends paid on certain preferred stock of public utilities.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 248.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs248" data-uslm-ref="/us/usc/t26/s248">248.</a>  </td>
 
     <td> Organizational expenditures.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 249.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs249" data-uslm-ref="/us/usc/t26/s249">249.</a>  </td>
 
     <td> Limitation on deduction of bond premium on repurchase.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> [250.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs250" data-uslm-ref="/us/usc/t26/s250">250.</a>  </td>
 
     <td> Repealed.]  </td>
 

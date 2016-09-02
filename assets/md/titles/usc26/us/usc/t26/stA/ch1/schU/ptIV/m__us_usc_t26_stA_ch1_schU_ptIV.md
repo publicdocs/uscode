@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1397E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1397E" data-uslm-ref="/us/usc/t26/s1397E">1397E.</a>  </td>
 
     <td> Credit to holders of qualified zone academy bonds.  </td>
 

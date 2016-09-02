@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7651.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7651" data-uslm-ref="/us/usc/t26/s7651">7651.</a>  </td>
 
     <td> Administration and collection of taxes in possessions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7652.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7652" data-uslm-ref="/us/usc/t26/s7652">7652.</a>  </td>
 
     <td> Shipments to the United States.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7653.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7653" data-uslm-ref="/us/usc/t26/s7653">7653.</a>  </td>
 
     <td> Shipments from the United States.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7654.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7654" data-uslm-ref="/us/usc/t26/s7654">7654.</a>  </td>
 
     <td> Coordination of United States and certain possession individual income taxes.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7655.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7655" data-uslm-ref="/us/usc/t26/s7655">7655.</a>  </td>
 
     <td> Cross references.  </td>
 

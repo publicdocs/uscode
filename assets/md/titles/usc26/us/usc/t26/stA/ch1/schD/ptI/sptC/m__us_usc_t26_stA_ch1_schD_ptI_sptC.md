@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 418.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs418" data-uslm-ref="/us/usc/t26/s418">418.</a>  </td>
 
     <td> Reorganization status.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 418A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs418A" data-uslm-ref="/us/usc/t26/s418A">418A.</a>  </td>
 
     <td> Notice of reorganization and funding requirements.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 418B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs418B" data-uslm-ref="/us/usc/t26/s418B">418B.</a>  </td>
 
     <td> Minimum contribution requirement.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 418C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs418C" data-uslm-ref="/us/usc/t26/s418C">418C.</a>  </td>
 
     <td> Overburden credit against minimum contribution requirement.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 418D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs418D" data-uslm-ref="/us/usc/t26/s418D">418D.</a>  </td>
 
     <td> Adjustments in accrued benefits.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 418E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs418E" data-uslm-ref="/us/usc/t26/s418E">418E.</a>  </td>
 
     <td> Insolvent plans.  </td>
 

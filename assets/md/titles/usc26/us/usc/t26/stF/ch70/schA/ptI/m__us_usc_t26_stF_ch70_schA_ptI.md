@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6851.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6851" data-uslm-ref="/us/usc/t26/s6851">6851.</a>  </td>
 
     <td> Termination assessments of income tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6852.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6852" data-uslm-ref="/us/usc/t26/s6852">6852.</a>  </td>
 
     <td> Termination assessments in case of flagrant political expenditures of section 501(c)(3) organizations.  </td>
 

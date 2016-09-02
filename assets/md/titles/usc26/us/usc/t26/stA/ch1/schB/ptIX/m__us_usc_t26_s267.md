@@ -347,23 +347,19 @@
 
 [Pub. L. 98–369, div. A, title I, § 174(c)][/us/pl/98/369/s174/c], July 18, 1984, [98 Stat. 707][/us/stat/98/707], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __Subsections__ 
+>     “(1) __Subsections (a) and (b)(1).—__ 
 
->         (a) __and (b)(1).—__ 
+>     The amendments made by subsections (a) and (b)(1) \[amending this section\] shall apply to amounts allowable as deductions under chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for taxable years beginning after December 31, 1983. For purposes of the preceding sentence, the allowability of a deduction shall be determined without regard to any disallowance or postponement of deductions under section 267 of such Code.
 
->         The amendments made by subsections (a) and (b)(1) \[amending this section\] shall apply to amounts allowable as deductions under chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for taxable years beginning after December 31, 1983. For purposes of the preceding sentence, the allowability of a deduction shall be determined without regard to any disallowance or postponement of deductions under section 267 of such Code.
+>     “(2) __Subsection (b) (other than paragraph (1)).—__ 
 
->     “(2) __Subsection__ 
+>         “(A) __In general.—__ 
 
->         (b) __(other than paragraph (1)).—__ 
+>         Except as provided in subparagraph (B), the amendments made by subsection (b) (other than paragraph (1) thereof) \[amending this section and sections 170, 368, 514, and 1235 of this title\] shall apply to transactions after December 31, 1983, in taxable years ending after such date.
 
->     “(A) __In general.—__ 
+>         “(B) __Exception for transfers to foreign corporations on or before march 1, 1984.—__ 
 
->     Except as provided in subparagraph (B), the amendments made by subsection (b) (other than paragraph (1) thereof) \[amending this section and sections 170, 368, 514, and 1235 of this title\] shall apply to transactions after December 31, 1983, in taxable years ending after such date.
-
->     “(B) __Exception for transfers to foreign corporations on or before march 1, 1984.—__ 
-
->     The amendments made by subsection (b)(2) \[amending this section\] shall not apply to property transferred to a foreign corporation on or before March 1, 1984.
+>         The amendments made by subsection (b)(2) \[amending this section\] shall not apply to property transferred to a foreign corporation on or before March 1, 1984.
 
 >     “(3) __Exception for existing indebtedness, etc.—__ 
 

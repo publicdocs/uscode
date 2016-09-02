@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9811.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9811" data-uslm-ref="/us/usc/t26/s9811">9811.</a>  </td>
 
     <td> Standards relating to benefits for mothers and newborns.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9812.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9812" data-uslm-ref="/us/usc/t26/s9812">9812.</a>  </td>
 
     <td> Parity in mental health and substance use disorder benefits.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9813.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9813" data-uslm-ref="/us/usc/t26/s9813">9813.</a>  </td>
 
     <td> Coverage of dependent students on medically necessary leave of absence.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9815.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9815" data-uslm-ref="/us/usc/t26/s9815">9815.</a>  </td>
 
     <td> Additional market reforms. <sup>[1]</sup>  <sup><sup> 1 Editorially supplied. Section 9815 added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F111%2F148" data-uslm-ref="/us/pl/111/148">Pub. L. 111–148</a> without corresponding amendment of analysis. No section 9814 has been enacted. </sup></sup>   </td>
 

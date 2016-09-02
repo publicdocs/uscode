@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptA" data-uslm-ref="/us/usc/t26/stA/ch1/schN/ptIII/sptA">A.</a>  </td>
 
     <td> Foreign tax credit.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptB" data-uslm-ref="/us/usc/t26/stA/ch1/schN/ptIII/sptB">B.</a>  </td>
 
     <td> Earned income of citizens or residents of United States.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [C.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptC" data-uslm-ref="/us/usc/t26/stA/ch1/schN/ptIII/sptC">C.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptD" data-uslm-ref="/us/usc/t26/stA/ch1/schN/ptIII/sptD">D.</a>  </td>
 
     <td> Possessions of the United States.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [E.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptE" data-uslm-ref="/us/usc/t26/stA/ch1/schN/ptIII/sptE">E.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> F.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptF" data-uslm-ref="/us/usc/t26/stA/ch1/schN/ptIII/sptF">F.</a>  </td>
 
     <td> Controlled foreign corporations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [G.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptG" data-uslm-ref="/us/usc/t26/stA/ch1/schN/ptIII/sptG">G.</a>  </td>
 
     <td> Repealed.]  <sup>[1]</sup>  <sup><sup> 1 See 1976 Amendment note below. </sup></sup>   </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> H.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptH" data-uslm-ref="/us/usc/t26/stA/ch1/schN/ptIII/sptH">H.</a>  </td>
 
     <td> Income of certain nonresident United States citizens subject to foreign community property laws. <sup>[1]</sup>   </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptI" data-uslm-ref="/us/usc/t26/stA/ch1/schN/ptIII/sptI">I.</a>  </td>
 
     <td> Admissibility of documentation maintained in foreign countries.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> J.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptJ" data-uslm-ref="/us/usc/t26/stA/ch1/schN/ptIII/sptJ">J.</a>  </td>
 
     <td> Foreign currency transactions.  </td>
 

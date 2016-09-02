@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1221" data-uslm-ref="/us/usc/t26/s1221">1221.</a>  </td>
 
     <td> Capital asset defined.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1222.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1222" data-uslm-ref="/us/usc/t26/s1222">1222.</a>  </td>
 
     <td> Other items relating to capital gains and losses. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1223.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1223" data-uslm-ref="/us/usc/t26/s1223">1223.</a>  </td>
 
     <td> Holding period of property.  </td>
 

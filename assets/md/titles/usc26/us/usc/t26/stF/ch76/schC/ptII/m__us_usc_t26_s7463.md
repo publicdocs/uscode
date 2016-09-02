@@ -117,11 +117,9 @@
 
 >     The amendments made by subsection (a) \[amending this section\] shall take effect on the first day of the first calendar month beginning more than 180 days after the date of the enactment of this Act \[Nov. 6, 1978\].
 
->     “(2) __Subsections__ 
+>     “(2) __Subsections (b) and (c).—__ 
 
->         (b) __and (c).—__ 
-
->         The amendments made by subsection (b) \[amending this section\] and (c) \[amending [section 7456 of this title][/us/usc/t26/s7456]\] shall take effect on the date of the enactment of this Act.”
+>     The amendments made by subsection (b) \[amending this section\] and (c) \[amending [section 7456 of this title][/us/usc/t26/s7456]\] shall take effect on the date of the enactment of this Act.”
 
  __Effective Date of 1972 Amendment__ 
 

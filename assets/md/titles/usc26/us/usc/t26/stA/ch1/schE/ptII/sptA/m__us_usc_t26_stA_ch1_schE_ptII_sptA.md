@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 446.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs446" data-uslm-ref="/us/usc/t26/s446">446.</a>  </td>
 
     <td> General rule for methods of accounting.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 447.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs447" data-uslm-ref="/us/usc/t26/s447">447.</a>  </td>
 
     <td> Method of accounting for corporations engaged in farming.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 448.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs448" data-uslm-ref="/us/usc/t26/s448">448.</a>  </td>
 
     <td> Limitation on use of cash method of accounting.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9702" data-uslm-ref="/us/usc/t26/s9702">9702.</a>  </td>
 
     <td> Establishment of the United Mine Workers of America Combined Benefit Fund.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9703" data-uslm-ref="/us/usc/t26/s9703">9703.</a>  </td>
 
     <td> Plan benefits.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4216.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4216" data-uslm-ref="/us/usc/t26/s4216">4216.</a>  </td>
 
     <td> Definition of price.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4217.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4217" data-uslm-ref="/us/usc/t26/s4217">4217.</a>  </td>
 
     <td> Leases.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4218.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4218" data-uslm-ref="/us/usc/t26/s4218">4218.</a>  </td>
 
     <td> Use by manufacturer or importer considered sale.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4219.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4219" data-uslm-ref="/us/usc/t26/s4219">4219.</a>  </td>
 
     <td> Application of tax in case of sales by other than manufacturer or importer.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [4220 to 4225.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4220" data-uslm-ref="/us/usc/t26/s4220">4220</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4225" data-uslm-ref="/us/usc/t26/s4225">4225.</a>  </td>
 
     <td> Repealed.]  </td>
 

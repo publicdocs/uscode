@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5131" data-uslm-ref="/us/usc/t26/s5131">5131.</a>  </td>
 
     <td> Packaging distilled spirits for industrial uses.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5132" data-uslm-ref="/us/usc/t26/s5132">5132.</a>  </td>
 
     <td> Prohibited purchases by dealers.  </td>
 

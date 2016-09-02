@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs161" data-uslm-ref="/us/usc/t26/s161">161.</a>  </td>
 
     <td> Allowance of deductions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs162" data-uslm-ref="/us/usc/t26/s162">162.</a>  </td>
 
     <td> Trade or business expenses.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 163.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs163" data-uslm-ref="/us/usc/t26/s163">163.</a>  </td>
 
     <td> Interest.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 164.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs164" data-uslm-ref="/us/usc/t26/s164">164.</a>  </td>
 
     <td> Taxes.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 165.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs165" data-uslm-ref="/us/usc/t26/s165">165.</a>  </td>
 
     <td> Losses.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 166.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs166" data-uslm-ref="/us/usc/t26/s166">166.</a>  </td>
 
     <td> Bad debts.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 167.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs167" data-uslm-ref="/us/usc/t26/s167">167.</a>  </td>
 
     <td> Depreciation.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 168.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs168" data-uslm-ref="/us/usc/t26/s168">168.</a>  </td>
 
     <td> Accelerated cost recovery system.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 169.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs169" data-uslm-ref="/us/usc/t26/s169">169.</a>  </td>
 
     <td> Amortization of pollution control facilities.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 170.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs170" data-uslm-ref="/us/usc/t26/s170">170.</a>  </td>
 
     <td> Charitable, etc., contributions and gifts.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 171.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs171" data-uslm-ref="/us/usc/t26/s171">171.</a>  </td>
 
     <td> Amortizable bond premium.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 172.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs172" data-uslm-ref="/us/usc/t26/s172">172.</a>  </td>
 
     <td> Net operating loss deduction.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 173.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs173" data-uslm-ref="/us/usc/t26/s173">173.</a>  </td>
 
     <td> Circulation expenditures.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 174.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs174" data-uslm-ref="/us/usc/t26/s174">174.</a>  </td>
 
     <td> Research and experimental expenditures.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 175.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs175" data-uslm-ref="/us/usc/t26/s175">175.</a>  </td>
 
     <td> Soil and water conservation expenditures; endangered species recovery expenditures.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 176.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs176" data-uslm-ref="/us/usc/t26/s176">176.</a>  </td>
 
     <td> Payments with respect to employees of certain foreign corporations.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> [177.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs177" data-uslm-ref="/us/usc/t26/s177">177.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 178.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs178" data-uslm-ref="/us/usc/t26/s178">178.</a>  </td>
 
     <td> Amortization of cost of acquiring a lease.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 179.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs179" data-uslm-ref="/us/usc/t26/s179">179.</a>  </td>
 
     <td> Election to expense certain depreciable business assets.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 179A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs179A" data-uslm-ref="/us/usc/t26/s179A">179A.</a>  </td>
 
     <td> Deduction for clean-fuel vehicles and certain refueling property.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 179B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs179B" data-uslm-ref="/us/usc/t26/s179B">179B.</a>  </td>
 
     <td> Deduction for capital costs incurred in complying with Environmental Protection Agency sulfur regulations.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 179C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs179C" data-uslm-ref="/us/usc/t26/s179C">179C.</a>  </td>
 
     <td> Election to expense certain refineries.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 179D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs179D" data-uslm-ref="/us/usc/t26/s179D">179D.</a>  </td>
 
     <td> Energy efficient commercial buildings deduction.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 179E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs179E" data-uslm-ref="/us/usc/t26/s179E">179E.</a>  </td>
 
     <td> Election to expense advanced mine safety equipment.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 180.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs180" data-uslm-ref="/us/usc/t26/s180">180.</a>  </td>
 
     <td> Expenditures by farmers for fertilizer, etc.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 181.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs181" data-uslm-ref="/us/usc/t26/s181">181.</a>  </td>
 
     <td> Treatment of certain qualified film and television productions.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> [182.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs182" data-uslm-ref="/us/usc/t26/s182">182.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 183.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs183" data-uslm-ref="/us/usc/t26/s183">183.</a>  </td>
 
     <td> Activities not engaged in for profit.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> [184, 185.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs184" data-uslm-ref="/us/usc/t26/s184">184</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs185" data-uslm-ref="/us/usc/t26/s185">185.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 186.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs186" data-uslm-ref="/us/usc/t26/s186">186.</a>  </td>
 
     <td> Recoveries of damages for antitrust violations, etc.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> [187 to 189.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs187" data-uslm-ref="/us/usc/t26/s187">187</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs189" data-uslm-ref="/us/usc/t26/s189">189.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 190.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs190" data-uslm-ref="/us/usc/t26/s190">190.</a>  </td>
 
     <td> Expenditures to remove architectural and transportation barriers to the handicapped and elderly.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 191.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs191" data-uslm-ref="/us/usc/t26/s191">191.</a>  </td>
 
     <td> Amortization of certain rehabilitation expenditures for certified historic structures. <sup>[1]</sup>  <sup><sup> 1 Section 191 was repealed by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F97%2F34" data-uslm-ref="/us/pl/97/34">Pub. L. 97–34</a> without corresponding amendment of part analysis. </sup></sup>   </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 192.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs192" data-uslm-ref="/us/usc/t26/s192">192.</a>  </td>
 
     <td> Contributions to black lung benefit trust.  </td>
 
@@ -297,7 +297,7 @@
 
   <tr>
 
-    <td> 193.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs193" data-uslm-ref="/us/usc/t26/s193">193.</a>  </td>
 
     <td> Tertiary injectants.  </td>
 
@@ -305,7 +305,7 @@
 
   <tr>
 
-    <td> 194.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs194" data-uslm-ref="/us/usc/t26/s194">194.</a>  </td>
 
     <td> Treatment of reforestation expenditures.  </td>
 
@@ -313,7 +313,7 @@
 
   <tr>
 
-    <td> 194A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs194A" data-uslm-ref="/us/usc/t26/s194A">194A.</a>  </td>
 
     <td> Contributions to employer liability trusts.  </td>
 
@@ -321,7 +321,7 @@
 
   <tr>
 
-    <td> 195.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs195" data-uslm-ref="/us/usc/t26/s195">195.</a>  </td>
 
     <td> Start-up expenditures.  </td>
 
@@ -329,7 +329,7 @@
 
   <tr>
 
-    <td> 196.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs196" data-uslm-ref="/us/usc/t26/s196">196.</a>  </td>
 
     <td> Deduction for certain unused business credits.  </td>
 
@@ -337,7 +337,7 @@
 
   <tr>
 
-    <td> 197.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs197" data-uslm-ref="/us/usc/t26/s197">197.</a>  </td>
 
     <td> Amortization of goodwill and certain other intangibles.  </td>
 
@@ -345,7 +345,7 @@
 
   <tr>
 
-    <td> 198.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs198" data-uslm-ref="/us/usc/t26/s198">198.</a>  </td>
 
     <td> Expensing of environmental remediation costs.  </td>
 
@@ -353,7 +353,7 @@
 
   <tr>
 
-    <td> 198A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs198A" data-uslm-ref="/us/usc/t26/s198A">198A.</a>  </td>
 
     <td> Expensing of Qualified Disaster Expenses. <sup>[2]</sup>  <sup><sup> 2 So in original. The words “Qualified Disaster Expenses” probably should not be capitalized. </sup></sup>   </td>
 
@@ -361,7 +361,7 @@
 
   <tr>
 
-    <td> 199.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs199" data-uslm-ref="/us/usc/t26/s199">199.</a>  </td>
 
     <td> Income attributable to domestic production activities.  </td>
 

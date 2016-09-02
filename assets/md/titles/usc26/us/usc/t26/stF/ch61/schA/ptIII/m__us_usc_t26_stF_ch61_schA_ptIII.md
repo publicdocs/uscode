@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61%2FschA%2FptIII%2FsptA" data-uslm-ref="/us/usc/t26/stF/ch61/schA/ptIII/sptA">A.</a>  </td>
 
     <td> Information concerning persons subject to special provisions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61%2FschA%2FptIII%2FsptB" data-uslm-ref="/us/usc/t26/stF/ch61/schA/ptIII/sptB">B.</a>  </td>
 
     <td> Information concerning transactions with other persons.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61%2FschA%2FptIII%2FsptC" data-uslm-ref="/us/usc/t26/stF/ch61/schA/ptIII/sptC">C.</a>  </td>
 
     <td> Information regarding wages paid employees.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61%2FschA%2FptIII%2FsptD" data-uslm-ref="/us/usc/t26/stF/ch61/schA/ptIII/sptD">D.</a>  </td>
 
     <td> Information regarding health insurance coverage.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61%2FschA%2FptIII%2FsptE" data-uslm-ref="/us/usc/t26/stF/ch61/schA/ptIII/sptE">E.</a>  </td>
 
     <td> Registration of and information concerning pension, etc., plans.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> F.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61%2FschA%2FptIII%2FsptF" data-uslm-ref="/us/usc/t26/stF/ch61/schA/ptIII/sptF">F.</a>  </td>
 
     <td> Information concerning tax return preparers.  </td>
 

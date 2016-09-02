@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1397A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1397A" data-uslm-ref="/us/usc/t26/s1397A">1397A.</a>  </td>
 
     <td> Increase in expensing under section 179.  </td>
 

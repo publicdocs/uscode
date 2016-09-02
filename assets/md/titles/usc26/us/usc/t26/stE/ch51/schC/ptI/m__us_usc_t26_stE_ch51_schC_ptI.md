@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5201" data-uslm-ref="/us/usc/t26/s5201">5201.</a>  </td>
 
     <td> Regulation of operations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5202" data-uslm-ref="/us/usc/t26/s5202">5202.</a>  </td>
 
     <td> Supervision of operations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5203" data-uslm-ref="/us/usc/t26/s5203">5203.</a>  </td>
 
     <td> Entry and examination of premises.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5204" data-uslm-ref="/us/usc/t26/s5204">5204.</a>  </td>
 
     <td> Gauging.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [5205.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5205" data-uslm-ref="/us/usc/t26/s5205">5205.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5206" data-uslm-ref="/us/usc/t26/s5206">5206.</a>  </td>
 
     <td> Containers.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5207" data-uslm-ref="/us/usc/t26/s5207">5207.</a>  </td>
 
     <td> Records and reports.  </td>
 

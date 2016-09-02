@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs15" data-uslm-ref="/us/usc/t26/s15">15.</a>  </td>
 
     <td> Effect of changes.  </td>
 

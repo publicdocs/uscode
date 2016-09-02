@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6071.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6071" data-uslm-ref="/us/usc/t26/s6071">6071.</a>  </td>
 
     <td> Time for filing returns and other documents.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6072.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6072" data-uslm-ref="/us/usc/t26/s6072">6072.</a>  </td>
 
     <td> Time for filing income tax returns.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [6073, 6074.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6073" data-uslm-ref="/us/usc/t26/s6073">6073</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6074" data-uslm-ref="/us/usc/t26/s6074">6074.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6075.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6075" data-uslm-ref="/us/usc/t26/s6075">6075.</a>  </td>
 
     <td> Time for filing estate and gift tax returns.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [6076.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6076" data-uslm-ref="/us/usc/t26/s6076">6076.</a>  </td>
 
     <td> Repealed.]  </td>
 

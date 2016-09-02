@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4101" data-uslm-ref="/us/usc/t26/s4101">4101.</a>  </td>
 
     <td> Registration and bond.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4102" data-uslm-ref="/us/usc/t26/s4102">4102.</a>  </td>
 
     <td> Inspection of records by local officers.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4103" data-uslm-ref="/us/usc/t26/s4103">4103.</a>  </td>
 
     <td> Certain additional persons liable for tax where willful failure to pay.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4104" data-uslm-ref="/us/usc/t26/s4104">4104.</a>  </td>
 
     <td> Information reporting for persons claiming certain tax benefits.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4105" data-uslm-ref="/us/usc/t26/s4105">4105.</a>  </td>
 
     <td> Two-party exchanges.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2701" data-uslm-ref="/us/usc/t26/s2701">2701.</a>  </td>
 
     <td> Special valuation rules in case of transfers of certain interests in corporations or partnerships.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2702" data-uslm-ref="/us/usc/t26/s2702">2702.</a>  </td>
 
     <td> Special valuation rules in case of transfers of interests in trusts.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2703" data-uslm-ref="/us/usc/t26/s2703">2703.</a>  </td>
 
     <td> Certain rights and restrictions disregarded.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2704" data-uslm-ref="/us/usc/t26/s2704">2704.</a>  </td>
 
     <td> Treatment of certain lapsing rights and restrictions.  </td>
 

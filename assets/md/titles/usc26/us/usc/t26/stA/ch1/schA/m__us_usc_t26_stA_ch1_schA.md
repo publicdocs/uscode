@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptI" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptI">I.</a>  </td>
 
     <td> Tax on individuals.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptII" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptII">II.</a>  </td>
 
     <td> Tax on corporations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptIII" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptIII">III.</a>  </td>
 
     <td> Changes in rates during a taxable year.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptIV" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptIV">IV.</a>  </td>
 
     <td> Credits against tax.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [V.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptV" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptV">V.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> VI.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptVI" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptVI">VI.</a>  </td>
 
     <td> Minimum tax for tax preferences. <sup>[1]</sup>  <sup><sup> 1 Part heading amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F99%2F514" data-uslm-ref="/us/pl/99/514">Pub. L. 99–514</a> without corresponding amendment of analysis. </sup></sup>   </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> VII.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptVII" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptVII">VII.</a>  </td>
 
     <td> Environmental tax.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> [VIII.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptVIII" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptVIII">VIII.</a>  </td>
 
     <td> Repealed.]  </td>
 

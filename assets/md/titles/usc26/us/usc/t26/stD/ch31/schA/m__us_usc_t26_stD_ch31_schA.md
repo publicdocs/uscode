@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4001" data-uslm-ref="/us/usc/t26/s4001">4001.</a>  </td>
 
     <td> Imposition of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4002" data-uslm-ref="/us/usc/t26/s4002">4002.</a>  </td>
 
     <td> 1st retail sale; uses, etc. treated as sales; determination of price.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4003" data-uslm-ref="/us/usc/t26/s4003">4003.</a>  </td>
 
     <td> Special rules.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5391.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5391" data-uslm-ref="/us/usc/t26/s5391">5391.</a>  </td>
 
     <td> Exemption from distilled spirits taxes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5392.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5392" data-uslm-ref="/us/usc/t26/s5392">5392.</a>  </td>
 
     <td> Definitions.  </td>
 

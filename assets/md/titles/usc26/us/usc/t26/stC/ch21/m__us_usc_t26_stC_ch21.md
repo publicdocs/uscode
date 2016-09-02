@@ -29,31 +29,31 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstC%2Fch21%2FschA" data-uslm-ref="/us/usc/t26/stC/ch21/schA">A.</a>  </td>
 
     <td> Tax on employees  </td>
 
-    <td> 3101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3101" data-uslm-ref="/us/usc/t26/s3101">3101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstC%2Fch21%2FschB" data-uslm-ref="/us/usc/t26/stC/ch21/schB">B.</a>  </td>
 
     <td> Tax on employers  </td>
 
-    <td> 3111  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3111" data-uslm-ref="/us/usc/t26/s3111">3111</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstC%2Fch21%2FschC" data-uslm-ref="/us/usc/t26/stC/ch21/schC">C.</a>  </td>
 
     <td> General provisions  </td>
 
-    <td> 3121  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3121" data-uslm-ref="/us/usc/t26/s3121">3121</a>  </td>
 
   </tr>
 

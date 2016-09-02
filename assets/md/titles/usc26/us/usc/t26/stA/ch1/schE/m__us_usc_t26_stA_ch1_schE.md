@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td>  I.  </td>
+    <td>  <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschE%2FptI" data-uslm-ref="/us/usc/t26/stA/ch1/schE/ptI">I.</a>  </td>
 
     <td> Accounting periods.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td>  II.  </td>
+    <td>  <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschE%2FptII" data-uslm-ref="/us/usc/t26/stA/ch1/schE/ptII">II.</a>  </td>
 
     <td> Methods of accounting.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschE%2FptIII" data-uslm-ref="/us/usc/t26/stA/ch1/schE/ptIII">III.</a>  </td>
 
     <td> Adjustments.  </td>
 

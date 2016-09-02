@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschM%2FptI" data-uslm-ref="/us/usc/t26/stA/ch1/schM/ptI">I.</a>  </td>
 
     <td> Regulated investment companies.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschM%2FptII" data-uslm-ref="/us/usc/t26/stA/ch1/schM/ptII">II.</a>  </td>
 
     <td> Real estate investment trusts.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschM%2FptIII" data-uslm-ref="/us/usc/t26/stA/ch1/schM/ptIII">III.</a>  </td>
 
     <td> Provisions which apply to both regulated investment companies and real estate investment trusts.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschM%2FptIV" data-uslm-ref="/us/usc/t26/stA/ch1/schM/ptIV">IV.</a>  </td>
 
     <td> Real estate mortgage investment conduits.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [V.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschM%2FptV" data-uslm-ref="/us/usc/t26/stA/ch1/schM/ptV">V.</a>  </td>
 
     <td> Repealed.]  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschK%2FptI" data-uslm-ref="/us/usc/t26/stA/ch1/schK/ptI">I.</a>  </td>
 
     <td> Determination of tax liability.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschK%2FptII" data-uslm-ref="/us/usc/t26/stA/ch1/schK/ptII">II.</a>  </td>
 
     <td> Contributions, distributions, and transfers.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschK%2FptIII" data-uslm-ref="/us/usc/t26/stA/ch1/schK/ptIII">III.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschK%2FptIV" data-uslm-ref="/us/usc/t26/stA/ch1/schK/ptIV">IV.</a>  </td>
 
     <td> Special rules for electing large partnerships.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 430.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs430" data-uslm-ref="/us/usc/t26/s430">430.</a>  </td>
 
     <td> Minimum funding standards for single-employer defined benefit pension plans.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs431" data-uslm-ref="/us/usc/t26/s431">431.</a>  </td>
 
     <td> Minimum funding standards for multiemployer plans. <sup>[1]</sup>  <sup><sup> 1 Editorially supplied. Section 431 added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F109%2F280" data-uslm-ref="/us/pl/109/280">Pub. L. 109–280</a> without corresponding amendment of subpart analysis. </sup></sup>   </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs432" data-uslm-ref="/us/usc/t26/s432">432.</a>  </td>
 
     <td> Additional funding rules for multiemployer plans in endangered status or critical status.  </td>
 

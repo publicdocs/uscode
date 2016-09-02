@@ -157,11 +157,9 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 >     The amendments made by subsection (b)(2) \[amending [section 2505 of this title][/us/usc/t26/s2505]\] shall apply to gifts made after December 31, 2009.
 
->     “(3) __Subsections__ 
+>     “(3) __Subsections (c) and (d).—__ 
 
->         (c) __and (d).—__ 
-
->         The amendments made by subsections (c) and (d) \[amending sections 2057 and 2631 of this title\] shall apply to estates of decedents dying, and generation-skipping transfers, after December 31, 2003.”
+>     The amendments made by subsections (c) and (d) \[amending sections 2057 and 2631 of this title\] shall apply to estates of decedents dying, and generation-skipping transfers, after December 31, 2003.”
 
  __Effective Date of 1997 Amendment__ 
 

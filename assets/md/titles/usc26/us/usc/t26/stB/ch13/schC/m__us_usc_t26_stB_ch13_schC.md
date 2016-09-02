@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2621" data-uslm-ref="/us/usc/t26/s2621">2621.</a>  </td>
 
     <td> Taxable amount in case of taxable distribution.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2622" data-uslm-ref="/us/usc/t26/s2622">2622.</a>  </td>
 
     <td> Taxable amount in case of taxable termination.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2623.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2623" data-uslm-ref="/us/usc/t26/s2623">2623.</a>  </td>
 
     <td> Taxable amount in case of direct skip.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2624.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2624" data-uslm-ref="/us/usc/t26/s2624">2624.</a>  </td>
 
     <td> Valuation.  </td>
 

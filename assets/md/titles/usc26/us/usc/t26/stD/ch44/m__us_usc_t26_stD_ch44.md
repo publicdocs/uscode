@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4981.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4981" data-uslm-ref="/us/usc/t26/s4981">4981.</a>  </td>
 
     <td> Excise tax on undistributed income of real estate investment trusts.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4982.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4982" data-uslm-ref="/us/usc/t26/s4982">4982.</a>  </td>
 
     <td> Excise tax on undistributed income of regulated investment companies.  </td>
 

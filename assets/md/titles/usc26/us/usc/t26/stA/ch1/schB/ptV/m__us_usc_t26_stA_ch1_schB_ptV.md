@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs151" data-uslm-ref="/us/usc/t26/s151">151.</a>  </td>
 
     <td> Allowance of deductions for personal exemptions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs152" data-uslm-ref="/us/usc/t26/s152">152.</a>  </td>
 
     <td> Dependent defined.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs153" data-uslm-ref="/us/usc/t26/s153">153.</a>  </td>
 
     <td> Cross references.  </td>
 

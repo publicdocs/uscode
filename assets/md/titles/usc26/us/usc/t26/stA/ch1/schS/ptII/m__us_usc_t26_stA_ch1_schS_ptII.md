@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1366.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1366" data-uslm-ref="/us/usc/t26/s1366">1366.</a>  </td>
 
     <td> Pass-thru of items to shareholders.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1367.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1367" data-uslm-ref="/us/usc/t26/s1367">1367.</a>  </td>
 
     <td> Adjustments to basis of stock of shareholders, etc.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1368.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1368" data-uslm-ref="/us/usc/t26/s1368">1368.</a>  </td>
 
     <td> Distributions.  </td>
 

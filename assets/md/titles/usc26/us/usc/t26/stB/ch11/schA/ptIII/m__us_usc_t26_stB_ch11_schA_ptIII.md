@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2031.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2031" data-uslm-ref="/us/usc/t26/s2031">2031.</a>  </td>
 
     <td> Definition of gross estate.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2032.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2032" data-uslm-ref="/us/usc/t26/s2032">2032.</a>  </td>
 
     <td> Alternate valuation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2032A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2032A" data-uslm-ref="/us/usc/t26/s2032A">2032A.</a>  </td>
 
     <td> Valuation of certain farm, etc., real property.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2033.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2033" data-uslm-ref="/us/usc/t26/s2033">2033.</a>  </td>
 
     <td> Property in which the decedent had an interest.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [2033A.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2033A" data-uslm-ref="/us/usc/t26/s2033A">2033A.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2034.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2034" data-uslm-ref="/us/usc/t26/s2034">2034.</a>  </td>
 
     <td> Dower or curtesy interests.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2035.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2035" data-uslm-ref="/us/usc/t26/s2035">2035.</a>  </td>
 
     <td> Adjustments for certain gifts made within 3 years of decedent’s death.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2036.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2036" data-uslm-ref="/us/usc/t26/s2036">2036.</a>  </td>
 
     <td> Transfers with retained life estate.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2037.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2037" data-uslm-ref="/us/usc/t26/s2037">2037.</a>  </td>
 
     <td> Transfers taking effect at death.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2038.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2038" data-uslm-ref="/us/usc/t26/s2038">2038.</a>  </td>
 
     <td> Revocable transfers.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2039.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2039" data-uslm-ref="/us/usc/t26/s2039">2039.</a>  </td>
 
     <td> Annuities.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2040.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2040" data-uslm-ref="/us/usc/t26/s2040">2040.</a>  </td>
 
     <td> Joint interests.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2041.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2041" data-uslm-ref="/us/usc/t26/s2041">2041.</a>  </td>
 
     <td> Powers of appointment.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2042.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2042" data-uslm-ref="/us/usc/t26/s2042">2042.</a>  </td>
 
     <td> Proceeds of life insurance.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2043.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2043" data-uslm-ref="/us/usc/t26/s2043">2043.</a>  </td>
 
     <td> Transfers for insufficient consideration.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 2044.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2044" data-uslm-ref="/us/usc/t26/s2044">2044.</a>  </td>
 
     <td> Certain property for which marital deduction was previously allowed.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 2045.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2045" data-uslm-ref="/us/usc/t26/s2045">2045.</a>  </td>
 
     <td> Prior interests.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 2046.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2046" data-uslm-ref="/us/usc/t26/s2046">2046.</a>  </td>
 
     <td> Disclaimers.  </td>
 

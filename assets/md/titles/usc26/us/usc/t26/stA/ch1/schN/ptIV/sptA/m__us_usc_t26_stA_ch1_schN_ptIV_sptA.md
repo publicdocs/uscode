@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 991.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs991" data-uslm-ref="/us/usc/t26/s991">991.</a>  </td>
 
     <td> Taxation of a domestic international sales corporation.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 992.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs992" data-uslm-ref="/us/usc/t26/s992">992.</a>  </td>
 
     <td> Requirements of a domestic international sales corporation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 993.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs993" data-uslm-ref="/us/usc/t26/s993">993.</a>  </td>
 
     <td> Definitions and special rules. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 994.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs994" data-uslm-ref="/us/usc/t26/s994">994.</a>  </td>
 
     <td> Inter-company pricing rules.  </td>
 

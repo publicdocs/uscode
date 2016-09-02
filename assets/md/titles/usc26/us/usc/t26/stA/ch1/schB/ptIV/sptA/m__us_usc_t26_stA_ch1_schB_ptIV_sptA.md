@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs141" data-uslm-ref="/us/usc/t26/s141">141.</a>  </td>
 
     <td> Private activity bond; qualified bond.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs142" data-uslm-ref="/us/usc/t26/s142">142.</a>  </td>
 
     <td> Exempt facility bond.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs143" data-uslm-ref="/us/usc/t26/s143">143.</a>  </td>
 
     <td> Mortgage revenue bonds: qualified mortgage and qualified veterans’ mortgage bond. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs144" data-uslm-ref="/us/usc/t26/s144">144.</a>  </td>
 
     <td> Qualified small issue bond; qualified student loan bond; qualified redevelopment bond.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs145" data-uslm-ref="/us/usc/t26/s145">145.</a>  </td>
 
     <td> Qualified 501(c)(3) bond.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 146.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs146" data-uslm-ref="/us/usc/t26/s146">146.</a>  </td>
 
     <td> Volume cap.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 147.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs147" data-uslm-ref="/us/usc/t26/s147">147.</a>  </td>
 
     <td> Other requirements applicable to certain private activity bonds.  </td>
 

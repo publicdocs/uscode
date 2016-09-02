@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschS%2FptI" data-uslm-ref="/us/usc/t26/stA/ch1/schS/ptI">I.</a>  </td>
 
     <td> In general.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschS%2FptII" data-uslm-ref="/us/usc/t26/stA/ch1/schS/ptII">II.</a>  </td>
 
     <td> Tax treatment of shareholders.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschS%2FptIII" data-uslm-ref="/us/usc/t26/stA/ch1/schS/ptIII">III.</a>  </td>
 
     <td> Special rules.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschS%2FptIV" data-uslm-ref="/us/usc/t26/stA/ch1/schS/ptIV">IV.</a>  </td>
 
     <td> Definitions; miscellaneous.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5811.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5811" data-uslm-ref="/us/usc/t26/s5811">5811.</a>  </td>
 
     <td> Transfer tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5812.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5812" data-uslm-ref="/us/usc/t26/s5812">5812.</a>  </td>
 
     <td> Transfers.  </td>
 

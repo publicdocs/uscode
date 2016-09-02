@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5051.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5051" data-uslm-ref="/us/usc/t26/s5051">5051.</a>  </td>
 
     <td> Imposition and rate of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5052.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5052" data-uslm-ref="/us/usc/t26/s5052">5052.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5053.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5053" data-uslm-ref="/us/usc/t26/s5053">5053.</a>  </td>
 
     <td> Exemptions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5054.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5054" data-uslm-ref="/us/usc/t26/s5054">5054.</a>  </td>
 
     <td> Determination and collection of tax on beer.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5055.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5055" data-uslm-ref="/us/usc/t26/s5055">5055.</a>  </td>
 
     <td> Drawback of tax.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5056.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5056" data-uslm-ref="/us/usc/t26/s5056">5056.</a>  </td>
 
     <td> Refund and credit of tax, or relief from liability.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1381" data-uslm-ref="/us/usc/t26/s1381">1381.</a>  </td>
 
     <td> Organizations to which part applies.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1382.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1382" data-uslm-ref="/us/usc/t26/s1382">1382.</a>  </td>
 
     <td> Taxable income of cooperatives.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1383.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1383" data-uslm-ref="/us/usc/t26/s1383">1383.</a>  </td>
 
     <td> Computation of tax where cooperative redeems nonqualified written notices of allocation or nonqualified per-unit retain certificates.  </td>
 

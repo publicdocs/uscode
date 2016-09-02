@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5171.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5171" data-uslm-ref="/us/usc/t26/s5171">5171.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5172.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5172" data-uslm-ref="/us/usc/t26/s5172">5172.</a>  </td>
 
     <td> Application.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5173.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5173" data-uslm-ref="/us/usc/t26/s5173">5173.</a>  </td>
 
     <td> Bonds.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [5174.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5174" data-uslm-ref="/us/usc/t26/s5174">5174.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5175.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5175" data-uslm-ref="/us/usc/t26/s5175">5175.</a>  </td>
 
     <td> Export bonds.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5176.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5176" data-uslm-ref="/us/usc/t26/s5176">5176.</a>  </td>
 
     <td> New or renewed bonds.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5177.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5177" data-uslm-ref="/us/usc/t26/s5177">5177.</a>  </td>
 
     <td> Other provisions relating to bonds.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5178.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5178" data-uslm-ref="/us/usc/t26/s5178">5178.</a>  </td>
 
     <td> Distilled spirits plants. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5179.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5179" data-uslm-ref="/us/usc/t26/s5179">5179.</a>  </td>
 
     <td> Registration of stills.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 5180.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5180" data-uslm-ref="/us/usc/t26/s5180">5180.</a>  </td>
 
     <td> Signs.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 5181.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5181" data-uslm-ref="/us/usc/t26/s5181">5181.</a>  </td>
 
     <td> Distilled spirits for fuel use.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 5182.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5182" data-uslm-ref="/us/usc/t26/s5182">5182.</a>  </td>
 
     <td> Cross references.  </td>
 

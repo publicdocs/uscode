@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1371" data-uslm-ref="/us/usc/t26/s1371">1371.</a>  </td>
 
     <td> Coordination with subchapter C.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1372" data-uslm-ref="/us/usc/t26/s1372">1372.</a>  </td>
 
     <td> Partnership rules to apply for fringe benefit purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1373.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1373" data-uslm-ref="/us/usc/t26/s1373">1373.</a>  </td>
 
     <td> Foreign income.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1374.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1374" data-uslm-ref="/us/usc/t26/s1374">1374.</a>  </td>
 
     <td> Tax imposed on certain built-in gains.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1375.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1375" data-uslm-ref="/us/usc/t26/s1375">1375.</a>  </td>
 
     <td> Tax imposed when passive investment income of corporation having accumulated earnings and profits exceeds 25 percent of gross receipts.  </td>
 

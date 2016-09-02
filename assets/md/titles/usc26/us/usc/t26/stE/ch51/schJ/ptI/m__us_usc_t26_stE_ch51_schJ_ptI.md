@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5601" data-uslm-ref="/us/usc/t26/s5601">5601.</a>  </td>
 
     <td> Criminal penalties.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5602" data-uslm-ref="/us/usc/t26/s5602">5602.</a>  </td>
 
     <td> Penalty for tax fraud by distiller.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5603" data-uslm-ref="/us/usc/t26/s5603">5603.</a>  </td>
 
     <td> Penalty relating to records, returns, and reports. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5604" data-uslm-ref="/us/usc/t26/s5604">5604.</a>  </td>
 
     <td> Penalties relating to marks, brands, and containers.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5605" data-uslm-ref="/us/usc/t26/s5605">5605.</a>  </td>
 
     <td> Penalty relating to return of materials used in the manufacture of distilled spirits, or from which distilled spirits may be recovered.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5606" data-uslm-ref="/us/usc/t26/s5606">5606.</a>  </td>
 
     <td> Penalty relating to containers of distilled spirits.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5607" data-uslm-ref="/us/usc/t26/s5607">5607.</a>  </td>
 
     <td> Penalty and forfeiture for unlawful use, recovery, or concealment of denatured distilled spirits, or articles.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5608" data-uslm-ref="/us/usc/t26/s5608">5608.</a>  </td>
 
     <td> Penalty and forfeiture for fraudulent claims for export drawback or unlawful relanding.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5609.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5609" data-uslm-ref="/us/usc/t26/s5609">5609.</a>  </td>
 
     <td> Destruction of unregistered stills, distilling apparatus, equipment, and materials.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 5610.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5610" data-uslm-ref="/us/usc/t26/s5610">5610.</a>  </td>
 
     <td> Disposal of forfeited equipment and material for distilling.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 5611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5611" data-uslm-ref="/us/usc/t26/s5611">5611.</a>  </td>
 
     <td> Release of distillery before judgment.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 5612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5612" data-uslm-ref="/us/usc/t26/s5612">5612.</a>  </td>
 
     <td> Forfeiture of taxpaid distilled spirits remaining on bonded premises.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 5613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5613" data-uslm-ref="/us/usc/t26/s5613">5613.</a>  </td>
 
     <td> Forfeiture of distilled spirits not closed, marked, or branded as required by law.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 5614.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5614" data-uslm-ref="/us/usc/t26/s5614">5614.</a>  </td>
 
     <td> Burden of proof in cases of seizure of spirits.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 5615.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5615" data-uslm-ref="/us/usc/t26/s5615">5615.</a>  </td>
 
     <td> Property subject to forfeiture.  </td>
 

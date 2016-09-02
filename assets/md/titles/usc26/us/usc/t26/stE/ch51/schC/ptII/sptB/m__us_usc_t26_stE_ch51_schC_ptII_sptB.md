@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5221" data-uslm-ref="/us/usc/t26/s5221">5221.</a>  </td>
 
     <td> Commencement, suspension, and resumption of operations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5222.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5222" data-uslm-ref="/us/usc/t26/s5222">5222.</a>  </td>
 
     <td> Production, receipt, removal, and use of distilling materials.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5223.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5223" data-uslm-ref="/us/usc/t26/s5223">5223.</a>  </td>
 
     <td> Redistillation of spirits, articles, and residues.  </td>
 

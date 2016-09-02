@@ -46653,7 +46653,7 @@ INTERNAL REVENUE TITLE  </td>
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA" data-uslm-ref="/us/usc/t26/stA">A.</a>  </td>
 
     <td> Income taxes.  </td>
 
@@ -46661,7 +46661,7 @@ INTERNAL REVENUE TITLE  </td>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB" data-uslm-ref="/us/usc/t26/stB">B.</a>  </td>
 
     <td> Estate and gift taxes.  </td>
 
@@ -46669,7 +46669,7 @@ INTERNAL REVENUE TITLE  </td>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstC" data-uslm-ref="/us/usc/t26/stC">C.</a>  </td>
 
     <td> Employment taxes.  </td>
 
@@ -46677,7 +46677,7 @@ INTERNAL REVENUE TITLE  </td>
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD" data-uslm-ref="/us/usc/t26/stD">D.</a>  </td>
 
     <td> Miscellaneous excise taxes.  </td>
 
@@ -46685,7 +46685,7 @@ INTERNAL REVENUE TITLE  </td>
 
   <tr>
 
-    <td> E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE" data-uslm-ref="/us/usc/t26/stE">E.</a>  </td>
 
     <td> Alcohol, tobacco, and certain other excise taxes.  </td>
 
@@ -46693,7 +46693,7 @@ INTERNAL REVENUE TITLE  </td>
 
   <tr>
 
-    <td> F.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF" data-uslm-ref="/us/usc/t26/stF">F.</a>  </td>
 
     <td> Procedure and administration.  </td>
 
@@ -46701,7 +46701,7 @@ INTERNAL REVENUE TITLE  </td>
 
   <tr>
 
-    <td> G.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstG" data-uslm-ref="/us/usc/t26/stG">G.</a>  </td>
 
     <td> The Joint Committee on Taxation.  </td>
 
@@ -46709,7 +46709,7 @@ INTERNAL REVENUE TITLE  </td>
 
   <tr>
 
-    <td> H.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstH" data-uslm-ref="/us/usc/t26/stH">H.</a>  </td>
 
     <td> Financing of Presidential election campaigns.  </td>
 
@@ -46717,7 +46717,7 @@ INTERNAL REVENUE TITLE  </td>
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstI" data-uslm-ref="/us/usc/t26/stI">I.</a>  </td>
 
     <td> Trust Fund Code.  </td>
 
@@ -46725,7 +46725,7 @@ INTERNAL REVENUE TITLE  </td>
 
   <tr>
 
-    <td> J.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstJ" data-uslm-ref="/us/usc/t26/stJ">J.</a>  </td>
 
     <td> Coal industry health benefits. <sup>[1]</sup>  <sup><sup> 1 Editorially supplied. Subtitle J added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F102%2F486" data-uslm-ref="/us/pl/102/486">Pub. L. 102–486</a> without corresponding amendment of title analysis. </sup></sup>   </td>
 
@@ -46733,7 +46733,7 @@ INTERNAL REVENUE TITLE  </td>
 
   <tr>
 
-    <td> K.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstK" data-uslm-ref="/us/usc/t26/stK">K.</a>  </td>
 
     <td> Group health plan requirements.  </td>
 
@@ -46781,57 +46781,57 @@ Subtitle A—Income Taxes  </td>
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1" data-uslm-ref="/us/usc/t26/stA/ch1">1.</a>  </td>
 
     <td> Normal taxes and surtaxes  </td>
 
-    <td> 1  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1" data-uslm-ref="/us/usc/t26/s1">1</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch2" data-uslm-ref="/us/usc/t26/stA/ch2">2.</a>  </td>
 
     <td> Tax on self-employment income  </td>
 
-    <td> 1401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1401" data-uslm-ref="/us/usc/t26/s1401">1401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch2A" data-uslm-ref="/us/usc/t26/stA/ch2A">2A.</a>  </td>
 
     <td> Unearned income Medicare contribution  </td>
 
-    <td> 1411  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1411" data-uslm-ref="/us/usc/t26/s1411">1411</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch3" data-uslm-ref="/us/usc/t26/stA/ch3">3.</a>  </td>
 
     <td> Withholding of tax on nonresident aliens and foreign corporations  </td>
 
-    <td> 1441  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1441" data-uslm-ref="/us/usc/t26/s1441">1441</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch4" data-uslm-ref="/us/usc/t26/stA/ch4">4.</a>  </td>
 
     <td> Taxes to enforce reporting on certain foreign accounts  </td>
 
-    <td> 1471  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1471" data-uslm-ref="/us/usc/t26/s1471">1471</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [5.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch5" data-uslm-ref="/us/usc/t26/stA/ch5">5.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -46841,11 +46841,11 @@ Subtitle A—Income Taxes  </td>
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch6" data-uslm-ref="/us/usc/t26/stA/ch6">6.</a>  </td>
 
     <td> Consolidated returns  </td>
 
-    <td> 1501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1501" data-uslm-ref="/us/usc/t26/s1501">1501</a>  </td>
 
   </tr>
 
@@ -46859,51 +46859,51 @@ Subtitle B—Estate and Gift Taxes  </td>
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch11" data-uslm-ref="/us/usc/t26/stB/ch11">11.</a>  </td>
 
     <td> Estate tax  </td>
 
-    <td> 2001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2001" data-uslm-ref="/us/usc/t26/s2001">2001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch12" data-uslm-ref="/us/usc/t26/stB/ch12">12.</a>  </td>
 
     <td> Gift tax  </td>
 
-    <td> 2501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2501" data-uslm-ref="/us/usc/t26/s2501">2501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch13" data-uslm-ref="/us/usc/t26/stB/ch13">13.</a>  </td>
 
     <td> Tax on generation-skipping transfers  </td>
 
-    <td> 2601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2601" data-uslm-ref="/us/usc/t26/s2601">2601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 14.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch14" data-uslm-ref="/us/usc/t26/stB/ch14">14.</a>  </td>
 
     <td> Special valuation rules  </td>
 
-    <td> 2701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2701" data-uslm-ref="/us/usc/t26/s2701">2701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch15" data-uslm-ref="/us/usc/t26/stB/ch15">15.</a>  </td>
 
     <td> Gifts and bequests from expatriates  </td>
 
-    <td> 2801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2801" data-uslm-ref="/us/usc/t26/s2801">2801</a>  </td>
 
   </tr>
 
@@ -46917,61 +46917,61 @@ Subtitle C—Employment Taxes  </td>
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstC%2Fch21" data-uslm-ref="/us/usc/t26/stC/ch21">21.</a>  </td>
 
     <td> Federal insurance contributions act  </td>
 
-    <td> 3101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3101" data-uslm-ref="/us/usc/t26/s3101">3101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 22.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstC%2Fch22" data-uslm-ref="/us/usc/t26/stC/ch22">22.</a>  </td>
 
     <td> Railroad retirement tax act  </td>
 
-    <td> 3201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3201" data-uslm-ref="/us/usc/t26/s3201">3201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstC%2Fch23" data-uslm-ref="/us/usc/t26/stC/ch23">23.</a>  </td>
 
     <td> Federal unemployment tax act  </td>
 
-    <td> 3301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3301" data-uslm-ref="/us/usc/t26/s3301">3301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 23A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstC%2Fch23A" data-uslm-ref="/us/usc/t26/stC/ch23A">23A.</a>  </td>
 
     <td> Railroad unemployment repayment tax  </td>
 
-    <td> 3321  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3321" data-uslm-ref="/us/usc/t26/s3321">3321</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 24.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstC%2Fch24" data-uslm-ref="/us/usc/t26/stC/ch24">24.</a>  </td>
 
     <td> Collection of income tax at source on wages  </td>
 
-    <td> 3401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3401" data-uslm-ref="/us/usc/t26/s3401">3401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 25.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstC%2Fch25" data-uslm-ref="/us/usc/t26/stC/ch25">25.</a>  </td>
 
     <td> General provisions relating to employment taxes  </td>
 
-    <td> 3501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3501" data-uslm-ref="/us/usc/t26/s3501">3501</a>  </td>
 
   </tr>
 
@@ -46985,67 +46985,67 @@ Subtitle D—Miscellaneous Excise Taxes  </td>
 
   <tr>
 
-    <td> 31.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch31" data-uslm-ref="/us/usc/t26/stD/ch31">31.</a>  </td>
 
     <td> Retail excise taxes  </td>
 
-    <td> 4001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4001" data-uslm-ref="/us/usc/t26/s4001">4001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 32.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch32" data-uslm-ref="/us/usc/t26/stD/ch32">32.</a>  </td>
 
     <td> Manufacturers excise taxes  </td>
 
-    <td> 4061  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4061" data-uslm-ref="/us/usc/t26/s4061">4061</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 33.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch33" data-uslm-ref="/us/usc/t26/stD/ch33">33.</a>  </td>
 
     <td> Facilities and services  </td>
 
-    <td> 4231  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4231" data-uslm-ref="/us/usc/t26/s4231">4231</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 34.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch34" data-uslm-ref="/us/usc/t26/stD/ch34">34.</a>  </td>
 
     <td> Taxes on certain insurance policies  </td>
 
-    <td> 4371  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4371" data-uslm-ref="/us/usc/t26/s4371">4371</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 35.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch35" data-uslm-ref="/us/usc/t26/stD/ch35">35.</a>  </td>
 
     <td> Taxes on wagering  </td>
 
-    <td> 4401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4401" data-uslm-ref="/us/usc/t26/s4401">4401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 36.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch36" data-uslm-ref="/us/usc/t26/stD/ch36">36.</a>  </td>
 
     <td> Certain other excise taxes  </td>
 
-    <td> 4451  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4451" data-uslm-ref="/us/usc/t26/s4451">4451</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [37.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch37" data-uslm-ref="/us/usc/t26/stD/ch37">37.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -47055,131 +47055,131 @@ Subtitle D—Miscellaneous Excise Taxes  </td>
 
   <tr>
 
-    <td> 38.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch38" data-uslm-ref="/us/usc/t26/stD/ch38">38.</a>  </td>
 
     <td> Environmental taxes  </td>
 
-    <td> 4611  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4611" data-uslm-ref="/us/usc/t26/s4611">4611</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 39.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch39" data-uslm-ref="/us/usc/t26/stD/ch39">39.</a>  </td>
 
     <td> Registration-required obligations  </td>
 
-    <td> 4701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4701" data-uslm-ref="/us/usc/t26/s4701">4701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 40.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch40" data-uslm-ref="/us/usc/t26/stD/ch40">40.</a>  </td>
 
     <td> General provisions relating to occupational taxes  </td>
 
-    <td> 4901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4901" data-uslm-ref="/us/usc/t26/s4901">4901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 41.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch41" data-uslm-ref="/us/usc/t26/stD/ch41">41.</a>  </td>
 
     <td> Public charities  </td>
 
-    <td> 4911  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4911" data-uslm-ref="/us/usc/t26/s4911">4911</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 42.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch42" data-uslm-ref="/us/usc/t26/stD/ch42">42.</a>  </td>
 
     <td> Private foundations; and certain other tax-exempt organizations  </td>
 
-    <td> 4940  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4940" data-uslm-ref="/us/usc/t26/s4940">4940</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 43.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch43" data-uslm-ref="/us/usc/t26/stD/ch43">43.</a>  </td>
 
     <td> Qualified pension, etc., plans  </td>
 
-    <td> 4971  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4971" data-uslm-ref="/us/usc/t26/s4971">4971</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 44.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch44" data-uslm-ref="/us/usc/t26/stD/ch44">44.</a>  </td>
 
     <td> Qualified investment entities  </td>
 
-    <td> 4981  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4981" data-uslm-ref="/us/usc/t26/s4981">4981</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 45.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch45" data-uslm-ref="/us/usc/t26/stD/ch45">45.</a>  </td>
 
     <td> Provisions relating to expatriated entities  </td>
 
-    <td> 4985  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4985" data-uslm-ref="/us/usc/t26/s4985">4985</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 46.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch46" data-uslm-ref="/us/usc/t26/stD/ch46">46.</a>  </td>
 
     <td> Golden parachute payments  </td>
 
-    <td> 4999  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4999" data-uslm-ref="/us/usc/t26/s4999">4999</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 47.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch47" data-uslm-ref="/us/usc/t26/stD/ch47">47.</a>  </td>
 
     <td> Certain group health plans  </td>
 
-    <td> 5000  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5000" data-uslm-ref="/us/usc/t26/s5000">5000</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 48.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch48" data-uslm-ref="/us/usc/t26/stD/ch48">48.</a>  </td>
 
     <td> Maintenance of minimum essential coverage  </td>
 
-    <td> 5000A  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5000A" data-uslm-ref="/us/usc/t26/s5000A">5000A</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 49.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch49" data-uslm-ref="/us/usc/t26/stD/ch49">49.</a>  </td>
 
     <td> Cosmetic services  </td>
 
-    <td> 5000B  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5000B" data-uslm-ref="/us/usc/t26/s5000B">5000B</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 50.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch50" data-uslm-ref="/us/usc/t26/stD/ch50">50.</a>  </td>
 
     <td> Foreign procurement  </td>
 
-    <td> 5000C  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5000C" data-uslm-ref="/us/usc/t26/s5000C">5000C</a>  </td>
 
   </tr>
 
@@ -47193,51 +47193,51 @@ Subtitle E—Alcohol, Tobacco, and Certain Other Excise Taxes  </td>
 
   <tr>
 
-    <td> 51.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51" data-uslm-ref="/us/usc/t26/stE/ch51">51.</a>  </td>
 
     <td> Distilled spirits, wines, and beer  </td>
 
-    <td> 5001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5001" data-uslm-ref="/us/usc/t26/s5001">5001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 52.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch52" data-uslm-ref="/us/usc/t26/stE/ch52">52.</a>  </td>
 
     <td> Tobacco products and cigarette papers and tubes  </td>
 
-    <td> 5701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5701" data-uslm-ref="/us/usc/t26/s5701">5701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 53.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch53" data-uslm-ref="/us/usc/t26/stE/ch53">53.</a>  </td>
 
     <td> Machine guns, destructive devices, and certain other firearms  </td>
 
-    <td> 5801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5801" data-uslm-ref="/us/usc/t26/s5801">5801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 54.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch54" data-uslm-ref="/us/usc/t26/stE/ch54">54.</a>  </td>
 
     <td> Greenmail  </td>
 
-    <td> 5881  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5881" data-uslm-ref="/us/usc/t26/s5881">5881</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 55.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch55" data-uslm-ref="/us/usc/t26/stE/ch55">55.</a>  </td>
 
     <td> Structured settlement factoring transactions  </td>
 
-    <td> 5891  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5891" data-uslm-ref="/us/usc/t26/s5891">5891</a>  </td>
 
   </tr>
 
@@ -47251,201 +47251,201 @@ Subtitle F—Procedure and Administration  </td>
 
   <tr>
 
-    <td> 61.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61" data-uslm-ref="/us/usc/t26/stF/ch61">61.</a>  </td>
 
     <td> Information and returns  </td>
 
-    <td> 6001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6001" data-uslm-ref="/us/usc/t26/s6001">6001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 62.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch62" data-uslm-ref="/us/usc/t26/stF/ch62">62.</a>  </td>
 
     <td> Time and place for paying tax  </td>
 
-    <td> 6151  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6151" data-uslm-ref="/us/usc/t26/s6151">6151</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 63.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch63" data-uslm-ref="/us/usc/t26/stF/ch63">63.</a>  </td>
 
     <td> Assessment  </td>
 
-    <td> 6201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6201" data-uslm-ref="/us/usc/t26/s6201">6201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 64.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch64" data-uslm-ref="/us/usc/t26/stF/ch64">64.</a>  </td>
 
     <td> Collection  </td>
 
-    <td> 6301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6301" data-uslm-ref="/us/usc/t26/s6301">6301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 65.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch65" data-uslm-ref="/us/usc/t26/stF/ch65">65.</a>  </td>
 
     <td> Abatements, credits, and refunds  </td>
 
-    <td> 6401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6401" data-uslm-ref="/us/usc/t26/s6401">6401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 66.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch66" data-uslm-ref="/us/usc/t26/stF/ch66">66.</a>  </td>
 
     <td> Limitations  </td>
 
-    <td> 6501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6501" data-uslm-ref="/us/usc/t26/s6501">6501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 67.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch67" data-uslm-ref="/us/usc/t26/stF/ch67">67.</a>  </td>
 
     <td> Interest  </td>
 
-    <td> 6601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6601" data-uslm-ref="/us/usc/t26/s6601">6601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 68.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch68" data-uslm-ref="/us/usc/t26/stF/ch68">68.</a>  </td>
 
     <td> Additions to the tax, additional amounts, and assessable penalties  </td>
 
-    <td> 6651  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6651" data-uslm-ref="/us/usc/t26/s6651">6651</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 69.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch69" data-uslm-ref="/us/usc/t26/stF/ch69">69.</a>  </td>
 
     <td> General provisions relating to stamps  </td>
 
-    <td> 6801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6801" data-uslm-ref="/us/usc/t26/s6801">6801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 70.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch70" data-uslm-ref="/us/usc/t26/stF/ch70">70.</a>  </td>
 
     <td> Jeopardy, receiverships, etc.  </td>
 
-    <td> 6851  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6851" data-uslm-ref="/us/usc/t26/s6851">6851</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 71.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch71" data-uslm-ref="/us/usc/t26/stF/ch71">71.</a>  </td>
 
     <td> Transferees and fiduciaries  </td>
 
-    <td> 6901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6901" data-uslm-ref="/us/usc/t26/s6901">6901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 72.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch72" data-uslm-ref="/us/usc/t26/stF/ch72">72.</a>  </td>
 
     <td> Licensing and registration  </td>
 
-    <td> 7001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7001" data-uslm-ref="/us/usc/t26/s7001">7001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 73.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch73" data-uslm-ref="/us/usc/t26/stF/ch73">73.</a>  </td>
 
     <td> Bonds  </td>
 
-    <td> 7101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7101" data-uslm-ref="/us/usc/t26/s7101">7101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 74.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch74" data-uslm-ref="/us/usc/t26/stF/ch74">74.</a>  </td>
 
     <td> Closing agreements and compromises  </td>
 
-    <td> 7121  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7121" data-uslm-ref="/us/usc/t26/s7121">7121</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 75.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch75" data-uslm-ref="/us/usc/t26/stF/ch75">75.</a>  </td>
 
     <td> Crimes, other offenses, and forfeitures  </td>
 
-    <td> 7201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7201" data-uslm-ref="/us/usc/t26/s7201">7201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 76.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch76" data-uslm-ref="/us/usc/t26/stF/ch76">76.</a>  </td>
 
     <td> Judicial proceedings  </td>
 
-    <td> 7401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7401" data-uslm-ref="/us/usc/t26/s7401">7401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 77.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch77" data-uslm-ref="/us/usc/t26/stF/ch77">77.</a>  </td>
 
     <td> Miscellaneous provisions  </td>
 
-    <td> 7501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7501" data-uslm-ref="/us/usc/t26/s7501">7501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 78.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch78" data-uslm-ref="/us/usc/t26/stF/ch78">78.</a>  </td>
 
     <td> Discovery of liability and enforcement of title  </td>
 
-    <td> 7601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7601" data-uslm-ref="/us/usc/t26/s7601">7601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 79.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch79" data-uslm-ref="/us/usc/t26/stF/ch79">79.</a>  </td>
 
     <td> Definitions  </td>
 
-    <td> 7701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7701" data-uslm-ref="/us/usc/t26/s7701">7701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 80.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch80" data-uslm-ref="/us/usc/t26/stF/ch80">80.</a>  </td>
 
     <td> General Rules  </td>
 
-    <td> 7801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7801" data-uslm-ref="/us/usc/t26/s7801">7801</a>  </td>
 
   </tr>
 
@@ -47459,21 +47459,21 @@ Subtitle G—The Joint Committee on Taxation  </td>
 
   <tr>
 
-    <td> 91.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstG%2Fch91" data-uslm-ref="/us/usc/t26/stG/ch91">91.</a>  </td>
 
     <td> Organization and membership of the Joint Committee  </td>
 
-    <td> 8001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs8001" data-uslm-ref="/us/usc/t26/s8001">8001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 92.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstG%2Fch92" data-uslm-ref="/us/usc/t26/stG/ch92">92.</a>  </td>
 
     <td> Powers and duties of the Joint Committee  </td>
 
-    <td> 8021  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs8021" data-uslm-ref="/us/usc/t26/s8021">8021</a>  </td>
 
   </tr>
 
@@ -47487,21 +47487,21 @@ Subtitle H—Financing of Presidential Election Campaigns  </td>
 
   <tr>
 
-    <td> 95.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstH%2Fch95" data-uslm-ref="/us/usc/t26/stH/ch95">95.</a>  </td>
 
     <td> Presidential election campaign fund  </td>
 
-    <td> 9001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9001" data-uslm-ref="/us/usc/t26/s9001">9001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 96.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstH%2Fch96" data-uslm-ref="/us/usc/t26/stH/ch96">96.</a>  </td>
 
     <td> Presidential primary matching payment account  </td>
 
-    <td> 9031  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9031" data-uslm-ref="/us/usc/t26/s9031">9031</a>  </td>
 
   </tr>
 
@@ -47515,11 +47515,11 @@ Subtitle I—Trust Fund Code  </td>
 
   <tr>
 
-    <td> 98.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstI%2Fch98" data-uslm-ref="/us/usc/t26/stI/ch98">98.</a>  </td>
 
     <td> Trust Fund Code  </td>
 
-    <td> 9501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9501" data-uslm-ref="/us/usc/t26/s9501">9501</a>  </td>
 
   </tr>
 
@@ -47533,11 +47533,11 @@ Subtitle J—Coal Industry Health Benefits  </td>
 
   <tr>
 
-    <td> 99.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstJ%2Fch99" data-uslm-ref="/us/usc/t26/stJ/ch99">99.</a>  </td>
 
     <td> Coal industry health benefits  </td>
 
-    <td> 9701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9701" data-uslm-ref="/us/usc/t26/s9701">9701</a>  </td>
 
   </tr>
 
@@ -47551,11 +47551,11 @@ Subtitle K—Group Health Plan Requirements  </td>
 
   <tr>
 
-    <td> 100.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstK%2Fch100" data-uslm-ref="/us/usc/t26/stK/ch100">100.</a>  </td>
 
     <td> Group health plan requirements  </td>
 
-    <td> 9801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9801" data-uslm-ref="/us/usc/t26/s9801">9801</a>  </td>
 
   </tr>
 

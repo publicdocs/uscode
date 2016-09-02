@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 651.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs651" data-uslm-ref="/us/usc/t26/s651">651.</a>  </td>
 
     <td> Deduction for trusts distributing current income only.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 652.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs652" data-uslm-ref="/us/usc/t26/s652">652.</a>  </td>
 
     <td> Inclusion of amounts in gross income of beneficiaries of trusts distributing current income only.  </td>
 

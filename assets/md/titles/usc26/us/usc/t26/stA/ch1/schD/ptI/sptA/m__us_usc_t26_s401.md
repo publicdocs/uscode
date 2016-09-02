@@ -3177,11 +3177,9 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 
 >                 “(II) any subsequent plan year.
 
->     “(5) __Plans may incorporate section 401__ 
+>     “(5) __Plans may incorporate section 401(a)(9) requirements by reference.—__ 
 
->         (a) __(9) requirements by reference.—__ 
-
->         Notwithstanding any other provision of law, except as provided in regulations prescribed by the Secretary of the Treasury or his delegate, a plan may incorporate by reference the requirements of section 401(a)(9) of the Internal Revenue Code of 1986.”
+>     Notwithstanding any other provision of law, except as provided in regulations prescribed by the Secretary of the Treasury or his delegate, a plan may incorporate by reference the requirements of section 401(a)(9) of the Internal Revenue Code of 1986.”
 
 [Pub. L. 99–514, title XI, § 1136(c)][/us/pl/99/514/s1136/c], Oct. 22, 1986, [100 Stat. 2486][/us/stat/100/2486], provided that: 
 

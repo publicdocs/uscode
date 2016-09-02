@@ -29,31 +29,31 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch68%2FschA" data-uslm-ref="/us/usc/t26/stF/ch68/schA">A.</a>  </td>
 
     <td> Additions to the tax and additional amounts  </td>
 
-    <td> 6651  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6651" data-uslm-ref="/us/usc/t26/s6651">6651</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch68%2FschB" data-uslm-ref="/us/usc/t26/stF/ch68/schB">B.</a>  </td>
 
     <td> Assessable penalties  </td>
 
-    <td> 6671  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6671" data-uslm-ref="/us/usc/t26/s6671">6671</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch68%2FschC" data-uslm-ref="/us/usc/t26/stF/ch68/schC">C.</a>  </td>
 
     <td> Procedural requirements  </td>
 
-    <td> 6751  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6751" data-uslm-ref="/us/usc/t26/s6751">6751</a>  </td>
 
   </tr>
 

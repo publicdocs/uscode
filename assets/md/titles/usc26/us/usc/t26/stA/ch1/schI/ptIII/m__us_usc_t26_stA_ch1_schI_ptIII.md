@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs631" data-uslm-ref="/us/usc/t26/s631">631.</a>  </td>
 
     <td> Gain or loss in the case of timber, coal, or domestic iron ore.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [632.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs632" data-uslm-ref="/us/usc/t26/s632">632.</a>  </td>
 
     <td> Repealed.]  </td>
 

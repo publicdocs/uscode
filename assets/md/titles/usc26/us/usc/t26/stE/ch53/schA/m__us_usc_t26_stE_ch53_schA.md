@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch53%2FschA%2FptI" data-uslm-ref="/us/usc/t26/stE/ch53/schA/ptI">I.</a>  </td>
 
     <td> Special (occupational) taxes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch53%2FschA%2FptII" data-uslm-ref="/us/usc/t26/stE/ch53/schA/ptII">II.</a>  </td>
 
     <td> Tax on transferring firearms.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch53%2FschA%2FptIII" data-uslm-ref="/us/usc/t26/stE/ch53/schA/ptIII">III.</a>  </td>
 
     <td> Tax on making firearms.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3501" data-uslm-ref="/us/usc/t26/s3501">3501.</a>  </td>
 
     <td> Collection and payment of taxes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3502" data-uslm-ref="/us/usc/t26/s3502">3502.</a>  </td>
 
     <td> Nondeductibility of taxes in computing taxable income.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3503" data-uslm-ref="/us/usc/t26/s3503">3503.</a>  </td>
 
     <td> Erroneous payments.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3504" data-uslm-ref="/us/usc/t26/s3504">3504.</a>  </td>
 
     <td> Acts to be performed by agents.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3505" data-uslm-ref="/us/usc/t26/s3505">3505.</a>  </td>
 
     <td> Liability of third parties paying or providing for wages.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3506" data-uslm-ref="/us/usc/t26/s3506">3506.</a>  </td>
 
     <td> Individuals providing companion sitting placement services.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [3507.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3507" data-uslm-ref="/us/usc/t26/s3507">3507.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3508" data-uslm-ref="/us/usc/t26/s3508">3508.</a>  </td>
 
     <td> Treatment of real estate agents and direct sellers.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3509" data-uslm-ref="/us/usc/t26/s3509">3509.</a>  </td>
 
     <td> Determination of employer’s liability for certain employment taxes.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3510" data-uslm-ref="/us/usc/t26/s3510">3510.</a>  </td>
 
     <td> Coordination of collection of domestic service employment taxes with collection of income taxes.  </td>
 

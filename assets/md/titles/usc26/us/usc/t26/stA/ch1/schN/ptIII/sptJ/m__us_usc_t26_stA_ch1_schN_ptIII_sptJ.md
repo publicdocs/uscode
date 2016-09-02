@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 985.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs985" data-uslm-ref="/us/usc/t26/s985">985.</a>  </td>
 
     <td> Functional currency.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 986.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs986" data-uslm-ref="/us/usc/t26/s986">986.</a>  </td>
 
     <td> Determination of foreign taxes and foreign corporation’s earnings and profits.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 987.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs987" data-uslm-ref="/us/usc/t26/s987">987.</a>  </td>
 
     <td> Branch transactions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 988.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs988" data-uslm-ref="/us/usc/t26/s988">988.</a>  </td>
 
     <td> Treatment of certain foreign currency transactions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 989.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs989" data-uslm-ref="/us/usc/t26/s989">989.</a>  </td>
 
     <td> Other definitions and special rules.  </td>
 

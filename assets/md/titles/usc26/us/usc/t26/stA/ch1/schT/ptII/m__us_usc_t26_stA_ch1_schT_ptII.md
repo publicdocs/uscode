@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1385.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1385" data-uslm-ref="/us/usc/t26/s1385">1385.</a>  </td>
 
     <td> Amounts includible in patron’s gross income.  </td>
 

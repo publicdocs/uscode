@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs351" data-uslm-ref="/us/usc/t26/s351">351.</a>  </td>
 
     <td> Transfer to corporation controlled by transferor.  </td>
 

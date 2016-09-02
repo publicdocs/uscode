@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 665.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs665" data-uslm-ref="/us/usc/t26/s665">665.</a>  </td>
 
     <td> Definitions applicable to subpart D.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 666.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs666" data-uslm-ref="/us/usc/t26/s666">666.</a>  </td>
 
     <td> Accumulation distribution allocated to preceding years.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 667.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs667" data-uslm-ref="/us/usc/t26/s667">667.</a>  </td>
 
     <td> Treatment of amounts deemed distributed by trust in preceding years.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 668.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs668" data-uslm-ref="/us/usc/t26/s668">668.</a>  </td>
 
     <td> Interest charge on accumulation distributions from foreign trusts.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [669.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs669" data-uslm-ref="/us/usc/t26/s669">669.</a>  </td>
 
     <td> Repealed.]  </td>
 

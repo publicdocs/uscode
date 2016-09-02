@@ -2197,11 +2197,9 @@
 
 [Pub. L. 98–369, div. A, title III, § 301(d)][/us/pl/98/369/s301/d], July 18, 1984, [98 Stat. 779][/us/stat/98/779], provided that:
 
->     “(1) __Subsections__ 
+>     “(1) __Subsections (a) and (c).—__ 
 
->         (a) __and (c).—__ 
-
->         The amendments made by subsections (a) and (c) \[amending this section\] shall apply to contributions made in taxable years ending after the date of the enactment of this Act \[July 18, 1984\].
+>     The amendments made by subsections (a) and (c) \[amending this section\] shall apply to contributions made in taxable years ending after the date of the enactment of this Act \[July 18, 1984\].
 
 >     “(2) __Subsection (b).—__ 
 

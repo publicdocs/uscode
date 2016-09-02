@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6411" data-uslm-ref="/us/usc/t26/s6411">6411.</a>  </td>
 
     <td> Tentative carryback and refund adjustments.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6412" data-uslm-ref="/us/usc/t26/s6412">6412.</a>  </td>
 
     <td> Floor stocks refunds.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6413" data-uslm-ref="/us/usc/t26/s6413">6413.</a>  </td>
 
     <td> Special rules applicable to certain employment taxes.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6414" data-uslm-ref="/us/usc/t26/s6414">6414.</a>  </td>
 
     <td> Income tax withheld.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6415" data-uslm-ref="/us/usc/t26/s6415">6415.</a>  </td>
 
     <td> Credits or refunds to persons who collected certain taxes.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6416.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6416" data-uslm-ref="/us/usc/t26/s6416">6416.</a>  </td>
 
     <td> Certain taxes on sales and services.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [6417, 6418.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6417" data-uslm-ref="/us/usc/t26/s6417">6417</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6418" data-uslm-ref="/us/usc/t26/s6418">6418.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6419.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6419" data-uslm-ref="/us/usc/t26/s6419">6419.</a>  </td>
 
     <td> Excise tax on wagering.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 6420.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6420" data-uslm-ref="/us/usc/t26/s6420">6420.</a>  </td>
 
     <td> Gasoline used on farms.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 6421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6421" data-uslm-ref="/us/usc/t26/s6421">6421.</a>  </td>
 
     <td> Gasoline used for certain nonhighway purposes, used by local transit systems, or sold for certain exempt purposes.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 6422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6422" data-uslm-ref="/us/usc/t26/s6422">6422.</a>  </td>
 
     <td> Cross references.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 6423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6423" data-uslm-ref="/us/usc/t26/s6423">6423.</a>  </td>
 
     <td> Conditions to allowance in the case of alcohol and tobacco taxes.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> [6424.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6424" data-uslm-ref="/us/usc/t26/s6424">6424.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 6425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6425" data-uslm-ref="/us/usc/t26/s6425">6425.</a>  </td>
 
     <td> Adjustment of overpayment of estimated income tax by corporation.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 6426.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6426" data-uslm-ref="/us/usc/t26/s6426">6426.</a>  </td>
 
     <td> Credit for alcohol fuel, biodiesel, and alternative fuel mixtures.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 6427.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6427" data-uslm-ref="/us/usc/t26/s6427">6427.</a>  </td>
 
     <td> Fuels not used for taxable purposes.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 6428.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6428" data-uslm-ref="/us/usc/t26/s6428">6428.</a>  </td>
 
     <td> 2008 recovery rebates for individuals.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 6429.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6429" data-uslm-ref="/us/usc/t26/s6429">6429.</a>  </td>
 
     <td> Advance payment of portion of increased child credit for 2003.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 6430.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6430" data-uslm-ref="/us/usc/t26/s6430">6430.</a>  </td>
 
     <td> Treatment of tax imposed at Leaking Underground Storage Tank Trust Fund financing rate.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 6431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6431" data-uslm-ref="/us/usc/t26/s6431">6431.</a>  </td>
 
     <td> Credit for qualified bonds allowed to issuer.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 6432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6432" data-uslm-ref="/us/usc/t26/s6432">6432.</a>  </td>
 
     <td> COBRA premium assistance.  </td>
 

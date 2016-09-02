@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschC%2FptIII%2FsptA" data-uslm-ref="/us/usc/t26/stA/ch1/schC/ptIII/sptA">A.</a>  </td>
 
     <td> Corporate organizations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschC%2FptIII%2FsptB" data-uslm-ref="/us/usc/t26/stA/ch1/schC/ptIII/sptB">B.</a>  </td>
 
     <td> Effects on shareholders and security holders.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschC%2FptIII%2FsptC" data-uslm-ref="/us/usc/t26/stA/ch1/schC/ptIII/sptC">C.</a>  </td>
 
     <td> Effects on corporations. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to subpart heading. </sup></sup>   </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschC%2FptIII%2FsptD" data-uslm-ref="/us/usc/t26/stA/ch1/schC/ptIII/sptD">D.</a>  </td>
 
     <td> Special rule; definitions.  </td>
 

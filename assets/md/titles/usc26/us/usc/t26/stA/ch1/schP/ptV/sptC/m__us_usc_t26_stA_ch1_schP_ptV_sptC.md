@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1281.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1281" data-uslm-ref="/us/usc/t26/s1281">1281.</a>  </td>
 
     <td> Current inclusion in income of discount on certain short-term obligations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1282.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1282" data-uslm-ref="/us/usc/t26/s1282">1282.</a>  </td>
 
     <td> Deferral of interest deduction allocable to accrued discount.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1283.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1283" data-uslm-ref="/us/usc/t26/s1283">1283.</a>  </td>
 
     <td> Definitions and special rules.  </td>
 

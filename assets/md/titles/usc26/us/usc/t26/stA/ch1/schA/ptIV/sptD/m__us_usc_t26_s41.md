@@ -1141,11 +1141,9 @@
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 28 \[now 45C\] of this title\] shall apply to taxable years ending after June 30, 1996.
 
->     “(2) __Subsections__ 
+>     “(2) __Subsections (c) and (d).—__ 
 
->         (c) __and (d).—__ 
-
->         The amendments made by subsections (c) and (d) \[amending this section\] shall apply to taxable years beginning after June 30, 1996.
+>     The amendments made by subsections (c) and (d) \[amending this section\] shall apply to taxable years beginning after June 30, 1996.
 
 >     “(3) __Estimated tax.—__ 
 

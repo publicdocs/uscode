@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1201" data-uslm-ref="/us/usc/t26/s1201">1201.</a>  </td>
 
     <td> Alternative tax for corporations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1202" data-uslm-ref="/us/usc/t26/s1202">1202.</a>  </td>
 
     <td> Partial exclusion for gain from certain small business stock.  </td>
 

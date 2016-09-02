@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1301" data-uslm-ref="/us/usc/t26/s1301">1301.</a>  </td>
 
     <td> Averaging of farm income.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschE%2FptII%2FsptA" data-uslm-ref="/us/usc/t26/stA/ch1/schE/ptII/sptA">A.</a>  </td>
 
     <td> Methods of accounting in general.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschE%2FptII%2FsptB" data-uslm-ref="/us/usc/t26/stA/ch1/schE/ptII/sptB">B.</a>  </td>
 
     <td> Taxable year for which items of gross income included.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschE%2FptII%2FsptC" data-uslm-ref="/us/usc/t26/stA/ch1/schE/ptII/sptC">C.</a>  </td>
 
     <td> Taxable year for which deductions taken.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschE%2FptII%2FsptD" data-uslm-ref="/us/usc/t26/stA/ch1/schE/ptII/sptD">D.</a>  </td>
 
     <td> Inventories.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 55.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs55" data-uslm-ref="/us/usc/t26/s55">55.</a>  </td>
 
     <td> Alternative minimum tax imposed.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 56.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs56" data-uslm-ref="/us/usc/t26/s56">56.</a>  </td>
 
     <td> Adjustments in computing alternative minimum taxable income.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 57.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs57" data-uslm-ref="/us/usc/t26/s57">57.</a>  </td>
 
     <td> Items of tax preference.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 58.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs58" data-uslm-ref="/us/usc/t26/s58">58.</a>  </td>
 
     <td> Denial of certain losses.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 59.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs59" data-uslm-ref="/us/usc/t26/s59">59.</a>  </td>
 
     <td> Other definitions and special rules.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch63%2FschD%2FptII%2FsptA" data-uslm-ref="/us/usc/t26/stF/ch63/schD/ptII/sptA">A.</a>  </td>
 
     <td> Adjustments by Secretary.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch63%2FschD%2FptII%2FsptB" data-uslm-ref="/us/usc/t26/stF/ch63/schD/ptII/sptB">B.</a>  </td>
 
     <td> Claims for adjustments by partnership.  </td>
 

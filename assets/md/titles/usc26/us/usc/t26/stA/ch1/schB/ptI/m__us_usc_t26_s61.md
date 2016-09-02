@@ -141,19 +141,17 @@
 
 >         “(2) any qualified taxpayer who materially participates in the diversion and devotion to conservation uses required under a 1983 payment-in-kind program shall be treated as materially participating in the operation of such land during such crop year.
 
->     “(b) __Provisions to Which Subsection__ 
+>     “(b) __Provisions to Which Subsection (a) Applies.—__ 
 
->         (a) __Applies.—__ 
+>     The provisions specified in this subsection are—
 
->         The provisions specified in this subsection are—
+>         “(1) section 2032A of the Internal Revenue Code of 1986 (relating to valuation of certain farm, etc., real property),
 
->     “(1) section 2032A of the Internal Revenue Code of 1986 (relating to valuation of certain farm, etc., real property),
+>         “(2) section 6166 of such Code (relating to extension of time for payment of estate tax where estate consists largely of interest in closely held business),
 
->     “(2) section 6166 of such Code (relating to extension of time for payment of estate tax where estate consists largely of interest in closely held business),
+>         “(3) chapter 2 of such Code (relating to tax on self-employment income), and
 
->     “(3) chapter 2 of such Code (relating to tax on self-employment income), and
-
->     “(4) title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] (relating to Federal old-age, survivors, and disability insurance benefits).
+>         “(4) title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] (relating to Federal old-age, survivors, and disability insurance benefits).
 
 > “SEC. 4. __ANTIABUSE RULES.__ 
 

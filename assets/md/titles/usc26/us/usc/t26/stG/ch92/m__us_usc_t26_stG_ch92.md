@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8021.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs8021" data-uslm-ref="/us/usc/t26/s8021">8021.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8022.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs8022" data-uslm-ref="/us/usc/t26/s8022">8022.</a>  </td>
 
     <td> Duties.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8023.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs8023" data-uslm-ref="/us/usc/t26/s8023">8023.</a>  </td>
 
     <td> Additional powers to obtain data.  </td>
 

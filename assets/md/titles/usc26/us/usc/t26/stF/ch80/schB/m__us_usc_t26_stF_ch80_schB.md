@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7851.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7851" data-uslm-ref="/us/usc/t26/s7851">7851.</a>  </td>
 
     <td> Applicability of revenue laws.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7852.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7852" data-uslm-ref="/us/usc/t26/s7852">7852.</a>  </td>
 
     <td> Other applicable rules.  </td>
 

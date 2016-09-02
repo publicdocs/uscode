@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs721" data-uslm-ref="/us/usc/t26/s721">721.</a>  </td>
 
     <td> Nonrecognition of gain or loss on contribution.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs722" data-uslm-ref="/us/usc/t26/s722">722.</a>  </td>
 
     <td> Basis of contributing partner’s interest.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 723.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs723" data-uslm-ref="/us/usc/t26/s723">723.</a>  </td>
 
     <td> Basis of property contributed to partnership.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 724.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs724" data-uslm-ref="/us/usc/t26/s724">724.</a>  </td>
 
     <td> Character of gain or loss on contributed unrealized receivables, inventory items, and capital loss property.  </td>
 

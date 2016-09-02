@@ -401,9 +401,9 @@
 
 >     “Effective dates.—
 
->     “(1) __Subsections__ 
+>     “(1) __Subsections (a), (c) and (d).—__ 
 
->         (a), (c) and (d).—The amendments made by subsections (a), (c), and (d) \[amending sections 202 and 205 of [Pub. L. 91–373][/us/pl/91/373] and [section 102 of Pub. L. 93–57][/us/pl/93/57/s102] set out below, [section 49d of Title 29][/us/usc/t29/s49d], Labor, and [section 1301 of Title 42][/us/usc/t42/s1301], The Public Health and Welfare\] shall take effect on the later of October 1, 1976, or the day after the day on which the Secretary of Labor approves under section 3304(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] an unemployment compensation law submitted to him by the Virgin Islands for approval.
+>     The amendments made by subsections (a), (c), and (d) \[amending sections 202 and 205 of [Pub. L. 91–373][/us/pl/91/373] and [section 102 of Pub. L. 93–57][/us/pl/93/57/s102] set out below, [section 49d of Title 29][/us/usc/t29/s49d], Labor, and [section 1301 of Title 42][/us/usc/t42/s1301], The Public Health and Welfare\] shall take effect on the later of October 1, 1976, or the day after the day on which the Secretary of Labor approves under section 3304(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] an unemployment compensation law submitted to him by the Virgin Islands for approval.
 
 >     “(2) __Subsection (b).—__ 
 

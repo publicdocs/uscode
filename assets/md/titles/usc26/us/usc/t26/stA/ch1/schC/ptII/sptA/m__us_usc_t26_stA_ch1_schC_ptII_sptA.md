@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs331" data-uslm-ref="/us/usc/t26/s331">331.</a>  </td>
 
     <td> Gain or loss to shareholder in corporate liquidations. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs332" data-uslm-ref="/us/usc/t26/s332">332.</a>  </td>
 
     <td> Complete liquidations of subsidiaries.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [333.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs333" data-uslm-ref="/us/usc/t26/s333">333.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs334" data-uslm-ref="/us/usc/t26/s334">334.</a>  </td>
 
     <td> Basis of property received in liquidations.  </td>
 

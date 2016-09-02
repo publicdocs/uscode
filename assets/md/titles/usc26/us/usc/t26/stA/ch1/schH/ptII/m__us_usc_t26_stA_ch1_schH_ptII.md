@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 591.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs591" data-uslm-ref="/us/usc/t26/s591">591.</a>  </td>
 
     <td> Deduction for dividends paid on deposits.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [592.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs592" data-uslm-ref="/us/usc/t26/s592">592.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 593.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs593" data-uslm-ref="/us/usc/t26/s593">593.</a>  </td>
 
     <td> Reserves for losses on loans.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 594.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs594" data-uslm-ref="/us/usc/t26/s594">594.</a>  </td>
 
     <td> Alternative tax for mutual savings banks conducting life insurance business.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [595, 596.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs595" data-uslm-ref="/us/usc/t26/s595">595</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs596" data-uslm-ref="/us/usc/t26/s596">596.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 597.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs597" data-uslm-ref="/us/usc/t26/s597">597.</a>  </td>
 
     <td> Treatment of transactions in which Federal financial assistance provided.  </td>
 

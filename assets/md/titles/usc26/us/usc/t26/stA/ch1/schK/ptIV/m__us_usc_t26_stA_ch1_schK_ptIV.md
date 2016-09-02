@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 771.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs771" data-uslm-ref="/us/usc/t26/s771">771.</a>  </td>
 
     <td> Application of subchapter to electing large partnerships.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 772.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs772" data-uslm-ref="/us/usc/t26/s772">772.</a>  </td>
 
     <td> Simplified flow-through.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 773.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs773" data-uslm-ref="/us/usc/t26/s773">773.</a>  </td>
 
     <td> Computations at partnership level.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 774.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs774" data-uslm-ref="/us/usc/t26/s774">774.</a>  </td>
 
     <td> Other modifications.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 775.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs775" data-uslm-ref="/us/usc/t26/s775">775.</a>  </td>
 
     <td> Electing large partnership defined.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 776.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs776" data-uslm-ref="/us/usc/t26/s776">776.</a>  </td>
 
     <td> Special rules for partnerships holding oil and gas properties.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 777.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs777" data-uslm-ref="/us/usc/t26/s777">777.</a>  </td>
 
     <td> Regulations.  </td>
 

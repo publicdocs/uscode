@@ -29,41 +29,41 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch38%2FschA" data-uslm-ref="/us/usc/t26/stD/ch38/schA">A.</a>  </td>
 
     <td> Tax on petroleum  </td>
 
-    <td> 4611  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4611" data-uslm-ref="/us/usc/t26/s4611">4611</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch38%2FschB" data-uslm-ref="/us/usc/t26/stD/ch38/schB">B.</a>  </td>
 
     <td> Tax on certain chemicals  </td>
 
-    <td> 4661  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4661" data-uslm-ref="/us/usc/t26/s4661">4661</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch38%2FschC" data-uslm-ref="/us/usc/t26/stD/ch38/schC">C.</a>  </td>
 
     <td> Tax on certain imported substances  </td>
 
-    <td> 4671  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4671" data-uslm-ref="/us/usc/t26/s4671">4671</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch38%2FschD" data-uslm-ref="/us/usc/t26/stD/ch38/schD">D.</a>  </td>
 
     <td> Ozone-depleting chemicals, etc.  </td>
 
-    <td> 4681  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4681" data-uslm-ref="/us/usc/t26/s4681">4681</a>  </td>
 
   </tr>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1" data-uslm-ref="/us/usc/t26/stA/ch1">1.</a>  </td>
 
     <td> Normal taxes and surtaxes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch2" data-uslm-ref="/us/usc/t26/stA/ch2">2.</a>  </td>
 
     <td> Tax on self-employment income.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch2A" data-uslm-ref="/us/usc/t26/stA/ch2A">2A.</a>  </td>
 
     <td> Unearned income Medicare contribution.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch3" data-uslm-ref="/us/usc/t26/stA/ch3">3.</a>  </td>
 
     <td> Withholding of tax on nonresident aliens and foreign corporations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch4" data-uslm-ref="/us/usc/t26/stA/ch4">4.</a>  </td>
 
     <td> Taxes to enforce reporting on certain foreign accounts.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [5.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch5" data-uslm-ref="/us/usc/t26/stA/ch5">5.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch6" data-uslm-ref="/us/usc/t26/stA/ch6">6.</a>  </td>
 
     <td> Consolidated returns.  </td>
 

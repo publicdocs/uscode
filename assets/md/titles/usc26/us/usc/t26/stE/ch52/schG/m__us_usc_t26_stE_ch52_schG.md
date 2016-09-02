@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5761.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5761" data-uslm-ref="/us/usc/t26/s5761">5761.</a>  </td>
 
     <td> Civil penalties.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5762.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5762" data-uslm-ref="/us/usc/t26/s5762">5762.</a>  </td>
 
     <td> Criminal penalties.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5763.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5763" data-uslm-ref="/us/usc/t26/s5763">5763.</a>  </td>
 
     <td> Forfeitures.  </td>
 

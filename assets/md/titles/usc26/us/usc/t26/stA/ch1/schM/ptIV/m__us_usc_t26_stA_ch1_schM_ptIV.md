@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 860A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs860A" data-uslm-ref="/us/usc/t26/s860A">860A.</a>  </td>
 
     <td> Taxation of REMIC’s.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 860B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs860B" data-uslm-ref="/us/usc/t26/s860B">860B.</a>  </td>
 
     <td> Taxation of holders of regular interests.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 860C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs860C" data-uslm-ref="/us/usc/t26/s860C">860C.</a>  </td>
 
     <td> Taxation of residual interests.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 860D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs860D" data-uslm-ref="/us/usc/t26/s860D">860D.</a>  </td>
 
     <td> REMIC defined.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 860E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs860E" data-uslm-ref="/us/usc/t26/s860E">860E.</a>  </td>
 
     <td> Treatment of income in excess of daily accruals on residual interests.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 860F.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs860F" data-uslm-ref="/us/usc/t26/s860F">860F.</a>  </td>
 
     <td> Other rules.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 860G.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs860G" data-uslm-ref="/us/usc/t26/s860G">860G.</a>  </td>
 
     <td> Other definitions and special rules.  </td>
 

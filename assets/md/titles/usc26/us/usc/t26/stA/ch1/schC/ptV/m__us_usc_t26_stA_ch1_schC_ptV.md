@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs381" data-uslm-ref="/us/usc/t26/s381">381.</a>  </td>
 
     <td> Carryovers in certain corporate acquisitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 382.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs382" data-uslm-ref="/us/usc/t26/s382">382.</a>  </td>
 
     <td> Limitation on net operating loss carryforwards and certain built-in losses following ownership change.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 383.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs383" data-uslm-ref="/us/usc/t26/s383">383.</a>  </td>
 
     <td> Special limitations on certain excess credits, etc.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 384.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs384" data-uslm-ref="/us/usc/t26/s384">384.</a>  </td>
 
     <td> Limitation on use of preacquisition losses to offset built-in gains.  </td>
 

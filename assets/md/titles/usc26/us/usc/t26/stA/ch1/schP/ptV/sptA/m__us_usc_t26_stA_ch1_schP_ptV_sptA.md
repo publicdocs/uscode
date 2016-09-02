@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1271.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1271" data-uslm-ref="/us/usc/t26/s1271">1271.</a>  </td>
 
     <td> Treatment of amounts received on retirement or sale or exchange of debt instruments.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1272.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1272" data-uslm-ref="/us/usc/t26/s1272">1272.</a>  </td>
 
     <td> Current inclusion in income of original issue discount.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1273.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1273" data-uslm-ref="/us/usc/t26/s1273">1273.</a>  </td>
 
     <td> Determination of amount of original issue discount.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1274.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1274" data-uslm-ref="/us/usc/t26/s1274">1274.</a>  </td>
 
     <td> Determination of issue price in the case of certain debt instruments issued for property.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1274A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1274A" data-uslm-ref="/us/usc/t26/s1274A">1274A.</a>  </td>
 
     <td> Special rules for certain transactions where stated principal amount does not exceed $2,800,000.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1275.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1275" data-uslm-ref="/us/usc/t26/s1275">1275.</a>  </td>
 
     <td> Other definitions and special rules.  </td>
 

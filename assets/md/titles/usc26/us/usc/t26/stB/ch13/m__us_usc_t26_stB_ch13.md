@@ -29,71 +29,71 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch13%2FschA" data-uslm-ref="/us/usc/t26/stB/ch13/schA">A.</a>  </td>
 
     <td> Tax imposed  </td>
 
-    <td> 2601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2601" data-uslm-ref="/us/usc/t26/s2601">2601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch13%2FschB" data-uslm-ref="/us/usc/t26/stB/ch13/schB">B.</a>  </td>
 
     <td> Generation-skipping transfers  </td>
 
-    <td> 2611  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2611" data-uslm-ref="/us/usc/t26/s2611">2611</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch13%2FschC" data-uslm-ref="/us/usc/t26/stB/ch13/schC">C.</a>  </td>
 
     <td> Taxable amount  </td>
 
-    <td> 2621  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2621" data-uslm-ref="/us/usc/t26/s2621">2621</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch13%2FschD" data-uslm-ref="/us/usc/t26/stB/ch13/schD">D.</a>  </td>
 
     <td> GST exemption  </td>
 
-    <td> 2631  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2631" data-uslm-ref="/us/usc/t26/s2631">2631</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch13%2FschE" data-uslm-ref="/us/usc/t26/stB/ch13/schE">E.</a>  </td>
 
     <td> Applicable rate; inclusion ratio  </td>
 
-    <td> 2641  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2641" data-uslm-ref="/us/usc/t26/s2641">2641</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> F.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch13%2FschF" data-uslm-ref="/us/usc/t26/stB/ch13/schF">F.</a>  </td>
 
     <td> Other definitions and special rules  </td>
 
-    <td> 2651  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2651" data-uslm-ref="/us/usc/t26/s2651">2651</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> G.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch13%2FschG" data-uslm-ref="/us/usc/t26/stB/ch13/schG">G.</a>  </td>
 
     <td> Administration  </td>
 
-    <td> 2661  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2661" data-uslm-ref="/us/usc/t26/s2661">2661</a>  </td>
 
   </tr>
 

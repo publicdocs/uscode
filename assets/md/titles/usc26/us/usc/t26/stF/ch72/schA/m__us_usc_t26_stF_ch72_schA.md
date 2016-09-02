@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7001" data-uslm-ref="/us/usc/t26/s7001">7001.</a>  </td>
 
     <td> Collection of foreign items.  </td>
 

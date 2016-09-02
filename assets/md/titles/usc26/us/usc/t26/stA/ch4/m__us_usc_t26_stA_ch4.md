@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1471" data-uslm-ref="/us/usc/t26/s1471">1471.</a>  </td>
 
     <td> Withholdable payments to foreign financial institutions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1472" data-uslm-ref="/us/usc/t26/s1472">1472.</a>  </td>
 
     <td> Withholdable payments to other foreign entities.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1473.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1473" data-uslm-ref="/us/usc/t26/s1473">1473.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1474.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1474" data-uslm-ref="/us/usc/t26/s1474">1474.</a>  </td>
 
     <td> Special rules.  </td>
 

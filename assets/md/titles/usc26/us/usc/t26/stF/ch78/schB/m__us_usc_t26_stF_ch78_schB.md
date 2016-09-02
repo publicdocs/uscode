@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7621" data-uslm-ref="/us/usc/t26/s7621">7621.</a>  </td>
 
     <td> Internal revenue districts.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7622" data-uslm-ref="/us/usc/t26/s7622">7622.</a>  </td>
 
     <td> Authority to administer oaths and certify.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7623.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7623" data-uslm-ref="/us/usc/t26/s7623">7623.</a>  </td>
 
     <td> Expenses of detection of underpayments and fraud, etc.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7624.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7624" data-uslm-ref="/us/usc/t26/s7624">7624.</a>  </td>
 
     <td> Reimbursement to State and local law enforcement agencies.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2010.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2010" data-uslm-ref="/us/usc/t26/s2010">2010.</a>  </td>
 
     <td> Unified credit against estate tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2011" data-uslm-ref="/us/usc/t26/s2011">2011.</a>  </td>
 
     <td> Credit for State death taxes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2012" data-uslm-ref="/us/usc/t26/s2012">2012.</a>  </td>
 
     <td> Credit for gift tax.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2013" data-uslm-ref="/us/usc/t26/s2013">2013.</a>  </td>
 
     <td> Credit for tax on prior transfers.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2014.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2014" data-uslm-ref="/us/usc/t26/s2014">2014.</a>  </td>
 
     <td> Credit for foreign death taxes.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2015.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2015" data-uslm-ref="/us/usc/t26/s2015">2015.</a>  </td>
 
     <td> Credit for death taxes on remainders.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2016.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2016" data-uslm-ref="/us/usc/t26/s2016">2016.</a>  </td>
 
     <td> Recovery of taxes claimed as credit.  </td>
 

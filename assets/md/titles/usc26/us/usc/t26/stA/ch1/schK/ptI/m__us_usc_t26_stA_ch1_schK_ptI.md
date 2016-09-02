@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs701" data-uslm-ref="/us/usc/t26/s701">701.</a>  </td>
 
     <td> Partners, not partnership, subject to tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs702" data-uslm-ref="/us/usc/t26/s702">702.</a>  </td>
 
     <td> Income and credits of partner.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs703" data-uslm-ref="/us/usc/t26/s703">703.</a>  </td>
 
     <td> Partnership computations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs704" data-uslm-ref="/us/usc/t26/s704">704.</a>  </td>
 
     <td> Partner’s distributive share.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs705" data-uslm-ref="/us/usc/t26/s705">705.</a>  </td>
 
     <td> Determination of basis of partner’s interest.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs706" data-uslm-ref="/us/usc/t26/s706">706.</a>  </td>
 
     <td> Taxable years of partner and partnership.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs707" data-uslm-ref="/us/usc/t26/s707">707.</a>  </td>
 
     <td> Transactions between partner and partnership.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs708" data-uslm-ref="/us/usc/t26/s708">708.</a>  </td>
 
     <td> Continuation of partnership.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs709" data-uslm-ref="/us/usc/t26/s709">709.</a>  </td>
 
     <td> Treatment of organization and syndication fees.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7601" data-uslm-ref="/us/usc/t26/s7601">7601.</a>  </td>
 
     <td> Canvass of districts for taxable persons and objects.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7602" data-uslm-ref="/us/usc/t26/s7602">7602.</a>  </td>
 
     <td> Examination of books and witnesses.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7603" data-uslm-ref="/us/usc/t26/s7603">7603.</a>  </td>
 
     <td> Service of summons.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7604" data-uslm-ref="/us/usc/t26/s7604">7604.</a>  </td>
 
     <td> Enforcement of summons.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7605" data-uslm-ref="/us/usc/t26/s7605">7605.</a>  </td>
 
     <td> Time and place of examination.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7606" data-uslm-ref="/us/usc/t26/s7606">7606.</a>  </td>
 
     <td> Entry of premises for examination of taxable objects.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [7607.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7607" data-uslm-ref="/us/usc/t26/s7607">7607.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7608" data-uslm-ref="/us/usc/t26/s7608">7608.</a>  </td>
 
     <td> Authority of internal revenue enforcement officers.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 7609.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7609" data-uslm-ref="/us/usc/t26/s7609">7609.</a>  </td>
 
     <td> Special procedures for third-party summonses.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 7610.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7610" data-uslm-ref="/us/usc/t26/s7610">7610.</a>  </td>
 
     <td> Fees and costs for witnesses.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 7611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7611" data-uslm-ref="/us/usc/t26/s7611">7611.</a>  </td>
 
     <td> Restrictions on church tax inquiries and examinations.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 7612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7612" data-uslm-ref="/us/usc/t26/s7612">7612.</a>  </td>
 
     <td> Special procedures for summonses for computer software.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 7613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7613" data-uslm-ref="/us/usc/t26/s7613">7613.</a>  </td>
 
     <td> Cross references.  </td>
 

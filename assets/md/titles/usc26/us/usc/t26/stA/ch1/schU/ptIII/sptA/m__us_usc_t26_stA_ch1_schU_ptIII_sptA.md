@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1396.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1396" data-uslm-ref="/us/usc/t26/s1396">1396.</a>  </td>
 
     <td> Empowerment zone employment credit.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1397.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1397" data-uslm-ref="/us/usc/t26/s1397">1397.</a>  </td>
 
     <td> Other definitions and special rules.  </td>
 

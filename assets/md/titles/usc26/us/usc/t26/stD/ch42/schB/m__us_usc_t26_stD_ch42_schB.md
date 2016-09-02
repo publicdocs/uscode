@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4951.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4951" data-uslm-ref="/us/usc/t26/s4951">4951.</a>  </td>
 
     <td> Taxes on self-dealing.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4952.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4952" data-uslm-ref="/us/usc/t26/s4952">4952.</a>  </td>
 
     <td> Taxes on taxable expenditures.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4953.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4953" data-uslm-ref="/us/usc/t26/s4953">4953.</a>  </td>
 
     <td> Tax on excess contributions to black lung benefit trusts.  </td>
 

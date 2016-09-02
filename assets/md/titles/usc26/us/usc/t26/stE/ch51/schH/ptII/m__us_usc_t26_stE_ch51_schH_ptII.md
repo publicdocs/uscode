@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5511" data-uslm-ref="/us/usc/t26/s5511">5511.</a>  </td>
 
     <td> Establishment and operation.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs5512" data-uslm-ref="/us/usc/t26/s5512">5512.</a>  </td>
 
     <td> Control of products after manufacture.  </td>
 

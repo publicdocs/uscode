@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschC%2FptI" data-uslm-ref="/us/usc/t26/stA/ch1/schC/ptI">I.</a>  </td>
 
     <td> Distributions by corporations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschC%2FptII" data-uslm-ref="/us/usc/t26/stA/ch1/schC/ptII">II.</a>  </td>
 
     <td> Corporate liquidations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschC%2FptIII" data-uslm-ref="/us/usc/t26/stA/ch1/schC/ptIII">III.</a>  </td>
 
     <td> Corporate organizations and reorganizations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [IV.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschC%2FptIV" data-uslm-ref="/us/usc/t26/stA/ch1/schC/ptIV">IV.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> V.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschC%2FptV" data-uslm-ref="/us/usc/t26/stA/ch1/schC/ptV">V.</a>  </td>
 
     <td> Carryovers.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> VI.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschC%2FptVI" data-uslm-ref="/us/usc/t26/stA/ch1/schC/ptVI">VI.</a>  </td>
 
     <td> Treatment of certain corporate interests as stock or indebtedness.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [VII.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschC%2FptVII" data-uslm-ref="/us/usc/t26/stA/ch1/schC/ptVII">VII.</a>  </td>
 
     <td> Repealed.]  </td>
 

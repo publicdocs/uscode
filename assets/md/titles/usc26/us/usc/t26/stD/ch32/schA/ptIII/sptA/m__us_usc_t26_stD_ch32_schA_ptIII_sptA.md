@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4081.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4081" data-uslm-ref="/us/usc/t26/s4081">4081.</a>  </td>
 
     <td> Imposition of tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4082.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4082" data-uslm-ref="/us/usc/t26/s4082">4082.</a>  </td>
 
     <td> Exemptions for diesel fuel and kerosene.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4083.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4083" data-uslm-ref="/us/usc/t26/s4083">4083.</a>  </td>
 
     <td> Definitions; special rule; administrative authority.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4084.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4084" data-uslm-ref="/us/usc/t26/s4084">4084.</a>  </td>
 
     <td> Cross references.  </td>
 

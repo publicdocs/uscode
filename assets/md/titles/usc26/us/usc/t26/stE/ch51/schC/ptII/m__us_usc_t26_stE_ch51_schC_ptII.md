@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschC%2FptII%2FsptA" data-uslm-ref="/us/usc/t26/stE/ch51/schC/ptII/sptA">A.</a>  </td>
 
     <td> General  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschC%2FptII%2FsptB" data-uslm-ref="/us/usc/t26/stE/ch51/schC/ptII/sptB">B.</a>  </td>
 
     <td> Production.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschC%2FptII%2FsptC" data-uslm-ref="/us/usc/t26/stE/ch51/schC/ptII/sptC">C.</a>  </td>
 
     <td> Storage.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschC%2FptII%2FsptD" data-uslm-ref="/us/usc/t26/stE/ch51/schC/ptII/sptD">D.</a>  </td>
 
     <td> Denaturation.  </td>
 

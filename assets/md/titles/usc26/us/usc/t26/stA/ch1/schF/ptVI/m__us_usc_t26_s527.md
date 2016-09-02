@@ -471,11 +471,9 @@
 
 [Pub. L. 107–276, § 6(h)(1)][/us/pl/107/276/s6/h/1], (2), Nov. 2, 2002, [116 Stat. 1934][/us/stat/116/1934], provided that:
 
->     “(1) __Subsections__ 
+>     “(1) __Subsections (a) and (b).—__ 
 
->         (a) __and (b).—__ 
-
->         The amendments made by subsections (a) and (b) \[amending this section\] shall apply to failures occurring on or after the date of the enactment of this Act \[Nov. 2, 2002\].
+>     The amendments made by subsections (a) and (b) \[amending this section\] shall apply to failures occurring on or after the date of the enactment of this Act \[Nov. 2, 2002\].
 
 >     “(2) __Subsection (c).—__ 
 
@@ -483,17 +481,13 @@
 
 [Pub. L. 107–276, § 6(h)(4)][/us/pl/107/276/s6/h/4]–(6), Nov. 2, 2002, [116 Stat. 1934][/us/stat/116/1934], provided that:
 
->     “(4) __Subsections__ 
+>     “(4) __Subsections (e)(1) and (f).—__ 
 
->         (e)
+>     The amendments made by subsections (e)(1) and (f) \[amending this section\] shall apply to reports and notices required to be filed more than 30 days after the date of the enactment of this Act \[Nov. 2, 2002\].
 
->     (1) and (f).—The amendments made by subsections (e)(1) and (f) \[amending this section\] shall apply to reports and notices required to be filed more than 30 days after the date of the enactment of this Act \[Nov. 2, 2002\].
+>     “(5) __Subsections (e)(2) and (e)(3).—__ 
 
->     “(5) __Subsections__ 
-
->         (e)
-
->     (2) and (e)(3).—The amendments made by subsections (e)(2) and (e)(3) \[amending this section\] shall apply to reports required to be filed on or after June 30, 2003.
+>     The amendments made by subsections (e)(2) and (e)(3) \[amending this section\] shall apply to reports required to be filed on or after June 30, 2003.
 
 >     “(6) __Subsection (g).—__ 
 

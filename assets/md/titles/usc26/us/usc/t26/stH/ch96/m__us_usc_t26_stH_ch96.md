@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 9031.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9031" data-uslm-ref="/us/usc/t26/s9031">9031.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9032.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9032" data-uslm-ref="/us/usc/t26/s9032">9032.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 9033.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9033" data-uslm-ref="/us/usc/t26/s9033">9033.</a>  </td>
 
     <td> Eligibility for payments.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 9034.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9034" data-uslm-ref="/us/usc/t26/s9034">9034.</a>  </td>
 
     <td> Entitlement of eligible candidates to payments.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 9035.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9035" data-uslm-ref="/us/usc/t26/s9035">9035.</a>  </td>
 
     <td> Qualified campaign expense limitations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 9036.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9036" data-uslm-ref="/us/usc/t26/s9036">9036.</a>  </td>
 
     <td> Certification by Commission.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 9037.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9037" data-uslm-ref="/us/usc/t26/s9037">9037.</a>  </td>
 
     <td> Payments to eligible candidates.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 9038.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9038" data-uslm-ref="/us/usc/t26/s9038">9038.</a>  </td>
 
     <td> Examinations and audits; repayments.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 9039.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9039" data-uslm-ref="/us/usc/t26/s9039">9039.</a>  </td>
 
     <td> Reports to Congress; regulations.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 9040.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9040" data-uslm-ref="/us/usc/t26/s9040">9040.</a>  </td>
 
     <td> Participation by Commission in judicial proceedings.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 9041.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9041" data-uslm-ref="/us/usc/t26/s9041">9041.</a>  </td>
 
     <td> Judicial review.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 9042.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9042" data-uslm-ref="/us/usc/t26/s9042">9042.</a>  </td>
 
     <td> Criminal penalties.  </td>
 

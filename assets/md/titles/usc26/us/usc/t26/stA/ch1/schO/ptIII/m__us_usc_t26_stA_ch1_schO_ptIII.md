@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1031.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1031" data-uslm-ref="/us/usc/t26/s1031">1031.</a>  </td>
 
     <td> Exchange of property held for productive use or investment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1032.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1032" data-uslm-ref="/us/usc/t26/s1032">1032.</a>  </td>
 
     <td> Exchange of stock for property.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1033.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1033" data-uslm-ref="/us/usc/t26/s1033">1033.</a>  </td>
 
     <td> Involuntary conversions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [1034.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1034" data-uslm-ref="/us/usc/t26/s1034">1034.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1035.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1035" data-uslm-ref="/us/usc/t26/s1035">1035.</a>  </td>
 
     <td> Certain exchanges of insurance policies.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1036.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1036" data-uslm-ref="/us/usc/t26/s1036">1036.</a>  </td>
 
     <td> Stock for stock of same corporation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1037.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1037" data-uslm-ref="/us/usc/t26/s1037">1037.</a>  </td>
 
     <td> Certain exchanges of United States obligations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1038.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1038" data-uslm-ref="/us/usc/t26/s1038">1038.</a>  </td>
 
     <td> Certain reacquisitions of real property.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> [1039.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1039" data-uslm-ref="/us/usc/t26/s1039">1039.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1040.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1040" data-uslm-ref="/us/usc/t26/s1040">1040.</a>  </td>
 
     <td> Transfer of certain farm, etc., real property.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1041.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1041" data-uslm-ref="/us/usc/t26/s1041">1041.</a>  </td>
 
     <td> Transfers of property between spouses or incident to divorce.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1042.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1042" data-uslm-ref="/us/usc/t26/s1042">1042.</a>  </td>
 
     <td> Sales of stock to employee stock ownership plans or certain cooperatives.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1043.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1043" data-uslm-ref="/us/usc/t26/s1043">1043.</a>  </td>
 
     <td> Sale of property to comply with conflict-of-interest requirements.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1044.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1044" data-uslm-ref="/us/usc/t26/s1044">1044.</a>  </td>
 
     <td> Rollover of publicly traded securities gain into specialized small business investment companies.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1045.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1045" data-uslm-ref="/us/usc/t26/s1045">1045.</a>  </td>
 
     <td> Rollover of gain from qualified small business stock to another qualified small business stock.  </td>
 

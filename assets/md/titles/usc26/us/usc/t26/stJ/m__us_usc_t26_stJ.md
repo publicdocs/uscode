@@ -29,11 +29,11 @@
 
   <tr>
 
-    <td> 99.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstJ%2Fch99" data-uslm-ref="/us/usc/t26/stJ/ch99">99.</a>  </td>
 
     <td> Coal industry health benefits  </td>
 
-    <td> 9701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs9701" data-uslm-ref="/us/usc/t26/s9701">9701</a>  </td>
 
   </tr>
 

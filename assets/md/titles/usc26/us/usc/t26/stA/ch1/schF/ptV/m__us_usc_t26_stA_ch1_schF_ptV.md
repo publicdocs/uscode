@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 526.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs526" data-uslm-ref="/us/usc/t26/s526">526.</a>  </td>
 
     <td> Shipowners’ protection and indemnity associations.  </td>
 

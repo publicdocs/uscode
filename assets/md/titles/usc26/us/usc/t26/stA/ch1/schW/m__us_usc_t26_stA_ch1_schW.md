@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1400.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400" data-uslm-ref="/us/usc/t26/s1400">1400.</a>  </td>
 
     <td> Establishment of DC Zone.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1400A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400A" data-uslm-ref="/us/usc/t26/s1400A">1400A.</a>  </td>
 
     <td> Tax-exempt economic development bonds.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1400B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400B" data-uslm-ref="/us/usc/t26/s1400B">1400B.</a>  </td>
 
     <td> Zero percent capital gains rate.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1400C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1400C" data-uslm-ref="/us/usc/t26/s1400C">1400C.</a>  </td>
 
     <td> First-time homebuyer credit for District of Columbia.  </td>
 

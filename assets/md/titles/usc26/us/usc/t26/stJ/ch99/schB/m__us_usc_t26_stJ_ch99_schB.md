@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstJ%2Fch99%2FschB%2FptI" data-uslm-ref="/us/usc/t26/stJ/ch99/schB/ptI">I.</a>  </td>
 
     <td> Establishment and Benefits.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstJ%2Fch99%2FschB%2FptII" data-uslm-ref="/us/usc/t26/stJ/ch99/schB/ptII">II.</a>  </td>
 
     <td> Financing.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstJ%2Fch99%2FschB%2FptIII" data-uslm-ref="/us/usc/t26/stJ/ch99/schB/ptIII">III.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstJ%2Fch99%2FschB%2FptIV" data-uslm-ref="/us/usc/t26/stJ/ch99/schB/ptIV">IV.</a>  </td>
 
     <td> Other Provisions.  </td>
 

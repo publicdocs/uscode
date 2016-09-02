@@ -29,201 +29,201 @@
 
   <tr>
 
-    <td> 61.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch61" data-uslm-ref="/us/usc/t26/stF/ch61">61.</a>  </td>
 
     <td> Information and returns  </td>
 
-    <td> 6001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6001" data-uslm-ref="/us/usc/t26/s6001">6001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 62.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch62" data-uslm-ref="/us/usc/t26/stF/ch62">62.</a>  </td>
 
     <td> Time and place for paying tax  </td>
 
-    <td> 6151  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6151" data-uslm-ref="/us/usc/t26/s6151">6151</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 63.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch63" data-uslm-ref="/us/usc/t26/stF/ch63">63.</a>  </td>
 
     <td> Assessment  </td>
 
-    <td> 6201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6201" data-uslm-ref="/us/usc/t26/s6201">6201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 64.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch64" data-uslm-ref="/us/usc/t26/stF/ch64">64.</a>  </td>
 
     <td> Collection  </td>
 
-    <td> 6301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6301" data-uslm-ref="/us/usc/t26/s6301">6301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 65.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch65" data-uslm-ref="/us/usc/t26/stF/ch65">65.</a>  </td>
 
     <td> Abatements, credits, and refunds  </td>
 
-    <td> 6401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6401" data-uslm-ref="/us/usc/t26/s6401">6401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 66.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch66" data-uslm-ref="/us/usc/t26/stF/ch66">66.</a>  </td>
 
     <td> Limitations  </td>
 
-    <td> 6501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6501" data-uslm-ref="/us/usc/t26/s6501">6501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 67.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch67" data-uslm-ref="/us/usc/t26/stF/ch67">67.</a>  </td>
 
     <td> Interest  </td>
 
-    <td> 6601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6601" data-uslm-ref="/us/usc/t26/s6601">6601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 68.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch68" data-uslm-ref="/us/usc/t26/stF/ch68">68.</a>  </td>
 
     <td> Additions to the tax, additional amounts, and assessable penalties  </td>
 
-    <td> 6651  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6651" data-uslm-ref="/us/usc/t26/s6651">6651</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 69.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch69" data-uslm-ref="/us/usc/t26/stF/ch69">69.</a>  </td>
 
     <td> General provisions relating to stamps  </td>
 
-    <td> 6801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6801" data-uslm-ref="/us/usc/t26/s6801">6801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 70.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch70" data-uslm-ref="/us/usc/t26/stF/ch70">70.</a>  </td>
 
     <td> Jeopardy, receiverships, etc.  </td>
 
-    <td> 6851  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6851" data-uslm-ref="/us/usc/t26/s6851">6851</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 71.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch71" data-uslm-ref="/us/usc/t26/stF/ch71">71.</a>  </td>
 
     <td> Transferees and fiduciaries  </td>
 
-    <td> 6901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6901" data-uslm-ref="/us/usc/t26/s6901">6901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 72.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch72" data-uslm-ref="/us/usc/t26/stF/ch72">72.</a>  </td>
 
     <td> Licensing and registration  </td>
 
-    <td> 7001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7001" data-uslm-ref="/us/usc/t26/s7001">7001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 73.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch73" data-uslm-ref="/us/usc/t26/stF/ch73">73.</a>  </td>
 
     <td> Bonds  </td>
 
-    <td> 7101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7101" data-uslm-ref="/us/usc/t26/s7101">7101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 74.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch74" data-uslm-ref="/us/usc/t26/stF/ch74">74.</a>  </td>
 
     <td> Closing agreements and compromises  </td>
 
-    <td> 7121  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7121" data-uslm-ref="/us/usc/t26/s7121">7121</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 75.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch75" data-uslm-ref="/us/usc/t26/stF/ch75">75.</a>  </td>
 
     <td> Crimes, other offenses, and forfeitures  </td>
 
-    <td> 7201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7201" data-uslm-ref="/us/usc/t26/s7201">7201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 76.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch76" data-uslm-ref="/us/usc/t26/stF/ch76">76.</a>  </td>
 
     <td> Judicial proceedings  </td>
 
-    <td> 7401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7401" data-uslm-ref="/us/usc/t26/s7401">7401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 77.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch77" data-uslm-ref="/us/usc/t26/stF/ch77">77.</a>  </td>
 
     <td> Miscellaneous provisions  </td>
 
-    <td> 7501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7501" data-uslm-ref="/us/usc/t26/s7501">7501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 78.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch78" data-uslm-ref="/us/usc/t26/stF/ch78">78.</a>  </td>
 
     <td> Discovery of liability and enforcement of title  </td>
 
-    <td> 7601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7601" data-uslm-ref="/us/usc/t26/s7601">7601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 79.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch79" data-uslm-ref="/us/usc/t26/stF/ch79">79.</a>  </td>
 
     <td> Definitions  </td>
 
-    <td> 7701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7701" data-uslm-ref="/us/usc/t26/s7701">7701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 80.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch80" data-uslm-ref="/us/usc/t26/stF/ch80">80.</a>  </td>
 
     <td> General Rules  </td>
 
-    <td> 7801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7801" data-uslm-ref="/us/usc/t26/s7801">7801</a>  </td>
 
   </tr>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs541" data-uslm-ref="/us/usc/t26/s541">541.</a>  </td>
 
     <td> Imposition of personal holding company tax.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs542" data-uslm-ref="/us/usc/t26/s542">542.</a>  </td>
 
     <td> Definition of personal holding company.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs543" data-uslm-ref="/us/usc/t26/s543">543.</a>  </td>
 
     <td> Personal holding company income.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 544.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs544" data-uslm-ref="/us/usc/t26/s544">544.</a>  </td>
 
     <td> Rules for determining stock ownership.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 545.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs545" data-uslm-ref="/us/usc/t26/s545">545.</a>  </td>
 
     <td> Undistributed personal holding company income.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 546.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs546" data-uslm-ref="/us/usc/t26/s546">546.</a>  </td>
 
     <td> Income not placed on annual basis.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 547.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs547" data-uslm-ref="/us/usc/t26/s547">547.</a>  </td>
 
     <td> Deduction for deficiency dividends.  </td>
 

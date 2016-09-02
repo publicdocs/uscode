@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs211" data-uslm-ref="/us/usc/t26/s211">211.</a>  </td>
 
     <td> Allowance of deductions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs212" data-uslm-ref="/us/usc/t26/s212">212.</a>  </td>
 
     <td> Expenses for production of income.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs213" data-uslm-ref="/us/usc/t26/s213">213.</a>  </td>
 
     <td> Medical, dental, etc., expenses.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [214.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs214" data-uslm-ref="/us/usc/t26/s214">214.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 215.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs215" data-uslm-ref="/us/usc/t26/s215">215.</a>  </td>
 
     <td> Alimony, etc., payments.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 216.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs216" data-uslm-ref="/us/usc/t26/s216">216.</a>  </td>
 
     <td> Deduction of taxes, interest, and business depreciation by cooperative housing corporation tenant-stockholder.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 217.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs217" data-uslm-ref="/us/usc/t26/s217">217.</a>  </td>
 
     <td> Moving expenses.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> [218.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs218" data-uslm-ref="/us/usc/t26/s218">218.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 219.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs219" data-uslm-ref="/us/usc/t26/s219">219.</a>  </td>
 
     <td> Retirement savings.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 220.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs220" data-uslm-ref="/us/usc/t26/s220">220.</a>  </td>
 
     <td> Archer MSAs.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs221" data-uslm-ref="/us/usc/t26/s221">221.</a>  </td>
 
     <td> Interest on education loans.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 222.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs222" data-uslm-ref="/us/usc/t26/s222">222.</a>  </td>
 
     <td> Qualified tuition and related expenses.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 223.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs223" data-uslm-ref="/us/usc/t26/s223">223.</a>  </td>
 
     <td> Health savings accounts.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 224.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs224" data-uslm-ref="/us/usc/t26/s224">224.</a>  </td>
 
     <td> Cross reference.  </td>
 

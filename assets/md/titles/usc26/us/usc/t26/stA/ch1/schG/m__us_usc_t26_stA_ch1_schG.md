@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td>  I.  </td>
+    <td>  <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschG%2FptI" data-uslm-ref="/us/usc/t26/stA/ch1/schG/ptI">I.</a>  </td>
 
     <td> Corporations improperly accumulating surplus.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td>  II.  </td>
+    <td>  <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschG%2FptII" data-uslm-ref="/us/usc/t26/stA/ch1/schG/ptII">II.</a>  </td>
 
     <td> Personal holding companies.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [III.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschG%2FptIII" data-uslm-ref="/us/usc/t26/stA/ch1/schG/ptIII">III.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschG%2FptIV" data-uslm-ref="/us/usc/t26/stA/ch1/schG/ptIV">IV.</a>  </td>
 
     <td> Deduction for dividends paid.  </td>
 

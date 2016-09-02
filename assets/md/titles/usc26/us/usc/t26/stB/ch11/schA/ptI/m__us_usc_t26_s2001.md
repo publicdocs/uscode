@@ -339,11 +339,9 @@
 
 [Pub. L. 107–16, title V, § 511(f)(1)][/us/pl/107/16/s511/f/1], (2), June 7, 2001, [115 Stat. 71][/us/stat/115/71], provided that:
 
->     “(1) __Subsections__ 
+>     “(1) __Subsections (a) and (b).—__ 
 
->         (a) __and (b).—__ 
-
->         The amendments made by subsections (a) and (b) \[amending this section\] shall apply to estates of decedents dying, and gifts made, after December 31, 2001.
+>     The amendments made by subsections (a) and (b) \[amending this section\] shall apply to estates of decedents dying, and gifts made, after December 31, 2001.
 
 >     “(2) __Subsection (c).—__ 
 

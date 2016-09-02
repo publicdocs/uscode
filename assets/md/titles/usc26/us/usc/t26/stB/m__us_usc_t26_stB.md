@@ -29,51 +29,51 @@
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch11" data-uslm-ref="/us/usc/t26/stB/ch11">11.</a>  </td>
 
     <td> Estate tax  </td>
 
-    <td> 2001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2001" data-uslm-ref="/us/usc/t26/s2001">2001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch12" data-uslm-ref="/us/usc/t26/stB/ch12">12.</a>  </td>
 
     <td> Gift tax  </td>
 
-    <td> 2501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2501" data-uslm-ref="/us/usc/t26/s2501">2501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch13" data-uslm-ref="/us/usc/t26/stB/ch13">13.</a>  </td>
 
     <td> Tax on generation-skipping transfers  </td>
 
-    <td> 2601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2601" data-uslm-ref="/us/usc/t26/s2601">2601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 14.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch14" data-uslm-ref="/us/usc/t26/stB/ch14">14.</a>  </td>
 
     <td> Special valuation rules  </td>
 
-    <td> 2701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2701" data-uslm-ref="/us/usc/t26/s2701">2701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch15" data-uslm-ref="/us/usc/t26/stB/ch15">15.</a>  </td>
 
     <td> Gifts and bequests from expatriates  </td>
 
-    <td> 2801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2801" data-uslm-ref="/us/usc/t26/s2801">2801</a>  </td>
 
   </tr>
 

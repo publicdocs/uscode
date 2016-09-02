@@ -29,31 +29,31 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch12%2FschA" data-uslm-ref="/us/usc/t26/stB/ch12/schA">A.</a>  </td>
 
     <td> Determination of Tax Liability  </td>
 
-    <td> 2501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2501" data-uslm-ref="/us/usc/t26/s2501">2501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch12%2FschB" data-uslm-ref="/us/usc/t26/stB/ch12/schB">B.</a>  </td>
 
     <td> Transfers  </td>
 
-    <td> 2511  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2511" data-uslm-ref="/us/usc/t26/s2511">2511</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstB%2Fch12%2FschC" data-uslm-ref="/us/usc/t26/stB/ch12/schC">C.</a>  </td>
 
     <td> Deductions  </td>
 
-    <td> 2521  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2521" data-uslm-ref="/us/usc/t26/s2521">2521</a>  </td>
 
   </tr>
 

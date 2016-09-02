@@ -29,21 +29,21 @@
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch6%2FschB%2FptI" data-uslm-ref="/us/usc/t26/stA/ch6/schB/ptI">I.</a>  </td>
 
     <td> In general  </td>
 
-    <td> 1551  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1551" data-uslm-ref="/us/usc/t26/s1551">1551</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch6%2FschB%2FptII" data-uslm-ref="/us/usc/t26/stA/ch6/schB/ptII">II.</a>  </td>
 
     <td> Certain controlled corporations  </td>
 
-    <td> 1561  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1561" data-uslm-ref="/us/usc/t26/s1561">1561</a>  </td>
 
   </tr>
 
