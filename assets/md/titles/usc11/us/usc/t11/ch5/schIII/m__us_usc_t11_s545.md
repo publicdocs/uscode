@@ -1,0 +1,106 @@
+---
+---
+
+# 11 U.S.C., USLM ref /us/usc/t11/s545
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t11/ch5/schIII/m__us_usc_t11_s544.md) | [Next](./../../../../..//us/usc/t11/ch5/schIII/m__us_usc_t11_s546.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs545)
+
+## § 545. Statutory liens
+
+The trustee may avoid the fixing of a statutory lien on property of the debtor to the extent that such lien—
+
+    (1)
+
+     first becomes effective against the debtor—
+
+        (A) when a case under this title concerning the debtor is commenced;
+
+        (B) when an insolvency proceeding other than under this title concerning the debtor is commenced;
+
+        (C) when a custodian is appointed or authorized to take or takes possession;
+
+        (D) when the debtor becomes insolvent;
+
+        (E) when the debtor’s financial condition fails to meet a specified standard; or
+
+        (F) at the time of an execution against property of the debtor levied at the instance of an entity other than the holder of such statutory lien;
+
+    (2) is not perfected or enforceable at the time of the commencement of the case against a bona fide purchaser that purchases such property at the time of the commencement of the case, whether or not such a purchaser exists, except in any case in which a purchaser is a purchaser described in section 6323 of the Internal Revenue Code of 1986, or in any other similar provision of State or local law;
+
+    (3) is for rent; or
+
+    (4) is a lien of distress for rent.
+
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2597][/us/stat/92/2597]; [Pub. L. 98–353, title III, § 460][/us/pl/98/353/s460], July 10, 1984, [98 Stat. 377][/us/stat/98/377]; [Pub. L. 109–8, title VII, § 711][/us/pl/109/8/s711], Apr. 20, 2005, [119 Stat. 127][/us/stat/119/127].)
+
+ __Historical and Revision Notes__ 
+
+ __legislative statements__ 
+
+    Section 545 of the House amendment modifies similar provisions contained in the House bill and Senate amendment to make clear that a statutory lien may be avoided under section 545 only to the extent the lien violates the perfection standards of section 545. Thus a Federal tax lien is invalid under section 545(2) with respect to property specified in sections 6323(b) and (c) of the Internal Revenue Code of 1954 \[title 26\]. As a result of this modification, section 545(b) of the Senate amendment is deleted as unnecessary.
+
+    Statutory liens: The House amendment retains the provision of section 545(2) of the House bill giving the trustee in a bankruptcy case the same power which a bona fide purchaser has to take over certain kinds of personal property despite the existence of a tax lien covering that property. The amendment thus retains present law, and deletes section 545(b) of the Senate amendment which would have no longer allowed the trustee to step into the shoes of a bona fide purchaser for this purpose.
+
+ __senate report no. 95–989__ 
+
+    This section permits the trustee to avoid the fixing of certain statutory liens. It is derived from subsections 67b and 67c of present law \[section 107(b) and (c) of former title 11\]. Liens that first become effective on the bankruptcy or insolvency of the debtor are voidable by the trustee. Liens that are not perfected or enforceable on the date of the petition against a bona fide purchaser are voidable. If a transferee is able to perfect under section 546(a) and that perfection relates back to an earlier date, then in spite of the filing of the bankruptcy petition, the trustee would not be able to defeat the lien, because the lien would be perfected and enforceable against a bona fide purchaser that purchased the property on the date of the filing of the petition. Finally, a lien for rent or of distress for rent is voidable, whether the lien is a statutory lien or a common law lien of distress for rent. See proposed [11 U.S.C. 101(37)][/us/usc/t11/s101/37]; Bankruptcy Act § 67(c)(1)(C). The trustee may avoid a lien under this section even if the lien has been enforced by sale before the commencement of the case. To that extent, Bankruptcy Act § 67c(5) is not followed.
+
+    Subsection (b) limits the trustee’s power to avoid tax liens under Federal, state, or local law. For example, under § 6323 of the Internal Revenue Code \[Title 26\]. Once public notice of a tax lien has been filed, the Government is generally entitled to priority over subsequent lienholders. However, certain purchasers who acquire an interest in certain specific kinds of personal property will take free of an existing filed tax lien attaching to such property. Among the specific kinds of personal property which a purchaser can acquire free of an existing tax lien (unless the buyer knows of the existence of the lien) are stocks and securities, motor vehicles, inventory, and certain household goods. Under the present Bankruptcy Act (§ 67(c)(1)) \[section 107(c)(1) of former title 11\], the trustee may be viewed as a bona fide purchaser, so that he can take over any such designated items free of tax liens even if the tax authority has perfected its lien. However, the reasons for enabling a bona fide purchaser to take these kinds of assets free of an unfiled tax lien, that is, to encourage free movement of these assets in general commerce, do not apply to a trustee in a title 11 case, who is not in the same position as an ordinary bona fide purchaser as to such property. The bill accordingly adds a new subsection (b) to sec. 545 providing, in effect, that a trustee in bankruptcy does not have the right under this section to take otherwise specially treated items of personal property free of a tax lien filed before the filing of the petition.
+
+ __References in Text__ 
+
+    Section 6323 of the Internal Revenue Code of 1986, referred to in par. (2), is classified to [section 6323 of Title 26][/us/usc/t26/s6323], Internal Revenue Code.
+
+ __Amendments__ 
+
+    2005—Par. (2). [Pub. L. 109–8][/us/pl/109/8] inserted before semicolon at end “, except in any case in which a purchaser is a purchaser described in section 6323 of the Internal Revenue Code of 1986, or in any other similar provision of State or local law”.
+
+    1984—Par. (1)(A). [Pub. L. 98–353, § 460(1)][/us/pl/98/353/s460/1], struck out “is” after “is”.
+
+    Par. (1)(C). [Pub. L. 98–353, § 460(2)][/us/pl/98/353/s460/2], substituted “appointed or authorized to take” for “apponted”.
+
+    Par. (2). [Pub. L. 98–353, § 460(3)][/us/pl/98/353/s460/3], substituted “at the time of the commencement of the case” for “on the date of the filing of the petition” in two places.
+
+ __Effective Date of 2005 Amendment__ 
+
+    Amendment by [Pub. L. 109–8][/us/pl/109/8] effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see [section 1501 of Pub. L. 109–8][/us/pl/109/8/s1501], set out as a note under [section 101 of this title][/us/usc/t11/s101].
+
+ __Effective Date of 1984 Amendment__ 
+
+    Amendment by [Pub. L. 98–353][/us/pl/98/353] effective with respect to cases filed 90 days after July 10, 1984, see [section 552(a) of Pub. L. 98–353][/us/pl/98/353/s552/a], set out as a note under [section 101 of this title][/us/usc/t11/s101].
+
+----------
+
+[Previous](./../../../../..//us/usc/t11/ch5/schIII/m__us_usc_t11_s544.md) | [Next](./../../../../..//us/usc/t11/ch5/schIII/m__us_usc_t11_s546.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs545)
+
+----------
+----------
+
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/stat/92/2597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2597
+[/us/pl/98/353/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs460
+[/us/stat/98/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F377
+[/us/pl/109/8/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs711
+[/us/stat/119/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F127
+[/us/usc/t11/s101/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101%2F37
+[/us/usc/t26/s6323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6323
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/98/353/s460/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs460%2F1
+[/us/pl/98/353/s460/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs460%2F2
+[/us/pl/98/353/s460/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs460%2F3
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
+[/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs552%2Fa
+[/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
+
+

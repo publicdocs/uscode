@@ -1,0 +1,182 @@
+---
+---
+
+# 11 U.S.C., USLM ref /us/usc/t11/s1141
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t11/ch11/schIII/m__us_usc_t11_ch11_schIII.md) | [Next](./../../../../..//us/usc/t11/ch11/schIII/m__us_usc_t11_s1142.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1141)
+
+## § 1141. Effect of confirmation
+
+    (a) Except as provided in subsections (d)(2) and (d)(3) of this section, the provisions of a confirmed plan bind the debtor, any entity issuing securities under the plan, any entity acquiring property under the plan, and any creditor, equity security holder, or general partner in the debtor, whether or not the claim or interest of such creditor, equity security holder, or general partner is impaired under the plan and whether or not such creditor, equity security holder, or general partner has accepted the plan.
+
+    (b) Except as otherwise provided in the plan or the order confirming the plan, the confirmation of a plan vests all of the property of the estate in the debtor.
+
+    (c) Except as provided in subsections (d)(2) and (d)(3) of this section and except as otherwise provided in the plan or in the order confirming the plan, after confirmation of a plan, the property dealt with by the plan is free and clear of all claims and interests of creditors, equity security holders, and of general partners in the debtor.
+
+    (d)
+
+        (1)
+
+         Except as otherwise provided in this subsection, in the plan, or in the order confirming the plan, the confirmation of a plan—
+
+            (A)
+
+             discharges the debtor from any debt that arose before the date of such confirmation, and any debt of a kind specified in section 502(g), 502(h), or 502(i) of this title, whether or not—
+
+                (i) a proof of the claim based on such debt is filed or deemed filed under [section 501 of this title][/us/usc/t11/s501];
+
+                (ii) such claim is allowed under [section 502 of this title][/us/usc/t11/s502]; or
+
+                (iii) the holder of such claim has accepted the plan; and
+
+            (B) terminates all rights and interests of equity security holders and general partners provided for by the plan.
+
+        (2) A discharge under this chapter does not discharge a debtor who is an individual from any debt excepted from discharge under [section 523 of this title][/us/usc/t11/s523].
+
+        (3)
+
+         The confirmation of a plan does not discharge a debtor if—
+
+            (A) the plan provides for the liquidation of all or substantially all of the property of the estate;
+
+            (B) the debtor does not engage in business after consummation of the plan; and
+
+            (C) the debtor would be denied a discharge under [section 727(a) of this title][/us/usc/t11/s727/a] if the case were a case under chapter 7 of this title.
+
+        (4) The court may approve a written waiver of discharge executed by the debtor after the order for relief under this chapter.
+
+        (5)
+
+         In a case in which the debtor is an individual—
+
+            (A) unless after notice and a hearing the court orders otherwise for cause, confirmation of the plan does not discharge any debt provided for in the plan until the court grants a discharge on completion of all payments under the plan;
+
+            (B)
+
+             at any time after the confirmation of the plan, and after notice and a hearing, the court may grant a discharge to the debtor who has not completed payments under the plan if—
+
+                (i) the value, as of the effective date of the plan, of property actually distributed under the plan on account of each allowed unsecured claim is not less than the amount that would have been paid on such claim if the estate of the debtor had been liquidated under chapter 7 on such date;
+
+                (ii) modification of the plan under section 1127 is not practicable; and
+
+                (iii) subparagraph (C) permits the court to grant a discharge; and
+
+            (C)
+
+             the court may grant a discharge if, after notice and a hearing held not more than 10 days before the date of the entry of the order granting the discharge, the court finds that there is no reasonable cause to believe that—
+
+                (i) section 522(q)(1) may be applicable to the debtor; and
+
+                (ii) there is pending any proceeding in which the debtor may be found guilty of a felony of the kind described in section 522(q)(1)(A) or liable for a debt of the kind described in section 522(q)(1)(B);
+
+                and if the requirements of subparagraph (A) or (B) are met.
+
+                (6) Notwithstanding paragraph (1), the confirmation of a plan does not discharge a debtor that is a corporation from any debt—
+
+            (A) of a kind specified in paragraph (2)(A) or (2)(B) of section 523(a) that is owed to a domestic governmental unit, or owed to a person as the result of an action filed under subchapter III of chapter 37 of title 31 or any similar State statute; or
+
+            (B)
+
+             for a tax or customs duty with respect to which the debtor—
+
+                (i) made a fraudulent return; or
+
+                (ii) willfully attempted in any manner to evade or to defeat such tax or such customs duty.
+
+([Pub. L. 95–598][/us/pl/95/598], Nov. 6, 1978, [92 Stat. 2638][/us/stat/92/2638]; [Pub. L. 98–353, title III, § 513][/us/pl/98/353/s513], July 10, 1984, [98 Stat. 387][/us/stat/98/387]; [Pub. L. 109–8, title III][/us/pl/109/8], §§ 321(d), 330(b), title VII, § 708, Apr. 20, 2005, [119 Stat. 95][/us/stat/119/95], 101, 126; [Pub. L. 111–327, § 2(a)(36)][/us/pl/111/327/s2/a/36], Dec. 22, 2010, [124 Stat. 3561][/us/stat/124/3561].)
+
+ __Historical and Revision Notes__ 
+
+ __legislative statements__ 
+
+    Section 1141(d) of the House amendment is derived from a comparable provision contained in the Senate amendment. However, section 1141(d)(2) of the House amendment is derived from the House bill as preferable to the Senate amendment. It is necessary for a corporation or partnership undergoing reorganization to be able to present its creditors with a fixed list of liabilities upon which the creditors or third parties can make intelligent decisions. Retaining an exception for discharge with respect to nondischargeable taxes would leave an undesirable uncertainty surrounding reorganizations that is unacceptable. Section 1141(d)(3) is derived from the Senate amendment. Section 1141(d)(4) is likewise derived from the Senate amendment.
+
+ __senate report no. 95–989__ 
+
+    Subsection (a) of this section makes the provisions of a confirmed plan binding on the debtor, any entity issuing securities under the plan, any entity acquiring property under the plan, and any creditor, equity security holder, or general partner in the debtor, whether or not the claim or interest of the creditor, equity security holder, or partner is impaired under the plan and whether or not he has accepted the plan. There are two exceptions, enumerated in paragraph (2) and (3) of subsection (d).
+
+    Unless the plan or the order confirming the plan provides otherwise, the confirmation of a plan vests all of the property of the estate in the debtor and releases it from all claims and interests of creditors, equity security holders and general partners.
+
+    Subsection (d) contains the discharge for a reorganized debtor. Paragraph (1) specifies that the confirmation of a plan discharges the debtor from any debt that arose before the date of the order for relief unless the plan or the order confirming the plan provides otherwise. The discharge is effective against those claims whether or not proof of the claim is filed (or deemed filed), and whether or not the claim is allowed. The discharge also terminates all rights and interests of equity security holders and general partners provided for by the plan. The paragraph permits the plan or the order confirming the plan to provide otherwise, and excepts certain debts from the discharge as provided in paragraphs (2) and (3).
+
+    Paragraph (2) of subsection (d) makes clear what taxes remain nondischargeable in the case of a corporate debtor emerging from a reorganization under chapter 11. Nondischargeable taxes in such a reorganization are the priority taxes (under section 507) and tax payments which come due during and after the proceeding under a deferred or part-payment agreement which the debtor had entered into with the tax authority before the bankruptcy proceedings began. On the other hand, a corporation which is taken over by its creditors through a plan of reorganization will not continue to be liable for nonpriority taxes arising from the corporation’s prepetition fraud, failure to file a return, or failure to file a timely return, since the creditors who take over the reorganized company should not bear the burden of acts for which the creditors were not at fault.
+
+    Paragraph (3) specifies that the debtor is not discharged by the confirmation of a plan if the plan is a liquidating plan and if the debtor would be denied discharge in a liquidation case under section 727. Specifically, if all or substantially all of the distribution under the plan is of all or substantially all of the property of the estate or the proceeds of it, if the business, if any, of the debtor does not continue, and if the debtor would be denied a discharge under section 727 (such as if the debtor were not an individual or if he had committed an act that would lead to a denial of discharge), the chapter 11 discharge is not granted.
+
+    Paragraph (4) authorizes the court to approve a waiver of discharge by the debtor.
+
+ __house report no. 95–595__ 
+
+    Paragraph (2) \[of subsec. (d)\] makes applicable to an individual debtor the general exceptions to discharge that are enumerated in section 523(a) of the bankruptcy code.
+
+ __Amendments__ 
+
+    2010—Subsec. (d)(5)(B)(iii). [Pub. L. 111–327, § 2(a)(36)(A)][/us/pl/111/327/s2/a/36/A], added cl. (iii).
+
+    Subsec. (d)(5)(C). [Pub. L. 111–327, § 2(a)(36)(B)][/us/pl/111/327/s2/a/36/B], substituted “the court may grant a discharge if,” for “unless” in introductory provisions and inserted concluding provisions.
+
+    2005—Subsec. (d)(2). [Pub. L. 109–8, § 321(d)(1)][/us/pl/109/8/s321/d/1], substituted “A discharge under this chapter does not discharge a debtor who is an individual” for “The confirmation of a plan does not discharge an individual debtor”.
+
+    Subsec. (d)(5). [Pub. L. 109–8, § 321(d)(2)][/us/pl/109/8/s321/d/2], added par. (5).
+
+    Subsec. (d)(5)(C). [Pub. L. 109–8, § 330(b)][/us/pl/109/8/s330/b], added subpar. (C).
+
+    Subsec. (d)(6). [Pub. L. 109–8, § 708][/us/pl/109/8/s708], added par. (6).
+
+    1984—Subsec. (a). [Pub. L. 98–353, § 513(a)][/us/pl/98/353/s513/a], substituted “any creditor, equity security holder, or general partner in” for “any creditor or equity security holder of, or general partner in,”.
+
+    Subsec. (c). [Pub. L. 98–353, § 513(b)][/us/pl/98/353/s513/b], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “After confirmation of a plan, the property dealt with by the plan is free and clear of all claims and interests of creditors, of equity security holders, and of general partners in the debtor, except as otherwise provided in the plan or in the order confirming the plan.”
+
+ __Effective Date of 2005 Amendment__ 
+
+    Amendments by [Pub. L. 109–8][/us/pl/109/8] effective 180 days after Apr. 20, 2005, with amendments by sections 321(d) and 708 of [Pub. L. 109–8][/us/pl/109/8] not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, and amendment by [section 330(b) of Pub. L. 109–8][/us/pl/109/8/s330/b] applicable with respect to cases commenced under this title on or after Apr. 20, 2005, see [section 1501 of Pub. L. 109–8][/us/pl/109/8/s1501], set out as a note under [section 101 of this title][/us/usc/t11/s101].
+
+ __Effective Date of 1984 Amendment__ 
+
+    Amendment by [Pub. L. 98–353][/us/pl/98/353] effective with respect to cases filed 90 days after July 10, 1984, see [section 552(a) of Pub. L. 98–353][/us/pl/98/353/s552/a], set out as a note under [section 101 of this title][/us/usc/t11/s101].
+
+----------
+
+[Previous](./../../../../..//us/usc/t11/ch11/schIII/m__us_usc_t11_ch11_schIII.md) | [Next](./../../../../..//us/usc/t11/ch11/schIII/m__us_usc_t11_s1142.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs1141)
+
+----------
+----------
+
+[/us/usc/t11/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs501
+[/us/usc/t11/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs502
+[/us/usc/t11/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs523
+[/us/usc/t11/s727/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs727%2Fa
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/stat/92/2638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2638
+[/us/pl/98/353/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs513
+[/us/stat/98/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F387
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/stat/119/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F95
+[/us/pl/111/327/s2/a/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F36
+[/us/stat/124/3561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3561
+[/us/pl/111/327/s2/a/36/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F36%2FA
+[/us/pl/111/327/s2/a/36/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F327%2Fs2%2Fa%2F36%2FB
+[/us/pl/109/8/s321/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs321%2Fd%2F1
+[/us/pl/109/8/s321/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs321%2Fd%2F2
+[/us/pl/109/8/s330/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs330%2Fb
+[/us/pl/109/8/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs708
+[/us/pl/98/353/s513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs513%2Fa
+[/us/pl/98/353/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs513%2Fb
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
+[/us/pl/109/8/s330/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs330%2Fb
+[/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
+[/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
+[/us/pl/98/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353
+[/us/pl/98/353/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F353%2Fs552%2Fa
+[/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
+
+
