@@ -13,13 +13,13 @@
 
 [Previous](./../../../../../../..//us/usc/t16/ch58/schIV/ptI/sptb/m__us_usc_t16_s3831a.md) | [Next](./../../../../../../..//us/usc/t16/ch58/schIV/ptI/sptb/m__us_usc_t16_s3832.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831b)
 
-## § 3831b. Pilot program for enrollment of wetland and buffer acreage in conservation reserve
+## § 3831b. Farmable wetland program
 
     (a) __Program required__ 
 
         (1) __In general__ 
 
-            During the 2008 through 2012 fiscal years, the Secretary shall carry out a program in each State under which the Secretary shall enroll eligible acreage described in subsection (b).
+            During the 2008 through 2018 fiscal years, the Secretary shall carry out a farmable wetland program in each State under which the Secretary shall enroll eligible acreage described in subsection (b).
 
         (2) __Participation among States__ 
 
@@ -33,7 +33,7 @@
 
             (A) that is wetland (including a converted wetland described in [section 3822(b)(1)(A) of this title][/us/usc/t16/s3822/b/1/A]) that had a cropping history during at least 3 of the immediately preceding 10 crop years;
 
-            (B) on which a constructed wetland is to be developed that will receive flow from a row crop agriculture drainage system and is designed to provide nitrogen removal in addition to other wetland functions;
+            (B) on which a constructed wetland is to be developed that will receive surface and subsurface flow from row crop agricultural production and is designed to provide nitrogen removal in addition to other wetland functions;
 
             (C) that was devoted to commercial pond-raised aquaculture in any year during the period of calendar years 2002 through 2007; or
 
@@ -69,7 +69,7 @@
 
             (A) 100,000 acres in any State; and
 
-            (B) a total of 1,000,000 acres.
+            (B) a total of 750,000 acres.
 
         (2) __Relationship to maximum enrollment__ 
 
@@ -135,13 +135,13 @@
 
         (2) __Contract offers and payments__ 
 
-            The Secretary shall use the method of determination described in [section 3834(c)(2)(B) of this title][/us/usc/t16/s3834/c/2/B] to determine the acceptability of contract offers and the amount of rental payments under this section.
+            The Secretary shall use the method of determination described in [section 3834(d)(2)(A)(ii) of this title][/us/usc/t16/s3834/d/2/A/ii] to determine the acceptability of contract offers and the amount of rental payments under this section.
 
         (3) __Incentives__ 
 
             The amounts payable to owners and operators in the form of rental payments under contracts entered into under this section shall reflect incentives that are provided to owners and operators to enroll filterstrips in the conservation reserve under [section 3834 of this title][/us/usc/t16/s3834].
 
-([Pub. L. 99–198, title XII, § 1231B][/us/pl/99/198/s1231B], as added [Pub. L. 110–234, title II, § 2106(a)(1)][/us/pl/110/234/s2106/a/1], May 22, 2008, [122 Stat. 1029][/us/stat/122/1029], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2106(a)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1757.)
+([Pub. L. 99–198, title XII, § 1231B][/us/pl/99/198/s1231B], as added [Pub. L. 110–234, title II, § 2106(a)(1)][/us/pl/110/234/s2106/a/1], May 22, 2008, [122 Stat. 1029][/us/stat/122/1029], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2106(a)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1757; amended [Pub. L. 113–79, title II, § 2002][/us/pl/113/79/s2002], Feb. 7, 2014, [128 Stat. 714][/us/stat/128/714].)
 
  __Codification__ 
 
@@ -150,6 +150,18 @@
  __Prior Provisions__ 
 
     Provisions similar to those comprising this section were contained in [section 3831(h) of this title][/us/usc/t16/s3831/h] prior to repeal by [Pub. L. 110–246][/us/pl/110/246].
+
+ __Amendments__ 
+
+    2014—[Pub. L. 113–79, § 2002(d)(1)][/us/pl/113/79/s2002/d/1], substituted “Farmable wetland program” for “Pilot program for enrollment of wetland and buffer acreage in conservation reserve” in section catchline.
+
+    Subsec. (a)(1). [Pub. L. 113–79, § 2002(a)][/us/pl/113/79/s2002/a], substituted “2018” for “2012” and “a farmable wetland program” for “a program”.
+
+    Subsec. (b)(1)(B). [Pub. L. 113–79, § 2002(b)][/us/pl/113/79/s2002/b], substituted “surface and subsurface flow from row crop agricultural production” for “flow from a row crop agriculture drainage system”.
+
+    Subsec. (c)(1)(B). [Pub. L. 113–79, § 2002(c)][/us/pl/113/79/s2002/c], substituted “750,000” for “1,000,000”.
+
+    Subsec. (f)(2). [Pub. L. 113–79, § 2002(d)(2)][/us/pl/113/79/s2002/d/2], substituted “section 3834(d)(2)(A)(ii)” for “section 3834(c)(2)(B)”.
 
  __Effective Date__ 
 
@@ -164,19 +176,26 @@
 
 [/us/usc/t16/s3822/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3822%2Fb%2F1%2FA
 [/us/usc/t16/s3832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3832
-[/us/usc/t16/s3834/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3834%2Fc%2F2%2FB
+[/us/usc/t16/s3834/d/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3834%2Fd%2F2%2FA%2Fii
 [/us/usc/t16/s3834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3834
 [/us/pl/99/198/s1231B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1231B
 [/us/pl/110/234/s2106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2106%2Fa%2F1
 [/us/stat/122/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1029
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2002
+[/us/stat/128/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F714
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t16/s3831/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831%2Fh
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/113/79/s2002/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2002%2Fd%2F1
+[/us/pl/113/79/s2002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2002%2Fa
+[/us/pl/113/79/s2002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2002%2Fb
+[/us/pl/113/79/s2002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2002%2Fc
+[/us/pl/113/79/s2002/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2002%2Fd%2F2
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

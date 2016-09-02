@@ -183,7 +183,7 @@ Cabrillo National Monument, California.—Proc. No. 1255, Oct. 14, 1913, 38 Stat
 
     <td> 
 
-California Coastal National Monument, California.—Proc. No. 7264, Jan. 11, 2000, 65 F.R. 2821.  </td>
+California Coastal National Monument, California.—Proc. No. 7264, Jan. 11, 2000, 65 F.R. 2821; Proc. No. 9089, Mar. 11, 2014, 79 F.R. 14603.  </td>
 
   </tr>
 
@@ -367,7 +367,7 @@ Colonial National Monument, Virginia [Monument redesignated Colonial National Hi
 
     <td> 
 
-Colorado National Monument, Colorado.—Proc. No. 1126, May 24, 1911, 37 Stat. 1681; Proc. No. 2037, Mar. 3, 1933, 47 Stat. 2563; Proc. No. 3307, Aug. 7, 1959, 73 Stat. c69.  </td>
+Colorado National Monument, Colorado.—Proc. No. 1126, May 24, 1911, 37 Stat. 1681; Proc. No. 2037, Mar. 3, 1933, 47 Stat. 2563; Proc. No. 3307, Aug. 7, 1959, 73 Stat. c69; Pub. L. 94–578, title III, § 302(a), Oct. 21, 1976, 90 Stat. 2734.  </td>
 
   </tr>
 
@@ -1596,6 +1596,14 @@ Lincoln Museum National Memorial, District of Columbia.—Act Apr. 7, 1866, ch. 
     <td> 
 
 Lincoln National Memorial, District of Columbia.—Act Feb. 9, 1911, ch. 42, 36 Stat. 898.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+ Military Divers Memorial.—Pub. L. 113–66, div. B, title XXVIII, § 2842, Dec. 26, 2013, 127 Stat. 1024.  </td>
 
   </tr>
 

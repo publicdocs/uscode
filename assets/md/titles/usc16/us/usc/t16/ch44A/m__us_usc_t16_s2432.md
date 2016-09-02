@@ -89,10 +89,6 @@
 
 ([Pub. L. 98–623, title III, § 303][/us/pl/98/623/s303], Nov. 8, 1984, [98 Stat. 3398][/us/stat/98/3398].)
 
- __References in Text__ 
-
-    The customs laws of the United States, referred to in par. (7), are classified generally to Title 19, Customs Duties.
-
 ----------
 
 [Previous](./../../../..//us/usc/t16/ch44A/m__us_usc_t16_s2431.md) | [Next](./../../../..//us/usc/t16/ch44A/m__us_usc_t16_s2433.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2432)

@@ -243,7 +243,7 @@ SUBCHAPTER II—RESEARCH  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1649a" data-uslm-ref="/us/usc/t16/s1649a">1649a.</a>  </td>
 
-    <td> Hispanic-serving institution agricultural land national resources leadership program.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

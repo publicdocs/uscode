@@ -43,7 +43,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2203" data-uslm-ref="/us/usc/t16/s2203">2203.</a>  </td>
 
-    <td> Undertaking of runoff retardation and soil-erosion preventive measures; cooperation with landowners and land users; criteria.  </td>
+    <td> Emergency measures.  </td>
 
   </tr>
 

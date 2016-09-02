@@ -53,9 +53,7 @@
 
  __Amendments__ 
 
-    2013—Subsec. (d). [Pub. L. 113–23, § 4(b)][/us/pl/113/23/s4/b], substituted “subsection (b) of such section 30” for “subsection (a) of such section 30”.
-
-    [Pub. L. 113–23, § 3][/us/pl/113/23/s3], substituted “10,000 kilowatts” for “5,000 kilowatts”.
+    2013—Subsec. (d). [Pub. L. 113–23][/us/pl/113/23] substituted “10,000 kilowatts” for “5,000 kilowatts” and “subsection (b) of such section 30” for “subsection (a) of such section 30”.
 
     1980—Subsec. (d). [Pub. L. 96–294][/us/pl/96/294] added subsec. (d).
 
@@ -93,8 +91,7 @@
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
-[/us/pl/113/23/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F23%2Fs4%2Fb
-[/us/pl/113/23/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F23%2Fs3
+[/us/pl/113/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F23
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 
 

@@ -45,6 +45,12 @@
 
 > “The provisions of this title \[see Short Title note below\] shall take effect immediately on enactment of this Act \[Feb. 20, 2003\].”
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–119, § 1][/us/pl/113/119/s1], June 9, 2014, [128 Stat. 1185][/us/stat/128/1185], provided that: 
+
+> “This Act \[amending [section 539m–11 of this title][/us/usc/t16/s539m–11]\] may be cited as the ‘Sandia Pueblo Settlement Technical Amendment Act’.”
+
  __Short Title__ 
 
 [Pub. L. 108–7, div. F, title IV, § 401][/us/pl/108/7/s401], Feb. 20, 2003, [117 Stat. 279][/us/stat/117/279], provided that: 
@@ -65,6 +71,9 @@
 [/us/stat/117/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F279
 [/us/pl/108/7/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs415
 [/us/stat/117/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F294
+[/us/pl/113/119/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F119%2Fs1
+[/us/stat/128/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1185
+[/us/usc/t16/s539m–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539m%E2%80%9311
 [/us/pl/108/7/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs401
 [/us/stat/117/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F279
 [/us/usc/t43/s1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1746

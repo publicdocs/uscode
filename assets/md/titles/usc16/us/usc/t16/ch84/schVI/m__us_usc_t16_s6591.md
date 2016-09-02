@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch84/schVI/m__us_usc_t16_ch84_schVI.md) | [Next](./../../../../..//us/usc/t16/ch85/m__us_usc_t16_ch85.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6591)
+[Previous](./../../../../..//us/usc/t16/ch84/schVI/m__us_usc_t16_ch84_schVI.md) | [Next](./../../../../..//us/usc/t16/ch84/schVI/m__us_usc_t16_s6591a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6591)
 
 ## § 6591. Forest stands inventory and monitoring program to improve detection of and response to environmental threats
 
@@ -53,7 +53,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch84/schVI/m__us_usc_t16_ch84_schVI.md) | [Next](./../../../../..//us/usc/t16/ch85/m__us_usc_t16_ch85.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6591)
+[Previous](./../../../../..//us/usc/t16/ch84/schVI/m__us_usc_t16_ch84_schVI.md) | [Next](./../../../../..//us/usc/t16/ch84/schVI/m__us_usc_t16_s6591a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6591)
 
 ----------
 ----------

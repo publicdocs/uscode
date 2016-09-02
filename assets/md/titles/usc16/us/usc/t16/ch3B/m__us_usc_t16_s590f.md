@@ -45,9 +45,7 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–67, § 705(b)(1)][/us/pl/113/67/s705/b/1], inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and substituted “There is authorized” for “There are hereby authorized” which, for purposes of the Code, had been editorially changed to “There are authorized”.
-
-    Subsec. (b). [Pub. L. 113–67, § 705(b)(2)][/us/pl/113/67/s705/b/2], added subsec. (b).
+    2013—[Pub. L. 113–67][/us/pl/113/67] inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “There is authorized” for “There are hereby authorized”, and added subsec. (b).
 
     1944—Act Sept. 21, 1944, inserted second par.
 
@@ -66,7 +64,6 @@
 [/us/stat/58/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F738
 [/us/pl/113/67/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs705%2Fb
 [/us/stat/127/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1193
-[/us/pl/113/67/s705/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs705%2Fb%2F1
-[/us/pl/113/67/s705/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs705%2Fb%2F2
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 
 

@@ -193,6 +193,8 @@
 
                               Barack Obama.
 
+    \[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657 set out as a note under [section 3021 of Title 50][/us/usc/t50/s3021], War and National Defense.\]
+
 ----------
 
 [Previous](./../../../..//us/usc/t16/ch35/m__us_usc_t16_ch35.md) | [Next](./../../../..//us/usc/t16/ch35/m__us_usc_t16_s1532.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531)
@@ -230,5 +232,6 @@
 [/us/usc/t16/s1802/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802%2F24
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
+[/us/usc/t50/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3021
 
 

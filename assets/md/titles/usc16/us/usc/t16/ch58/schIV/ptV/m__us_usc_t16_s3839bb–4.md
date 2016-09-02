@@ -13,99 +13,33 @@
 
 [Previous](./../../../../../..//us/usc/t16/ch58/schIV/ptV/m__us_usc_t16_s3839bb–3.md) | [Next](./../../../../../..//us/usc/t16/ch58/schIV/ptV/m__us_usc_t16_s3839bb–5.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839bb%E2%80%934)
 
-## § 3839bb–4. Chesapeake Bay watershed
+## § 3839bb–4. Repealed. [Pub. L. 113–79, title II, § 2709(a)][/us/pl/113/79/s2709/a], Feb. 7, 2014, [128 Stat. 770][/us/stat/128/770]
 
-    (a) __Chesapeake Bay watershed defined__ 
+    Section, [Pub. L. 99–198, title XII, § 1240Q][/us/pl/99/198/s1240Q], as added [Pub. L. 110–234, title II, § 2605][/us/pl/110/234/s2605], May 22, 2008, [122 Stat. 1069][/us/stat/122/1069], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2605, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1797, related to conservation activities on agricultural lands in the Chesapeake Bay watershed.
 
-        In this section, the term “Chesapeake Bay watershed” means all tributaries, backwaters, and side channels, including their watersheds, draining into the Chesapeake Bay.
+ __Repeal; Transitional Provisions__ 
 
-    (b) __Establishment and purpose__ 
+[Pub. L. 113–79, title II, § 2709][/us/pl/113/79/s2709], Feb. 7, 2014, [128 Stat. 770][/us/stat/128/770], provided that:
 
-    The Secretary shall assist producers in implementing conservation activities on agricultural lands in the Chesapeake Bay watershed for the purposes of—
+>     “(a)  __Repeal__  __.—__ 
 
-        (1) improving water quality and quantity in the Chesapeake Bay watershed; and
+>     Except as provided in subsection (b), section 1240Q of the Food Security Act of 1985 ([16 U.S.C. 3839bb–4][/us/usc/t16/s3839bb–4]) is repealed.
 
-        (2) restoring, enhancing, and preserving soil, air, and related resources in the Chesapeake Bay watershed.
+>     “(b) __Transitional Provisions.—__ 
 
-    (c) __Conservation activities__ 
+>         “(1)  __Effect on existing contracts, agreements, and easements__  __.—__ 
 
-    The Secretary shall deliver the funds made available to carry out this section through applicable programs under this subchapter to assist producers in enhancing land and water resources—
+>         The amendment made by this section \[repealing [section 3839bb–4 of this title][/us/usc/t16/s3839bb–4]\] shall not affect the validity or terms of any contract, agreement, or easement entered into by the Secretary of Agriculture under section 1240Q of the Food Security Act of 1985 (\[former\] [16 U.S.C. 3839bb–4][/us/usc/t16/s3839bb–4]) before the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], or any payments required to be made in connection with the contract, agreement, or easement.
 
-        (1) by controlling erosion and reducing sediment and nutrient levels in ground and surface water; and
+>         “(2) __Funding.—__ 
 
-        (2)
+>             “(A)  __Use of prior year funds__  __.—__ 
 
-         by planning, designing, implementing, and evaluating habitat conservation, restoration, and enhancement measures where there is significant ecological value if the lands are—
+>             Notwithstanding the repeal of section 1240Q of the Food Security Act of 1985 (\[former\] [16 U.S.C. 3839bb–4][/us/usc/t16/s3839bb–4]), any funds made available from the Commodity Credit Corporation to carry out the Chesapeake Bay watershed program under that section for fiscal years 2009 through 2013 shall be made available to carry out contracts, agreements, and easements referred to in paragraph (1) that were entered into prior to the date of enactment of the Agricultural Act of 2014 (including the provision of technical assistance).
 
-            (A) retained in their current use; or
+>             “(B)  __Other__  __.—__ 
 
-            (B) restored to their natural condition.
-
-    (d) __Agreements__ 
-
-        (1) __In general__ 
-
-        The Secretary shall—
-
-            (A) enter into agreements with producers to carry out the purposes of this section; and
-
-            (B) use the funds made available to carry out this section to cover the costs of the program involved with each agreement.
-
-        (2) __Special considerations__ 
-
-        In entering into agreements under this subsection, the Secretary shall give special consideration to, and begin evaluating, applications with producers in the following river basins:
-
-            (A) The Susquehanna River.
-
-            (B) The Shenandoah River.
-
-            (C) The Potomac River (including North and South Potomac).
-
-            (D) The Patuxent River.
-
-    (e) __Duties of the Secretary__ 
-
-    In carrying out the purposes in this section, the Secretary shall—
-
-        (1) where available, use existing plans, models, and assessments to assist producers in implementing conservation activities; and
-
-        (2) proceed expeditiously with the implementation of any agreement with a producer that is consistent with State strategies for the restoration of the Chesapeake Bay watershed.
-
-    (f) __Consultation__ 
-
-        The Secretary, in consultation with appropriate Federal agencies, shall ensure conservation activities carried out under this section complement Federal and State programs, including programs that address water quality, in the Chesapeake Bay watershed.
-
-    (g) __Sense of Congress regarding Chesapeake Bay Executive Council__ 
-
-        It is the sense of Congress that the Secretary should be a member of the Chesapeake Bay Executive Council, and is authorized to do so under [section 590a(3) of this title][/us/usc/t16/s590a/3].
-
-    (h) __Funding__ 
-
-        (1) __Availability__ 
-
-        Of the funds of the Commodity Credit Corporation, the Secretary shall use, to the maximum extent practicable—
-
-            (A) $23,000,000 for fiscal year 2009;
-
-            (B) $43,000,000 for fiscal year 2010;
-
-            (C) $72,000,000 for fiscal year 2011; and
-
-            (D) $50,000,000 for fiscal year 2012.
-
-        (2) __Duration of availability__ 
-
-            Funds made available under paragraph (1) shall remain available until expended.
-
-([Pub. L. 99–198, title XII, § 1240Q][/us/pl/99/198/s1240Q], as added [Pub. L. 110–234, title II, § 2605][/us/pl/110/234/s2605], May 22, 2008, [122 Stat. 1069][/us/stat/122/1069], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2605, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1797.)
-
- __Codification__ 
-
-    [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical sections. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
-
- __Effective Date__ 
-
-    Enactment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as a note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.
+>             The Secretary \[of Agriculture\] may use funds made available to carry out the regional conservation partnership program under subtitle I of title XII of the Food Security Act of 1985 \[[16 U.S.C. 3871][/us/usc/t16/s3871] et seq.\], as added by section 2401, to continue to carry out contracts, agreements, and easements referred to in paragraph (1) using the provisions of law and regulation applicable to such contracts, agreements, and easements as in existence on the day before the date of enactment of the Agricultural Act of 2014.”
 
 ----------
 
@@ -114,20 +48,19 @@
 ----------
 ----------
 
-[/us/usc/t16/s590a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590a%2F3
+[/us/pl/113/79/s2709/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2709%2Fa
+[/us/stat/128/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F770
 [/us/pl/99/198/s1240Q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1240Q
 [/us/pl/110/234/s2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2605
 [/us/stat/122/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1069
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
-[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
-[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
-[/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
-[/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
+[/us/pl/113/79/s2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2709
+[/us/stat/128/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F770
+[/us/usc/t16/s3839bb–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839bb%E2%80%934
+[/us/usc/t16/s3839bb–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839bb%E2%80%934
+[/us/usc/t16/s3839bb–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839bb%E2%80%934
+[/us/usc/t16/s3839bb–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839bb%E2%80%934
+[/us/usc/t16/s3871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3871
 
 

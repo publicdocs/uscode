@@ -1225,6 +1225,14 @@ Ninigret National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, �
 
     <td> 
 
+Nisqually National Wildlife Refuge, Washington.—Pub. L. 113–76, div. G, title I, § 126, Jan. 17, 2014, 128 Stat. 315.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
 North Platte National Wildlife Refuge, Nebraska.—Pub. L. 104–212, title I, § 101, Oct. 1, 1996, 110 Stat. 3014.  </td>
 
   </tr>
@@ -1393,6 +1401,14 @@ Selawik National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 30
 
     <td> 
 
+Senator Dale Bumpers White River National Wildlife Refuge (former White River National Wildlife Refuge), Arkansas.—Pub. L. 102–584, §§ 1–5, Nov. 2, 1992, 106 Stat. 4937–4941; Pub. L. 113–76, div. G, title I, § 120, Jan. 17, 2014, 128 Stat. 314.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
 Silvio Conte National Fish and Wildlife Refuge, Connecticut, Massachusetts, New Hampshire, and Vermont.—Pub. L. 102–212, title I, Dec. 11, 1991, 105 Stat. 1655.  </td>
 
   </tr>
@@ -1489,7 +1505,7 @@ Wertheim National Wildlife Refuge, New York.—Pub. L. 106–113, div. B, § 1
 
     <td> 
 
-White River National Wildlife Refuge, Arkansas.—Pub. L. 102–584, §§ 1–5, Nov. 2, 1992, 106 Stat. 4937–4941.  </td>
+White River National Wildlife Refuge, Arkansas (see Senator Dale Bumpers White River National Wildlife Refuge).  </td>
 
   </tr>
 

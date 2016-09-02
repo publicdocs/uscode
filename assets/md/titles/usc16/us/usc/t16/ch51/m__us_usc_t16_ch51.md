@@ -757,6 +757,8 @@ SUBCHAPTER VII—NATIONAL NEED MINERAL ACTIVITY RECOMMENDATION PROCESS  </td>
 
                               Barack Obama.
 
+    \[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under [section 3021 of Title 50][/us/usc/t50/s3021], War and National Defense.\]
+
 ----------
 
 [Previous](./../../../..//us/usc/t16/ch50/m__us_usc_t16_ch50.md) | [Next](./../../../..//us/usc/t16/ch51/schI/m__us_usc_t16_ch51_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch51)
@@ -764,5 +766,6 @@ SUBCHAPTER VII—NATIONAL NEED MINERAL ACTIVITY RECOMMENDATION PROCESS  </td>
 ----------
 ----------
 
+[/us/usc/t50/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3021
 
 

@@ -849,7 +849,7 @@ Cache La Poudre Corridor, Colorado.—Pub. L. 104–323, Oct. 19, 1996, 110 Stat
 
     <td> 
 
-Delaware and Lehigh National Heritage Corridor, Pennsylvania.—Pub. L. 100–692, Nov. 18, 1988, 102 Stat. 4552; Pub. L. 105–355, title IV, Nov. 6, 1998, 112 Stat. 3258; Pub. L. 108–199, div. H, § 141, Jan. 23, 2004, 118 Stat. 443; Pub. L. 111–11, title VIII, § 8202, Mar. 30, 2009, 123 Stat. 1292; Pub. L. 113–6, div. F, title IV, § 1404(c), Mar. 26, 2013, 127 Stat. 420.  </td>
+Delaware and Lehigh National Heritage Corridor, Pennsylvania.—Pub. L. 100–692, Nov. 18, 1988, 102 Stat. 4552; Pub. L. 105–355, title IV, Nov. 6, 1998, 112 Stat. 3258; Pub. L. 108–199, div. H, § 141, Jan. 23, 2004, 118 Stat. 443; Pub. L. 111–11, title VIII, § 8202, Mar. 30, 2009, 123 Stat. 1292; Pub. L. 113–6, div. F, title IV, § 1404(c), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, § 119(c), Jan. 17, 2014, 128 Stat. 314.  </td>
 
   </tr>
 
@@ -881,7 +881,7 @@ Illinois and Michigan Canal National Heritage Corridor, Illinois.—Pub. L. 98�
 
     <td> 
 
-John H. Chafee Blackstone River Valley National Heritage Corridor [formerly Blackstone River Valley National Heritage Corridor], Massachusetts and Rhode Island.—Pub. L. 99–647, Nov. 10, 1986, 100 Stat. 3625; Pub. L. 101–441, Oct. 18, 1990, 104 Stat. 1017; Pub. L. 102–154, title I, § 118, Nov. 13, 1991, 105 Stat. 1013; Pub. L. 104–208, div. A, title I, § 101(d) [title I, § 115], Sept. 30, 1996, 110 Stat. 3009–181, 3009–201; Pub. L. 104–333, div. I, title IX, § 901, Nov. 12, 1996, 110 Stat. 4201; Pub. L. 105–355, title V, § 501, Nov. 6, 1998, 112 Stat. 3261; Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 343], Nov. 29, 1999, 113 Stat. 1535, 1501A–202; Pub. L. 106–176, title I, § 121, Mar. 10, 2000, 114 Stat. 29; Pub. L. 109–338, title VII, §§ 701, 702, Oct. 12, 2006, 120 Stat. 1857; Pub. L. 111–11, title VIII, § 8204, Mar. 30, 2009, 123 Stat. 1295; Pub. L. 112–10, div. B, title VII, § 1767, Apr. 15, 2011, 125 Stat. 155; Pub. L. 113–6, div. F, title IV, § 1404(b), Mar. 26, 2013, 127 Stat. 420.  </td>
+John H. Chafee Blackstone River Valley National Heritage Corridor [formerly Blackstone River Valley National Heritage Corridor], Massachusetts and Rhode Island.—Pub. L. 99–647, Nov. 10, 1986, 100 Stat. 3625; Pub. L. 101–441, Oct. 18, 1990, 104 Stat. 1017; Pub. L. 102–154, title I, § 118, Nov. 13, 1991, 105 Stat. 1013; Pub. L. 104–208, div. A, title I, § 101(d) [title I, § 115], Sept. 30, 1996, 110 Stat. 3009–181, 3009–201; Pub. L. 104–333, div. I, title IX, § 901, Nov. 12, 1996, 110 Stat. 4201; Pub. L. 105–355, title V, § 501, Nov. 6, 1998, 112 Stat. 3261; Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 343], Nov. 29, 1999, 113 Stat. 1535, 1501A–202; Pub. L. 106–176, title I, § 121, Mar. 10, 2000, 114 Stat. 29; Pub. L. 109–338, title VII, §§ 701, 702, Oct. 12, 2006, 120 Stat. 1857; Pub. L. 111–11, title VIII, § 8204, Mar. 30, 2009, 123 Stat. 1295; Pub. L. 112–10, div. B, title VII, § 1767, Apr. 15, 2011, 125 Stat. 155; Pub. L. 113–6, div. F, title IV, § 1404(b), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, § 119(b), Jan. 17, 2014, 128 Stat. 314.  </td>
 
   </tr>
 
@@ -905,7 +905,7 @@ Quinebaug and Shetucket Rivers Valley National Heritage Corridor, Connecticut an
 
     <td> 
 
-South Carolina National Heritage Corridor, South Carolina.—Pub. L. 104–333, div. II, title VI, Nov. 12, 1996, 110 Stat. 4260; Pub. L. 110–229, title IV, §§ 461, 473, May 8, 2008, 122 Stat. 824, 826; Pub. L. 113–6, div. F, title IV, § 1404(a), Mar. 26, 2013, 127 Stat. 420.  </td>
+South Carolina National Heritage Corridor, South Carolina.—Pub. L. 104–333, div. II, title VI, Nov. 12, 1996, 110 Stat. 4260; Pub. L. 110–229, title IV, §§ 461, 473, May 8, 2008, 122 Stat. 824, 826; Pub. L. 113–6, div. F, title IV, § 1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, § 119(a), Jan. 17, 2014, 128 Stat. 314.  </td>
 
   </tr>
 
@@ -955,7 +955,7 @@ Atchafalaya National Heritage Area, Louisiana.—Pub. L. 109–338, title II, §
 
     <td> 
 
-Augusta Canal National Heritage Area, Georgia.—Pub. L. 104–333, div. II, title III, Nov. 12, 1996, 110 Stat. 4249; Pub. L. 106–176, title II, § 203, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, § 461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, § 1404(a), Mar. 26, 2013, 127 Stat. 420.  </td>
+Augusta Canal National Heritage Area, Georgia.—Pub. L. 104–333, div. II, title III, Nov. 12, 1996, 110 Stat. 4249; Pub. L. 106–176, title II, § 203, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, § 461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, § 1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, § 119(a), Jan. 17, 2014, 128 Stat. 314.  </td>
 
   </tr>
 
@@ -1003,7 +1003,7 @@ Crossroads of the American Revolution National Heritage Area, New Jersey.—Pub.
 
     <td> 
 
-Essex National Heritage Area, Massachusetts.—Pub. L. 104–333, div. II, title V, Nov. 12, 1996, 110 Stat. 4257; Pub. L. 106–176, title II, § 204, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, § 461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, § 1404(a), Mar. 26, 2013, 127 Stat. 420.  </td>
+Essex National Heritage Area, Massachusetts.—Pub. L. 104–333, div. II, title V, Nov. 12, 1996, 110 Stat. 4257; Pub. L. 106–176, title II, § 204, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, § 461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, § 1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, § 119(a), Jan. 17, 2014, 128 Stat. 314.  </td>
 
   </tr>
 
@@ -1027,7 +1027,7 @@ Freedom’s Way National Heritage Area, Massachusetts and New Hampshire.—Pub. 
 
     <td> 
 
-Hudson River Valley National Heritage Area, New York.—Pub. L. 104–333, div. II, title IX, Nov. 12, 1996, 110 Stat. 4275; Pub. L. 105–83, title III, §§ 317, 324, Nov. 14, 1997, 111 Stat. 1595, 1597; Pub. L. 106–176, title II, § 206, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, § 461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, § 1404(a), Mar. 26, 2013, 127 Stat. 420.  </td>
+Hudson River Valley National Heritage Area, New York.—Pub. L. 104–333, div. II, title IX, Nov. 12, 1996, 110 Stat. 4275; Pub. L. 105–83, title III, §§ 317, 324, Nov. 14, 1997, 111 Stat. 1595, 1597; Pub. L. 106–176, title II, § 206, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, § 461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, § 1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, § 119(a), Jan. 17, 2014, 128 Stat. 314.  </td>
 
   </tr>
 
@@ -1051,7 +1051,7 @@ Kenai Mountains-Turnagain Arm National Heritage Area, Alaska.—Pub. L. 111–11
 
     <td> 
 
-Lackawanna Valley National Heritage Area, Pennsylvania.—Pub. L. 106–278, title I, Oct. 6, 2000, 114 Stat. 814; Pub. L. 108–352, § 2, Oct. 21, 2004, 118 Stat. 1395; Pub. L. 113–6, div. F, title IV, § 1404(d), Mar. 26, 2013, 127 Stat. 420.  </td>
+Lackawanna Valley National Heritage Area, Pennsylvania.—Pub. L. 106–278, title I, Oct. 6, 2000, 114 Stat. 814; Pub. L. 108–352, § 2, Oct. 21, 2004, 118 Stat. 1395; Pub. L. 113–6, div. F, title IV, § 1404(d), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, § 119(d), Jan. 17, 2014, 128 Stat. 314.  </td>
 
   </tr>
 
@@ -1107,7 +1107,7 @@ National Aviation Heritage Area, Ohio.—Pub. L. 108–447, div. J, title V, Dec
 
     <td> 
 
-National Coal Heritage Area, West Virginia.—Pub. L. 104–333, div. II, title I, Nov. 12, 1996, 110 Stat. 4243; Pub. L. 106–176, title II, § 201, Mar. 10, 2000, 114 Stat. 31; Pub. L. 109–338, title IX, § 901, Oct. 12, 2006, 120 Stat. 1862; Pub. L. 110–229, title IV, §§ 461, 471, May 8, 2008, 122 Stat. 824, 825; Pub. L. 113–6, div. F, title IV, § 1404(a), Mar. 26, 2013, 127 Stat. 420.  </td>
+National Coal Heritage Area, West Virginia.—Pub. L. 104–333, div. II, title I, Nov. 12, 1996, 110 Stat. 4243; Pub. L. 106–176, title II, § 201, Mar. 10, 2000, 114 Stat. 31; Pub. L. 109–338, title IX, § 901, Oct. 12, 2006, 120 Stat. 1862; Pub. L. 110–229, title IV, §§ 461, 471, May 8, 2008, 122 Stat. 824, 825; Pub. L. 113–6, div. F, title IV, § 1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, § 119(a), Jan. 17, 2014, 128 Stat. 314.  </td>
 
   </tr>
 
@@ -1147,7 +1147,7 @@ Oil Region National Heritage Area, Pennsylvania.—Pub. L. 108–447, div. J, ti
 
     <td> 
 
-Rivers of Steel National Heritage Area [formerly Steel Industry American Heritage Area], Pennsylvania.—Pub. L. 104–333, div. II, title IV, Nov. 12, 1996, 110 Stat. 4252; Pub. L. 106–113, div. B, § 1000(a)(3) [title I, § 116], Nov. 29, 1999, 113 Stat. 1535, 1501A–158; Pub. L. 110–229, title IV, §§ 461, 472, May 8, 2008, 122 Stat. 824, 826; Pub. L. 113–6, div. F, title IV, § 1404(a), Mar. 26, 2013, 127 Stat. 420.  </td>
+Rivers of Steel National Heritage Area [formerly Steel Industry American Heritage Area], Pennsylvania.—Pub. L. 104–333, div. II, title IV, Nov. 12, 1996, 110 Stat. 4252; Pub. L. 106–113, div. B, § 1000(a)(3) [title I, § 116], Nov. 29, 1999, 113 Stat. 1535, 1501A–158; Pub. L. 110–229, title IV, §§ 461, 472, May 8, 2008, 122 Stat. 824, 826; Pub. L. 113–6, div. F, title IV, § 1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, § 119(a), Jan. 17, 2014, 128 Stat. 314.  </td>
 
   </tr>
 
@@ -1187,7 +1187,7 @@ Steel Industry American Heritage Area (see Rivers of Steel National Heritage Are
 
     <td> 
 
-Tennessee Civil War Heritage Area, Tennessee.—Pub. L. 104–333, div. II, title II, Nov. 12, 1996, 110 Stat. 4245; Pub. L. 106–176, title II, § 202, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, § 461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, § 1404(a), Mar. 26, 2013, 127 Stat. 420.  </td>
+Tennessee Civil War Heritage Area, Tennessee.—Pub. L. 104–333, div. II, title II, Nov. 12, 1996, 110 Stat. 4245; Pub. L. 106–176, title II, § 202, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, § 461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, § 1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, § 119(a), Jan. 17, 2014, 128 Stat. 314.  </td>
 
   </tr>
 
@@ -1237,7 +1237,7 @@ National Heritage Canalways  </td>
 
     <td> 
 
-Ohio &amp; Erie National Heritage Canalway, Ohio [formerly Ohio &amp; Erie Canal National Heritage Corridor].—Pub. L. 104–333, div. II, title VIII, Nov. 12, 1996, 110 Stat. 4267; Pub. L. 106–176, title II, § 205, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §§ 461, 474, May 8, 2008, 122 Stat. 824, 826; Pub. L. 111–11, title VII, § 7116(j), Mar. 30, 2009, 123 Stat. 1203; Pub. L. 113–6, div. F, title IV, § 1404(a), Mar. 26, 2013, 127 Stat. 420.  </td>
+Ohio &amp; Erie National Heritage Canalway, Ohio [formerly Ohio &amp; Erie Canal National Heritage Corridor].—Pub. L. 104–333, div. II, title VIII, Nov. 12, 1996, 110 Stat. 4267; Pub. L. 106–176, title II, § 205, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §§ 461, 474, May 8, 2008, 122 Stat. 824, 826; Pub. L. 111–11, title VII, § 7116(j), Mar. 30, 2009, 123 Stat. 1203; Pub. L. 113–6, div. F, title IV, § 1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, § 119(a), Jan. 17, 2014, 128 Stat. 314.  </td>
 
   </tr>
 
@@ -1263,7 +1263,7 @@ National Heritage Partnerships  </td>
 
     <td> 
 
-America’s Agricultural Heritage Partnership, Iowa.—Pub. L. 104–333, div. II, title VII, Nov. 12, 1996, 110 Stat. 4264; Pub. L. 106–176, title III, § 309, Mar. 10, 2000, 114 Stat. 34; Pub. L. 110–229, title IV, § 461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, § 1404(a), Mar. 26, 2013, 127 Stat. 420.  </td>
+America’s Agricultural Heritage Partnership, Iowa.—Pub. L. 104–333, div. II, title VII, Nov. 12, 1996, 110 Stat. 4264; Pub. L. 106–176, title III, § 309, Mar. 10, 2000, 114 Stat. 34; Pub. L. 110–229, title IV, § 461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, § 1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, § 119(a), Jan. 17, 2014, 128 Stat. 314.  </td>
 
   </tr>
 
@@ -1391,7 +1391,7 @@ Great Basin National Heritage Route, Nevada and Utah.—Pub. L. 109–338, title
 
  __Chesapeake Bay Initiative__ 
 
-    [Pub. L. 105–312, title V][/us/pl/105/312], Oct. 30, 1998, [112 Stat. 2961][/us/stat/112/2961], as amended by [Pub. L. 107–308, § 9][/us/pl/107/308/s9], Dec. 2, 2002, [116 Stat. 2448][/us/stat/116/2448]; [Pub. L. 111–212, title III, § 3005][/us/pl/111/212/s3005], July 29, 2010, [124 Stat. 2339][/us/stat/124/2339]; [Pub. L. 112–74, div. E, title I][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 991][/us/stat/125/991], known as the Chesapeake Bay Initiative Act of 1998, authorized Secretary of the Interior, in cooperation with Administrator of the Environmental Protection Agency, to create a Chesapeake Bay Gateways and Watertrails Network and to provide assistance to State and local governments in establishing this network, and authorized appropriations for these purposes.
+    [Pub. L. 105–312, title V][/us/pl/105/312], Oct. 30, 1998, [112 Stat. 2961][/us/stat/112/2961], as amended by [Pub. L. 107–308, § 9][/us/pl/107/308/s9], Dec. 2, 2002, [116 Stat. 2448][/us/stat/116/2448]; [Pub. L. 111–212, title III, § 3005][/us/pl/111/212/s3005], July 29, 2010, [124 Stat. 2339][/us/stat/124/2339]; [Pub. L. 112–74, div. E, title I][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 991][/us/stat/125/991]; [Pub. L. 113–76, div. G, title IV, § 428][/us/pl/113/76/s428], Jan. 17, 2014, [128 Stat. 345][/us/stat/128/345], known as the Chesapeake Bay Initiative Act of 1998, authorized Secretary of the Interior, in cooperation with Administrator of the Environmental Protection Agency, to create a Chesapeake Bay Gateways and Watertrails Network and to provide assistance to State and local governments in establishing this network, and authorized appropriations for these purposes.
 
  __Charleston, Arkansas, National Commemorative Site__ 
 
@@ -1630,6 +1630,8 @@ Great Basin National Heritage Route, Nevada and Utah.—Pub. L. 109–338, title
 [/us/stat/124/2339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2339
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F991
+[/us/pl/113/76/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs428
+[/us/stat/128/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F345
 [/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/pl/104/333/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs502

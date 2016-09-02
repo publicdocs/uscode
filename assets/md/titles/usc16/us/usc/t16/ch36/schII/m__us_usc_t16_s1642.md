@@ -223,6 +223,44 @@
 
     Amendment by [Pub. L. 105–277][/us/pl/105/277] effective June 23, 1998, see section 101(a) \[title VII, § 753(f)\] of [Pub. L. 105–277][/us/pl/105/277], set out as a note under [section 343 of Title 7][/us/usc/t7/s343], Agriculture.
 
+ __Revision of Strategic Plan for Forest Inventory and Analysis__ 
+
+[Pub. L. 113–79, title VIII, § 8301][/us/pl/113/79/s8301], Feb. 7, 2014, [128 Stat. 922][/us/stat/128/922], provided that:
+
+>     “(a)  __Revision Required__  __.—__ 
+
+>     Not later than 180 days after the date of enactment of this Act \[Feb. 7, 2014\], the Secretary \[of Agriculture\] shall revise the strategic plan for forest inventory and analysis initially prepared pursuant to section 3(e) of the Forest and Rangeland Renewable Resources Research Act of 1978 ([16 U.S.C. 1642(e)][/us/usc/t16/s1642/e]) to address the requirements imposed by subsection (b).
+
+>     “(b)  __Elements of Revised Strategic Plan__  __.—__ 
+
+>     In revising the strategic plan, the Secretary shall describe in detail the organization, procedures, and funding needed to achieve each of the following:
+
+>         “(1) Complete the transition to a fully annualized forest inventory program and include inventory and analysis of interior Alaska.
+
+>         “(2) Implement an annualized inventory of trees in urban settings, including the status and trends of trees and forests, and assessments of their ecosystem services, values, health, and risk to pests and diseases.
+
+>         “(3) Report information on renewable biomass supplies and carbon stocks at the local, State, regional, and national level, including by ownership type.
+
+>         “(4) Engage State foresters and other users of information from the forest inventory and analysis in reevaluating the list of core data variables collected on forest inventory and analysis plots with an emphasis on demonstrated need.
+
+>         “(5) Improve the timeliness of the timber product output program and accessibility of the annualized information on that database.
+
+>         “(6) Foster greater cooperation among the forest inventory and analysis program, research station leaders, and State foresters and other users of information from the forest inventory and analysis.
+
+>         “(7) Promote availability of and access to non-Federal resources to improve information analysis and information management.
+
+>         “(8) Collaborate with the Natural Resources Conservation Service, National Aeronautics and Space Administration, National Oceanic and Atmospheric Administration, and United States Geological Survey to integrate remote sensing, spatial analysis techniques, and other new technologies in the forest inventory and analysis program.
+
+>         “(9) Understand and report on changes in land cover and use.
+
+>         “(10) Expand existing programs to promote sustainable forest stewardship through increased understanding, in partnership with other Federal agencies, of the over 10,000,000 family forest owners, their demographics, and the barriers to forest stewardship.
+
+>         “(11) Implement procedures to improve the statistical precision of estimates at the sub-State level.
+
+>     “(c)  __Submission of Revised Strategic Plan__  __.—__ 
+
+>     The Secretary shall submit the revised strategic plan to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.”
+
  __Southern Forest Regeneration Program__ 
 
 [Pub. L. 101–624, title XII, § 1242][/us/pl/101/624/s1242], Nov. 28, 1990, [104 Stat. 3545][/us/stat/104/3545], provided that:
@@ -345,6 +383,9 @@
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t7/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343
+[/us/pl/113/79/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8301
+[/us/stat/128/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F922
+[/us/usc/t16/s1642/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1642%2Fe
 [/us/pl/101/624/s1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1242
 [/us/stat/104/3545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3545
 [/us/pl/101/624/s1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1243

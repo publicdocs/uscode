@@ -97,7 +97,7 @@
 
             (A) __In general__ 
 
-                The Secretary shall allow a participant that entered into a contract under this subpart before January 1, 1995, to terminate the contract at any time if the contract has been in effect for at least 5 years.
+                During fiscal year 2015, the Secretary shall allow a participant that entered into a contract under this subpart to terminate the contract at any time if the contract has been in effect for at least 5 years.
 
             (B) __Liability for contract violation__ 
 
@@ -115,11 +115,25 @@
 
             (B) Land with an erodibility index of more than 15.
 
-            (C) Other land of high environmental value (including wetland), as determined by the Secretary.
+            (C) Land devoted to hardwood trees.
+
+            (D) Wildlife habitat, duck nesting habitat, pollinator habitat, upland bird habitat buffer, wildlife food plots, State acres for wildlife enhancement, shallow water areas for wildlife, and rare and declining habitat.
+
+            (E) Farmable wetland and restored wetland.
+
+            (F) Land that contains diversions, erosion control structures, flood control structures, contour grass strips, living snow fences, salinity reducing vegetation, cross wind trap strips, and sediment retention structures.
+
+            (G) Land located within a federally designated wellhead protection area.
+
+            (H) Land that is covered by an easement under the conservation reserve program.
+
+            (I) Land located within an average width, according to the applicable Natural Resources Conservation Service field office technical guide, of a perennial stream or permanent water body.
+
+            (J) Land enrolled under the conservation reserve enhancement program.
 
         (3) __Effective date__ 
 
-            The contract termination shall become effective 60 days after the date on which the owner or operator submits the notice required under paragraph (1)(C).
+            The contract termination shall become effective upon approval by the Secretary.
 
         (4) __Prorated rental payment__ 
 
@@ -135,15 +149,15 @@
 
     (f) __Transition option for certain farmers or ranchers__ 
 
-        (1) __Duties of the Secretary__ 
+        (1) __Transition to covered farmer or rancher__ 
 
-        In the case of a contract modification approved in order to facilitate the transfer, as described in subsection (c)(1)(B)(iii), of land to a beginning farmer or rancher or socially disadvantaged farmer or rancher (in this subsection referred to as a “covered farmer or rancher”), the Secretary shall—
+        In the case of a contract modification approved in order to facilitate the transfer of land subject to a contract from a retired farmer or rancher to a beginning farmer or rancher, a veteran farmer or rancher (as defined in [section 2279(e) of title 7][/us/usc/t7/s2279/e]), or a socially disadvantaged farmer or rancher (in this subsection referred to as a “covered farmer or rancher”), the Secretary shall—
 
             (A)
 
              beginning on the date that is 1 year before the date of termination of the contract—
 
-                (i) allow the covered farmer or rancher, in conjunction with the retired or retiring owner or operator, to make conservation and land improvements; and
+                (i) allow the covered farmer or rancher, in conjunction with the retired or retiring owner or operator, to make conservation and land improvements, including preparing to plant an agricultural crop; and
 
                 (ii) allow the covered farmer or rancher to begin the certification process under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501][/us/usc/t7/s6501] et seq.);
 
@@ -151,27 +165,35 @@
 
             (C) require the covered farmer or rancher to develop and implement a conservation plan;
 
-            (D) provide to the covered farmer or rancher an opportunity to enroll in the conservation stewardship program or the environmental quality incentives program by not later than the date on which the farmer or rancher takes possession of the land through ownership or lease; and
+            (D) provide to the covered farmer or rancher an opportunity to enroll in the conservation stewardship program or the environmental quality incentives program by not later than the date on which the covered farmer or rancher takes possession of the land through ownership or lease; and
 
-            (E) continue to make annual payments to the retired or retiring owner or operator for not more than an additional 2 years after the date of termination of the contract, if the retired or retiring owner or operator is not a family member (as defined in section 1308–1(b)(3)(B)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 7) of the covered farmer or rancher.
+            (E) continue to make annual payments to the retired or retiring owner or operator for not more than an additional 2 years after the date of termination of the contract, if the retired or retiring owner or operator is not a family member (as defined in [section 1308 of title 7][/us/usc/t7/s1308]) of the covered farmer or rancher.
 
         (2) __Reenrollment__ 
 
         The Secretary shall provide a covered farmer or rancher with the option to reenroll any applicable partial field conservation practice that—
 
-            (A) is eligible for enrollment under the continuous signup requirement of section 3831(h)(4)(B) 1 of this title; and
+            (A) is eligible for enrollment under the continuous signup option pursuant to [section 3834(d)(2)(A)(ii) of this title][/us/usc/t16/s3834/d/2/A/ii]; and
 
             (B) is part of an approved conservation plan.
 
-([Pub. L. 99–198, title XII, § 1235][/us/pl/99/198/s1235], as added [Pub. L. 107–171, title II, § 2101(a)][/us/pl/107/171/s2101/a], May 13, 2002, [116 Stat. 249][/us/stat/116/249]; amended [Pub. L. 110–234, title II, § 2111][/us/pl/110/234/s2111], May 22, 2008, [122 Stat. 1035][/us/stat/122/1035]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2111, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1763.)
+    (g) __Final year of contract__ 
+
+    The Secretary shall not consider an owner or operator to be in violation of a term or condition of the conservation reserve contract if—
+
+        (1) during the year prior to expiration of the contract, the land is enrolled in the conservation stewardship program; and
+
+        (2) the activity required under the conservation stewardship program pursuant to such enrollment is consistent with this subpart.
+
+    (h) __Land enrolled in agricultural conservation easement program__ 
+
+        The Secretary may terminate or modify a contract entered into under this subpart if eligible land that is subject to such contract is transferred into the agricultural conservation easement program under subchapter VII.
+
+([Pub. L. 99–198, title XII, § 1235][/us/pl/99/198/s1235], as added [Pub. L. 107–171, title II, § 2101(a)][/us/pl/107/171/s2101/a], May 13, 2002, [116 Stat. 249][/us/stat/116/249]; amended [Pub. L. 110–234, title II, § 2111][/us/pl/110/234/s2111], May 22, 2008, [122 Stat. 1035][/us/stat/122/1035]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2111, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1763; [Pub. L. 113–79, title II, § 2006][/us/pl/113/79/s2006], Feb. 7, 2014, [128 Stat. 719][/us/stat/128/719].)
 
  __References in Text__ 
 
     The Organic Foods Production Act of 1990, referred to in subsec. (f)(1)(A)(ii), is title XXI of [Pub. L. 101–624][/us/pl/101/624], Nov. 28, 1990, [104 Stat. 3935][/us/stat/104/3935], which is classified generally to chapter 94 (§ 6501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 6501 of Title 7][/us/usc/t7/s6501] and Tables.
-
-    [Section 1308–1 of title 7][/us/usc/t7/s1308–1], referred to in subsec. (f)(1)(E), was amended by [Pub. L. 110–246, title I, § 1603(d)][/us/pl/110/246/s1603/d], June 18, 2008, [122 Stat. 1736][/us/stat/122/1736], and, as so amended, no longer contains a subsec. (b)(3)(B) or provisions defining “family member”.
-
-    [Section 3831 of this title][/us/usc/t16/s3831], referred to in subsec. (f)(2)(A), was amended by [Pub. L. 110–246, title II, § 2106(a)(2)][/us/pl/110/246/s2106/a/2], June 18, 2008, [122 Stat. 1759][/us/stat/122/1759], and, as so amended, no longer contains a subsec. (h)(4)(B) or provisions relating to a continuous signup requirement.
 
  __Codification__ 
 
@@ -182,6 +204,24 @@
     A prior section 3835, [Pub. L. 99–198, title XII, § 1235][/us/pl/99/198/s1235], Dec. 23, 1985, [99 Stat. 1513][/us/stat/99/1513]; [Pub. L. 100–233, title VIII, § 801][/us/pl/100/233/s801], Jan. 6, 1988, [101 Stat. 1710][/us/stat/101/1710]; [Pub. L. 101–624, title XIV, § 1447(a)][/us/pl/101/624/s1447/a], Nov. 28, 1990, [104 Stat. 3605][/us/stat/104/3605]; [Pub. L. 104–127, title III, § 332(c)][/us/pl/104/127/s332/c], Apr. 4, 1996, [110 Stat. 994][/us/stat/110/994], related to contracts, prior to the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
 
  __Amendments__ 
+
+    2014—Subsec. (e)(1)(A). [Pub. L. 113–79, § 2006(a)(1)][/us/pl/113/79/s2006/a/1], substituted “During fiscal year 2015, the Secretary” for “The Secretary” and struck out “before January 1, 1995,” after “under this subpart”.
+
+    Subsec. (e)(2)(C) to (J). [Pub. L. 113–79, § 2006(a)(2)][/us/pl/113/79/s2006/a/2], added subpars. (C) to (J) and struck out former subpar. (C) which read as follows: “Other land of high environmental value (including wetland), as determined by the Secretary.”
+
+    Subsec. (e)(3). [Pub. L. 113–79, § 2006(a)(3)][/us/pl/113/79/s2006/a/3], substituted “upon approval by the Secretary” for “60 days after the date on which the owner or operator submits the notice required under paragraph (1)(C)”.
+
+    Subsec. (f)(1). [Pub. L. 113–79, § 2006(b)(1)(A)][/us/pl/113/79/s2006/b/1/A], substituted “Transition to covered farmer or rancher” for “Duties of the Secretary” in heading and, in introductory provisions, substituted “In the case of a contract modification approved in order to facilitate the transfer of land subject to a contract from a retired farmer or rancher to a beginning farmer or rancher, a veteran farmer or rancher (as defined in [section 2279(e) of title 7][/us/usc/t7/s2279/e]), or a” for “In the case of a contract modification approved in order to facilitate the transfer, as described in subsection (c)(1)(B)(iii), of land to a beginning farmer or rancher or”.
+
+    Subsec. (f)(1)(A)(i). [Pub. L. 113–79, § 2006(b)(1)(B)][/us/pl/113/79/s2006/b/1/B], inserted “, including preparing to plant an agricultural crop” after “improvements”.
+
+    Subsec. (f)(1)(D). [Pub. L. 113–79, § 2006(b)(1)(C)][/us/pl/113/79/s2006/b/1/C], substituted “the covered farmer or rancher” for “the farmer or rancher”.
+
+    Subsec. (f)(1)(E). [Pub. L. 113–79, § 2006(b)(1)(D)][/us/pl/113/79/s2006/b/1/D], substituted “section 1308” for “section 1308–1(b)(3)(B)”.
+
+    Subsec. (f)(2)(A). [Pub. L. 113–79, § 2006(b)(2)][/us/pl/113/79/s2006/b/2], substituted “option pursuant to section 3834(d)(2)(A)(ii)” for “requirement of section 3831(h)(4)(B)”.
+
+    Subsecs. (g), (h). [Pub. L. 113–79, § 2006(c)][/us/pl/113/79/s2006/c], added subsecs. (g) and (h).
 
     2008—Subsec. (c)(1)(B)(iii), (iv). [Pub. L. 110–246, § 2111(a)][/us/pl/110/246/s2111/a], added cl. (iii) and redesignated former cl. (iii) as (iv).
 
@@ -204,7 +244,10 @@
 ----------
 ----------
 
+[/us/usc/t7/s2279/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2279%2Fe
 [/us/usc/t7/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6501
+[/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
+[/us/usc/t16/s3834/d/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3834%2Fd%2F2%2FA%2Fii
 [/us/pl/99/198/s1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1235
 [/us/pl/107/171/s2101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2101%2Fa
 [/us/stat/116/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F249
@@ -212,15 +255,11 @@
 [/us/stat/122/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1035
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2006
+[/us/stat/128/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F719
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3935
 [/us/usc/t7/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6501
-[/us/usc/t7/s1308–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%931
-[/us/pl/110/246/s1603/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fd
-[/us/stat/122/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1736
-[/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
-[/us/pl/110/246/s2106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2106%2Fa%2F2
-[/us/stat/122/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1759
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -234,6 +273,16 @@
 [/us/pl/104/127/s332/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs332%2Fc
 [/us/stat/110/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F994
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/113/79/s2006/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2006%2Fa%2F1
+[/us/pl/113/79/s2006/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2006%2Fa%2F2
+[/us/pl/113/79/s2006/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2006%2Fa%2F3
+[/us/pl/113/79/s2006/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2006%2Fb%2F1%2FA
+[/us/usc/t7/s2279/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2279%2Fe
+[/us/pl/113/79/s2006/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2006%2Fb%2F1%2FB
+[/us/pl/113/79/s2006/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2006%2Fb%2F1%2FC
+[/us/pl/113/79/s2006/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2006%2Fb%2F1%2FD
+[/us/pl/113/79/s2006/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2006%2Fb%2F2
+[/us/pl/113/79/s2006/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2006%2Fc
 [/us/pl/110/246/s2111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2111%2Fa
 [/us/pl/110/246/s2111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2111%2Fb
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

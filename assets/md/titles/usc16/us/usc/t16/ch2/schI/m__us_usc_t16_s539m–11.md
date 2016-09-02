@@ -45,11 +45,35 @@
 
         (4) __Treatment of land exchanged or conveyed__ 
 
-            All land exchanged or conveyed to the Pueblo is declared to be held in trust for the Pueblo by the United States and added to the Pueblo’s Reservation subject to all existing and outstanding rights and shall, as a condition of the conveyance, remain in its natural state and shall not be subject to commercial development of any kind. Land exchanged or conveyed to the Forest Service shall be subject to all limitations on use pertaining to the Area under sections 539m to 539m–12 of this title.
+            All land exchanged or conveyed to the Pueblo is declared to be held in trust for the Pueblo by the United States and added to the Pueblo’s Reservation subject to all existing and outstanding rights and shall, as a condition of the title to be conveyed, remain in its natural state and shall not be subject to commercial development of any kind. Land exchanged or conveyed to the Forest Service shall be subject to all limitations on use pertaining to the Area under sections 539m to 539m–12 of this title.
 
         (5) __Failure to make offer__ 
 
             If the land exchange offer is not made by the date that is 180 days after February 20, 2003, the Secretary shall submit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the United States House of Representatives, a report explaining the reasons for the failure to make the offer including an assessment of the need for any additional legislation that may be necessary for the exchange. If additional legislation is not necessary, the Secretary, consistent with this section, should proceed with the exchange pursuant to existing law.
+
+        (6) __Failure to exchange__ 
+
+            (A) __In general__ 
+
+            If the land exchange authorized under paragraph (1) is not completed by the date that is 30 days after June 9, 2014, the Secretary, on request of the Pueblo and the Secretary of the Interior, shall transfer the National Forest land generally depicted as “Land to be Held in Trust” on the map entitled “Sandia Pueblo Settlement Technical Amendment Act” and dated October 18, 2013, to the Secretary of the Interior to be held in trust by the United States for the Pueblo—
+
+                (i) subject to the restriction enforced by the Secretary of the Interior that the land remain undeveloped, with the natural characteristics of the land to be preserved in perpetuity; and
+
+                (ii) consistent with subsection (c).
+
+            (B) __Other transfers__ 
+
+            After the transfer under subparagraph (A) is complete, the Secretary of the Interior, with the consent of the Pueblo, shall—
+
+                (i)
+
+                 transfer to the Secretary, consistent with [section 539m–9(c) of this title][/us/usc/t16/s539m–9/c]—
+
+                    (I) the La Luz tract generally depicted on the map entitled “Sandia Pueblo Settlement Technical Amendment Act” and dated October 18, 2013; and
+
+                    (II) the conservation easement for the Piedra Lisa tract generally depicted on the map entitled “Sandia Pueblo Settlement Technical Amendment Act” and dated October 18, 2013; and
+
+                (ii) grant to the Secretary a right-of-way for the Piedra Lisa Trail within the Piedra Lisa tract generally depicted on the map entitled “Sandia Pueblo Settlement Technical Amendment Act” and dated October 18, 2013.
 
     (c) __Land acquisition and other compensation__ 
 
@@ -91,7 +115,7 @@
 
             No party shall be reimbursed in excess of $750,000 under this section, and the total amount reimbursed in accordance with this section shall not exceed $3,000,000.
 
-([Pub. L. 108–7, div. F, title IV, § 413][/us/pl/108/7/s413], Feb. 20, 2003, [117 Stat. 292][/us/stat/117/292]; [Pub. L. 111–11, title III, § 3309][/us/pl/111/11/s3309], Mar. 30, 2009, [123 Stat. 1139][/us/stat/123/1139].)
+([Pub. L. 108–7, div. F, title IV, § 413][/us/pl/108/7/s413], Feb. 20, 2003, [117 Stat. 292][/us/stat/117/292]; [Pub. L. 111–11, title III, § 3309][/us/pl/111/11/s3309], Mar. 30, 2009, [123 Stat. 1139][/us/stat/123/1139]; [Pub. L. 113–119, § 2][/us/pl/113/119/s2], June 9, 2014, [128 Stat. 1185][/us/stat/128/1185].)
 
  __References in Text__ 
 
@@ -102,6 +126,10 @@
     The Equal Access to Justice Act, referred to in subsec. (d)(2), is title II of [Pub. L. 96–481][/us/pl/96/481], Oct. 21, 1980, [94 Stat. 2325][/us/stat/94/2325], as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 504 of Title 5][/us/usc/t5/s504], Government Organization and Employees, and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(4). [Pub. L. 113–119, § 2(1)][/us/pl/113/119/s2/1], substituted “title to be conveyed” for “conveyance”.
+
+    Subsec. (b)(6). [Pub. L. 113–119, § 2(2)][/us/pl/113/119/s2/2], added par. (6).
 
     2009—Subsec. (b)(1). [Pub. L. 111–11, § 3309(1)][/us/pl/111/11/s3309/1], inserted “3,” after “sections”.
 
@@ -120,12 +148,15 @@
 
 [/us/usc/t43/s1716/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1716%2Fb
 [/us/usc/t16/s484a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs484a
+[/us/usc/t16/s539m–9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539m%E2%80%939%2Fc
 [/us/usc/t16/s539m–7/h/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539m%E2%80%937%2Fh%2F3%2FC
 [/us/usc/t16/s539m–7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539m%E2%80%937%2Fb%2F2
 [/us/pl/108/7/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs413
 [/us/stat/117/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F292
 [/us/pl/111/11/s3309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs3309
 [/us/stat/123/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1139
+[/us/pl/113/119/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F119%2Fs2
+[/us/stat/128/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1185
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/stat/117/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F279
 [/us/usc/t16/s539m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539m
@@ -133,6 +164,8 @@
 [/us/pl/96/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481
 [/us/stat/94/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2325
 [/us/usc/t5/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs504
+[/us/pl/113/119/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F119%2Fs2%2F1
+[/us/pl/113/119/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F119%2Fs2%2F2
 [/us/pl/111/11/s3309/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs3309%2F1
 [/us/pl/111/11/s3309/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs3309%2F2
 

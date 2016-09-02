@@ -115,109 +115,11 @@
 
 [Pub. L. 107–63, title III, § 332][/us/pl/107/63/s332], Nov. 5, 2001, [115 Stat. 471][/us/stat/115/471], provided in part that: 
 
-> “The authority to enter into stewardship and end result contracts provided to the Forest Service in accordance with section 347 of title III of section 101(e) of division A of [Public Law 105–277][/us/pl/105/277] \[set out as a note below\] is hereby expanded to authorize the Forest Service to enter into an additional 28 contracts subject to the same terms and conditions as provided in that section: Provided, That of the additional contracts authorized by this section at least 9 shall be allocated to Region 1 and at least 3 to Region 6.”
+> “The authority to enter into stewardship and end result contracts provided to the Forest Service in accordance with \[former\] section 347 of title III of section 101(e) of division A of [Public Law 105–277][/us/pl/105/277] \[formerly set out as a note below\] is hereby expanded to authorize the Forest Service to enter into an additional 28 contracts subject to the same terms and conditions as provided in that section: Provided, That of the additional contracts authorized by this section at least 9 shall be allocated to Region 1 and at least 3 to Region 6.”
 
     Similar provisions were contained in [Pub. L. 106–291, title III, § 338][/us/pl/106/291/s338], Oct. 11, 2000, [114 Stat. 998][/us/stat/114/998], as amended by [Pub. L. 107–20, title II, § 2604][/us/pl/107/20/s2604], July 24, 2001, [115 Stat. 178][/us/stat/115/178].
 
-[Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 347\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–298, as amended by [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 341\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–201; [Pub. L. 107–63, title III, § 332][/us/pl/107/63/s332], Nov. 5, 2001, [115 Stat. 471][/us/stat/115/471]; [Pub. L. 108–7, div. F, title III, § 323][/us/pl/108/7/s323], Feb. 20, 2003, [117 Stat. 275][/us/stat/117/275], provided that:
-
->     “(a)  __In General__  __.—__ 
-
->     Until September 30, 2013, the Forest Service and the Bureau of Land Management, via agreement or contract as appropriate, may enter into stewardship contracting projects with private persons or other public or private entities to perform services to achieve land management goals for the national forests and the public lands that meet local and rural community needs.
-
->     “(b)  __Land Management Goals__  __.—__ 
-
->     The land management goals of a project under subsection (a) may include, among other things—
-
->         “(1) road and trail maintenance or obliteration to restore or maintain water quality;
-
->         “(2) soil productivity, habitat for wildlife and fisheries, or other resource values;
-
->         “(3) setting of prescribed fires to improve the composition, structure, condition, and health of stands or to improve wildlife habitat;
-
->         “(4) removing vegetation or other activities to promote healthy forest stands, reduce fire hazards, or achieve other land management objectives;
-
->         “(5) watershed restoration and maintenance;
-
->         “(6) restoration and maintenance of wildlife and fish habitat; and
-
->         “(7) control of noxious and exotic weeds and reestablishing native plant species.
-
->     “(c) __Agreements or Contracts.—__ 
-
->         “(1)  __Procurement procedure__  __.—__ 
-
->         A source for performance of an agreement or contract under subsection (a) shall be selected on a best-value basis, including consideration of source under other public and private agreements or contracts.
-
->         “(2)  __Term__  __.—__ 
-
->         A multiyear contract may be entered into under subsection (a) in accordance with section 304B of the Federal Property and Administrative Services Act of 1949 (\[former\] [41 U.S.C. 254c][/us/usc/t41/s254c]) \[now [41 U.S.C. 3903][/us/usc/t41/s3903]\], except that the period of the contract may exceed 5 years but may not exceed 10 years.
-
->         “(3) __Offsets.—__ 
-
->             “(A)  __In general__  __.—__ 
-
->             In connection with agreement or contracts under subsection (a), the Forest Service and the Bureau of Land Management may apply the value of timber or other forest products removed as an offset against the cost of services received.
-
->             “(B)  __Methods of appraisal__  __.—__ 
-
->             The value of timber or other forest products used as offsets under subparagraph (A)—
-
->                 “(i) shall be determined using appropriate methods of appraisal commensurate with the quantity of products to be removed;
-
->                 “(ii) may be determined using a unit of measure appropriate to the agreement or contracts; and
-
->                 “(iii) may include valuing products on a per-acre basis.
-
->         “(4)  __Relation to other laws__  __.—__ 
-
->         The Forest Service may enter into agreement or contracts under subsection (a), notwithstanding subsections (d) and (g) of section 14 of the National Forest Management Act of 1976 ([16 U.S.C. 472a][/us/usc/t16/s472a]).
-
->         “(5)  __Contracting officer__  __.—__ 
-
->         Notwithstanding any other provision of law, the Secretary of Agriculture or the Secretary of the Interior may determine the appropriate contracting officer to enter into and administer an agreement or contract under subsection (a).
-
->     “(d) __Receipts.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         The Forest Service and the Bureau of Land Management may collect monies from an agreement or contract under subsection (a) so long as such collection is a secondary objective of negotiating contracts that will best achieve the purposes of this section.
-
->         “(2)  __Use__  __.—__ 
-
->         Monies from an agreement or contract under subsection (a) may be retained by the Forest Service and the Bureau of Land Management and shall be available for expenditure without further appropriation at the project site from which the monies are collected or at another project site.
-
->         “(3)  __Relation to other laws__  __.—__ 
-
->         The value of services received by the Forest Service or the Bureau of Land Management under a stewardship contract project conducted under this section, and any payments made or resources provided by the contractor or the Forest Service or the Bureau of Land Management under such a project, shall not be considered to be monies received from the National Forest System or the public lands under any provision of law. The Act of June 9, 1930 ([16 U.S.C. 576][/us/usc/t16/s576] et seq.; commonly known as the Knutson-Vandenberg Act), shall not apply to stewardship contracts entered into under this section.
-
->     “(e)  __Costs of Removal__  __.—__ 
-
->     The Forest Service may collect deposits from contractors covering the costs of removal of timber or other forest products pursuant to the Act of August 11, 1916 ([39 Stat. 462][/us/stat/39/462], chapter 313; [16 U.S.C. 490][/us/usc/t16/s490]); and the next to the last paragraph under the heading ‘Forest Service.’ under the heading ‘Department of Agriculture’ in the Act of June 30, 1914 ([38 Stat. 430][/us/stat/38/430], chapter 131; [16 U.S.C. 498][/us/usc/t16/s498]); notwithstanding the fact that the timber purchasers did not harvest the timber.
-
->     “(f) __Performance and Payment Guarantees.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         The Forest Service and the Bureau of Land Management may require performance and payment bonds, in accordance with sections 103–2 and 103–2 of part 28 of the Federal Acquisition Regulation (48 C.F.R. 28.103–2, 28.103–3), in an amount that the contracting officer considers sufficient to protect the Government’s investment in receipts generated by the contractor from the estimated value of the forest products to be removed under contract under subsection (a).
-
->         “(2)  __Excess offset value__  __.—__ 
-
->         If the offset value of the forest products exceeds the value of the resource improvement treatments, the Forest Service and the Bureau of Land Management may—
-
->             “(A) collect any residual receipts pursuant to the Act of June 9, 1930 ([46 Stat. 527][/us/stat/46/527], chapter 416; [16 U.S.C. 576b][/us/usc/t16/s576b]); and
-
->             “(B) apply the excess to other authorized stewardship projects.
-
->     “(g)  __Monitoring, Evaluation and Reporting__  __.—__ 
-
->     The Forest Service and the Bureau of Land Management shall establish a multiparty monitoring and evaluation process that accesses the stewardship contracting projects conducted under this section. Besides the Forest Service and the Bureau of Land Management, participants in this process may include any cooperating governmental agencies, including tribal governments, and any interested groups or individuals. The Forest Service and the Bureau of Land Management shall report annually to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate on—
-
->         “(1) the status of development, execution, and administration of agreements or contracts under subsection (a);
-
->         “(2) the specific accomplishments that have resulted; and
-
->         “(3) the role of local communities in development of agreements or contract plans.”
+    [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 347\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–298, as amended by [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 341\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–201; [Pub. L. 107–63, title III, § 332][/us/pl/107/63/s332], Nov. 5, 2001, [115 Stat. 471][/us/stat/115/471]; [Pub. L. 108–7, div. F, title III, § 323][/us/pl/108/7/s323], Feb. 20, 2003, [117 Stat. 275][/us/stat/117/275]; [Pub. L. 113–76, div. G, title IV, § 434][/us/pl/113/76/s434], Jan. 17, 2014, [128 Stat. 346][/us/stat/128/346], which allowed the Forest Service and the Bureau of Land Management to enter into stewardship contracting projects with private persons or other public or private entities to perform services to achieve certain land management goals, was repealed by [Pub. L. 113–79, title VIII, § 8205(b)][/us/pl/113/79/s8205/b], Feb. 7, 2014, [128 Stat. 921][/us/stat/128/921]. See [section 6591c of this title][/us/usc/t16/s6591c].
 
  __Herger-Feinstein Quincy Library Group Forest Recovery__ 
 
@@ -447,16 +349,11 @@
 [/us/stat/115/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F471
 [/us/pl/108/7/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs323
 [/us/stat/117/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F275
-[/us/usc/t41/s254c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs254c
-[/us/usc/t41/s3903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3903
-[/us/usc/t16/s472a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs472a
-[/us/usc/t16/s576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs576
-[/us/stat/39/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F462
-[/us/usc/t16/s490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs490
-[/us/stat/38/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F430
-[/us/usc/t16/s498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs498
-[/us/stat/46/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F527
-[/us/usc/t16/s576b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs576b
+[/us/pl/113/76/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs434
+[/us/stat/128/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F346
+[/us/pl/113/79/s8205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8205%2Fb
+[/us/stat/128/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F921
+[/us/usc/t16/s6591c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6591c
 [/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/pl/107/171/s6201/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6201%2Fd%2F5
