@@ -139,7 +139,7 @@
 
                  The laws specified in this clause are the following:
 
-                    (I) [Section 2405(j)(1)(A) of title 50][/us/usc/t50/s2405/j/1/A], Appendix (or successor statute).
+                    (I) [Section 4605(j)(1)(A) of title 50][/us/usc/t50/s4605/j/1/A] (or successor statute).
 
                     (II) [Section 2780(d) of title 22][/us/usc/t22/s2780/d].
 
@@ -1474,7 +1474,7 @@
 [/us/usc/t8/s1101/a/15/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FP
 [/us/usc/t8/s1101/a/15/P/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FP%2Fii
 [/us/usc/t8/s1101/a/15/P/i/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FP%2Fi%2Fa
-[/us/usc/t50/s2405/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405%2Fj%2F1%2FA
+[/us/usc/t50/s4605/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1%2FA
 [/us/usc/t22/s2780/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780%2Fd
 [/us/usc/t22/s2371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371%2Fa
 [/us/usc/t8/s1101/a/15/P/i/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FP%2Fi%2Fa

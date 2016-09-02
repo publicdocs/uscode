@@ -143,7 +143,7 @@
 
                 (ii) any offense under section 871 or 960 of title 18;
 
-                (iii) a violation of any provision of the Military Selective Service Act (50 U.S.C. App. 451 et seq.) or the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.); or
+                (iii) a violation of any provision of the Military Selective Service Act (50 U.S.C. App. 451 et seq.) \[now [50 U.S.C. 3801][/us/usc/t50/s3801] et seq.\] or the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.) \[now [50 U.S.C. 4301][/us/usc/t50/s4301] et seq.\]; or
 
                 (iv) a violation of section 1185 or 1328 of this title,
 
@@ -315,15 +315,13 @@
 
     Section 112 of the Immigration Act of 1990, referred to in subsec. (a)(1)(E)(ii), is [section 112 of Pub. L. 101–649][/us/pl/101/649/s112], which is set out as a note under [section 1153 of this title][/us/usc/t8/s1153].
 
-    The Military Selective Service Act, referred to in subsec. (a)(2)(D)(iii), is [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 604][/us/stat/62/604], as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under [section 451 of Title 50][/us/usc/t50/s451], Appendix, and Tables.
+    The Military Selective Service Act, referred to in subsec. (a)(2)(D)(iii), is [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 604][/us/stat/62/604], which was classified principally to section 451 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 49 (§ 3801 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
-    The Trading With the Enemy Act, referred to in subsec. (a)(2)(D)(iii), is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix. For complete classification of this Act to the Code, see Tables.
+    The Trading With the Enemy Act, referred to in subsec. (a)(2)(D)(iii), is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], which was classified to sections 1 to 6, 7 to 39 and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
     The Alien Registration Act, 1940, referred to in subsec. (a)(3)(B)(i), is [act June 28, 1940, ch. 439][/us/act/1940-06-28/ch439], [54 Stat. 670][/us/stat/54/670], as amended. Section 36(a) of that act was classified to [section 457(c) of this title][/us/usc/t8/s457/c] and was repealed by section 403(a)(39) of act June 27, 1952.
 
     The Foreign Agents Registration Act of 1938, referred to in subsec. (a)(3)(B)(ii), is [act June 8, 1938, ch. 327][/us/act/1938-06-08/ch327], [52 Stat. 631][/us/stat/52/631], as amended, which is classified generally to subchapter II (§ 611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 611 of Title 22][/us/usc/t22/s611] and Tables.
-
- __Codification__ 
 
     Section was formerly classified to [section 1251 of this title][/us/usc/t8/s1251] prior to renumbering by [Pub. L. 104–208][/us/pl/104/208].
 
@@ -685,6 +683,8 @@
 [/us/usc/t18/s2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2250
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
 [/us/usc/t18/s921/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921%2Fa
+[/us/usc/t50/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3801
+[/us/usc/t50/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4301
 [/us/usc/t18/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs16
 [/us/usc/t8/s1182/a/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F2%2FH
 [/us/usc/t8/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1305
@@ -771,7 +771,6 @@
 [/us/usc/t8/s1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604
-[/us/usc/t50/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs451
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411
 [/us/act/1940-06-28/ch439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-28%2Fch439

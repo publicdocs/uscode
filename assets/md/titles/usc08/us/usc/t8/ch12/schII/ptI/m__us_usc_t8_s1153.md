@@ -961,7 +961,7 @@
 
  __Special Nonquota Immigrant Visas for Refugees__ 
 
-    [Pub. L. 86–363, § 6][/us/pl/86/363/s6], Sept. 22, 1959, [73 Stat. 645][/us/stat/73/645], authorizing issuance of nonquota immigrant visas to aliens eligible to enter for permanent residence if the alien was the beneficiary of a visa petition approved by the Attorney General, and such petition was filed by a person admitted under former section 1971 et seq., of Title 50, Appendix, was repealed by [Pub. L. 87–301, § 24(a)(7)][/us/pl/87/301/s24/a/7], Sept. 26, 1961, [75 Stat. 657][/us/stat/75/657].
+    [Pub. L. 86–363, § 6][/us/pl/86/363/s6], Sept. 22, 1959, [73 Stat. 645][/us/stat/73/645], authorizing issuance of nonquota immigrant visas to aliens eligible to enter for permanent residence if the alien was the beneficiary of a visa petition approved by the Attorney General, and such petition was filed by a person admitted under former section 1971 et seq., of the former Appendix to Title 50, was repealed by [Pub. L. 87–301, § 24(a)(7)][/us/pl/87/301/s24/a/7], Sept. 26, 1961, [75 Stat. 657][/us/stat/75/657].
 
     \[Repeal of [section 6 of Pub. L. 86–363][/us/pl/86/363/s6] effective upon expiration of the one hundred and eightieth day immediately following Sept. 26, 1961, see [section 24(b) of Pub. L. 87–301][/us/pl/87/301/s24/b], set out as a note under former [section 1255a of this title][/us/usc/t8/s1255a].\]
 

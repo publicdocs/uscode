@@ -71,7 +71,7 @@
 
             (C) has not assisted in the persecution of any person or persons on account of race, religion, nationality, membership in a particular social group, or political opinion, and
 
-            (D) is registered or registering under the Military Selective Service Act \[50 U.S.C. App. 451 et seq.\], if the alien is required to be so registered under that Act.
+            (D) is registered or registering under the Military Selective Service Act \[[50 U.S.C. 3801][/us/usc/t50/s3801] et seq.\], if the alien is required to be so registered under that Act.
 
             For purposes of this subsection, an alien in the status of a Cuban and Haitian entrant described in paragraph (1) or (2)(A) of [section 501(e) of Public Law 96–422][/us/pl/96/422/s501/e] \[[8 U.S.C. 1522][/us/usc/t8/s1522] note\] shall be considered to have entered the United States and to be in an unlawful status in the United States.
 
@@ -451,7 +451,7 @@
 
  __References in Text__ 
 
-    The Military Selective Service Act, referred to in subsec. (a)(4)(D), is [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 604][/us/stat/62/604], as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see note set out under [section 451 of Title 50][/us/usc/t50/s451], Appendix, and Tables.
+    The Military Selective Service Act, referred to in subsec. (a)(4)(D), is [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 604][/us/stat/62/604], which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
     [Public Law 96–422][/us/pl/96/422], referred to in subsecs. (a) and (h)(2)(A), (5), is [Pub. L. 96–422][/us/pl/96/422], Oct. 10, 1980, [94 Stat. 1799][/us/stat/94/1799], as amended, which is known as the Refugee Education Assistance Act of 1980, and is set out as a note under [section 1522 of this title][/us/usc/t8/s1522].
 
@@ -804,6 +804,7 @@
 [/us/usc/t8/s1154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1154%2Fa
 [/us/usc/t8/s1101/a/15/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FJ
 [/us/usc/t8/s1182/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fe
+[/us/usc/t50/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3801
 [/us/pl/96/422/s501/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F422%2Fs501%2Fe
 [/us/usc/t8/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1522
 [/us/usc/t8/s1423/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1423%2Fa
@@ -884,7 +885,6 @@
 [/us/stat/128/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1712
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604
-[/us/usc/t50/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs451
 [/us/pl/96/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F422
 [/us/pl/96/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F422
 [/us/stat/94/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1799
