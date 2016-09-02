@@ -51,7 +51,7 @@
 
     (e)  __Regular Military Department Assessments__  __.—__ 
 
-    The Secretary of each military department shall include in the set of issues and programs to be reviewed during any management effectiveness review or inspection at the installation level an assessment of compliance with the Uniformed and Overseas Citizens Absentee Voting Act ([42 U.S.C. 1973ff][/us/usc/t42/s1973ff] et seq.) 1 and with Department of Defense regulations regarding the Federal Voting Assistance Program.
+    The Secretary of each military department shall include in the set of issues and programs to be reviewed during any management effectiveness review or inspection at the installation level an assessment of compliance with the Uniformed and Overseas Citizens Absentee Voting Act ([42 U.S.C. 1973ff][/us/usc/t42/s1973ff] et seq.) and with Department of Defense regulations regarding the Federal Voting Assistance Program.
 
     (f)  __Voting Assistance Officers__  __.—__ 
 

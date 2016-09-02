@@ -145,6 +145,18 @@
 
     This section is popularly known as the “Berry Amendment”.
 
+ __Periodic Audits of Contracting Compliance by Inspector General of Department of Defense__ 
+
+[Pub. L. 113–66, div. A, title XVI, § 1601][/us/pl/113/66/s1601], Dec. 26, 2013, [127 Stat. 941][/us/stat/127/941], provided that:
+
+>     “(a)  __Requirement for Periodic Audits of Contracting Compliance__  __.—__ 
+
+>     The Inspector General of the Department of Defense shall conduct periodic audits of contracting practices and policies related to procurement under [section 2533a of title 10][/us/usc/t10/s2533a], United States Code.
+
+>     “(b)  __Requirement for Additional Information in Semiannual Reports__  __.—__ 
+
+>     The Inspector General of the Department of Defense shall ensure that findings and other information resulting from audits conducted pursuant to subsection (a) are included in the semiannual report transmitted to congressional committees under section 8(f)(1) of the Inspector General Act of 1978 (5 U.S.C. App.).”
+
  __Fire Resistant Rayon Fiber__ 
 
 [Pub. L. 111–383, div. A, title VIII, § 821(b)][/us/pl/111/383/s821/b], Jan. 7, 2011, [124 Stat. 4268][/us/stat/124/4268], provided that: 
@@ -252,6 +264,9 @@
 [/us/pl/108/136/s827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs827
 [/us/pl/109/364/s842/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs842%2Fa%2F4%2FB
 [/us/stat/120/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2337
+[/us/pl/113/66/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1601
+[/us/stat/127/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F941
+[/us/usc/t10/s2533a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2533a
 [/us/pl/111/383/s821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs821%2Fb
 [/us/stat/124/4268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4268
 [/us/pl/110/181/s829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs829

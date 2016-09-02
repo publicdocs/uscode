@@ -71,11 +71,21 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs657" data-uslm-ref="/us/usc/t10/s657">657.</a>  </td>
+
+    <td> Prohibition on service in the armed forces by individuals convicted of certain sexual offenses.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–239, div. A, title V, § 519(a)(2)][/us/pl/112/239/s519/a/2], Jan. 2, 2013, [126 Stat. 1721][/us/stat/126/1721], added item 656.
+    2013—[Pub. L. 113–66, div. A, title XVII, § 1711(a)(2)][/us/pl/113/66/s1711/a/2], Dec. 26, 2013, [127 Stat. 963][/us/stat/127/963], added item 657.
+
+    [Pub. L. 112–239, div. A, title V, § 519(a)(2)][/us/pl/112/239/s519/a/2], Jan. 2, 2013, [126 Stat. 1721][/us/stat/126/1721], added item 656.
 
     2010—[Pub. L. 111–321, § 2(f)(1)(B)][/us/pl/111/321/s2/f/1/B], Dec. 22, 2010, [124 Stat. 3516][/us/stat/124/3516], struck out item 654 “Policy concerning homosexuality in the armed forces”.
 
@@ -106,6 +116,8 @@
 ----------
 ----------
 
+[/us/pl/113/66/s1711/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1711%2Fa%2F2
+[/us/stat/127/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F963
 [/us/pl/112/239/s519/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs519%2Fa%2F2
 [/us/stat/126/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1721
 [/us/pl/111/321/s2/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F321%2Fs2%2Ff%2F1%2FB

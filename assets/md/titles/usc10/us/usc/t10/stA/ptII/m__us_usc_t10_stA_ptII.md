@@ -555,6 +555,82 @@
 
     1958—[Pub. L. 85–861][/us/pl/85/861], §§ 1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, [72 Stat. 1443][/us/stat/72/1443], 1450, 1455, 1564, substituted “General Service Requirements” for “Service Requirements for Reserves” in item for chapter 37, “971” for “\[No present sections\]” in item for chapter 49, “Medical and Dental Care” for “Voting by Members of Armed Forces” in item for chapter 55, and struck out “Care of the Dead” and substituted “1475” for “1481” in item for chapter 75.
 
+ __Enhanced Protections for Prospective Members and New Members of the Armed Forces During Entry-Level Processing and Training__ 
+
+[Pub. L. 113–66, div. A, title XVII, § 1741][/us/pl/113/66/s1741], Dec. 26, 2013, [127 Stat. 977][/us/stat/127/977], provided that:
+
+>     “(a) __Defining Inappropriate and Prohibited Relationships, Communication, Conduct, and Contact Between Certain Members.—__ 
+
+>         “(1)  __Policy required__  __.—__ 
+
+>         The Secretary of a military department and the Secretary of the Department in which the Coast Guard is operating shall maintain a policy that defines and prescribes, for the persons described in paragraph (2), what constitutes an inappropriate and prohibited relationship, communication, conduct, or contact, including when such an action is consensual, between a member of the Armed Forces described in paragraph (2)(A) and a prospective member or member of the Armed Forces described in paragraph (2)(B).
+
+>         “(2)  __Covered members__  __.—__ 
+
+>         The policy required by paragraph (1) shall apply to—
+
+>             “(A) a member of the Armed Forces who exercises authority or control over, or supervises, a person described in subparagraph (B) during the entry-level processing or training of the person; and
+
+>             “(B) a prospective member of the Armed Forces or a member of the Armed Forces undergoing entry-level processing or training.
+
+>         “(3)  __Inclusion of certain members required__  __.—__ 
+
+>         The members of the Armed Forces covered by paragraph (2)(A) shall include, at a minimum, military personnel assigned or attached to duty—
+
+>             “(A) for the purpose of recruiting or assessing persons for enlistment or appointment as a commissioned officer, warrant officer, or enlisted member of the Armed Forces;
+
+>             “(B) at a Military Entrance Processing Station; or
+
+>             “(C) at an entry-level training facility or school of an Armed Force.
+
+>     “(b)  __Effect of Violations__  __.—__ 
+
+>     A member of the Armed Forces who violates the policy required by subsection (a) shall be subject to prosecution under the Uniform Code of Military Justice.
+
+>     “(c) __Processing for Administrative Separation.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>             (A) The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall require the processing for administrative separation of any member of the Armed Forces described in subsection (a)(2)(A) in response to the first substantiated violation by the member of the policy required by subsection (a), when the member is not otherwise punitively discharged or dismissed from the Armed Forces for that violation.
+
+>             “(B) The Secretary of a military department shall revise regulations applicable to the Armed Forces under the jurisdiction of that Secretary as necessary to ensure compliance with the requirement under subparagraph (A).
+
+>         “(2)  __Required elements__  __.—__ 
+
+>             (A) In imposing the requirement under paragraph (1), the Secretaries shall ensure that any separation decision regarding a member of the Armed Forces is based on the full facts of the case and that due process procedures are provided under existing law or regulations or additionally prescribed, as considered necessary by the Secretaries, pursuant to subsection (f).
+
+>             “(B)
+
+>              The requirement imposed by paragraph (1) shall not be interpreted to limit or alter the authority of the Secretary of a military department and the Secretary of the Department in which the Coast Guard is operating to process members of the Armed Forces for administrative separation—
+
+>                 “(i) for reasons other than a substantiated violation of the policy required by subsection (a); or
+
+>                 “(ii) under other provisions of law or regulation.
+
+>         “(3)  __Substantiated violation__  __.—__ 
+
+>         For purposes of paragraph (1), a violation by a member of the Armed Forces described in subsection (a)(2)(A) of the policy required by subsection (a) shall be treated as substantiated if—
+
+>             “(A) there has been a court-martial conviction for violation of the policy, but the adjudged sentence does not include discharge or dismissal; or
+
+>             “(B) a nonjudicial punishment authority under [section 815 of title 10][/us/usc/t10/s815], United States Code (article 15 of the Uniform Code of Military Justice), has determined that a member has committed an offense in violation of the policy and imposed nonjudicial punishment upon the member.
+
+>     “(d)  __Report on Need for UCMJ Punitive Article__  __.—__ 
+
+>     Not later than 120 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing the recommendations of the Secretary regarding the need to amend chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), to create an additional article under subchapter X of such chapter to address violations of the policy required by subsection (a).
+
+>     “(e)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1) The term ‘entry-level processing or training’, with respect to a member of the Armed Forces, means the period beginning on the date on which the member became a member of the Armed Forces and ending on the date on which the member physically arrives at that member’s first duty assignment following completion of initial entry training (or its equivalent), as defined by the Secretary of the military department concerned or the Secretary of the Department in which the Coast Guard is operating.
+
+>         “(2) The term ‘prospective member of the Armed Forces’ means a person who has had a face-to-face meeting with a member of the Armed Forces assigned or attached to duty described in subsection (a)(3)(A) regarding becoming a member of the Armed Forces, regardless of whether the person eventually becomes a member of the Armed Forces.
+
+>     “(f)  __Regulations__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall issue such regulations as may be necessary to carry out this section. The Secretary of Defense shall ensure that, to the extent practicable, the regulations are uniform for each armed force under the jurisdiction of that Secretary.”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t10/stA/ptI/ch24/m__us_usc_t10_s498.md) | [Next](./../../../../..//us/usc/t10/stA/ptII/ch31/m__us_usc_t10_stA_ptII_ch31.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII)
@@ -619,5 +695,8 @@
 [/us/stat/75/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F810
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1443
+[/us/pl/113/66/s1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1741
+[/us/stat/127/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F977
+[/us/usc/t10/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs815
 
 

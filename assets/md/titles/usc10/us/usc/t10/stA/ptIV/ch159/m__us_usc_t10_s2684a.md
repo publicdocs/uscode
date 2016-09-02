@@ -137,13 +137,17 @@
 
             (E) Such recommendations as the Secretary of Defense considers appropriate for legislative or administrative action in order to improve the efficiency and effectiveness of actions taken pursuant to agreements under this section.
 
-    (h)  __Funding__  __.—__ 
+    (h)  __Interagency Cooperation in Conservation Programs To Avoid or Reduce Adverse Impacts on Military Readiness Activities__  __.—__ 
+
+    In order to facilitate interagency cooperation and enhance the effectiveness of actions that will protect both the environment and military readiness, the recipient of funds provided pursuant an agreement under this section or under the Sikes Act (16 U.S.C. et seq.)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “([16 U.S.C. 670][/us/usc/t16/s670] et seq.)”. </sup></sup>  may, with regard to the lands and waters within the scope of the agreement, use such funds to satisfy any matching funds or cost-sharing requirement of any conservation program of the Department of Agriculture or the Department of the Interior notwithstanding any limitation of such program on the source of matching or cost-sharing funds.
+
+    (i)  __Funding__  __.—__ 
 
         (1) Except as provided in paragraph (2), funds authorized to be appropriated for operation and maintenance of the Army, Navy, Marine Corps, Air Force, or Defense-wide activities may be used to enter into agreements under this section.
 
         (2) In the case of a military installation operated primarily with funds authorized to be appropriated for research, development, test, and evaluation, funds authorized to be appropriated for the Army, Navy, Marine Corps, Air Force, or Defense-wide activities for research, development, test, and evaluation may be used to enter into agreements under this section with respect to the installation.
 
-    (i)  __Definitions__  __.—__ 
+    (j)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -153,9 +157,19 @@
 
         (3) The term “Clear Zone Area” means an area immediately beyond the end of the runway of an airfield that is needed to ensure the safe and unrestricted passage of aircraft in and over the area.
 
-(Added [Pub. L. 107–314, div. B, title XXVIII, § 2811(a)][/us/pl/107/314/s2811/a], Dec. 2, 2002, [116 Stat. 2705][/us/stat/116/2705]; amended [Pub. L. 109–163, div. B, title XXVIII, § 2822][/us/pl/109/163/s2822], Jan. 6, 2006, [119 Stat. 3513][/us/stat/119/3513]; [Pub. L. 109–364, div. B, title XXVIII, § 2811(g)][/us/pl/109/364/s2811/g], Oct. 17, 2006, [120 Stat. 2473][/us/stat/120/2473]; [Pub. L. 110–181, div. B, title XXVIII, § 2825][/us/pl/110/181/s2825], Jan. 28, 2008, [122 Stat. 545][/us/stat/122/545]; [Pub. L. 111–84, div. A, title X, § 1073(a)(27)][/us/pl/111/84/s1073/a/27], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474]; [Pub. L. 111–383, div. A, title X, § 1075(b)(43)][/us/pl/111/383/s1075/b/43], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371]; [Pub. L. 112–81, div. B, title XXVIII, § 2813][/us/pl/112/81/s2813], Dec. 31, 2011, [125 Stat. 1687][/us/stat/125/1687].)
+(Added [Pub. L. 107–314, div. B, title XXVIII, § 2811(a)][/us/pl/107/314/s2811/a], Dec. 2, 2002, [116 Stat. 2705][/us/stat/116/2705]; amended [Pub. L. 109–163, div. B, title XXVIII, § 2822][/us/pl/109/163/s2822], Jan. 6, 2006, [119 Stat. 3513][/us/stat/119/3513]; [Pub. L. 109–364, div. B, title XXVIII, § 2811(g)][/us/pl/109/364/s2811/g], Oct. 17, 2006, [120 Stat. 2473][/us/stat/120/2473]; [Pub. L. 110–181, div. B, title XXVIII, § 2825][/us/pl/110/181/s2825], Jan. 28, 2008, [122 Stat. 545][/us/stat/122/545]; [Pub. L. 111–84, div. A, title X, § 1073(a)(27)][/us/pl/111/84/s1073/a/27], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474]; [Pub. L. 111–383, div. A, title X, § 1075(b)(43)][/us/pl/111/383/s1075/b/43], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371]; [Pub. L. 112–81, div. B, title XXVIII, § 2813][/us/pl/112/81/s2813], Dec. 31, 2011, [125 Stat. 1687][/us/stat/125/1687]; [Pub. L. 113–66, div. A, title III, § 312(a)][/us/pl/113/66/s312/a], Dec. 26, 2013, [127 Stat. 729][/us/stat/127/729].)
+
+ __Amendment of Section__ 
+
+    For termination of amendment by [section 312(b) of Pub. L. 113–66][/us/pl/113/66/s312/b], see Termination of 2013 Amendment note below.
+
+ __References in Text__ 
+
+    The Sikes Act, referred to in subsec. (h), is [Pub. L. 86–797][/us/pl/86/797], Sept. 15, 1960, [74 Stat. 1052][/us/stat/74/1052], which is classified generally to chapter 5C (§ 670 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 670 of Title 16][/us/usc/t16/s670] and Tables.
 
  __Amendments__ 
+
+    2013—Subsecs. (h) to (j). [Pub. L. 113–66][/us/pl/113/66] temporarily added subsec. (h) and temporarily redesignated former subsecs. (h) and (i) as (i) and (j), respectively. See Termination of 2013 Amendment note below.
 
     2011—Subsec. (a)(3). [Pub. L. 112–81, § 2813(1)][/us/pl/112/81/s2813/1], added par. (3).
 
@@ -201,6 +215,12 @@
 
     Subsecs. (g) to (i). [Pub. L. 109–163, § 2822(c)][/us/pl/109/163/s2822/c], added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
+ __Termination of 2013 Amendment__ 
+
+[Pub. L. 113–66, div. A, title III, § 312(b)][/us/pl/113/66/s312/b], Dec. 26, 2013, [127 Stat. 729][/us/stat/127/729], provided that: 
+
+> “This section \[amending this section\] and subsection (h) of [section 2684a of title 10][/us/usc/t10/s2684a], United States Code, as added by this section, shall expire on October 1, 2019, except that any agreement referred to in such subsection that is entered into on or before September 30, 2019, shall continue according to its terms and conditions as if this section has not expired.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch159/m__us_usc_t10_s2684.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch159/m__us_usc_t10_s2685.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2684a)
@@ -212,6 +232,7 @@
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
 [/us/usc/t42/s4651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4651
 [/us/usc/t40/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3111
+[/us/usc/t16/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs670
 [/us/pl/107/314/s2811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs2811%2Fa
 [/us/stat/116/2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2705
 [/us/pl/109/163/s2822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2822
@@ -226,6 +247,13 @@
 [/us/stat/124/4371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4371
 [/us/pl/112/81/s2813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2813
 [/us/stat/125/1687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1687
+[/us/pl/113/66/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs312%2Fa
+[/us/stat/127/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F729
+[/us/pl/113/66/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs312%2Fb
+[/us/pl/86/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797
+[/us/stat/74/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1052
+[/us/usc/t16/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs670
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/81/s2813/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2813%2F1
 [/us/pl/112/81/s2813/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2813%2F2
 [/us/pl/112/81/s2813/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2813%2F3%2FA
@@ -246,5 +274,8 @@
 [/us/pl/109/163/s2822/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2822%2Fa%2F2%2FB
 [/us/pl/109/163/s2822/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2822%2Fb%2F2
 [/us/pl/109/163/s2822/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2822%2Fc
+[/us/pl/113/66/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs312%2Fb
+[/us/stat/127/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F729
+[/us/usc/t10/s2684a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2684a
 
 

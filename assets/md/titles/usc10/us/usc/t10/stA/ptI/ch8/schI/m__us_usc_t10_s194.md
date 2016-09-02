@@ -41,11 +41,13 @@
 
     (f)  __Definitions__  __.—__ 
 
-    In this section, the terms “management headquarters activities” and “management headquarters support activities” have the meanings given those terms in Department of Defense Directive 5100.73, entitled “Department of Defense Management Headquarters and Headquarters Support Activities” and dated January 7, 1985.
+    In this section, the terms “management headquarters activities” and “management headquarters support activities” have the meanings given those terms in Department of Defense Instruction 5100.73, titled “Major DoD Headquarters Activities”.
 
-(Added [Pub. L. 99–433, title III, § 301(a)(2)][/us/pl/99/433/s301/a/2], Oct. 1, 1986, [100 Stat. 1021][/us/stat/100/1021]; amended [Pub. L. 100–180, div. A, title XIII, § 1314(b)(3)][/us/pl/100/180/s1314/b/3], Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175]; [Pub. L. 101–189, div. A, title XVI, § 1622(h)(1)][/us/pl/101/189/s1622/h/1], Nov. 29, 1989, [103 Stat. 1605][/us/stat/103/1605].)
+(Added [Pub. L. 99–433, title III, § 301(a)(2)][/us/pl/99/433/s301/a/2], Oct. 1, 1986, [100 Stat. 1021][/us/stat/100/1021]; amended [Pub. L. 100–180, div. A, title XIII, § 1314(b)(3)][/us/pl/100/180/s1314/b/3], Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175]; [Pub. L. 101–189, div. A, title XVI, § 1622(h)(1)][/us/pl/101/189/s1622/h/1], Nov. 29, 1989, [103 Stat. 1605][/us/stat/103/1605]; [Pub. L. 113–66, div. A, title IX, § 906][/us/pl/113/66/s906], Dec. 26, 2013, [127 Stat. 818][/us/stat/127/818].)
 
  __Amendments__ 
+
+    2013—Subsec. (f). [Pub. L. 113–66][/us/pl/113/66] substituted “Instruction 5100.73, titled ‘Major DoD Headquarters Activities’.” for “Directive 5100.73, entitled ‘Department of Defense Management Headquarters and Headquarters Support Activities’ and dated January 7, 1985.”
 
     1989—Subsecs. (a), (b). [Pub. L. 101–189][/us/pl/101/189] substituted “The” for “After September 30, 1989, the”.
 
@@ -138,6 +140,9 @@
 [/us/stat/101/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1175
 [/us/pl/101/189/s1622/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1622%2Fh%2F1
 [/us/stat/103/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1605
+[/us/pl/113/66/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs906
+[/us/stat/127/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F818
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/110/417/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs1111

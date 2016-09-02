@@ -23,7 +23,7 @@
 
         (2) The installation asset manager, and, as applicable, the resident construction manager, privatization asset manager, bondholder representative, project owner, developer, general contractor, and construction consultant for the project shall conduct meetings to ensure that the construction or renovation of the units meets performance and schedule requirements and that appropriate operating and ground lease agreements are in place and adhered to.
 
-        (3) If a project is 90 days or more behind schedule or otherwise appears to be substantially failing to adhere to the obligations or milestones under the contract, the assistant secretary for installations and environment of the respective military department shall submit a notice of deficiency to the Deputy Under Secretary of Defense (Installations and Environment), the Secretary concerned, the managing member, and the trustee for the project.
+        (3) In the case of a project for new construction, if the project is 90 days or more behind schedule or otherwise appears to be substantially failing to adhere to the obligations or milestones under the contract, the assistant secretary for installations and environment of the respective military department shall submit a notice of deficiency to the Deputy Under Secretary of Defense (Installations and Environment), the Secretary concerned, the managing member, and the trustee for the project.
 
         (4)
 
@@ -61,7 +61,7 @@
 
         (2) If the debt service coverage for a military housing privatization project falls below 1.0 or the occupancy rates for the housing units of the project are below 75 percent for more than one year, the Secretary concerned shall require the development of a plan to address the financial risk of the project.
 
-(Added [Pub. L. 110–417, div. B, title XXVIII, § 2805(a)(1)][/us/pl/110/417/s2805/a/1], Oct. 14, 2008, [122 Stat. 4721][/us/stat/122/4721]; amended [Pub. L. 112–239, div. B, title XXVIII, § 2803(a)][/us/pl/112/239/s2803/a], Jan. 2, 2013, [126 Stat. 2147][/us/stat/126/2147].)
+(Added [Pub. L. 110–417, div. B, title XXVIII, § 2805(a)(1)][/us/pl/110/417/s2805/a/1], Oct. 14, 2008, [122 Stat. 4721][/us/stat/122/4721]; amended [Pub. L. 112–239, div. B, title XXVIII, § 2803(a)][/us/pl/112/239/s2803/a], Jan. 2, 2013, [126 Stat. 2147][/us/stat/126/2147]; [Pub. L. 113–66, div. A, title X, § 1084(a)(3)][/us/pl/113/66/s1084/a/3], Dec. 26, 2013, [127 Stat. 871][/us/stat/127/871].)
 
  __Prior Provisions__ 
 
@@ -70,6 +70,8 @@
  __Amendments__ 
 
     2013—Subsec. (a). [Pub. L. 112–239, § 2803(a)(2)][/us/pl/112/239/s2803/a/2], in introductory provisions, inserted “during the course of the construction or renovation of the housing units” before period at end of first sentence.
+
+    Subsec. (a)(3). [Pub. L. 113–66][/us/pl/113/66] substituted “In the case of a project for new construction, if the project” for “If a project”.
 
     Subsec. (f). [Pub. L. 112–239, § 2803(a)(1)][/us/pl/112/239/s2803/a/1], added subsec. (f).
 
@@ -84,6 +86,8 @@
 [/us/stat/122/4721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4721
 [/us/pl/112/239/s2803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2803%2Fa
 [/us/stat/126/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2147
+[/us/pl/113/66/s1084/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1084%2Fa%2F3
+[/us/stat/127/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F871
 [/us/pl/104/106/s2801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2801%2Fa%2F1
 [/us/stat/110/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F551
 [/us/pl/105/85/s1073/a/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F61
@@ -95,6 +99,7 @@
 [/us/pl/108/375/s2805/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs2805%2Fb%2F1
 [/us/stat/118/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2122
 [/us/pl/112/239/s2803/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2803%2Fa%2F2
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239/s2803/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2803%2Fa%2F1
 
 

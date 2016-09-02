@@ -89,21 +89,31 @@
 
         (2) Amounts received in payment for a recording distributed to the public under this subsection shall be credited to the appropriation or account providing the funds for the production of the recording. Any amount so credited shall be merged with amounts in the appropriation or account to which credited, and shall be available for the same purposes, and subject to the same conditions and limitations, as amounts in such appropriation or account.
 
-    (d)  __Performances at Foreign Locations__  __.—__ 
+    (d)  __Private Donations__  __.—__ 
+
+        (1) The Secretary concerned may accept contributions of money, personal property, or services on the condition that such money, property, or services be used for the benefit of a military musical unit under the jurisdiction of the Secretary.
+
+        (2) Any contribution of money under paragraph (1) shall be credited to the appropriation or account providing the funds for such military musical unit. Any amount so credited shall be merged with amounts in the appropriation or account to which credited, and shall be available for the same purposes, and subject to the same conditions and limitations, as amounts in such appropriation or account.
+
+        (3) Not later than January 30 of each year, the Secretary concerned shall submit to Congress a report on any contributions of money, personal property, and services accepted under paragraph (1) during the fiscal year preceding the fiscal year during which the report is submitted.
+
+    (e)  __Performances at Foreign Locations__  __.—__ 
 
     Subsection (a) does not apply to a performance outside the United States, its commonwealths, or its possessions.
 
-    (e)  __Military Musical Unit Defined__  __.—__ 
+    (f)  __Military Musical Unit Defined__  __.—__ 
 
     In this section, the term “military musical unit” means a band, ensemble, chorus, or similar musical unit of the armed forces.
 
-(Added [Pub. L. 110–181, div. A, title V, § 590(a)(1)][/us/pl/110/181/s590/a/1], Jan. 28, 2008, [122 Stat. 136][/us/stat/122/136]; amended [Pub. L. 111–84, div. A, title V, § 591(a)][/us/pl/111/84/s591/a], Oct. 28, 2009, [123 Stat. 2335][/us/stat/123/2335].)
+(Added [Pub. L. 110–181, div. A, title V, § 590(a)(1)][/us/pl/110/181/s590/a/1], Jan. 28, 2008, [122 Stat. 136][/us/stat/122/136]; amended [Pub. L. 111–84, div. A, title V, § 591(a)][/us/pl/111/84/s591/a], Oct. 28, 2009, [123 Stat. 2335][/us/stat/123/2335]; [Pub. L. 113–66, div. A, title III, § 351][/us/pl/113/66/s351], Dec. 26, 2013, [127 Stat. 741][/us/stat/127/741].)
 
  __Prior Provisions__ 
 
     A prior section 974, added [Pub. L. 90–235, § 6(a)(6)(A)][/us/pl/90/235/s6/a/6/A], Jan. 2, 1968, [81 Stat. 762][/us/stat/81/762]; amended [Pub. L. 101–510, div. A, title III, § 327(e)][/us/pl/101/510/s327/e], Nov. 5, 1990, [104 Stat. 1532][/us/stat/104/1532], related to civilian employment by enlisted members, prior to repeal by [Pub. L. 105–261, div. A, title V, § 569(a)][/us/pl/105/261/s569/a], Oct. 17, 1998, [112 Stat. 2032][/us/stat/112/2032].
 
  __Amendments__ 
+
+    2013—Subsecs. (d) to (f). [Pub. L. 113–66][/us/pl/113/66] added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
     2009—[Pub. L. 111–84][/us/pl/111/84] amended section generally. Prior to amendment, section related to uniform performance policies for military bands and other musical units.
 
@@ -119,12 +129,15 @@
 [/us/stat/122/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F136
 [/us/pl/111/84/s591/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs591%2Fa
 [/us/stat/123/2335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2335
+[/us/pl/113/66/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs351
+[/us/stat/127/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F741
 [/us/pl/90/235/s6/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs6%2Fa%2F6%2FA
 [/us/stat/81/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F762
 [/us/pl/101/510/s327/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs327%2Fe
 [/us/stat/104/1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1532
 [/us/pl/105/261/s569/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs569%2Fa
 [/us/stat/112/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2032
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 
 

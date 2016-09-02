@@ -81,11 +81,11 @@
 
  __Initial Assessment and Reports__ 
 
-[Pub. L. 112–81, div. A, title X, § 1041(b)][/us/pl/112/81/s1041/b], Dec. 31, 2011, [125 Stat. 1574][/us/stat/125/1574], as amended by [Pub. L. 112–239, div. A, title X, § 1031(b)(4)][/us/pl/112/239/s1031/b/4], Jan. 2, 2013, [126 Stat. 1919][/us/stat/126/1919], provided that: 
+[Pub. L. 112–81, div. A, title X, § 1041(b)][/us/pl/112/81/s1041/b], Dec. 31, 2011, [125 Stat. 1574][/us/stat/125/1574], as amended by [Pub. L. 112–239, div. A, title X, § 1031(b)(4)][/us/pl/112/239/s1031/b/4], Jan. 2, 2013, [126 Stat. 1919][/us/stat/126/1919]; [Pub. L. 113–66, div. A, title X, § 1091(b)(6)][/us/pl/113/66/s1091/b/6], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided that: 
 
 > “Not later than 30 days after the date of enactment of this Act \[Dec. 31, 2011\], each covered official, as such term is defined in subsection (d) of [section 492 of title 10][/us/usc/t10/s492], United States Code, shall conduct an initial assessment as described by subsection (a) of such section and submit an initial report as described by subsection (b) of such section. The requirements of subsection (c) of such section shall apply with respect to the report submitted under this subsection.”
 
-    \[[Pub. L. 112–239, § 1031(b)(4)][/us/pl/112/239/s1031/b/4], which directed the amendment of [section 1031(b) of Pub. L. 112–81][/us/pl/112/81/s1031/b], was executed to [section 1041(b) of Pub. L. 112–81][/us/pl/112/81/s1041/b], set out above, to reflect the probable intent of Congress.\]
+    \[[Pub. L. 113–66, div. A, title X, § 1091(b)][/us/pl/113/66/s1091/b], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided in part that the amendment made by section 1091(b)(6) is effective as of Jan. 2, 2013, and as if included in [Pub. L. 112–239][/us/pl/112/239] as enacted.\]
 
 ----------
 
@@ -105,9 +105,11 @@
 [/us/stat/125/1574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1574
 [/us/pl/112/239/s1031/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fb%2F4
 [/us/stat/126/1919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1919
+[/us/pl/113/66/s1091/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb%2F6
+[/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
 [/us/usc/t10/s492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs492
-[/us/pl/112/239/s1031/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fb%2F4
-[/us/pl/112/81/s1031/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1031%2Fb
-[/us/pl/112/81/s1041/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1041%2Fb
+[/us/pl/113/66/s1091/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb
+[/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 
 

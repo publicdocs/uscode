@@ -23,7 +23,7 @@
 
  __References in Text__ 
 
-    Section 16 of the National Security Agency Act of 1959, referred to in subsec. (a), is [section 16 of Pub. L. 86–36][/us/pl/86/36/s16], as added [Pub. L. 99–569, title V, § 505][/us/pl/99/569/s505], Oct. 27, 1986, [100 Stat. 3200][/us/stat/100/3200]; amended [Pub. L. 111–259, title III, § 312(a)][/us/pl/111/259/s312/a]–(d), Oct. 7, 2010, [124 Stat. 2663][/us/stat/124/2663], 2664, which was set out in a note under [section 402 of Title 50][/us/usc/t50/s402], War and National Defense, prior to editorial reclassification to [section 3614 of Title 50][/us/usc/t50/s3614].
+    Section 16 of the National Security Agency Act of 1959, referred to in subsec. (a), is [section 16 of Pub. L. 86–36][/us/pl/86/36/s16], which was set out in a note under [section 402 of Title 50][/us/usc/t50/s402], War and National Defense, prior to editorial reclassification to [section 3614 of Title 50][/us/usc/t50/s3614].
 
  __Prior Provisions__ 
 
@@ -54,10 +54,6 @@
 [/us/pl/104/201/s1632/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1632%2Fa%2F2
 [/us/stat/110/2745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2745
 [/us/pl/86/36/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F36%2Fs16
-[/us/pl/99/569/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F569%2Fs505
-[/us/stat/100/3200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3200
-[/us/pl/111/259/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs312%2Fa
-[/us/stat/124/2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2663
 [/us/usc/t50/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs402
 [/us/usc/t50/s3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3614
 [/us/pl/99/145/s924/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs924%2Fa%2F1

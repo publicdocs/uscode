@@ -283,6 +283,40 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
     Authority of President under subsec. (b) to approve uniform rates of reimbursement for care provided in facilities operated by Secretary of Veterans Affairs delegated to Secretary of Veterans Affairs, see section 7(a) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under [section 301 of Title 3][/us/usc/t3/s301], The President.
 
+ __Pilot Program on Investigational Treatment of Members of the Armed Forces for Traumatic Brain Injury and Post-Traumatic Stress Disorder__ 
+
+[Pub. L. 113–66, div. A, title VII, § 704][/us/pl/113/66/s704], Dec. 26, 2013, [127 Stat. 792][/us/stat/127/792], provided that:
+
+>     “(a)  __Pilot Program Authorized__  __.—__ 
+
+>     The Secretary of Defense shall carry out a pilot program under which the Secretary shall establish a process for randomized placebo-controlled clinical trials of investigational treatments (including diagnostic testing) of traumatic brain injury or post-traumatic stress disorder received by members of the Armed Forces in health care facilities other than military treatment facilities.
+
+>     “(b)  __Conditions for Approval__  __.—__ 
+
+>     The approval by the Secretary for a treatment pursuant to subsection (a) shall be subject to the following conditions:
+
+>         “(1) Any drug or device used in the treatment must be approved, cleared, or made subject to an investigational use exemption by the Food and Drug Administration, and the use of the drug or device must comply with rules of the Food and Drug Administration applicable to investigational new drugs or investigational devices.
+
+>         “(2) The treatment must be approved by the Secretary following approval by an institutional review board operating in accordance with regulations issued by the Secretary of Health and Human Services, in addition to regulations issued by the Secretary of Defense regarding institutional review boards.
+
+>         “(3) The patient receiving the treatment may not be a retired member of the Armed Forces who is entitled to benefits under part A, or eligible to enroll under part B, of title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.).
+
+>     “(c)  __Additional Restrictions Authorized__  __.—__ 
+
+>     The Secretary may establish additional restrictions or conditions as the Secretary determines appropriate to ensure the protection of human research subjects, appropriate fiscal management, and the validity of the research results.
+
+>     “(d)  __Data Collection and Availability__  __.—__ 
+
+>     The Secretary shall develop and maintain a database containing data from each patient case involving the use of a treatment under this section. The Secretary shall ensure that the database preserves confidentiality and that any use of the database or disclosures of such data are limited to such use and disclosures permitted by law and applicable regulations.
+
+>     “(e)  __Reports to Congress__  __.—__ 
+
+>     Not later than 30 days after the last day of each fiscal year, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of this section and any available results on investigational treatment clinical trials authorized under this section during such fiscal year.
+
+>     “(f)  __Termination__  __.—__ 
+
+>     The authority of the Secretary to carry out the pilot program authorized by subsection (a) shall terminate on December 31, 2018.”
+
  __Department of Defense Guidance on Environmental Exposures at Military Installations__ 
 
 [Pub. L. 112–239, div. A, title III, § 313(a)][/us/pl/112/239/s313/a], Jan. 2, 2013, [126 Stat. 1692][/us/stat/126/1692], provided that:
@@ -1588,6 +1622,9 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 [/us/pl/89/614/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614%2Fs3
 [/us/usc/t10/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1071
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
+[/us/pl/113/66/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs704
+[/us/stat/127/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F792
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/112/239/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs313%2Fa
 [/us/stat/126/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1692
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417

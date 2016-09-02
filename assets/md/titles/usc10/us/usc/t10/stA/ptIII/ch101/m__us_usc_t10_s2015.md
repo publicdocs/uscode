@@ -29,6 +29,56 @@
 
 (Added [Pub. L. 109–163, div. A, title V, § 538(a)][/us/pl/109/163/s538/a], Jan. 6, 2006, [119 Stat. 3250][/us/stat/119/3250].)
 
+ __Enhancement of Mechanisms To Correlate Skills and Training for Military Occupational Specialties With Skills and Training Required for Civilian Certifications and Licenses__ 
+
+[Pub. L. 113–66, div. A, title V, § 542][/us/pl/113/66/s542], Dec. 26, 2013, [127 Stat. 762][/us/stat/127/762], provided that:
+
+>     “(a) __Improvement of Information Available to Members of the Armed Forces About Correlation.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretaries of the military departments, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall, to the maximum extent practicable, make information on civilian credentialing opportunities available to members of the Armed Forces beginning with, and at every stage of, training of members for military occupational specialties, in order to permit members—
+
+>             “(A) to evaluate the extent to which such training correlates with the skills and training required in connection with various civilian certifications and licenses; and
+
+>             “(B) to assess the suitability of such training for obtaining or pursuing such civilian certifications and licenses.
+
+>         “(2)  __Coordination with transition goals plans success program__  __.—__ 
+
+>         Information shall be made available under paragraph (1) in a manner consistent with the Transition Goals Plans Success (GPS) program.
+
+>         “(3)  __Types of information__  __.—__ 
+
+>         The information made available under paragraph (1) shall include, but not be limited to, the following:
+
+>             “(A) Information on the civilian occupational equivalents of military occupational specialties (MOS).
+
+>             “(B) Information on civilian license or certification requirements, including examination requirements.
+
+>             “(C) Information on the availability and opportunities for use of educational benefits available to members of the Armed Forces, as appropriate, corresponding training, or continuing education that leads to a certification exam in order to provide a pathway to credentialing opportunities.
+
+>         “(4)  __Use and adaptation of certain programs__  __.—__ 
+
+>         In making information available under paragraph (1), the Secretaries of the military departments may use and adapt appropriate portions of the Credentialing Opportunities On-Line (COOL) programs of the Army and the Navy and the Credentialing and Educational Research Tool (CERT) of the Air Force.
+
+>     “(b) __Improvement of Access of Accredited Civilian Credentialing and Related Entities to Military Training Content.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretaries of the military departments, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall, to the maximum extent practicable consistent with national security and privacy requirements, make available to entities specified in paragraph (2), upon request of such entities, information such as military course training curricula, syllabi, and materials, levels of military advancement attained, and professional skills developed.
+
+>         “(2)  __Entities__  __.—__ 
+
+>         The entities specified in this paragraph are the following:
+
+>             “(A) Civilian credentialing agencies.
+
+>             “(B) Entities approved by the Secretary of Veterans Affairs, or by State approving agencies, for purposes of the use of educational assistance benefits under the laws administered by the Secretary of Veterans Affairs.
+
+>         “(3)  __Central repository__  __.—__ 
+
+>         The actions taken pursuant to paragraph (1) may include the establishment of a central repository of information on training and training materials provided members in connection with military occupational specialities that is readily accessible by entities specified in paragraph (2) in order to meet requests described in paragraph (1).”
+
  __Pilot Program on Receipt of Civilian Credentialing for Skills Required for Military Occupational Specialties__ 
 
 [Pub. L. 112–81, div. A, title V, § 558][/us/pl/112/81/s558], Dec. 31, 2011, [125 Stat. 1418][/us/stat/125/1418], as amended by [Pub. L. 112–239, div. A, title V, § 543][/us/pl/112/239/s543], Jan. 2, 2013, [126 Stat. 1737][/us/stat/126/1737], provided that:
@@ -72,6 +122,8 @@
 
 [/us/pl/109/163/s538/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs538%2Fa
 [/us/stat/119/3250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3250
+[/us/pl/113/66/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs542
+[/us/stat/127/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F762
 [/us/pl/112/81/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs558
 [/us/stat/125/1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1418
 [/us/pl/112/239/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs543

@@ -43,6 +43,8 @@
 
         (8) Provide information regarding the public and community service jobs program carried out under [section 1143a of this title][/us/usc/t10/s1143a].
 
+        (9) Provide information about disability-related employment and education protections.
+
     (c)  __Participation__  __.—__ 
 
         (1) Except as provided in paragraph (2), the Secretary of Defense and the Secretary of Homeland Security shall require the participation in the program carried out under this section of the members eligible for assistance under the program.
@@ -85,7 +87,7 @@
 
     As part of the program carried out under this section, the Secretary of Defense and the Secretary of Homeland Security may permit a member of the armed forces eligible for assistance under the program to participate in an apprenticeship program registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; [50 Stat. 664][/us/stat/50/664], chapter 663; [29 U.S.C. 50][/us/usc/t29/s50] et seq.), or a pre-apprenticeship program that provides credit toward a program registered under such Act, that provides members of the armed forces with the education, training, and services necessary to transition to meaningful employment that leads to economic self-sufficiency.
 
-(Added [Pub. L. 101–510, div. A, title V, § 502(a)(1)][/us/pl/101/510/s502/a/1], Nov. 5, 1990, [104 Stat. 1553][/us/stat/104/1553]; amended [Pub. L. 102–190, div. A, title X, § 1061(a)(6)][/us/pl/102/190/s1061/a/6], Dec. 5, 1991, [105 Stat. 1472][/us/stat/105/1472]; [Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484], §§ 4462(c), 4469, Oct. 23, 1992, [106 Stat. 2740][/us/stat/106/2740], 2752; [Pub. L. 103–337, div. A, title V, § 543(b)][/us/pl/103/337/s543/b], Oct. 5, 1994, [108 Stat. 2769][/us/stat/108/2769]; [Pub. L. 107–103, title III, § 302(b)][/us/pl/107/103/s302/b], Dec. 27, 2001, [115 Stat. 992][/us/stat/115/992]; [Pub. L. 107–107, div. A, title X, § 1048(e)(1)][/us/pl/107/107/s1048/e/1], Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 112–56, title II][/us/pl/112/56], §§ 221(a), 224, 225, Nov. 21, 2011, [125 Stat. 715][/us/stat/125/715], 718.)
+(Added [Pub. L. 101–510, div. A, title V, § 502(a)(1)][/us/pl/101/510/s502/a/1], Nov. 5, 1990, [104 Stat. 1553][/us/stat/104/1553]; amended [Pub. L. 102–190, div. A, title X, § 1061(a)(6)][/us/pl/102/190/s1061/a/6], Dec. 5, 1991, [105 Stat. 1472][/us/stat/105/1472]; [Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484], §§ 4462(c), 4469, Oct. 23, 1992, [106 Stat. 2740][/us/stat/106/2740], 2752; [Pub. L. 103–337, div. A, title V, § 543(b)][/us/pl/103/337/s543/b], Oct. 5, 1994, [108 Stat. 2769][/us/stat/108/2769]; [Pub. L. 107–103, title III, § 302(b)][/us/pl/107/103/s302/b], Dec. 27, 2001, [115 Stat. 992][/us/stat/115/992]; [Pub. L. 107–107, div. A, title X, § 1048(e)(1)][/us/pl/107/107/s1048/e/1], Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 112–56, title II][/us/pl/112/56], §§ 221(a), 224, 225, Nov. 21, 2011, [125 Stat. 715][/us/stat/125/715], 718; [Pub. L. 113–66, div. A, title V, § 521(a)][/us/pl/113/66/s521/a], Dec. 26, 2013, [127 Stat. 755][/us/stat/127/755].)
 
  __References in Text__ 
 
@@ -94,6 +96,8 @@
     The National Apprenticeship Act, referred to in subsec. (e), is [act Aug. 16, 1937, ch. 663][/us/act/1937-08-16/ch663], [50 Stat. 664][/us/stat/50/664], which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 50 of Title 29][/us/usc/t29/s50] and Tables.
 
  __Amendments__ 
+
+    2013—Subsec. (b)(9). [Pub. L. 113–66][/us/pl/113/66] added par. (9).
 
     2011—Subsec. (c). [Pub. L. 112–56, § 221(a)][/us/pl/112/56/s221/a], amended subsec. (c) generally. Prior to amendment, text read as follows: “The Secretary of Defense and the Secretary of Homeland Security shall encourage and otherwise promote maximum participation by members of the armed forces eligible for assistance under the program carried out under this section.”
 
@@ -144,6 +148,12 @@
  __Effective Date of 2002 Amendment__ 
 
     Amendment by [Pub. L. 107–296][/us/pl/107/296] effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see [section 1704(g) of Pub. L. 107–296][/us/pl/107/296/s1704/g], set out as a note under [section 101 of this title][/us/usc/t10/s101].
+
+ __Deadline for Implementation__ 
+
+[Pub. L. 113–66, div. A, title V, § 521(b)][/us/pl/113/66/s521/b], Dec. 26, 2013, [127 Stat. 755][/us/stat/127/755], provided that: 
+
+> “The program carried out under [section 1144 of title 10][/us/usc/t10/s1144], United States Code, shall comply with the requirements of subsection (b)(9) of such section, as added by subsection (a), by not later than April 1, 2015.”
 
  __Off-Base Transition Training for Veterans and Their Spouses__ 
 
@@ -277,11 +287,14 @@
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
 [/us/stat/125/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F715
+[/us/pl/113/66/s521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs521%2Fa
+[/us/stat/127/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F755
 [/us/pl/101/237/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F237%2Fs408
 [/us/usc/t38/s4100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4100
 [/us/act/1937-08-16/ch663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-16%2Fch663
 [/us/stat/50/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F664
 [/us/usc/t29/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs50
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/56/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs221%2Fa
 [/us/pl/112/56/s224/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs224%2F1
 [/us/pl/112/56/s224/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs224%2F2
@@ -308,6 +321,9 @@
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
+[/us/pl/113/66/s521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs521%2Fb
+[/us/stat/127/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F755
+[/us/usc/t10/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1144
 [/us/pl/112/260/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs301
 [/us/stat/126/2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2424
 [/us/usc/t10/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1144

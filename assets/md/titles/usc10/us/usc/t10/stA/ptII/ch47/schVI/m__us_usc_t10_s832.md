@@ -33,7 +33,59 @@
 
     (e) The requirements of this article are binding on all persons administering this chapter but failure to follow them does not constitute jurisdictional error.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 48][/us/stat/70A/48]; [Pub. L. 97–81, § 4(a)][/us/pl/97/81/s4/a], Nov. 20, 1981, [95 Stat. 1088][/us/stat/95/1088]; [Pub. L. 104–106, div. A, title XI, § 1131][/us/pl/104/106/s1131], Feb. 10, 1996, [110 Stat. 464][/us/stat/110/464].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 48][/us/stat/70A/48]; [Pub. L. 97–81, § 4(a)][/us/pl/97/81/s4/a], Nov. 20, 1981, [95 Stat. 1088][/us/stat/95/1088]; [Pub. L. 104–106, div. A, title XI, § 1131][/us/pl/104/106/s1131], Feb. 10, 1996, [110 Stat. 464][/us/stat/110/464]; [Pub. L. 113–66, div. A, title XVII, § 1702(a)(1)][/us/pl/113/66/s1702/a/1], Dec. 26, 2013, [127 Stat. 954][/us/stat/127/954].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 113–66, div. A, title XVII, § 1702(a)(1)][/us/pl/113/66/s1702/a/1], (d)(1), Dec. 26, 2013, [127 Stat. 954][/us/stat/127/954], 958, provided that, effective one year after Dec. 26, 2013, and applicable with respect to offenses committed under this chapter on or after that effective date, this section is amended to read as follows:
+
+    § 832. Art. 32. Preliminary hearing
+
+    (a) Preliminary Hearing Required.—(1) No charge or specification may be referred to a general court-martial for trial until completion of a preliminary hearing.
+
+    (2) The purpose of the preliminary hearing shall be limited to the following:
+
+    (A) Determining whether there is probable cause to believe an offense has been committed and the accused committed the offense.
+
+    (B) Determining whether the convening authority has court-martial jurisdiction over the offense and the accused.
+
+    (C) Considering the form of charges.
+
+    (D) Recommending the disposition that should be made of the case.
+
+    (b) Hearing Officer.—(1) A preliminary hearing under subsection (a) shall be conducted by an impartial judge advocate certified under [section 827(b) of this title][/us/usc/t10/s827/b] (article 27(b)) whenever practicable or, in exceptional circumstances in which the interests of justice warrant, by an impartial hearing officer who is not a judge advocate. If the hearing officer is not a judge advocate, a judge advocate certified under [section 827(b) of this title][/us/usc/t10/s827/b] (article 27(b)) shall be available to provide legal advice to the hearing officer.
+
+    (2) Whenever practicable, when the judge advocate or other hearing officer is detailed to conduct the preliminary hearing, the officer shall be equal to or senior in grade to military counsel detailed to represent the accused or the Government at the preliminary hearing.
+
+    (c) Report of Results.—After conducting a preliminary hearing under subsection (a), the judge advocate or other officer conducting the preliminary hearing shall prepare a report that addresses the matters specified in subsections (a)(2) and (f).
+
+    (d) Rights of Accused and Victim.—(1) The accused shall be advised of the charges against the accused and of the accused’s right to be represented by counsel at the preliminary hearing under subsection (a). The accused has the right to be represented at the preliminary hearing as provided in [section 838 of this title][/us/usc/t10/s838] (article 38) and in regulations prescribed under that section.
+
+    (2) The accused may cross-examine witnesses who testify at the preliminary hearing and present additional evidence in defense and mitigation, relevant to the limited purposes of the hearing, as provided for in paragraph (4) and subsection (a)(2).
+
+    (3) A victim may not be required to testify at the preliminary hearing. A victim who declines to testify shall be deemed to be not available for purposes of the preliminary hearing.
+
+    (4) The presentation of evidence and examination (including cross-examination) of witnesses at a preliminary hearing shall be limited to the matters relevant to the limited purposes of the hearing, as provided in subsection (a)(2).
+
+    (e) Recording of Preliminary Hearing.—A preliminary hearing under subsection (a) shall be recorded by a suitable recording device. The victim may request the recording and shall have access to the recording as prescribed by the Manual for Courts-Martial.
+
+    (f) Effect of Evidence of Uncharged Offense.—If evidence adduced in a preliminary hearing under subsection (a) indicates that the accused committed an uncharged offense, the hearing officer may consider the subject matter of that offense without the accused having first been charged with the offense if the accused—
+
+    (1) is present at the preliminary hearing;
+
+    (2) is informed of the nature of each uncharged offense considered; and
+
+    (3) is afforded the opportunities for representation, cross-examination, and presentation consistent with subsection (d).
+
+    (g) Effect of Violation.—The requirements of this section are binding on all persons administering this chapter, but failure to follow the requirements does not constitute jurisdictional error.
+
+    (h) Victim Defined.—In this section, the term “victim” means a person who—
+
+    (1) is alleged to have suffered a direct physical, emotional, or pecuniary harm as a result of the matters set forth in a charge or specification being considered; and
+
+    (2) is named in one of the specifications.
+
+    See 2013 Amendment note below.
 
 <table>
 
@@ -121,9 +173,15 @@ May 5, 1950, ch. 169, § 1 (Art. 32), 64 Stat. 118.  </td>
 
  __Amendments__ 
 
+    2013—[Pub. L. 113–66][/us/pl/113/66] substituted “Preliminary hearing” for “Investigation” in section catchline and amended text generally. Prior to amendment, section provided that no charge or specification may be referred to general court-martial for trial until thorough and impartial investigation of all the matters had been made.
+
     1996—Subsecs. (d), (e). [Pub. L. 104–106][/us/pl/104/106] added subsec. (d) and redesignated former subsec. (d) as (e).
 
     1981—Subsec. (b). [Pub. L. 97–81][/us/pl/97/81] substituted “The accused has the right to be represented at that investigation as provided in [section 838 of this title][/us/usc/t10/s838] (article 38) and in regulations prescribed under that section” for “Upon his own request he shall be represented by civilian counsel if provided by him, or military counsel of his own selection if such counsel is reasonably available, or by counsel detailed by the officer exercising general court-martial jurisdiction over the command”.
+
+ __Effective Date of 2013 Amendment__ 
+
+    Amendment by [Pub. L. 113–66][/us/pl/113/66] effective one year after Dec. 26, 2013, and applicable with respect to offenses committed under this chapter on or after that effective date, see [section 1702(d)(1) of Pub. L. 113–66][/us/pl/113/66/s1702/d/1], set out as a note under [section 802 of this title][/us/usc/t10/s802].
 
  __Effective Date of 1981 Amendment__ 
 
@@ -143,9 +201,20 @@ May 5, 1950, ch. 169, § 1 (Art. 32), 64 Stat. 118.  </td>
 [/us/stat/95/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1088
 [/us/pl/104/106/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1131
 [/us/stat/110/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F464
+[/us/pl/113/66/s1702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fa%2F1
+[/us/stat/127/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F954
+[/us/pl/113/66/s1702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fa%2F1
+[/us/stat/127/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F954
+[/us/usc/t10/s827/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs827%2Fb
+[/us/usc/t10/s827/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs827%2Fb
+[/us/usc/t10/s838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs838
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
 [/us/usc/t10/s838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs838
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66/s1702/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fd%2F1
+[/us/usc/t10/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs802
 [/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
 [/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
 [/us/usc/t10/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs706

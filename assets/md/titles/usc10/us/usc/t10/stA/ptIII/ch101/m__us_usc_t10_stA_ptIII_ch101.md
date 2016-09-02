@@ -89,6 +89,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2006a" data-uslm-ref="/us/usc/t10/s2006a">2006a.</a>  </td>
+
+    <td> Assistance for education and training: availability of certain assistance for use only for certain programs of education.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2007" data-uslm-ref="/us/usc/t10/s2007">2007.</a>  </td>
 
     <td> Payment of tuition for off-duty training or education.  </td>
@@ -170,6 +178,8 @@
 </table>
 
  __Amendments__ 
+
+    2013—[Pub. L. 113–66, div. A, title V, § 541(b)][/us/pl/113/66/s541/b], Dec. 26, 2013, [127 Stat. 762][/us/stat/127/762], added item 2006a.
 
     2009—[Pub. L. 111–84, div. A, title V][/us/pl/111/84], §§ 521(b), 525(b)(2), Oct. 28, 2009, [123 Stat. 2285][/us/stat/123/2285], 2287, added items 2004b and 2016.
 
@@ -284,6 +294,8 @@
 ----------
 ----------
 
+[/us/pl/113/66/s541/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs541%2Fb
+[/us/stat/127/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F762
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/stat/123/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2285
 [/us/pl/109/364/s536/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs536%2Fb

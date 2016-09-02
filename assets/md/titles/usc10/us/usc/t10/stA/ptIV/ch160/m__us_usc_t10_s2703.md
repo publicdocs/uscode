@@ -63,19 +63,9 @@
 
     (h)  __Sole Source of Funds for Environmental Remediation at Certain Base Realignment and Closure Sites__  __.—__ 
 
-    In the case of property disposed of pursuant to a base closure law and subject to a covenant that was required to be provided by paragraphs (3) and (4) of section 120(h) of CERCLA ([42 U.S.C. 9620(h)][/us/usc/t42/s9620/h]), the sole source of funds for services procured under [section 2701(d)(1) of this title][/us/usc/t10/s2701/d/1] shall be the applicable Department of Defense base closure account. The limitation in this subsection shall expire upon the closure of the applicable base closure account.
+    In the case of property disposed of pursuant to a base closure law and subject to a covenant that was required to be provided by paragraphs (3) and (4) of section 120(h) of CERCLA ([42 U.S.C. 9620(h)][/us/usc/t42/s9620/h]), the sole source of funds for services procured under [section 2701(d)(1) of this title][/us/usc/t10/s2701/d/1] shall be the Department of Defense Base Closure Account established under section 2906 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note). The limitation in this subsection shall expire upon the closure of such base closure account.
 
 (Added [Pub. L. 99–499, title II, § 211(a)(1)(B)][/us/pl/99/499/s211/a/1/B], Oct. 17, 1986, [100 Stat. 1722][/us/stat/100/1722]; amended [Pub. L. 103–337, div. A, title III, § 321][/us/pl/103/337/s321], Oct. 5, 1994, [108 Stat. 2710][/us/stat/108/2710]; [Pub. L. 104–106, div. A, title III, § 322][/us/pl/104/106/s322], Feb. 10, 1996, [110 Stat. 252][/us/stat/110/252]; [Pub. L. 104–201, div. A, title III, § 322(a)(1)][/us/pl/104/201/s322/a/1], Sept. 23, 1996, [110 Stat. 2477][/us/stat/110/2477]; [Pub. L. 106–65, div. A, title III, § 321][/us/pl/106/65/s321], title X, § 1066(a)(27), Oct. 5, 1999, [113 Stat. 560][/us/stat/113/560], 772; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, §§ 311, 312\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–53, 1654A–54; [Pub. L. 107–107, div. A, title III, § 312][/us/pl/107/107/s312], Dec. 28, 2001, [115 Stat. 1051][/us/stat/115/1051]; [Pub. L. 108–136, div. A, title III, § 313(a)][/us/pl/108/136/s313/a], Nov. 24, 2003, [117 Stat. 1430][/us/stat/117/1430]; [Pub. L. 108–375, div. A, title X, § 1084(d)(26)][/us/pl/108/375/s1084/d/26], Oct. 28, 2004, [118 Stat. 2063][/us/stat/118/2063]; [Pub. L. 109–163, div. A, title III, § 312(b)][/us/pl/109/163/s312/b], title X, § 1056(c)(7), Jan. 6, 2006, [119 Stat. 3191][/us/stat/119/3191], 3439; [Pub. L. 109–364, div. A, title X, § 1071(a)(23)][/us/pl/109/364/s1071/a/23], Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399]; [Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(B)][/us/pl/112/239/s2711/c/4/B], Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144].)
-
- __Amendment of Subsection (h)__ 
-
-[Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(B)][/us/pl/112/239/s2711/c/4/B], (d), Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144], provided that, effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014, subsection (h) of this section is amended:
-
-    (i) by striking “the applicable Department of Defense base closure account” and inserting “the Department of Defense Base Closure Account established under section 2906 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note)”; and
-
-    (ii) by striking “the applicable base closure account” and inserting “such base closure account”.
-
-    See 2013 Amendment note below.
 
  __Amendments__ 
 
@@ -147,7 +137,7 @@
 
  __Effective Date of 2013 Amendment__ 
 
-    Amendment by [section 2711 of Pub. L. 112–239][/us/pl/112/239/s2711] effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014, see [section 2711(d) of Pub. L. 112–239][/us/pl/112/239/s2711/d], set out as a note under [section 2701 of this title][/us/usc/t10/s2701].
+    Amendment by [Pub. L. 112–239][/us/pl/112/239] effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014 (div. J of [Pub. L. 113–76][/us/pl/113/76], approved Jan. 17, 2014), see [section 2711(d) of Pub. L. 112–239][/us/pl/112/239/s2711/d], set out as a note under [section 2701 of this title][/us/usc/t10/s2701].
 
  __Effective Date of 2003 Amendment__ 
 
@@ -199,6 +189,8 @@
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/usc/t42/s9620/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9620%2Fh
 [/us/usc/t10/s2701/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2701%2Fd%2F1
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/pl/99/499/s211/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs211%2Fa%2F1%2FB
 [/us/stat/100/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1722
 [/us/pl/103/337/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs321
@@ -223,10 +215,6 @@
 [/us/stat/120/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2399
 [/us/pl/112/239/s2711/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711%2Fc%2F4%2FB
 [/us/stat/126/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2144
-[/us/pl/112/239/s2711/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711%2Fc%2F4%2FB
-[/us/stat/126/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2144
-[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
@@ -249,7 +237,8 @@
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
-[/us/pl/112/239/s2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/112/239/s2711/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711%2Fd
 [/us/usc/t10/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2701
 [/us/pl/108/136/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs313%2Fa

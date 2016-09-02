@@ -13,27 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptII/ch53/m__us_usc_t10_s1053.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch53/m__us_usc_t10_s1054.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1053a)
 
-## § 1053a. Expenses incurred in connection with leave canceled due to contingency operations: reimbursement
+## § 1053a. Repealed. [Pub. L. 113–66, div. A, title VI, § 621(c)(2)(A)][/us/pl/113/66/s621/c/2/A], Dec. 26, 2013, [127 Stat. 784][/us/stat/127/784]
 
-    (a)  __Authorization To Reimburse__  __.—__ 
-
-    The Secretary concerned may reimburse a member of the armed forces under the jurisdiction of the Secretary for travel and related expenses (to the extent not otherwise reimbursable under law) incurred by the member as a result of the cancellation of previously approved leave when the leave is canceled in connection with the member’s participation in a contingency operation and the cancellation occurs within 48 hours of the time the leave would have commenced.
-
-    (b)  __Regulations__  __.—__ 
-
-    The Secretary of Defense shall prescribe regulations to establish the criteria for the applicability of subsection (a).
-
-    (c)  __Conclusiveness of Settlement__  __.—__ 
-
-    The settlement of an application for reimbursement under subsection (a) is final and conclusive.
-
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 579(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–141.)
-
- __Effective Date__ 
-
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 579(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–141, provided that: 
-
-> “[Section 1053a of title 10][/us/usc/t10/s1053a], United States Code, as added by subsection (a), shall apply with respect to any travel and related expenses incurred by a member in connection with leave canceled after the date of the enactment of this Act \[Oct. 30, 2000\].”
+    Section, added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 579(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–141, related to reimbursement for expenses incurred in connection with leave canceled due to contingency operations.
 
 ----------
 
@@ -42,10 +24,9 @@
 ----------
 ----------
 
+[/us/pl/113/66/s621/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs621%2Fc%2F2%2FA
+[/us/stat/127/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F784
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/usc/t10/s1053a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1053a
 
 

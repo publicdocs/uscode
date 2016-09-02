@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_s2005.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_s2007.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2006)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_s2005.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_s2006a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2006)
 
 ## § 2006. Department of Defense Education Benefits Fund
 
@@ -175,7 +175,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_s2005.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_s2007.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2006)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_s2005.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_s2006a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2006)
 
 ----------
 ----------

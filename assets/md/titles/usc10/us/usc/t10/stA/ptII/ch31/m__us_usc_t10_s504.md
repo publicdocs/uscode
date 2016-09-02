@@ -49,19 +49,7 @@
 
  __Prohibition on Waiver for Commissioning or Enlistment in the Armed Forces for any Individual Convicted of a Felony Sexual Offense__ 
 
-[Pub. L. 112–239, div. A, title V, § 523][/us/pl/112/239/s523], Jan. 2, 2013, [126 Stat. 1723][/us/stat/126/1723], provided that: 
-
-> “An individual may not be provided a waiver for commissioning or enlistment in the Armed Forces if the individual has been convicted under Federal or State law of a felony offense of any of the following:
-
->     “(1) Rape.
-
->     “(2) Sexual abuse.
-
->     “(3) Sexual assault.
-
->     “(4) Incest.
-
->     “(5) Any other sexual offense.”
+    [Pub. L. 112–239, div. A, title V, § 523][/us/pl/112/239/s523], Jan. 2, 2013, [126 Stat. 1723][/us/stat/126/1723], which provided that an individual may not be provided a waiver for commissioning or enlistment in the Armed Forces if convicted of rape or other sexual offenses, was repealed by [Pub. L. 113–66, div. A, title XVII, § 1711(b)][/us/pl/113/66/s1711/b], Dec. 26, 2013, [127 Stat. 963][/us/stat/127/963]. See [section 657 of this title][/us/usc/t10/s657].
 
 ----------
 
@@ -88,5 +76,8 @@
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/112/239/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs523
 [/us/stat/126/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1723
+[/us/pl/113/66/s1711/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1711%2Fb
+[/us/stat/127/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F963
+[/us/usc/t10/s657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs657
 
 

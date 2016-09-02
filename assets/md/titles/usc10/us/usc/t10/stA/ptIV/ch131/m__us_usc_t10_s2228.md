@@ -205,7 +205,7 @@
 
  __Corrosion Control and Prevention Executives for the Military Departments__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 903, Oct. 14, 2008, [122 Stat. 4566][/us/stat/122/4566], provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 903, Oct. 14, 2008, [122 Stat. 4566][/us/stat/122/4566], as amended by [Pub. L. 113–66, div. A, title III, § 334][/us/pl/113/66/s334], title X, § 1084(b)(1), Dec. 26, 2013, [127 Stat. 740][/us/stat/127/740], 871, provided that:
 
 >     “(a)  __Requirement to Designate Corrosion Control and Prevention Executive__  __.—__ 
 
@@ -243,7 +243,17 @@
 
 >         “(4) The corrosion control and prevention executive of a military department shall be the principal point of contact of the department to the Director of Corrosion Policy and Oversight (as assigned under [section 2228 of title 10][/us/usc/t10/s2228], United States Code).
 
->         “(5) The corrosion control and prevention executive of a military department shall submit an annual report, not later than December 31 of each year, to the Secretary of Defense containing recommendations pertaining to the corrosion control and prevention program of the military department, including corrosion-related funding levels to carry out all of the duties of the executive under this section.”
+>         “(5)
+
+>             (A) Not later than December 31 of each year, the corrosion control and prevention executive of a military department shall submit to the Secretary of Defense a report containing recommendations pertaining to the corrosion control and prevention program of the military department. Such report shall include recommendations for the funding levels necessary for the executive to carry out the duties of the executive under this section.
+
+>             “(B)
+
+>              The report required under subparagraph (A) shall—
+
+>                 “(i) provide a clear linkage between the corrosion control and prevention program of the military department and the overarching goals and objectives of the long-term corrosion control and prevention strategy developed and implemented by the Secretary of Defense under [section 2228(d) of title 10][/us/usc/t10/s2228/d], United States Code; and
+
+>                 “(ii) include performance measures to ensure that the corrosion control and prevention program is achieving the goals and objectives described in clause (i).”
 
  __Deadline for Designation of Responsible Official or Organization; Interim Report; Deadline for Long-Term Strategy; GAO Review__ 
 
@@ -298,7 +308,10 @@
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4566
+[/us/pl/113/66/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs334
+[/us/stat/127/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F740
 [/us/usc/t10/s2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2228
+[/us/usc/t10/s2228/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2228%2Fd
 [/us/pl/107/314/s1067/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1067%2Fb
 [/us/stat/116/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2658
 

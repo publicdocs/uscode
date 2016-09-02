@@ -321,6 +321,22 @@
 
     1958—[Pub. L. 85–577, § 1(2)][/us/pl/85/577/s1/2], July 31, 1958, [72 Stat. 456][/us/stat/72/456], added item 1585.
 
+ __Compliance With Law Regarding Availability of Funding for Civilian Personnel__ 
+
+[Pub. L. 113–66, div. A, title XI, § 1108][/us/pl/113/66/s1108], Dec. 26, 2013, [127 Stat. 889][/us/stat/127/889], provided that:
+
+>     “(a)  __Regulations__  __.—__ 
+
+>     No later than 90 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall prescribe regulations implementing the authority in subsection (a) of section 1111 of the National Defense Authorization Act for Fiscal Year 2010 ([Public Law 111–84][/us/pl/111/84]; [10 U.S.C. 1580][/us/usc/t10/s1580] note prec.).
+
+>     “(b)  __Coordination__  __.—__ 
+
+>     The Under Secretary of Defense (Comptroller), in consultation with the Under Secretary of Defense for Personnel and Readiness, shall be responsible for coordinating the preparation of the regulations required under subsection (a).
+
+>     “(c)  __Limitations__  __.—__ 
+
+>     The regulations required under subsection (a) shall not be restricted by any civilian full-time equivalent or end-strength limitation, nor shall such regulations require offsetting civilian pay funding, civilian full-time equivalents, or civilian end-strengths.”
+
  __Availability of Funds for Compensation of Certain Civilian Employees of the Department of Defense__ 
 
 [Pub. L. 111–84, div. A, title XI, § 1111][/us/pl/111/84/s1111], Oct. 28, 2009, [123 Stat. 2495][/us/stat/123/2495], as amended by [Pub. L. 111–383, div. A, title X, § 1075(d)(16)][/us/pl/111/383/s1075/d/16], Jan. 7, 2011, [124 Stat. 4373][/us/stat/124/4373], provided that:
@@ -592,6 +608,10 @@
 [/us/stat/74/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F327
 [/us/pl/85/577/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F577%2Fs1%2F2
 [/us/stat/72/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F456
+[/us/pl/113/66/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1108
+[/us/stat/127/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F889
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/usc/t10/s1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1580
 [/us/pl/111/84/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1111
 [/us/stat/123/2495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2495
 [/us/pl/111/383/s1075/d/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fd%2F16

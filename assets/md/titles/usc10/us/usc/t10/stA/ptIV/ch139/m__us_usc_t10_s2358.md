@@ -137,6 +137,96 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
     For effective date and applicability of amendment by [Pub. L. 103–355][/us/pl/103/355], see [section 10001 of Pub. L. 103–355][/us/pl/103/355/s10001], set out as a note under [section 2302 of this title][/us/usc/t10/s2302].
 
+ __Temporary Authorities for Certain Positions at Department of Defense Research and Engineering Facilities__ 
+
+[Pub. L. 113–66, div. A, title XI, § 1107][/us/pl/113/66/s1107], Dec. 26, 2013, [127 Stat. 887][/us/stat/127/887], provided that:
+
+>     “(a) __Authority To Make Direct Appointments.—__ 
+
+>         “(1)  __Candidates for scientific and engineering positions at science and technology reinvention laboratories__  __.—__ 
+
+>         The director of any Science and Technology Reinvention Laboratory (hereinafter in this section referred to as an ‘STRL’) may appoint qualified candidates possessing a bachelor’s degree to positions described in paragraph (1) of subsection (b) as an employee in a laboratory described in that paragraph without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code (other than sections 3303 and 3328 of such title).
+
+>         “(2)  __Veteran candidates for similar positions at research and engineering facilities__  __.—__ 
+
+>         The director of any STRL may appoint qualified veteran candidates to positions described in paragraph (2) of subsection (b) as an employee at a laboratory, agency, or organization specified in that paragraph without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code.
+
+>     “(b) __Covered Positions.—__ 
+
+>         “(1)  __Candidates for scientific and engineering positions__  __.—__ 
+
+>         The positions described in this paragraph are scientific and engineering positions that may be temporary, term, or permanent in any laboratory designated by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 ([Public Law 111–84][/us/pl/111/84]; [123 Stat. 2486][/us/stat/123/2486]; [10 U.S.C. 2358][/us/usc/t10/s2358] note) as a Department of Defense science and technology reinvention laboratory.
+
+>         “(2)  __Qualified veteran candidates__  __.—__ 
+
+>         The positions described in this paragraph are scientific, technical, engineering, and mathematics positions, including technicians, in the following:
+
+>             “(A) Any laboratory referred to in paragraph (1).
+
+>             “(B) Any other Department of Defense research and engineering agency or organization designated by the Secretary for purposes of subsection (a)(2).
+
+>     “(c)  __Limitation on Number of Appointments Allowable in a Calendar Year__  __.—__ 
+
+>     The authority under subsection (a) may not, in any calendar year and with respect to any laboratory, agency, or organization described in subsection (b), be exercised with respect to a number of candidates greater than the following:
+
+>         “(1) In the case of a laboratory described in subsection (b)(1), with respect to appointment authority under subsection (a)(1), the number equal to 3 percent of the total number of scientific and engineering positions in such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
+
+>         “(2) In the case of a laboratory, agency, or organization described in subsection (b)(2), with respect to appointment authority under subsection (a)(2), the number equal to 1 percent of the total number of scientific, technical, engineering, mathematics, and technician positions in such laboratory, agency, or organization that are filled as of the close of the fiscal year last ending before the start of such calendar year.
+
+>     “(d)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1) The term ‘employee’ has the meaning given that term in [section 2105 of title 5][/us/usc/t5/s2105], United States Code.
+
+>         “(2) The term ‘veteran’ has the meaning given that term in [section 101 of title 38][/us/usc/t38/s101], United States Code.
+
+>     “(e)  __Sunset__  __.—__ 
+
+>     Appointments under subsection (a) may not be made after December 31, 2019.
+
+>     “(f) __Senior Scientific Technical Managers.—__ 
+
+>         “(1)  __Establishment__  __.—__ 
+
+>         There is hereby established in each STRL a category of senior professional scientific and technical positions, the incumbents of which shall be designated as ‘senior scientific technical managers’ and which shall be positions classified above GS–15 of the General Schedule, notwithstanding [section 5108(a) of title 5][/us/usc/t5/s5108/a], United States Code. The primary functions of such positions shall be—
+
+>             “(A) to engage in research and development in the physical, biological, medical, or engineering sciences, or another field closely related to the mission of such STRL; and
+
+>             “(B) to carry out technical supervisory responsibilities.
+
+>         “(2)  __Appointments__  __.—__ 
+
+>         The positions described in paragraph (1) may be filled, and shall be managed, by the director of the STRL involved, under criteria established pursuant to section 342(b) of the National Defense Authorization Act for Fiscal Year 1995 ([Public Law 103–337][/us/pl/103/337]; [108 Stat. 2721][/us/stat/108/2721]) \[set out below\], relating to personnel demonstration projects at laboratories of the Department of Defense, except that the director of the laboratory involved shall determine the number of such positions at such laboratory, not to exceed 1 percent of the number of scientists and engineers employed at such laboratory as of the close of the last fiscal year before the fiscal year in which any appointments subject to that numerical limitation are made.
+
+>         “(3)  __Sunset__  __.—__ 
+
+>         Appointments under this subsection may not be made after December 31, 2019.
+
+>     “(g)  __Reporting Requirement__  __.—__ 
+
+>     The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an annual report on the operation of this section. Each such report shall include, for the period covered by such report—
+
+>         “(1) the total number of individuals appointed under subsection (a)(1) during such period;
+
+>         “(2) the total number of individuals appointed under subsection (a)(2) during such period; and
+
+>         “(3) the total number of senior scientific technical managers at each STRL as of the end of such period.
+
+>     “(h) __Exclusion From Personnel Limitations.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The director of an STRL shall manage the workforce strength, structure, positions, and compensation of such STRL—
+
+>             “(A) without regard to any limitation on appointments, positions, or funding with respect to such STRL, subject to subparagraph (B); and
+
+>             “(B) in a manner consistent with the budget available with respect to such STRL.
+
+>         “(2)  __Exceptions__  __.—__ 
+
+>         Paragraph (1) shall not apply to Senior Executive Service positions (as defined in [section 3132(a) of title 5][/us/usc/t5/s3132/a], United States Code) or scientific and professional positions authorized under section 3104 of such title.”
+
  __Regional Advanced Technology Clusters__ 
 
 [Pub. L. 112–239, div. A, title II, § 252][/us/pl/112/239/s252], Jan. 2, 2013, [126 Stat. 1688][/us/stat/126/1688], provided that:
@@ -299,7 +389,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Pilot Program To Include Technology Protection Features During Research and Development of Defense Systems__ 
 
-[Pub. L. 111–383, div. A, title II, § 243][/us/pl/111/383/s243], Jan. 7, 2011, [124 Stat. 4178][/us/stat/124/4178], as amended by [Pub. L. 112–81, div. A, title II, § 252][/us/pl/112/81/s252], Dec. 31, 2011, [125 Stat. 1347][/us/stat/125/1347], provided that:
+[Pub. L. 111–383, div. A, title II, § 243][/us/pl/111/383/s243], Jan. 7, 2011, [124 Stat. 4178][/us/stat/124/4178], as amended by [Pub. L. 112–81, div. A, title II, § 252][/us/pl/112/81/s252], Dec. 31, 2011, [125 Stat. 1347][/us/stat/125/1347]; [Pub. L. 113–66, div. A, title II, § 264][/us/pl/113/66/s264], Dec. 26, 2013, [127 Stat. 726][/us/stat/127/726], provided that:
 
 >     “(a)  __Pilot Program__  __.—__ 
 
@@ -321,7 +411,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >     “(d)  __Termination__  __.—__ 
 
->     The pilot program established under this section shall terminate on October 1, 2015.
+>     The pilot program established under this section shall terminate on October 1, 2020.
 
 >     “(e)  __Definitions__  __.—__ 
 
@@ -371,7 +461,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
  __Mechanisms To Provide Funds for Defense Laboratories for Research and Development of Technologies for Military Missions__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 219, Oct. 14, 2008, [122 Stat. 4389][/us/stat/122/4389], as amended by [Pub. L. 111–84, div. B, title XXVIII, § 2801(c)][/us/pl/111/84/s2801/c], Oct. 28, 2009, [123 Stat. 2660][/us/stat/123/2660]; [Pub. L. 112–81, div. A, title II, § 253][/us/pl/112/81/s253], Dec. 31, 2011, [125 Stat. 1347][/us/stat/125/1347], provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 219, Oct. 14, 2008, [122 Stat. 4389][/us/stat/122/4389], as amended by [Pub. L. 111–84, div. B, title XXVIII, § 2801(c)][/us/pl/111/84/s2801/c], Oct. 28, 2009, [123 Stat. 2660][/us/stat/123/2660]; [Pub. L. 112–81, div. A, title II, § 253][/us/pl/112/81/s253], Dec. 31, 2011, [125 Stat. 1347][/us/stat/125/1347]; [Pub. L. 113–66, div. A, title II, § 262(a)][/us/pl/113/66/s262/a], (b), Dec. 26, 2013, [127 Stat. 725][/us/stat/127/725], 726, provided that:
 
 >     “(a) __Mechanisms to Provide Funds.—__ 
 
@@ -385,19 +475,47 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >             “(C) To fund workforce development activities that improve the capacity of the defense laboratory to recruit and retain personnel with needed scientific and engineering expertise.
 
->             “(D) To fund the revitalization and recapitalization of the laboratory pursuant to [section 2805(d) of title 10][/us/usc/t10/s2805/d], United States Code.
+>             “(D) To fund the revitalization\[,\] recapitalization, or minor military construction of the laboratory infrastructure, in accordance with subsection (b).
 
 >         “(2)  __Consultation required__  __.—__ 
 
 >         The mechanisms established under paragraph (1) shall provide that funding shall be used under paragraph (1) at the discretion of the director of a defense laboratory in consultation with the science and technology executive of the military department concerned.
 
->     “(b)  __Annual Report on Use of Authority__  __.—__ 
+>     “(b) __Availability of Funds for Infrastructure Projects.—__ 
 
->     Not later than March 1 of each year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of the authority under subsection (a) during the preceding year.
+>         “(1)  __In general__  __.—__ 
 
->     “(c)  __Sunset__  __.—__ 
+>         Subject to the provisions of this subsection, funds available under a mechanism under subsection (a)(1)(D) that are solely intended to carry out a laboratory infrastructure project shall be available for such project until expended.
 
->     The authority under subsection (a) shall expire on September 30, 2016.”
+>         “(2)  __Prior notice of costs of projects__  __.—__ 
+
+>         Funds shall be available in accordance with paragraph (1) for a project referred to in such paragraph only if the Secretary notifies the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of the total cost of the project before the date on which the Secretary uses a mechanism under subsection (a)(1)(D) for such project.
+
+>         “(3)  __Accumulation of funds for projects__  __.—__ 
+
+>         Funds may accumulate under a mechanism under subsection (a) for a project referred to in paragraph (1) for not more than five years.
+
+>         “(4)  __Cost limit compliance__  __.—__ 
+
+>         The Secretary shall ensure that a project referred to in paragraph (1) for which funds are made available in accordance with such paragraph complies with the applicable cost limitations in the following provisions of law:
+
+>             “(A) [Section 2805(d) of title 10][/us/usc/t10/s2805/d], United States Code, with respect to revitalization and recapitalization projects.
+
+>             “(B) Section 2811 of such title, with respect to repair projects.
+
+>     “(c)  __Annual Report on Use of Authority__  __.—__ 
+
+>     Not later than March 1 of each year, the Secretary of Defense shall submit to the congressional defense committees a report on the use of the authority under subsection (a) during the preceding year.
+
+>     “(d)  __Sunset__  __.—__ 
+
+>     The authority under subsection (a) shall expire on September 30, 2020.”
+
+\[[Pub. L. 113–66, div. A, title II, § 262(c)][/us/pl/113/66/s262/c], Dec. 26, 2013, [127 Stat. 726][/us/stat/127/726], provided that: 
+
+> “Subsection (b) of such section 219 \[[section 219 of Pub. L. 110–417][/us/pl/110/417/s219], set out above\], as added by subsection (a)(3), shall apply with respect to funds made available under such section on or after the date of the enactment of this Act \[Dec. 26, 2013\].”
+
+\]
 
  __Science and Technology Investment Strategy To Defeat or Counter Improvised Explosive Devices__ 
 
@@ -1252,6 +1370,17 @@ Similar provisions were contained in the following prior authorization acts:
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/103/355/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10001
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
+[/us/pl/113/66/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1107
+[/us/stat/127/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F887
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/stat/123/2486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2486
+[/us/usc/t10/s2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2358
+[/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
+[/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
+[/us/usc/t5/s5108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5108%2Fa
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/stat/108/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2721
+[/us/usc/t5/s3132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa
 [/us/pl/112/239/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs252
 [/us/stat/126/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1688
 [/us/usc/t42/s4701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4701
@@ -1264,6 +1393,8 @@ Similar provisions were contained in the following prior authorization acts:
 [/us/stat/124/4178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4178
 [/us/pl/112/81/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs252
 [/us/stat/125/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1347
+[/us/pl/113/66/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs264
+[/us/stat/127/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F726
 [/us/usc/t10/s2302/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F5
 [/us/pl/111/383/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1078
 [/us/stat/124/4380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4380
@@ -1273,7 +1404,12 @@ Similar provisions were contained in the following prior authorization acts:
 [/us/stat/123/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2660
 [/us/pl/112/81/s253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs253
 [/us/stat/125/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1347
+[/us/pl/113/66/s262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs262%2Fa
+[/us/stat/127/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F725
 [/us/usc/t10/s2805/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805%2Fd
+[/us/pl/113/66/s262/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs262%2Fc
+[/us/stat/127/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F726
+[/us/pl/110/417/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs219
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4650
 [/us/pl/112/81/s1062/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1062%2Fb

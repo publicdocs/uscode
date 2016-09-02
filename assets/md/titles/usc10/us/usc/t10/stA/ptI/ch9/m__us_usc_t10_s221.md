@@ -47,6 +47,54 @@
 
     Subsecs. (b)(2)(A), (c). [Pub. L. 101–510, § 1402(a)(2)(A)][/us/pl/101/510/s1402/a/2/A], substituted “multiyear” for “five-year”.
 
+ __Budget Documentation Requirement__ 
+
+[Pub. L. 113–66, div. A, title II, § 213(c)][/us/pl/113/66/s213/c], Dec. 26, 2013, [127 Stat. 704][/us/stat/127/704], provided that: 
+
+> “In the budget materials submitted to the President by the Secretary of Defense in connection with the submission to Congress, pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code, of the budget for fiscal year 2015, and each subsequent fiscal year, the Secretary shall include individual project lines for each program segment of the unmanned carrier-launched surveillance and strike system, within program element 0604404N, that articulate all costs, contractual actions, and other information associated with technology development for each such program segment.”
+
+ __Evaluation and Assessment of the Distributed Common Ground System__ 
+
+[Pub. L. 113–66, div. A, title II, § 219][/us/pl/113/66/s219], Dec. 26, 2013, [127 Stat. 708][/us/stat/127/708], provided that:
+
+>     “(a)  __Project Codes for Budget Submissions__  __.—__ 
+
+>     In the budget submitted by the President to Congress under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, for fiscal year 2015 and each subsequent fiscal year, each capability component within the distributed common ground system program shall be set forth as a separate project code within the program element line, and each covered official shall submit supporting justification for the project code within the program element descriptive summary.
+
+>     “(b) __Analysis.—__ 
+
+>         “(1)  __Requirement__  __.—__ 
+
+>         The Under Secretary of Defense for Acquisition, Technology, and Logistics shall conduct an analysis of capability components that are compliant with the intelligence community data standards and could be used to meet the requirements of the distributed common ground system program.
+
+>         “(2)  __Elements__  __.—__ 
+
+>         The analysis required under paragraph (1) shall include the following:
+
+>             “(A) Revalidation of the distributed common ground system program requirements based on current program needs, recent operational experience, and the requirement for nonproprietary solutions that adhere to open-architecture principles.
+
+>             “(B) Market research of current commercially available tools to determine whether any such tools could potentially satisfy the requirements described in subparagraph (A).
+
+>             “(C) Analysis of the competitive acquisition options for any tools identified in subparagraph (B).
+
+>         “(3)  __Submission__  __.—__ 
+
+>         Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Under Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the results of the analysis conducted under paragraph (1).
+
+>     “(c)  __Covered Official Defined__  __.—__ 
+
+>     In this section, the term ‘covered official’ means the following:
+
+>         “(1) The Secretary of the Army, with respect to matters concerning the Army.
+
+>         “(2) The Secretary of the Navy, with respect to matters concerning the Navy.
+
+>         “(3) The Secretary of the Air Force, with respect to matters concerning the Air Force.
+
+>         “(4) The Commandant of the Marine Corps, with respect to matters concerning the Marine Corps.
+
+>         “(5) The Commander of the United States Special Operations Command, with respect to matters concerning the United States Special Operations Command.”
+
  __Consolidated Budget Justification Display for Aerospace Control Alert Mission__ 
 
 [Pub. L. 112–239, div. A, title III, § 352(a)][/us/pl/112/239/s352/a], Jan. 2, 2013, [126 Stat. 1701][/us/stat/126/1701], provided that: 
@@ -335,13 +383,13 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Annual Submission of Information Regarding Information Technology Capital Assets__ 
 
-[Pub. L. 107–314, div. A, title III, § 351][/us/pl/107/314/s351], Dec. 2, 2002, [116 Stat. 2516][/us/stat/116/2516], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1051, Oct. 14, 2008, [122 Stat. 4604][/us/stat/122/4604], provided that:
+[Pub. L. 107–314, div. A, title III, § 351][/us/pl/107/314/s351], Dec. 2, 2002, [116 Stat. 2516][/us/stat/116/2516], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1051, Oct. 14, 2008, [122 Stat. 4604][/us/stat/122/4604]; [Pub. L. 113–66, div. A, title III, § 333][/us/pl/113/66/s333], Dec. 26, 2013, [127 Stat. 739][/us/stat/127/739], provided that:
 
 >     “(a)  __Requirement To Submit Information__  __.—__ 
 
 >     Not later than 30 days after the date on which the President submits the budget for a fiscal year to Congress pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code, the Secretary of Defense shall submit to Congress information on the following information technology capital assets, including information technology capital assets that are a national security system, of the Department of Defense:
 
->         “(1) Information technology capital assets that have an estimated total cost for the fiscal year for which the budget is submitted in excess of $30,000,000 or an estimated total cost (as computed in fiscal year 2003 constant dollars) in excess of $120,000,000.
+>         “(1) Information technology capital assets that have an estimated total cost for the fiscal year for which the budget is submitted (as computed in fiscal year 2000 constant dollars) in excess of $32,000,000 or an estimated total cost for the future-years defense program for which the budget is submitted (as computed in fiscal year 2000 constant dollars) in excess of $378,000,000, for all expenditures, for all increments, regardless of the appropriation and fund source, directly related to the assets definition, design, development, deployment, sustainment, and disposal.
 
 >         “(2) Information technology capital assets not covered by paragraph (1) that have been determined by the Chief Information Officer of the Department of Defense to be significant investments.
 
@@ -414,6 +462,8 @@ Similar provisions were contained in the following prior appropriation acts:
 > “The budget of the President for fiscal year 2004 submitted to the Congress pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code, and each annual budget request thereafter, shall include separate budget justification documents for costs of United States Armed Forces’ participation in contingency operations for the Military Personnel accounts, the Overseas Contingency Operations Transfer Fund, the Operation and Maintenance accounts, and the Procurement accounts: Provided, That these budget justification documents shall include a description of the funding requested for each anticipated contingency operation, for each military service, to include active duty and Guard and Reserve components, and for each appropriation account: Provided further, That these documents shall include estimated costs for each element of expense or object class, a reconciliation of increases and decreases for ongoing contingency operations, and programmatic data including, but not limited to troop strength for each active duty and Guard and Reserve component, and estimates of the major weapons systems deployed in support of each contingency: Provided further, That these documents shall include budget exhibits OP–5 and OP–32, as defined in the Department of Defense Financial Management Regulation, for the Overseas Contingency Operations Transfer Fund for fiscal years 2002 and 2003.”
 
 Similar provisions were contained in the following appropriation acts:
+
+    [Pub. L. 113–76, div. C, title VIII, § 8075][/us/pl/113/76/s8075], Jan. 17, 2014, [128 Stat. 123][/us/stat/128/123].
 
     [Pub. L. 113–6, div. C, title VIII, § 8075][/us/pl/113/6/s8075], Mar. 26, 2013, [127 Stat. 315][/us/stat/127/315].
 
@@ -543,6 +593,12 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/101/510/s1402/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1402%2Fa%2F3%2FA
 [/us/pl/101/510/s1402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1402%2Fa%2F1
 [/us/pl/101/510/s1402/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1402%2Fa%2F2%2FA
+[/us/pl/113/66/s213/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs213%2Fc
+[/us/stat/127/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F704
+[/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
+[/us/pl/113/66/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs219
+[/us/stat/127/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F708
+[/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/112/239/s352/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs352%2Fa
 [/us/stat/126/1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1701
 [/us/pl/112/239/s1079/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1079%2Fc
@@ -622,6 +678,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/116/2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2516
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4604
+[/us/pl/113/66/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs333
+[/us/stat/127/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F739
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
@@ -642,6 +700,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/107/248/s8132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F248%2Fs8132
 [/us/stat/116/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1568
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
+[/us/pl/113/76/s8075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8075
+[/us/stat/128/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F123
 [/us/pl/113/6/s8075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs8075
 [/us/stat/127/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F315
 [/us/pl/112/74/s8077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs8077

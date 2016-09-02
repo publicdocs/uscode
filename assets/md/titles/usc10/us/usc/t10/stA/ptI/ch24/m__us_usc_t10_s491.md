@@ -31,13 +31,7 @@
 
     Not later than March 15 of each year, the Secretary of Defense shall provide to the congressional defense committees a briefing regarding the nuclear weapons employment strategy, plans, and options of the United States.
 
-    (c)  __Notification of Anomalies__  __.—__ 
-
-        (1) The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system of the United States that is reported to the Secretary of Defense or the Nuclear Weapons Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
-
-        (2) In this subsection, the term “anomaly” means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.
-
-    (d)  __Reports on __  __2010__  __ Nuclear Posture Review Implementation Study Decisions__  __.—__ 
+    (c)  __Reports on __  __2010__  __ Nuclear Posture Review Implementation Study Decisions__  __.—__ 
 
     During each of fiscal years 2012 through 2021, not later than 60 days before the date on which the President carries out the results of the decisions made pursuant to the 2010 Nuclear Posture Review Implementation Study that would alter the nuclear weapons employment strategy, guidance, plans, or options of the United States, the President shall—
 
@@ -47,7 +41,7 @@
 
         (3) transmit to the congressional defense committees a report providing the high-, medium-, and low- confidence assessments of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4])) as to whether the United States will have significant warning of a strategic surprise or breakout caused by foreign nuclear weapons developments.
 
-(Added [Pub. L. 112–81, div. A, title X, § 1046(b)(1)][/us/pl/112/81/s1046/b/1], Dec. 31, 2011, [125 Stat. 1579][/us/stat/125/1579]; amended [Pub. L. 112–239, div. A, title X][/us/pl/112/239], §§ 1031(a), 1032, Jan. 2, 2013, [126 Stat. 1917][/us/stat/126/1917], 1919.)
+(Added [Pub. L. 112–81, div. A, title X, § 1046(b)(1)][/us/pl/112/81/s1046/b/1], Dec. 31, 2011, [125 Stat. 1579][/us/stat/125/1579]; amended [Pub. L. 112–239, div. A, title X][/us/pl/112/239], §§ 1031(a), 1032, Jan. 2, 2013, [126 Stat. 1917][/us/stat/126/1917], 1919; [Pub. L. 113–66, div. A, title X, § 1052(b)][/us/pl/113/66/s1052/b], Dec. 26, 2013, [127 Stat. 861][/us/stat/127/861].)
 
  __Codification__ 
 
@@ -65,9 +59,19 @@
 
     [Pub. L. 112–239, § 1031(a)(2)(E)][/us/pl/112/239/s1031/a/2/E], designated existing provisions as subsec. (a) and inserted heading.
 
-    Subsecs. (b), (c). [Pub. L. 112–239, § 1031(a)(2)(F)][/us/pl/112/239/s1031/a/2/F], added subsecs. (b) and (c).
+    Subsec. (b). [Pub. L. 112–239, § 1031(a)(2)(F)][/us/pl/112/239/s1031/a/2/F], added subsec. (b).
 
-    Subsec. (d). [Pub. L. 112–239, § 1032(b)][/us/pl/112/239/s1032/b], added subsec. (d).
+    Subsec. (c). [Pub. L. 113–66, § 1052(b)][/us/pl/113/66/s1052/b], redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows:
+
+    “(1) The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system of the United States that is reported to the Secretary of Defense or the Nuclear Weapons Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
+
+    “(2) In this subsection, the term ‘anomaly’ means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.”
+
+    [Pub. L. 112–239, § 1031(a)(2)(F)][/us/pl/112/239/s1031/a/2/F], added subsec. (c).
+
+    Subsec. (d). [Pub. L. 113–66, § 1052(b)(2)][/us/pl/113/66/s1052/b/2], redesignated subsec. (d) as (c).
+
+    [Pub. L. 112–239, § 1032(b)][/us/pl/112/239/s1032/b], added subsec. (d).
 
  __Delegation of Reporting Functions Specified in__  __[__  __Section 491 of Title 10__  __][/us/usc/t10/s491]__  __, United States Code__ 
 
@@ -96,6 +100,8 @@
 [/us/stat/125/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1579
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1917
+[/us/pl/113/66/s1052/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1052%2Fb
+[/us/stat/127/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F861
 [/us/pl/112/239/s1031/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fa%2F1
 [/us/pl/112/81/s1043/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1043%2Fa%2F1
 [/us/stat/125/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1579
@@ -103,6 +109,9 @@
 [/us/pl/112/239/s1032/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1032%2Fa
 [/us/pl/112/239/s1031/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fa%2F2%2FE
 [/us/pl/112/239/s1031/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fa%2F2%2FF
+[/us/pl/113/66/s1052/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1052%2Fb
+[/us/pl/112/239/s1031/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fa%2F2%2FF
+[/us/pl/113/66/s1052/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1052%2Fb%2F2
 [/us/pl/112/239/s1032/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1032%2Fb
 [/us/usc/t10/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs491
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

@@ -125,21 +125,7 @@
 
                 (ii) the amounts to be reimbursed to the Defense Modernization Account out of such savings pursuant to subsection (c)(1)(B)(iii).
 
-    (i)  __Annual Report__  __.—__ 
-
-        (1)
-
-         Not later than 15 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional committees specified in paragraph (2) a report on the Defense Modernization Account. Each such report shall set forth the following:
-
-            (A) The amount and source of each credit to the account during that fiscal year.
-
-            (B) The amount and purpose of each transfer from the account during that fiscal year.
-
-            (C) The balance in the account at the end of the fiscal year and, of such balance, the amount attributable to transfers to the account from each Secretary concerned.
-
-        (2) The committees referred to in paragraph (1) are the congressional defense committees and the Committee on Governmental Affairs of the Senate and the Committee on Government Reform and Oversight of the House of Representatives.
-
-    (j)  __Definitions__  __.—__ 
+    (i)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -147,13 +133,13 @@
 
         (2) The term “unexpired funds” means funds appropriated for a definite period that remain available for obligation.
 
-    (k)  __Expiration of Authority and Account__  __.—__ 
+    (j)  __Expiration of Authority and Account__  __.—__ 
 
         (1) The authority under subsection (c) to transfer funds into the Defense Modernization Account terminates at the close of September 30, 2006.
 
         (2) Three years after the termination date specified in paragraph (1), the Defense Modernization Account shall be closed and any remaining balance in the account shall be canceled and thereafter shall not be available for any purpose.
 
-(Added [Pub. L. 104–106, div. A, title IX, § 912(a)(1)][/us/pl/104/106/s912/a/1], Feb. 10, 1996, [110 Stat. 407][/us/stat/110/407]; amended [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136], §§ 1008(a)–(f)(1), 1043(b)(8), Nov. 24, 2003, [117 Stat. 1586][/us/stat/117/1586], 1587, 1611; [Pub. L. 109–364, div. A, title X, § 1071(a)(16)][/us/pl/109/364/s1071/a/16], Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399].)
+(Added [Pub. L. 104–106, div. A, title IX, § 912(a)(1)][/us/pl/104/106/s912/a/1], Feb. 10, 1996, [110 Stat. 407][/us/stat/110/407]; amended [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136], §§ 1008(a)–(f)(1), 1043(b)(8), Nov. 24, 2003, [117 Stat. 1586][/us/stat/117/1586], 1587, 1611; [Pub. L. 109–364, div. A, title X, § 1071(a)(16)][/us/pl/109/364/s1071/a/16], Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399]; [Pub. L. 113–66, div. A, title X, § 1084(a)(2)][/us/pl/113/66/s1084/a/2], Dec. 26, 2013, [127 Stat. 871][/us/stat/127/871].)
 
  __Codification__ 
 
@@ -164,6 +150,8 @@
     A prior section 2216, added [Pub. L. 99–661, div. A, title XIII, § 1307(a)(1)][/us/pl/99/661/s1307/a/1], Nov. 14, 1986, [100 Stat. 3980][/us/stat/100/3980], related to annual reports on budgeting for inflation, prior to repeal by [Pub. L. 101–510, div. A, title XIII, § 1301(8)][/us/pl/101/510/s1301/8], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668].
 
  __Amendments__ 
+
+    2013—Subsecs. (i) to (k). [Pub. L. 113–66][/us/pl/113/66] redesignated subsecs. (j) and (k) as (i) and (j), respectively, and struck out former subsec. (i) which related to an annual report submitted by the Secretary of Defense to the congressional defense committees and the Committee on Governmental Affairs of the Senate and the Committee on Government Reform and Oversight of the House of Representatives.
 
     2006—Subsec. (b)(1). [Pub. L. 109–364][/us/pl/109/364] substituted “subsection (c)(1)(B)(iii)” for “subsections (c)(1)(B)(iii)”.
 
@@ -228,11 +216,14 @@
 [/us/stat/117/1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1586
 [/us/pl/109/364/s1071/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F16
 [/us/stat/120/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2399
+[/us/pl/113/66/s1084/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1084%2Fa%2F2
+[/us/stat/127/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F871
 [/us/usc/t10/s2216a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2216a
 [/us/pl/99/661/s1307/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1307%2Fa%2F1
 [/us/stat/100/3980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3980
 [/us/pl/101/510/s1301/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1301%2F8
 [/us/stat/104/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1668
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/108/136/s1008/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1008%2Fa%2F3
 [/us/pl/108/136/s1008/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1008%2Fa%2F1

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch53/m__us_usc_t10_s1044c.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch53/m__us_usc_t10_s1045.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044d)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch53/m__us_usc_t10_s1044c.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch53/m__us_usc_t10_s1044e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044d)
 
 ## § 1044d. Military testamentary instruments: requirement for recognition by States
 
@@ -105,7 +105,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch53/m__us_usc_t10_s1044c.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch53/m__us_usc_t10_s1045.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044d)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch53/m__us_usc_t10_s1044c.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch53/m__us_usc_t10_s1044e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044d)
 
 ----------
 ----------

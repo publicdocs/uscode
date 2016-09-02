@@ -81,13 +81,21 @@
 
         (4)
 
-         Not later than 30 days after the date on which the budget for a fiscal year is submitted to Congress pursuant to [section 1105 of title 31][/us/usc/t31/s1105], the Secretary of Defense shall submit to Congress a report on the proposed budgets for that fiscal year that the Assistant Secretary has not certified under paragraph (3). The report shall include the following:
+         The Secretary of Defense shall submit to Congress a report on the proposed budgets for a fiscal year that the Assistant Secretary has not certified under paragraph (3). The report shall include the following:
 
             (A) A discussion of the actions that the Secretary proposes to take, together with any recommended legislation that the Secretary considers appropriate, to address the inadequacy of the proposed budgets.
 
             (B) Any additional comments that the Secretary considers appropriate regarding the inadequacy of the proposed budgets.
 
         (5) The report required by paragraph (4) shall also include a separate statement of estimated expenditures and requested appropriations for that fiscal year for the activities of the Assistant Secretary in carrying out the duties of the Assistant Secretary.
+
+        (6)
+
+         The report required by paragraph (4) for a fiscal year shall be submitted by the later of the following dates:
+
+            (A) The date that is 30 days after the date on which the budget for that fiscal year is submitted to Congress pursuant to [section 1105 of title 31][/us/usc/t31/s1105].
+
+            (B) March 31 of the previous fiscal year.
 
     (f)  __Access to Initiative Results and Records__  __.—__ 
 
@@ -111,7 +119,7 @@
 
         The terms “operational energy strategy” and “strategy” mean the operational energy strategy developed under subsection (d).
 
-(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 902(a), Oct. 14, 2008, [122 Stat. 4564][/us/stat/122/4564], § 139b; renumbered § 138c and amended [Pub. L. 111–383, div. A, title IX, § 901(b)(7)][/us/pl/111/383/s901/b/7], (k)(1)(C), Jan. 7, 2011, [124 Stat. 4320][/us/stat/124/4320], 4325; [Pub. L. 112–81, div. A, title III, § 311][/us/pl/112/81/s311], Dec. 31, 2011, [125 Stat. 1351][/us/stat/125/1351]; [Pub. L. 112–239, div. A, title X, § 1076(f)(3)][/us/pl/112/239/s1076/f/3], Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952].)
+(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 902(a), Oct. 14, 2008, [122 Stat. 4564][/us/stat/122/4564], § 139b; renumbered § 138c and amended [Pub. L. 111–383, div. A, title IX, § 901(b)(7)][/us/pl/111/383/s901/b/7], (k)(1)(C), Jan. 7, 2011, [124 Stat. 4320][/us/stat/124/4320], 4325; [Pub. L. 112–81, div. A, title III, § 311][/us/pl/112/81/s311], Dec. 31, 2011, [125 Stat. 1351][/us/stat/125/1351]; [Pub. L. 112–239, div. A, title X, § 1076(f)(3)][/us/pl/112/239/s1076/f/3], Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952]; [Pub. L. 113–66, div. A, title III, § 311][/us/pl/113/66/s311], Dec. 26, 2013, [127 Stat. 728][/us/stat/127/728].)
 
  __Codification__ 
 
@@ -120,6 +128,10 @@
  __Amendments__ 
 
     2013—Subsec. (c)(3). [Pub. L. 112–239][/us/pl/112/239] transferred subsec. (c)(3) of [section 138 of this title][/us/usc/t10/s138] to subsec. (c)(3) of this section. See Codification note above.
+
+    Subsec. (e)(4). [Pub. L. 113–66, § 311(1)][/us/pl/113/66/s311/1], in introductory provisions, substituted “The Secretary of Defense shall submit to Congress a report on the proposed budgets for a fiscal year” for “Not later than 30 days after the date on which the budget for a fiscal year is submitted to Congress pursuant to [section 1105 of title 31][/us/usc/t31/s1105], the Secretary of Defense shall submit to Congress a report on the proposed budgets for that fiscal year”.
+
+    Subsec. (e)(6). [Pub. L. 113–66, § 311(2)][/us/pl/113/66/s311/2], added par. (6).
 
     2011—[Pub. L. 111–383, § 901(k)(1)(C)][/us/pl/111/383/s901/k/1/C], substituted “Assistant Secretary of Defense for Operational Energy Plans and Programs” for “Director of Operational Energy Plans and Programs” in section catchline.
 
@@ -161,12 +173,17 @@
 [/us/stat/125/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1351
 [/us/pl/112/239/s1076/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F3
 [/us/stat/126/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1952
+[/us/pl/113/66/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs311
+[/us/stat/127/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F728
 [/us/usc/t10/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138
 [/us/pl/112/239/s1076/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F3
 [/us/pl/112/81/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs314%2Fa
 [/us/stat/125/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1357
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t10/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138
+[/us/pl/113/66/s311/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs311%2F1
+[/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
+[/us/pl/113/66/s311/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs311%2F2
 [/us/pl/111/383/s901/k/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fk%2F1%2FC
 [/us/pl/111/383/s901/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fb%2F7%2FB
 [/us/pl/111/383/s901/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fb%2F7

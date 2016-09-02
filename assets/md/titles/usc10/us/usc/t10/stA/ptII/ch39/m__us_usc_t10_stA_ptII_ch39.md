@@ -65,7 +65,15 @@
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs674" data-uslm-ref="/us/usc/t10/s674">674</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs687" data-uslm-ref="/us/usc/t10/s687">687.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs674" data-uslm-ref="/us/usc/t10/s674">674.</a>  </td>
+
+    <td> Temporary administrative reassignment or removal of a member on active duty accused of committing a sexual assault or related offense.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs675" data-uslm-ref="/us/usc/t10/s675">675</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs687" data-uslm-ref="/us/usc/t10/s687">687.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -115,6 +123,8 @@
 
  __Amendments__ 
 
+    2013—[Pub. L. 113–66, div. A, title XVII, § 1713(b)][/us/pl/113/66/s1713/b], Dec. 26, 2013, [127 Stat. 964][/us/stat/127/964], added item 674.
+
     2011—[Pub. L. 112–81, div. A, title V, § 582(b)][/us/pl/112/81/s582/b], Dec. 31, 2011, [125 Stat. 1432][/us/stat/125/1432], added item 673.
 
     2006—[Pub. L. 109–364, div. A, title VI, § 621(d)(2)(B)][/us/pl/109/364/s621/d/2/B], Oct. 17, 2006, [120 Stat. 2255][/us/stat/120/2255], substituted “Retired members: temporary authority to order to active duty in high-demand, low-density assignments” for “Retired aviators: temporary authority to order to active duty” in item 688a.
@@ -162,6 +172,8 @@
 ----------
 ----------
 
+[/us/pl/113/66/s1713/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1713%2Fb
+[/us/stat/127/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F964
 [/us/pl/112/81/s582/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs582%2Fb
 [/us/stat/125/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1432
 [/us/pl/109/364/s621/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs621%2Fd%2F2%2FB

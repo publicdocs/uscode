@@ -125,11 +125,11 @@
 
  __Temporary Waiver of Reimbursement of Costs of Activities for Nongovernmental Personnel__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 941(b), Oct. 14, 2008, [122 Stat. 4577][/us/stat/122/4577], as amended by [Pub. L. 111–383, div. A, title IX, § 941][/us/pl/111/383/s941], Jan. 7, 2011, [124 Stat. 4340][/us/stat/124/4340]; [Pub. L. 112–239, div. A, title IX, § 953][/us/pl/112/239/s953], Jan. 2, 2013, [126 Stat. 1895][/us/stat/126/1895], provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 941(b), Oct. 14, 2008, [122 Stat. 4577][/us/stat/122/4577], as amended by [Pub. L. 111–383, div. A, title IX, § 941][/us/pl/111/383/s941], Jan. 7, 2011, [124 Stat. 4340][/us/stat/124/4340]; [Pub. L. 112–239, div. A, title IX, § 953][/us/pl/112/239/s953], Jan. 2, 2013, [126 Stat. 1895][/us/stat/126/1895]; [Pub. L. 113–66, div. A, title X, § 1094(b)][/us/pl/113/66/s1094/b], Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878], provided that:
 
 >     “(1)  __Authority for temporary waiver__  __.—__ 
 
->     In fiscal years 2009 through 2013, the Secretary of Defense may, with the concurrence of the Secretary of State, waive reimbursement otherwise required under subsection (f) of [section 184 of title 10][/us/usc/t10/s184], United States Code, of the costs of activities of Regional Centers under such section for personnel of nongovernmental and international organizations who participate in activities of the Regional Centers that enhance cooperation of nongovernmental organizations and international organizations with United States forces if the Secretary of Defense determines that attendance of such personnel without reimbursement is in the national security interests of the United States.
+>     In fiscal years 2009 through 2014, the Secretary of Defense may, with the concurrence of the Secretary of State, waive reimbursement otherwise required under subsection (f) of [section 184 of title 10][/us/usc/t10/s184], United States Code, of the costs of activities of Regional Centers under such section for personnel of nongovernmental and international organizations who participate in activities of the Regional Centers that enhance cooperation of nongovernmental organizations and international organizations with United States forces if the Secretary of Defense determines that attendance of such personnel without reimbursement is in the national security interests of the United States.
 
 >     “(2)  __Limitation__  __.—__ 
 
@@ -195,6 +195,8 @@
 [/us/stat/124/4340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4340
 [/us/pl/112/239/s953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs953
 [/us/stat/126/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1895
+[/us/pl/113/66/s1094/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1094%2Fb
+[/us/stat/127/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F878
 [/us/usc/t10/s184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs184
 [/us/usc/t10/s184/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs184%2Fh
 

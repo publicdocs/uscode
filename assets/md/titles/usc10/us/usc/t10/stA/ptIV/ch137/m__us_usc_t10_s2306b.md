@@ -339,6 +339,8 @@
 
 Similar provisions were contained in the following appropriation acts:
 
+    [Pub. L. 113–76, div. C, title VIII, § 8010][/us/pl/113/76/s8010], Jan. 17, 2014, [128 Stat. 105][/us/stat/128/105].
+
     [Pub. L. 113–6, div. C, title VIII, § 8010][/us/pl/113/6/s8010], Mar. 26, 2013, [127 Stat. 297][/us/stat/127/297].
 
     [Pub. L. 112–74, div. A, title VIII, § 8010][/us/pl/112/74/s8010], Dec. 23, 2011, [125 Stat. 806][/us/stat/125/806].
@@ -468,6 +470,8 @@ Similar provisions were contained in the following appropriation acts:
 [/us/pl/105/56/s8008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F56%2Fs8008
 [/us/stat/111/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1221
 [/us/stat/111/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1211
+[/us/pl/113/76/s8010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8010
+[/us/stat/128/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F105
 [/us/pl/113/6/s8010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs8010
 [/us/stat/127/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F297
 [/us/pl/112/74/s8010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs8010

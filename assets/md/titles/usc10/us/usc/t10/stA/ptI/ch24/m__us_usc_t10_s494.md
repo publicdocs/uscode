@@ -99,7 +99,7 @@
 
         (1)  __In general__  __.—__ 
 
-        If, during any year beginning after the date of the enactment of this Act, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the President makes a proposal described in paragraph (2)—
+        If, during any year beginning after December 31, 2011, the President makes a proposal described in paragraph (2)—
 
             (A) the Commander of United States Strategic Command shall conduct a net assessment of the current and proposed nuclear forces of the United States and of other countries that possess nuclear weapons to determine whether the nuclear forces of the United States are anticipated to be capable of meeting the objectives of the United States with respect to nuclear deterrence, extended deterrence, assurance of allies, and defense;
 
@@ -111,7 +111,7 @@
 
             (A)  __In general__  __.—__ 
 
-            Except as provided in subparagraph (B), a proposal described in this paragraph is a proposal to reduce the number of nuclear weapons in the active or inactive stockpiles of the United States to a level that is lower than the level on the date of the enactment of this Act.1
+            Except as provided in subparagraph (B), a proposal described in this paragraph is a proposal to reduce the number of nuclear weapons in the active or inactive stockpiles of the United States to a level that is lower than the level on December 31, 2011.
 
             (B)  __Exceptions__  __.—__ 
 
@@ -119,7 +119,7 @@
 
                 (i) reductions that are a direct result of activities associated with routine stockpile stewardship, including stockpile surveillance, logistics, or maintenance; or
 
-                (ii) nuclear weapons retired or awaiting dismantlement on the date of the enactment of this Act.1
+                (ii) nuclear weapons retired or awaiting dismantlement on December 31, 2011.
 
         (3)  __Termination__  __.—__ 
 
@@ -147,13 +147,11 @@
 
         On the date on which the President transmits to the congressional defense committees a report by the Commander of the United States Strategic Command under paragraph (2), the President may transmit to such committees a report by the President with respect to whether the recommended reductions covered by the report of the Commander will impact the deterrence or extended deterrence capabilities of the United States.
 
-(Added and amended [Pub. L. 112–239, div. A, title X][/us/pl/112/239], §§ 1033(b)(1), (2)(B), 1034, Jan. 2, 2013, [126 Stat. 1920–1922][/us/stat/126/1920-1922].)
+(Added and amended [Pub. L. 112–239, div. A, title X][/us/pl/112/239], §§ 1033(b)(1), (2)(B), 1034, Jan. 2, 2013, [126 Stat. 1920–1922][/us/stat/126/1920-1922]; [Pub. L. 113–66, div. A, title X, § 1091(a)(7)][/us/pl/113/66/s1091/a/7], Dec. 26, 2013, [127 Stat. 875][/us/stat/127/875].)
 
  __References in Text__ 
 
     Section 1251 of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (a)(1)(D), (2)(A), is [section 1251 of Pub. L. 111–84][/us/pl/111/84/s1251], which is set out as a note under [section 2523 of Title 50][/us/usc/t50/s2523], War and National Defense.
-
-    The date of the enactment of this Act, referred to in subsec. (c)(1), (2), probably means the date of the enactment of [Pub. L. 112–81][/us/pl/112/81], which was approved Dec. 31, 2011. See Codification note below.
 
  __Codification__ 
 
@@ -165,6 +163,8 @@
 
     Subsec. (a)(2). [Pub. L. 112–239, § 1033(b)(1)(D)][/us/pl/112/239/s1033/b/1/D], amended par. (2) generally. Prior to amendment, par. (2) related to a Presidential report to Congress regarding resource shortfalls.
 
+    Subsec. (c)(1), (2)(A), (B)(ii). [Pub. L. 113–66][/us/pl/113/66] substituted “December 31, 2011” for “the date of the enactment of this Act”.
+
     Subsec. (d). [Pub. L. 112–239, § 1034][/us/pl/112/239/s1034], added subsec. (d).
 
  __Effective date of 2013 Amendment__ 
@@ -173,11 +173,33 @@
 
 > “The amendment made by paragraph (1)(D) \[amending this section\] shall take effect on October 1, 2012.”
 
+ __Implementation of New START Treaty__ 
+
+[Pub. L. 113–66, div. A, title X, § 1056(a)(2)][/us/pl/113/66/s1056/a/2], (3), (f), Dec. 26, 2013, [127 Stat. 862–864][/us/stat/127/862-864], provided that:
+
+>     “(a) __Implementation.—__ 
+
+>         “(2)  __Consolidated budget display__  __.—__ 
+
+>         The Secretary \[of Defense\] shall include with the defense budget materials for each fiscal year specified in paragraph (3) a consolidated budget justification display that individually covers each program and activity associated with the implementation of the New START Treaty for the period covered by the future-years defense program submitted under [section 221 of title 10][/us/usc/t10/s221], United States Code, at or about the time as such defense budget materials are submitted.
+
+>         “(3)  __Fiscal year specified__  __.—__ 
+
+>         A fiscal year specified in this paragraph is each fiscal year that occurs during the period beginning with fiscal year 2015 and ending on the date on which the New START Treaty is no longer in force.
+
+>     “(f)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1) The term ‘defense budget materials’ has the meaning given that term in [section 231(f) of title 10][/us/usc/t10/s231/f], United States Code.
+
+>         “(2) The term ‘New START Treaty’ means the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011.”
+
  __“Congressional Defense Committees” Defined__ 
 
     Congressional defense committees has the meaning given that term in [section 101(a)(16) of this title][/us/usc/t10/s101/a/16], see [section 3 of Pub. L. 112–81][/us/pl/112/81/s3], Dec. 31, 2011, [125 Stat. 1316][/us/stat/125/1316]. See also note under [section 101 of this title][/us/usc/t10/s101].
 
- __Delegation of Reporting Functions Specified in Section 1045 of the National Defense Authorization Act for Fiscal Year 2012, and Condition 9 of the Resolution of Advice and Consent to Ratification of the Treaty Between the United States of America and the Russian Federation on the Measures for the Further Reduction and Limitation of Strategic Offensive Arms (the “New Start Treaty”)__ 
+ __Delegation of Reporting Functions Specified in Section 1045 of the National Defense Authorization Act for Fiscal Year 2012, and Condition 9 of the Resolution of Advice and Consent to Ratification of the Treaty Between the United States of America and the Russian Federation on the Measures for the Further Reduction and Limitation of Strategic Offensive Arms (the “New START Treaty”)__ 
 
     Memorandum of President of the United States, Mar. 16, 2012, 77 F.R. 16649, provided:
 
@@ -204,9 +226,10 @@
 [/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/1920-1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1920-1922
+[/us/pl/113/66/s1091/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fa%2F7
+[/us/stat/127/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F875
 [/us/pl/111/84/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1251
 [/us/usc/t50/s2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2523
-[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/112/81/s1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1045
 [/us/stat/125/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1577
 [/us/pl/112/239/s1076/a/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F19
@@ -216,9 +239,14 @@
 [/us/pl/112/239/s1033/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1033%2Fb%2F1%2FA
 [/us/pl/112/239/s1033/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1033%2Fb%2F2%2FB
 [/us/pl/112/239/s1033/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1033%2Fb%2F1%2FD
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239/s1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1034
 [/us/pl/112/239/s1033/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1033%2Fb%2F4
 [/us/stat/126/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1922
+[/us/pl/113/66/s1056/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1056%2Fa%2F2
+[/us/stat/127/862-864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F862-864
+[/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
+[/us/usc/t10/s231/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs231%2Ff
 [/us/usc/t10/s101/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F16
 [/us/pl/112/81/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs3
 [/us/stat/125/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1316

@@ -125,7 +125,7 @@
 
  __References in Text__ 
 
-    Executive Order No. 12958, referred to in subsec. (c)(1)(B), which was formerly set out as a note under [section 435 of Title 50][/us/usc/t50/s435], War and National Defense, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731, and was reclassified as a note under [section 3161 of this title][/us/usc/t10/s3161].
+    Executive Order No. 12958, referred to in subsec. (c)(1)(B), which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
  __Prior Provisions__ 
 
@@ -152,8 +152,6 @@
 [/us/stat/117/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1607
 [/us/pl/109/163/s1054/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1054%2Fa
 [/us/stat/119/3436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3436
-[/us/usc/t50/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435
-[/us/usc/t10/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3161
 [/us/pl/100/180/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1121
 [/us/stat/101/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1147
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113

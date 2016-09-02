@@ -49,8 +49,6 @@
 
             (F) Any amounts that the Secretary concerned transfers to that Fund pursuant to [section 2869 of this title][/us/usc/t10/s2869].
 
-            (G) Subject to subsection (f), any amounts that the Secretary of Defense transfers to that Fund from amounts in the Department of Defense Base Closure Account 2005.
-
         (2)
 
          There shall be credited to the Department of Defense Military Unaccompanied Housing Improvement Fund the following:
@@ -66,8 +64,6 @@
             (E) Any amounts that the Secretary of the Navy transfers to that Fund pursuant to [section 2814(i)(3) of this title][/us/usc/t10/s2814/i/3], subject to the restrictions on the use of the transferred amounts specified in that section.
 
             (F) Any amounts that the Secretary concerned transfers to that Fund pursuant to [section 2869 of this title][/us/usc/t10/s2869].
-
-            (G) Subject to subsection (f), any amounts that the Secretary of Defense transfers to that Fund from amounts in the Department of Defense Base Closure Account 2005.
 
     (d)  __Use of Amounts in Funds__  __.—__ 
 
@@ -85,27 +81,9 @@
 
     (f)  __Notification Required for Transfers__  __.—__ 
 
-    A transfer of appropriated amounts to a Fund under subparagraph (B) or (G) of paragraph (1) or subparagraph (B) or (G) of paragraph (2) of subsection (c) may be made only after the end of the 30-day period beginning on the date the Secretary of Defense submits written notice of, and justification for, the transfer to the appropriate committees of Congress or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480]. In addition, the notice required in connection with a transfer under subparagraph (G) of paragraph (1) or subparagraph (G) of paragraph (2) shall include a certification that the amounts to be transferred from the Department of Defense Base Closure Account 2005 were specified in the conference report to accompany the most recent Military Construction Authorization Act.
+    A transfer of appropriated amounts to a Fund under subparagraph (B) of paragraph (1) or subparagraph (B) of paragraph (2) of subsection (c) may be made only after the end of the 30-day period beginning on the date the Secretary of Defense submits written notice of, and justification for, the transfer to the appropriate committees of Congress or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 
 (Added [Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1)][/us/pl/104/106/s2801/a/1], Feb. 10, 1996, [110 Stat. 548][/us/stat/110/548]; amended [Pub. L. 104–201, div. B, title XXVIII, § 2804][/us/pl/104/201/s2804], Sept. 23, 1996, [110 Stat. 2788][/us/stat/110/2788]; [Pub. L. 106–65, div. B, title XXVIII, § 2802(b)][/us/pl/106/65/s2802/b], Oct. 5, 1999, [113 Stat. 848][/us/stat/113/848]; [Pub. L. 108–136, div. A, title X, § 1031(a)(51)][/us/pl/108/136/s1031/a/51], div. B, title XXVIII, § 2805(c), Nov. 24, 2003, [117 Stat. 1603][/us/stat/117/1603], 1721; [Pub. L. 108–375, div. B, title XXVIII, § 2805(a)][/us/pl/108/375/s2805/a], Oct. 28, 2004, [118 Stat. 2122][/us/stat/118/2122]; [Pub. L. 109–163, div. B, title XXVIII, § 2806(a)][/us/pl/109/163/s2806/a], (b), Jan. 6, 2006, [119 Stat. 3507][/us/stat/119/3507]; [Pub. L. 110–181, div. B, title XXVII, § 2705][/us/pl/110/181/s2705], Jan. 28, 2008, [122 Stat. 533][/us/stat/122/533]; [Pub. L. 112–239, div. B, title XXVII, § 2711(c)(5)][/us/pl/112/239/s2711/c/5], Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144].)
-
- __Amendment of Section__ 
-
-    [Pub. L. 112–239, div. B, title XXVII, § 2711(c)(5)][/us/pl/112/239/s2711/c/5], (d), Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144], provided that, effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014, this section is amended:
-
-    (A) in subsection (c)—
-
-    (i) by striking subparagraph (G) of paragraph (1); and
-
-    (ii) by striking subparagraph (G) of paragraph (2); and
-
-    (B) in subsection (f)—
-
-    (i) in the first sentence, by striking “or (G)” both places it appears; and
-
-    (ii) by striking the second sentence.
-
-    See 2013 Amendment notes below.
 
  __Amendments__ 
 
@@ -145,7 +123,7 @@
 
  __Effective Date of 2013 Amendment__ 
 
-    Amendment by [section 2711 of Pub. L. 112–239][/us/pl/112/239/s2711] effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014, see [section 2711(d) of Pub. L. 112–239][/us/pl/112/239/s2711/d], set out as a note under [section 2701 of this title][/us/usc/t10/s2701].
+    Amendment by [Pub. L. 112–239][/us/pl/112/239] effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014 (div. J of [Pub. L. 113–76][/us/pl/113/76], approved Jan. 17, 2014), see [section 2711(d) of Pub. L. 112–239][/us/pl/112/239/s2711/d], set out as a note under [section 2701 of this title][/us/usc/t10/s2701].
 
 ----------
 
@@ -181,8 +159,6 @@
 [/us/stat/122/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F533
 [/us/pl/112/239/s2711/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711%2Fc%2F5
 [/us/stat/126/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2144
-[/us/pl/112/239/s2711/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711%2Fc%2F5
-[/us/stat/126/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2144
 [/us/pl/112/239/s2711/c/5/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711%2Fc%2F5%2FA%2Fi
 [/us/pl/112/239/s2711/c/5/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711%2Fc%2F5%2FA%2Fii
 [/us/pl/112/239/s2711/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711%2Fc%2F5%2FB
@@ -199,7 +175,8 @@
 [/us/pl/106/65/s2802/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2802%2Fb%2F1
 [/us/pl/106/65/s2802/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2802%2Fb%2F2
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/112/239/s2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/112/239/s2711/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711%2Fd
 [/us/usc/t10/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2701
 

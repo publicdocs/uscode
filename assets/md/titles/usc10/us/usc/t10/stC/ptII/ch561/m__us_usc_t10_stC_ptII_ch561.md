@@ -113,12 +113,6 @@
 
 </table>
 
- __Historical and Revision Notes__ 
-
- __1962 Amendment__ 
-
-    See explanation of section 111(b) \[set out as 1962 Amendment in Historical and Revision Notes under [section 2634 of this title][/us/usc/t10/s2634]\].
-
  __Amendments__ 
 
     2006—[Pub. L. 109–364, div. A, title X, § 1071(a)(32)][/us/pl/109/364/s1071/a/32], Oct. 17, 2006, [120 Stat. 2400][/us/stat/120/2400], substituted colon for semicolon in item 6154 and “Settlement of accounts: remission or cancellation of indebtedness of members” for “Remission of indebtedness of enlisted members discharge” in item 6161.
@@ -154,7 +148,6 @@
 ----------
 ----------
 
-[/us/usc/t10/s2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2634
 [/us/pl/109/364/s1071/a/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fa%2F32
 [/us/stat/120/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2400
 [/us/pl/109/163/s683/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs683%2Fb%2F2

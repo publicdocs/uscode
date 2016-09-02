@@ -27,7 +27,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2418 was renumbered [section 2419 of this title][/us/usc/t10/s2419].
+    A prior section 2418 was renumbered [section 2420 of this title][/us/usc/t10/s2420].
 
 ----------
 
@@ -41,6 +41,6 @@
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/stat/106/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2658
 [/us/usc/t10/s2500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2500
-[/us/usc/t10/s2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2419
+[/us/usc/t10/s2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2420
 
 

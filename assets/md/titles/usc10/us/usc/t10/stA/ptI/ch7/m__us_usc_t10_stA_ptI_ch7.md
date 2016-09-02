@@ -33,6 +33,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs171a" data-uslm-ref="/us/usc/t10/s171a">171a.</a>  </td>
+
+    <td> Council on Oversight of the National Leadership Command, Control, and Communications System.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs172" data-uslm-ref="/us/usc/t10/s172">172.</a>  </td>
 
     <td> Ammunition storage board.  </td>
@@ -167,11 +175,21 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs189" data-uslm-ref="/us/usc/t10/s189">189.</a>  </td>
+
+    <td> Communications Security Review and Advisory Board  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup>   </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–239, div. A, title X, § 1040(b)][/us/pl/112/239/s1040/b], Jan. 2, 2013, [126 Stat. 1930][/us/stat/126/1930], added item 188.
+    2013—[Pub. L. 113–66, div. A, title II, § 261(b)][/us/pl/113/66/s261/b], title X, § 1052(a)(2), Dec. 26, 2013, [127 Stat. 725][/us/stat/127/725], 861, added items 171a and 189.
+
+    [Pub. L. 112–239, div. A, title X, § 1040(b)][/us/pl/112/239/s1040/b], Jan. 2, 2013, [126 Stat. 1930][/us/stat/126/1930], added item 188.
 
     2008—[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(a)(3), Oct. 14, 2008, [122 Stat. 4612][/us/stat/122/4612], inserted period at end of item 183.
 
@@ -208,6 +226,8 @@
 ----------
 ----------
 
+[/us/pl/113/66/s261/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs261%2Fb
+[/us/stat/127/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F725
 [/us/pl/112/239/s1040/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1040%2Fb
 [/us/stat/126/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1930
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417

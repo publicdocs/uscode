@@ -107,7 +107,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs231" data-uslm-ref="/us/usc/t10/s231">231.</a>  </td>
 
-    <td> Budgeting for construction of naval vessels: annual plan and certification  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup>   </td>
+    <td> Budgeting for construction of naval vessels: annual plan and certification.  </td>
 
   </tr>
 
@@ -151,11 +151,29 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs236" data-uslm-ref="/us/usc/t10/s236">236.</a>  </td>
+
+    <td> Personal protection equipment procurement: display of budget information.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs237" data-uslm-ref="/us/usc/t10/s237">237.</a>  </td>
+
+    <td> Embedded mental health providers of the reserve components: display of budget information.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–239, div. A, title X][/us/pl/112/239], §§ 1076(f)(6), 1081(1)(B), Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952], 1960, transferred item 225 to appear after item 224 and struck out item 232 “United States Joint Forces Command: amounts for research, development, test, and evaluation to be derived only from Defense-wide amounts”.
+    2013—[Pub. L. 113–66, div. A, title I, § 141(b)][/us/pl/113/66/s141/b], title VII, § 721(b), title X, § 1091(a)(4), Dec. 26, 2013, [127 Stat. 697][/us/stat/127/697], 799, 875, added items 236 and 237 and inserted a period at end of item 231.
+
+    [Pub. L. 112–239, div. A, title X][/us/pl/112/239], §§ 1076(f)(6), 1081(1)(B), Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952], 1960, transferred item 225 to appear after item 224 and struck out item 232 “United States Joint Forces Command: amounts for research, development, test, and evaluation to be derived only from Defense-wide amounts”.
 
     2011—[Pub. L. 112–81, div. A, title X][/us/pl/112/81], §§ 1011(b), 1061(3)(B), 1064(4)(B)(ii), 1069(c), Dec. 31, 2011, [125 Stat. 1560][/us/stat/125/1560], 1583, 1587, 1592, struck out item 226 “Scoring of outlays”, added item 228 and struck out former item 228 “Quarterly reports on allocation of funds within operation and maintenance budget subactivities”, added item 231 and struck out former item 231 “Long-range plan for construction of naval vessels”, and amended item 231a generally. Prior to amendment, item 231a read as follows: “Budgeting for procurement of aircraft for the Navy and Air Force: annual plan and certification”.
 
@@ -198,6 +216,8 @@
 ----------
 ----------
 
+[/us/pl/113/66/s141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs141%2Fb
+[/us/stat/127/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F697
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1952
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81

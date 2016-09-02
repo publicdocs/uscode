@@ -925,7 +925,7 @@ Maiming.  </td>
 
     <td> 
 
-Sodomy.  </td>
+Forcible sodomy; bestiality.  </td>
 
   </tr>
 
@@ -1077,6 +1077,8 @@ General article.  </td>
 
  __Amendments__ 
 
+    2013—[Pub. L. 113–66, div. A, title XVII, § 1707(b)][/us/pl/113/66/s1707/b], Dec. 26, 2013, [127 Stat. 961][/us/stat/127/961], substituted “Forcible sodomy; bestiality” for “Sodomy” in item 925.
+
     2011—[Pub. L. 112–81, div. A, title V, § 541(e)][/us/pl/112/81/s541/e], Dec. 31, 2011, [125 Stat. 1410][/us/stat/125/1410], substituted “Rape and sexual assault generally” for “Rape, sexual assault, and other sexual misconduct” in item 920 and added items 920b and 920c.
 
     2006—[Pub. L. 109–163, div. A, title V, § 552(a)(2)][/us/pl/109/163/s552/a/2], Jan. 6, 2006, [119 Stat. 3262][/us/stat/119/3262], substituted “Rape, sexual assault, and other sexual misconduct” for “Rape and carnal knowledge” in item 920.
@@ -1104,6 +1106,8 @@ General article.  </td>
 ----------
 ----------
 
+[/us/pl/113/66/s1707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1707%2Fb
+[/us/stat/127/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F961
 [/us/pl/112/81/s541/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fe
 [/us/stat/125/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1410
 [/us/pl/109/163/s552/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs552%2Fa%2F2

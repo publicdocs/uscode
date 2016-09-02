@@ -135,11 +135,23 @@
 
         (4) provide for appropriate consideration of the conversion of activities identified under subsection (e)(3) within a reasonable period of time.
 
-    (g)  __Rule of Construction__  __.—__ 
+    (g)  __Inspector General Report__  __.—__ 
+
+    Not later than May 1 of each year, beginning with 2014 and ending with 2016, the Inspector General of the Department of Defense shall submit to the congressional defense committees a report containing the Inspector General’s assessment of—
+
+        (1) the efforts by the Department of Defense to compile the inventory pursuant to subsection (c); and
+
+        (2) the reviews conducted under subsection (e), including the actions taken to resolve the findings of the reviews in accordance with [section 2463 of this title][/us/usc/t10/s2463].
+
+    (h)  __Comptroller General Report__  __.—__ 
+
+    Not later than September 30 of each year, beginning with 2014 and ending with 2016, the Comptroller General of the United States shall submit to the congressional defense committees a report containing the Comptroller General’s assessment of the efforts by the Department of Defense to implement subsections (e) and (f).
+
+    (i)  __Rule of Construction__  __.—__ 
 
     Nothing in this section shall be construed to authorize the performance of personal services by a contractor except where expressly authorized by a provision of law other than this section.
 
-    (h)  __Definitions__  __.—__ 
+    (j)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -159,9 +171,11 @@
 
         The term “personal services contract” means a contract under which, as a result of its terms or conditions or the manner of its administration during performance, contractor personnel are subject to the relatively continuous supervision and control of one or more Government officers or employees, except that the giving of an order for a specific article or service, with the right to reject the finished product or result, is not the type of supervision or control that makes a contract a personal services contract.
 
-(Added [Pub. L. 107–107, div. A, title VIII, § 801(c)][/us/pl/107/107/s801/c], Dec. 28, 2001, [115 Stat. 1176][/us/stat/115/1176]; amended [Pub. L. 110–181, div. A, title VIII, § 807(a)][/us/pl/110/181/s807/a], Jan. 28, 2008, [122 Stat. 213][/us/stat/122/213]; [Pub. L. 111–84, div. A, title VIII, § 803(b)][/us/pl/111/84/s803/b], Oct. 28, 2009, [123 Stat. 2402][/us/stat/123/2402]; [Pub. L. 111–383, div. A, title III, § 321][/us/pl/111/383/s321], Jan. 7, 2011, [124 Stat. 4183][/us/stat/124/4183]; [Pub. L. 112–81, div. A, title IX, § 936][/us/pl/112/81/s936], Dec. 31, 2011, [125 Stat. 1545][/us/stat/125/1545].)
+(Added [Pub. L. 107–107, div. A, title VIII, § 801(c)][/us/pl/107/107/s801/c], Dec. 28, 2001, [115 Stat. 1176][/us/stat/115/1176]; amended [Pub. L. 110–181, div. A, title VIII, § 807(a)][/us/pl/110/181/s807/a], Jan. 28, 2008, [122 Stat. 213][/us/stat/122/213]; [Pub. L. 111–84, div. A, title VIII, § 803(b)][/us/pl/111/84/s803/b], Oct. 28, 2009, [123 Stat. 2402][/us/stat/123/2402]; [Pub. L. 111–383, div. A, title III, § 321][/us/pl/111/383/s321], Jan. 7, 2011, [124 Stat. 4183][/us/stat/124/4183]; [Pub. L. 112–81, div. A, title IX, § 936][/us/pl/112/81/s936], Dec. 31, 2011, [125 Stat. 1545][/us/stat/125/1545]; [Pub. L. 113–66, div. A, title IX, § 951(a)][/us/pl/113/66/s951/a], Dec. 26, 2013, [127 Stat. 839][/us/stat/127/839].)
 
  __Amendments__ 
+
+    2013—Subsecs. (g) to (j). [Pub. L. 113–66][/us/pl/113/66] added subsecs. (g) and (h) and redesignated former subsecs. (g) and (h) as (i) and (j), respectively.
 
     2011—Subsec. (c). [Pub. L. 111–383, § 321(2)][/us/pl/111/383/s321/2] to (4), substituted “The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:” for “The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:” in par. (1), added new subpars. (A) and (B) to par. (1), inserted par. (2) designation and introductory provisions before former subpars. (A) to (G) of par. (1) thereby making them part of par. (2), added subpar. (E), and struck out former subpar. (E) which read as follows: “The number of full-time contractor employees (or its equivalent) paid for the performance of the activity.”
 
@@ -219,6 +233,7 @@
 [/us/usc/t10/s2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2463
 [/us/usc/t10/s129a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs129a
 [/us/usc/t10/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs235
+[/us/usc/t10/s2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2463
 [/us/usc/t10/s2225/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2225%2Ff
 [/us/usc/t10/s2383/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2383%2Fb%2F3
 [/us/usc/t10/s2383/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2383%2Fb%2F2
@@ -232,6 +247,9 @@
 [/us/stat/124/4183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4183
 [/us/pl/112/81/s936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs936
 [/us/stat/125/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1545
+[/us/pl/113/66/s951/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs951%2Fa
+[/us/stat/127/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F839
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/383/s321/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs321%2F2
 [/us/pl/112/81/s936/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs936%2Fa%2F1
 [/us/pl/112/81/s936/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs936%2Fa%2F2

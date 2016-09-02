@@ -123,11 +123,11 @@
 
  __Multi-Trades Demonstration Project__ 
 
-[Pub. L. 108–136, div. A, title III, § 338][/us/pl/108/136/s338], Nov. 24, 2003, [117 Stat. 1447][/us/stat/117/1447], as amended by [Pub. L. 110–181, div. A, title III, § 329][/us/pl/110/181/s329], Jan. 28, 2008, [122 Stat. 67][/us/stat/122/67]; [Pub. L. 112–239, div. A, title III, § 321][/us/pl/112/239/s321], Jan. 2, 2013, [126 Stat. 1694][/us/stat/126/1694], provided that:
+[Pub. L. 108–136, div. A, title III, § 338][/us/pl/108/136/s338], Nov. 24, 2003, [117 Stat. 1447][/us/stat/117/1447], as amended by [Pub. L. 110–181, div. A, title III, § 329][/us/pl/110/181/s329], Jan. 28, 2008, [122 Stat. 67][/us/stat/122/67]; [Pub. L. 112–239, div. A, title III, § 321][/us/pl/112/239/s321], Jan. 2, 2013, [126 Stat. 1694][/us/stat/126/1694]; [Pub. L. 113–66, div. A, title X, § 1091(d)][/us/pl/113/66/s1091/d], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided that:
 
 >     “(a)  __Demonstration Project Authorized__  __.—__ 
 
->     In accordance with sub[section 4703 of title 5][/us/usc/t5/s4703], United States Code, the Secretary of a military department may carry out a demonstration project at facilities described in subsection (b) under which workers who are certified at the journey level as able to perform multiple trades shall be promoted by one grade level.
+>     In accordance with [section 4703 of title 5][/us/usc/t5/s4703], United States Code, the Secretary of a military department may carry out a demonstration project at facilities described in subsection (b) under which workers who are certified at the journey level as able to perform multiple trades shall be promoted by one grade level.
 
 >     “(b)  __Selection Requirements__  __.—__ 
 
@@ -235,6 +235,8 @@
 [/us/stat/122/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F67
 [/us/pl/112/239/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs321
 [/us/stat/126/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1694
+[/us/pl/113/66/s1091/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fd
+[/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
 [/us/usc/t5/s4703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4703
 [/us/pl/105/85/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1108
 [/us/stat/111/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1926

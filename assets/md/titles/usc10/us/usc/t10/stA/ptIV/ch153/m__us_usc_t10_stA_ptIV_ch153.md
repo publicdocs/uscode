@@ -181,6 +181,54 @@
 
     1958—[Pub. L. 85–861, § 1(50)][/us/pl/85/861/s1/50], Sept. 2, 1958, [72 Stat. 1459][/us/stat/72/1459], substituted “property” for “supplies” in item 2571.
 
+ __Identification and Replacement of Obsolete Electronic Parts__ 
+
+[Pub. L. 113–66, div. A, title VIII, § 803][/us/pl/113/66/s803], Dec. 26, 2013, [127 Stat. 805][/us/stat/127/805], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall implement a process for the expedited identification and replacement of obsolete electronic parts included in acquisition programs of the Department of Defense.
+
+>     “(b)  __Issues To Be Addressed__  __.—__ 
+
+>     At a minimum, the expedited process established pursuant to subsection (a) shall—
+
+>         “(1)
+
+>          include a mechanism pursuant to which contractors, or other sources of supply, may provide to appropriate Department of Defense officials information that identifies—
+
+>             “(A) obsolete electronic parts that are included in the specifications for an acquisition program of the Department of Defense; and
+
+>             “(B) suitable replacements for such electronic parts;
+
+>         “(2) specify timelines for the expedited review and validation of information submitted by contractors, or other sources of supply, pursuant to paragraph (1);
+
+>         “(3) specify procedures and timelines for the rapid submission and approval of engineering change proposals needed to accomplish the substitution of replacement parts that have been validated pursuant to paragraph (2);
+
+>         “(4) provide for any incentives for contractor participation in the expedited process that the Secretary may determine to be appropriate; and
+
+>         “(5) provide that, in addition to the responsibilities under [section 2337 of title 10][/us/usc/t10/s2337], United States Code, a product support manager for a major weapon system shall work to identify obsolete electronic parts that are included in the specifications for an aquisition program of the Department of Defense and approve suitable replacements for such electronic parts.
+
+>     “(c)  __Additional Matters__  __.—__ 
+
+>     For the purposes of this section—
+
+>         “(1)
+
+>          an electronic part is obsolete if—
+
+>             “(A) the part is no longer in production; and
+
+>             “(B) the original manufacturer of the part and its authorized dealers do not have sufficient parts in stock to meet the requirements of such an acquisition program; and
+
+>         “(2)
+
+>          an electronic part is a suitable replacement for an obsolete electronic part if—
+
+>             “(A) the part could be substituted for an obsolete part without incurring unreasonable expense and without degrading system performance; and
+
+>             “(B) the part is or will be available in sufficient quantity to meet the requirements of such an acquisition program.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch152/m__us_usc_t10_s2568.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch153/m__us_usc_t10_s2571.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch153)
@@ -222,5 +270,8 @@
 [/us/stat/82/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F851
 [/us/pl/85/861/s1/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F50
 [/us/stat/72/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1459
+[/us/pl/113/66/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs803
+[/us/stat/127/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F805
+[/us/usc/t10/s2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2337
 
 

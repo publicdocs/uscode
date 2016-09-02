@@ -215,7 +215,7 @@
 
  __Defense Economic Adjustment, Diversification, Conversion, and Stabilization__ 
 
-[Pub. L. 101–510, div. D][/us/pl/101/510], Nov. 5, 1990, [104 Stat. 1848][/us/stat/104/1848], as amended by [Pub. L. 102–190, div. A, title X, § 1062(c)][/us/pl/102/190/s1062/c], Dec. 5, 1991, [105 Stat. 1475][/us/stat/105/1475]; [Pub. L. 102–484, div. D, title XLII, § 4212(b)][/us/pl/102/484/s4212/b], Oct. 23, 1992, [106 Stat. 2664][/us/stat/106/2664]; [Pub. L. 104–201, div. A, title VIII, § 825][/us/pl/104/201/s825], Sept. 23, 1996, [110 Stat. 2611][/us/stat/110/2611]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(6)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–419; [Pub. L. 108–136, div. A, title IX, § 932][/us/pl/108/136/s932], Nov. 24, 2003, [117 Stat. 1581][/us/stat/117/1581], provided that:
+[Pub. L. 101–510, div. D][/us/pl/101/510], Nov. 5, 1990, [104 Stat. 1848][/us/stat/104/1848], as amended by [Pub. L. 102–190, div. A, title X, § 1062(c)][/us/pl/102/190/s1062/c], Dec. 5, 1991, [105 Stat. 1475][/us/stat/105/1475]; [Pub. L. 102–484, div. D, title XLII, § 4212(b)][/us/pl/102/484/s4212/b], Oct. 23, 1992, [106 Stat. 2664][/us/stat/106/2664]; [Pub. L. 104–201, div. A, title VIII, § 825][/us/pl/104/201/s825], Sept. 23, 1996, [110 Stat. 2611][/us/stat/110/2611]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(6)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–419; [Pub. L. 108–136, div. A, title IX, § 932][/us/pl/108/136/s932], Nov. 24, 2003, [117 Stat. 1581][/us/stat/117/1581]; [Pub. L. 113–66, div. B, title XXVIII, § 2841][/us/pl/113/66/s2841], Dec. 26, 2013, [127 Stat. 1024][/us/stat/127/1024], provided that:
 
 > “SEC. 4001. __SHORT TITLE__ 
 
@@ -321,19 +321,9 @@
 
 >     The Economic Adjustment Committee shall—
 
->         “(1) coordinate and facilitate cooperative efforts among Federal agencies represented on the Committee to implement defense economic adjustment programs;
+>         “(1) coordinate and facilitate cooperative efforts among Federal agencies represented on the Committee to implement defense economic adjustment programs; and
 
->         “(2) serve as an information clearinghouse for and between Federal, State, and local entities regarding their defense economic adjustment efforts; and
-
->         “(3)
-
->          submit to the President and Congress, not later than December 1, 1991, and each December 1 thereafter, a report that—
-
->             “(A) describes Federal economic adjustment programs available to communities, businesses, and groups of workers;
-
->             “(B) describes the implementation of defense economic adjustment assistance during the preceding fiscal year; and
-
->             “(C) specifies the number of communities, businesses, and workers affected by defense budget reductions during the preceding fiscal year and such number assisted by Federal economic adjustment programs during that fiscal year.
+>         “(2) serve as an information clearinghouse for and between Federal, State, and local entities regarding their defense economic adjustment efforts.
 
 > “TITLE XLI— __ECONOMIC ADJUSTMENT PLANNING__ 
 
@@ -722,6 +712,8 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/108/136/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs932
 [/us/stat/117/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1581
+[/us/pl/113/66/s2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2841
+[/us/stat/127/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1024
 [/us/usc/t10/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs111
 [/us/usc/t29/s1662d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1662d
 [/us/usc/t10/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs111

@@ -41,7 +41,7 @@
 
         (1) Notwithstanding any law regarding the licensure of attorneys, a judge advocate or civilian attorney who is authorized to provide military legal assistance is authorized to provide that assistance in any jurisdiction, subject to such regulations as may be prescribed by the Secretary concerned.
 
-        (2) Military legal assistance may be provided only by a judge advocate or a civilian attorney who is a member of the bar of a Federal court or of the highest court of a State.
+        (2) Military legal assistance may be provided only by a judge advocate or a civilian attorney who is a member of the bar of a Federal court or of the highest court of a State and, for purposes of service as a Special Victims’ Counsel under [section 1044e of this title][/us/usc/t10/s1044e], meets the additional qualifications specified in subsection (d)(2) of such section.. <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup> 
 
         (3)
 
@@ -49,15 +49,19 @@
 
             (A) legal assistance provided under this section; and
 
-            (B) legal assistance contemplated by sections 1044a, 1044b, 1044c, and 1044d of this title.
+            (B) legal assistance contemplated by sections 1044a, 1044b, 1044c, 1044d, 1044e, and 1565b(a)(1)(A) of this title.
 
     (e) The Secretary concerned shall define “dependent” for the purposes of this section.
 
-(Added [Pub. L. 98–525, title VI, § 651(a)][/us/pl/98/525/s651/a], Oct. 19, 1984, [98 Stat. 2549][/us/stat/98/2549]; amended [Pub. L. 104–201, div. A, title V, § 583][/us/pl/104/201/s583], Sept. 23, 1996, [110 Stat. 2538][/us/stat/110/2538]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 524(a), (b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–108; [Pub. L. 109–163, div. A, title V, § 555][/us/pl/109/163/s555], Jan. 6, 2006, [119 Stat. 3265][/us/stat/119/3265]; [Pub. L. 110–181, div. A, title V, § 541][/us/pl/110/181/s541], Jan. 28, 2008, [122 Stat. 114][/us/stat/122/114]; [Pub. L. 111–84, div. A, title V, § 513][/us/pl/111/84/s513], Oct. 28, 2009, [123 Stat. 2282][/us/stat/123/2282]; [Pub. L. 112–239, div. A, title V, § 531(d)(2)][/us/pl/112/239/s531/d/2], Jan. 2, 2013, [126 Stat. 1726][/us/stat/126/1726].)
+(Added [Pub. L. 98–525, title VI, § 651(a)][/us/pl/98/525/s651/a], Oct. 19, 1984, [98 Stat. 2549][/us/stat/98/2549]; amended [Pub. L. 104–201, div. A, title V, § 583][/us/pl/104/201/s583], Sept. 23, 1996, [110 Stat. 2538][/us/stat/110/2538]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 524(a), (b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–108; [Pub. L. 109–163, div. A, title V, § 555][/us/pl/109/163/s555], Jan. 6, 2006, [119 Stat. 3265][/us/stat/119/3265]; [Pub. L. 110–181, div. A, title V, § 541][/us/pl/110/181/s541], Jan. 28, 2008, [122 Stat. 114][/us/stat/122/114]; [Pub. L. 111–84, div. A, title V, § 513][/us/pl/111/84/s513], Oct. 28, 2009, [123 Stat. 2282][/us/stat/123/2282]; [Pub. L. 112–239, div. A, title V, § 531(d)(2)][/us/pl/112/239/s531/d/2], Jan. 2, 2013, [126 Stat. 1726][/us/stat/126/1726]; [Pub. L. 113–66, div. A, title XVII, § 1716(a)(3)(A)][/us/pl/113/66/s1716/a/3/A], (B), Dec. 26, 2013, [127 Stat. 969][/us/stat/127/969].)
 
  __Amendments__ 
 
     2013—Subsec. (b). [Pub. L. 112–239][/us/pl/112/239] inserted “, and within the Marine Corps the Staff Judge Advocate to the Commandant of the Marine Corps,” after “jurisdiction of the Secretary”.
+
+    2013—Subsec. (d)(2). [Pub. L. 113–66, § 1716(a)(3)(A)][/us/pl/113/66/s1716/a/3/A], inserted before period at end “and, for purposes of service as a Special Victims’ Counsel under [section 1044e of this title][/us/usc/t10/s1044e], meets the additional qualifications specified in subsection (d)(2) of such section.”
+
+    Subsec. (d)(3)(B). [Pub. L. 113–66, § 1716(a)(3)(B)][/us/pl/113/66/s1716/a/3/B], substituted “1044d, 1044e, and 1565b(a)(1)(A)” for “and 1044d”.
 
     2009—Subsec. (a)(4). [Pub. L. 111–84][/us/pl/111/84] substituted “the Secretary), for a period of time (prescribed by the Secretary)” for “the Secretary of Defense), for a period of time, prescribed by the Secretary of Defense,”.
 
@@ -95,6 +99,7 @@
 ----------
 
 [/us/usc/t10/s801/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801%2F1
+[/us/usc/t10/s1044e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044e
 [/us/pl/98/525/s651/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs651%2Fa
 [/us/stat/98/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2549
 [/us/pl/104/201/s583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs583
@@ -109,7 +114,12 @@
 [/us/stat/123/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2282
 [/us/pl/112/239/s531/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs531%2Fd%2F2
 [/us/stat/126/1726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1726
+[/us/pl/113/66/s1716/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1716%2Fa%2F3%2FA
+[/us/stat/127/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F969
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/66/s1716/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1716%2Fa%2F3%2FA
+[/us/usc/t10/s1044e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044e
+[/us/pl/113/66/s1716/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1716%2Fa%2F3%2FB
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163

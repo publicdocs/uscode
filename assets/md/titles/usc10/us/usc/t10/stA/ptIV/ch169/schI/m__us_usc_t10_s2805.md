@@ -37,11 +37,11 @@
 
          For the revitalization and recapitalization of laboratories owned by the United States and under the jurisdiction of the Secretary concerned, the Secretary concerned may obligate and expend—
 
-            (A) from appropriations available to the Secretary concerned for operation and maintenance, amounts necessary to carry out an unspecified minor military construction project costing not more than $2,000,000; or
+            (A) from appropriations available to the Secretary concerned for operation and maintenance, amounts necessary to carry out an unspecified minor military construction project costing not more than $4,000,000, notwithstanding subsection (c); or
 
             (B) from appropriations available to the Secretary concerned for military construction not otherwise authorized by law or from funds authorized to be made available under section 219(a) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 ([Public Law 110–417][/us/pl/110/417]; [10 U.S.C. 2358][/us/usc/t10/s2358] note), amounts necessary to carry out an unspecified minor military construction project costing not more than $4,000,000.
 
-        (2) For an unspecified minor military construction project conducted pursuant to this subsection, $2,000,000 shall be deemed to be the amount specified in subsection (b)(1) regarding when advance approval of the project by the Secretary concerned and congressional notification is required. The Secretary of Defense shall establish procedures for the review and approval of requests from the Secretary of a military department to carry out a construction project under this subsection.
+        (2) For purposes of this subsection, an unspecified minor military construction project is a military construction project that (notwithstanding subsection (a)) has an approved cost equal to or less than $4,000,000. The Secretary of Defense shall establish procedures for the review and approval of requests from the Secretary of a military department to carry out a construction project under this subsection.
 
         (3) Not later than February 1, 2014, the Secretary of Defense shall submit to the congressional defense committees a report on the use of the authority provided by this subsection. The report shall include a list and description of the construction projects carried out under this subsection, including the location and cost of each project.
 
@@ -53,15 +53,21 @@
 
             (B) a test and evaluation activity.
 
-        (5) The authority to carry out a project under this subsection expires on September 30, 2016.
+        (5) The authority to carry out a project under this subsection expires on September 30, 2018.
 
     (e)  __Prohibition on Use for New Housing Units__  __.—__ 
 
     Military family housing projects for construction of new housing units may not be carried out under the authority of this section.
 
-(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 155][/us/stat/96/155]; amended [Pub. L. 99–167, title VIII, § 809][/us/pl/99/167/s809], Dec. 3, 1985, [99 Stat. 989][/us/stat/99/989]; [Pub. L. 99–661, div. B, title VII, § 2702(a)][/us/pl/99/661/s2702/a], Nov. 14, 1986, [100 Stat. 4040][/us/stat/100/4040]; [Pub. L. 100–180, div. B][/us/pl/100/180], subdiv. 3, title I, § 2310, Dec. 4, 1987, [101 Stat. 1217][/us/stat/101/1217]; [Pub. L. 101–510, div. A, title XIII, § 1301(16)][/us/pl/101/510/s1301/16], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 102–190, div. B, title XXVIII][/us/pl/102/190], §§ 2807, 2870(4), Dec. 5, 1991, [105 Stat. 1540][/us/stat/105/1540], 1563; [Pub. L. 104–106, div. B, title XXVIII][/us/pl/104/106], §§ 2811(a), 2812, Feb. 10, 1996, [110 Stat. 552][/us/stat/110/552]; [Pub. L. 104–201, div. B, title XXVIII, § 2801(a)][/us/pl/104/201/s2801/a], Sept. 23, 1996, [110 Stat. 2787][/us/stat/110/2787]; [Pub. L. 105–85, div. B, title XXVIII, § 2801][/us/pl/105/85/s2801], Nov. 18, 1997, [111 Stat. 1989][/us/stat/111/1989]; [Pub. L. 107–107, div. B, title XXVIII, § 2801][/us/pl/107/107/s2801], Dec. 28, 2001, [115 Stat. 1305][/us/stat/115/1305]; [Pub. L. 108–136, div. A, title X, § 1031(a)(36)][/us/pl/108/136/s1031/a/36], Nov. 24, 2003, [117 Stat. 1600][/us/stat/117/1600]; [Pub. L. 110–181, div. B, title XXVIII][/us/pl/110/181], §§ 2803, 2804, Jan. 28, 2008, [122 Stat. 539][/us/stat/122/539]; [Pub. L. 111–84, div. B, title XXVIII, § 2801(a)(1)][/us/pl/111/84/s2801/a/1], (2), (b), Oct. 28, 2009, [123 Stat. 2660][/us/stat/123/2660]; [Pub. L. 112–81, div. B, title XXVIII, § 2802(a)][/us/pl/112/81/s2802/a], (b), Dec. 31, 2011, [125 Stat. 1684][/us/stat/125/1684].)
+(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 155][/us/stat/96/155]; amended [Pub. L. 99–167, title VIII, § 809][/us/pl/99/167/s809], Dec. 3, 1985, [99 Stat. 989][/us/stat/99/989]; [Pub. L. 99–661, div. B, title VII, § 2702(a)][/us/pl/99/661/s2702/a], Nov. 14, 1986, [100 Stat. 4040][/us/stat/100/4040]; [Pub. L. 100–180, div. B][/us/pl/100/180], subdiv. 3, title I, § 2310, Dec. 4, 1987, [101 Stat. 1217][/us/stat/101/1217]; [Pub. L. 101–510, div. A, title XIII, § 1301(16)][/us/pl/101/510/s1301/16], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 102–190, div. B, title XXVIII][/us/pl/102/190], §§ 2807, 2870(4), Dec. 5, 1991, [105 Stat. 1540][/us/stat/105/1540], 1563; [Pub. L. 104–106, div. B, title XXVIII][/us/pl/104/106], §§ 2811(a), 2812, Feb. 10, 1996, [110 Stat. 552][/us/stat/110/552]; [Pub. L. 104–201, div. B, title XXVIII, § 2801(a)][/us/pl/104/201/s2801/a], Sept. 23, 1996, [110 Stat. 2787][/us/stat/110/2787]; [Pub. L. 105–85, div. B, title XXVIII, § 2801][/us/pl/105/85/s2801], Nov. 18, 1997, [111 Stat. 1989][/us/stat/111/1989]; [Pub. L. 107–107, div. B, title XXVIII, § 2801][/us/pl/107/107/s2801], Dec. 28, 2001, [115 Stat. 1305][/us/stat/115/1305]; [Pub. L. 108–136, div. A, title X, § 1031(a)(36)][/us/pl/108/136/s1031/a/36], Nov. 24, 2003, [117 Stat. 1600][/us/stat/117/1600]; [Pub. L. 110–181, div. B, title XXVIII][/us/pl/110/181], §§ 2803, 2804, Jan. 28, 2008, [122 Stat. 539][/us/stat/122/539]; [Pub. L. 111–84, div. B, title XXVIII, § 2801(a)(1)][/us/pl/111/84/s2801/a/1], (2), (b), Oct. 28, 2009, [123 Stat. 2660][/us/stat/123/2660]; [Pub. L. 112–81, div. B, title XXVIII, § 2802(a)][/us/pl/112/81/s2802/a], (b), Dec. 31, 2011, [125 Stat. 1684][/us/stat/125/1684]; [Pub. L. 113–66, div. B, title XXVIII, § 2801(a)][/us/pl/113/66/s2801/a], Dec. 26, 2013, [127 Stat. 1006][/us/stat/127/1006].)
 
  __Amendments__ 
+
+    2013—Subsec. (d)(1)(A). [Pub. L. 113–66, § 2801(a)(1)][/us/pl/113/66/s2801/a/1], substituted “not more than $4,000,000, notwithstanding subsection (c)” for “not more than $2,000,000”.
+
+    Subsec. (d)(2). [Pub. L. 113–66, § 2801(a)(2)][/us/pl/113/66/s2801/a/2], substituted “For purposes of this subsection, an unspecified minor military construction project is a military construction project that (notwithstanding subsection (a)) has an approved cost equal to or less than $4,000,000.” for “For an unspecified minor military construction project conducted pursuant to this subsection, $2,000,000 shall be deemed to be the amount specified in subsection (b)(1) regarding when advance approval of the project by the Secretary concerned and congressional notification is required.”
+
+    Subsec. (d)(5). [Pub. L. 113–66, § 2801(a)(3)][/us/pl/113/66/s2801/a/3], substituted “2018” for “2016”.
 
     2011—Subsec. (c). [Pub. L. 112–81, § 2802(a)][/us/pl/112/81/s2802/a], substituted “The” for “(1) Except as provided in paragraph (2), the” and “not more than $750,000.” for “not more than—
 
@@ -148,6 +154,12 @@
  __Effective Date__ 
 
     For effective date and applicability of section, see [section 12(a) of Pub. L. 97–214][/us/pl/97/214/s12/a], set out as a note under [section 2801 of this title][/us/usc/t10/s2801].
+
+ __No Application to Current Projects__ 
+
+[Pub. L. 113–66, div. B, title XXVIII, § 2801(b)][/us/pl/113/66/s2801/b], Dec. 26, 2013, [127 Stat. 1006][/us/stat/127/1006], provided that: 
+
+> “The amendments made by subsection (a) \[amending this section\] do not apply to any laboratory revitalization project for which the design phase has been completed as of the date of the enactment of this Act \[Dec. 26, 2013\].”
 
  __Relation to Other Authorities__ 
 
@@ -249,6 +261,11 @@
 [/us/stat/123/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2660
 [/us/pl/112/81/s2802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2802%2Fa
 [/us/stat/125/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1684
+[/us/pl/113/66/s2801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2801%2Fa
+[/us/stat/127/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1006
+[/us/pl/113/66/s2801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2801%2Fa%2F1
+[/us/pl/113/66/s2801/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2801%2Fa%2F2
+[/us/pl/113/66/s2801/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2801%2Fa%2F3
 [/us/pl/112/81/s2802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2802%2Fa
 [/us/pl/112/81/s2802/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2802%2Fb%2F1
 [/us/pl/112/81/s2802/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2802%2Fb%2F2
@@ -292,6 +309,8 @@
 [/us/pl/99/167/s809/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167%2Fs809%2F2
 [/us/pl/97/214/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs12%2Fa
 [/us/usc/t10/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2801
+[/us/pl/113/66/s2801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2801%2Fb
+[/us/stat/127/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1006
 [/us/pl/108/136/s2808/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs2808%2Fe
 [/us/stat/117/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1724
 [/us/stat/117/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1723

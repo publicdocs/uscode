@@ -73,9 +73,7 @@
 
             (E) Subparagraph (B) does not apply in the case of an officer serving in a position designated under subparagraph (A) if the Secretary of Defense, when considering officers for assignment to fill the vacancy in that position which was filled by that officer, did not have a recommendation for that assignment from each Secretary of a military department who (pursuant to subparagraph (C)) was required to make such a recommendation.
 
-    \[(c) Repealed. [Pub. L. 107–314, div. A, title X, § 1041(a)(3)][/us/pl/107/314/s1041/a/3], Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645].\]
-
-    (d)  __Exclusion of Certain Reserve Officers__  __.—__ 
+    (c)  __Exclusion of Certain Reserve Officers__  __.—__ 
 
         (1) The limitations of this section do not apply to a reserve component general or flag officer who is on active duty for training or who is on active duty under a call or order specifying a period of less than 180 days.
 
@@ -83,25 +81,69 @@
 
         (3) The limitations of this section do not apply to a reserve component general or flag officer who is on active duty for a period in excess of 365 days but not to exceed three years, except that the number of such officers from each reserve component who are covered by this paragraph and not serving in a position that is a joint duty assignment for purposes of chapter 38 of this title may not exceed 5 per component, unless authorized by the Secretary of Defense.
 
-    (e)  __Exclusion of Certain Officers Pending Separation or Retirement or Between Senior Positions__  __.—__ 
+    (d)  __Exclusion of Certain Officers Pending Separation or Retirement or Between Senior Positions__  __.—__ 
 
     The limitations of this section do not apply to a general or flag officer who is covered by an exclusion under [section 525(e) of this title][/us/usc/t10/s525/e].
 
-    (f)  __Exclusion of Attending Physician to the Congress__  __.—__ 
+    (e)  __Exclusion of Attending Physician to the Congress__  __.—__ 
 
     The limitations of this section do not apply to the general or flag officer who is serving as Attending Physician to the Congress.
 
-    (g)  __Temporary Exclusion for Assignment to Certain Temporary Billets__  __.—__ 
+    (f)  __Temporary Exclusion for Assignment to Certain Temporary Billets__  __.—__ 
 
         (1) The limitations in subsection (a) and in [section 525(a) of this title][/us/usc/t10/s525/a] do not apply to a general or flag officer assigned to a temporary joint duty assignment designated by the Secretary of Defense.
 
         (2) A general or flag officer assigned to a temporary joint duty assignment as described in paragraph (1) may not be excluded under this subsection from the limitations in subsection (a) for a period of longer than one year.
 
-    (h)  __Exclusion of Officers Departing From Joint Duty Assignments__  __.—__ 
+    (g)  __Exclusion of Officers Departing From Joint Duty Assignments__  __.—__ 
 
     The limitations in subsection (a) do not apply to an officer released from a joint duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty assignment. The Secretary of Defense may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, except that not more than three officers on active duty from each armed force may be covered by an extension under this sentence at the same time.
 
-(Added [Pub. L. 100–370, § 1(b)(1)(B)][/us/pl/100/370/s1/b/1/B], July 19, 1988, [102 Stat. 840][/us/stat/102/840]; amended [Pub. L. 101–510, div. A, title IV, § 403(a)][/us/pl/101/510/s403/a], Nov. 5, 1990, [104 Stat. 1545][/us/stat/104/1545]; [Pub. L. 102–484, div. A, title IV, § 403][/us/pl/102/484/s403], Oct. 23, 1992, [106 Stat. 2398][/us/stat/106/2398]; [Pub. L. 103–337, div. A, title IV, § 404][/us/pl/103/337/s404], title V, § 512, Oct. 5, 1994, [108 Stat. 2744][/us/stat/108/2744], 2752; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106], §§ 1502(a)(1), 1503(a)(3), Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502], 510; [Pub. L. 104–201, div. A, title IV, § 405][/us/pl/104/201/s405], Sept. 23, 1996, [110 Stat. 2506][/us/stat/110/2506]; [Pub. L. 105–261, div. A, title IV, § 405][/us/pl/105/261/s405], Oct. 17, 1998, [112 Stat. 1996][/us/stat/112/1996]; [Pub. L. 106–65, div. A, title V, § 553][/us/pl/106/65/s553], title X, § 1067(1), Oct. 5, 1999, [113 Stat. 615][/us/stat/113/615], 774; [Pub. L. 107–314, div. A, title IV, § 405(c)][/us/pl/107/314/s405/c], title X, § 1041(a)(3), Dec. 2, 2002, [116 Stat. 2526][/us/stat/116/2526], 2645; [Pub. L. 108–136, div. A, title V, § 504(c)][/us/pl/108/136/s504/c], Nov. 24, 2003, [117 Stat. 1457][/us/stat/117/1457]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163], §§ 503(b), 510, 515(b)(1)(C), Jan. 6, 2006, [119 Stat. 3226][/us/stat/119/3226], 3231, 3233; [Pub. L. 109–364, div. A, title V, § 507(c)][/us/pl/109/364/s507/c], Oct. 17, 2006, [120 Stat. 2180][/us/stat/120/2180]; [Pub. L. 110–181, div. A, title V, § 502][/us/pl/110/181/s502], title XVIII, § 1824(c), Jan. 28, 2008, [122 Stat. 95][/us/stat/122/95], 501; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, §§ 503(a)–(c), 525, Oct. 14, 2008, [122 Stat. 4433][/us/stat/122/4433], 4448; [Pub. L. 111–84, div. A, title V, § 502(e)][/us/pl/111/84/s502/e]–(g), Oct. 28, 2009, [123 Stat. 2275][/us/stat/123/2275], 2276; [Pub. L. 112–81, div. A, title V, § 502(b)(1)][/us/pl/112/81/s502/b/1], (c)(1), Dec. 31, 2011, [125 Stat. 1387][/us/stat/125/1387]; [Pub. L. 112–239, div. A, title V, § 501(a)][/us/pl/112/239/s501/a], Jan. 2, 2013, [126 Stat. 1714][/us/stat/126/1714].)
+    (h) __Active-duty Baseline.—__ 
+
+        (1)  __Notice and wait requirement__  __.—__ 
+
+        If the Secretary of a military department proposes an action that would increase above the baseline the number of general officers or flag officers of an armed force under the jurisdiction of that Secretary who would be on active duty and would count against the statutory limit applicable to that armed force under subsection (a), the action shall not take effect until after the end of the 60-calendar day period beginning on the date on which the Secretary provides notice of the proposed action, including the rationale for the action, to the Committees on Armed Services of the House of Representatives and the Senate.
+
+        (2)  __Baseline defined__  __.—__ 
+
+        For purposes of paragraph (1), the term “baseline” for an armed force means the lower of—
+
+            (A) the statutory limit of general officers or flag officers of that armed force under subsection (a); or
+
+            (B) the actual number of general officers or flag officers of that armed force who, as of January 1, 2014, counted toward the statutory limit of general officers or flag officers of that armed force under subsection (a).
+
+        (3)  __Limitation__  __.—__ 
+
+        If, at any time, the actual number of general officers or flag officers of an armed force who count toward the statutory limit of general officers or flag officers of that armed force under subsection (a) exceeds such statutory limit, then no increase described in paragraph (1) for that armed force may occur until the general officer or flag officer total for that armed force is reduced below such statutory limit.
+
+    (i) __Joint Duty Assignment Baseline.—__ 
+
+        (1)  __Notice and wait requirement__  __.—__ 
+
+        If the Secretary of Defense, the Secretary of a military department, or the Chairman of the Joint Chiefs of Staff proposes an action that would increase above the baseline the number of general officers and flag officers of the armed forces in joint duty assignments who count against the statutory limit under subsection (b)(1), the action shall not take effect until after the end of the 60-calendar day period beginning on the date on which the Secretary or Chairman, as the case may be, provides notice of the proposed action, including the rationale for the action, to the Committees on Armed Services of the House of Representatives and the Senate.
+
+        (2)  __Baseline defined__  __.—__ 
+
+        For purposes of paragraph (1), the term “baseline” means the lower of—
+
+            (A) the statutory limit on general officer and flag officer positions that are joint duty assignments under subsection (b)(1); or
+
+            (B) the actual number of general officers and flag officers who, as of January 1, 2014, were in joint duty assignments counted toward the statutory limit under subsection (b)(1).
+
+        (3)  __Limitation__  __.—__ 
+
+        If, at any time, the actual number of general officers and flag officers in joint duty assignments counted toward the statutory limit under subsection (b)(1) exceeds such statutory limit, then no increase described in paragraph (1) may occur until the number of general officers and flag officers in joint duty assignments is reduced below such statutory limit.
+
+    (j)  __Annual Report on General Officer and Flag Officer Numbers__  __.—__ 
+
+    Not later than March 1, 2015, and each March 1 thereafter, the Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report specifying—
+
+        (1) the numbers of general officers and flag officers who, as of January 1 of the calendar year in which the report is submitted, counted toward the service-specific limits of subsection (a); and
+
+        (2) the number of general officers and flag officers in joint duty assignments who, as of such January 1, counted toward the statutory limit under subsection (b)(1).
+
+(Added [Pub. L. 100–370, § 1(b)(1)(B)][/us/pl/100/370/s1/b/1/B], July 19, 1988, [102 Stat. 840][/us/stat/102/840]; amended [Pub. L. 101–510, div. A, title IV, § 403(a)][/us/pl/101/510/s403/a], Nov. 5, 1990, [104 Stat. 1545][/us/stat/104/1545]; [Pub. L. 102–484, div. A, title IV, § 403][/us/pl/102/484/s403], Oct. 23, 1992, [106 Stat. 2398][/us/stat/106/2398]; [Pub. L. 103–337, div. A, title IV, § 404][/us/pl/103/337/s404], title V, § 512, Oct. 5, 1994, [108 Stat. 2744][/us/stat/108/2744], 2752; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106], §§ 1502(a)(1), 1503(a)(3), Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502], 510; [Pub. L. 104–201, div. A, title IV, § 405][/us/pl/104/201/s405], Sept. 23, 1996, [110 Stat. 2506][/us/stat/110/2506]; [Pub. L. 105–261, div. A, title IV, § 405][/us/pl/105/261/s405], Oct. 17, 1998, [112 Stat. 1996][/us/stat/112/1996]; [Pub. L. 106–65, div. A, title V, § 553][/us/pl/106/65/s553], title X, § 1067(1), Oct. 5, 1999, [113 Stat. 615][/us/stat/113/615], 774; [Pub. L. 107–314, div. A, title IV, § 405(c)][/us/pl/107/314/s405/c], title X, § 1041(a)(3), Dec. 2, 2002, [116 Stat. 2526][/us/stat/116/2526], 2645; [Pub. L. 108–136, div. A, title V, § 504(c)][/us/pl/108/136/s504/c], Nov. 24, 2003, [117 Stat. 1457][/us/stat/117/1457]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163], §§ 503(b), 510, 515(b)(1)(C), Jan. 6, 2006, [119 Stat. 3226][/us/stat/119/3226], 3231, 3233; [Pub. L. 109–364, div. A, title V, § 507(c)][/us/pl/109/364/s507/c], Oct. 17, 2006, [120 Stat. 2180][/us/stat/120/2180]; [Pub. L. 110–181, div. A, title V, § 502][/us/pl/110/181/s502], title XVIII, § 1824(c), Jan. 28, 2008, [122 Stat. 95][/us/stat/122/95], 501; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, §§ 503(a)–(c), 525, Oct. 14, 2008, [122 Stat. 4433][/us/stat/122/4433], 4448; [Pub. L. 111–84, div. A, title V, § 502(e)][/us/pl/111/84/s502/e]–(g), Oct. 28, 2009, [123 Stat. 2275][/us/stat/123/2275], 2276; [Pub. L. 112–81, div. A, title V, § 502(b)(1)][/us/pl/112/81/s502/b/1], (c)(1), Dec. 31, 2011, [125 Stat. 1387][/us/stat/125/1387]; [Pub. L. 112–239, div. A, title V, § 501(a)][/us/pl/112/239/s501/a], Jan. 2, 2013, [126 Stat. 1714][/us/stat/126/1714]; [Pub. L. 113–66, div. A, title V, § 501(a)][/us/pl/113/66/s501/a], (b)(2), Dec. 26, 2013, [127 Stat. 748][/us/stat/127/748], 749.)
 
  __Historical and Revision Notes__ 
 
@@ -116,6 +158,12 @@
  __Amendments__ 
 
     2013—Subsec. (a)(2). [Pub. L. 112–239][/us/pl/112/239] substituted “162” for “160”.
+
+    Subsecs. (c) to (g). [Pub. L. 113–66, § 501(a)(1)][/us/pl/113/66/s501/a/1], redesignated subsecs. (d) to (h) as (c) to (g), respectively.
+
+    Subsecs. (h), (i). [Pub. L. 113–66, § 501(a)(2)][/us/pl/113/66/s501/a/2], added subsecs. (h) and (i). Former subsec. (h) redesignated (g).
+
+    Subsec. (j). [Pub. L. 113–66, § 501(b)(2)][/us/pl/113/66/s501/b/2], added subsec. (j).
 
     2011—Subsec. (a)(1). [Pub. L. 112–81, § 502(b)(1)(A)(i)][/us/pl/112/81/s502/b/1/A/i], substituted “231” for “230”.
 
@@ -213,6 +261,12 @@
 
     1990—[Pub. L. 101–510][/us/pl/101/510] amended section generally. Prior to amendment, text read as follows: “The total number of general officers on active duty in the Army, Air Force, and Marine Corps and flag officers on active duty in the Navy may not exceed 1,073.”
 
+ __Effective Date of 2013 Amendment__ 
+
+[Pub. L. 113–66, div. A, title V, § 501(c)][/us/pl/113/66/s501/c], Dec. 26, 2013, [127 Stat. 749][/us/stat/127/749], provided that: 
+
+> “The amendments made by this is section \[amending this section\] shall take effect on January 1, 2014.”
+
  __Effective Date of 2011 Amendment__ 
 
     Amendment by [section 502(b)(1) of Pub. L. 112–81][/us/pl/112/81/s502/b/1] effective Oct. 1, 2013, except amendment by section 502(b)(1)(A)(iv) effective Oct. 1, 2012, see [section 502(b)(3) of Pub. L. 112–81][/us/pl/112/81/s502/b/3], as amended, set out as a note under [section 525 of this title][/us/usc/t10/s525].
@@ -245,8 +299,6 @@
 ----------
 
 [/us/usc/t10/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs525
-[/us/pl/107/314/s1041/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1041%2Fa%2F3
-[/us/stat/116/2645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2645
 [/us/usc/t10/s12004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12004
 [/us/usc/t10/s525/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs525%2Fe
 [/us/usc/t10/s525/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs525%2Fa
@@ -284,6 +336,8 @@
 [/us/stat/125/1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1387
 [/us/pl/112/239/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs501%2Fa
 [/us/stat/126/1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1714
+[/us/pl/113/66/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs501%2Fa
+[/us/stat/127/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F748
 [/us/pl/95/79/s811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2Fs811%2Fa
 [/us/stat/91/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F335
 [/us/pl/96/107/s817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs817
@@ -298,6 +352,9 @@
 [/us/usc/t10/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs527
 [/us/usc/t10/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs527
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/66/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs501%2Fa%2F1
+[/us/pl/113/66/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs501%2Fa%2F2
+[/us/pl/113/66/s501/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs501%2Fb%2F2
 [/us/pl/112/81/s502/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs502%2Fb%2F1%2FA%2Fi
 [/us/pl/112/81/s502/b/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs502%2Fb%2F1%2FA%2Fiii
 [/us/pl/112/81/s502/b/1/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs502%2Fb%2F1%2FA%2Fiv
@@ -337,6 +394,8 @@
 [/us/pl/102/484/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs403%2Fb
 [/us/pl/102/484/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs403%2Fa
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/113/66/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs501%2Fc
+[/us/stat/127/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F749
 [/us/pl/112/81/s502/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs502%2Fb%2F1
 [/us/pl/112/81/s502/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs502%2Fb%2F3
 [/us/usc/t10/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs525

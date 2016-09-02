@@ -59,7 +59,7 @@
 
  __Prioritization of Funds for Equipment Readiness and Strategic Capability__ 
 
-[Pub. L. 109–364, div. A, title III, § 323][/us/pl/109/364/s323], Oct. 17, 2006, [120 Stat. 2146][/us/stat/120/2146], as amended by [Pub. L. 110–181, div. A, title III, § 353][/us/pl/110/181/s353], Jan. 28, 2008, [122 Stat. 72][/us/stat/122/72]; [Pub. L. 111–383, div. A, title III, § 332(a)][/us/pl/111/383/s332/a]–(f), Jan. 7, 2011, [124 Stat. 4185][/us/stat/124/4185], 4187, provided that:
+[Pub. L. 109–364, div. A, title III, § 323][/us/pl/109/364/s323], Oct. 17, 2006, [120 Stat. 2146][/us/stat/120/2146], as amended by [Pub. L. 110–181, div. A, title III, § 353][/us/pl/110/181/s353], Jan. 28, 2008, [122 Stat. 72][/us/stat/122/72]; [Pub. L. 111–383, div. A, title III, § 332(a)][/us/pl/111/383/s332/a]–(f), Jan. 7, 2011, [124 Stat. 4185][/us/stat/124/4185], 4187; [Pub. L. 113–66, div. A, title III, § 332][/us/pl/113/66/s332], Dec. 26, 2013, [127 Stat. 739][/us/stat/127/739], provided that:
 
 >     “(a)  __Prioritization of Funds__  __.—__ 
 
@@ -67,13 +67,7 @@
 
 >         “(1) the Secretary of each military department to meet the requirements of that military department for that fiscal year for the repair, recapitalization, and replacement of equipment used in overseas contingency operations; and
 
->         “(2)
-
->          the Secretary of the Army to meet the requirements of the Army for that fiscal year, in addition to the requirements under paragraph (1), for—
-
->             “(A) the fulfillment of the equipment requirements of modular units in accordance with the Modular Force Initiative report submitted to Congress in March 2006; and
-
->             “(B) the reconstitution of equipment and materiel in prepositioned stocks in accordance with requirements under the Army Prepositioned Stocks Strategy 2015 or a subsequent strategy implemented under the guidelines in [section 2229 of title 10][/us/usc/t10/s2229], United States Code.
+>         “(2) the Secretary of the Army to meet the requirements of the Army, and the Secretary of the Navy to meet the requirements of the Marine Corps, for that fiscal year, in addition to the requirements under paragraph (1), for the reconstitution of equipment and materiel in prepositioned stocks in accordance with requirements under the policy or strategy implemented under the guidelines in [section 2229 of title 10][/us/usc/t10/s2229], United States Code.
 
 >     “(b) __Submission of Budget Information.—__ 
 
@@ -93,73 +87,11 @@
 
 >             “(A) each of the military departments for the repair, recapitalization, or replacement of equipment used in overseas contingency operations; and
 
->             “(B)
+>             “(B) the Army and the Marine Corps for the reconstitution of equipment and materiel in prepositioned stocks.
 
->              the Army for—
+>     “(c)  __Contingency Operation Defined__  __.—__ 
 
->                 “(i) the fulfillment of the equipment requirements of modular units; and
-
->                 “(ii) the reconstitution of equipment and materiel in prepositioned stocks.
-
->     “(c)  __Annual Report on Army Progress__  __.—__ 
-
->         (1) On the date on which the President submits to Congress the budget for a fiscal year under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, the Secretary of the Army shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth the progress of the Army in fulfilling the key enabler equipment requirements of modular units and in repairing, recapitalizing, and replacing equipment and materiel used in support of overseas contingency operations underway as of the date of such report, and associated sustainment. Any information included in the report shall be itemized by active duty component and reserve component.
-
->         “(2)
-
->          Each such report shall include the following:
-
->             “(A)
-
->              An assessment of the key enabler equipment and personnel of the Army, including—
-
->                 “(i)
-
->                  a comparison of—
-
->                     “(I) the authorized level of key enabler equipment;
-
->                     “(II) the level of key enabler equipment on hand; and
-
->                     “(III) the planned purchases of key enabler equipment as set forth in the future-years defense program submitted with the budget for such fiscal year;
-
->                 “(ii) a comparison of the authorized and actual personnel levels for personnel with key enabler personnel specialities \[sic\] with the requirements for key enabler personnel specialties;
-
->                 “(iii) an identification of any shortfalls indicated by the comparisons in clauses (i) and (ii); and
-
->                 “(iv) an assessment of the number and type of key enabler equipment that the Army projects it will have on hand by the end of such future-years defense program that will require repair, recapitalization, or replacement at or before the end of the time period covered by such future-years defense program (which assessment shall account for additional repair, recapitalization, or replacement resulting from use of key enabler equipment in overseas contingency operations).
-
->             “(B) If an assessment under subparagraph (A) identifies shortfalls that will exist within the period covered by the future-years defense program submitted in such fiscal year, an identification of the risks associated with such shortfalls and mitigation strategies to address such risks.
-
->             “(C) A schedule for the accomplishment of the purposes set forth in paragraph (1).
-
->             “(D) The results of Army assessments of modular force capabilities, including lessons learned from existing modular units and any modifications that have been made to modularity.
-
->             “(E) A description of the status of the development of doctrine on how modular combat, functional, and support forces will train, be sustained, and fight.
-
->             “(F) The comments of the Chief of the National Guard Bureau and the Chief of the Army Reserve on each of the items described in subparagraphs (A) through (E).
-
->     “(d)  __Annual Comptroller General Report on Army Progress__  __.—__ 
-
->     Not later than 180 days after the date on which the Secretary of the Army submits a report under subsection (c), the Comptroller General of the United States shall submit to the congressional defense committees a report setting forth the Comptroller General’s review of such report. Each report under this subsection shall include such information and recommendations as the Comptroller General considers appropriate in light of such review.
-
->     “(e)  __Definitions__  __.—__ 
-
->     In this section:
-
->         “(1) The term ‘contingency operation’ has the meaning given that term in [section 101(a)(13) of title 10][/us/usc/t10/s101/a/13], United States Code.
-
->         “(2)
-
->          The term ‘key enabler’, in the case of equipment or personnel, means equipment or personnel, as the case may be, that make a modular force or unit as capable or more capable than the non-modular force or unit it replaced, including the following:
-
->             “(A) Equipment such as tactical and high frequency radio, tactical wheeled vehicles, battle command systems, unmanned aerial vehicles, all-source analysis systems, analysis and control elements, fire support sensor systems, firefinder radar, joint network nodes, long-range advanced scout surveillance systems, Trojan Spirit systems (or any successor system), and any other equipment items identified by the Army as making a modular force or unit as capable or more capable than the non-modular force or unit it replaced.
-
->             “(B) Personnel in specialties needed to operate or support the equipment specified in subparagraph (A) and personnel in specialties relating to civil affairs, communication and information systems operation, explosive ordinance disposal, military intelligence, psychological operations, and any other personnel specialties identified by the Army as making a modular force or unit as capable or more capable than the non-modular force or unit it replaced.
-
->     “(f)  __Termination of Report Requirements__  __.—__ 
-
->     The requirement for the submission of a report under subsection (c) or (d) shall terminate on the date of the submission of the report required to be submitted under that subsection to accompany or follow the President’s budget submission for fiscal year 2015.”
+>     In this section, the term ‘contingency operation’ has the meaning given that term in [section 101(a)(13) of title 10][/us/usc/t10/s101/a/13], United States Code.”
 
  __Quarterly Detailed Accounting for Operations Conducted as Part of the Global War on Terrorism__ 
 
@@ -186,8 +118,9 @@
 [/us/stat/122/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F72
 [/us/pl/111/383/s332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs332%2Fa
 [/us/stat/124/4185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4185
+[/us/pl/113/66/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs332
+[/us/stat/127/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F739
 [/us/usc/t10/s2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2229
-[/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
 [/us/pl/108/375/s1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1041
 [/us/stat/118/2048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2048

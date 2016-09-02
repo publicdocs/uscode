@@ -105,7 +105,7 @@
 
              For the purposes of this paragraph, preliminary planning with respect to a public-private competition shall be conducted in accordance with guidance and procedures that shall be issued and maintained by the Under Secretary of Defense for Personnel and Readiness and shall begin on the date on which a component of the Department of Defense first obligates funds specifically for the acquisition of contract support for the preliminary planning effort, or formally assigns Department of Defense personnel, to carry out any of the following activities:
 
-                (i) Determining the scope of the a  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  public-private competition.
+                (i) Determining the scope of the public-private competition.
 
                 (ii) Conducting research to determine the appropriate grouping of functions for the competition.
 
@@ -183,7 +183,7 @@
 
     The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
 
-(Added [Pub. L. 100–370, § 2(a)(1)][/us/pl/100/370/s2/a/1], July 19, 1988, [102 Stat. 851][/us/stat/102/851]; amended [Pub. L. 101–189, div. A, title XI, § 1132][/us/pl/101/189/s1132], Nov. 29, 1989, [103 Stat. 1561][/us/stat/103/1561]; [Pub. L. 104–106, div. D, title XLIII, § 4321(b)(19)][/us/pl/104/106/s4321/b/19], Feb. 10, 1996, [110 Stat. 673][/us/stat/110/673]; [Pub. L. 105–85, div. A, title III, § 384][/us/pl/105/85/s384], Nov. 18, 1997, [111 Stat. 1711][/us/stat/111/1711]; [Pub. L. 105–261, div. A, title III, § 342(a)][/us/pl/105/261/s342/a]–(c), Oct. 17, 1998, [112 Stat. 1974–1976][/us/stat/112/1974-1976]; [Pub. L. 106–65, div. A, title III, § 341][/us/pl/106/65/s341], Oct. 5, 1999, [113 Stat. 568][/us/stat/113/568]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, §§ 351, 352\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–71, 1654A–72; [Pub. L. 107–107, div. A, title III, § 344][/us/pl/107/107/s344], Dec. 28, 2001, [115 Stat. 1061][/us/stat/115/1061]; [Pub. L. 107–314, div. A, title III, § 331][/us/pl/107/314/s331], Dec. 2, 2002, [116 Stat. 2512][/us/stat/116/2512]; [Pub. L. 109–163, div. A, title III, § 341(a)][/us/pl/109/163/s341/a], (b), (c)(2), (3), (g)(1)–(2)(B), Jan. 6, 2006, [119 Stat. 3195][/us/stat/119/3195], 3196, 3199, 3200; [Pub. L. 110–181, div. A, title III][/us/pl/110/181], §§ 322(a), (b)(2), (c), 323, Jan. 28, 2008, [122 Stat. 58–60][/us/stat/122/58-60]; [Pub. L. 111–84, div. A, title III][/us/pl/111/84], §§ 321(a), 322(a), title X, § 1073(a)(25), Oct. 28, 2009, [123 Stat. 2250][/us/stat/123/2250], 2251, 2474; [Pub. L. 111–350, § 5(b)(34)][/us/pl/111/350/s5/b/34], Jan. 4, 2011, [124 Stat. 3845][/us/stat/124/3845]; [Pub. L. 112–81, div. A, title IX, § 937][/us/pl/112/81/s937], Dec. 31, 2011, [125 Stat. 1546][/us/stat/125/1546]; [Pub. L. 112–239, div. A, title X, § 1076(f)(28)][/us/pl/112/239/s1076/f/28], Jan. 2, 2013, [126 Stat. 1953][/us/stat/126/1953].)
+(Added [Pub. L. 100–370, § 2(a)(1)][/us/pl/100/370/s2/a/1], July 19, 1988, [102 Stat. 851][/us/stat/102/851]; amended [Pub. L. 101–189, div. A, title XI, § 1132][/us/pl/101/189/s1132], Nov. 29, 1989, [103 Stat. 1561][/us/stat/103/1561]; [Pub. L. 104–106, div. D, title XLIII, § 4321(b)(19)][/us/pl/104/106/s4321/b/19], Feb. 10, 1996, [110 Stat. 673][/us/stat/110/673]; [Pub. L. 105–85, div. A, title III, § 384][/us/pl/105/85/s384], Nov. 18, 1997, [111 Stat. 1711][/us/stat/111/1711]; [Pub. L. 105–261, div. A, title III, § 342(a)][/us/pl/105/261/s342/a]–(c), Oct. 17, 1998, [112 Stat. 1974–1976][/us/stat/112/1974-1976]; [Pub. L. 106–65, div. A, title III, § 341][/us/pl/106/65/s341], Oct. 5, 1999, [113 Stat. 568][/us/stat/113/568]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, §§ 351, 352\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–71, 1654A–72; [Pub. L. 107–107, div. A, title III, § 344][/us/pl/107/107/s344], Dec. 28, 2001, [115 Stat. 1061][/us/stat/115/1061]; [Pub. L. 107–314, div. A, title III, § 331][/us/pl/107/314/s331], Dec. 2, 2002, [116 Stat. 2512][/us/stat/116/2512]; [Pub. L. 109–163, div. A, title III, § 341(a)][/us/pl/109/163/s341/a], (b), (c)(2), (3), (g)(1)–(2)(B), Jan. 6, 2006, [119 Stat. 3195][/us/stat/119/3195], 3196, 3199, 3200; [Pub. L. 110–181, div. A, title III][/us/pl/110/181], §§ 322(a), (b)(2), (c), 323, Jan. 28, 2008, [122 Stat. 58–60][/us/stat/122/58-60]; [Pub. L. 111–84, div. A, title III][/us/pl/111/84], §§ 321(a), 322(a), title X, § 1073(a)(25), Oct. 28, 2009, [123 Stat. 2250][/us/stat/123/2250], 2251, 2474; [Pub. L. 111–350, § 5(b)(34)][/us/pl/111/350/s5/b/34], Jan. 4, 2011, [124 Stat. 3845][/us/stat/124/3845]; [Pub. L. 112–81, div. A, title IX, § 937][/us/pl/112/81/s937], Dec. 31, 2011, [125 Stat. 1546][/us/stat/125/1546]; [Pub. L. 112–239, div. A, title X, § 1076(f)(28)][/us/pl/112/239/s1076/f/28], Jan. 2, 2013, [126 Stat. 1953][/us/stat/126/1953]; [Pub. L. 113–66, div. A, title X, § 1091(a)(11)][/us/pl/113/66/s1091/a/11], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876].)
 
  __Historical and Revision Notes__ 
 
@@ -191,7 +191,9 @@
 
  __Amendments__ 
 
-    2013—Subsec. (d)(2). [Pub. L. 112–239][/us/pl/112/239] substituted “such section” for “that Act”.
+    2013—Subsec. (a)(5)(E)(i). [Pub. L. 113–66][/us/pl/113/66] struck out “a” before “public-private competition”.
+
+    Subsec. (d)(2). [Pub. L. 112–239][/us/pl/112/239] substituted “such section” for “that Act”.
 
     2011—Subsec. (a)(5)(E). [Pub. L. 112–81, § 937(1)(A)][/us/pl/112/81/s937/1/A]–(E), in introductory provisions, substituted “competition shall be conducted in accordance with guidance and procedures that shall be issued and maintained by the Under Secretary of Defense for Personnel and Readiness and shall begin on the date on which a component of the Department of Defense first obligates funds specifically for the acquisition of contract support for the preliminary planning effort” for “competition, begins on the date on which the Department of Defense obligates funds for the acquisition of contract support”.
 
@@ -824,6 +826,8 @@
 [/us/stat/125/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1546
 [/us/pl/112/239/s1076/f/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F28
 [/us/stat/126/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1953
+[/us/pl/113/66/s1091/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fa%2F11
+[/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
 [/us/pl/96/342/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs502
 [/us/stat/94/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1086
 [/us/pl/97/252/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1112%2Fa
@@ -832,6 +836,7 @@
 [/us/stat/99/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F734
 [/us/pl/99/661/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1221
 [/us/stat/100/3976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3976
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81/s937/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs937%2F1%2FA
 [/us/pl/112/81/s937/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs937%2F1%2FF
