@@ -109,6 +109,14 @@
 
             (ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 1.11 percent.
 
+        (D)
+
+         Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in [section 906(d) of this title][/us/usc/t2/s906/d], the sequestration order of the President under such subparagraph for fiscal year 2024 shall be applied to such payments so that—
+
+            (i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 4.0 percent; and
+
+            (ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 0.0 percent.
+
     (7) __Adjustment for Medicare__ 
 
         If the percentage reduction for the Medicare programs would exceed 2 percent for a fiscal year in the absence of paragraph (6), OMB shall increase the reduction for all other discretionary appropriations and direct spending under paragraph (4) by a uniform percentage to a level sufficient to achieve the reduction required by paragraph (4) in the non-defense function.
@@ -127,7 +135,7 @@
 
         (B) Paragraph (5)(B) shall not be implemented for fiscal years 2014 and 2015.
 
-([Pub. L. 99–177, title II, § 251A][/us/pl/99/177/s251A], as added [Pub. L. 112–25, title III, § 302(a)][/us/pl/112/25/s302/a], Aug. 2, 2011, [125 Stat. 256][/us/stat/125/256]; amended [Pub. L. 112–240, title IX, § 901(a)][/us/pl/112/240/s901/a], (c), Jan. 2, 2013, [126 Stat. 2370][/us/stat/126/2370]; [Pub. L. 113–67, div. A, title I, § 101(b)][/us/pl/113/67/s101/b], (c), (d)(2), div. B, title II, § 1205, Dec. 26, 2013, [127 Stat. 1167][/us/stat/127/1167], 1168, 1200; [Pub. L. 113–82, § 1][/us/pl/113/82/s1], Feb. 15, 2014, [128 Stat. 1009][/us/stat/128/1009].)
+([Pub. L. 99–177, title II, § 251A][/us/pl/99/177/s251A], as added [Pub. L. 112–25, title III, § 302(a)][/us/pl/112/25/s302/a], Aug. 2, 2011, [125 Stat. 256][/us/stat/125/256]; amended [Pub. L. 112–240, title IX, § 901(a)][/us/pl/112/240/s901/a], (c), Jan. 2, 2013, [126 Stat. 2370][/us/stat/126/2370]; [Pub. L. 113–67, div. A, title I, § 101(b)][/us/pl/113/67/s101/b], (c), (d)(2), div. B, title II, § 1205, Dec. 26, 2013, [127 Stat. 1167][/us/stat/127/1167], 1168, 1200; [Pub. L. 113–82, § 1][/us/pl/113/82/s1], Feb. 15, 2014, [128 Stat. 1009][/us/stat/128/1009]; [Pub. L. 113–93, title II, § 222][/us/pl/113/93/s222], Apr. 1, 2014, [128 Stat. 1077][/us/stat/128/1077].)
 
  __References in Text__ 
 
@@ -142,6 +150,8 @@
  __Amendments__ 
 
     2014—Par. (6)(B). [Pub. L. 113–82][/us/pl/113/82] substituted “, for fiscal year 2023, and for fiscal year 2024” for “and for fiscal year 2023”.
+
+    Par. (6)(D). [Pub. L. 113–93][/us/pl/113/93] added subpar. (D).
 
     2013—[Pub. L. 113–67, § 101(d)(2)(A)][/us/pl/113/67/s101/d/2/A], in introductory provisions substituted “Discretionary appropriations and direct spending accounts shall be reduced in accordance with this section as follows:” for “Unless a joint committee bill achieving an amount greater than $1,200,000,000,000 in deficit reduction as provided in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011 is enacted by January 15, 2012, the discretionary spending limits listed in [section 901(c) of this title][/us/usc/t2/s901/c] shall be revised, and discretionary appropriations and direct spending shall be reduced, as follows:”.
 
@@ -229,6 +239,7 @@
 [/us/usc/t2/s906/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906%2Fd
 [/us/usc/t2/s904/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs904%2Fc
 [/us/usc/t2/s906/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906%2Fd
+[/us/usc/t2/s906/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906%2Fd
 [/us/usc/t2/s906/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906%2Fk
 [/us/usc/t2/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901%2Fc
 [/us/pl/99/177/s251A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs251A
@@ -240,6 +251,8 @@
 [/us/stat/127/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1167
 [/us/pl/113/82/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F82%2Fs1
 [/us/stat/128/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1009
+[/us/pl/113/93/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs222
+[/us/stat/128/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1077
 [/us/pl/112/25/s401/b/3/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs401%2Fb%2F3%2FB%2Fi%2FII
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
@@ -250,6 +263,7 @@
 [/us/pl/105/33/s10204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10204%2Fa%2F1
 [/us/stat/111/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F702
 [/us/pl/113/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F82
+[/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
 [/us/pl/113/67/s101/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs101%2Fd%2F2%2FA
 [/us/usc/t2/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901%2Fc
 [/us/pl/113/67/s101/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs101%2Fd%2F2%2FB
