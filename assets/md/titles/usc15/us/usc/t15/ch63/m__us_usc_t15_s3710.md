@@ -297,6 +297,10 @@
 
     Subsec. (g). [Pub. L. 99–502, § 5][/us/pl/99/502/s5], added subsec. (g).
 
+ __Transfer of Functions__ 
+
+    Functions which the Director of the National Institute on Disability and Rehabilitation Research exercised before July 22, 2014 (including all related functions of any officer or employee of the National Institute on Disability and Rehabilitation Research), transferred to the National Institute on Disability, Independent Living, and Rehabilitation Research, see subsection (n) of [section 3515e of Title 42][/us/usc/t42/s3515e], The Public Health and Welfare.
+
  __Ex. Ord. No. 12591. Facilitating Access to Science and Technology__ 
 
     Ex. Ord. No. 12591, Apr. 10, 1987, 52 F.R. 13414, as amended by Ex. Ord. No. 12618, Dec. 22, 1987, 52 F.R. 48661, provided:
@@ -446,6 +450,7 @@
 [/us/pl/99/502/s4/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs4%2Fc%2F5
 [/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/pl/99/502/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs5
+[/us/usc/t42/s3515e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3515e
 [/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
