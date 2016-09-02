@@ -69,8 +69,6 @@
 
  __References in Text__ 
 
-    The bankruptcy laws of the United States, referred to in subsec. (g)(2), are generally classified to Title 11, Bankruptcy.
-
     [Section 12108 of title 46][/us/usc/t46/s12108], referred to in subsec. (h)(1), was in the original “[section 1 of the Act of August 26, 1983][/us/act/1983-08-26/s1] ([97 Stat. 587][/us/stat/97/587]; [46 U.S.C. 12108][/us/usc/t46/s12108])”, and was translated to reflect the probable intent of Congress. Section 1 of act Aug. 26, 1983, [Pub. L. 98–89][/us/pl/98/89], [97 Stat. 500][/us/stat/97/500], enacted Title 46, Shipping. [Section 12108 of Title 46][/us/usc/t46/s12108] was subsequently omitted, and its provisions restated, in the general amendment of chapter 121 of Title 46 by [Pub. L. 109–304, § 5][/us/pl/109/304/s5], Oct. 6, 2006, [120 Stat. 1491][/us/stat/120/1491]. See sections 12102, 12113, and 12116 of Title 46 and Prior Provisions note under [section 12107 of Title 46][/us/usc/t46/s12107].
 
     Sections 1374(h)(1), 1374(h)(2), and 1416(a) of this title, referred to in subsec. (h)(2), (3), were in the original references to sections 104(h)(1), 104(h)(2), and 306(a) of the Marine Mammal Protection Act, and were translated as meaning sections 104(h)(1), 104(h)(2), and 306(a), respectively, of the Marine Mammal Protection Act of 1972, [Pub. L. 92–522][/us/pl/92/522], to reflect the probable intent of Congress.

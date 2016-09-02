@@ -2349,6 +2349,14 @@ Hellsgate Wilderness, Tonto National Forest, Arizona.—Pub. L. 98–406, title 
 
     <td> 
 
+Hemingway-Boulders Wilderness, Sawtooth and Challis National Forests, Idaho.—Pub. L. 114–46, title I, § 101(a), Aug. 7, 2015, 129 Stat. 477.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
 Henry M. Jackson Wilderness, Wenatchee and Mount Baker-Snoqualmie National Forests, Washington.—Pub. L. 98–339, § 3(8), July 3, 1984, 98 Stat. 300.  </td>
 
   </tr>
@@ -2662,6 +2670,14 @@ Jedediah Smith Wilderness, Targhee National Forest, Wyoming.—Pub. L. 98–550,
     <td> 
 
 Jennie Lakes Wilderness, Sequoia National Forest, California.—Pub. L. 98–425, title I, § 101(a)(39), Sept. 28, 1984, 98 Stat. 1624.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Jim McClure-Jerry Peak Wilderness, Challis National Forest and Challis District of the Bureau of Land Management, Idaho.—Pub. L. 114–46, title I, § 101(c), Aug. 7, 2015, 129 Stat. 477.  </td>
 
   </tr>
 
@@ -5389,7 +5405,7 @@ Steens Mountain Wilderness, Steens Mountain Cooperative Management and Protectio
 
     <td> 
 
-Stephen Mather Wilderness, North Cascades National Park, Ross Lake National Recreation Area, and Lake Chelan National Recreation Area, Washington.—Pub. L. 100–668, title II, § 201, Nov. 16, 1988, 102 Stat. 3963; Pub. L. 113–291, div. B, title XXX, § 3040, Dec. 19, 2014, 128 Stat. 3788.  </td>
+Stephen Mather Wilderness, North Cascades National Park, Ross Lake National Recreation Area, and Lake Chelan National Recreation Area, Washington.—Pub. L. 100–668, title II, §§ 201, 209, Nov. 16, 1988, 102 Stat. 3963; Pub. L. 113–291, div. B, title XXX, § 3040, Dec. 19, 2014, 128 Stat. 3788.  </td>
 
   </tr>
 
@@ -5997,6 +6013,14 @@ White Canyon Wilderness, Pinal County, Arizona.—Pub. L. 101–628, title I, §
 
     <td> 
 
+White Clouds Wilderness, Sawtooth and Challis National Forests, Idaho.—Pub. L. 114–46, title I, § 101(b), Aug. 7, 2015, 129 Stat. 477.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
 White Mountain Wilderness, Lincoln National Forest, New Mexico.—Pub. L. 88–577, § 3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 96–550, title I, § 102(a)(11), Dec. 19, 1980, 94 Stat. 3222.  </td>
 
   </tr>
@@ -6021,7 +6045,7 @@ White Pine Range Wilderness, Western White Pine County, Nevada.—Pub. L. 109–
 
     <td> 
 
-White Rock Range Wilderness, of Bureau of Land Management, Nevada.–Pub. L. 108–424, title II, § 203(a)(9), Nov. 30, 2004, 118 Stat. 2408.  </td>
+White Rock Range Wilderness, of Bureau of Land Management, Nevada.—Pub. L. 108–424, title II, § 203(a)(9), Nov. 30, 2004, 118 Stat. 2408.  </td>
 
   </tr>
 
@@ -6125,7 +6149,7 @@ Woolsey Peak Wilderness, Maricopa County, Arizona.—Pub. L. 101–628, title I,
 
     <td> 
 
-Worthington Mountains Wilderness, of Bureau of Land Management, Nevada.–Pub. L. 108–424, title II, § 203(a)(6), Nov. 30, 2004, 118 Stat. 2407.  </td>
+Worthington Mountains Wilderness, of Bureau of Land Management, Nevada.—Pub. L. 108–424, title II, § 203(a)(6), Nov. 30, 2004, 118 Stat. 2407.  </td>
 
   </tr>
 

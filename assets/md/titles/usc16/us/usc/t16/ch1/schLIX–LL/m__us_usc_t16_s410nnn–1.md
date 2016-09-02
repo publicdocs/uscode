@@ -69,7 +69,7 @@
 
 >     “(a) In order to preserve and commemorate for the benefit and enjoyment of present and future generations an area of unique historical significance as one of only two important battles of the Mexican War fought on American soil, the Secretary \[of the Interior\] is authorized to establish the Palo Alto Battlefield National Historic Site \[now Palo Alto Battlefield National Historical Park\] in the State of Texas.
 
->     “(b) For the purposes of this section, the Secretary is authorized to acquire by donation, purchase, or exchange, not to exceed fifty acres of lands and interests therein, comprising the initial unit, in the vicinity of the site of the battle of Palo Alto, at the junction of Farm Roads 1847 and 511, 6.3 miles north of Brownsville, Texas. The Secretary shall complete a study and recommend to the Congress such additions as are required to fully protect the historic integrity of the battlefield by June 30, 1979. The Secretary shall establish the historic site by publication of a notice to that effect in the Federal Register at such time as he determines that sufficient property to constitute an administrable unit has been acquired. Pending such establishment and thereafter, the Secretary shall administer the property acquired pursuant to this section in accordance with this section and provisions of law generally applicable to units of the National Park System, including the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]) \[[act Aug. 25, 1916, ch. 408][/us/act/1916-08-25/ch408], see Tables for classification\] and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]) \[see [54 U.S.C. 320101][/us/usc/t54/s320101] et seq.\].
+>     “(b) For the purposes of this section, the Secretary is authorized to acquire by donation, purchase, or exchange, not to exceed fifty acres of lands and interests therein, comprising the initial unit, in the vicinity of the site of the battle of Palo Alto, at the junction of Farm Roads 1847 and 511, 6.3 miles north of Brownsville, Texas. The Secretary shall complete a study and recommend to the Congress such additions as are required to fully protect the historic integrity of the battlefield by June 30, 1979. The Secretary shall establish the historic site by publication of a notice to that effect in the Federal Register at such time as he determines that sufficient property to constitute an administrable unit has been acquired. Pending such establishment and thereafter, the Secretary shall administer the property acquired pursuant to this section in accordance with this section and provisions of law generally applicable to units of the National Park System, including the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]) \[see [18 U.S.C. 1865(a)][/us/usc/t18/s1865/a], [54 U.S.C. 100101(a)][/us/usc/t54/s100101/a], 100301 et seq., 100751(a), 100752, 100753, 102101\] and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]) \[see [18 U.S.C. 1866(a)][/us/usc/t18/s1866/a], [54 U.S.C. 102303][/us/usc/t54/s102303], 102304, 320101 et seq.\].
 
 >     “(c) There are authorized to be appropriated such sums as may be necessary for lands and interests in lands and $200,000 for development to carry out the provisions of this section.”
 
@@ -95,8 +95,10 @@
 [/us/pl/95/625/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs506
 [/us/stat/92/3500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3500
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
+[/us/usc/t18/s1865/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1865%2Fa
+[/us/usc/t54/s100101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101%2Fa
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
-[/us/usc/t54/s320101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320101
+[/us/usc/t18/s1866/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1866%2Fa
+[/us/usc/t54/s102303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs102303
 
 

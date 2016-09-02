@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act May 15, 1896, ch. 182, § 2][/us/act/1896-05-15/ch182/s2], [29 Stat. 121][/us/stat/29/121]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501], related to camps for military instruction; regulations for militia. See [section 103302 of Title 54][/us/usc/t54/s103302], National Park Service and Related Programs.
+    Section, [act May 15, 1896, ch. 182, § 2][/us/act/1896-05-15/ch182/s2], [29 Stat. 121][/us/stat/29/121]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501], related to camps for military instruction; regulations for militia. Section was restated as [section 103302 of Title 54][/us/usc/t54/s103302], National Park Service and Related Programs, by [Pub. L. 113–287, § 3][/us/pl/113/287/s3], Dec. 19, 2014, [128 Stat. 3165][/us/stat/128/3165].
 
 ----------
 
@@ -31,5 +31,7 @@
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/usc/t54/s103302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs103302
+[/us/pl/113/287/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs3
+[/us/stat/128/3165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3165
 
 

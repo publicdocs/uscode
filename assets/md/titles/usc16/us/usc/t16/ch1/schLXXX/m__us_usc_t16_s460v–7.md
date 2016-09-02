@@ -15,13 +15,13 @@
 
 ## § 460v–7. Availability of land and water conservation fund moneys
 
-    Funds hereafter appropriated and available for the acquisition of lands and waters and interests therein in the national forest system pursuant to [section 200306 of title 54][/us/usc/t54/s200306], shall be available for the acquisition of any lands, waters, and interests therein within the boundaries of the recreation area.
+    Funds hereafter appropriated and available for the acquisition of lands and waters and interests therein in the national forest system pursuant to [section 200306 of title 54][/us/usc/t54/s200306] shall be available for the acquisition of any lands, waters, and interests therein within the boundaries of the recreation area.
 
 ([Pub. L. 90–540, § 8][/us/pl/90/540/s8], Oct. 1, 1968, [82 Stat. 905][/us/stat/82/905]; [Pub. L. 113–287, § 5(d)(2)][/us/pl/113/287/s5/d/2], Dec. 19, 2014, [128 Stat. 3264][/us/stat/128/3264].)
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–287][/us/pl/113/287] substituted “[section 200306 of title 54][/us/usc/t54/s200306]” for “section 460l–9 of this title”.
+    2014—[Pub. L. 113–287][/us/pl/113/287] substituted “[section 200306 of title 54][/us/usc/t54/s200306]” for “section 460l–9 of this title,”.
 
 ----------
 

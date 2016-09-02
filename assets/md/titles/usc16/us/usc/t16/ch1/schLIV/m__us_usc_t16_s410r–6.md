@@ -127,7 +127,7 @@
 
  __Codification__ 
 
-    In subsec. (b), “[section 100506(c) of title 54][/us/usc/t54/s100506/c]” substituted for “section 7(c) of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–4 and following)” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (b), “[section 100506(c) of title 54][/us/usc/t54/s100506/c]” substituted for “section 7(c) of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 4601–4][/us/usc/t16/s4601–4] \[sic\] and following)” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
     In subsec. (d), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([63 Stat. 377][/us/stat/63/377])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
@@ -150,7 +150,7 @@
 [/us/pl/108/483/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F483%2Fs1
 [/us/stat/118/3919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3919
 [/us/usc/t54/s100506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506%2Fc
-[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/usc/t16/s4601–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4601%E2%80%934
 [/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/stat/63/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F377

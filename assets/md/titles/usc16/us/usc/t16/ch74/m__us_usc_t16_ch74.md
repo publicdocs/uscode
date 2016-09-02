@@ -27,7 +27,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5401" data-uslm-ref="/us/usc/t16/s5401">5401</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5409" data-uslm-ref="/us/usc/t16/s5409">5409.</a>  </td>
 
-    <td> Repealed or Omitted.  </td>
+    <td> Omitted or Repealed.  </td>
 
   </tr>
 

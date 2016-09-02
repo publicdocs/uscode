@@ -17,6 +17,10 @@
 
     Section, [Pub. L. 87–608][/us/pl/87/608], Aug. 24, 1962, [76 Stat. 405][/us/stat/76/405], related to maintenance and repair of Government improvements under concession contracts.
 
+ __Codification__ 
+
+    Section was classified to section 303c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062].
+
 ----------
 
 [Previous](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s3a.md) | [Next](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s4.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3b)
@@ -28,5 +32,7 @@
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/87/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F608
 [/us/stat/76/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F405
+[/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
+[/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 
 

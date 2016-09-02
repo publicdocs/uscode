@@ -17,11 +17,11 @@
 
     (a) __Secretary of the Interior to encourage States, political subdivisions, and private interests; financial assistance for State and local projects__ 
 
-        The Secretary of the Interior is directed to encourage States to consider, in their comprehensive statewide outdoor recreation plans and proposals for financial assistance for State and local projects submitted pursuant to chapter 2003 of title 54, needs and opportunities for establishing park, forest, and other recreation and historic trails on lands owned or administered by States, and recreation and historic trails on lands in or near urban areas. The Secretary is also directed to encourage States to consider, in their comprehensive statewide historic preservation plans and proposals for financial assistance for State, local, and private projects submitted pursuant to division A of subtitle III of title 54, needs and opportunities for establishing historic trails. He is further directed, in accordance with the authority contained in chapter 2003 of title 54, to encourage States, political subdivisions, and private interests, including nonprofit organizations, to establish such trails.
+        The Secretary of the Interior is directed to encourage States to consider, in their comprehensive statewide outdoor recreation plans and proposals for financial assistance for State and local projects submitted pursuant to chapter 2003 of title 54, needs and opportunities for establishing park, forest, and other recreation and historic trails on lands owned or administered by States, and recreation and historic trails on lands in or near urban areas. The Secretary is also directed to encourage States to consider, in their comprehensive statewide historic preservation plans and proposals for financial assistance for State, local, and private projects submitted pursuant to division A of subtitle III of title 54, needs and opportunities for establishing historic trails. He is further directed, in accordance with the authority contained in chapter 2003 of title 54), <sup>\[1\]</sup>  <sup><sup> 1 So in original. The closing parenthesis preceding the comma probably should not appear. See 2014 Amendment note below. </sup></sup>  to encourage States, political subdivisions, and private interests, including nonprofit organizations, to establish such trails.
 
     (b) __Secretary of Housing and Urban Development to encourage metropolitan and other urban areas; administrative and financial assistance in connection with recreation and transportation planning; administration of urban open-space program__ 
 
-        The Secretary of Housing and Urban Development is directed, in administering the program of comprehensive urban planning and assistance under section 701  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Housing Act of 1954, to encourage the planning of recreation trails in connection with the recreation and transportation planning for metropolitan and other urban areas. He is further directed, in administering the urban open-space program under title VII of the Housing Act of 1961 \[[42 U.S.C. 1500][/us/usc/t42/s1500] et seq.\], to encourage such recreation trails.
+        The Secretary of Housing and Urban Development is directed, in administering the program of comprehensive urban planning and assistance under section 701  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of the Housing Act of 1954, to encourage the planning of recreation trails in connection with the recreation and transportation planning for metropolitan and other urban areas. He is further directed, in administering the urban open-space program under title VII of the Housing Act of 1961 \[[42 U.S.C. 1500][/us/usc/t42/s1500] et seq.\], to encourage such recreation trails.
 
     (c) __Secretary of Agriculture to encourage States, local agencies, and private interests__ 
 
@@ -47,9 +47,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–287, § 5(d)(24)(C)][/us/pl/113/287/s5/d/24/C], which directed substitution of “chapter 2003 of title 54” for “the Act of May 28, 1963 ([77 Stat. 49][/us/stat/77/49]”, was executed by making the substitution for “the Act of May 28, 1963 ([77 Stat. 49][/us/stat/77/49])” to reflect the probable intent of Congress.
-
-    [Pub. L. 113–287, § 5(d)(24)(A)][/us/pl/113/287/s5/d/24/A], (B), substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act” and “division A of subtitle III of title 54” for “the Act of October 15, 1966 ([80 Stat. 915][/us/stat/80/915]), as amended”.
+    2014—Subsec. (a). [Pub. L. 113–287][/us/pl/113/287] substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act”, “division A of subtitle III of title 54” for “the Act of October 15, 1966 ([80 Stat. 915][/us/stat/80/915]), as amended”, and “chapter 2003 of title 54” for “the Act of May 28, 1963 ([77 Stat. 49][/us/stat/77/49]”.
 
     1995—Subsec. (d). [Pub. L. 104–88][/us/pl/104/88] substituted “Chairman of the Surface Transportation Board” for “Chairman of the Interstate Commerce Commission” and “the Board” for “the Commission”.
 
@@ -89,11 +87,9 @@
 [/us/pl/94/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F210
 [/us/stat/90/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F31
 [/us/usc/t45/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs801
-[/us/pl/113/287/s5/d/24/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F24%2FC
-[/us/stat/77/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F49
-[/us/stat/77/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F49
-[/us/pl/113/287/s5/d/24/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F24%2FA
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
+[/us/stat/77/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F49
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/98/11/s208/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs208%2F2
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625

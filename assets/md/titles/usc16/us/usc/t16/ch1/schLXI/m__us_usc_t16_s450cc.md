@@ -21,7 +21,7 @@
 
  __Preservation and Administration of Castle Clinton National Monument__ 
 
-    Study by New York City National Shrines Advisory Board concerning preservation and administration of Castle Clinton National Monument, see [act Aug. 11, 1955, ch. 779][/us/act/1955-08-11/ch779], [69 Stat. 632][/us/stat/69/632], set out in a note under [section 102303 of Title 54][/us/usc/t54/s102303], National Park Service and Related Programs.
+    Study by New York City National Shrines Advisory Board concerning preservation and administration of Castle Clinton National Monument, see [act Aug. 11, 1955, ch. 779][/us/act/1955-08-11/ch779], §§ 1, 2, [69 Stat. 632][/us/stat/69/632], which is classified as a note under [section 102303 of Title 54][/us/usc/t54/s102303], National Park Service and Related Programs.
 
 ----------
 

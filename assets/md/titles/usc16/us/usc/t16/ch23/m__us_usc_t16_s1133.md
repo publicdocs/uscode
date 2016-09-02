@@ -81,7 +81,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(3). [Pub. L. 113–287][/us/pl/113/287] substituted “section 100101(b)(1), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54” for “sections 1, 2, 3, and 4 of this title” and “[section 796(2) of this title][/us/usc/t16/s796/2]; and chapters 3201 and 3203 of title 54” for “the Act of June 8, 1906 ([34 Stat. 225][/us/stat/34/225]; [16 U.S.C. 432][/us/usc/t16/s432] et seq.); section 3(2) of the Federal Power Act ([16 U.S.C. 796(2)][/us/usc/t16/s796/2]); and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461][/us/usc/t16/s461] et seq.)”.
+    2014—Subsec. (a)(3). [Pub. L. 113–287, § 5(d)(21)(B)][/us/pl/113/287/s5/d/21/B], which directed substitution of “[section 796(2) of this title][/us/usc/t16/s796/2]; and chapters 3201 and 3203 of title 54” for “the Act of June 8, 1906 ([34 Stat. 225][/us/stat/34/225]; [16 U.S.C. 432][/us/usc/t16/s432] et seq); section 3(2) of the Federal Power Act ([16 U.S.C. 796(2)][/us/usc/t16/s796/2]); and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461][/us/usc/t16/s461] et seq.)”, was executed by making the substitution for the same text as directed except with a period at the end of “432 et seq”, to reflect the probable intent of Congress.
+
+    [Pub. L. 113–287, § 5(d)(21)(A)][/us/pl/113/287/s5/d/21/A], substituted “section 100101(b)(1), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54” for “sections 1, 2, 3, and 4 of this title”.
 
     1978—Subsec. (d)(5) to (8). [Pub. L. 95–495][/us/pl/95/495] redesignated pars. (6) to (8) as (5) to (7), respectively. Former par. (5), which related to the management of the Boundary Waters Canoe Area, Superior National Forest, Minnesota, was struck out.
 
@@ -138,13 +140,14 @@
 [/us/usc/t16/s577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs577
 [/us/act/1956-06-22/ch425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-22%2Fch425
 [/us/stat/70/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F326
-[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/pl/113/287/s5/d/21/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F21%2FB
 [/us/usc/t16/s796/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796%2F2
 [/us/stat/34/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F225
 [/us/usc/t16/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs432
 [/us/usc/t16/s796/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796%2F2
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
+[/us/pl/113/287/s5/d/21/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F21%2FA
 [/us/pl/95/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F495
 [/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
 [/us/usc/t43/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs31

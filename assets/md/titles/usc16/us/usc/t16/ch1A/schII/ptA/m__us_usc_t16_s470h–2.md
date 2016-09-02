@@ -15,7 +15,7 @@
 
 ## § 470h–2. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 89–665, title I, § 110][/us/pl/89/665/s110], as added [Pub. L. 96–515, title II, § 206][/us/pl/96/515/s206], Dec. 12, 1980, [94 Stat. 2996][/us/stat/94/2996]; amended [Pub. L. 102–575, title XL][/us/pl/102/575], §§ 4006(b), 4012, Oct. 30, 1992, [106 Stat. 4757][/us/stat/106/4757], 4760; [Pub. L. 106–208][/us/pl/106/208], §§ 4, 5(a)(8), May 26, 2000, [114 Stat. 318][/us/stat/114/318], 319; [Pub. L. 108–352, § 13][/us/pl/108/352/s13], Oct. 21, 2004, [118 Stat. 1397][/us/stat/118/1397], related to historic properties owned or controlled by Federal agencies. See sections 306101 to 306107 and 306108 to 306114 of Title 54, National Park Service and Related Programs.
+    Section, [Pub. L. 89–665, title I, § 110][/us/pl/89/665/s110], as added [Pub. L. 96–515, title II, § 206][/us/pl/96/515/s206], Dec. 12, 1980, [94 Stat. 2996][/us/stat/94/2996]; amended [Pub. L. 102–575, title XL][/us/pl/102/575], §§ 4006(b), 4012, Oct. 30, 1992, [106 Stat. 4757][/us/stat/106/4757], 4760; [Pub. L. 106–208][/us/pl/106/208], §§ 4, 5(a)(8), May 26, 2000, [114 Stat. 318][/us/stat/114/318], 319; [Pub. L. 108–352, § 13][/us/pl/108/352/s13], Oct. 21, 2004, [118 Stat. 1397][/us/stat/118/1397], related to historic properties owned or controlled by Federal agencies. See sections 306101 to 306107 and 306109 to 306114 of Title 54, National Park Service and Related Programs.
 
 ----------
 

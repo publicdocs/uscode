@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    This Act, referred to in text, is [act Sept. 14, 1950, ch. 950][/us/act/1950-09-14/ch950], [64 Stat. 849][/us/stat/64/849], which enacted this section, sections 406d–2 to 406d–5, 431a, 451a, 482m, 673b, and 673c of this title, and provisions set out as notes below. Section 1 of the Act was partially repealed and restated as sections 104907 and 320301 of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3272. For complete classification of this Act to the Code, see Tables.
+    This Act, referred to in text, is [act Sept. 14, 1950, ch. 950][/us/act/1950-09-14/ch950], [64 Stat. 849][/us/stat/64/849], which enacted this section, sections 406d–2 to 406d–5, 431a, 451a, 482m, 673b, and 673c of this title, and provisions set out as notes below. Section 1 of the Act was partially repealed and restated as sections 104907 and 320301(d) of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3272. For complete classification of this Act to the Code, see Tables.
 
     The Jackson Hole National Monument, referred to in text, was created in Wyoming by Presidential Proc. No. 2578, Mar. 15, 1943, [57 Stat. 731][/us/stat/57/731]. For provisions transferring other lands of such former national monument, see sections 482m and 673b of this title.
 
@@ -29,7 +29,7 @@
 
  __Codification__ 
 
-    Section comprises all of section 1 of act Sept. 14, 1950, except the final sentence thereof. The final sentence repealed sections 406 to 406d of this title which established, and related to, the former “Grand Teton National Park of Wyoming”. It also contained a proviso, which was classified to sections 431a and 451a of this title and was repealed and restated as sections 104907 and 320301 of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287]. See References in Text note above.
+    Section comprises all of section 1 of act Sept. 14, 1950, except the final sentence thereof. The final sentence repealed sections 406 to 406d of this title which established, and related to, the former “Grand Teton National Park of Wyoming”. It also contained a proviso, which was classified to sections 431a and 451a of this title and was repealed and restated as sections 104907 and 320301(d) of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287]. See References in Text note above.
 
  __Grand Teton National Park Extension__ 
 
@@ -175,7 +175,7 @@
 
 > “SEC. 5. __ADMINISTRATION OF STATE LANDS ACQUIRED BY THE UNITED STATES.__ 
 
->     “The State lands conveyed to the United States under section 3(a) shall become part of Grand Teton National Park. The Secretary shall manage such lands under the Act of August 25, 1916 (commonly known as the ‘National Park Service Organic Act’) \[[act Aug. 25, 1916, ch. 408][/us/act/1916-08-25/ch408], see Tables for classification\], and other laws, rules, and regulations applicable to Grand Teton National Park.
+>     “The State lands conveyed to the United States under section 3(a) shall become part of Grand Teton National Park. The Secretary shall manage such lands under the Act of August 25, 1916 (commonly known as the ‘National Park Service Organic Act’) \[see [18 U.S.C. 1865(a)][/us/usc/t18/s1865/a], [54 U.S.C. 100101(a)][/us/usc/t54/s100101/a], 100301 et seq., 100751(a), 100752, 100753, 102101\], and other laws, rules, and regulations applicable to Grand Teton National Park.
 
 > “SEC. 6. __AUTHORIZATION FOR APPROPRIATIONS.__ 
 
@@ -226,7 +226,8 @@ The second sentence of [act Sept. 14, 1950, ch. 950, § 9][/us/act/1950-09-14/
 [/us/stat/117/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F779
 [/us/usc/t43/s1702/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1702%2Fe
 [/us/usc/t43/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1712
-[/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
+[/us/usc/t18/s1865/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1865%2Fa
+[/us/usc/t54/s100101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101%2Fa
 [/us/act/1955-08-09/ch635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch635
 [/us/stat/69/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F555
 [/us/act/1950-09-14/ch950/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950%2Fs9

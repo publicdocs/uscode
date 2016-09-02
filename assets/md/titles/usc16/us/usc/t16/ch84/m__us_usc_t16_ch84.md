@@ -139,7 +139,7 @@ SUBCHAPTER III—WATERSHED FORESTRY ASSISTANCE  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs6541" data-uslm-ref="/us/usc/t16/s6541">6541.</a>  </td>
 
-    <td> Findings and purposes.  </td>
+    <td> Omitted.  </td>
 
   </tr>
 

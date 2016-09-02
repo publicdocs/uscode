@@ -21,8 +21,6 @@
 
  __References in Text__ 
 
-    This Act, referred to in text, is [Pub. L. 113–235, div. F][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2396][/us/stat/128/2396], known as the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2015. For complete classification of this Act to the Code, see Tables.
-
     [Section 8316(b) of title 7][/us/usc/t7/s8316/b], referred to in text, was in the original “[section 10417(b) of Public Law 107–107][/us/pl/107/107/s10417/b] ([7 U.S.C. 8316(b)][/us/usc/t7/s8316/b])” which was translated as meaning [section 10417(b) of Pub. L. 107–171][/us/pl/107/171/s10417/b] to reflect the probable intent of Congress.
 
  __Similar Provisions__ 
@@ -51,8 +49,6 @@ Provisions similar to this section were contained in the following prior appropr
 [/us/usc/t7/s8316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8316%2Fb
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/stat/128/2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2432
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
-[/us/stat/128/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2396
 [/us/usc/t7/s8316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8316%2Fb
 [/us/pl/107/107/s10417/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs10417%2Fb
 [/us/usc/t7/s8316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8316%2Fb

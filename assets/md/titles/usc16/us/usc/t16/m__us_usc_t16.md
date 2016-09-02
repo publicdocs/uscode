@@ -15,7 +15,7 @@
 
 # Title 16—CONSERVATION
 
-Current through 114-38
+Current through 114-49
 
 <table>
 
@@ -793,7 +793,7 @@ Current through 114-38
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fch39" data-uslm-ref="/us/usc/t16/ch39">39.</a>  </td>
 
-    <td> Mining Activity Within National Park System Areas  </td>
+    <td> Mining Activity Within National Park System Areas [Repealed]  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1901" data-uslm-ref="/us/usc/t16/s1901">1901</a>  </td>
 
@@ -833,7 +833,7 @@ Current through 114-38
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fch43" data-uslm-ref="/us/usc/t16/ch43">43.</a>  </td>
 
-    <td> Public Transportation Programs for National Park System Areas  </td>
+    <td> Public Transportation Programs for National Park System Areas [Omitted, Transferred, or Repealed]  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2301" data-uslm-ref="/us/usc/t16/s2301">2301</a>  </td>
 
@@ -873,7 +873,7 @@ Current through 114-38
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fch45" data-uslm-ref="/us/usc/t16/ch45">45.</a>  </td>
 
-    <td> Urban Park and Recreation Recovery Program  </td>
+    <td> Urban Park and Recreation Recovery Program [Omitted, Transferred, or Repealed]  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2501" data-uslm-ref="/us/usc/t16/s2501">2501</a>  </td>
 
@@ -1223,7 +1223,7 @@ Current through 114-38
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fch74" data-uslm-ref="/us/usc/t16/ch74">74.</a>  </td>
 
-    <td> National Maritime Heritage  </td>
+    <td> National Maritime Heritage [Omitted or Repealed]  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5401" data-uslm-ref="/us/usc/t16/s5401">5401</a>  </td>
 
@@ -1273,7 +1273,7 @@ Current through 114-38
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fch79" data-uslm-ref="/us/usc/t16/ch79">79.</a>  </td>
 
-    <td> National Park Service Management  </td>
+    <td> National Park Service Management [Repealed]  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5901" data-uslm-ref="/us/usc/t16/s5901">5901</a>  </td>
 

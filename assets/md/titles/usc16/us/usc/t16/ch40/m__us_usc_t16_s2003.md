@@ -37,7 +37,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–79, § 2508(a)(1)][/us/pl/113/79/s2508/a/1], inserted “and tribal” after “State” in two places.
+    2014—Subsec. (b). [Pub. L. 113–79, § 2508(a)(1)][/us/pl/113/79/s2508/a/1], inserted “and tribal” after “State” in two places in text.
 
     Subsec. (c)(2). [Pub. L. 113–79, § 2508(a)(2)][/us/pl/113/79/s2508/a/2], inserted “, tribal,” after “State”.
 

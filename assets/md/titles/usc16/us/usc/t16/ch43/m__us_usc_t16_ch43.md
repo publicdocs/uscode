@@ -27,7 +27,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2301" data-uslm-ref="/us/usc/t16/s2301">2301</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs2306" data-uslm-ref="/us/usc/t16/s2306">2306.</a>  </td>
 
-    <td> Repealed, Transferred, or Omitted.  </td>
+    <td> Omitted, Transferred, or Repealed.  </td>
 
   </tr>
 

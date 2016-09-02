@@ -47,7 +47,7 @@
 
             The term “State” means the State of Nevada.
 
-    (2) __Conveyance of Federal land to county__ 
+    (2) __Conveyance of Federal land to County__ 
 
         (A) __In general__ 
 

@@ -63,7 +63,7 @@
 
 >     “(5) Not later than March 31, 2004, the Secretary of Transportation, acting through the Maritime Administration, and the Administrator of the Environmental Protection Agency shall jointly establish an application process for governments of States, commonwealths, and United States territories and possession, and foreign governments, for the preparation of vessels for use as artificial reefs, including documentation and certification requirements for that application process.
 
->     “(6) The Secretary of Transportation shall submit to Congress a report on the environmental best management practices developed under paragraph (1) through the existing ship disposal reporting requirements in section 3502 of Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by [Public Law 106–398][/us/pl/106/398]; 1654A–492) \[[54 U.S.C. 308704][/us/usc/t54/s308704] note\]. The report shall describe such practices, and may include such other matters as the Secretary considers appropriate.”
+>     “(6) The Secretary of Transportation shall submit to Congress a report on the environmental best management practices developed under paragraph (1) through the existing ship disposal reporting requirements in section 3502 of Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by [Public Law 106–398][/us/pl/106/398]; 1654A–492 \[1654A–490\]) \[[54 U.S.C. 308704][/us/usc/t54/s308704] note\]. The report shall describe such practices, and may include such other matters as the Secretary considers appropriate.”
 
 ----------
 

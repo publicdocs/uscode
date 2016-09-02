@@ -41,7 +41,7 @@
 
  __References in Text__ 
 
-    Subsections (b) and (i)(3) of section 460l–6a of this title, referred to in subsec. (b)(1), (4), were repealed by [Pub. L. 108–447, div. J, title VIII, § 813(a)][/us/pl/108/447/s813/a], Dec. 8, 2004, [118 Stat. 3390][/us/stat/118/3390], as amended by [Pub. L. 109–54, title I, § 132(a)][/us/pl/109/54/s132/a], Aug. 2, 2005, [119 Stat. 526][/us/stat/119/526]. Section 460l–6a of this title, including subsection (i) as referred to in subsec. (b)(4), was repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]. With respect to subsection (i)(1)(C) of former section 460l–6a of this title, see [section 100904(a) of Title 54][/us/usc/t54/s100904/a], National Park Service and Related Programs.
+    Subsections (b) and (i) of section 460l–6a of this title, referred to in subsec. (b)(1), (4), were repealed, except for par. (1)(C) of subsec. (i), by [Pub. L. 108–447, div. J, title VIII, § 813(a)][/us/pl/108/447/s813/a], Dec. 8, 2004, [118 Stat. 3390][/us/stat/118/3390], as amended by [Pub. L. 109–54, title I, § 132(a)][/us/pl/109/54/s132/a], Aug. 2, 2005, [119 Stat. 526][/us/stat/119/526]. Subsec. (i)(1)(C) of section 460l–6a of this title was repealed and restated as [section 100904(a) of Title 54][/us/usc/t54/s100904/a], National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3272.
 
  __Amendments__ 
 
@@ -86,9 +86,9 @@
 [/us/stat/118/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3390
 [/us/pl/109/54/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2Fs132%2Fa
 [/us/stat/119/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F526
-[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
-[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/usc/t54/s100904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100904%2Fa
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/104/303/s208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs208%2Fc

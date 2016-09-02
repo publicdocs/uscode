@@ -15,7 +15,7 @@
 
 ## § 470b. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 89–665, title I, § 102][/us/pl/89/665/s102], Oct. 15, 1966, [80 Stat. 916][/us/stat/80/916]; [Pub. L. 94–422, title II, § 201(1)][/us/pl/94/422/s201/1], Sept. 28, 1976, [90 Stat. 1319][/us/stat/90/1319]; [Pub. L. 96–515, title IV, § 202][/us/pl/96/515/s202], Dec. 12, 1980, [94 Stat. 2993][/us/stat/94/2993]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–575, title XL, § 4009][/us/pl/102/575/s4009], Oct. 30, 1992, [106 Stat. 4759][/us/stat/106/4759]; [Pub. L. 106–208, § 5(a)(5)][/us/pl/106/208/s5/a/5], May 26, 2000, [114 Stat. 318][/us/stat/114/318], related to requirements for awarding of grant funds. Subsecs. (a), (b), (d), and (e) were repealed and restated in sections 302901 and 302902 of Title 54, National Park Service and Related Programs. Subsec. (c), which provided for a limited waiver of certain grant amounts, had been previously repealed by [Pub. L. 96–515][/us/pl/96/515].
+    Section, [Pub. L. 89–665, title I, § 102][/us/pl/89/665/s102], Oct. 15, 1966, [80 Stat. 916][/us/stat/80/916]; [Pub. L. 94–422, title II, § 201(1)][/us/pl/94/422/s201/1], Sept. 28, 1976, [90 Stat. 1319][/us/stat/90/1319]; [Pub. L. 96–515, title IV, § 202][/us/pl/96/515/s202], Dec. 12, 1980, [94 Stat. 2993][/us/stat/94/2993]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–575, title XL, § 4009][/us/pl/102/575/s4009], Oct. 30, 1992, [106 Stat. 4759][/us/stat/106/4759]; [Pub. L. 106–208, § 5(a)(5)][/us/pl/106/208/s5/a/5], May 26, 2000, [114 Stat. 318][/us/stat/114/318], related to requirements for awarding of grant funds. See sections 302901 and 302902 of Title 54, National Park Service and Related Programs.
 
 ----------
 
@@ -38,6 +38,5 @@
 [/us/stat/106/4759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4759
 [/us/pl/106/208/s5/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F208%2Fs5%2Fa%2F5
 [/us/stat/114/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F318
-[/us/pl/96/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F515
 
 

@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–287][/us/pl/113/287] substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund ([16 U.S.C. 460][/us/usc/t16/s460]l–4 and following)”.
+    2014—Subsec. (a)(1). [Pub. L. 113–287][/us/pl/113/287], which directed amendment of par. (1) by substituting “chapter 2003 of title 54” for “the Land and Water Conservation Fund ([16 U.S.C. 460][/us/usc/t16/s460]l–4 and following)”, was executed by making the substitution for “the Land and Water Conservation Fund ([16 U.S.C. 4601–4][/us/usc/t16/s4601–4] and following)”, to reflect the probable intent of Congress.
 
 ----------
 
@@ -66,5 +66,6 @@
 [/us/stat/128/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3265
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/usc/t16/s4601–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4601%E2%80%934
 
 

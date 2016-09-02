@@ -19,7 +19,7 @@
 
         (1) __Limitation on use of appropriated funds__ 
 
-            From the appropriations authorized for fiscal year 1978 and succeeding fiscal years pursuant to the Land and Water Conservation Fund Act ([78 Stat. 897][/us/stat/78/897]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended, not more than $115,000,000 may be expended for the acquisition of lands and interests in lands authorized to be acquired pursuant to the provisions of this subchapter. For purposes of section 7(a)(3) of the Land and Water Conservation Fund Act of 1965 \[[54 U.S.C. 200306(a)(4)][/us/usc/t54/s200306/a/4]\], the statutory ceiling on appropriations under this subsection shall be deemed to be a statutory ceiling contained in a provision of law enacted prior to the convening of the Ninety-sixth Congress.
+            From the appropriations authorized for fiscal year 1978 and succeeding fiscal years pursuant to the Land and Water Conservation Fund Act ([78 Stat. 897][/us/stat/78/897]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended, not more than $115,000,000 may be expended for the acquisition of lands and interests in lands authorized to be acquired pursuant to the provisions of this subchapter. For purposes of [section 200306(a)(4) of title 54][/us/usc/t54/s200306/a/4], the statutory ceiling on appropriations under this subsection shall be deemed to be a statutory ceiling contained in a provision of law enacted prior to the convening of the Ninety-sixth Congress.
 
         (2) __Donations__ 
 
@@ -95,13 +95,17 @@
 
  __References in Text__ 
 
-    The Land and Water Conservation Fund Act ([78 Stat. 897][/us/stat/78/897]), referred to in subsec. (a)(1), probably means the Land and Water Conservation Fund Act of 1965, [Pub. L. 88–578][/us/pl/88/578], Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], which was classified principally to former part B (§ 460l–4 et seq.) of subchapter LXIX of this chapter. Sections 2, 3, 4(i)(1)(C), (j) to (n), 5 to 13, and 201 of the Act were repealed and restated as sections 100506(c) and 100904 and chapter 2003 of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
+    The Land and Water Conservation Fund Act ([78 Stat. 897][/us/stat/78/897]), referred to in subsec. (a)(1), probably means the Land and Water Conservation Fund Act of 1965, [Pub. L. 88–578][/us/pl/88/578], Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], which was classified principally to part B (§ 460l–4 et seq.) of subchapter LXIX of this chapter. Sections 2, 3, 4(i)(1)(C), (j) to (n), 5 to 10, and 201 of the Act were repealed and restated as sections 100506(c) and 100904 and chapter 2003 of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
 
     The convening of the Ninety-sixth Congress, referred to in subsec. (a)(1), took place on Jan. 15, 1979.
 
     The National Environmental Policy Act of 1969, referred to in subsec. (d)(1), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
 
     The Clean Air Act, referred to in subsec. (d)(6), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42][/us/usc/t42/s7401] and Tables.
+
+ __Codification__ 
+
+    In subsec. (a)(1), “[section 200306(a)(4) of title 54][/us/usc/t54/s200306/a/4]” substituted for “section 7(a)(3) of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–9(a)(3))” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Amendments__ 
 
@@ -154,6 +158,10 @@
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
+[/us/usc/t54/s200306/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200306%2Fa%2F4
+[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/106/154/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154%2Fs2%2Fd%2F1
 [/us/pl/106/154/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154%2Fs2%2Fd%2F1
 [/us/pl/106/154/s2/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154%2Fs2%2Fd%2F3

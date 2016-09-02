@@ -43,7 +43,7 @@ SUBCHAPTER I—NATIONAL PARK SERVICE  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937b" data-uslm-ref="/us/usc/t16/s1a–7b">1a–7b.</a>  </td>
 
-    <td> Protecting Americans from violent crime.  </td>
+    <td> Protection of right of individuals to bear arms.  </td>
 
   </tr>
 
@@ -115,7 +115,7 @@ SUBCHAPTER I—NATIONAL PARK SERVICE  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs18" data-uslm-ref="/us/usc/t16/s18">18</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs18f%E2%80%933" data-uslm-ref="/us/usc/t16/s18f–3">18f–3.</a>  </td>
 
-    <td> Repealed or Transferred.  </td>
+    <td> Transferred or Repealed.  </td>
 
   </tr>
 
@@ -731,7 +731,7 @@ SUBCHAPTER VI—SEQUOIA AND YOSEMITE NATIONAL PARKS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs57" data-uslm-ref="/us/usc/t16/s57">57.</a>  </td>
 
-    <td> Yosemite and Sequoia National Parks; exclusive jurisdiction of United States; jurisdiction remaining in and taxation by California.  </td>
+    <td> Yosemite, Sequoia, and General Grant National Parks; exclusive jurisdiction of United States; jurisdiction remaining in and taxation by California.  </td>
 
   </tr>
 
@@ -811,7 +811,7 @@ SUBCHAPTER VI—SEQUOIA AND YOSEMITE NATIONAL PARKS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs78" data-uslm-ref="/us/usc/t16/s78">78.</a>  </td>
 
-    <td> Detail of troops to Sequoia and Yosemite Parks.  </td>
+    <td> Detail of troops to Sequoia, Yosemite, and General Grant Parks.  </td>
 
   </tr>
 
@@ -9139,7 +9139,7 @@ SUBCHAPTER LIX–MM—PINNACLES NATIONAL PARK  </td>
 
     <td> 
 
-SUBCHAPTER LIX–NN—BLACKSTONE VALLEY NATIONAL HISTORICAL PARK  </td>
+SUBCHAPTER LIX–NN—BLACKSTONE RIVER VALLEY NATIONAL HISTORICAL PARK  </td>
 
   </tr>
 
@@ -13427,7 +13427,7 @@ Part B—Land and Water Conservation Fund  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460" data-uslm-ref="/us/usc/t16/s460">460</a>l–4 to 460l–6b.  </td>
 
-    <td> Repealed or Transferred.  </td>
+    <td> Transferred or Repealed.  </td>
 
   </tr>
 
@@ -15187,7 +15187,7 @@ SUBCHAPTER LXXXV—SAWTOOTH NATIONAL RECREATION AREA  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs460aa%E2%80%934" data-uslm-ref="/us/usc/t16/s460aa–4">460aa–4.</a>  </td>
 
-    <td> Administrative determination of suitability for designation as wilderness areas.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

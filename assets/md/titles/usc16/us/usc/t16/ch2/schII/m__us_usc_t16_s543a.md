@@ -23,7 +23,7 @@
 
  __Codification__ 
 
-    In subsec. (b), “[section 200306(a)(2) of title 54][/us/usc/t54/s200306/a/2]” substituted for “section 7(a)(1) of the Land and Water Conservation Fund Act of 1965 ([78 Stat. 897][/us/stat/78/897]; [16 U.S.C. 460][/us/usc/t16/s460]l–4 through 460l–11)” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (b), “[section 200306(a)(2) of title 54][/us/usc/t54/s200306/a/2]” substituted for “section 7(a)(1) of the Land and Water Conservation Fund Act of 1965 ([78 Stat. 897][/us/stat/78/897]; [16 U.S.C. 4601–4][/us/usc/t16/s4601–4] through 4601–11) \[sic\]” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
 ----------
 
@@ -38,7 +38,7 @@
 [/us/stat/98/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1633
 [/us/usc/t54/s200306/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200306%2Fa%2F2
 [/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897
-[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/usc/t16/s4601–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4601%E2%80%934
 [/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 

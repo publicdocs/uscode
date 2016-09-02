@@ -23,7 +23,7 @@
 
     Section 3836, [Pub. L. 99–198, title XII, § 1236][/us/pl/99/198/s1236], Dec. 23, 1985, [99 Stat. 1514][/us/stat/99/1514]; [Pub. L. 101–624, title XIV][/us/pl/101/624], §§ 1436, 1447(a), Nov. 28, 1990, [104 Stat. 3583][/us/stat/104/3583], 3605; [Pub. L. 107–76, title VII, § 759(b)(1)][/us/pl/107/76/s759/b/1], Nov. 28, 2001, [115 Stat. 741][/us/stat/115/741], related to cropland base and allotment history.
 
-    A prior section 3836a, [Pub. L. 104–127, title III, § 387][/us/pl/104/127/s387], Apr. 4, 1996, [110 Stat. 1020][/us/stat/110/1020], related to Wildlife Habitat Incentive Program, prior to repeal by [Pub. L. 107–171, title II, § 2502(b)][/us/pl/107/171/s2502/b], May 13, 2002, [116 Stat. 267][/us/stat/116/267]. See [section 3839bb–1 of this title][/us/usc/t16/s3839bb–1].
+    A prior section 3836a, [Pub. L. 104–127, title III, § 387][/us/pl/104/127/s387], Apr. 4, 1996, [110 Stat. 1020][/us/stat/110/1020], related to Wildlife Habitat Incentive Program, prior to repeal by [Pub. L. 107–171, title II, § 2502(b)][/us/pl/107/171/s2502/b], May 13, 2002, [116 Stat. 267][/us/stat/116/267].
 
 ----------
 
@@ -53,6 +53,5 @@
 [/us/stat/110/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1020
 [/us/pl/107/171/s2502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2502%2Fb
 [/us/stat/116/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F267
-[/us/usc/t16/s3839bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839bb%E2%80%931
 
 

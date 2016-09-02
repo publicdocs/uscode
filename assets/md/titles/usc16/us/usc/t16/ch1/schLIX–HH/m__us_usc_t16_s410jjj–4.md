@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        The Secretary may not expend more than $35,500,000 from the Land and Water Conservation Fund for land acquisition nor more than $500,000 for the development of essential facilities. The Secretary may expend such additional sums as are necessary from the Land and Water Conservation Fund for acquisition of lands described in [section 410jjj(b) of this title][/us/usc/t16/s410jjj/b].
+        The Secretary may not expend more than $60,500,000 from the Land and Water Conservation Fund for land acquisition nor more than $2,000,000 for the development of essential facilities. The Secretary may expend such additional sums as are necessary from the Land and Water Conservation Fund for acquisition of lands described in [section 410jjj(b) of this title][/us/usc/t16/s410jjj/b].
 
     (b) __General management plan__ 
 
@@ -33,7 +33,7 @@
 
         Notwithstanding subsection (a), there are authorized to be appropriated $3,000,000 for construction and development within the park.
 
-([Pub. L. 94–545, § 5][/us/pl/94/545/s5], Oct. 18, 1976, [90 Stat. 2518][/us/stat/90/2518]; [Pub. L. 100–524, § 6][/us/pl/100/524/s6], Oct. 24, 1988, [102 Stat. 2607][/us/stat/102/2607]; [Pub. L. 108–108, title I, § 135][/us/pl/108/108/s135], Nov. 10, 2003, [117 Stat. 1270][/us/stat/117/1270].)
+([Pub. L. 94–545, § 5][/us/pl/94/545/s5], Oct. 18, 1976, [90 Stat. 2518][/us/stat/90/2518]; [Pub. L. 98–141, § 6][/us/pl/98/141/s6], Oct. 31, 1983, [97 Stat. 909][/us/stat/97/909]; [Pub. L. 100–524, § 6][/us/pl/100/524/s6], Oct. 24, 1988, [102 Stat. 2607][/us/stat/102/2607]; [Pub. L. 108–108, title I, § 135][/us/pl/108/108/s135], Nov. 10, 2003, [117 Stat. 1270][/us/stat/117/1270].)
 
  __References in Text__ 
 
@@ -44,6 +44,8 @@
     1988—Subsec. (a). [Pub. L. 100–524, § 6(a)][/us/pl/100/524/s6/a], inserted sentence at end relating to expenditure of additional sums for acquisition of lands.
 
     Subsec. (c). [Pub. L. 100–524, § 6(b)][/us/pl/100/524/s6/b], added subsec. (c).
+
+    1983—Subsec. (a). [Pub. L. 98–141][/us/pl/98/141] substituted “$60,500,000” for “$35,500,000” and “$2,000,000” for “$500,000”.
 
  __Change of Name__ 
 
@@ -63,6 +65,8 @@
 [/us/usc/t16/s410jjj/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410jjj%2Fb
 [/us/pl/94/545/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F545%2Fs5
 [/us/stat/90/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2518
+[/us/pl/98/141/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F141%2Fs6
+[/us/stat/97/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F909
 [/us/pl/100/524/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F524%2Fs6
 [/us/stat/102/2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2607
 [/us/pl/108/108/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs135
@@ -70,6 +74,7 @@
 [/us/pl/94/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F545
 [/us/pl/100/524/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F524%2Fs6%2Fa
 [/us/pl/100/524/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F524%2Fs6%2Fb
+[/us/pl/98/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F141
 [/us/pl/108/108/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs135
 [/us/usc/t16/s410jjj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410jjj
 

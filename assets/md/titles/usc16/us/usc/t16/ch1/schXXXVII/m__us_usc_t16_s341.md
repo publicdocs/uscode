@@ -189,7 +189,7 @@
 
 >     “(a) Effective October 1, 1986, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this title, but not to exceed $9,100,000 for acquisition of lands and interests therein.
 
->     “(b) For the purposes of paragraph 7(a)(3) of the Land and Water Conservation Fund Act of 1965, as amended ([16 U.S.C. 460][/us/usc/t16/s460]l–9) \[now [54 U.S.C. 200306(a)(4)][/us/usc/t54/s200306/a/4]\], the statutory ceiling provided in subsection (a) shall be deemed to have been enacted prior to the convening of the Ninety-fifth Congress \[Jan. 4, 1977\].
+>     “(b) For the purposes of paragraph 7(a)(3) of the Land and Water Conservation Fund Act of 1965, as amended (\[former\] [16 U.S.C. 460][/us/usc/t16/s460]l–9) \[now [54 U.S.C. 200306(a)(4)][/us/usc/t54/s200306/a/4]\], the statutory ceiling provided in subsection (a) shall be deemed to have been enacted prior to the convening of the Ninety-fifth Congress \[Jan. 4, 1977\].
 
 >     “(c)  __Additional Funding__  __.—__ 
 

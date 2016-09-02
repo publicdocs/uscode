@@ -261,11 +261,11 @@
 
 >     “(a)  __In General__  __.—__ 
 
->     Except as provided in paragraph (2), the amendments made by this subtitle \[subtitle A (§§ 2001–2008) of title II of [Pub. L. 113–79][/us/pl/113/79], see Tables for classification\] shall not affect the validity or terms of any contract entered into by the Secretary of Agriculture under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3831][/us/usc/t16/s3831] et seq.) before the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], or any payments required to be made in connection with the contract.
+>     Except as provided in paragraph (2), the amendments made by this subtitle \[subtitle A (§§ 2001–2008) of title II of [Pub. L. 113–79][/us/pl/113/79], amending this section and sections 3831b and 3832 to 3835 of this title and repealing [section 3835a of this title][/us/usc/t16/s3835a]\] shall not affect the validity or terms of any contract entered into by the Secretary of Agriculture under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3831][/us/usc/t16/s3831] et seq.) before the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], or any payments required to be made in connection with the contract.
 
 >     “(b)  __Updating of Existing Contracts__  __.—__ 
 
->     The Secretary shall permit an owner or operator of land subject to a contract entered into under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3831][/us/usc/t16/s3831] et seq.) before the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], to update the contract to reflect the activities and uses of land under contract permitted under the terms and conditions of section 1233(b) of that Act \[[16 U.S.C. 3833(b)][/us/usc/t16/s3833/b]\] (as amended by section 2004 \[of [Pub. L. 113–79][/us/pl/113/79]\]), as determined appropriate by the Secretary.”
+>     The Secretary shall permit an owner or operator of land subject to a contract entered into under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3831][/us/usc/t16/s3831] et seq.) before the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], to update the contract to reflect the activities and uses of land under contract permitted under the terms and conditions of section 1233(b) of that Act \[[16 U.S.C. 3833(b)][/us/usc/t16/s3833/b]\] (as amended by section 2004), as determined appropriate by the Secretary.”
 
  __Study on Economic Effects__ 
 
@@ -396,10 +396,10 @@
 [/us/pl/113/79/s2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2008
 [/us/stat/128/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F720
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/usc/t16/s3835a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3835a
 [/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
 [/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
 [/us/usc/t16/s3833/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3833%2Fb
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/107/171/s2101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2101%2Fb
 [/us/stat/116/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F252
 [/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831

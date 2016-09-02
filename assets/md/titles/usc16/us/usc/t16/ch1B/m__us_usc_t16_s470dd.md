@@ -27,7 +27,7 @@
 
  __Amendments__ 
 
-    2014—Par. (2). [Pub. L. 113–287][/us/pl/113/287] “chapter 3125 or chapter 3203 of title 54” for “the Act of June 27, 1960 ([16 U.S.C. 469–469c][/us/usc/t16/s469–469c]) or the Act of June 8, 1906 ([16 U.S.C. 431–433][/us/usc/t16/s431–433])”.
+    2014—Par. (2). [Pub. L. 113–287][/us/pl/113/287] substituted “chapter 3125 or chapter 3203 of title 54” for “the Act of June 27, 1960 ([16 U.S.C. 469–469c][/us/usc/t16/s469–469c]) or the Act of June 8, 1906 ([16 U.S.C. 431–433][/us/usc/t16/s431–433])”.
 
 ----------
 

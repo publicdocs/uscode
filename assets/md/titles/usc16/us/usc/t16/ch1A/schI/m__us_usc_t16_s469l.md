@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Subsec. (a) of this section, [Pub. L. 105–203, § 2(a)][/us/pl/105/203/s2/a], July 21, 1998, [112 Stat. 678][/us/stat/112/678], which provided congressional findings regarding commemoration of the Underground Railroad, was omitted from the Code following the enactment of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287]. Subsec. (b) of this section, [Pub. L. 105–203, § 2(b)][/us/pl/105/203/s2/b], July 21, 1998, [112 Stat. 679][/us/stat/112/679], which stated the purposes of [Pub. L. 105–203][/us/pl/105/203], was transferred and is set out as a note under [section 308301 of Title 54][/us/usc/t54/s308301].
+    Section, [Pub. L. 105–203, § 2][/us/pl/105/203/s2], July 21, 1998, [112 Stat. 678][/us/stat/112/678], which provided congressional findings and purposes regarding commemoration of the Underground Railroad, was omitted in part and transferred in part. Subsec. (a), which provided congressional findings, was omitted from the Code following the enactment of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287]. Subsec. (b), which provided purposes of former sections 469l to 469l–2 of this title, was transferred and is set out as a note under [section 308301 of Title 54][/us/usc/t54/s308301].
 
 ----------
 
@@ -26,12 +26,9 @@
 ----------
 ----------
 
-[/us/pl/105/203/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F203%2Fs2%2Fa
+[/us/pl/105/203/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F203%2Fs2
 [/us/stat/112/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F678
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
-[/us/pl/105/203/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F203%2Fs2%2Fb
-[/us/stat/112/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F679
-[/us/pl/105/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F203
 [/us/usc/t54/s308301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs308301
 
 

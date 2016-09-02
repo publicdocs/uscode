@@ -43,7 +43,7 @@
 
  __Codification__ 
 
-    In subsec. (f), “[section 306108 of title 54][/us/usc/t54/s306108]” substituted for “section 106 of the Historic Preservation Act ([90 Stat. 1320][/us/stat/90/1320])” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (f), “[section 306108 of title 54][/us/usc/t54/s306108]” substituted for “section 106 of the Historic Preservation Act ([90 Stat. 1320][/us/stat/90/1320]) as amended” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
 ----------
 

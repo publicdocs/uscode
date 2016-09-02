@@ -117,6 +117,10 @@
 
     [Pub. L. 104–127, title III, § 311][/us/pl/104/127/s311], Apr. 4, 1996, [110 Stat. 982][/us/stat/110/982], provided that the amendment made by that section is effective 90 days after Apr. 4, 1996.
 
+ __Short Title__ 
+
+    [Pub. L. 99–198, title XII][/us/pl/99/198], subtitle B, Dec. 23, 1985, [99 Stat. 1506][/us/stat/99/1506], which is classified generally to this subchapter, is popularly known as the sodbuster provisions.
+
  __Wind Erosion Estimation Pilot Project__ 
 
 [Pub. L. 104–127, title III, § 317][/us/pl/104/127/s317], Apr. 4, 1996, [110 Stat. 986][/us/stat/110/986], provided that:
@@ -205,6 +209,8 @@
 [/us/pl/101/624/s1411/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1411%2F3
 [/us/pl/104/127/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs311
 [/us/stat/110/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F982
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/stat/99/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1506
 [/us/pl/104/127/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs317
 [/us/stat/110/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F986
 [/us/usc/t16/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811

@@ -181,9 +181,9 @@
 
     The Act of June 9, 1930, referred to in subsecs. (e)(3)(B) and (g)(2)(A), is [act June 9, 1930, ch. 416][/us/act/1930-06-09/ch416], [46 Stat. 527][/us/stat/46/527], popularly known as the Knutson-Vandenberg Act, which is classified generally to sections 576, 576a, and 576b of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 576 of this title][/us/usc/t16/s576] and Tables.
 
-    [Section 490 of this title][/us/usc/t16/s490], referred to in subsec. (f)(1), was in the original “the Act of August 11, 1916 ([16 U.S.C. 490][/us/usc/t16/s490])”, and was translated as referring to the undesignated provisions appearing in [act Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], [39 Stat. 462][/us/stat/39/462], which are classified to [section 490 of this title][/us/usc/t16/s490].
+    [Section 490 of this title][/us/usc/t16/s490], referred to in subsec. (f)(1), was in the original “the Act of August 11, 1916 ([16 U.S.C. 490][/us/usc/t16/s490])”, and was translated as referring to the undesignated provisions appearing in [act Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], [39 Stat. 462][/us/stat/39/462], as amended, which are classified to [section 490 of this title][/us/usc/t16/s490].
 
-    [Section 498 of this title][/us/usc/t16/s498], referred to in subsec. (f)(2), was in the original “the Act of June 30, 1914 ([16 U.S.C. 498][/us/usc/t16/s498])”, and was translated as referring to the undesignated provisions appearing in [act June 30, 1914, ch. 131][/us/act/1914-06-30/ch131], [38 Stat. 430][/us/stat/38/430], which are classified to [section 498 of this title][/us/usc/t16/s498].
+    [Section 498 of this title][/us/usc/t16/s498], referred to in subsec. (f)(2), was in the original “the Act of June 30, 1914 ([16 U.S.C. 498][/us/usc/t16/s498])”, and was translated as referring to the undesignated provisions appearing in [act June 30, 1914, ch. 131][/us/act/1914-06-30/ch131], [38 Stat. 430][/us/stat/38/430], as amended, which are classified to [section 498 of this title][/us/usc/t16/s498].
 
 ----------
 

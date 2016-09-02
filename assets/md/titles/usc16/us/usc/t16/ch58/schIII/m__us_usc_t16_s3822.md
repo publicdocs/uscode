@@ -227,7 +227,7 @@
 
  __References in Text__ 
 
-    [Section 3843 of this title][/us/usc/t16/s3843], referred to in subsec. (g), was omitted and a new section 3843 was added in the general amendment of subchapter V of this chapter by [Pub. L. 104–127, title III, § 341][/us/pl/104/127/s341], Apr. 4, 1996, [110 Stat. 1008][/us/stat/110/1008] and was subsequently repealed by [Pub. L. 113–79, title II, § 2710(a)][/us/pl/113/79/s2710/a], Feb. 7, 2014, [128 Stat. 770][/us/stat/128/770]. The new section 3843 did not relate to appeal procedures.
+    [Section 3843 of this title][/us/usc/t16/s3843], referred to in subsec. (g), was omitted and a new section 3843 was added in the general amendment of subchapter V of this chapter by [Pub. L. 104–127, title III, § 341][/us/pl/104/127/s341], Apr. 4, 1996, [110 Stat. 1008][/us/stat/110/1008]. The new section 3843, which did not relate to appeal procedures, was subsequently repealed by [Pub. L. 113–79, title II, § 2710(a)][/us/pl/113/79/s2710/a], Feb. 7, 2014, [128 Stat. 770][/us/stat/128/770].
 
  __Codification__ 
 

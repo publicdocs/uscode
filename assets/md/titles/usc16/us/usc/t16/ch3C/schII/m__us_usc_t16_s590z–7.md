@@ -55,8 +55,6 @@
 
     The Rural Electrification Act of 1936, referred to in subsec. (a), is [act May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], [49 Stat. 1363][/us/stat/49/1363], as amended, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 901 of Title 7][/us/usc/t7/s901] and Tables.
 
-    December 19, 2014, referred to in subsec. (b)(6), was in the original “the date of enactment of the National Defense Authorization Act for Fiscal Year 2015” and was translated as referring to the date of enactment of [Pub. L. 113–291][/us/pl/113/291], known as the “Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015”, to reflect the probable intent of Congress.
-
  __Amendments__ 
 
     2014—[Pub. L. 113–291][/us/pl/113/291] designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
@@ -82,7 +80,6 @@
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
 [/us/stat/49/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1363
 [/us/usc/t7/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs901
-[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 
 

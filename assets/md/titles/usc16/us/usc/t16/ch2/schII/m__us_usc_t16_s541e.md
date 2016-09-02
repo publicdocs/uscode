@@ -19,10 +19,6 @@
 
 ([Pub. L. 93–535, § 6][/us/pl/93/535/s6], Dec. 22, 1974, [88 Stat. 1733][/us/stat/88/1733]; [Pub. L. 113–287, § 5(d)(15)][/us/pl/113/287/s5/d/15], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265].)
 
- __References in Text__ 
-
-    The Land and Water Conservation Fund, referred to in text, was established by former section 460l–5 of this title. See [section 200302 of Title 54][/us/usc/t54/s200302], National Park Service and Related Programs.
-
  __Amendments__ 
 
     2014—[Pub. L. 113–287][/us/pl/113/287] substituted “[section 200306(a)(2) of title 54][/us/usc/t54/s200306/a/2]” for “section 460l–9(a)(1) of this title”.
@@ -39,7 +35,6 @@
 [/us/stat/88/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1733
 [/us/pl/113/287/s5/d/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F15
 [/us/stat/128/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3265
-[/us/usc/t54/s200302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200302
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t54/s200306/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200306%2Fa%2F2
 

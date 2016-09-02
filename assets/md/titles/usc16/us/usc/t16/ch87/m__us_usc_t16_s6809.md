@@ -25,7 +25,7 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–235][/us/pl/113/235] substituted “on September 30, 2016” for “10 years after December 8, 2004”.
+    2014—[Pub. L. 113–235][/us/pl/113/235] substituted “on September 30, 2016” for “10 years after December 8, 2004”. Amendment was executed as the probable intent of Congress, notwithstanding error in directory language which referenced the editorial translation of “December 8, 2004” rather than “the date of the enactment of this Act” which appeared in the original.
 
 ----------
 

@@ -55,7 +55,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–79][/us/pl/113/79] inserted “, tribal,” after “conservation districts, State” and ‘, tribal,” after “private” in introductory provisions, and “, tribal” after “Federal, State” wherever appearing.
+    2014—Subsec. (a). [Pub. L. 113–79][/us/pl/113/79] inserted “, tribal,” after “conservation districts, State” and “, tribal,” after “private” in introductory provisions, and “, tribal” after “Federal, State” wherever appearing.
 
     2008—Subsecs. (b) to (d). [Pub. L. 110–246, § 2804(c)][/us/pl/110/246/s2804/c], added subsecs. (b) and (c), redesignated former subsec. (b) as (d), and substituted “December 31, 2011, and December 31, 2016” for “December 31, 1979, and program updates shall be completed by December 31, 1987, December 31, 1997, and December 31, 2007”.
 

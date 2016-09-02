@@ -21,11 +21,11 @@
 
         (1) affect or modify any treaty or other rights of any Indian tribe;
 
-        (2) except as provided in section 13(c), authorize the appropriation or use of water by any Federal, State, or local agency, Indian tribe, or any other entity or individual;
+        (2) except as provided in section 13(c), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  authorize the appropriation or use of water by any Federal, State, or local agency, Indian tribe, or any other entity or individual;
 
-        (3) except as provided in section 13(c), affect the rights or jurisdictions of the United States, the States, Indian tribes or other entities over waters of any river or stream or over any ground water resource or affect or interfere with transportation activities on any such river or stream;
+        (3) except as provided in section 13(c),1 affect the rights or jurisdictions of the United States, the States, Indian tribes or other entities over waters of any river or stream or over any ground water resource or affect or interfere with transportation activities on any such river or stream;
 
-        (4) except as provided in section 13(c), alter, establish, or affect the respective rights of the United States, the States, Indian tribes, or any person with respect to any water or water-related right;
+        (4) except as provided in section 13(c),1 alter, establish, or affect the respective rights of the United States, the States, Indian tribes, or any person with respect to any water or water-related right;
 
         (5) alter, amend, repeal, interpret, modify, or be in conflict with any interstate compact made by the States before November 17, 1986;
 

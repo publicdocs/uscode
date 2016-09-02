@@ -385,7 +385,7 @@
 
             (A) the authority of the Secretary of Agriculture to acquire mineral interests under section 104(e) of the Valles Caldera Preservation Act is transferred to the Secretary and any proceeding for the condemnation of, or payment of compensation for, an outstanding mineral interest pursuant to the transferred authority shall continue;
 
-            (B) the provisions in section 104(g)  <sup>\[2\]</sup>  <sup><sup> 2 Text of section 104(g) is set out below. </sup></sup>  of the Valles Caldera Preservation Act relating to the Pueblo of Santa Clara shall remain in effect; and
+            (B) the provisions in section 104(g)  <sup>\[2\]</sup>  <sup><sup> 2 Text of section 104(g) is set out as a Pueblo of Santa Clara note below. </sup></sup>  of the Valles Caldera Preservation Act relating to the Pueblo of Santa Clara shall remain in effect; and
 
             (C) the Fund shall not be terminated until all amounts in the Fund have been expended by the Secretary.
 
@@ -405,9 +405,9 @@
 
  __References in Text__ 
 
-    The Valles Caldera Preservation Act, referred to in subsecs. (a)(2), (6), (c)(3)(B), and (d), is title I of [Pub. L. 106–248][/us/pl/106/248], July 25, 2000, [114 Stat. 598][/us/stat/114/598], which was classified to sections 698 to 698v–10 of this title, prior to repeal by subsec. (d)(1) of this section. Sections 104 and 106 of the Act were classified to sections 698v–2 and 698v–4 of this title, respectively. For complete classification of this Act to the Code, see Tables.
+    The Valles Caldera Preservation Act, referred to in subsecs. (a)(2), (6), (c)(3)(B), and (d), is title I of [Pub. L. 106–248][/us/pl/106/248], July 25, 2000, [114 Stat. 598][/us/stat/114/598], which was classified to sections 698v to 698v–10 of this title, prior to repeal by subsec. (d)(1) of this section. Sections 104 and 106 of the Act were classified to sections 698v–2 and 698v–4 of this title, respectively. For complete classification of this Act to the Code, see Tables.
 
-    The National Park Service Organic Act ([16 U.S.C. 1][/us/usc/t16/s1] et seq.), referred to in subsec. (b)(3)(A)(ii)(I), is [act Aug. 25, 1916, ch. 408][/us/act/1916-08-25/ch408], [39 Stat. 535][/us/stat/39/535], which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and [section 1457 of Title 43][/us/usc/t43/s1457], Public Lands, and enacted provisions set out as a note under [section 1 of this title][/us/usc/t16/s1]. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18][/us/usc/t18/s1865/a], Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 4(a)(1), 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
+    The National Park Service Organic Act ([16 U.S.C. 1][/us/usc/t16/s1] et seq.), referred to in subsec. (b)(3)(A)(ii)(I), is [act Aug. 25, 1916, ch. 408][/us/act/1916-08-25/ch408], [39 Stat. 535][/us/stat/39/535], which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18][/us/usc/t18/s1865/a], Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 4(a)(1), 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
 
     Act of August 21, 1935 ([16 U.S.C. 461][/us/usc/t16/s461] et seq.), referred to in subsec. (b)(3)(A)(ii)(II), is [act Aug. 21, 1935, ch. 593][/us/act/1935-08-21/ch593], [49 Stat. 666][/us/stat/49/666], known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as [section 1866(a) of Title 18][/us/usc/t18/s1866/a], Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 4(a)(1), 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
 
@@ -417,29 +417,29 @@
 
  __Codification__ 
 
-    In subsec. (b)(3)(C)(ii)(I), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “[section 12(b) of Public Law 91–383][/us/pl/91/383/s12/b] (commonly known as the ‘National Park Service General Authorities Act’) ([16 U.S.C. 1a–7(b)][/us/usc/t16/s1a–7/b])”, meaning “[section 12(b) of Public Law 91–383][/us/pl/91/383/s12/b] (commonly known as the ‘National Park System General Authorities Act’) ([16 U.S.C. 1a–7(b)][/us/usc/t16/s1a–7/b])”, on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (b)(3)(C)(ii)(I), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “[section 12(b) of Public Law 91–383][/us/pl/91/383/s12/b] (commonly known as the ‘National Park Service General Authorities Act’) ([16 U.S.C. 1a–7(b)][/us/usc/t16/s1a–7/b])” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
- __Continuation of Section 104(g) of the Valles Caldera Preservation Act__ 
+ __Pueblo of Santa Clara__ 
 
-Pursuant to subsec. (d)(2)(B) of this section, provisions in section 104(g) of the Valles Caldera Preservation Act, formerly classified to [section 698v–2(g) of this title][/us/usc/t16/s698v–2/g], remain in effect. Section 104(g) of the Act reads as follows:
+[Pub. L. 106–248, title I, § 104(g)][/us/pl/106/248/s104/g], July 25, 2000, [114 Stat. 602][/us/stat/114/602], provided that:
 
->     “(g) __Pueblo of Santa Clara.—__ 
+>     “(1)  __In general__  __.—__ 
 
->         “(1)  __In general__  __.—__ 
+>     The Secretary may assign to the Pueblo of Santa Clara rights to acquire for fair market value portions of the Baca ranch. The portion that may be assigned shall be determined by mutual agreement between the Pueblo and the Secretary based on optimal management considerations for the Preserve including manageable land line locations, public access, and retention of scenic and natural values. All appraisals shall be done in conformity with the Uniform Appraisal Standards for Federal Land Acquisition.
 
->         The Secretary may assign to the Pueblo of Santa Clara rights to acquire for fair market value portions of the Baca ranch. The portion that may be assigned shall be determined by mutual agreement between the Pueblo and the Secretary based on optimal management considerations for the Preserve including manageable land line locations, public access, and retention of scenic and natural values. All appraisals shall be done in conformity with the Uniform Appraisal Standards for Federal Land Acquisition.
+>     “(2)  __Status of land acquired__  __.—__ 
 
->         “(2)  __Status of land acquired__  __.—__ 
+>     As of the date of acquisition, the fee title lands, and any mineral estate underlying such lands, acquired under this subsection by the Pueblo of Santa Clara are deemed transferred into trust in the name of the United States for the benefit of the Pueblo of Santa Clara and such lands and mineral estate are declared to be part of the existing Santa Clara Indian Reservation.
 
->         As of the date of acquisition, the fee title lands, and any mineral estate underlying such lands, acquired under this subsection by the Pueblo of Santa Clara are deemed transferred into trust in the name of the United States for the benefit of the Pueblo of Santa Clara and such lands and mineral estate are declared to be part of the existing Santa Clara Indian Reservation.
+>     “(3)  __Mineral estate__  __.—__ 
 
->         “(3)  __Mineral estate__  __.—__ 
+>     Any mineral estate acquired by the United States pursuant to section 104(e) \[former [16 U.S.C. 698v–2(e)][/us/usc/t16/s698v–2/e]\] underlying fee title lands acquired by the Pueblo of Santa Clara shall not be developed without the consent of the Secretary of the Interior and the Pueblo of Santa Clara.
 
->         Any mineral estate acquired by the United States pursuant to section 104(e) \[former [16 U.S.C. 698v–2(e)][/us/usc/t16/s698v–2/e]\] underlying fee title lands acquired by the Pueblo of Santa Clara shall not be developed without the consent of the Secretary of the Interior and the Pueblo of Santa Clara.
+>     “(4)  __Savings__  __.—__ 
 
->         “(4)  __Savings__  __.—__ 
+>     Any reservations, easements, and covenants contained in an assignment agreement entered into under paragraph (1) shall not be affected by the acquisition of the Baca ranch by the United States, the assumption of management by the Valles Caldera Trust, or the lands acquired by the Pueblo being taken into trust.”
 
->         Any reservations, easements, and covenants contained in an assignment agreement entered into under paragraph (1) shall not be affected by the acquisition of the Baca ranch by the United States, the assumption of management by the Valles Caldera Trust, or the lands acquired by the Pueblo being taken into trust.”
+    \[Pursuant to subsec. (d)(2)(B) of this section, the provisions in section 104(g) of the Valles Caldera Preservation Act, [Pub. L. 106–248][/us/pl/106/248] (formerly [16 U.S.C. 698v–2(g)][/us/usc/t16/s698v–2/g]), set out above, remain in effect, notwithstanding the repeal of [Pub. L. 106–248][/us/pl/106/248] by subsec. (d)(1) of this section.\]
 
 ----------
 
@@ -461,8 +461,7 @@ Pursuant to subsec. (d)(2)(B) of this section, provisions in section 104(g) of t
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/usc/t43/s1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1457
-[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/usc/t18/s1865/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1865%2Fa
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
@@ -483,11 +482,13 @@ Pursuant to subsec. (d)(2)(B) of this section, provisions in section 104(g) of t
 [/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
 [/us/pl/91/383/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F383%2Fs12%2Fb
 [/us/usc/t16/s1a–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937%2Fb
-[/us/pl/91/383/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F383%2Fs12%2Fb
-[/us/usc/t16/s1a–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937%2Fb
 [/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
-[/us/usc/t16/s698v–2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698v%E2%80%932%2Fg
+[/us/pl/106/248/s104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F248%2Fs104%2Fg
+[/us/stat/114/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F602
 [/us/usc/t16/s698v–2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698v%E2%80%932%2Fe
+[/us/pl/106/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F248
+[/us/usc/t16/s698v–2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698v%E2%80%932%2Fg
+[/us/pl/106/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F248
 
 

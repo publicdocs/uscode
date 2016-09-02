@@ -69,7 +69,7 @@
 
 >     “There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act.”
 
-    \[[Pub. L. 113–287, § 5(d)(13)][/us/pl/113/287/s5/d/13], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], which directed amendment of [section 2(b) of Pub. L. 102–220][/us/pl/102/220/s2/b], set out above, by substituting “[section 100506 of title 54][/us/usc/t54/s100506], United States Code” for “section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–9)”, was executed by making the substitution for “section 7 of the Land and Water Conservation Fund Act ([16 U.S.C. 460][/us/usc/t16/s460]l–9)” to reflect the probable intent of Congress.\]
+    \[[Pub. L. 113–287, § 5(d)(13)][/us/pl/113/287/s5/d/13], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], which directed amendment of [section 2(b) of Pub. L. 102–220][/us/pl/102/220/s2/b], set out above, by substituting “[section 100506 of title 54][/us/usc/t54/s100506], United States Code” for “section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–9)”, was executed by making the substitution for “section 7 of the Land and Water Conservation Fund Act ([16 U.S.C. 4601–9][/us/usc/t16/s4601–9])” to reflect the probable intent of Congress.\]
 
 ----------
 
@@ -95,6 +95,6 @@
 [/us/pl/102/220/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F220%2Fs2%2Fb
 [/us/usc/t54/s100506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
-[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/usc/t16/s4601–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4601%E2%80%939
 
 

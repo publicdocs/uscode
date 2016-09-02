@@ -209,7 +209,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–79, § 2601(a)][/us/pl/113/79/s2601/a], added subsec. (a) and struck out former subsec. (a) which authorized the Secretary to use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out programs under subchapter IV for fiscal years 2002 through 2012 generally, and fiscal year 2014 in the case of certain programs.
+    2014—Subsec. (a). [Pub. L. 113–79, § 2601(a)][/us/pl/113/79/s2601/a], added subsec. (a) and struck out former subsec. (a) which authorized the Secretary to use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out programs under subchapter IV for fiscal years 2002 through 2012 generally, and fiscal years 2014 and 2015 in the case of certain programs.
 
     [Pub. L. 113–76, § 750(b)(1)][/us/pl/113/76/s750/b/1], substituted “and (7) and each of fiscal years 2014 and 2015 in the case of the program specified in paragraph (6)),” for “(6), and (7)),” in introductory provisions.
 
@@ -251,7 +251,7 @@
 
     Subsec. (i)(3). [Pub. L. 113–79, § 2605(2)][/us/pl/113/79/s2605/2], (3), redesignated par. (5) as (3), substituted “regional conservation partnership program” for “agricultural water enhancement program” and “3871c(c)(3)” for “3839aa–9(g)”, and struck out former par. (3) which read as follows: “Payments made under the grassland reserve program valued at $250,000 or greater.”
 
-    Subsec. (i)(4). [Pub. L. 113–79, § 2605(2)][/us/pl/113/79/s2605/2], redesigated par. (6) as (4).
+    Subsec. (i)(4). [Pub. L. 113–79, § 2605(2)][/us/pl/113/79/s2605/2], redesignated par. (6) as (4).
 
     Subsec. (i)(5), (6). [Pub. L. 113–79, § 2605(4)][/us/pl/113/79/s2605/4], added pars. (5) and (6).
 

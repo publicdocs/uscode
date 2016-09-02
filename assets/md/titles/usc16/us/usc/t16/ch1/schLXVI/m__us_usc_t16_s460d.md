@@ -43,7 +43,7 @@
 
 [Pub. L. 88–578, title I, § 1(a)][/us/pl/88/578/s1/a], Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], provided in part that: 
 
-> “This Act \[amending this section, repealing former [section 14 of this title][/us/usc/t16/s14], and amending provisions set out as a note under [section 120 of Title 23][/us/usc/t23/s120], Highways\] shall become effective on January 1, 1965.”
+> “This Act \[amending this section, repealing [section 14 of this title][/us/usc/t16/s14], and amending provisions set out as a note under [section 120 of Title 23][/us/usc/t23/s120], Highways\] shall become effective on January 1, 1965.”
 
  __Recreation Policy__ 
 

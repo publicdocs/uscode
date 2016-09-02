@@ -25,33 +25,33 @@
 
             (B) set aside, diverted or otherwise not cultivated under a program administered by the Secretary for any such crops to reduce production of an agricultural commodity.
 
-        (2) __Eligibility based on compliance with conservation plan__ 
+        (2) __Eligibility based on compliance with conservation plan.—__ 
 
-            (A) __In general__ 
+            (A)  __In general__  __.—__ 
 
             If, as of January 1, 1990, or 2 years after the Soil Conservation Service has completed a soil survey for the farm, whichever is later, a person is actively applying a conservation plan, such person shall have until January 1, 1995, to comply with the plan without being subject to program ineligibility.
 
-            (B) __Minimization of documentation__ 
+            (B)  __Minimization of documentation__  __.—__ 
 
             In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.
 
-            (C) __Crop insurance__ 
+            (C) __Crop insurance.—__ 
 
-                (i) __Operations new to compliance__ 
+                (i)  __Operations new to compliance__  __.—__ 
 
                 Notwithstanding [section 3811(a) of this title][/us/usc/t16/s3811/a], in the case of a person that is subject to [section 3811 of this title][/us/usc/t16/s3811] for the first time solely due to the amendment made by section 2611(a) of the Agricultural Act of 2014, any person who produces an agricultural commodity on the land that is the basis of the payments described in [section 3811(a)(1)(E) of this title][/us/usc/t16/s3811/a/1/E] shall have 5 reinsurance years after the date on which such payments become subject to [section 3811 of this title][/us/usc/t16/s3811] to develop and comply with an approved conservation plan so as to maintain eligibility for such payments.
 
-                (ii) __Existing operations with prior violations__ 
+                (ii)  __Existing operations with prior violations__  __.—__ 
 
                 Notwithstanding [section 3811(a) of this title][/us/usc/t16/s3811/a], in the case of a person that the Secretary determines would have been in violation of [section 3811(a) of this title][/us/usc/t16/s3811/a] if the person had continued participation in the programs requiring compliance at any time after February 7, 2014, and is currently in violation of [section 3811(a) of this title][/us/usc/t16/s3811/a], the person shall have 2 reinsurance years after the date on which the payments described in [section 3811(a)(1)(E) of this title][/us/usc/t16/s3811/a/1/E] become subject to [section 3811 of this title][/us/usc/t16/s3811] to develop and comply with an approved conservation plan, as determined by the Secretary, so as to maintain eligibility for such payments.
 
-                (iii) __Applicable reinsurance year__ 
+                (iii)  __Applicable reinsurance year__  __.—__ 
 
                 Ineligibility for the payment described in [section 3811(a)(1)(E) of this title][/us/usc/t16/s3811/a/1/E] for a violation under this subparagraph during a crop year shall—
 
-                (I) only apply to reinsurance years subsequent to the date of a final determination of a violation, including all administrative appeals; and
+                    (I) only apply to reinsurance years subsequent to the date of a final determination of a violation, including all administrative appeals; and
 
-                (II) not apply to the existing reinsurance year or any reinsurance year prior to the date of the final determination.
+                    (II) not apply to the existing reinsurance year or any reinsurance year prior to the date of the final determination.
 
         (3) Any person who owns or operates highly erodible land that was the subject of a contract entered into under subpart B of part I of subchapter IV of this chapter shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person’s conservation plan requires structures to be constructed, the person shall have until 2 years after the expiration of such contract to comply with the conservation plan, or a longer period of time if the Secretary determines compliance is otherwise technically or economically not feasible, or such longer period is otherwise appropriate, before such person will be subject to program ineligibility with respect to such land under [section 3811 of this title][/us/usc/t16/s3811].
 

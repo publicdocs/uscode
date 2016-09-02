@@ -33,6 +33,10 @@
 
     Section was enacted as part of the Coast Guard and Maritime Transportation Act of 2004, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
+ __Termination of Reporting Requirement__ 
+
+    For provision terminating reporting requirement under this section, see [section 4(b) of Pub. L. 111–207][/us/pl/111/207/s4/b], set out as a Combination of Fisheries Enforcement Plans and Foreign Fishing Incursion Reports note under [section 1828 of this title][/us/usc/t16/s1828].
+
 ----------
 
 [Previous](./../../../../..//us/usc/t16/ch38/schIV/m__us_usc_t16_s1861a.md) | [Next](./../../../../..//us/usc/t16/ch38/schIV/m__us_usc_t16_s1862.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1861b)
@@ -42,5 +46,7 @@
 
 [/us/pl/108/293/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs224
 [/us/stat/118/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1040
+[/us/pl/111/207/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207%2Fs4%2Fb
+[/us/usc/t16/s1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1828
 
 

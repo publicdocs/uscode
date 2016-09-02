@@ -25,7 +25,7 @@
 
     Section 698v–1, [Pub. L. 106–248, title I, § 103][/us/pl/106/248/s103], July 25, 2000, [114 Stat. 599][/us/stat/114/599], defined terms in sections 698v to 698v–10 of this title.
 
-    Section 698v–2, [Pub. L. 106–248, title I, § 104][/us/pl/106/248/s104], July 25, 2000, [114 Stat. 600][/us/stat/114/600]; [Pub. L. 109–132, § 2(a)][/us/pl/109/132/s2/a], Dec. 20, 2005, [119 Stat. 2570][/us/stat/119/2570]; [Pub. L. 113–287, § 5(d)(20)][/us/pl/113/287/s5/d/20], Dec. 19, 2014, [128 Stat. 3266][/us/stat/128/3266], related to acquisition of lands. Pursuant to [section 698v–11(d)(2)(B) of this title][/us/usc/t16/s698v–11/d/2/B], subsec. (g) of section 698v–2 remains in effect. For text of subsec. (g), see note under [section 698v–11 of this title][/us/usc/t16/s698v–11].
+    Section 698v–2, [Pub. L. 106–248, title I, § 104][/us/pl/106/248/s104], July 25, 2000, [114 Stat. 600][/us/stat/114/600]; [Pub. L. 109–132, § 2(a)][/us/pl/109/132/s2/a], Dec. 20, 2005, [119 Stat. 2570][/us/stat/119/2570]; [Pub. L. 113–287, § 5(d)(20)][/us/pl/113/287/s5/d/20], Dec. 19, 2014, [128 Stat. 3266][/us/stat/128/3266], related to acquisition of lands. Pursuant to [section 698v–11(d)(2)(B) of this title][/us/usc/t16/s698v–11/d/2/B], subsec. (g) of section 698v–2 remains in effect. For text of subsec. (g), see Pueblo of Santa Clara note under [section 698v–11 of this title][/us/usc/t16/s698v–11].
 
     Section 698v–3, [Pub. L. 106–248, title I, § 105][/us/pl/106/248/s105], July 25, 2000, [114 Stat. 602][/us/stat/114/602], related to establishment and management of Valles Caldera National Preserve.
 
@@ -55,7 +55,7 @@
 
  __Termination of Valles Caldera Trust__ 
 
-    Valles Caldera Trust to terminate 180 days after December 19, 2014, unless Secretary determines that the date be extended to facilitate the transitional management of the Preserve, see [section 698v–11(c)(4)(A) of this title][/us/usc/t16/s698v–11/c/4/A].
+    Valles Caldera Trust to terminate 180 days after Dec. 19, 2014, unless the Secretary of the Interior determines that the date be extended to facilitate the transitional management of the Valles Caldera National Preserve, see [section 698v–11(c)(4)(A) of this title][/us/usc/t16/s698v–11/c/4/A].
 
 ----------
 

@@ -97,7 +97,7 @@
 
  __Amendments__ 
 
-    2014—Pars. (2) to (6). [Pub. L. 113–79][/us/pl/113/79] redesignated pars. (3) to (6) as (2) to (5), respectively, inserted “established under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501][/us/usc/t7/s6501] et seq.)” after “national organic program” in par. (2), and struck out former par. (2). Text read as follows: “The term ‘national organic program’ means the national organic program established under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501][/us/usc/t7/s6501] et. seq.).”
+    2014—Pars. (2) to (6). [Pub. L. 113–79][/us/pl/113/79] redesignated pars. (3) to (6) as (2) to (5), respectively, inserted “established under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501][/us/usc/t7/s6501] et seq.)” after “national organic program” in par. (2), and struck out former par. (2). Text of former par. (2) read as follows: “The term ‘national organic program’ means the national organic program established under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501][/us/usc/t7/s6501] et. seq.).”
 
     2008—[Pub. L. 110–246, § 2502][/us/pl/110/246/s2502], amended section generally. Prior to amendment, section defined “beginning farmer or rancher”, “eligible land”, “land management practice”, “livestock”, “practice”, and “structural practice”.
 

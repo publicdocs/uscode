@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Aug. 24, 1912, ch. 355, § 1][/us/act/1912-08-24/ch355/s1], [37 Stat. 442][/us/stat/37/442]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501], related to vacancies occurring in commissions in charge of parks. See [section 103303 of Title 54][/us/usc/t54/s103303], National Park Service and Related Programs.
+    Section, [act Aug. 24, 1912, ch. 355, § 1][/us/act/1912-08-24/ch355/s1], [37 Stat. 442][/us/stat/37/442]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501], related to vacancies occurring in commissions in charge of parks. Section was restated as [section 103303 of Title 54][/us/usc/t54/s103303], National Park Service and Related Programs, by [Pub. L. 113–287, § 3][/us/pl/113/287/s3], Dec. 19, 2014, [128 Stat. 3166][/us/stat/128/3166].
 
 ----------
 
@@ -31,5 +31,7 @@
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/usc/t54/s103303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs103303
+[/us/pl/113/287/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs3
+[/us/stat/128/3166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3166
 
 

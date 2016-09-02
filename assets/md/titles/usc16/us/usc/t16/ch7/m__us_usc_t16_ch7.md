@@ -171,7 +171,7 @@ SUBCHAPTER III—MIGRATORY BIRD CONSERVATION  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs715b" data-uslm-ref="/us/usc/t16/s715b">715b.</a>  </td>
 
-    <td> Omitted.  </td>
+    <td> Annual report.  </td>
 
   </tr>
 
@@ -475,7 +475,7 @@ SUBCHAPTER IV—HUNTING AND CONSERVATION STAMP TAX  </td>
 
     <td> 
 
-SUBCHAPTERIV–A—PERMANENT ELECTRONIC DUCK STAMP  </td>
+SUBCHAPTER IV–A—PERMANENT ELECTRONIC DUCK STAMP  </td>
 
   </tr>
 

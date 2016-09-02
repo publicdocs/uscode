@@ -91,7 +91,7 @@
 
         (3) __Waiver authority__ 
 
-            To assist in the implementation of the program, the Secretary may waive the applicability of the limitation in [section 1308–3a of title 7][/us/usc/t7/s1308–3a] for participating producers if the Secretary determines that the waiver is necessary to fulfill the objectives of the program.
+            To assist in the implementation of the program, the Secretary may waive the applicability of the limitation in [section 1308–3a(b)(2) of title 7][/us/usc/t7/s1308–3a/b/2] for participating producers if the Secretary determines that the waiver is necessary to fulfill the objectives of the program.
 
 ([Pub. L. 99–198, title XII, § 1271C][/us/pl/99/198/s1271C], as added [Pub. L. 113–79, title II, § 2401][/us/pl/113/79/s2401], Feb. 7, 2014, [128 Stat. 747][/us/stat/128/747].)
 
@@ -107,7 +107,7 @@
 [/us/usc/t16/s3871b/d/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3871b%2Fd%2F3%2FC
 [/us/usc/t16/s3871b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3871b
 [/us/usc/t16/s3871f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3871f
-[/us/usc/t7/s1308–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%933a
+[/us/usc/t7/s1308–3a/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%933a%2Fb%2F2
 [/us/pl/99/198/s1271C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1271C
 [/us/pl/113/79/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2401
 [/us/stat/128/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F747

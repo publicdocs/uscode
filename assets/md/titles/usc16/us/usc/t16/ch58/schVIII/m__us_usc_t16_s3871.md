@@ -31,13 +31,13 @@
 
          To use covered programs to accomplish purposes and functions similar to those of the following programs, as in effect on the day before February 7, 2014:
 
-            (A) The agricultural water enhancement program established under [section 3839aa–9 of this title][/us/usc/t16/s3839aa–9].
+            (A) The agricultural water enhancement program established under section 3839aa–9  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-            (B) The Chesapeake Bay watershed program established under [section 3839bb–4 of this title][/us/usc/t16/s3839bb–4].
+            (B) The Chesapeake Bay watershed program established under section 3839bb–4 1 of this title.
 
-            (C) The cooperative conservation partnership initiative established under [section 3843 of this title][/us/usc/t16/s3843].
+            (C) The cooperative conservation partnership initiative established under section 3843 1 of this title.
 
-            (D) The Great Lakes basin program for soil erosion and sediment control established under [section 3839bb–3 of this title][/us/usc/t16/s3839bb–3].
+            (D) The Great Lakes basin program for soil erosion and sediment control established under section 3839bb–3 1 of this title.
 
         (2) To further the conservation, restoration, and sustainable use of soil, water, wildlife, and related natural resources on eligible land on a regional or watershed scale.
 
@@ -51,6 +51,10 @@
 
 ([Pub. L. 99–198, title XII, § 1271][/us/pl/99/198/s1271], as added [Pub. L. 113–79, title II, § 2401][/us/pl/113/79/s2401], Feb. 7, 2014, [128 Stat. 744][/us/stat/128/744].)
 
+ __References in Text__ 
+
+    Sections 3839aa–9, 3839bb–3, 3839bb–4, and 3843 of this title, referred to in subsec. (b)(1), were repealed by [Pub. L. 113–79, title II][/us/pl/113/79], §§ 2706(a), 2708, 2709(a), 2710(a), Feb. 7, 2014, [128 Stat. 768][/us/stat/128/768], 770.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t16/ch58/schVIII/m__us_usc_t16_ch58_schVIII.md) | [Next](./../../../../..//us/usc/t16/ch58/schVIII/m__us_usc_t16_s3871a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3871)
@@ -58,12 +62,10 @@
 ----------
 ----------
 
-[/us/usc/t16/s3839aa–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839aa%E2%80%939
-[/us/usc/t16/s3839bb–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839bb%E2%80%934
-[/us/usc/t16/s3843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3843
-[/us/usc/t16/s3839bb–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839bb%E2%80%933
 [/us/pl/99/198/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1271
 [/us/pl/113/79/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2401
 [/us/stat/128/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F744
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F768
 
 

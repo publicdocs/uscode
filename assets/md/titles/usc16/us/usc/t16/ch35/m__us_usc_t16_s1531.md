@@ -193,7 +193,7 @@
 
                               Barack Obama.
 
-    \[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657 set out as a note under [section 3021 of Title 50][/us/usc/t50/s3021], War and National Defense.\]
+    \[Reference to the National Security Staff to be understood to refer to the staff of the National Security Council, see Ex. Ord. No. 13657, set out as a note under [section 3021 of Title 50][/us/usc/t50/s3021], War and National Defense.\]
 
 ----------
 

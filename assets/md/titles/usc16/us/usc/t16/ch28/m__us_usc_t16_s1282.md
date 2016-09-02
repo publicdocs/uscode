@@ -41,6 +41,10 @@
 
     The Volunteers in the Forest Act of 1972, referred to in subsec. (b)(2)(A), probably means the Volunteers in the National Forests Act of 1972, [Pub. L. 92–300][/us/pl/92/300], May 18, 1972, [86 Stat. 147][/us/stat/86/147], which is classified generally to section 558a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 558a of this title][/us/usc/t16/s558a] and Tables.
 
+ __Codification__ 
+
+    In subsec. (b)(2)(A), the words “([16 U.S.C. 18g][/us/usc/t16/s18g]–j)” were omitted following “[section 102301 of title 54][/us/usc/t54/s102301]” in view of the amendment by [Pub. L. 113–287, § 5(d)(31)(B)(i)][/us/pl/113/287/s5/d/31/B/i]. See 2014 Amendment note below.
+
  __Amendments__ 
 
     2014—Subsec. (a). [Pub. L. 113–287, § 5(d)(31)(A)][/us/pl/113/287/s5/d/31/A], substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([78 Stat. 897][/us/stat/78/897]”.
@@ -71,6 +75,9 @@
 [/us/pl/92/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F300
 [/us/stat/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F147
 [/us/usc/t16/s558a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs558a
+[/us/usc/t16/s18g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs18g
+[/us/usc/t54/s102301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs102301
+[/us/pl/113/287/s5/d/31/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F31%2FB%2Fi
 [/us/pl/113/287/s5/d/31/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F31%2FA
 [/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897
 [/us/pl/113/287/s5/d/31/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F31%2FB%2Fi

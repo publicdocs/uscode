@@ -91,7 +91,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469k%E2%80%931" data-uslm-ref="/us/usc/t16/s469k–1">469k–1.</a>  </td>
 
-    <td> Repealed or Omitted.  </td>
+    <td> Transferred or Repealed.  </td>
 
   </tr>
 
@@ -107,7 +107,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469" data-uslm-ref="/us/usc/t16/s469">469</a>l–1 to 469l–3.  </td>
 
-    <td> Transferred or Repealed.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -147,7 +147,7 @@ SUBCHAPTER II—NATIONAL HISTORIC PRESERVATION  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470" data-uslm-ref="/us/usc/t16/s470">470</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs470%E2%80%931" data-uslm-ref="/us/usc/t16/s470–1">470–1.</a>  </td>
 
-    <td> Repealed, Transferred, or Omitted.  </td>
+    <td> Transferred, Omitted, or Repealed.  </td>
 
   </tr>
 

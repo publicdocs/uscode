@@ -67,7 +67,7 @@
 
  __References in Text__ 
 
-    The Watershed Protection and Flood Prevention Act, referred to in subsec. (c)(3), is [act Aug. 4, 1954, ch. 656][/us/act/1954-08-04/ch656], [68 Stat. 666][/us/stat/68/666], which is classified generally to chapter 18 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title][/us/usc/t16/s1001] and Tables.
+    The Watershed Protection and Flood Prevention Act, referred to in subsec. (c)(3), is [act Aug. 4, 1954, ch. 656][/us/act/1954-08-04/ch656], [68 Stat. 666][/us/stat/68/666], which is classified principally to chapter 18 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title][/us/usc/t16/s1001] and Tables.
 
 ----------
 

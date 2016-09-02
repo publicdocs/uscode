@@ -155,7 +155,7 @@
 
                 (iii) __Disposition and use of proceeds__ 
 
-                    Any amounts received by the United States under this subparagraph shall be deposited in the fund established under [Public Law 90–171][/us/pl/90/171] (commonly known as the “Sisk Act”; [16 U.S.C. 484a][/us/usc/t16/s484a]) and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
+                    Any amounts received by the United States under this subparagraph shall be deposited in the fund established under [section 484a of this title][/us/usc/t16/s484a] and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
 
             (C) __Surplus of non-Federal land__ 
 
@@ -273,7 +273,7 @@
 
                 (iii) __Land and Water Conservation Fund__ 
 
-                    For purposes of section 460l–9 of this title, the boundaries of a national forest in which land acquired by the Secretary is located shall be deemed to be the boundaries of that forest as in existence on January 1, 1965.
+                    For purposes of sections 100506(c) and 200306 of title 54, the boundaries of a national forest in which land acquired by the Secretary is located shall be deemed to be the boundaries of that forest as in existence on January 1, 1965.
 
             (B) __Land acquired by the Secretary of the Interior__ 
 
@@ -411,7 +411,7 @@
 
         (3) __Sisk Act__ 
 
-            Any payment received by the Secretary from the Town under this subsection shall be deposited in the fund established under [Public Law 90–171][/us/pl/90/171] (commonly known as the “Sisk Act”) ([16 U.S.C. 484a][/us/usc/t16/s484a]) and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
+            Any payment received by the Secretary from the Town under this subsection shall be deposited in the fund established under [section 484a of this title][/us/usc/t16/s484a] and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
 
         (4) __Terms and conditions__ 
 
@@ -467,6 +467,10 @@
 
     The Geothermal Steam Act of 1970, referred to in subsec. (i)(1)(B), is [Pub. L. 91–581][/us/pl/91/581], Dec. 24, 1970, [84 Stat. 1566][/us/stat/84/1566], which is classified principally to chapter 23 (§ 1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 30][/us/usc/t30/s1001] and Tables.
 
+ __Codification__ 
+
+    In subsec. (d)(2)(A)(iii), “sections 100506(c) and 200306 of title 54” substituted for “section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 4601–9][/us/usc/t16/s4601–9]) \[sic\]” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s539o.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s539q.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539p)
@@ -476,13 +480,11 @@
 
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t43/s1716/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1716%2Fb
-[/us/pl/90/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F171
 [/us/usc/t16/s484a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs484a
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/90/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F171
 [/us/usc/t16/s484a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs484a
 [/us/usc/t30/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001
 [/us/usc/t43/s1716/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1716%2Fd
@@ -498,5 +500,8 @@
 [/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1566
 [/us/usc/t30/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001
+[/us/usc/t16/s4601–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4601%E2%80%939
+[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 
 

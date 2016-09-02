@@ -111,7 +111,7 @@
 
  __Codification__ 
 
-    In subsec. (f), “[section 100904 of title 54][/us/usc/t54/s100904]” substituted for “section 4 of the Land and Water Conservation Fund Act of 1965” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (f), “[section 100904 of title 54][/us/usc/t54/s100904]” substituted for “section 4 of the Land and Water Conservation Fund Act of 1965” in two places on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Amendments__ 
 

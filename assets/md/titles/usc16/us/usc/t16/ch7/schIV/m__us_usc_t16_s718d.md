@@ -51,7 +51,7 @@
 
     (d) __Annual report__ 
 
-    The Secretary shall include in each annual report of the Commission under section 3  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Migratory Bird Conservation Act ([16 U.S.C. 715b][/us/usc/t16/s715b])—
+    The Secretary shall include in each annual report of the Commission under section 3 of the Migratory Bird Conservation Act ([16 U.S.C. 715b][/us/usc/t16/s715b])—
 
         (1) a description of activities conducted under subsection (c) in the year covered by the report;
 
@@ -79,7 +79,7 @@
 
  __References in Text__ 
 
-    The Migratory Bird Conservation Act, referred to in subsecs. (b)(2), (3) and (d), is [act Feb. 18, 1929, ch. 257][/us/act/1929-02-18/ch257], [45 Stat. 1222][/us/stat/45/1222], which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. Section 3 of the Act was classified to [section 715b of this title][/us/usc/t16/s715b] and was omitted from the Code. For complete classification of this Act to the Code, see [section 715 of this title][/us/usc/t16/s715] and Tables.
+    The Migratory Bird Conservation Act, referred to in subsec. (b)(2), (3), is [act Feb. 18, 1929, ch. 257][/us/act/1929-02-18/ch257], [45 Stat. 1222][/us/stat/45/1222], which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 715 of this title][/us/usc/t16/s715] and Tables.
 
  __Amendments__ 
 
@@ -176,7 +176,6 @@
 [/us/stat/128/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2939
 [/us/act/1929-02-18/ch257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-18%2Fch257
 [/us/stat/45/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1222
-[/us/usc/t16/s715b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715b
 [/us/usc/t16/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715
 [/us/pl/113/264/s2/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F264%2Fs2%2F3%2FA
 [/us/pl/113/264/s2/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F264%2Fs2%2F3%2FB

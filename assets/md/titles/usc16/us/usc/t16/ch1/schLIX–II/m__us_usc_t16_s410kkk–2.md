@@ -25,7 +25,7 @@
 
     (c) __Cooperative management__ 
 
-        In order to facilitate the presentation of a comprehensive picture of the Lewis and Clark Expedition’s experiences in the lower Columbia River area and to promote more efficient administration of the sites associated with those experiences, the Secretary may enter into cooperative management agreements with appropriate officials in the States of Washington and Oregon in accordance with the authority provided under section 1a–2(l) 1 of this title.
+        In order to facilitate the presentation of a comprehensive picture of the Lewis and Clark Expedition’s experiences in the lower Columbia River area and to promote more efficient administration of the sites associated with those experiences, the Secretary may enter into cooperative management agreements with appropriate officials in the States of Washington and Oregon in accordance with the authority provided under [section 101703 of title 54][/us/usc/t54/s101703].
 
 ([Pub. L. 108–387, title I, § 104][/us/pl/108/387/s104], Oct. 30, 2004, [118 Stat. 2236][/us/stat/118/2236].)
 
@@ -37,7 +37,9 @@
 
     The Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461][/us/usc/t16/s461] et seq.), referred to in subsec. (a), is [act Aug. 21, 1935, ch. 593][/us/act/1935-08-21/ch593], [49 Stat. 666][/us/stat/49/666], known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as [section 1866(a) of Title 18][/us/usc/t18/s1866/a], Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 4(a)(1), 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
 
-    Section 1a–2(l) of this title, referred to in subsec. (c), was repealed and restated in [section 101703 of Title 54][/us/usc/t54/s101703], National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 7, Dec. 19, 2014, [128 Stat. 3136][/us/stat/128/3136], 3272.
+ __Codification__ 
+
+    In subsec. (c), “[section 101703 of title 54][/us/usc/t54/s101703]” substituted for “section 3(l) of [Public Law 91–383][/us/pl/91/383] ([112 Stat. 3522][/us/stat/112/3522]; [16 U.S.C. 1a–2][/us/usc/t16/s1a–2])” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
 ----------
 
@@ -50,6 +52,7 @@
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
+[/us/usc/t54/s101703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs101703
 [/us/pl/108/387/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F387%2Fs104
 [/us/stat/118/2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2236
 [/us/pl/108/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F387
@@ -74,7 +77,10 @@
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/usc/t54/s101703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs101703
-[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
-[/us/stat/128/3136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3136
+[/us/pl/91/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F383
+[/us/stat/112/3522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3522
+[/us/usc/t16/s1a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%932
+[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 
 

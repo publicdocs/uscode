@@ -45,6 +45,10 @@
 
     The Federal Power Act, referred to in subsecs. (a) and (b), is [act June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], [41 Stat. 1063][/us/stat/41/1063], as amended, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title][/us/usc/t16/s791a] and Tables.
 
+ __Codification__ 
+
+    In subsec. (d) text, the words “([78 Stat. 897][/us/stat/78/897]; [16 U.S.C. 460][/us/usc/t16/s460]l–5 et seq.)” were omitted following “chapter 2003 of title 54” in view of the amendment by [Pub. L. 113–287][/us/pl/113/287]. See 2014 Amendment note below.
+
  __Amendments__ 
 
     2014—Subsec. (d). [Pub. L. 113–287][/us/pl/113/287] substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965”.
@@ -106,6 +110,9 @@
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
+[/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897
+[/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/99/590/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590%2Fs505%2Fa

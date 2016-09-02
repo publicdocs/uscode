@@ -29,7 +29,7 @@
 
  __Codification__ 
 
-    This subchapter is comprised of [Pub. L. 102–304][/us/pl/102/304]. [Pub. L. 102–304][/us/pl/102/304] was formerly listed in a table of National Historic Sites set out under [section 320101 of Title 54][/us/usc/t54/s320101], National Park Service and Related Programs.
+    This subchapter is comprised of [Pub. L. 102–304][/us/pl/102/304]. [Pub. L. 102–304][/us/pl/102/304] is also listed in a table of National Historic Sites set out under [section 320101 of Title 54][/us/usc/t54/s320101], National Park Service and Related Programs.
 
  __Short Title__ 
 

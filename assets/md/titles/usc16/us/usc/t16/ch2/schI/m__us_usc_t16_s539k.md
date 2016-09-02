@@ -373,7 +373,7 @@
 
 >         “(1)  __Report to plum creek__  __.—__ 
 
->         No later than 180 days after enactment of this Act \[Oct. 21, 1998\], the Secretary shall complete determinations and consultation under division A of subtitle III of title 54, United States Code, and submit a report to Plum Creek and other consulting parties under the National Historic Preservation Act \[probably should be “division A of subtitle III of title 54”\] listing by exact aliquot part description any parcel or parcels of selected land on which cultural properties have been identified and for which protection, use restrictions or mitigation requirements will be imposed. Such report shall include an exact description of each restriction or mitigation action required.
+>         No later than 180 days after enactment of this Act \[Oct. 21, 1998\], the Secretary shall complete determinations and consultation under division A of subtitle III of title 54, United States Code, and submit a report to Plum Creek and other consulting parties under division A of subtitle III of title 54, United States Code, listing by exact aliquot part description any parcel or parcels of selected land on which cultural properties have been identified and for which protection, use restrictions or mitigation requirements will be imposed. Such report shall include an exact description of each restriction or mitigation action required.
 
 >         “(2)  __Plum creek response__  __.—__ 
 
@@ -435,7 +435,9 @@
 
 >     “The Secretary shall consult with the appropriate Committees of Congress, and local elected officials in the counties in the State of Washington in which the offered lands are located, regarding options to minimize the adverse effect on county revenues of the transfer of the offered lands from private to Federal ownership.”
 
-    \[[Pub. L. 113–287, § 5(d)(14)(A)][/us/pl/113/287/s5/d/14/A], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], which directed substitution of “[section 100506 of title 54][/us/usc/t54/s100506], United States Code,” for “section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–9)” in subsec. (a)(3) of [section 606 of Pub. L. 105–277][/us/pl/105/277/s606], set out above, was executed by making the substitution for “section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 4601–9][/us/usc/t16/s4601–9])” in subsec. (a)(1)(B)(3) of [section 606 of Pub. L. 105–277][/us/pl/105/277/s606], to reflect the probable intent of Congress.\]
+    \[[Pub. L. 113–287, § 5(d)(14)(A)][/us/pl/113/287/s5/d/14/A], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], which directed substitution of “[section 100506 of title 54][/us/usc/t54/s100506], United States Code,” for “section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–9)” in subsec. (a)(3) of section 606 of the Interstate 90 Land Exchange Act of 1998 ([Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e], title VI), was executed by making the substitution for “section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 4601–9][/us/usc/t16/s4601–9])” in subsec. (a)(1)(B)(3) of that section, set out above, to reflect the probable intent of Congress.\]
+
+    \[[Pub. L. 113–287, § 5(d)(14)(C)][/us/pl/113/287/s5/d/14/C], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], which directed substitution of “division A of subtitle III of title 54, United States Code,” for “the National Historic Preservation Act” in subsec. (g)(1) of section 606 of the Interstate 90 Land Exchange Act of 1998 ([Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e], title VI), set out above, was executed by making the substitution in two places in subsec. (g)(1), to reflect the probable intent of Congress.\]
 
 ----------
 
@@ -481,8 +483,10 @@
 [/us/stat/128/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3265
 [/us/usc/t54/s100506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
-[/us/pl/105/277/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs606
+[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
 [/us/usc/t16/s4601–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4601%E2%80%939
-[/us/pl/105/277/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs606
+[/us/pl/113/287/s5/d/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F14%2FC
+[/us/stat/128/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3265
+[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
 
 

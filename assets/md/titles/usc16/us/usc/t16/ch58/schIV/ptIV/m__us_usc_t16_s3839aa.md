@@ -55,7 +55,9 @@
 
     2014—Par. (3). [Pub. L. 113–79, § 2201(1)][/us/pl/113/79/s2201/1], added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    Par. (5). [Pub. L. 113–79, § 2201(2)][/us/pl/113/79/s2201/2], (3), struck out par. (5) which read as follows: “consolidating and streamlining conservation planning and regulatory compliance processes to reduce administrative burdens on producers and the cost of achieving environmental goals.”
+    Par. (4). [Pub. L. 113–79, § 2201(2)][/us/pl/113/79/s2201/2], substituted a period for “; and” at end.
+
+    Par. (5). [Pub. L. 113–79, § 2201(3)][/us/pl/113/79/s2201/3], struck out par. (5) which read as follows: “consolidating and streamlining conservation planning and regulatory compliance processes to reduce administrative burdens on producers and the cost of achieving environmental goals.”
 
     2008—[Pub. L. 110–246, § 2501(a)(1)][/us/pl/110/246/s2501/a/1], inserted “, forest management,” after “agricultural production” in introductory provisions.
 
@@ -73,7 +75,7 @@
 
 [Pub. L. 113–79, title II, § 2208][/us/pl/113/79/s2208], Feb. 7, 2014, [128 Stat. 731][/us/stat/128/731], provided that: 
 
-> “The amendments made by this subtitle \[subtitle C (§§ 2201–2208) of title II of [Pub. L. 113–79][/us/pl/113/79], see Tables for classification\] shall not affect the validity or terms of any contract entered into by the Secretary of Agriculture under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3839aa][/us/usc/t16/s3839aa] et seq.) before the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], or any payments required to be made in connection with the contract.”
+> “The amendments made by this subtitle \[subtitle C (§§ 2201–2208) of title II of [Pub. L. 113–79][/us/pl/113/79], amending this section and sections 3839aa–1 to 3839aa–4, 3839aa–7, and 3839aa–8 of this title\] shall not affect the validity or terms of any contract entered into by the Secretary of Agriculture under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3839aa][/us/usc/t16/s3839aa] et seq.) before the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], or any payments required to be made in connection with the contract.”
 
 ----------
 
@@ -101,6 +103,7 @@
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/113/79/s2201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2201%2F1
 [/us/pl/113/79/s2201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2201%2F2
+[/us/pl/113/79/s2201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2201%2F3
 [/us/pl/110/246/s2501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2501%2Fa%2F1
 [/us/pl/110/246/s2501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2501%2Fa%2F2
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

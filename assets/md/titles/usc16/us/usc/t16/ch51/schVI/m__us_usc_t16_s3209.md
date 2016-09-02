@@ -27,7 +27,7 @@
 
  __References in Text__ 
 
-    Proclamations No. 4611 through 4627, inclusive, of December 1, 1978, referred to in subsec. (a), are Procs. No. 4611 through 4627, Dec. 1, 1978, [93 Stat. 1446–1473][/us/stat/93/1446-1473], which are set out as notes under [section 320301 of Title 54][/us/usc/t54/s320301], National Park Service and Related Programs.
+    Proclamations No. 4611 through 4627, inclusive, of December 1, 1978, referred to in subsec. (a), are Procs. No. 4611 through 4627, Dec. 1, 1978, [93 Stat. 1446–1473][/us/stat/93/1446-1473], which are listed in a table of National Monuments Established Under Presidential Proclamation set out under [section 320301 of Title 54][/us/usc/t54/s320301], National Park Service and Related Programs.
 
     This Act, referred to in text, is [Pub. L. 96–487][/us/pl/96/487], Dec. 2, 1980, [94 Stat. 2371][/us/stat/94/2371], as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t16/s3101] and Tables.
 

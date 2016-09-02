@@ -113,7 +113,7 @@
 
  __Harmful Algal Blooms and Hypoxia Research and Control__ 
 
-    [Pub. L. 108–456, title I, § 102][/us/pl/108/456/s102], Dec. 10, 2004, [118 Stat. 3630][/us/stat/118/3630], formerly set out in part as a note under this section, was transferred to [section 4001a of Title 33][/us/usc/t33/s4001a], Navigation and Navigable Waters.
+    [Pub. L. 108–456, title I, § 102][/us/pl/108/456/s102] (part), Dec. 10, 2004, [118 Stat. 3630][/us/stat/118/3630], formerly set out as a note under this section, was transferred to [section 4001a of Title 33][/us/usc/t33/s4001a], Navigation and Navigable Waters.
 
     [Pub. L. 105–383, title VI][/us/pl/105/383], Nov. 13, 1998, [112 Stat. 3447][/us/stat/112/3447], as amended by [Pub. L. 108–456, title I][/us/pl/108/456], §§ 102–105, Dec. 10, 2004, [118 Stat. 3630–3633][/us/stat/118/3630-3633]; [Pub. L. 110–161, div. B, title V, § 528][/us/pl/110/161/s528], Dec. 26, 2007, [121 Stat. 1930][/us/stat/121/1930], formerly set out as a note under this section, was transferred to chapter 53 (§ 4001 et seq.) of Title 33, Navigation and Navigable Waters.
 

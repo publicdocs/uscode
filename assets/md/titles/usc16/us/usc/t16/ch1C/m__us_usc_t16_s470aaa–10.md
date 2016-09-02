@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to—
 
-    (1) invalidate, modify, or impose any additional restrictions or permitting requirements on any activities permitted at any time under the general mining laws, the mineral or geothermal leasing laws, laws providing for minerals materials disposal, or laws providing for the management or regulation of the activities authorized by the aforementioned laws including but not limited to the Federal Land Policy Management Act ([43 U.S.C. 1701–178][/us/usc/t43/s1701–178]4), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  subchapter 3 of chapter 1007 of title 54, the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1201–135][/us/usc/t30/s1201–135]8) \[[30 U.S.C. 1201][/us/usc/t30/s1201] et seq.\], and the Organic Administration Act ([16 U.S.C. 478][/us/usc/t16/s478], 482, 551);
+    (1) invalidate, modify, or impose any additional restrictions or permitting requirements on any activities permitted at any time under the general mining laws, the mineral or geothermal leasing laws, laws providing for minerals materials disposal, or laws providing for the management or regulation of the activities authorized by the aforementioned laws including but not limited to the Federal Land Policy Management Act ([43 U.S.C. 1701–178][/us/usc/t43/s1701–178]4), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  subchapter 3  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “subchapter III”. </sup></sup>  of chapter 1007 of title 54, the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1201–135][/us/usc/t30/s1201–135]8) \[[30 U.S.C. 1201][/us/usc/t30/s1201] et seq.\], and the Organic Administration Act ([16 U.S.C. 478][/us/usc/t16/s478], 482, 551);
 
     (2) invalidate, modify, or impose any additional restrictions or permitting requirements on any activities permitted at any time under existing laws and authorities relating to reclamation and multiple uses of Federal land;
 
@@ -41,7 +41,7 @@
 
  __Amendments__ 
 
-    2014—Par. (1). [Pub. L. 113–287][/us/pl/113/287] substituted “subchapter 3 of chapter 1007 of title 54” for “[Public Law 94–429][/us/pl/94/429] (commonly known as the ‘Mining in the Parks Act’) ([16 U.S.C. 1901][/us/usc/t16/s1901] et seq.)”.
+    2014—Par. (1). [Pub. L. 113–287][/us/pl/113/287], which directed amendment of par. (1) by substituting “subchapter 3 of chapter 1007 of title 54” for “[Public Law 94–429][/us/pl/94/429] (commonly known as the ‘Mining in the Parks Act’ ([16 U.S.C. 1901][/us/usc/t16/s1901] et seq.)”, was executed by making the substitution for “[Public Law 94–429][/us/pl/94/429] (commonly known as the ‘Mining in the Parks Act’) ([16 U.S.C. 1901][/us/usc/t16/s1901] et seq.)”, to reflect the probable intent of Congress.
 
 ----------
 
@@ -69,6 +69,8 @@
 [/us/stat/30/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F34
 [/us/usc/t16/s473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs473
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/pl/94/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F429
+[/us/usc/t16/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1901
 [/us/pl/94/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F429
 [/us/usc/t16/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1901
 

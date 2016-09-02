@@ -23,7 +23,7 @@
 
  __Prior Provisions__ 
 
-    A prior subpart C, consisting of sections 3838n to 3838q, was redesignated subpart D of this part by [Pub. L. 110–234, title II, § 2301(a)(1)][/us/pl/110/234/s2301/a/1], May 22, 2008, [122 Stat. 1040][/us/stat/122/1040], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2301(a)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1768.
+    A prior subpart C, consisting of sections 3838n to 3838q, was redesignated subpart D of this part by [Pub. L. 110–234, title II, § 2301(a)(1)][/us/pl/110/234/s2301/a/1], May 22, 2008, [122 Stat. 1040][/us/stat/122/1040], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2301(a)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1768, and was subsequently repealed by [Pub. L. 113–79, title II, § 2705(a)][/us/pl/113/79/s2705/a], Feb. 7, 2014, [128 Stat. 768][/us/stat/128/768].
 
 §§ 3838h to 3838j. __Repealed.__  __[__  __Pub. L. 113–79, title II, § 2704(a)__  __][/us/pl/113/79/s2704/a]__  __,__  __Feb. 7, 2014__  __,__  __[__  __128 Stat. 767__  __][/us/stat/128/767]__ 
 
@@ -77,6 +77,8 @@
 [/us/stat/122/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1040
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s2705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2705%2Fa
+[/us/stat/128/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F768
 [/us/pl/113/79/s2704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2704%2Fa
 [/us/stat/128/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F767
 [/us/pl/99/198/s1238H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1238H

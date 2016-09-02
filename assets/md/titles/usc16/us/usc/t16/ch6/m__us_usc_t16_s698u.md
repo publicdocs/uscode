@@ -27,7 +27,7 @@
 
          the study concludes that the Spring Hill Ranch—
 
-            (A) is a nationally significant example of the once vast tallgrass ecosystem, and includes buildings listed on the National Register of Historic Places pursuant to [section 302101 of title 54][/us/usc/t54/s302101] that represent outstanding examples of Second Empire and other 19th Century architectural styles; and
+            (A) is a nationally significant example of the once vast tallgrass ecosystem, and includes buildings listed on the National Register of Historic Places pursuant to section 101 of the National Historic Preservation Act ([16 U.S.C. 470a][/us/usc/t16/s470a])  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  that represent outstanding examples of Second Empire and other 19th Century architectural styles; and
 
             (B) is suitable and feasible as a potential addition to the National Park System; and
 
@@ -55,9 +55,9 @@
 
 ([Pub. L. 104–333, div. I, title X, § 1002][/us/pl/104/333/s1002], Nov. 12, 1996, [110 Stat. 4204][/us/stat/110/4204]; [Pub. L. 106–176, title I, § 122(1)][/us/pl/106/176/s122/1], Mar. 10, 2000, [114 Stat. 29][/us/stat/114/29].)
 
- __Codification__ 
+ __References in Text__ 
 
-    In subsec. (a)(3)(A), “[section 302101 of title 54][/us/usc/t54/s302101]” substituted for “[section 470a of this title][/us/usc/t16/s470a]” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    Section 101 of the National Historic Preservation Act ([16 U.S.C. 470a][/us/usc/t16/s470a]), referred to in subsec. (a)(3)(A), is [section 101 of Pub. L. 89–665][/us/pl/89/665/s101], which was repealed and restated as chapters 3021 to 3027 and sections 302902(a), 302903(a), 302904 to 302909, 303902, 303903, and 306101(b) and (c) of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3272.
 
  __Amendments__ 
 
@@ -76,15 +76,15 @@
 ----------
 ----------
 
-[/us/usc/t54/s302101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs302101
+[/us/usc/t16/s470a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470a
 [/us/pl/104/333/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs1002
 [/us/stat/110/4204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4204
 [/us/pl/106/176/s122/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs122%2F1
 [/us/stat/114/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F29
-[/us/usc/t54/s302101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs302101
 [/us/usc/t16/s470a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470a
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
-[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/pl/89/665/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665%2Fs101
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
 [/us/pl/104/333/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs1001
 [/us/stat/110/4204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4204

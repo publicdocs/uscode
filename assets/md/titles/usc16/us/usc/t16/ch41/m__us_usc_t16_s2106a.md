@@ -41,7 +41,7 @@
 
         In implementing this section, the Secretary shall issue regulations—
 
-            (A) defining the term “person” for the purposes of this section that shall conform, to the extent practicable, to the regulations defining the term “person” issued under [section 1308 of title 7][/us/usc/t7/s1308] (before the amendment made by section 1603(a)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Food, Conservation, and Energy Act of 2008);
+            (A) defining the term “person” for the purposes of this section that shall conform, to the extent practicable, to the regulations defining the term “person” issued under section 1308  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 7 (before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008);
 
             (B) prescribing such rules as the Secretary determines necessary to ensure a fair and reasonable application of the limitations established under this subsection; and
 
@@ -87,7 +87,7 @@
 
  __References in Text__ 
 
-    [Section 1308 of title 7][/us/usc/t7/s1308] (before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008), referred to in subsec. (c)(3)(A), probably means [section 1308 of Title 7][/us/usc/t7/s1308], Agriculture, before the amendment made by section 1603(b)(3)(A) of that Act, [Pub. L. 110–246][/us/pl/110/246], which struck out provisions in [section 1308 of Title 7][/us/usc/t7/s1308] relating to issuance of regulations defining the term “person”.
+    [Section 1308 of title 7][/us/usc/t7/s1308] (before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008), referred to in subsec. (c)(3)(A), means [section 1308 of title 7][/us/usc/t7/s1308] before the amendment made by [section 1603(a) of Pub. L. 110–246][/us/pl/110/246/s1603/a], which amended the definition of “covered commodity” in section 1308(a)(1). [Section 1603(b) of Pub. L. 110–246][/us/pl/110/246/s1603/b] amended section 1308 by, among other things, adding subsec. (a)(4) which defined “person” and striking out subsec. (e) which related to issuance of regulations defining “person”. The amendments made by [section 1603 of Pub. L. 110–246][/us/pl/110/246/s1603] to section 1308 were effective May 22, 2008.
 
     The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (c)(3)(C), is [Pub. L. 95–313][/us/pl/95/313], July 1, 1978, [92 Stat. 365][/us/stat/92/365], as amended, which is classified principally to this chapter (§ 2101 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title][/us/usc/t16/s2101] and Tables.
 
@@ -124,7 +124,6 @@
 ----------
 ----------
 
-[/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
 [/us/usc/t16/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2101
 [/us/usc/t16/s3839aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839aa
 [/us/pl/101/624/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1271
@@ -141,8 +140,9 @@
 [/us/stat/128/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F709
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
-[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
+[/us/pl/110/246/s1603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fa
+[/us/pl/110/246/s1603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fb
+[/us/pl/110/246/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603
 [/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/stat/92/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F365
 [/us/usc/t16/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2101

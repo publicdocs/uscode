@@ -33,7 +33,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–287][/us/pl/113/287] substituted “[section 200306(a) of title 54][/us/usc/t54/s200306/a]” for “section 460l–9(a) of this title”.
+    2014—Subsec. (b). [Pub. L. 113–287][/us/pl/113/287] substituted “[section 200306(a) of title 54][/us/usc/t54/s200306/a]” for “section 460l–9(a) of this title”. Amendment was executed to reflect the probable intent of Congress, notwithstanding error in directory language which misquoted language to be substituted for in original.
 
 ----------
 

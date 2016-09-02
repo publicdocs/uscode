@@ -15,7 +15,7 @@
 
 ## § 2514. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 95–625, title X, § 1015][/us/pl/95/625/s1015], Nov. 10, 1978, [92 Stat. 3544][/us/stat/92/3544]; [Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(M)][/us/pl/104/333/s814/d/1/M], Nov. 12, 1996, [110 Stat. 4196][/us/stat/110/4196], related to sunset and reporting provisions. Subsec. (b), which required annual reports on the innovation grant program, had been previously repealed by [Pub. L. 104–333][/us/pl/104/333].
+    Section, [Pub. L. 95–625, title X, § 1015][/us/pl/95/625/s1015], Nov. 10, 1978, [92 Stat. 3544][/us/stat/92/3544]; [Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(M)][/us/pl/104/333/s814/d/1/M], Nov. 12, 1996, [110 Stat. 4196][/us/stat/110/4196], related to sunset and reporting provisions.
 
 ----------
 
@@ -30,6 +30,5 @@
 [/us/stat/92/3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3544
 [/us/pl/104/333/s814/d/1/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs814%2Fd%2F1%2FM
 [/us/stat/110/4196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4196
-[/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333
 
 

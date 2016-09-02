@@ -25,7 +25,7 @@
 
     (b) __Availability of funds for acquisition of lands, waters, etc.__ 
 
-        Funds made available pursuant to chapter 2003 of title 54, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Comma probably should not appear. </sup></sup>  may be used for the purpose of acquiring lands, waters, or interests therein under subsection (a) of this section.
+        Funds made available pursuant to chapter 2003 of title 54 may be used for the purpose of acquiring lands, waters, or interests therein under subsection (a) of this section.
 
 ([Pub. L. 93–205, § 5][/us/pl/93/205/s5], Dec. 28, 1973, [87 Stat. 889][/us/stat/87/889]; [Pub. L. 95–632, § 12][/us/pl/95/632/s12], Nov. 10, 1978, [92 Stat. 3766][/us/stat/92/3766]; [Pub. L. 113–287, § 5(d)(32)][/us/pl/113/287/s5/d/32], Dec. 19, 2014, [128 Stat. 3267][/us/stat/128/3267].)
 
@@ -39,7 +39,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–287][/us/pl/113/287] substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965, as amended”.
+    2014—Subsec. (b). [Pub. L. 113–287][/us/pl/113/287] substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965, as amended,”.
 
     1978—Subsec. (a). [Pub. L. 95–632][/us/pl/95/632], among other changes in text preceding par. (1), inserted reference to the Secretary of Agriculture with respect to the National Forest System and substituted the establishment and implementation of a plan to conserve plants for the establishment and implementation of a plan to conserve plants which were concluded in Appendices to the Convention.
 

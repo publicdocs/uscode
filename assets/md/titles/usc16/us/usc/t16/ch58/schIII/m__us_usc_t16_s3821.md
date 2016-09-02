@@ -219,6 +219,10 @@
 
 > “This subtitle \[subtitle C (§§ 321–326) of title III of [Pub. L. 104–127][/us/pl/104/127], enacting [section 3823 of this title][/us/usc/t16/s3823], amending this section and [section 3822 of this title][/us/usc/t16/s3822], and repealing former [section 3823 of this title][/us/usc/t16/s3823]\] and the amendments made by this subtitle shall become effective 90 days after the date of enactment of this Act \[Apr. 4, 1996\].”
 
+ __Short Title__ 
+
+    [Pub. L. 99–198, title XII][/us/pl/99/198], subtitle C, Dec. 23, 1985, [99 Stat. 1507][/us/stat/99/1507], which is classified generally to this subchapter, is popularly known as the swampbuster provisions.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t16/ch58/schIII/m__us_usc_t16_ch58_schIII.md) | [Next](./../../../../..//us/usc/t16/ch58/schIII/m__us_usc_t16_s3822.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3821)
@@ -289,5 +293,7 @@
 [/us/usc/t16/s3823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3823
 [/us/usc/t16/s3822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3822
 [/us/usc/t16/s3823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3823
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/stat/99/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1507
 
 

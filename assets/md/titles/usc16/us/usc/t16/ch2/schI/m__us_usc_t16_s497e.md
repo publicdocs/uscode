@@ -45,7 +45,7 @@
 
     Section was formerly set out as a note under [section 497 of this title][/us/usc/t16/s497].
 
-    In subsec. (b), “[section 306109 of title 54][/us/usc/t54/s306109]” substituted for “[section 470h–2(g) of this title][/us/usc/t16/s470h–2/g]” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (b), “[section 306109 of title 54][/us/usc/t54/s306109]” substituted for “section 110(g) of the National Historic Preservation Act ([16 U.S.C. 470h–2(g)][/us/usc/t16/s470h–2/g])” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Amendments__ 
 
@@ -61,9 +61,9 @@
 
     Subsec. (b). [Pub. L. 109–54, § 425(2)][/us/pl/109/54/s425/2], substituted “2006” for “2005”.
 
-    2004—Subsec. (a). [Pub. L. 108–447, § 345(1)][/us/pl/108/447/s345/1], which directed substitution of “2005” for “2004” in part (a), was executed by making the substitution in subsec. (a) to reflect the probable intent of Congress.
+    2004—Subsec. (a). [Pub. L. 108–447, § 345(1)][/us/pl/108/447/s345/1], substituted “2005” for “2004”.
 
-    Subsec. (b). [Pub. L. 108–447, § 345(2)][/us/pl/108/447/s345/2], which directed substitution of “2005” for “2004” in part (b), was executed by making the substitution in subsec. (b) to reflect the probable intent of Congress.
+    Subsec. (b). [Pub. L. 108–447, § 345(2)][/us/pl/108/447/s345/2], substituted “2005” for “2004”.
 
 ----------
 

@@ -201,6 +201,8 @@
 
  __References in Text__ 
 
+    Subchapters I through VIII of this chapter, referred to in subsec. (a), was in the original a reference to subtitles A through I, meaning subtitles A through I of title XII of [Pub. L. 99–198][/us/pl/99/198]. Subtitles A through E and G through I are classified generally to subchapters I through V and VI through VIII of this chapter. Subtitle F of title XII was repealed by [Pub. L. 104–127][/us/pl/104/127]. [Section 3851 of this title][/us/usc/t16/s3851], contained in subchapter V–A, is based on [section 1252 of Pub. L. 99–198][/us/pl/99/198/s1252], which was directed to be added to the previously repealed subtitle F by [Pub. L. 110–246][/us/pl/110/246]. See Codification note set out under [section 3851 of this title][/us/usc/t16/s3851].
+
     This chapter, referred to in subsec. (a)(9), was in the original “this title”, meaning title XII of [Pub. L. 99–198][/us/pl/99/198], which enacted this chapter and former [section 2005a of this title][/us/usc/t16/s2005a] and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under [section 1981 of Title 7][/us/usc/t7/s1981].
 
     The date of enactment of this subparagraph, referred to in subsec. (a)(11)(C), is the date of enactment of [Pub. L. 104–127][/us/pl/104/127], which was approved Apr. 4, 1996.
@@ -262,10 +264,6 @@
 [Pub. L. 101–624, title XIV, § 1401][/us/pl/101/624/s1401], Nov. 28, 1990, [104 Stat. 3568][/us/stat/104/3568], provided that: 
 
 > “This title \[enacting sections 1003a, 1010, 3824, 3830, 3835a, 3837 to 3837f, 3838 to 3838f, 3839 to 3839d, 3846, 3847, 3861, and 3862 of this title and sections 136i–1, 2814, 3130, 5401 to 5403, 5501 to 5506 and 5822 of Title 7, Agriculture, amending this section, sections 590p, 1002, 1003, 3459, 3461, 3811, 3812, 3821 to 3823, 3831, 3832, 3834, 3835, 3836, 3843, and 3845 of this title, and sections 136a, 136a–1, 136d, 136w–3, 450i, and 4202 of Title 7, and enacting provisions set out as notes under this section and sections 2101 and 3831 of this title and sections 136a and 4201 of Title 7\] may be cited as the ‘Conservation Program Improvements Act’.”
-
- __Short Title__ 
-
-    [Pub. L. 99–198, title XII][/us/pl/99/198], Dec. 23, 1985, [99 Stat. 1504][/us/stat/99/1504], which is classified principally to this chapter, is popularly known as the “Sodbuster Law”.
 
  __Regulations__ 
 
@@ -345,15 +343,15 @@
 
 >         “(1) the wetlands reserve program, the farmland protection program, and the farm viability program being merged into the agricultural conservation easement program under the amendment made by section 2301 \[enacting sections 3865 to 3865d of this title and amending [section 3844 of this title][/us/usc/t16/s3844]\];
 
->         “(2) the wildlife habitat incentive program being merged into the environmental quality incentives program under the amendments made by subtitle C \[§ 2201 et seq., amending sections 3839aa to 3839aa–4, 3839aa–7, and 3839aa–8 of this title and enacting provisions set out as a note under [section 3839aa of this title][/us/usc/t16/s3839aa]\];
+>         “(2) the wildlife habitat incentive program being merged into the environmental quality incentives program under the amendments made by subtitle C \[subtitle C (§§ 2201–2208) of title II of [Pub. L. 113–79][/us/pl/113/79], amending sections 3839aa to 3839aa–4, 3839aa–7, and 3839aa–8 of this title\];
 
 >         “(3) the agricultural water enhancement program, the Chesapeake Bay watershed program, the cooperative conservation partnership initiative, and the Great Lakes basin program being merged into the regional conservation partnership program under the amendment made by section 2401 \[enacting sections 3871 to 3871f of this title\]; and
 
->         “(4) the grassland reserve program being merged into the conservation reserve program under the amendments made by subtitle A \[§ 2001 et seq., amending sections 3831, 3831b, and 3832 to 3835 of this title, repealing [section 3835a of this title][/us/usc/t16/s3835a], and enacting provisions set out as a note under [section 3831 of this title][/us/usc/t16/s3831]\] and into the agricultural conservation easement program under the amendment made by section 2301.
+>         “(4) the grassland reserve program being merged into the conservation reserve program under the amendments made by subtitle A \[subtitle A (§§ 2001–2008) of title II of [Pub. L. 113–79][/us/pl/113/79], amending sections 3831, 3831b, and 3832 to 3835 of this title and repealing [section 3835a of this title][/us/usc/t16/s3835a]\] and into the agricultural conservation easement program under the amendment made by section 2301.
 
 >     “(b)  __Interim Administration__  __.—__ 
 
->     Subject to subsection (d), with respect to the implementation of the agricultural conservation easement program under subtitle H of title XII of the Food Security Act of 1985 \[[16 U.S.C. 3865][/us/usc/t16/s3865] et seq.\], as added by section 2301, the amendments to the environmental quality incentives program made by subtitle C, the regional conservation partnership program under subtitle I of title XII of the Food Security Act of 1985 \[[16 U.S.C. 3871][/us/usc/t16/s3871] et seq.\], as added by section 2401, and the amendments to the conservation reserve program made by subtitle A, the Secretary \[of Agriculture\] shall use the regulations in existence as of the day before the date of enactment of this Act \[Feb. 7, 2014\] that are applicable to the wetlands reserve program, the grassland reserve program, the farmland protection program, the farm viability program, the wildlife habitat incentive program, the agricultural water enhancement program, the Chesapeake Bay watershed program, the cooperative conservation partnership initiative, and the Great Lakes basin program repealed by this subtitle \[subtitle H (§ 2701et seq.) of title II of [Pub. L. 113–79][/us/pl/113/79], see Tables for classification\], to the extent that the terms and conditions of such regulations are consistent with—
+>     Subject to subsection (d), with respect to the implementation of the agricultural conservation easement program under subtitle H of title XII of the Food Security Act of 1985 \[[16 U.S.C. 3865][/us/usc/t16/s3865] et seq.\], as added by section 2301, the amendments to the environmental quality incentives program made by subtitle C, the regional conservation partnership program under subtitle I of title XII of the Food Security Act of 1985 \[[16 U.S.C. 3871][/us/usc/t16/s3871] et seq.\], as added by section 2401, and the amendments to the conservation reserve program made by subtitle A, the Secretary \[of Agriculture\] shall use the regulations in existence as of the day before the date of enactment of this Act \[Feb. 7, 2014\] that are applicable to the wetlands reserve program, the grassland reserve program, the farmland protection program, the farm viability program, the wildlife habitat incentive program, the agricultural water enhancement program, the Chesapeake Bay watershed program, the cooperative conservation partnership initiative, and the Great Lakes basin program repealed by this subtitle \[subtitle H (§§ 2701–2713) of title II of [Pub. L. 113–79][/us/pl/113/79], see Tables for classification\], to the extent that the terms and conditions of such regulations are consistent with—
 
 >         “(1) the provisions of the agricultural conservation easement program and the regional conservation partnership program; and
 
@@ -635,6 +633,12 @@
 [/us/pl/113/79/s2713/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2713%2Fa
 [/us/stat/128/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F772
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/usc/t16/s3851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3851
+[/us/pl/99/198/s1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1252
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/usc/t16/s3851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3851
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t16/s2005a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2005a
 [/us/usc/t7/s1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1981
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
@@ -672,8 +676,6 @@
 [/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
 [/us/pl/101/624/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1401
 [/us/stat/104/3568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3568
-[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
-[/us/stat/99/1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1504
 [/us/pl/110/234/s2904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2904
 [/us/stat/122/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1091
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
@@ -691,9 +693,9 @@
 [/us/pl/113/79/s2712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2712
 [/us/stat/128/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F771
 [/us/usc/t16/s3844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3844
-[/us/usc/t16/s3839aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839aa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t16/s3835a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3835a
-[/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
 [/us/usc/t16/s3865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3865
 [/us/usc/t16/s3871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3871
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79

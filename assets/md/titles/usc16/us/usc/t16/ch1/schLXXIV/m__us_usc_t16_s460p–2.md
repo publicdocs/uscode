@@ -35,7 +35,7 @@
 
  __Codification__ 
 
-    In subsec. (a), “sections 100506(c) and 200306 of title 54” substituted for “[section 6 of the Act of September 3, 1964][/us/act/1964-09-03/s6] ([78 Stat. 897][/us/stat/78/897], 903)” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (a), “sections 100506(c) and 200306 of title 54” substituted for “[section 6 of the Act of September 3, 1964][/us/act/1964-09-03/s6] ([78 Stat. 897][/us/stat/78/897], 903)” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs. Section 6 of act Sept. 3, 1964, [Pub. L. 88–578][/us/pl/88/578], had been renumbered section 7 by [Pub. L. 92–347, § 2][/us/pl/92/347/s2], July 11, 1972, [86 Stat. 459][/us/stat/86/459].
 
 ----------
 
@@ -52,5 +52,8 @@
 [/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897
 [/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
+[/us/pl/88/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578
+[/us/pl/92/347/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F347%2Fs2
+[/us/stat/86/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F459
 
 

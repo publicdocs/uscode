@@ -27,6 +27,8 @@
 
     For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, [64 Stat. 1262][/us/stat/64/1262], set out in the Appendix to Title 5, Government Organization and Employees.
 
+    Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t16/ch1/schLXIII/m__us_usc_t16_s459a–2.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXIII/m__us_usc_t16_s459a–4.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459a%E2%80%933)

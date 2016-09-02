@@ -23,7 +23,7 @@
 
     Sections 251e to 251m of this title, the first three times appearing in text, was in the original “this Act” and, where last appearing, was in the original “this title”, meaning [Pub. L. 94–578][/us/pl/94/578] and title III of [Pub. L. 94–578][/us/pl/94/578], respectively.
 
-    Act of October 9, 1965, referred to in text, is [Pub. L. 89–249][/us/pl/89/249], Oct. 9, 1965, [79 Stat. 969][/us/stat/79/969], known as the National Park System Concessions Policy Act, which was classified generally to subchapter IV (§ 20 et seq.) of this chapter, prior to repeal by [Pub. L. 105–391, title IV, § 415(a)][/us/pl/105/391/s415/a], Nov. 13, 1998, [112 Stat. 3515][/us/stat/112/3515].
+    The Act of October 9, 1965 ([79 Stat. 969][/us/stat/79/969]), referred to in text, is [Pub. L. 89–249][/us/pl/89/249], Oct. 9, 1965, [79 Stat. 969][/us/stat/79/969], known as the National Park System Concessions Policy Act, which enacted subchapter IV (§ 20 et seq.) of this chapter and amended [section 462 of this title][/us/usc/t16/s462], prior to being repealed by [Pub. L. 105–391, title IV, § 415(a)][/us/pl/105/391/s415/a], Nov. 13, 1998, [112 Stat. 3515][/us/stat/112/3515].
 
 ----------
 
@@ -37,8 +37,10 @@
 [/us/stat/90/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2739
 [/us/pl/94/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578
 [/us/pl/94/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578
+[/us/stat/79/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F969
 [/us/pl/89/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F249
 [/us/stat/79/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F969
+[/us/usc/t16/s462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs462
 [/us/pl/105/391/s415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F391%2Fs415%2Fa
 [/us/stat/112/3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3515
 

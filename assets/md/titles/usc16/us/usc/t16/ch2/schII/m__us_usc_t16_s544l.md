@@ -133,7 +133,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (e)(3)(D)(iii). [Pub. L. 113–287][/us/pl/113/287] substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–4 through 11)”.
+    2014—Subsec. (e)(3)(D)(iii). [Pub. L. 113–287][/us/pl/113/287], which directed amendment of subsec. (e)(3)(D)(iii) by substituting “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–4 through 11)”, was executed by making the substitution for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 4601–4][/us/usc/t16/s4601–4] through 11)”, to reflect the probable intent of Congress.
 
     2000—Subsec. (c)(3). [Pub. L. 106–291][/us/pl/106/291] inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Except as provided in subparagraph (B), no payment” for “No payment”, substituted “eighth full fiscal year” for “fifth full fiscal year”, and added subpar. (B).
 
@@ -192,6 +192,7 @@
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/usc/t16/s4601–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4601%E2%80%934
 [/us/pl/106/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291
 
 

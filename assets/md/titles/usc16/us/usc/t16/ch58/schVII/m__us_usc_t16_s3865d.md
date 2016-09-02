@@ -83,7 +83,7 @@
 
  __References in Text__ 
 
-    The Agricultural Act of 2014, referred to in subsec. (d)(2), is [Pub. L. 113–79][/us/pl/113/79], Feb. 7, 2014, [128 Stat. 649][/us/stat/128/649]. Subtitle H of title II of the Act, is subtitle H (§§ 2701–2713) of title II of [Pub. L. 113–79][/us/pl/113/79]. For complete classification of subtitle H to the Code, see Tables.
+    The Agricultural Act of 2014, referred to in subsec. (d)(2), is [Pub. L. 113–79][/us/pl/113/79], Feb. 7, 2014, [128 Stat. 649][/us/stat/128/649]. Subtitle H (§§ 2701–2713) of title II of the Act amended sections 3801, 3811, and 3842 of this title, repealed sections 3830, 3831a, 3837 to 3837f, 3838h to 3838j, 3838n to 3838q, 3839 to 3839d, 3839aa–9, 3839bb–1, 3839bb–3, and 3839bb–4 of this title, and enacted provisions set out as notes under sections 3801, 3831a, 3837, 3838h, 3838n, 3839aa–9, 3839bb–1, 3839bb–4, and 3843 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9001 of Title 7][/us/usc/t7/s9001], Agriculture, and Tables.
 
 ----------
 
@@ -98,6 +98,6 @@
 [/us/stat/128/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F742
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F649
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/usc/t7/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9001
 
 

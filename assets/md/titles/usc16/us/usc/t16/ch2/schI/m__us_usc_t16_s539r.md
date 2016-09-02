@@ -81,7 +81,7 @@
 
                      in the case of land managed by the Forest Service—
 
-                        (aa) the Act of March 1, 1911 (commonly known as the “Weeks Law”); and
+                        (aa) the Act of March 1, 1911 (commonly known as the “Weeks Law”) ([16 U.S.C. 552][/us/usc/t16/s552] et seq.); and
 
                         (bb) any laws (including regulations) applicable to the National Forest System;
 
@@ -193,11 +193,21 @@
 
     (c) __Designation of wilderness additions__ 
 
-        (1) __Omitted__ 
+        (1) __In general__ 
+
+        In accordance with the Wilderness Act ([16 U.S.C. 1131][/us/usc/t16/s1131] et seq.), the following Federal land in the State is designated as wilderness and as additions to existing components of the National Wilderness Preservation System:
+
+            (A) __Bob Marshall Wilderness__ 
+
+                Certain land in the Lewis and Clark National Forest, comprising approximately 50,401 acres, as generally depicted on the map, which shall be added to and administered as part of the Bob Marshall Wilderness designated under section 3 of the Wilderness Act ([16 U.S.C. 1132][/us/usc/t16/s1132]).
+
+            (B) __Scapegoat Wilderness__ 
+
+                Certain land in the Lewis and Clark National Forest, comprising approximately 16,711 acres, as generally depicted on the map, which shall be added to and administered as part of the Scapegoat Wilderness designated by the first section of [Public Law 92–395][/us/pl/92/395] ([16 U.S.C. 1132][/us/usc/t16/s1132] note).
 
         (2) __Management of wilderness additions__ 
 
-            Subject to valid existing rights, the land designated as wilderness additions by paragraph (1)  <sup>\[1\]</sup>  <sup><sup> 1 See Codification note below. </sup></sup>  shall be administered by the Secretary in accordance with the Wilderness Act ([16 U.S.C. 1131][/us/usc/t16/s1131] et seq.), except that any reference in that Act to the effective date of that Act shall be deemed to be a reference to December 19, 2014.
+            Subject to valid existing rights, the land designated as wilderness additions by paragraph (1) shall be administered by the Secretary in accordance with the Wilderness Act ([16 U.S.C. 1131][/us/usc/t16/s1131] et seq.), except that any reference in that Act to the effective date of that Act shall be deemed to be a reference to December 19, 2014.
 
         (3) __Livestock__ 
 
@@ -321,17 +331,15 @@
 
  __References in Text__ 
 
-    Act of March 1, 1911, referred to in subsec. (b)(1)(C)(ii)(I)(aa), is [act Mar. 1, 1911, ch. 186][/us/act/1911-03-01/ch186], [36 Stat. 961][/us/stat/36/961], popularly known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title][/us/usc/t16/s552] and Tables.
+    The Act of March 1, 1911, referred to in subsec. (b)(1)(C)(ii)(I)(aa), is [act Mar. 1, 1911, ch. 186][/us/act/1911-03-01/ch186], [36 Stat. 961][/us/stat/36/961], popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of this title][/us/usc/t16/s552] and Tables.
 
     The Federal Land Policy and Management Act of 1976, referred to in subsec. (b)(1)(C)(ii)(II), (3)(A)(ii)(II), is [Pub. L. 94–579][/us/pl/94/579], Oct. 21, 1976, [90 Stat. 2743][/us/stat/90/2743], which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43][/us/usc/t43/s1701] and Tables.
 
-    The Wilderness Act, referred to in subsec. (c)(2), is [Pub. L. 88–577][/us/pl/88/577], Sept. 3, 1964, [78 Stat. 890][/us/stat/78/890], which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title][/us/usc/t16/s1131] and Tables.
+    The Wilderness Act, referred to in subsec. (c)(1), (2), is [Pub. L. 88–577][/us/pl/88/577], Sept. 3, 1964, [78 Stat. 890][/us/stat/78/890], which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title][/us/usc/t16/s1131] and Tables.
+
+    The first section of [Public Law 92–395][/us/pl/92/395], referred to in subsec. (c)(1)(B), enacted provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132].
 
     The Noxious Weed Control and Eradication Act of 2004, referred to in subsec. (e)(2)(E), is subtitle E (§§451–457) of title IV of [Pub. L. 106–224][/us/pl/106/224], as added by [Pub. L. 108–412][/us/pl/108/412], §1, Oct. 30, 2004, [118 Stat. 2320][/us/stat/118/2320], which is classified generally to subchapter V (§ 7781 et seq.) of chapter 104 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of Title 7][/us/usc/t7/s7701] and Tables.
-
- __Codification__ 
-
-    Section is comprised of [section 3065 of Pub. L. 113–291][/us/pl/113/291/s3065]. Subsec. (c)(1) of [section 3065 of Pub. L. 113–291][/us/pl/113/291/s3065] amended provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132].
 
 ----------
 
@@ -340,8 +348,13 @@
 ----------
 ----------
 
+[/us/usc/t16/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs552
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
+[/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
+[/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
+[/us/pl/92/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F395
+[/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/usc/t16/s1133/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1133%2Fd%2F4
 [/us/usc/t16/s1133/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1133%2Fd%2F1
@@ -360,12 +373,11 @@
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
+[/us/pl/92/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F395
+[/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 [/us/pl/106/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224
 [/us/pl/108/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F412
 [/us/stat/118/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2320
 [/us/usc/t7/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7701
-[/us/pl/113/291/s3065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3065
-[/us/pl/113/291/s3065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3065
-[/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 
 

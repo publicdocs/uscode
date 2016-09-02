@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s65.md) | [Next](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s79.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs78)
 
-## § 78. Detail of troops to Sequoia and Yosemite Parks
+## § 78. Detail of troops to Sequoia, Yosemite, and General Grant Parks
 
     The Secretary of the Army, upon the request of the Secretary of the Interior, is authorized and directed to make the necessary detail of troops to prevent trespassers or intruders from entering the Sequoia National Park, the Yosemite National Park, and the General Grant National Park, respectively, in California, for the purpose of destroying the game or objects of curiosity therein, or for any other purpose prohibited by law or regulation for the government of said reservations, and to remove such persons from said parks if found therein.
 

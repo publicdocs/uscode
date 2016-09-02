@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 111–11, title VII, § 7301][/us/pl/111/11/s7301], Mar. 30, 2009, [123 Stat. 1213][/us/stat/123/1213]; [Pub. L. 113–76, div. G, title IV, § 429][/us/pl/113/76/s429], Jan. 17, 2014, [128 Stat. 345][/us/stat/128/345], which related to the American Battlefield Protection Program, was transferred in part and repealed in part. Subsec. (a) was transferred and is set out as a note under [section 308101 of Title 54][/us/usc/t54/s308101], National Park Service and Related Programs. Subsecs. (b) and (c) were repealed and restated in sections 308101 to 308103 of Title 54.
+    Section, [Pub. L. 111–11, title VII, § 7301][/us/pl/111/11/s7301], Mar. 30, 2009, [123 Stat. 1213][/us/stat/123/1213]; [Pub. L. 113–76, div. G, title IV, § 429][/us/pl/113/76/s429], Jan. 17, 2014, [128 Stat. 345][/us/stat/128/345]; [Pub. L. 113–235, div. F, title IV, § 421][/us/pl/113/235/s421], Dec. 16, 2014, [128 Stat. 2449][/us/stat/128/2449], which related to the American Battlefield Protection Program, was transferred in part and repealed in part. Subsec. (a) was transferred and is set out as a note under [section 308101 of Title 54][/us/usc/t54/s308101], National Park Service and Related Programs. Subsecs. (b) and (c) were repealed and restated in sections 308101 to 308103 of Title 54 by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3272, which act enacted Title 54.
 
 ----------
 
@@ -30,6 +30,10 @@
 [/us/stat/123/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1213
 [/us/pl/113/76/s429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs429
 [/us/stat/128/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F345
+[/us/pl/113/235/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs421
+[/us/stat/128/2449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2449
 [/us/usc/t54/s308101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs308101
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 
 

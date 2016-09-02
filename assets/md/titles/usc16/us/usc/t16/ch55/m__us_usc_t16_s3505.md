@@ -91,7 +91,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(6)(C). [Pub. L. 113–287][/us/pl/113/287], which directed the substitution of “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–4 through 11)” in section 6(a)(6)(C) of the Coastal Barrier Act of 1968, was executed to this section, which is section 6 of the Coastal Barrier Resources Act, to reflect the probable intent of Congress.
+    2014—Subsec. (a)(6)(C). [Pub. L. 113–287][/us/pl/113/287], which directed the substitution of “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–4 through 11)” in section 6(a)(6)(C) of the Coastal Barrier Act of 1968, was executed by making the substitution for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 4601–4][/us/usc/t16/s4601–4] through 11)” in this section, which is section 6 of the Coastal Barrier Resources Act, to reflect the probable intent of Congress.
 
     1990—[Pub. L. 101–591][/us/pl/101/591] amended section generally, substituting substantially similar provisions in subsec. (a), substituting “a Federal navigation channel or a related structure is an existing channel or structure, respectively, if it was authorized before the date on which the relevant System unit or portion of the System unit was included within the System” for “a channel improvement or a related structure shall be treated as an existing improvement or an existing related structure only if all, or a portion, of the moneys for such improvement or structure was appropriated before October 18, 1982” in subsec. (b), and adding subsecs. (c) and (d).
 
@@ -138,6 +138,7 @@
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
+[/us/usc/t16/s4601–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4601%E2%80%934
 [/us/pl/101/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

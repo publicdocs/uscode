@@ -59,7 +59,7 @@
 
 [Pub. L. 104–127, title III, § 333(f)][/us/pl/104/127/s333/f], Apr. 4, 1996, [110 Stat. 996][/us/stat/110/996], provided that: 
 
-> “The amendments made by this section \[amending this section and sections 3837a and 3837c of this title\] shall not affect the validity or terms of any agreements entered into by the Secretary of Agriculture under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (\[former\] [16 U.S.C. 3837][/us/usc/t16/s3837] et seq.) before the date of enactment of this Act \[Apr. 4, 1996\] or any payments required to be made in connection with the agreements.”
+> “The amendments made by this section \[amending former sections 3837, 3837a, and 3837c of this title\] shall not affect the validity or terms of any agreements entered into by the Secretary of Agriculture under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (\[former\] [16 U.S.C. 3837][/us/usc/t16/s3837] et seq.) before the date of enactment of this Act \[Apr. 4, 1996\] or any payments required to be made in connection with the agreements.”
 
 ----------
 
