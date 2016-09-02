@@ -87,57 +87,63 @@
 
                       <tr>
 
-                        <td>  If the participant’s age  </td>
+                        <td> 
 
-                        <td> The  </td>
+                      If the participant’s age as of the
 
-  </tr>
+                       beginning of the year is—  </td>
 
-                      <tr>
+                        <td> 
 
-                        <td>   as of the beginning  </td>
-
-                        <td> percentage  </td>
+                    The percentage is—  </td>
 
   </tr>
 
                       <tr>
 
-                        <td>   of the year is—  </td>
+                        <td> 
 
-                        <td> is—  </td>
+                    30 or less  </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
-
-                        <td> 30 or less  </td>
-
-                        <td> 2       </td>
+                    2    </td>
 
   </tr>
 
                       <tr>
 
-                        <td> Over 30 but less than 40  </td>
+                        <td> 
 
-                        <td> 4       </td>
+                    Over 30 but less than 40  </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
-
-                        <td> 40 or over but less than 50  </td>
-
-                        <td> 6       </td>
+                    4    </td>
 
   </tr>
 
                       <tr>
 
-                        <td> 50 or over  </td>
+                        <td> 
 
-                        <td> 8.     </td>
+                    40 or over but less than 50  </td>
+
+                        <td> 
+
+                    6    </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> 
+
+                    50 or over  </td>
+
+                        <td> 
+
+                    8.  </td>
 
   </tr>
 

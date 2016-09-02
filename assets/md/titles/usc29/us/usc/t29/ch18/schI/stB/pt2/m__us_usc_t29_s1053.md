@@ -35,57 +35,73 @@
 
                   <tr>
 
-                    <td>    </td>
+                    <td> 
 
-                    <td> The nonforfeitable  </td>
+                 Years of service:  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   Years of service:  </td>
-
-                    <td> percentage is:  </td>
+                The nonforfeitable percentage is:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 3  </td>
+                    <td> 
 
-                    <td> 20       </td>
+                3  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> 4  </td>
-
-                    <td> 40       </td>
+                20    </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 5  </td>
+                    <td> 
 
-                    <td> 60       </td>
+                4  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> 6  </td>
-
-                    <td> 80       </td>
+                40    </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 7 or more  </td>
+                    <td> 
 
-                    <td> 100.     </td>
+                5  </td>
+
+                    <td> 
+
+                60    </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                6  </td>
+
+                    <td> 
+
+                80    </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                7 or more  </td>
+
+                    <td> 
+
+                100.  </td>
 
   </tr>
 
@@ -103,57 +119,73 @@
 
                   <tr>
 
-                    <td>    </td>
+                    <td> 
 
-                    <td> The nonforfeitable  </td>
+                 Years of service:  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   Years of service:  </td>
-
-                    <td> percentage is:  </td>
+                The nonforfeitable percentage is:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 2  </td>
+                    <td> 
 
-                    <td> 20       </td>
+                2  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> 3  </td>
-
-                    <td> 40       </td>
+                20    </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 4  </td>
+                    <td> 
 
-                    <td> 60       </td>
+                3  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> 5  </td>
-
-                    <td> 80       </td>
+                40    </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 6 or more  </td>
+                    <td> 
 
-                    <td> 100.     </td>
+                4  </td>
+
+                    <td> 
+
+                60    </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                5  </td>
+
+                    <td> 
+
+                80    </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                6 or more  </td>
+
+                    <td> 
+
+                100.  </td>
 
   </tr>
 
